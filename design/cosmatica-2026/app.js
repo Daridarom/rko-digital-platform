@@ -4,6 +4,9 @@
     noosphere: { cls: 'theme-noosphere', label: 'НООСФЕРА · вариант 2', color: '#050711' },
     institute: { cls: 'theme-institute', label: 'КОСМИЧЕСКИЙ ИНСТИТУТ · вариант 3', color: '#f1ede3' }
   };
+  document.querySelectorAll('[data-theme="synthesis"] span').forEach(el => el.textContent = 'Орбита 2');
+  document.querySelectorAll('[data-theme="synthesis"]').forEach(el => el.setAttribute('aria-label', 'Вариант 4 — Орбита 2'));
+
   const params = new URLSearchParams(location.search);
   const requested = params.get('theme');
   if (requested === 'synthesis') {
