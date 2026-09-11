@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "api/pdf.js": { "maxDuration": 60 }
+  },
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
+      ]
+    }
+  ]
+}
