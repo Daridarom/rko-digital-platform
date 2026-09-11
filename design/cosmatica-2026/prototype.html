@@ -5,11 +5,40 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="color-scheme" content="light dark">
   <meta name="theme-color" content="#080a2e">
-  <title>Cosmatica 2026 — прототип</title>
+  <title>Косматика 2026 — вариант оформления РКО</title>
+  <meta name="description" content="Четыре варианта современного оформления портала Русского космического общества — Орбита, Ноосфера, Космический институт и Синтез.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ru_RU">
+  <meta property="og:title" content="Косматика 2026 — четыре варианта оформления РКО">
+  <meta property="og:description" content="Сравните четыре варианта обновления портала Русского космического общества. Рекомендуемый вариант — «Синтез».">
+  <meta property="og:url" content="https://daridarom.github.io/rko-digital-platform/design/cosmatica-2026/">
+  <meta property="og:image" content="https://daridarom.github.io/rko-digital-platform/design/cosmatica-2026/assets/social-preview.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Косматика 2026 — четыре варианта дизайна Русского космического общества">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Косматика 2026 — четыре варианта оформления РКО">
+  <meta name="twitter:description" content="Орбита, Ноосфера, Космический институт и Синтез — сравнение вариантов обновления портала РКО.">
+  <meta name="twitter:image" content="https://daridarom.github.io/rko-digital-platform/design/cosmatica-2026/assets/social-preview.png">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="compare.css">
 </head>
-<body class="theme-orbit">
+<body class="theme-synthesis">
   <a class="skip-link" href="#content">К содержанию</a>
+  <nav class="review-bar" aria-label="Сравнение вариантов оформления">
+    <div class="review-bar__inner">
+      <a class="review-home" href="index.html"><span class="review-home__arrow">←</span><span class="review-home__long">Все варианты</span></a>
+      <span class="review-title">Сравнить оформление</span>
+      <div class="review-tabs">
+        <button type="button" data-theme="orbit" aria-label="Вариант A — Орбита"><b>A</b><span>Орбита</span></button>
+        <button type="button" data-theme="noosphere" aria-label="Вариант B — Ноосфера"><b>B</b><span>Ноосфера</span></button>
+        <button type="button" data-theme="institute" aria-label="Вариант C — Космический институт"><b>C</b><span>Институт</span></button>
+        <button type="button" data-theme="synthesis" aria-label="Вариант D — Синтез"><b>D</b><span>Синтез</span></button>
+      </div>
+    </div>
+  </nav>
   <div class="scroll-progress" id="scrollProgress" aria-hidden="true"></div>
   <div class="ambient" aria-hidden="true"></div>
   <div class="stars" aria-hidden="true"></div>
@@ -21,7 +50,7 @@
         <span class="brand-copy"><strong>Русское космическое общество</strong><small>Наука · культура · проекты · будущее</small></span>
       </a>
       <div class="header-actions">
-        <button class="quick-search" type="button" data-open-palette aria-haspopup="dialog"><span>Поиск</span><kbd>⌘ K</kbd></button>
+        <button class="quick-search" type="button" data-open-palette aria-haspopup="dialog"><span>Поиск</span><kbd>⌘/Ctrl K</kbd></button>
         <a class="text-link" href="https://cosmatica.org/auth/login" target="_blank" rel="noopener">Войти</a>
         <a class="button button-small" href="https://cosmatica.org/o-vstuplenii-v-rjady-rko.html" target="_blank" rel="noopener">Присоединиться</a>
       </div>
@@ -41,7 +70,7 @@
   <main id="content">
     <section class="hero shell" id="top">
       <div class="hero-copy">
-        <p class="eyebrow">ОФИЦИАЛЬНЫЙ ПОРТАЛ РКО · КОНЦЕПТ 2026</p>
+        <p class="eyebrow">ОФИЦИАЛЬНЫЙ ПОРТАЛ РКО · ПРОЕКТ 2026</p>
         <h1>Человек.<br>Земля.<br><span>Космос.</span></h1>
         <p class="lead">Пространство Русского космического общества для людей, знаний и проектов, которые соединяют научную мысль, культуру, образование и образ будущего.</p>
         <div class="hero-actions">
@@ -172,14 +201,6 @@
       <div><b>Связь</b><a href="https://vk.com/cosmatica">VK</a><a href="https://t.me/RKO_cosmatica">Telegram</a><a href="https://cosmatica.org/about/contacts">Контакты</a></div>
     </div>
   </footer>
-
-  <div class="theme-dock" aria-label="Переключатель вариантов дизайна">
-    <span>Дизайн</span>
-    <button data-theme="orbit" aria-label="Вариант Орбита">A</button>
-    <button data-theme="noosphere" aria-label="Вариант Ноосфера">B</button>
-    <button data-theme="institute" aria-label="Вариант Космический институт">C</button>
-  </div>
-  <div class="prototype-badge" id="prototypeBadge">ОРБИТА · вариант A</div>
 
   <dialog class="command-palette" id="commandPalette" aria-label="Быстрый поиск по разделам РКО">
     <form class="palette-shell" action="https://cosmatica.org/search" method="get" target="_blank">
