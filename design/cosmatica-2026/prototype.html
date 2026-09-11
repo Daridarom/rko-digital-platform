@@ -2,42 +2,47 @@
 <html lang="ru">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="color-scheme" content="light">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#080a2e">
   <title>Cosmatica 2026 — прототип</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body class="theme-orbit">
+  <a class="skip-link" href="#content">К содержанию</a>
+  <div class="scroll-progress" id="scrollProgress" aria-hidden="true"></div>
   <div class="ambient" aria-hidden="true"></div>
+  <div class="stars" aria-hidden="true"></div>
+
   <header class="site-header">
     <div class="topline shell">
       <a class="brand" href="#top" aria-label="Русское космическое общество">
-        <span class="brand-mark">РКО</span>
+        <span class="brand-emblem"><img src="https://cosmatica.org/upload/000/u7/3/5/bezymjannyi.jpg" alt="Герб Русского Космического Общества — «Прорыв»"></span>
         <span class="brand-copy"><strong>Русское космическое общество</strong><small>Наука · культура · проекты · будущее</small></span>
       </a>
       <div class="header-actions">
-        <a class="text-link" href="https://cosmatica.org/search" target="_blank" rel="noopener">Поиск</a>
+        <button class="quick-search" type="button" data-open-palette aria-haspopup="dialog"><span>Поиск</span><kbd>⌘ K</kbd></button>
         <a class="text-link" href="https://cosmatica.org/auth/login" target="_blank" rel="noopener">Войти</a>
         <a class="button button-small" href="https://cosmatica.org/o-vstuplenii-v-rjady-rko.html" target="_blank" rel="noopener">Присоединиться</a>
       </div>
       <button class="menu-toggle" aria-expanded="false" aria-controls="mainNav">Меню</button>
     </div>
-    <nav class="main-nav shell" id="mainNav">
+    <nav class="main-nav shell" id="mainNav" aria-label="Основная навигация">
       <a href="https://cosmatica.org/about" target="_blank" rel="noopener">Об обществе</a>
       <a href="https://cosmatica.org/news" target="_blank" rel="noopener">Новости</a>
       <a href="https://cosmatica.org/departments" target="_blank" rel="noopener">Отделения</a>
       <a href="https://cosmatica.org/projects" target="_blank" rel="noopener">Проекты</a>
       <a href="https://cosmatica.org/articles" target="_blank" rel="noopener">Материалы</a>
       <a href="https://cosmatica.org/library" target="_blank" rel="noopener">Библиотека</a>
-      <a href="https://cosmatica.org/poster" target="_blank" rel="noopener">Мероприятия</a>
+      <a href="#symbols">Символика</a>
     </nav>
   </header>
 
-  <main id="top">
-    <section class="hero shell">
+  <main id="content">
+    <section class="hero shell" id="top">
       <div class="hero-copy">
-        <p class="eyebrow">ОФИЦИАЛЬНЫЙ ПОРТАЛ РКО</p>
-        <h1>Человек. Земля. Космос.</h1>
+        <p class="eyebrow">ОФИЦИАЛЬНЫЙ ПОРТАЛ РКО · КОНЦЕПТ 2026</p>
+        <h1>Человек.<br>Земля.<br><span>Космос.</span></h1>
         <p class="lead">Пространство Русского космического общества для людей, знаний и проектов, которые соединяют научную мысль, культуру, образование и образ будущего.</p>
         <div class="hero-actions">
           <a class="button" href="https://cosmatica.org/about" target="_blank" rel="noopener">Узнать о РКО</a>
@@ -45,16 +50,20 @@
         </div>
         <div class="hero-meta">
           <span><b>2017–2026</b> летопись деятельности</span>
-          <span><b>Региональная сеть</b> отделений и участников</span>
+          <span><b>Сеть РКО</b> люди, отделения, знания и инициативы</span>
         </div>
       </div>
-      <div class="hero-visual" aria-label="Космическая визуализация">
-        <div class="planet"></div>
-        <div class="orbit orbit-a"></div>
-        <div class="orbit orbit-b"></div>
-        <div class="orbit-dot dot-a"></div>
-        <div class="orbit-dot dot-b"></div>
-        <div class="visual-note"><span>Космос — пространство будущего</span><small>Наука, образование, сообщества</small></div>
+      <div class="hero-visual" aria-label="Визуализация символики РКО">
+        <div class="symbol-field">
+          <div class="red-quarter"></div>
+          <div class="axis axis-v"><span>L</span></div>
+          <div class="axis axis-h"><span>T</span></div>
+          <div class="trajectory"></div>
+          <div class="trajectory-star">★</div>
+          <div class="trajectory-point">M</div>
+          <div class="polar-star">✦</div>
+        </div>
+        <div class="visual-note"><span>Прорыв к космическому будущему</span><small>Пластика интерфейса основана на официальной символике РКО</small></div>
       </div>
     </section>
 
@@ -64,14 +73,14 @@
         <a class="section-link" href="https://cosmatica.org/news" target="_blank" rel="noopener">Все новости →</a>
       </div>
       <div class="pulse-grid">
-        <article class="feature-card image-card" style="--bg:url('https://cosmatica.org/upload/000/u7/0/b/c24379a5.jpg')">
+        <a class="feature-card image-card" style="--bg:url('https://cosmatica.org/upload/000/u7/0/b/c24379a5.jpg')" href="https://cosmatica.org/news" target="_blank" rel="noopener">
           <div class="card-scrim"></div>
           <div class="feature-copy"><span class="tag">Новость</span><h3>Космоздрав. Ноосистема здоровья</h3><p>Сключение во имя здорового будущего.</p></div>
-        </article>
-        <article class="feature-card image-card" style="--bg:url('https://cosmatica.org/upload/000/u7/1/e/86465200.jpg')">
+        </a>
+        <a class="feature-card image-card" style="--bg:url('https://cosmatica.org/upload/000/u7/1/e/86465200.jpg')" href="https://cosmatica.org/news" target="_blank" rel="noopener">
           <div class="card-scrim"></div>
           <div class="feature-copy"><span class="tag">Проект</span><h3>Гагаринский сад</h3><p>Осень — время сажать. Всемирное движение зовёт внести свой вклад.</p></div>
-        </article>
+        </a>
         <article class="event-card">
           <div class="event-date"><strong>12</strong><span>сен</span></div>
           <div><span class="tag tag-soft">Мероприятие</span><h3>Календарь РКО</h3><p>Ближайшие события, конференции, конкурсы и встречи.</p><a href="https://cosmatica.org/poster" target="_blank" rel="noopener">Открыть календарь →</a></div>
@@ -82,7 +91,7 @@
     <section class="section shell">
       <div class="section-head">
         <div><p class="eyebrow">НАПРАВЛЕНИЯ</p><h2>Навигация по смыслам</h2></div>
-        <p class="section-intro">Сохраняем знакомые разделы сайта, но помогаем человеку быстрее понять, куда идти.</p>
+        <p class="section-intro">Сохраняем знакомые разделы сайта, но выстраиваем ясную визуальную иерархию вокруг задач человека.</p>
       </div>
       <div class="direction-grid">
         <a class="direction-card" href="https://cosmatica.org/articles" target="_blank" rel="noopener"><span class="num">01</span><h3>Наука и космизм</h3><p>Публикации, конференции, научные школы и междисциплинарные исследования.</p><span class="arrow">↗</span></a>
@@ -104,6 +113,25 @@
       </div>
     </section>
 
+    <section class="section symbols-wrap" id="symbols">
+      <div class="shell symbols-grid">
+        <div class="symbol-copy">
+          <p class="eyebrow">СИМВОЛИКА РКО</p>
+          <h2>Не декоративный бренд, а система смыслов</h2>
+          <p>В официальном описании герб «Прорыв» строится на трёх цветах: иссиня‑чёрном, красно‑червлёном и золотом. Золотой вектор направлен под углом 55° — к Полярной звезде и образу движения в космическое будущее.</p>
+          <a class="section-link" href="https://cosmatica.org/about/simvolika" target="_blank" rel="noopener">Официальная символика РКО →</a>
+        </div>
+        <article class="symbol-card emblem-card">
+          <div class="asset-frame asset-emblem"><img src="https://cosmatica.org/upload/000/u7/3/5/bezymjannyi.jpg" alt="Герб РКО «Прорыв»"></div>
+          <div><span class="tag tag-soft">Герб</span><h3>«Прорыв»</h3><p>Звезда, пространство L, время T, точка M и золотой вектор движения.</p></div>
+        </article>
+        <article class="symbol-card flag-card">
+          <div class="asset-frame asset-flag"><img src="https://cosmatica.org/upload/000/u7/9/5/iqvtee-irdi.jpg" alt="Знамя Русского Космического Общества «Красный Поход»"></div>
+          <div><span class="tag tag-soft">Знамя</span><h3>«Красный Поход»</h3><p>Красно‑червлёное поле, золотая надпись и герб РКО как образ прорыва в космическое будущее.</p></div>
+        </article>
+      </div>
+    </section>
+
     <section class="section knowledge-wrap">
       <div class="shell knowledge-grid">
         <div class="knowledge-copy">
@@ -113,10 +141,10 @@
           <div class="hero-actions"><a class="button" href="https://cosmatica.org/library" target="_blank" rel="noopener">Открыть библиотеку</a><a class="button button-ghost" href="https://cosmatica.org/articles" target="_blank" rel="noopener">Материалы</a></div>
         </div>
         <div class="knowledge-panel">
-          <div class="knowledge-item"><span>01</span><div><b>Русский космизм</b><small>Фёдоров, Циолковский и традиция космической мысли</small></div></div>
-          <div class="knowledge-item"><span>02</span><div><b>Космонавтика</b><small>История, техника, исследования и космическое будущее</small></div></div>
-          <div class="knowledge-item"><span>03</span><div><b>Научное наследие</b><small>Кузнецов, Вернадский, Чижевский и системные школы</small></div></div>
-          <div class="knowledge-item"><span>04</span><div><b>Образование</b><small>Методики, пособия и материалы для разных возрастов</small></div></div>
+          <a class="knowledge-item" href="https://cosmatica.org/library/osnovanija-russkogo-kosmizma" target="_blank" rel="noopener"><span>01</span><div><b>Русский космизм</b><small>Фёдоров, Циолковский и традиция космической мысли</small></div></a>
+          <a class="knowledge-item" href="https://cosmatica.org/library/kosmonavtika" target="_blank" rel="noopener"><span>02</span><div><b>Космонавтика</b><small>История, техника, исследования и космическое будущее</small></div></a>
+          <a class="knowledge-item" href="https://cosmatica.org/library/nauchnoe-nasledie-p-g-kuznecova" target="_blank" rel="noopener"><span>03</span><div><b>Научное наследие</b><small>Кузнецов, Вернадский, Чижевский и системные школы</small></div></a>
+          <a class="knowledge-item" href="https://cosmatica.org/library/obrazovanie" target="_blank" rel="noopener"><span>04</span><div><b>Образование</b><small>Методики, пособия и материалы для разных возрастов</small></div></a>
         </div>
       </div>
     </section>
@@ -138,14 +166,34 @@
 
   <footer class="site-footer">
     <div class="shell footer-grid">
-      <div class="brand footer-brand"><span class="brand-mark">РКО</span><span class="brand-copy"><strong>Русское космическое общество</strong><small>Прототип визуального обновления 2026</small></span></div>
+      <div class="brand footer-brand"><span class="brand-emblem"><img src="https://cosmatica.org/upload/000/u7/3/5/bezymjannyi.jpg" alt=""></span><span class="brand-copy"><strong>Русское космическое общество</strong><small>Прототип визуального обновления 2026</small></span></div>
       <div><b>Разделы</b><a href="https://cosmatica.org/news">Новости</a><a href="https://cosmatica.org/projects">Проекты</a><a href="https://cosmatica.org/library">Библиотека</a></div>
       <div><b>Участие</b><a href="https://cosmatica.org/departments">Отделения</a><a href="https://cosmatica.org/users">Состав РКО</a><a href="https://cosmatica.org/o-vstuplenii-v-rjady-rko.html">Вступить</a></div>
       <div><b>Связь</b><a href="https://vk.com/cosmatica">VK</a><a href="https://t.me/RKO_cosmatica">Telegram</a><a href="https://cosmatica.org/about/contacts">Контакты</a></div>
     </div>
   </footer>
 
+  <div class="theme-dock" aria-label="Переключатель вариантов дизайна">
+    <span>Дизайн</span>
+    <button data-theme="orbit" aria-label="Вариант Орбита">A</button>
+    <button data-theme="noosphere" aria-label="Вариант Ноосфера">B</button>
+    <button data-theme="institute" aria-label="Вариант Космический институт">C</button>
+  </div>
   <div class="prototype-badge" id="prototypeBadge">ОРБИТА · вариант A</div>
+
+  <dialog class="command-palette" id="commandPalette" aria-label="Быстрый поиск по разделам РКО">
+    <form class="palette-shell" action="https://cosmatica.org/search" method="get" target="_blank">
+      <div class="palette-head"><span>Быстрый переход</span><button type="button" data-close-palette aria-label="Закрыть">×</button></div>
+      <label class="palette-search"><span>⌕</span><input name="q" type="search" placeholder="Поиск по сайту РКО…" autocomplete="off"></label>
+      <div class="palette-links">
+        <a href="https://cosmatica.org/projects" target="_blank" rel="noopener"><span>Проекты</span><small>Все инициативы РКО</small></a>
+        <a href="https://cosmatica.org/library" target="_blank" rel="noopener"><span>Библиотека</span><small>Книги и научные материалы</small></a>
+        <a href="https://cosmatica.org/departments" target="_blank" rel="noopener"><span>Отделения</span><small>Региональная сеть</small></a>
+        <a href="https://cosmatica.org/poster" target="_blank" rel="noopener"><span>Мероприятия</span><small>Календарь событий</small></a>
+      </div>
+    </form>
+  </dialog>
+
   <script src="app.js"></script>
 </body>
 </html>
