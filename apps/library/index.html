@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#07111d">
+  <meta name="description" content="Интерактивный каталог электронной библиотеки Русского космического общества">
+  <title>Библиотека РКО — интерактивный каталог</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="stars" aria-hidden="true"></div>
+<header class="topbar">
+  <a class="brand" href="#top"><span class="brand-mark">РКО</span><span><b>Электронная библиотека</b><small>Русское космическое общество</small></span></a>
+  <nav><a href="#catalog">Каталог</a><a href="#about">О фонде</a><a href="https://cosmatica.org/library" target="_blank" rel="noopener">Сайт РКО ↗</a></nav>
+</header>
+<main id="top">
+<section class="hero">
+  <div>
+    <p class="eyebrow">ПРОТОТИП ЦИФРОВОГО МОДУЛЯ РКО</p>
+    <h1>Не просто полка книг.<br><span>Карта знаний РКО.</span></h1>
+    <p class="lead">Поиск по 480 материалам: космонавтика, астрономия, русский космизм, ноосфера, системология, образование, физика, философия и история.</p>
+    <div class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="Циолковский, Гагарин, ноосфера, телескоп…"><button id="clearSearch" aria-label="Очистить">×</button></div>
+    <div class="quick" id="quickSearches"></div>
+  </div>
+  <div class="orbital" aria-hidden="true"><div class="orbit o1"></div><div class="orbit o2"></div><div class="planet">480<span>материалов<br>в прототипе</span></div></div>
+</section>
+<section class="stats">
+  <article><strong>480</strong><span>материалов</span></article>
+  <article><strong>432</strong><span>обложки с сайта РКО</span></article>
+  <article><strong>12</strong><span>тематических направлений</span></article>
+  <article><strong>68k+</strong><span>страниц фонда</span></article>
+</section>
+<section class="section" id="about">
+  <div class="section-head"><div><p class="eyebrow">НАВИГАЦИЯ ПО СМЫСЛАМ</p><h2>Направления библиотеки</h2></div><p>Выберите тему — каталог сразу отфильтруется. Один материал отнесён к ведущему направлению, хотя многие работы междисциплинарны.</p></div>
+  <div id="categoryGrid" class="category-grid"></div>
+</section>
+<section class="section" id="catalog">
+  <div class="section-head catalog-head"><div><p class="eyebrow">КАТАЛОГ</p><h2>Найти материал</h2></div><div class="result"><strong id="resultCount">0</strong><span>найдено</span></div></div>
+  <div class="toolbar">
+    <label>Уровень<select id="levelFilter"><option value="">Все уровни</option></select></label>
+    <label>Период<select id="periodFilter"><option value="">Все годы</option><option value="pre1950">до 1950</option><option value="1950-1989">1950–1989</option><option value="1990-2009">1990–2009</option><option value="2010plus">2010–2026</option></select></label>
+    <label>Сортировка<select id="sortSelect"><option value="relevance">По релевантности</option><option value="title">По названию</option><option value="yearDesc">Сначала новые</option><option value="yearAsc">Сначала старые</option><option value="pages">По объёму</option></select></label>
+    <button id="resetFilters" class="ghost">Сбросить</button>
+  </div>
+  <div id="activeFilter" class="active-filter" hidden></div>
+  <div id="bookGrid" class="book-grid" aria-live="polite"></div>
+  <div id="emptyState" class="empty" hidden><b>Ничего не найдено</b><span>Попробуйте изменить запрос или сбросить фильтры.</span></div>
+  <button id="loadMore" class="load-more">Показать ещё</button>
+</section>
+</main>
+<footer><div><b>RKO Digital Platform</b><span>Прототип цифровой оболочки библиотеки РКО</span></div><p>Карточки ведут на первоисточник — <a href="https://cosmatica.org/library" target="_blank" rel="noopener">cosmatica.org</a>. Обложки подгружаются с сайта РКО.</p></footer>
+<dialog id="bookDialog"><button id="dialogClose" class="dialog-close" aria-label="Закрыть">×</button><div id="dialogBody"></div></dialog>
+<template id="bookCardTemplate">
+  <article class="book-card">
+    <button class="cover card-open"><img loading="lazy" alt=""><span class="fallback"></span></button>
+    <div class="book-body">
+      <div class="meta"><span class="year"></span><span class="pages"></span></div>
+      <button class="title-btn card-open"><h3></h3></button>
+      <p class="author"></p><p class="annotation"></p>
+      <div class="card-foot"><span class="level"></span><a class="rko-link" target="_blank" rel="noopener">На сайте РКО ↗</a></div>
+    </div>
+  </article>
+</template>
+<script src="app.js" defer></script>
+</body>
+</html>
