@@ -27,8 +27,8 @@ footer{max-width:var(--max);margin:auto;border-top:1px solid var(--line);padding
 @media (min-width:1101px){
   .hero{grid-template-columns:minmax(0,1.55fr) minmax(310px,.45fr);padding-top:72px;padding-bottom:64px;gap:28px;}
   .hero>div:first-child{padding-top:4px;}
-  .hero h1{font-size:clamp(62px,6.1vw,88px);line-height:.91;max-width:980px;}
-  .hero h1 span{display:block;font-size:.78em;line-height:1.05;white-space:nowrap;margin-top:8px;-webkit-text-stroke:1px #f4f6f477;}
+  .hero h1{font-size:clamp(60px,5.45vw,80px);line-height:.94;max-width:1030px;white-space:nowrap;}
+  .hero h1 span{display:block;font-size:.78em;line-height:1.05;white-space:nowrap;margin-top:10px;-webkit-text-stroke:1px #f4f6f477;}
   .hero .lead{margin-top:26px;max-width:760px;}
   .orbital{height:350px;transform:translate(-8px,-10px);}
   .planet{width:168px;height:168px;}
