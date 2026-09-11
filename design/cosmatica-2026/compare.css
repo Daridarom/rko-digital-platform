@@ -1,0 +1,39 @@
+/* Удобный режим сравнения вариантов и четвёртая тема «Синтез». */
+.review-bar{position:sticky;top:0;z-index:120;background:#050711;color:#fff;border-bottom:1px solid rgba(255,255,255,.13);box-shadow:0 8px 28px rgba(0,0,0,.18)}
+.review-bar__inner{width:min(1180px,calc(100% - 28px));min-height:54px;margin:0 auto;display:flex;align-items:center;gap:16px}
+.review-home{display:inline-flex;align-items:center;gap:8px;min-height:40px;padding:0 12px;border:1px solid rgba(255,255,255,.15);border-radius:999px;font-size:12px;font-weight:750;color:#fff;white-space:nowrap;background:rgba(255,255,255,.05)}
+.review-title{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.55);white-space:nowrap}
+.review-tabs{margin-left:auto;display:flex;align-items:center;gap:6px;overflow:auto;scrollbar-width:none;padding:6px 0}.review-tabs::-webkit-scrollbar{display:none}
+.review-tabs button{min-height:40px;padding:0 13px;border-radius:999px;border:1px solid rgba(255,255,255,.13);background:rgba(255,255,255,.045);color:#fff;white-space:nowrap;font-size:12px;font-weight:750;cursor:pointer}
+.review-tabs button span{color:rgba(255,255,255,.62);font-weight:600;margin-left:4px}
+.review-tabs button.active{background:#98161f;border-color:#d6a72f;box-shadow:0 0 0 1px #d6a72f inset}
+.site-header{top:54px}
+.theme-dock,.prototype-badge{display:none!important}
+
+body.theme-synthesis{--bg:#f5f4ef;--surface:#fff;--surface2:#eceae4;--text:#15151a;--muted:#686974;--line:#d9d8d2;--cosmic:#050711;--red:#98161f;--gold:#d6a72f;--brand:#98161f;--brand2:#080a2e;--accent:#d6a72f;--radius:16px;--shadow:0 18px 48px rgba(8,10,30,.11);--ambient:radial-gradient(circle at 83% 4%,rgba(152,22,31,.07),transparent 30%),linear-gradient(180deg,#f8f7f2,#f1f0ea);--hero:#080a2e;--stars-opacity:.18;--star:#16183b}
+.theme-synthesis .site-header{background:rgba(245,244,239,.9);border-bottom-color:rgba(21,21,26,.12)}
+.theme-synthesis .hero{position:relative;margin-top:24px;margin-bottom:24px;padding-left:48px;padding-right:48px;border-radius:28px;background:linear-gradient(135deg,#050711 0%,#080a2e 58%,#160910 100%);color:#f7f4ec;overflow:hidden;box-shadow:0 32px 90px rgba(8,10,30,.17)}
+.theme-synthesis .hero:before{content:"";position:absolute;inset:0;pointer-events:none;background-image:radial-gradient(circle at 12% 20%,rgba(255,255,255,.75) 0 1px,transparent 1.4px),radial-gradient(circle at 76% 16%,rgba(255,255,255,.65) 0 1px,transparent 1.4px),radial-gradient(circle at 88% 60%,rgba(255,255,255,.5) 0 1px,transparent 1.4px);background-size:260px 260px;opacity:.32}
+.theme-synthesis .hero>*{position:relative}.theme-synthesis .hero .lead,.theme-synthesis .hero .hero-meta{color:#bcc0d0}.theme-synthesis .hero .hero-meta b{color:#fff}.theme-synthesis .hero h1{font-family:Georgia,"Times New Roman",serif;font-weight:400;letter-spacing:-.045em}.theme-synthesis .hero h1 span{color:#f0c451}.theme-synthesis .hero .button{background:#98161f;border-color:#98161f}.theme-synthesis .hero .button-ghost{color:#fff;border-color:rgba(255,255,255,.25)}
+.theme-synthesis .symbol-field{background:#080a2e;border:1px solid rgba(214,167,47,.2);box-shadow:0 0 0 1px rgba(214,167,47,.06),0 48px 90px rgba(0,0,0,.35)}
+.theme-synthesis .visual-note{background:rgba(15,17,35,.86);border-color:rgba(255,255,255,.14);color:#fff;backdrop-filter:blur(16px)}.theme-synthesis .visual-note small{color:#b9bdcb}
+.theme-synthesis .direction-card{border-radius:12px}.theme-synthesis .direction-card h3,.theme-synthesis .project-copy h3{font-family:Georgia,"Times New Roman",serif;font-weight:400}
+.theme-synthesis .projects-section .project-grid{gap:14px}.theme-synthesis .project-art{background:linear-gradient(145deg,#ece9df,#e6e4dd)}
+.theme-synthesis .knowledge-wrap{background:#111117;color:#f6f2e9;border-color:#2a2a32}.theme-synthesis .knowledge-wrap .eyebrow{color:#d6a72f}.theme-synthesis .knowledge-wrap .knowledge-copy>p:not(.eyebrow),.theme-synthesis .knowledge-wrap .knowledge-item small,.theme-synthesis .knowledge-wrap .knowledge-item>span{color:#a9a9b3}.theme-synthesis .knowledge-wrap .knowledge-item,.theme-synthesis .knowledge-wrap .knowledge-panel{border-color:#34343d}.theme-synthesis .knowledge-wrap .button{background:#98161f;border-color:#98161f}.theme-synthesis .knowledge-wrap .button-ghost{color:#f6f2e9;border-color:#44444f}
+.theme-synthesis .symbols-wrap{background:linear-gradient(145deg,#050711,#090c23 70%,#16080b)}
+.theme-synthesis .timeline{background:#fff}.theme-synthesis .site-footer{background:#050711}
+
+.gallery-card-featured{border-color:rgba(214,167,47,.55)!important;box-shadow:0 0 0 1px rgba(214,167,47,.18) inset,0 20px 60px rgba(0,0,0,.18)}
+.preview-synthesis{background:linear-gradient(145deg,#f5f4ef 0 44%,#050711 44% 100%)}
+.preview-synthesis:before{content:"";position:absolute;left:0;bottom:0;width:46%;height:64%;background:#98161f;border-radius:0 100% 0 0}
+.preview-synthesis:after{content:"";position:absolute;height:3px;width:108%;background:#d6a72f;left:-4%;bottom:3%;transform:rotate(-55deg);transform-origin:left center}
+.preview-synthesis .preview-star{color:#d6a72f}
+
+@media(max-width:760px){
+  .review-bar__inner{width:calc(100% - 18px);gap:8px;min-height:50px}.review-title{display:none}.review-home{padding:0 10px}.review-home .review-home__long{display:none}.review-tabs{gap:4px}.review-tabs button{width:42px;padding:0}.review-tabs button span{display:none}.site-header{top:50px}
+  .theme-synthesis .hero{margin-top:14px;padding-left:24px;padding-right:24px;border-radius:20px}
+}
+@media(max-width:420px){
+  .review-home{width:42px;justify-content:center;padding:0}.review-home .review-home__arrow{font-size:17px}.review-tabs{margin-left:0;flex:1;justify-content:flex-end}.review-tabs button{min-width:38px;width:38px}.site-header{top:50px}
+  .theme-synthesis .hero{padding-left:18px;padding-right:18px;border-radius:16px}.theme-synthesis .hero h1{font-size:clamp(42px,16vw,60px)}
+}
