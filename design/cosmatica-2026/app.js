@@ -1,16 +1,27 @@
 (() => {
   const themes = {
-    orbit: { cls: 'theme-orbit', label: 'ОРБИТА · вариант A', color: '#f6f6f2' },
-    noosphere: { cls: 'theme-noosphere', label: 'НООСФЕРА · вариант B', color: '#050711' },
-    institute: { cls: 'theme-institute', label: 'КОСМИЧЕСКИЙ ИНСТИТУТ · вариант C', color: '#f1ede3' },
-    synthesis: { cls: 'theme-synthesis', label: 'СИНТЕЗ · вариант D', color: '#080a2e' }
+    orbit: { cls: 'theme-orbit', label: 'ОРБИТА · вариант 1', color: '#f6f6f2' },
+    noosphere: { cls: 'theme-noosphere', label: 'НООСФЕРА · вариант 2', color: '#050711' },
+    institute: { cls: 'theme-institute', label: 'КОСМИЧЕСКИЙ ИНСТИТУТ · вариант 3', color: '#f1ede3' }
   };
+  document.querySelectorAll('[data-theme="synthesis"] span').forEach(el => el.textContent = 'Орбита 2');
+  document.querySelectorAll('[data-theme="synthesis"]').forEach(el => el.setAttribute('aria-label', 'Вариант 4 — Орбита 2'));
+
   const params = new URLSearchParams(location.search);
-  let theme = params.get('theme') || localStorage.getItem('cosmatica-theme') || 'synthesis';
-  if (!themes[theme]) theme = 'synthesis';
+  const requested = params.get('theme');
+  if (requested === 'synthesis') {
+    location.replace('orbit2.html');
+    return;
+  }
+  let theme = requested || localStorage.getItem('cosmatica-theme');
+  if (!themes[theme]) theme = 'orbit';
 
   const applyTheme = (name, updateUrl = true) => {
-    const selected = themes[name] || themes.synthesis;
+    if (name === 'synthesis') {
+      location.href = 'orbit2.html';
+      return;
+    }
+    const selected = themes[name] || themes.orbit;
     document.body.classList.remove('theme-orbit','theme-noosphere','theme-institute','theme-synthesis');
     document.body.classList.add(selected.cls);
     document.querySelector('meta[name="theme-color"]')?.setAttribute('content', selected.color);
