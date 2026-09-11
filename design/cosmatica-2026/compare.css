@@ -7,6 +7,9 @@
 .review-tabs button{min-height:40px;padding:0 13px;border-radius:999px;border:1px solid rgba(255,255,255,.13);background:rgba(255,255,255,.045);color:#fff;white-space:nowrap;font-size:12px;font-weight:750;cursor:pointer}
 .review-tabs button span{color:rgba(255,255,255,.62);font-weight:600;margin-left:4px}
 .review-tabs button.active{background:#98161f;border-color:#d6a72f;box-shadow:0 0 0 1px #d6a72f inset}
+.review-tabs button b{font-size:0}.review-tabs button b:before{font-size:11px}.review-tabs button[data-theme="orbit"] b:before{content:"1"}.review-tabs button[data-theme="noosphere"] b:before{content:"2"}.review-tabs button[data-theme="institute"] b:before{content:"3"}.review-tabs button[data-theme="synthesis"] b:before{content:"4"}
+.quick-search kbd{display:none}
+.gallery-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 .site-header{top:54px}
 .theme-dock,.prototype-badge{display:none!important}
 
@@ -30,6 +33,7 @@ body.theme-synthesis{--bg:#f5f4ef;--surface:#fff;--surface2:#eceae4;--text:#1515
 .preview-synthesis .preview-star{color:#d6a72f}
 
 @media(max-width:760px){
+  .gallery-grid{grid-template-columns:1fr}
   .review-bar__inner{width:calc(100% - 18px);gap:8px;min-height:50px}.review-title{display:none}.review-home{padding:0 10px}.review-home .review-home__long{display:none}.review-tabs{gap:4px}.review-tabs button{width:42px;padding:0}.review-tabs button span{display:none}.site-header{top:50px}
   .theme-synthesis .hero{margin-top:14px;padding-left:24px;padding-right:24px;border-radius:20px}
 }
