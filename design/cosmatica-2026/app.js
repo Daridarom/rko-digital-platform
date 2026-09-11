@@ -2,19 +2,25 @@
   const themes = {
     orbit: { cls: 'theme-orbit', label: 'ОРБИТА · вариант A', color: '#f6f6f2' },
     noosphere: { cls: 'theme-noosphere', label: 'НООСФЕРА · вариант B', color: '#050711' },
-    institute: { cls: 'theme-institute', label: 'КОСМИЧЕСКИЙ ИНСТИТУТ · вариант C', color: '#f1ede3' }
+    institute: { cls: 'theme-institute', label: 'КОСМИЧЕСКИЙ ИНСТИТУТ · вариант C', color: '#f1ede3' },
+    synthesis: { cls: 'theme-synthesis', label: 'СИНТЕЗ · вариант D', color: '#080a2e' }
   };
   const params = new URLSearchParams(location.search);
-  let theme = params.get('theme') || localStorage.getItem('cosmatica-theme') || 'orbit';
-  if (!themes[theme]) theme = 'orbit';
+  let theme = params.get('theme') || localStorage.getItem('cosmatica-theme') || 'synthesis';
+  if (!themes[theme]) theme = 'synthesis';
 
   const applyTheme = (name, updateUrl = true) => {
-    const selected = themes[name] || themes.orbit;
-    document.body.classList.remove('theme-orbit','theme-noosphere','theme-institute');
+    const selected = themes[name] || themes.synthesis;
+    document.body.classList.remove('theme-orbit','theme-noosphere','theme-institute','theme-synthesis');
     document.body.classList.add(selected.cls);
     document.querySelector('meta[name="theme-color"]')?.setAttribute('content', selected.color);
-    document.getElementById('prototypeBadge').textContent = selected.label;
-    document.querySelectorAll('[data-theme]').forEach(btn => btn.classList.toggle('active', btn.dataset.theme === name));
+    const badge = document.getElementById('prototypeBadge');
+    if (badge) badge.textContent = selected.label;
+    document.querySelectorAll('[data-theme]').forEach(btn => {
+      const active = btn.dataset.theme === name;
+      btn.classList.toggle('active', active);
+      btn.setAttribute('aria-pressed', String(active));
+    });
     localStorage.setItem('cosmatica-theme', name);
     if (updateUrl) {
       const url = new URL(location.href);
