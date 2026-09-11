@@ -17,3 +17,8 @@ footer{max-width:var(--max);margin:auto;border-top:1px solid var(--line);padding
 @media(max-width:760px){.topbar{padding-left:18px;padding-right:18px}.catalog-nav{align-items:flex-start;flex-direction:column;gap:6px}.breadcrumb em{display:none}.book-pager{grid-template-columns:1fr}.book-pager button:last-child{text-align:left}.dialog-actions{display:grid;grid-template-columns:1fr}.dialog-actions>*{text-align:center}.to-top{right:14px;bottom:14px}}
 
 #bookDialog.fallback-open{position:fixed;inset:50% auto auto 50%;transform:translate(-50%,-50%);z-index:101;max-height:calc(100vh - 28px);overflow:auto;margin:0}.fallback-modal{overflow:hidden}.fallback-modal::before{content:"";position:fixed;inset:0;background:#02070dcc;backdrop-filter:blur(8px);z-index:100}
+
+/* Cross-browser book overlay */
+#bookDialog.book-dialog{position:fixed;inset:0;width:auto;max-width:none;height:auto;margin:0;padding:14px;border:0;border-radius:0;background:#02070dcc;backdrop-filter:blur(8px);z-index:100;display:grid;place-items:center;overflow:auto}
+#bookDialog.book-dialog[hidden]{display:none}.dialog-shell{position:relative;width:min(920px,calc(100vw - 28px));border:1px solid #79c7df3b;border-radius:24px;background:#0c1b2a;color:#fff;box-shadow:0 30px 100px #0009;overflow:hidden}.modal-open{overflow:hidden}
+#bookDialog.fallback-open{position:fixed;inset:0;transform:none;max-height:none}.fallback-modal::before{display:none}
