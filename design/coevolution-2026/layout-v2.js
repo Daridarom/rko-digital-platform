@@ -2,29 +2,26 @@
   'use strict';
   const ready = fn => document.readyState === 'loading' ? document.addEventListener('DOMContentLoaded', fn, {once:true}) : fn();
   ready(() => {
-    const exactSourceImage = 'maria-matrix-source.jpg?v=20260912-1726';
+    const exactSourceImage = 'maria-matrix-exact.svg?v=20260912-1910';
 
-    // Главная: показываем тот же исходный лист Марии без перерисовки.
     const orbit = document.querySelector('[data-page="home"] .orbit-wrap');
     if (orbit) {
       orbit.innerHTML = `
-        <a class="hero-source-card" href="#/matrix" aria-label="Открыть исходный маршрутный лист НИРМЫ">
+        <a class="hero-source-card" href="#/matrix" aria-label="Открыть маршрутный лист НИРМЫ">
           <div class="hero-source-head">
             <div><small>Маршрутный лист НИРМЫ</small><strong>Исходная схема программы</strong></div>
             <span>Открыть ↗</span>
           </div>
-          <img src="${exactSourceImage}" alt="Исходный маршрутный лист Миссия НИРМА — Конструктора будущего 2026">
+          <img src="${exactSourceImage}" alt="Маршрутный лист Миссия НИРМА — Конструктора будущего 2026">
         </a>`;
     }
 
-    // НИРМА: аккуратный перенос названия.
     document.querySelectorAll('.program-feature .art-type').forEach(el => {
       if (el.textContent.replace(/\s+/g,' ').trim().toLowerCase().includes('конструк')) {
         el.innerHTML = '<span class="program-kicker">Конструкторы</span><span class="program-future">будущего</span>';
       }
     });
 
-    // Страница матрицы: только исходный лист. Никаких реконструкций, фильтров и второй матрицы.
     const page = document.querySelector('[data-page="matrix"]');
     if (page) {
       const heading = page.querySelector('.page-heading');
@@ -34,7 +31,7 @@
         const lead = heading.querySelector('.lead');
         if (eyebrow) eyebrow.textContent = 'Маршрутный лист «Миссия НИРМА» · Конструктора будущего 2026';
         if (h1) h1.innerHTML = 'Матрица <span class="red">4 × 4.</span>';
-        if (lead) lead.textContent = 'На странице показан исходный маршрутный лист без переработки его структуры и расположения элементов.';
+        if (lead) lead.textContent = 'Схема воспроизводит структуру исходного листа: четыре сферы по горизонтали, четыре уровня по вертикали и 23 активности.';
       }
 
       const body = page.querySelector('.page-body');
@@ -43,15 +40,15 @@
           <figure class="maria-source">
             <div class="maria-source__head">
               <div>
-                <strong>Исходный маршрутный лист</strong>
-                <p>Показана первая страница исходного файла в том виде, в котором она была предоставлена. Для чтения мелких подписей откройте изображение крупно.</p>
+                <strong>Маршрутный лист программы</strong>
+                <p>Сохранены исходная компоновка, цветовые зоны, номера и названия занятий. На телефоне лист масштабируется целиком; для чтения мелких подписей его можно открыть отдельно.</p>
               </div>
               <a href="${exactSourceImage}" target="_blank" rel="noopener">Открыть крупно ↗</a>
             </div>
-            <a class="maria-source__image" href="${exactSourceImage}" target="_blank" rel="noopener" aria-label="Открыть исходный маршрутный лист крупно">
-              <img src="${exactSourceImage}" alt="Исходный маршрутный лист Миссия НИРМА — Конструктора будущего 2026">
+            <a class="maria-source__image" href="${exactSourceImage}" target="_blank" rel="noopener" aria-label="Открыть маршрутный лист крупно">
+              <img src="${exactSourceImage}" alt="Маршрутный лист Миссия НИРМА — Конструктора будущего 2026">
             </a>
-            <figcaption>Используется растр, полученный непосредственно из первой страницы исходного PDF. Перерисованная SVG-версия больше не используется как источник.</figcaption>
+            <figcaption>Первичный источник для сверки — исходный PDF программы. В веб-версии не меняется содержание матрицы; адаптируется только способ отображения.</figcaption>
           </figure>`;
       }
     }
