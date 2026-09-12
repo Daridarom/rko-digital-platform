@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="color-scheme" content="light dark">
   <meta name="robots" content="noindex">
-  <meta name="prototype-version" content="orbit-editorial-2026-09-12">
+  <meta name="prototype-version" content="orbit-editorial-links-2026-09-12">
   <meta id="themeColorLight" name="theme-color" content="#f6f6f2" media="(prefers-color-scheme: light)">
   <meta id="themeColorDark" name="theme-color" content="#070a20" media="(prefers-color-scheme: dark)">
   <title>Косматика 2026 — Орбита</title>
@@ -562,9 +562,16 @@
     .footer-bottom { margin-block-start:var(--space-5); padding-block-start:var(--space-4); border-block-start:var(--border-width) solid var(--color-on-dark-border); color:var(--color-section-dark-muted); font-size:var(--text-xs); }
     .design-tools { position:relative; margin-inline-start:auto; flex-shrink:0; }
     .control-chip { font-size:var(--text-sm); }
-    .design-popover { position:absolute; inset-inline-end:0; inset-block-start:calc(100% + var(--space-2)); inline-size:min(22rem,calc(100vw - 2 * var(--space-4))); padding:var(--space-4); background:var(--color-surface-raised); border:var(--border-width) solid var(--color-border); border-radius:var(--radius-md); box-shadow:var(--shadow-elevated); }
+    .design-popover { position:absolute; inset-inline-end:0; inset-block-start:calc(100% + var(--space-2)); inline-size:min(22rem,calc(100vw - 2 * var(--space-4))); padding:var(--space-4); background:var(--color-surface-raised); border:var(--border-width) solid var(--color-border); border-radius:var(--radius-md); box-shadow:var(--shadow-elevated); max-block-size:calc(100dvh - var(--header-row-size) - var(--space-6)); overflow-y:auto; overscroll-behavior:contain; }
     .control-group + .control-group { margin-block-start:var(--space-4); padding-block-start:var(--space-4); border-block-start:var(--border-width) solid var(--color-border-soft); }
     .control-label { font-size:var(--text-sm); font-weight:760; margin-block-end:var(--space-2); }
+    /* Переходы между рабочими проектами — обычные ссылки, не ещё одна тема «Орбиты». */
+    .related-project-title { font-size:var(--text-base); font-weight:760; }
+    .related-project-note { font-size:var(--text-xs); color:var(--color-text-muted); margin-block:var(--space-1) var(--space-3); }
+    .related-project-links { display:grid; gap:var(--space-2); }
+    .related-project-links a { display:flex; align-items:center; justify-content:space-between; gap:var(--space-3); min-inline-size:var(--target); min-block-size:var(--target); padding:var(--space-2) var(--space-3); border:var(--border-strong) solid var(--color-border); border-radius:var(--radius-sm); background:var(--color-surface); color:var(--color-link); font-size:var(--text-sm); font-weight:760; line-height:1.5; }
+    .related-project-links a:hover { text-decoration:underline; text-underline-offset:.2em; }
+    .related-project-links a>span[aria-hidden] { flex-shrink:0; }
     summary.control-label { display:flex; align-items:center; justify-content:space-between; min-block-size:var(--target); cursor:pointer; }
     summary.control-label::after { content:"+"; }
     details[open]>summary.control-label::after { content:"−"; }
@@ -693,8 +700,17 @@
         <a class="button button--small" href="https://cosmatica.org/o-vstuplenii-v-rjady-rko.html" target="_blank" rel="noopener">Присоединиться</a>
       </div>
       <div class="design-tools">
-        <button class="control-chip" type="button" data-design-toggle aria-expanded="false" aria-controls="designPopover">Оформление</button>
+        <button class="control-chip" type="button" data-design-toggle aria-expanded="false" aria-controls="designPopover">Макеты</button>
         <div class="design-popover" id="designPopover" hidden>
+          <div class="control-group related-project">
+            <p class="control-label" id="desktop-projects-label">Проекты разработки</p>
+            <p class="related-project-title">Соэволюция</p>
+            <p class="related-project-note">Проект РКО · куратор Мария</p>
+            <nav class="related-project-links" aria-labelledby="desktop-projects-label">
+              <a href="../coevolution-2026/" target="_blank" rel="noopener"><span>Открыть макет<span class="sr-only"> Соэволюции, новая вкладка</span></span><span aria-hidden="true">↗</span></a>
+              <a href="https://github.com/Daridarom/rko-digital-platform/tree/main/design/coevolution-2026" target="_blank" rel="noopener"><span>Код на GitHub<span class="sr-only"> — Соэволюция, новая вкладка</span></span><span aria-hidden="true">↗</span></a>
+            </nav>
+          </div>
           <div class="control-group">
             <p class="control-label" id="desktop-mode-label">Оформление</p>
             <div class="control-row" role="radiogroup" aria-labelledby="desktop-mode-label">
@@ -723,13 +739,22 @@
         <a href="https://cosmatica.org/departments" target="_blank" rel="noopener">Отделения</a>
         <a href="https://cosmatica.org/projects" target="_blank" rel="noopener">Проекты</a>
         <a href="https://cosmatica.org/articles" target="_blank" rel="noopener">Материалы</a>
-        <a href="https://cosmatica.org/library" target="_blank" rel="noopener">Библиотека</a>
         <a class="anchor-link" href="#symbols">Символика <span class="anchor-hint">на странице ↓</span></a>
+        <a href="https://cosmatica.org/library" target="_blank" rel="noopener">Библиотека</a>
         <div class="mobile-menu-tools">
           <div class="mobile-menu-actions">
             <button type="button" data-open-dialog aria-haspopup="dialog" aria-controls="jumpDialog">Поиск</button>
             <a href="https://cosmatica.org/auth/login" target="_blank" rel="noopener">Войти</a>
             <a href="https://cosmatica.org/o-vstuplenii-v-rjady-rko.html" target="_blank" rel="noopener">Присоединиться</a>
+          </div>
+          <div class="control-group related-project">
+            <p class="control-label" id="mobile-projects-label">Проекты разработки</p>
+            <p class="related-project-title">Соэволюция</p>
+            <p class="related-project-note">Проект РКО · куратор Мария</p>
+            <nav class="related-project-links" aria-labelledby="mobile-projects-label">
+              <a href="../coevolution-2026/" target="_blank" rel="noopener"><span>Открыть макет<span class="sr-only"> Соэволюции, новая вкладка</span></span><span aria-hidden="true">↗</span></a>
+              <a href="https://github.com/Daridarom/rko-digital-platform/tree/main/design/coevolution-2026" target="_blank" rel="noopener"><span>Код на GitHub<span class="sr-only"> — Соэволюция, новая вкладка</span></span><span aria-hidden="true">↗</span></a>
+            </nav>
           </div>
           <div class="control-group">
             <p class="control-label" id="mobile-mode-label">Оформление</p>
@@ -864,7 +889,7 @@
     <div class="dialog-body">
       <label class="sr-only" for="jumpSearch">Фильтр разделов</label>
       <input class="dialog-search" id="jumpSearch" type="search" placeholder="Найти раздел…" autocomplete="off" aria-describedby="searchStatus">
-      <p class="search-status" id="searchStatus" role="status" aria-live="polite" aria-atomic="true">Найдены разделы: 6</p>
+      <p class="search-status" id="searchStatus" role="status" aria-live="polite" aria-atomic="true">Найдены разделы: 8</p>
       <nav class="jump-grid" aria-label="Разделы для быстрого перехода">
         <a href="#top">Начало</a>
         <a href="https://cosmatica.org/news" target="_blank" rel="noopener">Новости</a>
@@ -872,6 +897,8 @@
         <a href="#symbols">Символика</a>
         <a href="https://cosmatica.org/library" target="_blank" rel="noopener">Библиотека</a>
         <a href="https://cosmatica.org/departments" target="_blank" rel="noopener">Отделения</a>
+        <a href="../coevolution-2026/" target="_blank" rel="noopener">Соэволюция — макет<span class="sr-only">, куратор Мария, новая вкладка</span></a>
+        <a href="https://github.com/Daridarom/rko-digital-platform/tree/main/design/coevolution-2026" target="_blank" rel="noopener">Соэволюция — код на GitHub<span class="sr-only">, новая вкладка</span></a>
       </nav>
     </div>
   </dialog>
