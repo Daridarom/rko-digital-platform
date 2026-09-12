@@ -1,6 +1,6 @@
 (() => {
   const addCss=(key,href)=>{if(!document.querySelector(`link[data-${key}]`)){const x=document.createElement('link');x.rel='stylesheet';x.href=href;x.setAttribute(`data-${key}`,'true');document.head.appendChild(x)}};
-  addCss('orbit-mode','orbit-mode.css');addCss('orbit-polish','orbit-polish.css');addCss('orbit-qa','qa-fixes.css');addCss('orbit-qa-r2','qa-r2.css');addCss('orbit-qa-final','qa-final.css');addCss('logo-integrity','logo-integrity.css');addCss('mobile-emergency','mobile-emergency-fix.css');
+  addCss('orbit-mode','orbit-mode.css');addCss('orbit-polish','orbit-polish.css');addCss('orbit-qa','qa-fixes.css');addCss('orbit-qa-r2','qa-r2.css');addCss('orbit-qa-final','qa-final.css');addCss('logo-integrity','logo-integrity.css?v=19');addCss('mobile-emergency','mobile-emergency-fix.css?v=19');addCss('symbol-integrity','symbol-integrity.css?v=19');
 
   document.title='Косматика 2026 — Орбита';
   const setMeta=(s,v)=>{const e=document.querySelector(s);if(e)e.setAttribute('content',v)};
