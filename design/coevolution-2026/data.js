@@ -32,3 +32,9 @@ window.COEVO = {
   {id:23,name:'Исследовательская деятельность: строители, ОБЖ, природоведы, экологи',s:['nature','self','people'],l:'research',desc:'Четыре исследовательских направления объединяют изучение темы, практику и создание итогового продукта.',source:'Текстовая программа, с. 3–4.',note:'В визуальном листе — одна объединённая область трёх сфер. Сохранена как одна активность.'}
   ]
 };
+
+// Progressive layout refinement. The content model remains independent from presentation.
+(() => {
+  const css=document.createElement('link');css.rel='stylesheet';css.href='layout-v2.css';document.head.append(css);
+  const js=document.createElement('script');js.src='layout-v2.js';js.async=false;document.head.append(js);
+})();
