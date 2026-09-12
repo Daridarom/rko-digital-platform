@@ -49,6 +49,16 @@ body.theme-orbit .review-home{flex:0 0 auto}
 body.theme-orbit .orbit-mode-switch{flex:0 0 auto}
 body.theme-orbit .review-tabs{min-width:0}
 
+/* Официальный герб РКО всегда показывается без скругления и без маски. */
+body.theme-orbit .brand-emblem,
+body.theme-orbit .brand-emblem img{border-radius:0!important}
+body.theme-orbit .brand-emblem{overflow:visible!important}
+body.theme-orbit .symbols-grid>.symbol-copy+.symbol-card,
+body.theme-orbit .symbols-grid>.symbol-copy+.symbol-card .asset-frame,
+body.theme-orbit .symbols-grid>.symbol-copy+.symbol-card .asset-frame img{border-radius:0!important}
+body.theme-orbit .symbols-grid>.symbol-copy+.symbol-card{overflow:visible!important}
+body.theme-orbit .symbols-grid>.symbol-copy+.symbol-card .asset-frame{overflow:visible!important}
+
 @media(max-width:760px){
   body.theme-orbit .review-bar__inner{width:calc(100% - 16px);min-height:54px;display:grid;grid-template-columns:44px 92px minmax(0,1fr);gap:6px;padding-block:4px}
   body.theme-orbit .review-home{width:44px;min-width:44px;height:44px;padding:0;justify-content:center}
