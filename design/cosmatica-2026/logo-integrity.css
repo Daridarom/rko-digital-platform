@@ -2,6 +2,7 @@
    Официальный герб «Прорыв» показывается только целиком и в исходных пропорциях.
    Запрещены кроп, cover, круглые/скруглённые маски, clip-path, изменение формы и декоративные наложения. */
 .brand-emblem,
+.emblem,
 .brand img[alt*="Герб"],
 .gallery-brand img[alt*="Герб"],
 img[alt*="Герб Русского Космического Общества"],
@@ -13,7 +14,7 @@ img[alt*="Герб РКО"]{
   transform:none!important;
 }
 
-.brand-emblem{
+.brand-emblem,.emblem{
   overflow:visible!important;
   background:transparent!important;
   border:0!important;
@@ -22,8 +23,8 @@ img[alt*="Герб РКО"]{
   display:grid!important;
   place-items:center!important;
 }
-.brand-emblem::before,.brand-emblem::after{content:none!important;display:none!important}
-.brand-emblem img,
+.brand-emblem::before,.brand-emblem::after,.emblem::before,.emblem::after{content:none!important;display:none!important}
+.brand-emblem img,.emblem img,
 .brand img[alt*="Герб"],
 .gallery-brand img[alt*="Герб"],
 img[alt*="Герб Русского Космического Общества"],
@@ -46,5 +47,5 @@ img[alt*="Герб РКО"]{
 .asset-frame img[alt*="Герб"]{object-fit:contain!important;width:100%!important;height:auto!important;max-height:260px!important;border-radius:0!important}
 
 @media(max-width:760px){
-  .brand-emblem{padding:4px!important;overflow:visible!important}
+  .brand-emblem,.emblem{padding:4px!important;overflow:visible!important}
 }
