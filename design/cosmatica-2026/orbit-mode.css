@@ -1,57 +1,57 @@
 /* Два световых режима одной «Орбиты». Структура и размеры компонентов одинаковы. */
 .orbit-mode-switch{display:none;align-items:center;gap:4px;padding:4px;border:1px solid rgba(255,255,255,.14);border-radius:999px;background:rgba(255,255,255,.05)}
 body.theme-orbit .orbit-mode-switch{display:flex}
-.orbit-mode-switch button{min-height:36px;padding:0 12px;border:0;border-radius:999px;background:transparent;color:#fff;font:inherit;font-size:12px;font-weight:750;cursor:pointer}
+.orbit-mode-switch button{min-height:40px;padding:0 14px;border:0;border-radius:999px;background:transparent;color:#fff;font:inherit;font-size:12px;font-weight:750;cursor:pointer}
 .orbit-mode-switch button.active{background:#98161f;box-shadow:0 0 0 1px rgba(214,167,47,.35) inset}
 
-/* Единый стандарт интерактивных зон для всех тем, а не только для «Орбиты 2». */
-.button,.text-link,.main-nav a,.section-link,.direction-card,.knowledge-item,.timeline a,.review-home,.review-tabs button,.quick-search{min-height:44px}
-.button,.quick-search,.review-home,.review-tabs button{display:inline-flex;align-items:center;justify-content:center}
+/* Единый стандарт доступности для всех визуальных направлений. */
+.button,.text-link,.main-nav a,.section-link,.review-home,.review-tabs button,.quick-search,.menu-toggle{min-height:48px}
+.button,.quick-search,.review-home,.review-tabs button,.menu-toggle{display:inline-flex;align-items:center;justify-content:center}
+.direction-card,.knowledge-item,.timeline a{min-height:56px}
+.button:focus-visible,.text-link:focus-visible,.main-nav a:focus-visible,.section-link:focus-visible,.review-home:focus-visible,.review-tabs button:focus-visible,.quick-search:focus-visible,.menu-toggle:focus-visible{outline:3px solid #d6a72f;outline-offset:3px}
 
-/* Светлая Орбита остаётся базовой. */
+/* Светлая Орбита — базовый режим. Красный остаётся главным акцентом. */
 body.theme-orbit{--red:#98161f;--brand:#98161f;--gold:#d6a72f;--accent:#d6a72f}
 body.theme-orbit .button{background:#98161f;border-color:#98161f}
-body.theme-orbit .button-ghost{background:rgba(255,255,255,.72);color:#11121c;border:2px solid #cfd1d7}
+body.theme-orbit .button-ghost{background:rgba(255,255,255,.82);color:#11121c;border:2px solid #b9bdc6}
 body.theme-orbit .event-date{background:#98161f}
+body.theme-orbit .feature-card{aspect-ratio:4/3;min-height:auto;background-size:cover;background-position:center}
 
-/* Тёмный режим — тот же макет, не отдельная концепция. */
-body.theme-orbit.orbit-mode-dark{
-  --bg:#070a20;--surface:#10162f;--surface2:#171d38;--text:#f5f2ea;--muted:#b8bcc8;--line:rgba(255,255,255,.13);
-  --cosmic:#050718;--red:#b62631;--gold:#e0b54b;--brand:#b62631;--brand2:#7f8fe0;--accent:#e0b54b;
-  --shadow:0 20px 55px rgba(0,0,0,.26);--ambient:radial-gradient(circle at 80% 4%,rgba(61,81,160,.20),transparent 28%),linear-gradient(180deg,#080b24,#050718);--hero:#0d1330;--stars-opacity:.34;--star:#eef0ff
-}
-body.theme-orbit.orbit-mode-dark .site-header{background:rgba(7,10,32,.9);border-bottom-color:rgba(255,255,255,.12)}
+/* Тёмный режим — спокойный иссиня-чёрный, а не чистый чёрный. */
+body.theme-orbit.orbit-mode-dark{--bg:#070a20;--surface:#10162f;--surface2:#171d38;--text:#f5f2ea;--muted:#c1c4ce;--line:rgba(255,255,255,.14);--cosmic:#050718;--red:#b62631;--gold:#e0b54b;--brand:#b62631;--brand2:#7f8fe0;--accent:#e0b54b;--shadow:0 20px 55px rgba(0,0,0,.26);--ambient:radial-gradient(circle at 80% 4%,rgba(61,81,160,.20),transparent 28%),linear-gradient(180deg,#080b24,#050718);--hero:#0d1330;--stars-opacity:.28;--star:#eef0ff}
+body.theme-orbit.orbit-mode-dark .site-header{background:rgba(7,10,32,.92);border-bottom-color:rgba(255,255,255,.12)}
 body.theme-orbit.orbit-mode-dark .brand-copy strong,body.theme-orbit.orbit-mode-dark .main-nav a,body.theme-orbit.orbit-mode-dark .text-link{color:#f5f2ea}
-body.theme-orbit.orbit-mode-dark .brand-copy small{color:#b8bcc8}
-body.theme-orbit.orbit-mode-dark .quick-search{background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.16);color:#f5f2ea}
-body.theme-orbit.orbit-mode-dark .hero{background:linear-gradient(145deg,#0d1435,#090d27);border-color:rgba(255,255,255,.08)}
-body.theme-orbit.orbit-mode-dark .hero .lead,body.theme-orbit.orbit-mode-dark .hero-meta{color:#b8bcc8}
+body.theme-orbit.orbit-mode-dark .brand-copy small{color:#c1c4ce}
+body.theme-orbit.orbit-mode-dark .quick-search{background:rgba(255,255,255,.07);border-color:rgba(255,255,255,.20);color:#f5f2ea}
+body.theme-orbit.orbit-mode-dark .hero{background:linear-gradient(145deg,#0d1435,#090d27);border-color:rgba(255,255,255,.09)}
+body.theme-orbit.orbit-mode-dark .hero .lead,body.theme-orbit.orbit-mode-dark .hero-meta{color:#c1c4ce}
 body.theme-orbit.orbit-mode-dark .hero-meta b{color:#fff}
 body.theme-orbit.orbit-mode-dark .hero h1 span{color:#efc451}
 body.theme-orbit.orbit-mode-dark .button{background:#98161f;border-color:#98161f;color:#fff}
-body.theme-orbit.orbit-mode-dark .button-ghost{background:rgba(255,255,255,.08);color:#fff;border:2px solid rgba(255,255,255,.34)}
+body.theme-orbit.orbit-mode-dark .button-ghost{background:rgba(255,255,255,.11);color:#fff;border:2px solid rgba(255,255,255,.48)}
 body.theme-orbit.orbit-mode-dark .symbol-field{background:#080d2c;border-color:rgba(224,181,75,.23);box-shadow:inset 0 0 60px rgba(62,83,165,.14),0 32px 72px rgba(0,0,0,.34)}
-body.theme-orbit.orbit-mode-dark .visual-note{background:rgba(10,15,42,.86);border-color:rgba(255,255,255,.13);color:#fff}
-body.theme-orbit.orbit-mode-dark .visual-note small{color:#b8bcc8}
-body.theme-orbit.orbit-mode-dark .event-card,body.theme-orbit.orbit-mode-dark .direction-card,body.theme-orbit.orbit-mode-dark .project-card{background:#10162f;border-color:rgba(255,255,255,.11);box-shadow:none}
-body.theme-orbit.orbit-mode-dark .tag-soft{background:rgba(152,22,31,.18);color:#f0c451}
+body.theme-orbit.orbit-mode-dark .visual-note{background:rgba(10,15,42,.88);border-color:rgba(255,255,255,.15);color:#fff}
+body.theme-orbit.orbit-mode-dark .visual-note small{color:#c1c4ce}
+body.theme-orbit.orbit-mode-dark .event-card,body.theme-orbit.orbit-mode-dark .direction-card,body.theme-orbit.orbit-mode-dark .project-card{background:#10162f;border-color:rgba(255,255,255,.12);box-shadow:none}
+body.theme-orbit.orbit-mode-dark .tag-soft{background:rgba(152,22,31,.20);color:#f0c451}
 body.theme-orbit.orbit-mode-dark .project-art{background:linear-gradient(145deg,#151c3a,#0d132d)}
-body.theme-orbit.orbit-mode-dark .knowledge-wrap{background:#0d122b;color:#f5f2ea;border-color:rgba(255,255,255,.09)}
-body.theme-orbit.orbit-mode-dark .knowledge-panel,body.theme-orbit.orbit-mode-dark .knowledge-item{border-color:rgba(255,255,255,.11)}
-body.theme-orbit.orbit-mode-dark .knowledge-item small,body.theme-orbit.orbit-mode-dark .knowledge-copy>p:not(.eyebrow){color:#b8bcc8}
-body.theme-orbit.orbit-mode-dark .timeline{background:#0f1530;border-color:rgba(255,255,255,.10)}
-body.theme-orbit.orbit-mode-dark .timeline a{border-color:rgba(255,255,255,.10)}
+body.theme-orbit.orbit-mode-dark .knowledge-wrap{background:#0d122b;color:#f5f2ea;border-color:rgba(255,255,255,.10)}
+body.theme-orbit.orbit-mode-dark .knowledge-panel,body.theme-orbit.orbit-mode-dark .knowledge-item{border-color:rgba(255,255,255,.12)}
+body.theme-orbit.orbit-mode-dark .knowledge-item small,body.theme-orbit.orbit-mode-dark .knowledge-copy>p:not(.eyebrow){color:#c1c4ce}
+body.theme-orbit.orbit-mode-dark .timeline{background:#0f1530;border-color:rgba(255,255,255,.11)}
+body.theme-orbit.orbit-mode-dark .timeline a{border-color:rgba(255,255,255,.11)}
 body.theme-orbit.orbit-mode-dark .site-footer{background:#050718}
 body.theme-orbit.orbit-mode-dark .symbols-wrap{background:linear-gradient(145deg,#070a22,#0e1640 72%,#19090e)}
 
-/* Мобильная шапка: используем только официальный герб «Прорыв» без упрощённой перерисовки. */
+/* На мобильном герб не перерисовывается: показываем оригинал крупнее. */
 @media(max-width:760px){
   .orbit-mode-switch{margin-left:auto}
-  .orbit-mode-switch button{width:40px;padding:0;font-size:0}
-  .orbit-mode-switch button[data-orbit-mode="light"]:after{content:"☀";font-size:16px}
-  .orbit-mode-switch button[data-orbit-mode="dark"]:after{content:"☾";font-size:18px}
-  .brand-emblem{width:46px;height:50px;min-width:46px;position:relative;overflow:hidden;background:#fff;border-radius:12px}
+  .orbit-mode-switch button{width:44px;min-height:44px;padding:0;font-size:0}
+  .orbit-mode-switch button[data-orbit-mode="light"]:after{content:"☀";font-size:17px}
+  .orbit-mode-switch button[data-orbit-mode="dark"]:after{content:"☾";font-size:19px}
+  .brand-emblem{width:52px;height:56px;min-width:52px;position:relative;overflow:hidden;background:transparent;border-radius:10px}
   .brand-emblem img{opacity:1;width:100%;height:100%;object-fit:contain;display:block}
   .brand-emblem:before,.brand-emblem:after{content:none!important;display:none!important}
+  .feature-card{aspect-ratio:4/3}
 }
-@media(max-width:420px){.orbit-mode-switch button{width:36px}.review-tabs{max-width:164px}}
+@media(max-width:420px){.orbit-mode-switch button{width:42px}.review-tabs{max-width:164px}.brand-emblem{width:48px;height:52px;min-width:48px}}
