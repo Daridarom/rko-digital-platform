@@ -1,6 +1,6 @@
 (() => {
  const addCss=(key,href)=>{if(!document.querySelector(`link[data-${key}]`)){const x=document.createElement('link');x.rel='stylesheet';x.href=href;x.setAttribute(`data-${key}`,'true');document.head.appendChild(x)}};
- addCss('orbit-mode','orbit-mode.css');addCss('orbit-polish','orbit-polish.css');addCss('orbit-qa','qa-fixes.css');addCss('orbit-qa-r2','qa-r2.css');addCss('orbit-qa-final','qa-final.css');addCss('logo-integrity','logo-integrity.css?v=20');addCss('mobile-emergency','mobile-emergency-fix.css?v=20');addCss('symbol-integrity','symbol-integrity.css?v=20');addCss('orbit-primary','orbit-primary.css?v=20');
+ addCss('orbit-mode','orbit-mode.css');addCss('orbit-polish','orbit-polish.css');addCss('orbit-qa','qa-fixes.css');addCss('orbit-qa-r2','qa-r2.css');addCss('orbit-qa-final','qa-final.css');addCss('logo-integrity','logo-integrity.css?v=21');addCss('mobile-emergency','mobile-emergency-fix.css?v=21');addCss('symbol-integrity','symbol-integrity.css?v=21');addCss('orbit-primary','orbit-primary.css?v=21');
  document.title='Косматика 2026 — Орбита';
  const themes={orbit:{cls:'theme-orbit',color:'#f6f6f2'},noosphere:{cls:'theme-noosphere',color:'#050711'},institute:{cls:'theme-institute',color:'#f1ede3'}};
  document.querySelectorAll('.quick-search kbd').forEach(e=>e.remove());document.querySelectorAll('.review-tabs button').forEach((e,i)=>{const b=e.querySelector('b');if(b)b.textContent=String(i+1)});document.querySelectorAll('[data-theme="synthesis"] span').forEach(e=>e.textContent='Орбита 2');
