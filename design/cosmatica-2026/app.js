@@ -1,4 +1,12 @@
 (() => {
+  if (!document.querySelector('link[data-orbit-mode]')) {
+    const css = document.createElement('link');
+    css.rel = 'stylesheet';
+    css.href = 'orbit-mode.css';
+    css.dataset.orbitMode = 'true';
+    document.head.appendChild(css);
+  }
+
   const themes = {
     orbit: { cls: 'theme-orbit', label: 'ОРБИТА · вариант 1', color: '#f6f6f2' },
     noosphere: { cls: 'theme-noosphere', label: 'НООСФЕРА · вариант 2', color: '#050711' },
@@ -16,32 +24,71 @@
   let theme = requested || localStorage.getItem('cosmatica-theme');
   if (!themes[theme]) theme = 'orbit';
 
+  const reviewInner = document.querySelector('.review-bar__inner');
+  let modeSwitch = document.querySelector('.orbit-mode-switch');
+  if (reviewInner && !modeSwitch) {
+    modeSwitch = document.createElement('div');
+    modeSwitch.className = 'orbit-mode-switch';
+    modeSwitch.setAttribute('aria-label', 'Режим оформления Орбиты');
+    modeSwitch.innerHTML = '<button type="button" data-orbit-mode="light" aria-label="Светлый режим">Светлая</button><button type="button" data-orbit-mode="dark" aria-label="Тёмный режим">Тёмная</button>';
+    const tabs = reviewInner.querySelector('.review-tabs');
+    reviewInner.insertBefore(modeSwitch, tabs || null);
+  }
+
+  let orbitMode = params.get('mode') || localStorage.getItem('cosmatica-orbit-mode') || 'light';
+  if (!['light','dark'].includes(orbitMode)) orbitMode = 'light';
+
+  const applyOrbitMode = (mode, updateUrl = true) => {
+    orbitMode = mode === 'dark' ? 'dark' : 'light';
+    document.body.classList.toggle('orbit-mode-dark', theme === 'orbit' && orbitMode === 'dark');
+    document.querySelectorAll('[data-orbit-mode]').forEach(btn => {
+      const active = btn.dataset.orbitMode === orbitMode;
+      btn.classList.toggle('active', active);
+      btn.setAttribute('aria-pressed', String(active));
+    });
+    if (theme === 'orbit') {
+      document.querySelector('meta[name="theme-color"]')?.setAttribute('content', orbitMode === 'dark' ? '#070a20' : '#f6f6f2');
+    }
+    localStorage.setItem('cosmatica-orbit-mode', orbitMode);
+    if (updateUrl && theme === 'orbit') {
+      const url = new URL(location.href);
+      url.searchParams.set('mode', orbitMode);
+      history.replaceState({}, '', url);
+    }
+  };
+
   const applyTheme = (name, updateUrl = true) => {
     if (name === 'synthesis') {
       location.href = 'orbit2.html';
       return;
     }
-    const selected = themes[name] || themes.orbit;
-    document.body.classList.remove('theme-orbit','theme-noosphere','theme-institute','theme-synthesis');
+    theme = themes[name] ? name : 'orbit';
+    const selected = themes[theme];
+    document.body.classList.remove('theme-orbit','theme-noosphere','theme-institute','theme-synthesis','orbit-mode-dark');
     document.body.classList.add(selected.cls);
-    document.querySelector('meta[name="theme-color"]')?.setAttribute('content', selected.color);
     const badge = document.getElementById('prototypeBadge');
     if (badge) badge.textContent = selected.label;
     document.querySelectorAll('[data-theme]').forEach(btn => {
-      const active = btn.dataset.theme === name;
+      const active = btn.dataset.theme === theme;
       btn.classList.toggle('active', active);
       btn.setAttribute('aria-pressed', String(active));
     });
-    localStorage.setItem('cosmatica-theme', name);
+    localStorage.setItem('cosmatica-theme', theme);
     if (updateUrl) {
       const url = new URL(location.href);
-      url.searchParams.set('theme', name);
+      url.searchParams.set('theme', theme);
+      if (theme === 'orbit') url.searchParams.set('mode', orbitMode); else url.searchParams.delete('mode');
       history.replaceState({}, '', url);
     }
+    applyOrbitMode(orbitMode, false);
+    if (theme !== 'orbit') document.querySelector('meta[name="theme-color"]')?.setAttribute('content', selected.color);
   };
+
   applyTheme(theme, false);
+  applyOrbitMode(orbitMode, false);
 
   document.querySelectorAll('[data-theme]').forEach(btn => btn.addEventListener('click', () => applyTheme(btn.dataset.theme)));
+  document.querySelectorAll('[data-orbit-mode]').forEach(btn => btn.addEventListener('click', () => applyOrbitMode(btn.dataset.orbitMode)));
 
   const menu = document.getElementById('mainNav');
   const toggle = document.querySelector('.menu-toggle');
