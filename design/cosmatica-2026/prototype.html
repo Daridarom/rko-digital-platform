@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="color-scheme" content="light dark">
   <meta name="robots" content="noindex">
-  <meta name="prototype-version" content="orbit-verified-2026-09-12">
+  <meta name="prototype-version" content="orbit-originals-2026-09-12">
   <meta id="themeColorLight" name="theme-color" content="#f6f6f2" media="(prefers-color-scheme: light)">
   <meta id="themeColorDark" name="theme-color" content="#070a20" media="(prefers-color-scheme: dark)">
   <title>Косматика 2026 — Орбита</title>
@@ -448,7 +448,7 @@
   @layer components {
     .brand { display:flex; flex:1 1 13rem; align-items:center; gap:var(--space-3); min-inline-size:min(100%,13rem); min-block-size:var(--target); }
     .brand__mark { inline-size:var(--space-7); block-size:var(--space-7); flex-shrink:0; border-radius:0; }
-    .brand__copy { display:grid; min-inline-size:0; line-height:1.2; }
+    .brand__copy { display:grid; min-inline-size:0; line-height:1.2; hyphens:none; -webkit-hyphens:none; overflow-wrap:normal; word-break:normal; }
     .brand__copy strong { font-size:var(--text-sm); }
     .brand__copy small { margin-block-start:var(--space-1); color:var(--color-text-muted); font-size:var(--text-xs); }
     :where(.button,.menu-toggle,.quick-search,.control-chip,.dialog-close,.control-row button,.mobile-menu-actions>* ) { display:inline-flex; align-items:center; justify-content:center; min-inline-size:var(--target); min-block-size:var(--target); border:var(--border-strong) solid var(--color-border); border-radius:var(--radius-sm); background:var(--color-surface); color:var(--color-text); padding:var(--space-2) var(--space-3); line-height:1.25; }
@@ -472,8 +472,10 @@
     .metric strong { display:block; font-size:var(--text-xl); line-height:1.1; font-variant-numeric:tabular-nums; }
     .metric span { display:block; margin-block-start:var(--space-2); font-size:var(--text-xs); color:var(--color-text-muted); }
     /* Герб и его контейнеры не получают масок, скруглений или трансформаций. */
-    .emblem-panel { inline-size:min(100%,var(--hero-art)); aspect-ratio:1; background:var(--rko-cosmic); border-radius:0; }
-    .emblem-panel svg { inline-size:100%; block-size:100%; }
+    .emblem-panel { inline-size:min(100%,17.75rem); border-radius:0; }
+    .official-symbol { display:block; max-inline-size:100%; block-size:auto; object-fit:contain; border:0; border-radius:0; clip-path:none; mask:none; -webkit-mask:none; filter:none; transform:none; }
+    .brand__mark.official-symbol { object-fit:contain; }
+    .emblem-panel .official-symbol { inline-size:100%; block-size:auto; aspect-ratio:284 / 271; }
     .visual-note { margin-block-start:var(--space-4); inline-size:min(100%,var(--hero-art)); padding-block-start:var(--space-4); border-block-start:var(--border-strong) solid var(--color-gold); }
     .visual-note strong, .visual-note small { display:block; }
     .visual-note strong { font-size:var(--text-sm); }
@@ -515,8 +517,9 @@
     .symbol-copy .eyebrow, .symbols-wrap .section-link { color:var(--color-focus-on-dark); }
     .symbol-copy p:not(.eyebrow) { margin-block:var(--space-5); color:var(--color-section-dark-muted); }
     .symbol-card { border:var(--border-width) solid var(--color-on-dark-border); padding:var(--space-4); background:var(--color-section-dark); border-radius:0; }
-    .asset-frame { aspect-ratio:1; background:var(--color-on-dark); display:grid; place-items:center; border-radius:0; }
-    .asset-frame svg { inline-size:100%; block-size:100%; }
+    .asset-frame { display:grid; justify-items:center; align-content:start; border-radius:0; }
+    .asset-frame--emblem .official-symbol { inline-size:min(100%,17.75rem); aspect-ratio:284 / 271; }
+    .asset-frame--flag .official-symbol { inline-size:100%; aspect-ratio:1280 / 854; }
     .symbol-card h3 { font-size:var(--text-xl); margin-block:var(--space-4) var(--space-2); }
     .symbol-card p { font-size:var(--text-sm); color:var(--color-section-dark-muted); }
     .symbol-card .tag { margin-block-start:var(--space-4); }
@@ -649,15 +652,12 @@
   </style>
 </head>
 <body>
-  <svg width="0" height="0" class="sr-only" aria-hidden="true" focusable="false">
-    <!-- Согласованная SVG-реконструкция из main. Это не официальный исходный вектор. Геометрия не изменена. -->
-    <symbol id="emblem-prop" viewBox="0 0 100 100"><rect width="100" height="100" fill="var(--rko-cosmic)"/><path d="M0 100V54A46 46 0 0 1 46 100Z" fill="var(--rko-red)"/><path d="M10 92L70 6.3" stroke="var(--rko-gold)" stroke-width="4" vector-effect="non-scaling-stroke"/><text aria-hidden="true" x="8" y="14" fill="var(--rko-gold)" font-size="8" font-family="Arial,sans-serif" font-weight="700">L</text><text aria-hidden="true" x="88" y="94" fill="var(--rko-gold)" font-size="8" font-family="Arial,sans-serif" font-weight="700">T</text><text aria-hidden="true" x="43" y="56" fill="var(--rko-gold)" font-size="8" font-family="Arial,sans-serif" font-weight="700">M</text><text aria-hidden="true" x="2" y="99" fill="var(--rko-gold)" font-size="12" font-family="Arial,sans-serif">★</text><text aria-hidden="true" x="73" y="14" fill="var(--rko-gold)" font-size="10" font-family="Arial,sans-serif">✦</text></symbol>
-  </svg>
+  <!-- Символика: только оригинальные изображения с официального сайта РКО. Не перерисовывать, не обрезать, не перекрашивать. -->
   <a class="skip-link" href="#content">К содержанию</a>
   <header class="site-header" id="siteHeader" data-menu-open="false">
     <div class="topline shell">
       <a class="brand" href="#top" aria-label="Русское космическое общество — к началу страницы">
-        <svg class="brand__mark" role="img" aria-labelledby="brandTitle brandDesc" viewBox="0 0 100 100" focusable="false"><title id="brandTitle">Герб Русского космического общества «Прорыв»</title><desc id="brandDesc">Иссиня-чёрное поле, красно-червлёный сектор и золотой вектор под углом 55 градусов.</desc><use href="#emblem-prop"/></svg>
+        <img class="brand__mark official-symbol" src="https://cosmatica.org/upload/000/u7/3/5/bezymjannyi.jpg" width="284" height="271" alt="Герб Русского космического общества «Прорыв»" decoding="async">
         <span class="brand__copy"><strong>Русское космическое общество</strong><small>Наука · культура · проекты · будущее</small></span>
       </a>
       <div class="header-actions">
@@ -748,7 +748,7 @@
         </div>
       </div>
       <div class="hero-visual">
-        <div class="emblem-panel" aria-hidden="true"><svg viewBox="0 0 100 100" focusable="false"><use href="#emblem-prop"/></svg></div>
+        <div class="emblem-panel" aria-hidden="true"><img class="official-symbol" src="https://cosmatica.org/upload/000/u7/3/5/bezymjannyi.jpg" width="284" height="271" alt="" decoding="async"></div>
         <div class="visual-note"><strong>Прорыв к космическому будущему</strong><small>Мотивы официальной символики используются в интерфейсе, не заменяя сам герб.</small></div>
       </div>
     </section>
@@ -788,11 +788,11 @@
       <div class="shell symbols-grid">
         <div class="symbol-copy"><p class="eyebrow">Символика РКО</p><h2 id="symbolsTitle">Не декоративный бренд, а система смыслов</h2><p>В официальном описании герб «Прорыв» строится на трёх цветах: иссиня-чёрном, красно-червлёном и золотом. Золотой вектор направлен под углом 55° — к Полярной звезде и образу движения в космическое будущее.</p><a class="section-link" href="https://cosmatica.org/about/simvolika" target="_blank" rel="noopener">Официальная символика РКО →</a></div>
         <article class="symbol-card">
-          <div class="asset-frame"><svg role="img" aria-labelledby="symbolTitle symbolDesc" viewBox="0 0 100 100" focusable="false"><title id="symbolTitle">Герб РКО «Прорыв»</title><desc id="symbolDesc">Иссиня-чёрное поле, красно-червлёный сектор и золотой вектор под углом 55 градусов.</desc><use href="#emblem-prop"/></svg></div>
+          <div class="asset-frame asset-frame--emblem"><img class="official-symbol" src="https://cosmatica.org/upload/000/u7/3/5/bezymjannyi.jpg" width="284" height="271" alt="Герб РКО «Прорыв» — оригинальное изображение" loading="lazy" decoding="async"></div>
           <div><span class="tag tag--soft">Герб</span><h3>«Прорыв»</h3><p>Звезда, пространство L, время T, точка M и золотой вектор движения.</p></div>
         </article>
         <article class="symbol-card">
-          <div class="asset-frame"><svg class="flag-svg" role="img" aria-labelledby="flagTitle flagDesc" viewBox="0 0 300 200" focusable="false"><title id="flagTitle">Знамя Русского космического общества «Красный Поход»</title><desc id="flagDesc">Красно-червлёное поле, золотая надпись и герб РКО.</desc><rect width="300" height="200" fill="var(--rko-red)"/><use href="#emblem-prop" x="18" y="18" width="68" height="68"/><text aria-hidden="true" x="110" y="82" fill="var(--rko-gold)" font-size="16" font-family="Arial,sans-serif" font-weight="700" textLength="174" lengthAdjust="spacingAndGlyphs">РУССКОЕ КОСМИЧЕСКОЕ</text><text aria-hidden="true" x="110" y="106" fill="var(--rko-gold)" font-size="16" font-family="Arial,sans-serif" font-weight="700">ОБЩЕСТВО</text><path d="M28 172L128 29" stroke="var(--rko-gold)" stroke-width="4"/></svg></div>
+          <div class="asset-frame asset-frame--flag"><img class="official-symbol" src="https://cosmatica.org/upload/000/u7/9/5/iqvtee-irdi.jpg" width="1280" height="854" alt="Знамя Русского космического общества «Красный Поход» — оригинальное изображение" loading="lazy" decoding="async"></div>
           <div><span class="tag tag--soft">Знамя</span><h3>«Красный Поход»</h3><p>Красно-червлёное поле, золотая надпись и герб РКО как образ прорыва в космическое будущее.</p></div>
         </article>
       </div>
@@ -824,7 +824,7 @@
   <footer class="site-footer" aria-labelledby="footerTitle">
     <h2 class="sr-only" id="footerTitle">Навигация и связь с РКО</h2>
     <div class="shell footer-grid">
-      <div class="footer-brand"><svg class="brand__mark" aria-hidden="true" focusable="false" viewBox="0 0 100 100"><use href="#emblem-prop"/></svg><div><strong>Русское космическое общество</strong><p>Прототип визуального обновления 2026</p></div></div>
+      <div class="footer-brand"><img class="brand__mark official-symbol" src="https://cosmatica.org/upload/000/u7/3/5/bezymjannyi.jpg" width="284" height="271" alt="" loading="lazy" decoding="async"><div><strong>Русское космическое общество</strong><p>Прототип визуального обновления 2026</p></div></div>
       <nav class="footer-col" aria-label="Разделы"><h3>Разделы</h3><a href="https://cosmatica.org/news" target="_blank" rel="noopener">Новости</a><a href="https://cosmatica.org/projects" target="_blank" rel="noopener">Проекты</a><a href="https://cosmatica.org/library" target="_blank" rel="noopener">Библиотека</a></nav>
       <nav class="footer-col" aria-label="Участие"><h3>Участие</h3><a href="https://cosmatica.org/departments" target="_blank" rel="noopener">Отделения</a><a href="https://cosmatica.org/users" target="_blank" rel="noopener">Состав РКО</a><a href="https://cosmatica.org/o-vstuplenii-v-rjady-rko.html" target="_blank" rel="noopener">Вступить</a></nav>
       <nav class="footer-col" aria-label="Связь"><h3>Связь</h3><a href="https://vk.com/cosmatica" target="_blank" rel="noopener">VK</a><a href="https://t.me/RKO_cosmatica" target="_blank" rel="noopener">Telegram</a><a href="https://cosmatica.org/about/contacts" target="_blank" rel="noopener">Контакты</a></nav>
