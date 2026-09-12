@@ -44,15 +44,14 @@ body.theme-orbit.orbit-mode-dark .timeline a{border-color:rgba(255,255,255,.10)}
 body.theme-orbit.orbit-mode-dark .site-footer{background:#050718}
 body.theme-orbit.orbit-mode-dark .symbols-wrap{background:linear-gradient(145deg,#070a22,#0e1640 72%,#19090e)}
 
-/* Мобильная шапка: герб работает как знак, а мелкие буквенные детали не должны быть условием узнавания. */
+/* Мобильная шапка: используем только официальный герб «Прорыв» без упрощённой перерисовки. */
 @media(max-width:760px){
   .orbit-mode-switch{margin-left:auto}
   .orbit-mode-switch button{width:40px;padding:0;font-size:0}
   .orbit-mode-switch button[data-orbit-mode="light"]:after{content:"☀";font-size:16px}
   .orbit-mode-switch button[data-orbit-mode="dark"]:after{content:"☾";font-size:18px}
-  .brand-emblem{width:40px;height:40px;min-width:40px;position:relative;overflow:hidden;background:#080a2e}
-  .brand-emblem img{opacity:0}
-  .brand-emblem:before{content:"";position:absolute;left:0;bottom:0;width:47%;height:47%;background:#98161f;border-radius:0 100% 0 0}
-  .brand-emblem:after{content:"";position:absolute;left:9px;bottom:8px;width:30px;height:2px;background:#d6a72f;transform:rotate(-55deg);transform-origin:left}
+  .brand-emblem{width:46px;height:50px;min-width:46px;position:relative;overflow:hidden;background:#fff;border-radius:12px}
+  .brand-emblem img{opacity:1;width:100%;height:100%;object-fit:contain;display:block}
+  .brand-emblem:before,.brand-emblem:after{content:none!important;display:none!important}
 }
 @media(max-width:420px){.orbit-mode-switch button{width:36px}.review-tabs{max-width:164px}}
