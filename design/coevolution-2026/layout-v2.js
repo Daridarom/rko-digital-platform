@@ -2,27 +2,29 @@
   'use strict';
   const ready = fn => document.readyState === 'loading' ? document.addEventListener('DOMContentLoaded', fn, {once:true}) : fn();
   ready(() => {
-    // Главная: показываем уменьшенную копию той же исходной схемы, без собственной интерпретации.
+    const exactSourceImage = 'maria-matrix-original.webp';
+
+    // Главная: показываем тот же исходный лист Марии без перерисовки.
     const orbit = document.querySelector('[data-page="home"] .orbit-wrap');
     if (orbit) {
       orbit.innerHTML = `
-        <a class="hero-source-card" href="#/matrix" aria-label="Открыть маршрутный лист НИРМЫ">
+        <a class="hero-source-card" href="#/matrix" aria-label="Открыть исходный маршрутный лист НИРМЫ">
           <div class="hero-source-head">
-            <div><small>Маршрутный лист НИРМЫ</small><strong>4 сферы × 4 уровня</strong></div>
+            <div><small>Маршрутный лист НИРМЫ</small><strong>Исходная схема программы</strong></div>
             <span>Открыть ↗</span>
           </div>
-          <img src="matrix-source.svg" alt="Маршрутный лист Миссия НИРМА — Конструктора будущего 2026">
+          <img src="${exactSourceImage}" alt="Исходный маршрутный лист Миссия НИРМА — Конструктора будущего 2026">
         </a>`;
     }
 
-    // НИРМА: фиксируем аккуратный перенос названия.
+    // НИРМА: аккуратный перенос названия.
     document.querySelectorAll('.program-feature .art-type').forEach(el => {
       if (el.textContent.replace(/\s+/g,' ').trim().toLowerCase().includes('конструк')) {
         el.innerHTML = '<span class="program-kicker">Конструкторы</span><span class="program-future">будущего</span>';
       }
     });
 
-    // Страница матрицы: один эталонный маршрутный лист. Никаких фильтров, поиска и второй матрицы.
+    // Страница матрицы: только исходный лист. Никаких реконструкций, фильтров и второй матрицы.
     const page = document.querySelector('[data-page="matrix"]');
     if (page) {
       const heading = page.querySelector('.page-heading');
@@ -32,7 +34,7 @@
         const lead = heading.querySelector('.lead');
         if (eyebrow) eyebrow.textContent = 'Маршрутный лист «Миссия НИРМА» · Конструктора будущего 2026';
         if (h1) h1.innerHTML = 'Матрица <span class="red">4 × 4.</span>';
-        if (lead) lead.textContent = 'Структура сохранена по исходному файлу: четыре сферы взаимосвязей по горизонтали, четыре уровня по вертикали и 23 активности программы.';
+        if (lead) lead.textContent = 'На странице показан исходный маршрутный лист без переработки его структуры и расположения элементов.';
       }
 
       const body = page.querySelector('.page-body');
@@ -41,17 +43,15 @@
           <figure class="maria-source">
             <div class="maria-source__head">
               <div>
-                <strong>Исходная структура маршрутного листа</strong>
-                <p>Без перестановки занятий и без дополнительной интерфейсной логики.</p>
+                <strong>Исходный маршрутный лист</strong>
+                <p>Показана первая страница исходного файла в том виде, в котором она была предоставлена. Для чтения мелких подписей откройте изображение крупно.</p>
               </div>
-              <a href="matrix-source.svg" target="_blank" rel="noopener">Открыть крупно ↗</a>
+              <a href="${exactSourceImage}" target="_blank" rel="noopener">Открыть крупно ↗</a>
             </div>
-            <a class="maria-source__image" href="matrix-source.svg" target="_blank" rel="noopener" aria-label="Открыть маршрутный лист крупно">
-              <img src="matrix-source.svg" alt="Маршрутный лист Миссия НИРМА — Конструктора будущего 2026">
+            <a class="maria-source__image" href="${exactSourceImage}" target="_blank" rel="noopener" aria-label="Открыть исходный маршрутный лист крупно">
+              <img src="${exactSourceImage}" alt="Исходный маршрутный лист Миссия НИРМА — Конструктора будущего 2026">
             </a>
-            <figcaption>
-              Веб-копия повторяет исходный лист по расположению блоков, цветам, номерам, названиям занятий, отметочным квадратам и объединённым областям №15 и №23. Оригинальный PDF сохранён в архиве проекта под именем «Программа_квест_Конструктора_будущего.pdf».
-            </figcaption>
+            <figcaption>На сайте больше не используется перерисованная SVG-версия как источник. Оригинальный PDF сохранён отдельно в архиве проекта для сверки.</figcaption>
           </figure>`;
       }
     }
