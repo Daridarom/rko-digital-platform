@@ -2,7 +2,7 @@
   'use strict';
   const ready = fn => document.readyState === 'loading' ? document.addEventListener('DOMContentLoaded', fn, {once:true}) : fn();
   ready(() => {
-    const exactSourceImage = 'maria-matrix-original.webp?v=20260912-1648';
+    const exactSourceImage = 'maria-matrix-source.jpg?v=20260912-1726';
 
     // Главная: показываем тот же исходный лист Марии без перерисовки.
     const orbit = document.querySelector('[data-page="home"] .orbit-wrap');
@@ -51,7 +51,7 @@
             <a class="maria-source__image" href="${exactSourceImage}" target="_blank" rel="noopener" aria-label="Открыть исходный маршрутный лист крупно">
               <img src="${exactSourceImage}" alt="Исходный маршрутный лист Миссия НИРМА — Конструктора будущего 2026">
             </a>
-            <figcaption>На сайте больше не используется перерисованная SVG-версия как источник. Оригинальный PDF сохранён отдельно в архиве проекта для сверки.</figcaption>
+            <figcaption>Используется растр, полученный непосредственно из первой страницы исходного PDF. Перерисованная SVG-версия больше не используется как источник.</figcaption>
           </figure>`;
       }
     }
