@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
+<title id="title">Маршрутный лист «Миссия НИРМА» — Конструктора будущего 2026</title>
+<desc id="desc">Четыре сферы взаимосвязей по горизонтали, четыре уровня по вертикали и 23 активности программы.</desc>
+<style>
+text{font-family:Inter,Arial,sans-serif;fill:#10121c}.title{font-size:29px;font-weight:700;letter-spacing:.035em;fill:#517da5}.h{font-size:20px;font-weight:700}.row{font-size:18px;font-weight:800}.n{font-size:18px;font-weight:700}.t{font-size:18px}.small{font-size:16px}.grid{stroke:#587d9f;stroke-width:2;fill:none}.nature{fill:#dff3e4}.self{fill:#eedced}.people{fill:#e0eef8}.society{fill:#fae2d0}.research{fill:#e9e2b8}.box{fill:#fff;fill-opacity:.7;stroke:#6c7279;stroke-width:2;rx:8}.muted{fill:#5d6570}.labelbg{fill:#f7f7f2}
+</style>
+<rect width="1400" height="820" fill="#fff"/>
+<text class="title" x="700" y="42" text-anchor="middle">МАРШРУТНЫЙ ЛИСТ «МИССИЯ НИРМА» — КОНСТРУКТОРА БУДУЩЕГО 2026</text>
+<!-- geometry: left 180, columns 295 each -->
+<rect class="labelbg" x="20" y="60" width="160" height="720"/>
+<rect class="nature" x="180" y="60" width="295" height="720"/>
+<rect class="self" x="475" y="60" width="295" height="720"/>
+<rect class="people" x="770" y="60" width="295" height="720"/>
+<rect class="society" x="1065" y="60" width="315" height="720"/>
+<g class="grid">
+<rect x="20" y="60" width="1360" height="720"/>
+<line x1="180" y1="60" x2="180" y2="780"/><line x1="475" y1="60" x2="475" y2="780"/><line x1="770" y1="60" x2="770" y2="780"/><line x1="1065" y1="60" x2="1065" y2="780"/>
+<line x1="20" y1="160" x2="1380" y2="160"/><line x1="20" y1="305" x2="1380" y2="305"/><line x1="20" y1="450" x2="1380" y2="450"/><line x1="20" y1="655" x2="1380" y2="655"/>
+</g>
+<!-- diagonal axis label -->
+<line x1="20" y1="60" x2="180" y2="160" stroke="#587d9f" stroke-width="2"/>
+<text class="h" x="110" y="88">СВЯЗИ</text><text class="h" x="35" y="148">УРОВНИ</text>
+<!-- column headers -->
+<text class="h" x="205" y="88">Человек</text><text class="h" x="205" y="116">и природа</text>
+<text class="h" x="500" y="88">Человек</text><text class="h" x="500" y="116">сам с собой</text>
+<text class="h" x="795" y="88">Человек</text><text class="h" x="795" y="116">и человек</text>
+<text class="h" x="1090" y="88">Человек</text><text class="h" x="1090" y="116">и общество</text>
+<!-- row labels -->
+<text class="row" x="35" y="205">ИНФОРМА-</text><text class="row" x="35" y="230">ТИВНЫЙ</text>
+<text class="row" x="35" y="350">ПРАКТИЧЕ-</text><text class="row" x="35" y="375">СКИЙ</text>
+<text class="row" x="35" y="505">ТВОРЧЕСКИЙ</text>
+<text class="row" x="35" y="703">ИССЛЕДО-</text><text class="row" x="35" y="728">ВАТЕЛЬ-</text><text class="row" x="35" y="753">СКИЙ</text>
+<!-- informative -->
+<text class="n" x="198" y="190">1.</text><text class="t" x="198" y="218">Орнитология</text>
+<text class="n" x="333" y="190">2.</text><text class="t" x="333" y="218">Астрономия</text>
+<text class="n" x="495" y="190">8.</text><text class="t" x="495" y="218">Управление временем</text>
+<text class="n" x="790" y="190">13.</text><text class="t" x="790" y="218">Фильм «Школьные</text><text class="t" x="790" y="242">ботаны»</text>
+<text class="n" x="1085" y="190">16.</text><text class="t" x="1085" y="218">Лит. клуб</text><text class="t" x="1085" y="242">Фильм «Белая Ворона»</text>
+<text class="n" x="1250" y="190">17.</text><text class="t" x="1250" y="218">Библиотека</text>
+<!-- practice -->
+<text class="n" x="198" y="335">3.</text><text class="t" x="198" y="363">Пчеловодство</text>
+<text class="n" x="333" y="335">4.</text><text class="t" x="333" y="363">Поход в лес</text>
+<text class="n" x="495" y="335">9.</text><text class="t" x="495" y="363">Сообжариум</text>
+<text class="n" x="625" y="335">10.</text><text class="t" x="625" y="363">Тренировки тела</text>
+<text class="n" x="790" y="335">14.</text><text class="t" x="790" y="363">Мастерская дружбы</text>
+<text class="n" x="1085" y="335">18.</text><text class="t" x="1085" y="363">Лит. клуб</text><text class="t" x="1085" y="387">Пишем рассказ</text>
+<text class="n" x="1250" y="335">19.</text><text class="t" x="1250" y="363">Три роли</text>
+<!-- creative -->
+<text class="n" x="198" y="480">5.</text><text class="t" x="198" y="508">Гончарка</text>
+<text class="n" x="333" y="480">6.</text><text class="t" x="333" y="508">Улучшаем</text><text class="t" x="333" y="532">пространство</text>
+<text class="n" x="198" y="575">7.</text><text class="t" x="198" y="603">Творим из природных</text><text class="t" x="198" y="627">материалов</text>
+<text class="n" x="495" y="480">11.</text><text class="t" x="495" y="508">Самопрезентация</text>
+<text class="n" x="495" y="575">12.</text><text class="t" x="495" y="603">Я глазами других</text>
+<!-- 15 spanning self + people -->
+<rect x="620" y="545" width="425" height="86" fill="#dfe5f2" fill-opacity=".72" stroke="#587d9f" stroke-width="1.5" rx="10"/>
+<text class="n" x="645" y="578">15.</text><text class="t" x="700" y="578">Театральная мастерская</text>
+<text class="n" x="1085" y="480">20.</text><text class="t" x="1085" y="508">Лит. клуб</text><text class="t" x="1085" y="532">«Сила слова»</text>
+<text class="n" x="1250" y="480">21.</text><text class="t" x="1250" y="508">Конференция</text>
+<!-- research -->
+<rect x="180" y="655" width="885" height="125" fill="#dfeee9" fill-opacity=".74" stroke="#587d9f" stroke-width="1.5"/>
+<text class="n" x="198" y="690">23.</text><text class="t" x="198" y="720">Исследовательская деятельность:</text><text class="t" x="198" y="748">строители, ОБЖ, природоведы, экологи</text>
+<rect x="1065" y="655" width="315" height="125" class="research" stroke="#587d9f" stroke-width="1.5"/>
+<text class="n" x="1090" y="700">22.</text><text class="t" x="1138" y="700">Фестиваль</text><text class="t" x="1138" y="730">«ЭКОДВИЖ»</text>
+</svg>
