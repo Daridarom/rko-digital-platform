@@ -1,0 +1,74 @@
+/* QA R2 — дополнительная выверка desktop/mobile, light/dark. */
+body.theme-orbit .topline{padding-block:6px}
+body.theme-orbit .header-actions{gap:12px}
+body.theme-orbit .header-actions .button-small{min-height:44px}
+body.theme-orbit .quick-search{min-height:44px}
+body.theme-orbit .main-nav{gap:24px}
+body.theme-orbit .main-nav a{padding-inline:2px}
+body.theme-orbit .axis{color:#e0b54b;text-shadow:0 1px 8px rgba(0,0,0,.22)}
+body.theme-orbit .axis-v{border-left-color:rgba(224,181,75,.62)}
+body.theme-orbit .axis-h{border-bottom-color:rgba(224,181,75,.62)}
+body.theme-orbit .trajectory-point,body.theme-orbit .trajectory-star,body.theme-orbit .polar-star{color:#e0b54b}
+body.theme-orbit .event-card{justify-content:flex-start}
+body.theme-orbit .event-card h3{line-height:1.12}
+body.theme-orbit .event-card p{margin-bottom:14px}
+body.theme-orbit .pulse-grid>*{min-height:100%}
+body.theme-orbit .feature-copy h3{max-width:18ch}
+body.theme-orbit.orbit-mode-dark .timeline{border:1px solid rgba(255,255,255,.16)}
+body.theme-orbit.orbit-mode-dark .timeline a{border-color:rgba(255,255,255,.14)}
+body.theme-orbit.orbit-mode-dark .timeline span{color:#c7cad4}
+body.theme-orbit.orbit-mode-dark .knowledge-panel,body.theme-orbit.orbit-mode-dark .knowledge-item{border-color:rgba(255,255,255,.16)}
+body.theme-orbit.orbit-mode-dark .visual-note{border-color:rgba(255,255,255,.19)}
+body.theme-orbit:not(.orbit-mode-dark) .button-ghost{border-color:#aeb2ba;background:#fff}
+body.theme-orbit:not(.orbit-mode-dark) .visual-note{border-color:#d5d7d9}
+body.theme-orbit:not(.orbit-mode-dark) .timeline{border:1px solid #d9dad7}
+
+@media(min-width:761px){
+  body.theme-orbit .review-bar__inner{min-height:58px}
+  body.theme-orbit .orbit-mode-switch button{min-height:44px;padding-inline:15px}
+  body.theme-orbit .review-tabs button{min-height:44px}
+  body.theme-orbit .topline{min-height:88px}
+  body.theme-orbit .hero-actions .button{min-height:50px}
+}
+
+@media(max-width:760px){
+  body.theme-orbit .shell{width:min(100% - 28px,1180px)}
+  body.theme-orbit .review-bar{box-shadow:0 5px 16px rgba(0,0,0,.14)}
+  body.theme-orbit .review-bar__inner{padding-inline:0}
+  body.theme-orbit .review-tabs{mask-image:linear-gradient(to right,transparent 0,#000 8px,#000 calc(100% - 8px),transparent 100%)}
+  body.theme-orbit .site-header{box-shadow:0 1px 0 var(--line)}
+  body.theme-orbit .topline{padding-block:8px}
+  body.theme-orbit .brand-emblem{flex:0 0 50px!important;width:50px!important;height:54px!important;min-width:50px!important}
+  body.theme-orbit .brand-copy{max-width:170px}
+  body.theme-orbit .menu-toggle{border-width:1px;font-weight:700}
+  body.theme-orbit .main-nav.open{padding-inline:14px;padding-bottom:14px;background:var(--bg)}
+  body.theme-orbit .main-nav.open a{border-radius:10px;padding-inline:10px}
+  body.theme-orbit .main-nav.open a:active{background:var(--surface2)}
+  body.theme-orbit .hero{padding-top:30px;padding-bottom:34px}
+  body.theme-orbit .hero-actions .button{min-height:54px;font-size:15px}
+  body.theme-orbit .hero-meta span{padding:12px 0;border-top:1px solid color-mix(in srgb,var(--line) 78%,transparent)}
+  body.theme-orbit .visual-note{position:relative;right:auto;bottom:auto;margin-top:-18px;max-width:88%;justify-self:end}
+  body.theme-orbit .feature-copy h3{font-size:24px;max-width:20ch}
+  body.theme-orbit .event-card a{min-height:48px}
+  body.theme-orbit .direction-card .arrow{width:48px;height:48px}
+  body.theme-orbit .section-link{min-height:48px}
+}
+
+@media(max-width:420px){
+  body.theme-orbit .review-tabs{justify-content:flex-start}
+  body.theme-orbit .review-tabs button{flex:0 0 38px}
+  body.theme-orbit .brand-copy{max-width:145px}
+  body.theme-orbit .menu-toggle{min-width:48px;padding-inline:12px}
+  body.theme-orbit .hero-actions .button{border-radius:16px}
+  body.theme-orbit .visual-note{max-width:92%;padding:14px 16px}
+  body.theme-orbit .feature-copy{padding:17px}
+  body.theme-orbit .feature-copy h3{font-size:22px}
+  body.theme-orbit .event-card{padding:18px}
+}
+
+@media(max-width:360px){
+  body.theme-orbit .brand-copy{max-width:125px}
+  body.theme-orbit .brand-copy strong{font-size:12px}
+  body.theme-orbit .review-tabs button{flex-basis:35px;min-width:35px;width:35px}
+  body.theme-orbit .hero h1{font-size:40px}
+}

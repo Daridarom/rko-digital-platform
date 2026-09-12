@@ -1,5 +1,6 @@
 (()=>{
 if(!document.querySelector('link[data-inner-qa]')){const q=document.createElement('link');q.rel='stylesheet';q.href='inner-qa.css';q.dataset.innerQa='true';document.head.appendChild(q)}
+if(!document.querySelector('link[data-inner-qa-r2]')){const q2=document.createElement('link');q2.rel='stylesheet';q2.href='inner-r2.css';q2.dataset.innerQaR2='true';document.head.appendChild(q2)}
 const p=new URLSearchParams(location.search);let m=p.get('mode')||localStorage.getItem('cosmatica-orbit-mode')||'light';
 const apply=x=>{m=x==='dark'?'dark':'light';document.body.classList.toggle('dark',m==='dark');document.querySelectorAll('[data-mode]').forEach(b=>{const a=b.dataset.mode===m;b.classList.toggle('active',a);b.setAttribute('aria-pressed',String(a))});localStorage.setItem('cosmatica-orbit-mode',m);const u=new URL(location.href);u.searchParams.set('mode',m);history.replaceState({},'',u)};
 document.querySelectorAll('[data-mode]').forEach(b=>b.addEventListener('click',()=>apply(b.dataset.mode)));apply(m);
@@ -13,7 +14,7 @@ if(top){
 }
 
 const links=[
- ['Главная — Орбита','prototype.html?theme=orbit','Главная'],['Новости и статьи','news.html','Новости'],['Проекты РКО','projects.html','Проекты'],['Библиотека РКО','library.html','Библиотека'],['Региональные отделения','department.html','Отделения'],['UI-kit «Орбита»','ui-kit.html','Система']
+ ['Главная — Орбита','prototype.html?theme=orbit','Главная'],['Новости и статьи','news.html','Новости'],['Проекты РКО','projects.html','Проекты'],['Библиотека РКО','library.html','Библиотека'],['Региональные отделения','department.html','Отделения'],['UI-kit «Орбита»','uikit.html','Система']
 ];
 const overlay=document.createElement('div');overlay.className='app-overlay';overlay.innerHTML=`<div class="search-panel" role="dialog" aria-modal="true" aria-label="Поиск по прототипу"><div class="search-head"><b>Поиск по «Орбите»</b><button class="close-x" aria-label="Закрыть">×</button></div><input class="search-input" type="search" placeholder="Новости, проекты, библиотека…" autocomplete="off"><div class="search-results"></div><div class="search-hint">Прототип: поиск показывает структуру будущего интерфейса.</div></div>`;document.body.appendChild(overlay);
 const input=overlay.querySelector('.search-input');const results=overlay.querySelector('.search-results');

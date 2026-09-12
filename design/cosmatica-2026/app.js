@@ -8,8 +8,10 @@
   if (!document.querySelector('link[data-orbit-qa]')) {
     const qa = document.createElement('link'); qa.rel='stylesheet'; qa.href='qa-fixes.css'; qa.dataset.orbitQa='true'; document.head.appendChild(qa);
   }
+  if (!document.querySelector('link[data-orbit-qa-r2]')) {
+    const qa2 = document.createElement('link'); qa2.rel='stylesheet'; qa2.href='qa-r2.css'; qa2.dataset.orbitQaR2='true'; document.head.appendChild(qa2);
+  }
 
-  /* Единая формулировка: рекомендуемое направление — «Орбита». */
   document.title = 'Косматика 2026 — Орбита';
   const setMeta=(selector,value)=>{const el=document.querySelector(selector); if(el) el.setAttribute('content',value)};
   setMeta('meta[name="description"]','Рекомендуемое визуальное направление портала Русского космического общества — «Орбита» со светлым и тёмным режимами.');
@@ -27,7 +29,6 @@
   document.querySelectorAll('.review-tabs button').forEach((el,i)=>{const b=el.querySelector('b'); if(b)b.textContent=String(i+1)});
   document.querySelectorAll('.quick-search kbd').forEach(el=>el.remove());
 
-  /* Спорный арт «Космоздрав» явно обозначаем как концептуальный. */
   document.querySelectorAll('.feature-card').forEach(card=>{const h=card.querySelector('h3'); if(h?.textContent.includes('Космоздрав')){const tag=card.querySelector('.tag'); const p=card.querySelector('p'); if(tag)tag.textContent='Концептуальная иллюстрация'; if(p)p.textContent='Образный визуал проекта; не документальная фотография.';}});
   const note=document.querySelector('.visual-note small'); if(note) note.textContent='Мотивы официальной символики используются в интерфейсе, но не заменяют и не изменяют сам герб';
 
