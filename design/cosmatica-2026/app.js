@@ -5,6 +5,9 @@
   if (!document.querySelector('link[data-orbit-polish]')) {
     const polish = document.createElement('link'); polish.rel='stylesheet'; polish.href='orbit-polish.css'; polish.dataset.orbitPolish='true'; document.head.appendChild(polish);
   }
+  if (!document.querySelector('link[data-orbit-qa]')) {
+    const qa = document.createElement('link'); qa.rel='stylesheet'; qa.href='qa-fixes.css'; qa.dataset.orbitQa='true'; document.head.appendChild(qa);
+  }
 
   /* Единая формулировка: рекомендуемое направление — «Орбита». */
   document.title = 'Косматика 2026 — Орбита';
