@@ -2,7 +2,7 @@
   'use strict';
   const ready = fn => document.readyState === 'loading' ? document.addEventListener('DOMContentLoaded', fn, {once:true}) : fn();
   ready(() => {
-    const exactSourceImage = 'maria-matrix-original.webp';
+    const exactSourceImage = 'maria-matrix-original.jpg';
 
     // Главная: показываем тот же исходный лист Марии без перерисовки.
     const orbit = document.querySelector('[data-page="home"] .orbit-wrap');
