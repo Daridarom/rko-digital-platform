@@ -18,6 +18,54 @@ const feature=`<div class="program-feature"><div class="program-copy"><span clas
 $$('[data-program-feature]').forEach(x=>x.innerHTML=feature);
 $$('[data-program-cards]').forEach(x=>x.innerHTML=D.programs.map((p,i)=>`<article class="card program-small"><span class="pill">Описание в разработке</span><h3>${esc(p.name)}</h3><p>${esc(p.text)}</p><a class="text-link" href="#/${p.id}">О направлении <span aria-hidden="true">↗</span></a></article>`).join(''));
 $('#research-directions').innerHTML=D.directions.map((d,i)=>`<article class="card nirma-detail"><span class="step-number">0${i+1} / НАПРАВЛЕНИЕ</span><h3>${esc(d.name)}</h3><p>${esc(d.study)}</p><div class="card-label">Практика</div><p style="margin-top:0">${esc(d.practice)}</p><div class="card-label">Предусмотренный продукт</div><p style="margin-top:0">${esc(d.product)}</p></article>`).join('');
+
+function enhanceMatrixMeaning(){
+  const page=$('[data-page="matrix"]');
+  if(!page)return;
+  const heading=$('.page-heading',page), body=$('.page-body',page);
+  $('.eyebrow',heading).textContent='Маршрутный лист «Миссия НИРМА» · Конструкторы будущего 2026';
+  $('h1',heading).innerHTML='Связи и уровни.<br><span class="red">Целостный маршрут.</span>';
+  $('.lead',heading).textContent='Сетка строится на пересечении четырёх видов взаимосвязей и четырёх уровней погружения. Задача маршрута — не собрать отдельные занятия, а связать знание, действие, творчество и исследование в единую картину мира.';
+  const intro=document.createElement('section');
+  intro.className='matrix-meaning';
+  intro.innerHTML=`
+    <div class="wide-note"><strong>Как читать исходную схему.</strong> По горизонтали идут четыре сферы взаимосвязей: «Человек и природа», «Человек сам с собой», «Человек и человек», «Человек и общество». По вертикали — информативный, практический, творческий и исследовательский уровни. В маршрутном листе размещены 23 активности; некоторые связывают сразу несколько сфер.</div>
+    <div class="grid2" style="margin-bottom:28px">
+      <article class="card"><span class="step-number">ГОРИЗОНТАЛЬ / СВЯЗИ</span><h3>Где происходит развитие</h3><p><b>Человек и природа</b> — взаимодействие с живой и материальной средой.</p><p><b>Человек сам с собой</b> — внутренняя гармония тела, внимания и разума.</p><p><b>Человек и человек</b> — эмпатия, дружба и командное взаимодействие.</p><p><b>Человек и общество</b> — культура, смыслы, роли и участие в общем деле.</p></article>
+      <article class="card"><span class="step-number">ВЕРТИКАЛЬ / УРОВНИ</span><h3>Как углубляется опыт</h3><p><b>Информативный</b> — получить знания и смыслы.</p><p><b>Практический</b> — проверить знание в действии и сформировать навык.</p><p><b>Творческий</b> — создать новое и выйти за рамки готовой инструкции.</p><p><b>Исследовательский</b> — соединить уровни, осмыслить опыт и управлять процессом.</p></article>
+    </div>
+    <div class="section-head" style="margin-top:42px"><div><p class="eyebrow">Пять принципов построения программы</p><h2>Матрица — не таблица ради таблицы.</h2></div><p>Она задаёт условия, при которых программа остаётся целостной и не замыкается только на теории или одном типе активности.</p></div>
+    <div class="grid3" style="margin-bottom:38px">
+      <article class="card"><span class="step-number">01</span><h3>Живая природа</h3><p>Деятельность связывается с реальным взаимодействием с природой, а не только с виртуальной или кабинетной средой.</p></article>
+      <article class="card"><span class="step-number">02</span><h3>Вся система связей</h3><p>Программа охватывает отношения человека с природой, обществом, самим собой и другими людьми.</p></article>
+      <article class="card"><span class="step-number">03</span><h3>Все уровни освоения</h3><p>Знать недостаточно: опыт проходит через практику, творчество и исследовательское осмысление.</p></article>
+      <article class="card"><span class="step-number">04</span><h3>Выход наружу</h3><p>Результаты связываются с внешними группами, специалистами и большим миром, а не остаются внутри одной команды.</p></article>
+      <article class="card"><span class="step-number">05</span><h3>Инициатива и соразвитие</h3><p>Структура задаёт маршрут, но оставляет пространство для инициативы, уникальных способностей и горизонтального взаимодействия.</p></article>
+      <article class="card"><span class="step-number">СМЫСЛ</span><h3>Целостное мировоззрение</h3><p>Каждое событие связывается с ответственностью, сонастроенностью с природой и способностью видеть последствия собственных действий.</p></article>
+    </div>
+    <div class="section-head" style="margin-bottom:24px"><div><p class="eyebrow">Веб-реконструкция исходного маршрутного листа</p><h2>23 активности в их исходных связях.</h2></div><p>Ниже сохранены номера и размещение из предоставленной схемы. Интерактивность добавлена только для удобства просмотра.</p></div>`;
+  body.insertBefore(intro, body.firstChild);
+
+  const style=document.createElement('style');
+  style.textContent=`
+    .matrix-meaning .card b{color:var(--text);font-weight:650}.matrix-meaning .card p{line-height:1.55}
+    html[data-mode="light"] .matrix-board .matrix-col[style*="grid-column:2"],html[data-mode="light"] .matrix-board .matrix-cell[style*="grid-column:2"]{background:#dff3e4}
+    html[data-mode="light"] .matrix-board .matrix-col[style*="grid-column:3"],html[data-mode="light"] .matrix-board .matrix-cell[style*="grid-column:3"]{background:#eedced}
+    html[data-mode="light"] .matrix-board .matrix-col[style*="grid-column:4"],html[data-mode="light"] .matrix-board .matrix-cell[style*="grid-column:4"]{background:#e0eef8}
+    html[data-mode="light"] .matrix-board .matrix-col[style*="grid-column:5"],html[data-mode="light"] .matrix-board .matrix-cell[style*="grid-column:5"]{background:#fae2d0}
+    html[data-mode="light"] .matrix-board .matrix-cell[style*="span 2"]{background:linear-gradient(90deg,#eedced 0 50%,#e0eef8 50%)}
+    html[data-mode="light"] .matrix-board .matrix-cell[style*="span 3"]{background:linear-gradient(90deg,#dff3e4 0 33.33%,#eedced 33.33% 66.66%,#e0eef8 66.66%)}
+    html[data-mode="dark"] .matrix-board .matrix-col[style*="grid-column:2"],html[data-mode="dark"] .matrix-board .matrix-cell[style*="grid-column:2"]{background:#102b25}
+    html[data-mode="dark"] .matrix-board .matrix-col[style*="grid-column:3"],html[data-mode="dark"] .matrix-board .matrix-cell[style*="grid-column:3"]{background:#2a1b2b}
+    html[data-mode="dark"] .matrix-board .matrix-col[style*="grid-column:4"],html[data-mode="dark"] .matrix-board .matrix-cell[style*="grid-column:4"]{background:#14283a}
+    html[data-mode="dark"] .matrix-board .matrix-col[style*="grid-column:5"],html[data-mode="dark"] .matrix-board .matrix-cell[style*="grid-column:5"]{background:#362319}
+    .matrix-board .matrix-col{font-weight:700}.matrix-board .matrix-label b{font-size:13px;letter-spacing:.04em}.matrix-board .activity{background:color-mix(in srgb,var(--surface) 88%,transparent)}
+    @media(max-width:650px){.matrix-meaning .grid2,.matrix-meaning .grid3{grid-template-columns:1fr!important}.matrix-meaning .section-head{margin-top:30px!important}}
+  `;
+  document.head.append(style);
+}
+enhanceMatrixMeaning();
+
 function filters(){
 $('#sphere-filters').innerHTML=[{id:'all',short:'Все сферы'},...D.spheres].map(s=>`<button type="button" class="filter" data-sphere="${s.id}" aria-pressed="${s.id===selectedSphere}">${esc(s.short)}</button>`).join('');
 $('#level-filters').innerHTML=[{id:'all',name:'Все уровни'},...D.levels].map(s=>`<button type="button" class="filter" data-level="${s.id}" aria-pressed="${s.id===selectedLevel}">${esc(s.name)}</button>`).join('');
@@ -29,9 +77,9 @@ const activities=matching(), ids=new Set(activities.map(a=>a.id));
 $('#matrix-count').textContent=`${activities.length} из 23 активностей · НИРМА`;
 $('#view-matrix').setAttribute('aria-pressed',String(matrixView==='matrix'));$('#view-list').setAttribute('aria-pressed',String(matrixView==='list'));
 $('#matrix-scroll').hidden=matrixView!=='matrix';$('#activity-list').hidden=matrixView!=='list';$('.matrix-mobile-hint').hidden=matrixView!=='matrix';
-let html='<div class="matrix-label" style="grid-column:1;grid-row:1">УРОВНИ ↓<br>СВЯЗИ →</div>';
+let html='<div class="matrix-label" style="grid-column:1;grid-row:1"><b>СВЯЗИ →</b><br>УРОВНИ ↓</div>';
 D.spheres.forEach((s,i)=>{html+=`<div class="matrix-col" style="grid-column:${i+2};grid-row:1">${esc(s.name)}</div>`});
-D.levels.forEach((l,i)=>{html+=`<div class="matrix-label" style="grid-column:1;grid-row:${i<3?i+2:6}${i===2?' / span 2':''}"><span>${esc(l.name)}</span><b>${esc(l.verb)}</b></div>`});
+D.levels.forEach((l,i)=>{html+=`<div class="matrix-label" style="grid-column:1;grid-row:${i<3?i+2:6}${i===2?' / span 2':''}"><b>${esc(l.name.toUpperCase())}</b></div>`});
 const cell=(col,row,span,items)=>`<div class="matrix-cell" style="grid-column:${col}${span>1?' / span '+span:''};grid-row:${row}">${items.filter(a=>ids.has(a.id)).map(activityButton).join('')}</div>`;
 D.spheres.forEach((s,i)=>{['info','practice'].forEach((l,j)=>{html+=cell(i+2,j+2,1,D.activities.filter(a=>a.s.includes(s.id)&&a.l===l))})});
 // Creative level uses two subrows, exactly one spanning theatre block.
