@@ -1,0 +1,105 @@
+/* Финальная визуальная доводка направления «Орбита».
+   Цель: лёгкость, узнаваемость РКО, доступность для разных возрастов и мягкая динамика. */
+
+body.theme-orbit{transition:background-color .28s ease,color .28s ease}
+body.theme-orbit .site-header,body.theme-orbit .hero,body.theme-orbit .event-card,body.theme-orbit .direction-card,body.theme-orbit .project-card,body.theme-orbit .knowledge-wrap,body.theme-orbit .timeline{transition:background-color .28s ease,border-color .28s ease,color .28s ease,box-shadow .28s ease}
+
+/* Светлая «Орбита»: чуть теплее и мягче чистого белого. */
+body.theme-orbit:not(.orbit-mode-dark){
+  --bg:#f7f7f3;--surface:#ffffff;--surface2:#efefe9;--text:#171821;--muted:#666a75;--line:#dddeda;
+  --cosmic:#0b1238;--red:#98161f;--gold:#cda33d;--brand:#98161f;--brand2:#24366f;--accent:#cda33d;
+  --ambient:radial-gradient(circle at 82% 3%,rgba(49,73,142,.08),transparent 28%),radial-gradient(circle at 14% 24%,rgba(205,163,61,.045),transparent 24%),linear-gradient(180deg,#fafaf7,#f3f4ef)
+}
+body.theme-orbit:not(.orbit-mode-dark) .site-header{background:rgba(247,247,243,.92);backdrop-filter:blur(16px)}
+body.theme-orbit:not(.orbit-mode-dark) .hero{background:radial-gradient(circle at 84% 18%,rgba(50,75,146,.055),transparent 23%),#fff;border-color:rgba(27,37,78,.10);box-shadow:0 28px 74px rgba(24,35,77,.07)}
+body.theme-orbit:not(.orbit-mode-dark) .hero h1{letter-spacing:-.055em}
+body.theme-orbit:not(.orbit-mode-dark) .hero h1 span{color:#8f1d29}
+body.theme-orbit:not(.orbit-mode-dark) .visual-note{background:rgba(255,255,255,.88);backdrop-filter:blur(14px);box-shadow:0 18px 42px rgba(23,34,74,.08)}
+
+/* Герб: только оригинальное изображение, без декоративной перерисовки поверх. */
+body.theme-orbit .brand-emblem{background:transparent!important;border-radius:10px;overflow:hidden;box-shadow:none!important}
+body.theme-orbit .brand-emblem img{display:block;width:100%;height:100%;object-fit:contain;opacity:1!important}
+body.theme-orbit .brand-emblem:before,body.theme-orbit .brand-emblem:after{content:none!important;display:none!important}
+
+/* Кнопки — крупные, спокойные, с явной иерархией. */
+body.theme-orbit .button{min-height:48px;border-radius:999px;padding-inline:22px;font-weight:760;letter-spacing:-.01em}
+body.theme-orbit .button:hover{transform:translateY(-1px);box-shadow:0 12px 28px rgba(152,22,31,.16)}
+body.theme-orbit .button-ghost:hover{box-shadow:0 10px 22px rgba(20,30,65,.08)}
+
+/* Спокойная космическая глубина первого экрана. */
+body.theme-orbit .hero-visual{position:relative;isolation:isolate}
+body.theme-orbit .hero-visual:before,body.theme-orbit .hero-visual:after{content:"";position:absolute;left:50%;top:50%;border-radius:50%;pointer-events:none;z-index:-1}
+body.theme-orbit .hero-visual:before{width:86%;height:52%;border:1px solid rgba(205,163,61,.20);transform:translate(-50%,-50%) rotate(-14deg)}
+body.theme-orbit .hero-visual:after{width:102%;height:66%;border:1px solid rgba(49,73,142,.13);transform:translate(-50%,-50%) rotate(34deg)}
+body.theme-orbit.orbit-mode-dark .hero-visual:after{border-color:rgba(145,160,225,.16)}
+body.theme-orbit .symbol-field{border-radius:42% 58% 48% 52% / 54% 44% 56% 46%;box-shadow:inset 0 0 62px rgba(66,86,158,.13),0 26px 66px rgba(18,31,77,.15)}
+
+/* Карточки — единая геометрия и спокойная редакционная подача. */
+body.theme-orbit .pulse-grid{align-items:stretch}
+body.theme-orbit .feature-card,body.theme-orbit .event-card{border-radius:22px;overflow:hidden}
+body.theme-orbit .feature-card{position:relative;aspect-ratio:4/3;background-size:cover;background-position:center}
+body.theme-orbit .feature-card .card-scrim{background:linear-gradient(180deg,rgba(4,7,20,.03) 10%,rgba(4,7,20,.80) 100%)}
+body.theme-orbit .feature-copy{padding:22px}
+body.theme-orbit .feature-copy .tag{display:inline-flex;align-items:center;min-height:28px;padding:0 10px;border-radius:999px;background:rgba(255,255,255,.94);color:#55131a;font-size:11px;font-weight:800;letter-spacing:.04em}
+body.theme-orbit .feature-card:hover,body.theme-orbit .direction-card:hover,body.theme-orbit .project-card:hover{transform:translateY(-3px)}
+body.theme-orbit .feature-card,body.theme-orbit .direction-card,body.theme-orbit .project-card{transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease}
+body.theme-orbit:not(.orbit-mode-dark) .direction-card:hover,body.theme-orbit:not(.orbit-mode-dark) .project-card:hover{box-shadow:0 18px 44px rgba(18,30,73,.08)}
+body.theme-orbit .direction-card{position:relative;overflow:hidden}
+body.theme-orbit .direction-card:before{content:"";position:absolute;left:0;right:0;top:0;height:2px;background:linear-gradient(90deg,#cda33d,transparent 75%);transform:scaleX(.28);transform-origin:left;transition:transform .28s ease}
+body.theme-orbit .direction-card:hover:before{transform:scaleX(1)}
+
+/* Фотоконтент: фиксированный кроп + место для понятной подписи. */
+body.theme-orbit .feature-card{background-color:#11182f}
+body.theme-orbit .feature-copy p{max-width:40ch}
+
+/* Тёмная тема: не чёрная, а глубокая синяя; красный остаётся действием. */
+body.theme-orbit.orbit-mode-dark .hero{background:radial-gradient(circle at 82% 18%,rgba(86,104,191,.13),transparent 22%),linear-gradient(145deg,#0f1639,#090d27)}
+body.theme-orbit.orbit-mode-dark .feature-copy .tag{background:rgba(250,248,243,.92);color:#5e151c}
+body.theme-orbit.orbit-mode-dark .button-ghost{border-width:2px!important;background:rgba(255,255,255,.10)!important}
+body.theme-orbit.orbit-mode-dark .event-card,body.theme-orbit.orbit-mode-dark .direction-card,body.theme-orbit.orbit-mode-dark .project-card{box-shadow:0 14px 38px rgba(0,0,0,.14)}
+
+/* Верхняя панель сравнения — понятная и не спорит с сайтом. */
+body.theme-orbit .review-bar{background:#080b20}
+body.theme-orbit .review-tabs button.active{background:#98161f;border-color:#cda33d}
+body.theme-orbit .orbit-mode-switch{border-color:rgba(255,255,255,.18);background:rgba(255,255,255,.06)}
+body.theme-orbit .orbit-mode-switch button{min-height:42px;min-width:42px}
+
+/* Движение: только декоративное, медленное, без зависимости интерфейса от анимации. */
+@media (prefers-reduced-motion:no-preference){
+  body.theme-orbit .hero-visual:before{animation:orbit-soft-a 18s ease-in-out infinite alternate}
+  body.theme-orbit .hero-visual:after{animation:orbit-soft-b 23s ease-in-out infinite alternate}
+  body.theme-orbit .polar-star{animation:orbit-star 4.8s ease-in-out infinite}
+  body.theme-orbit .symbol-field{animation:orbit-float 8.5s ease-in-out infinite alternate}
+}
+@keyframes orbit-soft-a{to{transform:translate(-50%,-50%) rotate(-9deg) scale(1.025)}}
+@keyframes orbit-soft-b{to{transform:translate(-50%,-50%) rotate(29deg) scale(.985)}}
+@keyframes orbit-star{0%,100%{opacity:.62;transform:scale(.94)}50%{opacity:1;transform:scale(1.08)}}
+@keyframes orbit-float{to{transform:translateY(-6px)}}
+
+@media(max-width:900px){
+  body.theme-orbit .hero{gap:30px}
+  body.theme-orbit .hero-visual:before{width:90%;height:54%}
+  body.theme-orbit .hero-visual:after{width:104%;height:68%}
+}
+@media(max-width:760px){
+  body.theme-orbit .site-header{backdrop-filter:blur(18px)}
+  body.theme-orbit .brand-emblem{width:52px!important;height:56px!important;min-width:52px!important}
+  body.theme-orbit .brand-copy strong{font-size:14px;line-height:1.15}
+  body.theme-orbit .brand-copy small{font-size:11px;line-height:1.2}
+  body.theme-orbit .hero{padding-top:34px;padding-bottom:36px}
+  body.theme-orbit .hero h1{font-size:clamp(46px,15vw,68px);line-height:.94}
+  body.theme-orbit .lead{font-size:17px;line-height:1.55}
+  body.theme-orbit .hero-actions{gap:10px}
+  body.theme-orbit .hero-actions .button{width:100%}
+  body.theme-orbit .feature-card{aspect-ratio:4/3}
+  body.theme-orbit .feature-copy{padding:18px}
+}
+@media(max-width:420px){
+  body.theme-orbit .brand-emblem{width:48px!important;height:52px!important;min-width:48px!important}
+  body.theme-orbit .review-home{min-width:42px}
+  body.theme-orbit .hero{padding-top:28px}
+  body.theme-orbit .hero h1{font-size:clamp(42px,15vw,58px)}
+}
+@media(prefers-reduced-motion:reduce){
+  body.theme-orbit *,body.theme-orbit *:before,body.theme-orbit *:after{scroll-behavior:auto!important;animation:none!important;transition-duration:.01ms!important}
+}
