@@ -1,6 +1,7 @@
 (()=>{
 if(!document.querySelector('link[data-inner-qa]')){const q=document.createElement('link');q.rel='stylesheet';q.href='inner-qa.css';q.dataset.innerQa='true';document.head.appendChild(q)}
 if(!document.querySelector('link[data-inner-qa-r2]')){const q2=document.createElement('link');q2.rel='stylesheet';q2.href='inner-r2.css';q2.dataset.innerQaR2='true';document.head.appendChild(q2)}
+if(!document.querySelector('link[data-logo-integrity]')){const li=document.createElement('link');li.rel='stylesheet';li.href='logo-integrity.css';li.dataset.logoIntegrity='true';document.head.appendChild(li)}
 const p=new URLSearchParams(location.search);let m=p.get('mode')||localStorage.getItem('cosmatica-orbit-mode')||'light';
 const apply=x=>{m=x==='dark'?'dark':'light';document.body.classList.toggle('dark',m==='dark');document.querySelectorAll('[data-mode]').forEach(b=>{const a=b.dataset.mode===m;b.classList.toggle('active',a);b.setAttribute('aria-pressed',String(a))});localStorage.setItem('cosmatica-orbit-mode',m);const u=new URL(location.href);u.searchParams.set('mode',m);history.replaceState({},'',u)};
 document.querySelectorAll('[data-mode]').forEach(b=>b.addEventListener('click',()=>apply(b.dataset.mode)));apply(m);

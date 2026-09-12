@@ -11,6 +11,12 @@
   if (!document.querySelector('link[data-orbit-qa-r2]')) {
     const qa2 = document.createElement('link'); qa2.rel='stylesheet'; qa2.href='qa-r2.css'; qa2.dataset.orbitQaR2='true'; document.head.appendChild(qa2);
   }
+  if (!document.querySelector('link[data-orbit-qa-final]')) {
+    const qaf = document.createElement('link'); qaf.rel='stylesheet'; qaf.href='qa-final.css'; qaf.dataset.orbitQaFinal='true'; document.head.appendChild(qaf);
+  }
+  if (!document.querySelector('link[data-logo-integrity]')) {
+    const li = document.createElement('link'); li.rel='stylesheet'; li.href='logo-integrity.css'; li.dataset.logoIntegrity='true'; document.head.appendChild(li);
+  }
 
   document.title = 'Косматика 2026 — Орбита';
   const setMeta=(selector,value)=>{const el=document.querySelector(selector); if(el) el.setAttribute('content',value)};
