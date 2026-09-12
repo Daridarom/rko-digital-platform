@@ -1,5 +1,5 @@
 /* Основной режим дизайн-лаборатории: работаем только над «Орбитой».
-   Альтернативы доступны из компактной боковой кнопки, но не занимают верхнюю панель. */
+   Альтернативы доступны сбоку и не занимают место в основной шапке. */
 body.theme-orbit .review-bar{height:0!important;min-height:0!important;border:0!important;box-shadow:none!important;background:transparent!important;overflow:visible!important;position:sticky!important;top:0!important;z-index:130!important}
 body.theme-orbit .review-bar__inner{position:fixed!important;right:max(12px,env(safe-area-inset-right))!important;top:calc(14px + env(safe-area-inset-top))!important;width:auto!important;min-height:0!important;margin:0!important;padding:0!important;display:flex!important;gap:8px!important;background:transparent!important}
 body.theme-orbit .review-home,body.theme-orbit .review-title{display:none!important}
@@ -7,14 +7,13 @@ body.theme-orbit .review-tabs{order:2!important;margin:0!important;padding:5px!i
 body.theme-orbit .review-tabs:before{content:'⋯';width:46px;height:42px;display:grid;place-items:center;color:#fff;font-size:26px;line-height:1;cursor:pointer}
 body.theme-orbit .review-tabs button{display:none!important;width:46px!important;min-width:46px!important;height:42px!important;min-height:42px!important;padding:0!important}
 body.theme-orbit .review-tabs:hover,body.theme-orbit .review-tabs:focus-within{max-width:190px!important}
-body.theme-orbit .review-tabs:hover button,body.theme-orbit .review-tabs:focus-within button{display:flex!important}
+body.theme-orbit .review-tabs:hover button,body.theme-orbit .review-tabs:focus-within button{display:flex!important;width:176px!important;justify-content:flex-start!important;padding:0 12px!important}
 body.theme-orbit .review-tabs button span{display:inline!important;margin-left:6px!important}
-body.theme-orbit .review-tabs:hover button,body.theme-orbit .review-tabs:focus-within button{width:176px!important;justify-content:flex-start!important;padding:0 12px!important}
 body.theme-orbit .orbit-mode-switch{order:1!important;margin:0!important;background:#080b20!important;border:1px solid rgba(255,255,255,.16)!important;border-radius:999px!important;padding:4px!important;box-shadow:0 12px 34px rgba(0,0,0,.14)!important}
 body.theme-orbit .orbit-mode-switch button{min-width:44px!important;height:42px!important;min-height:42px!important;padding:0 10px!important}
 body.theme-orbit .site-header{top:0!important}
 
-/* Подвал: на телефоне — компактный, без огромных вертикальных пустот. */
+/* Подвал: компактный, особенно на телефоне. */
 body.theme-orbit .site-footer{padding:42px 0 30px!important}
 body.theme-orbit .footer-grid{gap:28px!important}
 body.theme-orbit .footer-col{gap:4px!important}
@@ -23,25 +22,38 @@ body.theme-orbit .footer-col h4{margin:0 0 8px!important}
 body.theme-orbit .footer-brand p{margin:10px 0 0!important}
 
 @media(max-width:760px){
- body.theme-orbit .review-bar__inner{right:10px!important;top:calc(8px + env(safe-area-inset-top))!important;align-items:flex-start!important}
- body.theme-orbit .orbit-mode-switch button{font-size:0!important;width:42px!important;min-width:42px!important;padding:0!important}
- body.theme-orbit .orbit-mode-switch button[data-orbit-mode='light']:after{content:'☀';font-size:19px}
- body.theme-orbit .orbit-mode-switch button[data-orbit-mode='dark']:after{content:'☾';font-size:20px}
- body.theme-orbit .review-tabs{max-width:52px!important;border-radius:16px!important}
- body.theme-orbit .review-tabs:before{width:40px;height:40px}
- body.theme-orbit .review-tabs button{width:40px!important;min-width:40px!important;height:40px!important;min-height:40px!important}
- body.theme-orbit .review-tabs:hover,body.theme-orbit .review-tabs:focus-within{max-width:52px!important}
- body.theme-orbit .review-tabs:hover button,body.theme-orbit .review-tabs:focus-within button{width:40px!important;padding:0!important;justify-content:center!important}
- body.theme-orbit .review-tabs button span{display:none!important}
- body.theme-orbit .topline{padding-right:0!important}
- body.theme-orbit .site-footer{padding:30px 0 22px!important}
- body.theme-orbit .footer-grid{display:grid!important;grid-template-columns:1fr 1fr!important;gap:24px 20px!important}
- body.theme-orbit .footer-brand{grid-column:1/-1!important}
- body.theme-orbit .footer-col a{min-height:36px!important;font-size:14px!important}
- body.theme-orbit .footer-col h4{font-size:14px!important;margin-bottom:5px!important}
- body.theme-orbit .footer-bottom{margin-top:22px!important;padding-top:18px!important}
+  /* На мобильном лабораторные контролы полностью уходят из шапки. */
+  body.theme-orbit .review-bar__inner{
+    right:8px!important;
+    top:50%!important;
+    transform:translateY(-50%)!important;
+    flex-direction:column!important;
+    align-items:flex-end!important;
+    gap:8px!important;
+    pointer-events:auto!important;
+  }
+  body.theme-orbit .orbit-mode-switch{order:1!important;display:flex!important;flex-direction:column!important;border-radius:16px!important;padding:4px!important}
+  body.theme-orbit .orbit-mode-switch button{font-size:0!important;width:42px!important;min-width:42px!important;height:42px!important;min-height:42px!important;padding:0!important}
+  body.theme-orbit .orbit-mode-switch button[data-orbit-mode='light']:after{content:'☀';font-size:19px}
+  body.theme-orbit .orbit-mode-switch button[data-orbit-mode='dark']:after{content:'☾';font-size:20px}
+  body.theme-orbit .review-tabs{order:2!important;max-width:50px!important;border-radius:16px!important;padding:4px!important}
+  body.theme-orbit .review-tabs:before{width:40px!important;height:40px!important}
+  body.theme-orbit .review-tabs button{width:40px!important;min-width:40px!important;height:40px!important;min-height:40px!important}
+  body.theme-orbit .review-tabs:hover,body.theme-orbit .review-tabs:focus-within{max-width:50px!important}
+  body.theme-orbit .review-tabs:hover button,body.theme-orbit .review-tabs:focus-within button{width:40px!important;padding:0!important;justify-content:center!important}
+  body.theme-orbit .review-tabs button span{display:none!important}
+  body.theme-orbit .topline{padding-right:0!important}
+  body.theme-orbit .menu-toggle{position:relative!important;z-index:2!important}
+
+  body.theme-orbit .site-footer{padding:30px 0 22px!important}
+  body.theme-orbit .footer-grid{display:grid!important;grid-template-columns:1fr 1fr!important;gap:24px 20px!important}
+  body.theme-orbit .footer-brand{grid-column:1/-1!important}
+  body.theme-orbit .footer-col a{min-height:36px!important;font-size:14px!important}
+  body.theme-orbit .footer-col h4{font-size:14px!important;margin-bottom:5px!important}
+  body.theme-orbit .footer-bottom{margin-top:22px!important;padding-top:18px!important}
 }
 @media(max-width:420px){
+ body.theme-orbit .review-bar__inner{right:6px!important}
  body.theme-orbit .footer-grid{grid-template-columns:1fr 1fr!important;gap:20px 14px!important}
  body.theme-orbit .footer-brand{grid-column:1/-1!important}
  body.theme-orbit .footer-col a{min-height:34px!important;font-size:13px!important}
