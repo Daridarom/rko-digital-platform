@@ -1,4 +1,12 @@
 (() => {
+  if (!document.querySelector('link[data-logo-integrity]')) {
+    const li = document.createElement('link');
+    li.rel = 'stylesheet';
+    li.href = 'logo-integrity.css';
+    li.dataset.logoIntegrity = 'true';
+    document.head.appendChild(li);
+  }
+
   const menuButton = document.querySelector('.menu-button');
   const mobileMenu = document.getElementById('mobileMenu');
   if (menuButton && mobileMenu) {
