@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="color-scheme" content="light dark">
   <meta name="robots" content="noindex">
-  <meta name="prototype-version" content="orbit-originals-2026-09-12">
+  <meta name="prototype-version" content="orbit-editorial-2026-09-12">
   <meta id="themeColorLight" name="theme-color" content="#f6f6f2" media="(prefers-color-scheme: light)">
   <meta id="themeColorDark" name="theme-color" content="#070a20" media="(prefers-color-scheme: dark)">
   <title>Косматика 2026 — Орбита</title>
@@ -326,6 +326,8 @@
       --text-2xl:clamp(2rem,1.45rem + 2.1vw,3.4rem);
       --text-hero:clamp(3rem,1.75rem + 5.1vw,6.2rem);
       --font:Inter,"Avenir Next",-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;
+      --font-display:var(--font); --weight-display:700; --tracking-display:-.035em;
+      --text-year:clamp(2rem,1.75rem + .75vw,2.5rem); --year-card-min:8rem;
       --radius-sm:.5rem; --radius-md:.875rem; --radius-lg:1.25rem; --radius-pill:999rem;
       --border-width:.0625rem; --border-strong:.125rem; --target:2.75rem;
       --focus-width:.1875rem; --focus-offset:.1875rem;
@@ -339,6 +341,16 @@
       --color-on-dark-border:#7b839c; --color-focus-on-dark:#e0b54b;
       --color-overlay:rgba(8,10,46,.78); --color-shadow:rgba(8,10,30,.14);
       --shadow-elevated:0 var(--space-5) var(--space-8) var(--color-shadow);
+    }
+    /* Первая «Орбита», 686b047: системный Inter / Avenir Next, а не внешний ретрошрифт.
+       Возвращаем масштаб 84/50 px при корневых 16 px и плотный плакатный набор.
+       1.05 остаётся нижней границей интерлиньяжа; буквы не сжимаются трансформацией. */
+    :root:where([data-theme="orbit"]) {
+      --font:Inter,"Avenir Next",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+      --font-display:var(--font); --weight-display:800; --tracking-display:-.04em;
+      --text-hero:clamp(3rem,1.8rem + 4vw,5.25rem);
+      --text-hero-mobile:clamp(2.75rem,14vw,4.5rem);
+      --text-2xl:clamp(1.9375rem,1.2rem + 2vw,3.125rem);
     }
     :where(:root) {
       --color-canvas:#f6f6f2; --color-surface:#ffffff; --color-surface-raised:#ffffff; --color-surface-soft:#eeece5;
@@ -408,7 +420,8 @@
     :where(html[data-mode="light"]) { color-scheme:light; }
     :where(html[data-mode="dark"]) { color-scheme:dark; }
     body { min-block-size:100vh; min-block-size:100dvh; background:var(--color-canvas); color:var(--color-text); font:var(--text-base)/1.55 var(--font); hyphens:auto; overflow-wrap:anywhere; }
-    :where(h1,h2,h3) { line-height:1.1; letter-spacing:-.035em; text-wrap:balance; hyphens:none; }
+    :where(h1,h2,h3) { font-family:var(--font-display); line-height:1.1; letter-spacing:var(--tracking-display); text-wrap:balance; hyphens:none; -webkit-hyphens:none; overflow-wrap:anywhere; }
+    :where(h1,h2) { font-weight:var(--weight-display); }
     :where(p) { max-inline-size:var(--measure); }
     :where(a,button) { touch-action:manipulation; }
     :where(a,button,input,summary) { scroll-margin-block:calc(var(--header-size) + var(--space-4)) var(--space-4); }
@@ -440,7 +453,8 @@
     .project-grid { display:grid; grid-template-columns:minmax(0,5fr) minmax(0,4fr) minmax(0,3fr); gap:var(--space-4); }
     .symbols-grid { display:grid; grid-template-columns:minmax(0,5fr) repeat(2,minmax(0,3.5fr)); gap:var(--space-5); }
     .knowledge-grid { display:grid; grid-template-columns:minmax(0,5fr) minmax(0,7fr); gap:var(--space-8); }
-    .timeline-grid { display:grid; grid-template-columns:minmax(0,4fr) minmax(0,8fr); gap:var(--space-8); }
+    .chronicle-head { display:grid; grid-template-columns:minmax(0,3fr) minmax(0,2fr); gap:var(--space-7); align-items:end; margin-block-end:var(--space-6); }
+    .chronicle-years { display:grid; grid-template-columns:repeat(5,minmax(0,1fr)); gap:var(--border-width); padding:var(--border-width); background:var(--color-border); }
     .footer-grid { display:grid; grid-template-columns:minmax(0,2fr) repeat(3,minmax(0,1fr)); gap:var(--space-6); }
     .symbols-wrap { background:var(--color-section-dark); color:var(--color-section-dark-text); position:relative; }
     .knowledge-wrap { border-block:var(--border-width) solid var(--color-border-soft); }
@@ -448,7 +462,7 @@
   @layer components {
     .brand { display:flex; flex:1 1 13rem; align-items:center; gap:var(--space-3); min-inline-size:min(100%,13rem); min-block-size:var(--target); }
     .brand__mark { inline-size:var(--space-7); block-size:var(--space-7); flex-shrink:0; border-radius:0; }
-    .brand__copy { display:grid; min-inline-size:0; line-height:1.2; hyphens:none; -webkit-hyphens:none; overflow-wrap:normal; word-break:normal; }
+    .brand__copy { display:grid; min-inline-size:0; line-height:1.2; hyphens:none; -webkit-hyphens:none; overflow-wrap:anywhere; word-break:normal; }
     .brand__copy strong { font-size:var(--text-sm); }
     .brand__copy small { margin-block-start:var(--space-1); color:var(--color-text-muted); font-size:var(--text-xs); }
     :where(.button,.menu-toggle,.quick-search,.control-chip,.dialog-close,.control-row button,.mobile-menu-actions>* ) { display:inline-flex; align-items:center; justify-content:center; min-inline-size:var(--target); min-block-size:var(--target); border:var(--border-strong) solid var(--color-border); border-radius:var(--radius-sm); background:var(--color-surface); color:var(--color-text); padding:var(--space-2) var(--space-3); line-height:1.25; }
@@ -480,7 +494,7 @@
     .visual-note strong, .visual-note small { display:block; }
     .visual-note strong { font-size:var(--text-sm); }
     .visual-note small { margin-block-start:var(--space-2); font-size:var(--text-xs); color:var(--color-text-muted); }
-    :where(.section-head,.symbol-copy,.knowledge-copy,.timeline-head) h2 { font-size:var(--text-2xl); margin-block-start:var(--space-2); }
+    :where(.section-head,.symbol-copy,.knowledge-copy,.chronicle-head) h2 { font-size:var(--text-2xl); margin-block-start:var(--space-2); }
     .section-intro { font-size:var(--text-sm); color:var(--color-text-muted); }
     :where(.feature-card,.event-card,.direction-card,.project-card) { border:var(--border-width) solid var(--color-border); background:var(--color-surface); border-radius:var(--radius-md); min-inline-size:0; container-type:inline-size; }
     .feature-card { min-block-size:22rem; position:relative; display:flex; align-items:flex-end; color:var(--color-on-dark); background:var(--color-secondary); }
@@ -529,12 +543,16 @@
     .knowledge-item>span:first-child { font-size:var(--text-xs); color:var(--color-text-muted); }
     .knowledge-item strong, .knowledge-item small { display:block; }
     .knowledge-item small { margin-block-start:var(--space-1); font-size:var(--text-sm); color:var(--color-text-muted); }
-    .timeline-head p:not(.eyebrow) { margin-block-start:var(--space-5); color:var(--color-text-muted); }
-    .timeline { border-inline-start:var(--border-strong) solid var(--color-gold); }
-    .timeline-item { display:block; position:relative; padding-block:var(--space-4) var(--space-5); padding-inline-start:var(--space-6); min-block-size:var(--target); }
-    .timeline-item::before { content:""; position:absolute; inline-size:var(--space-3); block-size:var(--space-3); border-radius:50%; background:var(--color-gold); inset-inline-start:calc(-1 * (var(--space-3) + var(--border-strong)) / 2); inset-block-start:var(--space-5); }
-    .timeline-item strong { font-size:var(--text-xl); }
-    .timeline-item span { display:block; margin-block-start:var(--space-1); color:var(--color-text-muted); font-size:var(--text-sm); }
+    /* Летопись снова читается слева направо: одна ссылка и один отчёт на год.
+       На узком экране карточки переносятся, а не превращаются в горизонтальную карусель. */
+    .chronicle-head h2 { max-inline-size:22ch; }
+    .chronicle-intro { color:var(--color-text-muted); font-size:var(--text-sm); max-inline-size:46ch; }
+    .chronicle-year { display:flex; flex-direction:column; justify-content:space-between; gap:var(--space-5); min-inline-size:0; min-block-size:var(--year-card-min); padding:var(--space-5); background:var(--color-canvas); }
+    .chronicle-year strong { font-family:var(--font-display); font-weight:var(--weight-display); font-size:var(--text-year); line-height:1.1; letter-spacing:var(--tracking-display); font-variant-numeric:tabular-nums; }
+    .chronicle-year-label { display:flex; align-items:baseline; justify-content:space-between; gap:var(--space-2); color:var(--color-text-muted); font-size:var(--text-sm); }
+    .chronicle-year-arrow { flex-shrink:0; color:var(--color-link); }
+    .chronicle-year:focus-visible { position:relative; z-index:1; outline-offset:calc(-1 * (var(--focus-width) + var(--focus-offset))); }
+    .project-vocabulary { margin-block-start:var(--space-4); padding-block-start:var(--space-3); border-block-start:var(--border-width) solid var(--color-border-soft); }
     .site-footer { padding-block:var(--space-7) var(--space-5); background:var(--color-secondary); color:var(--color-section-dark-text); }
     .footer-brand { display:flex; gap:var(--space-3); align-items:flex-start; }
     .footer-brand .brand__mark { inline-size:var(--target); block-size:var(--target); }
@@ -568,6 +586,8 @@
     .jump-grid a { display:flex; align-items:center; min-block-size:var(--target); padding:var(--space-3); border:var(--border-strong) solid var(--color-border); border-radius:var(--radius-sm); }
     @media (hover:hover) and (prefers-reduced-motion:no-preference) {
       .button:hover,.project-card:hover,.direction-card:hover { transform:translateY(var(--lift)); }
+      .chronicle-year:hover { background:var(--color-surface-soft); }
+      .chronicle-year:hover strong { color:var(--color-link); }
     }
     @supports (grid-template-rows:subgrid) {
       .project-grid { grid-template-rows:auto 1fr; }
@@ -609,7 +629,9 @@
       .project-grid { grid-template-columns:repeat(3,minmax(0,1fr)); }
       .symbols-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
       .symbol-copy { grid-column:1/-1; }
-      .knowledge-grid,.timeline-grid { grid-template-columns:minmax(0,1fr); gap:var(--space-6); }
+      .knowledge-grid { grid-template-columns:minmax(0,1fr); gap:var(--space-6); }
+      .chronicle-head { grid-template-columns:minmax(0,1fr); gap:var(--space-4); }
+      .chronicle-years { grid-template-columns:repeat(3,minmax(0,1fr)); }
       .footer-grid { grid-template-columns:repeat(3,minmax(0,1fr)); gap:var(--space-5); }
       .footer-brand { grid-column:1/-1; }
     }
@@ -618,7 +640,7 @@
       .brand__mark { inline-size:var(--target); block-size:var(--target); }
       .brand__copy small { display:none; }
       .hero { padding-block:var(--space-7); }
-      .hero h1 { font-size:clamp(2.75rem,12vw,4.75rem); }
+      .hero h1 { font-size:var(--text-hero-mobile,clamp(2.75rem,12vw,4.75rem)); }
       .hero-actions { display:grid; }
       .hero-actions .button { inline-size:100%; }
       .pulse-grid { grid-template-areas:"feature" "garden" "calendar"; grid-template-columns:minmax(0,1fr); }
@@ -632,9 +654,14 @@
       .footer-brand strong { font-size:var(--text-sm); }
       .footer-col a { font-size:var(--text-xs); }
       .jump-grid { grid-template-columns:minmax(0,1fr); }
+      .chronicle-years { grid-template-columns:repeat(2,minmax(0,1fr)); }
+      .chronicle-year { padding:var(--space-4); }
+      .chronicle-year:last-child { grid-column:1/-1; min-block-size:var(--target); flex-direction:row; flex-wrap:wrap; align-items:center; gap:var(--space-3); }
     }
     @media (max-width:22rem) {
       .mobile-quick-nav,.footer-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+      .chronicle-years { grid-template-columns:minmax(0,1fr); }
+      .chronicle-year { min-block-size:var(--target); flex-direction:row; flex-wrap:wrap; align-items:center; gap:var(--space-3); }
     }
     @supports (padding:env(safe-area-inset-left)) {
       .shell { padding-inline:max(0rem,env(safe-area-inset-left)) max(0rem,env(safe-area-inset-right)); }
@@ -781,7 +808,7 @@
       <div class="project-grid">
         <a class="project-card" href="https://cosmatica.org/projects" target="_blank" rel="noopener"><span class="project-art" aria-hidden="true"></span><div class="project-copy"><span class="tag tag--soft">Наука</span><h3>Академия научной фантастики</h3><p>Точка встречи научной мысли, воображения и проектирования будущего.</p></div></a>
         <a class="project-card" href="https://cosmatica.org/projects" target="_blank" rel="noopener"><span class="project-art" aria-hidden="true"></span><div class="project-copy"><span class="tag tag--soft">Образование</span><h3>Космос вдохновляет!</h3><p>Межрегиональный конкурс для вовлечения детей и молодёжи.</p></div></a>
-        <a class="project-card" href="https://cosmatica.org/projects" target="_blank" rel="noopener"><span class="project-art" aria-hidden="true"></span><div class="project-copy"><span class="tag tag--soft">Экосистема</span><h3>Космоноосфера</h3><p>Цифровые и организационные решения для связности знаний и людей.</p></div></a>
+        <a class="project-card" href="https://cosmatica.org/projects" target="_blank" rel="noopener"><span class="project-art" aria-hidden="true"></span><div class="project-copy"><span class="tag tag--soft">РКО</span><h3>Ноосистема РКО</h3><p>Цифровые и организационные решения для связности знаний и людей.</p><!-- Термины из обсуждения группы. Определения и их иерархию сверить с НС-2117, не додумывать. --><p class="project-vocabulary">Сетение · Ноосеть</p></div></a>
       </div>
     </section>
     <section class="section symbols-wrap defer" id="symbols" aria-labelledby="symbolsTitle">
@@ -808,16 +835,17 @@
         </div>
       </div>
     </section>
-    <section class="section shell defer" aria-labelledby="timelineTitle">
-      <div class="timeline-grid">
-        <div class="timeline-head"><p class="eyebrow">Летопись РКО</p><h2 id="timelineTitle">История, которую можно проследить</h2><p>Сохраняем существующий раздел отчётов, но превращаем его в ясную временную шкалу. В этом макете показаны доступные отчёты за 2021–2025 годы; начало летописи РКО обозначено в герое как 2017 год.</p></div>
-        <div class="timeline">
-          <a class="timeline-item" href="https://cosmatica.org/about/2025february.html" target="_blank" rel="noopener"><strong>2025</strong><span>Отчёт о деятельности</span></a>
-          <a class="timeline-item" href="https://cosmatica.org/about/2024.html" target="_blank" rel="noopener"><strong>2024</strong><span>Отчёт о деятельности</span></a>
-          <a class="timeline-item" href="https://cosmatica.org/about/2023february.html" target="_blank" rel="noopener"><strong>2023</strong><span>Отчёт о деятельности</span></a>
-          <a class="timeline-item" href="https://cosmatica.org/about/2022february.html" target="_blank" rel="noopener"><strong>2022</strong><span>Отчёт о деятельности</span></a>
-          <a class="timeline-item" href="https://cosmatica.org/about/2021february.html" target="_blank" rel="noopener"><strong>2021</strong><span>Отчёт о деятельности</span></a>
-        </div>
+    <section class="section shell defer chronicle-section" id="chronicle" aria-labelledby="timelineTitle">
+      <div class="chronicle-head">
+        <div><p class="eyebrow">Летопись РКО</p><h2 id="timelineTitle">История, которую можно проследить</h2></div>
+        <p class="chronicle-intro">Сохраняем существующий раздел отчётов, но превращаем его в ясную временную шкалу. В этом макете показаны доступные отчёты за 2021–2025 годы; начало летописи РКО обозначено в герое как 2017 год.</p>
+      </div>
+      <div class="chronicle-years">
+        <a class="chronicle-year" href="https://cosmatica.org/about/2025february.html" target="_blank" rel="noopener"><strong>2025</strong><span class="chronicle-year-label">Отчёт о деятельности <span class="chronicle-year-arrow" aria-hidden="true">↗</span></span></a>
+        <a class="chronicle-year" href="https://cosmatica.org/about/2024.html" target="_blank" rel="noopener"><strong>2024</strong><span class="chronicle-year-label">Отчёт о деятельности <span class="chronicle-year-arrow" aria-hidden="true">↗</span></span></a>
+        <a class="chronicle-year" href="https://cosmatica.org/about/2023february.html" target="_blank" rel="noopener"><strong>2023</strong><span class="chronicle-year-label">Отчёт о деятельности <span class="chronicle-year-arrow" aria-hidden="true">↗</span></span></a>
+        <a class="chronicle-year" href="https://cosmatica.org/about/2022february.html" target="_blank" rel="noopener"><strong>2022</strong><span class="chronicle-year-label">Отчёт о деятельности <span class="chronicle-year-arrow" aria-hidden="true">↗</span></span></a>
+        <a class="chronicle-year" href="https://cosmatica.org/about/2021february.html" target="_blank" rel="noopener"><strong>2021</strong><span class="chronicle-year-label">Отчёт о деятельности <span class="chronicle-year-arrow" aria-hidden="true">↗</span></span></a>
       </div>
     </section>
   </main>
