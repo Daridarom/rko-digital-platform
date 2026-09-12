@@ -1,0 +1,57 @@
+/* Финальный QA-проход: mobile light/dark, ритм секций, читаемость, рамки и герб. */
+body.theme-orbit .brand-emblem{padding:2px;background:transparent!important;border-color:transparent!important}
+body.theme-orbit .brand-emblem img{object-fit:contain!important;object-position:center!important}
+body.theme-orbit .eyebrow{overflow-wrap:anywhere}
+body.theme-orbit .knowledge-wrap{border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+body.theme-orbit.orbit-mode-dark .knowledge-wrap{background:#0d1432;color:#f5f2ea;border-color:rgba(255,255,255,.16)}
+body.theme-orbit.orbit-mode-dark .knowledge-wrap .knowledge-copy p:not(.eyebrow),
+body.theme-orbit.orbit-mode-dark .knowledge-wrap .knowledge-item small,
+body.theme-orbit.orbit-mode-dark .knowledge-wrap .knowledge-item>span{color:#c7cbd8}
+body.theme-orbit.orbit-mode-dark .knowledge-wrap .knowledge-panel,
+body.theme-orbit.orbit-mode-dark .knowledge-wrap .knowledge-item{border-color:rgba(255,255,255,.14)}
+body.theme-orbit.orbit-mode-dark .knowledge-wrap .button-ghost{color:#f7f3eb;border-color:rgba(255,255,255,.32);background:rgba(255,255,255,.06)}
+body.theme-orbit .section+.section{scroll-margin-top:150px}
+body.theme-orbit .pulse-section{padding-bottom:78px}
+body.theme-orbit .projects-section{padding-top:70px}
+body.theme-orbit .direction-card h3{overflow-wrap:anywhere}
+
+@media(max-width:760px){
+  body.theme-orbit .brand-emblem{width:54px!important;height:58px!important;min-width:54px!important;padding:3px}
+  body.theme-orbit .brand{max-width:calc(100% - 70px)}
+  body.theme-orbit .eyebrow{font-size:10px;line-height:1.4;letter-spacing:.12em;white-space:normal;max-width:100%}
+  body.theme-orbit .hero-actions{margin-top:6px}
+  body.theme-orbit .hero-copy>.lead{margin-bottom:24px}
+  body.theme-orbit .feature-card{aspect-ratio:auto;min-height:360px}
+  body.theme-orbit .feature-card .feature-copy{padding:20px}
+  body.theme-orbit .feature-copy h3{font-size:24px;line-height:1.08}
+  body.theme-orbit .feature-copy p{font-size:13px;line-height:1.45;display:block;overflow:visible}
+  body.theme-orbit .section{padding:70px 0}
+  body.theme-orbit .pulse-section{padding-bottom:74px}
+  body.theme-orbit .projects-section{padding-top:74px}
+  body.theme-orbit .direction-card{border-width:1.5px}
+  body.theme-orbit:not(.orbit-mode-dark) .direction-card{border-color:#cfd1ce}
+  body.theme-orbit.orbit-mode-dark .direction-card{border-color:rgba(255,255,255,.20)}
+  body.theme-orbit .direction-card h3{font-size:22px;line-height:1.12}
+  body.theme-orbit .knowledge-grid{gap:34px}
+  body.theme-orbit .knowledge-wrap{padding-top:70px;padding-bottom:70px}
+}
+@media(max-width:420px){
+  body.theme-orbit .brand-emblem{width:50px!important;height:54px!important;min-width:50px!important}
+  body.theme-orbit .brand-copy strong{font-size:12.5px;line-height:1.16}
+  body.theme-orbit .menu-toggle{min-width:46px;min-height:46px;padding-inline:12px}
+  body.theme-orbit .hero{gap:24px}
+  body.theme-orbit .hero-actions{gap:9px}
+  body.theme-orbit .hero-actions .button{min-height:54px;font-size:15px}
+  body.theme-orbit .feature-card{min-height:340px}
+  body.theme-orbit .feature-copy{padding:18px}
+  body.theme-orbit .feature-copy h3{font-size:22px}
+  body.theme-orbit .section-head{gap:12px}
+  body.theme-orbit .section{padding:64px 0}
+  body.theme-orbit .pulse-section{padding-bottom:68px}
+  body.theme-orbit .projects-section{padding-top:68px}
+}
+@media(max-width:340px){
+  body.theme-orbit .brand-emblem{width:46px!important;height:50px!important;min-width:46px!important}
+  body.theme-orbit .brand-copy strong{font-size:12px}
+  body.theme-orbit .feature-card{min-height:330px}
+}
