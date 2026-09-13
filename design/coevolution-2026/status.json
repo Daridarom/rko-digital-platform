@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "project_id": "rko-coevolution",
+  "project_name": "Соэволюция",
+  "organization": "Русское космическое общество",
+  "curator": "Мария",
+  "recorded_on": "2026-09-13",
+  "status": "awaiting_team_structure_decisions",
+  "status_label": "Ожидаем решения команды по структуре; дальнейшая стилизация приостановлена",
+  "status_document": "STATUS.md",
+  "scope": "Только дальнейшая визуальная разработка Соэволюции. Работа Марии и Павла над структурой и ТЗ этой записью не приостанавливается.",
+  "prototype": {
+    "role": "conceptual_reference",
+    "structure_approval": "not_confirmed",
+    "design_approval": "not_confirmed",
+    "ready_for_direct_integration": false,
+    "runtime_changes_authorized_by_this_record": false
+  },
+  "baseline": {
+    "repository": "Daridarom/rko-digital-platform",
+    "branch": "main",
+    "path": "design/coevolution-2026",
+    "commit": "5c909f699d155beb9bf4ba8910242e0069aef619",
+    "code_url": "https://github.com/Daridarom/rko-digital-platform/tree/5c909f699d155beb9bf4ba8910242e0069aef619/design/coevolution-2026",
+    "prototype_url": "https://daridarom.github.io/rko-digital-platform/design/coevolution-2026/",
+    "content_model_path": "design/coevolution-2026/data.js",
+    "content_model_blob": "5ae3a915b7cd59d280aeafa60e9ab54048c3c75f",
+    "content_model_version": "0.1",
+    "content_model_kind": "static_prototype_content_not_participant_database",
+    "stored_sphere_ids": ["nature", "self", "people", "society"],
+    "stored_level_ids": ["info", "practice", "creative", "research"],
+    "stored_activity_count": 23,
+    "stored_placeholder_program_ids": ["zvezdolet", "kosmodesant", "dobrodely"],
+    "note": "Инвентаризация сохранённого содержимого, не утверждение универсальной модели портала и не повторная сверка первоисточников. Данные программ и исполняемые файлы не изменяются."
+  },
+  "reported_requirements": [
+    {
+      "id": "R1",
+      "source": "maria_working_message",
+      "text": "Ядро портала Соэволюция — матрица.",
+      "state": "reported_pending_structure_agreement"
+    },
+    {
+      "id": "R2",
+      "source": "maria_working_message",
+      "text": "Каждый проект имеет свою матрицу развития и может быть включён в матрицу другого проекта или турнира.",
+      "state": "reported_pending_structure_agreement"
+    },
+    {
+      "id": "R3",
+      "source": "maria_working_message",
+      "text": "Библиотека РКО встраивается в информационный уровень и не ограничивается только им; на её основе могут создаваться методики и задания разных уровней сложности.",
+      "state": "reported_pending_structure_agreement"
+    },
+    {
+      "id": "R4",
+      "source": "pavel_working_message",
+      "text": "Сначала структура и ТЗ, затем страницы на базовом шаблоне платформы, после этого стилизация реальных страниц. Турниры и марафоны — отдельный недостающий компонент.",
+      "state": "reported_work_sequence"
+    }
+  ],
+  "pending_decisions": [
+    {"id": "D1", "item": "Описание структуры и матриц", "from": "Мария; обсуждение с Павлом", "state": "awaiting", "due_date": null},
+    {"id": "D2", "item": "Согласованное ТЗ и состав страниц", "from": "Мария и Павел", "state": "not_confirmed", "due_date": null},
+    {"id": "D3", "item": "Базовые страницы действующей платформы", "from": "Павел после ТЗ", "state": "awaiting", "due_date": null},
+    {"id": "D4", "item": "Согласование визуального направления", "from": "Рабочая группа", "state": "deferred", "due_date": null},
+    {"id": "D5", "item": "Поручение на продолжение визуальной разработки", "from": "Алексей после решений команды", "state": "awaiting", "due_date": null}
+  ],
+  "work_policy": {
+    "preserve_current_prototype": true,
+    "preserve_content_model": true,
+    "record_new_feedback_and_sources": true,
+    "resume_automatically_on_date": false,
+    "resume_condition": "Получены согласованные структура и ТЗ, базовые страницы Павла и новое поручение Алексея с учётом решения команды.",
+    "out_of_scope_now": ["Новые дизайн-итерации Соэволюции", "Новые трактовки матрицы без согласования", "Новые функции", "Серверы и перенос инфраструктуры", "Сложная серверная разработка"],
+    "orbit_code_changed": false
+  },
+  "evidence": {
+    "user_decision": "Поручение Алексея от 13.09.2026 зафиксировать базу и текущий статус, ожидая решений команды.",
+    "team_messages": "Рабочие сообщения Павла, Марии и сообщение о переносе выбора стиля, переданные Алексеем в скриншотах. Даты отправки отдельных сообщений не устанавливались.",
+    "raw_chat_images_published": false,
+    "new_visual_or_browser_audit": false,
+    "primary_documents_rechecked": false,
+    "prior_qa_scope": "QA.md описывает прежнюю редакцию; не считается согласованием структуры или допуском к интеграции."
+  }
+}
