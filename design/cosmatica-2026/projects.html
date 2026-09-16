@@ -1,1 +1,169 @@
-<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Орбита — проекты</title><link rel="stylesheet" href="inner.css"></head><body><header class="inner-top"><div class="shell toprow"><a class="brand" href="prototype.html?theme=orbit"><img src="https://cosmatica.org/upload/000/u7/3/5/bezymjannyi.jpg" alt="Герб РКО «Прорыв»"><span><b>Русское космическое общество</b><small>Косматика</small></span></a><nav class="nav"><a href="news.html">Новости</a><a href="library.html">Библиотека</a><a href="department.html">Отделения</a></nav><div class="theme-switch"><button data-mode="light">☀</button><button data-mode="dark">☾</button></div></div></header><main><div class="shell crumbs">Главная → Проекты</div><section class="shell page-hero project-head"><div><div class="eyebrow">Проекты РКО</div><h1>От идеи — к действию.</h1><p class="lede">Проектная страница должна помогать быстро понять смысл инициативы, её состояние, участников и следующий шаг.</p></div><div class="project-orbit" aria-hidden="true"></div></section><section class="shell grid"><a class="card" href="#"><span class="num">01 · Наука</span><h2>Академия научной фантастики</h2><p>Научная мысль, воображение и проектирование будущего.</p></a><a class="card" href="#"><span class="num">02 · Образование</span><h2>Космос вдохновляет!</h2><p>Межрегиональная образовательная и творческая программа.</p></a><a class="card" href="#"><span class="num">03 · Экосистема</span><h2>Космоноосфера</h2><p>Связность людей, знаний, инициатив и цифровых сервисов.</p></a><a class="card" href="#"><span class="num">04 · Память</span><h2>Гагаринский сад</h2><p>Живой проект памяти и созидательного участия.</p></a><a class="card" href="#"><span class="num">05 · Регионы</span><h2>Региональные инициативы</h2><p>Проекты отделений РКО с понятной географией и статусом.</p></a><a class="card" href="#"><span class="num">06 · Открытый проект</span><h2>Предложить инициативу</h2><p>Понятная точка входа для человека, который хочет включиться.</p></a></section></main><footer class="footer"><div class="shell"><b>Русское космическое общество</b><p>Проекты в единой системе «Орбита».</p></div></footer><script src="inner.js"></script></body></html>
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Проекты Русского космического общества: связь с НС-2117, подтверждённый след, траектория и паспорт проекта.">
+  <title>Косматика — проекты и НС-2117</title>
+  <link rel="stylesheet" href="inner.css">
+  <link rel="stylesheet" href="projects-model.css">
+</head>
+<body>
+<header class="inner-top">
+  <div class="shell toprow">
+    <a class="brand" href="prototype.html?theme=orbit">
+      <img src="https://cosmatica.org/upload/000/u7/3/5/bezymjannyi.jpg" alt="Герб РКО «Прорыв»">
+      <span><b>Русское космическое общество</b><small>Косматика</small></span>
+    </a>
+    <nav class="nav">
+      <a href="news.html">Новости</a>
+      <a href="library.html">Библиотека</a>
+      <a href="department.html">Отделения</a>
+    </nav>
+    <div class="theme-switch" aria-label="Тема оформления">
+      <button data-mode="light" aria-label="Светлая тема">☀</button>
+      <button data-mode="dark" aria-label="Тёмная тема">☾</button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="shell crumbs">Главная → Проекты</div>
+
+  <section class="shell page-hero project-head projects-hero">
+    <div>
+      <div class="eyebrow">Проекты РКО · НС-2117</div>
+      <h1>Проекты как система будущего.</h1>
+      <p class="lede">Не просто каталог карточек. Здесь должно быть видно, что проект формирует, какой подтверждённый след уже оставил, с чем связан и куда ведёт дальше.</p>
+      <div class="hero-actions">
+        <a class="orbit-btn primary" href="#catalog">Смотреть проекты</a>
+        <button class="orbit-btn" type="button" data-open-passport>Заполнить паспорт проекта</button>
+      </div>
+      <p class="source-note" id="projectSourceNote">Пилотная механика. Данные загружаются…</p>
+    </div>
+    <div class="project-orbit" aria-hidden="true"></div>
+  </section>
+
+  <section class="shell system-map" aria-labelledby="systemTitle">
+    <div class="system-card">
+      <div class="ns-core">
+        <div>
+          <div class="eyebrow">Общий горизонт</div>
+          <h2 id="systemTitle">Ноосферный Союз 2117</h2>
+          <p>Каждая карточка связывается не только с текущим действием, но и с одной из граней общей конструкции.</p>
+        </div>
+        <small>Выберите грань — каталог перестроится.</small>
+      </div>
+      <div class="facet-panel">
+        <h3>Десять граней НС-2117</h3>
+        <p>На публичной витрине показываем понятную связь. Внутренние служебные оценки и зрелость не превращаем в рейтинг.</p>
+        <div class="facet-grid" id="facetFilters" aria-label="Фильтр по граням НС-2117"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="shell catalog-shell" id="catalog" aria-labelledby="catalogTitle">
+    <div class="catalog-head">
+      <div>
+        <div class="eyebrow">Структурированный реестр</div>
+        <h2 id="catalogTitle">Актуальное отдельно от истории.</h2>
+      </div>
+      <div class="catalog-count" id="catalogCount" aria-live="polite"></div>
+    </div>
+
+    <div class="catalog-toolbar">
+      <input class="project-search" id="projectSearch" type="search" placeholder="Найти проект, направление, территорию…" aria-label="Поиск по проектам">
+      <div class="status-filters" id="statusFilters" aria-label="Фильтр по статусу">
+        <button class="status-filter active" type="button" data-status="current">Актуальные</button>
+        <button class="status-filter" type="button" data-status="strategic">Стратегические</button>
+        <button class="status-filter" type="button" data-status="active">Действующие</button>
+        <button class="status-filter" type="button" data-status="realized">Реализованные этапы</button>
+        <button class="status-filter" type="button" data-status="perspective">Перспективные</button>
+        <button class="status-filter" type="button" data-status="all">Все</button>
+      </div>
+    </div>
+
+    <div class="filter-context" id="filterContext"></div>
+    <div class="project-grid-v2" id="projectGrid"></div>
+
+    <div class="model-legend" aria-label="Принципы новой модели проектов">
+      <div class="legend-card"><b>Не удаляем историю</b><p>Закрытый этап остаётся доступен, если он объясняет происхождение нынешнего проекта.</p></div>
+      <div class="legend-card"><b>Не выдаём замысел за факт</b><p>Если следующий этап, территория или результат не подтверждены, интерфейс прямо это показывает.</p></div>
+      <div class="legend-card"><b>Показываем траекторию</b><p>Предшественник → текущая форма → продолжение. Так виден не набор мероприятий, а развитие дела.</p></div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="shell">
+    <b>Русское космическое общество</b>
+    <p>Пилот новой механики раздела «Проекты» в системе «Орбита».</p>
+  </div>
+</footer>
+
+<dialog class="project-dialog" id="projectDialog" aria-labelledby="projectDialogTitle">
+  <div class="dialog-head">
+    <div><div class="eyebrow">Публичный паспорт проекта</div><h2 id="projectDialogTitle">Проект</h2></div>
+    <button class="dialog-close" type="button" data-close-dialog aria-label="Закрыть">×</button>
+  </div>
+  <div class="dialog-body" id="projectDialogBody"></div>
+</dialog>
+
+<dialog class="passport-dialog" id="passportDialog" aria-labelledby="passportDialogTitle">
+  <div class="dialog-head">
+    <div><div class="eyebrow">Соэволюция · единый ввод</div><h2 id="passportDialogTitle">Паспорт проекта</h2></div>
+    <button class="dialog-close" type="button" data-close-dialog aria-label="Закрыть">×</button>
+  </div>
+  <div class="dialog-body">
+    <div class="passport-intro">
+      <div>
+        <h3 style="font-size:27px;line-height:1.08;letter-spacing:-.035em;margin:0 0 8px">Сначала смысл и будущее, потом карточка.</h3>
+        <p style="margin:0;color:#666a73">Форма собирает публичную часть и служебный слой в одном месте. На сайт выводится только то, что понятно человеку и подтверждено.</p>
+      </div>
+      <div class="note-box"><b>Важно.</b> Служебные поля, источники, пробелы и внутренняя аналитика нужны реестру и сетению, но не обязаны публиковаться в карточке.</div>
+    </div>
+
+    <div class="passport-layout">
+      <form class="passport-form" id="projectPassportForm" autocomplete="off">
+        <div class="field wide"><label for="pp-title">Название проекта</label><input id="pp-title" name="title" placeholder="Полное название"></div>
+        <div class="field wide"><label for="pp-meaning">Короткий смысл</label><textarea id="pp-meaning" name="meaning" placeholder="Ради чего существует проект и что происходит по сути"></textarea></div>
+        <div class="field"><label for="pp-status">Статус</label><select id="pp-status" name="status"><option value="">Выберите</option><option>Действующий</option><option>Стратегическая инициатива</option><option>Реализованный этап</option><option>Перспективный</option><option>Архивный</option><option>Требует уточнения</option></select></div>
+        <div class="field"><label for="pp-territory">Территория</label><input id="pp-territory" name="territory" placeholder="Город, регион, страна, цифровая среда"></div>
+        <div class="field wide"><label for="pp-facet">Основная связь с НС-2117</label><select id="pp-facet" name="facet"><option value="">Выберите грань</option><option value="goal">Цель Союза</option><option value="cohesion">Сплочение</option><option value="labor">Труд</option><option value="family">Семья</option><option value="education">Культура и воспитание</option><option value="health">Здоровье</option><option value="science">Наука развития и управление</option><option value="cosmopractice">Космопрактика</option><option value="digital">Цифровая космоноосфера</option><option value="human">Образ Человека</option></select></div>
+        <div class="field wide"><label for="pp-forms">Что проект формирует</label><textarea id="pp-forms" name="forms" placeholder="Человека, кадр, сообщество, метод, институт, территориальную практику…"></textarea></div>
+        <div class="field wide"><label for="pp-trail">Подтверждённый след</label><textarea id="pp-trail" name="trail" placeholder="Что уже осталось: метод, повтор, команда, продукт, территория, школа, платформа…"></textarea></div>
+        <div class="field wide"><label for="pp-future">Куда проект идёт дальше</label><textarea id="pp-future" name="future" placeholder="Следующий этап и дальний смысл: где должно отозваться его эхо"></textarea></div>
+        <div class="field"><label for="pp-related">Связанные проекты</label><input id="pp-related" name="related" placeholder="Через запятую"></div>
+        <div class="field"><label for="pp-join">Как присоединиться</label><input id="pp-join" name="join" placeholder="Конкретный следующий шаг человека"></div>
+
+        <details class="service-fields">
+          <summary>Служебный слой реестра</summary>
+          <div class="service-grid">
+            <div class="field wide"><label for="pp-sources">Источники / доказательства</label><textarea id="pp-sources" name="sources" placeholder="Ссылки, документы, новости, протоколы"></textarea></div>
+            <div class="field wide"><label for="pp-fact">Что происходит по факту</label><textarea id="pp-fact" name="fact" placeholder="Отделяем фактический ход от заявленного замысла"></textarea></div>
+            <div class="field"><label for="pp-predecessor">Предшественник</label><input id="pp-predecessor" name="predecessor" placeholder="Из чего вырос проект"></div>
+            <div class="field"><label for="pp-successor">Наследник / продолжение</label><input id="pp-successor" name="successor" placeholder="Во что перешёл или должен перейти"></div>
+            <div class="field"><label for="pp-gaps">Пробелы в данных</label><textarea id="pp-gaps" name="gaps" placeholder="Что пока нельзя подтвердить"></textarea></div>
+            <div class="field"><label for="pp-needs">Что нужно для сетения</label><textarea id="pp-needs" name="needs" placeholder="Люди, компетенции, территория, ресурсы, связи"></textarea></div>
+          </div>
+        </details>
+
+        <div class="form-actions">
+          <button class="orbit-btn primary" type="button" id="copyPassport">Скопировать паспорт</button>
+          <button class="orbit-btn" type="button" id="saveDraft">Сохранить черновик</button>
+          <button class="orbit-btn" type="button" id="loadDraft">Вернуть черновик</button>
+          <button class="orbit-btn ghost" type="button" id="resetPassport">Очистить</button>
+        </div>
+        <div class="form-message" id="formMessage" aria-live="polite"></div>
+      </form>
+
+      <aside class="passport-preview" id="passportPreview" aria-label="Предпросмотр карточки"></aside>
+    </div>
+  </div>
+</dialog>
+
+<script src="projects-data.js"></script>
+<script src="projects.js"></script>
+<script src="inner.js"></script>
+</body>
+</html>
