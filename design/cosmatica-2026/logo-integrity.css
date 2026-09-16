@@ -80,6 +80,17 @@ img[alt*="Герб Русского Космического Общества"]{
   }
 }
 
+/* На промежуточной мобильной ширине название может переноситься на две строки,
+   но не должно искусственно обрезаться из-за старого max-width. */
+@media(min-width:431px) and (max-width:520px){
+  .inner-top .brand span{max-width:none!important}
+}
+
+@media(max-width:430px){
+  /* На самых узких экранах оставляем только знак: это чище, чем обрезанное название. */
+  .inner-top .brand span{display:none!important}
+}
+
 @media(max-width:380px){
   .inner-top .brand img[alt*="Герб"],
   .inner-top .brand img[alt*="Герб РКО"]{
@@ -89,5 +100,4 @@ img[alt*="Герб Русского Космического Общества"]{
     max-width:38px!important;
     max-height:42px!important;
   }
-  .inner-top .brand span{display:none!important}
 }
