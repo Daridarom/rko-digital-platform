@@ -80,15 +80,15 @@ img[alt*="Герб Русского Космического Общества"]{
   }
 }
 
-/* На промежуточной мобильной ширине название может переноситься на две строки,
-   но не должно искусственно обрезаться из-за старого max-width. */
+/* На мобильной шапке главное название РКО сохраняем рядом с гербом.
+   Вторую строку «Косматика» скрывает общий адаптив, чтобы оставить место управлению. */
 @media(min-width:431px) and (max-width:520px){
-  .inner-top .brand span{max-width:none!important}
+  .inner-top .brand span{display:block!important;max-width:none!important}
 }
 
 @media(max-width:430px){
-  /* На самых узких экранах оставляем только знак: это чище, чем обрезанное название. */
-  .inner-top .brand span{display:none!important}
+  .inner-top .brand span{display:block!important;max-width:92px!important}
+  .inner-top .brand b{font-size:11px!important;line-height:1.08!important}
 }
 
 @media(max-width:380px){
@@ -100,4 +100,11 @@ img[alt*="Герб Русского Космического Общества"]{
     max-width:38px!important;
     max-height:42px!important;
   }
+  .inner-top .brand span{max-width:80px!important}
+  .inner-top .brand b{font-size:10.5px!important;line-height:1.04!important}
+}
+
+/* Только на экстремально узких экранах текст уступает место кнопкам. */
+@media(max-width:345px){
+  .inner-top .brand span{display:none!important}
 }
