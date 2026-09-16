@@ -20,7 +20,7 @@ const projectDialogTitle=$('#projectDialogTitle');
 const passportForm=$('#projectPassportForm');
 const passportPreview=$('#passportPreview');
 const formMessage=$('#formMessage');
-const DRAFT_KEY='cosmatica-project-passport-draft-v1';
+const DRAFT_KEY='cosmatica-project-passport-draft-v2';
 
 const facetLabel=id=>facets.find(f=>f.id===id)?.label||id;
 const projectMatchesFacet=(p,id)=>id==='all'||p.facet===id||(p.extraFacets||[]).includes(id);
@@ -72,7 +72,7 @@ function cardTemplate(p){
   </article>`;
 }
 
-function renderContext(list){
+function renderContext(){
   if(!context) return;
   const bits=[];
   if(state.status!=='current'){
@@ -91,7 +91,7 @@ function render(){
   const list=visibleProjects();
   if(count) count.textContent=`${list.length} ${decl(list.length,['проект','проекта','проектов'])}`;
   if(grid) grid.innerHTML=list.length?list.map(cardTemplate).join(''):`<div class="empty-catalog"><b>По этому фильтру проектов не найдено.</b><p>Сбросьте фильтры или попробуйте другой запрос.</p></div>`;
-  renderContext(list);
+  renderContext();
   $$('[data-open-project]',grid).forEach(btn=>btn.addEventListener('click',()=>openProject(btn.dataset.openProject)));
 }
 
@@ -129,7 +129,6 @@ function openProject(id){
     </div>
     <div class="passport-block" style="margin-top:16px"><span class="label">Связанные проекты</span><div class="related-list">${(p.related||[]).map(x=>`<span>${escapeHtml(x)}</span>`).join('')||'<span>Не снято</span>'}</div></div>
     <div class="passport-block" style="margin-top:16px"><span class="label">Как включиться</span><p>${escapeHtml(p.participation||'Требует уточнения')}</p></div>
-    <div class="passport-block" style="margin-top:16px"><span class="label">Основание пилотной карточки</span><p>${escapeHtml(p.evidence||'Источник требует уточнения')}</p></div>
     <div class="dialog-actions">
       <button class="orbit-btn primary" type="button" data-passport-from="${escapeHtml(p.id)}">Предложить связь / обновление</button>
       <button class="orbit-btn ghost" type="button" data-close-project>Закрыть</button>
@@ -170,7 +169,9 @@ function getField(name){const el=passportForm?.elements?.namedItem(name);return 
 function currentPassport(){
   return {
     title:getField('title'),meaning:getField('meaning'),status:getField('status'),territory:getField('territory'),facet:getField('facet'),forms:getField('forms'),future:getField('future'),trail:getField('trail'),related:getField('related'),join:getField('join'),
-    sources:getField('sources'),fact:getField('fact'),predecessor:getField('predecessor'),successor:getField('successor'),gaps:getField('gaps'),needs:getField('needs')
+    sources:getField('sources'),fact:getField('fact'),predecessor:getField('predecessor'),successor:getField('successor'),repeat:getField('repeat'),stable:getField('stable'),role:getField('role'),maturity:getField('maturity'),
+    sphereOrganizers:getField('sphereOrganizers'),spherePartners:getField('spherePartners'),sphereParticipants:getField('sphereParticipants'),sphereLocal:getField('sphereLocal'),sphereWider:getField('sphereWider'),
+    offer:getField('offer'),needs:getField('needs'),gaps:getField('gaps')
   };
 }
 
@@ -190,7 +191,7 @@ passportForm?.addEventListener('submit',e=>e.preventDefault());
 
 function passportMarkdown(p){
   const facet=facetLabel(p.facet)||p.facet||'Не выбрана';
-  return `# Паспорт проекта\n\n## Публичный слой\n- Название: ${p.title||'—'}\n- Смысл: ${p.meaning||'—'}\n- Статус: ${p.status||'—'}\n- Территория: ${p.territory||'—'}\n- Грань НС-2117: ${facet}\n- Что формирует: ${p.forms||'—'}\n- Куда идёт: ${p.future||'—'}\n- Подтверждённый след: ${p.trail||'—'}\n- Связанные проекты: ${p.related||'—'}\n- Как присоединиться: ${p.join||'—'}\n\n## Служебный слой\n- Источники / доказательства: ${p.sources||'—'}\n- Фактический ход: ${p.fact||'—'}\n- Предшественник: ${p.predecessor||'—'}\n- Наследник / продолжение: ${p.successor||'—'}\n- Пробелы в данных: ${p.gaps||'—'}\n- Что нужно / предложения для сетения: ${p.needs||'—'}\n`;
+  return `# Паспорт проекта\n\n## Публичный слой\n- Название: ${p.title||'—'}\n- Смысл: ${p.meaning||'—'}\n- Статус: ${p.status||'—'}\n- Территория: ${p.territory||'—'}\n- Грань НС-2117: ${facet}\n- Что формирует: ${p.forms||'—'}\n- Куда идёт: ${p.future||'—'}\n- Подтверждённый след: ${p.trail||'—'}\n- Связанные проекты: ${p.related||'—'}\n- Как присоединиться: ${p.join||'—'}\n\n## Служебный слой\n- Источники / доказательства: ${p.sources||'—'}\n- Фактический ход: ${p.fact||'—'}\n- Предшественник: ${p.predecessor||'—'}\n- Наследник / продолжение: ${p.successor||'—'}\n- Повтор / сезонность: ${p.repeat||'—'}\n- Устойчивая форма: ${p.stable||'—'}\n- Рабочая роль: ${p.role||'—'}\n- Рабочая зрелость 0–3: ${p.maturity||'—'}\n\n### Пять сфер влияния\n1. Организаторы: ${p.sphereOrganizers||'—'}\n2. Соисполнители: ${p.spherePartners||'—'}\n3. Прямые участники: ${p.sphereParticipants||'—'}\n4. Ближний круг: ${p.sphereLocal||'—'}\n5. Более широкая среда: ${p.sphereWider||'—'}\n\n### Сетение\n- Что проект может дать: ${p.offer||'—'}\n- Что проекту нужно: ${p.needs||'—'}\n- Пробелы в данных: ${p.gaps||'—'}\n`;
 }
 
 $('#saveDraft')?.addEventListener('click',()=>{
