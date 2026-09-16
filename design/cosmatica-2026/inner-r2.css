@@ -29,12 +29,16 @@
 }
 
 @media(max-width:430px){
-  /* На узких телефонах текстовое название в шапке уступает место функциональным кнопкам. */
-  .inner-top .brand span{display:none}.inner-top .brand{flex:1 1 auto;max-width:none}.theme-switch{margin-left:auto}.facet-grid{grid-template-columns:1fr!important}.project-card-top{display:grid;grid-template-columns:1fr}.project-facet{max-width:100%;width:max-content;text-align:left}.hero-actions{display:grid!important;grid-template-columns:1fr}.hero-actions .orbit-btn{width:100%}.catalog-head{gap:8px}.catalog-count{font-size:13px}.source-note{font-size:12px}
+  /* На обычном телефоне название РКО остаётся рядом с гербом; вторую строку «Косматика» не показываем. */
+  .inner-top .brand{flex:1 1 auto;max-width:none;gap:9px}.inner-top .brand span{display:block;max-width:92px}.inner-top .brand b{font-size:11px;line-height:1.08;-webkit-line-clamp:3}.theme-switch{margin-left:auto}.facet-grid{grid-template-columns:1fr!important}.project-card-top{display:grid;grid-template-columns:1fr}.project-facet{max-width:100%;width:max-content;text-align:left}.hero-actions{display:grid!important;grid-template-columns:1fr}.hero-actions .orbit-btn{width:100%}.catalog-head{gap:8px}.catalog-count{font-size:13px}.source-note{font-size:12px}
 }
 
-@media(max-width:360px){
-  .toprow{gap:5px}.theme-switch button,.top-action{width:38px;min-width:38px;height:38px}.theme-switch{padding:1px}.brand img{width:38px;height:42px}.page-hero h1{font-size:38px}.mobile-drawer{padding-left:0}.shell{width:min(100% - 20px,1160px)}.system-card{padding:10px!important}.ns-core{padding:17px}.project-card-v2{padding:15px}.dialog-head,.dialog-body{padding-inline:13px}
+@media(max-width:380px){
+  .toprow{gap:5px}.theme-switch button,.top-action{width:38px;min-width:38px;height:38px}.theme-switch{padding:1px}.brand img{width:38px;height:42px}.inner-top .brand span{max-width:80px}.inner-top .brand b{font-size:10.5px;line-height:1.04}.page-hero h1{font-size:38px}.mobile-drawer{padding-left:0}.shell{width:min(100% - 20px,1160px)}.system-card{padding:10px!important}.ns-core{padding:17px}.project-card-v2{padding:15px}.dialog-head,.dialog-body{padding-inline:13px}
+}
+
+@media(max-width:345px){
+  .inner-top .brand span{display:none}.inner-top .brand{gap:6px}
 }
 
 @media(prefers-reduced-motion:reduce){.project-card-v2,.orbit-btn{transition:none!important;transform:none!important}}
