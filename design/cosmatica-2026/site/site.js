@@ -167,12 +167,63 @@ function renderList() {
 }
 
 function renderArticle() {
+  const facts = data.facts || [];
+  const lists = [
+    data.books?.length ? {title: 'Издания', items: data.books} : null,
+    data.program?.length ? {title: 'Программа', items: data.program} : null,
+    data.audience?.length ? {title: 'Кто участвует', items: data.audience} : null,
+    data.departments?.length ? {title: 'Структура', items: data.departments} : null
+  ].filter(Boolean);
+
   return `
     <main id="main">
-      ${pageHero('Материал')}
+      ${pageHero(route.slug === 'poster-item' ? 'Мероприятие' : route.slug === 'partner' ? 'Партнёр' : route.slug === 'collegium-item' ? 'Совет РКО' : 'Материал')}
+      <section class="section detail-intro">
+        <div class="shell">
+          ${facts.length ? `
+            <div class="fact-grid">
+              ${facts.map((fact) => `
+                <article class="fact-card">
+                  <span>${esc(fact.label)}</span>
+                  <b>${esc(fact.value)}</b>
+                </article>
+              `).join('')}
+            </div>
+          ` : ''}
+        </div>
+      </section>
       <div class="shell article-layout">
         <article class="article">
           ${textSections(data.sections || [{title: 'Содержание', body: route.intro}])}
+
+          ${lists.map((list) => `
+            <section class="article-section">
+              <h2>${esc(list.title)}</h2>
+              <ul class="detail-list detail-list-wide">
+                ${list.items.map((item) => `<li>${esc(item)}</li>`).join('')}
+              </ul>
+            </section>
+          `).join('')}
+
+          ${data.contacts ? `
+            <section class="article-section">
+              <h2>Контакты</h2>
+              <div class="contact-inline">
+                <b>${esc(data.contacts.name || '')}</b>
+                ${data.contacts.email ? `<span>${esc(data.contacts.email)}</span>` : ''}
+                ${data.contacts.phone ? `<span>${esc(data.contacts.phone)}</span>` : ''}
+              </div>
+            </section>
+          ` : ''}
+
+          ${data.links?.length ? `
+            <section class="article-section">
+              <h2>Ссылки</h2>
+              <div class="hero-actions">
+                ${data.links.map((item) => `<a class="secondary" href="${esc(item.url)}">${esc(item.label)}</a>`).join('')}
+              </div>
+            </section>
+          ` : ''}
         </article>
         <aside class="side-card">
           <h3>Связано</h3>
