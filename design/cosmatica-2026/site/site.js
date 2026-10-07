@@ -70,13 +70,16 @@ function footer() {
 }
 
 function pageHero(kicker = 'Раздел') {
-  const titleClass = route.title.length > 90 ? 'title-xxl' : route.title.length > 58 ? 'title-xl' : '';
+  const chosen = route.slug === 'project' ? data.variants?.[query.get('id') || 'gagarincy'] : null;
+  const shownTitle = chosen?.name || route.title;
+  const shownIntro = chosen?.fullName || route.intro;
+  const titleClass = shownTitle.length > 90 ? 'title-xxl' : shownTitle.length > 58 ? 'title-xl' : '';
   return `
     <div class="shell crumbs"><a href="index.html">Главная</a> → ${esc(route.name)}</div>
     <section class="shell page-hero ${titleClass}">
       <p class="eyebrow">${esc(kicker)}</p>
-      <h1>${esc(route.title)}</h1>
-      <p class="lede">${esc(route.intro)}</p>
+      <h1>${esc(shownTitle)}</h1>
+      <p class="lede">${esc(shownIntro)}</p>
     </section>
   `;
 }
@@ -359,7 +362,7 @@ function renderProjects() {
               <span class="tag">${esc(project.status)}</span>
               <h3>${esc(project.title)}</h3>
               <p>${esc(project.text)}</p>
-              <a class="card-link" href="${index === 0 ? href('project') : '#'}">Подробнее →</a>
+              <a class="card-link" href="${project.id ? href('project') + '&id=' + encodeURIComponent(project.id) : esc(project.sourceUrl || 'https://cosmatica.org/projects')}">Подробнее →</a>
             </article>
           `).join('')}
         </div>
@@ -369,7 +372,8 @@ function renderProjects() {
 }
 
 function renderProject() {
-  const project = data.project || {};
+  const project = data.variants?.[query.get('id') || 'gagarincy'] || data.variants?.gagarincy || {};
+  const money = value => new Intl.NumberFormat('ru-RU').format(value) + ' ₽';
   const fundraising = project.fundraising || {};
   return `
     <main id="main">
