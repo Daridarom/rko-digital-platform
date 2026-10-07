@@ -135,7 +135,7 @@ function renderHome() {
           <div class="hero-mark"><img src="assets/rko-mark.svg" alt="Герб РКО «Прорыв»"></div>
           <div class="identity-caption">
             <b>Прорыв к космическому будущему</b>
-            <p>Официальная символика РКО используется без изменения композиции и пропорций.</p>
+            <p>Научная, культурная и проектная работа ради общего будущего.</p>
           </div>
         </div>
       </section>
