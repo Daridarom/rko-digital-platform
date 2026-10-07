@@ -338,7 +338,7 @@ function renderDepartments() {
   return `
     <main id="main">${pageHero('Территории')}
       <section class="section"><div class="shell">
-        <div class="alphabet">${alphabet.map((letter) => `<button>${letter}</button>`).join('')}</div>
+        <div class="alphabet"><button type="button" data-letter="Все" aria-pressed="true">Все</button>${alphabet.map((letter) => `<button type="button" data-letter="${letter}" aria-pressed="false">${letter}</button>`).join('')}</div>
         ${sectionCards((data.regions || []).map((region,index) => ({title: region, text: 'Команда · проекты · события · контакты', url: data.links?.[index]})), 'Отделение')}
       </div></section>
     </main>
@@ -477,7 +477,9 @@ function renderPeople() {
   return `
     <main id="main">${pageHero('Люди РКО')}
       <section class="section"><div class="shell">
-        ${filterTabs(data.filters)}
+        <nav class="tabs" aria-label="Категории участников">
+          ${(data.filters || []).map((label,i) => `<a class="tab ${i===0?'active':''}" href="${esc(['https://cosmatica.org/users/index/participants','https://cosmatica.org/users/index/honorable','https://cosmatica.org/users/index/youngparticipants','https://cosmatica.org/users/index/eternal'][i] || 'https://cosmatica.org/users')}" target="_blank" rel="noopener noreferrer">${esc(label)} ↗</a>`).join('')}
+        </nav>
         <div class="people-grid">
           ${(data.people || []).map((person) => `<a class="person" href="${person===data.people?.[0] ? href('profile') : 'https://cosmatica.org/users'}"><div class="avatar"></div><b>${esc(person)}</b><small>Участник РКО</small></a>`).join('')}
         </div>
@@ -537,8 +539,10 @@ function renderTabs() {
   return `
     <main id="main">${pageHero('Первый Отряд')}
       <section class="section"><div class="shell">
-        <div class="tabs">${(data.tabs || []).map((tab, index) => `<span class="tab ${index === 0 ? 'active' : ''}">${esc(tab.name)}${tab.count ? ' · ' + esc(tab.count) : ''}</span>`).join('')}</div>
-        <article class="article">${textSections(data.sections)}</article>
+        <nav class="tabs" aria-label="Разделы Первого Отряда">
+          ${(data.tabs || []).map((tab, index) => `<a class="tab ${index === 0 ? 'active' : ''}" href="${index===0?'#first-info':'https://cosmatica.org/first-squad.html'}">${esc(tab.name)}${tab.count ? ' · ' + esc(tab.count) : ''}</a>`).join('')}
+        </nav>
+        <article class="article" id="first-info">${textSections(data.sections)}</article>
       </div></section>
     </main>
   `;
@@ -646,6 +650,19 @@ document.querySelector('.theme-btn')?.addEventListener('click', () => {
   document.body.classList.toggle('dark');
   localStorage.setItem('rko-theme', document.body.classList.contains('dark') ? 'dark' : 'light');
 });
+document.querySelectorAll('.alphabet button[data-letter]').forEach(button=>button.addEventListener('click',()=>{
+ const letter=button.getAttribute('data-letter');
+ document.querySelectorAll('.alphabet button[data-letter]').forEach(b=>{const on=b===button;b.classList.toggle('active',on);b.setAttribute('aria-pressed',String(on));});
+ let count=0;
+ document.querySelectorAll('#main .grid .card').forEach(card=>{
+  const title=card.querySelector('h3')?.textContent.trim()||'';
+  const visible=letter==='Все'||title.toLocaleUpperCase('ru').startsWith(letter);
+  card.hidden=!visible;if(visible)count++;
+ });
+ let empty=document.querySelector('.alphabet-empty');
+ if(!empty){empty=document.createElement('p');empty.className='alphabet-empty';document.querySelector('.alphabet')?.after(empty);}
+ empty.textContent=count?'':'Отделений на выбранную букву нет.';
+}));
 document.querySelectorAll('.tabs [data-filter]').forEach(button=>button.addEventListener('click',()=>{
  const filter=button.getAttribute('data-filter');
  const all=[...document.querySelectorAll('.tabs [data-filter]')];
