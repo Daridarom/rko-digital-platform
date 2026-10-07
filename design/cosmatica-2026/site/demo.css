@@ -1,0 +1,48 @@
+/* Cosmatica · цельный адаптивный интерфейс */
+.page-search .page-hero,.page-search-results .page-hero{padding-top:28px;padding-bottom:26px}
+.page-search .page-hero h1,.page-search-results .page-hero h1{font-size:clamp(30px,4.4vw,50px);line-height:1.08;letter-spacing:-.04em}
+.page-search .page-hero .lede,.page-search-results .page-hero .lede{font-size:16px;margin-top:14px;line-height:1.5}
+.page-search .search-section,.page-search-results .search-section{padding:22px 0 58px}
+.page-search .search-box,.page-search-results .search-box{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:stretch;max-width:620px;width:100%;gap:10px}
+.page-search .search-box input,.page-search-results .search-box input{width:100%;min-width:0;min-height:48px;height:48px;border-radius:13px;padding:0 15px;font-size:15px}
+.page-search .search-box button.primary,.page-search-results .search-box button.primary{width:auto;min-height:48px;height:48px;white-space:nowrap;padding:0 22px;border-radius:13px;font-size:14px}
+.page-search .search-heading,.page-search-results .search-heading{font-size:clamp(22px,3vw,30px);margin:26px 0 18px}
+.page-search .empty-state,.page-search-results .empty-state{padding:24px 0}
+.page-search .search-hints{margin:22px 0 0}
+.page-search-results .grid .card{min-height:150px}
+.site-header{z-index:120}
+.menu-open{overflow:hidden}
+.menu-backdrop{display:none}
+.form-feedback{font-size:13px;font-weight:700;line-height:1.5;color:var(--red);margin:12px 0 0}
+.demo-auth .form-feedback:empty,.demo-pledge .form-feedback:empty{display:none}
+.demo-auth button.primary,.demo-pledge button.primary,.support-mini button.primary{cursor:pointer;border:0}
+.demo-pledge{max-width:700px;margin-top:30px;border:1px solid var(--line);background:var(--surface);border-radius:24px;padding:26px}
+.demo-pledge h2{font-size:clamp(22px,3vw,30px);margin:0 0 18px}
+.demo-amounts{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:20px}
+.demo-amount{background:var(--surface);border:1px solid var(--line);padding:10px 16px;border-radius:999px;color:var(--text);cursor:pointer}
+.demo-amount.active{background:var(--cosmic);border-color:var(--cosmic);color:white}
+.demo-pledge label{display:block;font-size:13px;font-weight:750;margin-bottom:6px}
+.demo-pledge input{display:block;width:min(100%,280px);height:46px;padding:9px 13px;border:1px solid var(--line);border-radius:12px;color:var(--text);background:var(--bg);margin-bottom:17px}
+.resource-card{cursor:default}
+.resource-label{display:inline-block;margin-right:8px;color:var(--muted)}
+.project-source{display:none}
+@media(max-width:980px){
+ .mobile-drawer.open{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 14px;position:fixed;z-index:124;left:0;right:0;top:81px;bottom:auto;width:100%;max-width:none;max-height:calc(100dvh - 81px);overflow:auto;background:var(--surface);border:1px solid var(--line);padding:14px 22px 26px;box-shadow:0 20px 30px rgba(5,7,25,.18)}
+ .mobile-drawer.open a{min-height:49px;padding:0 4px;font-size:14px;display:flex;align-items:center;line-height:1.3}
+ .menu-backdrop.open{display:block;position:fixed;inset:81px 0 0;width:100%;height:calc(100dvh - 81px);z-index:122;background:rgba(6,8,28,.45);border:0;cursor:pointer}
+}
+@media(max-width:640px){
+ .page-search .page-hero,.page-search-results .page-hero{padding-top:20px;padding-bottom:20px}
+ .page-search .page-hero h1,.page-search-results .page-hero h1{font-size:clamp(29px,8vw,37px);line-height:1.12;overflow-wrap:break-word}
+ .page-search .page-hero .lede,.page-search-results .page-hero .lede{font-size:14px;margin-top:12px}
+ .page-search .search-section,.page-search-results .search-section{padding:17px 0 44px}
+ .page-search .search-box,.page-search-results .search-box{grid-template-columns:minmax(0,1fr) auto;max-width:100%;gap:8px}
+ .page-search .search-box input,.page-search-results .search-box input{height:46px;min-height:46px;min-width:0;padding:0 12px;border-radius:12px}
+ .page-search .search-box button.primary,.page-search-results .search-box button.primary{height:46px;min-height:46px;width:auto;padding:0 16px;border-radius:12px}
+ .page-search-results .search-heading{font-size:22px;margin:20px 0 12px}
+ .page-search-results .grid .card{min-height:0;padding:18px}
+ .mobile-drawer.open{top:68px;max-height:calc(100dvh - 68px);grid-template-columns:repeat(2,minmax(0,1fr));padding:10px 16px 23px}
+ .mobile-drawer.open a{font-size:13px;min-height:50px}
+ .menu-backdrop.open{inset:68px 0 0;height:calc(100dvh - 68px)}
+ .demo-pledge{padding:20px;border-radius:18px}
+}

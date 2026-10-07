@@ -1,0 +1,37 @@
+name: Cosmatica Demo QA
+on:
+  pull_request:
+    paths:
+      - "design/cosmatica-2026/site/**"
+      - ".github/workflows/cosmatica-demo.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Install Chromium browser test tools
+        working-directory: design/cosmatica-2026/site
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+      - name: Run structural and live browser checks
+        run: |
+          set -e
+          cd design/cosmatica-2026/site
+          node qa/check.mjs
+          cd ../../..
+          python3 -m http.server 8768 --bind 127.0.0.1 >/tmp/cosmatica-demo-server.log 2>&1 &
+          server_pid=$!
+          trap 'kill $server_pid' EXIT
+          sleep 2
+          cd design/cosmatica-2026/site
+          node qa/demo-smoke.mjs
