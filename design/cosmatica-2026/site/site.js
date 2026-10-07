@@ -397,12 +397,12 @@ function renderProject() {
       ${pageHero('Проект РКО')}
       <section class="section project-overview">
         <div class="shell project-hero-grid ${project.image ? '' : 'no-media'}">
-          ${project.image ? `<div class="project-media"><img src="${esc(project.image)}" alt="${esc(project.name)}"></div>` : ''}
+          ${project.image ? `<div class="project-media"><img src="${esc(project.image)}" alt="${esc(project.name)}"></div>` : `<div class="project-media project-media-placeholder"><span>РКО</span><b>${esc(project.direction || "Проект")}</b><small>${esc(project.name)}</small></div>`}
           <div class="project-summary">
             <p class="eyebrow">${esc(project.status)}</p>
             <h2>О проекте</h2>
             <p class="lede project-lede">${esc(project.mission)}</p>
-            <p class="project-source"><a href="${esc(project.sourceUrl)}" target="_blank" rel="noopener noreferrer">Оригинальная страница проекта ↗</a></p>
+            <p class="project-source"><a href="${esc(project.sourceUrl)}" target="_blank" rel="noopener noreferrer">Официальная страница проекта ↗</a></p>
             <div class="project-stats">
               ${Object.entries(project.stats || {}).map(([label, value]) => `<div><b>${esc(value)}</b><span>${esc(label)}</span></div>`).join('')}
             </div>
@@ -414,13 +414,13 @@ function renderProject() {
         <div class="shell project-layout">
           <aside class="project-side">
             <p class="eyebrow">ПРОЕКТ</p>
-            <div class="metric"><b>Статус</b><br><small>${esc(project.status)}</small></div>
+            <div class="metric"><b>Статус</b><br><small>${esc(project.status)}</small></div>${project.direction ? `<div class="metric"><b>Направление</b><br><small>${esc(project.direction)}</small></div>` : ""}
             ${Object.entries(project.stats || {}).map(([label, value]) => `<div class="metric"><b>${esc(label)}</b><br><small>${esc(value)}</small></div>`).join('')}
             ${fundraising.enabled ? `
               <div class="support-mini">
                 <b>${esc(fundraising.label)}</b>
                 <p>${esc(fundraising.note)}</p>
-                ${fundraising.raised != null && fundraising.target != null ? `<div class="fundraising-summary"><strong>${money(fundraising.raised)}</strong> из ${money(fundraising.target)}<small>Показатели исходной страницы на момент сбора данных. Актуальная сумма — на сайте проекта.</small></div>` : ""}
+                ${fundraising.raised != null && fundraising.target != null ? `<div class="fundraising-summary"><strong>${money(fundraising.raised)}</strong> из ${money(fundraising.target)}<div class="fundraising-track"><span style="width:${Math.min(100, Math.max(0, fundraising.raised / fundraising.target * 100)).toFixed(1)}%"></span></div><small>Показатели исходной страницы на момент сбора данных. Актуальная сумма — на сайте проекта.</small></div>` : ""}
                 <a class="primary" href="${esc(fundraising.actionUrl || project.sourceUrl)}" target="_blank" rel="noopener noreferrer">Поддержать на сайте РКО ↗</a>
               </div>
             ` : ''}
@@ -432,6 +432,7 @@ function renderProject() {
               <p>${esc(project.mission)}</p>
               <h2>Цель</h2>
               <p>${esc(project.goal)}</p>
+              ${project.history ? `<h2>Контекст и развитие</h2><p>${esc(project.history)}</p>` : ""}
               ${textSections(project.sections)}
             </article>
           </div>
