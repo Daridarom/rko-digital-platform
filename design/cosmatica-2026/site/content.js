@@ -31,32 +31,38 @@ window.COSMATICA_CONTENT={
       {
         "title": "Переиздание ключевых книг РКО",
         "meta": "Проект · 2026",
-        "text": "Возвращение в обращение ключевых изданий Общества и передача книг новым читателям, школам и командам."
+        "text": "Возвращение в обращение ключевых изданий Общества и передача книг новым читателям, школам и командам.",
+        "url": "view.html?p=news-item"
       },
       {
         "title": "Итоги семинара Международной научной школы им. П. Г. Кузнецова",
         "meta": "Наука",
-        "text": "Материалы и результаты работы научной школы."
+        "text": "Материалы и результаты работы научной школы.",
+        "url": "https://cosmatica.org/news/2266-itogi-seminara-mezhdunarodnoi-nauchnoi-shkoly-im-p-g-kuznecova.html"
       },
       {
         "title": "Солидарная, кооперационная, локальная экономика в действии",
         "meta": "Экономика",
-        "text": "Материал Федерального Народного Совета."
+        "text": "Материал Федерального Народного Совета.",
+        "url": "https://cosmatica.org/news/2265-solidarnaja-kooperacionnaja-ekonomika-v-deistvii.html"
       },
       {
         "title": "Стартовал всероссийский конкурс «Живое слово»",
         "meta": "Культура · Конкурс",
-        "text": "Конкурс культурного наследия и русского слова."
+        "text": "Конкурс культурного наследия и русского слова.",
+        "url": "https://cosmatica.org/news/2264-startoval-vserossiiskii-konkurs-zhivoe-slovo.html"
       },
       {
         "title": "Шахматный фестиваль ветеранов прошёл в Москве",
         "meta": "Спорт",
-        "text": "Событие Спортивного клуба Русского Космического Общества."
+        "text": "Событие Спортивного клуба Русского Космического Общества.",
+        "url": "https://cosmatica.org/news/2263-shahmatnyi-festival-veteranov-proshyol-v-moskve.html"
       },
       {
         "title": "Юрий Владимирович Яковец встал в Вечный строй",
         "meta": "Память",
-        "text": "Памяти соратника и учёного."
+        "text": "Памяти соратника и учёного.",
+        "url": "https://cosmatica.org/news/2262-yurii-vladimirovich-jakovec-vstal-v-vechnyi-stroi.html"
       }
     ]
   },
@@ -213,27 +219,33 @@ window.COSMATICA_CONTENT={
     "cards": [
       {
         "title": "Школа Русского Космизма",
-        "text": "Мировоззренческая основа Русского Космического Общества."
+        "text": "Мировоззренческая основа Русского Космического Общества.",
+        "url": "https://cosmatica.org/about/informacija"
       },
       {
         "title": "Стратегия становления — наше Общее Дело",
-        "text": "Стратегический материал РКО."
+        "text": "Стратегический материал РКО.",
+        "url": "https://cosmatica.org/about/informacija"
       },
       {
         "title": "РКО в вопросах и ответах",
-        "text": "Ответы команды инициаторов создания Общества."
+        "text": "Ответы команды инициаторов создания Общества.",
+        "url": "https://cosmatica.org/about/informacija"
       },
       {
         "title": "КОСМАТИКА",
-        "text": "Смысловая и методологическая рамка."
+        "text": "Смысловая и методологическая рамка.",
+        "url": "https://cosmatica.org/about/informacija"
       },
       {
         "title": "Направления деятельности РКО",
-        "text": "Сферы и формы деятельности Общества."
+        "text": "Сферы и формы деятельности Общества.",
+        "url": "https://cosmatica.org/about/informacija"
       },
       {
         "title": "Зачем создано Русское Космическое Общество?",
-        "text": "О целях и предназначении организации."
+        "text": "О целях и предназначении организации.",
+        "url": "https://cosmatica.org/about/informacija"
       }
     ]
   },
@@ -300,27 +312,33 @@ window.COSMATICA_CONTENT={
     "cards": [
       {
         "title": "Экономический совет",
-        "text": "Экономика, финансы и модели природосообразного развития."
+        "text": "Экономика, финансы и модели природосообразного развития.",
+        "url": "https://cosmatica.org/collegium/23-ekonomicheskii-sovet.html"
       },
       {
         "title": "Совет Чести и Права",
-        "text": "Этические и правовые основания деятельности."
+        "text": "Этические и правовые основания деятельности.",
+        "url": "https://cosmatica.org/collegium/22-sovet-chesti-i-prava.html"
       },
       {
         "title": "Совет здоровья",
-        "text": "Здоровье человека и общества."
+        "text": "Здоровье человека и общества.",
+        "url": "https://cosmatica.org/collegium/20-sovet-zdorovja.html"
       },
       {
         "title": "Совет по развитию космических инициатив",
-        "text": "Космические проекты и инициативы."
+        "text": "Космические проекты и инициативы.",
+        "url": "https://cosmatica.org/collegium/19-sovet-po-razvitiyu-kosmicheskih-iniciativ.html"
       },
       {
         "title": "Экологический Совет",
-        "text": "Человек, природа и экологическое развитие."
+        "text": "Человек, природа и экологическое развитие.",
+        "url": "https://cosmatica.org/collegium/18-ekologicheskii-sovet.html"
       },
       {
         "title": "Совет по культуре",
-        "text": "Культура, наследие и творчество."
+        "text": "Культура, наследие и творчество.",
+        "url": "https://cosmatica.org/collegium/17-sovet-po-kulture.html"
       }
     ]
   },
@@ -372,27 +390,33 @@ window.COSMATICA_CONTENT={
     "cards": [
       {
         "title": "Федеральный экспертный совет",
-        "text": "Экспертное и институциональное взаимодействие."
+        "text": "Экспертное и институциональное взаимодействие.",
+        "url": "https://cosmatica.org/partners/15-federalnyi-ekspertnyi-sovet.html"
       },
       {
         "title": "Федеральный народный совет",
-        "text": "Общественные инициативы и совместные программы."
+        "text": "Общественные инициативы и совместные программы.",
+        "url": "https://cosmatica.org/partners/14-federalnyi-narodnyi-sovet.html"
       },
       {
         "title": "Живой космос",
-        "text": "Партнёрский проект космической тематики."
+        "text": "Партнёрский проект космической тематики.",
+        "url": "https://cosmatica.org/partners/12-zhivoi-kosmos.html"
       },
       {
         "title": "Фонд «АРКТИКА-СГ»",
-        "text": "Партнёрство по профильным направлениям."
+        "text": "Партнёрство по профильным направлениям.",
+        "url": "https://cosmatica.org/partners/11-fond-arktika-sg.html"
       },
       {
         "title": "International Organization — Club of Sofia",
-        "text": "Международное взаимодействие."
+        "text": "Международное взаимодействие.",
+        "url": "https://cosmatica.org/partners/10-international-organization-club-of-sofia.html"
       },
       {
         "title": "РАЕН",
-        "text": "Российская академия естественных наук."
+        "text": "Российская академия естественных наук.",
+        "url": "https://cosmatica.org/partners/9-rossiiskaja-akademija-estestvennyh-nauk-raen.html"
       }
     ]
   },
@@ -452,6 +476,14 @@ window.COSMATICA_CONTENT={
       "Челябинская область",
       "Республика Крым",
       "Республика Хакасия"
+    ],
+    "links": [
+      "view.html?p=department",
+      "https://cosmatica.org/departments/9-sankt-peterburg.html",
+      "https://cosmatica.org/departments/8-novosibirskaja-oblast.html",
+      "https://cosmatica.org/departments/7-cheljabinskaja-oblast.html",
+      "https://cosmatica.org/departments/6-respublika-krym.html",
+      "https://cosmatica.org/departments/5-respublika-hakasija.html"
     ]
   },
   "department": {
@@ -912,33 +944,49 @@ window.COSMATICA_CONTENT={
       "Мир Героев",
       "Секция Экофилософии",
       "Владимир Иванович Вернадский"
+    ],
+    "categoryLinks": [
+      "/articles/konferencii",
+      "/articles/publikacii",
+      "/articles/media",
+      "/articles/gazeta",
+      "/articles/kosmonavtika",
+      "/articles/fantastika-rko",
+      "/articles/izdanija",
+      "/articles/konkursnye-raboty"
     ]
   },
   "articles-list": {
     "cards": [
       {
         "title": "Самоутверждение России в XXI веке как лидера в Ноосферном прорыве человечества",
-        "meta": "Ноосферный Союз 2117"
+        "meta": "Ноосферный Союз 2117",
+        "url": "view.html?p=article"
       },
       {
         "title": "Главный критерий ноосферных проектов. Целостность как качество ноосферы",
-        "meta": "Ноосферный Союз 2117"
+        "meta": "Ноосферный Союз 2117",
+        "url": "https://cosmatica.org/articles/publikacii"
       },
       {
         "title": "Экофилософия России: Пространство связи форм бытия",
-        "meta": "Экофилософия"
+        "meta": "Экофилософия",
+        "url": "https://cosmatica.org/articles/publikacii"
       },
       {
         "title": "Социогуманика и марксизм",
-        "meta": "Ноосферный Союз 2117"
+        "meta": "Ноосферный Союз 2117",
+        "url": "https://cosmatica.org/articles/publikacii"
       },
       {
         "title": "Методологическая революция в гносеологии",
-        "meta": "Философия"
+        "meta": "Философия",
+        "url": "https://cosmatica.org/articles/publikacii"
       },
       {
         "title": "Философия и философствование",
-        "meta": "Философия"
+        "meta": "Философия",
+        "url": "https://cosmatica.org/articles/publikacii"
       }
     ]
   },
@@ -960,12 +1008,22 @@ window.COSMATICA_CONTENT={
   },
   "library": {
     "books": [
+      "Философские вопросы современного естествознания, синергетики и устойчивого развития",
       "Новая парадигма теории, истории и будущего мира цивилизаций",
       "Экофилософия — развитию культуры и мира",
       "The Book of Life",
       "Ноосферный разум как разум, научно-управляющий социо-биосферной эволюцией",
       "Покер с Богом",
       "Кто первый"
+    ],
+    "links": [
+      "view.html?p=book",
+      "https://cosmatica.org/library",
+      "https://cosmatica.org/library",
+      "https://cosmatica.org/library",
+      "https://cosmatica.org/library",
+      "https://cosmatica.org/library",
+      "https://cosmatica.org/library"
     ]
   },
   "book": {
