@@ -112,3 +112,14 @@
 .auth-card{min-width:0;max-width:560px;width:100%;overflow-wrap:anywhere}
 .auth-title{overflow-wrap:anywhere;hyphens:auto}
 @media(max-width:640px){.auth-wrap{width:min(calc(100% - 28px),1180px)}.auth-card{padding:22px 20px}.auth-title{font-size:clamp(30px,9vw,42px)}}
+
+/* Final compact calendar layout: seven equal columns with agenda text below */
+@media(max-width:640px){
+ .calendar-scroll,.calendar-inner{min-width:0!important;width:100%!important;max-width:100%!important;overflow:visible!important}
+ .calendar-grid,.calendar-weekdays{width:100%!important;max-width:100%!important;min-width:0!important;grid-template-columns:repeat(7,minmax(0,1fr))!important}
+ .calendar-grid .day{min-width:0!important;min-height:63px!important;padding:6px!important;font-size:11px!important}
+ .calendar-grid .day.event{font-size:11px!important}
+ .calendar-grid .day a{display:none!important}
+ .calendar-weekdays span{padding:8px 1px!important;font-size:11px}
+ .calendar-grid .day.event::after{display:block}
+}
