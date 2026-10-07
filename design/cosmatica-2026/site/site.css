@@ -86,3 +86,7 @@
 .fundraising-summary{margin:16px 0}.fundraising-summary strong{display:block;font-size:22px;margin-bottom:8px}.fundraising-summary small{display:block;color:var(--muted);font-size:11px;line-height:1.4;margin-top:8px}.fundraising-track{height:8px;border-radius:999px;background:var(--surface2);overflow:hidden}.fundraising-track span{display:block;height:100%;background:#A61924}
 .project-source a{color:#A61924;font-weight:800;font-size:13px}.project-source{margin:12px 0 0}
 @media(max-width:640px){.project-media-placeholder{min-height:240px;padding:22px}.project-media-placeholder b{font-size:24px}}
+
+.alphabet button.active,.alphabet button[aria-pressed="true"]{background:var(--cosmic);color:#fff;border-color:var(--cosmic)}
+.alphabet-empty,.filter-empty{font-size:14px;color:var(--muted);padding:18px 0}
+.project-card[hidden],.grid .card[hidden]{display:none!important}
