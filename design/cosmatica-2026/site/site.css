@@ -54,3 +54,4 @@
  .page-hero.title-xl h1{font-size:34px}
  .page-hero.title-xxl h1{font-size:30px}
 }
+.project-hero-grid.no-media{grid-template-columns:minmax(0,1fr);max-width:1180px}.project-hero-grid.no-media .project-summary{max-width:850px}.project-hero-grid.no-media .project-lede{max-width:850px}
