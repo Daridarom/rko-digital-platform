@@ -90,3 +90,16 @@
 .alphabet button.active,.alphabet button[aria-pressed="true"]{background:var(--cosmic);color:#fff;border-color:var(--cosmic)}
 .alphabet-empty,.filter-empty{font-size:14px;color:var(--muted);padding:18px 0}
 .project-card[hidden],.grid .card[hidden]{display:none!important}
+
+.calendar-agenda{margin-top:26px}
+.calendar-agenda h3{font-size:24px;margin:0 0 14px}
+.calendar-agenda-item{display:grid;grid-template-columns:110px minmax(0,1fr) 22px;gap:14px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px;margin-top:9px;font-size:14px}
+.calendar-agenda-item b{color:#A61924}
+.calendar-agenda-item span:last-child{text-align:right}
+@media(max-width:640px){
+ .calendar-grid .day a{display:none}
+ .calendar-grid .day.event{position:relative}
+ .calendar-grid .day.event::after{content:"";display:block;width:8px;height:8px;border-radius:50%;background:#A61924;margin-top:6px}
+ .calendar-agenda-item{grid-template-columns:86px minmax(0,1fr) 14px;gap:8px;padding:13px;font-size:13px}
+ .calendar-agenda h3{font-size:21px}
+}
