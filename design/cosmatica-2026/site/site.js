@@ -428,7 +428,7 @@ function renderProject() {
           <div class="section-head"><div><p class="eyebrow">УЧАСТИЕ</p><h2>Для кого и как участвовать</h2></div></div>
           <div class="grid three-detail">
             <article class="card"><span class="tag">Аудитории</span><h3>Кому подходит</h3><ul class="detail-list">${(project.audiences || []).map((item) => `<li>${esc(item)}</li>`).join('')}</ul></article>
-            <article class="card"><span class="tag">Наука</span><h3>Направления</h3><ul class="detail-list">${(project.science || []).map((item) => `<li>${esc(item)}</li>`).join('')}</ul></article>
+            <article class="card"><span class="tag">Тематика</span><h3>Направления</h3><ul class="detail-list">${(project.science || []).map((item) => `<li>${esc(item)}</li>`).join('')}</ul></article>
             <article class="card"><span class="tag">Форматы</span><h3>Как включиться</h3><ul class="detail-list">${(project.participation || []).map((item) => `<li>${esc(item)}</li>`).join('')}</ul></article>
           </div>
         </div>
@@ -438,8 +438,8 @@ function renderProject() {
         <div class="shell">
           <div class="section-head"><div><p class="eyebrow">МАТЕРИАЛЫ</p><h2>Документы и внешние площадки</h2></div></div>
           <div class="grid two">
-            ${(project.documents || []).map((doc) => `<article class="card"><span class="tag">${esc(doc.type)}</span><h3>${esc(doc.label)}</h3><p>Документ проекта.</p></article>`).join('')}
-            ${(project.links || []).map((item) => `<a class="card" href="${esc(item.url)}"><span class="tag">Ссылка</span><h3>${esc(item.label)}</h3><p>Открыть внешнюю площадку проекта.</p></a>`).join('')}
+            ${(project.documents || []).map((doc) => `<a class="card" href="${esc(doc.url || project.sourceUrl)}" target="_blank" rel="noopener noreferrer"><span class="tag">${esc(doc.type)}</span><h3>${esc(doc.label)}</h3><p>Открыть документ ↗</p></a>`).join('')}
+            ${(project.links || []).map((item) => `<a class="card" href="${esc(item.url)}" target="_blank" rel="noopener noreferrer"><span class="tag">Ссылка</span><h3>${esc(item.label)}</h3><p>Открыть внешнюю площадку проекта.</p></a>`).join('')}
           </div>
         </div>
       </section>
@@ -448,8 +448,8 @@ function renderProject() {
         <div class="shell">
           <div class="section-head"><div><p class="eyebrow">СВЯЗАНО</p><h2>Новости и мероприятия проекта</h2></div></div>
           <div class="grid two">
-            <a class="card" href="${href('news')}"><span class="tag">Новости · ${esc(project.stats?.Новости || 0)}</span><h3>Новости проекта</h3><p>Хроника, результаты и обновления.</p></a>
-            <a class="card" href="${href('poster')}"><span class="tag">Мероприятия · ${esc(project.stats?.Мероприятия || 0)}</span><h3>События проекта</h3><p>Ближайшие и прошедшие мероприятия.</p></a>
+            <a class="card" href="${esc(project.newsUrl || project.sourceUrl)}" target="_blank" rel="noopener noreferrer"><span class="tag">Новости ${project.stats?.Новости ? '· ' + esc(project.stats.Новости) : ''} </span><h3>Новости проекта</h3><p>Хроника, результаты и обновления.</p></a>
+            <a class="card" href="${esc(project.eventsUrl || project.sourceUrl)}" target="_blank" rel="noopener noreferrer"><span class="tag">Мероприятия ${project.stats?.Мероприятия ? '· ' + esc(project.stats.Мероприятия) : ''} </span><h3>События проекта</h3><p>Ближайшие и прошедшие мероприятия.</p></a>
           </div>
         </div>
       </section>
