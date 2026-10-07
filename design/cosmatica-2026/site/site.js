@@ -287,8 +287,10 @@ function renderCalendar(){
         <h2>${monthNames[month-1]} ${year}</h2>
         <a class="secondary" href="${href('calendar')+'&month='+ym(next)}" aria-label="Следующий месяц">→</a>
       </div>
-      <div class="calendar-weekdays">${['Пн','Вт','Ср','Чт','Пт','Сб','Вс'].map(d=>`<span>${d}</span>`).join('')}</div>
-      <div class="calendar-grid">${days}</div>
+      <div class="calendar-scroll"><div class="calendar-inner">
+        <div class="calendar-weekdays">${['Пн','Вт','Ср','Чт','Пт','Сб','Вс'].map(d=>`<span>${d}</span>`).join('')}</div>
+        <div class="calendar-grid">${days}</div>
+      </div></div>
       ${!realEvents.some(e=>e.dateISO.startsWith(selected)) ? '<p class="calendar-note">В текущем перечне РКО на этот месяц события не указаны.</p>':''}
       <p class="calendar-note"><a href="${href('poster')}">Все мероприятия РКО →</a></p>
     </div></section></main>`;
