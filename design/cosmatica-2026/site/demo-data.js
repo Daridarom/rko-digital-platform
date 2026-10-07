@@ -29,6 +29,12 @@ V.sport={
  sections:[{title:'Форматы деятельности',body:'Командные встречи, соревнования, тренировки и культурно-спортивные события.'}],
  documents:[],links:[],stats:{},fundraising:{enabled:false}
 };
+if(c.library && Array.isArray(c.library.books)){
+ c.library.links=c.library.books.map(function(title){return 'view.html?p=book&item='+encodeURIComponent(title)});
+}
+if(c.news && c.news.cards){
+ c.news.cards.forEach(function(card,i){if(i>0)card.url='view.html?p=news-item&item='+encodeURIComponent(card.title)});
+}
 var cards=c.projects && c.projects.cards || [];
 cards.forEach(function(card){
  if(/Переиздание ключевых/.test(card.title))card.id='books_reprint';
