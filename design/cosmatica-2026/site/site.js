@@ -89,11 +89,11 @@ function sectionCards(cards, label = 'Материал') {
   return `
     <div class="grid">
       ${normalized.map((card, index) => `
-        <article class="card">
+        ${card.url ? `<a class="card" href="${esc(card.url)}"${/^https?:\/\//.test(card.url) ? ' target="_blank" rel="noopener noreferrer"' : ''}>` : '<article class="card">'}
           <span class="tag">${esc(card.meta || card.status || label + ' ' + String(index + 1).padStart(2, '0'))}</span>
           <h3>${esc(card.title || card.name || '')}</h3>
           ${card.text || card.note || card.role ? `<p>${esc(card.text || card.note || card.role)}</p>` : ''}
-        </article>
+        ${card.url ? '</a>' : '</article>'}
       `).join('')}
     </div>
   `;
@@ -322,7 +322,7 @@ function renderDepartments() {
     <main id="main">${pageHero('Территории')}
       <section class="section"><div class="shell">
         <div class="alphabet">${alphabet.map((letter) => `<button>${letter}</button>`).join('')}</div>
-        ${sectionCards((data.regions || []).map((region) => ({title: region, text: 'Команда · проекты · события · контакты'})), 'Отделение')}
+        ${sectionCards((data.regions || []).map((region,index) => ({title: region, text: 'Команда · проекты · события · контакты', url: data.links?.[index]})), 'Отделение')}
       </div></section>
     </main>
   `;
@@ -461,7 +461,7 @@ function renderPeople() {
       <section class="section"><div class="shell">
         ${filterTabs(data.filters)}
         <div class="people-grid">
-          ${(data.people || []).map((person) => `<article class="person"><div class="avatar"></div><b>${esc(person)}</b><small>Участник РКО</small></article>`).join('')}
+          ${(data.people || []).map((person) => `<a class="person" href="${person===data.people?.[0] ? href('profile') : 'https://cosmatica.org/users'}"><div class="avatar"></div><b>${esc(person)}</b><small>Участник РКО</small></a>`).join('')}
         </div>
       </div></section>
     </main>
@@ -489,11 +489,11 @@ function renderProfile() {
 }
 
 function renderCategories() {
-  return `<main id="main">${pageHero('Материалы')}<section class="section"><div class="shell">${sectionCards((data.categories || []).map((title) => ({title})), 'Категория')}</div></section></main>`;
+  return `<main id="main">${pageHero('Материалы')}<section class="section"><div class="shell">${sectionCards((data.categories || []).map((title,index) => ({title, url: index===1 ? href('articles-list') : 'https://cosmatica.org'+(data.categoryLinks?.[index] || '/articles')})), 'Категория')}</div></section></main>`;
 }
 
 function renderLibrary() {
-  return `<main id="main">${pageHero('Библиотека РКО')}<section class="section"><div class="shell">${sectionCards((data.books || []).map((title) => ({title})), 'Книга')}</div></section></main>`;
+  return `<main id="main">${pageHero('Библиотека РКО')}<section class="section"><div class="shell">${sectionCards((data.books || []).map((title,index) => ({title, url: data.links?.[index] || 'https://cosmatica.org/library'})), 'Книга')}</div></section></main>`;
 }
 
 function renderBook() {
@@ -506,7 +506,7 @@ function renderBook() {
           <h2>О книге</h2>
           <p>${esc(data.description)}</p>
           <div class="hero-actions">
-            <a class="primary" href="https://cosmatica.org/library/498-filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-ustoichivogo-razvitija.html">Скачать · ${esc(data.fileSize)}</a>
+            <a class="primary" href="https://cosmatica.org/library/498-filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-ustoichivogo-razvitija.html" target="_blank" rel="noopener noreferrer">Читать и скачать на сайте РКО ↗</a>
             <a class="secondary" href="${href('library')}">К библиотеке</a>
           </div>
         </div>
@@ -535,7 +535,7 @@ function renderDonate() {
           ${(data.options || []).map((option, index) => `<article class="support-card"><p class="eyebrow">0${index + 1}</p><h3>${esc(option.title)}</h3><p>${esc(option.text)}</p></article>`).join('')}
         </div>
         <div class="amounts"><button>1 000 ₽</button><button>3 000 ₽</button><button>5 000 ₽</button><button>Другая сумма</button></div>
-        <a class="primary" href="#">Поддержать</a>
+        <a class="primary" href="https://cosmatica.org/projects/donate_rko" target="_blank" rel="noopener noreferrer">Поддержать на сайте РКО ↗</a>
       </div></section>
     </main>
   `;
