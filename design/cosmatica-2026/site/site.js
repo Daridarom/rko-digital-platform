@@ -551,51 +551,65 @@ function renderDonate() {
         <div class="support-grid">
           ${(data.options || []).map((option, index) => `<article class="support-card"><p class="eyebrow">0${index + 1}</p><h3>${esc(option.title)}</h3><p>${esc(option.text)}</p></article>`).join('')}
         </div>
-        <div class="amounts"><button>1 000 ₽</button><button>3 000 ₽</button><button>5 000 ₽</button><button>Другая сумма</button></div>
+        
         <a class="primary" href="https://cosmatica.org/projects/donate_rko" target="_blank" rel="noopener noreferrer">Поддержать на сайте РКО ↗</a>
       </div></section>
     </main>
   `;
 }
 
-function renderAuth() {
-  const labels = data.fields || [];
-  const action = data.actions?.[0] || 'Продолжить';
-  return `
-    <main id="main"><div class="auth-wrap shell">
-      <section class="auth-card">
-        <p class="eyebrow">ЛИЧНЫЙ КАБИНЕТ</p>
-        <h1 class="auth-title">${esc(route.title)}</h1>
-        <p class="lede auth-lede">${esc(route.intro)}</p>
-        <form class="form">
-          ${labels.map((label) => `<div class="field"><label>${esc(label)}</label><input ${/парол/i.test(label) ? 'type="password"' : ''}></div>`).join('')}
-          <button class="primary" type="button">${esc(action)}</button>
-        </form>
-        ${data.actions?.slice(1).length ? `<div class="auth-links">${data.actions.slice(1).map((item) => `<a href="#">${esc(item)}</a>`).join('')}</div>` : ''}
-      </section>
-    </div></main>
-  `;
+function renderAuth(){
+ const labels=data.fields || [];
+ const action=data.actions?.[0] || 'Продолжить';
+ const sourceUrl='https://cosmatica.org/auth/'+(route.slug==='register'?'register':route.slug==='restore'?'restore':'login');
+ return `<main id="main"><div class="auth-wrap shell">
+   <section class="auth-card">
+     <p class="eyebrow">ЛИЧНЫЙ КАБИНЕТ</p>
+     <h1 class="auth-title">${esc(route.title)}</h1>
+     <p class="lede auth-lede">${esc(route.intro)}</p>
+     <div class="form" aria-label="Поля для входа в личный кабинет">
+       ${labels.map(label=>`<div class="field">
+         <label>${esc(label)}</label>
+         <input type="${/парол/i.test(label)?'password':'text'}" disabled placeholder="${esc(label)}">
+       </div>`).join('')}
+       <a class="primary" href="${esc(sourceUrl)}" target="_blank" rel="noopener noreferrer">${esc(action)} на сайте РКО ↗</a>
+     </div>
+     <p class="form-note">Вход, восстановление доступа и регистрация выполняются на действующем сайте РКО. Поля показаны для согласования интерфейса.</p>
+     <div class="auth-links">
+       <a href="${href('login')}">Вход</a>
+       <a href="${href('restore')}">Восстановление пароля</a>
+       <a href="${href('register')}">Регистрация</a>
+     </div>
+   </section>
+ </div></main>`;
 }
 
-function renderSearch() {
-  const isResults = route.type === 'search-results';
-  return `
-    <main id="main">${pageHero('Поиск')}
-      <section class="section search-section"><div class="shell">
-        <form class="search-box" id="searchForm">
-          <input id="searchInput" value="${isResults ? esc(data.query) : ''}" placeholder="${esc((CONTENT.search || {}).placeholder || 'Что найти?')}">
-          <button class="primary" type="submit">Найти</button>
-        </form>
-        ${isResults ? sectionCards(data.results || [], 'Результат') : `
-          <div class="empty-state">
-            <p>Введите слово или фразу, чтобы найти материалы, проекты, людей и события.</p>
-            <div class="search-hints">${((CONTENT.search || {}).hints || []).map((item) => `<span>${esc(item)}</span>`).join('')}</div>
-          </div>
-        `}
-      </div></section>
-    </main>
-  `;
+function renderSearch(){
+ const resultsMode=route.type==='search-results';
+ const term=String(query.get('q') || (resultsMode?'РКО':'')).trim();
+ const index=[];
+ const add=(title,url,kind,description)=>index.push({title,url,kind,description});
+ ROUTES.forEach(x=>add(x.title,href(x.slug),x.name,x.intro));
+ (CONTENT.news?.cards || []).forEach(x=>add(x.title,x.url || href('news'),'Новость',x.text || ''));
+ (CONTENT.projects?.cards || []).forEach(x=>add(x.title,x.id?href('project')+'&id='+encodeURIComponent(x.id):x.sourceUrl || href('projects'),'Проект',x.text || ''));
+ (CONTENT.library?.books || []).forEach((title,i)=>add(title,CONTENT.library?.links?.[i] || href('library'),'Книга','Библиотека РКО'));
+ const filtered=term?index.filter(x=>[x.title,x.kind,x.description].some(v=>String(v).toLocaleLowerCase('ru').includes(term.toLocaleLowerCase('ru')))).slice(0,35):[];
+ const rows=filtered.map(x=>`<a class="card" href="${esc(x.url)}"><span class="tag">${esc(x.kind)}</span><h3>${esc(x.title)}</h3><p>${esc(x.description)}</p></a>`).join('');
+ return `<main id="main">${pageHero('Поиск')}
+  <section class="section search-section"><div class="shell">
+    <form class="search-box" id="searchForm" role="search">
+      <input id="searchInput" name="q" value="${esc(term)}" placeholder="${esc(CONTENT.search?.placeholder || 'Что найти?')}" aria-label="Поиск по сайту">
+      <button class="primary" type="submit">Найти</button>
+    </form>
+    ${resultsMode ? `<h2 class="search-heading">${term ? 'Результаты поиска' : 'Введите поисковый запрос'}</h2>
+      ${filtered.length ? `<div class="grid">${rows}</div>` : '<p class="empty-state">По запросу в представленных материалах ничего не найдено. Попробуйте другую формулировку.</p>'}
+    ` : `<div class="empty-state"><p>Введите слово или фразу, чтобы найти материалы, проекты, людей и события.</p>
+      <div class="search-hints">${(CONTENT.search?.hints || []).map(x=>`<a href="${href('search-results')+'&q='+encodeURIComponent(x)}">${esc(x)}</a>`).join('')}</div>
+    </div>`}
+  </div></section>
+ </main>`;
 }
+
 
 let main;
 switch (route.slug) {
@@ -635,5 +649,5 @@ document.querySelector('.menu-btn')?.addEventListener('click', () => document.qu
 document.querySelector('#searchForm')?.addEventListener('submit', (event) => {
   event.preventDefault();
   const value = document.querySelector('#searchInput')?.value.trim();
-  location.href = value ? href('search-results') : href('search');
+  location.href = value ? href('search-results') + '&q=' + encodeURIComponent(value) : href('search');
 });
