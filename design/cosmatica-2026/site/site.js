@@ -71,8 +71,9 @@ function footer() {
 
 function pageHero(kicker = 'Раздел') {
   const chosen = route.slug === 'project' ? data.variants?.[query.get('id') || 'gagarincy'] : null;
-  const shownTitle = chosen?.name || route.title;
+  let shownTitle = chosen?.name || route.title;
   const shownIntro = chosen?.fullName || route.intro;
+  if(route.slug==='search-results'){const term=(query.get('q') || 'РКО').trim();if(term)shownTitle='Поиск: '+term;}
   const titleClass = shownTitle.length > 90 ? 'title-xxl' : shownTitle.length > 58 ? 'title-xl' : '';
   return `
     <div class="shell crumbs"><a href="index.html">Главная</a> → ${esc(route.name)}</div>
@@ -108,12 +109,11 @@ function textSections(sections) {
   `).join('');
 }
 
-function filterTabs(filters) {
-  return filters?.length ? `
-    <div class="tabs">
-      ${filters.map((item, index) => `<span class="tab ${index === 0 ? 'active' : ''}">${esc(item)}</span>`).join('')}
-    </div>
-  ` : '';
+function filterTabs(filters){
+ if(!filters?.length)return '';
+ return `<div class="tabs" role="group" aria-label="Фильтры">
+    ${filters.map((item,index)=>`<button class="tab ${index===0?'active':''}" type="button" data-filter="${esc(item)}" aria-pressed="${index===0?'true':'false'}">${esc(item)}</button>`).join('')}
+ </div>`;
 }
 
 function renderHome() {
@@ -375,7 +375,7 @@ function renderProjects() {
         ${filterTabs(data.filters)}
         <div class="grid">
           ${(data.cards || []).map((project, index) => `
-            <article class="card project-card">
+            <article class="card project-card" data-status="${esc(project.status)}">
               <span class="tag">${esc(project.status)}</span>
               <h3>${esc(project.title)}</h3>
               <p>${esc(project.text)}</p>
@@ -574,7 +574,7 @@ function renderAuth(){
        </div>`).join('')}
        <a class="primary" href="${esc(sourceUrl)}" target="_blank" rel="noopener noreferrer">${esc(action)} на сайте РКО ↗</a>
      </div>
-     <p class="form-note">Вход, восстановление доступа и регистрация выполняются на действующем сайте РКО. Поля показаны для согласования интерфейса.</p>
+     <p class="form-note">Вход, восстановление доступа и регистрация выполняются на действующем сайте РКО. </p>
      <div class="auth-links">
        <a href="${href('login')}">Вход</a>
        <a href="${href('restore')}">Восстановление пароля</a>
@@ -645,6 +645,23 @@ document.querySelector('.theme-btn')?.addEventListener('click', () => {
   document.body.classList.toggle('dark');
   localStorage.setItem('rko-theme', document.body.classList.contains('dark') ? 'dark' : 'light');
 });
+document.querySelectorAll('.tabs [data-filter]').forEach(button=>button.addEventListener('click',()=>{
+ const filter=button.getAttribute('data-filter');
+ const all=[...document.querySelectorAll('.tabs [data-filter]')];
+ all.forEach(b=>{const on=b===button;b.classList.toggle('active',on);b.setAttribute('aria-pressed',String(on));});
+ const cards=[...document.querySelectorAll('.project-card')];
+ if(cards.length){
+  let visible=0;
+  cards.forEach(card=>{
+   const status=card.getAttribute('data-status') || '';
+   const show=filter==='Актуальные'||filter==='Все'||(filter==='Действующие'&&/действующ/i.test(status))||(filter==='Ждут поддержки'&&/сбор/i.test(status))||(filter==='Стратегические'&&/стратег/i.test(status))||(filter==='Реализованные'&&/реализован/i.test(status))||(filter==='Перспективные'&&/перспектив/i.test(status));
+   card.hidden=!show;if(show)visible++;
+  });
+  let empty=document.getElementById('filter-empty');
+  if(!empty){empty=document.createElement('p');empty.id='filter-empty';empty.className='filter-empty';document.querySelector('.project-card')?.parentNode.after(empty);}
+  empty.textContent=visible?'':'В этой категории сейчас нет представленных проектов.';
+ }
+}));
 document.querySelector('.menu-btn')?.addEventListener('click', () => document.querySelector('.mobile-drawer')?.classList.toggle('open'));
 document.querySelector('#searchForm')?.addEventListener('submit', (event) => {
   event.preventDefault();
