@@ -61,7 +61,7 @@ await test('mobile menu overlay','projects',async page=>{
  assert.equal(await page.locator('.menu-btn').getAttribute('aria-expanded'),'true');
  const after=await page.locator('main').evaluate(x=>x.getBoundingClientRect().top);
  assert.equal(Math.round(initial),Math.round(after),'menu pushes page down');
- await page.locator('.menu-backdrop').click({position:{x:10,y:200}});
+ await page.mouse.click(5,800);
  assert.equal(await page.locator('.menu-btn').getAttribute('aria-expanded'),'false');
 });
 await test('auth demo, no submission','login',async page=>{
