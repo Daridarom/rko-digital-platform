@@ -240,41 +240,58 @@ function renderArticle() {
   `;
 }
 
-function renderEvents() {
-  const events = data.events || [];
-  return `
-    <main id="main">
-      ${pageHero('Календарь')}
-      <section class="section"><div class="shell">
-        ${filterTabs(data.filters)}
-        <div class="event-list">
-          ${events.map((event) => `
-            <article class="event-row">
-              <div class="event-date"><strong>${esc(event.date.split(' ')[0])}</strong><span>${esc(event.date.split(' ').slice(1).join(' '))}</span></div>
-              <div><h3>${esc(event.title)}</h3><p>${esc(event.text)}</p></div>
-              <a class="secondary" href="${href('poster-item')}">Подробнее</a>
-            </article>
-          `).join('')}
-        </div>
-      </div></section>
-    </main>
-  `;
+function renderEvents(){
+  const monthNames=['января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря'];
+  return `<main id="main">
+    ${pageHero('Календарь')}
+    <section class="section"><div class="shell">
+      <div class="event-list">
+        ${(data.events || []).map(event=>{
+          const [day,month]=event.date.split('.');
+          const url=event.url || href('poster-item');
+          return `<article class="event-row">
+            <div class="event-date"><strong>${esc(day)}</strong><span>${esc(monthNames[Number(month)-1] || '')}</span></div>
+            <div><h3>${esc(event.title)}</h3><p>${esc(event.text)} · ${esc(event.date)}</p></div>
+            <a class="secondary" href="${esc(url)}"${/^https?:\/\//.test(url)?' target="_blank" rel="noopener noreferrer"':''}>Подробнее</a>
+          </article>`;
+        }).join('')}
+      </div>
+    </div></section></main>`;
 }
 
-function renderCalendar() {
-  const eventDays = new Set([8, 18, 24]);
-  const days = Array.from({length: 35}, (_, index) => index + 1);
-  return `
-    <main id="main">
-      ${pageHero('Календарь')}
-      <section class="section"><div class="shell">
-        <div class="calendar-legend">${(data.legend || []).map((item) => `<span>${esc(item)}</span>`).join('')}</div>
-        <div class="calendar-grid">
-          ${days.map((day) => `<div class="day ${eventDays.has(day) ? 'event' : ''}"><b>${day}</b>${eventDays.has(day) ? '<small>Событие РКО</small>' : ''}</div>`).join('')}
-        </div>
-      </div></section>
-    </main>
-  `;
+function renderCalendar(){
+  const monthNames=['Январь','Февраль','Март','Апрель','Май','Июнь','Июль','Август','Сентябрь','Октябрь','Ноябрь','Декабрь'];
+  const selected=/^\d{4}-\d{2}$/.test(query.get('month') || '')?query.get('month'):(data.month || '2026-10');
+  const [year,month]=selected.split('-').map(Number);
+  const start=new Date(year,month-1,1);
+  const offset=(start.getDay()+6)%7;
+  const numberDays=new Date(year,month,0).getDate();
+  const prev=new Date(year,month-2,1);
+  const next=new Date(year,month,1);
+  const ym=(d)=>d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0');
+  const realEvents=(data.events || []);
+  const days=Array.from({length:offset+numberDays},(_,i)=>{
+    const day=i-offset+1;
+    if(day<1) return '<div class="day blank" aria-hidden="true"></div>';
+    const iso=selected+'-'+String(day).padStart(2,'0');
+    const todays=realEvents.filter(e=>e.dateISO===iso);
+    return `<div class="day ${todays.length?'event':''}">
+      <b>${day}</b>
+      ${todays.map(e=>`<a href="${esc(e.url)}">${esc(e.title)}</a>`).join('')}
+    </div>`;
+  }).join('');
+  return `<main id="main">${pageHero('Календарь')}
+    <section class="section"><div class="shell">
+      <div class="calendar-toolbar">
+        <a class="secondary" href="${href('calendar')+'&month='+ym(prev)}" aria-label="Предыдущий месяц">←</a>
+        <h2>${monthNames[month-1]} ${year}</h2>
+        <a class="secondary" href="${href('calendar')+'&month='+ym(next)}" aria-label="Следующий месяц">→</a>
+      </div>
+      <div class="calendar-weekdays">${['Пн','Вт','Ср','Чт','Пт','Сб','Вс'].map(d=>`<span>${d}</span>`).join('')}</div>
+      <div class="calendar-grid">${days}</div>
+      ${!realEvents.some(e=>e.dateISO.startsWith(selected)) ? '<p class="calendar-note">В текущем перечне РКО на этот месяц события не указаны.</p>':''}
+      <p class="calendar-note"><a href="${href('poster')}">Все мероприятия РКО →</a></p>
+    </div></section></main>`;
 }
 
 function renderDirection() {
