@@ -588,7 +588,7 @@ window.COSMATICA_CONTENT={
         "name": "Дружина Гагаринцев",
         "fullName": "Всенародное детско-юношеское общественное движение Русского Космического Общества — «Дружина Гагаринцев»",
         "status": "Действующий",
-        "image": "https://cosmatica.org/upload/002/u218/d/0/vsenarodnoe-detsko-yunosheskoe-obschestvennoe-dvizhenie-russkogo-kosm.jpg",
+        "image": "assets/gagarincy.svg",
         "stats": {
           "Новости": 108,
           "Мероприятия": 10
@@ -951,7 +951,7 @@ window.COSMATICA_CONTENT={
     ]
   },
   "profile": {
-    "image": "https://cosmatica.org/upload/002/u218/7/5/b12f65ad.jpg",
+    "image": "assets/profile.svg",
     "projectCount": 122,
     "sections": [
       {
@@ -1058,7 +1058,7 @@ window.COSMATICA_CONTENT={
   },
   "book": {
     "authors": "Кузнецов О.Л., Шамаева Е.Ф.",
-    "image": "https://cosmatica.org/upload/000/u7/c/5/filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-u.jpg",
+    "image": "assets/book.svg",
     "fileSize": "3 Мб",
     "description": "В краткой и доступной форме изложены фрагменты эволюции геосфер, биосферы и социосферы. Показана применимость междисциплинарных языков и принципов к исследованию динамики социоприродных систем и проанализированы пути реализации стратегий устойчивого развития."
   },
