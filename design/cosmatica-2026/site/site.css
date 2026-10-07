@@ -103,3 +103,6 @@
  .calendar-agenda-item{grid-template-columns:86px minmax(0,1fr) 14px;gap:8px;padding:13px;font-size:13px}
  .calendar-agenda h3{font-size:21px}
 }
+
+.calendar-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}.calendar-inner{min-width:0}.calendar-weekdays{display:grid;grid-template-columns:repeat(7,1fr);background:var(--surface2);border:1px solid var(--line);border-bottom:0;border-radius:20px 20px 0 0;overflow:hidden}.calendar-weekdays span{padding:9px;text-align:center;font-size:11px;font-weight:800;color:var(--muted)}.calendar-toolbar{display:flex;justify-content:center;align-items:center;gap:14px;margin-bottom:18px}.calendar-toolbar h2{margin:0;font-size:24px}.calendar-note{color:var(--muted);font-size:13px}
+@media(max-width:640px){.calendar-inner{min-width:720px}.calendar-scroll{margin-right:-14px;padding-right:14px}.calendar-grid{grid-template-columns:repeat(7,1fr)!important}.day{min-height:88px!important;padding:9px!important;font-size:12px!important}.day.event{font-size:11px!important}}
