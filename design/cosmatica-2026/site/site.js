@@ -379,13 +379,11 @@ function renderProject() {
     <main id="main">
       ${pageHero('Проект РКО')}
       <section class="section project-overview">
-        <div class="shell project-hero-grid">
-          <div class="project-media">
-            ${project.image ? `<img src="${esc(project.image)}" alt="${esc(project.name)}">` : ''}
-          </div>
+        <div class="shell project-hero-grid ${project.image ? '' : 'no-media'}">
+          ${project.image ? `<div class="project-media"><img src="${esc(project.image)}" alt="${esc(project.name)}"></div>` : ''}
           <div class="project-summary">
             <p class="eyebrow">${esc(project.status)}</p>
-            <h2>${esc(project.name)}</h2>
+            <h2>О проекте</h2>
             <p class="lede project-lede">${esc(project.mission)}</p>
             <p class="project-source"><a href="${esc(project.sourceUrl)}" target="_blank" rel="noopener noreferrer">Оригинальная страница проекта ↗</a></p>
             <div class="project-stats">
