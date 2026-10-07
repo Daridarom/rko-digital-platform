@@ -12,6 +12,13 @@
 - Отделения используют алфавитную навигацию и многоколоночную сетку.
 - Страница поддержки переработана как самостоятельный пользовательский сценарий.
 
+## Публичная версия
+
+https://daridarom.github.io/rko-digital-platform/design/cosmatica-2026/site/
+
+Карта всех интерфейсов:
+https://daridarom.github.io/rko-digital-platform/design/cosmatica-2026/site/sitemap.html
+
 ## Просмотр
 
 - `index.html` — главная.
