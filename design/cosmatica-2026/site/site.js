@@ -678,6 +678,17 @@ document.querySelectorAll('.tabs [data-filter]').forEach(button=>button.addEvent
   let empty=document.getElementById('filter-empty');
   if(!empty){empty=document.createElement('p');empty.id='filter-empty';empty.className='filter-empty';document.querySelector('.project-card')?.parentNode.after(empty);}
   empty.textContent=visible?'':'В этой категории сейчас нет представленных проектов.';
+ } else if(route.slug==='news'){
+  const articles=[...document.querySelectorAll('#main .section .grid .card')];
+  let visible=0;
+  articles.forEach(card=>{
+   const tag=(card.querySelector('.tag')?.textContent || '').toLocaleLowerCase('ru');
+   const show=filter==='Все'||(filter==='Проекты'&&tag.includes('проект'))||(filter==='Наука и образование'&&tag.includes('наук'))||(filter==='Культура'&&tag.includes('культур'))||(filter==='Общество'&&/экономик|память|спорт/i.test(tag))||(filter==='Региональные отделения'&&tag.includes('регион'));
+   card.hidden=!show;if(show)visible++;
+  });
+  let empty=document.getElementById('filter-empty');
+  if(!empty){empty=document.createElement('p');empty.id='filter-empty';empty.className='filter-empty';document.querySelector('#main .section .grid')?.after(empty);}
+  empty.textContent=visible?'':'В этой категории пока нет материалов.';
  }
 }));
 document.querySelector('.menu-btn')?.addEventListener('click', () => document.querySelector('.mobile-drawer')?.classList.toggle('open'));
