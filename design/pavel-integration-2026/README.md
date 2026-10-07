@@ -2,6 +2,12 @@
 
 Основной review-контур нового интерфейса Cosmatica по фактическому перечню Павла.
 
+## Живой preview
+
+https://daridarom.github.io/rko-digital-platform/design/pavel-integration-2026/
+
+GitHub Pages подтверждён read-back: HTTP 200.
+
 ## Что здесь опубликовано
 
 - 31/31 строк исходной таблицы «Макеты страниц cosmatica.org».
