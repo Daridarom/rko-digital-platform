@@ -387,6 +387,7 @@ function renderProject() {
             <p class="eyebrow">${esc(project.status)}</p>
             <h2>${esc(project.name)}</h2>
             <p class="lede project-lede">${esc(project.mission)}</p>
+            <p class="project-source"><a href="${esc(project.sourceUrl)}" target="_blank" rel="noopener noreferrer">Оригинальная страница проекта ↗</a></p>
             <div class="project-stats">
               ${Object.entries(project.stats || {}).map(([label, value]) => `<div><b>${esc(value)}</b><span>${esc(label)}</span></div>`).join('')}
             </div>
@@ -404,14 +405,14 @@ function renderProject() {
               <div class="support-mini">
                 <b>${esc(fundraising.label)}</b>
                 <p>${esc(fundraising.note)}</p>
-                <input class="support-input" type="number" min="1" placeholder="Сумма, ₽">
-                <button class="primary" type="button">Поддержать</button>
+                ${fundraising.raised != null && fundraising.target != null ? `<div class="fundraising-summary"><strong>${money(fundraising.raised)}</strong> из ${money(fundraising.target)}<small>Показатели исходной страницы на момент сбора данных. Актуальная сумма — на сайте проекта.</small></div>` : ""}
+                <a class="primary" href="${esc(fundraising.actionUrl || project.sourceUrl)}" target="_blank" rel="noopener noreferrer">Поддержать на сайте РКО ↗</a>
               </div>
             ` : ''}
           </aside>
           <div>
-            <div class="tabs">${(project.tabs || []).map((tab, index) => `<span class="tab ${index === 0 ? 'active' : ''}">${esc(tab)}</span>`).join('')}</div>
-            <article class="article">
+            <nav class="tabs" aria-label="Разделы проекта">${(project.tabs || []).map((tab, index) => `<a class="tab ${index === 0 ? 'active' : ''}" href="${/новост|меропр/i.test(tab) ? '#project-activity' : /материал|полож|площад/i.test(tab) ? '#project-materials' : /участ|сотруднич|поддерж/i.test(tab) ? '#project-participation' : '#project-about'}">${esc(tab)}</a>`).join('')}</nav>
+            <article class="article" id="project-about">
               <h2>Смысл проекта</h2>
               <p>${esc(project.mission)}</p>
               <h2>Цель</h2>
@@ -422,7 +423,7 @@ function renderProject() {
         </div>
       </section>
 
-      <section class="section">
+      <section class="section" id="project-participation">
         <div class="shell">
           <div class="section-head"><div><p class="eyebrow">УЧАСТИЕ</p><h2>Для кого и как участвовать</h2></div></div>
           <div class="grid three-detail">
@@ -433,7 +434,7 @@ function renderProject() {
         </div>
       </section>
 
-      <section class="section soft">
+      <section class="section soft" id="project-materials">
         <div class="shell">
           <div class="section-head"><div><p class="eyebrow">МАТЕРИАЛЫ</p><h2>Документы и внешние площадки</h2></div></div>
           <div class="grid two">
@@ -443,7 +444,7 @@ function renderProject() {
         </div>
       </section>
 
-      <section class="section">
+      <section class="section" id="project-activity">
         <div class="shell">
           <div class="section-head"><div><p class="eyebrow">СВЯЗАНО</p><h2>Новости и мероприятия проекта</h2></div></div>
           <div class="grid two">
