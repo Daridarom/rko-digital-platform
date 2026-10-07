@@ -35,3 +35,11 @@ jobs:
           sleep 2
           cd design/cosmatica-2026/site
           node qa/demo-smoke.mjs
+          node qa/home-responsive.mjs
+      - name: Preserve responsive homepage screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cosmatica-home-responsive
+          path: design/cosmatica-2026/site/qa/screenshots/home-*.png
+          if-no-files-found: ignore
