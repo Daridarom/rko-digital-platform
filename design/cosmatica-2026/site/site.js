@@ -290,6 +290,10 @@ function renderCalendar(){
       <div class="calendar-scroll"><div class="calendar-inner">
         <div class="calendar-weekdays">${['Пн','Вт','Ср','Чт','Пт','Сб','Вс'].map(d=>`<span>${d}</span>`).join('')}</div>
         <div class="calendar-grid">${days}</div>
+      <div class="calendar-agenda">
+        <h3>События месяца</h3>
+        ${realEvents.filter(e=>e.dateISO.startsWith(selected)).map(e=>`<a class="calendar-agenda-item" href="${esc(e.url)}"><b>${esc(e.date)}</b><span>${esc(e.title)}</span><span aria-hidden="true">↗</span></a>`).join('')}
+      </div>
       </div></div>
       ${!realEvents.some(e=>e.dateISO.startsWith(selected)) ? '<p class="calendar-note">В текущем перечне РКО на этот месяц события не указаны.</p>':''}
       <p class="calendar-note"><a href="${href('poster')}">Все мероприятия РКО →</a></p>
