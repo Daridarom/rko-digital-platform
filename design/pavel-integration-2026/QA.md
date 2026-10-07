@@ -1,5 +1,11 @@
 # QA · Pavel integration 2026
 
+## Публикация
+
+- GitHub Pages: https://daridarom.github.io/rko-digital-platform/design/pavel-integration-2026/
+- Read-back после merge: HTTP 200, title `РКО · 31 макет Павла`.
+- Merge в `main`: PR #45, squash commit `02731128c68a26b9a7500934a8ce9fc53aa5a835`.
+
 ## Проверено
 
 - Исходный список: 31 строка из Google-таблицы «Макеты страниц cosmatica.org».
