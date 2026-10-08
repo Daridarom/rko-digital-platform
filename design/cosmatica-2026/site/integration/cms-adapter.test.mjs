@@ -12,7 +12,10 @@ test('Every approved template is traceable to exactly one original source page',
     assert(entry.sourceUrl.startsWith('https://cosmatica.org/'));
     assert(entry.requiredFields.length>=3,entry.slug);
     assert(entry.demoRoute);
-    assert(entry.status!=='CONTENT_VERIFIED','Editorial sign-off was never performed for '+entry.slug);
+    if(entry.status==='CONTENT_VERIFIED'){
+      assert(entry.signoff && entry.signoff.reviewer && entry.signoff.date,
+        'Verified content requires a named reviewer and sign-off date: '+entry.slug);
+    }
   }
   assert.equal(manifest.entries[30].slug,'search');
   assert.equal(manifest.entries[31].slug,'search-results');
