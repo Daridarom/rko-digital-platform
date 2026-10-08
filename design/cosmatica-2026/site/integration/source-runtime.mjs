@@ -249,7 +249,7 @@ async function renderArchive(){
  if(!selected){notFound();return;}
  const requested=Number(qs.get('page')||1);
  if(!Number.isSafeInteger(requested)||requested<1||requested>selected.pages){notFound();return;}
- const pageResponse=await fetch('data/archive/catalog/'+sectionName+'/'+requested+'.json?v=archive86');
+ const pageResponse=await fetch('data/archive/catalog/'+sectionName+'/'+requested+'.json?v=parityf7cd559');
  if(!pageResponse.ok){notFound();return;}
  const data=await pageResponse.json();
  if(data.slug!=='archive'||data.archiveSection!==sectionName||!Array.isArray(data.cards)){notFound();return;}
@@ -352,7 +352,7 @@ async function run(){
    }
   }
  }
- const response=await fetch('data/'+file+'?v=contentqa61');
+ const response=await fetch('data/'+file+'?v=parityf7cd559');
  if(!response.ok){notFound();return;}
  const data=await response.json();
  if(!Array.isArray(data.blocks)||!Array.isArray(data.cards)){notFound();return;}
