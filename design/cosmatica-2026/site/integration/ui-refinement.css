@@ -17,10 +17,10 @@
  .brand small{display:none}
  .header-actions{flex:0 0 auto;gap:8px}
  .header-actions .join-btn,.header-actions .text-login,.header-actions .theme-btn{display:none}
- .header-actions .search-link{width:42px;min-width:42px;max-width:42px;height:42px;min-height:42px;padding:0;border-radius:12px;font-size:0}
+ .header-actions .search-link{width:44px;min-width:44px;max-width:44px;height:44px;min-height:44px;padding:0;border-radius:12px;font-size:0}
  .header-actions .search-label{display:none}
  .header-actions .search-icon{width:20px;height:20px;flex-basis:20px}
- .header-actions .menu-btn{min-width:66px;min-height:42px;padding:0 11px;font-size:14px;line-height:1;border-radius:12px}
+ .header-actions .menu-btn{width:max-content;min-width:0;max-width:none;min-height:44px;padding:0 10px;flex:0 0 auto;align-items:center;justify-content:center;white-space:nowrap;font-size:14px;line-height:1;border-radius:12px}
 }
 @media(max-width:640px){
  .topline{gap:7px}
@@ -29,9 +29,9 @@
  .brand>span:last-child{max-width:none}
  .brand strong{font-size:12px;line-height:1.15;-webkit-line-clamp:2}
  .header-actions{gap:6px}
- .header-actions .search-link{width:40px;min-width:40px;max-width:40px;height:40px;min-height:40px;padding:0;border-radius:11px}
+ .header-actions .search-link{width:44px;min-width:44px;max-width:44px;height:44px;min-height:44px;padding:0;border-radius:11px}
  .header-actions .search-icon{width:19px;height:19px;flex-basis:19px}
- .header-actions .menu-btn{min-width:64px;min-height:40px;padding:0 10px;font-size:13px;border-radius:11px}
+ .header-actions .menu-btn{width:max-content;min-width:0;min-height:44px;padding:0 9px;font-size:13px;border-radius:11px}
  .source-filterbar{margin:0 0 10px;gap:6px}
  .source-filterlabel{font-size:12px;gap:6px}
  .source-filter-input{height:43px;min-height:43px;font-size:14px;padding:0 13px;border-radius:12px}
@@ -67,6 +67,6 @@
 }
 @media(max-width:345px){
  .brand strong{font-size:11px}
- .header-actions .search-link{width:38px;min-width:38px;max-width:38px}
- .header-actions .menu-btn{min-width:58px;font-size:12px;padding:0 8px}
+ .header-actions .search-link{width:44px;min-width:44px;max-width:44px}
+ .header-actions .menu-btn{width:max-content;min-width:0;font-size:12px;padding:0 8px}
 }
