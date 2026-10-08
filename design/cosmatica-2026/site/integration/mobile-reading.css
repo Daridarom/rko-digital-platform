@@ -1,0 +1,42 @@
+/* Mobile reading corrections grounded in iPhone screenshots, 2026-10-08. */
+.rich-article-layout--no-toc{grid-template-columns:minmax(0,1fr)}
+.rich-article-layout--no-toc .rich-body{max-width:900px}
+.source-headline .source-intro{max-width:760px}
+.source-documents .source-document{overflow-wrap:anywhere}
+@media(max-width:640px){
+ /* Use the viewport for the article, not a permanently floating toolbar. */
+ .site-header{position:relative;top:auto;background:var(--bg);backdrop-filter:none}
+ .source-page--news-item .source-headline h1,
+ .source-page--article .source-headline h1,
+ .source-page--project .source-headline h1{
+   line-height:1.17;letter-spacing:-.025em;
+ }
+ .source-page--news-item .source-headline.source-long-title h1,
+ .source-page--article .source-headline.source-long-title h1,
+ .source-page--project .source-headline.source-long-title h1{
+   font-size:clamp(25px,7vw,30px);
+ }
+ .source-headline .source-intro{font-size:15px;line-height:1.57;margin-top:14px}
+ .source-page--news-item .rich-body,
+ .source-page--article .rich-body,
+ .source-page--project .rich-body{font-size:16px;line-height:1.75}
+ .source-page--news-item .rich-blocks>*,
+ .source-page--article .rich-blocks>*,
+ .source-page--project .rich-blocks>*{overflow-wrap:anywhere}
+ .source-page--news-item .rich-article-layout--no-toc,
+ .source-page--article .rich-article-layout--no-toc{gap:0}
+ .source-documents{margin:24px 0}
+ .source-documents h2{font-size:22px;line-height:1.2}
+ .source-documents .source-document{font-size:14px;line-height:1.45}
+ .source-page--project .rich-project-aside .rich-metric:first-child{padding-top:0}
+}
+
+@media(max-width:640px){
+ body.menu-open{overflow:hidden}
+ .mobile-drawer.open a:last-child{
+  grid-column:1/-1;justify-content:center;min-height:46px;
+  margin-top:8px;padding:8px 14px;border-radius:12px;
+  background:var(--cosmic);color:#fff;border-bottom:0;
+ }
+ .mobile-drawer.open a:last-child:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+}

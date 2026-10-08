@@ -169,7 +169,8 @@ export function createArticle(record){
  }
  const {aside,blocks}=buildToc(record.blocks||[]);
  content.append(renderMapped(blocks));
- layout.append(content,aside);
+ if((record.blocks||[]).filter(b=>b.type==='heading').length>=3)layout.append(content,aside);
+ else{layout.classList.add('rich-article-layout--no-toc');layout.append(content);}
  return layout;
 }
 export function createEvent(record){

@@ -1,4 +1,4 @@
-import {createRichBlocks,createArticle,createEvent,createProject} from './rich-renderer.mjs?v=archive86';
+import {createRichBlocks,createArticle,createEvent,createProject} from './rich-renderer.mjs?v=mobileshot1008';
 
 /* The content is static, reviewed separately, and contains no executable HTML. */
 const qs=new URLSearchParams(location.search);
@@ -19,6 +19,7 @@ const localImage=value=>{
   return uri.href;
  }catch{return null;}
 };
+const originalLocalDocument=value=>typeof value==='string'&&/^assets\/source\/[a-z0-9._-]+\.(?:pdf|docx?|odt|rtf|txt)$/i.test(value)?value:null;
 const originalDownload=value=>{
  if(typeof value!=='string')return null;
  try{const uri=new URL(value);return uri.protocol==='https:'&&uri.hostname==='cosmatica.org'&&/^\/files\/download\/\d+\/[a-z0-9]+$/i.test(uri.pathname)?uri.href:null;}catch{return null;}
@@ -34,8 +35,8 @@ function listingHref(item,index){
  return id&&/^[a-f0-9]{18}$/.test(id)?'view.html?p='+encodeURIComponent(info.type||'article')+'&ref='+id:null;
 }
 function heading(data){
- const title=data.title||'Раздел';
- const long=title.length>=76;
+ const title=String(data.title||'Раздел').replace(/[\u200b-\u200d\ufeff]/g,'').trim();
+ const long=title.length>=55;
  const extra=title.length>=135;
  const box=el('div','source-headline'+(long?' source-long-title':'')+(extra?' source-extra-long-title':''));
  const h1=el('h1');
@@ -47,11 +48,13 @@ function heading(data){
   h1.append(el('span','source-title-suffix',title.slice(suffixAt).trimStart()));
  }else h1.textContent=title;
  box.append(el('p','eyebrow','РУССКОЕ КОСМИЧЕСКОЕ ОБЩЕСТВО'),h1);
- if(data.intro)box.append(el('p','source-intro',data.intro));
+ const unnamedLead=(data.fields||[]).find(f=>!String(f.key||'').trim()&&String(f.value||'').trim().length>=30&&String(f.value||'').trim().length<=280);
+ const lead=(String(data.intro||'').trim()||String(unnamedLead?.value||'').trim()).replace(/[\u200b-\u200d\ufeff]/g,'').trim();
+ if(lead)box.append(el('p','source-intro',lead));
  return box;
 }
 function facts(data){
- const rows=(data.fields||[]).filter(f=>f.value && f.value.length<=350 && (f.key||'').length<=90);
+ const rows=(data.fields||[]).filter(f=>String(f.key||'').trim() && f.value && f.value.length<=350 && f.key.length<=90 && !(data.documents?.length&&/^файл\s*:?$/i.test(f.key.trim())));
  if(!rows.length)return null;
  const box=el('dl','source-details');
  rows.forEach(f=>box.append(el('dt','',f.key||'Сведения'),el('dd','',f.value)));
@@ -197,12 +200,15 @@ function getRich(data,type,index){
   const id=qs.get('id');
   const variant=(id?src.project?.variants?.[id]:null)
     ||Object.values(src.project?.variants||{}).find(v=>v.sourceUrl===data.sourceUrl)||{};
+  const publicBlocks=[...(data.blocks||[])];
+  const last=publicBlocks.at(-1),beforeLast=publicBlocks.at(-2);
+  if(beforeLast?.type==='heading'&&/^стена проекта\s*$/i.test(beforeLast.text||'')&&last?.type==='paragraph'&&/^нет записей\.?\s*$/i.test(last.text||''))publicBlocks.splice(-2);
   const target=variant.fundraising?.target;
   const funded=Number.isFinite(target)&&target>0;
-  return createProject({...data,status:variant.status||'Проект РКО',
+  return createProject({...data,blocks:publicBlocks,status:variant.status||'Проект РКО',
    direction:variant.direction||'',mission:variant.mission||'',
    goals:variant.goal?[variant.goal]:[],team:variant.team||[],
-   files:(data.documents||[]).map(f=>({name:f.label,format:f.type})),
+   files:[], // Documents are rendered once below, as actual links.
    fundraising:{mode:variant.fundraising?.enabled?(funded?'active':'not_configured'):'none',
     raised:Number.isFinite(variant.fundraising?.raised)?variant.fundraising.raised:null,
     target:funded?target:null}});
@@ -233,7 +239,7 @@ function documents(data){
  if(!data.documents?.length)return null;
  const section=el('section','source-documents');section.append(el('h2','','Документы'));
  for(const doc of data.documents){
-  const file=data.slug==='book'?(originalDownload(doc.url)):(localImage(doc.localUrl)||originalDownload(doc.url));
+  const file=originalLocalDocument(doc.localUrl)||originalDownload(doc.url);
   const a=el(file?'a':'div','source-document'+(file?'':' source-document-static'),doc.label||'Документ');
   if(file){a.href=file;if(file.startsWith('https://')){a.rel='noopener noreferrer';a.setAttribute('data-original-download','cosmatica');}}
   section.append(a);
@@ -352,7 +358,7 @@ async function run(){
    }
   }
  }
- const response=await fetch('data/'+file+'?v=parityf7cd559');
+ const response=await fetch('data/'+file+'?v=mobileshot1008');
  if(!response.ok){notFound();return;}
  const data=await response.json();
  if(!Array.isArray(data.blocks)||!Array.isArray(data.cards)){notFound();return;}
