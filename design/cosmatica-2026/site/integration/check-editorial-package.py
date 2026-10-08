@@ -35,9 +35,16 @@ for uri,rec in index.items():
 def characters(name):
  p=json.loads((data/'source'/(name+'.json')).read_text())
  return sum(len(b.get('text',''))+sum(len(s) for s in b.get('items',[])) for b in p['blocks'])
-for name,minimum in [('article',44000),('project',20000),('poster-item',11000),('collegium-item',5000),('tabs',5000)]:
+for name,minimum in [('article',44000),('project',20000),('poster-item',11000),('collegium-item',5000),('tabs',5000),('about',7500)]:
  if name in {f.stem for f in source} and characters(name)<minimum:
   issues.append('Shortened main content '+name)
+# The source CMS renders these two sections outside the generic controller.
+# A successful HTTP fetch with an empty extraction is not a complete page.
+leaders=json.loads((data/'source/direction.json').read_text(encoding='utf8'))
+if len(leaders.get('cards',[]))<30:
+ issues.append('Management team not extracted: expected at least 30 profiles')
+if not any(c.get('image','').startswith('assets/source/') for c in leaders.get('cards',[])):
+ issues.append('Management portraits are not available locally')
 report={'sourcePages':len(source),'linkedPages':len(linked),
  'linkedReady':sum(x.get('status')=='ready' for x in index.values()),
  'assets':len(list((site/'assets/source').glob('*'))),'errors':issues}

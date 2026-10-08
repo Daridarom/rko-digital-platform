@@ -7,7 +7,7 @@ if(params.get('p')==='search-results'){
  const make=(tag,cls='',text='')=>{const x=document.createElement(tag);if(cls)x.className=cls;if(text)x.textContent=text;return x;};
  if(root){
   try{
-   const r=await fetch('data/search-index.json');
+   const r=await fetch('data/search-index.json?v=complete59');
    if(!r.ok)throw Error('Search index');
    const data=await r.json();
    if(!Array.isArray(data.records))throw Error('Search schema');

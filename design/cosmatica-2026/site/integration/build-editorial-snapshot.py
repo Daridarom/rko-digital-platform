@@ -183,12 +183,35 @@ def fields(root,url):
    'image':image_of(el,url)})
  return out
 
+def direction_cards(root,url):
+ """Management is rendered in a widget outside #controller_wrap.
+ Preserve every public name, role, biography and portrait in structured records."""
+ people=[]
+ for node in root.select('.direction-cont'):
+  name=clean_text(node.select_one('.direction-name'))
+  if not name:continue
+  hierarchy=[]
+  li=node.find_parent('li')
+  if li:
+   levels=[p for p in reversed(list(li.parents)) if isinstance(p,Tag) and p.name=='li']+[li]
+   for level in levels:
+    heading=level.find('div',class_='direction-title',recursive=False)
+    if heading and clean_text(heading):hierarchy.append(clean_text(heading))
+  biography=clean_text(node.select_one('.direction-description'))
+  position=' · '.join(dict.fromkeys(hierarchy))
+  people.append({'title':name,'description':(' / '.join(filter(None,[position,biography]))),
+                 'url':None,'image':image_of(node,url),'links':[]})
+ return people
+
 def snapshot(url,kind):
  response=fetch(url)
  soup=strip_technical(BeautifulSoup(response.text,'html.parser'))
- root=editorial_root(soup)
- title=clean_text(root.select_one('h1')) or clean_text(soup.select_one('title')) or kind
- body=blocks(root,response.url)
+ special={'about':'.widget.article_rko .widget_body',
+          'direction':'.widget.direction-wrapper .widget_body'}
+ root=soup.select_one(special[kind]) if kind in special else editorial_root(soup)
+ if root is None:raise ValueError('Expected editorial widget is missing: '+kind)
+ title=clean_text(soup.select_one('#controller_wrap h1')) or clean_text(root.select_one('h1')) or clean_text(soup.select_one('title')) or kind
+ body=[] if kind=='direction' else blocks(root,response.url)
  gallery=[]
  for element in root.select('img[src],.photo,[style*="background-image"]'):
   ref=image_of(element,response.url)
@@ -196,11 +219,12 @@ def snapshot(url,kind):
  documents=[{'label':clean_text(a) or 'Документ','url':abs_url(a.get('href'),response.url)}
    for a in root.select('a[href]') if '/files/download/' in a.get('href','')]
  content={'schemaVersion':2,'slug':kind,'sourceUrl':response.url,'title':title,
-   'intro':'','blocks':body,'cards':cards(root,response.url,kind),
+   'intro':'','blocks':body,'cards':direction_cards(root,response.url) if kind=='direction' else cards(root,response.url,kind),
    'fields':fields(root,response.url),'images':gallery,'documents':documents,
    'categories':[clean_text(i) for i in root.select('.content_datasets li, .content_categories li') if clean_text(i)],
    'editorialVerified':False}
- stored=sum(len(b.get('text',''))+sum(map(len,b.get('items',[]))) for b in body)
+ stored=(sum(len(b.get('text',''))+sum(map(len,b.get('items',[]))) for b in body)
+         +sum(len(c.get('title',''))+len(c.get('description','')) for c in content['cards']))
  content['sourceEvidence']={
    'http':response.status_code,'sourceTextCharacters':len(clean_text(root)),
    'storedTextCharacters':stored,'sourceCardCount':len(content['cards']),
