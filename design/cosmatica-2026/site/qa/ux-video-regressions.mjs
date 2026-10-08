@@ -24,8 +24,16 @@ try{
    await go('library');
    assert.equal(await page.locator('.source-gallery-disclosure').count(),0,'Gallery of uncaptained thumbnails below books '+width);
    assert(await page.locator('.source-listing--library .source-card').count()>3);
-   const pics=await page.locator('.source-listing--library .source-card-media img').evaluateAll(xs=>xs.slice(0,7).map(x=>({loaded:x.complete&&x.naturalWidth>0,ratio:x.getBoundingClientRect().height/Math.max(1,x.getBoundingClientRect().width)})));
-   assert(pics.filter(x=>x.loaded).length>=4,'Missing many book covers '+JSON.stringify(pics));
+   // Only visible lazy images should be loaded. Scroll and decode before assessing
+   // image reliability; checking seven offscreen covers immediately is a false alarm.
+   const imgs=page.locator('.source-listing--library .source-card-media img');
+   for(let i=0;i<Math.min(5,await imgs.count());i++){
+    const img=imgs.nth(i);
+    await img.scrollIntoViewIfNeeded();
+    await img.evaluate(async el=>{try{await el.decode();}catch{}});
+   }
+   const pics=await imgs.evaluateAll(xs=>xs.slice(0,5).map(x=>({loaded:x.complete&&x.naturalWidth>0,ratio:x.getBoundingClientRect().height/Math.max(1,x.getBoundingClientRect().width)})));
+   assert(pics.filter(x=>x.loaded).length>=4,'Book cover thumbnails failed after entering viewport '+JSON.stringify(pics));
    checks++;
    await go('login');
    assert.equal(await page.locator('.auth-mode-nav a').count(),2);
