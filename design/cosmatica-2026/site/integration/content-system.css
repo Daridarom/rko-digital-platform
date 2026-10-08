@@ -1,0 +1,54 @@
+/* Editorial presentation v2: honest images, structured archive, readable detail pages. */
+.source-content-group{min-width:0;margin:26px 0 32px}
+.source-content-group[hidden]{display:none!important}
+.source-content-group-title{font-size:clamp(20px,2.4vw,27px);letter-spacing:-.025em;line-height:1.25;
+ margin:0 0 17px;padding:0 0 11px;border-bottom:1px solid var(--line)}
+.source-content-group .source-grid{margin-bottom:0}
+.source-card-kind{font-size:11px;line-height:1.4;color:var(--muted);font-weight:760;letter-spacing:.035em;
+ text-transform:uppercase}
+.source-card--text{display:grid;grid-template-columns:82px minmax(0,1fr);align-items:start;min-height:150px}
+.source-card--text .source-card-identity{height:108px;padding:18px 10px 10px;display:grid;place-items:start center}
+.source-card-monogram{width:59px;height:59px;border-radius:17px;background:var(--surface2);
+ border:1px solid var(--line);display:grid;place-items:center;font-size:14px;font-weight:850;
+ color:var(--red);letter-spacing:-.02em}
+.source-card--text .source-card-copy{padding:18px 17px 16px 0;gap:9px}
+.source-card--text .source-card-copy h3{font-size:18px;line-height:1.34}
+.source-card--text .source-card-copy p{-webkit-line-clamp:3}
+.source-card--compact-art:not([data-kind="partner"]):not([data-kind="book"]) .source-card-media{
+ height:145px;padding:16px;background:var(--surface2)}
+.source-card--compact-art:not([data-kind="partner"]):not([data-kind="book"]) .source-card-media img{
+ width:auto;height:auto;max-width:140px;max-height:112px;object-fit:contain;background:transparent}
+.source-card[data-kind="department"] .source-card-copy{gap:10px}
+.source-card[data-kind="department"] .source-card-monogram{font-size:13px}
+.rich-blocks a[href],.source-rich-body a[href]{color:var(--red);text-decoration:underline;
+ text-underline-offset:3px;overflow-wrap:anywhere}
+.rich-blocks a[href]:focus-visible,.source-rich-body a[href]:focus-visible{
+ outline:2px solid var(--gold);outline-offset:3px}
+.source-page--department .source-rich-body,.source-page--department .rich-blocks{max-width:880px}
+.source-page--department .rich-list{list-style:none;padding:14px 20px;margin:18px 0 28px;
+ background:var(--surface);border:1px solid var(--line);border-radius:15px}
+.source-page--department .rich-list li{padding:9px 0;border-bottom:1px solid var(--line)}
+.source-page--department .rich-list li:last-child{border:0}
+.source-page--project .rich-blocks h2{border-top:1px solid var(--line);padding-top:18px;margin-top:35px}
+.source-rich-body .rich-blocks img{object-fit:contain;width:auto;max-width:100%;height:auto}
+@media(max-width:980px){
+ .source-card--text .source-card-copy h3{font-size:17px}
+}
+@media(max-width:640px){
+ .source-content-group{margin:22px 0 29px}
+ .source-content-group-title{font-size:19px;margin-bottom:12px}
+ .source-card--text{display:grid;grid-template-columns:67px minmax(0,1fr);min-height:0}
+ .source-card--text .source-card-identity{height:83px;padding:12px 7px;align-items:start}
+ .source-card--text .source-card-monogram{width:50px;height:50px;border-radius:14px;font-size:12px}
+ .source-card--text .source-card-copy{padding:13px 13px 14px 0;gap:7px}
+ .source-card--text .source-card-copy h3{font-size:16px;line-height:1.35}
+ .source-card--text .source-card-copy p{font-size:13px;line-height:1.55;-webkit-line-clamp:3}
+ .source-card--compact-art:not([data-kind="partner"]):not([data-kind="book"]) .source-card-media{
+  height:110px;aspect-ratio:auto;min-width:0;padding:9px}
+ .source-card--compact-art:not([data-kind="partner"]):not([data-kind="book"]) .source-card-media img{
+  max-width:100px;max-height:90px}
+ .source-page--department .rich-list{padding:11px 14px}
+ .source-page--project .rich-blocks h2{font-size:21px}
+}
+
+.source-details a.source-meta-link{color:var(--red);text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}

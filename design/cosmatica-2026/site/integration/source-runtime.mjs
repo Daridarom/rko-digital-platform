@@ -1,4 +1,4 @@
-import {createRichBlocks,createArticle,createEvent,createProject} from './rich-renderer.mjs?v=mobileshot1008';
+import {createRichBlocks,createArticle,createEvent,createProject} from './rich-renderer.mjs?v=vis1009';
 
 /* The content is static, reviewed separately, and contains no executable HTML. */
 const qs=new URLSearchParams(location.search);
@@ -6,6 +6,11 @@ const slug=qs.get('p')||'home';
 const ref=qs.get('ref')||'';
 const blocked=new Set(['login','register','restore','search','search-results']);
 const body=document.querySelector('#main');
+let imageGeometry={};
+const imageGeometryReady=fetch('data/image-geometry.json?v=visualsystem1009')
+ .then(response=>response.ok?response.json():null)
+ .then(data=>{imageGeometry=data?.images||{};})
+ .catch(()=>{imageGeometry={};});
 const el=(tag,cls='',value=null)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(value!=null)n.textContent=String(value);return n;};
 const localImage=value=>{
  if(typeof value!=='string')return null;
@@ -57,7 +62,20 @@ function facts(data){
  const rows=(data.fields||[]).filter(f=>String(f.key||'').trim() && f.value && f.value.length<=350 && f.key.length<=90 && !(data.documents?.length&&/^файл\s*:?$/i.test(f.key.trim())));
  if(!rows.length)return null;
  const box=el('dl','source-details');
- rows.forEach(f=>box.append(el('dt','',f.key||'Сведения'),el('dd','',f.value)));
+ rows.forEach(f=>{
+  const dt=el('dt','',f.key||'Сведения'),dd=el('dd');
+  const value=String(f.value||'').trim();
+  let href=null;
+  if(/^https:\/\/[^\s<>]+$/i.test(value)){
+   try{const uri=new URL(value);if(!uri.username&&!uri.password)href=uri.href;}catch{}
+  }else if(/^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$/i.test(value))href='mailto:'+value;
+  if(href){
+   const a=el('a','source-meta-link',value);a.href=href;
+   if(href.startsWith('https:')){a.target='_blank';a.rel='noopener noreferrer';}
+   dd.append(a);
+  }else dd.textContent=value;
+  box.append(dt,dd);
+ });
  return box;
 }
 function listView(data,index){
@@ -84,33 +102,92 @@ function listView(data,index){
  }else top.append(count);
  sec.append(top);
  const grid=el('div','source-grid');const rows=[];
+ const groupByKind=across&&data.archiveSection==='all';
+ const groupByPicture=(!across&&['articles','articles-list'].includes(data.slug))||(across&&data.archiveSection==='articles');
+ const groups=new Map();
+ const typeLabels={'news-item':'Новости','article':'Публикации и исследования',book:'Книги',project:'Проекты',
+  department:'Региональные отделения',profile:'Участники',partner:'Партнёры',
+  'poster-item':'Мероприятия','collegium-item':'Советы','articles-list':'Материалы','library':'Библиотека',
+  'about-page':'Об обществе','glossary-item':'Глоссарий','newspaper':'Газета РКО'};
+ const getGroup=card=>{
+  if(!groupByKind&&!groupByPicture)return grid;
+  const type=card.kind||card.type||'other';
+  const key=groupByKind?type:(card.image?'media':'text');
+  if(!groups.has(key)){
+   const section=el('section','source-content-group');
+   const headline=el('h2','source-content-group-title',
+    groupByKind?(typeLabels[type]||'Другие материалы'):(key==='media'?'С иллюстрациями':'Тексты и исследования'));
+   section.append(headline);
+   const content=el('div','source-grid');
+   section.append(content);groups.set(key,{section,headline,content});
+  }
+  return groups.get(key).content;
+ };
+ const textMark=(kind,caption)=>{
+  const symbol={'news-item':'Н','article':'А','book':'К','project':'П','department':'РКО',
+   'profile':'У','partner':'РКО','poster-item':'С','collegium-item':'С' }[kind]||'РКО';
+  const wrap=el('div','source-card-identity');
+  const logo=el('span','source-card-monogram',symbol);
+  logo.setAttribute('aria-hidden','true');
+  wrap.append(logo);
+  return wrap;
+ };
  for(const card of data.cards){
   const href=listingHref(card,index);
-  const missingCover=!localImage(card.image)&&(data.slug==='library'||(data.slug==='archive'&&data.archiveSection==='library'&&card.kind==='book'));
-  const item=el(href?'a':'article','source-card'+((localImage(card.image)||missingCover)?' source-card--media':'')+(missingCover?' source-card--missing-cover':''));
-  if(href)item.href=href;
+  const contextualKind={departments:'department',users:'profile',news:'news-item',
+   partners:'partner',projects:'project',poster:'poster-item',
+   articles:'article','articles-list':'article',library:'book',collegium:'collegium-item'};
+  const kind=card.kind||card.type||contextualKind[data.slug]||'other';
   const media=localImage(card.image);
-  if(media){
+  const geometry=media?imageGeometry[media]:null;
+  const tiny=!!geometry&&Math.max(geometry.w,geometry.h)<96;
+  const missingCover=(!media||tiny)&&(data.slug==='library'||(data.slug==='archive'&&data.archiveSection==='library'&&kind==='book'));
+  const item=el(href?'a':'article','source-card'+((media&&!tiny||missingCover)?' source-card--media':'')
+   +(!media||tiny?' source-card--text':'')+(missingCover?' source-card--missing-cover':''));
+  item.dataset.kind=kind;
+  if(href)item.href=href;
+  if(media&&!tiny){
    const wrap=el('div','source-card-media'),image=el('img');
-   image.src=media;image.loading='lazy';image.alt=card.title||'';
+   image.src=geometry?.thumbnail||media;
+   if(geometry?.thumbnail){
+    image.srcset=geometry.thumbnail+' 420w, '+media+' '+geometry.w+'w';
+    image.sizes='(max-width:640px) 90vw, (max-width:1050px) 46vw, 33vw';
+   }
+   image.loading='lazy';image.decoding='async';image.alt=card.title||'';
+   if(geometry&&Math.max(geometry.w,geometry.h)<260)item.classList.add('source-card--compact-art');
+   image.addEventListener('load',()=>{
+    const natural=Math.max(image.naturalWidth,image.naturalHeight);
+    if(natural<96){
+     item.classList.add('source-card--text');
+     item.classList.remove('source-card--media');
+     wrap.replaceWith(textMark(kind,card.title));
+    }else if(natural<260)item.classList.add('source-card--compact-art');
+   });
    image.addEventListener('error',()=>{
-    if(missingCover||data.slug==='library'||(data.slug==='archive'&&data.archiveSection==='library'&&card.kind==='book')){
-     wrap.replaceChildren(el('span','book-cover-placeholder','Обложка временно недоступна'));
-    }else wrap.remove();
+    item.classList.add('source-card--text');
+    item.classList.remove('source-card--media');
+    if(missingCover||kind==='book')wrap.replaceChildren(el('span','book-cover-placeholder','Обложка временно недоступна'));
+    else wrap.replaceWith(textMark(kind,card.title));
    });
    wrap.append(image);item.append(wrap);
   }else if(missingCover){
    const wrap=el('div','source-card-media');
    wrap.append(el('span','book-cover-placeholder','Обложка не представлена'));
    item.append(wrap);
-  }
+  }else item.append(textMark(kind,card.title));
   const inner=el('div','source-card-copy');
   // Source card text sometimes combines title, #project, date and a comment counter.
   // Keep full source data for filtering, but present these as separate readable fields.
   const raw=String(card.title||'Материал').replace(/\u200b/g,'').trim();
   const project=raw.match(/\s+#([^#]+)$/);
   const title=project?raw.slice(0,project.index).trim():raw;
-  const heading=el('h3','',title);heading.title=title;inner.append(heading);
+  const heading=el('h3','',title);heading.title=title;
+  const cardLabels={'news-item':'Новость',article:'Статья',book:'Книга',project:'Проект',
+   department:'Отделение',profile:'Участник',partner:'Партнёр',
+   'poster-item':'Мероприятие','collegium-item':'Совет',
+   'about-page':'Об обществе','glossary-item':'Глоссарий'};
+  const typeText=cardLabels[kind]||'Материал';
+  inner.append(el('span','source-card-kind',typeText),heading);
   const description=String(card.description||'').replace(/\u200b/g,'').trim();
   let summary=description.replace(raw,'').trim();
   if(summary===description)summary=summary.replace(title,'').trim();
@@ -128,15 +205,18 @@ function listView(data,index){
     inner.append(more);
   }
   if(href)inner.append(el('span','source-card-arrow','Подробнее →'));
-  item.append(inner);grid.append(item);
+  item.append(inner);getGroup(card).append(item);
   rows.push([item,(card.title+' '+(card.description||'')).toLocaleLowerCase('ru')]);
  }
  if(!across)input.addEventListener('input',()=>{
   let visible=0;const q=input.value.trim().toLocaleLowerCase('ru');
   rows.forEach(([item,text])=>{item.hidden=!!q&&!text.includes(q);if(!item.hidden)visible++;});
+  for(const group of groups.values())group.section.hidden=![...group.content.children].some(item=>!item.hidden);
   count.textContent=(data.slug==='archive'?'Найдено на странице: ':'Найдено: ')+visible;
  });
- sec.append(grid);return sec;
+ if(groups.size)for(const group of groups.values())sec.append(group.section);
+ else sec.append(grid);
+ return sec;
 }
 function listingIntroduction(data){
  // CMS listing templates embed copies of the same cards below their own list.
@@ -165,24 +245,50 @@ function listingIntroduction(data){
  return lead;
 }
 function getRich(data,type,index){
- // Reconnect approved legacy hyperlinks to local records; never send users
- // back to the old CMS or make an unsupported destination clickable.
- const blocks=(data.blocks||[])
-  .filter(x=>(x.type!=='image'||localImage(x.src))&&!(type==='book'&&x.type==='image'&&x.src===(data.images||[])[0]))
-  .map(block=>!Array.isArray(block.spans)?block:{
-   ...block,spans:block.spans.map(span=>{
-    if(!span.href)return span;
-    const href=listingHref({url:span.href.split('#')[0]},index);
-    if(href)return {...span,href};
-    // Keep intentional HTTPS references to independent public websites.
-    // Links back to the old RKO CMS must resolve locally or stay plain text.
-    try{const uri=new URL(span.href);
-     if(uri.protocol==='https:'&&uri.hostname!=='cosmatica.org'&&uri.hostname!=='www.cosmatica.org')
-      return {...span,href:uri.href};
-    }catch{}
-    return {...span,href:null};
-   })
-  });
+ // Preserve original full text but expose navigable URLs and readable sections.
+ const resolveHref=raw=>{
+  if(/^mailto:[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$/i.test(raw))return raw;
+  try{
+   const uri=new URL(raw);
+   if(uri.protocol!=='https:'||uri.username||uri.password)return null;
+   const local=listingHref({url:uri.origin+uri.pathname},index);
+   return local||uri.href; // An unarchived public link remains an explicit original.
+  }catch{return null;}
+ };
+ const autoLink=part=>{
+  const text=String(part.text||'');
+  if(part.href)return [{...part,href:resolveHref(part.href)}];
+  const spans=[],pattern=/https?:\/\/[^\s<>«»"'\[\]]+|[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}/gi;
+  let start=0,match;
+  while((match=pattern.exec(text))){
+   const original=match[0],clean=original.replace(/[.,;:!?)}\]]+$/g,'');
+   const target=resolveHref(clean.includes('@')&&!clean.startsWith('http')?'mailto:'+clean:clean);
+   if(!target)continue;
+   if(match.index>start)spans.push({...part,text:text.slice(start,match.index),href:null});
+   spans.push({...part,text:clean,href:target});
+   start=match.index+clean.length;
+   pattern.lastIndex=start;
+  }
+  if(start<text.length)spans.push({...part,text:text.slice(start),href:null});
+  return spans.length?spans:[part];
+ };
+ const originals=(data.blocks||[]).filter(x=>(x.type!=='image'||localImage(x.src))
+  &&!(type==='book'&&x.type==='image'&&x.src===(data.images||[])[0]));
+ const numbered=originals.filter(b=>b.type==='paragraph'&&/^\s*\d{1,2}[.)]\s+[А-ЯЁ0-9\s,«»"\-:]{6,120}\s*$/.test(b.text||'')).length;
+ const blocks=originals.map(block=>{
+  if(block.type==='paragraph'&&numbered>=2&&/^\s*\d{1,2}[.)]\s+[А-ЯЁ0-9\s,«»"\-:]{6,120}\s*$/.test(block.text||'')){
+   return {...block,type:'heading',level:2};
+  }
+  if(block.type==='list'){
+   return {...block,items:(block.items||[]).map(item=>{
+    const content=String(item||'');
+    return {text:content,spans:autoLink({text:content})};
+   })};
+  }
+  if(!['paragraph','quote'].includes(block.type))return block;
+  const original=Array.isArray(block.spans)&&block.spans.length?block.spans:[{text:block.text||''}];
+  return {...block,spans:original.flatMap(autoLink)};
+ });
  data={...data,blocks};
  const src=window.COSMATICA_CONTENT||{};
  if(type==='article'||type==='news-item'){
@@ -277,6 +383,7 @@ async function renderArchive(){
  const summary=el('p','source-archive-summary','Материалов в текущей версии архива: '+data.total.toLocaleString('ru')+
    ' · Страница '+requested+' из '+data.pageCount);
  container.append(summary);
+ await imageGeometryReady;
  const grid=listView(data,{});
  if(grid)container.append(grid);
  else container.append(el('p','source-archive-empty',
@@ -390,6 +497,7 @@ async function run(){
    inner.append(about);
   }
  }
+ await imageGeometryReady;
  const cards=listView(data,index);if(cards)inner.append(cards);
  if(!ref&&!qs.has('item')){
   const archiveSections={news:'news',poster:'poster',projects:'projects',library:'library',users:'users',
