@@ -17,7 +17,9 @@ const number = value => typeof value === 'number' && Number.isFinite(value) ? va
 export function safeAsset(value) {
   const s=text(value);
   if(!s) return null;
-  if(/^(?:\/(?!\/)|\.\/|https:\/\/|[a-z0-9][a-z0-9._/-]*)$/i.test(s) && !s.includes('..')) return s;
+  if(/^https:\/\/[^\s]+$/i.test(s)) return s;
+  if(s.includes('..') || s.startsWith('//') || s.includes(':')) return null;
+  if(s.startsWith('/') || s.startsWith('./') || /^[a-z0-9][a-z0-9._/-]*$/i.test(s)) return s;
   return null;
 }
 
