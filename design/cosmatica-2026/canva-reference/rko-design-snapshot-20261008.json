@@ -1,0 +1,143 @@
+{
+  "pdf": "rko-design-snapshot-20261008.pdf",
+  "sha256": "15bdf268aa15bf3a0172a3c061c53430b47c266585324b3e678701335237cdf2",
+  "pages": 16,
+  "screens": [
+    {
+      "section": "desktop",
+      "label": "Главная",
+      "file": "canva-home-desktop-1440.png"
+    },
+    {
+      "section": "desktop",
+      "label": "Новости",
+      "file": "canva-news-desktop-1440.png"
+    },
+    {
+      "section": "desktop",
+      "label": "Библиотека",
+      "file": "canva-library-desktop-1440.png"
+    },
+    {
+      "section": "desktop",
+      "label": "Проекты",
+      "file": "canva-projects-desktop-1440.png"
+    },
+    {
+      "section": "desktop",
+      "label": "Архив",
+      "file": "canva-archive-desktop-1440.png"
+    },
+    {
+      "section": "desktop",
+      "label": "Об обществе",
+      "file": "canva-about-desktop-1440.png"
+    },
+    {
+      "section": "desktop",
+      "label": "Материалы",
+      "file": "canva-articles-desktop-1440.png"
+    },
+    {
+      "section": "desktop",
+      "label": "Отделения",
+      "file": "canva-departments-desktop-1440.png"
+    },
+    {
+      "section": "desktop",
+      "label": "Поиск",
+      "file": "canva-search-desktop-1440.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Главная",
+      "file": "video-review-home-390.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Новости",
+      "file": "archive-news-390.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Библиотека",
+      "file": "archive-library-390.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Архив",
+      "file": "archive-all-390.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Отделения",
+      "file": "editorial-departments.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Вход",
+      "file": "video-review-login-390.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Проекты",
+      "file": "mobile-refined-projects.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Карточка проекта",
+      "file": "editorial-project.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Поиск",
+      "file": "mobile-refined-search-results.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Афиша",
+      "file": "mobile-refined-poster.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Карточка афиши",
+      "file": "editorial-poster-item.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Статья",
+      "file": "editorial-article.png"
+    },
+    {
+      "section": "mobile",
+      "label": "О РКО",
+      "file": "refined-about.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Направления",
+      "file": "refined-direction.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Новости — обновлённые",
+      "file": "mobile-refined-news.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Библиотека — обновлённая",
+      "file": "mobile-refined-library.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Навигация 390px",
+      "file": "header-precise-390.png"
+    },
+    {
+      "section": "mobile",
+      "label": "Навигация 416px",
+      "file": "header-precise-416.png"
+    }
+  ],
+  "source_commit": "2c9f3b3a565e4fa01902862791e3ae986e185986"
+}
