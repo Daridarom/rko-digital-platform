@@ -87,3 +87,5 @@ console.log('RESULT',checks,'checks',errors.length,'errors');
 if(errors.length){console.error(errors.join('\n'));process.exit(1)}
 // Extended 5-width mobile header, cards and search regression suite.
 await import('./mobile-refinement.mjs');
+// Real videos stay on public source platforms: verify lazy playback and safe origins.
+await import('./public-video-embeds.mjs');
