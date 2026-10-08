@@ -11,14 +11,25 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Вечный строй принял в свои ряды Александра Ивановича Шипкова",
-      "description": "Александр Иванович Шипков родился 21 апреля 1936 в Коломне Московской области. В 1959 году окончил Московский архитектурный институт с оценкой «отлично». Защитил кандидатскую диссертацию в 1971 году на тему: «Поляр — жилой комплекс заполярных районов СССР».",
-      "url": "https://cosmatica.org/news/1078-vechnyi-stroi-prinjal-v-svoi-rjady-aleksandra-ivanovicha-shipkova.html",
-      "image": "https://cosmatica.org/upload/000/u35/7/3/8c0a24b5.jpg",
+      "title": "Присяга пред павшими и живыми",
+      "description": "- Как Вы попали в РКО? Почему приняли такое решение?",
+      "url": "https://cosmatica.org/news/1077-prisjaga-pred-pavshimi-i-zhivymi.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/d/prisjaga-pred-pavshimi-i-zhivymi-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=90e2dd6ad64b4b0979",
+      "href": "view.html?p=news-item&ref=1647da60b4e2bd30fc",
       "type": "news-item",
-      "sourceCharacters": 5104,
+      "sourceCharacters": 4439,
+      "verified": false
+    },
+    {
+      "title": "80-й День рождения Бориса Евгеньевича Большакова",
+      "description": "Без малого три года нет с нами Бориса Евгеньевича Большакова.",
+      "url": "https://cosmatica.org/news/1075-den-rozhdenija-borisa-evgenevicha-bolshakova.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/d/den-rozhdenija-borisa-evgenevicha-bolshakova-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cf726ed1c9d222bdeb",
+      "type": "news-item",
+      "sourceCharacters": 4251,
       "verified": false
     },
     {
@@ -77,17 +88,6 @@
       "verified": false
     },
     {
-      "title": "Сила Слова",
-      "description": "Если хотя бы один человек услышит, и поверит, значит всё было не напрасно.",
-      "url": "https://cosmatica.org/news/1059-sila-slova.html",
-      "image": "https://cosmatica.org/upload/003/u395/4/7/sila-slova-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=44011130376e008308",
-      "type": "news-item",
-      "sourceCharacters": 1896,
-      "verified": false
-    },
-    {
       "title": "Гагаринские кедры Нижнего Новгорода",
       "description": "01 мая 2021 года состоялась торжественная посадка шестидесяти саженцев кедра, знаменующих собою первые шестьдесят лет космической эпохи развития человечества, шестьдесят лет гордости за Космические Победы нашего народа и нашего Отечества, и памяти о Великом Подвиге - первом полёте Человека в космос, которым стал наш соотечественник Юрий Алексеевич Гагарин.",
       "url": "https://cosmatica.org/news/1069-gagarinskie-kedry-nizhnego-novgoroda.html",
@@ -96,6 +96,17 @@
       "href": "view.html?p=news-item&ref=344fde6643d811a7c4",
       "type": "news-item",
       "sourceCharacters": 2980,
+      "verified": false
+    },
+    {
+      "title": "Отмечаем юбилей вместе с \"Книгой на орбите\"",
+      "description": "С 12 по 16 апреля 2021 года в Донецкой республиканской библиотеке для детей им. С.М. Кирова проходили мероприятия в рамках литературно-образовательного проекта «Книга на орбите» . Проект реализуется в библиотеке с 2019 года совместно с Русским Космическим Обществом при поддержке Министерства культуры Донецкой Народной Республики.",
+      "url": "https://cosmatica.org/news/1068-otmechaem-yubilei-vmeste-s-knigoi-na-orbite.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/0/0f9f8342.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=46ce7460c8f06f54bb",
+      "type": "news-item",
+      "sourceCharacters": 4981,
       "verified": false
     },
     {
@@ -151,17 +162,6 @@
       "href": "view.html?p=news-item&ref=8fcd95aa97defa6c4b",
       "type": "news-item",
       "sourceCharacters": 1557,
-      "verified": false
-    },
-    {
-      "title": "Гагаринский сад в Москве!",
-      "description": "27 апреля 2021 года Русским Космическим Обществом совместно с библиотеками Северо-Запада Москвы в районе Щукино были посажены красные дубы в рамках всемирного движения \"Гагаринский сад\" и проекта библиотек Северо-Запада Москвы \"Я люблю тебя, Юрий Гагарин!\"",
-      "url": "https://cosmatica.org/news/1060-gagarinskii-sad-v-moskve.html",
-      "image": "https://cosmatica.org/upload/000/u35/8/4/gagarinskii-sad-v-moskve-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=7d9e32bbc6e620beb4",
-      "type": "news-item",
-      "sourceCharacters": 2040,
       "verified": false
     },
     {

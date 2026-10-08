@@ -66,17 +66,6 @@
       "verified": false
     },
     {
-      "title": "Издано пособие по теории психологического программирования",
-      "description": "В пособии изложены основные положения научной прикладной теории психологического программирования, разработанной советским физиологом Геннадием Андреевичем Шичко.",
-      "url": "https://cosmatica.org/news/1900-izdano-posobie-po-teorii-psihologicheskogo-programmirovanija.html",
-      "image": "https://cosmatica.org/upload/000/u35/d/0/izdano-posobie-po-teorii-psihologicheskogo-programmirovanija-photo.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=f30ec19ede80709c55",
-      "type": "news-item",
-      "sourceCharacters": 1514,
-      "verified": false
-    },
-    {
       "title": "К 100-летию со дня рождения В.П.Казначеева",
       "description": "В канун 100-летнего юбилея приводится краткая биография с оценкой огромного вклада в опережающую наше время науку выдающегося российского ученого академика Влаиля Петровича. Казначеева (17.07.1924 – 13.10.2014), основателя Сибирского отделения Академии медицинских наук и Международного НИИ космопланетарной антропоэкологии, действительного члена ПАНИ, основоположника нового направления в естествознании - космической а",
       "url": "https://cosmatica.org/news/1906-k-100-letiyu-so-dnja-rozhdenija-v-p-kaznacheeva.html",
@@ -140,6 +129,17 @@
       "href": "view.html?p=news-item&ref=157ed17ebf0ca76320",
       "type": "news-item",
       "sourceCharacters": 3378,
+      "verified": false
+    },
+    {
+      "title": "Издано пособие по теории психологического программирования",
+      "description": "В пособии изложены основные положения научной прикладной теории психологического программирования, разработанной советским физиологом Геннадием Андреевичем Шичко.",
+      "url": "https://cosmatica.org/news/1900-izdano-posobie-po-teorii-psihologicheskogo-programmirovanija.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/0/izdano-posobie-po-teorii-psihologicheskogo-programmirovanija-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f30ec19ede80709c55",
+      "type": "news-item",
+      "sourceCharacters": 1514,
       "verified": false
     },
     {

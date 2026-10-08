@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Гравитация: от вымыслов до наблюдений и выводов",
+      "description": "Докладчик: Анищенко Александр Михайлович , инженер-исследователь, руководитель Секции Авангардных исследований при Совете труда и творчества.",
+      "url": "https://cosmatica.org/news/1472-gravitacija-ot-vymyslov-do-nablyudenii-i-vyvodov.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/2/gravitacija-ot-vymyslov-do-nablyudenii-i-vyvodov-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d7c323476d7a9ef3ad",
+      "type": "news-item",
+      "sourceCharacters": 3271,
+      "verified": false
+    },
+    {
       "title": "Прикоснись ко мне добротой",
       "description": "Прикоснись ко мне добротой И болезни смоет волной, И печаль обойдет стороной, Озарится душа красотой.",
       "url": "https://cosmatica.org/news/1471-prikosnis-ko-mne-dobrotoi.html",
@@ -118,17 +129,6 @@
       "href": "view.html?p=news-item&ref=dcbf7788dd4a2e9519",
       "type": "news-item",
       "sourceCharacters": 4523,
-      "verified": false
-    },
-    {
-      "title": "Здравствуй, дорогой боец!",
-      "description": "В летней поездке наших содеев Зуевой Елизаветы Евгеньевны и Ленской Марии Владимировны на Донбасс состоялось ещё одно очень значимое событие – переданы первые по линии РКО детские письма на фронт.",
-      "url": "https://cosmatica.org/news/1592-zdravstvui-dorogoi-boec.html",
-      "image": "https://cosmatica.org/upload/002/u218/7/7/zdravstvui-dorogoi-boec-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=66a86710efc6932454",
-      "type": "news-item",
-      "sourceCharacters": 2798,
       "verified": false
     },
     {

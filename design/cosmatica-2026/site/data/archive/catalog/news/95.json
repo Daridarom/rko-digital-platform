@@ -11,25 +11,14 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Космическое утро в Мультицентре «Скрепка»",
-      "description": "В ответ на письмо Председателя Челябинского отделения РКО от 15 ноября 2019, руководством Департамента образования и науки правительства Курганской области, был направлен письменный ответ, в котором сообщалось о принятом решении провести 10 декабря 2020 года, в Курганском мультицентре «Скрепка», расположенном на улице Максима Горького,129 просветительской лекции-беседы на космическую тематику.",
-      "url": "https://cosmatica.org/news/662-kosmicheskoe-utro-v-multicentre-skrepka.html",
-      "image": "https://cosmatica.org/upload/000/u35/5/8/kosmicheskoe-utro-v-multicentre-skrepka-photo-normal.jpg",
+      "title": "Киноэкология в Курганской области",
+      "description": "Курганское отделение Русского Космического Общества активно взялось за работу по проекту Киноэкология.",
+      "url": "https://cosmatica.org/news/664-kinoekologija-v-kurganskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/4/kinoekologija-v-kurganskoi-oblasti-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=1d9968300e14ff7939",
+      "href": "view.html?p=news-item&ref=6aba2efc58beaac3ae",
       "type": "news-item",
-      "sourceCharacters": 2576,
-      "verified": false
-    },
-    {
-      "title": "Завершение Космических каникул",
-      "description": "Несколько дней юные гости столичного региона нашей Родины наполнялись новыми знаниями, вдохновлялись достижениями прошлого и перспективными проектами будущего Отечественной космонавтики.",
-      "url": "https://cosmatica.org/news/660-zavershenie-kosmicheskih-kanikul.html",
-      "image": "https://cosmatica.org/upload/000/u35/0/5/zavershenie-kosmicheskih-kanikul-photo-normal.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=59a5ce84ebbd9b6ac3",
-      "type": "news-item",
-      "sourceCharacters": 1036,
+      "sourceCharacters": 1191,
       "verified": false
     },
     {
@@ -41,6 +30,39 @@
       "href": "view.html?p=news-item&ref=1a08881f56f74d83a9",
       "type": "news-item",
       "sourceCharacters": 975,
+      "verified": false
+    },
+    {
+      "title": "Космическое утро в Мультицентре «Скрепка»",
+      "description": "В ответ на письмо Председателя Челябинского отделения РКО от 15 ноября 2019, руководством Департамента образования и науки правительства Курганской области, был направлен письменный ответ, в котором сообщалось о принятом решении провести 10 декабря 2020 года, в Курганском мультицентре «Скрепка», расположенном на улице Максима Горького,129 просветительской лекции-беседы на космическую тематику.",
+      "url": "https://cosmatica.org/news/662-kosmicheskoe-utro-v-multicentre-skrepka.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/8/kosmicheskoe-utro-v-multicentre-skrepka-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1d9968300e14ff7939",
+      "type": "news-item",
+      "sourceCharacters": 2576,
+      "verified": false
+    },
+    {
+      "title": "Космические каникулы - миссия завершена",
+      "description": "В воскресенье, 12 января настало время прощания с гостеприимным \"Юнармейцем\". Пора возвращаться домой. Но прежде чем расстаться, организаторы преподнесли ребятам ещё приятные сюрпризы.",
+      "url": "https://cosmatica.org/news/661-kosmicheskie-kanikuly-missija-zavershena.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/e/kosmicheskie-kanikuly-missija-zavershena-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a772b1bce736e71630",
+      "type": "news-item",
+      "sourceCharacters": 5598,
+      "verified": false
+    },
+    {
+      "title": "Завершение Космических каникул",
+      "description": "Несколько дней юные гости столичного региона нашей Родины наполнялись новыми знаниями, вдохновлялись достижениями прошлого и перспективными проектами будущего Отечественной космонавтики.",
+      "url": "https://cosmatica.org/news/660-zavershenie-kosmicheskih-kanikul.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/5/zavershenie-kosmicheskih-kanikul-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=59a5ce84ebbd9b6ac3",
+      "type": "news-item",
+      "sourceCharacters": 1036,
       "verified": false
     },
     {
@@ -121,17 +143,6 @@
       "verified": false
     },
     {
-      "title": "Новогоднее обращение Главы Русского Космического Общества",
-      "description": "Здравствуйте, дорогие товарищи, соратники и единомышленники. Здравствуйте, родные наши соотечественники и соотечественницы!",
-      "url": "https://cosmatica.org/news/650-novogodnee-obraschenie-glavy-russkogo-kosmicheskogo-obschestva.html",
-      "image": "https://cosmatica.org/upload/000/u35/5/e/a9ae5cd0.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=6cca4ef54adbe9b4e4",
-      "type": "news-item",
-      "sourceCharacters": 7897,
-      "verified": false
-    },
-    {
       "title": "Открыто Кузбасское отделение Русского Космического Общества",
       "description": "Ярким финальным аккордом уходящего года стало открытие отделения РКО в Кемеровской области.",
       "url": "https://cosmatica.org/news/652-otkryto-kuzbasskoe-otdelenie-russkogo-kosmicheskogo-obschestva.html",
@@ -154,25 +165,14 @@
       "verified": false
     },
     {
-      "title": "Финальный \"Рокот\" прозвучал, с успехом завершив этот год",
-      "description": "Стартовавшая сегодня с космодрома Плесецк ракета-носитель \"Рокот\" успешно вывела на орбиту космические аппараты связи \"ГонецМ\".",
-      "url": "https://cosmatica.org/news/649-finalnyi-rokot-prozvuchal-s-uspehom-zavershiv-etot-god.html",
-      "image": "https://cosmatica.org/upload/000/u35/7/1/rokot-progremel-photo-normal.jpg",
+      "title": "Новогоднее обращение Главы Русского Космического Общества",
+      "description": "Здравствуйте, дорогие товарищи, соратники и единомышленники. Здравствуйте, родные наши соотечественники и соотечественницы!",
+      "url": "https://cosmatica.org/news/650-novogodnee-obraschenie-glavy-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/e/a9ae5cd0.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=fe3fa6736bc93ff257",
+      "href": "view.html?p=news-item&ref=6cca4ef54adbe9b4e4",
       "type": "news-item",
-      "sourceCharacters": 1402,
-      "verified": false
-    },
-    {
-      "title": "Когда приходят чудеса",
-      "description": "Новый год – яркий, загадочный, неповторимый, шумный, удивительный праздник. Праздник сказочных чудес и волшебства, с подарками, сюрпризами и исполнениями желаний.",
-      "url": "https://cosmatica.org/news/648-kogda-prihodjat-chudesa.html",
-      "image": "https://cosmatica.org/upload/000/u35/7/4/kogda-prihodjat-chudesa-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=65bd3142a3be01838b",
-      "type": "news-item",
-      "sourceCharacters": 1814,
+      "sourceCharacters": 7897,
       "verified": false
     }
   ],

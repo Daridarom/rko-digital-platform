@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1123-udivitelnye-griby-2-serija.html",
+  "title": "Удивительные грибы. 2 серия.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Структура жизни",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Растут ли грибы на Марсе и когда там будут цвести яблони? А также о новых экологически чистых материалах и о разумности мира природы.",
+      "spans": [
+        {
+          "text": "Растут ли грибы на Марсе и когда там будут цвести яблони? А также о новых экологически чистых материалах и о разумности мира природы."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "9-iFsZbQQdI",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=9-iFsZbQQdI"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Растут ли грибы на Марсе и когда там будут цвести яблони? А также о новых экологически чистых материалах и о разумности мира природы.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 206,
+    "storedTextCharacters": 149,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 74355
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 160,
+  "capturedBodyCharacters": 149,
+  "sourceTextSHA256": "18ca7a76012da120f4112287a3f107d7efdb1e55799e8ad0e61b403c8e459c20",
+  "archiveSnapshotAt": "2026-10-08T13:19:32Z"
+}

@@ -22,6 +22,17 @@
       "verified": false
     },
     {
+      "title": "Столичная ладья. Курс на победу",
+      "description": "Турнир стал настоящим праздником для всех любителей интеллектуальной игры, объединив соревнования, мастер-классы и развлекательную программу.",
+      "url": "https://cosmatica.org/news/1958-stolichnaja-ladja-kurs-na-pobedu.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/3/stolichnaja-ladja-kurs-na-pobedu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d4f586228c4b45eb9a",
+      "type": "news-item",
+      "sourceCharacters": 3927,
+      "verified": false
+    },
+    {
       "title": "Философская осень: Возрождение традиций",
       "description": "В этом году проект был посвящён празднованию 300-летия Российской Академии наук и 160-летия М.И. Туган-Барановского.",
       "url": "https://cosmatica.org/news/1956-filosofskaja-osen-vozrozhdenie-tradicii.html",
@@ -41,17 +52,6 @@
       "href": "view.html?p=news-item&ref=675121598c1fa50350",
       "type": "news-item",
       "sourceCharacters": 1590,
-      "verified": false
-    },
-    {
-      "title": "Столичная ладья. Курс на победу",
-      "description": "Турнир стал настоящим праздником для всех любителей интеллектуальной игры, объединив соревнования, мастер-классы и развлекательную программу.",
-      "url": "https://cosmatica.org/news/1958-stolichnaja-ladja-kurs-na-pobedu.html",
-      "image": "https://cosmatica.org/upload/002/u218/0/3/stolichnaja-ladja-kurs-na-pobedu-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=d4f586228c4b45eb9a",
-      "type": "news-item",
-      "sourceCharacters": 3927,
       "verified": false
     },
     {
@@ -99,17 +99,6 @@
       "verified": false
     },
     {
-      "title": "Гагаринцы вышли и решили!",
-      "description": "Гагаринский отряд лицея №17 отметил первый день космической недели общением с жителями нашего города на тему космоса, а также принял участие в масштабной контрольной работе.",
-      "url": "https://cosmatica.org/news/1947-gagarincy-vyshli-i-reshili.html",
-      "image": "https://cosmatica.org/upload/002/u218/6/3/gagarincy-vyshli-i-reshili-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=7bc7cd2e2dd9cb7c3b",
-      "type": "news-item",
-      "sourceCharacters": 2805,
-      "verified": false
-    },
-    {
       "title": "Одна Земля у нас. Одна для нас награда - служить Отечеству. Гагарин, мы с тобой!",
       "description": "В конце сентября – начале октября сразу в нескольких школах Донецка и Макеевки появились новые Гагаринские отряды. Дружина Гагаринцев донецкой земли принимала пополнение, приурочив мероприятия ко Дню запуска первого искусственного спутника Земли 4 октября.",
       "url": "https://cosmatica.org/news/1949-odna-zemlja-u-nas-odna-dlja-nas-nagrada-sluzhit-otechestvu-gagarin-my-s-toboi.html",
@@ -129,6 +118,17 @@
       "href": "view.html?p=news-item&ref=94e7271f1c69a72fa9",
       "type": "news-item",
       "sourceCharacters": 7243,
+      "verified": false
+    },
+    {
+      "title": "Гагаринцы вышли и решили!",
+      "description": "Гагаринский отряд лицея №17 отметил первый день космической недели общением с жителями нашего города на тему космоса, а также принял участие в масштабной контрольной работе.",
+      "url": "https://cosmatica.org/news/1947-gagarincy-vyshli-i-reshili.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/3/gagarincy-vyshli-i-reshili-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7bc7cd2e2dd9cb7c3b",
+      "type": "news-item",
+      "sourceCharacters": 2805,
       "verified": false
     },
     {

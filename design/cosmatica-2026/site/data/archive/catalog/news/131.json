@@ -11,14 +11,14 @@
   "blocks": [],
   "cards": [
     {
-      "title": "XX Международные научные чтения имени Игоря Ивановича Сикорского",
-      "description": "Русское Космическое Общество ПРИГЛАШАЕТ и рекомендует XX Международные научные чтения имени Игоря Ивановича Сикорского, которые пройдут с 23 по 28 апреля 2018 г. в Санкт-Петербургском государственном университете гражданской авиации.",
-      "url": "https://cosmatica.org/news/87-xx-mezhdunarodnye-nauchnye-chtenija-imeni-igorja-ivanovicha-sikorskogo.html",
-      "image": "https://cosmatica.org/upload/000/u21/04/a8/6b21729e.jpg",
+      "title": "Итоги Молодёжного футурологического конгресса 2018.",
+      "description": "Было подано 18 заявок на участие, из которых 7 проектов прошли модерацию.",
+      "url": "https://cosmatica.org/news/89-itogi-molodyozhnogo-futurologicheskogo-kongressa-2018.html",
+      "image": "https://cosmatica.org/upload/000/u7/02/b8/itogi-molodyozhnogo-futurologicheskogo-kongressa-2018-photo-norma.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=094df2ed6bda1b34ed",
+      "href": "view.html?p=news-item&ref=a19d766c2596c574cd",
       "type": "news-item",
-      "sourceCharacters": 3403,
+      "sourceCharacters": 827,
       "verified": false
     },
     {
@@ -30,6 +30,17 @@
       "href": "view.html?p=news-item&ref=ff35ecaafcdc268775",
       "type": "news-item",
       "sourceCharacters": 899,
+      "verified": false
+    },
+    {
+      "title": "XX Международные научные чтения имени Игоря Ивановича Сикорского",
+      "description": "Русское Космическое Общество ПРИГЛАШАЕТ и рекомендует XX Международные научные чтения имени Игоря Ивановича Сикорского, которые пройдут с 23 по 28 апреля 2018 г. в Санкт-Петербургском государственном университете гражданской авиации.",
+      "url": "https://cosmatica.org/news/87-xx-mezhdunarodnye-nauchnye-chtenija-imeni-igorja-ivanovicha-sikorskogo.html",
+      "image": "https://cosmatica.org/upload/000/u21/04/a8/6b21729e.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=094df2ed6bda1b34ed",
+      "type": "news-item",
+      "sourceCharacters": 3403,
       "verified": false
     },
     {
@@ -99,6 +110,17 @@
       "verified": false
     },
     {
+      "title": "График мероприятий «Веги» на выставке «Эра фантастики» в Манеже",
+      "description": "4 апреля, 11-00 - лекция «Как астрономы изучают Вселенную». Лектор -Силантьев М.В., АШ «Вега»;",
+      "url": "https://cosmatica.org/news/79-grafik-meroprijatii-vegi-na-vystavke-era-fantastiki-v-manezhe.html",
+      "image": "https://cosmatica.org/upload/000/u8/13/fa/grafik-meroprijatii-vegi-na-vystavke-era-fantastiki-v-manezhe.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=23ec2f5df59f986bf9",
+      "type": "news-item",
+      "sourceCharacters": 2062,
+      "verified": false
+    },
+    {
       "title": "Мы запускаем новый цикл передач: \"РКО в Лицах\"",
       "description": "Они очень разные. Мужчины и женщины. Юные и люди Главного возраста. Учёные и учащиеся. Люди творческих профессий и предприниматели. Служащие и трудящиеся. Общественные деятели и политики.",
       "url": "https://cosmatica.org/news/78-my-zapuskaem-novyi-cikl-peredach-rko-v-licah.html",
@@ -121,14 +143,14 @@
       "verified": false
     },
     {
-      "title": "График мероприятий «Веги» на выставке «Эра фантастики» в Манеже",
-      "description": "4 апреля, 11-00 - лекция «Как астрономы изучают Вселенную». Лектор -Силантьев М.В., АШ «Вега»;",
-      "url": "https://cosmatica.org/news/79-grafik-meroprijatii-vegi-na-vystavke-era-fantastiki-v-manezhe.html",
-      "image": "https://cosmatica.org/upload/000/u8/13/fa/grafik-meroprijatii-vegi-na-vystavke-era-fantastiki-v-manezhe.jpg",
+      "title": "Диксон - научная площадка будущего России",
+      "description": "100-летний юбилей поселка Диксон, ставшего научной судьбой десятков ученых Института клинической и экспериментальной медицины Сибирского отделения Академии медицинских наук нашей страны, созданного академиком В.П. Казначеевым, наразрывно связан с 40-летием 1-й научно-медицинской экспедиции на Крайний Север, на Диксон большой группы новосибирских ученых. Это был своеобразный интеллектуальный десант, который дал творче",
+      "url": "https://cosmatica.org/news/76-dikson-nauchnaja-ploschadka-buduschego-rossii.html",
+      "image": "https://cosmatica.org/upload/000/u30/c2/68/dikson-nauchnaja-ploschadka-buduschego-rossii-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=23ec2f5df59f986bf9",
+      "href": "view.html?p=news-item&ref=ee86a8d604772c1a8f",
       "type": "news-item",
-      "sourceCharacters": 2062,
+      "sourceCharacters": 9011,
       "verified": false
     },
     {
@@ -143,36 +165,14 @@
       "verified": false
     },
     {
-      "title": "Диксон - научная площадка будущего России",
-      "description": "100-летний юбилей поселка Диксон, ставшего научной судьбой десятков ученых Института клинической и экспериментальной медицины Сибирского отделения Академии медицинских наук нашей страны, созданного академиком В.П. Казначеевым, наразрывно связан с 40-летием 1-й научно-медицинской экспедиции на Крайний Север, на Диксон большой группы новосибирских ученых. Это был своеобразный интеллектуальный десант, который дал творче",
-      "url": "https://cosmatica.org/news/76-dikson-nauchnaja-ploschadka-buduschego-rossii.html",
-      "image": "https://cosmatica.org/upload/000/u30/c2/68/dikson-nauchnaja-ploschadka-buduschego-rossii-photo-normal.jpg",
+      "title": "Молодежный Футурологический Конгресс 2018",
+      "description": "Русское Космическое Общество поддерживает инициативу проведения съезда авторов и представителей социально значимых проектов России – «Молодежный футурологический конгресс 2018», который пройдёт 20 апреля 2018г.",
+      "url": "https://cosmatica.org/news/74-molodezhnyi-futurologicheskii-kongress-2018.html",
+      "image": "https://cosmatica.org/upload/000/u8/71/bc/molodezhnyi-futurologicheskii-kongress-2018-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=ee86a8d604772c1a8f",
+      "href": "view.html?p=news-item&ref=72b3d09e010ded1ffc",
       "type": "news-item",
-      "sourceCharacters": 9011,
-      "verified": false
-    },
-    {
-      "title": "Новый выпуск цикла передач \"Прорыв!\"",
-      "description": "\"Прорыв!\" - серия передач Русского Космического Общества.",
-      "url": "https://cosmatica.org/news/96-novyi-vypusk-cikla-peredach-proryv.html",
-      "image": "https://cosmatica.org/upload/000/u26/e7/a1/9f93e9cd.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=79ee3312d7ee100e59",
-      "type": "news-item",
-      "sourceCharacters": 828,
-      "verified": false
-    },
-    {
-      "title": "Дети - косможители",
-      "description": "Они вышли на свет и осмотрелись. Где Земля? Где Млечный путь? Где иные миры, на которых пульсирует в общем Вселенском потоке жизнь ? Им надо помочь это вспомнить.",
-      "url": "https://cosmatica.org/news/73-deti-kosmozhiteli.html",
-      "image": "https://cosmatica.org/upload/000/u8/cd/df/deti-kosmozhiteli-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=327d7b5fd23b43324f",
-      "type": "news-item",
-      "sourceCharacters": 766,
+      "sourceCharacters": 823,
       "verified": false
     }
   ],

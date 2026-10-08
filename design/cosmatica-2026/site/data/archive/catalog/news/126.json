@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Турнир по мини-футболу среди команд ракетно-космической отрасли",
+      "description": "Организатор соревнований: Автономная некоммерческая организация «Спортивный клуб Федерального космического агентства» («Спортклуб Роскосмоса»).",
+      "url": "https://cosmatica.org/news/170-debyut-komandy-rko-na-sportivnoi-arene.html",
+      "image": "https://cosmatica.org/upload/000/u8/3f/b9/29e5537a.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b246e6bf33dfceab93",
+      "type": "news-item",
+      "sourceCharacters": 3274,
+      "verified": false
+    },
+    {
       "title": "Благотворительная поездка в детские дома Тверской области",
       "description": "Член Русского Космического Общества, Чепига Владимир Григорьевич , совместно с Фондом «Светославъ» ( http://www.fond-svetoslav.ru/) посетил СРНЦ Оленино, который находится в Тверской области.",
       "url": "https://cosmatica.org/news/169-blagotvoritelnaja-poezdka-v-detskie-doma-tverskoi-oblasti.html",
@@ -77,6 +88,17 @@
       "verified": false
     },
     {
+      "title": "Трошин Виталий Алексеевич пополнил ряды РКО",
+      "description": "5 августа в Санкт-Петербурге к Русскому Космическому Обществу присоединился Трошин Виталий Алексеевич",
+      "url": "https://cosmatica.org/news/163-troshin-vitalii-alekseevich-popolnil-rjady-rko.html",
+      "image": "https://cosmatica.org/upload/000/u21/78/26/troshin-vitalii-alekseevich-popolnil-rjady-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5c64aaebe511168fa5",
+      "type": "news-item",
+      "sourceCharacters": 2729,
+      "verified": false
+    },
+    {
       "title": "Новая веха развития РКО в Санкт-Петербурге",
       "description": "В одном из красивейших мест Санкт-Петербурга распахнул свои двери для друзей и соратников новый офис Санкт-Петербургского отделения Русского Космического Общества. На открытии состоялось торжественное вручение членского билета и знака РКО Трошину Виталию Алексеевичу, который станет заместителем Председателя недавно созданного Арктического Совета Русского Космического Общества и возглавит Арктическую секцию в Санкт-Пе",
       "url": "https://cosmatica.org/news/161-novaja-veha-razvitija-rko-v-sankt-peterburge.html",
@@ -88,14 +110,14 @@
       "verified": false
     },
     {
-      "title": "Трошин Виталий Алексеевич пополнил ряды РКО",
-      "description": "5 августа в Санкт-Петербурге к Русскому Космическому Обществу присоединился Трошин Виталий Алексеевич",
-      "url": "https://cosmatica.org/news/163-troshin-vitalii-alekseevich-popolnil-rjady-rko.html",
-      "image": "https://cosmatica.org/upload/000/u21/78/26/troshin-vitalii-alekseevich-popolnil-rjady-rko-photo-normal.jpg",
+      "title": "Русское Космическое Общество на фестивале \"Золотой щит\"",
+      "description": "Своей целью фестиваль ставил воспитание молодежи и всего населения в духе патриотизма и любви к малой Родине, объединяющим символом, несущим в себе позитивный заряд созидания и чувства национальной гордости, возрождения, сохранения и развития традиционной культуры народов, проживающих на территории Волгоградской области, приобщение широких масс населения к богатейшим художественным ценностям, созданным многовековым о",
+      "url": "https://cosmatica.org/news/160-russkoe-kosmicheskoe-obschestvo-na-festivale-zolotoi-schit.html",
+      "image": "https://cosmatica.org/upload/000/u8/33/b3/russkoe-kosmicheskoe-obschestvo-na-festivale-zolotoi-schit-photo-no.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=5c64aaebe511168fa5",
+      "href": "view.html?p=news-item&ref=0d6de0f6eb63d2132e",
       "type": "news-item",
-      "sourceCharacters": 2729,
+      "sourceCharacters": 3684,
       "verified": false
     },
     {
@@ -132,17 +154,6 @@
       "verified": false
     },
     {
-      "title": "Русское Космическое Общество на фестивале \"Золотой щит\"",
-      "description": "Своей целью фестиваль ставил воспитание молодежи и всего населения в духе патриотизма и любви к малой Родине, объединяющим символом, несущим в себе позитивный заряд созидания и чувства национальной гордости, возрождения, сохранения и развития традиционной культуры народов, проживающих на территории Волгоградской области, приобщение широких масс населения к богатейшим художественным ценностям, созданным многовековым о",
-      "url": "https://cosmatica.org/news/160-russkoe-kosmicheskoe-obschestvo-na-festivale-zolotoi-schit.html",
-      "image": "https://cosmatica.org/upload/000/u8/33/b3/russkoe-kosmicheskoe-obschestvo-na-festivale-zolotoi-schit-photo-no.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=0d6de0f6eb63d2132e",
-      "type": "news-item",
-      "sourceCharacters": 3684,
-      "verified": false
-    },
-    {
       "title": "Первые феноменальные результаты эксперимента",
       "description": "Ночью 27 июля состоялся онлайн эксперимент, виртуально инициируемый в «Зеркалах Козырева» в Новосибирске, в зале конференции в Австралии и в интернете.",
       "url": "https://cosmatica.org/news/156-pervye-rezultaty-eksperimenta.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=1b6ffbcf62e12349c9",
       "type": "news-item",
       "sourceCharacters": 1894,
-      "verified": false
-    },
-    {
-      "title": "Уникальный эксперимент.",
-      "description": "27 июля ночью, в 3-00 по московскому времени в Мельбурне на 2-й международной научной конференции по природным катастрофам с ключевым докладом МНИИКА по новым технологиям прогнозирования землетрясений в \"пространстве Козырева\" выступает Председатель Новосибирского отделения РКО, директор Института д.м.н., Александр Васильевич Трофимов.",
-      "url": "https://cosmatica.org/news/154-monitoring-buduschego.html",
-      "image": "https://cosmatica.org/upload/000/u30/3e/12/ac97057a.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=4d5a3f4a2a76ab8e68",
-      "type": "news-item",
-      "sourceCharacters": 2796,
       "verified": false
     }
   ],

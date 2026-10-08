@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "100 лет со дня рождения Побиска Кузнецова: итоги",
+      "description": "В 2024 году исполнилось 100 лет со дня рождения русского гения Побиска Георгиевича Кузнецова.",
+      "url": "https://cosmatica.org/news/1992-100-let-so-dnja-rozhdenija-pobiska-kuznecova-itogi.html",
+      "image": "https://cosmatica.org/upload/000/u46/e/9/100-let-so-dnja-rozhdenija-pobiska-kuznecova-itogi-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c22b38110cbb82190e",
+      "type": "news-item",
+      "sourceCharacters": 9018,
+      "verified": false
+    },
+    {
       "title": "Мирный космос военного времени",
       "description": "Это прекрасная история с продолжением, которой нам очень хочется с вами поделиться.",
       "url": "https://cosmatica.org/news/1991-mirnyi-kosmos-voennogo-vremeni.html",
@@ -77,17 +88,6 @@
       "verified": false
     },
     {
-      "title": "В вечном строю прибыло",
-      "description": "8 декабря 2024 года пополнил вечный строй ученик Побиска Георгиевича Кузнецова, пример любознательности и жизнелюбия Виктор Михайлович Капустян .",
-      "url": "https://cosmatica.org/news/2006-v-vechnom-stroyu-pribylo.html",
-      "image": "https://cosmatica.org/upload/000/u7/9/a/04eb2ad9.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=1f82421569ec201e6c",
-      "type": "news-item",
-      "sourceCharacters": 1258,
-      "verified": false
-    },
-    {
       "title": "Соревнования среди ветеранов по быстрым шахматам",
       "description": "24 ноября 2024 года в Центральном офицерском клубе Воздушно-космических сил прошел турнир по быстрым шахматам среди ветеранов стал настоящим праздником для всех любителей интеллектуальной игры, объединив соревнования по стрельбе из лазерного оружия и развлекательную программу.",
       "url": "https://cosmatica.org/news/1984-sorevnovanija-sredi-veteranov-po-bystrym-shahmatam.html",
@@ -143,17 +143,6 @@
       "verified": false
     },
     {
-      "title": "Космизм созидания - наука, философия, мировоззрение",
-      "description": "В данном сообщении мы хотим дать минимальный перечень работ, изучение которых обязательно для необходимого, но не достаточного знакомства с самой передовой и целостной научно-философской теорией - Космизмом созидания . В числе прочего будут даны работы, в которых всё перечисленное обобщено и синтезировано в фундаментальных трудах междисциплинарного характера, а также примеры художественных произведений в духе Космизм",
-      "url": "https://cosmatica.org/news/1978-kosmizm-nauka-filosofija-mirovozzrenie.html",
-      "image": "https://cosmatica.org/upload/000/u7/3/4/kosmizm-sozidanija-nauka-filosofija-mirovozzrenie-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a2b8176dd6661c18d5",
-      "type": "news-item",
-      "sourceCharacters": 33114,
-      "verified": false
-    },
-    {
       "title": "Гагаринцам Макеевки ура!",
       "description": "Ещё две школы приняли решение создать у себя Гагаринские отряды.",
       "url": "https://cosmatica.org/news/1979-gagarincam-makeevki-ura.html",
@@ -162,6 +151,17 @@
       "href": "view.html?p=news-item&ref=ef766a25bec8bd4e41",
       "type": "news-item",
       "sourceCharacters": 2974,
+      "verified": false
+    },
+    {
+      "title": "Космизм созидания - наука, философия, мировоззрение",
+      "description": "В данном сообщении мы хотим дать минимальный перечень работ, изучение которых обязательно для необходимого, но не достаточного знакомства с самой передовой и целостной научно-философской теорией - Космизмом созидания . В числе прочего будут даны работы, в которых всё перечисленное обобщено и синтезировано в фундаментальных трудах междисциплинарного характера, а также примеры художественных произведений в духе Космизм",
+      "url": "https://cosmatica.org/news/1978-kosmizm-nauka-filosofija-mirovozzrenie.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/4/kosmizm-sozidanija-nauka-filosofija-mirovozzrenie-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a2b8176dd6661c18d5",
+      "type": "news-item",
+      "sourceCharacters": 33114,
       "verified": false
     },
     {

@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Интерактивная карта космических направлений высшего образования",
+      "description": "Команда проекта #МЫВЕРИМВКОСМОС реализовала на сайте мыверимвкосмос.рф новый раздел \"Абитуриенту\" , на котором находится интерактивная карта ВУЗов России и ближайшего зарубежья, в которых существуют космические направления высшего образования (очная форма, бакалавриат и специалитет).",
+      "url": "https://cosmatica.org/news/759-interaktivnaja-karta-kosmicheskih-napravlenii-vysshego-obrazovanija.html",
+      "image": "https://cosmatica.org/upload/001/u120/c/c/interaktivnaja-karta-kosmicheskih-napravlenii-vysshego-obrazovanija.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8bf178eb1d28dfcd32",
+      "type": "news-item",
+      "sourceCharacters": 1409,
+      "verified": false
+    },
+    {
       "title": "Мы помним! Мы гордимся!",
       "description": "«Гордиться славою своих предков не только можно, но и должно; не уважать оной есть постыдное малодушие».",
       "url": "https://cosmatica.org/news/758-my-pomnim-my-gordimsja.html",
@@ -52,17 +63,6 @@
       "href": "view.html?p=news-item&ref=7ce486a30371ade7af",
       "type": "news-item",
       "sourceCharacters": 2048,
-      "verified": false
-    },
-    {
-      "title": "Отвечая высшим целям развития жизни на Земле и в космосе",
-      "description": "«Комплексные решения по оздоровлению населения России на основе передовых методик, практик и технологий» под таким название состоялась научно-практическая конференция, организованная и проведённая 27 апреля Русским Космическим обществом.",
-      "url": "https://cosmatica.org/news/778-otvechaja-vysshim-celjam-razvitija-zhizni-na-zemle-i-v-kosmose.html",
-      "image": "https://cosmatica.org/upload/002/u218/e/9/otvechaja-vysshim-celjam-razvitija-zhizni-na-zemle-i-v-kosmose-photo-n.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=517228b79f0768ac0e",
-      "type": "news-item",
-      "sourceCharacters": 3778,
       "verified": false
     },
     {
@@ -165,14 +165,14 @@
       "verified": false
     },
     {
-      "title": "Вышел клип к всенародному фильму \"ЭРА\"",
-      "description": "Ко Дню космонавтики вышел клип к всенародному фильму \"ЭРА\", актуализирующему профессию космонавта и раскрывающему понятие \"МЕЧТА\".",
-      "url": "https://cosmatica.org/news/744-vyshel-klip-k-vsenarodnomu-filmu-era.html",
-      "image": "https://cosmatica.org/upload/000/u35/c/2/vyshel-klip-k-vsenarodnomu-filmu-era-photo-normal.jpg",
+      "title": "Поздравление с Днём Космонавтики",
+      "description": "Поэтому принято с этим днём соотносить всевозможные мероприятия на космическую тему. Принято поздравлять людей, связанных с аэрокосмической сферой деятельности. Принято проводить форумы, фестивали, выставки, лекции, экскурсии. Принято высаживать деревья и вообще вспоминать и говорить о космосе. О том, как было хорошо 12 апреля 1961 года, когда наш великий соотечественник, простой советский человек – Юрий Алексеевич Г",
+      "url": "https://cosmatica.org/news/745-pozdravlenie-s-dnyom-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/5/aaac0f70.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=231597ded9ed5e7727",
+      "href": "view.html?p=news-item&ref=a357d0a4d102bd85ed",
       "type": "news-item",
-      "sourceCharacters": 2180,
+      "sourceCharacters": 3578,
       "verified": false
     }
   ],

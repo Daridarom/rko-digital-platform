@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1433-pervaja-faza-globalnoi-ekologicheskoi-katastrofy.html",
+  "title": "Первая фаза Глобальной Экологической Катастрофы ...",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке»",
+      "spans": [
+        {
+          "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и  "
+        },
+        {
+          "text": "стратегия",
+          "href": "https://cosmatica.org/glossary/41-strategija.html"
+        },
+        {
+          "text": " эволю-ционного прорыва России и человечества в XXI веке» "
+        }
+      ],
+      "links": [
+        {
+          "text": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Лекция 9: Первая фаза Глобальной Экологической Катастрофы – «весть» об экологическом запрете со стороны Природы на рыночно-капиталистическую форму хозяйствования человечества на Земле.",
+      "spans": [
+        {
+          "text": "Лекция 9: Первая фаза Глобальной Экологической Катастрофы – «весть» об экологическом запрете со стороны Природы на рыночно-капиталистическую форму хозяйствования человечества на Земле."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "yK50bzPfba4",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=yK50bzPfba4"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке» Лекция 9: Первая фаза Глобальной Экологической Катастрофы – «весть» об экологическом запрете со стороны Природы на рыночно-капиталистическую форму хозяйствования человечества на Земле.",
+      "links": [
+        {
+          "title": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 412,
+    "storedTextCharacters": 332,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 74859
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 360,
+  "capturedBodyCharacters": 332,
+  "sourceTextSHA256": "e68efeef63799c0240dd4adeae53fde75277951e4f27f4f3f451ce6655a4736c",
+  "archiveSnapshotAt": "2026-10-08T13:19:39Z"
+}

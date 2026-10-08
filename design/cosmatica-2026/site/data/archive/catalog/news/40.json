@@ -11,17 +11,6 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Делегация Федерального Народного Совета посетила Луганскую Народную Республику.",
-      "description": "Руководитель Общественно-государственного совета Русского Космического общества, ответственный секретарь Организационного комитета ФНС Алексей Витальевич Войтенок вошёл в состав делегации от Федерального Народного Совета, посетившей с официальной поездкой Луганскую Народную Республику.",
-      "url": "https://cosmatica.org/news/1575-delegacija-federalnogo-narodnogo-soveta-posetila-luganskuyu-narodnuyu-respubliku.html",
-      "image": "https://cosmatica.org/upload/000/u35/9/1/delegacija-federalnogo-narodnogo-soveta-posetila-luganskuyu-narod.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=797fddc75832648392",
-      "type": "news-item",
-      "sourceCharacters": 2553,
-      "verified": false
-    },
-    {
       "title": "Донецкий Ботанический сад станет центром экопросвещения России",
       "description": "С самого раннего утра Мария Владимировна Губенко вела переговоры с сотрудниками ботанического сада.",
       "url": "https://cosmatica.org/news/1574-doneckii-botanicheskii-sad-stanet-centrom-ekoprosveschenija-rossii.html",
@@ -44,6 +33,17 @@
       "verified": false
     },
     {
+      "title": "В будущем мы будем летать, много летать",
+      "description": "24 ноября 2022 года юными гагаринцами стали 26 детей группы № 4 «Мурзилки».",
+      "url": "https://cosmatica.org/news/1572-v-buduschem-my-budem-letat-mnogo-letat.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/8/v-buduschem-my-budem-letat-mnogo-letat-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9326585d6774b2670e",
+      "type": "news-item",
+      "sourceCharacters": 2637,
+      "verified": false
+    },
+    {
       "title": "Этика и медицина: прошлое и современность",
       "description": "18 ноября этого года, в «Дни петербургской философии», Институт медицинского образования (ИМО) ФГБУ “НМИЦ им В.А. Алмазова” Минздрава России, при поддержке МОО «Русское космическое общество» провел в «Точке кипения - Центр Алмазова» научно-практическую конференцию «Этика и медицина: прошлое и современность».",
       "url": "https://cosmatica.org/news/1571-etika-i-medicina-proshloe-i-sovremennost.html",
@@ -52,6 +52,17 @@
       "href": "view.html?p=news-item&ref=05f1b44bdbbd3a45b0",
       "type": "news-item",
       "sourceCharacters": 3837,
+      "verified": false
+    },
+    {
+      "title": "22 года назад ушёл в вечность последний Генеральный конструктор СССР",
+      "description": "4 декабря 2000 года умер Побиск Георгиевич Кузнецов - последний из плеяды Генеральных конструкторов СССР (с 18 ноября 1977 года в соответствии с Постановлением и ГКНТ за N 480/278 он был Главным конструктором системы управления страной в \"особый период\").",
+      "url": "https://cosmatica.org/news/1570-22-goda-nazad-ushyol-v-vechnost-poslednii-generalnyi-konstruktor-sssr.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/2/22-goda-nazad-ushyol-v-vechnost-poslednii-generalnyi-konstruktor.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=28f0bb8f56385cebb6",
+      "type": "news-item",
+      "sourceCharacters": 5381,
       "verified": false
     },
     {
@@ -88,17 +99,6 @@
       "verified": false
     },
     {
-      "title": "РКО в Лицах: Задонская Елена Васильевна",
-      "description": "Проект Русского Космического Общества - \"РКО в Лицах\", рассказывает о людях, объединившихся вместе для того, чтобы Словом и Делом внести свой вклад в построение ноосферно-космического будущего России.",
-      "url": "https://cosmatica.org/news/1555-rko-v-licah-zadonskaja-elena-vasilevna.html",
-      "image": "https://cosmatica.org/upload/002/u218/6/2/0c4b7f0b.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=45e59677dde042ce35",
-      "type": "news-item",
-      "sourceCharacters": 1423,
-      "verified": false
-    },
-    {
       "title": "Мы вместе. Нас много",
       "description": "О культурных событиях мы расскажем вам отдельно. А сейчас отчитаемся о проделанной гуманитарной работе, которая не могла быть реализована без вашей поддержки, дорогие друзья и соратники. Первым пунктом отгрузки была Волноваха. Рано утром гостей встречали в городской библиотеке, где теперь располагается первый Штаб вклада в Победу на освобождённых территориях. А директор библиотеки Татьяна Ивановна Лата стала нашей на",
       "url": "https://cosmatica.org/news/1566-my-vmeste-nas-mnogo.html",
@@ -132,17 +132,6 @@
       "verified": false
     },
     {
-      "title": "Образование: взгляд в будущее",
-      "description": "Организаторы форума: Общероссийская Малая академия наук «Интеллект будущего», Международная общественная организация «Международная академия детско-юношеского туризма и краеведения имени А.А. Остапца-Свешникова», Ассоциации педагогов дополнительного образования Подмосковья, Центр развития образования, науки и культуры «Обнинский полис», Научно-образовательный центр «Траектории развития», Международный центр «Максимум",
-      "url": "https://cosmatica.org/news/1562-obrazovanie-vzgljad-v-buduschee.html",
-      "image": "https://cosmatica.org/upload/000/u35/a/8/18c5b712.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=e0e6e3b489d0c067c3",
-      "type": "news-item",
-      "sourceCharacters": 4069,
-      "verified": false
-    },
-    {
       "title": "Борис Евгеньевич Большаков. 4 года в Вечном строю",
       "description": "Он Жизнь любил и отдавал себя всего Ей без остатка,",
       "url": "https://cosmatica.org/news/1563-boris-evgenevich-bolshakov-4-goda-v-vechnom-stroyu.html",
@@ -151,6 +140,17 @@
       "href": "view.html?p=news-item&ref=76a0164e7f0e473dd2",
       "type": "news-item",
       "sourceCharacters": 4769,
+      "verified": false
+    },
+    {
+      "title": "Образование: взгляд в будущее",
+      "description": "Организаторы форума: Общероссийская Малая академия наук «Интеллект будущего», Международная общественная организация «Международная академия детско-юношеского туризма и краеведения имени А.А. Остапца-Свешникова», Ассоциации педагогов дополнительного образования Подмосковья, Центр развития образования, науки и культуры «Обнинский полис», Научно-образовательный центр «Траектории развития», Международный центр «Максимум",
+      "url": "https://cosmatica.org/news/1562-obrazovanie-vzgljad-v-buduschee.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/8/18c5b712.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e0e6e3b489d0c067c3",
+      "type": "news-item",
+      "sourceCharacters": 4069,
       "verified": false
     },
     {

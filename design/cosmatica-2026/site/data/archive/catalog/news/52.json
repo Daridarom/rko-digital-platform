@@ -11,17 +11,6 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Шахматный турнир \"Юные звёзды\"",
-      "description": "Вот уже 6 лет подряд проводится открытый фестиваль \"Юные звёзды\". Но в этот раз был особый статус мероприятия - благотворительный. Все собранные на мероприятии средства, за исключением прямых организационных расходов, направлены на материальную помощь детям, оказавшимся в сложной жизненной ситуации на Донбассе.",
-      "url": "https://cosmatica.org/news/1363-shahmatnyi-turnir-yunye-zvyozdy.html",
-      "image": "https://cosmatica.org/upload/002/u218/5/b/cf0e47f2.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=d5e33ddcb95f3482d0",
-      "type": "news-item",
-      "sourceCharacters": 2760,
-      "verified": false
-    },
-    {
       "title": "Культурные коды нашей Человечности.",
       "description": "Рекомендуем к просмотру прекрасную, содержательную лекцию нашей Содеи из Канады Ирины Константиновны Мухиной , в которой она в простой и ясной форме раскрывает сущность происходящих сегодня процессов, в которых перед человечеством стоит выбор, или некросфера деградации и гибели, или ноосфера развития и гармония Жизни.",
       "url": "https://cosmatica.org/news/1368-kulturnye-kody-nashei-chelovechnosti.html",
@@ -33,14 +22,14 @@
       "verified": false
     },
     {
-      "title": "Законы Природы неизменны, но законы физики развиваются вместе с научным знанием.",
-      "description": "Уровень развития цивилизации определяется уровнем развития её фундаментальной науки. Уровень же развития фундаментальной науки определяется мерой понимания физической природы окружающей нас реальности.",
-      "url": "https://cosmatica.org/news/1373-zakony-fiziki.html",
-      "image": "https://cosmatica.org/upload/002/u218/2/a/zakony-fiziki-photo-normal.jpg",
+      "title": "День Космонавтики в Кузбассе",
+      "description": "Редакция Русского Космического Общества с радостью получает отчёты от гагаринских дружин из различных регионов о том, как ребята провели День Космонавтики. Значимость этого праздника трудно переоценить, и это только подтверждает заинтересованность и отклик педагогов, учеников и руководителей дружин.",
+      "url": "https://cosmatica.org/news/1366-otchet-o-provedennyh-meroprijatijah-ko-dnyu-kosmonavtiki-na-baze-kemerovskogo-kooperativnogo-te.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/e/den-kosmonavtiki-kemerovsk-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=0360f71673b658db35",
+      "href": "view.html?p=news-item&ref=280c74e1989b6be439",
       "type": "news-item",
-      "sourceCharacters": 1909,
+      "sourceCharacters": 4007,
       "verified": false
     },
     {
@@ -55,14 +44,25 @@
       "verified": false
     },
     {
-      "title": "День Космонавтики в Кузбассе",
-      "description": "Редакция Русского Космического Общества с радостью получает отчёты от гагаринских дружин из различных регионов о том, как ребята провели День Космонавтики. Значимость этого праздника трудно переоценить, и это только подтверждает заинтересованность и отклик педагогов, учеников и руководителей дружин.",
-      "url": "https://cosmatica.org/news/1366-otchet-o-provedennyh-meroprijatijah-ko-dnyu-kosmonavtiki-na-baze-kemerovskogo-kooperativnogo-te.html",
-      "image": "https://cosmatica.org/upload/002/u218/9/e/den-kosmonavtiki-kemerovsk-photo-normal.jpg",
+      "title": "Студенческая смена \"Обед с космонавтом\"",
+      "description": "Погода порадовала солнышком, теплом и первыми цветами. Во встрече приняли участие студенты Московского государственного областного университета (МГОУ), студенты Московского государственного университета технологий и управления им. К.Г. Разумовского (МГУТУ), активные участники Просветительской общественной инициативы \"Пойдём с нами\" из Москвы и Московской области.",
+      "url": "https://cosmatica.org/news/1364-studencheskaja-smena-obed-s-kosmonavtom.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/f/studencheskaja-smena-obed-s-kosmonavtom-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=280c74e1989b6be439",
+      "href": "view.html?p=news-item&ref=21295e4a1e89a67973",
       "type": "news-item",
-      "sourceCharacters": 4007,
+      "sourceCharacters": 2456,
+      "verified": false
+    },
+    {
+      "title": "Шахматный турнир \"Юные звёзды\"",
+      "description": "Вот уже 6 лет подряд проводится открытый фестиваль \"Юные звёзды\". Но в этот раз был особый статус мероприятия - благотворительный. Все собранные на мероприятии средства, за исключением прямых организационных расходов, направлены на материальную помощь детям, оказавшимся в сложной жизненной ситуации на Донбассе.",
+      "url": "https://cosmatica.org/news/1363-shahmatnyi-turnir-yunye-zvyozdy.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/b/cf0e47f2.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d5e33ddcb95f3482d0",
+      "type": "news-item",
+      "sourceCharacters": 2760,
       "verified": false
     },
     {
@@ -88,17 +88,6 @@
       "verified": false
     },
     {
-      "title": "Пополнение в строю юных гагаринцев!",
-      "description": "15 апреля 2022 в МБОУ СОШ №9 родители, ученики и учителя решили присоединиться к Всенародному детско-юношескому общественному движению Русского Космического Общества - \"Дружина Гагаринцев\".",
-      "url": "https://cosmatica.org/news/1358-popolnenie-v-stroyu-yunyh-gagarincev.html",
-      "image": "https://cosmatica.org/upload/002/u218/9/4/popolnenie-v-stroyu-yunyh-gagarincev-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=05a768c64a3ba8cb6c",
-      "type": "news-item",
-      "sourceCharacters": 3119,
-      "verified": false
-    },
-    {
       "title": "Открыты новые штабы вклада в победу",
       "description": "Товарищи! Мы — Русские, и нам не безразлична Судьба нашего Народа и нашего Отечества. Сегодня настало время Действовать!",
       "url": "https://cosmatica.org/news/1360-otkryty-novye-shtaby-vklada-v-pobedu.html",
@@ -110,17 +99,6 @@
       "verified": false
     },
     {
-      "title": "День космонавтики в Брянском отделении РКО",
-      "description": "14 апреля в брянской школе №58 на ул. Абашева, д.3 состоялось торжественное открытие интерактивной экспозиции \"Мы верим в космос\". Событие было приурочено к 12 апреля \"Дню космонавтики\". Экспозиция разработана Молодёжным советом РКО и посвящена истории космонавтики России. В преддверии праздника между Русским Космическим Обществом и школой было заключено соглашение о сотрудничестве и взаимодействии. Предполагается, ч",
-      "url": "https://cosmatica.org/news/1350-den-kosmonavtiki-otmetili-v-brjanskom-otdelenii-rko.html",
-      "image": "https://cosmatica.org/upload/000/u35/2/3/6f939f5e.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=05b5f424e5108885b8",
-      "type": "news-item",
-      "sourceCharacters": 1963,
-      "verified": false
-    },
-    {
       "title": "Ночь Юрия в Пскове",
       "description": "Данные телескопы привезли участники Псковского клуба любительской астрономии АстроПсков : Пётр Митрофанов, Сергей Попов, участник Псковского отделения РКО Максим Евдокимов и Владимир Юрьевич Колпаков - председатель Псковского регионального отделения РКО и руководитель Центра Юный техник в Пскове .",
       "url": "https://cosmatica.org/news/1359-noch-yurija-v-pskove.html",
@@ -129,6 +107,17 @@
       "href": "view.html?p=news-item&ref=ba4db8e480f8f46624",
       "type": "news-item",
       "sourceCharacters": 2146,
+      "verified": false
+    },
+    {
+      "title": "Пополнение в строю юных гагаринцев!",
+      "description": "15 апреля 2022 в МБОУ СОШ №9 родители, ученики и учителя решили присоединиться к Всенародному детско-юношескому общественному движению Русского Космического Общества - \"Дружина Гагаринцев\".",
+      "url": "https://cosmatica.org/news/1358-popolnenie-v-stroyu-yunyh-gagarincev.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/4/popolnenie-v-stroyu-yunyh-gagarincev-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=05a768c64a3ba8cb6c",
+      "type": "news-item",
+      "sourceCharacters": 3119,
       "verified": false
     },
     {
@@ -154,17 +143,6 @@
       "verified": false
     },
     {
-      "title": "День Космонавтики в д/с \"Ягодка\"",
-      "description": "Красиво оформленный зал, оригинальные, тщательно проработанные костюмы ребят и их выступления - результат серьезной работы коллектива детского сада и родителей. Совместными трудами создан прекрасный яркий праздник, который запомнится на долгие годы. Заложен в память подрастающего поколения, как деталь в мозаике, составляющей картину \"моё замечательное детство\". Совсем скоро эти сегодняшние выпускники детского сада ст",
-      "url": "https://cosmatica.org/news/1352-den-kosmonavtiki-v-ds-jagodka.html",
-      "image": "https://cosmatica.org/upload/002/u218/1/f/s-jagodka-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=58cf808ba9b96e2fe6",
-      "type": "news-item",
-      "sourceCharacters": 2411,
-      "verified": false
-    },
-    {
       "title": "Прикоснуться к Байконуру",
       "description": "В рамках празднования Дня космонавтики 12 апреля 2022 г. Владимирское отделение Русского Космического Общества совместно с кафедрой всеобщей истории ВлГУ и ВОО «Ветераны космодрома “Байконур”» провели встречу с руководителем ВОО «Ветераны космодрома “Байконур”», полковником запаса, почётным членов РКО Яшуковым Михаилом Адамовичем , прослужившим на космодроме Байконур 25 лет.",
       "url": "https://cosmatica.org/news/1355-prikosnutsja-k-baikonuru.html",
@@ -173,6 +151,28 @@
       "href": "view.html?p=news-item&ref=b996028cf37eae2096",
       "type": "news-item",
       "sourceCharacters": 4312,
+      "verified": false
+    },
+    {
+      "title": "День космонавтики в МБОУ \"Промышленновская СОШ №56\", Кузбасс",
+      "description": "Глава Промышленновского муниципального округа С. А. Федарюк в этот знаменательный день поздравил ребят с праздником и пожелал верить в мечту и непременно добиваться поставленных целей.",
+      "url": "https://cosmatica.org/news/1354-den-kosmonavtiki-v-mbou-promyshlennovskaja-sosh-56-kuzbass.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/6/den-kosmonavtiki-v-mbou-promyshlennovskaja-sosh-56-kuzbass-pho.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6993caa8a2bf3e176e",
+      "type": "news-item",
+      "sourceCharacters": 2806,
+      "verified": false
+    },
+    {
+      "title": "День космонавтики в МБОУ \"Святославская средняя общеобразовательная школа\", Кузбасс",
+      "description": "Отряд \"юных гагаринцев\" под названием \"Звёздный\" Святославской средней общеобразовательной школы",
+      "url": "https://cosmatica.org/news/1353-den-kosmonavtiki-v-mbou-svjatoslavskaja-srednjaja-obscheobrazovatelnaja-shkola-kuzbass.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/b/den-kosmonavtiki-v-mbou-svjatoslavskaja-srednjaja-obscheobrazovatel.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=758131af83e2172edd",
+      "type": "news-item",
+      "sourceCharacters": 2425,
       "verified": false
     }
   ],

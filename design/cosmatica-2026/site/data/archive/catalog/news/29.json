@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Вебинар для Юнармейцев о возможности создания Цифрового дома Юнармии",
+      "description": "3 ноября 2023 года в 12.00 по московскому времени была проведена ознакомительная встреча по возможности создания Цифрового дома Юнармии. Участие в вебинаре приняли Юнармейцы ВКС, их родители, руководители отрядов, и педагоги.",
+      "url": "https://cosmatica.org/news/1753-vebinar-dlja-yunarmeicev-o-vozmozhnosti-sozdanija-cifrovogo-doma-yunarmii.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/3/vebinar-dlja-yunarmeicev-o-vozmozhnosti-sozdanija-cifrovogo-doma-yuna.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=395882117d9da184b8",
+      "type": "news-item",
+      "sourceCharacters": 1723,
+      "verified": false
+    },
+    {
       "title": "Но мы попробуем спаять его любовью...",
       "description": "Этот эпиграф станет отправной точкой для разъяснения нашей позиции по теме «Народного единства».",
       "url": "https://cosmatica.org/news/1752-no-my-poprobuem-spajat-ego-lyubovyu.html",
@@ -121,17 +132,6 @@
       "verified": false
     },
     {
-      "title": "Спецвыпуск газеты \"Природа-Общество-Человек: ноосферное устойчивое развитие\"",
-      "description": "Эти строки известной песни «Прекрасное Далёко» из замечательного советского фильма «Гостья из будущего» станут отправной точкой для послания этой передовицы.",
-      "url": "https://cosmatica.org/news/1741-specvypusk-gazety-priroda-obschestvo-chelovek-noosfernoe-ustoichivoe-razvitie.html",
-      "image": "https://cosmatica.org/upload/002/u218/9/e/specvypusk-gazety-priroda-obschestvo-chelovek-noosfernoe-ustoichiv.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=8009aabcea80a0956e",
-      "type": "news-item",
-      "sourceCharacters": 6324,
-      "verified": false
-    },
-    {
       "title": "О космосе и мечте",
       "description": "Учащиеся 7К, 8К, 9К классов, а это 120 учеников в возрасте от 12 до 14 лет, погрузились в историю развития отечественной космонавтики, а также раскрыли для себя понятие \"мечта\".",
       "url": "https://cosmatica.org/news/1742-o-kosmose-i-mechte.html",
@@ -143,14 +143,14 @@
       "verified": false
     },
     {
-      "title": "Культуру развития Жизни в массы",
-      "description": "Воспитание, как процесс целенаправленного, систематического формирования личности в целях подготовки её к активному участию в общественной, производственной и культурной жизни был важен во все времена. Воспитание закладывает основу для возможности образования, как формирования необходимой картины мира и реализации её в реальной жизни.",
-      "url": "https://cosmatica.org/news/1739-kulturu-razvitija-zhizni-v-massy.html",
-      "image": "https://cosmatica.org/upload/000/u7/9/b/kulturu-razvitija-zhizni-v-massy-photo-normal.jpg",
+      "title": "Спецвыпуск газеты \"Природа-Общество-Человек: ноосферное устойчивое развитие\"",
+      "description": "Эти строки известной песни «Прекрасное Далёко» из замечательного советского фильма «Гостья из будущего» станут отправной точкой для послания этой передовицы.",
+      "url": "https://cosmatica.org/news/1741-specvypusk-gazety-priroda-obschestvo-chelovek-noosfernoe-ustoichivoe-razvitie.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/e/specvypusk-gazety-priroda-obschestvo-chelovek-noosfernoe-ustoichiv.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=c47cfc57546ed9907e",
+      "href": "view.html?p=news-item&ref=8009aabcea80a0956e",
       "type": "news-item",
-      "sourceCharacters": 5410,
+      "sourceCharacters": 6324,
       "verified": false
     },
     {
@@ -165,14 +165,14 @@
       "verified": false
     },
     {
-      "title": "Всетруд - сключение через Общее Дело.",
-      "description": "Война и Труд, разрушение и созидание – две крайности нашего бытия.",
-      "url": "https://cosmatica.org/news/1738-vsetrud-sklyuchenie-chered-obschee-delo.html",
-      "image": "https://cosmatica.org/upload/000/u7/7/4/vsetrud-sklyuchenie-chered-obschee-delo-photo-normal.jpg",
+      "title": "Культуру развития Жизни в массы",
+      "description": "Воспитание, как процесс целенаправленного, систематического формирования личности в целях подготовки её к активному участию в общественной, производственной и культурной жизни был важен во все времена. Воспитание закладывает основу для возможности образования, как формирования необходимой картины мира и реализации её в реальной жизни.",
+      "url": "https://cosmatica.org/news/1739-kulturu-razvitija-zhizni-v-massy.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/b/kulturu-razvitija-zhizni-v-massy-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=68eaef08e26964f7b1",
+      "href": "view.html?p=news-item&ref=c47cfc57546ed9907e",
       "type": "news-item",
-      "sourceCharacters": 6848,
+      "sourceCharacters": 5410,
       "verified": false
     }
   ],

@@ -6,10 +6,76 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 53,
-  "pageCount": 321,
-  "total": 4812,
+  "pageCount": 322,
+  "total": 4823,
   "blocks": [],
   "cards": [
+    {
+      "title": "Подведены итоги пресс-тура «Zа правду»",
+      "description": "28-31 марта 2022 г. на территории Донецкой Народной Республики состоялся пресс-тур «Zа правду», в котором приняли участие: действительный член Русского Космического Общества Елизавета Евгеньевна Зуева , действительный член Русского Космического Общества, член Первого Отряда Павел Романович Антонов . По итогам привезённого материала была написана статья «Пресс-тур «Zа правду»: сохраняя Человечность». В ней рассказывае",
+      "url": "https://cosmatica.org/news/1423-podvedeny-itogi-press-tura-za-pravdu.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/2/fe2d0f8f.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=154ac7390b1f2763fd",
+      "type": "news-item",
+      "sourceCharacters": 3631,
+      "verified": false
+    },
+    {
+      "title": "Научное мировоззрение и Общее Дело, как основа для формирования единства народов БРИКС",
+      "description": "Ещё совсем недавно утверждалось, что никто и ничто не угрожает безопасности народов стран, входящих в БРИКС. Теперь многие эксперты приходят к выводу, что это ложное утверждение.",
+      "url": "https://cosmatica.org/articles/1422-nauchnoe-mirovozzrenie-i-obschee-delo-kak-osnova-dlja-formirovanija-edinstva-narodov-briks.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/e/bezymjannyi.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=9868b80aea4e03701e",
+      "type": "article",
+      "sourceCharacters": 24900,
+      "verified": false
+    },
+    {
+      "title": "Цветы памяти высажены в пгт. Промышленная (Кузбасс)",
+      "description": "Вчера к нам в редакцию пришло письмо от руководителя гагаринского отряда промышленновской школы №56 (Кузбасс) Любови Владимировны Парамоновой , в котором она рассказала об участии гагаринцев в акции \"Цветок памяти\". Эта всероссийская акция уже несколько лет проводится как дань памяти тем, кто сражался за мир и победил не только на фронтах Великой Отечественной Войны, но и в боях Второй мировой на Дальнем Востоке и со",
+      "url": "https://cosmatica.org/news/1422-cvetki-pamjati-vysazheny-v-pgt-promyshlennaja-kuzbass.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/d/cvetki-pamjati-vysazheny-v-pgt-promyshlennaja-kuzbass-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cc2591cad187618fc3",
+      "type": "news-item",
+      "sourceCharacters": 2795,
+      "verified": false
+    },
+    {
+      "title": "Право реализующей себя человечности: космическое и земное",
+      "description": "О каком праве идет речь? - Это не право, к которому человечество приучило себя за века и тысячелетия своей писанной и переписанной истории: не римское, не датское, не морское, не континентальное и не островное. Тома и библиотеки посвящены этим видам исторического, т.н «позитивного» права. Что не так с этими видами права «канувшие в Лету» или действующие по сей день в разных «королевствах – государствах»? Все это – ра",
+      "url": "https://cosmatica.org/articles/1421-pravo-realizuyuschei-sebja-chelovechnosti-kosmicheskoe-i-zemnoe.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/7/ris-1.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=4198b8454da94fc661",
+      "type": "article",
+      "sourceCharacters": 13318,
+      "verified": false
+    },
+    {
+      "title": "Рождение действительного разума",
+      "description": "Пусть и со значительной задержкой, всё же очередной выпуск нашей газеты увидел свет. Содержание выпуска не утратило своей значимости и актуальности. Газета Русского Космического Общества - это направляющий и координирующий орган, который аккумулирует в себе основные, ключевые материалы, касающиеся направлений нашей деятельности. Деятельность же Русского Космического Общества стремительно набирает обороты. В РКО собра",
+      "url": "https://cosmatica.org/news/1421-rozhdenie-deistvitelnogo-razuma.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/6/rozhdenie-deistvitelnogo-razuma-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=987dd5fdcef27d43fd",
+      "type": "news-item",
+      "sourceCharacters": 5473,
+      "verified": false
+    },
+    {
+      "title": "Владимирцы — Хранители семейного очага, света, добра, и тепла звезды Байконур",
+      "description": "За давностью лет и бывшей секретности имена многих участников исторических событий на космодроме Байконур не остались в памяти, не сохранились в документах. Я постараюсь восстановить фамилии тружеников Байконура – ныне жителей города Владимира и области.",
+      "url": "https://cosmatica.org/articles/1420-vladimircy-hraniteli-semeinogo-ochaga-sveta-dobra-i-tepla-zvezdy-baikonur.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/f/2023-02-10-15-00-46-winscan-to-pdf.jpeg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=8fe9d8021c8aeea614",
+      "type": "article",
+      "sourceCharacters": 10258,
+      "verified": false
+    },
     {
       "title": "Новый выпуск \"Ближе к космосу\"",
       "description": "Ознакомиться с изданием вы можете на сайте Русского Космического Общества и в специальном разделе сайта проекта \"Мы верим в космос\": www.мыверимвкосмос.рф/Ближе-к-космосу .",
@@ -107,72 +173,6 @@
       "href": "view.html?p=news-item&ref=824003fc3864624b5f",
       "type": "news-item",
       "sourceCharacters": 4201,
-      "verified": false
-    },
-    {
-      "title": "Общая цель развития человечества и биосферы - Наше Общее Дело.",
-      "description": "Увидело свет второе издание книги, которую ещё при жизни первого президента Русского Космического Общества - Большакова Бориса Евгеньевича авторы готовили к изданию.",
-      "url": "https://cosmatica.org/news/1409-obschaja-cel-razvitija-chelovechestva-i-biosfery-nashe-obschee-delo.html",
-      "image": "https://cosmatica.org/upload/000/u35/b/5/obschaja-cel-razvitija-chelovechestva-i-biosfery-nashe-obschee-delo-p.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=04d52e32519cd3b262",
-      "type": "news-item",
-      "sourceCharacters": 3124,
-      "verified": false
-    },
-    {
-      "title": "Солидарное общество и его институты: стратегия и технологии становления и развития",
-      "description": "Она прошла в Российском государственном социальном университете в рамках ежегодных XI Ивановских чтений, посвященных в этом году 25-летию факультета управления РГСУ.",
-      "url": "https://cosmatica.org/news/1408-solidarnoe-obschestvo-i-ego-instituty-strategija-i-tehnologii-stanovlenija-i-razvitija.html",
-      "image": "https://cosmatica.org/upload/002/u218/8/8/solidarnoe-obschestvo-i-ego-instituty-strategija-i-tehnologii-sta.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=7cc224b6ff0f79289d",
-      "type": "news-item",
-      "sourceCharacters": 6982,
-      "verified": false
-    },
-    {
-      "title": "Бортовой журнал дружинки гагаринцев д/с \"Ягодка\"",
-      "description": "Кроме того, в середине апреля этого года две школы г. Лобня подписали соглашение с Русским Космическим Обществом о сотрудничестве в сфере воспитания подрастающего поколения. Многие ребята из д/с \"Ягодка\" планируют учиться в этих школах, где уже созданы первые гагаринские отряды. Подробнее в этой статье .",
-      "url": "https://cosmatica.org/news/1407-bortovoi-zhurnal-druzhinki-gagarincev.html",
-      "image": "https://cosmatica.org/upload/002/u218/8/d/bortovoi-zhurnal-druzhinki-gagarincev-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=123f5d13cb3bf1c933",
-      "type": "news-item",
-      "sourceCharacters": 2128,
-      "verified": false
-    },
-    {
-      "title": "Новые кедры на Кузбасской земле",
-      "description": "24 мая 2022 года члены гагаринского отряда школы №1 г. Прокопьевск (Кузбасс) присоединились к Всемирному движению Русского Космического Общества \"Гагаринский сад\" и к проекту \"Кедры России\", разработанному на базе эко-питомника \"Зеленоградские кедры\" .",
-      "url": "https://cosmatica.org/news/1406-novye-kedry-na-kuzbasskoi-zemle.html",
-      "image": "https://cosmatica.org/upload/002/u218/0/d/novye-kedry-na-kuzbasskoi-zemle-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=b459b0fe6da3b08555",
-      "type": "news-item",
-      "sourceCharacters": 2370,
-      "verified": false
-    },
-    {
-      "title": "XXI век, как ноосферный этап развития Марксизма-Ленинизма",
-      "description": "Предлагаемая Вашему вниманию тема доклада – « XXI век как ноосферный этап развития марксизма-ленинизма» не случайна. Раскрытию содержания этой темы, её аргументации мною посвящена серия научных работ, в том числе монографий, таких как: «Владимир Ильич Ленин: гений русского прорыва человечества к социализму» (2010), «Глобальный империализм и ноосферно-социалистическая альтернатива» (2004), «Миссия коммунизма в XXI век",
-      "url": "https://cosmatica.org/articles/1405-xxi-vek-kak-noosfernyi-etap-razvitija-marksizma-leninizma.html",
-      "image": null,
-      "kind": "article",
-      "href": "view.html?p=article&ref=41ed69eec7cf45e2eb",
-      "type": "article",
-      "sourceCharacters": 45950,
-      "verified": false
-    },
-    {
-      "title": "Философия-Право-Деятельность - Онтология космического прорыва.",
-      "description": "22 мая 2022 года на Цифровой платформе Русского Космического Общества sciba.cosmatica.org состоялась III Международная научно-практическая конференция «Космическая философия - Космическое право - Космическая деятельность: триединство космического прорыва человечества».",
-      "url": "https://cosmatica.org/news/1405-filosofija-pravo-dejatelnost-ontologija-kosmicheskogo-proryva.html",
-      "image": "https://cosmatica.org/upload/002/u218/0/f/filosofija-pravo-dejatelnost-ontologija-kosmicheskogo-proryva-p.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=24d013aded81d4587e",
-      "type": "news-item",
-      "sourceCharacters": 6200,
       "verified": false
     }
   ],

@@ -6,10 +6,87 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 71,
-  "pageCount": 321,
-  "total": 4812,
+  "pageCount": 322,
+  "total": 4823,
   "blocks": [],
   "cards": [
+    {
+      "title": "Место и значение научного творчества Аркадия Дмитриевича Урсула в Русской Ноосферной Революции",
+      "description": "1. Тезис первый: Ноосферная школа А.Д.Урсула как системная составляющая Русской Ноосферной Научной Школы всемирного масштаба",
+      "url": "https://cosmatica.org/articles/1189-mesto-i-znachenie-nauchnogo-tvorchestva-arkadija-dmitrievicha-ursula-v-russkoi-noosfernoi-revol.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=ce50e3a805d65846df",
+      "type": "article",
+      "sourceCharacters": 18774,
+      "verified": false
+    },
+    {
+      "title": "Тропа Мужества - Тропа Вятичей",
+      "description": "115 человек прошли Тропой Мужества 30 октября 2021г. в Орловской области, стартовав от д. Сеножатное пгт. Нарышкино.",
+      "url": "https://cosmatica.org/news/1189-tropa-vjatichei-tropa-muzhestva.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/6/tropa-muzhestva-tropa-vjatichei-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f968dfa5f1bcc27ad8",
+      "type": "news-item",
+      "sourceCharacters": 5257,
+      "verified": false
+    },
+    {
+      "title": "Особый период и Новая эра",
+      "description": "«Всякое царство, разделившееся само в себе, опустеет; и всякий город или дом, разделившийся сам в себе, не устоит» .",
+      "url": "https://cosmatica.org/articles/1188-osobyi-period-i-novaja-era.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=fd6a4d999087641289",
+      "type": "article",
+      "sourceCharacters": 6828,
+      "verified": false
+    },
+    {
+      "title": "Поэзия и музыка Космоса",
+      "description": "26 октября при участии Русского Космического Общества и поддержке со стороны Союза композиторов Санкт-Петербурга в рамках Международного музыкального фестиваля \"Земля детей\" состоялся конкурс – концерт «Поэзия и музыка космоса».",
+      "url": "https://cosmatica.org/news/1188-poezija-i-muzyka-kosmosa.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/1/poezija-i-muzyka-kosmosa-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=113059b58a9f51a754",
+      "type": "news-item",
+      "sourceCharacters": 3275,
+      "verified": false
+    },
+    {
+      "title": "Космизация человеческой деятельности в освоении нового эволюционного уровня бытия",
+      "description": "Аннотация: В контексте экофилософии актуализируется потенциал освоения связей человека и космоса, не сводимых к их технико-технологическому измерению. Космизация деятельности показана как основание универсализации субъекта, измерение бесконечности в жизни конечного человека и смысло-жизненных ориентирах бытия, детерминирующих возможности восхождении человека к новым уровням освоения универсальной эволюции бытия.",
+      "url": "https://cosmatica.org/articles/1187-kosmizacija-chelovecheskoi-dejatelnosti-v-osvoenii-novogo-evolyucionnogo-urovnja-bytija.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=b8721ef00ec444591b",
+      "type": "article",
+      "sourceCharacters": 17268,
+      "verified": false
+    },
+    {
+      "title": "Поля системы",
+      "description": "Пришло время поговорить о строении Вселенной. Почему я утверждаю, что все идет по спирали, и нет в природе круга, дискретности.",
+      "url": "https://cosmatica.org/articles/1186-polja-sistemy.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=9f9e4414149004fa9b",
+      "type": "article",
+      "sourceCharacters": 8523,
+      "verified": false
+    },
+    {
+      "title": "Подарки со смыслом в детский сад \"Ягодка\"",
+      "description": "В экологической гостиной д/с \"Ягодка\" г. Лобня появилась ещё одна книга, да не простая - а фотикулярная.",
+      "url": "https://cosmatica.org/news/1186-ds-jagodka.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/5/s-jagodka-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f3b63a8cf6c5804d61",
+      "type": "news-item",
+      "sourceCharacters": 2342,
+      "verified": false
+    },
     {
       "title": "Пульсации и ритмы вращающейся системы/тела",
       "description": "Мы уже немного рассмотрели тему разрешенных орбит. Продолжим ее. Чтобы понять, как же эти орбиты образуются, если все идет по спирали, необходимо понять, почему происходит пульсация системы. И связь ритма пульсаций с ключевыми точкми системы.",
@@ -96,83 +173,6 @@
       "href": "view.html?p=news-item&ref=815053c13f024c0f3e",
       "type": "news-item",
       "sourceCharacters": 1661,
-      "verified": false
-    },
-    {
-      "title": "Аллеи кедров в Кузбассе",
-      "description": "Почему именно кедры? Как вообще связано Космическое общество и высадка деревьев, и причём тут гагаринские дружины? - часто новые люди задают нам эти вопросы. Рассказываем.",
-      "url": "https://cosmatica.org/news/1178-novosti-iz-kuzbassa.html",
-      "image": "https://cosmatica.org/upload/002/u218/d/3/allei-kedrov-na-kuzbasse-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=8ce32d56a301c77474",
-      "type": "news-item",
-      "sourceCharacters": 3929,
-      "verified": false
-    },
-    {
-      "title": "Работа Совета по биологии и медицине идёт полным ходом",
-      "description": "Впервые создан Национальный центр укрепления здоровья под руководством академика Стародубова В.И. Департамент будет его рабочим органом, где собираются эксперты по различным направлениям оздоровления, приоритет в работе отдан актуальным вопросам питания и психосоматики. Первые пилотные программы Департамента уже выходят на стадию инициативного бюджетирования при поддержке Министерства финансов, так же в г. Ступино вы",
-      "url": "https://cosmatica.org/news/1177-rabota-soveta-po-biologii-i-medicine-idyot-polnym-hodom.html",
-      "image": "https://cosmatica.org/upload/002/u218/7/c/rabota-soveta-po-biologii-i-medicine-idyot-polnym-hodom-photo-nor.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=650c981137d023e9d4",
-      "type": "news-item",
-      "sourceCharacters": 5972,
-      "verified": false
-    },
-    {
-      "title": "Наша ракета спасает планету!",
-      "description": "\"Наша ракета спасает планету!\" С таким девизом космический эко-десант высадился на озере \"Байкал\" (карьер) города Тореза. 18 участников из Тореза, Снежного, Шахтёрска, Новопетровки, Макееви, Донецка прибыли для осуществления намеченного плана. Самая юная участница десанта Семёнова Кристина, 14 лет, город Снежное.",
-      "url": "https://cosmatica.org/news/1176-nasha-raketa-spasaet-planetu.html",
-      "image": "https://cosmatica.org/upload/000/u35/b/e/nasha-raketa-spasaet-planetu-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=6f3ed3af3fa5db1420",
-      "type": "news-item",
-      "sourceCharacters": 3375,
-      "verified": false
-    },
-    {
-      "title": "Мезенцев Станислав Алексеевич занял место в Вечном строю",
-      "description": "Врач по основному образованию, философ, целитель, сторонник и пропагандист высокой экологической культуры.",
-      "url": "https://cosmatica.org/news/1175-mezencev-stanislav-alekseevich-zanjal-mesto-v-vechnom-stroyu.html",
-      "image": "https://cosmatica.org/upload/000/u7/3/7/mezencev-stanislav-alekseevich-zanjal-mesto-v-vechnom-stroyu-photo-n.png",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=0fb20011e62fcfabf6",
-      "type": "news-item",
-      "sourceCharacters": 2966,
-      "verified": false
-    },
-    {
-      "title": "Воспитание Человека на межведомственном уровне",
-      "description": "В рамках межведомственного проекта Министерства культуры РФ и Министерства просвещения РФ «Культура для школьников» в течение 2021-22 учебного года в учреждениях культуры РФ проводится киномарафон для родительского сообщества на материалах Всероссийского проекта «Киноуроки в школах России».",
-      "url": "https://cosmatica.org/news/1173-vospitanie-cheloveka-na-mezhvedomstvennom-urovne.html",
-      "image": "https://cosmatica.org/upload/000/u7/d/3/vospitanie-cheloveka-na-mezhvedomstvennom-urovne-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=70f965b6ce64292c81",
-      "type": "news-item",
-      "sourceCharacters": 1578,
-      "verified": false
-    },
-    {
-      "title": "Ещё почти две сотни кедров украсили планету",
-      "description": "Мы не просто освещаем деятельность Русского Космического Общества. Мы каждой статьёй, каждым анонсом и отчётом протягиваем Вам руку. Приходите, присоединяйтесь. Приезжайте сажать деревья, участвуйте в вебинарах, проверьте себя на Тропе Мужества, приводите детей в палаточный лагерь и на лекции, посмотрите на развитие наших проектов, выберите интересное лично Вам и действуйте. Приходите, чтобы изменить свою жизнь , най",
-      "url": "https://cosmatica.org/news/1172-i-eschyo-pochti-dve-sotni-kedrov-na-planete.html",
-      "image": "https://cosmatica.org/upload/002/u218/1/6/i-eschyo-pochti-dve-sotni-kedrov-na-planete-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=cd07d004058c155d6f",
-      "type": "news-item",
-      "sourceCharacters": 5501,
-      "verified": false
-    },
-    {
-      "title": "Проблема сохранения водных ресурсов решаема!",
-      "description": "Участник РКО, председатель ОД «Возвращаем воду в реки» Людмила Ивановна Севостьянова , представила книгу «Возвращаем воду в реки. Восстановление гидрологического режима поверхности путём моделирования естественных природных процессов » , которая является методическим пособием по сохранению и приумножению нашего водного фонда.",
-      "url": "https://cosmatica.org/news/1171-uchastnik-rko-predsedatel-od-vozvraschaem-vodu-v-reki-predstavil-knigu.html",
-      "image": "https://cosmatica.org/upload/000/u35/c/3/problema-sohranenija-vodnyh-resursov-reshaema-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a9b27630b811d2d5e3",
-      "type": "news-item",
-      "sourceCharacters": 2831,
       "verified": false
     }
   ],

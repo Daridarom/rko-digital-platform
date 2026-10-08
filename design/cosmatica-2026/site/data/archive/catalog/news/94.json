@@ -11,6 +11,28 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Всегда на передовой",
+      "description": "Это знаковое событие состоялось на годовом открытом собрании членов РКО",
+      "url": "https://cosmatica.org/news/680-vsegda-na-peredovoi.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/b/vsegda-na-peredovoi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=697c3513f25eca7e0e",
+      "type": "news-item",
+      "sourceCharacters": 2709,
+      "verified": false
+    },
+    {
+      "title": "Кого берут в космонавты? \"Лайфхак\" для новичков",
+      "description": "Председатель Молодёжного совета Русского космического общества Денис Олегович Прудник поделился личным опытом подачи документов в отряд космонавтов в 2017 году, когда в РФ был объявлен второй открытый набор в отряд космонавтов Госкорпорации «Роскосмос». Лектор также рассказал о наборе текущего года: об основных требованиях, предъявляемых к кандидатам, и о том, что необходимо знать для подачи документов. Встреча прохо",
+      "url": "https://cosmatica.org/news/679-kogo-berut-v-kosmonavty-laifhak-dlja-novichkov.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/2/kogo-berut-v-kosmonavty-laifhak-dlja-novichkov-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c3c938c1f39817095f",
+      "type": "news-item",
+      "sourceCharacters": 6150,
+      "verified": false
+    },
+    {
       "title": "Зачем создано Русское Космическое Общество?",
       "description": "Впервые в истории Человечества в 1957 – 1961 годах СССР осуществил технологический прорыв в Космос, а за 80 лет до этого в России был осуществлен ноосферно-космический прорыв в сознании одного человека.",
       "url": "https://cosmatica.org/news/678-zachem-sozdano-russkoe-kosmicheskoe-obschestvo.html",
@@ -151,28 +173,6 @@
       "href": "view.html?p=news-item&ref=27470f6ec4aff94a0d",
       "type": "news-item",
       "sourceCharacters": 2352,
-      "verified": false
-    },
-    {
-      "title": "Космические каникулы - миссия завершена",
-      "description": "В воскресенье, 12 января настало время прощания с гостеприимным \"Юнармейцем\". Пора возвращаться домой. Но прежде чем расстаться, организаторы преподнесли ребятам ещё приятные сюрпризы.",
-      "url": "https://cosmatica.org/news/661-kosmicheskie-kanikuly-missija-zavershena.html",
-      "image": "https://cosmatica.org/upload/000/u35/0/e/kosmicheskie-kanikuly-missija-zavershena-photo-normal.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a772b1bce736e71630",
-      "type": "news-item",
-      "sourceCharacters": 5598,
-      "verified": false
-    },
-    {
-      "title": "Киноэкология в Курганской области",
-      "description": "Курганское отделение Русского Космического Общества активно взялось за работу по проекту Киноэкология.",
-      "url": "https://cosmatica.org/news/664-kinoekologija-v-kurganskoi-oblasti.html",
-      "image": "https://cosmatica.org/upload/002/u218/d/4/kinoekologija-v-kurganskoi-oblasti-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=6aba2efc58beaac3ae",
-      "type": "news-item",
-      "sourceCharacters": 1191,
       "verified": false
     }
   ],

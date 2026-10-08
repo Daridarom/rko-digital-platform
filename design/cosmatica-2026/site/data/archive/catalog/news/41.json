@@ -33,6 +33,17 @@
       "verified": false
     },
     {
+      "title": "РКО в Лицах: Задонская Елена Васильевна",
+      "description": "Проект Русского Космического Общества - \"РКО в Лицах\", рассказывает о людях, объединившихся вместе для того, чтобы Словом и Делом внести свой вклад в построение ноосферно-космического будущего России.",
+      "url": "https://cosmatica.org/news/1555-rko-v-licah-zadonskaja-elena-vasilevna.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/2/0c4b7f0b.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=45e59677dde042ce35",
+      "type": "news-item",
+      "sourceCharacters": 1423,
+      "verified": false
+    },
+    {
       "title": "Философская осень 2022. Итоги",
       "description": "С 1 по 3 ноября 2022 года в ГО ВПО «Донецкий национальный университет экономики и торговли имени Михаила Туган-Барановского» прошёл II-ой научно-просветительский проект «Философская осень: возрождение традиций».",
       "url": "https://cosmatica.org/news/1554-filosofskaja-osen-2022-itogi.html",
@@ -41,17 +52,6 @@
       "href": "view.html?p=news-item&ref=0dfa347005a9ff8cce",
       "type": "news-item",
       "sourceCharacters": 3530,
-      "verified": false
-    },
-    {
-      "title": "РКО в Лицах: Абраменкова Элина Александровна",
-      "description": "Проект Русского Космического Общества - \"РКО в Лицах\", рассказывает о людях, объединившихся вместе для того, чтобы Словом и Делом внести свой вклад в построение ноосферно-космического будущего России.",
-      "url": "https://cosmatica.org/news/1546-rko-v-licah-abramenkova-elina-aleksandrovna.html",
-      "image": "https://cosmatica.org/upload/000/u7/c/c/rko-v-licah-abramenkova-elina-aleksandrovna-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=f1dc24d1f258cb58ce",
-      "type": "news-item",
-      "sourceCharacters": 1473,
       "verified": false
     },
     {
@@ -66,17 +66,6 @@
       "verified": false
     },
     {
-      "title": "В Кузбасс из Северной столицы на крыльях знаний",
-      "description": "2 ноября в 12:00 в актовом зале Лицея №23 г. Кемерово состоялась встреча леоновцев Гагаринской Дружины Кузбасса и ребят, интересующихся историей авиации с особым гостем из Северной столицы",
-      "url": "https://cosmatica.org/news/1551-v-kuzbass-iz-severnoi-stolicy-na-kryljah-znanii.html",
-      "image": "https://cosmatica.org/upload/002/u218/5/e/v-kuzbass-iz-severnoi-stolicy-na-kryljah-znanii-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=e6ee8fc590f49b5d45",
-      "type": "news-item",
-      "sourceCharacters": 2188,
-      "verified": false
-    },
-    {
       "title": "Экологическое просвещение",
       "description": "В конце октября в Московской библиотеке 131/133 ОКЦ ЮВАО состоялась встреча с руководителем Экологического совета РКО Марией Владимировной Губенко.",
       "url": "https://cosmatica.org/news/1552-ekologicheskoe-prosveschenie.html",
@@ -85,6 +74,17 @@
       "href": "view.html?p=news-item&ref=3a7cf0b175acd2bd18",
       "type": "news-item",
       "sourceCharacters": 1817,
+      "verified": false
+    },
+    {
+      "title": "В Кузбасс из Северной столицы на крыльях знаний",
+      "description": "2 ноября в 12:00 в актовом зале Лицея №23 г. Кемерово состоялась встреча леоновцев Гагаринской Дружины Кузбасса и ребят, интересующихся историей авиации с особым гостем из Северной столицы",
+      "url": "https://cosmatica.org/news/1551-v-kuzbass-iz-severnoi-stolicy-na-kryljah-znanii.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/e/v-kuzbass-iz-severnoi-stolicy-na-kryljah-znanii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e6ee8fc590f49b5d45",
+      "type": "news-item",
+      "sourceCharacters": 2188,
       "verified": false
     },
     {
@@ -132,6 +132,17 @@
       "verified": false
     },
     {
+      "title": "РКО в Лицах: Абраменкова Элина Александровна",
+      "description": "Проект Русского Космического Общества - \"РКО в Лицах\", рассказывает о людях, объединившихся вместе для того, чтобы Словом и Делом внести свой вклад в построение ноосферно-космического будущего России.",
+      "url": "https://cosmatica.org/news/1546-rko-v-licah-abramenkova-elina-aleksandrovna.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/c/rko-v-licah-abramenkova-elina-aleksandrovna-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f1dc24d1f258cb58ce",
+      "type": "news-item",
+      "sourceCharacters": 1473,
+      "verified": false
+    },
+    {
       "title": "Владимирцы у истоков освоения космоса",
       "description": "Величайшее достижение в истории человечества принадлежит нашей Родине!",
       "url": "https://cosmatica.org/news/1545-vladimircy-u-istokov-osvoenija-kosmosa.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=050ff04fd47ccc4089",
       "type": "news-item",
       "sourceCharacters": 7047,
-      "verified": false
-    },
-    {
-      "title": "Космос вдохновляет и учит мечтать",
-      "description": "24 октября в МБОУ «Лицей №23» г. Кемерово состоялся торжественный приём учащихся первых классов в отряд имени дважды Героя Советского Союза лётчика-космонавта Алексея Архиповича Леонова.",
-      "url": "https://cosmatica.org/news/1542-kosmos-vdohnovljaet-i-uchit-mechtat.html",
-      "image": "https://cosmatica.org/upload/002/u218/e/3/kosmos-vdohnovljaet-i-uchit-mechtat-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=7d7e53fc230dd4c430",
-      "type": "news-item",
-      "sourceCharacters": 2301,
       "verified": false
     }
   ],

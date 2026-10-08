@@ -6,10 +6,87 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 61,
-  "pageCount": 321,
-  "total": 4812,
+  "pageCount": 322,
+  "total": 4823,
   "blocks": [],
   "cards": [
+    {
+      "title": "В московской школе №338 верят в космос",
+      "description": "Основатель проекта «Мы верим в космос» Денис Олегович Прудник провёл 3 научно-популярных лекции для 10, 5 и 6 классов.",
+      "url": "https://cosmatica.org/news/1323-v-moskovskoi-shkole-338-verjat-v-kosmos.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/2/v-moskovskoi-shkole-338-verjat-v-kosmos-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a11d973a0904fa1f05",
+      "type": "news-item",
+      "sourceCharacters": 1763,
+      "verified": false
+    },
+    {
+      "title": "\"Империум Человека\": всё зависит только от нас!",
+      "description": "Мероприятие было приурочено ко дню рождения Юрия Алексеевича Гагарина и состоялось 9 марта.",
+      "url": "https://cosmatica.org/news/1322-1march.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/d/ceremonija-nagrazhdenija-laureatov-literaturnogo-konkursa-imperi.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fdc51267ab839ddd86",
+      "type": "news-item",
+      "sourceCharacters": 2925,
+      "verified": false
+    },
+    {
+      "title": "Озвучена глава из книги \"Империум Человека\"",
+      "description": "Долгожданная озвучка одной из глав книги Степана Андреевича Зотова и Ивана Магрегора состоялась.",
+      "url": "https://cosmatica.org/news/1320-ozvuchena-glava-iz-knigi-imperium-cheloveka.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/0/ozvuchena-glava-imperium-cheloveka-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4d4e6c6e5375b7c642",
+      "type": "news-item",
+      "sourceCharacters": 1299,
+      "verified": false
+    },
+    {
+      "title": "Открылось отделение Банка семян в Санкт-Петербурге",
+      "description": "13 марта в Санкт-Петербургском штабе Русского Космического Общества впервые состоялась встреча добровольцев по сохранению и распространению семян русских устойчивых сортов растений – так открылось Северо-Западное отделение Банка семян РКО.",
+      "url": "https://cosmatica.org/news/1319-otkrylos-otdelenie-banka-semjan-v-sankt-peterburge.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/2/otkrylos-otdelenie-banka-semjan-v-sankt-peterburge-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=876f02832cffef89c7",
+      "type": "news-item",
+      "sourceCharacters": 2751,
+      "verified": false
+    },
+    {
+      "title": "Дружинка гагаринцев детского сада \"Ягодка\" готовится ко Дню Космонавтики",
+      "description": "В интеллектуальной олимпиаде были задания на логику, внимание, способность размышлять и делать выводы. Высоко оценило способности гагаринцев жюри, в составе которого и Любовь Викторовна Мазурина , президент БФ \"Сохраним жизнь воде\" , уже несколько лет поддерживающего экологические воспитательные проекты в д/с \"Ягодка\".",
+      "url": "https://cosmatica.org/news/1318-druzhinka-gagarincev-detskogo-sada-jagodka-gotovitsja-ko-dnyu-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/d/7c098c34.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=be0029a93fa1c1d47b",
+      "type": "news-item",
+      "sourceCharacters": 2000,
+      "verified": false
+    },
+    {
+      "title": "Писательское творчество Геннадия Ивановича Тищенко",
+      "description": "Геннадий Иванович Тищенко – почётный член Русского Космического Общества, представитель «русского космизма» в искусстве, советский и российский режиссёр-мультипликатор, кинорежиссёр, художник и сценарист. Несколько поколений выросло на его работах. В 60-70-х годах ХХ века его фантастические иллюстрации оказали огромное влияние на читателей культового советского журнала «Техника молодёжи». В 80-90-х годах дети этих чи",
+      "url": "https://cosmatica.org/news/1317-pisatelskogo-tvorchestvo-gennadija-ivanovicha-tischenko.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/e/pisatelskogo-tvorchestvo-gennadija-ivanovicha-tischenko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0f8e76c1731fc56092",
+      "type": "news-item",
+      "sourceCharacters": 2149,
+      "verified": false
+    },
+    {
+      "title": "Бортовой журнал \"Дружины Гагаринцев\" МОУ СОШ п. Куйбышев Волгоградской области",
+      "description": "Руководители Филиппова Татьяна Анатольевна и Кудряшова Татьяна Владимировна рассказали своим ученикам, как важно нашим воинам сейчас чувствовать поддержку.",
+      "url": "https://cosmatica.org/news/1316-bortovoi-zhurnal-druzhiny-gagarincev-mou-sosh-p-kuibyshev-volgogradskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/0/gagarincy-volgogradskoi-oblasti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=599998cecbb8b14714",
+      "type": "news-item",
+      "sourceCharacters": 2856,
+      "verified": false
+    },
     {
       "title": "Нам нужны утерянные навыки",
       "description": "Брянское региональное отделение Русского Космического Общества совместно с Брянским региональным общественным фондом здорового образа жизни \"Вместе за будущее\" провели мастер-класс для детей и родителей на базе Центра детско-юношеского туризма и экскурсий (МБУ ДО ЦДиЮТиЭ).",
@@ -96,83 +173,6 @@
       "href": "view.html?p=news-item&ref=5248a3db0785dfa17e",
       "type": "news-item",
       "sourceCharacters": 8493,
-      "verified": false
-    },
-    {
-      "title": "Новый выпуск \"Ближе к космосу\"",
-      "description": "Молодёжный Совет в лице проекта «Мы верим в космос» создал научно-популярное издание для детей и молодёжи под названием «Ближе к космосу» .",
-      "url": "https://cosmatica.org/news/1305-novyi-vypusk-blizhe-k-kosmosu.html",
-      "image": "https://cosmatica.org/upload/002/u218/6/8/novyi-vypusk-blizhe-k-kosmosu-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=cf308fed6f831c9f24",
-      "type": "news-item",
-      "sourceCharacters": 1321,
-      "verified": false
-    },
-    {
-      "title": "Юные инженеры-исследователи узнали больше о космонавтике",
-      "description": "С 28 февраля по 1 марта в космической столице России Самаре проходил 3-й этап Всероссийского конкурса юных инженеров-исследователей среди одаренных школьников 7-11 классов «Спутник». Организатор конкурса - Самарский государственный аэрокосмический университет им. С. П. Королёва.",
-      "url": "https://cosmatica.org/news/1303-yunye-inzhenery-issledovateli-uznali-bolshe-o-kosmonavtike.html",
-      "image": "https://cosmatica.org/upload/002/u218/3/c/c312e0cc.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=79c3e764128f72ebdf",
-      "type": "news-item",
-      "sourceCharacters": 1705,
-      "verified": false
-    },
-    {
-      "title": "Энергию протеста в энергию созидания",
-      "description": "Мы знакомы многие годы. Многие годы вижу в Евгении Фёдоровиче горячего патриота и борца за русский мир. Радуюсь тому, как энергия сопротивления и протеста этого пассионария со временем преобразилась в энергию созидания, в порыв сотворения нового, взамен ветхого, отжившего. Бороться не против чего-то, а за что-то, за Жизнь . Такой фундамент заложил в него наш общий учитель, профессор Борис Евгеньевич Большаков, на каф",
-      "url": "https://cosmatica.org/news/1301-energiyu-protesta-v-energiyu-sozidanija.html",
-      "image": "https://cosmatica.org/upload/000/u35/a/a/energiyu-protesta-v-energiyu-sozidanija-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=63f7035d069e1c4eef",
-      "type": "news-item",
-      "sourceCharacters": 4374,
-      "verified": false
-    },
-    {
-      "title": "Электричество. Новая физическая модель Часть 5. Электрический ток",
-      "description": "Докладчик: Александр Михайлович Анищенко , руководитель Секции Авангардных исследований РКО, естествоиспытатель, инженер-исследователь.",
-      "url": "https://cosmatica.org/news/1300-elektrichestvo-novaja-fizicheskaja-model.html",
-      "image": "https://cosmatica.org/upload/002/u218/8/a/elektrichestvo-novaja-fizicheskaja-model-chast-5-elektricheskii-t.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=e4cac72c43d85dc8e5",
-      "type": "news-item",
-      "sourceCharacters": 1535,
-      "verified": false
-    },
-    {
-      "title": "9 марта - День Гагарина",
-      "description": "Обычный советский парень через труд, упорство и мужество ставший мировым символом и почётным гражданином Вселенной.",
-      "url": "https://cosmatica.org/news/1299-9-marta-den-gagarina.html",
-      "image": "https://cosmatica.org/upload/000/u35/1/b/9-marta-den-gagarina-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a354643d6c483f267c",
-      "type": "news-item",
-      "sourceCharacters": 15279,
-      "verified": false
-    },
-    {
-      "title": "Молодёжный конкурс на проектирование Евразийского Лунного центра \"ГагаринГрад-2050\"",
-      "description": "Уважаемые участники Молодёжного конкурса на проектирование Евразийского Лунного центра \"ГагаринГрад-2050\"! Конкурсной комиссией было принято решение об изменении сроков проведения конкурса.",
-      "url": "https://cosmatica.org/news/1297-molodyozhnyi-konkurs-na-proektirovanie-evraziiskogo-lunnogo-centra-gagaringrad-2050.html",
-      "image": "https://cosmatica.org/upload/002/u218/c/9/6ae8189e.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=de5a113bf342f09080",
-      "type": "news-item",
-      "sourceCharacters": 4960,
-      "verified": false
-    },
-    {
-      "title": "Новый выпуск цикла передач \"Прорыв!\". Герой программы: Гапонов Алексей Алексеевич",
-      "description": "\"Прорыв!\" - серия передач Русского Космического Общества.",
-      "url": "https://cosmatica.org/news/1296-proryv-vypusk-13-o-poslevoennom-mire-gaponov-aleksei-alekseevich.html",
-      "image": "https://cosmatica.org/upload/002/u218/a/a/30051ada.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a8cb9ca2e74b009473",
-      "type": "news-item",
-      "sourceCharacters": 7518,
       "verified": false
     }
   ],

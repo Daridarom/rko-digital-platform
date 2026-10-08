@@ -33,17 +33,6 @@
       "verified": false
     },
     {
-      "title": "Книга дня сегодня...",
-      "description": "Автор: Шонин Георгий Степанович, советский космонавт, Герой Советского Союза, генерал-лейтенант авиации. О чем книга: Летчик-космонавт СССР, командир космического корабля «Союз-6» рассказывает о том, как создавался первый отряд космонавтов, о сложном и требовательном отборе, через который пришлось пройти каждому, но далеко не каждому удалось успешно выдержать все испытания и слетать в космос. О судьбах этих людей отк",
-      "url": "https://cosmatica.org/news/899-kniga-dnja-segodnja.html",
-      "image": "https://cosmatica.org/upload/002/u218/4/c/kniga-dnja-segodnja-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=6f0462bbcda25e669b",
-      "type": "news-item",
-      "sourceCharacters": 1350,
-      "verified": false
-    },
-    {
       "title": "\"Клятва Момента\" исполняется",
       "description": "18 октября состоялась встреча Степана Андреевича Зотова с отрядом Разведчиков НОРД \"Русь\" в городе Истра Московской области. Как мы сообщали в предыдущих новостях , по итогам встречи Степан Андреевич предложил ребятам свою новую инициативу в РКО - \"Клятву Момента\".",
       "url": "https://cosmatica.org/news/900-kljatva-momenta-ispolnjaetsja.html",
@@ -52,6 +41,17 @@
       "href": "view.html?p=news-item&ref=f55aef7f983f35e0ce",
       "type": "news-item",
       "sourceCharacters": 970,
+      "verified": false
+    },
+    {
+      "title": "Книга дня сегодня...",
+      "description": "Автор: Шонин Георгий Степанович, советский космонавт, Герой Советского Союза, генерал-лейтенант авиации. О чем книга: Летчик-космонавт СССР, командир космического корабля «Союз-6» рассказывает о том, как создавался первый отряд космонавтов, о сложном и требовательном отборе, через который пришлось пройти каждому, но далеко не каждому удалось успешно выдержать все испытания и слетать в космос. О судьбах этих людей отк",
+      "url": "https://cosmatica.org/news/899-kniga-dnja-segodnja.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/c/kniga-dnja-segodnja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6f0462bbcda25e669b",
+      "type": "news-item",
+      "sourceCharacters": 1350,
       "verified": false
     },
     {
@@ -77,17 +77,6 @@
       "verified": false
     },
     {
-      "title": "Вебинар «Киноуроки в школах России»: рекомендации для муниципалитетов, местных сообществ и ОУ».",
-      "description": "30 октября Координационным центром местных сообществ при поддержке Федерального экспертного совета по местному и общественному самоуправлению и местным сообществам (ФЭС) при Общенациональной ассоциации территориального общественного самоуправления (ОАТОС), Организационного комитета Федерального Народного Совета (ФНС) совместно с Русским Космическим Обществом (РКО) и АНО «Центр развития интеллектуальных и творческих с",
-      "url": "https://cosmatica.org/news/895-vebinar-kinouroki-v-shkolah-rossii-rekomendacii-dlja-municipalitetov-mestnyh-soobschestv-i-ou.html",
-      "image": "https://cosmatica.org/upload/002/u218/9/a/2ece09b9.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=d942e55754303bcf1f",
-      "type": "news-item",
-      "sourceCharacters": 4593,
-      "verified": false
-    },
-    {
       "title": "Детские лесничества как центры формирования экологической культуры",
       "description": "Детские лесничества – это забота о благополучном природосообразном будущем.",
       "url": "https://cosmatica.org/news/896-detskie-lesnichestva-kak-centry-formirovanija-ekologicheskoi-kultury.html",
@@ -96,6 +85,17 @@
       "href": "view.html?p=news-item&ref=e3edad9d42bda7cf15",
       "type": "news-item",
       "sourceCharacters": 1939,
+      "verified": false
+    },
+    {
+      "title": "Вебинар «Киноуроки в школах России»: рекомендации для муниципалитетов, местных сообществ и ОУ».",
+      "description": "30 октября Координационным центром местных сообществ при поддержке Федерального экспертного совета по местному и общественному самоуправлению и местным сообществам (ФЭС) при Общенациональной ассоциации территориального общественного самоуправления (ОАТОС), Организационного комитета Федерального Народного Совета (ФНС) совместно с Русским Космическим Обществом (РКО) и АНО «Центр развития интеллектуальных и творческих с",
+      "url": "https://cosmatica.org/news/895-vebinar-kinouroki-v-shkolah-rossii-rekomendacii-dlja-municipalitetov-mestnyh-soobschestv-i-ou.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/a/2ece09b9.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d942e55754303bcf1f",
+      "type": "news-item",
+      "sourceCharacters": 4593,
       "verified": false
     },
     {
@@ -118,6 +118,17 @@
       "href": "view.html?p=news-item&ref=0a9bc06978fcac55b1",
       "type": "news-item",
       "sourceCharacters": 3919,
+      "verified": false
+    },
+    {
+      "title": "Праздник Байконура",
+      "description": "4 октября 2020 года, в г. Костроме ветеранские организации Байконура, Плесецка, РВСН отметили ряд знаменательных праздничных событий: 63-годовщину запуска Первого спутника Земли, День Космических войск, 65-летие космодрома Байконур, 75-летие Великой Победы, открытие Всемирной недели космоса.",
+      "url": "https://cosmatica.org/news/891-prazdnik-baikonura.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/3/prazdnik-baikonura-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=629c0f5a1866b37cfc",
+      "type": "news-item",
+      "sourceCharacters": 2318,
       "verified": false
     },
     {
@@ -154,25 +165,14 @@
       "verified": false
     },
     {
-      "title": "Клятва Момента",
-      "description": "Приглашение члену Президиума и Первого отряда РКО поступило от сестры-начальницы отряда Софии Макеевой.",
-      "url": "https://cosmatica.org/news/886-kljatva-momenta.html",
-      "image": "https://cosmatica.org/upload/002/u218/1/9/kljatva-momenta-photo-normal.jpg",
+      "title": "Создание территорий устойчивого развития В Индонезии",
+      "description": "В течении последних трёх месяцев велись переговоры о возможности применения научного потенциала соратников Русского Космического Общества на территории Индонезии.",
+      "url": "https://cosmatica.org/news/887-sozdanie-territorii-ustoichivogo-razvitija-v-indonezii.html",
+      "image": "https://cosmatica.org/upload/006/u648/b/2/sozdanie-territorii-ustoichivogo-razvitija-v-indonezii-photo-norm.jpeg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=8e7c05cfae0a8540a5",
+      "href": "view.html?p=news-item&ref=0c583f200ffb092fcd",
       "type": "news-item",
-      "sourceCharacters": 1541,
-      "verified": false
-    },
-    {
-      "title": "Праздник Байконура",
-      "description": "4 октября 2020 года, в г. Костроме ветеранские организации Байконура, Плесецка, РВСН отметили ряд знаменательных праздничных событий: 63-годовщину запуска Первого спутника Земли, День Космических войск, 65-летие космодрома Байконур, 75-летие Великой Победы, открытие Всемирной недели космоса.",
-      "url": "https://cosmatica.org/news/891-prazdnik-baikonura.html",
-      "image": "https://cosmatica.org/upload/000/u35/0/3/prazdnik-baikonura-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=629c0f5a1866b37cfc",
-      "type": "news-item",
-      "sourceCharacters": 2318,
+      "sourceCharacters": 3046,
       "verified": false
     }
   ],

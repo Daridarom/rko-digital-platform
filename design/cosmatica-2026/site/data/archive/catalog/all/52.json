@@ -6,10 +6,76 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 52,
-  "pageCount": 321,
-  "total": 4812,
+  "pageCount": 322,
+  "total": 4823,
   "blocks": [],
   "cards": [
+    {
+      "title": "Дела гуманитарные, значит человечные",
+      "description": "Штаб вклада в Победу Русского Космического Общества в ДНР оказал помощь хирургическому отделению № 1 Коммунального учреждения «Центральная городская клиническая больница № 16 г. Донецка», передав 30 кг постельного белья, подушки и 8 мебельных панелей щитов для оборудования ровных горизонтальных поверхностей кроватей для раненых.",
+      "url": "https://cosmatica.org/news/1431-dela-gumanitarnye-znachit-chelovechnye.html",
+      "image": "https://cosmatica.org/upload/003/u380/4/5/dela-gumanitarnye-znachit-chelovechnye-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=eb8fd38d862181aa5b",
+      "type": "news-item",
+      "sourceCharacters": 3045,
+      "verified": false
+    },
+    {
+      "title": "6. О «природе» интеллекта человека с позиции ноосферной парадигмы универсального эволюционизма",
+      "description": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке»",
+      "url": "https://cosmatica.org/articles/1430-6-o-prirode-intellekta-cheloveka-s-pozicii-noosfernoi-paradigmy-universalnogo-evolyucionizma.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=43e44ce0980f95762b",
+      "type": "article",
+      "sourceCharacters": 336,
+      "verified": false
+    },
+    {
+      "title": "Делократия - власть пользы",
+      "description": "Приглашаем к просмотру семинара предпринимателя, участника Русского Космического Общества, организатора онлайн-школы \"Власть пользы\" и автора курса \"Альтернативные методы организации и управления производством\" Протопопова Александра Ивановича - \"Делократия - власть пользы\"",
+      "url": "https://cosmatica.org/news/1430-delokratija-vlast-polzy.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/7/delokratija-vlast-polzy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b7a55153253d31ca52",
+      "type": "news-item",
+      "sourceCharacters": 1189,
+      "verified": false
+    },
+    {
+      "title": "5. Какими должны быть образование и наука в XXI веке?",
+      "description": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке»",
+      "url": "https://cosmatica.org/articles/1429-5-kakimi-dolzhny-byt-obrazovanie-i-nauka-v-xxi-veke.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=9671c0708718f9f12c",
+      "type": "article",
+      "sourceCharacters": 407,
+      "verified": false
+    },
+    {
+      "title": "Встреча Брянского регионального отделения с учёным Волосатовым В.И.",
+      "description": "11 июня состоялась встреча с лекцией по теме: \" Теория полой планеты. Законы Вселенной\". Наш соотечественник - уникальный учёный, исследователь эфира и Космоса, многогранный Человек и талантливый физик - Волосатов В.И. расширяет границы непознанного в науке.",
+      "url": "https://cosmatica.org/news/1429-vstrecha-brjanskogo-regionalnogo-otdelenija-s-uchyonym-volosatovym-v-i.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/0/vstrecha-brjanskogo-regionalnogo-otdelenija-s-uchyonym-volosatovym-v.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d666d0849fe2560eed",
+      "type": "news-item",
+      "sourceCharacters": 4179,
+      "verified": false
+    },
+    {
+      "title": "Доброделы Макеевки в деле",
+      "description": "Война закончится, а настраивать мирную, совместную и экологичную жизнь необходимо уже сейчас. Движение «Народное сплочение» ради чистого будущего и мирного коллективного труда. Именно на эти утверждения опирается Русское Космическое Общество в своих инициативах. В конце мая действительный член РКО Горшков Алексей Андреевич, находящийся с рабочим визитом в ДНР и его инициативная жена Светлана Жуковская подали прекрасн",
+      "url": "https://cosmatica.org/news/1428-dobrodely-makeevki-v-dele.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/9/dobrodely-makeevki-v-dele-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=35b2d021a088895675",
+      "type": "news-item",
+      "sourceCharacters": 3661,
+      "verified": false
+    },
     {
       "title": "Мышиная возня у подножия Везувия, или Всемирный Союз Землян",
       "description": "В рядах Русского Космического Общества стоят люди, имеющие космопланетарное мышление. Те мужчины и женщины, которые ясно осознают, что все мы Земляне. И славянин, и китаец, и немец, и еврей, и американец, и африканец, и все твари земные, морские и небесные - мы все части биосферы нашей матери Земли, все части её биокосного живого вещества. Все созданы по единому замыслу и все подчиняемся одним законам мироздания. Все",
@@ -107,72 +173,6 @@
       "href": "view.html?p=article&ref=52b529328f4f63df6c",
       "type": "article",
       "sourceCharacters": 9041,
-      "verified": false
-    },
-    {
-      "title": "Подведены итоги пресс-тура «Zа правду»",
-      "description": "28-31 марта 2022 г. на территории Донецкой Народной Республики состоялся пресс-тур «Zа правду», в котором приняли участие: действительный член Русского Космического Общества Елизавета Евгеньевна Зуева , действительный член Русского Космического Общества, член Первого Отряда Павел Романович Антонов . По итогам привезённого материала была написана статья «Пресс-тур «Zа правду»: сохраняя Человечность». В ней рассказывае",
-      "url": "https://cosmatica.org/news/1423-podvedeny-itogi-press-tura-za-pravdu.html",
-      "image": "https://cosmatica.org/upload/002/u218/9/2/fe2d0f8f.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=154ac7390b1f2763fd",
-      "type": "news-item",
-      "sourceCharacters": 3631,
-      "verified": false
-    },
-    {
-      "title": "Научное мировоззрение и Общее Дело, как основа для формирования единства народов БРИКС",
-      "description": "Ещё совсем недавно утверждалось, что никто и ничто не угрожает безопасности народов стран, входящих в БРИКС. Теперь многие эксперты приходят к выводу, что это ложное утверждение.",
-      "url": "https://cosmatica.org/articles/1422-nauchnoe-mirovozzrenie-i-obschee-delo-kak-osnova-dlja-formirovanija-edinstva-narodov-briks.html",
-      "image": "https://cosmatica.org/upload/000/u7/f/e/bezymjannyi.jpg",
-      "kind": "article",
-      "href": "view.html?p=article&ref=9868b80aea4e03701e",
-      "type": "article",
-      "sourceCharacters": 24900,
-      "verified": false
-    },
-    {
-      "title": "Цветы памяти высажены в пгт. Промышленная (Кузбасс)",
-      "description": "Вчера к нам в редакцию пришло письмо от руководителя гагаринского отряда промышленновской школы №56 (Кузбасс) Любови Владимировны Парамоновой , в котором она рассказала об участии гагаринцев в акции \"Цветок памяти\". Эта всероссийская акция уже несколько лет проводится как дань памяти тем, кто сражался за мир и победил не только на фронтах Великой Отечественной Войны, но и в боях Второй мировой на Дальнем Востоке и со",
-      "url": "https://cosmatica.org/news/1422-cvetki-pamjati-vysazheny-v-pgt-promyshlennaja-kuzbass.html",
-      "image": "https://cosmatica.org/upload/002/u218/f/d/cvetki-pamjati-vysazheny-v-pgt-promyshlennaja-kuzbass-photo-norma.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=cc2591cad187618fc3",
-      "type": "news-item",
-      "sourceCharacters": 2795,
-      "verified": false
-    },
-    {
-      "title": "Право реализующей себя человечности: космическое и земное",
-      "description": "О каком праве идет речь? - Это не право, к которому человечество приучило себя за века и тысячелетия своей писанной и переписанной истории: не римское, не датское, не морское, не континентальное и не островное. Тома и библиотеки посвящены этим видам исторического, т.н «позитивного» права. Что не так с этими видами права «канувшие в Лету» или действующие по сей день в разных «королевствах – государствах»? Все это – ра",
-      "url": "https://cosmatica.org/articles/1421-pravo-realizuyuschei-sebja-chelovechnosti-kosmicheskoe-i-zemnoe.html",
-      "image": "https://cosmatica.org/upload/000/u35/8/7/ris-1.jpg",
-      "kind": "article",
-      "href": "view.html?p=article&ref=4198b8454da94fc661",
-      "type": "article",
-      "sourceCharacters": 13318,
-      "verified": false
-    },
-    {
-      "title": "Рождение действительного разума",
-      "description": "Пусть и со значительной задержкой, всё же очередной выпуск нашей газеты увидел свет. Содержание выпуска не утратило своей значимости и актуальности. Газета Русского Космического Общества - это направляющий и координирующий орган, который аккумулирует в себе основные, ключевые материалы, касающиеся направлений нашей деятельности. Деятельность же Русского Космического Общества стремительно набирает обороты. В РКО собра",
-      "url": "https://cosmatica.org/news/1421-rozhdenie-deistvitelnogo-razuma.html",
-      "image": "https://cosmatica.org/upload/000/u35/2/6/rozhdenie-deistvitelnogo-razuma-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=987dd5fdcef27d43fd",
-      "type": "news-item",
-      "sourceCharacters": 5473,
-      "verified": false
-    },
-    {
-      "title": "Владимирцы — Хранители семейного очага, света, добра, и тепла звезды Байконур",
-      "description": "За давностью лет и бывшей секретности имена многих участников исторических событий на космодроме Байконур не остались в памяти, не сохранились в документах. Я постараюсь восстановить фамилии тружеников Байконура – ныне жителей города Владимира и области.",
-      "url": "https://cosmatica.org/articles/1420-vladimircy-hraniteli-semeinogo-ochaga-sveta-dobra-i-tepla-zvezdy-baikonur.html",
-      "image": "https://cosmatica.org/upload/000/u35/0/f/2023-02-10-15-00-46-winscan-to-pdf.jpeg",
-      "kind": "article",
-      "href": "view.html?p=article&ref=8fe9d8021c8aeea614",
-      "type": "article",
-      "sourceCharacters": 10258,
       "verified": false
     }
   ],

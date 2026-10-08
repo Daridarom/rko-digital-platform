@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Клятва Момента",
+      "description": "Приглашение члену Президиума и Первого отряда РКО поступило от сестры-начальницы отряда Софии Макеевой.",
+      "url": "https://cosmatica.org/news/886-kljatva-momenta.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/9/kljatva-momenta-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8e7c05cfae0a8540a5",
+      "type": "news-item",
+      "sourceCharacters": 1541,
+      "verified": false
+    },
+    {
       "title": "\"Потомки Долгорукого\" в битве за победу",
       "description": "В минувшие выходные на базе стадиона «Локомотив» в Дмитровском городском округе прошёл большой турнир по панкратиону, а также греко-римской и женской вольной борьбе, на котором встретились спортсмены из разных городов Московской, а также Ярославской, Воронежской и Владимирской областей.",
       "url": "https://cosmatica.org/news/885-potomki-dolgorukogo-v-bitve-za-pobedu.html",
@@ -44,17 +55,6 @@
       "verified": false
     },
     {
-      "title": "Создание территорий устойчивого развития В Индонезии",
-      "description": "В течении последних трёх месяцев велись переговоры о возможности применения научного потенциала соратников Русского Космического Общества на территории Индонезии.",
-      "url": "https://cosmatica.org/news/887-sozdanie-territorii-ustoichivogo-razvitija-v-indonezii.html",
-      "image": "https://cosmatica.org/upload/006/u648/b/2/sozdanie-territorii-ustoichivogo-razvitija-v-indonezii-photo-norm.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=0c583f200ffb092fcd",
-      "type": "news-item",
-      "sourceCharacters": 3046,
-      "verified": false
-    },
-    {
       "title": "Книга дня сегодня...",
       "description": "Авторы: Борис Евгеньевич Большаков, первый Президент Русского Космического Общества. Алексей Алексеевич Гапонов , действующий Глава Русского Космического Общества",
       "url": "https://cosmatica.org/news/880-kniga-dnja-segodnja.html",
@@ -77,17 +77,6 @@
       "verified": false
     },
     {
-      "title": "Космонавтом Готов Быть - новая система нормативов РКО",
-      "description": "С 3 по 10 октября под Воскресенском Московской области первый отряд будущих космонавтов из 10 человек, не испугавшись осенней погоды и вирусов, прошёл свой маршрут.",
-      "url": "https://cosmatica.org/news/877-kosmonavtom-gotov-byt-eto-sistema-normativov-rko.html",
-      "image": "https://cosmatica.org/upload/000/u35/3/7/894f2fbd.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=82bcf241ee1e8a01ae",
-      "type": "news-item",
-      "sourceCharacters": 2055,
-      "verified": false
-    },
-    {
       "title": "В.И.Вернадский:100лет в образовании",
       "description": "Организаторами выступили: Российская академия естественных наук, Русское Космическое Общество, Крымский государственный Университет, Калининградский государственный технический Университет, Крымская академия ноосферного образования и науки, Ноосферная академия науки и образования.",
       "url": "https://cosmatica.org/news/878-v-i-vernadskii-100let-v-obrazovanii.html",
@@ -96,6 +85,17 @@
       "href": "view.html?p=news-item&ref=7f6c694763abd20482",
       "type": "news-item",
       "sourceCharacters": 2952,
+      "verified": false
+    },
+    {
+      "title": "Космонавтом Готов Быть - новая система нормативов РКО",
+      "description": "С 3 по 10 октября под Воскресенском Московской области первый отряд будущих космонавтов из 10 человек, не испугавшись осенней погоды и вирусов, прошёл свой маршрут.",
+      "url": "https://cosmatica.org/news/877-kosmonavtom-gotov-byt-eto-sistema-normativov-rko.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/7/894f2fbd.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=82bcf241ee1e8a01ae",
+      "type": "news-item",
+      "sourceCharacters": 2055,
       "verified": false
     },
     {

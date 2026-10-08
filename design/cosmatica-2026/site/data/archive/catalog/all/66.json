@@ -6,10 +6,87 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 66,
-  "pageCount": 321,
-  "total": 4812,
+  "pageCount": 322,
+  "total": 4823,
   "blocks": [],
   "cards": [
+    {
+      "title": "Электричество. Новая физическая модель. Часть 4. Напряжение.",
+      "description": "Докладчик: Александр Михайлович Анищенко , руководитель Секции Авангардных исследований РКО, естествоиспытатель, инженер-исследователь.",
+      "url": "https://cosmatica.org/news/1251-elektrichestvo-novaja-fizicheskaja-model-chast-4-naprjazhenie.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/9/0d30bf0f.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0012e9dcd227f63d7a",
+      "type": "news-item",
+      "sourceCharacters": 1022,
+      "verified": false
+    },
+    {
+      "title": "Состоялась долгожданная премьера фильма \"Чистодей\"",
+      "description": "Всего в проекте 99 фильмов, по количеству месяцев обучения ребёнка в школе с 1 по 11 класс.",
+      "url": "https://cosmatica.org/news/1250-kinouroki.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/4/sostojalas-premera-filma-chistodei-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7ba5c8ac9d92e5317b",
+      "type": "news-item",
+      "sourceCharacters": 6151,
+      "verified": false
+    },
+    {
+      "title": "РКО в Санкт-Петербурге. Обновление",
+      "description": "Вместе с Алексеем Алексеевичем Гапоновым из Москвы приехали руководитель Правового управления Михаил Викторович Зюзьков и руководитель Попечительского совета Михаил Юрьевич Волчков .",
+      "url": "https://cosmatica.org/news/1249-rko-v-sankt-peterburge-obnovlenie.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/3/rko-v-sankt-peterburge-obnovlenie-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=dd9e4f1686021e7ef0",
+      "type": "news-item",
+      "sourceCharacters": 5372,
+      "verified": false
+    },
+    {
+      "title": "115 лет со дня рождения Главного конструктора Сергея Павловича Королёва",
+      "description": "Cергей Павлович Королёв — выдающийся конструктор и учёный, работавший в области ракетной и ракетно-космической техники. Дважды Герой Социалистического Труда, лауреат Ленинской премии, академик Академии наук СССР, он является создателем отечественного стратегического ракетного оружия средней и межконтинентальной дальности и основоположником практической космонавтики. Его конструкторские разработки в области ракетной т",
+      "url": "https://cosmatica.org/news/1248-115-let-so-dnja-rozhdenija-glavnogo-konstruktora-sergeja-pavlovicha-korolyova.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/9/370f0812.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=26cc9800b91ed6cfbb",
+      "type": "news-item",
+      "sourceCharacters": 3150,
+      "verified": false
+    },
+    {
+      "title": "Отчёт о работе Донецкого отделения РКО за 2021 год",
+      "description": "Донецкое Отделение РКО продолжает развиваться в 2021 г. Отделение возглавляет ректор ДонНТУ Аноприенко Александр Яковлевич . Растет актив организации. Всего в составе отделения 17 человек. Яркий очаг Русского Космического Общества зажегся в г. Торезе.",
+      "url": "https://cosmatica.org/articles/1247-otchyot-o-rabote-doneckogo-otdelenija-rko-za-2021-god.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=2712c4a3de9a08e79f",
+      "type": "article",
+      "sourceCharacters": 9268,
+      "verified": false
+    },
+    {
+      "title": "Зимние Сборы Выходного Дня - развитие духа юных",
+      "description": "На сборы вышли 10 бойцов, каждого из которых мы в будущем отметим особым знаком \"Зимняя Звезда\". В снега и холод желающих выехать на природу гораздо меньше, и тем больше слава тем, кто решился. Заметьте, мы не употребляем слово \"отдохнуть\". Потому что у нас не отдых, а развитие .",
+      "url": "https://cosmatica.org/news/1247-10-janvarja-2022-goda-sostojalis-zimnie-sbory-vyhodnogo-dnja-svd-v-ramkah-proekta-kosmodesant-r.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/7/10-janvarja-2022-goda-sostojalis-zimnie-sbory-vyhodnogo-dnja-svd.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a2118d4ccf58dbff42",
+      "type": "news-item",
+      "sourceCharacters": 2398,
+      "verified": false
+    },
+    {
+      "title": "Духовно-нравственные ценности - основа Российской государственности.",
+      "description": "Без малого три месяца прошло со дня, когда 11.11.2021 года мы провели в Санкт-Петербурге конференцию о влиянии традиционной культуры на нравственное состояние нашего народа в прошлом и настоящем.",
+      "url": "https://cosmatica.org/articles/1246-duhovno-nravstvennye-cennosti-osnova-rossiiskoi-gosudarstvennosti.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=2700cbe64f820d9f9c",
+      "type": "article",
+      "sourceCharacters": 10330,
+      "verified": false
+    },
     {
       "title": "Вышел первый тираж книги «Универсальная дидактика»",
       "description": "Авторы книги доктор психологических наук, действ. члена РАЕН, РКО Н.В. Маслова и доктор психологических наук, действ. члена РАЕН Т.М. Клименкова.",
@@ -96,83 +173,6 @@
       "href": "view.html?p=news-item&ref=11c63a78ddc58a16ca",
       "type": "news-item",
       "sourceCharacters": 3867,
-      "verified": false
-    },
-    {
-      "title": "Императив становления ноосферной философии права в XXI веке",
-      "description": "ИМПЕРАТИВ СТАНОВЛЕНИЯ НООСФЕРНОЙ ФИЛОСОФИИ ПРАВА В XXI ВЕКЕ КАК МОМЕНТ СТРАТЕГИИ ЭКОЛОГИЧЕСКОГО ВЫЖИВАНИЯ ЧЕЛОВЕЧЕСТВА И РОССИИ НА ЗЕМЛЕ",
-      "url": "https://cosmatica.org/articles/1241-imperativ-stanovlenija-noosfernoi-filosofii-prava-v-xxi-veke.html",
-      "image": null,
-      "kind": "article",
-      "href": "view.html?p=article&ref=ffc02fe7c25e39f764",
-      "type": "article",
-      "sourceCharacters": 46012,
-      "verified": false
-    },
-    {
-      "title": "Есть такая должность - шевелитель пространства",
-      "description": "- Как Вы попали в РКО? Когда была маленькой девочкой, мы с дедушкой часто всматривались в звёздное небо. Космическое пространство тогда мне казалось океаном непроявленных, невидимых моему глазу разных энергий, мы рассуждали о названиях разных созвездий, он вспоминал придания и былины старых времён.",
-      "url": "https://cosmatica.org/news/1241-est-takaja-dolzhnost-shevelitel-prostrantva.html",
-      "image": "https://cosmatica.org/upload/000/u35/6/9/25b494d1.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=5ad4ce34a0df062838",
-      "type": "news-item",
-      "sourceCharacters": 6893,
-      "verified": false
-    },
-    {
-      "title": "Новый год - продолжим поход!",
-      "description": "Сколько пройдено дорог! Сколько сделано добра! Сколько слажено сердец! Сколько веры, надежды, любви привнесено в наш мир!",
-      "url": "https://cosmatica.org/news/1239-novyi-god-prodolzhim-pohod.html",
-      "image": "https://cosmatica.org/upload/000/u7/4/5/novyi-god-prodolzhim-pohod-photo-normal.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=d3493c7bcc4b80d992",
-      "type": "news-item",
-      "sourceCharacters": 1815,
-      "verified": false
-    },
-    {
-      "title": "Без образования нам смерть!",
-      "description": "27.12.2021 года состоялось знаковое событие в жизни Русского Космического Общества, Международного института информатики, управления, экономики и права в г. Москве, и шире - всей цивилизации землян.",
-      "url": "https://cosmatica.org/news/1238-bez-obrazovanija-nam-smert.html",
-      "image": "https://cosmatica.org/upload/000/u35/3/6/bez-obrazovanija-nam-smert-photo-normal.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=62c1b9dd2310c09ef4",
-      "type": "news-item",
-      "sourceCharacters": 3897,
-      "verified": false
-    },
-    {
-      "title": "Творческий конкурс «Космический мир вокруг нас»",
-      "description": "МБУК «Владимирский планетарий» был открыт 28 апреля 1962 года в здании бывшей Николо-Кремлёвской церкви.",
-      "url": "https://cosmatica.org/news/1237-tvorcheskii-konkurs-kosmicheskii-mir-vokrug-nas.html",
-      "image": "https://cosmatica.org/upload/000/u35/7/4/1cde98ac.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=3e2d820c4c3975242a",
-      "type": "news-item",
-      "sourceCharacters": 2233,
-      "verified": false
-    },
-    {
-      "title": "Четыре года в строю",
-      "description": "21 декабря традиционно состоялось годовое отчётное собрание Русского Космического Общества.",
-      "url": "https://cosmatica.org/news/1236-chetyre-goda-v-stroyu.html",
-      "image": "https://cosmatica.org/upload/000/u35/f/6/chetyre-goda-v-stroyu-photo-normal.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=8270246ce771933193",
-      "type": "news-item",
-      "sourceCharacters": 5061,
-      "verified": false
-    },
-    {
-      "title": "Доклад на тему «Электричество. Новая физическая модель. Часть 3. Среда нахождения»",
-      "description": "Докладчик: Александр Михайлович Анищенко , почётный член Русского Космического Общества, естествоиспытатель, инженер-исследователь.",
-      "url": "https://cosmatica.org/news/1235-doklad-na-temu-elektrichestvo-novaja-fizicheskaja-model-chast-3-sreda-nahozhdenija.html",
-      "image": "https://cosmatica.org/upload/002/u218/a/0/doklad-na-temu-elektrichestvo-novaja-fizicheskaja-model-chast-3.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=5083ba5aa38215c69d",
-      "type": "news-item",
-      "sourceCharacters": 1392,
       "verified": false
     }
   ],

@@ -11,14 +11,14 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Банк Семян",
-      "description": "29 октября в центральном штабе Русского Космического Общества собралось более 20 добровольцев и энтузиастов, чтобы рассортировать и упаковать семена для проекта Банк семян .",
-      "url": "https://cosmatica.org/news/1194-bank-semjan.html",
-      "image": "https://cosmatica.org/upload/002/u218/e/c/bank-semjan-photo-normal.jpg",
+      "title": "Побисковские чтения - октябрь 2021г.",
+      "description": "Такими встречами мы не просто чтим память уникального учёного - мы чествуем Гения.",
+      "url": "https://cosmatica.org/news/1191-pobiskovskie-chtenija-oktjabr-2021g.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/7/pobiskovskie-chtenija-oktjabr-2021g-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=b311f5472c11195b4f",
+      "href": "view.html?p=news-item&ref=05b85a0fe3437c5b75",
       "type": "news-item",
-      "sourceCharacters": 1262,
+      "sourceCharacters": 4171,
       "verified": false
     },
     {
@@ -66,28 +66,6 @@
       "verified": false
     },
     {
-      "title": "Добрята и кедрята",
-      "description": "В середине октября добровольческий отряд \"Добрята\" школы №2120 пос. Московский (г. Москва) присоединился к Всемирному движению Русского Космического Общества \"Гагаринский сад\"",
-      "url": "https://cosmatica.org/news/1179-i-snova-kedry-teper-v-moskve.html",
-      "image": "https://cosmatica.org/upload/002/u218/8/b/6bffdc5c.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=815053c13f024c0f3e",
-      "type": "news-item",
-      "sourceCharacters": 1661,
-      "verified": false
-    },
-    {
-      "title": "Доклад на тему «Электричество, новая физическая модель. Часть I. Введение»",
-      "description": "23 октября состоялся первый из серии доклад на тему «Электричество, новая физическая модель . Часть I. Введение». Автор - Александр Михайлович Анищенко , естествоиспытатель, инженер-исследователь, руководитель Секции Авангардных исследований Русского Космического Общества.",
-      "url": "https://cosmatica.org/news/1181-doklad-na-temu-elektrichestvo-novaja-fizicheskaja-model-chast-i-vvedenie.html",
-      "image": "https://cosmatica.org/upload/002/u218/e/0/doklad-na-temu-elektrichestvo-novaja-fizicheskaja-model-chast-i.png",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=8b4d0cf62b2b3ed306",
-      "type": "news-item",
-      "sourceCharacters": 1591,
-      "verified": false
-    },
-    {
       "title": "Об эко-ориентированном проектировании образования говорили в Латвии",
       "description": "15 октября 2021 г. руководитель Волгоградского отделения РКО, профессор РЭУ им. Г.В.Плеханова Э.В.Баркова приняла участие в работе Международной научной конференции в Латвии.",
       "url": "https://cosmatica.org/news/1184-ob-eko-orientirovannom-proektirovanii-obrazovanija-govorili-v-latvii.html",
@@ -118,6 +96,28 @@
       "href": "view.html?p=news-item&ref=77d2980442afde3045",
       "type": "news-item",
       "sourceCharacters": 6043,
+      "verified": false
+    },
+    {
+      "title": "Доклад на тему «Электричество, новая физическая модель. Часть I. Введение»",
+      "description": "23 октября состоялся первый из серии доклад на тему «Электричество, новая физическая модель . Часть I. Введение». Автор - Александр Михайлович Анищенко , естествоиспытатель, инженер-исследователь, руководитель Секции Авангардных исследований Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/1181-doklad-na-temu-elektrichestvo-novaja-fizicheskaja-model-chast-i-vvedenie.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/0/doklad-na-temu-elektrichestvo-novaja-fizicheskaja-model-chast-i.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8b4d0cf62b2b3ed306",
+      "type": "news-item",
+      "sourceCharacters": 1591,
+      "verified": false
+    },
+    {
+      "title": "Добрята и кедрята",
+      "description": "В середине октября добровольческий отряд \"Добрята\" школы №2120 пос. Московский (г. Москва) присоединился к Всемирному движению Русского Космического Общества \"Гагаринский сад\"",
+      "url": "https://cosmatica.org/news/1179-i-snova-kedry-teper-v-moskve.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/b/6bffdc5c.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=815053c13f024c0f3e",
+      "type": "news-item",
+      "sourceCharacters": 1661,
       "verified": false
     },
     {
@@ -154,14 +154,14 @@
       "verified": false
     },
     {
-      "title": "Проблема сохранения водных ресурсов решаема!",
-      "description": "Участник РКО, председатель ОД «Возвращаем воду в реки» Людмила Ивановна Севостьянова , представила книгу «Возвращаем воду в реки. Восстановление гидрологического режима поверхности путём моделирования естественных природных процессов » , которая является методическим пособием по сохранению и приумножению нашего водного фонда.",
-      "url": "https://cosmatica.org/news/1171-uchastnik-rko-predsedatel-od-vozvraschaem-vodu-v-reki-predstavil-knigu.html",
-      "image": "https://cosmatica.org/upload/000/u35/c/3/problema-sohranenija-vodnyh-resursov-reshaema-photo-normal.jpg",
+      "title": "Мезенцев Станислав Алексеевич занял место в Вечном строю",
+      "description": "Врач по основному образованию, философ, целитель, сторонник и пропагандист высокой экологической культуры.",
+      "url": "https://cosmatica.org/news/1175-mezencev-stanislav-alekseevich-zanjal-mesto-v-vechnom-stroyu.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/7/mezencev-stanislav-alekseevich-zanjal-mesto-v-vechnom-stroyu-photo-n.png",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a9b27630b811d2d5e3",
+      "href": "view.html?p=news-item&ref=0fb20011e62fcfabf6",
       "type": "news-item",
-      "sourceCharacters": 2831,
+      "sourceCharacters": 2966,
       "verified": false
     },
     {

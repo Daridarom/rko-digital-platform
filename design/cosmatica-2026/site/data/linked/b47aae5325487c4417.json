@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1437-12-novaja-noosfernaja-ideologija-i-ideal-buduschego.html",
+  "title": "12. Новая ноосферная идеология и «идеал Будущего»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволюционного прорыва России и человечества в XXI веке»",
+      "spans": [
+        {
+          "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и  "
+        },
+        {
+          "text": "стратегия",
+          "href": "https://cosmatica.org/glossary/41-strategija.html"
+        },
+        {
+          "text": " эволюционного прорыва России и человечества в XXI веке» "
+        }
+      ],
+      "links": [
+        {
+          "text": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Лекция 12: Новая ноосферная идеология и «идеал Будущего»",
+      "spans": [
+        {
+          "text": "Лекция 12: Новая ноосферная идеология и «идеал Будущего»"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "4tHxRSfxVd0",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=4tHxRSfxVd0"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволюционного прорыва России и человечества в XXI веке» Лекция 12: Новая ноосферная идеология и «идеал Будущего»",
+      "links": [
+        {
+          "title": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 281,
+    "storedTextCharacters": 203,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 74493
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 231,
+  "capturedBodyCharacters": 203,
+  "sourceTextSHA256": "1a4c83b4f54e1ba545266e12f112dbbdce210abcbcb0fbc75f26e77c0384aba3",
+  "archiveSnapshotAt": "2026-10-08T13:19:42Z"
+}

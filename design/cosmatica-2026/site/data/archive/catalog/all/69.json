@@ -6,10 +6,87 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 69,
-  "pageCount": 321,
-  "total": 4812,
+  "pageCount": 322,
+  "total": 4823,
   "blocks": [],
   "cards": [
+    {
+      "title": "Человек XXI века как развитие родовой, педагогической функции человека.",
+      "description": "Человек XXIвека как развитие родовой педагогической функции человека в системе ноосферного учительства.",
+      "url": "https://cosmatica.org/articles/1216-chelovek-xxi-veka-kak-razvitie-rodovoi-pedagogicheskoi-funkcii-cheloveka.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=1a1e4e8f9acea74f97",
+      "type": "article",
+      "sourceCharacters": 64559,
+      "verified": false
+    },
+    {
+      "title": "Дети войны за мир без войны",
+      "description": "Мероприятия проводились в рамках проекта Молодёжного дипломатического корпуса новейших государств \"Дети войны за мир без войны\". Организаторы выставки и круглого стола: Молодёжный дипломатический корпус новейших государств, в лице участника Русского Космического Общества Антона Алексеевича Горохова, при поддержке Центра международных коммуникаций, в лице Мариеты Епремян, Гвардии «За Правду», в лице Лайны Чайки, фонда",
+      "url": "https://cosmatica.org/news/1216-deti-voiny-za-mir-bez-voiny.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/4/deti-voiny-za-mir-bez-voiny-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c9dfab763da91dec54",
+      "type": "news-item",
+      "sourceCharacters": 13904,
+      "verified": false
+    },
+    {
+      "title": "Ноосферный Союз 2117",
+      "description": "Это — Цель и Смысл. Наше Слово и Дело. Наше будущее, за которое стоит порадеть.",
+      "url": "https://cosmatica.org/articles/1215-noosfernyi-soyuz-2117.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/a/0-noosfernyi-soyuz-2117.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=19e02d55e1432deddb",
+      "type": "article",
+      "sourceCharacters": 85028,
+      "verified": false
+    },
+    {
+      "title": "Всероссийский семинар-совещание ФНС и Россотрудничества поддержало Русское Космическое Общество",
+      "description": "На прошедшем совещании, которое было организовано Федеральным народным советом, было представлено множество инициатив, проектов и направлений, которые в целом охватывают все стороны и грани продвижения российского образования, культуры и русского языка.",
+      "url": "https://cosmatica.org/news/1215-vserossiiskii-seminar-soveschanie-fns-i-rossotrudnichestva-podderzhalo-russkoe-kosmicheskoe-obs.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/9/vserossiiskii-seminar-soveschanie-fns-i-rossotrudnichestva-podderzha.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=eaeb00d9dddf034871",
+      "type": "news-item",
+      "sourceCharacters": 26199,
+      "verified": false
+    },
+    {
+      "title": "Социогуманика, как технология возрождения великой России.",
+      "description": "Нужна ли Россия современному миру кроме как источник энергоносителей и природных ископаемых? Нужен ли мир России помимо поставки технических знаний и товаров?",
+      "url": "https://cosmatica.org/articles/1214-sociogumanika-kak-tehnologija-vozrozhdenija-velikoi-rossii.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=62eda0fc44e99f3724",
+      "type": "article",
+      "sourceCharacters": 42714,
+      "verified": false
+    },
+    {
+      "title": "Киноуроку от Боровского района Калужской области быть",
+      "description": "Город Боровск Калужской области посетила совместная делегация Русского Космического Общества и проекта «Киноуроки в школах России». Основной целью визита было представление Проекта общественности Боровского района, и начало подготовки к съёмкам нового фильма «Школьные ботаны», посвящённого такому качеству, как «целеустремлённость», актуализирующего детское научно-техническое творчество.",
+      "url": "https://cosmatica.org/news/1214-kinouroku-ot-borovskogo-raiona-kaluzhskoi-oblasti-byt.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/0/kinouroku-ot-borovskogo-raiona-kaluzhskoi-oblasti-byt-photo-norm.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4b442f06f8cdfd5beb",
+      "type": "news-item",
+      "sourceCharacters": 3542,
+      "verified": false
+    },
+    {
+      "title": "Смысл, знания и действие - условие сохранения и развития России",
+      "description": "В ходе анализа данных, изложенных в монографии, возникло предположение, что прирост знаний в России в тот же период может отличаться от общемирового в силу особенностей её исторического развития.",
+      "url": "https://cosmatica.org/articles/1213-smysl-znanija-i-deistvie-uslovie-sohranenija-i-razvitija-rossii.html",
+      "image": "https://cosmatica.org/upload/001/u164/9/9/bezymjannyi.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=a60cd6bd481bac986d",
+      "type": "article",
+      "sourceCharacters": 39773,
+      "verified": false
+    },
     {
       "title": "Конкурс-марафон «Эко — 2022»",
       "description": "Конкурс-марафон «Эко — 2022» проводится в честь Международного дня «Матери-Земли» для дошкольников и школьников образовательных учреждений и отдельных авторов.",
@@ -96,83 +173,6 @@
       "href": "view.html?p=news-item&ref=8a8acad71ca14ccbd9",
       "type": "news-item",
       "sourceCharacters": 686,
-      "verified": false
-    },
-    {
-      "title": "Что нам делать в ближайшем будущем",
-      "description": "Алексей Алексеевич Гапонов , глава Русского Космического Общества, и Сергей Иванович Сухонос , почётный член РКО, исследователь, автор 25 книг по системологии, обсуждали тему \"Что нам делать в ближайшем будущем\".",
-      "url": "https://cosmatica.org/news/1206-chto-nam-delat-v-blizhaishem-buduschem.html",
-      "image": "https://cosmatica.org/upload/002/u218/6/6/chto-nam-delat-v-blizhaishem-buduschem-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=6ceb68d92b241643e9",
-      "type": "news-item",
-      "sourceCharacters": 1414,
-      "verified": false
-    },
-    {
-      "title": "Новый этап работы Владимирского отделения РКО",
-      "description": "Основной целью поездки стало подписание соглашения с Владимирским государственным университетом имени А.Г. и Н.Г. Столетовых, а также встречи с активом Владимирского отделения и всеми, заинтересованными в сотрудничестве и сотворчестве с Русским Космическим Обществом.",
-      "url": "https://cosmatica.org/news/1204-rabochaja-poezdka.html",
-      "image": "https://cosmatica.org/upload/002/u218/2/6/novyi-etap-raboty-vladimirskogo-otdelenija-rko-photo-normal.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=c61f78e346ca40aab4",
-      "type": "news-item",
-      "sourceCharacters": 4976,
-      "verified": false
-    },
-    {
-      "title": "Снеговские чтения 2021г.",
-      "description": "В этом году чтения посвящены памяти первого Президента Русского Космического Общества - Бориса Евгеньевича Большакова . 17 ноября 2018г. он покинул этот мир и остался в нашей памяти, идеях и делах как человек, который заложил тот организационный механизм, коим является нынешнее Русское Космическое Общество. Он не был знаком со Снеговым и с его творчеством, но воплощал его идеи в жизнь . В то же время , его друг и учи",
-      "url": "https://cosmatica.org/news/1203-snegovskie-chtenija-2021g.html",
-      "image": "https://cosmatica.org/upload/002/u218/9/a/snegovskie-chtenija-2021g-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=b5e57538c118d63848",
-      "type": "news-item",
-      "sourceCharacters": 4294,
-      "verified": false
-    },
-    {
-      "title": "О книге \"Мир Героев\" от автора",
-      "description": "Книга \"Мир Героев\" - это живое руководство к действию всем, кто хочет изменить мир. Создавать будущее, а не претерпевать его.",
-      "url": "https://cosmatica.org/news/1202-o-knige-mir-geroev-ot-avtora.html",
-      "image": "https://cosmatica.org/upload/000/u35/b/5/o-knige-mir-geroev-ot-avtora-photo-normal.png",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=d30077a89cfba5149f",
-      "type": "news-item",
-      "sourceCharacters": 1662,
-      "verified": false
-    },
-    {
-      "title": "Конференция о влиянии традиционной культуры на нравственное состояние народа в прошлом и настоящем",
-      "description": "11 ноября в Санкт-Петербурге, на базе Смольного института, прошла Межрегиональная научно-практическая конференция «Народная культура – основа нравственности человека» .",
-      "url": "https://cosmatica.org/news/1201-konferencija-o-vlijanii-tradicionnoi-kultury-na-nravstvennoe-sostojanie-naroda-v-proshlom-i-nas.html",
-      "image": "https://cosmatica.org/upload/002/u218/d/e/konferencija-o-vlijanii-tradicionnoi-kultury-na-nravstvennoe-sost.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=d5fb7d3af92dbcd467",
-      "type": "news-item",
-      "sourceCharacters": 8001,
-      "verified": false
-    },
-    {
-      "title": "Рабочая встреча в г. Мещовске Калужской области",
-      "description": "Действительно, все наши проекты и фокус внимания направлены на сохранение и развитие Жизни именно здесь, на Земле - в колыбели человечества. Иначе кто будет Космос осваивать? Научные достижения и новаторские разработки, конечно, движущая сила, но кто их создаёт? Человек-Творец, о котором уже много написано и чей образ мы стремимся претворить в жизнь . А это дети, юное поколение, полное жажды знаний и открытий. Поэтом",
-      "url": "https://cosmatica.org/news/1200-bolshie-plany-i-novye-soyuzniki.html",
-      "image": "https://cosmatica.org/upload/002/u218/7/6/rabochaja-vstrecha-v-g-meschovske-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=d8206acf92274d0afb",
-      "type": "news-item",
-      "sourceCharacters": 2559,
-      "verified": false
-    },
-    {
-      "title": "Выезд отцов и сыновей на заставу под Вологдой",
-      "description": "Такова ключевая идея основателей: мужчины юного возраста учатся у старших, а старшие реализуются как наставники, передавая свой опыт младшему поколению - в едином пространстве, едином сообществе, формируя более многообразную глубокую преемственность знаний, чем это возможно в рамках семьи.",
-      "url": "https://cosmatica.org/news/1199-muzhskaja-shkola-dostizhenie.html",
-      "image": "https://cosmatica.org/upload/002/u218/a/c/muzhskaja-shkola-dostizhenie-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=386b72c359be368251",
-      "type": "news-item",
-      "sourceCharacters": 4593,
       "verified": false
     }
   ],

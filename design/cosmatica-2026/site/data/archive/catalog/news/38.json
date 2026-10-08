@@ -33,17 +33,6 @@
       "verified": false
     },
     {
-      "title": "Великая Космическая Одиссея. Миссия Нирма. Успешный старт",
-      "description": "Сборы проходили в рамках стратегической инициативы Русского Космического Общества \"Великая Космическая Одиссея\".",
-      "url": "https://cosmatica.org/news/1601-velikaja-kosmicheskaja-odisseja-missija-nirma-uspeshnyi-start.html",
-      "image": "https://cosmatica.org/upload/000/u35/f/a/missija-nirma-uspeshnyi-start-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=bc60eab8b7d2a8ccc0",
-      "type": "news-item",
-      "sourceCharacters": 5935,
-      "verified": false
-    },
-    {
       "title": "Пройден путь от мечты к реальности, ведь волшебникам всё под силу!",
       "description": "Сегодня это уже реальность, к которой мы планомерно шли почти два года. А начиналось всё с мечты.",
       "url": "https://cosmatica.org/news/1602-proiden-put-ot-mechty-do-realnosti-no-volshebnikam-vsyo-pod-silu.html",
@@ -52,6 +41,17 @@
       "href": "view.html?p=news-item&ref=91e3ad67797b81feb6",
       "type": "news-item",
       "sourceCharacters": 3137,
+      "verified": false
+    },
+    {
+      "title": "Великая Космическая Одиссея. Миссия Нирма. Успешный старт",
+      "description": "Сборы проходили в рамках стратегической инициативы Русского Космического Общества \"Великая Космическая Одиссея\".",
+      "url": "https://cosmatica.org/news/1601-velikaja-kosmicheskaja-odisseja-missija-nirma-uspeshnyi-start.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/a/missija-nirma-uspeshnyi-start-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bc60eab8b7d2a8ccc0",
+      "type": "news-item",
+      "sourceCharacters": 5935,
       "verified": false
     },
     {
@@ -110,17 +110,6 @@
       "verified": false
     },
     {
-      "title": "Битва за будущее. Слово на 100 лет СССР",
-      "description": "За плечами 2022 год. Год, который разделил времена на «до» и «после». Год, который поставил вопрос ребром – «быть или не быть». Год, в котором тотальная война за будущее перешла в новую, открытую фазу. Год, в котором всё стало ясно.",
-      "url": "https://cosmatica.org/news/1593-bitva-za-buduschee-slovo-na-100-let-sssr.html",
-      "image": "https://cosmatica.org/upload/000/u7/b/0/9b078839.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=224456c2ddd6151a4e",
-      "type": "news-item",
-      "sourceCharacters": 14528,
-      "verified": false
-    },
-    {
       "title": "Заслуженное признание",
       "description": "Наталья Владимировна Попова - наша содея , педагог ноосферного образования, наставник дружины гагаринцев Лопатинской школы постоянно развивается и открывает для себя новые горизонты.",
       "url": "https://cosmatica.org/news/1595-zasluzhennoe-priznanie.html",
@@ -143,6 +132,28 @@
       "verified": false
     },
     {
+      "title": "Битва за будущее. Слово на 100 лет СССР",
+      "description": "За плечами 2022 год. Год, который разделил времена на «до» и «после». Год, который поставил вопрос ребром – «быть или не быть». Год, в котором тотальная война за будущее перешла в новую, открытую фазу. Год, в котором всё стало ясно.",
+      "url": "https://cosmatica.org/news/1593-bitva-za-buduschee-slovo-na-100-let-sssr.html",
+      "image": "https://cosmatica.org/upload/000/u7/b/0/9b078839.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=224456c2ddd6151a4e",
+      "type": "news-item",
+      "sourceCharacters": 14528,
+      "verified": false
+    },
+    {
+      "title": "Здравствуй, дорогой боец!",
+      "description": "В летней поездке наших содеев Зуевой Елизаветы Евгеньевны и Ленской Марии Владимировны на Донбасс состоялось ещё одно очень значимое событие – переданы первые по линии РКО детские письма на фронт.",
+      "url": "https://cosmatica.org/news/1592-zdravstvui-dorogoi-boec.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/7/zdravstvui-dorogoi-boec-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=66a86710efc6932454",
+      "type": "news-item",
+      "sourceCharacters": 2798,
+      "verified": false
+    },
+    {
       "title": "Общее отчëтное годовое собрание Русского Космического Общества",
       "description": "5 лет - срок не великий, но достаточный, чтобы взрастить добрые плоды и увидеть результаты своих дел. 5 лет Русское Космическое Общество трудится на благо русского народа и всего Человечества. 5 лет мы трудимся над созданием условий для перехода человечества к ноосферно-космическому будущему.",
       "url": "https://cosmatica.org/news/1591-obschee-otchetnoe-godovoe-sobranie-russkogo-kosmicheskogo-obschestva.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=0253ac069366cdd926",
       "type": "news-item",
       "sourceCharacters": 2694,
-      "verified": false
-    },
-    {
-      "title": "Брянское отделение РКО подвело итоги 2022 года",
-      "description": "Провёл собрание председатель Отделения Алексей Васильевич Щербенко.",
-      "url": "https://cosmatica.org/news/1589-brjanskoe-otdelenie-rko-podvelo-itogi-2022-goda.html",
-      "image": "https://cosmatica.org/upload/000/u35/b/2/brjanskoe-otdelenie-rko-podvelo-itogi-2022-goda-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=0db8c159228fbccb8c",
-      "type": "news-item",
-      "sourceCharacters": 4410,
       "verified": false
     }
   ],

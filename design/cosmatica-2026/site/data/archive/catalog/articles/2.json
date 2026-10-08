@@ -6,10 +6,43 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 2,
-  "pageCount": 72,
-  "total": 1074,
+  "pageCount": 73,
+  "total": 1085,
   "blocks": [],
   "cards": [
+    {
+      "title": "Целеустремленность через призму науки",
+      "description": "Эссе на тему «Целеустремленность через призму науки»",
+      "url": "https://cosmatica.org/articles/1484-celeustremlennost-cherez-prizmu-nauki.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=f40985be183e5a060d",
+      "type": "article",
+      "sourceCharacters": 3082,
+      "verified": false
+    },
+    {
+      "title": "Целеустремленность через призму науки",
+      "description": "Эссе на тему «Целеустремленность через призму науки»",
+      "url": "https://cosmatica.org/articles/1483-celeustremlennost-cherez-prizmu-nauki.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=b4cce8ce2e997ab01e",
+      "type": "article",
+      "sourceCharacters": 4182,
+      "verified": false
+    },
+    {
+      "title": "Целеустремленность через призму науки",
+      "description": "Эссе на тему «Целеустремленность через призму науки»",
+      "url": "https://cosmatica.org/articles/1482-celeustremlennost-cherez-prizmu-nauki.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=9ac94ef2253eb11def",
+      "type": "article",
+      "sourceCharacters": 3715,
+      "verified": false
+    },
     {
       "title": "Слово к работе «Системно-энергетический подход Побиска Кузнецова и его следствия»",
       "description": "22 августа 2000 г. Побиск Георгиевич Кузнецов, последний Генеральный конструктор Советского Союза, обратился с письмом к совсем недавно, на тот момент, приступившему к исполнению своих обязанностей в должности Президента страны Владимиру Владимировичу Путину.",
@@ -110,6 +143,28 @@
       "verified": false
     },
     {
+      "title": "Мой космический корабль",
+      "description": "Идея: Создание детального исследования методов и технологий, использующихся в проектировании космических кораблей, с упором на итеративные процессы и адаптацию к новым условиям.",
+      "url": "https://cosmatica.org/articles/1470-moi-kosmicheskii-korabl.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=47af7cfd92bf929408",
+      "type": "article",
+      "sourceCharacters": 1424,
+      "verified": false
+    },
+    {
+      "title": "Как стать космонавтом",
+      "description": "ГБУ ОО ЗО «Розовская СОШ №2» Куйбышевского района Запорожской области, 7 класс",
+      "url": "https://cosmatica.org/articles/1469-kak-stat-kosmonavtom.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=cca414503a9704c6c4",
+      "type": "article",
+      "sourceCharacters": 9990,
+      "verified": false
+    },
+    {
       "title": "Научно-философские предпосылки концепции Космоса созидания (космосозидания)",
       "description": "Научно-философские предпосылки концепции Космоса созидания (космосозидания)",
       "url": "https://cosmatica.org/articles/1466-nauchno-filosofskie-predposylki-koncepcii-kosmosa-sozidanija-kosmosozidanija.html",
@@ -118,61 +173,6 @@
       "href": "view.html?p=article&ref=8d1720b0f55930aa5c",
       "type": "article",
       "sourceCharacters": 6412,
-      "verified": false
-    },
-    {
-      "title": "ГОСРАТОР - Государственная стратегия развития территории России",
-      "description": "«ГОСРАТОР» - ГОСУДАРСТВЕННАЯ СТРАТЕГИЯ РАЗВИТИЯ ТЕРРИТОРИЙ РОССИИ",
-      "url": "https://cosmatica.org/articles/1465-gosrator-gosudarstvennaja-strategija-razvitija-territorii-rossii.html",
-      "image": null,
-      "kind": "article",
-      "href": "view.html?p=article&ref=e1153b87d49d02d109",
-      "type": "article",
-      "sourceCharacters": 16681,
-      "verified": false
-    },
-    {
-      "title": "Русский ответ на Римский «Всемирный призыв к действию»",
-      "description": "ПРИРОДА «ПОДПИСАЛА» ЭКОЛОГИЧЕСКИЙ ПРИГОВОР «МИРОВОМУ КАПИТАЛИЗМУ» (ПО ДЖ.СОРОСУ) ИЛИ «ГЛОБАЛЬНОМУ ИМПЕРИАЛИЗМУ СТРОЯ МИРОВОЙ ФИНАНСОВОЙ КАПИТАЛОКРАТИИ»",
-      "url": "https://cosmatica.org/articles/1464-russkii-otvet-na-rimskii-vsemirnyi-prizyv-k-deistviyu.html",
-      "image": null,
-      "kind": "article",
-      "href": "view.html?p=article&ref=7101382a965f36e29d",
-      "type": "article",
-      "sourceCharacters": 57616,
-      "verified": false
-    },
-    {
-      "title": "Россия и мир, взгляд на тысячу лет вперёд",
-      "description": "Для всех станет очевиден конец капиталистического проекта. Теряющие власть владельцы ТНК («хозяева денег») будут разжигать по всему миру локальные конфликты с попыткой втянуть человечество в глобальный ядерный конфликт в Северном полушарии. Многие регионы мира, включая Европу и США, охватят гражданские и межконфессиональные войны. Между тем, в России будет сформулирован и озвучен на самом высоком уровне новый проект ",
-      "url": "https://cosmatica.org/articles/1463-rossija-i-mir-vzgljad-na-tysjachu-let-vperyod.html",
-      "image": null,
-      "kind": "article",
-      "href": "view.html?p=article&ref=44a3effab1285eb126",
-      "type": "article",
-      "sourceCharacters": 13396,
-      "verified": false
-    },
-    {
-      "title": "Ноосферный подход к региональному устойчивому развитию в контексте трансформации мироустройства",
-      "description": "Автор : Головин Андрей Аркадьевич, директор Центра проектирования устойчивого развития институтов гражданского общества Государственного университета управления, член Международной научной школы устойчивого развития им. П.Г. Кузнецова, канд. экон. наук, старший научный сотрудник",
-      "url": "https://cosmatica.org/articles/1462-noosfernyi-podhod-k-regionalnomu-ustoichivomu-razvitiyu-v-kontekste-transformacii-miroustroistv.html",
-      "image": null,
-      "kind": "article",
-      "href": "view.html?p=article&ref=abbfd1907dba4d3210",
-      "type": "article",
-      "sourceCharacters": 2264,
-      "verified": false
-    },
-    {
-      "title": "Новый выпуск журнала \"Устойчивое инновационное развитие\"",
-      "description": "Вышел новый выпуск научного журнала «Устойчивое развитие : проектирование и управление» (Том №20 Выпуск №2).",
-      "url": "https://cosmatica.org/articles/1461-novyi-vypusk-zhurnala-ustoichivoe-innovacionnoe-razvitie.html",
-      "image": null,
-      "kind": "article",
-      "href": "view.html?p=article&ref=50fcd96d1330fe632b",
-      "type": "article",
-      "sourceCharacters": 2046,
       "verified": false
     }
   ],

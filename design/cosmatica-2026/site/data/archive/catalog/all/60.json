@@ -6,10 +6,76 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 60,
-  "pageCount": 321,
-  "total": 4812,
+  "pageCount": 322,
+  "total": 4823,
   "blocks": [],
   "cards": [
+    {
+      "title": "Отечественная война. Отступать некуда. За нами Вечность!",
+      "description": "Обращение главы Русского Космического Общества Алексея Алексеевича Гапонова в ответ на многочисленные просьбы высказать отношение РКО и его руководящего состава к происходящему ныне в связи со специальной военно-политической операцией на Украине.",
+      "url": "https://cosmatica.org/news/1334-otechestvennaja-voina-otstupat-nekuda-za-nami-vechnost.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/5/otechestvennaja-voina-otstupat-nekuda-za-nami-vechnost-photo.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=06391a65e0c4aa45ef",
+      "type": "news-item",
+      "sourceCharacters": 1014,
+      "verified": false
+    },
+    {
+      "title": "Ноосферные основания непрерывного образования в XXI веке.",
+      "description": "Понятие «непрерывное образование» прочно вошло в профессиональную лексику как педагогической науки, образовательной практики, так и образовательной политики российского государства. Но смысл самого непрерывного образования, ответ на вопрос «Что есть непрерывное образование в современную эпоху?» остаются предметом неутихающей научной дискуссии. И раскол, причем раскол концептуально-теоретический, начинается уже с опре",
+      "url": "https://cosmatica.org/articles/1333-noosfernye-osnovanija-nepreryvnogo-obrazovanija-v-xxi-veke.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=50f24599553b69905f",
+      "type": "article",
+      "sourceCharacters": 29011,
+      "verified": false
+    },
+    {
+      "title": "Пара слов о Вселенной",
+      "description": "Цикл лекций-встреч Русского Космического Общества для детей Донбасса \"Из землянки в космос\" каждую неделю открывает для слушателей что-то новое.",
+      "url": "https://cosmatica.org/news/1333-para-slov-o-vselennoi.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/0/para-slov-o-vselennoi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=96d76f44909fd8f1ad",
+      "type": "news-item",
+      "sourceCharacters": 2199,
+      "verified": false
+    },
+    {
+      "title": "4. Свобода или Ответственность за всё, что мы творим на Земле?",
+      "description": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке»",
+      "url": "https://cosmatica.org/articles/1332-4-svoboda-ili-otvetstvennost-za-vsyo-chto-my-tvorim-na-zemle.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=da16746550314741f5",
+      "type": "article",
+      "sourceCharacters": 293,
+      "verified": false
+    },
+    {
+      "title": "В начале славных дел Союза",
+      "description": "Как мы уже рассказывали ранее 25 и 26 марта состоялась рабочая поездка делегации Русского Космического Общества в Беларусь.",
+      "url": "https://cosmatica.org/news/1332-v-nachale-slavnyh-del.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/4/142361e4.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=aad59c56552dc2199c",
+      "type": "news-item",
+      "sourceCharacters": 5031,
+      "verified": false
+    },
+    {
+      "title": "3. Быть или не быть человечеству на Земле?",
+      "description": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке»",
+      "url": "https://cosmatica.org/articles/1331-3-byt-ili-ne-byt-chelovechestvu-na-zemle.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=c82f327dbea607b609",
+      "type": "article",
+      "sourceCharacters": 345,
+      "verified": false
+    },
     {
       "title": "Дружина Гагаринцев приобрела международный статус",
       "description": "Одной их основных задач поездки стало создание Дружины Гагаринцев .",
@@ -19,6 +85,17 @@
       "href": "view.html?p=news-item&ref=2fe1618a2c90b37d0c",
       "type": "news-item",
       "sourceCharacters": 8149,
+      "verified": false
+    },
+    {
+      "title": "Экофилософская детерминация пространства культуры ноосферного города",
+      "description": "Ключевые слова : экофилософия, культура, город, гармонизация природно-культурных систем, защита жизни, природа, целостность, мир человека",
+      "url": "https://cosmatica.org/articles/1330-ekofilosofskaja-determinacija-prostranstva-kultury-noosfernogo-goroda.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=655d9be4e5c2e2a9aa",
+      "type": "article",
+      "sourceCharacters": 35638,
       "verified": false
     },
     {
@@ -96,83 +173,6 @@
       "href": "view.html?p=news-item&ref=6fece0ed821d6626ec",
       "type": "news-item",
       "sourceCharacters": 2518,
-      "verified": false
-    },
-    {
-      "title": "В московской школе №338 верят в космос",
-      "description": "Основатель проекта «Мы верим в космос» Денис Олегович Прудник провёл 3 научно-популярных лекции для 10, 5 и 6 классов.",
-      "url": "https://cosmatica.org/news/1323-v-moskovskoi-shkole-338-verjat-v-kosmos.html",
-      "image": "https://cosmatica.org/upload/002/u218/d/2/v-moskovskoi-shkole-338-verjat-v-kosmos-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a11d973a0904fa1f05",
-      "type": "news-item",
-      "sourceCharacters": 1763,
-      "verified": false
-    },
-    {
-      "title": "\"Империум Человека\": всё зависит только от нас!",
-      "description": "Мероприятие было приурочено ко дню рождения Юрия Алексеевича Гагарина и состоялось 9 марта.",
-      "url": "https://cosmatica.org/news/1322-1march.html",
-      "image": "https://cosmatica.org/upload/002/u218/e/d/ceremonija-nagrazhdenija-laureatov-literaturnogo-konkursa-imperi.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=fdc51267ab839ddd86",
-      "type": "news-item",
-      "sourceCharacters": 2925,
-      "verified": false
-    },
-    {
-      "title": "Озвучена глава из книги \"Империум Человека\"",
-      "description": "Долгожданная озвучка одной из глав книги Степана Андреевича Зотова и Ивана Магрегора состоялась.",
-      "url": "https://cosmatica.org/news/1320-ozvuchena-glava-iz-knigi-imperium-cheloveka.html",
-      "image": "https://cosmatica.org/upload/002/u218/b/0/ozvuchena-glava-imperium-cheloveka-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=4d4e6c6e5375b7c642",
-      "type": "news-item",
-      "sourceCharacters": 1299,
-      "verified": false
-    },
-    {
-      "title": "Открылось отделение Банка семян в Санкт-Петербурге",
-      "description": "13 марта в Санкт-Петербургском штабе Русского Космического Общества впервые состоялась встреча добровольцев по сохранению и распространению семян русских устойчивых сортов растений – так открылось Северо-Западное отделение Банка семян РКО.",
-      "url": "https://cosmatica.org/news/1319-otkrylos-otdelenie-banka-semjan-v-sankt-peterburge.html",
-      "image": "https://cosmatica.org/upload/002/u218/7/2/otkrylos-otdelenie-banka-semjan-v-sankt-peterburge-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=876f02832cffef89c7",
-      "type": "news-item",
-      "sourceCharacters": 2751,
-      "verified": false
-    },
-    {
-      "title": "Дружинка гагаринцев детского сада \"Ягодка\" готовится ко Дню Космонавтики",
-      "description": "В интеллектуальной олимпиаде были задания на логику, внимание, способность размышлять и делать выводы. Высоко оценило способности гагаринцев жюри, в составе которого и Любовь Викторовна Мазурина , президент БФ \"Сохраним жизнь воде\" , уже несколько лет поддерживающего экологические воспитательные проекты в д/с \"Ягодка\".",
-      "url": "https://cosmatica.org/news/1318-druzhinka-gagarincev-detskogo-sada-jagodka-gotovitsja-ko-dnyu-kosmonavtiki.html",
-      "image": "https://cosmatica.org/upload/002/u218/c/d/7c098c34.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=be0029a93fa1c1d47b",
-      "type": "news-item",
-      "sourceCharacters": 2000,
-      "verified": false
-    },
-    {
-      "title": "Писательское творчество Геннадия Ивановича Тищенко",
-      "description": "Геннадий Иванович Тищенко – почётный член Русского Космического Общества, представитель «русского космизма» в искусстве, советский и российский режиссёр-мультипликатор, кинорежиссёр, художник и сценарист. Несколько поколений выросло на его работах. В 60-70-х годах ХХ века его фантастические иллюстрации оказали огромное влияние на читателей культового советского журнала «Техника молодёжи». В 80-90-х годах дети этих чи",
-      "url": "https://cosmatica.org/news/1317-pisatelskogo-tvorchestvo-gennadija-ivanovicha-tischenko.html",
-      "image": "https://cosmatica.org/upload/002/u218/f/e/pisatelskogo-tvorchestvo-gennadija-ivanovicha-tischenko-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=0f8e76c1731fc56092",
-      "type": "news-item",
-      "sourceCharacters": 2149,
-      "verified": false
-    },
-    {
-      "title": "Бортовой журнал \"Дружины Гагаринцев\" МОУ СОШ п. Куйбышев Волгоградской области",
-      "description": "Руководители Филиппова Татьяна Анатольевна и Кудряшова Татьяна Владимировна рассказали своим ученикам, как важно нашим воинам сейчас чувствовать поддержку.",
-      "url": "https://cosmatica.org/news/1316-bortovoi-zhurnal-druzhiny-gagarincev-mou-sosh-p-kuibyshev-volgogradskoi-oblasti.html",
-      "image": "https://cosmatica.org/upload/002/u218/6/0/gagarincy-volgogradskoi-oblasti-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=599998cecbb8b14714",
-      "type": "news-item",
-      "sourceCharacters": 2856,
       "verified": false
     }
   ],

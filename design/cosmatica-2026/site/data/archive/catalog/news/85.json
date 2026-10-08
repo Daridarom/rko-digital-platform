@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Кто же станет лучшим лектором?",
+      "description": "Цель Конкурса «Лучший Лектор» – формирование интереса к разговорной форме изложения учебного, научного или научно-популярного материала, развитие и популяризация лекторского искусства в российском обществе и развитие просветительской деятельности в России.",
+      "url": "https://cosmatica.org/news/821-kto-zhe-stanet-luchshim-lektorom.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/e/kto-zhe-stanet-luchshim-lektorom-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ccf0ad9136931aeb80",
+      "type": "news-item",
+      "sourceCharacters": 2003,
+      "verified": false
+    },
+    {
       "title": "Космос открыт для всех всегда",
       "description": "1 августа состоялся заезд этих самых Героев в военно-космический палаточный лагерь «Космодесант».",
       "url": "https://cosmatica.org/news/820-kosmos-otkryt-dlja-vseh-vsegda.html",
@@ -41,17 +52,6 @@
       "href": "view.html?p=news-item&ref=c49e720900fdd25048",
       "type": "news-item",
       "sourceCharacters": 2243,
-      "verified": false
-    },
-    {
-      "title": "Юные исследователи завершили полёт",
-      "description": "Великая Космическая Одиссея – это комплексная программа, ориентированная на формирование человека с космопланетарным мышлением в триединой логике исследователя, конструктора и организатора, обладающего знаниями, умениями и навыками, необходимыми для будущих космических, межпланетных путешествий.",
-      "url": "https://cosmatica.org/news/826-yunye-issledovateli-okonchili-polyot.html",
-      "image": "https://cosmatica.org/upload/000/u7/3/6/yunye-issledovateli-okonchili-polyot-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=cc57de3d65ef379e58",
-      "type": "news-item",
-      "sourceCharacters": 3490,
       "verified": false
     },
     {

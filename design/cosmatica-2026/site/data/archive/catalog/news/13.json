@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Экофилософию в массы",
+      "description": "28 января 2025 г в рамках Пятой художественно-промышленной выставки-форума \"Уникальная Россия\" в Гостином дворе (г. Москва, улица Ильинка, дом 4) прошла работа философского Круглого стола \"Уникальная страна: своим умом и своими руками\", организованная Молодежной секцией Комиссии по изучению научного наследия выдающихся учёных Российской академии.",
+      "url": "https://cosmatica.org/news/2008-ekofilosofiyu-v-massy.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/3/ekofilosofiyu-v-massy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=717ab2373ff89903ef",
+      "type": "news-item",
+      "sourceCharacters": 1799,
+      "verified": false
+    },
+    {
       "title": "В г.Стаханов торжественно открыли Год защитника Отечества",
       "description": "24 января 2025 года в Стахановском центре детского и юношеского творчества Луганской Народной Республики состоялось мероприятие, посвящённое открытию Года защитника Отечества и 80-летию Великой Победы в общеобразовательных организациях городов Стаханов, Ирмино, Алмазная.",
       "url": "https://cosmatica.org/news/2007-v-g-stahanov-torzhestvenno-otkryli-god-zaschitnika-otechestva.html",
@@ -22,14 +33,14 @@
       "verified": false
     },
     {
-      "title": "Экофилософию в массы",
-      "description": "28 января 2025 г в рамках Пятой художественно-промышленной выставки-форума \"Уникальная Россия\" в Гостином дворе (г. Москва, улица Ильинка, дом 4) прошла работа философского Круглого стола \"Уникальная страна: своим умом и своими руками\", организованная Молодежной секцией Комиссии по изучению научного наследия выдающихся учёных Российской академии.",
-      "url": "https://cosmatica.org/news/2008-ekofilosofiyu-v-massy.html",
-      "image": "https://cosmatica.org/upload/000/u7/3/3/ekofilosofiyu-v-massy-photo-normal.jpg",
+      "title": "В вечном строю прибыло",
+      "description": "8 декабря 2024 года пополнил вечный строй ученик Побиска Георгиевича Кузнецова, пример любознательности и жизнелюбия Виктор Михайлович Капустян .",
+      "url": "https://cosmatica.org/news/2006-v-vechnom-stroyu-pribylo.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/a/04eb2ad9.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=717ab2373ff89903ef",
+      "href": "view.html?p=news-item&ref=1f82421569ec201e6c",
       "type": "news-item",
-      "sourceCharacters": 1799,
+      "sourceCharacters": 1258,
       "verified": false
     },
     {
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=7d1455b386d3ed050b",
       "type": "news-item",
       "sourceCharacters": 1714,
-      "verified": false
-    },
-    {
-      "title": "100 лет со дня рождения Побиска Кузнецова: итоги",
-      "description": "В 2024 году исполнилось 100 лет со дня рождения русского гения Побиска Георгиевича Кузнецова.",
-      "url": "https://cosmatica.org/news/1992-100-let-so-dnja-rozhdenija-pobiska-kuznecova-itogi.html",
-      "image": "https://cosmatica.org/upload/000/u46/e/9/100-let-so-dnja-rozhdenija-pobiska-kuznecova-itogi-photo-normal.png",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=c22b38110cbb82190e",
-      "type": "news-item",
-      "sourceCharacters": 9018,
       "verified": false
     }
   ],

@@ -11,6 +11,39 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Выставка \"Наш Гагарин\" открылась в Берёзовском Свердловской области",
+      "description": "4 марта в вестибюле библиотеки Семейного чтения в г. Березовском Свердловской области , открылась фотовыставка «Наш Гагарин», приуроченная к 85-летию первого космонавта Юрия Гагарина. На ней представлены редкие фото с краткой информацией о подготовке и полете Гагарина в космос и о его жизни после полета. Выставка проходит в рамках работы Общественно — государственного комитета празднования 85 — летия Ю.А. Гагарина. Р",
+      "url": "https://cosmatica.org/news/341-vystavka-nash-gagarin-otkrylas-v-beryozovskom-sverdlovskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/000/u44/c/2/vystavka-nash-gagarin-otkrylas-v-beryozovskom-sverdlovskoi-obla.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=340b1c209a109beba7",
+      "type": "news-item",
+      "sourceCharacters": 1510,
+      "verified": false
+    },
+    {
+      "title": "От мечты к реальности",
+      "description": "«Наш народ своим гением, своим героическим трудом создал самый прекрасный в мире космический корабль «Восток» и его очень умное, очень надёжное оборудование. От старта и до самого приземления у меня не было никакого сомнения в успешном исходе космического полёта. Мне хочется от души поблагодарить наших учёных, инженеров, техников, всех советских рабочих, создавших такой корабль, на котором можно уверенно постигать та",
+      "url": "https://cosmatica.org/news/340-ot-mechty-k-realnosti.html",
+      "image": "https://cosmatica.org/upload/000/u26/4/0/79dc2cee.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b3741e6126612f9729",
+      "type": "news-item",
+      "sourceCharacters": 2893,
+      "verified": false
+    },
+    {
+      "title": "Любовь к звёздам.",
+      "description": "Детский клуб \"Эврика\" РКО Хакасии организовал групповое мероприятие в рамках проекта «Жемчуг исканий» с целью вырастить новых членов клуба и привить им любовь к звёздному небу. Под руководством тьюторов: Корнеева Евгения, Седунова Александра, Седунова Кирилла команды начали работу в группах по теме « Созвездия». Участники трёх команд: «Орион», «Цефей», «Персей» - все внимательно слушали мифы, рассказываемые тьюторами",
+      "url": "https://cosmatica.org/news/339-lyubov-k-zvyozdam.html",
+      "image": "https://cosmatica.org/upload/000/u43/5/f/lyubov-k-zvyozdam-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4cca7602411b047f13",
+      "type": "news-item",
+      "sourceCharacters": 1215,
+      "verified": false
+    },
+    {
       "title": "Колыбель космонавтики в надёжных руках",
       "description": "Состоялось событие, ознаменовавшее наш очередной прорыв. Обрести действующую и трудоспособную команду людей на родине одного из столпов космонавтики - Константина Эдуардовича Циолковского - это поистине бесценно.",
       "url": "https://cosmatica.org/news/338-kolybel-kosmonavtiki-v-nadyozhnyh-rukah.html",
@@ -19,28 +52,6 @@
       "href": "view.html?p=news-item&ref=58265fb9dcddb7775b",
       "type": "news-item",
       "sourceCharacters": 5756,
-      "verified": false
-    },
-    {
-      "title": "Возвышенно о высоком",
-      "description": "Мероприятие было проведено на высшем уровне, главными организаторами были Зотов Степан Андреевич - член Президиума Русского Космического Общества и Янковская Ольга Николаевна - cоздатель и руководитель компании \"Бизнес и Культура\". Приглашены были гости, среди которых оказались как члены РКО, так и представители других организаций: Спортивный клуб \"Роскосмос\" , ВПК \"Авангард\" и другие. Все они стали участниками уроко",
-      "url": "https://cosmatica.org/news/352-vysoko-o-vysokom.html",
-      "image": "https://cosmatica.org/upload/000/u26/4/b/420314fb.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=3470f28575d784e97d",
-      "type": "news-item",
-      "sourceCharacters": 2079,
-      "verified": false
-    },
-    {
-      "title": "\"Наше космическое завтра\" в Санкт-Петербурге",
-      "description": "В Санкт-Петербурге завершился региональный этап Международного конкурса рисунка «Наще космическое завтра»",
-      "url": "https://cosmatica.org/news/348-nashe-kosmicheskoe-zavtra-v-sankt-peterburge.html",
-      "image": "https://cosmatica.org/upload/000/u21/5/c/nashe-kosmicheskoe-zavtra-v-sankt-peterburge-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=1f524f94df008cb0d5",
-      "type": "news-item",
-      "sourceCharacters": 996,
       "verified": false
     },
     {
@@ -132,17 +143,6 @@
       "verified": false
     },
     {
-      "title": "Чужих детей не бывает",
-      "description": "Целью поездки было налаживание долгосрочного сотрудничества с детским домом по направлениям образования, популяризации знаний о космосе, космонавтике и астрономии. Делегацией РКО было предложено участие в ряде конкурсов, проводимых Организацией в настоящее время , в том числе в рамках работы Общественно-государственного комитета празднования 85-летия Юрия Алексеевича Гагарина .",
-      "url": "https://cosmatica.org/news/328-chuzhih-detei-ne-byvaet.html",
-      "image": "https://cosmatica.org/upload/000/u8/1/1/35aceb92.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=686eb70a47385f6c4b",
-      "type": "news-item",
-      "sourceCharacters": 1462,
-      "verified": false
-    },
-    {
       "title": "Новые познания об истории освоения космоса",
       "description": "Участники I Международного конкурса рисунков \" Наше космическое завтра \" - воспитанники детской художественной школы в Нижегородской области. Помимо непосредственного участия в вышеназванном событии, сотрудники учреждения также провели для ребят Гагаринский урок , который проходит по всей стране в рамках работы Общественно-государственного комитета празднования 85-летия Юрия Алексеевича Гагарина , активно набирающего",
       "url": "https://cosmatica.org/news/329-novye-poznanija-v-istorii-osvoenija-kosmosa.html",
@@ -154,6 +154,17 @@
       "verified": false
     },
     {
+      "title": "Чужих детей не бывает",
+      "description": "Целью поездки было налаживание долгосрочного сотрудничества с детским домом по направлениям образования, популяризации знаний о космосе, космонавтике и астрономии. Делегацией РКО было предложено участие в ряде конкурсов, проводимых Организацией в настоящее время , в том числе в рамках работы Общественно-государственного комитета празднования 85-летия Юрия Алексеевича Гагарина .",
+      "url": "https://cosmatica.org/news/328-chuzhih-detei-ne-byvaet.html",
+      "image": "https://cosmatica.org/upload/000/u8/1/1/35aceb92.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=686eb70a47385f6c4b",
+      "type": "news-item",
+      "sourceCharacters": 1462,
+      "verified": false
+    },
+    {
       "title": "Расширяя границы познания",
       "description": "— ФГБОУ ВО «Брянский государственный инженерно-технологический университет» (далее – университет, вуз, БГИТУ); — Государственный фонд развития Северо-Запада; — МОО «Русское космическое общество».",
       "url": "https://cosmatica.org/news/327-rasshirjaja-granicy-poznanija.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=defecf71648eaabeb1",
       "type": "news-item",
       "sourceCharacters": 2076,
-      "verified": false
-    },
-    {
-      "title": "Космические баталии земных шахмат",
-      "description": "Мероприятие было организовано « Спорклубом Роскосмоса ». Проведено совместно с Клубом Героев СССР, Героев России и полных кавалеров Ордена Славы , при поддержке Русского Космического Общества и Союза национальных и неолимпийских видов спорта .",
-      "url": "https://cosmatica.org/news/326-kosmicheskie-batalii-zemnyh-shahmat.html",
-      "image": "https://cosmatica.org/upload/000/u8/4/2/kosmicheskie-batalii-zemnyh-shahmat-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=fa830954974c6d8b5e",
-      "type": "news-item",
-      "sourceCharacters": 5777,
       "verified": false
     }
   ],

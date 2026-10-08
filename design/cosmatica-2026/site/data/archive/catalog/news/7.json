@@ -11,14 +11,14 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Ширит ряды Вечный Строй",
-      "description": "Тяжёлым для планеты и её человечества станет год 2026- й по общепринятому летоисчислению.",
-      "url": "https://cosmatica.org/news/2162-shirit-rjady-vechnyi-stroi.html",
-      "image": "https://cosmatica.org/upload/002/u218/2/d/shirit-rjady-vechnyi-stroi-photo-normal.jpg",
+      "title": "Уходят на небо товарищи строем",
+      "description": "Тяжёлым для планеты и её человечества станет год 2026-й по общепринятому летоисчислению. Январь принёс череду смертей наших содеев в разных уголках нашей Родины.",
+      "url": "https://cosmatica.org/news/2161-uhodjat-na-nebo-tovarischi-stroem.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/3/uhodjat-na-nebo-tovarischi-stroem-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=cb3331155d8ab78923",
+      "href": "view.html?p=news-item&ref=bb7594bc674e3566bb",
       "type": "news-item",
-      "sourceCharacters": 4435,
+      "sourceCharacters": 4014,
       "verified": false
     },
     {
@@ -44,39 +44,6 @@
       "verified": false
     },
     {
-      "title": "Год Империума - 2025",
-      "description": "Если мы боимся смело произносить его, если мы предпочитаем лучше промолчать, как бы чего ни вышло - то Врагу не надо переживать. \"Не слишком ли смело, остро, ново?\". Не только не слишком, а давно было пора. Всё старое, не острое и не смелое уже произошло.",
-      "url": "https://cosmatica.org/news/2157-god-imperiuma-2025.html",
-      "image": "https://cosmatica.org/upload/003/u395/e/3/god-imperiuma-2025-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=65a848f059accb57bd",
-      "type": "news-item",
-      "sourceCharacters": 2396,
-      "verified": false
-    },
-    {
-      "title": "8 лет в походе РКО. Итоги 2025 года",
-      "description": "21 декабря 2025г состоялось очередное, восьмое годовое, отчётное собрание Русского Космического Общества.",
-      "url": "https://cosmatica.org/news/2154-8-let-v-pohode-rko-itogi-2025-goda.html",
-      "image": "https://cosmatica.org/upload/002/u218/3/c/4b1f75f2.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=dd03ff91b9eece54cd",
-      "type": "news-item",
-      "sourceCharacters": 10248,
-      "verified": false
-    },
-    {
-      "title": "С Новым 2026 годом!",
-      "description": "Содеи , с оотечественники, соратники и друзья!",
-      "url": "https://cosmatica.org/news/2155-s-novym-2026-godom.html",
-      "image": "https://cosmatica.org/upload/002/u218/a/8/s-novym-2026-godom-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=033f2923218d29b0e5",
-      "type": "news-item",
-      "sourceCharacters": 2326,
-      "verified": false
-    },
-    {
       "title": "Итоги голосования органиизационного комитета ФНС",
       "description": "В соответствии с установлениями заседания Организационного комитета Федерального Народного Совета 5 декабря с.г., мы завершили голосование по первому пакету решений, которые были представлены на этом заседании. Голосование в телеграмм-канале Федерального Народного Совета проходило с 16 по 22 декабря.",
       "url": "https://cosmatica.org/news/2158-itogi-golosovanija-organiizacionnogo-komiteta-fns.html",
@@ -85,6 +52,17 @@
       "href": "view.html?p=news-item&ref=28694443ec00b904c9",
       "type": "news-item",
       "sourceCharacters": 2760,
+      "verified": false
+    },
+    {
+      "title": "Год Империума - 2025",
+      "description": "Если мы боимся смело произносить его, если мы предпочитаем лучше промолчать, как бы чего ни вышло - то Врагу не надо переживать. \"Не слишком ли смело, остро, ново?\". Не только не слишком, а давно было пора. Всё старое, не острое и не смелое уже произошло.",
+      "url": "https://cosmatica.org/news/2157-god-imperiuma-2025.html",
+      "image": "https://cosmatica.org/upload/003/u395/e/3/god-imperiuma-2025-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=65a848f059accb57bd",
+      "type": "news-item",
+      "sourceCharacters": 2396,
       "verified": false
     },
     {
@@ -99,6 +77,28 @@
       "verified": false
     },
     {
+      "title": "С Новым 2026 годом!",
+      "description": "Содеи , с оотечественники, соратники и друзья!",
+      "url": "https://cosmatica.org/news/2155-s-novym-2026-godom.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/8/s-novym-2026-godom-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=033f2923218d29b0e5",
+      "type": "news-item",
+      "sourceCharacters": 2326,
+      "verified": false
+    },
+    {
+      "title": "8 лет в походе РКО. Итоги 2025 года",
+      "description": "21 декабря 2025г состоялось очередное, восьмое годовое, отчётное собрание Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/2154-8-let-v-pohode-rko-itogi-2025-goda.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/c/4b1f75f2.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=dd03ff91b9eece54cd",
+      "type": "news-item",
+      "sourceCharacters": 10248,
+      "verified": false
+    },
+    {
       "title": "Слова Силы",
       "description": "Слова Силы - это руководство к действию. Первая книга прямого обращения к ребенку, юноше, девушке. Пробуждение человека-творца, победителя. Призыв к безднам могущества психики, которые надо открывать с детства. Слово - это мысль. Есть мысль, будет и Воля . Есть мысль, будет и Вера. Это фундаментальные силы миров, всерьез не изученные, потому что мы даже не пытались. Пора начать.",
       "url": "https://cosmatica.org/news/2153-slova-sily.html",
@@ -110,17 +110,6 @@
       "verified": false
     },
     {
-      "title": "I Региональный форум Курской области \"СОЗДАЁМ БУДУЩЕЕ\"",
-      "description": "09.12.2025г. в стенах Гимназии №63 «Академия успеха» г. Курска состоялся I Региональный форум, где его участники поддержали важный и созидательный разговор о реализации международного проекта «О будущем», в рамках которого в школах проходят киноуроки.",
-      "url": "https://cosmatica.org/news/2150-i-regionalnyi-forum-kurskoi-oblasti-sozdayom-buduschee.html",
-      "image": "https://cosmatica.org/upload/002/u218/3/f/i-regionalnyi-forum-kurskoi-oblasti-sozdayom-buduschee-photo-nor.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=237ba96a0511d3d5fc",
-      "type": "news-item",
-      "sourceCharacters": 2659,
-      "verified": false
-    },
-    {
       "title": "I Всероссийское собрание солидарных сообществ",
       "description": "5 декабря 2025 года в г. Москве, в парк-отеле «Шереметьевский» состоялись I Всероссийское собрание солидарных сообществ, а также ежегодное расширенное заседание Организационного комитета Федерального Народного Совета (ФНС).",
       "url": "https://cosmatica.org/news/2151-i-vserossiiskoe-sobranie-solidarnyh-soobschestv.html",
@@ -129,6 +118,17 @@
       "href": "view.html?p=news-item&ref=5ab0b3c9505ac73eb7",
       "type": "news-item",
       "sourceCharacters": 10555,
+      "verified": false
+    },
+    {
+      "title": "I Региональный форум Курской области \"СОЗДАЁМ БУДУЩЕЕ\"",
+      "description": "09.12.2025г. в стенах Гимназии №63 «Академия успеха» г. Курска состоялся I Региональный форум, где его участники поддержали важный и созидательный разговор о реализации международного проекта «О будущем», в рамках которого в школах проходят киноуроки.",
+      "url": "https://cosmatica.org/news/2150-i-regionalnyi-forum-kurskoi-oblasti-sozdayom-buduschee.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/f/i-regionalnyi-forum-kurskoi-oblasti-sozdayom-buduschee-photo-nor.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=237ba96a0511d3d5fc",
+      "type": "news-item",
+      "sourceCharacters": 2659,
       "verified": false
     },
     {

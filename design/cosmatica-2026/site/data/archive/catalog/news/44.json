@@ -11,14 +11,25 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Важнейшая задача - возвращение воды в реки",
-      "description": "Конференция проходила в г. Симферополь очно, но представители Русского Космического Общества участвовали в ней онлайн.",
-      "url": "https://cosmatica.org/news/1513-na-mezhdunarodnoi-konferencii-v-krymu-prozvuchal-doklad-o-tom-kak-reshit-problemu-ischeznovenij.html",
-      "image": "https://cosmatica.org/upload/009/u983/a/f/na-mezhdunarodnoi-konferencii-v-krymu-prozvuchal-doklad-o-tom-kak.jpg",
+      "title": "О гражданских инициативах помощи Донбассу говорили на площадке \"Кибер фронта\"",
+      "description": "В Штабе КИБЕР ФРОНТ Z в Санкт-Петербурге прошла встреча с представителями общественных организаций, которые помогают нашим воинам и их семьям, людям на освобожденных территориях и вынужденным переселенцам на Донбассе. СВО сплотила гражданское общество, и огромное количество людей стали добровольцами тыла, жертвуют деньги, вещи, доставляют гуманитарные грузы, проводят акции в поддержку ВС РФ. Ведущим мероприятия высту",
+      "url": "https://cosmatica.org/news/1506-o-grazhdanskih-iniciativah-pomoschi-donbassu-govorili-na-ploschadke-kiber-fronta.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/4/o-grazhdanskih-iniciativah-govorili-na-ploschadke-kiber-fronta-ph.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=20ea4d65d28659fe33",
+      "href": "view.html?p=news-item&ref=0857b3d7a29f486482",
       "type": "news-item",
-      "sourceCharacters": 3245,
+      "sourceCharacters": 2323,
+      "verified": false
+    },
+    {
+      "title": "Шагами Победы",
+      "description": "В день осеннего равноденствия, в великий православный праздник, на важном рубеже времён в решающий момент истории цивилизации Земли Россия сделала важный шаг к Победе.",
+      "url": "https://cosmatica.org/news/1505-shagami-pobedy.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/f/shagami-pobedy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1f260b96507b1cb3fd",
+      "type": "news-item",
+      "sourceCharacters": 1578,
       "verified": false
     },
     {
@@ -55,6 +66,17 @@
       "verified": false
     },
     {
+      "title": "Сад Победы в г. Лобня",
+      "description": "В начале учебного года отряд юных гагаринцев 3\"А\" класса МБОУ СОШ №9 г. Лобня со своим классным руководителем Мячиной Ларисой Владимировной приняли активное участие в городской акции \"Сад Победы\". Вместе с родителями и младшими братишками и сестрёнками школьники посадили яблоню \"Роялти\" в честь Никиты Перфилова - соотечественника и выпускника своей школы, старшего лейтенанта Воздушно-Космических Сил России, погибшего",
+      "url": "https://cosmatica.org/news/1500-sad-pobedy-v-g-lobnja.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/f/8efe503c.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=26ddce56583d452d67",
+      "type": "news-item",
+      "sourceCharacters": 1706,
+      "verified": false
+    },
+    {
       "title": "Осенняя Тропа Мужества проведена успешно!",
       "description": "Целью мероприятия является утверждение здоровой жизни, как нормы бытия. Кроме того, он объединяет близких по духу людей с общими целями и интересами в жизни.",
       "url": "https://cosmatica.org/news/1499-osennjaja-tropa-muzhestva-uspeshno-sostojalas.html",
@@ -74,17 +96,6 @@
       "href": "view.html?p=news-item&ref=e449b5b20e0f340d81",
       "type": "news-item",
       "sourceCharacters": 3268,
-      "verified": false
-    },
-    {
-      "title": "Сад Победы в г. Лобня",
-      "description": "В начале учебного года отряд юных гагаринцев 3\"А\" класса МБОУ СОШ №9 г. Лобня со своим классным руководителем Мячиной Ларисой Владимировной приняли активное участие в городской акции \"Сад Победы\". Вместе с родителями и младшими братишками и сестрёнками школьники посадили яблоню \"Роялти\" в честь Никиты Перфилова - соотечественника и выпускника своей школы, старшего лейтенанта Воздушно-Космических Сил России, погибшего",
-      "url": "https://cosmatica.org/news/1500-sad-pobedy-v-g-lobnja.html",
-      "image": "https://cosmatica.org/upload/002/u218/7/f/8efe503c.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=26ddce56583d452d67",
-      "type": "news-item",
-      "sourceCharacters": 1706,
       "verified": false
     },
     {
@@ -110,6 +121,28 @@
       "verified": false
     },
     {
+      "title": "Авиамоделирование, ракетостроение, основы безопасности и наука графология",
+      "description": "Семейные смены проходят в рамках проекта \"Пойдём с нами\" . Руководитель и организатор, действительный член Русского Космического Общества Юлия Леонидовна Юртова .",
+      "url": "https://cosmatica.org/news/1494-aviamodelirovanie-raketostroenie-osnovy-bezopasnosti-i-nauka-grafologija.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/0/fde1d94f.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e99af1bf55fc8cf0f5",
+      "type": "news-item",
+      "sourceCharacters": 2945,
+      "verified": false
+    },
+    {
+      "title": "Ветераны Байконура о начале космической эры",
+      "description": "Участниками съёмок, которые проводит калужская телерадиокомпания «Ника», стали члены Владимирской областной общественной организации ветеранов космодрома Байконур.",
+      "url": "https://cosmatica.org/news/1493-veterany-baikonura-o-nachale-kosmicheskoi-ery.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/b/b2a076d2.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=21ef0d764d9f57dfe3",
+      "type": "news-item",
+      "sourceCharacters": 2770,
+      "verified": false
+    },
+    {
       "title": "Знания порвут оковы рабства духа, мысли и тела",
       "description": "Лучший способ сохранить свою Землю для будущих поколений заключается в формировании Человека, способного и реализующего свою способность к творчеству во имя развития Жизни на Земле и в Космосе. На этой аксиоме построена вся научная школа устойчивого развития им. П.Г.Кузнецова, являющаяся фундаментом и научным основанием Русского Космического Общества.",
       "url": "https://cosmatica.org/news/1492-s-dnyom-znanii.html",
@@ -129,39 +162,6 @@
       "href": "view.html?p=news-item&ref=5e54e25555037d5a7c",
       "type": "news-item",
       "sourceCharacters": 3878,
-      "verified": false
-    },
-    {
-      "title": "Авиамоделирование, ракетостроение, основы безопасности и наука графология",
-      "description": "Семейные смены проходят в рамках проекта \"Пойдём с нами\" . Руководитель и организатор, действительный член Русского Космического Общества Юлия Леонидовна Юртова .",
-      "url": "https://cosmatica.org/news/1494-aviamodelirovanie-raketostroenie-osnovy-bezopasnosti-i-nauka-grafologija.html",
-      "image": "https://cosmatica.org/upload/002/u218/d/0/fde1d94f.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=e99af1bf55fc8cf0f5",
-      "type": "news-item",
-      "sourceCharacters": 2945,
-      "verified": false
-    },
-    {
-      "title": "Премьера киноурока \"Школьные ботаны\" на детском культурном форуме",
-      "description": "24-26 августа в Москве прошёл Детский культурный форум ( kids-forum.ru ), организованный при поддержке Министерства культуры РФ, в программе которого 25 августа состоялась встреча ребят с руководителями Всероссийского народного проекта \"Киноуроки в школах России\".",
-      "url": "https://cosmatica.org/news/1486-premera-kinouroka-shkolnye-botany-na-detskom-kulturnom-forume.html",
-      "image": "https://cosmatica.org/upload/002/u218/a/4/premera-kinouroka-shkolnye-botany-na-detskom-kulturnom-forum.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=d420c81fddc0b18cac",
-      "type": "news-item",
-      "sourceCharacters": 3349,
-      "verified": false
-    },
-    {
-      "title": "Ветераны Байконура о начале космической эры",
-      "description": "Участниками съёмок, которые проводит калужская телерадиокомпания «Ника», стали члены Владимирской областной общественной организации ветеранов космодрома Байконур.",
-      "url": "https://cosmatica.org/news/1493-veterany-baikonura-o-nachale-kosmicheskoi-ery.html",
-      "image": "https://cosmatica.org/upload/002/u218/d/b/b2a076d2.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=21ef0d764d9f57dfe3",
-      "type": "news-item",
-      "sourceCharacters": 2770,
       "verified": false
     },
     {

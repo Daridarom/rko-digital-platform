@@ -11,14 +11,14 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Калужский прорыв состоялся",
-      "description": "Турнир проводился в память о первом полёте человека в космос - шестьдесят лет назад, 12 апреля 1961 года Юрий Алексеевич Гагарин совершил настоящий космический прорыв в истории человечества! На небольшой, но очень информативной фотовыставке, представленной на соревнованиях, участники могли ознакомиться с интересными фактами о самом полёте и подготовке к нему.",
-      "url": "https://cosmatica.org/news/968-kaluzhskii-proryv-sostojalsja.html",
-      "image": "https://cosmatica.org/upload/002/u218/4/6/kaluzhskii-proryv-sostojalsja-photo-normal.jpg",
+      "title": "Космизм и общество будущего",
+      "description": "Беседу проводит Черёмина Эвелина Михайловна, руководитель сектора проектной деятельности Центральной библиотечной системы СЗАО г.Москвы",
+      "url": "https://cosmatica.org/news/966-kosmizm-i-obschestvo-buduschego.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/6/kosmizm-i-obschestvo-buduschego-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=91e88b09b437c4d413",
+      "href": "view.html?p=news-item&ref=ddd78730e7f600b6d5",
       "type": "news-item",
-      "sourceCharacters": 2106,
+      "sourceCharacters": 553,
       "verified": false
     },
     {
@@ -77,17 +77,6 @@
       "verified": false
     },
     {
-      "title": "Книга дня сегодня...",
-      "description": "Автор: Беляев Михаил Иванович – офицер запаса, Председатель секции Методов синтеза междисциплинарных знаний при Научно-техническом совете.",
-      "url": "https://cosmatica.org/news/958-kniga-dnja-segodnja.html",
-      "image": "https://cosmatica.org/upload/003/u395/c/9/kniga-dnja-segodnja-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=5c3688e2bd1c58253d",
-      "type": "news-item",
-      "sourceCharacters": 2179,
-      "verified": false
-    },
-    {
       "title": "Зимние сборы \"КГБ\" состоялись!",
       "description": "Отдельную благодарность выражаем руководителю Правового управления РКО Зюзькову Михаилу Викторовичу за помощь с доставкой детей, центру \"Резервист\" за тактико-специальную подготовку, Гришиной Людмиле за медицинские занятия, а также Ермоловой Ксении Владимировне - действительному члену РКО за организацию финальной игры в лесу.",
       "url": "https://cosmatica.org/news/960-zimnie-sbory-kgb-sostojalis.html",
@@ -107,6 +96,17 @@
       "href": "view.html?p=news-item&ref=cd49d70f6f485e4d24",
       "type": "news-item",
       "sourceCharacters": 761,
+      "verified": false
+    },
+    {
+      "title": "Книга дня сегодня...",
+      "description": "Автор: Беляев Михаил Иванович – офицер запаса, Председатель секции Методов синтеза междисциплинарных знаний при Научно-техническом совете.",
+      "url": "https://cosmatica.org/news/958-kniga-dnja-segodnja.html",
+      "image": "https://cosmatica.org/upload/003/u395/c/9/kniga-dnja-segodnja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5c3688e2bd1c58253d",
+      "type": "news-item",
+      "sourceCharacters": 2179,
       "verified": false
     },
     {

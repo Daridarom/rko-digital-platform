@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Космическая тропа. День четвёртый",
+      "description": "Завершается четвёртый день марш-броска «Космическая тропа». Утром 14 июня наши герои выйдут на финишную прямую к городу Калуга.",
+      "url": "https://cosmatica.org/news/1092-kosmicheskaja-tropa-den-chetvyortyi.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/e/9e0f4f0e.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=93fb32d1c516dc562c",
+      "type": "news-item",
+      "sourceCharacters": 2209,
+      "verified": false
+    },
+    {
       "title": "День русского языка в музее Славянской культуры имени Константина Васильева",
       "description": "В Москве в помещении музея Славянской культуры имени Константина Васильева состоялось совместное собрание Координационного совета ФНС и Совета музея Славянской культуры имени Константина Васильева.",
       "url": "https://cosmatica.org/news/1091-den-russkogo-jazyka-v-muzee-slavjanskoi-kultury-imeni-konstantina-vasileva.html",
@@ -99,6 +110,17 @@
       "verified": false
     },
     {
+      "title": "Космос. ЭРА. Дети",
+      "description": "Мероприятие было организовано ГК Роскосмос для школ - победителей акции \"КиноЭкология\". В числе гостей оказались школьники из Архангельска, Калмыкии и Крыма.",
+      "url": "https://cosmatica.org/news/1083-kosmos-era-deti.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/2/53bef789.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7e871a1a19a6e458a0",
+      "type": "news-item",
+      "sourceCharacters": 1258,
+      "verified": false
+    },
+    {
       "title": "Будет ПИР на весь Мир!",
       "description": "« Общество, способное использовать идеи, появляющиеся в сознании отдельного индивидуума, для роста возможностей общества в целом и использующее рост возможностей общества как целого для формирования индивидуума, способного генерировать новые идеи, — будет обладать наиболее быстрым темпом роста возможностей ».",
       "url": "https://cosmatica.org/news/1082-budet-pir-na-ves-mir.html",
@@ -143,36 +165,14 @@
       "verified": false
     },
     {
-      "title": "80-й День рождения Бориса Евгеньевича Большакова",
-      "description": "Без малого три года нет с нами Бориса Евгеньевича Большакова.",
-      "url": "https://cosmatica.org/news/1075-den-rozhdenija-borisa-evgenevicha-bolshakova.html",
-      "image": "https://cosmatica.org/upload/000/u7/c/d/den-rozhdenija-borisa-evgenevicha-bolshakova-photo-normal.jpg",
+      "title": "Вечный строй принял в свои ряды Александра Ивановича Шипкова",
+      "description": "Александр Иванович Шипков родился 21 апреля 1936 в Коломне Московской области. В 1959 году окончил Московский архитектурный институт с оценкой «отлично». Защитил кандидатскую диссертацию в 1971 году на тему: «Поляр — жилой комплекс заполярных районов СССР».",
+      "url": "https://cosmatica.org/news/1078-vechnyi-stroi-prinjal-v-svoi-rjady-aleksandra-ivanovicha-shipkova.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/3/8c0a24b5.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=cf726ed1c9d222bdeb",
+      "href": "view.html?p=news-item&ref=90e2dd6ad64b4b0979",
       "type": "news-item",
-      "sourceCharacters": 4251,
-      "verified": false
-    },
-    {
-      "title": "Космос. ЭРА. Дети",
-      "description": "Мероприятие было организовано ГК Роскосмос для школ - победителей акции \"КиноЭкология\". В числе гостей оказались школьники из Архангельска, Калмыкии и Крыма.",
-      "url": "https://cosmatica.org/news/1083-kosmos-era-deti.html",
-      "image": "https://cosmatica.org/upload/000/u35/f/2/53bef789.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=7e871a1a19a6e458a0",
-      "type": "news-item",
-      "sourceCharacters": 1258,
-      "verified": false
-    },
-    {
-      "title": "Присяга пред павшими и живыми",
-      "description": "- Как Вы попали в РКО? Почему приняли такое решение?",
-      "url": "https://cosmatica.org/news/1077-prisjaga-pred-pavshimi-i-zhivymi.html",
-      "image": "https://cosmatica.org/upload/000/u35/6/d/prisjaga-pred-pavshimi-i-zhivymi-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=1647da60b4e2bd30fc",
-      "type": "news-item",
-      "sourceCharacters": 4439,
+      "sourceCharacters": 5104,
       "verified": false
     }
   ],

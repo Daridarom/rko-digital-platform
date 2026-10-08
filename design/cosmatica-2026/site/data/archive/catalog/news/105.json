@@ -154,17 +154,6 @@
       "verified": false
     },
     {
-      "title": "Благодарность от многодетных семей",
-      "description": "От организации, объединяющей многодетные семьи Москвы, фонда \"Большая семья \", Русское Космическое Общество, как организатор палаточного лагеря \"Космодесант\", получило благодарственное письмо, в которой выражается благодарность за возможность льготного посещения лагерей \"Космодесант\" и \"Бородино\".",
-      "url": "https://cosmatica.org/news/484-blagodarnost-ot-mnogodetnyh-semei.html",
-      "image": "https://cosmatica.org/upload/002/u218/c/0/blagodarnost-ot-mnogodetnyh-semei-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=b333b48c85a65be6b6",
-      "type": "news-item",
-      "sourceCharacters": 831,
-      "verified": false
-    },
-    {
       "title": "Обращение к членам Русского Космического Общества",
       "description": "Каждый из вас, являясь членом Русского Космического Общества, ведёт важную работу по тем направлениям и проектам, в которых он заявился, вступая в РКО или затем выбрал в дальнейшем.",
       "url": "https://cosmatica.org/news/485-obraschenie-k-chlenam-russkogo-kosmicheskogo-obschestva.html",
@@ -173,6 +162,17 @@
       "href": "view.html?p=news-item&ref=a08067002fc4e757b1",
       "type": "news-item",
       "sourceCharacters": 2973,
+      "verified": false
+    },
+    {
+      "title": "Благодарность от многодетных семей",
+      "description": "От организации, объединяющей многодетные семьи Москвы, фонда \"Большая семья \", Русское Космическое Общество, как организатор палаточного лагеря \"Космодесант\", получило благодарственное письмо, в которой выражается благодарность за возможность льготного посещения лагерей \"Космодесант\" и \"Бородино\".",
+      "url": "https://cosmatica.org/news/484-blagodarnost-ot-mnogodetnyh-semei.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/0/blagodarnost-ot-mnogodetnyh-semei-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b333b48c85a65be6b6",
+      "type": "news-item",
+      "sourceCharacters": 831,
       "verified": false
     }
   ],

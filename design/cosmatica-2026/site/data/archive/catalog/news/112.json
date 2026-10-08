@@ -11,17 +11,6 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Знакомство с первооткрывателями Вселенной",
-      "description": "В преддверии Дня космонавтики и в рамках празднования 85-летия со дня рождения первого космонавта Юрия Алексеевича Гагарина Анапский археологический музей, на базе которого располагается региональное отделение Русского Космического Общества, продолжает цикл выездных лекций для детей \"Гражданин Вселенной\", посвящённых первому полёту человека в космос.",
-      "url": "https://cosmatica.org/news/388-znakomstvo-s-pervootkryvateljami-vselennoi.html",
-      "image": "https://cosmatica.org/upload/000/u26/8/c/znakomstvo-s-pervootkryvateljami-vselennoi-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=c306a136173f8deab6",
-      "type": "news-item",
-      "sourceCharacters": 1282,
-      "verified": false
-    },
-    {
       "title": "21 век - век космический",
       "description": "Мы стоим на пороге, за которым открывается эпоха ноосферно-космической истории человечества Земли.",
       "url": "https://cosmatica.org/news/390-21-vek-vek-kosmicheskii.html",
@@ -41,6 +30,28 @@
       "href": "view.html?p=news-item&ref=b7170f68099ceb469c",
       "type": "news-item",
       "sourceCharacters": 2348,
+      "verified": false
+    },
+    {
+      "title": "Знакомство с первооткрывателями Вселенной",
+      "description": "В преддверии Дня космонавтики и в рамках празднования 85-летия со дня рождения первого космонавта Юрия Алексеевича Гагарина Анапский археологический музей, на базе которого располагается региональное отделение Русского Космического Общества, продолжает цикл выездных лекций для детей \"Гражданин Вселенной\", посвящённых первому полёту человека в космос.",
+      "url": "https://cosmatica.org/news/388-znakomstvo-s-pervootkryvateljami-vselennoi.html",
+      "image": "https://cosmatica.org/upload/000/u26/8/c/znakomstvo-s-pervootkryvateljami-vselennoi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c306a136173f8deab6",
+      "type": "news-item",
+      "sourceCharacters": 1282,
+      "verified": false
+    },
+    {
+      "title": "Космос — дело мира!",
+      "description": "Открытие выставки: 12 апреля 2019 года. Адрес: Зеленоград, Центральная пл., 1, Культурный центр \"Зеленоград\". Период проведения выставки: 12.04 - 25.04.2019 г.",
+      "url": "https://cosmatica.org/news/387-kosmos-delo-mira.html",
+      "image": "https://cosmatica.org/upload/000/u26/6/0/kosmos-delo-mira-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0284129536fd0da5ee",
+      "type": "news-item",
+      "sourceCharacters": 15986,
       "verified": false
     },
     {
@@ -77,25 +88,14 @@
       "verified": false
     },
     {
-      "title": "Космос навсегда!",
-      "description": "Вот и наступило 12 апреля. Этот день – есть День космонавтики. И об этом в нашей стране знают многие. Поэтому принято с этим днём соотносить всевозможные мероприятия на космическую тему. Принято поздравлять людей, связанных с аэрокосмической сферой деятельности. Принято проводить форумы, фестивали, выставки, лекции, экскурсии. Принято высаживать деревья и вообще вспоминать и говорить о космосе. О том, как было хорошо",
-      "url": "https://cosmatica.org/news/381-kosmos-navsegda.html",
-      "image": "https://cosmatica.org/upload/000/u26/5/9/kosmos-navsegda-photo-normal.jpg",
+      "title": "Выполняя завет Гагарина",
+      "description": "6 апреля в пригородах Санкт-Петербурга г. Сестрорецк и г. Зеленогорск состоялась первая акция по сбору раздельно собранного вторсырья под эгидой Экологического Совета РКО .",
+      "url": "https://cosmatica.org/news/383-vypolnjaja-zavet-gagarina.html",
+      "image": "https://cosmatica.org/upload/000/u21/7/1/82801277.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=90602d5e1baeeb6269",
+      "href": "view.html?p=news-item&ref=3eed1dbc832f385bf0",
       "type": "news-item",
-      "sourceCharacters": 3753,
-      "verified": false
-    },
-    {
-      "title": "Космос — дело мира!",
-      "description": "Открытие выставки: 12 апреля 2019 года. Адрес: Зеленоград, Центральная пл., 1, Культурный центр \"Зеленоград\". Период проведения выставки: 12.04 - 25.04.2019 г.",
-      "url": "https://cosmatica.org/news/387-kosmos-delo-mira.html",
-      "image": "https://cosmatica.org/upload/000/u26/6/0/kosmos-delo-mira-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=0284129536fd0da5ee",
-      "type": "news-item",
-      "sourceCharacters": 15986,
+      "sourceCharacters": 2345,
       "verified": false
     },
     {
@@ -110,14 +110,25 @@
       "verified": false
     },
     {
-      "title": "Выполняя завет Гагарина",
-      "description": "6 апреля в пригородах Санкт-Петербурга г. Сестрорецк и г. Зеленогорск состоялась первая акция по сбору раздельно собранного вторсырья под эгидой Экологического Совета РКО .",
-      "url": "https://cosmatica.org/news/383-vypolnjaja-zavet-gagarina.html",
-      "image": "https://cosmatica.org/upload/000/u21/7/1/82801277.jpg",
+      "title": "Космос навсегда!",
+      "description": "Вот и наступило 12 апреля. Этот день – есть День космонавтики. И об этом в нашей стране знают многие. Поэтому принято с этим днём соотносить всевозможные мероприятия на космическую тему. Принято поздравлять людей, связанных с аэрокосмической сферой деятельности. Принято проводить форумы, фестивали, выставки, лекции, экскурсии. Принято высаживать деревья и вообще вспоминать и говорить о космосе. О том, как было хорошо",
+      "url": "https://cosmatica.org/news/381-kosmos-navsegda.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/9/kosmos-navsegda-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=3eed1dbc832f385bf0",
+      "href": "view.html?p=news-item&ref=90602d5e1baeeb6269",
       "type": "news-item",
-      "sourceCharacters": 2345,
+      "sourceCharacters": 3753,
+      "verified": false
+    },
+    {
+      "title": "Открытый IT-чемпионат для студентов и школьников нашёл своих героев",
+      "description": "Организаторами чемпионата выступили БГИТУ, Русское космическое общество, Образовательный проект для начинающих программистов IT-ПАРК, Школа робототехники Robotize Брянск, Центр технического творчества Брянской области, ДДиЮТ имени Ю.А. Гагарина.",
+      "url": "https://cosmatica.org/news/380-otkrytyi-it-chempionat-dlja-studentov-i-shkolnikov-nashyol-svoih-geroev.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/c/otkrytyi-it-chempionat-dlja-studentov-i-shkolnikov-nashyol-svoih-ger.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3f9427e9f7a617f23c",
+      "type": "news-item",
+      "sourceCharacters": 7012,
       "verified": false
     },
     {
@@ -143,17 +154,6 @@
       "verified": false
     },
     {
-      "title": "Открытый IT-чемпионат для студентов и школьников нашёл своих героев",
-      "description": "Организаторами чемпионата выступили БГИТУ, Русское космическое общество, Образовательный проект для начинающих программистов IT-ПАРК, Школа робототехники Robotize Брянск, Центр технического творчества Брянской области, ДДиЮТ имени Ю.А. Гагарина.",
-      "url": "https://cosmatica.org/news/380-otkrytyi-it-chempionat-dlja-studentov-i-shkolnikov-nashyol-svoih-geroev.html",
-      "image": "https://cosmatica.org/upload/000/u7/c/c/otkrytyi-it-chempionat-dlja-studentov-i-shkolnikov-nashyol-svoih-ger.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=3f9427e9f7a617f23c",
-      "type": "news-item",
-      "sourceCharacters": 7012,
-      "verified": false
-    },
-    {
       "title": "Приём работ окончен!",
       "description": "Конкурс организует и проводит Фонд поддержки и развития семей «Родная Семья » , при поддержке Р усского Космического Общества .",
       "url": "https://cosmatica.org/news/377-priyom-rabot-okonchen.html",
@@ -165,14 +165,14 @@
       "verified": false
     },
     {
-      "title": "Былина о Гагарине",
-      "description": "Некоторое время назад, в преддверии празднования 85-летия Юрия Алексеевича Гагарина в одной светлой голове родилась идея создания альбома-раскраски для детей, которая будет отражать жизненный путь первого космонавта Земли.",
-      "url": "https://cosmatica.org/news/374-bylina-o-gagarine.html",
-      "image": "https://cosmatica.org/upload/000/u26/c/3/bylina-o-gagarine-photo-normal.jpg",
+      "title": "Космонавт №5. Быковский Валерий Фёдорович",
+      "description": "27 марта покинул земной простор Быковский Валерий Фёдорович. Мы не давали траурных заметок. Он навсегда в Строю. Но знать его и помнить, несомненно, должны.",
+      "url": "https://cosmatica.org/news/375-kosmonavt-5-bykovskii-valerii-fyodorovich.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/2/kosmonavt-5-bykovskii-valerii-fyodorovich-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=1f6edaf02e11cf11d9",
+      "href": "view.html?p=news-item&ref=554f1e24bd4b14c741",
       "type": "news-item",
-      "sourceCharacters": 1140,
+      "sourceCharacters": 10867,
       "verified": false
     }
   ],

@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Первые Гагаринские отряды РКО будут созданы.",
+      "description": "Такие собрания являются регулярными и в школе проводятся раз в триместр. Но на этот раз собрание было особенным. На него были приглашены представители особенные гости: Татьяна Степановна Гвоздюк, руководитель бюро Президиума РКО и Александр Сергеевич Марусев, исполнительный директор Ассоциации музеев космонавтики (АМКОС)",
+      "url": "https://cosmatica.org/news/697-vystuplenie-predstavitele-rko-na-obscheshkolnom-roditelskom-sobranii.html",
+      "image": "https://cosmatica.org/upload/000/u72/c/2/vystuplenie-predstavitele-rko-na-obscheshkolnom-roditelskom-sobra.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3d471b81ea6c6b706a",
+      "type": "news-item",
+      "sourceCharacters": 1668,
+      "verified": false
+    },
+    {
       "title": "Мир из пустоты",
       "description": "Отличительной чертой этого фестиваля для Русского Космического Общества стало то, что на него был приглашён в качестве лектора наш юный соратник из только начавшего формироваться Ярославского отделения РКО Матасов Никита Александрович , студент ЯрГУ им. П.Г. Демидова.",
       "url": "https://cosmatica.org/news/695-mir-iz-pustoty.html",
@@ -77,17 +88,6 @@
       "verified": false
     },
     {
-      "title": "\"История Героев\" в Железногорске",
-      "description": "Приехав из Москвы, он прямо с колес был встречен в городском «Центре молодёжи» старшеклассниками и студентами, предвкушающими интересную и необычную беседу.",
-      "url": "https://cosmatica.org/news/688-istorija-geroev-v-zheleznogorske.html",
-      "image": "https://cosmatica.org/upload/000/u35/3/8/istorija-geroev-v-zheleznogorske-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=0e8aeb877775b68511",
-      "type": "news-item",
-      "sourceCharacters": 1115,
-      "verified": false
-    },
-    {
       "title": "Киноэкология в Кемерово. Эра",
       "description": "Младшие школьники лицея №17 Березовского г.о. приняли участие во Всероссийской акции \"Киноэкология\". О чём это? Сразу о трёх важных аспектах воспитания: бережном отношении к природной среде, патриотическом воспитании на примерах героической родной истории и сплочении позитивных устремлений подрастающего поколения в создании коллективного продукта - воспитательного кино.",
       "url": "https://cosmatica.org/news/689-kinoekologija-v-kemerovo-era.html",
@@ -96,6 +96,17 @@
       "href": "view.html?p=news-item&ref=b3e2ff324d9e780ff5",
       "type": "news-item",
       "sourceCharacters": 662,
+      "verified": false
+    },
+    {
+      "title": "\"История Героев\" в Железногорске",
+      "description": "Приехав из Москвы, он прямо с колес был встречен в городском «Центре молодёжи» старшеклассниками и студентами, предвкушающими интересную и необычную беседу.",
+      "url": "https://cosmatica.org/news/688-istorija-geroev-v-zheleznogorske.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/8/istorija-geroev-v-zheleznogorske-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0e8aeb877775b68511",
+      "type": "news-item",
+      "sourceCharacters": 1115,
       "verified": false
     },
     {
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=be6d25aa8d9f44983f",
       "type": "news-item",
       "sourceCharacters": 3033,
-      "verified": false
-    },
-    {
-      "title": "Кого берут в космонавты? \"Лайфхак\" для новичков",
-      "description": "Председатель Молодёжного совета Русского космического общества Денис Олегович Прудник поделился личным опытом подачи документов в отряд космонавтов в 2017 году, когда в РФ был объявлен второй открытый набор в отряд космонавтов Госкорпорации «Роскосмос». Лектор также рассказал о наборе текущего года: об основных требованиях, предъявляемых к кандидатам, и о том, что необходимо знать для подачи документов. Встреча прохо",
-      "url": "https://cosmatica.org/news/679-kogo-berut-v-kosmonavty-laifhak-dlja-novichkov.html",
-      "image": "https://cosmatica.org/upload/002/u218/a/2/kogo-berut-v-kosmonavty-laifhak-dlja-novichkov-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=c3c938c1f39817095f",
-      "type": "news-item",
-      "sourceCharacters": 6150,
       "verified": false
     }
   ],

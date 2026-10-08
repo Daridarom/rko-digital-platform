@@ -154,17 +154,6 @@
       "verified": false
     },
     {
-      "title": "Новый выпуск \"Спутника университетской науки\"",
-      "description": "После небольшого перерыва рады вернуться к Вам с новым выпуском научного дайджеста.",
-      "url": "https://cosmatica.org/news/1834-novyi-vypusk-sputnika-universitetskoi-nauki.html",
-      "image": "https://cosmatica.org/upload/000/u7/2/8/62a696a9.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=f615b3f209dcb832d0",
-      "type": "news-item",
-      "sourceCharacters": 1389,
-      "verified": false
-    },
-    {
       "title": "Основы пайки для гагаринцев",
       "description": "И мы очень хотим, чтобы как можно больше ребят были вовлечены в эту занимательную и полезную деятельность.",
       "url": "https://cosmatica.org/news/1835-osnovy-paiki-dlja-gagarincev.html",
@@ -173,6 +162,17 @@
       "href": "view.html?p=news-item&ref=928cc031bc52d028bf",
       "type": "news-item",
       "sourceCharacters": 1599,
+      "verified": false
+    },
+    {
+      "title": "Новый выпуск \"Спутника университетской науки\"",
+      "description": "После небольшого перерыва рады вернуться к Вам с новым выпуском научного дайджеста.",
+      "url": "https://cosmatica.org/news/1834-novyi-vypusk-sputnika-universitetskoi-nauki.html",
+      "image": "https://cosmatica.org/upload/000/u7/2/8/62a696a9.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f615b3f209dcb832d0",
+      "type": "news-item",
+      "sourceCharacters": 1389,
       "verified": false
     }
   ],

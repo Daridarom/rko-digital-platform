@@ -11,6 +11,28 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Объявлено Народное сплочение",
+      "description": "Русское Космическое Общество (РКО) и Совет Отцов РОД «Семья Отечества» (РОД СО) формирует Народное сплочение и организует Штаб вклада в Победу.",
+      "url": "https://cosmatica.org/news/1336-objavleno-narodnoe-splochenie.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/a/objavleno-narodnoe-splochenie-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=480bb81e58c418f8c3",
+      "type": "news-item",
+      "sourceCharacters": 3082,
+      "verified": false
+    },
+    {
+      "title": "Отечественная война. Отступать некуда. За нами Вечность!",
+      "description": "Обращение главы Русского Космического Общества Алексея Алексеевича Гапонова в ответ на многочисленные просьбы высказать отношение РКО и его руководящего состава к происходящему ныне в связи со специальной военно-политической операцией на Украине.",
+      "url": "https://cosmatica.org/news/1334-otechestvennaja-voina-otstupat-nekuda-za-nami-vechnost.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/5/otechestvennaja-voina-otstupat-nekuda-za-nami-vechnost-photo.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=06391a65e0c4aa45ef",
+      "type": "news-item",
+      "sourceCharacters": 1014,
+      "verified": false
+    },
+    {
       "title": "Пара слов о Вселенной",
       "description": "Цикл лекций-встреч Русского Космического Общества для детей Донбасса \"Из землянки в космос\" каждую неделю открывает для слушателей что-то новое.",
       "url": "https://cosmatica.org/news/1333-para-slov-o-vselennoi.html",
@@ -66,17 +88,6 @@
       "verified": false
     },
     {
-      "title": "Природное земледелие, почвоведение",
-      "description": "Продолжение цикла авторских семинаров, посвящённых природному пищевому разнообразию. Эту обширную сферу раскрывает слушателям Олег Викторович Наумкин , член Экологического совета Русского Космического Общества. Уже с успехом проведён семинар о сказочных и былинных растениях, два семинара о съедобных дикорастущих травах, краткий отчёт по этой ссылке . Естественным продолжением стала тема выращивания на собственных зем",
-      "url": "https://cosmatica.org/news/1338-prirodnoe-zemledelie-pochvovedenie.html",
-      "image": "https://cosmatica.org/upload/002/u218/0/d/prirodnoe-zemledelie-pochvovedenie-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=8ed21c35cd9eb912ec",
-      "type": "news-item",
-      "sourceCharacters": 3242,
-      "verified": false
-    },
-    {
       "title": "О прошлом по-новому",
       "description": "Конкурс грантовой поддержки актуальных исследований в области российской истории и культуры: «Степан Разин: создание научной биографии в свете новейших данных и подходов».",
       "url": "https://cosmatica.org/news/1328-o-proshlom-po-novomu.html",
@@ -96,17 +107,6 @@
       "href": "view.html?p=news-item&ref=f7eb663133ccdc690e",
       "type": "news-item",
       "sourceCharacters": 1045,
-      "verified": false
-    },
-    {
-      "title": "Дружинка гагаринцев детского сада \"Ягодка\" готовится ко Дню Космонавтики",
-      "description": "В интеллектуальной олимпиаде были задания на логику, внимание, способность размышлять и делать выводы. Высоко оценило способности гагаринцев жюри, в составе которого и Любовь Викторовна Мазурина , президент БФ \"Сохраним жизнь воде\" , уже несколько лет поддерживающего экологические воспитательные проекты в д/с \"Ягодка\".",
-      "url": "https://cosmatica.org/news/1318-druzhinka-gagarincev-detskogo-sada-jagodka-gotovitsja-ko-dnyu-kosmonavtiki.html",
-      "image": "https://cosmatica.org/upload/002/u218/c/d/7c098c34.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=be0029a93fa1c1d47b",
-      "type": "news-item",
-      "sourceCharacters": 2000,
       "verified": false
     },
     {
@@ -154,17 +154,6 @@
       "verified": false
     },
     {
-      "title": "Открылось отделение Банка семян в Санкт-Петербурге",
-      "description": "13 марта в Санкт-Петербургском штабе Русского Космического Общества впервые состоялась встреча добровольцев по сохранению и распространению семян русских устойчивых сортов растений – так открылось Северо-Западное отделение Банка семян РКО.",
-      "url": "https://cosmatica.org/news/1319-otkrylos-otdelenie-banka-semjan-v-sankt-peterburge.html",
-      "image": "https://cosmatica.org/upload/002/u218/7/2/otkrylos-otdelenie-banka-semjan-v-sankt-peterburge-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=876f02832cffef89c7",
-      "type": "news-item",
-      "sourceCharacters": 2751,
-      "verified": false
-    },
-    {
       "title": "Озвучена глава из книги \"Империум Человека\"",
       "description": "Долгожданная озвучка одной из глав книги Степана Андреевича Зотова и Ивана Магрегора состоялась.",
       "url": "https://cosmatica.org/news/1320-ozvuchena-glava-iz-knigi-imperium-cheloveka.html",
@@ -173,6 +162,17 @@
       "href": "view.html?p=news-item&ref=4d4e6c6e5375b7c642",
       "type": "news-item",
       "sourceCharacters": 1299,
+      "verified": false
+    },
+    {
+      "title": "Открылось отделение Банка семян в Санкт-Петербурге",
+      "description": "13 марта в Санкт-Петербургском штабе Русского Космического Общества впервые состоялась встреча добровольцев по сохранению и распространению семян русских устойчивых сортов растений – так открылось Северо-Западное отделение Банка семян РКО.",
+      "url": "https://cosmatica.org/news/1319-otkrylos-otdelenie-banka-semjan-v-sankt-peterburge.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/2/otkrylos-otdelenie-banka-semjan-v-sankt-peterburge-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=876f02832cffef89c7",
+      "type": "news-item",
+      "sourceCharacters": 2751,
       "verified": false
     }
   ],

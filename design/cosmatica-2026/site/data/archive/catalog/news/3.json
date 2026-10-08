@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "О неудачном пуске ракеты «Чанчжэн-7A»",
+      "description": "10 августа 2026 года с космодрома Вэньчан на острове Хайнань стартовала ракета «Чанчжэн-7A». Через восемьдесят пять секунд после отрыва от земли она взорвалась. Потеряна ракета. Потерян спутник. Потерян труд сотен и тысяч людей.",
+      "url": "https://cosmatica.org/news/2236-o-neudachnom-puske-rakety-chanchzhen-7a.html",
+      "image": "https://cosmatica.org/upload/000/u7/0/a/o-neudachnom-puske-rakety-chanchzhen-7a-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1af8af50830675b2bc",
+      "type": "news-item",
+      "sourceCharacters": 3695,
+      "verified": false
+    },
+    {
       "title": "Book of Life",
       "description": "«Книга Жизни» Гапонова А.А. и Зотова С.А. — одна из ключевых работ, в которых закладываются основания Империума Человека и путь космопланетарной соэволюции . Теперь она выходит на английском языке.",
       "url": "https://cosmatica.org/news/2235-book-of-life.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=24da35ffc0ec7f0a63",
       "type": "news-item",
       "sourceCharacters": 10163,
-      "verified": false
-    },
-    {
-      "title": "Этот разговор — о главном. О будущем и человечности.",
-      "description": "Руководитель проекта «О будущем» Виктор Александрович Меркулов и координатор «Битвы за будущее», ветеран СВО Алексей Алексеевич Гапонов об искусстве, которое должно стать орудием рождения смыслов, которые станут фундаментом развития нашей страны.",
-      "url": "https://cosmatica.org/news/2221-etot-razgovor-o-glavnom-o-buduschem-i-chelovechnosti.html",
-      "image": "https://cosmatica.org/upload/000/u7/d/9/etot-razgovor-o-glavnom-o-buduschem-i-chelovechnosti-photo-norm.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a868f1272638a322d4",
-      "type": "news-item",
-      "sourceCharacters": 3714,
       "verified": false
     }
   ],

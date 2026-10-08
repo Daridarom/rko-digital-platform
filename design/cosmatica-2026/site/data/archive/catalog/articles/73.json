@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "articles",
+  "title": "Публикации и материалы",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 73,
+  "pageCount": 73,
+  "total": 1085,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Презентации Русского Космического Общества",
+      "description": "В разделе размещаются презентации по различным направлениям деятельности Русского Космического Общества.",
+      "url": "https://cosmatica.org/articles/prezentacii-russkogo-kosmicheskogo-obschestva",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=096bb08c773975fabc",
+      "type": "articles-list",
+      "sourceCharacters": 541,
+      "verified": false
+    },
+    {
+      "title": "Публикации",
+      "description": "В данной рубрике Вы найдёте интервью, заметки, научные и научно-популярные статьи, написанные членами РКО.",
+      "url": "https://cosmatica.org/articles/publikacii",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list",
+      "type": "articles-list",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Секция Экофилософии",
+      "description": "",
+      "url": "https://cosmatica.org/articles/sekcija-ekofilosofii",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=59df8110f13b3fe51e",
+      "type": "articles-list",
+      "sourceCharacters": 285,
+      "verified": false
+    },
+    {
+      "title": "Секция сохранения биосферного разнообразия",
+      "description": "В данном разделе размещены статьи и видеоматериалы секции Сохранения биосферного разнообразия Экологического совета РКО",
+      "url": "https://cosmatica.org/articles/sekcija-sohranenija-biosfernogo-raznoobrazija",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=85ced9b15d8cafeb50",
+      "type": "articles-list",
+      "sourceCharacters": 986,
+      "verified": false
+    },
+    {
+      "title": "Владимир Иванович Вернадский",
+      "description": "",
+      "url": "https://cosmatica.org/articles/vladimir-ivanovich-vernadskii",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=be0a38978b661bdee2",
+      "type": "articles-list",
+      "sourceCharacters": 199,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -11,17 +11,6 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Концерт Звёздного Маэстро в Краснодаре",
-      "description": "А в ночь после концерта от нас ушёл композитор и певец, которому были подвластны все жанры музыкального искусства: и эстрада, и опера, и рок - Александр Борисович Градский. Он пел всю жизнь и пел о жизни: о друге, что не продаст, о том, что важно себя не терять, о том, что все в мире — любовь.",
-      "url": "https://cosmatica.org/news/1210-koncert-zvyozdnogo-maestro-v-krasnodare.html",
-      "image": "https://cosmatica.org/upload/002/u218/e/d/koncert-zvyozdnogo-maestro-v-krasnodare-photo-normal.png",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a70bbb8ac29b0b07ce",
-      "type": "news-item",
-      "sourceCharacters": 3659,
-      "verified": false
-    },
-    {
       "title": "Род продлить, землю беречь, небо держать",
       "description": "Ранее мы писали о рабочей поездке Главы Русского Космического Общества Алексея Алексеевича Гапонова во Владимир. Началась она с посещения студии телеканала \"Вариант\" .",
       "url": "https://cosmatica.org/news/1209-rod-prodlit-zemlyu-berech-nebo-derzhat.html",
@@ -30,6 +19,17 @@
       "href": "view.html?p=news-item&ref=bd2502b12321a9fc20",
       "type": "news-item",
       "sourceCharacters": 745,
+      "verified": false
+    },
+    {
+      "title": "Добрые дела в Лопатинской школе",
+      "description": "Наталья Владимировна Попова , участник Русского Космического Общества, учитель начальных классов и наставник Гагаринского отряда Лопатинской школы вместе с добровольцами-учителями и их семьями своими силами провели ремонт гагаринского музея в период осенних каникул.",
+      "url": "https://cosmatica.org/news/1208-dobrye-dela-v-lopatinskoi-shkole.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/5/dobrye-dela-v-lopatinskoi-shkole-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b67547dca12b2b0494",
+      "type": "news-item",
+      "sourceCharacters": 1666,
       "verified": false
     },
     {
@@ -44,14 +44,14 @@
       "verified": false
     },
     {
-      "title": "Снеговские чтения 2021г.",
-      "description": "В этом году чтения посвящены памяти первого Президента Русского Космического Общества - Бориса Евгеньевича Большакова . 17 ноября 2018г. он покинул этот мир и остался в нашей памяти, идеях и делах как человек, который заложил тот организационный механизм, коим является нынешнее Русское Космическое Общество. Он не был знаком со Снеговым и с его творчеством, но воплощал его идеи в жизнь . В то же время , его друг и учи",
-      "url": "https://cosmatica.org/news/1203-snegovskie-chtenija-2021g.html",
-      "image": "https://cosmatica.org/upload/002/u218/9/a/snegovskie-chtenija-2021g-photo-normal.jpg",
+      "title": "Что нам делать в ближайшем будущем",
+      "description": "Алексей Алексеевич Гапонов , глава Русского Космического Общества, и Сергей Иванович Сухонос , почётный член РКО, исследователь, автор 25 книг по системологии, обсуждали тему \"Что нам делать в ближайшем будущем\".",
+      "url": "https://cosmatica.org/news/1206-chto-nam-delat-v-blizhaishem-buduschem.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/6/chto-nam-delat-v-blizhaishem-buduschem-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=b5e57538c118d63848",
+      "href": "view.html?p=news-item&ref=6ceb68d92b241643e9",
       "type": "news-item",
-      "sourceCharacters": 4294,
+      "sourceCharacters": 1414,
       "verified": false
     },
     {
@@ -66,14 +66,14 @@
       "verified": false
     },
     {
-      "title": "Конференция о влиянии традиционной культуры на нравственное состояние народа в прошлом и настоящем",
-      "description": "11 ноября в Санкт-Петербурге, на базе Смольного института, прошла Межрегиональная научно-практическая конференция «Народная культура – основа нравственности человека» .",
-      "url": "https://cosmatica.org/news/1201-konferencija-o-vlijanii-tradicionnoi-kultury-na-nravstvennoe-sostojanie-naroda-v-proshlom-i-nas.html",
-      "image": "https://cosmatica.org/upload/002/u218/d/e/konferencija-o-vlijanii-tradicionnoi-kultury-na-nravstvennoe-sost.jpg",
+      "title": "Снеговские чтения 2021г.",
+      "description": "В этом году чтения посвящены памяти первого Президента Русского Космического Общества - Бориса Евгеньевича Большакова . 17 ноября 2018г. он покинул этот мир и остался в нашей памяти, идеях и делах как человек, который заложил тот организационный механизм, коим является нынешнее Русское Космическое Общество. Он не был знаком со Снеговым и с его творчеством, но воплощал его идеи в жизнь . В то же время , его друг и учи",
+      "url": "https://cosmatica.org/news/1203-snegovskie-chtenija-2021g.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/a/snegovskie-chtenija-2021g-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=d5fb7d3af92dbcd467",
+      "href": "view.html?p=news-item&ref=b5e57538c118d63848",
       "type": "news-item",
-      "sourceCharacters": 8001,
+      "sourceCharacters": 4294,
       "verified": false
     },
     {
@@ -88,14 +88,14 @@
       "verified": false
     },
     {
-      "title": "Что нам делать в ближайшем будущем",
-      "description": "Алексей Алексеевич Гапонов , глава Русского Космического Общества, и Сергей Иванович Сухонос , почётный член РКО, исследователь, автор 25 книг по системологии, обсуждали тему \"Что нам делать в ближайшем будущем\".",
-      "url": "https://cosmatica.org/news/1206-chto-nam-delat-v-blizhaishem-buduschem.html",
-      "image": "https://cosmatica.org/upload/002/u218/6/6/chto-nam-delat-v-blizhaishem-buduschem-photo-normal.jpg",
+      "title": "Конференция о влиянии традиционной культуры на нравственное состояние народа в прошлом и настоящем",
+      "description": "11 ноября в Санкт-Петербурге, на базе Смольного института, прошла Межрегиональная научно-практическая конференция «Народная культура – основа нравственности человека» .",
+      "url": "https://cosmatica.org/news/1201-konferencija-o-vlijanii-tradicionnoi-kultury-na-nravstvennoe-sostojanie-naroda-v-proshlom-i-nas.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/e/konferencija-o-vlijanii-tradicionnoi-kultury-na-nravstvennoe-sost.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=6ceb68d92b241643e9",
+      "href": "view.html?p=news-item&ref=d5fb7d3af92dbcd467",
       "type": "news-item",
-      "sourceCharacters": 1414,
+      "sourceCharacters": 8001,
       "verified": false
     },
     {
@@ -110,17 +110,6 @@
       "verified": false
     },
     {
-      "title": "(не)Детский военно-космический лагерь",
-      "description": "Довольны все: и новички, и ветераны. Были 25 человек, из которых 3 девочки, средний возраст от 10 до 14 лет и пара опытных ребят постарше.",
-      "url": "https://cosmatica.org/news/1198-kosmodesant-vernulsja-domoi.html",
-      "image": "https://cosmatica.org/upload/002/u218/b/4/kosmodesant-vernulsja-domoi-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=379efed4673c47f3ec",
-      "type": "news-item",
-      "sourceCharacters": 6672,
-      "verified": false
-    },
-    {
       "title": "Выезд отцов и сыновей на заставу под Вологдой",
       "description": "Такова ключевая идея основателей: мужчины юного возраста учатся у старших, а старшие реализуются как наставники, передавая свой опыт младшему поколению - в едином пространстве, едином сообществе, формируя более многообразную глубокую преемственность знаний, чем это возможно в рамках семьи.",
       "url": "https://cosmatica.org/news/1199-muzhskaja-shkola-dostizhenie.html",
@@ -129,6 +118,17 @@
       "href": "view.html?p=news-item&ref=386b72c359be368251",
       "type": "news-item",
       "sourceCharacters": 4593,
+      "verified": false
+    },
+    {
+      "title": "(не)Детский военно-космический лагерь",
+      "description": "Довольны все: и новички, и ветераны. Были 25 человек, из которых 3 девочки, средний возраст от 10 до 14 лет и пара опытных ребят постарше.",
+      "url": "https://cosmatica.org/news/1198-kosmodesant-vernulsja-domoi.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/4/kosmodesant-vernulsja-domoi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=379efed4673c47f3ec",
+      "type": "news-item",
+      "sourceCharacters": 6672,
       "verified": false
     },
     {
@@ -165,14 +165,14 @@
       "verified": false
     },
     {
-      "title": "Побисковские чтения - октябрь 2021г.",
-      "description": "Такими встречами мы не просто чтим память уникального учёного - мы чествуем Гения.",
-      "url": "https://cosmatica.org/news/1191-pobiskovskie-chtenija-oktjabr-2021g.html",
-      "image": "https://cosmatica.org/upload/002/u218/7/7/pobiskovskie-chtenija-oktjabr-2021g-photo-normal.jpg",
+      "title": "Банк Семян",
+      "description": "29 октября в центральном штабе Русского Космического Общества собралось более 20 добровольцев и энтузиастов, чтобы рассортировать и упаковать семена для проекта Банк семян .",
+      "url": "https://cosmatica.org/news/1194-bank-semjan.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/c/bank-semjan-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=05b85a0fe3437c5b75",
+      "href": "view.html?p=news-item&ref=b311f5472c11195b4f",
       "type": "news-item",
-      "sourceCharacters": 4171,
+      "sourceCharacters": 1262,
       "verified": false
     }
   ],

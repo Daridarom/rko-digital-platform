@@ -11,6 +11,39 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Отчётное годовое собрание Крымского отделения и Секции Ноосферного образования РКО",
+      "description": "Мероприятие состоялось 21 декабря 2018 года. На повестке дня стояли вопросы:",
+      "url": "https://cosmatica.org/news/280-otchyotnoe-godovoe-sobranie-krymskogo-otdelenija-i-sekcii-noosfernogo-obrazovanija-rko.html",
+      "image": "https://cosmatica.org/upload/000/u42/a8/bc/b434a889.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=52a34e87ca7c6cd4e3",
+      "type": "news-item",
+      "sourceCharacters": 2496,
+      "verified": false
+    },
+    {
+      "title": "А Вы знаете, где находится \"Служба времени\"?",
+      "description": "24 декабря 2018г. состоялась рабочая встреча в Службе времени кафедры астрономии СПбГУ.",
+      "url": "https://cosmatica.org/news/279-a-vy-znaete-gde-nahoditsja-sluzhba-vremeni.html",
+      "image": "https://cosmatica.org/upload/000/u21/3c/4b/a-vy-znaete-gde-nahoditsja-sluzhba-vremeni-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9391df870c3ce90b06",
+      "type": "news-item",
+      "sourceCharacters": 2504,
+      "verified": false
+    },
+    {
+      "title": "Гагаринские уроки для школьников",
+      "description": "19 декабря 2018г. сводный отряд \"Космического десанта\" Русского Космического Общества совершил первую высадку в рамках работы Гагаринского комитета.",
+      "url": "https://cosmatica.org/news/278-gagarinskie-uroki-dlja-shkolnikov.html",
+      "image": "https://cosmatica.org/upload/000/u21/ee/46/gagarinskie-uroki-dlja-shkolnikov-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=44f7c3960ccd64a563",
+      "type": "news-item",
+      "sourceCharacters": 2263,
+      "verified": false
+    },
+    {
       "title": "Величие России",
       "description": "12 апреля 1961 года человек впервые поднялся в космос, положив начало эре освоения неведомого доселе пространства.",
       "url": "https://cosmatica.org/news/277-velichie-rossii.html",
@@ -30,17 +63,6 @@
       "href": "view.html?p=news-item&ref=4290f82bcab61e43c5",
       "type": "news-item",
       "sourceCharacters": 3926,
-      "verified": false
-    },
-    {
-      "title": "Гагаринские уроки для школьников",
-      "description": "19 декабря 2018г. сводный отряд \"Космического десанта\" Русского Космического Общества совершил первую высадку в рамках работы Гагаринского комитета.",
-      "url": "https://cosmatica.org/news/278-gagarinskie-uroki-dlja-shkolnikov.html",
-      "image": "https://cosmatica.org/upload/000/u21/ee/46/gagarinskie-uroki-dlja-shkolnikov-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=44f7c3960ccd64a563",
-      "type": "news-item",
-      "sourceCharacters": 2263,
       "verified": false
     },
     {
@@ -77,14 +99,14 @@
       "verified": false
     },
     {
-      "title": "Избран новый Президент МОО \"Русское космическое общество\"",
-      "description": "В голосовании приняло участие: 74 человека – 61% от общего числа членов Общества, имеющих право голоса (минимальный порог, установленный Уставом , п. 4.1. – 50%).",
-      "url": "https://cosmatica.org/news/303-izbran-novyi-prezident-moo-russkoe-kosmicheskoe-obschestvo.html",
-      "image": "https://cosmatica.org/upload/000/u35/1/b/izbran-novyi-prezident-moo-russkoe-kosmicheskoe-obschestvo-photo.jpg",
+      "title": "Новый рывок в Ноосферное будущее!",
+      "description": "«Ноосферное образование как механизм становления Ноосферной России в XXI веке»",
+      "url": "https://cosmatica.org/news/271-novyi-ryvok-v-noosfernoe-buduschee.html",
+      "image": "https://cosmatica.org/upload/000/u21/5a/77/novyi-ryvok-v-noosfernoe-buduschee-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=5102fd816cfbc2042c",
+      "href": "view.html?p=news-item&ref=bf1a9d75d46f38600c",
       "type": "news-item",
-      "sourceCharacters": 719,
+      "sourceCharacters": 3775,
       "verified": false
     },
     {
@@ -107,17 +129,6 @@
       "href": "view.html?p=news-item&ref=a87c3e6df35dde1632",
       "type": "news-item",
       "sourceCharacters": 6058,
-      "verified": false
-    },
-    {
-      "title": "Новый рывок в Ноосферное будущее!",
-      "description": "«Ноосферное образование как механизм становления Ноосферной России в XXI веке»",
-      "url": "https://cosmatica.org/news/271-novyi-ryvok-v-noosfernoe-buduschee.html",
-      "image": "https://cosmatica.org/upload/000/u21/5a/77/novyi-ryvok-v-noosfernoe-buduschee-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=bf1a9d75d46f38600c",
-      "type": "news-item",
-      "sourceCharacters": 3775,
       "verified": false
     },
     {
@@ -154,25 +165,14 @@
       "verified": false
     },
     {
-      "title": "Памяти Бориса Евгеньевича Большакова: \"На бессмертие учителя\"",
-      "description": "17 ноября 2018 года ушёл в вечность не только Президент Русского Космического Общества, доктор технических наук, профессор, действительный член Российской академии естественных наук (РАЕН), руководитель Международной научной школы устойчивого развития имени П.Г. Кузнецова, заведующий кафедрой устойчивого инновационного развития Государственного университета «Дубна», не только блестящий учёный, творец, учитель, друг, ",
-      "url": "https://cosmatica.org/news/264-pamjati-borisa-evgenevicha-bolshakova-na-bessmertie-uchitelja.html",
-      "image": "https://cosmatica.org/upload/000/u26/76/9b/12ff27a8.jpg",
+      "title": "Андрей Евгеньевич Петров стал победителем конкурса Золотые Имена Высшей Школы - 2018",
+      "description": "Ключевым действующим элементом системы образования является преподаватель – носитель знаний, традиций российской высшей школы, ретранслятор ценностей, человек, способный заложить основу качества профессионального образования.",
+      "url": "https://cosmatica.org/news/265-andrei-evgenevich-petrov-stal-pobeditelem-konkursa-zolotye-imena-vysshei-shkoly-2018.html",
+      "image": "https://cosmatica.org/upload/000/u20/a8/15/andrei-evgen-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=815d090d6555a72c7e",
+      "href": "view.html?p=news-item&ref=661d122cb921fe683a",
       "type": "news-item",
-      "sourceCharacters": 943,
-      "verified": false
-    },
-    {
-      "title": "\"Энергия-Буран\" в Верхнем Уфалее",
-      "description": "По приглашению руководителя Головного Сетевого Координационного центра программы «Шаг в будущее» Эдуарда Михайловича Красавина, Председатель Челябинского отделения «Русского Космического Общества» Антон Владимирович Бессонов 1 декабря 2018 года приехал в административный центр Верхнеуфалейского городского округа – старинный уральский город Верхний Уфалей.",
-      "url": "https://cosmatica.org/news/263-energija-buran-v-verhnem-ufalee.html",
-      "image": "https://cosmatica.org/upload/000/u37/22/94/energija-buran-v-verhnem-ufalee-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=6936cecafcb57354e7",
-      "type": "news-item",
-      "sourceCharacters": 7672,
+      "sourceCharacters": 6283,
       "verified": false
     }
   ],

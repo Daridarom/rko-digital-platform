@@ -11,14 +11,14 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Поздравление с Днём Космонавтики",
-      "description": "Поэтому принято с этим днём соотносить всевозможные мероприятия на космическую тему. Принято поздравлять людей, связанных с аэрокосмической сферой деятельности. Принято проводить форумы, фестивали, выставки, лекции, экскурсии. Принято высаживать деревья и вообще вспоминать и говорить о космосе. О том, как было хорошо 12 апреля 1961 года, когда наш великий соотечественник, простой советский человек – Юрий Алексеевич Г",
-      "url": "https://cosmatica.org/news/745-pozdravlenie-s-dnyom-kosmonavtiki.html",
-      "image": "https://cosmatica.org/upload/000/u35/6/5/aaac0f70.jpg",
+      "title": "Вышел клип к всенародному фильму \"ЭРА\"",
+      "description": "Ко Дню космонавтики вышел клип к всенародному фильму \"ЭРА\", актуализирующему профессию космонавта и раскрывающему понятие \"МЕЧТА\".",
+      "url": "https://cosmatica.org/news/744-vyshel-klip-k-vsenarodnomu-filmu-era.html",
+      "image": "https://cosmatica.org/upload/000/u35/c/2/vyshel-klip-k-vsenarodnomu-filmu-era-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a357d0a4d102bd85ed",
+      "href": "view.html?p=news-item&ref=231597ded9ed5e7727",
       "type": "news-item",
-      "sourceCharacters": 3578,
+      "sourceCharacters": 2180,
       "verified": false
     },
     {
@@ -99,6 +99,17 @@
       "verified": false
     },
     {
+      "title": "Литературный конкурс ждёт новых талантов",
+      "description": "С 1 марта 2020 года открыт приём работ на Международный конкурс литературного клуба «Просвет».",
+      "url": "https://cosmatica.org/news/736-literaturnyi-konkurs-zhdyot-novyh-talantov.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/f/3ba8851c.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a7253b054b404b96e5",
+      "type": "news-item",
+      "sourceCharacters": 4763,
+      "verified": false
+    },
+    {
       "title": "Прими участие с создании фильма \"Час быка\"!",
       "description": "Русское Космическое Общество и инициативная группа поклонников творчества Ивана Антоновича Ефремова, в которую входят кинематографисты, писатели, учёные и художники объявляют о старте конкурса по созданию зарисовок, музыки и написанию сценария для производства фильма «Час Быка» по одноимённому роману Ивана Антоновича Ефремова.",
       "url": "https://cosmatica.org/news/735-primi-uchastie-s-sozdanii-filma-chas-byka.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=e48c61db41004ed2bf",
       "type": "news-item",
       "sourceCharacters": 1660,
-      "verified": false
-    },
-    {
-      "title": "\"Космический\" теннис по-Гагарински",
-      "description": "Первый в мире космонавт Юрий Алексеевич Гагарин родился 9 марта 1934 г. в Смоленской области в городе Гагарин. В этом городе в день рождения Ю.А.Гагарина ежегодно на протяжении уже 46 лет проходят Международные общественные и научные чтения, встречи с администрацией и общественностью города, посвященные его памяти. Одновременно в городе в этот день проходят Всероссийский традиционный турнир по борьбе Самбо и другие с",
-      "url": "https://cosmatica.org/news/729-kosmicheskii-tennis-po-gagarinski.html",
-      "image": "https://cosmatica.org/upload/000/u35/e/9/bbaccd96.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=489f553b4a9bc77c48",
-      "type": "news-item",
-      "sourceCharacters": 6386,
       "verified": false
     }
   ],

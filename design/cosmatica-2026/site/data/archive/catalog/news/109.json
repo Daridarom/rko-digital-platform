@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Без неба мне не жить",
+      "description": "Член Русского Космического Общества, Президент Международной ассоциации Всеобщее Вселенское Содружество (Италия), художник, поэтесса, режиссер Светлана Леонидовна Нестерова сотворила вдохновенное произведение о жизни и личности Первого космонавта Земли.",
+      "url": "https://cosmatica.org/news/438-bez-neba-mne-ne-zhit.html",
+      "image": "https://cosmatica.org/upload/000/u21/5/1/4a575169.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=095cae4837d8c22fb8",
+      "type": "news-item",
+      "sourceCharacters": 453,
+      "verified": false
+    },
+    {
       "title": "78-летие Первого Президента РКО",
       "description": "Первого Президента Русского Космического Общества, ученого всероссийского и международного масштаба, физика, математика, экономиста, геофизика, доктора технических наук, профессора, главы Международной научной школы устойчивого развития им. П.Г. Кузнецова.",
       "url": "https://cosmatica.org/news/436-78-letie-pervogo-prezidenta-rko.html",
@@ -41,17 +52,6 @@
       "href": "view.html?p=news-item&ref=48a897c4200536939a",
       "type": "news-item",
       "sourceCharacters": 6014,
-      "verified": false
-    },
-    {
-      "title": "\"Птицы Сибири\" залетели в Звёздный городок",
-      "description": "Наверное, не случайно получилось так, что первыми зрителями фотовыставки стали герои-космонавты В.Г. Титов, Ю.И. Маленченко и О.В. Новицкий , которые в этот день встречали в Доме космонавтов французскую делегацию во главе с первым французским космонавтом Жан Лу Кретьеном .",
-      "url": "https://cosmatica.org/news/441-pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok.html",
-      "image": "https://cosmatica.org/upload/000/u26/4/c/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=1a006743abd8d2e561",
-      "type": "news-item",
-      "sourceCharacters": 1571,
       "verified": false
     },
     {
@@ -99,17 +99,6 @@
       "verified": false
     },
     {
-      "title": "Награждение в Калуге",
-      "description": "В замечательном городе Калуге 13 мая 2019 года на базе «Школы-интерната № 5 им. Ф.А. Рау» состоялось долгожданное награждение победителей Международного конкурса рисунка «Наше космическое завтра», посвященного 85-летию Ю.А. Гагарина.",
-      "url": "https://cosmatica.org/news/428-nagrazhdenie-v-kaluge.html",
-      "image": "https://cosmatica.org/upload/001/u172/9/5/106ceccf.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=390719b7d458e22376",
-      "type": "news-item",
-      "sourceCharacters": 1461,
-      "verified": false
-    },
-    {
       "title": "Луна сияла в \"Сундуках\"",
       "description": "В лучах Луны ты шлешь мне свои любовные письма, — сказала Ночь Солнцу. — Я оставлю свои ответы — слезами на траве.",
       "url": "https://cosmatica.org/news/429-luna-sijala-v-sundukah.html",
@@ -118,6 +107,17 @@
       "href": "view.html?p=news-item&ref=4c2914899020b6c6ed",
       "type": "news-item",
       "sourceCharacters": 1244,
+      "verified": false
+    },
+    {
+      "title": "Награждение в Калуге",
+      "description": "В замечательном городе Калуге 13 мая 2019 года на базе «Школы-интерната № 5 им. Ф.А. Рау» состоялось долгожданное награждение победителей Международного конкурса рисунка «Наше космическое завтра», посвященного 85-летию Ю.А. Гагарина.",
+      "url": "https://cosmatica.org/news/428-nagrazhdenie-v-kaluge.html",
+      "image": "https://cosmatica.org/upload/001/u172/9/5/106ceccf.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=390719b7d458e22376",
+      "type": "news-item",
+      "sourceCharacters": 1461,
       "verified": false
     },
     {
@@ -132,17 +132,6 @@
       "verified": false
     },
     {
-      "title": "В Сочи состоялась III Спортивно-патриотическая гонка НАША ПОБЕДА",
-      "description": "Организатором выступила Компания Реинфо. Мероприятие проходило при поддержке и участии Русского Космического Общества.",
-      "url": "https://cosmatica.org/news/425-v-sochi-sostojalas-iii-sportivno-patrioticheskaja-gonka-nasha-pobeda.html",
-      "image": "https://cosmatica.org/upload/000/u26/3/1/v-sochi-sostojalas-iii-sportivno-patrioticheskaja-gonka-nasha-pobeda.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=d6e2be775ed9044034",
-      "type": "news-item",
-      "sourceCharacters": 6673,
-      "verified": false
-    },
-    {
       "title": "Жизнь и полёт Ю.А. Гагарина в отражении кинематографа.",
       "description": "Дарья Павловна Хаблова, Полина Алексеевна Клочкова,",
       "url": "https://cosmatica.org/news/426-zhizn-i-polyot-yu-a-gagarina-v-otrazhenii-kinematografa.html",
@@ -151,6 +140,17 @@
       "href": "view.html?p=news-item&ref=28a520daa7da9c8f42",
       "type": "news-item",
       "sourceCharacters": 19943,
+      "verified": false
+    },
+    {
+      "title": "В Сочи состоялась III Спортивно-патриотическая гонка НАША ПОБЕДА",
+      "description": "Организатором выступила Компания Реинфо. Мероприятие проходило при поддержке и участии Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/425-v-sochi-sostojalas-iii-sportivno-patrioticheskaja-gonka-nasha-pobeda.html",
+      "image": "https://cosmatica.org/upload/000/u26/3/1/v-sochi-sostojalas-iii-sportivno-patrioticheskaja-gonka-nasha-pobeda.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d6e2be775ed9044034",
+      "type": "news-item",
+      "sourceCharacters": 6673,
       "verified": false
     },
     {

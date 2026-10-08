@@ -55,6 +55,17 @@
       "verified": false
     },
     {
+      "title": "Приходите в гости к нам. \"Лесная сказка\"",
+      "description": "Сказание о космических далях прозвучало для обитателей \"Лесной сказки\", открыв новые грани познания мира.",
+      "url": "https://cosmatica.org/news/479-prihodite-v-gosti-k-nam-lesnaja-skazaka.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/5/prihodite-gosti-k-nam-lesnaja-skazaka-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b5fac4f427f3a06251",
+      "type": "news-item",
+      "sourceCharacters": 4799,
+      "verified": false
+    },
+    {
       "title": "35- летие полёта экипажа космического корабля «Союз Т-12»",
       "description": "17 июля на приходе Пантелеимоновского храма, в Елисаветинской гостиной состоялась встреча, посвященная 35-летию полета в космос Героя Советского Союза, заслуженного летчика-испытателя Игоря Петровича Волка в составе экипажа МКС В. А. Джанибекова и С.Е. Савицкой.",
       "url": "https://cosmatica.org/news/478-35-letie-polyota-ekipazha-kosmicheskogo-korablja-soyuz-t-12.html",
@@ -63,6 +74,17 @@
       "href": "view.html?p=news-item&ref=89d1b31954cf9e946d",
       "type": "news-item",
       "sourceCharacters": 7933,
+      "verified": false
+    },
+    {
+      "title": "Приходите в гости к нам. Путешествие продолжается.",
+      "description": "Лето – сезон путешествий. Увидеть новые места и наполниться новыми знаниями и впечатлениями – это замечательно. А совместить приятное с полезным и поделиться знаниями и впечатлениями с другими – ещё лучше.",
+      "url": "https://cosmatica.org/news/477-prihodite-v-gosti-k-nam-puteshestvie-prodolzhaetsja.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/c/prihodite-v-gosti-k-nam-puteshestvie-prodolzhaetsja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6fa0a5d6708c69d964",
+      "type": "news-item",
+      "sourceCharacters": 6701,
       "verified": false
     },
     {
@@ -143,17 +165,6 @@
       "verified": false
     },
     {
-      "title": "Приходите в гости к нам. \"Лесная сказка\"",
-      "description": "Сказание о космических далях прозвучало для обитателей \"Лесной сказки\", открыв новые грани познания мира.",
-      "url": "https://cosmatica.org/news/479-prihodite-v-gosti-k-nam-lesnaja-skazaka.html",
-      "image": "https://cosmatica.org/upload/000/u35/4/5/prihodite-gosti-k-nam-lesnaja-skazaka-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=b5fac4f427f3a06251",
-      "type": "news-item",
-      "sourceCharacters": 4799,
-      "verified": false
-    },
-    {
       "title": "Продолжается смена в палаточном лагере \"Космодесант\" - 2019",
       "description": "Лагерь Русского Космического Общества \"Космодесант\" под началом ч лена Президиума Русского Космического Общества, писателя и общественного деятеля Степана Андреевича Зотова, начал свою работу третьего июля в живописном месте Тульской области.",
       "url": "https://cosmatica.org/news/469-prodolzhaetsja-smena-v-palatochnom-lagere-kosmodesant.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=c853cb50da33ad9187",
       "type": "news-item",
       "sourceCharacters": 3616,
-      "verified": false
-    },
-    {
-      "title": "Приходите в гости к нам. Путешествие продолжается.",
-      "description": "Лето – сезон путешествий. Увидеть новые места и наполниться новыми знаниями и впечатлениями – это замечательно. А совместить приятное с полезным и поделиться знаниями и впечатлениями с другими – ещё лучше.",
-      "url": "https://cosmatica.org/news/477-prihodite-v-gosti-k-nam-puteshestvie-prodolzhaetsja.html",
-      "image": "https://cosmatica.org/upload/000/u35/3/c/prihodite-v-gosti-k-nam-puteshestvie-prodolzhaetsja-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=6fa0a5d6708c69d964",
-      "type": "news-item",
-      "sourceCharacters": 6701,
       "verified": false
     }
   ],

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1167-nacionalnye-kosmicheskie-obschestva-kak-centry-kosmoplanetarnoi-socialnoi-pedagogiki.html",
+  "title": "Национальные космические общества, как центры космопланетарной социальной педагогики.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/a/9/bezymjannyi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Национальные космические общества.pdf",
+      "spans": [
+        {
+          "text": "Национальные космические общества.pdf",
+          "href": "https://cosmatica.org/upload/redactorfiles/Национальные космические общества.pdf"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "Национальные космические общества.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/Национальные космические общества.pdf"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Полный текст исходного материала"
+    },
+    {
+      "type": "paragraph",
+      "text": "Национальные космические общества.pdf национальные космические общества , русское космическое общество Алексей Алексеевич Гапонов. Аркон.",
+      "spans": [
+        {
+          "text": "Национальные космические общества.pdf национальные космические общества , русское космическое общество Алексей Алексеевич Гапонов. Аркон."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Национальные космические общества.pdf",
+      "links": [
+        {
+          "title": "Национальные космические общества.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/Национальные космические общества.pdf"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u7/a/9/bezymjannyi.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/a/9/bezymjannyi.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 223,
+    "storedTextCharacters": 37,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 74360
+  },
+  "textFallbackRequired": true,
+  "originalKind": "article",
+  "sourceTextCharacters": 137,
+  "capturedBodyCharacters": 206,
+  "sourceTextSHA256": "9deffbf81496f8322d84ac1fcca0d25fe14645698e79e8d179231a02483b474a",
+  "archiveSnapshotAt": "2026-10-08T13:19:34Z"
+}

@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Уникальный эксперимент.",
+      "description": "27 июля ночью, в 3-00 по московскому времени в Мельбурне на 2-й международной научной конференции по природным катастрофам с ключевым докладом МНИИКА по новым технологиям прогнозирования землетрясений в \"пространстве Козырева\" выступает Председатель Новосибирского отделения РКО, директор Института д.м.н., Александр Васильевич Трофимов.",
+      "url": "https://cosmatica.org/news/154-monitoring-buduschego.html",
+      "image": "https://cosmatica.org/upload/000/u30/3e/12/ac97057a.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4d5a3f4a2a76ab8e68",
+      "type": "news-item",
+      "sourceCharacters": 2796,
+      "verified": false
+    },
+    {
       "title": "Марс отраженный в водах Хопра",
       "description": "С 22 по 28 июля в Волгоградской области станице Кумылженская проводится 10 юбилейный семинар по рукопашному бою, Казачьему Спасу и военно-прикладной подготовке «ЗОЛОТОЙ ЩИТ».",
       "url": "https://cosmatica.org/news/153-mars-otrazhennyi-v-vodah-hopra.html",
@@ -66,6 +77,17 @@
       "verified": false
     },
     {
+      "title": "Поздравляем с юбилеем Геннадия Ивановича Тищенко!",
+      "description": "Геннадий Иванович Тищенко — советский и российский мультипликатор, режиссёр, художник и сценарист. Родился в Баку в 1948 году. В юности на него оказали большое влияние книги Константина Циолковского и Ивана Ефремова: «Именно книги Циолковского и Ефремова сформировали во мне веру в то, что лишь исследование и освоение Вселенной гарантирует гармоничное развитие земного общества и бессмертие человечества». В шестидесяты",
+      "url": "https://cosmatica.org/news/148-pozdravljaem-s-yubileem.html",
+      "image": "https://cosmatica.org/upload/000/u8/f5/22/pozdravljaem-s-yubileem-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=93f2093a384b965958",
+      "type": "news-item",
+      "sourceCharacters": 2775,
+      "verified": false
+    },
+    {
       "title": "\"Человек - Вселенная\". Космическая антропоэкология в МНИИКА",
       "description": "\"MAN - UNIVERSE\" CONSTITUENT CONFERENCE OF SECTION COSMIC ANTHROPOECOLOGY OF RUSSIAN COSMIC SOCIETY ON THE BASE OF ISRICA IN NOVOSIBIRSK ON JULY,17 - DAY OF 94 th ANNIVERSARY OF ACADEMICIAN VLAIL P,KAZNACHEEV",
       "url": "https://cosmatica.org/news/147-chelovek-vselennaja-kosmicheskaja-antropoekologija-v-mniika.html",
@@ -110,17 +132,6 @@
       "verified": false
     },
     {
-      "title": "Поздравляем с юбилеем Геннадия Ивановича Тищенко!",
-      "description": "Геннадий Иванович Тищенко — советский и российский мультипликатор, режиссёр, художник и сценарист. Родился в Баку в 1948 году. В юности на него оказали большое влияние книги Константина Циолковского и Ивана Ефремова: «Именно книги Циолковского и Ефремова сформировали во мне веру в то, что лишь исследование и освоение Вселенной гарантирует гармоничное развитие земного общества и бессмертие человечества». В шестидесяты",
-      "url": "https://cosmatica.org/news/148-pozdravljaem-s-yubileem.html",
-      "image": "https://cosmatica.org/upload/000/u8/f5/22/pozdravljaem-s-yubileem-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=93f2093a384b965958",
-      "type": "news-item",
-      "sourceCharacters": 2775,
-      "verified": false
-    },
-    {
       "title": "Высадка прошла успешно!",
       "description": "Программа была реализована полностью. Ребята познакомились с новейшими теориями космических путешествий, и даже с практикой ракетостроения и запусков.",
       "url": "https://cosmatica.org/news/143-vysadka-proshla-uspeshno.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=825f8415874554b97f",
       "type": "news-item",
       "sourceCharacters": 1234,
-      "verified": false
-    },
-    {
-      "title": "Член Русского Космического Общества — человек-легенда Чуков Владимир Семёнович",
-      "description": "Перечесть все свершения Владимира Семёновича практически невозможно. За свои 72 года, он сделал немало. Вот лишь некоторые, основные вехи его жизненного пути.",
-      "url": "https://cosmatica.org/news/137-chlen-russkogo-kosmicheskogo-obschestva-chelovek-legenda-chukov-vladimir-semyonovich.html",
-      "image": "https://cosmatica.org/upload/000/u8/51/f9/chlen-russkogo-kosmicheskogo-obschestva-chelovek-legenda-chukov-vlad.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=5719ad803e172d3e67",
-      "type": "news-item",
-      "sourceCharacters": 5152,
       "verified": false
     }
   ],
