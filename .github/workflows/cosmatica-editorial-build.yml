@@ -8,6 +8,10 @@ on:
       - ".github/workflows/cosmatica-editorial-build.yml"
   workflow_dispatch:
 
+concurrency:
+  group: cosmatica-editorial-snapshot-build
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -39,5 +43,7 @@ jobs:
           git add design/cosmatica-2026/site/integration/*-build-report.json
           if ! git diff --cached --quiet; then
             git commit -m "build: complete editorial snapshot from approved sources"
+            git fetch origin feat/cosmatica-full-editorial-content-20261008
+            git rebase origin/feat/cosmatica-full-editorial-content-20261008
             git push origin HEAD:feat/cosmatica-full-editorial-content-20261008
           fi
