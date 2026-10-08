@@ -309,6 +309,27 @@
       "type": "image",
       "src": "https://cosmatica.org/upload/000/u1/5e/e3/3e6e5b8b.png",
       "alt": "Андрей Евгеньевич Петров"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240672&hash=687004f0731bbe6a",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240672&hash=687004f0731bbe6a"
+    },
+    {
+      "type": "video",
+      "platform": "rutube",
+      "embedUrl": "https://rutube.ru/play/embed/59c2855a68fbd5cd4698e293986a2ac5/?p=YhWN7V84S-HM2rMnmoT4fA",
+      "title": "Видео РКО",
+      "sourceUrl": "https://rutube.ru/play/embed/59c2855a68fbd5cd4698e293986a2ac5/?p=YhWN7V84S-HM2rMnmoT4fA"
+    },
+    {
+      "type": "video",
+      "platform": "rutube",
+      "embedUrl": "https://rutube.ru/play/embed/9ded9366e2c1c825a77940ac9c6804a0/",
+      "title": "Видео РКО",
+      "sourceUrl": "https://rutube.ru/play/embed/9ded9366e2c1c825a77940ac9c6804a0/"
     }
   ],
   "cards": [],
@@ -385,5 +406,6 @@
   "sourceTextCharacters": 4729,
   "capturedBodyCharacters": 4574,
   "sourceTextSHA256": "bcaa3487d52fd246ece09ac0bde09b3b54b5686cd391773bf6e6df712fc77500",
-  "archiveSnapshotAt": "2026-10-08T09:10:17Z"
+  "archiveSnapshotAt": "2026-10-08T09:10:17Z",
+  "publicVideoCount": 3
 }

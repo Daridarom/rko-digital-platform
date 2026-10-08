@@ -611,6 +611,13 @@
           "url": "https://cosmatica.org/upload/redactorfiles/Книга Жизни. Гапонов А.А. Зотов С.А..pdf"
         }
       ]
+    },
+    {
+      "type": "video",
+      "platform": "rutube",
+      "embedUrl": "https://rutube.ru/play/embed/dd1ff190a31988e910e17992234d9af4",
+      "title": "Видео РКО",
+      "sourceUrl": "https://rutube.ru/play/embed/dd1ff190a31988e910e17992234d9af4"
     }
   ],
   "cards": [],
@@ -697,5 +704,6 @@
   "sourceTextCharacters": 16344,
   "capturedBodyCharacters": 16235,
   "sourceTextSHA256": "3e9f1f144a527044e9400d1dbbf87888da6f2e468ea065b88cb2ff6351dd471b",
-  "archiveSnapshotAt": "2026-10-08T08:39:06Z"
+  "archiveSnapshotAt": "2026-10-08T08:39:06Z",
+  "publicVideoCount": 1
 }

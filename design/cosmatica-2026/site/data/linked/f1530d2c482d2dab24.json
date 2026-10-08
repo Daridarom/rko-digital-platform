@@ -93,6 +93,20 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/bdb40a47-3934-4869-8aae-e852c690fb58",
+      "title": "Видео РКО",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/bdb40a47-3934-4869-8aae-e852c690fb58"
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/2ace3549-0cce-4748-89f0-02c906f4969d",
+      "title": "Видео РКО",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/2ace3549-0cce-4748-89f0-02c906f4969d"
     }
   ],
   "cards": [],
@@ -151,5 +165,6 @@
   "sourceTextCharacters": 1894,
   "capturedBodyCharacters": 965,
   "sourceTextSHA256": "d8a14742a7a091229cabded97910aa9927f405bdfed5d45634d7d1b2643b7994",
-  "archiveSnapshotAt": "2026-10-08T09:09:48Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:48Z",
+  "publicVideoCount": 2
 }

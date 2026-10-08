@@ -466,6 +466,13 @@
       "videoId": "JFr305KaDOA",
       "title": "Видео РКО",
       "sourceUrl": "https://www.youtube.com/watch?v=JFr305KaDOA"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=5945845&id=456244215&hash=e7bf3ac1c1dea242&hd=1",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=5945845&id=456244215&hash=e7bf3ac1c1dea242&hd=1"
     }
   ],
   "cards": [],
@@ -566,5 +573,5 @@
   "capturedBodyCharacters": 5240,
   "sourceTextSHA256": "d6cc05a139c426d8cabf9e0f13778f7e8b255b98decdf046a95c2c2bdcf8bb15",
   "archiveSnapshotAt": "2026-10-08T08:58:22Z",
-  "publicVideoCount": 1
+  "publicVideoCount": 2
 }

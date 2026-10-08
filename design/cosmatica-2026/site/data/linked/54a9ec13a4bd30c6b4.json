@@ -61,6 +61,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/3e1871ee-ab40-4179-af16-b86981942cc8",
+      "title": "Юрий Гагарин - Человек Надежда",
+      "sourceUrl": "https://radovid.ru/videos/embed/3e1871ee-ab40-4179-af16-b86981942cc8"
     }
   ],
   "cards": [],
@@ -98,5 +105,6 @@
   "sourceTextCharacters": 710,
   "capturedBodyCharacters": 565,
   "sourceTextSHA256": "828f6e762fac50726de6e1f7c290aabf83a01602bb2c888563257e0b6d34cd62",
-  "archiveSnapshotAt": "2026-10-08T09:08:57Z"
+  "archiveSnapshotAt": "2026-10-08T09:08:57Z",
+  "publicVideoCount": 1
 }

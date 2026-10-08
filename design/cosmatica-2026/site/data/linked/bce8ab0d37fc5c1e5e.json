@@ -228,6 +228,13 @@
       "type": "image",
       "src": "https://cosmatica.org/upload/000/u12/1/9/vstrecha-s-avtorom-cikla-unikalnyh-knig-v-a-shapiro-gallery-norm.jpg",
       "alt": "Органический разум и цель его сотворения 5"
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/54346cde-716f-45d2-963e-e4ededb47fa5",
+      "title": "Видео РКО",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/54346cde-716f-45d2-963e-e4ededb47fa5"
     }
   ],
   "cards": [],
@@ -316,5 +323,6 @@
   "sourceTextCharacters": 3822,
   "capturedBodyCharacters": 2200,
   "sourceTextSHA256": "b4d65b73a4330710e21e35c9acf2c825bb15e07312cb370e72560558e483e2da",
-  "archiveSnapshotAt": "2026-10-08T09:10:02Z"
+  "archiveSnapshotAt": "2026-10-08T09:10:02Z",
+  "publicVideoCount": 1
 }

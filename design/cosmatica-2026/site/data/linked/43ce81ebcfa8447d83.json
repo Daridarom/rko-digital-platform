@@ -632,6 +632,55 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "vkvideo",
+      "embedUrl": "https://vkvideo.ru/video_ext.php?oid=-151230968&id=456239258&hd=2&autoplay=1",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vkvideo.ru/video_ext.php?oid=-151230968&id=456239258&hd=2&autoplay=1"
+    },
+    {
+      "type": "video",
+      "platform": "vkvideo",
+      "embedUrl": "https://vkvideo.ru/video_ext.php?oid=-151230968&id=456239259&hd=2&autoplay=1",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vkvideo.ru/video_ext.php?oid=-151230968&id=456239259&hd=2&autoplay=1"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239260&hd=2&autoplay=1",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239260&hd=2&autoplay=1"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239261&hd=2&autoplay=1",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239261&hd=2&autoplay=1"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239262&hd=2&autoplay=1",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239262&hd=2&autoplay=1"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239263&hd=2&autoplay=1",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239263&hd=2&autoplay=1"
+    },
+    {
+      "type": "video",
+      "platform": "vkvideo",
+      "embedUrl": "https://vkvideo.ru/video_ext.php?oid=-151230968&id=456239264&hd=2&autoplay=1",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vkvideo.ru/video_ext.php?oid=-151230968&id=456239264&hd=2&autoplay=1"
     }
   ],
   "cards": [],
@@ -714,5 +763,6 @@
   "sourceTextCharacters": 9015,
   "capturedBodyCharacters": 8883,
   "sourceTextSHA256": "c135e7df51fcdcb18b381d3da2c7875eb783af6a9b0fb9f197cf2012b07bca1c",
-  "archiveSnapshotAt": "2026-10-08T09:09:43Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:43Z",
+  "publicVideoCount": 7
 }

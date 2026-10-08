@@ -157,6 +157,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/794e8705-0528-4555-a3d8-8b1a0e103e9b",
+      "title": "Русское космическое общество. Открытая студия. 12.04.2024",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/794e8705-0528-4555-a3d8-8b1a0e103e9b"
     }
   ],
   "cards": [],
@@ -207,5 +214,6 @@
   "sourceTextCharacters": 1350,
   "capturedBodyCharacters": 1159,
   "sourceTextSHA256": "52366b1d070bc7393f409aa34e9a8613eecec7a75befa052697cea0bcad5b624",
-  "archiveSnapshotAt": "2026-10-08T09:09:09Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:09Z",
+  "publicVideoCount": 1
 }

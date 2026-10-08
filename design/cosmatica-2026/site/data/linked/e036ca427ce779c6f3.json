@@ -70,6 +70,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/8193f8c4-b465-42f3-9f33-4ae9dc373bc8",
+      "title": "Песню ''Юрий Гагарин'' исполняют гагаринцы детсада №15 ''Сказка'' г. Благовещенска",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/8193f8c4-b465-42f3-9f33-4ae9dc373bc8"
     }
   ],
   "cards": [],
@@ -116,5 +123,6 @@
   "sourceTextCharacters": 2358,
   "capturedBodyCharacters": 1440,
   "sourceTextSHA256": "76b13bd39647c7d9b4a5252aacb548200fe4d0cd2d1857c5759da6dbc6131fe3",
-  "archiveSnapshotAt": "2026-10-08T09:09:06Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:06Z",
+  "publicVideoCount": 1
 }

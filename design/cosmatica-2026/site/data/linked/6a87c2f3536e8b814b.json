@@ -35,6 +35,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/7054c3a2-8e17-48f8-bc8e-2de2208fdb3f",
+      "title": "Видео РКО",
+      "sourceUrl": "https://radovid.ru/videos/embed/7054c3a2-8e17-48f8-bc8e-2de2208fdb3f"
     }
   ],
   "cards": [],
@@ -78,5 +85,6 @@
   "sourceTextCharacters": 2564,
   "capturedBodyCharacters": 186,
   "sourceTextSHA256": "ae3d76c7bcc5306baf6be1f8d9bfc74098742a13b8f7f29a0f1eafbc9f9d4fbd",
-  "archiveSnapshotAt": "2026-10-08T09:10:24Z"
+  "archiveSnapshotAt": "2026-10-08T09:10:24Z",
+  "publicVideoCount": 1
 }

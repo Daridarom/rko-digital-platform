@@ -646,6 +646,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/411d8703-7e02-4c40-b719-032e640d7fcb",
+      "title": "Три месяца с ЭРА. Вперёд и вверх!",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/411d8703-7e02-4c40-b719-032e640d7fcb"
     }
   ],
   "cards": [],
@@ -793,5 +800,6 @@
   "sourceTextCharacters": 7261,
   "capturedBodyCharacters": 7142,
   "sourceTextSHA256": "48556cf6d64bc6eace66c45d1c561cb7f0888804356766d53432ce2cdddd6e7c",
-  "archiveSnapshotAt": "2026-10-08T09:09:29Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:29Z",
+  "publicVideoCount": 1
 }

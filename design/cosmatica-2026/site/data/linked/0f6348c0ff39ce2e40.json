@@ -364,6 +364,13 @@
       "videoId": "-SYYePl_IyI",
       "title": "Видео РКО",
       "sourceUrl": "https://www.youtube.com/watch?v=-SYYePl_IyI"
+    },
+    {
+      "type": "video",
+      "platform": "rutube",
+      "embedUrl": "https://rutube.ru/play/embed/278ecfb2611b1b993ea1787264b4696e/",
+      "title": "Видео РКО",
+      "sourceUrl": "https://rutube.ru/play/embed/278ecfb2611b1b993ea1787264b4696e/"
     }
   ],
   "cards": [],
@@ -452,5 +459,5 @@
   "capturedBodyCharacters": 2550,
   "sourceTextSHA256": "6f9782a03bc95dde4ce0454f194ce5bad8b7b5deab8cf394f97e890e88f6f7ec",
   "archiveSnapshotAt": "2026-10-08T09:09:52Z",
-  "publicVideoCount": 3
+  "publicVideoCount": 4
 }

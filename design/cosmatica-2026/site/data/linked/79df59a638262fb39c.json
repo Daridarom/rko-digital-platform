@@ -127,6 +127,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-181236998&id=456240365&hash=3ed8c8c2fe7d15d7&hd=2",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-181236998&id=456240365&hash=3ed8c8c2fe7d15d7&hd=2"
     }
   ],
   "cards": [],
@@ -174,5 +181,6 @@
   "sourceTextCharacters": 2804,
   "capturedBodyCharacters": 2616,
   "sourceTextSHA256": "42242e31fb81382ba70706516818452790a4b0cf5f77f31126c9d0af9f1e2a88",
-  "archiveSnapshotAt": "2026-10-08T09:07:32Z"
+  "archiveSnapshotAt": "2026-10-08T09:07:32Z",
+  "publicVideoCount": 1
 }

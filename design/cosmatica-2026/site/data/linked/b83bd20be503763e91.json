@@ -170,6 +170,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/0a02c2a6-8baa-494f-a02f-5e5dd2bb55f1",
+      "title": "Книга Жизни для жизни. Встреча с авторами (2024.04.10)",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/0a02c2a6-8baa-494f-a02f-5e5dd2bb55f1"
     }
   ],
   "cards": [],
@@ -226,5 +233,6 @@
   "sourceTextCharacters": 1618,
   "capturedBodyCharacters": 1446,
   "sourceTextSHA256": "79a1a02318a7faa21baca44c96a5a2e5c45b47c7cc598aef7061a732f7fd8199",
-  "archiveSnapshotAt": "2026-10-08T09:09:09Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:09Z",
+  "publicVideoCount": 1
 }

@@ -102,6 +102,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "bkvid",
+      "embedUrl": "https://bkvid.ru/videos/embed/38cd88af-ee9e-414a-93ac-f1b8394d6c85",
+      "title": "Видео РКО",
+      "sourceUrl": "https://bkvid.ru/videos/embed/38cd88af-ee9e-414a-93ac-f1b8394d6c85"
     }
   ],
   "cards": [],
@@ -160,5 +167,6 @@
   "sourceTextCharacters": 3769,
   "capturedBodyCharacters": 1137,
   "sourceTextSHA256": "810ac685c333b7198404c3bcf8386370ce6018c886c1254cc14ef89b06041b59",
-  "archiveSnapshotAt": "2026-10-08T09:09:56Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:56Z",
+  "publicVideoCount": 1
 }

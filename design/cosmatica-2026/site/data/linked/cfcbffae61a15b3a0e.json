@@ -630,6 +630,97 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239189&hash=f441c90f336e79d6",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239189&hash=f441c90f336e79d6"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239190&hash=91abefddb8ed13d1",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239190&hash=91abefddb8ed13d1"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239191&hash=2d2fb02420e8ff2d",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239191&hash=2d2fb02420e8ff2d"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239192&hash=793a4e1febed4869",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239192&hash=793a4e1febed4869"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239193&hash=3372faca25ad34c2",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239193&hash=3372faca25ad34c2"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239194&hash=6b597660f0f0d37b",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239194&hash=6b597660f0f0d37b"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239195&hash=5adb73b3bf10c6c5",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239195&hash=5adb73b3bf10c6c5"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239196&hash=823b0f7c6b8ce103",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239196&hash=823b0f7c6b8ce103"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239197&hash=d946b47d4cc3274a",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239197&hash=d946b47d4cc3274a"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239198&hash=574c38f59a5abfce",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239198&hash=574c38f59a5abfce"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239202&hash=bb0dca5d47766a64",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239202&hash=bb0dca5d47766a64"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239200&hash=eb3ede18caf5dbad",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239200&hash=eb3ede18caf5dbad"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239201&hash=9fdbbf960854719d",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-151230968&id=456239201&hash=9fdbbf960854719d"
     }
   ],
   "cards": [],
@@ -700,5 +791,6 @@
   "sourceTextCharacters": 9117,
   "capturedBodyCharacters": 8945,
   "sourceTextSHA256": "29e9b04ffa143a30cbe798c97029d453656ac6a345e0ae425aa12af49284921b",
-  "archiveSnapshotAt": "2026-10-08T09:09:02Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:02Z",
+  "publicVideoCount": 13
 }

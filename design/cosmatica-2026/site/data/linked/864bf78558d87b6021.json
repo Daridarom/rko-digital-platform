@@ -1584,6 +1584,20 @@
           "text": "\n                                    Нет записей.                            "
         }
       ]
+    },
+    {
+      "type": "video",
+      "platform": "rutube",
+      "embedUrl": "https://rutube.ru/play/embed/d7e2359ae9229a5bc88fd4d8bfd9bf86",
+      "title": "Видео РКО",
+      "sourceUrl": "https://rutube.ru/play/embed/d7e2359ae9229a5bc88fd4d8bfd9bf86"
+    },
+    {
+      "type": "video",
+      "platform": "rutube",
+      "embedUrl": "https://rutube.ru/play/embed/ed09bbd74bb0c7d9548acd71ac7d7869",
+      "title": "Видео РКО",
+      "sourceUrl": "https://rutube.ru/play/embed/ed09bbd74bb0c7d9548acd71ac7d7869"
     }
   ],
   "cards": [],
@@ -1645,5 +1659,6 @@
   "sourceTextCharacters": 20906,
   "capturedBodyCharacters": 20712,
   "sourceTextSHA256": "71877e2f46c7d22c67e207e636cef3d386311043e82d3bebd29c14b4d0fbd9ff",
-  "archiveSnapshotAt": "2026-10-08T09:16:57Z"
+  "archiveSnapshotAt": "2026-10-08T09:16:57Z",
+  "publicVideoCount": 2
 }

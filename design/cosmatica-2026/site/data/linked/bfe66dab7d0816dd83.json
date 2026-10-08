@@ -469,6 +469,48 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/9330f2d9-9ee1-43f6-ac89-8301a46c713d",
+      "title": "Россия и Мир - взгляд на 1000 лет вперёд - лекция 1",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/9330f2d9-9ee1-43f6-ac89-8301a46c713d"
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/8a42954f-7177-4107-a7e5-13589f38feb3",
+      "title": "Россия и Мир - взгляд на 1000 лет вперёд - лекция 2",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/8a42954f-7177-4107-a7e5-13589f38feb3"
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/b207dc15-34e8-4cff-b6be-943665e86dd1",
+      "title": "Россия и Мир - взгляд на 1000 лет вперёд - лекция 3",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/b207dc15-34e8-4cff-b6be-943665e86dd1"
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/677e3fde-76c7-4690-b1b0-22fb4067bf4b",
+      "title": "Россия и Мир - взгляд на 1000 лет вперёд - лекция 4",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/677e3fde-76c7-4690-b1b0-22fb4067bf4b"
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/9387cb5c-26a8-4239-942f-edc26f95e514",
+      "title": "Россия и Мир - взгляд на 1000 лет вперёд - лекция 5",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/9387cb5c-26a8-4239-942f-edc26f95e514"
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/924437e1-d144-40de-89ed-2638e84f33eb",
+      "title": "Россия и Мир - взгляд на 1000 лет вперёд - лекция 6",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/924437e1-d144-40de-89ed-2638e84f33eb"
     }
   ],
   "cards": [],
@@ -559,5 +601,6 @@
   "sourceTextCharacters": 13712,
   "capturedBodyCharacters": 13501,
   "sourceTextSHA256": "cb920025b800dc473a31fc08391c3d23488b76cad4daaef0b7f7ce5fc4eb9ce8",
-  "archiveSnapshotAt": "2026-10-08T09:09:40Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:40Z",
+  "publicVideoCount": 6
 }

@@ -230,21 +230,43 @@ def fields(root,url):
  return out
 
 def video_blocks(root,source_url):
- """Retain public YouTube embeds without copying or autoplaying video files."""
+ """Keep approved public video embeds as secure lazy references, never media copies."""
+ from urllib.parse import parse_qs
+ trusted={'cosmovid.ru','radovid.ru','bkvid.ru','rutube.ru',
+          'vkvideo.ru','vk.com','vk.ru','video.nikatv.ru'}
  result=[];seen=set()
  for frame in root.select('iframe[src]'):
   uri=abs_url(frame.get('src'),source_url)
   if not uri:continue
   parts=urlparse(uri)
-  if parts.hostname not in ('youtube.com','www.youtube.com','www.youtube-nocookie.com'):
-   continue
-  match=re.fullmatch(r'/embed/([a-zA-Z0-9_-]{11})/?',parts.path)
-  if not match:continue
-  video_id=match.group(1)
-  if video_id in seen:continue
-  seen.add(video_id)
-  result.append({'type':'video','platform':'youtube','videoId':video_id,
-                 'title':'Видео РКО','sourceUrl':'https://www.youtube.com/watch?v='+video_id})
+  host=(parts.hostname or '').lower()
+  if parts.scheme!='https' or parts.username or parts.password or parts.port:continue
+  title=(frame.get('title') or 'Видео РКО').strip()[:160]
+  if host in ('youtube.com','www.youtube.com','www.youtube-nocookie.com'):
+   match=re.fullmatch(r'/embed/([a-zA-Z0-9_-]{11})/?',parts.path)
+   if not match:continue
+   vid=match.group(1);key='youtube:'+vid
+   record={'type':'video','platform':'youtube','videoId':vid,
+           'title':title,'sourceUrl':'https://www.youtube.com/watch?v='+vid}
+  elif host in trusted:
+   path=parts.path
+   if host in ('cosmovid.ru','radovid.ru','bkvid.ru'):
+    valid=re.fullmatch(r'/videos/embed/[a-f0-9-]{36}/?',path,re.I) is not None
+   elif host=='rutube.ru':
+    valid=re.fullmatch(r'/play/embed/[a-zA-Z0-9_-]{12,}/?',path) is not None
+   elif host in ('vkvideo.ru','vk.com','vk.ru'):
+    params=parse_qs(parts.query)
+    valid=(path=='/video_ext.php' and re.fullmatch(r'-?\d+',params.get('oid',[''])[0]) is not None and
+           re.fullmatch(r'\d+',params.get('id',[''])[0]) is not None)
+   else:
+    valid=re.fullmatch(r'/video/[a-zA-Z0-9_-]+/?',path) is not None
+   if not valid:continue
+   key=uri
+   record={'type':'video','platform':host.split('.')[0],'embedUrl':uri,
+           'title':title,'sourceUrl':uri}
+  else:continue
+  if key in seen:continue
+  seen.add(key);result.append(record)
  return result
 
 def snapshot(url,kind):

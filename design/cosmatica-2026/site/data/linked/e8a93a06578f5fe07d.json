@@ -1096,6 +1096,13 @@
       "type": "image",
       "src": "https://cosmatica.org/upload/000/u46/2/0/trend-na-trezvost-gallery-normal.jpg",
       "alt": "Вектор трезвости 7"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-111939169&id=456245058&hash=b2b7da0548110c9b",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-111939169&id=456245058&hash=b2b7da0548110c9b"
     }
   ],
   "cards": [],
@@ -1210,5 +1217,6 @@
   "sourceTextCharacters": 19963,
   "capturedBodyCharacters": 19719,
   "sourceTextSHA256": "6eb8c8d0b3bda31cb06ad3792c646e7959355298b0e1ba941f5857c12c8d5233",
-  "archiveSnapshotAt": "2026-10-08T09:10:07Z"
+  "archiveSnapshotAt": "2026-10-08T09:10:07Z",
+  "publicVideoCount": 1
 }

@@ -73,6 +73,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "bkvid",
+      "embedUrl": "https://bkvid.ru/videos/embed/b0f27189-a1dd-4764-91bf-326413584d2d",
+      "title": "БАРС-Курск. Добровольцы. Звезда. Военная приёмка.",
+      "sourceUrl": "https://bkvid.ru/videos/embed/b0f27189-a1dd-4764-91bf-326413584d2d"
     }
   ],
   "cards": [],
@@ -115,5 +122,6 @@
   "sourceTextCharacters": 1200,
   "capturedBodyCharacters": 1148,
   "sourceTextSHA256": "559d6f9248664b905043b2f24f9b01526d239992836d7b1b445340266a0619b2",
-  "archiveSnapshotAt": "2026-10-08T09:10:04Z"
+  "archiveSnapshotAt": "2026-10-08T09:10:04Z",
+  "publicVideoCount": 1
 }

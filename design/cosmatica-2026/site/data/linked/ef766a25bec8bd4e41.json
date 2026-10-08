@@ -241,6 +241,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/32292e92-e310-48c6-bcc4-8b076570d7e5",
+      "title": "Видео РКО",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/32292e92-e310-48c6-bcc4-8b076570d7e5"
     }
   ],
   "cards": [],
@@ -286,5 +293,6 @@
   "sourceTextCharacters": 2974,
   "capturedBodyCharacters": 2783,
   "sourceTextSHA256": "0a0358b09a28f89bfe35e22e7a8368a57b4389209565544be9accd28f75c929e",
-  "archiveSnapshotAt": "2026-10-08T09:09:43Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:43Z",
+  "publicVideoCount": 1
 }

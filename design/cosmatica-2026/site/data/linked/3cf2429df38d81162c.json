@@ -93,6 +93,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/390b1803-3933-4bc2-803c-abd06321a969",
+      "title": "Международная выставка Россия. Гапонов Алексей Алексеевич",
+      "sourceUrl": "https://radovid.ru/videos/embed/390b1803-3933-4bc2-803c-abd06321a969"
     }
   ],
   "cards": [],
@@ -137,5 +144,6 @@
   "sourceTextCharacters": 1994,
   "capturedBodyCharacters": 1872,
   "sourceTextSHA256": "426109ffdba65bf8c273666860d533f0f68c09e32ebedcf189e783dfaa210f8e",
-  "archiveSnapshotAt": "2026-10-08T09:08:55Z"
+  "archiveSnapshotAt": "2026-10-08T09:08:55Z",
+  "publicVideoCount": 1
 }

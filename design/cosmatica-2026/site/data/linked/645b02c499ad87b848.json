@@ -246,6 +246,13 @@
       "videoId": "G58yJ1Biowo",
       "title": "Видео РКО",
       "sourceUrl": "https://www.youtube.com/watch?v=G58yJ1Biowo"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240205&hash=36e0fbd645e92001&hd=2",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240205&hash=36e0fbd645e92001&hd=2"
     }
   ],
   "cards": [],
@@ -294,5 +301,5 @@
   "capturedBodyCharacters": 5107,
   "sourceTextSHA256": "84e32663f8166bcb5da3c3ed05ae15cdad8e532035b127ec4e5069e2ed9ba81b",
   "archiveSnapshotAt": "2026-10-08T08:53:18Z",
-  "publicVideoCount": 2
+  "publicVideoCount": 3
 }

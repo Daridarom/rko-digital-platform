@@ -827,6 +827,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/3e0e64d5-a03b-4f16-8ef8-58ded5d6aed6",
+      "title": "Космодесант - 2024",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/3e0e64d5-a03b-4f16-8ef8-58ded5d6aed6"
     }
   ],
   "cards": [],
@@ -907,5 +914,6 @@
   "sourceTextCharacters": 15161,
   "capturedBodyCharacters": 14941,
   "sourceTextSHA256": "9fcb171d15866be858887d0ad7e7570c21756b891a65cc3d7b41b28b1d7865fd",
-  "archiveSnapshotAt": "2026-10-08T09:09:27Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:27Z",
+  "publicVideoCount": 1
 }

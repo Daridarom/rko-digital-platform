@@ -222,6 +222,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/56b55f2c-9ce9-4810-9387-4d50bb460a35",
+      "title": "Дети войны. Русский стяг.",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/56b55f2c-9ce9-4810-9387-4d50bb460a35"
     }
   ],
   "cards": [],
@@ -304,5 +311,6 @@
   "sourceTextCharacters": 2377,
   "capturedBodyCharacters": 2300,
   "sourceTextSHA256": "82d1bdac0dcf5bc7d763f0a53d8f5de776a9229cabf953bfb1fe3f84df19974a",
-  "archiveSnapshotAt": "2026-10-08T09:09:30Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:30Z",
+  "publicVideoCount": 1
 }

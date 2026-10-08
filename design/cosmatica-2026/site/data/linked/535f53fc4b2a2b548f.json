@@ -468,6 +468,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/6a791c0a-d544-4b04-891d-94fd0f18624f",
+      "title": "Посвящение первоклассников в гагаринцы. Гимназия №6. Донецк. (2024.04.05)",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/6a791c0a-d544-4b04-891d-94fd0f18624f"
     }
   ],
   "cards": [],
@@ -539,5 +546,6 @@
   "sourceTextCharacters": 6135,
   "capturedBodyCharacters": 6004,
   "sourceTextSHA256": "e7cf9186367d28ce8954ffa5120635296cc8fec1f5ad3725e1439e9680c1053d",
-  "archiveSnapshotAt": "2026-10-08T09:09:07Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:07Z",
+  "publicVideoCount": 1
 }

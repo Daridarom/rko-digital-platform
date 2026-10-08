@@ -410,6 +410,48 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/49096e03-78da-49b4-bfa4-ca24014dec8c",
+      "title": "Александров. Часть 1",
+      "sourceUrl": "https://radovid.ru/videos/embed/49096e03-78da-49b4-bfa4-ca24014dec8c"
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/a78bf508-6432-416c-bc8f-7830168e109a",
+      "title": "Александров. Часть 2",
+      "sourceUrl": "https://radovid.ru/videos/embed/a78bf508-6432-416c-bc8f-7830168e109a"
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/3eefb9d7-c47e-4fe2-bc0c-451a9d536c53",
+      "title": "Александров. Часть 3",
+      "sourceUrl": "https://radovid.ru/videos/embed/3eefb9d7-c47e-4fe2-bc0c-451a9d536c53"
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/3e729ef7-50e2-4c0f-9546-d0eec47cb181",
+      "title": "Александров. Часть 4",
+      "sourceUrl": "https://radovid.ru/videos/embed/3e729ef7-50e2-4c0f-9546-d0eec47cb181"
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/30ea2357-bdcd-4398-bfb0-bafb838d70e1",
+      "title": "Александров. Часть 5",
+      "sourceUrl": "https://radovid.ru/videos/embed/30ea2357-bdcd-4398-bfb0-bafb838d70e1"
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/e80cdfb1-6d56-41c5-bfb4-1d02203d2035",
+      "title": "Александров. Часть 6",
+      "sourceUrl": "https://radovid.ru/videos/embed/e80cdfb1-6d56-41c5-bfb4-1d02203d2035"
     }
   ],
   "cards": [],
@@ -479,5 +521,6 @@
   "sourceTextCharacters": 5638,
   "capturedBodyCharacters": 5384,
   "sourceTextSHA256": "e7e553697edc96b531b61739933ee08e56c1966315a6f1df09c11a934bdcec4a",
-  "archiveSnapshotAt": "2026-10-08T09:08:57Z"
+  "archiveSnapshotAt": "2026-10-08T09:08:57Z",
+  "publicVideoCount": 6
 }

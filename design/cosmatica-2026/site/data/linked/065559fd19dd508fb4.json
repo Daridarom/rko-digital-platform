@@ -732,6 +732,20 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/f4f0830e-f569-4685-832c-25d0be85b6df",
+      "title": "Конференция Сплочение. Часть 1",
+      "sourceUrl": "https://radovid.ru/videos/embed/f4f0830e-f569-4685-832c-25d0be85b6df"
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/2614bc5a-ac83-48ef-9fde-72145ee6f9c3",
+      "title": "Конференция Сплочение. Часть 2",
+      "sourceUrl": "https://radovid.ru/videos/embed/2614bc5a-ac83-48ef-9fde-72145ee6f9c3"
     }
   ],
   "cards": [],
@@ -790,5 +804,6 @@
   "sourceTextCharacters": 11802,
   "capturedBodyCharacters": 11631,
   "sourceTextSHA256": "55d1e3a66b2479b7ff02065fae8eccb77111801acef4a571c878ec471e647d34",
-  "archiveSnapshotAt": "2026-10-08T09:09:05Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:05Z",
+  "publicVideoCount": 2
 }

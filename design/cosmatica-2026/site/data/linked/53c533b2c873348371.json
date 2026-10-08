@@ -224,6 +224,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/f082b91d-0de6-4e9c-b137-ae40b919f1a9",
+      "title": "АСТРОНОМЫ",
+      "sourceUrl": "https://radovid.ru/videos/embed/f082b91d-0de6-4e9c-b137-ae40b919f1a9"
     }
   ],
   "cards": [],
@@ -294,5 +301,6 @@
   "sourceTextCharacters": 2673,
   "capturedBodyCharacters": 2538,
   "sourceTextSHA256": "481c311007f1da8556082fc87e85b48316d926a1e4220ed988931283ba77dd37",
-  "archiveSnapshotAt": "2026-10-08T09:09:32Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:32Z",
+  "publicVideoCount": 1
 }

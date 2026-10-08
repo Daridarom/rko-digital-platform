@@ -189,6 +189,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/1ccc7065-cb13-48c3-be96-c6f09f56102e",
+      "title": "Андрей Ильич Фурсов, Екатерина Фёдоровна Шамаева, Андрей Аркадьевич Головин - 100 лет Побиску Георгиевичу Кузнецову",
+      "sourceUrl": "https://radovid.ru/videos/embed/1ccc7065-cb13-48c3-be96-c6f09f56102e"
     }
   ],
   "cards": [],
@@ -271,5 +278,6 @@
   "sourceTextCharacters": 2233,
   "capturedBodyCharacters": 2188,
   "sourceTextSHA256": "5596dc878d71fddb480740b8a9bba1b1ab1e75f716033a094e33d4a26ee0eaf3",
-  "archiveSnapshotAt": "2026-10-08T09:09:03Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:03Z",
+  "publicVideoCount": 1
 }

@@ -59,9 +59,26 @@ for url in catalog_records:
  for block in data.get('blocks',[]):
   if block.get('type')=='video':
    videos+=1
-   ident=block.get('videoId','')
-   if block.get('platform')!='youtube' or not re.fullmatch(r'[A-Za-z0-9_-]{11}',ident):
-    issues.append('Unsafe or invalid embedded video '+str(file))
+   if block.get('platform')=='youtube':
+    if not re.fullmatch(r'[A-Za-z0-9_-]{11}',block.get('videoId','')):
+     issues.append('Invalid YouTube reference '+str(file))
+   else:
+    from urllib.parse import urlparse,parse_qs
+    uri=urlparse(block.get('embedUrl',''))
+    host=uri.hostname or ''
+    path=uri.path
+    valid=(uri.scheme=='https' and not uri.username and not uri.password and not uri.port)
+    if host in ('cosmovid.ru','radovid.ru','bkvid.ru'):
+     valid=valid and bool(re.fullmatch(r'/videos/embed/[a-f0-9-]{36}/?',path,re.I))
+    elif host=='rutube.ru':
+     valid=valid and bool(re.fullmatch(r'/play/embed/[A-Za-z0-9_-]{12,}/?',path))
+    elif host in ('vkvideo.ru','vk.com','vk.ru'):
+     query=parse_qs(uri.query)
+     valid=valid and path=='/video_ext.php' and bool(re.fullmatch(r'-?\d+',query.get('oid',[''])[0])) and bool(re.fullmatch(r'\d+',query.get('id',[''])[0]))
+    elif host=='video.nikatv.ru':
+     valid=valid and bool(re.fullmatch(r'/video/[A-Za-z0-9_-]+/?',path))
+    else:valid=False
+    if not valid:issues.append('Unsafe or invalid embedded video '+str(file))
  if data.get('slug')=='book':
   books+=1
   for doc in data.get('documents',[]):

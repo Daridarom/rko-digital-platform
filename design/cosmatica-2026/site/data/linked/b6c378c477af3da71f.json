@@ -230,6 +230,20 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/898b7c32-7c3d-46df-b689-d4c8505b8c58",
+      "title": "ГИМН ЗВЕЗДОЛЁТА",
+      "sourceUrl": "https://radovid.ru/videos/embed/898b7c32-7c3d-46df-b689-d4c8505b8c58"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240599&hd=2",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240599&hd=2"
     }
   ],
   "cards": [],
@@ -284,5 +298,6 @@
   "sourceTextCharacters": 4064,
   "capturedBodyCharacters": 3826,
   "sourceTextSHA256": "b67727af474ac7faf5712c8bfddd5a6e6deaaf741c198adc4f4dd5286be2a8ac",
-  "archiveSnapshotAt": "2026-10-08T09:09:13Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:13Z",
+  "publicVideoCount": 2
 }

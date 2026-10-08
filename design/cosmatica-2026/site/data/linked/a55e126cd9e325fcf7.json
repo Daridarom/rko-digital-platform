@@ -312,6 +312,20 @@
       "type": "image",
       "src": "https://cosmatica.org/upload/002/u218/b/8/691645a0.jpg",
       "alt": "Анна Сергеевна Козлова"
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/9e03fb47-139a-438e-861b-2401884f0da8",
+      "title": "Видео РКО",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/9e03fb47-139a-438e-861b-2401884f0da8"
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/dbd3984d-1ee2-4ed9-a856-8e9538a29950",
+      "title": "Видео РКО",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/dbd3984d-1ee2-4ed9-a856-8e9538a29950"
     }
   ],
   "cards": [],
@@ -369,5 +383,6 @@
   "sourceTextCharacters": 4252,
   "capturedBodyCharacters": 4056,
   "sourceTextSHA256": "494b833597d054e503c807568ada99e9d1db127c6127a67f3ba7713e770d9212",
-  "archiveSnapshotAt": "2026-10-08T09:10:16Z"
+  "archiveSnapshotAt": "2026-10-08T09:10:16Z",
+  "publicVideoCount": 2
 }

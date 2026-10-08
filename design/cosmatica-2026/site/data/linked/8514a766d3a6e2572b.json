@@ -101,6 +101,27 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/81b3b91e-f73b-44d8-b714-dbcbf2d853d1",
+      "title": "Обращение Главы Русского Космического Общества А.А. Гапонова к соотечественникам в День космонавтики",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/81b3b91e-f73b-44d8-b714-dbcbf2d853d1"
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/c2d225d9-9c9d-407c-9461-515b08fd2016",
+      "title": "Токарев с Днем космонавтики 2024",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/c2d225d9-9c9d-407c-9461-515b08fd2016"
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/c070b997-7902-40a4-84a5-12e962d080e5",
+      "title": "С Днём космонавтики на разных языках. Космонавт Токарев В.И.",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/c070b997-7902-40a4-84a5-12e962d080e5"
     }
   ],
   "cards": [],
@@ -143,5 +164,6 @@
   "sourceTextCharacters": 1752,
   "capturedBodyCharacters": 1698,
   "sourceTextSHA256": "a60e3f537ec610ea083e972b62741a5ac55a96b60e1993a32870d7e54582fe9f",
-  "archiveSnapshotAt": "2026-10-08T09:09:04Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:04Z",
+  "publicVideoCount": 3
 }

@@ -1,4 +1,4 @@
-import {createRichBlocks,createArticle,createEvent,createProject} from './rich-renderer.mjs?v=archive69';
+import {createRichBlocks,createArticle,createEvent,createProject} from './rich-renderer.mjs?v=archive70';
 
 /* The content is static, reviewed separately, and contains no executable HTML. */
 const qs=new URLSearchParams(location.search);

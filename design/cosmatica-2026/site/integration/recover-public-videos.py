@@ -21,8 +21,9 @@ for folder in ('source','linked'):
   root=helpers['editorial_root'](raw)
   videos=helpers['video_blocks'](root,url)
   if not videos:continue
-  existing={b.get('videoId') for b in doc.get('blocks',[]) if b.get('type')=='video'}
-  fresh=[b for b in videos if b['videoId'] not in existing]
+  def key(b):return ('youtube:'+b['videoId']) if b.get('platform')=='youtube' else b.get('embedUrl')
+  existing={key(b) for b in doc.get('blocks',[]) if b.get('type')=='video'}
+  fresh=[b for b in videos if key(b) not in existing]
   if not fresh:continue
   doc.setdefault('blocks',[]).extend(fresh)
   doc['publicVideoCount']=sum(b.get('type')=='video' for b in doc['blocks'])

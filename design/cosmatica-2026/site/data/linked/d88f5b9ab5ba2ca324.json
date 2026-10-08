@@ -258,6 +258,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/3f31995f-3dfb-4811-87cb-21463eea7d33",
+      "title": "Гагаринские отряды. Телемост дружбы. Санкт-Петербург - Макеевка - Беларусь",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/3f31995f-3dfb-4811-87cb-21463eea7d33"
     }
   ],
   "cards": [],
@@ -324,5 +331,6 @@
   "sourceTextCharacters": 2997,
   "capturedBodyCharacters": 2904,
   "sourceTextSHA256": "a2c521be12821bdea48a02e12bd34f739b4b5ad209402f26bfbe379731a1bba5",
-  "archiveSnapshotAt": "2026-10-08T09:09:05Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:05Z",
+  "publicVideoCount": 1
 }

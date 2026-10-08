@@ -101,6 +101,13 @@
       "videoId": "pCPTQfNE2eI",
       "title": "Видео РКО",
       "sourceUrl": "https://www.youtube.com/watch?v=pCPTQfNE2eI"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-75903574&id=456276570&hash=4eb4406d50894cb5&hd=2",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-75903574&id=456276570&hash=4eb4406d50894cb5&hd=2"
     }
   ],
   "cards": [],
@@ -142,5 +149,5 @@
   "capturedBodyCharacters": 1615,
   "sourceTextSHA256": "f65bff3ee26505128376bbbef361c993f227a907a2504476e5ea3b4471d4afa3",
   "archiveSnapshotAt": "2026-10-08T09:08:05Z",
-  "publicVideoCount": 1
+  "publicVideoCount": 2
 }

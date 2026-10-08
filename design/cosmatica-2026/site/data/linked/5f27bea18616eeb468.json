@@ -187,6 +187,20 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240320&hash=466e3aa63f43c522&hd=2",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240320&hash=466e3aa63f43c522&hd=2"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240319&hash=dd947850576585b7&hd=2",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240319&hash=dd947850576585b7&hd=2"
     }
   ],
   "cards": [],
@@ -257,5 +271,6 @@
   "sourceTextCharacters": 3173,
   "capturedBodyCharacters": 812,
   "sourceTextSHA256": "d53971c6afd1761c163612bdf6b18273b2aacf8974e4e9a126c6adbdbc65ace5",
-  "archiveSnapshotAt": "2026-10-08T08:58:29Z"
+  "archiveSnapshotAt": "2026-10-08T08:58:29Z",
+  "publicVideoCount": 2
 }

@@ -216,6 +216,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/c4b7afb7-cb37-4ce1-8117-190ca314bdc7",
+      "title": "Эстафета девизов 2026",
+      "sourceUrl": "https://radovid.ru/videos/embed/c4b7afb7-cb37-4ce1-8117-190ca314bdc7"
     }
   ],
   "cards": [],
@@ -259,5 +266,6 @@
   "sourceTextCharacters": 1644,
   "capturedBodyCharacters": 1545,
   "sourceTextSHA256": "58c34f256ef61fdaff8f9fba96f84c99da674a3b0b83bf250c9b0b25cf596a4e",
-  "archiveSnapshotAt": "2026-10-08T09:10:28Z"
+  "archiveSnapshotAt": "2026-10-08T09:10:28Z",
+  "publicVideoCount": 1
 }

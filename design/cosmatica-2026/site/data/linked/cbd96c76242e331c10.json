@@ -756,6 +756,41 @@
           "url": "https://cosmatica.org/glossary/141-zhizn.html"
         }
       ]
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240256&hash=5f96e016e5c1ea19&hd=2",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240256&hash=5f96e016e5c1ea19&hd=2"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240254&hash=333f84f25af29f58&hd=2",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240254&hash=333f84f25af29f58&hd=2"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240253&hash=f39ea7ffd0fc910d&hd=2",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240253&hash=f39ea7ffd0fc910d&hd=2"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240255&hash=0157ab554b209f93&hd=2",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240255&hash=0157ab554b209f93&hd=2"
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240252&hash=7ae011d71c886424&hd=2",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240252&hash=7ae011d71c886424&hd=2"
     }
   ],
   "cards": [],
@@ -824,5 +859,6 @@
   "sourceTextCharacters": 14249,
   "capturedBodyCharacters": 14004,
   "sourceTextSHA256": "3f3d56fdebe2f336fde5863245f3d5ec288e4d4b6b071bf93344b37b05ffd3e1",
-  "archiveSnapshotAt": "2026-10-08T08:38:45Z"
+  "archiveSnapshotAt": "2026-10-08T08:38:45Z",
+  "publicVideoCount": 5
 }

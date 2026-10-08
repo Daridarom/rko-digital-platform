@@ -435,6 +435,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/6c2021d9-a478-4a49-88fd-037ca4ed3e68",
+      "title": "Турнир среди ветеранов по быстрым шахматам",
+      "sourceUrl": "https://radovid.ru/videos/embed/6c2021d9-a478-4a49-88fd-037ca4ed3e68"
     }
   ],
   "cards": [],
@@ -490,5 +497,6 @@
   "sourceTextCharacters": 3960,
   "capturedBodyCharacters": 3802,
   "sourceTextSHA256": "cbcbfc3469fad7159837726941baa0151489c839306c32b93a4b18658818755b",
-  "archiveSnapshotAt": "2026-10-08T09:09:45Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:45Z",
+  "publicVideoCount": 1
 }

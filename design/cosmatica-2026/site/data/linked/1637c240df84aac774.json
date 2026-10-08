@@ -659,6 +659,27 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "rutube",
+      "embedUrl": "https://rutube.ru/play/embed/01f929a1373bda45b677783a6091a72d",
+      "title": "Видео РКО",
+      "sourceUrl": "https://rutube.ru/play/embed/01f929a1373bda45b677783a6091a72d"
+    },
+    {
+      "type": "video",
+      "platform": "rutube",
+      "embedUrl": "https://rutube.ru/play/embed/324352406f009c2f4893c5750eebd7b2",
+      "title": "Видео РКО",
+      "sourceUrl": "https://rutube.ru/play/embed/324352406f009c2f4893c5750eebd7b2"
+    },
+    {
+      "type": "video",
+      "platform": "rutube",
+      "embedUrl": "https://rutube.ru/play/embed/57692b272b9782a06fcb991771efbb74",
+      "title": "Видео РКО",
+      "sourceUrl": "https://rutube.ru/play/embed/57692b272b9782a06fcb991771efbb74"
     }
   ],
   "cards": [],
@@ -788,5 +809,6 @@
   "sourceTextCharacters": 6434,
   "capturedBodyCharacters": 6285,
   "sourceTextSHA256": "605f6157f98ac67980b82e0a69f81d7a6d6f87bc46d2dffdbebc61619c20744b",
-  "archiveSnapshotAt": "2026-10-08T09:10:33Z"
+  "archiveSnapshotAt": "2026-10-08T09:10:33Z",
+  "publicVideoCount": 3
 }

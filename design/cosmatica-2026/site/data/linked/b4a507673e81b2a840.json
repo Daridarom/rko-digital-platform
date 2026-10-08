@@ -563,6 +563,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/7d234cca-75f5-4438-adca-3b489ddcb030",
+      "title": "Репортаж За!ТВ о финале регионального конкурса «Зачем человеку космос – Зачем космосу человек»",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/7d234cca-75f5-4438-adca-3b489ddcb030"
     }
   ],
   "cards": [],
@@ -630,5 +637,6 @@
   "sourceTextCharacters": 5352,
   "capturedBodyCharacters": 5161,
   "sourceTextSHA256": "ca1dd549ec133527b62004ee3c98b493b9b5f18edb75c563a38c5698d2483ada",
-  "archiveSnapshotAt": "2026-10-08T09:10:00Z"
+  "archiveSnapshotAt": "2026-10-08T09:10:00Z",
+  "publicVideoCount": 1
 }

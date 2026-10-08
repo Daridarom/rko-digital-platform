@@ -126,6 +126,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "bkvid",
+      "embedUrl": "https://bkvid.ru/videos/embed/696df66c-497b-4371-be93-da38c068e036",
+      "title": "БАРС-Курск. Ждём в нашем строю!",
+      "sourceUrl": "https://bkvid.ru/videos/embed/696df66c-497b-4371-be93-da38c068e036"
     }
   ],
   "cards": [],
@@ -176,5 +183,6 @@
   "sourceTextCharacters": 1587,
   "capturedBodyCharacters": 1499,
   "sourceTextSHA256": "10327ca321d58ed4371783749e027e1f40e6793aa323e30f5cb9762a1a8847bd",
-  "archiveSnapshotAt": "2026-10-08T09:10:02Z"
+  "archiveSnapshotAt": "2026-10-08T09:10:02Z",
+  "publicVideoCount": 1
 }

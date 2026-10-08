@@ -504,6 +504,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/e975cf1f-25d7-4cdd-aa60-7a02594bb64c",
+      "title": "Звездолёт. Восьмое общее собрание экипажа. (2024.04.14)",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/e975cf1f-25d7-4cdd-aa60-7a02594bb64c"
     }
   ],
   "cards": [],
@@ -552,5 +559,6 @@
   "sourceTextCharacters": 8861,
   "capturedBodyCharacters": 8668,
   "sourceTextSHA256": "c5c5e62f2bd21b97c741bd86f25660509919b9644e628c909e627000f6e75526",
-  "archiveSnapshotAt": "2026-10-08T09:09:10Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:10Z",
+  "publicVideoCount": 1
 }

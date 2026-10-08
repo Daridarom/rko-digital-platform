@@ -48,6 +48,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "radovid",
+      "embedUrl": "https://radovid.ru/videos/embed/3d5a7de8-476e-429b-a5d8-ef76ce9c5063",
+      "title": "Как действовать сегодня, чтобы будущее было космическим (Степан Андреевич Зотов)",
+      "sourceUrl": "https://radovid.ru/videos/embed/3d5a7de8-476e-429b-a5d8-ef76ce9c5063"
     }
   ],
   "cards": [],
@@ -85,5 +92,6 @@
   "sourceTextCharacters": 921,
   "capturedBodyCharacters": 840,
   "sourceTextSHA256": "cf70a287423d4ecdea76e5abfff7109ed8d240ff096f1314781e59eaa5df729d",
-  "archiveSnapshotAt": "2026-10-08T09:09:03Z"
+  "archiveSnapshotAt": "2026-10-08T09:09:03Z",
+  "publicVideoCount": 1
 }

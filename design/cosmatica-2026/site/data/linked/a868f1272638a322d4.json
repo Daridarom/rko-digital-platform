@@ -420,6 +420,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "rutube",
+      "embedUrl": "https://rutube.ru/play/embed/e43283ea8d5d656747945a75ce211862",
+      "title": "Видео РКО",
+      "sourceUrl": "https://rutube.ru/play/embed/e43283ea8d5d656747945a75ce211862"
     }
   ],
   "cards": [],
@@ -522,5 +529,6 @@
   "sourceTextCharacters": 3714,
   "capturedBodyCharacters": 3524,
   "sourceTextSHA256": "c03d0c5ce8d1718cf1f96cf5e51c0b5e35d29816cf3f578a4156649e7a688723",
-  "archiveSnapshotAt": "2026-10-08T09:10:36Z"
+  "archiveSnapshotAt": "2026-10-08T09:10:36Z",
+  "publicVideoCount": 1
 }

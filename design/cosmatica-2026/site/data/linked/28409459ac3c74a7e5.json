@@ -290,6 +290,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "video",
+      "embedUrl": "https://video.nikatv.ru/video/F6xEIBfVBhQkaNfXJpTy",
+      "title": "Видео РКО",
+      "sourceUrl": "https://video.nikatv.ru/video/F6xEIBfVBhQkaNfXJpTy"
     }
   ],
   "cards": [],
@@ -358,5 +365,6 @@
   "sourceTextCharacters": 5663,
   "capturedBodyCharacters": 5436,
   "sourceTextSHA256": "17656f21fddb95f259d912f018eb52dd0bf3f72a195f133b7f11f8e6aa641632",
-  "archiveSnapshotAt": "2026-10-08T08:58:23Z"
+  "archiveSnapshotAt": "2026-10-08T08:58:23Z",
+  "publicVideoCount": 1
 }
