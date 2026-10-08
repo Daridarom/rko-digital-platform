@@ -35,7 +35,7 @@ for uri,rec in index.items():
 def characters(name):
  p=json.loads((data/'source'/(name+'.json')).read_text())
  return sum(len(b.get('text',''))+sum(len(s) for s in b.get('items',[])) for b in p['blocks'])
-for name,minimum in [('article',44000),('project',20000),('poster-item',11000),('collegium-item',5000),('tabs',5000)]:
+for name,minimum in [('about',6500),('direction',6500),('article',44000),('project',20000),('poster-item',11000),('collegium-item',5000),('tabs',5000)]:
  if name in {f.stem for f in source} and characters(name)<minimum:
   issues.append('Shortened main content '+name)
 report={'sourcePages':len(source),'linkedPages':len(linked),

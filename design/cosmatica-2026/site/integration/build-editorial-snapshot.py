@@ -76,9 +76,17 @@ def strip_technical(soup):
  return soup
 
 def editorial_root(soup):
- return (soup.select_one('#controller_wrap') or soup.select_one('article.article')
-  or soup.select_one('main') or soup.select_one('#content')
-  or soup.select_one('.main-content') or soup.body or soup)
+ # The legacy CMS places About and Direction in widgets separate from
+ # #controller_wrap. The wrapper has a heading but no editorial body.
+ wrapper=soup.select_one('#controller_wrap')
+ if wrapper and len(clean_text(wrapper))>=150:
+  return wrapper
+ special=(soup.select_one('.widget.article_rko .widget_html_block') or
+          soup.select_one('.widget.direction-wrapper .direction-content'))
+ if special:return special
+ return (wrapper or soup.select_one('article.article') or soup.select_one('main')
+  or soup.select_one('#content') or soup.select_one('.main-content')
+  or soup.body or soup)
 
 def image_of(node,url):
  if not node:return None
@@ -149,6 +157,32 @@ def blocks(root,url):
   if converted:output.append(converted)
  return output
 
+def direction_blocks(root,url):
+ # Preserve the nested council/department hierarchy and individual biographies.
+ # The original CMS uses divs inside nested <li>, not article paragraphs.
+ result=[]
+ for person_group in root.select('li'):
+  title=person_group.find('div',class_='direction-title',recursive=False)
+  depth=len(person_group.find_parents('li'))
+  if title and clean_text(title):
+   result.append({'type':'heading','level':min(4,2+depth),'text':clean_text(title)})
+  for entry in person_group.find_all('div',class_='direction-cont',recursive=False):
+   name=entry.select_one('.direction-name')
+   if name and clean_text(name):
+    result.append({'type':'heading','level':4,'text':clean_text(name)})
+   picture=entry.select_one('.direction-image img')
+   if picture:
+    uri=image_of(picture,url)
+    if uri:result.append({'type':'image','src':uri,'alt':clean_text(name) if name else ''})
+   desc=entry.select_one('.direction-description')
+   if desc:
+    parts=desc.find_all(['p','div'],recursive=False)
+    if not parts:parts=[desc]
+    for p in parts:
+     value=clean_text(p)
+     if value:result.append({'type':'paragraph','text':value,'spans':rich_spans(p,url)})
+ return result
+
 def cards(root,url,slug):
  selector=LIST.get(slug)
  if not selector:return []
@@ -187,8 +221,9 @@ def snapshot(url,kind):
  response=fetch(url)
  soup=strip_technical(BeautifulSoup(response.text,'html.parser'))
  root=editorial_root(soup)
- title=clean_text(root.select_one('h1')) or clean_text(soup.select_one('title')) or kind
- body=blocks(root,response.url)
+ title=(clean_text(soup.select_one('#controller_wrap h1')) or
+        clean_text(root.select_one('h1')) or clean_text(soup.select_one('title')) or kind)
+ body=direction_blocks(root,response.url) if kind=='direction' else blocks(root,response.url)
  gallery=[]
  for element in root.select('img[src],.photo,[style*="background-image"]'):
   ref=image_of(element,response.url)
@@ -355,6 +390,41 @@ def search_index():
  write_json(DATA/'search-index.json',{'schemaVersion':1,'count':len(records),'records':records})
  print('SEARCH',len(records),flush=True)
 
+def repair_omitted():
+ """Rebuild mislocated public widgets without refreshing unrelated records."""
+ revised=[]
+ for slug in ('about','direction'):
+  page=snapshot('https://cosmatica.org/'+slug,slug)
+  assert len(page['blocks'])>=20 and page['sourceEvidence']['storedTextCharacters']>=5000,slug+' unexpectedly truncated'
+  urls={b.get('src') for b in page['blocks'] if b.get('type')=='image'}
+  urls.update(page.get('images',[]))
+  mapping={uri:local_asset(uri) for uri in sorted(urls) if uri}
+  absent=[uri for uri,local in mapping.items() if not local]
+  if absent:
+   # Preserve people's names and biographies even when the legacy image URL is broken.
+   print('UNAVAILABLE_ORIGINAL_IMAGES',slug,absent,flush=True)
+   page['images']=[uri for uri in page['images'] if uri not in absent]
+   page['blocks']=[b for b in page['blocks'] if b.get('type')!='image' or b.get('src') not in absent]
+  def convert(item):
+   if isinstance(item,dict):return {k:convert(v) for k,v in item.items()}
+   if isinstance(item,list):return [convert(v) for v in item]
+   if isinstance(item,str):return mapping.get(item) or item
+   return item
+  page=convert(page)
+  write_json(ORIGINAL/(slug+'.json'),page)
+  revised.append((slug,len(page['blocks']),len(page['images'])))
+ report=json.loads((HERE/'source-build-report.json').read_text())
+ for item in report['details']:
+  if item['slug'] in {'about','direction'}:
+   item['blocks']=len(json.loads((ORIGINAL/(item['slug']+'.json')).read_text())['blocks'])
+ write_json(HERE/'source-build-report.json',report)
+ assets=json.loads((HERE/'asset-build-report.json').read_text())
+ assets['downloadedImages']=len(list(ASSETS.glob('*.webp')))
+ assets['referencedImages']=assets['downloadedImages']+len(assets['missingImages'])
+ write_json(HERE/'asset-build-report.json',assets)
+ search_index()
+ print('REPAIRED_WIDGET_PAGES',revised,flush=True)
+
 def main():
  sources=produce_pages()
  produce_links(sources)
@@ -366,4 +436,5 @@ def main():
    raise RuntimeError('Sensitive technical content found in '+file.name)
  print('COMPLETE',len(pages),'editorial records',flush=True)
 
-if __name__=='__main__':main()
+if __name__=='__main__':
+ repair_omitted() if '--repair-omitted' in __import__('sys').argv else main()

@@ -59,7 +59,7 @@ for(const [device,width,height] of [['desktop',1440,960],['mobile',390,844]]){
  for(const x of source){
   const slug=x.slug;
   const url=slug==='home'?'index.html':'view.html?p='+slug+(slug==='search-results'?'&q=Гагарин':'');
-  const needs=!['about','direction','donate','login','register','restore','search','search-results'].includes(slug);
+  const needs=!['donate','login','register','restore','search','search-results'].includes(slug);
   await test(slug,device,width,height,url,needs);
  }
 }

@@ -53,6 +53,18 @@
  .page-search .search-box input,.page-search-results .search-box input{height:44px;min-height:44px;font-size:14px}
  .page-search .search-box button.primary,.page-search-results .search-box button.primary{height:44px;min-height:44px;padding:0 14px;font-size:13px}
 }
+/* Original RKO governance page: uncropped portraits and readable structure. */
+.source-page--direction .rich-figure{margin:12px 0 18px}
+.source-page--direction .rich-figure img{display:block;width:auto;max-width:min(100%,168px);max-height:220px;height:auto;object-fit:contain}
+.source-page--direction .rich-heading{overflow-wrap:anywhere}
+.source-page--direction h2.rich-heading{padding-top:30px;margin-top:34px;border-top:1px solid var(--line,rgba(110,120,150,.24))}
+.source-page--direction h3.rich-heading{font-size:clamp(19px,2.4vw,24px)}
+.source-page--direction h4.rich-heading{font-size:clamp(17px,2.1vw,21px);margin-top:24px}
+.source-page--about .rich-paragraph{font-size:clamp(15px,1.5vw,18px);line-height:1.65}
+@media(max-width:640px){
+ .source-page--direction .rich-figure img{max-width:min(100%,132px);max-height:190px}
+ .source-page--direction h2.rich-heading{padding-top:22px;margin-top:26px}
+}
 @media(max-width:345px){
  .brand strong{font-size:11px}
  .header-actions .search-link{width:38px;min-width:38px;max-width:38px}

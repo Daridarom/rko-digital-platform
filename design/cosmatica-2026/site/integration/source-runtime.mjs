@@ -77,8 +77,18 @@ function listView(data,index){
  });
  sec.append(grid);return sec;
 }
-function getRich(data,type){
- const blocks=(data.blocks||[]).filter(x=>x.type!=='image'||localImage(x.src));
+function getRich(data,type,index){
+ // Reconnect approved legacy hyperlinks to local records; never send users
+ // back to the old CMS or make an unsupported destination clickable.
+ const blocks=(data.blocks||[])
+  .filter(x=>x.type!=='image'||localImage(x.src))
+  .map(block=>!Array.isArray(block.spans)?block:{
+   ...block,spans:block.spans.map(span=>{
+    if(!span.href)return span;
+    const href=listingHref({url:span.href.split('#')[0]},index);
+    return {...span,href:href||null};
+   })
+  });
  data={...data,blocks};
  const src=window.COSMATICA_CONTENT||{};
  if(type==='article'||type==='news-item'){
@@ -135,42 +145,62 @@ function documents(data){
  }
  return section;
 }
+function notFound(){
+ const section=el('section','section source-page source-not-found');
+ const content=el('div','shell');
+ content.append(el('h1','','Материал не найден'),
+  el('p','','В опубликованном каталоге нет материала по этому адресу. Проверьте ссылку или воспользуйтесь поиском.'));
+ const back=el('a','source-document','Вернуться к разделам');
+ back.href='index.html';content.append(back);section.append(content);
+ body.replaceChildren(section);document.title='Материал не найден — РКО';
+}
 async function run(){
  if(!body||blocked.has(slug)||qs.get('layout')==='full')return;
- let file=ref&&/^[a-f0-9]{18}$/.test(ref)?'linked/'+ref+'.json':'source/'+slug+'.json';
+ if(ref&&!/^[a-f0-9]{18}$/.test(ref)){notFound();return;}
+ let file=ref?'linked/'+ref+'.json':'source/'+slug+'.json';
  const indexResult=await fetch('data/linked-index.json');
  const index=indexResult.ok?await indexResult.json():{};
+ const mapResponse=await fetch('integration/page-map.json');
+ if(mapResponse.ok){
+  const manifest=await mapResponse.json();
+  for(const entry of manifest.entries||[]){
+   if(entry.slug==='search-results')continue;
+   index[entry.sourceUrl]={status:'ready',alias:true,
+    file:'source/'+entry.slug+'.json',type:entry.slug};
+  }
+ }
  if(!ref){
   const item=qs.get('item');
   if(item){
    let dest=null;
    try{dest=new URL(item,'https://cosmatica.org/').href;}catch{}
    const hit=dest&&index[dest];
-   if(!hit||hit.status!=='ready')return; // Never display someone else's source article.
+   if(!hit||hit.status!=='ready'){notFound();return;}
    file=hit.alias?hit.file:'linked/'+hit.file;
   } else if(slug==='project'){
    const id=qs.get('id')||'gagarincy';
    if(id!=='gagarincy'){
     const variant=window.COSMATICA_CONTENT?.project?.variants?.[id];
-    if(!variant?.sourceUrl)return;
+    if(!variant?.sourceUrl){notFound();return;}
     const hit=index[variant.sourceUrl];
-    if(!hit||hit.status!=='ready')return;
+    if(!hit||hit.status!=='ready'){notFound();return;}
     file=hit.alias?hit.file:'linked/'+hit.file;
    }
   }
  }
  const response=await fetch('data/'+file);
- if(!response.ok)throw new Error('Editorial record missing: '+slug);
+ if(!response.ok){notFound();return;}
  const data=await response.json();
- if(!Array.isArray(data.blocks)||!Array.isArray(data.cards))throw new Error('Editorial record malformed: '+slug);
- if(['about','direction'].includes(slug)&&!data.blocks.length&&!data.cards.length)return;
- const section=el('section','section source-page'),inner=el('div','shell');
+ if(!Array.isArray(data.blocks)||!Array.isArray(data.cards)){notFound();return;}
+ if(ref&&data.slug!==slug){notFound();return;}
+ if(['about','direction'].includes(slug)&&!data.blocks.length&&!data.cards.length){notFound();return;}
+ const section=el('section','section source-page source-page--'+(data.slug||slug)),inner=el('div','shell');
  inner.append(heading(data));
  const info=facts(data);if(info)inner.append(info);
  const cards=listView(data,index);if(cards)inner.append(cards);
  if(data.blocks.length){
   if(cards)inner.append(el('h2','source-section-title','Содержание раздела'));
-  inner.append(getRich(data,data.slug||slug));
+  inner.append(getRich(data,data.slug||slug,index));
  }
  const photos=gallery(data);if(photos)inner.append(photos);
  const docs=documents(data);if(docs)inner.append(docs);
@@ -181,8 +211,10 @@ async function run(){
   body.append(more);
  }else if(slug==='calendar'&&!ref)body.append(section);
  else{
-  const crumbs=body.querySelector('.crumbs');
-  body.replaceChildren(...(crumbs?[crumbs]:[]),section);
+  const crumbs=el('nav','crumbs');crumbs.setAttribute('aria-label','Путь по сайту');
+  const start=el('a','','Главная');start.href='index.html';
+  crumbs.append(start,document.createTextNode(' → '),el('span','',data.title||'Раздел'));
+  body.replaceChildren(crumbs,section);
  }
  document.title=(data.title||'Русское космическое общество')+' — РКО';
 }
