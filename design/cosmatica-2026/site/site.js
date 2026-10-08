@@ -120,7 +120,25 @@ function filterTabs(filters){
 
 function renderHome() {
   const news = CONTENT.news?.cards?.slice(0, 3) || [];
-  const projects = CONTENT.projects?.cards?.slice(0, 3) || [];
+  const projects = (CONTENT.projects?.cards || []).slice(0, 3).map(card => ({
+    ...card,
+    url: card.id ? href('project') + '&id=' + encodeURIComponent(card.id) : null
+  }));
+  const events = (CONTENT.poster?.events || []).slice(0, 3);
+  const society = [
+    ['Информация об РКО', 'about-info', 'Идеи, стратегия и документы Общества'],
+    ['Органы управления', 'direction', 'Структура и руководство'],
+    ['Высший Совет РКО', 'collegium', 'Советы по направлениям деятельности'],
+    ['Отделения', 'departments', 'Региональные команды и контакты'],
+    ['Состав РКО', 'users', 'Участники и их деятельность'],
+    ['Первый Отряд', 'tabs', 'Участники, документы и новости'],
+    ['Контакты', 'contacts', 'Как связаться с Обществом'],
+    ['Поддержать РКО', 'donate', 'Направления поддержки проектов']
+  ];
+  const chronicle = [
+    {title: 'Отчёт о деятельности РКО за 2021 год', meta:'Летопись', text:'Отчётный материал из публичного архива РКО.', url:'view.html?p=article&ref=017b8bce12d0e16c3d'},
+    {title: 'Отчёт о деятельности РКО за 2020 год', meta:'Летопись', text:'Отчётный материал из публичного архива РКО.', url:'view.html?p=article&ref=8ae07d398f7436474d'}
+  ];
   return `
     <main id="main">
       <section class="shell home-hero">
@@ -141,26 +159,44 @@ function renderHome() {
           </div>
         </div>
       </section>
-      <section class="section soft">
+      <section class="section soft" aria-labelledby="home-news-title">
         <div class="shell">
-          <div class="section-head"><div><p class="eyebrow">СЕЙЧАС В РКО</p><h2>Главное на этой неделе</h2></div><a class="section-link" href="${href('news')}">Все новости →</a></div>
+          <div class="section-head"><div><p class="eyebrow">СЕЙЧАС В РКО</p><h2 id="home-news-title">Новости Общества</h2></div><a class="section-link" href="${href('news')}">Все новости →</a></div>
           ${sectionCards(news, 'Новости')}
         </div>
       </section>
-      <section class="section">
+      <section class="section" aria-labelledby="home-events-title">
         <div class="shell">
-          <div class="section-head"><div><p class="eyebrow">ПРОЕКТЫ</p><h2>Живые инициативы</h2></div><a class="section-link" href="${href('projects')}">Все проекты →</a></div>
+          <div class="section-head"><div><p class="eyebrow">СОБЫТИЯ</p><h2 id="home-events-title">Афиша и календарь</h2></div><div class="home-heading-links"><a class="section-link" href="${href('poster')}">Все мероприятия →</a><a class="section-link" href="${href('calendar')}">Календарь →</a></div></div>
+          <div class="grid">${events.map(event => `<a class="card home-event" href="${esc(event.url||href('poster'))}"><span class="tag">${esc(event.date||'Мероприятие')}</span><h3>${esc(event.title)}</h3><p>${esc(event.text||'Программа мероприятия РКО.')}</p><span class="home-card-action">Подробнее →</span></a>`).join('')}</div>
+        </div>
+      </section>
+      <section class="section soft" aria-labelledby="home-projects-title">
+        <div class="shell">
+          <div class="section-head"><div><p class="eyebrow">ПРОЕКТЫ</p><h2 id="home-projects-title">Живые инициативы</h2></div><a class="section-link" href="${href('projects')}">Все проекты →</a></div>
           ${sectionCards(projects, 'Проект')}
         </div>
       </section>
-      <section class="section soft">
+      <section class="section" aria-labelledby="home-society-title">
         <div class="shell">
-          <div class="section-head"><div><p class="eyebrow">ЗНАНИЯ</p><h2>Материалы и библиотека</h2></div><p>Исследования, публикации, книги и образовательные материалы.</p></div>
+          <div class="section-head"><div><p class="eyebrow">ОБЩЕСТВО</p><h2 id="home-society-title">Люди и устройство РКО</h2></div><a class="section-link" href="${href('about')}">Об обществе →</a></div>
+          <div class="home-topic-grid">${society.map(([title,slug,text])=>`<a class="home-topic" href="${href(slug)}"><strong>${esc(title)}</strong><span>${esc(text)}</span><span class="home-topic-arrow" aria-hidden="true">↗</span></a>`).join('')}</div>
+        </div>
+      </section>
+      <section class="section soft" aria-labelledby="home-knowledge-title">
+        <div class="shell">
+          <div class="section-head"><div><p class="eyebrow">ЗНАНИЯ</p><h2 id="home-knowledge-title">Материалы и библиотека</h2></div><p>Исследования, публикации, книги и образовательные материалы.</p></div>
           <div class="grid two">
             <a class="card" href="${href('articles')}"><span class="tag">Материалы</span><h3>Публикации и исследования</h3><p>Научные, общественные и образовательные направления.</p></a>
             <a class="card" href="${href('library')}"><span class="tag">Библиотека</span><h3>Книги и наследие</h3><p>Русский космизм, космонавтика, методические материалы.</p></a>
           </div>
-          <div class="home-archive-link"><a href="view.html?p=archive">Открыть весь публичный архив РКО →</a><p>Новости, публикации, книги, проекты и события в едином каталоге.</p></div>
+        </div>
+      </section>
+      <section class="section" aria-labelledby="home-history-title">
+        <div class="shell">
+          <div class="section-head"><div><p class="eyebrow">ИСТОРИЯ</p><h2 id="home-history-title">Летопись РКО</h2></div><a class="section-link" href="${href('archive')}">Публичный архив →</a></div>
+          <p class="home-history-intro">Отчёты о деятельности и материалы по истории Общества из сохранённого публичного архива.</p>
+          <div class="grid two">${chronicle.map(card=>`<a class="card" href="${esc(card.url)}"><span class="tag">${esc(card.meta)}</span><h3>${esc(card.title)}</h3><p>${esc(card.text)}</p><span class="home-card-action">Читать →</span></a>`).join('')}</div>
         </div>
       </section>
     </main>

@@ -73,3 +73,18 @@
  .home-hero .hero-identity{grid-template-columns:102px minmax(0,1fr);gap:12px}
  .home-hero .hero-mark{width:102px}
 }
+
+/* Informational routes on the homepage: full-width, keyboard-accessible cards. */
+.home-heading-links{display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+.home-topic-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.home-topic{position:relative;display:flex;flex-direction:column;gap:8px;min-width:0;min-height:126px;border:1px solid var(--line);border-radius:16px;background:var(--surface);padding:21px 35px 19px 19px}
+.home-topic strong{font-size:17px;line-height:1.2}
+.home-topic span:not(.home-topic-arrow){font-size:13px;line-height:1.45;color:var(--muted)}
+.home-topic-arrow{position:absolute;right:16px;top:15px;font-size:18px;color:var(--red)}
+.home-topic:hover,.home-topic:focus-visible,.home-event:hover{box-shadow:var(--shadow);border-color:var(--red)}
+.home-card-action{display:inline-block;margin-top:18px;color:var(--red);font-size:13px;font-weight:800}
+.home-history-intro{margin:-8px 0 22px;color:var(--muted);max-width:750px}
+.home-event{display:block}
+@media(max-width:980px){.home-topic-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:640px){.home-topic-grid{grid-template-columns:1fr 1fr;gap:9px}.home-topic{min-height:125px;padding:16px 24px 16px 13px}.home-topic strong{font-size:14px}.home-topic span:not(.home-topic-arrow){font-size:12px}.home-topic-arrow{top:10px;right:10px}.home-heading-links{margin-top:13px}.home-history-intro{margin-top:0}}
+@media(max-width:350px){.home-topic-grid{grid-template-columns:1fr}.home-topic{min-height:92px}}
