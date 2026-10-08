@@ -190,6 +190,7 @@ function renderHome() {
             <a class="card" href="${href('articles')}"><span class="tag">Материалы</span><h3>Публикации и исследования</h3><p>Научные, общественные и образовательные направления.</p></a>
             <a class="card" href="${href('library')}"><span class="tag">Библиотека</span><h3>Книги и наследие</h3><p>Русский космизм, космонавтика, методические материалы.</p></a>
           </div>
+          <div class="home-archive-link"><a href="view.html?p=archive">Открыть полный публичный архив РКО →</a><p>Новости, публикации, книги, проекты и события в едином каталоге.</p></div>
         </div>
       </section>
       <section class="section" aria-labelledby="home-history-title">

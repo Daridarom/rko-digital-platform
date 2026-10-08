@@ -30,11 +30,20 @@ V.sport={
  documents:[],links:[],stats:{},fundraising:{enabled:false}
 };
 if(c.library && Array.isArray(c.library.books)){
- c.library.links=c.library.books.map(function(title){return 'view.html?p=book&item='+encodeURIComponent(title)});
+ // These references are resolved against the imported public book archive.
+ // Do not use book titles as ?item: source-runtime expects a source URL or ref.
+ c.library.links=[
+  'view.html?p=book',
+  'view.html?p=book&ref=28092b80c6ccb8cbc2',
+  'view.html?p=book&ref=3e335c9e7d12429a4d',
+  'view.html?p=book&ref=d6070a31d881f373d9',
+  'view.html?p=book&ref=63209ea07ecafb58cf',
+  'view.html?p=book&ref=748b2b08a39ad3f1ac',
+  'view.html?p=book&ref=d0bc9e3e5f4d1033eb'
+ ];
 }
-if(c.news && c.news.cards){
- c.news.cards.forEach(function(card,i){if(i>0)card.url='view.html?p=news-item&item='+encodeURIComponent(card.title)});
-}
+// Preserve canonical source URLs for news cards. demo.js maps those URLs to
+// locally imported material; using a title as ?item makes real articles 404.
 var cards=c.projects && c.projects.cards || [];
 cards.forEach(function(card){
  if(/Переиздание ключевых/.test(card.title))card.id='books_reprint';
