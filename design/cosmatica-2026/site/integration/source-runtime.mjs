@@ -126,12 +126,32 @@ function documents(data){
 }
 async function run(){
  if(!body||blocked.has(slug)||qs.get('layout')==='full')return;
- const file=ref&&/^[a-f0-9]{18}$/.test(ref)?'linked/'+ref+'.json':'source/'+slug+'.json';
- const [response,indexResult]=await Promise.all([fetch('data/'+file),fetch('data/linked-index.json')]);
+ let file=ref&&/^[a-f0-9]{18}$/.test(ref)?'linked/'+ref+'.json':'source/'+slug+'.json';
+ const indexResult=await fetch('data/linked-index.json');
+ const index=indexResult.ok?await indexResult.json():{};
+ if(!ref){
+  const item=qs.get('item');
+  if(item){
+   let dest=null;
+   try{dest=new URL(item,'https://cosmatica.org/').href;}catch{}
+   const hit=dest&&index[dest];
+   if(!hit||hit.status!=='ready')return; // Never display someone else's source article.
+   file=hit.alias?hit.file:'linked/'+hit.file;
+  } else if(slug==='project'){
+   const id=qs.get('id')||'gagarincy';
+   if(id!=='gagarincy'){
+    const variant=window.COSMATICA_CONTENT?.project?.variants?.[id];
+    if(!variant?.sourceUrl)return;
+    const hit=index[variant.sourceUrl];
+    if(!hit||hit.status!=='ready')return;
+    file=hit.alias?hit.file:'linked/'+hit.file;
+   }
+  }
+ }
+ const response=await fetch('data/'+file);
  if(!response.ok)throw new Error('Editorial record missing: '+slug);
  const data=await response.json();
  if(!Array.isArray(data.blocks)||!Array.isArray(data.cards))throw new Error('Editorial record malformed: '+slug);
- const index=indexResult.ok?await indexResult.json():{};
  if(['about','direction'].includes(slug)&&!data.blocks.length&&!data.cards.length)return;
  const section=el('section','section source-page'),inner=el('div','shell');
  inner.append(heading(data));
