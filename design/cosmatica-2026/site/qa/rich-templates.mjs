@@ -8,7 +8,7 @@ const article={
  type:'article',title:'Исследование: развёрнутая публикация',author:'Редакция РКО',publishedAt:'2026-10-08',
  blocks:Array.from({length:125},(_,i)=>i%5===0?{type:'heading',text:'Раздел '+(i/5+1),level:2}:
  {type:'paragraph',text:('Текст научной публикации с проверкой адаптивной вёрстки и переноса форматирования. ').repeat(5),
- spans:[{text:'Текст ',marks:['bold']},{text:'научной '},{text:'публикации',marks:['italic']}]})
+ spans:[{text:('Текст научной публикации ').repeat(8),marks:['bold']},{text:('Длинный материал для переноса. ').repeat(8),marks:['italic']}]})
 };
 const event={type:'poster-item',title:'Конференция: проверка программы',startsAt:'8 октября 2026',
  venue:'Зал проведения конференции',format:'Смешанный',organizer:'РКО',
