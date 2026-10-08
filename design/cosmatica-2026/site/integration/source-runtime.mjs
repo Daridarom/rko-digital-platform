@@ -64,8 +64,28 @@ function listView(data,index){
    wrap.append(image);item.append(wrap);
   }
   const inner=el('div','source-card-copy');
-  const heading=el('h3','',card.title||'Материал');heading.title=card.title||'Материал';inner.append(heading);
-  if(card.description && card.description!==card.title)inner.append(el('p','',card.description));
+  // Source card text sometimes combines title, #project, date and a comment counter.
+  // Keep full source data for filtering, but present these as separate readable fields.
+  const raw=String(card.title||'Материал').replace(/\u200b/g,'').trim();
+  const project=raw.match(/\s+#([^#]+)$/);
+  const title=project?raw.slice(0,project.index).trim():raw;
+  const heading=el('h3','',title);heading.title=title;inner.append(heading);
+  const description=String(card.description||'').replace(/\u200b/g,'').trim();
+  let summary=description.replace(raw,'').trim();
+  if(summary===description)summary=summary.replace(title,'').trim();
+  const date=summary.match(/\b\d{2}\.\d{2}\.\d{4}(?:\s+\d{2}:\d{2})?\b/);
+  if(date)summary=summary.replace(date[0],'').trim();
+  summary=summary.replace(/(?:^|\s)0$/,'').trim();
+  if(project)inner.append(el('span','source-card-topic',project[1].trim()));
+  if(date)inner.append(el('span','source-card-date',date[0]));
+  const preview=summary?el('p','',summary):null;
+  if(preview)inner.append(preview);
+  if(!href&&description.length>180){
+    const more=el('details','source-card-more');
+    more.append(el('summary','','Полное описание'),el('p','',description));
+    more.addEventListener('toggle',()=>{if(preview)preview.hidden=more.open;});
+    inner.append(more);
+  }
   if(href)inner.append(el('span','source-card-arrow','Подробнее →'));
   item.append(inner);grid.append(item);
   rows.push([item,(card.title+' '+(card.description||'')).toLocaleLowerCase('ru')]);
@@ -120,7 +140,7 @@ function getRich(data,type,index){
 }
 function gallery(data){
  const images=[...new Set((data.images||[]).filter(localImage))];
- const inText=new Set((data.blocks||[]).filter(b=>b.type==='image').map(b=>b.src));
+ const inText=new Set([...(data.blocks||[]).filter(b=>b.type==='image').map(b=>b.src),...(data.cards||[]).map(c=>c.image)]);
  const additional=images.filter(x=>!inText.has(x));
  if(!additional.length)return null;
  const view=el('details','source-gallery-disclosure');
@@ -188,7 +208,7 @@ async function run(){
    }
   }
  }
- const response=await fetch('data/'+file);
+ const response=await fetch('data/'+file+'?v=complete59');
  if(!response.ok){notFound();return;}
  const data=await response.json();
  if(!Array.isArray(data.blocks)||!Array.isArray(data.cards)){notFound();return;}

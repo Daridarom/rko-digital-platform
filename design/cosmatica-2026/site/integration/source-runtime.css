@@ -20,6 +20,14 @@ a.source-card:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 .source-card h3{font-size:19px;line-height:1.26;margin:0;overflow-wrap:anywhere}
 .source-card p{font-size:13px;line-height:1.5;margin:0;color:var(--muted);overflow-wrap:anywhere}
 .source-card-arrow{color:var(--red);font-size:12px;font-weight:750;margin-top:auto;padding-top:8px}
+.source-card-topic{font-size:12px;color:var(--red);line-height:1.4;font-weight:680;overflow-wrap:anywhere}
+.source-card-date{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.source-card-more{font-size:13px;line-height:1.55;margin-top:5px}
+.source-card-more summary{color:var(--red);font-weight:700;cursor:pointer;min-height:30px}
+.source-card-more p{display:block;-webkit-line-clamp:unset;overflow:visible;line-height:1.6;margin-top:8px}
+.source-card-copy>p[hidden]{display:none!important}
+.source-listing--direction .source-card-media img{object-fit:contain;object-position:center top}
+.source-listing--direction .source-card-media{background:var(--surface2)}
 .source-details{display:grid;grid-template-columns:minmax(130px,220px) minmax(0,1fr);gap:12px 20px;padding:23px 24px;margin-bottom:28px;border:1px solid var(--line);border-radius:18px;background:var(--surface)}
 .source-details dt{font-size:13px;color:var(--muted);font-weight:750}
 .source-details dd{font-size:15px;line-height:1.55;margin:0;overflow-wrap:anywhere}
