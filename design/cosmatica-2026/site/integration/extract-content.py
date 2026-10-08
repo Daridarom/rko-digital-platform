@@ -24,7 +24,7 @@ SKIP={'script','style','noscript','nav','footer','form','button'}
 REQUEST_HEADERS={'User-Agent':'Mozilla/5.0 (compatible; CosmaticaMigrationAudit/1.0)'}
 
 def string(node):
-    return ' '.join(node.get_text(' ',strip=True).split())
+    return ' '.join(node.get_text(' ',strip=True).split()) if node is not None else ''
 
 def choose_body(soup):
     # Actual Cosmatica content usually lives in article.article.
@@ -154,9 +154,9 @@ def main():
             if args.out:
                 target=args.out/(item['slug']+'.json')
                 target.write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf8')
-            print(item['slug'],result['audit'],'saved' if args.out else 'dry-run: no file written')
-        except (requests.RequestException,ValueError) as exc:
-            print(item['slug'],'ERROR',type(exc).__name__,str(exc)[:100])
+            print(item['slug'],result['audit'],'saved' if args.out else 'dry-run: no file written',flush=True)
+        except (requests.RequestException,ValueError,AttributeError,KeyError,TypeError) as exc:
+            print(item['slug'],'ERROR',type(exc).__name__,str(exc)[:100],flush=True)
             if not args.all:raise
 
 if __name__=='__main__':main()
