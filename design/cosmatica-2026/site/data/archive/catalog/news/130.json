@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Состоялось очередное собрание литературного клуба",
+      "description": "Встреча была посвящена творчеству Александра Блока. В рамках мероприятия был разобран творческий и жизненный путь великого русского писателя.",
+      "url": "https://cosmatica.org/news/105-sostojalos-ocherednoe-sobranie-literaturnogo-kluba.html",
+      "image": "https://cosmatica.org/upload/000/u1/0f/53/sostojalos-ocherednoe-sobranie-literaturnogo-kluba-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5543d19d362cd2630a",
+      "type": "news-item",
+      "sourceCharacters": 226,
+      "verified": false
+    },
+    {
       "title": "Сайт Президента РКО Большакова Бориса Евгеньевича - учёного в области науки устойчивого развития",
       "description": "Русским Космическим Обществом создан сайт Президента РКО, учёного в области науки устойчивого развития - Большакова Бориса Евгеньевича.",
       "url": "https://cosmatica.org/news/104-sait-prezidenta-rko-uchyonogo-v-oblasti-nauki-ustoichivogo-razvitija-bolshakova-borisa-evgenevic.html",
@@ -19,17 +30,6 @@
       "href": "view.html?p=news-item&ref=686615d0cc1e604f8e",
       "type": "news-item",
       "sourceCharacters": 3551,
-      "verified": false
-    },
-    {
-      "title": "В Звёздном сияли юные звёзды.",
-      "description": "Это прекрасное событие собрало более 200 юных шахматистов из России, Белоруссии, Киргизии и Казахстана. Всего же заявки на участие в соревнованиях подали более 600 детей.",
-      "url": "https://cosmatica.org/news/368-v-zvyozdnom-sijali-yunye-zvyozdy.html",
-      "image": "https://cosmatica.org/upload/000/u26/8/c/fa2b8b51.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=58e0f99570cf35323f",
-      "type": "news-item",
-      "sourceCharacters": 1759,
       "verified": false
     },
     {
@@ -99,6 +99,17 @@
       "verified": false
     },
     {
+      "title": "Новый выпуск цикла передач \"Прорыв!\"",
+      "description": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/96-novyi-vypusk-cikla-peredach-proryv.html",
+      "image": "https://cosmatica.org/upload/000/u26/e7/a1/9f93e9cd.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=79ee3312d7ee100e59",
+      "type": "news-item",
+      "sourceCharacters": 828,
+      "verified": false
+    },
+    {
       "title": "Газета \"Природа - Общество - Человек\". Выпуск №9.",
       "description": "Печатный выпуск издания можно получить двумя способами: 1. По подписке. Подробнее об этом: подписка . 2. Заглянуть к нам в офис, предварительно связавшись по указанным контактам: контакты .",
       "url": "https://cosmatica.org/news/95-gazeta-priroda-obschestvo-chelovek-vypusk-9.html",
@@ -132,6 +143,17 @@
       "verified": false
     },
     {
+      "title": "Системономические чтения – 2018",
+      "description": "В конференц-зале собрались представители Русского Космического общества (РКО), учёные РАЕН, Крымской академии ноосферного образования и науки (КАНОН), Международной ноосферной академии науки и образования (НАНО), Международного Университета «Природа-общество-человек» г. Дубна, Славянской Всемирной академии (СВА), института целостного мышления России (Москва), института целостного мышления Украины (Одесса).",
+      "url": "https://cosmatica.org/news/92-sistemonomicheskie-chtenija-2018.html",
+      "image": "https://cosmatica.org/upload/000/u42/fb/c9/0dbed8ce.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=50560c17ebcd8eee5c",
+      "type": "news-item",
+      "sourceCharacters": 1755,
+      "verified": false
+    },
+    {
       "title": "Итоги IV «космической» смены в Артеке",
       "description": "Русское Космическое Общество объединяло, объединяет и будет объединять лучшую молодежь России!",
       "url": "https://cosmatica.org/news/91-itogi-iv-kosmicheskoi-smeny-v-arteke.html",
@@ -151,28 +173,6 @@
       "href": "view.html?p=news-item&ref=da64f05640d844708e",
       "type": "news-item",
       "sourceCharacters": 3114,
-      "verified": false
-    },
-    {
-      "title": "Итоги Молодёжного футурологического конгресса 2018.",
-      "description": "Было подано 18 заявок на участие, из которых 7 проектов прошли модерацию.",
-      "url": "https://cosmatica.org/news/89-itogi-molodyozhnogo-futurologicheskogo-kongressa-2018.html",
-      "image": "https://cosmatica.org/upload/000/u7/02/b8/itogi-molodyozhnogo-futurologicheskogo-kongressa-2018-photo-norma.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a19d766c2596c574cd",
-      "type": "news-item",
-      "sourceCharacters": 827,
-      "verified": false
-    },
-    {
-      "title": "Системономические чтения – 2018",
-      "description": "В конференц-зале собрались представители Русского Космического общества (РКО), учёные РАЕН, Крымской академии ноосферного образования и науки (КАНОН), Международной ноосферной академии науки и образования (НАНО), Международного Университета «Природа-общество-человек» г. Дубна, Славянской Всемирной академии (СВА), института целостного мышления России (Москва), института целостного мышления Украины (Одесса).",
-      "url": "https://cosmatica.org/news/92-sistemonomicheskie-chtenija-2018.html",
-      "image": "https://cosmatica.org/upload/000/u42/fb/c9/0dbed8ce.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=50560c17ebcd8eee5c",
-      "type": "news-item",
-      "sourceCharacters": 1755,
       "verified": false
     }
   ],

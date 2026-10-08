@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1435-zavisimost-buduschego-kosmicheskogo-proryva-chelovechestva-ot.html",
+  "title": "Зависимость Будущего Космического Прорыва человечества от.......",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволюционного прорыва России и человечества в XXI веке»",
+      "spans": [
+        {
+          "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и  "
+        },
+        {
+          "text": "стратегия",
+          "href": "https://cosmatica.org/glossary/41-strategija.html"
+        },
+        {
+          "text": " эволюционного прорыва России и человечества в XXI веке» "
+        }
+      ],
+      "links": [
+        {
+          "text": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Лекция 11: Зависимость Будущего Космического Прорыва человечества от успехов в ноосферном преобразовании основ бытия человечества на Земле.",
+      "spans": [
+        {
+          "text": "Лекция 11: Зависимость Будущего Космического Прорыва человечества от успехов в ноосферном преобразовании основ бытия человечества на Земле."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "VzLsNO4ZERI",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=VzLsNO4ZERI"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволюционного прорыва России и человечества в XXI веке» Лекция 11: Зависимость Будущего Космического Прорыва человечества от успехов в ноосферном преобразовании основ бытия человечества на Земле.",
+      "links": [
+        {
+          "title": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 379,
+    "storedTextCharacters": 286,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 74834
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 314,
+  "capturedBodyCharacters": 286,
+  "sourceTextSHA256": "83c656fe04ed505795687e01c00c2d9571fcc3ac0cc69b7bdc502ac6fbc9c20e",
+  "archiveSnapshotAt": "2026-10-08T13:19:41Z"
+}

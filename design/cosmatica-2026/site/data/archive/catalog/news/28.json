@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Крепнут и множатся ряды гагаринцев!",
+      "description": "С рабочей поездкой в рамках реализации культурно-гуманитарной миссии Русского Космического Общества на Донбассе и с целью развития Всенародного детско-юношеского общественного движения Русского Космического Общества – «Дружина Гагаринцев» на базе образовательных учреждений в Республику прибыл:",
+      "url": "https://cosmatica.org/news/1769-krepnut-i-mnozhatsja-rjady-gagarincev.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/7/krepnut-i-mnozhatsja-rjady-gagarincev-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8d032f094a484b07e4",
+      "type": "news-item",
+      "sourceCharacters": 6900,
+      "verified": false
+    },
+    {
       "title": "Личная ответственность за будущее",
       "description": "19 ноября Глава РКО Алексей Алексеевич Гапонов и соратники по Русскому Комическому Обществу посетили луганскую школу №17, где встретились со старшеклассниками и юнармейцами Луганска.",
       "url": "https://cosmatica.org/news/1768-lichnaja-otvetstvennost-za-buduschee.html",
@@ -121,17 +132,6 @@
       "verified": false
     },
     {
-      "title": "КГБ. Осень 2023",
-      "description": "Все мы знаем, что довольно часто стремление в Космос начинается с неба. Пример первого космонавта земли Юрия Алексеевича Гагарина тому подтверждение.",
-      "url": "https://cosmatica.org/news/1756-kgb-osen-2023.html",
-      "image": "https://cosmatica.org/upload/000/u35/1/3/6b6fc589.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=9659b140eb219926a0",
-      "type": "news-item",
-      "sourceCharacters": 3646,
-      "verified": false
-    },
-    {
       "title": "Проект \"О Будущем\" на форуме \"Россия\"",
       "description": "В павильоне Газпром, который расположился на территории ВДНХ, прошла презентация проекта \"О будущем\" и показ нового фильма от Донецкой Народной Республики \"Призвание\", раскрывающего качество -\"подвижничество\".",
       "url": "https://cosmatica.org/news/1757-proekt-o-buduschem-na-forume-rossija.html",
@@ -140,6 +140,17 @@
       "href": "view.html?p=news-item&ref=7f4f574ffb0739f710",
       "type": "news-item",
       "sourceCharacters": 2267,
+      "verified": false
+    },
+    {
+      "title": "КГБ. Осень 2023",
+      "description": "Все мы знаем, что довольно часто стремление в Космос начинается с неба. Пример первого космонавта земли Юрия Алексеевича Гагарина тому подтверждение.",
+      "url": "https://cosmatica.org/news/1756-kgb-osen-2023.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/3/6b6fc589.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9659b140eb219926a0",
+      "type": "news-item",
+      "sourceCharacters": 3646,
       "verified": false
     },
     {
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=41befcd5e4dd7cbae1",
       "type": "news-item",
       "sourceCharacters": 3190,
-      "verified": false
-    },
-    {
-      "title": "Вебинар для Юнармейцев о возможности создания Цифрового дома Юнармии",
-      "description": "3 ноября 2023 года в 12.00 по московскому времени была проведена ознакомительная встреча по возможности создания Цифрового дома Юнармии. Участие в вебинаре приняли Юнармейцы ВКС, их родители, руководители отрядов, и педагоги.",
-      "url": "https://cosmatica.org/news/1753-vebinar-dlja-yunarmeicev-o-vozmozhnosti-sozdanija-cifrovogo-doma-yunarmii.html",
-      "image": "https://cosmatica.org/upload/000/u7/4/3/vebinar-dlja-yunarmeicev-o-vozmozhnosti-sozdanija-cifrovogo-doma-yuna.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=395882117d9da184b8",
-      "type": "news-item",
-      "sourceCharacters": 1723,
       "verified": false
     }
   ],

@@ -66,17 +66,6 @@
       "verified": false
     },
     {
-      "title": "Космические пятиминутки",
-      "description": "5 февраля 2020г. в преддверии Дня космонавтики в Лопатинской школе Московской области в рамках работы Гагаринского движения дан старт космическим пятиминуткам, которые будут проходить еженедельно до 12 апреля.",
-      "url": "https://cosmatica.org/news/698-kosmicheskie-pjatiminutki.html",
-      "image": "https://cosmatica.org/upload/002/u218/6/8/kosmicheskie-pjatiminutki-photo-normal.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=1adc63bd29a9862a67",
-      "type": "news-item",
-      "sourceCharacters": 1968,
-      "verified": false
-    },
-    {
       "title": "Фильм \"ЭРА\" снят!",
       "description": "Русское Космическое Общество благодарит весь коллектив проекта \"Киноуроки в школах России\" за их каждодневный кропотливый труд во имя нашего общего будущего, за веру, самоотверженность, терпение и стойкость, за стремление к мечте.",
       "url": "https://cosmatica.org/news/709-film-era-snjat.html",
@@ -173,6 +162,17 @@
       "href": "view.html?p=news-item&ref=4c4feaa5b30278cc5e",
       "type": "news-item",
       "sourceCharacters": 237,
+      "verified": false
+    },
+    {
+      "title": "Космические пятиминутки",
+      "description": "5 февраля 2020г. в преддверии Дня космонавтики в Лопатинской школе Московской области в рамках работы Гагаринского движения дан старт космическим пятиминуткам, которые будут проходить еженедельно до 12 апреля.",
+      "url": "https://cosmatica.org/news/698-kosmicheskie-pjatiminutki.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/8/kosmicheskie-pjatiminutki-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1adc63bd29a9862a67",
+      "type": "news-item",
+      "sourceCharacters": 1968,
       "verified": false
     }
   ],

@@ -99,17 +99,6 @@
       "verified": false
     },
     {
-      "title": "Космические концерты Звёздного Маэстро",
-      "description": "Два концерта композитора-виртуоза, почётного члена Русского Космического Общества Леонида Викторовича Тимошенко состоялись в середине декабря.",
-      "url": "https://cosmatica.org/news/1229-kosmicheskie-koncerty-zvyozdnogo-maestro.html",
-      "image": "https://cosmatica.org/upload/002/u218/6/8/kosmicheskie-koncerty-zvyozdnogo-maestro-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=df33bbf807b605b540",
-      "type": "news-item",
-      "sourceCharacters": 4676,
-      "verified": false
-    },
-    {
       "title": "Русский язык: показатель жизнеродности народа и перспектив развития человечества",
       "description": "Она проходила в заочном формате 10 и 11 декабря 2021 года в Москве и Санкт-Петербурге. Бессменным инициатором и организатором конференции является Управляющий частным Русским музеем народоведения, профессор Международной Славянской академии, главный редактор научного журнала «Вестник знаковедения», участник Русского Космического Общества, Кутенков Павел Иванович .",
       "url": "https://cosmatica.org/news/1234-russkii-jazyk-pokazatel-zhiznerodnosti-naroda-predvestnik-unichtozhenija-chelovechestva.html",
@@ -154,6 +143,17 @@
       "verified": false
     },
     {
+      "title": "Космические концерты Звёздного Маэстро",
+      "description": "Два концерта композитора-виртуоза, почётного члена Русского Космического Общества Леонида Викторовича Тимошенко состоялись в середине декабря.",
+      "url": "https://cosmatica.org/news/1229-kosmicheskie-koncerty-zvyozdnogo-maestro.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/8/kosmicheskie-koncerty-zvyozdnogo-maestro-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=df33bbf807b605b540",
+      "type": "news-item",
+      "sourceCharacters": 4676,
+      "verified": false
+    },
+    {
       "title": "Слёт юных \"гагаринцев\" в детском саду \"Ягодка\"",
       "description": "Благотворительный Фонд \"Сохраним жизнь воде\" в содействии с Русским Космическим Обществом 15 декабря провели слёт \"юных гагаринцев\" в детском саду \"Ягодка\" г. Лобня. Присутствовала действующая \"дружинка\", и в торжественной обстановке приняли ребят еще двух подготовительных групп в \"юные гагаринцы\", создали две новых \"дружинки\".",
       "url": "https://cosmatica.org/news/1228-slyot-yunyh-gagarincev-v-detskom-sadu-jagodka.html",
@@ -165,14 +165,14 @@
       "verified": false
     },
     {
-      "title": "Первые шаги Брянского отделения",
-      "description": "Брянщина - древний край с богатыми трудовыми, воинскими, культурными традициями. Издревле территорию вдоль рек Десна и Ока населяли славянские племена. А во времена великой отечественной войны в брянских лесах были развернуты мощные партизанские соединения, - здесь действовало около 60 тысяч партизан.",
-      "url": "https://cosmatica.org/news/1226-pervye-shagi-brjanskogo-otdelenija.html",
-      "image": "https://cosmatica.org/upload/002/u218/d/0/pervye-shagi-brjanskogo-otdelenija-photo-normal.jpeg",
+      "title": "Дорогами добра вместе с Киноуроками",
+      "description": "В преддверии великого праздника Дня Святого Николая, в кинотеатре «КиноКульт» г. Донецка стартовала культурно-воспитательная акция «Дорогою добра».",
+      "url": "https://cosmatica.org/news/1227-dorogami-dobra-vmeste-s-kinourokami.html",
+      "image": "https://cosmatica.org/upload/003/u380/6/9/dorogami-dobra-vmeste-s-kinourokami-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=be1a363e53ad87eb08",
+      "href": "view.html?p=news-item&ref=6dfe58b13756481043",
       "type": "news-item",
-      "sourceCharacters": 3491,
+      "sourceCharacters": 1761,
       "verified": false
     }
   ],

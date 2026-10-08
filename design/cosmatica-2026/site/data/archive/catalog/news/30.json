@@ -11,6 +11,28 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Всетруд - сключение через Общее Дело.",
+      "description": "Война и Труд, разрушение и созидание – две крайности нашего бытия.",
+      "url": "https://cosmatica.org/news/1738-vsetrud-sklyuchenie-chered-obschee-delo.html",
+      "image": "https://cosmatica.org/upload/000/u7/7/4/vsetrud-sklyuchenie-chered-obschee-delo-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=68eaef08e26964f7b1",
+      "type": "news-item",
+      "sourceCharacters": 6848,
+      "verified": false
+    },
+    {
+      "title": "СКИФ уходит в свободное плавание",
+      "description": "Подошла к концу история плодотворного взаимодействия Русского Космического Общества и ДРО «СКИФ», в лице его основателей и командного состава. Мы выходим из подразделения не только в лице Главы РКО, и ряда его членов и участников, непосредственно принявших участие в СВО, в рядах созданной боевой структуры, но и всех других членов и участников, которые словом и делом вносили свой вклад в создание этого воинского форми",
+      "url": "https://cosmatica.org/news/1736-skif-idyot-v-svobodnoe-plavanie.html",
+      "image": "https://cosmatica.org/upload/000/u7/6/e/8c89cda1.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=53e655af042f13e180",
+      "type": "news-item",
+      "sourceCharacters": 2242,
+      "verified": false
+    },
+    {
       "title": "Учитель - главная профессия в мире",
       "description": "Киноурок по теме подвижничество проведут в октябре педагоги, присоединившиеся к системе воспитания «Киноуроки в школах России и мира» Международного культурно-гуманитарного проекта «О будущем».",
       "url": "https://cosmatica.org/news/1735-uchitel-glavnaja-professija-v-mire.html",
@@ -143,17 +165,6 @@
       "verified": false
     },
     {
-      "title": "СКИФ уходит в свободное плавание",
-      "description": "Подошла к концу история плодотворного взаимодействия Русского Космического Общества и ДРО «СКИФ», в лице его основателей и командного состава. Мы выходим из подразделения не только в лице Главы РКО, и ряда его членов и участников, непосредственно принявших участие в СВО, в рядах созданной боевой структуры, но и всех других членов и участников, которые словом и делом вносили свой вклад в создание этого воинского форми",
-      "url": "https://cosmatica.org/news/1736-skif-idyot-v-svobodnoe-plavanie.html",
-      "image": "https://cosmatica.org/upload/000/u7/6/e/8c89cda1.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=53e655af042f13e180",
-      "type": "news-item",
-      "sourceCharacters": 2242,
-      "verified": false
-    },
-    {
       "title": "Космодесант - 2023",
       "description": "Летний лагерь «Космодесант» впервые прошёл на большой базе под Клином, где также проводится и миссия «Нирма».",
       "url": "https://cosmatica.org/news/1723-kosmodesant-2023.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=a85905d86824b57200",
       "type": "news-item",
       "sourceCharacters": 3896,
-      "verified": false
-    },
-    {
-      "title": "Миссия Нирма - новые шаги в космическое будущее",
-      "description": "С 14 июля по 3 августа прошла очередная смена детского научно-творческого лагеря \"Миссия Нирма\" на базе комплекса \"Раздолье\" в Московской области.",
-      "url": "https://cosmatica.org/news/1722-missija-nirma-novye-shagi-v-kosmicheskoe-buduschee.html",
-      "image": "https://cosmatica.org/upload/000/u7/d/b/1d407753.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=efa4db546026dc08da",
-      "type": "news-item",
-      "sourceCharacters": 2760,
       "verified": false
     }
   ],

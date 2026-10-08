@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1434-noosfernyi-socializm-kak-socialno-ekonomicheskaja-organizacija-razvitija-obschestva.html",
+  "title": "«Ноосферный социализм» как социально-экономическая организация развития общества....",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволюционного прорыва России и человечества в XXI веке»",
+      "spans": [
+        {
+          "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и  "
+        },
+        {
+          "text": "стратегия",
+          "href": "https://cosmatica.org/glossary/41-strategija.html"
+        },
+        {
+          "text": " эволюционного прорыва России и человечества в XXI веке» "
+        }
+      ],
+      "links": [
+        {
+          "text": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Лекция 10. «Ноосферный социализм» как социально-экономическая организация развития общества, обеспечивающая решение проблемы пе-рехода Биосферы в Ноосферу.",
+      "spans": [
+        {
+          "text": "Лекция 10. «Ноосферный социализм» как социально-экономическая организация развития общества, обеспечивающая решение проблемы пе-рехода Биосферы в Ноосферу."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "diWH4_r1QBQ",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=diWH4_r1QBQ"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволюционного прорыва России и человечества в XXI веке» Лекция 10. «Ноосферный социализм» как социально-экономическая организация развития общества, обеспечивающая решение проблемы пе-рехода Биосферы в Ноосферу.",
+      "links": [
+        {
+          "title": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 415,
+    "storedTextCharacters": 302,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 74876
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 330,
+  "capturedBodyCharacters": 302,
+  "sourceTextSHA256": "93274da7bd89fdb3607341f1ba8b6d942f3cd167396b83782e3e8871ecc2fed0",
+  "archiveSnapshotAt": "2026-10-08T13:19:40Z"
+}

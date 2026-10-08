@@ -11,14 +11,14 @@
   "blocks": [],
   "cards": [
     {
-      "title": "О земном и небесном через творчество",
-      "description": "В этом году акция была посвящена Году театра, поэтому посетителей музея ждали яркие театрализации, увлекательные мастер-классы, тематические экскурсии и лекции.",
-      "url": "https://cosmatica.org/news/600-o-zemnom-i-nebesnom-cherez-tvorchestvo.html",
-      "image": "https://cosmatica.org/upload/000/u35/9/f/o-zemnom-i-nebesnom-cherez-tvorchestvo-photo-normal.jpg",
+      "title": "Ребята и кедрята",
+      "description": "1 ноября 2019 года Лопатинская средняя общеобразовательная школа посадила свой «Гагаринский сад», приурочив это событие ко Дню народного единства.",
+      "url": "https://cosmatica.org/news/599-rebjata-i-kedrjata.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/c/rebjata-i-kedrjata-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=f9ad58f19b63529f41",
+      "href": "view.html?p=news-item&ref=74f93f7c9b946e6889",
       "type": "news-item",
-      "sourceCharacters": 4276,
+      "sourceCharacters": 1915,
       "verified": false
     },
     {
@@ -44,6 +44,17 @@
       "verified": false
     },
     {
+      "title": "Высокие идеалы и забота о природе",
+      "description": "\"Гагаринский сад\" прорастает на Селигере.",
+      "url": "https://cosmatica.org/news/596-vysokie-idealy-i-zabota-o-prirode.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/9/vysokie-idealy-i-zabota-o-prirode-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=339f41d36de76f5ae7",
+      "type": "news-item",
+      "sourceCharacters": 3006,
+      "verified": false
+    },
+    {
       "title": "Молодёжь РКО приняла участие в мероприятии \"Роскосмоса\"",
       "description": "В мероприятии приняли участие представители руководства МГТУ им. Н.Э. Баумана, Московского завода электромеханического оборудования, эксперты Государственной Думы, представители молодёжного крыла Русского космического общества, а также Центра проектных и образовательных инициатив, Общественного движения «Молодёжь и развитие », Фонда реализации социальных программ, студенты - члены Молодёжного космического центра МГТУ",
       "url": "https://cosmatica.org/news/595-molodyozh-rko-prinjala-uchastie-v-meroprijatii-roskosmosa.html",
@@ -63,17 +74,6 @@
       "href": "view.html?p=news-item&ref=5f0f373f39c736efed",
       "type": "news-item",
       "sourceCharacters": 4312,
-      "verified": false
-    },
-    {
-      "title": "Высокие идеалы и забота о природе",
-      "description": "\"Гагаринский сад\" прорастает на Селигере.",
-      "url": "https://cosmatica.org/news/596-vysokie-idealy-i-zabota-o-prirode.html",
-      "image": "https://cosmatica.org/upload/000/u35/a/9/vysokie-idealy-i-zabota-o-prirode-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=339f41d36de76f5ae7",
-      "type": "news-item",
-      "sourceCharacters": 3006,
       "verified": false
     },
     {

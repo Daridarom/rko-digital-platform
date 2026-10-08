@@ -11,14 +11,14 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Мы понимаем какова наша Цель и образ нашего будущего",
-      "description": "Основная очная площадка IV международной научно-практической конференции: «Космическая философия - Космическое право - Космическая деятельность: триединство космического прорыва человечества» в этом году работала в Санкт-Петербурге на базе Смольного института. Большая часть докладчиков приняли участие в удалённом формате на сетевой платформе Русского Космического Общества sciba.cosmatica.org",
-      "url": "https://cosmatica.org/news/1637-160-letiyu-v-i-vernadskogo-posvjaschaetsja.html",
-      "image": "https://cosmatica.org/upload/002/u218/e/b/0c963d30.jpg",
+      "title": "Отец атомной энергетики",
+      "description": "\"Объем этих (атомных) работ очень велик, но и силы наши теперь велики!\"",
+      "url": "https://cosmatica.org/news/1639-otec-atomnoi-energetiki.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/6/a9797ebf.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=d9c33f21d3c5cdeea1",
+      "href": "view.html?p=news-item&ref=36a5ee758f1c0e5995",
       "type": "news-item",
-      "sourceCharacters": 15095,
+      "sourceCharacters": 18189,
       "verified": false
     },
     {
@@ -33,14 +33,14 @@
       "verified": false
     },
     {
-      "title": "Отец атомной энергетики",
-      "description": "\"Объем этих (атомных) работ очень велик, но и силы наши теперь велики!\"",
-      "url": "https://cosmatica.org/news/1639-otec-atomnoi-energetiki.html",
-      "image": "https://cosmatica.org/upload/002/u218/f/6/a9797ebf.jpg",
+      "title": "Мы понимаем какова наша Цель и образ нашего будущего",
+      "description": "Основная очная площадка IV международной научно-практической конференции: «Космическая философия - Космическое право - Космическая деятельность: триединство космического прорыва человечества» в этом году работала в Санкт-Петербурге на базе Смольного института. Большая часть докладчиков приняли участие в удалённом формате на сетевой платформе Русского Космического Общества sciba.cosmatica.org",
+      "url": "https://cosmatica.org/news/1637-160-letiyu-v-i-vernadskogo-posvjaschaetsja.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/b/0c963d30.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=36a5ee758f1c0e5995",
+      "href": "view.html?p=news-item&ref=d9c33f21d3c5cdeea1",
       "type": "news-item",
-      "sourceCharacters": 18189,
+      "sourceCharacters": 15095,
       "verified": false
     },
     {
@@ -132,17 +132,6 @@
       "verified": false
     },
     {
-      "title": "Огнеборец занял место в Вечном Строю",
-      "description": "Гремит на русских землях гражданская война. Свистят пули, рвутся снаряды и мины. Льётся русская кровь. Сошлись в смертельной схватке противники, каждый за своё. У одного из них \"своё\" - чужое, инородное, у другого \"своё\" - родное, Отеческое.",
-      "url": "https://cosmatica.org/news/1626-ogneborec-zanjal-mesto-v-vechnom-stroyu.html",
-      "image": "https://cosmatica.org/upload/000/u7/b/5/ogneborec-zanjal-mesto-v-vechnom-stroyu-photo-normal.png",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=cb9fefeb026a6a7d7f",
-      "type": "news-item",
-      "sourceCharacters": 5967,
-      "verified": false
-    },
-    {
       "title": "Жизнь грибов, или новые приключения \"Миссии Нирма\"",
       "description": "Программа была очень насыщенной и увлекательной.",
       "url": "https://cosmatica.org/news/1627-zhizn-gribov-ili-novye-priklyuchenija-missii-nirma.html",
@@ -151,6 +140,17 @@
       "href": "view.html?p=news-item&ref=520d054ede0ade597f",
       "type": "news-item",
       "sourceCharacters": 2101,
+      "verified": false
+    },
+    {
+      "title": "Огнеборец занял место в Вечном Строю",
+      "description": "Гремит на русских землях гражданская война. Свистят пули, рвутся снаряды и мины. Льётся русская кровь. Сошлись в смертельной схватке противники, каждый за своё. У одного из них \"своё\" - чужое, инородное, у другого \"своё\" - родное, Отеческое.",
+      "url": "https://cosmatica.org/news/1626-ogneborec-zanjal-mesto-v-vechnom-stroyu.html",
+      "image": "https://cosmatica.org/upload/000/u7/b/5/ogneborec-zanjal-mesto-v-vechnom-stroyu-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cb9fefeb026a6a7d7f",
+      "type": "news-item",
+      "sourceCharacters": 5967,
       "verified": false
     },
     {

@@ -11,17 +11,6 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Поздравляем наших соратников",
-      "description": "27 сентября 2019 года стали известны результаты конкурса Министерства науки и высшего образования на получение стипендий Президента и стипендий Правительства РФ.",
-      "url": "https://cosmatica.org/news/565-pozdravljaem-nashih-soratnikov.html",
-      "image": "https://cosmatica.org/upload/000/u35/0/a/b4adcaac.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=3885b3ef9308cdd56e",
-      "type": "news-item",
-      "sourceCharacters": 3164,
-      "verified": false
-    },
-    {
       "title": "Город Лобня создаёт экологичное будущее",
       "description": "Член Экологического Совета Любовь Викторовна Мазурина и её соратники из фонда \"Сохраним жизнь воде\" продолжают активно действовать во имя сохранения и преумножения Жизни. За сентябрь активными участниками программ \"Гагаринский сад\" и \"Именное дерево\" к 75-летию Победы в Великой Отечественной войне стали десятки школьников, взрослых и даже дошколят. Обеспечил саженцами экоактивистов \"Зеленоградский кедровый питомник\" ",
       "url": "https://cosmatica.org/news/566-kedry-i-dubki-vyrastut-v-podmoskove.html",
@@ -30,6 +19,17 @@
       "href": "view.html?p=news-item&ref=c21e66bd83b1a42106",
       "type": "news-item",
       "sourceCharacters": 2257,
+      "verified": false
+    },
+    {
+      "title": "Поздравляем наших соратников",
+      "description": "27 сентября 2019 года стали известны результаты конкурса Министерства науки и высшего образования на получение стипендий Президента и стипендий Правительства РФ.",
+      "url": "https://cosmatica.org/news/565-pozdravljaem-nashih-soratnikov.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/a/b4adcaac.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3885b3ef9308cdd56e",
+      "type": "news-item",
+      "sourceCharacters": 3164,
       "verified": false
     },
     {

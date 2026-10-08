@@ -11,14 +11,14 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Пополнение в Первом отряде РКО",
-      "description": "Первый Отряд учреждён 21.12.2019 года на годовом открытом собрании членов Русского Космического Общества по адресу: г. Москва, ул. Моховая, д. 11, стр. 11.",
-      "url": "https://cosmatica.org/news/852-popolnenie-v-pervom-otrjade-rko.html",
-      "image": "https://cosmatica.org/upload/002/u218/d/f/popolnenija-v-pervom-otrjade-rko-photo-normal.jpg",
+      "title": "Съезд семей \"Национальное достояние\"",
+      "description": "Дорогие друзья! Много препятствий на пути, но главное - идти! Изменились даты и место проведения Съезда. Мы же активно готовимся к его проведению, с уверенностью в победе!",
+      "url": "https://cosmatica.org/news/838-sezd-semei-nacionalnoe-dostojanie.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/1/sezd-semei-nacionalnoe-dostojanie-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=fc24797473d185d1ce",
+      "href": "view.html?p=news-item&ref=7850a27a5f0e09f0f6",
       "type": "news-item",
-      "sourceCharacters": 6645,
+      "sourceCharacters": 4723,
       "verified": false
     },
     {
@@ -132,6 +132,17 @@
       "verified": false
     },
     {
+      "title": "Юные исследователи завершили полёт",
+      "description": "Великая Космическая Одиссея – это комплексная программа, ориентированная на формирование человека с космопланетарным мышлением в триединой логике исследователя, конструктора и организатора, обладающего знаниями, умениями и навыками, необходимыми для будущих космических, межпланетных путешествий.",
+      "url": "https://cosmatica.org/news/826-yunye-issledovateli-okonchili-polyot.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/6/yunye-issledovateli-okonchili-polyot-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cc57de3d65ef379e58",
+      "type": "news-item",
+      "sourceCharacters": 3490,
+      "verified": false
+    },
+    {
       "title": "Вышли материалы конференции",
       "description": "В конференции приняли участие докладчики из разных уголков нашей Великой Родины: из Москвы и Новосибирска, Нижнего Тагила и Орла, Снежинска, Санкт-Петербурга и Екатеринбурга.",
       "url": "https://cosmatica.org/news/825-vyshli-materialy-konferencii.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=5930a0d6771e850cda",
       "type": "news-item",
       "sourceCharacters": 6866,
-      "verified": false
-    },
-    {
-      "title": "Кто же станет лучшим лектором?",
-      "description": "Цель Конкурса «Лучший Лектор» – формирование интереса к разговорной форме изложения учебного, научного или научно-популярного материала, развитие и популяризация лекторского искусства в российском обществе и развитие просветительской деятельности в России.",
-      "url": "https://cosmatica.org/news/821-kto-zhe-stanet-luchshim-lektorom.html",
-      "image": "https://cosmatica.org/upload/000/u35/4/e/kto-zhe-stanet-luchshim-lektorom-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=ccf0ad9136931aeb80",
-      "type": "news-item",
-      "sourceCharacters": 2003,
       "verified": false
     }
   ],

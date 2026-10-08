@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Открытие выставки работ Геннадия Ивановича Тищенко",
+      "description": "14 октября 2018 года в ДК «Алые Паруса» (г. Москва) состоялось открытие выставки работ члена Русского Космического Общества, художника, мультипликатора, писателя-фантаста Геннадия Ивановича Тищенко.",
+      "url": "https://cosmatica.org/news/217-otkrytie-vystavki-rabot-gennadija-ivanovicha-tischenko.html",
+      "image": "https://cosmatica.org/upload/000/u26/51/84/otkrytie-vystavki-rabot-gennadija-ivanovicha-tischenko-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a2e2cbb73df7c412ee",
+      "type": "news-item",
+      "sourceCharacters": 2294,
+      "verified": false
+    },
+    {
       "title": "15 октября проекту Наша Вселенная исполнилось 3 года",
       "description": "И по прошествии этих немалых лет руководители проекта со всей ответственностью заявляют: \"Нас по-прежнему вдохновляют звёзды, манят миры иных планет и зовёт Вселенная!\"",
       "url": "https://cosmatica.org/news/216-15-oktjabrja-proektu-nasha-vselennaja-kompyuternaja-igra-pro-kosmos-ispolnilos-3-goda.html",
@@ -22,6 +33,28 @@
       "verified": false
     },
     {
+      "title": "Осенний семинар \"Целостное мышление\"- 2018 г.",
+      "description": "Ах, как жаль, что время столь быстротечно. Ещё одна из групп наших семинаристов разъехалась по домам. Незаметно пролетели 8 насыщенных дней. Плотный график занятий обогатил слушателей новыми знаниями. Оказалось, что они были ожидаемыми и необходимыми им. Теория и практика шли буквально рука об руку! Вот Сергию они были нужны для насыщения научно-методическим содержанием его планов создания природосообразной и очень к",
+      "url": "https://cosmatica.org/news/215-osennii-seminar-celostnoe-myshlenie-2018g.html",
+      "image": "https://cosmatica.org/upload/000/u42/e1/96/osennii-seminar-celostnoe-myshlenie-2018g-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b140828de2c0db1eba",
+      "type": "news-item",
+      "sourceCharacters": 4526,
+      "verified": false
+    },
+    {
+      "title": "Что такое ноосферное образование?",
+      "description": "Н.В. Маслова , Член РКО, Президент Ноосферной академии науки и образования, председатель бюро отделения Ноосферного образования, доктор психологических наук, кандидат исторических наук, лауреат Премии РАЕН.",
+      "url": "https://cosmatica.org/news/214-chto-takoe-noosfernoe-obrazovanie.html",
+      "image": "https://cosmatica.org/upload/000/u42/00/ad/chto-takoe-noosfernoe-obrazovanie-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=67395ba24649ec52fe",
+      "type": "news-item",
+      "sourceCharacters": 4468,
+      "verified": false
+    },
+    {
       "title": "3-е рабочее собрание Санкт-Петербургского отделения РКО",
       "description": "13 октября 2018 года в Санкт-Петербурге состоялось третье собрание Санкт-Петербургского отделения Русского Космического Общества.",
       "url": "https://cosmatica.org/news/213-3-e-rabochee-sobranie-sankt-peterburgskogo-otdelenija-rko.html",
@@ -30,17 +63,6 @@
       "href": "view.html?p=news-item&ref=c0bf58f06fdf71e61e",
       "type": "news-item",
       "sourceCharacters": 13330,
-      "verified": false
-    },
-    {
-      "title": "Открытие выставки работ Геннадия Ивановича Тищенко",
-      "description": "14 октября 2018 года в ДК «Алые Паруса» (г. Москва) состоялось открытие выставки работ члена Русского Космического Общества, художника, мультипликатора, писателя-фантаста Геннадия Ивановича Тищенко.",
-      "url": "https://cosmatica.org/news/217-otkrytie-vystavki-rabot-gennadija-ivanovicha-tischenko.html",
-      "image": "https://cosmatica.org/upload/000/u26/51/84/otkrytie-vystavki-rabot-gennadija-ivanovicha-tischenko-photo-norma.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a2e2cbb73df7c412ee",
-      "type": "news-item",
-      "sourceCharacters": 2294,
       "verified": false
     },
     {
@@ -63,6 +85,17 @@
       "href": "view.html?p=news-item&ref=2acb146144a8d2c5e9",
       "type": "news-item",
       "sourceCharacters": 2149,
+      "verified": false
+    },
+    {
+      "title": "Проект «Ближе к звездам!» выходит на международную орбиту!",
+      "description": "Итак, после успешного экспонирования на Кубанской земле в пос. Псебай (Краснодарский край, Мостовской р-н) передвижная выставка художников-космистов, членов Арт-объединения «Созвездие видений» Творческого союза профессиональных художников, в рамках культурно-просветительского проекта «Ближе к звездам!», благополучно пересекла государственную границу и вышла на международную орбиту. На этот раз нашу выставку приняла Н",
+      "url": "https://cosmatica.org/news/210-proekt-blizhe-k-zvezdam-vyhodit-na-mezhdunarodnuyu-orbitu.html",
+      "image": "https://cosmatica.org/upload/000/u8/c3/e3/proekt-blizhe-k-zvezdam-vyhodit-na-mezhdunarodnuyu-orbitu-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f85d9209bc387ed90a",
+      "type": "news-item",
+      "sourceCharacters": 8250,
       "verified": false
     },
     {
@@ -110,17 +143,6 @@
       "verified": false
     },
     {
-      "title": "Региональный этап всероссийского фестиваля среди детских футбольных команд «Ближе к звёздам»",
-      "description": "Большую роль в организации проведения приняли участие: «Русское космическое общество», Спортивный клуб «Роскосмос», детская Нижегородская Лига по футболу. Мы надеемся, что данные соревнования будут проходить ежегодно, с участием команд из других регионов нашей Страны.",
-      "url": "https://cosmatica.org/news/221-regionalnyi-etap-vserossiiskogo-festivalja-sredi-detskih-futbolnyh-komand-blizhe-k-zvyozdam.html",
-      "image": "https://cosmatica.org/upload/000/u26/82/d7/regionalnyi-etap-vserossiiskogo-festivalja-sredi-detskih-futbol.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=c8c2c2f262f874c6b4",
-      "type": "news-item",
-      "sourceCharacters": 1833,
-      "verified": false
-    },
-    {
       "title": "Приглашаем на открытие выставки Иветты Ки!",
       "description": "г. Москва, Выставочный зал «Тушино», 5 -21 октября 2018 г.",
       "url": "https://cosmatica.org/news/205-priglashaem-na-otkrytie-vystavki-ivetty-ki.html",
@@ -132,14 +154,14 @@
       "verified": false
     },
     {
-      "title": "Поздравление президента РКО с днём космических войск",
-      "description": "61 год назад человечество сделало шаг в открытый космос, запустив в свой первый полёт искусственный спутник Земли. Это стало началом космической истории земного человечества, предопределило его дальнейшее развитие .",
-      "url": "https://cosmatica.org/news/202-pozdravlenie-prezidenta-rko-s-dnyom-kosmicheskih-voisk.html",
-      "image": "https://cosmatica.org/upload/000/u26/1a/42/pozdravlenie-prezidenta-rko-s-dnyom-kosmicheskih-voisk-photo-norma.jpg",
+      "title": "Фестиваль \"Наука 0+\" в Брянске при участии Русского Космического Общества",
+      "description": "Организатором фестиваля в регионе является Брянский государственный инженерно-технологический университет.",
+      "url": "https://cosmatica.org/news/204-festival-nauka-0-v-brjanske-pri-uchastii-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u26/e0/f8/d1ff510b.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=1ba5801554e6839e04",
+      "href": "view.html?p=news-item&ref=3d06a91f43c927d7e6",
       "type": "news-item",
-      "sourceCharacters": 649,
+      "sourceCharacters": 2383,
       "verified": false
     },
     {
@@ -151,28 +173,6 @@
       "href": "view.html?p=news-item&ref=afb29f42be7728ac41",
       "type": "news-item",
       "sourceCharacters": 2322,
-      "verified": false
-    },
-    {
-      "title": "Начинающие журналисты, мы ждём вас!",
-      "description": "Русское Космическое Общество – это собрание людей, объединившихся в особый период развития человеческой цивилизации вокруг общей ЦЕЛИ – сохранения и развития жизни как космопланетарного явления, а также содействия переходу цивилизации на путь её космической истории. Для осмысления и правильного применения законов эволюции жизни на Земле и в Космосе. Для распространения научного и философского наследия школы Русского ",
-      "url": "https://cosmatica.org/news/201-nachinayuschie-pisateli-my-zhdyom-vas.html",
-      "image": "https://cosmatica.org/upload/000/u26/50/dd/710890fa.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=1f1db7ff7bcc82b09d",
-      "type": "news-item",
-      "sourceCharacters": 3482,
-      "verified": false
-    },
-    {
-      "title": "Фестиваль \"Наука 0+\" в Брянске при участии Русского Космического Общества",
-      "description": "Организатором фестиваля в регионе является Брянский государственный инженерно-технологический университет.",
-      "url": "https://cosmatica.org/news/204-festival-nauka-0-v-brjanske-pri-uchastii-russkogo-kosmicheskogo-obschestva.html",
-      "image": "https://cosmatica.org/upload/000/u26/e0/f8/d1ff510b.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=3d06a91f43c927d7e6",
-      "type": "news-item",
-      "sourceCharacters": 2383,
       "verified": false
     }
   ],

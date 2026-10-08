@@ -11,17 +11,6 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Олег Афанасьевич Сизов",
-      "description": "Президент национального экологического фонда, декан факультета Московской академии государственного и муниципального управления, летчик-испытатель, доктор технических наук, профессор",
-      "url": "https://cosmatica.org/users/81",
-      "image": "https://cosmatica.org/upload/000/u26/f9/21/9e7eb027.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=a48b80a12786803078",
-      "type": "profile",
-      "sourceCharacters": 210,
-      "verified": false
-    },
-    {
       "title": "Владимир Семёнович Чуков",
       "description": "Руководитель Арктического совета Русского Космического Общества.",
       "url": "https://cosmatica.org/users/86",
@@ -96,6 +85,17 @@
       "href": "view.html?p=profile&ref=4f9bcf5dea011b7c0b",
       "type": "profile",
       "sourceCharacters": 1314,
+      "verified": false
+    },
+    {
+      "title": "Алексей Петрович Дёмин",
+      "description": "",
+      "url": "https://cosmatica.org/users/965",
+      "image": "https://cosmatica.org/upload/000/u35/2/b/3c63f796.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=f465e9f8a38a77339d",
+      "type": "profile",
+      "sourceCharacters": 17,
       "verified": false
     },
     {

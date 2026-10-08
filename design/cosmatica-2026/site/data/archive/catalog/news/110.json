@@ -88,6 +88,28 @@
       "verified": false
     },
     {
+      "title": "Кто летит на Байконур!?",
+      "description": "«Семихатовские чтения» проводятся ежегодно в канун празднования Дня космонавтики и посвящаются памяти конструктора и ученого – академика Н.А. Семихатова.",
+      "url": "https://cosmatica.org/news/415-kto-letit-na-baikonur.html",
+      "image": "https://cosmatica.org/upload/000/u44/1/2/0b58d204.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a022dfefe2c6eb81cf",
+      "type": "news-item",
+      "sourceCharacters": 4761,
+      "verified": false
+    },
+    {
+      "title": "Путь к знаниям - путь к звёздам.",
+      "description": "Базовой площадкой Олимпиады стал Баранчинский электромеханический техникум. Организацию процесса, методическую и ИТ-поддержку осуществляли Свердловское отделение Русского Космического Общества (РКО) и Сетевая инженерно-техническая школа (СИТШ).",
+      "url": "https://cosmatica.org/news/414-put-k-znanijam-put-k-zvyozdam.html",
+      "image": "https://cosmatica.org/upload/000/u44/1/d/6a5d0ca7.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3c0b16c3d93ba333c7",
+      "type": "news-item",
+      "sourceCharacters": 2362,
+      "verified": false
+    },
+    {
       "title": "\"Космология духа\" Ильенкова и традиция Русского Космизма",
       "description": "В 2019 году Чтения прошли под девизом: «Э.В. Ильенков: проблема единства и целостности философско-мировоззренческих взглядов». Организаторы конференции: Российское Философское общество «Диалектика и культура», Русское Космическое Общество, Общероссийское общественное движение «Альтернативы», Восточное Отделение Казахстанского Философского Конгресса, Кафедра философии Московского авиационного института.",
       "url": "https://cosmatica.org/news/413-kosmologija-duha-ilenkova-i-tradicija-russkogo-kosmizma.html",
@@ -99,14 +121,14 @@
       "verified": false
     },
     {
-      "title": "Кто летит на Байконур!?",
-      "description": "«Семихатовские чтения» проводятся ежегодно в канун празднования Дня космонавтики и посвящаются памяти конструктора и ученого – академика Н.А. Семихатова.",
-      "url": "https://cosmatica.org/news/415-kto-letit-na-baikonur.html",
-      "image": "https://cosmatica.org/upload/000/u44/1/2/0b58d204.jpg",
+      "title": "Магницкий — XXI век",
+      "description": "Тема научного мероприятия: «Государство – флот — навигацкая школа – Магницкий — XXI век. 350 Магницкому Леонтию Филипповичу и Петру I: религия-наука-политика» .",
+      "url": "https://cosmatica.org/news/412-magnickii-xxi-vek.html",
+      "image": "https://cosmatica.org/upload/000/u26/1/8/magnickii-xxi-vek-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a022dfefe2c6eb81cf",
+      "href": "view.html?p=news-item&ref=1daaf6d553f3b5dec3",
       "type": "news-item",
-      "sourceCharacters": 4761,
+      "sourceCharacters": 2283,
       "verified": false
     },
     {
@@ -132,14 +154,14 @@
       "verified": false
     },
     {
-      "title": "Путь к знаниям - путь к звёздам.",
-      "description": "Базовой площадкой Олимпиады стал Баранчинский электромеханический техникум. Организацию процесса, методическую и ИТ-поддержку осуществляли Свердловское отделение Русского Космического Общества (РКО) и Сетевая инженерно-техническая школа (СИТШ).",
-      "url": "https://cosmatica.org/news/414-put-k-znanijam-put-k-zvyozdam.html",
-      "image": "https://cosmatica.org/upload/000/u44/1/d/6a5d0ca7.jpg",
+      "title": "День космонавтики в Калуге",
+      "description": "12 апреля в Государственном музее истории космонавтики им. К.Э. Циолковского в Калуге состоялись праздничные мероприятия, посвященные Всемирному дню авиации и космонавтики.",
+      "url": "https://cosmatica.org/news/409-den-kosmonavtiki-v-kaluge.html",
+      "image": "https://cosmatica.org/upload/001/u172/6/b/den-kosmonavtiki-v-kaluge-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=3c0b16c3d93ba333c7",
+      "href": "view.html?p=news-item&ref=82592f3de0e13308b5",
       "type": "news-item",
-      "sourceCharacters": 2362,
+      "sourceCharacters": 2850,
       "verified": false
     },
     {
@@ -151,28 +173,6 @@
       "href": "view.html?p=news-item&ref=3987f27d372c570c33",
       "type": "news-item",
       "sourceCharacters": 4943,
-      "verified": false
-    },
-    {
-      "title": "Магницкий — XXI век",
-      "description": "Тема научного мероприятия: «Государство – флот — навигацкая школа – Магницкий — XXI век. 350 Магницкому Леонтию Филипповичу и Петру I: религия-наука-политика» .",
-      "url": "https://cosmatica.org/news/412-magnickii-xxi-vek.html",
-      "image": "https://cosmatica.org/upload/000/u26/1/8/magnickii-xxi-vek-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=1daaf6d553f3b5dec3",
-      "type": "news-item",
-      "sourceCharacters": 2283,
-      "verified": false
-    },
-    {
-      "title": "Всенародный день Матери-Земли в Мемориальном Музее Космонавтики",
-      "description": "День Матери-Земли — это день ответственности перед нашей планетой, ответственности перед людьми, которые её населяют, перед самой природой, частью которой мы являемся».",
-      "url": "https://cosmatica.org/news/405-vsenarodnyi-den-materi-zemli-v-memorialnom-muzee-kosmonavtiki.html",
-      "image": "https://cosmatica.org/upload/000/u26/5/e/vsenarodnyi-den-materi-zemli-v-memorialnom-muzee-kosmonavtiki.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=24734216d125c6248b",
-      "type": "news-item",
-      "sourceCharacters": 7050,
       "verified": false
     }
   ],

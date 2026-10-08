@@ -6,10 +6,76 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 58,
-  "pageCount": 321,
-  "total": 4812,
+  "pageCount": 322,
+  "total": 4823,
   "blocks": [],
   "cards": [
+    {
+      "title": "Студенческая смена \"Обед с космонавтом\"",
+      "description": "Погода порадовала солнышком, теплом и первыми цветами. Во встрече приняли участие студенты Московского государственного областного университета (МГОУ), студенты Московского государственного университета технологий и управления им. К.Г. Разумовского (МГУТУ), активные участники Просветительской общественной инициативы \"Пойдём с нами\" из Москвы и Московской области.",
+      "url": "https://cosmatica.org/news/1364-studencheskaja-smena-obed-s-kosmonavtom.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/f/studencheskaja-smena-obed-s-kosmonavtom-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=21295e4a1e89a67973",
+      "type": "news-item",
+      "sourceCharacters": 2456,
+      "verified": false
+    },
+    {
+      "title": "Шахматный турнир \"Юные звёзды\"",
+      "description": "Вот уже 6 лет подряд проводится открытый фестиваль \"Юные звёзды\". Но в этот раз был особый статус мероприятия - благотворительный. Все собранные на мероприятии средства, за исключением прямых организационных расходов, направлены на материальную помощь детям, оказавшимся в сложной жизненной ситуации на Донбассе.",
+      "url": "https://cosmatica.org/news/1363-shahmatnyi-turnir-yunye-zvyozdy.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/b/cf0e47f2.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d5e33ddcb95f3482d0",
+      "type": "news-item",
+      "sourceCharacters": 2760,
+      "verified": false
+    },
+    {
+      "title": "Гуманитарный штаб РКО на Донбассе",
+      "description": "Для координации деятельности в данном направлении создан Штаб вклада в Победу Донецкого отделения Русского Космического Общества. Координатор штаба - секретарь Донецкого отделения РКО Абраменкова Элина Александровна.",
+      "url": "https://cosmatica.org/news/1362-gumanitarnyi-shtab-rko-na-donbasse.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/9/gumanitarnyi-shtab-rko-na-donbasse-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5965cca1f15c3cf036",
+      "type": "news-item",
+      "sourceCharacters": 2583,
+      "verified": false
+    },
+    {
+      "title": "Даёшь позитивные новости!",
+      "description": "Русское Космическое Общество проводит конкурс \"Журналист - созидатель будущего.\"",
+      "url": "https://cosmatica.org/news/1361-dayosh-polozhitelnye.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/4/dayosh-polozhitelnye-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=829afdf6f7cd96e2b0",
+      "type": "news-item",
+      "sourceCharacters": 14882,
+      "verified": false
+    },
+    {
+      "title": "Открыты новые штабы вклада в победу",
+      "description": "Товарищи! Мы — Русские, и нам не безразлична Судьба нашего Народа и нашего Отечества. Сегодня настало время Действовать!",
+      "url": "https://cosmatica.org/news/1360-otkryty-novye-shtaby-vklada-v-pobedu.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/e/otkryty-novye-shtaby-vklada-v-pobedu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0f4b5b9ada16758f4b",
+      "type": "news-item",
+      "sourceCharacters": 4460,
+      "verified": false
+    },
+    {
+      "title": "Ночь Юрия в Пскове",
+      "description": "Данные телескопы привезли участники Псковского клуба любительской астрономии АстроПсков : Пётр Митрофанов, Сергей Попов, участник Псковского отделения РКО Максим Евдокимов и Владимир Юрьевич Колпаков - председатель Псковского регионального отделения РКО и руководитель Центра Юный техник в Пскове .",
+      "url": "https://cosmatica.org/news/1359-noch-yurija-v-pskove.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/c/noch-yurija-v-pskove-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ba4db8e480f8f46624",
+      "type": "news-item",
+      "sourceCharacters": 2146,
+      "verified": false
+    },
     {
       "title": "Пополнение в строю юных гагаринцев!",
       "description": "15 апреля 2022 в МБОУ СОШ №9 родители, ученики и учителя решили присоединиться к Всенародному детско-юношескому общественному движению Русского Космического Общества - \"Дружина Гагаринцев\".",
@@ -107,72 +173,6 @@
       "href": "view.html?p=news-item&ref=58cf808ba9b96e2fe6",
       "type": "news-item",
       "sourceCharacters": 2411,
-      "verified": false
-    },
-    {
-      "title": "В Ессентуках представлен Центр Инновационного Непрерывного Образования - ПРОСВЕТ",
-      "description": "Концепцию проекта инновационного центра непрерывного образования в День Космонавтики 12 апреля 2022 года представили в Ессентуках. Авторы программы и руководители проекта делают акцент на неразрывный цикл образовательной системы: воспитание, просвещение и профессиональную подготовку. Опорной базой \"Просвета\" станет Северо-Кавказский Гуманитарный Техникум.",
-      "url": "https://cosmatica.org/news/1351-centr-innovacionnogo-nepreryvnogo-obrazovanija-prosvet.html",
-      "image": "https://cosmatica.org/upload/000/u35/e/a/v-essentukah-predstavlen-centr-innovacionnogo-nepreryvnogo-obraz.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=e797f702683abe4056",
-      "type": "news-item",
-      "sourceCharacters": 4248,
-      "verified": false
-    },
-    {
-      "title": "День космонавтики в Брянском отделении РКО",
-      "description": "14 апреля в брянской школе №58 на ул. Абашева, д.3 состоялось торжественное открытие интерактивной экспозиции \"Мы верим в космос\". Событие было приурочено к 12 апреля \"Дню космонавтики\". Экспозиция разработана Молодёжным советом РКО и посвящена истории космонавтики России. В преддверии праздника между Русским Космическим Обществом и школой было заключено соглашение о сотрудничестве и взаимодействии. Предполагается, ч",
-      "url": "https://cosmatica.org/news/1350-den-kosmonavtiki-otmetili-v-brjanskom-otdelenii-rko.html",
-      "image": "https://cosmatica.org/upload/000/u35/2/3/6f939f5e.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=05b5f424e5108885b8",
-      "type": "news-item",
-      "sourceCharacters": 1963,
-      "verified": false
-    },
-    {
-      "title": "Устойчивое развитие: наука и практика «особого периода»",
-      "description": "13 апреля 2022 года Национальным экологическим институтом Устойчивого развития при поддержке Международной школы устойчивого развития им. П.Г. Кузнецова и Московской ассоциации предпринимателей на площадке Торгово-промышленной палаты Российской Федерации проведена научно-практическая конференция «Устойчивое развитие : наука и практика «особого периода».",
-      "url": "https://cosmatica.org/news/1349-tpp.html",
-      "image": "https://cosmatica.org/upload/002/u218/b/1/tpp-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=ef4b7af9041638bfaa",
-      "type": "news-item",
-      "sourceCharacters": 9061,
-      "verified": false
-    },
-    {
-      "title": "Приглашаем к участию в конкурсе научно-фантастических рассказов",
-      "description": "Цель конкурса «Космическая Олимпиада» — открытие новых имен и поддержка талантливых авторов в их начинаниях.",
-      "url": "https://cosmatica.org/news/1348-priglashaem-k-uchastiyu-v-konkurse-nauchno-fantasticheskih-rasskazov.html",
-      "image": "https://cosmatica.org/upload/002/u218/b/c/00fd7e4c.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=125239c6e9f83c155d",
-      "type": "news-item",
-      "sourceCharacters": 5009,
-      "verified": false
-    },
-    {
-      "title": "Весенние сборы выходного дня КГБ",
-      "description": "Главной целью сборов является воспитание духа товарищества, ответственности и самостоятельности в детях. Настроя на победу, благодарность, уважение к себе, к равным и старшим.",
-      "url": "https://cosmatica.org/news/1347-vesennie-sbory-vyhodnogo-dnja-kgb.html",
-      "image": "https://cosmatica.org/upload/002/u218/e/4/vesennie-sbory-vyhodnogo-dnja-kgb-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=e2c929916cde1cf53e",
-      "type": "news-item",
-      "sourceCharacters": 2229,
-      "verified": false
-    },
-    {
-      "title": "Байконур - дверь в космос",
-      "description": "09 апреля мы совершили путешествие на космодром Байконур. Именно оттуда началась космическая история нашего Отечества, да и всего человечества.",
-      "url": "https://cosmatica.org/news/1345-baikonur-dver-v-kosmos.html",
-      "image": "https://cosmatica.org/upload/000/u35/3/8/baikonur-dver-v-kosmos-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=544d676b0c1352e419",
-      "type": "news-item",
-      "sourceCharacters": 1052,
       "verified": false
     }
   ],

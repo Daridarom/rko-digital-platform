@@ -11,17 +11,6 @@
   "blocks": [],
   "cards": [
     {
-      "title": "Гапонов Алексей Алексеевич о Ноосферном Союзе - 2117",
-      "description": "Ноосферный Союз - 2117 - это не прогноз и не фантастика.",
-      "url": "https://cosmatica.org/news/2251-gaponov-aleksei-alekseevich-o-noosfernom-soyuze-2117.html",
-      "image": "https://cosmatica.org/upload/000/u7/4/4/gaponov-aleksei-alekseevich-o-noosfernom-soyuze-2117-photo-norma.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a2aa34282b26550c35",
-      "type": "news-item",
-      "sourceCharacters": 1835,
-      "verified": false
-    },
-    {
       "title": "Повторное извещение о проведении внеочередной Конференции делегатов",
       "description": "Уважаемые члены и участники Межрегиональной общественной организации «Русское космическое общество»!",
       "url": "https://cosmatica.org/news/2252-povtoronoe-izveschenie-o-provedenii-vneocherednoi-konferencii-delegatov.html",
@@ -30,6 +19,17 @@
       "href": "view.html?p=news-item&ref=06111b74e30eca0be1",
       "type": "news-item",
       "sourceCharacters": 4369,
+      "verified": false
+    },
+    {
+      "title": "Гапонов Алексей Алексеевич о Ноосферном Союзе - 2117",
+      "description": "Ноосферный Союз - 2117 - это не прогноз и не фантастика.",
+      "url": "https://cosmatica.org/news/2251-gaponov-aleksei-alekseevich-o-noosfernom-soyuze-2117.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/4/gaponov-aleksei-alekseevich-o-noosfernom-soyuze-2117-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a2aa34282b26550c35",
+      "type": "news-item",
+      "sourceCharacters": 1835,
       "verified": false
     },
     {
@@ -85,6 +85,17 @@
       "href": "view.html?p=news-item&ref=10a41065ff126da60d",
       "type": "news-item",
       "sourceCharacters": 3222,
+      "verified": false
+    },
+    {
+      "title": "Конкурс космических проектов в Пскове",
+      "description": "Наше жюри, в состав которого входили популяризаторы науки и настоящие творческие педагоги из разных городов, выставило все оценки и мы готовы подвести итоги нашего конкурса творческих проектов.",
+      "url": "https://cosmatica.org/news/2244-konkurs-kosmicheskih-proektov-v-pskove.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/d/konkurs-kosmicheskih-proektov-v-pskove-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=09c42e5fc8f0144ab0",
+      "type": "news-item",
+      "sourceCharacters": 1838,
       "verified": false
     },
     {
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=d1a7305a6a936054ff",
       "type": "news-item",
       "sourceCharacters": 5469,
-      "verified": false
-    },
-    {
-      "title": "О неудачном пуске ракеты «Чанчжэн-7A»",
-      "description": "10 августа 2026 года с космодрома Вэньчан на острове Хайнань стартовала ракета «Чанчжэн-7A». Через восемьдесят пять секунд после отрыва от земли она взорвалась. Потеряна ракета. Потерян спутник. Потерян труд сотен и тысяч людей.",
-      "url": "https://cosmatica.org/news/2236-o-neudachnom-puske-rakety-chanchzhen-7a.html",
-      "image": "https://cosmatica.org/upload/000/u7/0/a/o-neudachnom-puske-rakety-chanchzhen-7a-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=1af8af50830675b2bc",
-      "type": "news-item",
-      "sourceCharacters": 3695,
       "verified": false
     }
   ],

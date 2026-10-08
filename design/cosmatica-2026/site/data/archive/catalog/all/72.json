@@ -6,10 +6,87 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 72,
-  "pageCount": 321,
-  "total": 4812,
+  "pageCount": 322,
+  "total": 4823,
   "blocks": [],
   "cards": [
+    {
+      "title": "Аллеи кедров в Кузбассе",
+      "description": "Почему именно кедры? Как вообще связано Космическое общество и высадка деревьев, и причём тут гагаринские дружины? - часто новые люди задают нам эти вопросы. Рассказываем.",
+      "url": "https://cosmatica.org/news/1178-novosti-iz-kuzbassa.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/3/allei-kedrov-na-kuzbasse-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8ce32d56a301c77474",
+      "type": "news-item",
+      "sourceCharacters": 3929,
+      "verified": false
+    },
+    {
+      "title": "Работа Совета по биологии и медицине идёт полным ходом",
+      "description": "Впервые создан Национальный центр укрепления здоровья под руководством академика Стародубова В.И. Департамент будет его рабочим органом, где собираются эксперты по различным направлениям оздоровления, приоритет в работе отдан актуальным вопросам питания и психосоматики. Первые пилотные программы Департамента уже выходят на стадию инициативного бюджетирования при поддержке Министерства финансов, так же в г. Ступино вы",
+      "url": "https://cosmatica.org/news/1177-rabota-soveta-po-biologii-i-medicine-idyot-polnym-hodom.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/c/rabota-soveta-po-biologii-i-medicine-idyot-polnym-hodom-photo-nor.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=650c981137d023e9d4",
+      "type": "news-item",
+      "sourceCharacters": 5972,
+      "verified": false
+    },
+    {
+      "title": "Наша ракета спасает планету!",
+      "description": "\"Наша ракета спасает планету!\" С таким девизом космический эко-десант высадился на озере \"Байкал\" (карьер) города Тореза. 18 участников из Тореза, Снежного, Шахтёрска, Новопетровки, Макееви, Донецка прибыли для осуществления намеченного плана. Самая юная участница десанта Семёнова Кристина, 14 лет, город Снежное.",
+      "url": "https://cosmatica.org/news/1176-nasha-raketa-spasaet-planetu.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/e/nasha-raketa-spasaet-planetu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6f3ed3af3fa5db1420",
+      "type": "news-item",
+      "sourceCharacters": 3375,
+      "verified": false
+    },
+    {
+      "title": "Мезенцев Станислав Алексеевич занял место в Вечном строю",
+      "description": "Врач по основному образованию, философ, целитель, сторонник и пропагандист высокой экологической культуры.",
+      "url": "https://cosmatica.org/news/1175-mezencev-stanislav-alekseevich-zanjal-mesto-v-vechnom-stroyu.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/7/mezencev-stanislav-alekseevich-zanjal-mesto-v-vechnom-stroyu-photo-n.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0fb20011e62fcfabf6",
+      "type": "news-item",
+      "sourceCharacters": 2966,
+      "verified": false
+    },
+    {
+      "title": "Воспитание Человека на межведомственном уровне",
+      "description": "В рамках межведомственного проекта Министерства культуры РФ и Министерства просвещения РФ «Культура для школьников» в течение 2021-22 учебного года в учреждениях культуры РФ проводится киномарафон для родительского сообщества на материалах Всероссийского проекта «Киноуроки в школах России».",
+      "url": "https://cosmatica.org/news/1173-vospitanie-cheloveka-na-mezhvedomstvennom-urovne.html",
+      "image": "https://cosmatica.org/upload/000/u7/d/3/vospitanie-cheloveka-na-mezhvedomstvennom-urovne-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=70f965b6ce64292c81",
+      "type": "news-item",
+      "sourceCharacters": 1578,
+      "verified": false
+    },
+    {
+      "title": "Ещё почти две сотни кедров украсили планету",
+      "description": "Мы не просто освещаем деятельность Русского Космического Общества. Мы каждой статьёй, каждым анонсом и отчётом протягиваем Вам руку. Приходите, присоединяйтесь. Приезжайте сажать деревья, участвуйте в вебинарах, проверьте себя на Тропе Мужества, приводите детей в палаточный лагерь и на лекции, посмотрите на развитие наших проектов, выберите интересное лично Вам и действуйте. Приходите, чтобы изменить свою жизнь , най",
+      "url": "https://cosmatica.org/news/1172-i-eschyo-pochti-dve-sotni-kedrov-na-planete.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/6/i-eschyo-pochti-dve-sotni-kedrov-na-planete-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cd07d004058c155d6f",
+      "type": "news-item",
+      "sourceCharacters": 5501,
+      "verified": false
+    },
+    {
+      "title": "Проблема сохранения водных ресурсов решаема!",
+      "description": "Участник РКО, председатель ОД «Возвращаем воду в реки» Людмила Ивановна Севостьянова , представила книгу «Возвращаем воду в реки. Восстановление гидрологического режима поверхности путём моделирования естественных природных процессов » , которая является методическим пособием по сохранению и приумножению нашего водного фонда.",
+      "url": "https://cosmatica.org/news/1171-uchastnik-rko-predsedatel-od-vozvraschaem-vodu-v-reki-predstavil-knigu.html",
+      "image": "https://cosmatica.org/upload/000/u35/c/3/problema-sohranenija-vodnyh-resursov-reshaema-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a9b27630b811d2d5e3",
+      "type": "news-item",
+      "sourceCharacters": 2831,
+      "verified": false
+    },
     {
       "title": "Званый вечер \"Космодесанта\"",
       "description": "Званый вечер \"Космодесанта\" в начале октября стал особенным событием для его гостей.",
@@ -33,6 +110,17 @@
       "verified": false
     },
     {
+      "title": "Русское Космическое Общество. Общая.",
+      "description": "Русское Космическое Общество. Общая..pdf русское космическое общество Алексей Алексеевич Гапонов. Аркон.",
+      "url": "https://cosmatica.org/articles/1168-russkoe-kosmicheskoe-obschestvo-obschaja.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/5/bezymjannyi.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=7e2b090a40ab67a90a",
+      "type": "article",
+      "sourceCharacters": 104,
+      "verified": false
+    },
+    {
       "title": "К вершинам Духа и дальше в космос...",
       "description": "Нельзя жить так, чтобы все время смотреть только вниз. На лужи или на грязь. Иногда надо поднимать глаза и в небо. Так мы подумали, организуя вечер \"Вершины Духа\". Туда, на площадку центра общественных организаций ЮВАО пригласили самых именитых альпинистов СССР и нынешней России. Достаточно сказать, что был даже Владимир Николаевич Шатаев, главный тренер сборной СССР. Все, кто хоть однажды ходил в горы, знают это имя",
       "url": "https://cosmatica.org/news/1168-k-vershinam-duha-i-dalshe-v-kosmos.html",
@@ -41,6 +129,17 @@
       "href": "view.html?p=news-item&ref=339e2bab49211b9c0f",
       "type": "news-item",
       "sourceCharacters": 4836,
+      "verified": false
+    },
+    {
+      "title": "Национальные космические общества, как центры космопланетарной социальной педагогики.",
+      "description": "Национальные космические общества.pdf национальные космические общества , русское космическое общество Алексей Алексеевич Гапонов. Аркон.",
+      "url": "https://cosmatica.org/articles/1167-nacionalnye-kosmicheskie-obschestva-kak-centry-kosmoplanetarnoi-socialnoi-pedagogiki.html",
+      "image": "https://cosmatica.org/upload/000/u7/a/9/bezymjannyi.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=de6cd2ed4e36be01c7",
+      "type": "article",
+      "sourceCharacters": 137,
       "verified": false
     },
     {
@@ -74,105 +173,6 @@
       "href": "view.html?p=news-item&ref=1181fedae38f75723c",
       "type": "news-item",
       "sourceCharacters": 3599,
-      "verified": false
-    },
-    {
-      "title": "Пределы роста и бесконечность развития. Об этом и не только",
-      "description": "Сергей Иванович Сухонос - кандидат технических наук, генеральный директор фирмы «Рус-Атлант».",
-      "url": "https://cosmatica.org/news/1165-prezentacija-knigi-suhonosa.html",
-      "image": "https://cosmatica.org/upload/002/u218/9/7/98d76903.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=8f79e1a96014a20398",
-      "type": "news-item",
-      "sourceCharacters": 5560,
-      "verified": false
-    },
-    {
-      "title": "Русский Космизм как научный фундамент ноосферного развития: глобальные научные инициативы РКО",
-      "description": "В статье предлагаются глобальные научные инициативы Русского Космического Общества в области синтеза законов естественных, социальных и гуманитарных наук, ноосферного индекса развития, ноосферной политической экономии устойчивого развития, ноо-технологий для перехода современной цивилизации в ноосферную.",
-      "url": "https://cosmatica.org/articles/1164-russkii-kosmizm-kak-nauchnyi-fundament-noosfernogo-razvitija-globalnye-nauchnye-iniciativy-rko.html",
-      "image": "https://cosmatica.org/upload/000/u7/5/9/bezymjannyi0.jpg",
-      "kind": "article",
-      "href": "view.html?p=article&ref=6f7d2c91fc30506835",
-      "type": "article",
-      "sourceCharacters": 51412,
-      "verified": false
-    },
-    {
-      "title": "Гидро-тропа в Этномире",
-      "description": "Напомним, что Тропа Мужества - это комплексный пеший марафон по пересечённой местности, где для новичков и опытных участников прокладываются маршруты разной протяженности: от 15 км для детей и до 110 км для спортсменов и опытных марафонцев. Проект уже 9 лет привлекает отважных детей и взрослых со всей России, многие из них приходят снова и снова. Тропа Мужества предназначена для того, чтобы проверить себя в настоящих",
-      "url": "https://cosmatica.org/news/1164-gidro-tropa-v-etnomire.html",
-      "image": "https://cosmatica.org/upload/000/u35/1/4/gidro-tropa-v-etnomire-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=9728ac5d11b4698a86",
-      "type": "news-item",
-      "sourceCharacters": 7314,
-      "verified": false
-    },
-    {
-      "title": "Дети Земли",
-      "description": "Каждая минута, посвящённая детям - это бесценный вклад в наше общее будущее. Огромное значение Русское Космическое Общество придаёт раскрытию интеллектуального и творческого потенциала нового поколения, воспитанию его с чувством патриотизма, жаждой познания, любви и ответственности. Для этого у нас работает целая плеяда экологических проектов, имеющих единую цель: сохранение и развитие Жизни на Земле, развитие природ",
-      "url": "https://cosmatica.org/news/1163-ozelenjaem-planetu-s-detmi.html",
-      "image": "https://cosmatica.org/upload/002/u218/2/0/deti-zemli-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=bd72df09fe30c850ee",
-      "type": "news-item",
-      "sourceCharacters": 5184,
-      "verified": false
-    },
-    {
-      "title": "Макаренко о воспитании Человека",
-      "description": "Антон Семёнович Макаренко признан в 1988 году ЮНЕСКО одним из четырёх выдающихся педагогов мира. Его авторская методика воспитания Человека коммунистической эры творила чудеса в 20-е годы прошлого столетия.",
-      "url": "https://cosmatica.org/articles/1162-makarenko-o-vospitanii-cheloveka.html",
-      "image": null,
-      "kind": "article",
-      "href": "view.html?p=article&ref=aab8520525e24c389d",
-      "type": "article",
-      "sourceCharacters": 4031,
-      "verified": false
-    },
-    {
-      "title": "VII Международная конференция «Инновационное предпринимательство 2021: Цифровая экспансия».",
-      "description": "Трое достойнейших соратников Русского Космического Общества участвуют в конференции, организованной в рамках IX Международного Балтийского Морского Форума.",
-      "url": "https://cosmatica.org/news/1162-vii-mezhdunarodnaja-konferencija-innovacionnoe-predprinimatelstvo-2021-cifrovaja-ekspansija-5-7.html",
-      "image": "https://cosmatica.org/upload/002/u218/1/3/vii-mezhdunarodnaja-konferencija-innovacionnoe-predprinimatelstv.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a59c611f52792b163f",
-      "type": "news-item",
-      "sourceCharacters": 5825,
-      "verified": false
-    },
-    {
-      "title": "Как рассчитать разрешенные орбиты",
-      "description": "Разрешенные орбиты - неотъемлемая часть гравитационного и любого иного поля, созданного вращением.",
-      "url": "https://cosmatica.org/articles/1161-kak-rasschitat-razreshennye-orbity.html",
-      "image": "https://cosmatica.org/upload/000/u35/7/8/d6109a18.jpg",
-      "kind": "article",
-      "href": "view.html?p=article&ref=bd347fa3fa0b37e60b",
-      "type": "article",
-      "sourceCharacters": 7069,
-      "verified": false
-    },
-    {
-      "title": "Космонавт Токарев посетил боровскую землю",
-      "description": "Одной из основных задач этой поездки, как это водится в деятельности РКО, стали встречи с детьми.",
-      "url": "https://cosmatica.org/news/1161-kosmonavt-tokarev-posetil-borovskuyu-zemlyu.html",
-      "image": "https://cosmatica.org/upload/000/u35/e/e/kosmonavt-tokarev-posetil-borovskuyu-zemlyu-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=aeb197d721411556eb",
-      "type": "news-item",
-      "sourceCharacters": 3536,
-      "verified": false
-    },
-    {
-      "title": "Русский социализм как реальный образ будущего России",
-      "description": "Мы живём в период радикальных перемен, рождающих глобальные проекты и дискуссии о будущем.",
-      "url": "https://cosmatica.org/articles/1160-russkii-socializm-kak-realnyi-obraz-buduschego-rossii.html",
-      "image": null,
-      "kind": "article",
-      "href": "view.html?p=article&ref=030181cea1ee40db7b",
-      "type": "article",
-      "sourceCharacters": 15335,
       "verified": false
     }
   ],

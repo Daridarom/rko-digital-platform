@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Ушёл из жизни пламенный борец",
+      "description": "Владимир Иванович Филин пополнил Вечный строй борцов за дело сохранения развития Жизни 16.07.2021 года.",
+      "url": "https://cosmatica.org/news/1109-ushyol-iz-zhizni-plamennyi-borec.html",
+      "image": "https://cosmatica.org/upload/000/u35/c/c/ushyol-iz-zhizni-plamennyi-borec-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=704cd5d814f4ad3af9",
+      "type": "news-item",
+      "sourceCharacters": 2230,
+      "verified": false
+    },
+    {
       "title": "Сотворим Свои Мечты!",
       "description": "В начале июля в г. Таганрог состоялась встреча Главы Русского Космического Общества Алексея Алексеевича Гапонова с основателем и руководителем народной киностудии русского смыслового кино \"Донфильм\" Дмитрием Николаевичем Зодчим. Обсуждали реализацию проекта \"Час Быка\" и строительство собственной киностудии \"Донфильм\" и Общее Дело. Были приняты решения и определены стратегия и тактика совместной деятельности.",
       "url": "https://cosmatica.org/news/1108-sotvorim-svoi-mechty.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=6e15a897b3118f5fd5",
       "type": "news-item",
       "sourceCharacters": 2500,
-      "verified": false
-    },
-    {
-      "title": "Космическая тропа. День четвёртый",
-      "description": "Завершается четвёртый день марш-броска «Космическая тропа». Утром 14 июня наши герои выйдут на финишную прямую к городу Калуга.",
-      "url": "https://cosmatica.org/news/1092-kosmicheskaja-tropa-den-chetvyortyi.html",
-      "image": "https://cosmatica.org/upload/000/u35/8/e/9e0f4f0e.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=93fb32d1c516dc562c",
-      "type": "news-item",
-      "sourceCharacters": 2209,
       "verified": false
     }
   ],

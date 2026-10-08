@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1168-russkoe-kosmicheskoe-obschestvo-obschaja.html",
+  "title": "Русское Космическое Общество. Общая.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/5/bezymjannyi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Русское Космическое Общество. Общая..pdf",
+      "spans": [
+        {
+          "text": "Русское Космическое Общество. Общая..pdf",
+          "href": "https://cosmatica.org/upload/redactorfiles/Русское Космическое Общество. Общая..pdf"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "Русское Космическое Общество. Общая..pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/Русское Космическое Общество. Общая..pdf"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Полный текст исходного материала"
+    },
+    {
+      "type": "paragraph",
+      "text": "Русское Космическое Общество. Общая..pdf русское космическое общество Алексей Алексеевич Гапонов. Аркон.",
+      "spans": [
+        {
+          "text": "Русское Космическое Общество. Общая..pdf русское космическое общество Алексей Алексеевич Гапонов. Аркон."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Русское Космическое Общество. Общая..pdf",
+      "links": [
+        {
+          "title": "Русское Космическое Общество. Общая..pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/Русское Космическое Общество. Общая..pdf"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u7/c/5/bezymjannyi.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/c/5/bezymjannyi.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 141,
+    "storedTextCharacters": 40,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 73764
+  },
+  "textFallbackRequired": true,
+  "originalKind": "article",
+  "sourceTextCharacters": 104,
+  "capturedBodyCharacters": 176,
+  "sourceTextSHA256": "7f756110e9b6d89a42965a7ecbb11754d6cc926da91de59991e322167fb2a7e5",
+  "archiveSnapshotAt": "2026-10-08T13:19:35Z"
+}

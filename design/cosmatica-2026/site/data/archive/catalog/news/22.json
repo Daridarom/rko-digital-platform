@@ -22,17 +22,6 @@
       "verified": false
     },
     {
-      "title": "Космический праздник для гагаринцев Донецкой Республики",
-      "description": "«Гагаринцы готовятся на взлёт» - под таким названием «Вечерняя Макеевка» выпустила статью о посвящении макеевских ребят в гагаринцы в начале апреля этого года. Повод для статьи был особенный. В преддверии Дня космонавтики принимать детей в гагаринцы приехали особенные гости.",
-      "url": "https://cosmatica.org/news/1862-kosmicheskii-prazdnik-dlja-gagarincev-doneckoi-respubliki.html",
-      "image": "https://cosmatica.org/upload/000/u35/8/7/kosmicheskii-prazdnik-dlja-gagarincev-doneckoi-respubliki-photo-no.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=535f53fc4b2a2b548f",
-      "type": "news-item",
-      "sourceCharacters": 6135,
-      "verified": false
-    },
-    {
       "title": "День космонавтики в Шахтёрске",
       "description": "Библиотечная дверь, ведущая в космическую, всегда готова открыться юным, пытливым умам.",
       "url": "https://cosmatica.org/news/1863-den-kosmonavtiki-v-shahtyorske.html",
@@ -44,14 +33,14 @@
       "verified": false
     },
     {
-      "title": "Космические чебурашки Благовещенска отметили День космонавтики",
-      "description": "Я космонавтом быть хочу, Я на ракете полечу К планетам и далёким звёздам, В загадочный, прекрасный космос. Раскрою тайны я его, Не испугаюсь ничего.",
-      "url": "https://cosmatica.org/news/1859-kosmicheskie-cheburashki-blagoveschenska-otmetili-den-kosmonavtiki.html",
-      "image": "https://cosmatica.org/upload/000/u35/8/2/57ef7f3b.jpg",
+      "title": "Космический праздник для гагаринцев Донецкой Республики",
+      "description": "«Гагаринцы готовятся на взлёт» - под таким названием «Вечерняя Макеевка» выпустила статью о посвящении макеевских ребят в гагаринцы в начале апреля этого года. Повод для статьи был особенный. В преддверии Дня космонавтики принимать детей в гагаринцы приехали особенные гости.",
+      "url": "https://cosmatica.org/news/1862-kosmicheskii-prazdnik-dlja-gagarincev-doneckoi-respubliki.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/7/kosmicheskii-prazdnik-dlja-gagarincev-doneckoi-respubliki-photo-no.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=e036ca427ce779c6f3",
+      "href": "view.html?p=news-item&ref=535f53fc4b2a2b548f",
       "type": "news-item",
-      "sourceCharacters": 2358,
+      "sourceCharacters": 6135,
       "verified": false
     },
     {
@@ -74,6 +63,17 @@
       "href": "view.html?p=news-item&ref=3b475ce0456bbff277",
       "type": "news-item",
       "sourceCharacters": 2483,
+      "verified": false
+    },
+    {
+      "title": "Космические чебурашки Благовещенска отметили День космонавтики",
+      "description": "Я космонавтом быть хочу, Я на ракете полечу К планетам и далёким звёздам, В загадочный, прекрасный космос. Раскрою тайны я его, Не испугаюсь ничего.",
+      "url": "https://cosmatica.org/news/1859-kosmicheskie-cheburashki-blagoveschenska-otmetili-den-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/2/57ef7f3b.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e036ca427ce779c6f3",
+      "type": "news-item",
+      "sourceCharacters": 2358,
       "verified": false
     },
     {

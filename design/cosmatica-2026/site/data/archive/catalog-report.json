@@ -6,14 +6,14 @@
   "networkUnverified": 0,
   "nonEditorial": 5,
   "eligible": 4823,
-  "renderable": 4812,
-  "unresolved": 11,
+  "renderable": 4823,
+  "unresolved": 0,
   "sections": [
     {
       "key": "all",
       "title": "Весь публичный архив РКО",
-      "count": 4812,
-      "pages": 321
+      "count": 4823,
+      "pages": 322
     },
     {
       "key": "news",
@@ -30,8 +30,8 @@
     {
       "key": "articles",
       "title": "Публикации и материалы",
-      "count": 1074,
-      "pages": 72
+      "count": 1085,
+      "pages": 73
     },
     {
       "key": "projects",

@@ -6,10 +6,87 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 65,
-  "pageCount": 321,
-  "total": 4812,
+  "pageCount": 322,
+  "total": 4823,
   "blocks": [],
   "cards": [
+    {
+      "title": "Юные гагаринцы участвуют в III Открытом конкурсе юных блогеров и начинающих журналистов",
+      "description": "Ребята из \"Дружины Гагаринцев\" (Божескова Анастасия, Болдинова Анна, Пугач Диана), первосозданной на Волгоградской земле в МОУ СОШ п. Куйбышев Среднеахтубинского района под патронатом Русского Космического Общества, совместно с кураторами Филипповой Т. А. и Кудряшовой Т. В. для участия в III Открытом конкурсе юных блогеров и начинающих журналистов создали фильм о Героях Великой Отечественной Войны своего региона.",
+      "url": "https://cosmatica.org/news/1264-yunye-gagarincy-uchastvuyut-v-ii-otkrytom-konkurse-yunyh-blogerov-i-nachinayuschih-zhurnalistov.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/c/yunye-gagarincy-uchastvuyut-v-i-ii-otkrytom-konkurse-yunyh-blogerov.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b86bc58b8725fb6059",
+      "type": "news-item",
+      "sourceCharacters": 2993,
+      "verified": false
+    },
+    {
+      "title": "Космонавтика в России: итоги 2021 года и планы на 2022 год",
+      "description": "На официальном сайте Государственной корпорации по космической деятельности \"Роскосмос\" ( www.roscosmos.ru) опубликованы результаты заседания оперативного штаба, которое состоялось 13 января 2022 года, где генеральный директор Госкорпорации «Роскосмос» Дмитрий Олегович Рогозин подвел итоги работы отрасли в 2021 году и рассказал о планах на 2022 год.",
+      "url": "https://cosmatica.org/news/1263-kosmonavtika-v-rossii-itogi-2021-goda-i-plany-na-2022-god.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/9/kosmonavtika-v-rossii-itogi-2021-goda-i-plany-na-2022-god-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=278a197bf1eda359a8",
+      "type": "news-item",
+      "sourceCharacters": 1221,
+      "verified": false
+    },
+    {
+      "title": "Духовно-нравственные ценности - основа Российской государственности",
+      "description": "Без малого три месяца прошло со дня, когда 11.11.2021 года мы провели в Санкт-Петербурге конференцию о влиянии традиционной культуры на нравственное состояние нашего народа в прошлом и настоящем.",
+      "url": "https://cosmatica.org/news/1261-duhovno-nravstvennye-cennosti-osnova-rossiiskoi-gosudarstvennosti.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/b/duhovno-nravstvennye-cennosti-osnova-rossiiskoi-gosudarstvenno.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=467adfc6c0cac09bb0",
+      "type": "news-item",
+      "sourceCharacters": 10416,
+      "verified": false
+    },
+    {
+      "title": "«Ура! Поем мы силам Света»",
+      "description": "30 января при поддержке Донецкого отделения РКО в коммунальном учреждении Дом Культуры им. С.М. Кирова г. Донецка состоялся концерт семейной пары Татьяны и Артура Салаткиных из г. Тореза. Дуэтом под гитару были исполнены авторские песни, песни бардов и известных композиторов. Все произведения объединяла мысль о предназначении человека - светить любовью, дарить радость, раскрывать душевные таланты. Многие песни были п",
+      "url": "https://cosmatica.org/news/1259-ura-poem-my-silam-sveta.html",
+      "image": "https://cosmatica.org/upload/003/u380/4/9/ura-poem-my-silam-sveta-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=664d59d2127f4420fc",
+      "type": "news-item",
+      "sourceCharacters": 1497,
+      "verified": false
+    },
+    {
+      "title": "Экологическое воспитание",
+      "description": "Всё чаще в новостях Русского Космического Общества об экологической деятельности встречается г. о. Лобня (МО), ведь там разворачиваются и вовсю работают замечательные инициативы в сфере экологического воспитания и образования.",
+      "url": "https://cosmatica.org/news/1258-ekologicheskoe-vospitanie.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/1/ekologicheskoe-vospitanie-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7f5ccb36229719f961",
+      "type": "news-item",
+      "sourceCharacters": 2567,
+      "verified": false
+    },
+    {
+      "title": "Выпуск №0",
+      "description": "Электронный журнал представляет из себя ежемесячный сборник для читателей разных возрастных групп: материалы будут познавательны как школьникам среднего звена и старше, так и молодым людям, интересующимся темой космоса. Несмотря на оговоренные возрастные категории, мы уверены, что читатели всех возрастов смогут почерпнуть для себя много полезной информации.",
+      "url": "https://cosmatica.org/articles/1257-vypusk-0.html",
+      "image": "https://cosmatica.org/upload/000/u8/0/2/bez-imeni-1.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=e4ad8a0ea59146b76d",
+      "type": "article",
+      "sourceCharacters": 557,
+      "verified": false
+    },
+    {
+      "title": "Поля и их состав",
+      "description": "Пришло время поговорить о строении Вселенной. Почему я утверждаю, что все идет по спирали, и нет в природе круга, дискретности.",
+      "url": "https://cosmatica.org/articles/1256-polja-i-ih-sostav.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=8999c83061ad8577f4",
+      "type": "article",
+      "sourceCharacters": 8848,
+      "verified": false
+    },
     {
       "title": "Шахматы. Не игра, а борьба умов",
       "description": "- создания условий для физического и духовного совершенствования сотрудников предприятий и организаций ракетно-космической отрасли (далее РКО) и других организаций, ведомств;",
@@ -96,83 +173,6 @@
       "href": "view.html?p=article&ref=b3db1e9d6191c5942a",
       "type": "article",
       "sourceCharacters": 10065,
-      "verified": false
-    },
-    {
-      "title": "Электричество. Новая физическая модель. Часть 4. Напряжение.",
-      "description": "Докладчик: Александр Михайлович Анищенко , руководитель Секции Авангардных исследований РКО, естествоиспытатель, инженер-исследователь.",
-      "url": "https://cosmatica.org/news/1251-elektrichestvo-novaja-fizicheskaja-model-chast-4-naprjazhenie.html",
-      "image": "https://cosmatica.org/upload/002/u218/3/9/0d30bf0f.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=0012e9dcd227f63d7a",
-      "type": "news-item",
-      "sourceCharacters": 1022,
-      "verified": false
-    },
-    {
-      "title": "Состоялась долгожданная премьера фильма \"Чистодей\"",
-      "description": "Всего в проекте 99 фильмов, по количеству месяцев обучения ребёнка в школе с 1 по 11 класс.",
-      "url": "https://cosmatica.org/news/1250-kinouroki.html",
-      "image": "https://cosmatica.org/upload/002/u218/f/4/sostojalas-premera-filma-chistodei-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=7ba5c8ac9d92e5317b",
-      "type": "news-item",
-      "sourceCharacters": 6151,
-      "verified": false
-    },
-    {
-      "title": "РКО в Санкт-Петербурге. Обновление",
-      "description": "Вместе с Алексеем Алексеевичем Гапоновым из Москвы приехали руководитель Правового управления Михаил Викторович Зюзьков и руководитель Попечительского совета Михаил Юрьевич Волчков .",
-      "url": "https://cosmatica.org/news/1249-rko-v-sankt-peterburge-obnovlenie.html",
-      "image": "https://cosmatica.org/upload/000/u35/1/3/rko-v-sankt-peterburge-obnovlenie-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=dd9e4f1686021e7ef0",
-      "type": "news-item",
-      "sourceCharacters": 5372,
-      "verified": false
-    },
-    {
-      "title": "115 лет со дня рождения Главного конструктора Сергея Павловича Королёва",
-      "description": "Cергей Павлович Королёв — выдающийся конструктор и учёный, работавший в области ракетной и ракетно-космической техники. Дважды Герой Социалистического Труда, лауреат Ленинской премии, академик Академии наук СССР, он является создателем отечественного стратегического ракетного оружия средней и межконтинентальной дальности и основоположником практической космонавтики. Его конструкторские разработки в области ракетной т",
-      "url": "https://cosmatica.org/news/1248-115-let-so-dnja-rozhdenija-glavnogo-konstruktora-sergeja-pavlovicha-korolyova.html",
-      "image": "https://cosmatica.org/upload/002/u218/6/9/370f0812.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=26cc9800b91ed6cfbb",
-      "type": "news-item",
-      "sourceCharacters": 3150,
-      "verified": false
-    },
-    {
-      "title": "Отчёт о работе Донецкого отделения РКО за 2021 год",
-      "description": "Донецкое Отделение РКО продолжает развиваться в 2021 г. Отделение возглавляет ректор ДонНТУ Аноприенко Александр Яковлевич . Растет актив организации. Всего в составе отделения 17 человек. Яркий очаг Русского Космического Общества зажегся в г. Торезе.",
-      "url": "https://cosmatica.org/articles/1247-otchyot-o-rabote-doneckogo-otdelenija-rko-za-2021-god.html",
-      "image": null,
-      "kind": "article",
-      "href": "view.html?p=article&ref=2712c4a3de9a08e79f",
-      "type": "article",
-      "sourceCharacters": 9268,
-      "verified": false
-    },
-    {
-      "title": "Зимние Сборы Выходного Дня - развитие духа юных",
-      "description": "На сборы вышли 10 бойцов, каждого из которых мы в будущем отметим особым знаком \"Зимняя Звезда\". В снега и холод желающих выехать на природу гораздо меньше, и тем больше слава тем, кто решился. Заметьте, мы не употребляем слово \"отдохнуть\". Потому что у нас не отдых, а развитие .",
-      "url": "https://cosmatica.org/news/1247-10-janvarja-2022-goda-sostojalis-zimnie-sbory-vyhodnogo-dnja-svd-v-ramkah-proekta-kosmodesant-r.html",
-      "image": "https://cosmatica.org/upload/002/u218/3/7/10-janvarja-2022-goda-sostojalis-zimnie-sbory-vyhodnogo-dnja-svd.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a2118d4ccf58dbff42",
-      "type": "news-item",
-      "sourceCharacters": 2398,
-      "verified": false
-    },
-    {
-      "title": "Духовно-нравственные ценности - основа Российской государственности.",
-      "description": "Без малого три месяца прошло со дня, когда 11.11.2021 года мы провели в Санкт-Петербурге конференцию о влиянии традиционной культуры на нравственное состояние нашего народа в прошлом и настоящем.",
-      "url": "https://cosmatica.org/articles/1246-duhovno-nravstvennye-cennosti-osnova-rossiiskoi-gosudarstvennosti.html",
-      "image": null,
-      "kind": "article",
-      "href": "view.html?p=article&ref=2700cbe64f820d9f9c",
-      "type": "article",
-      "sourceCharacters": 10330,
       "verified": false
     }
   ],

@@ -6,10 +6,87 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 62,
-  "pageCount": 321,
-  "total": 4812,
+  "pageCount": 322,
+  "total": 4823,
   "blocks": [],
   "cards": [
+    {
+      "title": "Новый выпуск \"Ближе к космосу\"",
+      "description": "Молодёжный Совет в лице проекта «Мы верим в космос» создал научно-популярное издание для детей и молодёжи под названием «Ближе к космосу» .",
+      "url": "https://cosmatica.org/news/1305-novyi-vypusk-blizhe-k-kosmosu.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/8/novyi-vypusk-blizhe-k-kosmosu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cf308fed6f831c9f24",
+      "type": "news-item",
+      "sourceCharacters": 1321,
+      "verified": false
+    },
+    {
+      "title": "Юные инженеры-исследователи узнали больше о космонавтике",
+      "description": "С 28 февраля по 1 марта в космической столице России Самаре проходил 3-й этап Всероссийского конкурса юных инженеров-исследователей среди одаренных школьников 7-11 классов «Спутник». Организатор конкурса - Самарский государственный аэрокосмический университет им. С. П. Королёва.",
+      "url": "https://cosmatica.org/news/1303-yunye-inzhenery-issledovateli-uznali-bolshe-o-kosmonavtike.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/c/c312e0cc.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=79c3e764128f72ebdf",
+      "type": "news-item",
+      "sourceCharacters": 1705,
+      "verified": false
+    },
+    {
+      "title": "Энергию протеста в энергию созидания",
+      "description": "Мы знакомы многие годы. Многие годы вижу в Евгении Фёдоровиче горячего патриота и борца за русский мир. Радуюсь тому, как энергия сопротивления и протеста этого пассионария со временем преобразилась в энергию созидания, в порыв сотворения нового, взамен ветхого, отжившего. Бороться не против чего-то, а за что-то, за Жизнь . Такой фундамент заложил в него наш общий учитель, профессор Борис Евгеньевич Большаков, на каф",
+      "url": "https://cosmatica.org/news/1301-energiyu-protesta-v-energiyu-sozidanija.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/a/energiyu-protesta-v-energiyu-sozidanija-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=63f7035d069e1c4eef",
+      "type": "news-item",
+      "sourceCharacters": 4374,
+      "verified": false
+    },
+    {
+      "title": "Электричество. Новая физическая модель Часть 5. Электрический ток",
+      "description": "Докладчик: Александр Михайлович Анищенко , руководитель Секции Авангардных исследований РКО, естествоиспытатель, инженер-исследователь.",
+      "url": "https://cosmatica.org/news/1300-elektrichestvo-novaja-fizicheskaja-model.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/a/elektrichestvo-novaja-fizicheskaja-model-chast-5-elektricheskii-t.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e4cac72c43d85dc8e5",
+      "type": "news-item",
+      "sourceCharacters": 1535,
+      "verified": false
+    },
+    {
+      "title": "9 марта - День Гагарина",
+      "description": "Обычный советский парень через труд, упорство и мужество ставший мировым символом и почётным гражданином Вселенной.",
+      "url": "https://cosmatica.org/news/1299-9-marta-den-gagarina.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/b/9-marta-den-gagarina-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a354643d6c483f267c",
+      "type": "news-item",
+      "sourceCharacters": 15279,
+      "verified": false
+    },
+    {
+      "title": "Молодёжный конкурс на проектирование Евразийского Лунного центра \"ГагаринГрад-2050\"",
+      "description": "Уважаемые участники Молодёжного конкурса на проектирование Евразийского Лунного центра \"ГагаринГрад-2050\"! Конкурсной комиссией было принято решение об изменении сроков проведения конкурса.",
+      "url": "https://cosmatica.org/news/1297-molodyozhnyi-konkurs-na-proektirovanie-evraziiskogo-lunnogo-centra-gagaringrad-2050.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/9/6ae8189e.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=de5a113bf342f09080",
+      "type": "news-item",
+      "sourceCharacters": 4960,
+      "verified": false
+    },
+    {
+      "title": "Новый выпуск цикла передач \"Прорыв!\". Герой программы: Гапонов Алексей Алексеевич",
+      "description": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/1296-proryv-vypusk-13-o-poslevoennom-mire-gaponov-aleksei-alekseevich.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/a/30051ada.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a8cb9ca2e74b009473",
+      "type": "news-item",
+      "sourceCharacters": 7518,
+      "verified": false
+    },
     {
       "title": "В Вечный строй встал один из Первых - Галушкин Юрий Александрович",
       "description": "Мирно завершил свой путь на Земле выдающийся «Физтех» – Галушкин Юрий Александрович :",
@@ -96,83 +173,6 @@
       "href": "view.html?p=news-item&ref=55bdf57792597bcb8f",
       "type": "news-item",
       "sourceCharacters": 3122,
-      "verified": false
-    },
-    {
-      "title": "От войны не бегай, войну не ищи, время придёт - она тебя сама найдёт",
-      "description": "Несколько рекомендаций своим, уже оказавшимся, и тем кому ещё предстоит оказаться в сложной ситуации. 1. Сохраняйте спокойствие и держите рассудок трезвым. Не нужно бегать как курица с отрубленной башкой. Не пытайтесь \"играть\" с регулярной армией. Армия выполняет приказ, который будет выполнен. 2. Сделайте запас воды. Минимум на два дня. Приобретите фильтр для воды. Изготовьте его. Сырую воду кипятите. 3. Подготовьте",
-      "url": "https://cosmatica.org/news/1287-ot-voiny-ne-begai-voinu-ne-ischi-vremja-pridyot-ona-tebja-sama-naidyot.html",
-      "image": "https://cosmatica.org/upload/000/u35/0/a/ot-voiny-ne-begai-voinu-ne-ischi-vremja-pridyot-ona-tebja-sama-na.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=e5cab902ae82f255cc",
-      "type": "news-item",
-      "sourceCharacters": 2372,
-      "verified": false
-    },
-    {
-      "title": "Искусство на службе созидания будущего",
-      "description": "4 выпуск - город Джанкой Республики Крым. Педагог МОУ \"Крымская школа\" Четвернина Любовь рассказала об опыте проведения двух практик: к фильму \"Дом\", понятие - \"коллективизм\" и фильму \"Там где мечтают медведи\", понятие - \"ответственность\" (перед миром, человечеством). После просмотра фильма \"Дом\" ребята в течение месяца выполнили целую серию добрых дел. Старшеклассники устроили праздник ко Дню пожилого человека, выст",
-      "url": "https://cosmatica.org/news/1286-iskusstvo-na-sluzhbe-vospitanija.html",
-      "image": "https://cosmatica.org/upload/000/u35/d/2/iskusstvo-na-sluzhbe-vospitanija-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=dc157945fc8e1e896d",
-      "type": "news-item",
-      "sourceCharacters": 3867,
-      "verified": false
-    },
-    {
-      "title": "О победе со смыслом",
-      "description": "Пустое множество - не даёт суммы. Соединиться в целое можно лишь с теми, кто сделал свой выбор и взял за него ответственность. Отбросив сомнения стал своим целям, которые рождают смыслы и действие, ведущие к результату.",
-      "url": "https://cosmatica.org/news/1285-o-pobede.html",
-      "image": "https://cosmatica.org/upload/000/u7/d/c/o-pobede-nad-voinoi-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=672286254790862b08",
-      "type": "news-item",
-      "sourceCharacters": 16242,
-      "verified": false
-    },
-    {
-      "title": "\"Что-Где-Когда\": всегда актуальный анонс мероприятий РКО для детей и молодёжи",
-      "description": "Как отклик на запрос многих родителей, даём краткую сводку об основных действующих программах воспитания и образования подрастающего поколения. Поскольку это направление одно из самых динамичных, создан телеграмм-канал https://t.me/velikayacosmoodisseya , где удобно отслеживать запланированные мероприятия и присоединяться к ним.",
-      "url": "https://cosmatica.org/news/1284-chto-gde-kogda-vsegda-aktualnyi-anons-meroprijatii-rko-dlja-detei-i-molodyozhi.html",
-      "image": "https://cosmatica.org/upload/002/u218/0/1/chto-gde-kogda-vsegda-aktualnyi-anons-meroprijatii-rko-dlja-det.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=7f2bec05df7f02df02",
-      "type": "news-item",
-      "sourceCharacters": 3682,
-      "verified": false
-    },
-    {
-      "title": "Новое время. Выбор для каждого.",
-      "description": "« Великий Перелом: Мы переживаем не кризис, волнующий слабые души, а величайший перелом мысли Человечества, свершающийся лишь раз в тысячелетия. Стоя на этом переломе, охватывая взором раскрывающееся будущее, мы должны быть счастливы, что нам суждено это пережить и в создании такого будущего участвовать».",
-      "url": "https://cosmatica.org/news/1283-novoe-vremja-vybor-dlja-kazhdogo.html",
-      "image": "https://cosmatica.org/upload/000/u7/8/3/6d3dc136.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=c400ef9c496352eb11",
-      "type": "news-item",
-      "sourceCharacters": 3668,
-      "verified": false
-    },
-    {
-      "title": "Духовно-нравственные ценности в основе государственной политики",
-      "description": "18 февраля 2022 года в городе Москве состоялась Всероссийская конференция Федерального Народного Совета и Русского Космического Общества «Сохранение и укрепление российских духовно-нравственных ценностей - основа государственной политики формирования гармоничного интегративного государства и солидарного общества» (Общественное обсуждение проекта Указа Президента РФ об основах государственной политики по сохранению и ",
-      "url": "https://cosmatica.org/news/1282-sostojalas-vserossiiskaja-konferencija-fns.html",
-      "image": "https://cosmatica.org/upload/002/u218/0/8/ddffa5a7.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=633fe41b1e8552efc8",
-      "type": "news-item",
-      "sourceCharacters": 15385,
-      "verified": false
-    },
-    {
-      "title": "Выпуск №3",
-      "description": "Электронный журнал представляет из себя ежемесячный сборник для читателей разных возрастных групп: материалы будут познавательны как школьникам среднего звена и старше, так и молодым людям, интересующимся темой космоса. Несмотря на оговоренные возрастные категории, мы уверены, что читатели всех возрастов смогут почерпнуть для себя много полезной информации.",
-      "url": "https://cosmatica.org/articles/1280-vypusk-3.html",
-      "image": "https://cosmatica.org/upload/002/u218/3/d/oblozhka.jpg",
-      "kind": "article",
-      "href": "view.html?p=article&ref=ceadad9d0b058feb08",
-      "type": "article",
-      "sourceCharacters": 997,
       "verified": false
     }
   ],

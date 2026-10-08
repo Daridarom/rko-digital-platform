@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Оглашены основные принципы развития космической отрасли",
+      "description": "28 июня 2018 года в Москве прошла научно-практическая конференция «Основные задачи и перспективы развития Госкорпорации «РОСКОСМОС».",
+      "url": "https://cosmatica.org/news/122-oglasheny-osnovnye-principy-razvitija-kosmicheskoi-otrasli.html",
+      "image": "https://cosmatica.org/upload/000/u26/2d/75/50f59677.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4a4d99d94f6da61e0a",
+      "type": "news-item",
+      "sourceCharacters": 4398,
+      "verified": false
+    },
+    {
       "title": "Наше слово станет делом!",
       "description": "Русское космическое общество, являясь соорганизатором мероприятия, приглашает всех желающих принять участие в IV Общественном диалоге «Что нас объединяет?!», который будет проходить 28 июня в Общественной палате РФ. Основными темами обсуждения в этом году станут: «Российская Конституция: гарантия стабильности, основа перемен»; «Как нам обустроить Россию? Драйверы территориального развития»; «Возможности лидерства в ц",
       "url": "https://cosmatica.org/news/121-chto-nas-obedinjaet.html",
@@ -30,6 +41,17 @@
       "href": "view.html?p=news-item&ref=6a7adaf4dbbaff2f87",
       "type": "news-item",
       "sourceCharacters": 688,
+      "verified": false
+    },
+    {
+      "title": "Большое космическое путешествие «Познавая тайны Вселенной»",
+      "description": "В виртуальной экспедиции, кроме воспитанников клуба «Эврика» при музее-заповедники «Сундуки», мог принять участие каждый житель села: и взрослый, и ребёнок.",
+      "url": "https://cosmatica.org/news/119-bolshoe-kosmicheskoe-puteshestvie-poznavaja-tainy-vselennoi.html",
+      "image": "https://cosmatica.org/upload/000/u43/a8/39/bolshoe-kosmicheskoe-puteshestvie-poznavaja-tainy-vselennoi-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ff53c010a713e03d3b",
+      "type": "news-item",
+      "sourceCharacters": 2435,
       "verified": false
     },
     {
@@ -74,6 +96,17 @@
       "href": "view.html?p=news-item&ref=1cf9b7b19b314f7d75",
       "type": "news-item",
       "sourceCharacters": 4262,
+      "verified": false
+    },
+    {
+      "title": "«Космодесант-2018»: ведётся набор на летнюю смену",
+      "description": "Главной целью лагеря является воспитание духа товарищества, ответственности и самостоятельности в детях. Настроя на победу, благодарность, уважение к себе, к равным и старшим.",
+      "url": "https://cosmatica.org/news/114-kosmodesant-2018-vedyotsja-nabor-na-letnyuyu-smenu.html",
+      "image": "https://cosmatica.org/upload/000/u26/d6/77/kosmodesant-2018-vedyotsja-nabor-na-letnyuyu-smenu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=913e71f0d5ee73959d",
+      "type": "news-item",
+      "sourceCharacters": 1524,
       "verified": false
     },
     {
@@ -140,39 +173,6 @@
       "href": "view.html?p=news-item&ref=013f441a7fedc6f4b4",
       "type": "news-item",
       "sourceCharacters": 970,
-      "verified": false
-    },
-    {
-      "title": "«Космодесант-2018»: ведётся набор на летнюю смену",
-      "description": "Главной целью лагеря является воспитание духа товарищества, ответственности и самостоятельности в детях. Настроя на победу, благодарность, уважение к себе, к равным и старшим.",
-      "url": "https://cosmatica.org/news/114-kosmodesant-2018-vedyotsja-nabor-na-letnyuyu-smenu.html",
-      "image": "https://cosmatica.org/upload/000/u26/d6/77/kosmodesant-2018-vedyotsja-nabor-na-letnyuyu-smenu-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=913e71f0d5ee73959d",
-      "type": "news-item",
-      "sourceCharacters": 1524,
-      "verified": false
-    },
-    {
-      "title": "Состоялось очередное собрание литературного клуба",
-      "description": "Встреча была посвящена творчеству Александра Блока. В рамках мероприятия был разобран творческий и жизненный путь великого русского писателя.",
-      "url": "https://cosmatica.org/news/105-sostojalos-ocherednoe-sobranie-literaturnogo-kluba.html",
-      "image": "https://cosmatica.org/upload/000/u1/0f/53/sostojalos-ocherednoe-sobranie-literaturnogo-kluba-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=5543d19d362cd2630a",
-      "type": "news-item",
-      "sourceCharacters": 226,
-      "verified": false
-    },
-    {
-      "title": "Большое космическое путешествие «Познавая тайны Вселенной»",
-      "description": "В виртуальной экспедиции, кроме воспитанников клуба «Эврика» при музее-заповедники «Сундуки», мог принять участие каждый житель села: и взрослый, и ребёнок.",
-      "url": "https://cosmatica.org/news/119-bolshoe-kosmicheskoe-puteshestvie-poznavaja-tainy-vselennoi.html",
-      "image": "https://cosmatica.org/upload/000/u43/a8/39/bolshoe-kosmicheskoe-puteshestvie-poznavaja-tainy-vselennoi-photo.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=ff53c010a713e03d3b",
-      "type": "news-item",
-      "sourceCharacters": 2435,
       "verified": false
     }
   ],

@@ -11,6 +11,28 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Поздравление президента РКО с днём космических войск",
+      "description": "61 год назад человечество сделало шаг в открытый космос, запустив в свой первый полёт искусственный спутник Земли. Это стало началом космической истории земного человечества, предопределило его дальнейшее развитие .",
+      "url": "https://cosmatica.org/news/202-pozdravlenie-prezidenta-rko-s-dnyom-kosmicheskih-voisk.html",
+      "image": "https://cosmatica.org/upload/000/u26/1a/42/pozdravlenie-prezidenta-rko-s-dnyom-kosmicheskih-voisk-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1ba5801554e6839e04",
+      "type": "news-item",
+      "sourceCharacters": 649,
+      "verified": false
+    },
+    {
+      "title": "Начинающие журналисты, мы ждём вас!",
+      "description": "Русское Космическое Общество – это собрание людей, объединившихся в особый период развития человеческой цивилизации вокруг общей ЦЕЛИ – сохранения и развития жизни как космопланетарного явления, а также содействия переходу цивилизации на путь её космической истории. Для осмысления и правильного применения законов эволюции жизни на Земле и в Космосе. Для распространения научного и философского наследия школы Русского ",
+      "url": "https://cosmatica.org/news/201-nachinayuschie-pisateli-my-zhdyom-vas.html",
+      "image": "https://cosmatica.org/upload/000/u26/50/dd/710890fa.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1f1db7ff7bcc82b09d",
+      "type": "news-item",
+      "sourceCharacters": 3482,
+      "verified": false
+    },
+    {
       "title": "Маэстро поставил финальный аккорд",
       "description": "Закрытие фестивальной недели началось в одном из парадных залов Аничкова дворца с торжественного награждения лауреатов и победителей.",
       "url": "https://cosmatica.org/news/200-maestro-postavil-finalnyi-akkord.html",
@@ -74,17 +96,6 @@
       "href": "view.html?p=news-item&ref=62bf4aa4d91d10eaa8",
       "type": "news-item",
       "sourceCharacters": 1186,
-      "verified": false
-    },
-    {
-      "title": "Проект «Ближе к звездам!» выходит на международную орбиту!",
-      "description": "Итак, после успешного экспонирования на Кубанской земле в пос. Псебай (Краснодарский край, Мостовской р-н) передвижная выставка художников-космистов, членов Арт-объединения «Созвездие видений» Творческого союза профессиональных художников, в рамках культурно-просветительского проекта «Ближе к звездам!», благополучно пересекла государственную границу и вышла на международную орбиту. На этот раз нашу выставку приняла Н",
-      "url": "https://cosmatica.org/news/210-proekt-blizhe-k-zvezdam-vyhodit-na-mezhdunarodnuyu-orbitu.html",
-      "image": "https://cosmatica.org/upload/000/u8/c3/e3/proekt-blizhe-k-zvezdam-vyhodit-na-mezhdunarodnuyu-orbitu-photo.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=f85d9209bc387ed90a",
-      "type": "news-item",
-      "sourceCharacters": 8250,
       "verified": false
     },
     {
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=76301a58fff47b95ff",
       "type": "news-item",
       "sourceCharacters": 2986,
-      "verified": false
-    },
-    {
-      "title": "Сибирский астрономический форум",
-      "description": "Русское Космическое Общество выступает информационным партнером мероприятия.",
-      "url": "https://cosmatica.org/news/187-sibirskii-astronomicheskii-forum.html",
-      "image": "https://cosmatica.org/upload/000/u30/f8/7b/f8f751e1.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=8b38b60d02d0ab6e92",
-      "type": "news-item",
-      "sourceCharacters": 1342,
       "verified": false
     }
   ],

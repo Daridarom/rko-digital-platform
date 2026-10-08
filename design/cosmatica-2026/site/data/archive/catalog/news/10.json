@@ -66,17 +66,6 @@
       "verified": false
     },
     {
-      "title": "Триединство космического прорыва в день рождения великого ПОБИСКА",
-      "description": "В День 101го рождения нашего гениального соотечественника Побиска Георгиевича Кузнецова начал работу наш VI Всемирный форум «Триединство космического прорыва человечества: Космическая философия-Космическое право-Космическая деятельность».",
-      "url": "https://cosmatica.org/news/2066-triedinstvo-kosmicheskogo-proryva-2025.html",
-      "image": "https://cosmatica.org/upload/000/u7/8/3/triedinstvo-kosmicheskogo-proryva-2025-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=8d29f45302c5afc725",
-      "type": "news-item",
-      "sourceCharacters": 10499,
-      "verified": false
-    },
-    {
       "title": "Вклад в победу к 9 мая",
       "description": "Первой точкой отгрузки стал 4 батальон бригады «БАРС-Курск». Мы привезли нашим бойцам: матрасы и подушки для ребят на постах; обогреватель, ведра оцинкованные и светильники на солнечных батареях, которые они запрашивали ранее.",
       "url": "https://cosmatica.org/news/2068-podarki-k-9-maja.html",
@@ -85,6 +74,17 @@
       "href": "view.html?p=news-item&ref=62cab35b3140c3a60e",
       "type": "news-item",
       "sourceCharacters": 4958,
+      "verified": false
+    },
+    {
+      "title": "Триединство космического прорыва в день рождения великого ПОБИСКА",
+      "description": "В День 101го рождения нашего гениального соотечественника Побиска Георгиевича Кузнецова начал работу наш VI Всемирный форум «Триединство космического прорыва человечества: Космическая философия-Космическое право-Космическая деятельность».",
+      "url": "https://cosmatica.org/news/2066-triedinstvo-kosmicheskogo-proryva-2025.html",
+      "image": "https://cosmatica.org/upload/000/u7/8/3/triedinstvo-kosmicheskogo-proryva-2025-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8d29f45302c5afc725",
+      "type": "news-item",
+      "sourceCharacters": 10499,
       "verified": false
     },
     {
@@ -118,17 +118,6 @@
       "href": "view.html?p=news-item&ref=097f5538c7d98decac",
       "type": "news-item",
       "sourceCharacters": 3755,
-      "verified": false
-    },
-    {
-      "title": "Органический разум и цель его сотворения",
-      "description": "На встрече присутствовали исследователи из разных сфер, преподаватели и руководители общественных организаций в сфере экологии и просто поклонники труда автора. Валерий Абрамович поделился уникальным опытом и знаниями! Состоялась живая дискуссия с гостями. Обсудили много важных вопросов.",
-      "url": "https://cosmatica.org/news/2054-vstrecha-s-avtorom-cikla-unikalnyh-knig-v-a-shapiro.html",
-      "image": "https://cosmatica.org/upload/002/u218/0/6/tak-v-chyom-zhe-cel-sotvorenija-organicheskogo-razuma-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=bce8ab0d37fc5c1e5e",
-      "type": "news-item",
-      "sourceCharacters": 3822,
       "verified": false
     },
     {
@@ -173,6 +162,17 @@
       "href": "view.html?p=news-item&ref=19b9d749aba3ddda4a",
       "type": "news-item",
       "sourceCharacters": 2010,
+      "verified": false
+    },
+    {
+      "title": "Органический разум и цель его сотворения",
+      "description": "На встрече присутствовали исследователи из разных сфер, преподаватели и руководители общественных организаций в сфере экологии и просто поклонники труда автора. Валерий Абрамович поделился уникальным опытом и знаниями! Состоялась живая дискуссия с гостями. Обсудили много важных вопросов.",
+      "url": "https://cosmatica.org/news/2054-vstrecha-s-avtorom-cikla-unikalnyh-knig-v-a-shapiro.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/6/tak-v-chyom-zhe-cel-sotvorenija-organicheskogo-razuma-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bce8ab0d37fc5c1e5e",
+      "type": "news-item",
+      "sourceCharacters": 3822,
       "verified": false
     }
   ],

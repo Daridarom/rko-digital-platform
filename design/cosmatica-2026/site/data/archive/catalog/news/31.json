@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Миссия Нирма - новые шаги в космическое будущее",
+      "description": "С 14 июля по 3 августа прошла очередная смена детского научно-творческого лагеря \"Миссия Нирма\" на базе комплекса \"Раздолье\" в Московской области.",
+      "url": "https://cosmatica.org/news/1722-missija-nirma-novye-shagi-v-kosmicheskoe-buduschee.html",
+      "image": "https://cosmatica.org/upload/000/u7/d/b/1d407753.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=efa4db546026dc08da",
+      "type": "news-item",
+      "sourceCharacters": 2760,
+      "verified": false
+    },
+    {
       "title": "Деятельность фонда \"Светославъ\", ближайшее будущее.",
       "description": "Знание обязывает к действию. Это девиз ядра нашего фонда. Знание истории нашего народа и нашей земли побуждает нас сохранять и приумножать её культурное и этнографическое наследие.",
       "url": "https://cosmatica.org/news/1721-dejatelnost-fonda-svetoslav-blizhaishee-buduschee.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=03386b0ea03faa80ad",
       "type": "news-item",
       "sourceCharacters": 4147,
-      "verified": false
-    },
-    {
-      "title": "Член РКО с позывным \"Папай\" о своём понимании войны и мира",
-      "description": "Находясь на передовой начинаешь по-другому смотреть на вещи, на мир, на отношения людей. Видишь причинно-следственные связи происходящих событий в мире и в жизни.",
-      "url": "https://cosmatica.org/news/1707-chlen-rko-s-pozyvnym-papai-o-svoyom-ponimanii-voiny-i-mira.html",
-      "image": "https://cosmatica.org/upload/000/u7/e/a/1ff828f0.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=52309fafc6474fbab7",
-      "type": "news-item",
-      "sourceCharacters": 1424,
       "verified": false
     }
   ],

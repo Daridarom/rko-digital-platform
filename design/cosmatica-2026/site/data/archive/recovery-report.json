@@ -1,0 +1,107 @@
+{
+  "checked": 11,
+  "recovered": 11,
+  "failed": [],
+  "results": [
+    {
+      "url": "https://cosmatica.org/articles/1123-udivitelnye-griby-2-serija.html",
+      "status": "ready",
+      "details": {
+        "textCharacters": 149,
+        "videos": 1,
+        "sourceTextCharacters": 160
+      }
+    },
+    {
+      "url": "https://cosmatica.org/articles/1124-semena-svobody.html",
+      "status": "ready",
+      "details": {
+        "textCharacters": 272,
+        "videos": 1,
+        "sourceTextCharacters": 288
+      }
+    },
+    {
+      "url": "https://cosmatica.org/articles/1167-nacionalnye-kosmicheskie-obschestva-kak-centry-kosmoplanetarnoi-socialnoi-pedagogiki.html",
+      "status": "ready",
+      "details": {
+        "textCharacters": 206,
+        "videos": 0,
+        "sourceTextCharacters": 137
+      }
+    },
+    {
+      "url": "https://cosmatica.org/articles/1168-russkoe-kosmicheskoe-obschestvo-obschaja.html",
+      "status": "ready",
+      "details": {
+        "textCharacters": 176,
+        "videos": 0,
+        "sourceTextCharacters": 104
+      }
+    },
+    {
+      "url": "https://cosmatica.org/articles/1330-ekofilosofskaja-determinacija-prostranstva-kultury-noosfernogo-goroda.html",
+      "status": "ready",
+      "details": {
+        "textCharacters": 35451,
+        "videos": 0,
+        "sourceTextCharacters": 35638
+      }
+    },
+    {
+      "url": "https://cosmatica.org/articles/1432-grjaduschii-noosfernyi-sintez-nauki-i-vlasti-kak-imperativ.html",
+      "status": "ready",
+      "details": {
+        "textCharacters": 282,
+        "videos": 1,
+        "sourceTextCharacters": 310
+      }
+    },
+    {
+      "url": "https://cosmatica.org/articles/1433-pervaja-faza-globalnoi-ekologicheskoi-katastrofy.html",
+      "status": "ready",
+      "details": {
+        "textCharacters": 332,
+        "videos": 1,
+        "sourceTextCharacters": 360
+      }
+    },
+    {
+      "url": "https://cosmatica.org/articles/1434-noosfernyi-socializm-kak-socialno-ekonomicheskaja-organizacija-razvitija-obschestva.html",
+      "status": "ready",
+      "details": {
+        "textCharacters": 302,
+        "videos": 1,
+        "sourceTextCharacters": 330
+      }
+    },
+    {
+      "url": "https://cosmatica.org/articles/1435-zavisimost-buduschego-kosmicheskogo-proryva-chelovechestva-ot.html",
+      "status": "ready",
+      "details": {
+        "textCharacters": 286,
+        "videos": 1,
+        "sourceTextCharacters": 314
+      }
+    },
+    {
+      "url": "https://cosmatica.org/articles/1437-12-novaja-noosfernaja-ideologija-i-ideal-buduschego.html",
+      "status": "ready",
+      "details": {
+        "textCharacters": 203,
+        "videos": 1,
+        "sourceTextCharacters": 231
+      }
+    },
+    {
+      "url": "https://cosmatica.org/articles/1438-13-strategija-evolyucionnogo-proryva-rossii-i-chelovechestva-v-xxi-veke-i-noosferizm.html",
+      "status": "ready",
+      "details": {
+        "textCharacters": 269,
+        "videos": 1,
+        "sourceTextCharacters": 297
+      }
+    }
+  ],
+  "rawCmsHtmlPersisted": false
+}

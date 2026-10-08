@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Члены РКО приняли участие в видеооконфенции в рамках Всероссийского проекта «Взаимообучение городов»",
+      "description": "В видеоконференции принимали участие более 20-ти городов: Москва, Саратов, Нижний Тагил, Братск, Новомосковск, Коломна, Тюмень, Нижневартовск, Муром, Сочи, Калуга, Киров, Челябинск, Усинск, Ачинск, города Калининградской области.",
+      "url": "https://cosmatica.org/news/918-na-komsomolskoi.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/4/31695c86.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fa0d05bde03047f0e4",
+      "type": "news-item",
+      "sourceCharacters": 3657,
+      "verified": false
+    },
+    {
       "title": "Книга дня сегодня...",
       "description": "Автор: Николай Степанович Мельников, президент Международной Академии экологии сознания им. Пифагора, академик РАЕН, доктор технических наук, профессор, зав. кафедрой МАИ \"Управление и навигация самолетов\", один из творческих руководителей программы создания космического самолета \"Буран\".",
       "url": "https://cosmatica.org/news/916-kniga-dnja-segodnja.html",
@@ -41,17 +52,6 @@
       "href": "view.html?p=news-item&ref=a5b5e4e3531cacad35",
       "type": "news-item",
       "sourceCharacters": 3151,
-      "verified": false
-    },
-    {
-      "title": "Детское космическое творчество в Костроме",
-      "description": "Возглавил жюри турнира «Технодром» Председатель Костромского отделения Русского Космического Обществва, заслуженный испытатель и ветеран космодрома Байконур Николай Николаевич Калитенко .",
-      "url": "https://cosmatica.org/news/929-detskoe-kosmicheskoe-tvorchestvo-v-kostrome.html",
-      "image": "https://cosmatica.org/upload/000/u35/6/1/9c5f4c8a.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=8bccc65e9e007d214f",
-      "type": "news-item",
-      "sourceCharacters": 2859,
       "verified": false
     },
     {

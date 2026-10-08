@@ -11,14 +11,14 @@
   "blocks": [],
   "cards": [
     {
-      "title": "ЭРА взлетела на международную орбиту",
-      "description": "В период с 10 по 12 марта в Республике Беларусь делегация, в состав которой вошли представители Русского Космического Общества и АНО «Интелрост» , провела ряд мероприятий, направленных на расширение совместной проектно-целевой деятельности и укрепления дружеских связей народов Беларуси и России.",
-      "url": "https://cosmatica.org/news/1010-era-vzletela-na-mezhdunarodnuyu-orbitu.html",
-      "image": "https://cosmatica.org/upload/000/u35/c/a/era-vzletela-na-mezhdunarodnuyu-orbitu-photo-normal.jpg",
+      "title": "Гагаринский букет к 8 марта",
+      "description": "Святославская СОШ провели акцию к 8 марта - вручили женщинам изготовленные своими руками открытки.",
+      "url": "https://cosmatica.org/news/1012-gagarinskii-buket-v-8-marta.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/f/gagarinskii-buket-v-8-marta-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=3d98c45bbdf7fa2e90",
+      "href": "view.html?p=news-item&ref=48dcd939f0bb8384ee",
       "type": "news-item",
-      "sourceCharacters": 12184,
+      "sourceCharacters": 1513,
       "verified": false
     },
     {
@@ -33,6 +33,17 @@
       "verified": false
     },
     {
+      "title": "ЭРА взлетела на международную орбиту",
+      "description": "В период с 10 по 12 марта в Республике Беларусь делегация, в состав которой вошли представители Русского Космического Общества и АНО «Интелрост» , провела ряд мероприятий, направленных на расширение совместной проектно-целевой деятельности и укрепления дружеских связей народов Беларуси и России.",
+      "url": "https://cosmatica.org/news/1010-era-vzletela-na-mezhdunarodnuyu-orbitu.html",
+      "image": "https://cosmatica.org/upload/000/u35/c/a/era-vzletela-na-mezhdunarodnuyu-orbitu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3d98c45bbdf7fa2e90",
+      "type": "news-item",
+      "sourceCharacters": 12184,
+      "verified": false
+    },
+    {
       "title": "Герой и Враг Империума кто он?",
       "description": "Участникам конкурса надо было сначала познакомиться с основными работами литературного проекта \"Империум Человека\": https://xn----jtbibgaqccjqifi2aj.xn--p1ai/legenda",
       "url": "https://cosmatica.org/news/1009-geroi-i-vrag-imperiuma-kto-on.html",
@@ -41,17 +52,6 @@
       "href": "view.html?p=news-item&ref=006f8faaa90f76a841",
       "type": "news-item",
       "sourceCharacters": 1510,
-      "verified": false
-    },
-    {
-      "title": "Гагаринский букет к 8 марта",
-      "description": "Святославская СОШ провели акцию к 8 марта - вручили женщинам изготовленные своими руками открытки.",
-      "url": "https://cosmatica.org/news/1012-gagarinskii-buket-v-8-marta.html",
-      "image": "https://cosmatica.org/upload/002/u218/c/f/gagarinskii-buket-v-8-marta-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=48dcd939f0bb8384ee",
-      "type": "news-item",
-      "sourceCharacters": 1513,
       "verified": false
     },
     {
@@ -110,17 +110,6 @@
       "verified": false
     },
     {
-      "title": "Состоялось первое собрание семей РОД \"Семья Отечества\" в Нижнем Новгороде",
-      "description": "22 февраля в административном центре Приволжского федерального округа России, городе русской славы на реке Волге под названием Нижний Новгород, втором по численности населения городе округа, состоялось первое Собрание семей Российского общественного движения « Семья Отечества» (РОД СО).",
-      "url": "https://cosmatica.org/news/1002-sostojalos-pervoe-sobranie-semei-rod-semja-otechestva-v-nizhnem-novgorode.html",
-      "image": "https://cosmatica.org/upload/002/u218/c/c/9dab762b.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=08fd1267add15b3b1e",
-      "type": "news-item",
-      "sourceCharacters": 12238,
-      "verified": false
-    },
-    {
       "title": "Дополнительные занятия для школьников по Истории России и Обществознанию.",
       "description": "В условиях, когда школа фактические перестала выполнять функции не только воспитания, но и настоящего образования предлагаем онлайн-занятия в малых группах для подготовки к единому государственному экзамену по предметам: «История России», «Обществознание».",
       "url": "https://cosmatica.org/news/1003-dopolnitelnye-zanjatija-dlja-shkolnikov-po-istorii-rossii-i-obschestvoznaniyu.html",
@@ -132,6 +121,17 @@
       "verified": false
     },
     {
+      "title": "Состоялось первое собрание семей РОД \"Семья Отечества\" в Нижнем Новгороде",
+      "description": "22 февраля в административном центре Приволжского федерального округа России, городе русской славы на реке Волге под названием Нижний Новгород, втором по численности населения городе округа, состоялось первое Собрание семей Российского общественного движения « Семья Отечества» (РОД СО).",
+      "url": "https://cosmatica.org/news/1002-sostojalos-pervoe-sobranie-semei-rod-semja-otechestva-v-nizhnem-novgorode.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/c/9dab762b.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=08fd1267add15b3b1e",
+      "type": "news-item",
+      "sourceCharacters": 12238,
+      "verified": false
+    },
+    {
       "title": "Из Донбасса к звёздам",
       "description": "Обычно, когда заходит речь о Донбассе, то перед глазами встают копи угольных шахт, сталелитейные заводы, и простор донецких степей, но это не весь Донбасс. Кроме подземных богатств, над Донбассом есть своё небо, а эта земля стала Родной для пяти космонавтов: Георгия Тимофеевича Берегового, Александра Александровича Волкова, Леонида Денисовича Кизима, Георгия Степановича Шонина и Владимира Афанасьевича Ляхова.",
       "url": "https://cosmatica.org/news/1001-iz-donbassa-k-zvyozdam.html",
@@ -140,6 +140,17 @@
       "href": "view.html?p=news-item&ref=d2499828840add0c0c",
       "type": "news-item",
       "sourceCharacters": 1331,
+      "verified": false
+    },
+    {
+      "title": "Круглый стол \"Новые мировые вызовы и угрозы\"",
+      "description": "Мероприятие проходило в режиме реального времени на собственной сетевой платформе Русского Космического Общества rko.nbics.net",
+      "url": "https://cosmatica.org/news/1000-kruglyi-stol-novye-mirovye-vyzovy-i-ugrozy.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/a/kruglyi-stol-novye-mirovye-vyzovy-i-ugrozy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8a3eeff07063497445",
+      "type": "news-item",
+      "sourceCharacters": 2589,
       "verified": false
     },
     {
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=94407b0ed0753af78e",
       "type": "news-item",
       "sourceCharacters": 1908,
-      "verified": false
-    },
-    {
-      "title": "Концептуальный прикладной форум стал площадкой для представления системы воспитания",
-      "description": "Наш единомышленник, директор по связям с общественностью АНО «Интелрост», действительный член Русского Космического Общества Алексей Андреевич Горшков выступил на прикладном концептуальном форуме с сообщением о проекте «Киноуроки в школах России», как инновационной системе комплексного воспитания качеств созидательной, целостной и творческой личности.",
-      "url": "https://cosmatica.org/news/996-konceptualnyi-prikladnoi-forum-stal-ploschadkoi-dlja-predstavlenija-sistemy-vospitanija.html",
-      "image": "https://cosmatica.org/upload/000/u7/b/d/konceptualnyi-prikladnoi-forum-stal-ploschadkoi-dlja-predstavlenija.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=39c5e2152329aa52bf",
-      "type": "news-item",
-      "sourceCharacters": 937,
       "verified": false
     }
   ],

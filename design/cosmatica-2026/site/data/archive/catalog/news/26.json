@@ -55,6 +55,17 @@
       "verified": false
     },
     {
+      "title": "Владимирцы ближе к космосу",
+      "description": "Ветераны поделились своими личными воспоминаниями и впечатлениями о военной службе на космодроме.",
+      "url": "https://cosmatica.org/news/1797-vladimircy-blizhe-k-kosmosu.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/3/vladimircy-blizhe-k-kosmosu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=dd2bfa620ef5de5d94",
+      "type": "news-item",
+      "sourceCharacters": 4706,
+      "verified": false
+    },
+    {
       "title": "Стань наставником будущего! Созидай будущее вместе с нами",
       "description": "Дистанционный экомарафон « Соэволюция » (далее Экомарафон) посвящен 100-летию со дня рождения, русского учёного, исследователя, последнего из генеральных конструкторов СССР Побиска Георгиевича Кузнецова.",
       "url": "https://cosmatica.org/news/1796-stan-nastavnikom-buduschego-sozidai-buduschee-vmeste-s-nami.html",
@@ -121,17 +132,6 @@
       "verified": false
     },
     {
-      "title": "Первая экспедиция Звездолёта завершена!",
-      "description": "За это время члены экипажа смогли сгенерировать экотопливо, что являлось движущей силой космической экспедиции.",
-      "url": "https://cosmatica.org/news/1787-otkrytyi-mezhgalakticheskii-ekoturnir-zvezdolyot-2024.html",
-      "image": "https://cosmatica.org/upload/000/u35/e/1/otkrytyi-mezhgalakticheskii-ekoturnir-zvezdolyot-2024-photo-nor.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=52efb2ff2e1a251ab0",
-      "type": "news-item",
-      "sourceCharacters": 4022,
-      "verified": false
-    },
-    {
       "title": "Советский Союз ушёл, чтобы родился Русский Союз",
       "description": "32 года назад, 25 декабря 1991 года, в 19 часов 35 минут, был спущен флаг СССР. Перестала существовать Великая Держава...",
       "url": "https://cosmatica.org/news/1789-sovetskii-soyuz-ushyol-chtoby-rodilsja-russkii-soyuz.html",
@@ -154,6 +154,17 @@
       "verified": false
     },
     {
+      "title": "Первая экспедиция Звездолёта завершена!",
+      "description": "За это время члены экипажа смогли сгенерировать экотопливо, что являлось движущей силой космической экспедиции.",
+      "url": "https://cosmatica.org/news/1787-otkrytyi-mezhgalakticheskii-ekoturnir-zvezdolyot-2024.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/1/otkrytyi-mezhgalakticheskii-ekoturnir-zvezdolyot-2024-photo-nor.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=52efb2ff2e1a251ab0",
+      "type": "news-item",
+      "sourceCharacters": 4022,
+      "verified": false
+    },
+    {
       "title": "Вперёд, Звездолёт!",
       "description": "Дистанционный экотурнир «Звездолёт» (далее Экотурнир) посвящен 90-летию со дня рождения первого космонавта планеты Земля Юрия Алексеевича Гагарина.",
       "url": "https://cosmatica.org/news/1786-vperyod-zvezdolyot.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=a26073c33870ad5843",
       "type": "news-item",
       "sourceCharacters": 6591,
-      "verified": false
-    },
-    {
-      "title": "Мир Героев - учитель",
-      "description": "Таисия Петровна молодец, кто бы спорил. Кажется, и обсуждать нечего. Что же обсуждать по итогам картины? Какой возникает вопрос? Перед нами путь и пример подвижника, безусловно. Добрые дела, убежденность, неравнодушие, скромность, действие – целый ряд Благородных Качеств.",
-      "url": "https://cosmatica.org/news/1785-mir-geroev-uchitel.html",
-      "image": "https://cosmatica.org/upload/000/u7/9/e/mir-geroev-uchitel-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=1e5e8634dadca3d4b4",
-      "type": "news-item",
-      "sourceCharacters": 8009,
       "verified": false
     }
   ],

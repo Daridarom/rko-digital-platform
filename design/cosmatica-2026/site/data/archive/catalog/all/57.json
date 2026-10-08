@@ -6,10 +6,76 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 57,
-  "pageCount": 321,
-  "total": 4812,
+  "pageCount": 322,
+  "total": 4823,
   "blocks": [],
   "cards": [
+    {
+      "title": "Гагаринский сад прифронтовой",
+      "description": "В Донецкое отделение РКО пришло письмо от Светланы Ивановны Симоновой, заместителя директора МБОУ «Школа № 56 г. Донецка»:",
+      "url": "https://cosmatica.org/news/1382-gagarinskii-sad-prifrontovoi.html",
+      "image": "https://cosmatica.org/upload/003/u380/f/1/gagarinskii-sad-prifrontovoi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=05a4d85fd034c7a6d6",
+      "type": "news-item",
+      "sourceCharacters": 1982,
+      "verified": false
+    },
+    {
+      "title": "Методика расчета трудового потенциала экономики России с использованием бюджета социального времени",
+      "description": "Настоящая статья содержит анализ и систематизацию научных подходов к измерению категории «трудовой потенциал», на основе которых дано обобщающее определение с акцентом на использование демографических и социальных ресурсов как инвариантных для любой социально-экономической системы. Представлены структуры трудового потенциала и бюджета социального времени на основе метода категориальных пар. Проведена формализация тру",
+      "url": "https://cosmatica.org/articles/1381-metodika-rascheta-trudovogo-potenciala-ekonomiki-rossii-s-ispolzovaniem-byudzheta-socialnogo-vr.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=751e9a569b73955c8e",
+      "type": "article",
+      "sourceCharacters": 21868,
+      "verified": false
+    },
+    {
+      "title": "Открылся ещё один Штаб вклада в Победу в Бердске",
+      "description": "Ещё один пункт сбора гуманитарной помощи фронту и прифронтовым территориям в рамках движения Народного сплочения открылся в г. Бердск, Новосибирской обл. по адресу: ул. Первомайская, д.121, 3 эт. Обращаться к администратору фитнес клуба TITAN FITNESS +7 983 310 4933",
+      "url": "https://cosmatica.org/news/1381-otkrylsja-eschyo-odin-shtab-vklada-v-pobedu.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/4/otkrylsja-eschyo-odin-shtab-vklada-v-pobedu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fb131e04316111b064",
+      "type": "news-item",
+      "sourceCharacters": 5002,
+      "verified": false
+    },
+    {
+      "title": "Международная научная школа устойчивого развития имени П.Г.Кузнецова",
+      "description": "Международная научная школа устойчивого развития имени П.Г.Кузнецова ( http://устойчивоеразвитие.рф )",
+      "url": "https://cosmatica.org/news/1380-mezhdunarodnaja-nauchnaja-shkola-ustoichivogo-razvitija-imeni-p-g-kuznecova.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/7/mezhdunarodnaja-nauchnaja-shkola-ustoichivogo-razvitija-imeni-p-g-kuzn.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1c591fd370c8094286",
+      "type": "news-item",
+      "sourceCharacters": 9571,
+      "verified": false
+    },
+    {
+      "title": "Флаг, Знамя и Стяг. Флаг без Знамени – Форма без содержания.",
+      "description": "ФЛАГ есть символ государственности. Государство есть механизм организации общественных отношений. Государство есть форма выражения общественного договора или, бывает, это сговор, где определённая каста, или группа, силой оружия, денег и/или обмана присваивает себе ВЛАСТЬ над механизмом управления обществом - государством.",
+      "url": "https://cosmatica.org/articles/1379-flag-znamja-i-stjag-flag-bez-znameni-forma-bez-soderzhanija.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/c/bezymjannyi.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=231c4768a7811d0381",
+      "type": "article",
+      "sourceCharacters": 4013,
+      "verified": false
+    },
+    {
+      "title": "Отпразднуем Победу с Солдатской кашей",
+      "description": "Путь к ней был долог и труден. Никто и ничто не в состоянии умалить величие подвига советского солдата, всемирно-историческое значение победы над фашизмом. С того памятного мая прошло 77 лет…",
+      "url": "https://cosmatica.org/news/1379-otprazdnuem-pobedu-s-soldatskoi-kashei.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/f/4ac93217.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b4d585cf158bc7c544",
+      "type": "news-item",
+      "sourceCharacters": 2663,
+      "verified": false
+    },
     {
       "title": "Новый выпуск \"Ближе к космосу\"",
       "description": "Ознакомиться с изданием вы можете на сайте Русского Космического Общества и в специальном разделе сайта проекта \"Мы верим в космос\": www.мыверимвкосмос.рф/Ближе-к-космосу .",
@@ -107,72 +173,6 @@
       "href": "view.html?p=news-item&ref=bd1906928577a2f6bd",
       "type": "news-item",
       "sourceCharacters": 3169,
-      "verified": false
-    },
-    {
-      "title": "Студенческая смена \"Обед с космонавтом\"",
-      "description": "Погода порадовала солнышком, теплом и первыми цветами. Во встрече приняли участие студенты Московского государственного областного университета (МГОУ), студенты Московского государственного университета технологий и управления им. К.Г. Разумовского (МГУТУ), активные участники Просветительской общественной инициативы \"Пойдём с нами\" из Москвы и Московской области.",
-      "url": "https://cosmatica.org/news/1364-studencheskaja-smena-obed-s-kosmonavtom.html",
-      "image": "https://cosmatica.org/upload/002/u218/5/f/studencheskaja-smena-obed-s-kosmonavtom-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=21295e4a1e89a67973",
-      "type": "news-item",
-      "sourceCharacters": 2456,
-      "verified": false
-    },
-    {
-      "title": "Шахматный турнир \"Юные звёзды\"",
-      "description": "Вот уже 6 лет подряд проводится открытый фестиваль \"Юные звёзды\". Но в этот раз был особый статус мероприятия - благотворительный. Все собранные на мероприятии средства, за исключением прямых организационных расходов, направлены на материальную помощь детям, оказавшимся в сложной жизненной ситуации на Донбассе.",
-      "url": "https://cosmatica.org/news/1363-shahmatnyi-turnir-yunye-zvyozdy.html",
-      "image": "https://cosmatica.org/upload/002/u218/5/b/cf0e47f2.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=d5e33ddcb95f3482d0",
-      "type": "news-item",
-      "sourceCharacters": 2760,
-      "verified": false
-    },
-    {
-      "title": "Гуманитарный штаб РКО на Донбассе",
-      "description": "Для координации деятельности в данном направлении создан Штаб вклада в Победу Донецкого отделения Русского Космического Общества. Координатор штаба - секретарь Донецкого отделения РКО Абраменкова Элина Александровна.",
-      "url": "https://cosmatica.org/news/1362-gumanitarnyi-shtab-rko-na-donbasse.html",
-      "image": "https://cosmatica.org/upload/000/u35/0/9/gumanitarnyi-shtab-rko-na-donbasse-photo-normal.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=5965cca1f15c3cf036",
-      "type": "news-item",
-      "sourceCharacters": 2583,
-      "verified": false
-    },
-    {
-      "title": "Даёшь позитивные новости!",
-      "description": "Русское Космическое Общество проводит конкурс \"Журналист - созидатель будущего.\"",
-      "url": "https://cosmatica.org/news/1361-dayosh-polozhitelnye.html",
-      "image": "https://cosmatica.org/upload/000/u35/8/4/dayosh-polozhitelnye-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=829afdf6f7cd96e2b0",
-      "type": "news-item",
-      "sourceCharacters": 14882,
-      "verified": false
-    },
-    {
-      "title": "Открыты новые штабы вклада в победу",
-      "description": "Товарищи! Мы — Русские, и нам не безразлична Судьба нашего Народа и нашего Отечества. Сегодня настало время Действовать!",
-      "url": "https://cosmatica.org/news/1360-otkryty-novye-shtaby-vklada-v-pobedu.html",
-      "image": "https://cosmatica.org/upload/000/u35/5/e/otkryty-novye-shtaby-vklada-v-pobedu-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=0f4b5b9ada16758f4b",
-      "type": "news-item",
-      "sourceCharacters": 4460,
-      "verified": false
-    },
-    {
-      "title": "Ночь Юрия в Пскове",
-      "description": "Данные телескопы привезли участники Псковского клуба любительской астрономии АстроПсков : Пётр Митрофанов, Сергей Попов, участник Псковского отделения РКО Максим Евдокимов и Владимир Юрьевич Колпаков - председатель Псковского регионального отделения РКО и руководитель Центра Юный техник в Пскове .",
-      "url": "https://cosmatica.org/news/1359-noch-yurija-v-pskove.html",
-      "image": "https://cosmatica.org/upload/000/u35/7/c/noch-yurija-v-pskove-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=ba4db8e480f8f46624",
-      "type": "news-item",
-      "sourceCharacters": 2146,
       "verified": false
     }
   ],

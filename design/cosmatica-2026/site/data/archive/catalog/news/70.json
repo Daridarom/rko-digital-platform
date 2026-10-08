@@ -11,6 +11,28 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Гагаринский сад в Москве!",
+      "description": "27 апреля 2021 года Русским Космическим Обществом совместно с библиотеками Северо-Запада Москвы в районе Щукино были посажены красные дубы в рамках всемирного движения \"Гагаринский сад\" и проекта библиотек Северо-Запада Москвы \"Я люблю тебя, Юрий Гагарин!\"",
+      "url": "https://cosmatica.org/news/1060-gagarinskii-sad-v-moskve.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/4/gagarinskii-sad-v-moskve-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7d9e32bbc6e620beb4",
+      "type": "news-item",
+      "sourceCharacters": 2040,
+      "verified": false
+    },
+    {
+      "title": "Сила Слова",
+      "description": "Если хотя бы один человек услышит, и поверит, значит всё было не напрасно.",
+      "url": "https://cosmatica.org/news/1059-sila-slova.html",
+      "image": "https://cosmatica.org/upload/003/u395/4/7/sila-slova-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=44011130376e008308",
+      "type": "news-item",
+      "sourceCharacters": 1896,
+      "verified": false
+    },
+    {
       "title": "«Дружина Гагаринцев» встала на Волгоградской земле!",
       "description": "В юбилейный год первого полёта человека в космос юные добровольцы МОУ СОШ п. Куйбышев Среднеахтубинского района Волгоградской области присоединились к Всероссийскому молодёжному общественному движению Русского Космического Общества «Дружина Гагаринцев» .",
       "url": "https://cosmatica.org/news/1058-druzhina-gagarincev-vstala-na-volgogradskoi-zemle.html",
@@ -88,17 +110,6 @@
       "verified": false
     },
     {
-      "title": "Отмечаем юбилей вместе с \"Книгой на орбите\"",
-      "description": "С 12 по 16 апреля 2021 года в Донецкой республиканской библиотеке для детей им. С.М. Кирова проходили мероприятия в рамках литературно-образовательного проекта «Книга на орбите» . Проект реализуется в библиотеке с 2019 года совместно с Русским Космическим Обществом при поддержке Министерства культуры Донецкой Народной Республики.",
-      "url": "https://cosmatica.org/news/1068-otmechaem-yubilei-vmeste-s-knigoi-na-orbite.html",
-      "image": "https://cosmatica.org/upload/002/u218/4/0/0f9f8342.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=46ce7460c8f06f54bb",
-      "type": "news-item",
-      "sourceCharacters": 4981,
-      "verified": false
-    },
-    {
       "title": "День космонавтики в Костромской области",
       "description": "День космонавтики в этом 2021 году особенный для всей нашей необъятной Родины. А для Костромского отделения - это праздник глубоко личный, так как председатель отделения Николай Николаевич Калитенко не просто имеет прямое отношение к космонавтике, а отдал этому более 20 лет своей жизни, прослужив на космодроме Байконур.",
       "url": "https://cosmatica.org/news/1051-den-kosmonavtiki-v-kostromskoi-oblasti.html",
@@ -107,17 +118,6 @@
       "href": "view.html?p=news-item&ref=ba7476c9af3c06df25",
       "type": "news-item",
       "sourceCharacters": 4294,
-      "verified": false
-    },
-    {
-      "title": "Небо начинается на земле",
-      "description": "15 апреля исполнилось ровно 100 лет со дня рождения лётчика-космонавта СССР, дважды Героя Советского Союза, участника Великой Отечественной войны Георгия Тимофеевича Берегового. Родился он в селе Фёдоровка Полтавской области, а детство и юность провёл в городе Енакиево Донецкой области. Особенно отмечают эту дату в Донецкой Народной Республике и, конечно, в Донецком отделении Русского Космического Общества.",
-      "url": "https://cosmatica.org/news/1115-nebo-nachinaetsja-na-zemle.html",
-      "image": "https://cosmatica.org/upload/002/u218/6/6/nebo-nachinaetsja-na-zemle-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=267b78ab7298c87df0",
-      "type": "news-item",
-      "sourceCharacters": 4688,
       "verified": false
     },
     {

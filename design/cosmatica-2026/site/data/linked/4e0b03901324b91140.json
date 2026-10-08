@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1124-semena-svobody.html",
+  "title": "Семена свободы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Банк семян",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Фильм рассказывает как транснациональные корпорации уничтожают местные, устойчивые семена гибридами и ГМО. И разрушают тем самым сообщества людей, живущих веками на этой территории. И как важно сохранить нам свои семена и наши культурные, устойчивые сообщества.",
+      "spans": [
+        {
+          "text": "Фильм рассказывает как транснациональные корпорации уничтожают местные, устойчивые семена гибридами и ГМО. И разрушают тем самым сообщества людей, живущих веками на этой территории. И как важно сохранить нам свои семена и наши культурные, устойчивые сообщества."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "mU0z_ej2t0E",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=mU0z_ej2t0E"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Фильм рассказывает как транснациональные корпорации уничтожают местные, устойчивые семена гибридами и ГМО. И разрушают тем самым сообщества людей, живущих веками на этой территории. И как важно сохранить нам свои семена и наши культурные, устойчивые сообщества.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 315,
+    "storedTextCharacters": 272,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 74637
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 288,
+  "capturedBodyCharacters": 272,
+  "sourceTextSHA256": "bb3b19dd9bcbfa60c6fd0aa6804593001a7e0ba5ef4ff14d28dca14691d529d9",
+  "archiveSnapshotAt": "2026-10-08T13:19:33Z"
+}

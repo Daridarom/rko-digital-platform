@@ -11,6 +11,50 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Космическая Беларусь",
+      "description": "В марте этого года в Минске состоялось открытие Представительства РКО в Республике Беларусь. Основной костяк Минского отделения безотлагательно начал активную деятельность и подготовку ко Дню Космонавтики.",
+      "url": "https://cosmatica.org/news/407-kosmicheskaja-belarus.html",
+      "image": "https://cosmatica.org/upload/001/u186/f/2/kosmicheskaja-belarus-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=38220ef8837c666b1e",
+      "type": "news-item",
+      "sourceCharacters": 3367,
+      "verified": false
+    },
+    {
+      "title": "Открывая окно в космос",
+      "description": "16 марта 2019 года в Санкт-Петербурге состоялась экспресс-конференция \"Окно в космос\".",
+      "url": "https://cosmatica.org/news/406-otkryvaja-okno-v-kosmos.html",
+      "image": "https://cosmatica.org/upload/000/u21/7/c/otkryvaja-okno-v-kosmos-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8721ab1ef0cc7d0fc5",
+      "type": "news-item",
+      "sourceCharacters": 3609,
+      "verified": false
+    },
+    {
+      "title": "Всенародный день Матери-Земли в Мемориальном Музее Космонавтики",
+      "description": "День Матери-Земли — это день ответственности перед нашей планетой, ответственности перед людьми, которые её населяют, перед самой природой, частью которой мы являемся».",
+      "url": "https://cosmatica.org/news/405-vsenarodnyi-den-materi-zemli-v-memorialnom-muzee-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/e/vsenarodnyi-den-materi-zemli-v-memorialnom-muzee-kosmonavtiki.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=24734216d125c6248b",
+      "type": "news-item",
+      "sourceCharacters": 7050,
+      "verified": false
+    },
+    {
+      "title": "Спорт на службе развития силы, духа и воли",
+      "description": "Поздравление принимает Сборная команда Калужской области, которая получила две золотые награды и бронзу в личных соревнованиях, а также бронзовую медаль командного турнира на дебютном для неё Кубке России по джиуджитсу, проходившем в городе Конаково (Тверская область)!",
+      "url": "https://cosmatica.org/news/404-sport-na-sluzhbe-razvitija-sily-duha-i-voli.html",
+      "image": "https://cosmatica.org/upload/000/u7/1/0/a75c089f.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7727274ef8fa9e23ad",
+      "type": "news-item",
+      "sourceCharacters": 1376,
+      "verified": false
+    },
+    {
       "title": "Космический марафон в Снежинске",
       "description": "В апреле 2019 года, в школе № 135 города Снежинск, Челябинской области, при координации администрации школы и отдела воспитания и дополнительного образования городского Управления образования, прошёл Гагаринский марафон, состоящий из восьми сорокаминутных просветительских бесед на космическую тематику.",
       "url": "https://cosmatica.org/news/403-kosmicheskii-marafon-v-snezhinske.html",
@@ -44,28 +88,6 @@
       "verified": false
     },
     {
-      "title": "Открывая окно в космос",
-      "description": "16 марта 2019 года в Санкт-Петербурге состоялась экспресс-конференция \"Окно в космос\".",
-      "url": "https://cosmatica.org/news/406-otkryvaja-okno-v-kosmos.html",
-      "image": "https://cosmatica.org/upload/000/u21/7/c/otkryvaja-okno-v-kosmos-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=8721ab1ef0cc7d0fc5",
-      "type": "news-item",
-      "sourceCharacters": 3609,
-      "verified": false
-    },
-    {
-      "title": "Спорт на службе развития силы, духа и воли",
-      "description": "Поздравление принимает Сборная команда Калужской области, которая получила две золотые награды и бронзу в личных соревнованиях, а также бронзовую медаль командного турнира на дебютном для неё Кубке России по джиуджитсу, проходившем в городе Конаково (Тверская область)!",
-      "url": "https://cosmatica.org/news/404-sport-na-sluzhbe-razvitija-sily-duha-i-voli.html",
-      "image": "https://cosmatica.org/upload/000/u7/1/0/a75c089f.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=7727274ef8fa9e23ad",
-      "type": "news-item",
-      "sourceCharacters": 1376,
-      "verified": false
-    },
-    {
       "title": "Территория мира в Зеленограде",
       "description": "Выставка проходит на втором этаже здания и будет длиться до 25 апреля 2019 г.",
       "url": "https://cosmatica.org/news/399-delo-mira-v-zelenograde.html",
@@ -88,25 +110,14 @@
       "verified": false
     },
     {
-      "title": "День космонавтики в Калуге",
-      "description": "12 апреля в Государственном музее истории космонавтики им. К.Э. Циолковского в Калуге состоялись праздничные мероприятия, посвященные Всемирному дню авиации и космонавтики.",
-      "url": "https://cosmatica.org/news/409-den-kosmonavtiki-v-kaluge.html",
-      "image": "https://cosmatica.org/upload/001/u172/6/b/den-kosmonavtiki-v-kaluge-photo-normal.jpg",
+      "title": "День космонавтики для крепкой КосмоСемьи",
+      "description": "Конкурс был организован Фондом поддержки и развития семей «Родная семья » при поддержке МОО \"Русское космическое общество\" (РКО) и КЦ «Рублево».",
+      "url": "https://cosmatica.org/news/396-den-kosmonavtiki-dlja-krepkoi-kosmosemi.html",
+      "image": "https://cosmatica.org/upload/000/u26/3/a/den-kosmonavtiki-oznamenoval-photo-normal.jpg",
       "kind": "news-item",
-      "href": "view.html?p=news-item&ref=82592f3de0e13308b5",
+      "href": "view.html?p=news-item&ref=7ecdbe8c9f79e4ad76",
       "type": "news-item",
-      "sourceCharacters": 2850,
-      "verified": false
-    },
-    {
-      "title": "Космическая Беларусь",
-      "description": "В марте этого года в Минске состоялось открытие Представительства РКО в Республике Беларусь. Основной костяк Минского отделения безотлагательно начал активную деятельность и подготовку ко Дню Космонавтики.",
-      "url": "https://cosmatica.org/news/407-kosmicheskaja-belarus.html",
-      "image": "https://cosmatica.org/upload/001/u186/f/2/kosmicheskaja-belarus-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=38220ef8837c666b1e",
-      "type": "news-item",
-      "sourceCharacters": 3367,
+      "sourceCharacters": 6713,
       "verified": false
     },
     {
@@ -121,17 +132,6 @@
       "verified": false
     },
     {
-      "title": "День космонавтики для крепкой КосмоСемьи",
-      "description": "Конкурс был организован Фондом поддержки и развития семей «Родная семья » при поддержке МОО \"Русское космическое общество\" (РКО) и КЦ «Рублево».",
-      "url": "https://cosmatica.org/news/396-den-kosmonavtiki-dlja-krepkoi-kosmosemi.html",
-      "image": "https://cosmatica.org/upload/000/u26/3/a/den-kosmonavtiki-oznamenoval-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=7ecdbe8c9f79e4ad76",
-      "type": "news-item",
-      "sourceCharacters": 6713,
-      "verified": false
-    },
-    {
       "title": "Фестиваль \"Пора в космос!\" на ВДНХ",
       "description": "12, 13 и 14 апреля на ВДНХ состоялся большой космический праздник Пора в Космос!",
       "url": "https://cosmatica.org/news/394-pora-v-kosmos.html",
@@ -140,6 +140,17 @@
       "href": "view.html?p=news-item&ref=4b4b9027595b09de7c",
       "type": "news-item",
       "sourceCharacters": 5643,
+      "verified": false
+    },
+    {
+      "title": "Синхронные исследования \"плотности энергии-времени в пространстве Козырева\"",
+      "description": "В День космонавтики и год 85-летия Ю.А. Гагарина, МНИИКА им. Академика В.П. Казначеева совместно с ООО «Mega-Galaxy» (г. Москва), впервые проводили прямой «онлайн репортаж» (в режиме Вебинара) из эталонных «Зеркал Козырева».",
+      "url": "https://cosmatica.org/news/393-sinhronnye-issledovanija-plotnosti-energii-vremeni-v-prostranstve-kozyreva.html",
+      "image": "https://cosmatica.org/upload/000/u30/4/1/sinhronnye-issledovanija-plotnosti-energii-vremeni-v-prostranst.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ebe5f3a77f9326d67b",
+      "type": "news-item",
+      "sourceCharacters": 3584,
       "verified": false
     },
     {
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=1b98a5d903a7b22b80",
       "type": "news-item",
       "sourceCharacters": 6730,
-      "verified": false
-    },
-    {
-      "title": "Синхронные исследования \"плотности энергии-времени в пространстве Козырева\"",
-      "description": "В День космонавтики и год 85-летия Ю.А. Гагарина, МНИИКА им. Академика В.П. Казначеева совместно с ООО «Mega-Galaxy» (г. Москва), впервые проводили прямой «онлайн репортаж» (в режиме Вебинара) из эталонных «Зеркал Козырева».",
-      "url": "https://cosmatica.org/news/393-sinhronnye-issledovanija-plotnosti-energii-vremeni-v-prostranstve-kozyreva.html",
-      "image": "https://cosmatica.org/upload/000/u30/4/1/sinhronnye-issledovanija-plotnosti-energii-vremeni-v-prostranst.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=ebe5f3a77f9326d67b",
-      "type": "news-item",
-      "sourceCharacters": 3584,
       "verified": false
     }
   ],

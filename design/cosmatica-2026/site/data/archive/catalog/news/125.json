@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Сибирский астрономический форум",
+      "description": "Русское Космическое Общество выступает информационным партнером мероприятия.",
+      "url": "https://cosmatica.org/news/187-sibirskii-astronomicheskii-forum.html",
+      "image": "https://cosmatica.org/upload/000/u30/f8/7b/f8f751e1.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8b38b60d02d0ab6e92",
+      "type": "news-item",
+      "sourceCharacters": 1342,
+      "verified": false
+    },
+    {
       "title": "Герою нашего времени 60",
       "description": "Весь 2018-й год в Санкт-Петербурге под патронатом губернатора С.-Петербурга и при поддержке городского Правительства и Законодательного собрания проходит XVI фестиваль «Почётные граждане Санкт-Петербурга», наполненный самыми разнообразными культурными мероприятиями. В этом году организатор фестиваля Фонд «Петербургское наследие и перспектива» проводит его под эгидой 315-летней годовщины со дня основания города на Нев",
       "url": "https://cosmatica.org/news/186-geroyu-nashego-vremeni-60.html",
@@ -88,17 +99,6 @@
       "verified": false
     },
     {
-      "title": "Создан Совет физической культуры и спорта",
-      "description": "Так говорит народная мудрость. Действительно, максимальная мощность человека, общества и страны как живых неравновесных систем достигается лишь тогда, когда эти системы здоровы и предельно эффективны. Когда имеет место отсутствие потерь мощности в виде недугов, слабостей, вредящих здоровью привычек, пагубных увлечений. Эти потери возникают в связи с рассогласованностью цели и деятельности живых систем с целями и зако",
-      "url": "https://cosmatica.org/news/177-sozdan-sovet-fizicheskoi-kultury-i-sporta.html",
-      "image": "https://cosmatica.org/upload/000/u26/63/bf/ad96e381.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=6d096f6436028d30a0",
-      "type": "news-item",
-      "sourceCharacters": 2026,
-      "verified": false
-    },
-    {
       "title": "Напутствие в День знаний",
       "description": "1 сентября Председатель Челябинского отделения Русского Космического Общества, Бессонов Антон Владимирович выступил с напутствием ученикам на торжественной линейке в средней школе села Тюбук Челябинской области.",
       "url": "https://cosmatica.org/news/178-naputstvie-v-den-znanii.html",
@@ -107,6 +107,17 @@
       "href": "view.html?p=news-item&ref=e830172bd0b10bacd5",
       "type": "news-item",
       "sourceCharacters": 3573,
+      "verified": false
+    },
+    {
+      "title": "Создан Совет физической культуры и спорта",
+      "description": "Так говорит народная мудрость. Действительно, максимальная мощность человека, общества и страны как живых неравновесных систем достигается лишь тогда, когда эти системы здоровы и предельно эффективны. Когда имеет место отсутствие потерь мощности в виде недугов, слабостей, вредящих здоровью привычек, пагубных увлечений. Эти потери возникают в связи с рассогласованностью цели и деятельности живых систем с целями и зако",
+      "url": "https://cosmatica.org/news/177-sozdan-sovet-fizicheskoi-kultury-i-sporta.html",
+      "image": "https://cosmatica.org/upload/000/u26/63/bf/ad96e381.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6d096f6436028d30a0",
+      "type": "news-item",
+      "sourceCharacters": 2026,
       "verified": false
     },
     {
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=54919b0dbf8eda7a27",
       "type": "news-item",
       "sourceCharacters": 2179,
-      "verified": false
-    },
-    {
-      "title": "Турнир по мини-футболу среди команд ракетно-космической отрасли",
-      "description": "Организатор соревнований: Автономная некоммерческая организация «Спортивный клуб Федерального космического агентства» («Спортклуб Роскосмоса»).",
-      "url": "https://cosmatica.org/news/170-debyut-komandy-rko-na-sportivnoi-arene.html",
-      "image": "https://cosmatica.org/upload/000/u8/3f/b9/29e5537a.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=b246e6bf33dfceab93",
-      "type": "news-item",
-      "sourceCharacters": 3274,
       "verified": false
     }
   ],

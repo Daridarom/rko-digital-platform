@@ -11,6 +11,17 @@
   "blocks": [],
   "cards": [
     {
+      "title": "С Юбилеем байконуровцев владимирщины!",
+      "description": "Ветеранов поздравляли заместитель Министра внутренней политики Владимирской области Ольга Осокина, первый заместитель главы администрации города Денис Егоров. Они вручали ветеранам, работникам культуры и образовательных организаций благодарственные письма за подготовку и проведение на высоком уровне работы по популяризации знаний и достижений отечественной космонавтики, значительный вклад в воспитание молодого поколе",
+      "url": "https://cosmatica.org/news/1674-s-yubileem-baikonurovcev-vladimirschiny.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/6/e0c56f6e.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3d76df90d113e44589",
+      "type": "news-item",
+      "sourceCharacters": 2610,
+      "verified": false
+    },
+    {
       "title": "Освоение космоса и проблемы эко-ориентированного развития человека, природы и многополярной цивилиза",
       "description": "Традиционно она проходила на площадке Российского экономического университете имени Г.В.Плеханова.",
       "url": "https://cosmatica.org/news/1673-osvoenie-kosmosa-i-problemy-eko-orientirovannogo-razvitija-cheloveka-prirody-i-mnogopoljarnoi-c.html",
@@ -30,17 +41,6 @@
       "href": "view.html?p=news-item&ref=033a4f1a09bed32252",
       "type": "news-item",
       "sourceCharacters": 1453,
-      "verified": false
-    },
-    {
-      "title": "День космонавтики в Лопатинской школе",
-      "description": "В День рождения школы, 12 апреля гагаринцы получили достойный подарок - парту героя Ю. А. Гагарина. В рамках проекта \"Новая школа\" от партии \"Единая Россия\". Мероприятие прошло в торжественной обстановке в школьном Гагаринском музее. Почётным гостем стал Станислав Николаевич Радченко, председатель совета депутатов Ленинского городского округа.",
-      "url": "https://cosmatica.org/news/1667-den-kosmonavtiki-v-lopatinskoi-shkole.html",
-      "image": "https://cosmatica.org/upload/000/u35/6/8/den-kosmonavtiki-v-lopatinskoi-shkole-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=33c20d0229a207f1df",
-      "type": "news-item",
-      "sourceCharacters": 1690,
       "verified": false
     },
     {
@@ -74,6 +74,17 @@
       "href": "view.html?p=news-item&ref=629149f70feb094241",
       "type": "news-item",
       "sourceCharacters": 588,
+      "verified": false
+    },
+    {
+      "title": "День космонавтики в Лопатинской школе",
+      "description": "В День рождения школы, 12 апреля гагаринцы получили достойный подарок - парту героя Ю. А. Гагарина. В рамках проекта \"Новая школа\" от партии \"Единая Россия\". Мероприятие прошло в торжественной обстановке в школьном Гагаринском музее. Почётным гостем стал Станислав Николаевич Радченко, председатель совета депутатов Ленинского городского округа.",
+      "url": "https://cosmatica.org/news/1667-den-kosmonavtiki-v-lopatinskoi-shkole.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/8/den-kosmonavtiki-v-lopatinskoi-shkole-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=33c20d0229a207f1df",
+      "type": "news-item",
+      "sourceCharacters": 1690,
       "verified": false
     },
     {
@@ -118,17 +129,6 @@
       "href": "view.html?p=news-item&ref=f66b0f07bb2f2aebcf",
       "type": "news-item",
       "sourceCharacters": 2754,
-      "verified": false
-    },
-    {
-      "title": "Владимирцы ближе к космосу",
-      "description": "Ветераны поделились своими личными воспоминаниями и впечатлениями о военной службе на космодроме.",
-      "url": "https://cosmatica.org/news/1797-vladimircy-blizhe-k-kosmosu.html",
-      "image": "https://cosmatica.org/upload/000/u35/b/3/vladimircy-blizhe-k-kosmosu-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=dd2bfa620ef5de5d94",
-      "type": "news-item",
-      "sourceCharacters": 4706,
       "verified": false
     },
     {

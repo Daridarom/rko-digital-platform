@@ -11,6 +11,50 @@
   "blocks": [],
   "cards": [
     {
+      "title": "Юбилей руководителя Совета \"Первых\"!",
+      "description": "Сегодня своё 85-летие отмечает Галушкин Юрий Александрович , руководитель Совета «Первых» Русского Космического Общества, профессор, почётный академик Российской академии естественных наук (РАЕН).",
+      "url": "https://cosmatica.org/news/247-yubilei-rukovoditelja-soveta-pervyh.html",
+      "image": "https://cosmatica.org/upload/000/u26/63/36/664ecd3c.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=32b1d6cf76ba3acf13",
+      "type": "news-item",
+      "sourceCharacters": 1779,
+      "verified": false
+    },
+    {
+      "title": "Звёзды в Сундуках",
+      "description": "Музей-заповедник Сундуки, являясь древней обсерваторией, сочетая труды В.Е.Ларичева, лежащие в основании музея и живое знание , пропагандирует астрономические аспекты древних святилищ, развивая несомненный интерес к звёздому небу через приобщение всех желающих на занятиях в клубе «Эврика» к тайнам звёзд и планет.",
+      "url": "https://cosmatica.org/news/246-zvezdy-v-sundukah.html",
+      "image": "https://cosmatica.org/upload/000/u43/a7/f3/3478de45.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d09ba9c262c1705ab5",
+      "type": "news-item",
+      "sourceCharacters": 1944,
+      "verified": false
+    },
+    {
+      "title": "Слово о Большакове Борисе Евгеньевиче",
+      "description": "17 ноября 2018 года ушел из жизни Борис Евгеньевич Большаков, ученый всероссийского и международного масштаба, физик, математик, экономист, геофизик, глава Международной научной школы устойчивого развития им. П.Г.Кузнецова, доктор технических наук, профессор, заведующий кафедрой устойчивого инновационного развития Института системного анализа и управления Государственного университета «Дубна», человек, внесший огромн",
+      "url": "https://cosmatica.org/news/245-slovo-o-bolshakove-borise-evgeneviche.html",
+      "image": "https://cosmatica.org/upload/000/u14/7a/ff/slovo-o-bolshakove-borise-evgeneviche-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f5fa0f064d178eb9b3",
+      "type": "news-item",
+      "sourceCharacters": 8147,
+      "verified": false
+    },
+    {
+      "title": "На бессмертие учителя",
+      "description": "Ушёл в вечность не только Президент Русского Космического Общества, доктор технических наук, профессор, действительный член Российской академии естественных наук (РАЕН), руководитель Международной научной школы устойчивого развития имени П.Г.Кузнецова, заведующий кафедрой устойчивого инновационного развития Государственного университета «Дубна». Не только блестящий учёный, творец, учитель, друг, соратник, единомышлен",
+      "url": "https://cosmatica.org/news/244-na-bessmertie-uchitelja.html",
+      "image": "https://cosmatica.org/upload/000/u26/33/5e/na-bessmertie-uchitelja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cc0ad7057a83bcffdc",
+      "type": "news-item",
+      "sourceCharacters": 4124,
+      "verified": false
+    },
+    {
       "title": "Общественные Гудилинские слушания",
       "description": "В ноябре 2018 года, в Челябинской области, состоятся первые «Гудилинские общественные слушания», приуроченные к 30-ти летнему юбилею запуска МТКС «Энергия-Буран» и 80-ти летию генерала-майора В.Е. Гудилина.",
       "url": "https://cosmatica.org/news/243-obschestvennye-gudilinskie-slushanija.html",
@@ -55,17 +99,6 @@
       "verified": false
     },
     {
-      "title": "«Концептуальное проектирование систем организационного управления» теперь в РКО!",
-      "description": "Исключительность методологического аппарата «Концептуальное проектирование систем организационного управления» (КП СОУ) состоит в беспрецедентных возможностях создания моделей для конструирования решений конкретно тех разносторонних проблем, с которыми сталкиваются люди в действительности, проблем, которые неразрывно связаны друг с другом, но каждая из которых уникальна и постоянно меняется, трансформируется, как и м",
-      "url": "https://cosmatica.org/news/250-konceptualnoe-proektirovanie-sistem-organizacionnogo-upravlenija-teper-v-rko.html",
-      "image": "https://cosmatica.org/upload/000/u26/21/48/konceptualnoe-proektirovanie-sistem-organizacionnogo-upravleni.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=ee6a00f3f152af4063",
-      "type": "news-item",
-      "sourceCharacters": 4593,
-      "verified": false
-    },
-    {
       "title": "РКО на Псковской земле",
       "description": "Мероприятие прошло 10 ноября 2018 года в ГБОУ \"Центр специального образования N 2\" г. Пыталово Псковской области.",
       "url": "https://cosmatica.org/news/239-rko-na-pskovskoi-zemle.html",
@@ -74,17 +107,6 @@
       "href": "view.html?p=news-item&ref=9fb3f3e498234556a2",
       "type": "news-item",
       "sourceCharacters": 4520,
-      "verified": false
-    },
-    {
-      "title": "Андрей Евгеньевич Петров стал победителем конкурса Золотые Имена Высшей Школы - 2018",
-      "description": "Ключевым действующим элементом системы образования является преподаватель – носитель знаний, традиций российской высшей школы, ретранслятор ценностей, человек, способный заложить основу качества профессионального образования.",
-      "url": "https://cosmatica.org/news/265-andrei-evgenevich-petrov-stal-pobeditelem-konkursa-zolotye-imena-vysshei-shkoly-2018.html",
-      "image": "https://cosmatica.org/upload/000/u20/a8/15/andrei-evgen-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=661d122cb921fe683a",
-      "type": "news-item",
-      "sourceCharacters": 6283,
       "verified": false
     },
     {
@@ -143,17 +165,6 @@
       "verified": false
     },
     {
-      "title": "Изобретатели вступили в строй Русского Космического Общества!",
-      "description": "30 октября в РКО состоялось заседание общества \" Ассоциация изобретатели изобретательству\" . Его открыл Председатель Президиума Русского Космического Обществ Гапонов Алексей Алексеевич . Своё выступление он начал со следующих слов:",
-      "url": "https://cosmatica.org/news/260-izobretateli-vstupili-v-stroi-russkogo-kosmicheskogo-obschestva.html",
-      "image": "https://cosmatica.org/upload/000/u26/5a/6b/izobretateli-vstupili-v-stroi-russkogo-kosmicheskogo-obschestva-ph.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=8b8dd83ba0d0676c35",
-      "type": "news-item",
-      "sourceCharacters": 7003,
-      "verified": false
-    },
-    {
       "title": "Какой социально-политический строй мы хотим и можем создать? Космический!",
       "description": "Мир стоит перед необходимостью создания новых социальных проектов и внесения принципиальных изменений в политэкономические отношения. Александр Зиновьев предсказал сегодняшний кризис и его последствия. Поиску вариантов преодоления этого кризиса посвящены доклады и дискуссии на Зиновьевских Чтениях в 2018 году.",
       "url": "https://cosmatica.org/news/233-kakoi-socialno-politicheskii-stroi-my-hotim-i-mozhem-sozdat-kosmicheskii.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=959f66a82262282a01",
       "type": "news-item",
       "sourceCharacters": 2385,
-      "verified": false
-    },
-    {
-      "title": "Участие добровольцев в космических исследованиях",
-      "description": "Участники дискуссии обсудят механизмы вовлечения представителей российской молодежи в реализацию интеллектуальных программ, связанных с космическими исследованиями.",
-      "url": "https://cosmatica.org/news/232-uchastie-dobrovolcev-v-kosmicheskih-issledovanijah.html",
-      "image": "https://cosmatica.org/upload/000/u8/e0/4e/uchastie-dobrovolcev-v-kosmicheskih-issledovanijah-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=798b6c5ae7ce06fc7a",
-      "type": "news-item",
-      "sourceCharacters": 1728,
       "verified": false
     }
   ],

@@ -121,6 +121,17 @@
       "verified": false
     },
     {
+      "title": "Будущее трудно предсказать, но его можно создать",
+      "description": "Московский футурологический конгресс — это съезд авторов и представителей социально значимых проектов России.",
+      "url": "https://cosmatica.org/news/443-buduschee-trudno-predskazat-no-ego-mozhno-sozdat.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/b/buduschee-trudno-predskazat-no-ego-mozhno-sozdat-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4aa0fdcda198bf7cde",
+      "type": "news-item",
+      "sourceCharacters": 4363,
+      "verified": false
+    },
+    {
       "title": "О профессии космонавта со знанием дела",
       "description": "Космонавт — одна из немногих профессий, где надо знать всё. Действительно, находясь за пределами нашей колыбели жизни, человека ожидает множество трудных задач, поэтому надо быть готовым ко всему.",
       "url": "https://cosmatica.org/news/442-o-professii-kosmonavta-so-znaniem-dela.html",
@@ -129,6 +140,17 @@
       "href": "view.html?p=news-item&ref=4779ba7ddf92a48b97",
       "type": "news-item",
       "sourceCharacters": 3483,
+      "verified": false
+    },
+    {
+      "title": "\"Птицы Сибири\" залетели в Звёздный городок",
+      "description": "Наверное, не случайно получилось так, что первыми зрителями фотовыставки стали герои-космонавты В.Г. Титов, Ю.И. Маленченко и О.В. Новицкий , которые в этот день встречали в Доме космонавтов французскую делегацию во главе с первым французским космонавтом Жан Лу Кретьеном .",
+      "url": "https://cosmatica.org/news/441-pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok.html",
+      "image": "https://cosmatica.org/upload/000/u26/4/c/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1a006743abd8d2e561",
+      "type": "news-item",
+      "sourceCharacters": 1571,
       "verified": false
     },
     {
@@ -143,17 +165,6 @@
       "verified": false
     },
     {
-      "title": "Будущее трудно предсказать, но его можно создать",
-      "description": "Московский футурологический конгресс — это съезд авторов и представителей социально значимых проектов России.",
-      "url": "https://cosmatica.org/news/443-buduschee-trudno-predskazat-no-ego-mozhno-sozdat.html",
-      "image": "https://cosmatica.org/upload/000/u26/5/b/buduschee-trudno-predskazat-no-ego-mozhno-sozdat-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=4aa0fdcda198bf7cde",
-      "type": "news-item",
-      "sourceCharacters": 4363,
-      "verified": false
-    },
-    {
       "title": "РКО в «Зелёной» олимпиаде",
       "description": "В олимпиаде принимали участие учащиеся 7-11 классов. Участникам предлагались различные практические задания на тему экологии , орнитологии, энтомологии, гидробиологии, ботаники и туризма. За каждое задание командам начислялись определённые баллы.",
       "url": "https://cosmatica.org/news/439-rko-v-zelyonoi-olimpiade.html",
@@ -162,17 +173,6 @@
       "href": "view.html?p=news-item&ref=d73bffbd61d8321e98",
       "type": "news-item",
       "sourceCharacters": 1078,
-      "verified": false
-    },
-    {
-      "title": "Без неба мне не жить",
-      "description": "Член Русского Космического Общества, Президент Международной ассоциации Всеобщее Вселенское Содружество (Италия), художник, поэтесса, режиссер Светлана Леонидовна Нестерова сотворила вдохновенное произведение о жизни и личности Первого космонавта Земли.",
-      "url": "https://cosmatica.org/news/438-bez-neba-mne-ne-zhit.html",
-      "image": "https://cosmatica.org/upload/000/u21/5/1/4a575169.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=095cae4837d8c22fb8",
-      "type": "news-item",
-      "sourceCharacters": 453,
       "verified": false
     }
   ],
