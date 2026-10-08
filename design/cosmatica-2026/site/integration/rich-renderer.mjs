@@ -10,6 +10,7 @@ const node=(name,className='',value=null)=>{
  return el;
 };
 const safeSource=s=>{
+ if(typeof s!=='string'||!s.trim())return null;
  try{
   const u=new URL(s,location.href);
   return (u.origin===location.origin || u.protocol==='https:') ? u.href : null;
