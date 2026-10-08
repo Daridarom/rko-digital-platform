@@ -24,7 +24,7 @@ async function test(slug,device,width,height,href,full,expectedTitle=null){
     original:!!main?.querySelector('.source-page'),
     headingSize:parseFloat(getComputedStyle(main?.querySelector('.source-headline h1')||main?.querySelector('h1')).fontSize),
     programmeTitle:!!main?.querySelector('.source-title-suffix'),
-    external:[...document.querySelectorAll('a[href]')].filter(a=>new URL(a.href).origin!==location.origin).length,
+    external:[...document.querySelectorAll('a[href]')].filter(a=>new URL(a.href).origin!==location.origin).filter(a=>!(a.dataset.originalDownload==='cosmatica'&&/^https:\/\/cosmatica\.org\/files\/download\/\d+\/[a-f0-9]+$/i.test(a.href))).length,
     broken:[...document.querySelectorAll('img')].filter(i=>i.complete&&!i.naturalWidth&&i.src.includes('/assets/source/')).length
    };
   });
