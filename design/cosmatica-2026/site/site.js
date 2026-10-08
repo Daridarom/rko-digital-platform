@@ -63,7 +63,7 @@ function footer() {
     <footer class="footer">
       <div class="shell footer-grid">
         <div><b>Русское космическое общество</b><p>Человек. Земля. Космос.</p></div>
-        <div><b>Общество</b><p><a href="${href('about')}">Об РКО</a></p><p><a href="${href('direction')}">Органы управления</a></p></div>
+        <div><b>Общество</b><p><a href="${href('about')}">Об обществе</a></p><p><a href="${href('direction')}">Органы управления</a></p></div>
         <div><b>Деятельность</b><p><a href="${href('projects')}">Проекты</a></p><p><a href="${href('poster')}">Мероприятия</a></p></div>
         <div><b>Знания</b><p><a href="${href('articles')}">Материалы</a></p><p><a href="${href('library')}">Библиотека</a></p></div>
       </div>

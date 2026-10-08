@@ -9,7 +9,7 @@ const body=document.querySelector('#main');
 const el=(tag,cls='',value=null)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(value!=null)n.textContent=String(value);return n;};
 const localImage=value=>{
  if(typeof value!=='string')return null;
- if(/^assets\/source\/[a-z0-9._-]+\.(?:webp|png|jpe?g|gif|svg)$/i.test(value))return value;
+ if(/^assets\/source\/(?:book-covers\/)?[a-z0-9._-]+\.(?:webp|png|jpe?g|gif|svg)$/i.test(value))return value;
  // Preserve the exact public image source, including externally hosted images
  // on the original RKO pages. Reject private networks, credentials and scripts.
  try{
