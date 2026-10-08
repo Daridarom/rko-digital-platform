@@ -48,7 +48,7 @@ export function normalizeBlocks(raw) {
     const value=text(item.text);
     if(!value) return [];
     const safeSpans=arr(item.spans).flatMap(span=>{
-      if(!span || typeof span!=='object' || !text(span.text))return [];
+      if(!span || typeof span!=='object' || typeof span.text!=='string' || !span.text.length)return [];
       const marks=arr(span.marks).filter(m=>['bold','italic','code','underline','sup','sub'].includes(m));
       const href=span.href ? safeAsset(span.href) : null;
       return [{text:String(span.text),marks,href}];
