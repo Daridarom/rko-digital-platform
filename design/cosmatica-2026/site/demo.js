@@ -18,6 +18,7 @@ function classify(url,link){
  var path=parsed.pathname;
  var match;
  if(/^\/news\/.+/.test(path))return urlFor('news-item',{item:path});
+ if(path==='/poster/calendar')return urlFor('calendar');
  if(/^\/poster\/.+/.test(path))return urlFor('poster-item',{item:path});
  if(/^\/collegium\/.+/.test(path))return urlFor('collegium-item',{item:path});
  if(/^\/partners\/.+/.test(path))return urlFor('partner',{item:path});
@@ -25,10 +26,13 @@ function classify(url,link){
  if(/^\/library\/.+/.test(path))return urlFor('book',{item:path});
  if(/^\/articles\/.+/.test(path))return path.endsWith('.html')?urlFor('article',{item:path}):urlFor('articles-list');
  if(/^\/users\/.+/.test(path))return urlFor('profile',{item:path});
+ if(path==='/projects/donate_rko')return urlFor('donate');
+ if(path==='/about/contacts')return urlFor('contacts');
+ if(path==='/about/informacija')return urlFor('about-info');
  if(/^\/projects\/.+/.test(path)){
    var variants=CONTENT.project&&CONTENT.project.variants||{};
    match=Object.values(variants).find(function(v){try{return new URL(v.sourceUrl).pathname===path}catch(e){return false}});
-   return urlFor('project',{id:match?match.id:'gagarincy'});
+   return match ? urlFor('project',{id:match.id}) : null;
  }
  if(/^\/auth\/login/.test(path))return urlFor('login');
  if(/^\/auth\/restore/.test(path))return urlFor('restore');
@@ -37,7 +41,7 @@ function classify(url,link){
  if(/^\/files\/download/.test(path))return null;
  var prefix=path.split('/')[1];
  if(routes.some(function(r){return r.slug===prefix}))return urlFor(prefix);
- return urlFor('about');
+ return null; // Never disguise an unknown legacy destination as the About page.
 }
 function removeLink(a){
  var node=document.createElement(a.classList.contains('card')?'article':'span');
@@ -228,7 +232,14 @@ function applyDetail(){
   }
   return;
  }
- if(!entry)return;
+ if(!entry){
+  // Unknown content must not show a different article just because it shares a template.
+  var stale=document.querySelector('.article-layout article');
+  if(stale)stale.innerHTML='<h2>Материал</h2><p>Содержимое этой публикации подключается из базы сайта.</p>';
+  var description=document.querySelector('.page-hero .lede');
+  if(description)description.textContent='Карточка будет заполнена из исходной базы материалов.';
+  return;
+ }
  var head=document.querySelector('.page-hero h1'),lede=document.querySelector('.page-hero .lede');
  if(head)head.textContent=entry.title||entry.name||head.textContent;
  if(lede)lede.textContent=entry.text||entry.description||lede.textContent;
