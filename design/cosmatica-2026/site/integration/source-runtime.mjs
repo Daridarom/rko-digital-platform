@@ -201,7 +201,9 @@ async function run(){
    const id=qs.get('id')||'gagarincy';
    if(id!=='gagarincy'){
     const variant=window.COSMATICA_CONTENT?.project?.variants?.[id];
-    if(!variant?.sourceUrl){notFound();return;}
+    // Two explicitly approved demo-only projects have no legacy CMS URL.
+    // Keep their complete local project template; unknown IDs still show not-found.
+    if(!variant?.sourceUrl){if(variant&&['books_reprint','sport'].includes(id))return;notFound();return;}
     const hit=index[variant.sourceUrl];
     if(!hit||hit.status!=='ready'){notFound();return;}
     file=hit.alias?hit.file:'linked/'+hit.file;

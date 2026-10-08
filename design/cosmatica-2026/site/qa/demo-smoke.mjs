@@ -2,7 +2,9 @@ import {chromium} from 'playwright';
 import assert from 'node:assert/strict';
 const base=process.env.SITE_URL || 'http://127.0.0.1:8768/design/cosmatica-2026/site/';
 const routes=['home','news','news-item','poster','poster-item','calendar','about','about-info','direction','collegium','collegium-item','partners','partner','contacts','departments','department','projects','project','users','profile','articles','articles-list','article','library','book','tabs','donate','login','restore','register','search','search-results'];
-const browser=await chromium.launch({headless:true,args:['--no-sandbox']});
+const browser=await chromium.launch({headless:true,
+ ...(process.env.CHROME_BIN?{executablePath:process.env.CHROME_BIN}:{}),
+ args:['--no-sandbox']});
 const errors=[];
 let checks=0;
 async function inspect(page,slug,device){
