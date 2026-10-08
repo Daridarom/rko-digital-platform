@@ -12,7 +12,7 @@ async function test(slug,device,width,height,href,full){
  const js=[];page.on('pageerror',error=>js.push(error.message));
  try{
   await page.goto(base+href,{waitUntil:'domcontentloaded',timeout:25000});
-  if(full)await page.locator('.source-page').waitFor({timeout:18000});
+  if(full)await page.locator('.source-page').waitFor({state:'attached',timeout:18000});
   const result=await page.evaluate(()=>{
    const main=document.querySelector('#main');
    return {
