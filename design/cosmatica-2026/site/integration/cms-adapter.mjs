@@ -7,7 +7,7 @@
  */
 
 export const BLOCK_TYPES = Object.freeze([
-  'paragraph', 'heading', 'quote', 'list', 'image', 'file', 'separator'
+  'paragraph', 'heading', 'quote', 'list', 'table', 'image', 'file', 'separator'
 ]);
 
 const text = value => typeof value === 'string' ? value.trim() : '';
@@ -39,11 +39,26 @@ export function normalizeBlocks(raw) {
     }
     if(type==='list') {
       const items=arr(item.items).map(text).filter(Boolean);
-      return items.length ? [{type,items}] : [];
+      return items.length ? [{type,items,ordered:Boolean(item.ordered)}] : [];
+    }
+    if(type==='table') {
+      const rows=arr(item.rows).filter(Array.isArray).map(row=>row.map(text));
+      return rows.length ? [{type,rows}] : [];
     }
     const value=text(item.text);
     if(!value) return [];
-    return [{type,text:value,level:type==='heading'?Math.max(2,Math.min(4,Number(item.level)||2)):undefined}];
+    const safeSpans=arr(item.spans).flatMap(span=>{
+      if(!span || typeof span!=='object' || !text(span.text))return [];
+      const marks=arr(span.marks).filter(m=>['bold','italic','code','underline','sup','sub'].includes(m));
+      const href=span.href ? safeAsset(span.href) : null;
+      return [{text:String(span.text),marks,href}];
+    });
+    const safeLinks=arr(item.links).flatMap(link=>{
+      const href=safeAsset(link?.url);
+      return href ? [{text:text(link.text),url:href}] : [];
+    });
+    return [{type,text:value,level:type==='heading'?Math.max(2,Math.min(4,Number(item.level)||2)):undefined,
+      ...(safeSpans.length?{spans:safeSpans}:{}),...(safeLinks.length?{links:safeLinks}:{})}];
   });
 }
 
