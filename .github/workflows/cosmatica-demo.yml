@@ -28,6 +28,7 @@ jobs:
           set -e
           cd design/cosmatica-2026/site
           node qa/check.mjs
+          node --test integration/cms-adapter.test.mjs
           cd ../../..
           python3 -m http.server 8768 --bind 127.0.0.1 >/tmp/cosmatica-demo-server.log 2>&1 &
           server_pid=$!
