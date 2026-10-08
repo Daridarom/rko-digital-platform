@@ -4,10 +4,12 @@ import {readFileSync,mkdirSync} from 'node:fs';
 const base=process.env.SITE_URL||'http://127.0.0.1:8768/design/cosmatica-2026/site/';
 const source=JSON.parse(readFileSync('integration/page-map.json','utf8')).entries;
 const links=JSON.parse(readFileSync('data/linked-index.json','utf8'));
-const browser=await chromium.launch({headless:true,args:['--no-sandbox']});
+const browser=await chromium.launch({headless:true,
+ ...(process.env.CHROME_BIN?{executablePath:process.env.CHROME_BIN}:{}),
+ args:['--no-sandbox','--disable-dev-shm-usage']});
 const problems=[];
 let checked=0;
-async function test(slug,device,width,height,href,full){
+async function test(slug,device,width,height,href,full,expectedTitle=null){
  const page=await browser.newPage({viewport:{width,height}});
  const js=[];page.on('pageerror',error=>js.push(error.message));
  try{
@@ -20,6 +22,8 @@ async function test(slug,device,width,height,href,full){
     chars:main?.innerText.length||0,
     overflow:document.documentElement.scrollWidth-document.documentElement.clientWidth,
     original:!!main?.querySelector('.source-page'),
+    headingSize:parseFloat(getComputedStyle(main?.querySelector('.source-headline h1')||main?.querySelector('h1')).fontSize),
+    programmeTitle:!!main?.querySelector('.source-title-suffix'),
     external:[...document.querySelectorAll('a[href]')].filter(a=>new URL(a.href).origin!==location.origin).length,
     broken:[...document.querySelectorAll('img')].filter(i=>i.complete&&!i.naturalWidth&&i.src.includes('/assets/source/')).length
    };
@@ -30,6 +34,15 @@ async function test(slug,device,width,height,href,full){
   assert.equal(result.broken,0,'Missing local media');
   assert.equal(js.length,0,'JavaScript errors '+js.join('; '));
   if(full)assert(result.original,'Missing full editorial view');
+  if(expectedTitle){
+   const norm=v=>String(v).replace(/\u200b/g,'').replace(/\s+/g,' ').trim();
+   assert.equal(norm(result.title),norm(expectedTitle),'Wrong linked content loaded');
+  }
+  if(['article','project','poster-item'].includes(slug)&&!href.includes('ref=')){
+   if(device==='mobile')assert(result.headingSize<=35,'Oversized mobile title '+result.headingSize);
+   else assert(result.headingSize<=49,'Oversized desktop title '+result.headingSize);
+   if(slug==='poster-item')assert(result.programmeTitle,'Event programme part is not distinguished');
+  }
   const minimum={article:44000,project:20000,'poster-item':11000};
   if(minimum[slug]&&href.indexOf('ref=')===-1&&href.indexOf('id=')===-1)
    assert(result.chars>minimum[slug],'Full text was truncated: '+result.chars);
@@ -51,9 +64,22 @@ for(const [device,width,height] of [['desktop',1440,960],['mobile',390,844]]){
  }
 }
 const ready=Object.values(links).filter(x=>x.status==='ready'&&!x.alias&&/^[a-f0-9]{18}\.json$/.test(x.file));
-for(const x of ready.slice(0,10)){
- await test('linked-'+x.type,'mobile',390,844,'view.html?p='+x.type+'&ref='+x.file.slice(0,-5),true);
+assert(ready.length>=140,'Linked archive unexpectedly small: '+ready.length);
+// Sample every category rather than merely the first entries (which are books).
+const counts=new Map(),samples=[];
+for(const info of ready){
+ const n=counts.get(info.type)||0;
+ if(n>=2)continue;
+ counts.set(info.type,n+1);
+ samples.push(info);
 }
+assert(counts.size>=5,'Too few linked content types were exercised: '+counts.size);
+for(const x of samples){
+ const record=JSON.parse(readFileSync('data/linked/'+x.file,'utf8'));
+ await test('linked-'+x.type,'mobile',390,844,
+  'view.html?p='+x.type+'&ref='+x.file.slice(0,-5),true,record.title);
+}
+console.log('LINKED_COVERAGE',JSON.stringify(Object.fromEntries(counts)));
 const p=await browser.newPage({viewport:{width:390,height:844}});
 await p.goto(base+'view.html?p=departments');
 await p.locator('.source-card').first().waitFor();

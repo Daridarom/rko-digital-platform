@@ -75,3 +75,13 @@ a.source-card:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
  .source-home-archive>summary{font-size:14px;padding:20px 16px}
 }
 @media(prefers-reduced-motion:reduce){.source-card{transition:none}}
+
+/* Long editorial titles: reduce visual bulk without shortening the source. */
+.source-headline.source-long-title h1{font-size:clamp(31px,3.4vw,47px);line-height:1.1;letter-spacing:-.034em}
+.source-headline.source-extra-long-title h1{font-size:clamp(29px,3vw,41px);letter-spacing:-.026em;line-height:1.12}
+.source-title-suffix{display:block;font-size:.65em;line-height:1.3;font-weight:650;letter-spacing:-.015em;color:var(--muted);margin-top:14px}
+@media(max-width:640px){
+ .source-headline.source-long-title h1{font-size:clamp(26px,7.3vw,33px);line-height:1.12}
+ .source-headline.source-extra-long-title h1{font-size:clamp(25px,7.0vw,31px);line-height:1.14}
+ .source-title-suffix{font-size:.73em;margin-top:10px;line-height:1.3}
+}
