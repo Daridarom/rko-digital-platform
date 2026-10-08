@@ -224,6 +224,17 @@ def snapshot(url,kind):
  title=(clean_text(soup.select_one('#controller_wrap h1')) or
         clean_text(root.select_one('h1')) or clean_text(soup.select_one('title')) or kind)
  body=direction_blocks(root,response.url) if kind=='direction' else blocks(root,response.url)
+ # The homepage stores its editorial sections in separate widgets, not
+ # paragraphs inside the normal controller. Preserve their visible text.
+ home_widgets=[]
+ if kind=='home':
+  home_widgets=[w for w in soup.select('#body .widget') if len(clean_text(w))>=100]
+  for widget in home_widgets:
+   text=clean_text(widget)
+   heading=widget.select_one('.widget_header,.widget_title,h2,h3')
+   label=clean_text(heading) if heading else text[:55]
+   body.append({'type':'heading','level':2,'text':label})
+   body.append({'type':'paragraph','text':text,'spans':[{'text':text}]})
  gallery=[]
  for element in root.select('img[src],.photo,[style*="background-image"]'):
   ref=image_of(element,response.url)
@@ -237,7 +248,7 @@ def snapshot(url,kind):
    'editorialVerified':False}
  stored=sum(len(b.get('text',''))+sum(map(len,b.get('items',[]))) for b in body)
  content['sourceEvidence']={
-   'http':response.status_code,'sourceTextCharacters':len(clean_text(root)),
+   'http':response.status_code,'sourceTextCharacters':(sum(len(clean_text(w)) for w in home_widgets) if kind=='home' else len(clean_text(root))),
    'storedTextCharacters':stored,'sourceCardCount':len(content['cards']),
    'sourceImageCount':len(gallery),'paragraphCount':len(root.select('p')),
    'sourceBytes':len(response.content)}
