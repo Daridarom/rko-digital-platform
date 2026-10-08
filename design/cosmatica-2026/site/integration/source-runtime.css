@@ -52,6 +52,13 @@ a.source-card:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 .source-search-pages{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:24px 0}
 .source-search-pages a{min-width:42px;min-height:42px;display:grid;place-items:center;border:1px solid var(--line);border-radius:11px;color:var(--text)}
 .source-search-pages a.active{background:var(--red);color:#fff;border-color:var(--red)}
+.source-archive-categories{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 20px}
+.source-archive-category{display:inline-flex;align-items:center;min-height:42px;border-radius:999px;border:1px solid var(--line);padding:8px 14px;color:var(--text);background:var(--surface);text-decoration:none;font-size:13px;line-height:1.4}
+.source-archive-category.active{background:var(--red);color:#fff;border-color:var(--red)}
+.source-archive-category:focus-visible,.source-archive-pages a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.source-archive-summary{font-size:15px;color:var(--muted);margin:0 0 18px}
+.source-archive-pages a{padding:0 10px;white-space:nowrap}
+.source-archive-empty{padding:20px;border:1px solid var(--line);border-radius:12px}
 @media(max-width:1050px){
  .source-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
  .source-gallery{grid-template-columns:repeat(3,minmax(0,1fr))}

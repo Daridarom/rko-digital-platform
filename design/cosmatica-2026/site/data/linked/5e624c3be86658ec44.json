@@ -431,5 +431,11 @@
     "sourceImageCount": 0,
     "paragraphCount": 21,
     "sourceBytes": 84318
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 4506,
+  "capturedBodyCharacters": 4373,
+  "sourceTextSHA256": "913f90db08f860ec2dde8d49815f34cde059e71608e98cc5d81863913f90666e",
+  "archiveSnapshotAt": "2026-10-08T08:39:12Z"
 }

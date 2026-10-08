@@ -7,8 +7,18 @@ const ref=qs.get('ref')||'';
 const blocked=new Set(['login','register','restore','search','search-results','donate']);
 const body=document.querySelector('#main');
 const el=(tag,cls='',value=null)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(value!=null)n.textContent=String(value);return n;};
-const localImage=value=>typeof value==='string'&&value.startsWith('assets/source/')?value:null;
+const localImage=value=>{
+ if(typeof value!=='string')return null;
+ if(value.startsWith('assets/source/'))return value;
+ // Original public images may remain on the RKO server. Never proxy files or private URLs.
+ try{const uri=new URL(value);return uri.protocol==='https:'&&uri.hostname==='cosmatica.org'&&/^\/(upload|images)\//.test(uri.pathname)?uri.href:null;}catch{return null;}
+};
+const originalDownload=value=>{
+ if(typeof value!=='string')return null;
+ try{const uri=new URL(value);return uri.protocol==='https:'&&uri.hostname==='cosmatica.org'&&/^\/files\/download\/\d+\/[a-z0-9]+$/i.test(uri.pathname)?uri.href:null;}catch{return null;}
+};
 function listingHref(item,index){
+ if(item?.href&&/^view\.html\?p=[a-z0-9-]+(?:&(?:ref=[a-f0-9]{18}|id=[a-z0-9_-]+))?$/.test(item.href))return item.href;
  const info=index[item?.url];if(!info||info.status!=='ready')return null;
  if(info.alias){
   const slug=info.file?.split('/').pop()?.replace('.json','');
@@ -158,12 +168,68 @@ function documents(data){
  if(!data.documents?.length)return null;
  const section=el('section','source-documents');section.append(el('h2','','Документы'));
  for(const doc of data.documents){
-  const file=localImage(doc.localUrl);
+  const file=data.slug==='book'?(originalDownload(doc.url)):(localImage(doc.localUrl)||originalDownload(doc.url));
   const a=el(file?'a':'div','source-document'+(file?'':' source-document-static'),doc.label||'Документ');
-  if(file)a.href=file;
+  if(file){a.href=file;if(file.startsWith('https://')){a.rel='noopener noreferrer';a.setAttribute('data-original-download','cosmatica');}}
   section.append(a);
  }
  return section;
+}
+async function renderArchive(){
+ const sectionName=(qs.get('section')||'all').trim();
+ const sectionsResponse=await fetch('data/archive/sections.json?v=archive1');
+ if(!sectionsResponse.ok){notFound();return;}
+ const sections=await sectionsResponse.json();
+ const selected=sections.find(x=>x.key===sectionName);
+ if(!selected){notFound();return;}
+ const requested=Number(qs.get('page')||1);
+ if(!Number.isSafeInteger(requested)||requested<1||requested>selected.pages){notFound();return;}
+ const pageResponse=await fetch('data/archive/catalog/'+sectionName+'/'+requested+'.json?v=archive1');
+ if(!pageResponse.ok){notFound();return;}
+ const data=await pageResponse.json();
+ if(data.slug!=='archive'||data.archiveSection!==sectionName||!Array.isArray(data.cards)){notFound();return;}
+ const link=(key,n=1)=>'view.html?p=archive&section='+encodeURIComponent(key)+'&page='+n;
+ const wrapper=el('section','section source-page source-page--archive');
+ const container=el('div','shell');
+ container.append(heading(data));
+ const categories=el('nav','source-archive-categories');
+ categories.setAttribute('aria-label','Разделы публичного архива');
+ for(const cat of sections){
+  if(!cat.count)continue;
+  const a=el('a','source-archive-category'+(sectionName===cat.key?' active':''),
+   cat.title+' ('+cat.count.toLocaleString('ru')+')');
+  a.href=link(cat.key);
+  if(sectionName===cat.key)a.setAttribute('aria-current','page');
+  categories.append(a);
+ }
+ container.append(categories);
+ const summary=el('p','source-archive-summary','Материалов в текущей версии архива: '+data.total.toLocaleString('ru')+
+   ' · Страница '+requested+' из '+data.pageCount);
+ container.append(summary);
+ const grid=listView(data,{});
+ if(grid)container.append(grid);
+ else container.append(el('p','source-archive-empty',
+   'В этой версии каталога пока нет сохранённых публичных материалов.'));
+ if(data.pageCount>1){
+  const pages=el('nav','source-search-pages source-archive-pages');
+  pages.setAttribute('aria-label','Страницы архива');
+  const add=(label,num,current=false)=>{
+   const a=el('a',current?'active':'',label);a.href=link(sectionName,num);
+   if(current)a.setAttribute('aria-current','page');
+   pages.append(a);
+  };
+  if(requested>1){add('« Первая',1);add('‹',requested-1);}
+  for(let n=Math.max(1,requested-2);n<=Math.min(data.pageCount,requested+2);n++)add(String(n),n,n===requested);
+  if(requested<data.pageCount){add('›',requested+1);add('Последняя »',data.pageCount);}
+  container.append(pages);
+ }
+ wrapper.append(container);
+ const breadcrumb=el('nav','crumbs');
+ breadcrumb.setAttribute('aria-label','Путь по сайту');
+ const home=el('a','','Главная');home.href='index.html';
+ breadcrumb.append(home,document.createTextNode(' → '),el('span','',data.title));
+ body.replaceChildren(breadcrumb,wrapper);
+ document.title=data.title+' — Архив РКО';
 }
 function notFound(){
  const section=el('section','section source-page source-not-found');
@@ -176,6 +242,7 @@ function notFound(){
 }
 async function run(){
  if(!body||blocked.has(slug)||qs.get('layout')==='full')return;
+ if(slug==='archive'){await renderArchive();return;}
  if(ref&&!/^[a-f0-9]{18}$/.test(ref)){notFound();return;}
  let file=ref?'linked/'+ref+'.json':'source/'+slug+'.json';
  const indexResult=await fetch('data/linked-index.json');
@@ -219,6 +286,14 @@ async function run(){
  inner.append(heading(data));
  const info=facts(data);if(info)inner.append(info);
  const cards=listView(data,index);if(cards)inner.append(cards);
+ if(!ref&&!qs.has('item')){
+  const archiveSections={news:'news',poster:'poster',projects:'projects',library:'library',users:'users',
+   'articles-list':'articles',articles:'articles',departments:'departments',partners:'partners',
+   collegium:'collegium','about-info':'about'};
+  const section=archiveSections[slug];
+  if(section){const a=el('a','source-document source-archive-all-link','Все материалы раздела →');
+   a.href='view.html?p=archive&section='+section;inner.append(a);}
+ }
  if(data.blocks.length){
   if(cards)inner.append(el('h2','source-section-title','Содержание раздела'));
   inner.append(getRich(data,data.slug||slug,index));

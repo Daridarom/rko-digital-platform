@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "assets/source/fbf3aaf283890ff2128d3947.webp",
+      "src": "https://cosmatica.org/upload/000/u7/a/6/image.jpg",
       "alt": ""
     },
     {
@@ -527,11 +527,11 @@
           "url": "https://cosmatica.org/users/7"
         }
       ],
-      "image": "assets/source/fbf3aaf283890ff2128d3947.webp"
+      "image": "https://cosmatica.org/upload/000/u7/a/6/image.jpg"
     }
   ],
   "images": [
-    "assets/source/fbf3aaf283890ff2128d3947.webp"
+    "https://cosmatica.org/upload/000/u7/a/6/image.jpg"
   ],
   "documents": [],
   "categories": [],
@@ -544,5 +544,11 @@
     "sourceImageCount": 1,
     "paragraphCount": 44,
     "sourceBytes": 97813
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 11778,
+  "capturedBodyCharacters": 11689,
+  "sourceTextSHA256": "e4d8db1c54bc3de1965689b1937cb810e37160b4c9fcfb5b322ff948e5d13a39",
+  "archiveSnapshotAt": "2026-10-08T08:39:13Z"
 }

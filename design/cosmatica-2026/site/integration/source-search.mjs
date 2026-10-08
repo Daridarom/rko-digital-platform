@@ -7,16 +7,37 @@ if(params.get('p')==='search-results'){
  const make=(tag,cls='',text='')=>{const x=document.createElement(tag);if(cls)x.className=cls;if(text)x.textContent=text;return x;};
  if(root){
   try{
-   const r=await fetch('data/search-index.json?v=contentqa61');
+   const first=await fetch('data/archive/search-index.json?v=archive1');
+   const r=first.ok?first:await fetch('data/search-index.json?v=contentqa61');
    if(!r.ok)throw Error('Search index');
    const data=await r.json();
    if(!Array.isArray(data.records))throw Error('Search schema');
    const results=[];
+   let matchedIds=null;
+   if(terms.length&&data.sharded&&terms.every(t=>t.length>=3&&t.length<=80)){
+    const keys=[...new Set(terms.map(t=>t.codePointAt(0).toString(16)))];
+    const loaded=await Promise.all(keys.map(async key=>{
+     const response=await fetch('data/archive/search-shards/'+key+'.json?v=archive1');
+     return [key,response.ok?await response.json():{}];
+    }));
+    const byKey=Object.fromEntries(loaded);
+    for(const term of terms){
+     const group=byKey[term.codePointAt(0).toString(16)]||{};
+     const ids=new Set();
+     for(const [word,posts] of Object.entries(group)){
+      if(word.startsWith(term))for(const id of posts)ids.add(id);
+     }
+     if(matchedIds===null)matchedIds=ids;
+     else matchedIds=new Set([...matchedIds].filter(x=>ids.has(x)));
+     if(matchedIds.size===0)break;
+    }
+   }
    if(terms.length){
-    for(const item of data.records){
-     const hay=norm(item.title)+' '+norm(item.text);
-     if(!terms.every(w=>hay.includes(w)))continue;
-     results.push({...item,rank:terms.reduce((n,w)=>n+(norm(item.title).includes(w)?6:1),0)});
+    const candidates=matchedIds===null?data.records:[...(matchedIds||[])].map(id=>data.records[id]).filter(Boolean);
+    for(const item of candidates){
+     const rank=terms.reduce((n,w)=>n+(norm(item.title).includes(w)?6:1),0);
+     if(matchedIds===null&&!terms.every(w=>(norm(item.title)+' '+norm(item.text)).includes(w)))continue;
+     results.push({...item,rank});
     }
     results.sort((a,b)=>b.rank-a.rank||a.title.localeCompare(b.title,'ru'));
    }

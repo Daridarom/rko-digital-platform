@@ -12,7 +12,7 @@
     },
     {
       "type": "image",
-      "src": "assets/source/3d832c2374a6623bdd817c5f.webp",
+      "src": "https://cosmatica.org/upload/000/u7/f/b/pervyi-otrjad-russkogo-kosmicheskogo-obschestva.jpg",
       "alt": ""
     },
     {
@@ -280,11 +280,11 @@
           "url": "https://cosmatica.org/articles/1215-noosfernyi-soyuz-2117.html"
         }
       ],
-      "image": "assets/source/3d832c2374a6623bdd817c5f.webp"
+      "image": "https://cosmatica.org/upload/000/u7/f/b/pervyi-otrjad-russkogo-kosmicheskogo-obschestva.jpg"
     }
   ],
   "images": [
-    "assets/source/3d832c2374a6623bdd817c5f.webp"
+    "https://cosmatica.org/upload/000/u7/f/b/pervyi-otrjad-russkogo-kosmicheskogo-obschestva.jpg"
   ],
   "documents": [],
   "categories": [],
@@ -297,5 +297,11 @@
     "sourceImageCount": 1,
     "paragraphCount": 28,
     "sourceBytes": 79075
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 2133,
+  "capturedBodyCharacters": 2072,
+  "sourceTextSHA256": "36f5e965b1bd596147b7bb4a837692e6dcb4c6a9ed18fe93e5e9d3b15515190d",
+  "archiveSnapshotAt": "2026-10-08T08:39:11Z"
 }

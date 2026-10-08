@@ -12,7 +12,7 @@
     },
     {
       "type": "image",
-      "src": "assets/source/df70025266d99a9d704f99d9.webp",
+      "src": "https://cosmatica.org/upload/000/u7/1/c/image-4.jpg",
       "alt": ""
     },
     {
@@ -203,7 +203,7 @@
     },
     {
       "type": "image",
-      "src": "assets/source/8bd94c5a771979e639839f71.webp",
+      "src": "https://cosmatica.org/upload/000/u7/7/3/bezymjannyi.jpg",
       "alt": ""
     },
     {
@@ -1389,12 +1389,12 @@
           "url": "https://cosmatica.org/glossary/98-neustoichivoe-razvitie.html"
         }
       ],
-      "image": "assets/source/df70025266d99a9d704f99d9.webp"
+      "image": "https://cosmatica.org/upload/000/u7/1/c/image-4.jpg"
     }
   ],
   "images": [
-    "assets/source/df70025266d99a9d704f99d9.webp",
-    "assets/source/8bd94c5a771979e639839f71.webp"
+    "https://cosmatica.org/upload/000/u7/1/c/image-4.jpg",
+    "https://cosmatica.org/upload/000/u7/7/3/bezymjannyi.jpg"
   ],
   "documents": [],
   "categories": [],
@@ -1407,5 +1407,11 @@
     "sourceImageCount": 2,
     "paragraphCount": 109,
     "sourceBytes": 123622
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 23459,
+  "capturedBodyCharacters": 23277,
+  "sourceTextSHA256": "86a807c80564abbcc6ff389ce5dc3a6d87ef506693690b93b4f12a59f89a9230",
+  "archiveSnapshotAt": "2026-10-08T08:39:13Z"
 }

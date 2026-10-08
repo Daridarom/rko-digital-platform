@@ -39,6 +39,7 @@ function header() {
         <a href="${href('articles')}">Материалы</a>
         <a href="${href('partners')}">Партнёры</a>
         <a href="${href('library')}">Библиотека</a>
+        <a href="view.html?p=archive">Архив</a>
       </nav>
       <div class="mobile-drawer shell">
         <a href="${href('about')}">Об обществе</a>
@@ -48,6 +49,7 @@ function header() {
         <a href="${href('articles')}">Материалы</a>
         <a href="${href('partners')}">Партнёры</a>
         <a href="${href('library')}">Библиотека</a>
+        <a href="view.html?p=archive">Полный архив</a>
         <a href="${href('poster')}">Мероприятия</a>
         <a href="${href('login')}">Войти</a>
         <a href="${href('register')}">Присоединиться</a>

@@ -151,7 +151,19 @@ def blocks(root,url):
  allowed={'h2','h3','h4','p','blockquote','ul','ol','img','table','hr'}
  output=[]
  for node in clone.descendants:
-  if not isinstance(node,Tag) or node.name not in allowed:continue
+  if not isinstance(node,Tag):continue
+  # Legacy CMS stores long biographies, descriptions and partner text as raw
+  # text in a .field.ft_text .value div with <br> breaks, not <p> tags.
+  # Do not silently lose thousands of characters when converting to blocks.
+  if node.name=='div' and 'value' in node.get('class',[]):
+   field=node.find_parent('div',class_=lambda c:c and ('ft_text' in c.split() or 'f_bio' in c.split()))
+   if field and not node.select('p,h2,h3,h4,blockquote,ul,ol,table'):
+    raw=node.get_text('\\n',strip=True)
+    chunks=[re.sub(r'\\s+',' ',x).strip() for x in re.split(r'\\n+',raw)]
+    for chunk in chunks:
+     if chunk:output.append({'type':'paragraph','text':chunk,'spans':[{'text':chunk}]})
+    continue
+  if node.name not in allowed:continue
   if node.name!='img' and node.find_parent(list(allowed)) is not None:continue
   converted=convert_block(node,url)
   if converted:output.append(converted)
