@@ -693,6 +693,19 @@ switch (route.slug) {
 
 document.title = route.title + ' — Русское космическое общество';
 document.querySelector('#site').innerHTML = header() + main + footer();
+// Avoid flashing synthetic CMS/demo cards while the real public archive loads.
+const archiveBackedListings=new Set(['partners','collegium','departments','users','news','projects','library','articles','articles-list','poster']);
+if(archiveBackedListings.has(route.slug)){
+ const mainRoot=document.querySelector('#main');
+ if(mainRoot){
+  const status=document.createElement('section');
+  status.className='source-loading section';status.setAttribute('role','status');
+  const shell=document.createElement('div');shell.className='shell';
+  const heading=document.createElement('h1');heading.textContent=route.title||'Материалы РКО';
+  const intro=document.createElement('p');intro.textContent='Загружаем материалы из публичного архива РКО…';
+  shell.append(heading,intro);status.append(shell);mainRoot.replaceChildren(status);
+ }
+}
 
 if (localStorage.getItem('rko-theme') === 'dark') document.body.classList.add('dark');
 document.querySelector('.theme-btn')?.addEventListener('click', () => {

@@ -1,0 +1,6 @@
+/* Neutral visible state before archive JSON replaces the page. */
+.source-loading{min-height:36vh;padding:38px 0 62px}
+.source-loading h1{font-size:clamp(25px,4vw,38px);line-height:1.2;margin:0 0 13px}
+.source-loading p{max-width:640px;color:var(--muted);font-size:15px;line-height:1.6}
+.source-loading .source-document{display:inline-block;margin-top:9px}
+@media(max-width:640px){.source-loading{min-height:30vh;padding:24px 0 38px}}

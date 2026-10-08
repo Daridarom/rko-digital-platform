@@ -545,5 +545,11 @@ async function run(){
 }
 try{await run();}catch(error){
  console.error('Local editorial content',String(error));
- // Preserve a functioning original template instead of showing unrelated content.
+ const pending=body?.querySelector('.source-loading');
+ if(pending){
+  const status=pending.querySelector('p');
+  if(status)status.textContent='Не удалось загрузить материалы. Проверьте соединение и обновите страницу.';
+  const retry=el('a','source-document','Повторить загрузку ↻');retry.href=location.href;
+  pending.querySelector('.shell')?.append(retry);
+ }
 }
