@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/74-produkt.html",
+  "title": "Продукт",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это результат труда, определяемый произведением време­ни и мощности, затраченных в процессе труда.",
+      "spans": [
+        {
+          "text": "это результат труда, определяемый произведением време­ни и мощности, затраченных в процессе труда."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это результат труда, определяемый произведением време­ни и мощности, затраченных в процессе труда.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 106,
+    "storedTextCharacters": 98,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31797
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 98,
+  "capturedBodyCharacters": 98,
+  "sourceTextSHA256": "3976ae85b46ebe16179cb78fb6d8df061cd154d0e7692b4d7e038d456fdffd5d",
+  "archiveSnapshotAt": "2026-10-08T08:47:15Z"
+}

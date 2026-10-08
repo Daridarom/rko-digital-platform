@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/345-arifmetika-v-vi-klassy.html",
+  "title": "Арифметика (V - VI классы)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/9/7/arifmetika-v-vi-klassy-photo-normal.png",
+      "alt": "Арифметика (V - VI классы)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Замечательная серия. Создавалась для учеников, по какой-либо причине не имеющих возможность ходить в школу регулярно.\r\nПреподавание арифметики имеет целью научить учащимся сознательно, быстро, уверенно и наиболее рационально производить действия с целыми и дробными числами и применять полученные знания к решению задач и выполнению простейших расчетов практического характера.",
+      "spans": [
+        {
+          "text": "Замечательная серия. Создавалась для учеников, по какой-либо причине не имеющих возможность ходить в школу регулярно.\r\nПреподавание арифметики имеет целью научить учащимся сознательно, быстро, уверенно и наиболее рационально производить действия с целыми и дробными числами и применять полученные знания к решению задач и выполнению простейших расчетов практического характера."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Пономарёв С.А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Замечательная серия. Создавалась для учеников, по какой-либо причине не имеющих возможность ходить в школу регулярно. Преподавание арифметики имеет целью научить учащимся сознательно, быстро, уверенно и наиболее рационально производить действия с целыми и дробными числами и применять полученные знания к решению задач и выполнению простейших расчетов практического характера.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 5 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2129/5bc2b6811987af15e3bac6491f9371e0"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/9/7/arifmetika-v-vi-klassy-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2129/5bc2b6811987af15e3bac6491f9371e0"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 444,
+    "storedTextCharacters": 377,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40488
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 417,
+  "capturedBodyCharacters": 377,
+  "sourceTextSHA256": "179f418b9fda574200d6d845ba321a5c6ee159a807c5d4a6ab1305ba0463bab7",
+  "archiveSnapshotAt": "2026-10-08T08:49:25Z"
+}

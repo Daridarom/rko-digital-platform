@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/196",
+  "title": "Вадим Иванович Ловчиков",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/8/2/caceb1d2.jpg",
+      "alt": "Вадим Иванович Ловчиков"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 1"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/d/7/bdfce807.jpg",
+      "alt": "Вадим Иванович Ловчиков"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 1"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Естествоиспытатель, автор обобщенной формулы энергии, автор закона нулевой прибыли, ведущий, общественный деятель.",
+      "spans": [
+        {
+          "text": "Естествоиспытатель, автор обобщенной формулы энергии, автор закона нулевой прибыли, ведущий, общественный деятель."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Автор нашумевшей книги «Научный апокалипсис или теория всего»",
+      "spans": [
+        {
+          "text": "Автор нашумевшей книги «Научный апокалипсис или теория всего»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Естествоиспытатель, автор обобщенной формулы энергии, автор закона нулевой прибыли, ведущий, общественный деятель. Автор нашумевшей книги «Научный апокалипсис или теория всего»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/8/2/caceb1d2.jpg",
+    "https://cosmatica.org/upload/000/u26/d/7/bdfce807.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 265,
+    "storedTextCharacters": 235,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35874
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 186,
+  "capturedBodyCharacters": 235,
+  "sourceTextSHA256": "da37d3dfe37d66fe66c3df1b8f978321cfb4c49a62ffe2414f287e0c5fd5e861",
+  "archiveSnapshotAt": "2026-10-08T09:18:25Z"
+}

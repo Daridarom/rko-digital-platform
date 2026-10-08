@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/148-dissipativnye-processy.html",
+  "title": "Диссипативные процессы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "процессы рассеивания энергии; способ­ность системы совершать внешнюю работу убывает во времени, а мощ­ность потерь растет.",
+      "spans": [
+        {
+          "text": "процессы рассеивания энергии; способ­ность системы совершать внешнюю работу убывает во времени, а мощ­ность потерь растет."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "процессы рассеивания энергии; способ­ность системы совершать внешнюю работу убывает во времени, а мощ­ность потерь растет.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 145,
+    "storedTextCharacters": 122,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32017
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 122,
+  "capturedBodyCharacters": 122,
+  "sourceTextSHA256": "23a519afdff23960b7ca10e57379e7fd18c8c8c48d1ae934dd0f94e7783d6e6d",
+  "archiveSnapshotAt": "2026-10-08T08:46:34Z"
+}

@@ -1,0 +1,1516 @@
+{
+  "startedFrom": 5079,
+  "results": {
+    "existing": 2296,
+    "skipped": 7,
+    "failed": 376,
+    "ready": 2400
+  },
+  "failures": [
+    {
+      "url": "https://cosmatica.org/about/11-polozhenie-o-strukture-rko.html",
+      "error": "RuntimeError: HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=6)"
+    },
+    {
+      "url": "https://cosmatica.org/about/15-otkrytoe-pismo-prezidentu.html",
+      "error": "RuntimeError: HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=6)"
+    },
+    {
+      "url": "https://cosmatica.org/about/8-ustav-russkogo-kosmicheskogo-obschestva.html",
+      "error": "RuntimeError: HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=6)"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1000-globalnoe-sozdanie-chelovechestva-v-fokuse-zerkalnogo-teleskopa-kozyreva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/1000-globalnoe-sozdanie-chelovechestva-v-fokuse-zerkalnogo-teleskopa-kozyreva"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1001-uplotnenie-energii-vremeni-kak-kosmoplanetarnyi-fenomen-prostranstva-kozyreva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/1001-uplotnenie-energii-vremeni-kak-kosmoplanetarnyi-fenomen-prostranstva-koz"
+    },
+    {
+      "url": "https://cosmatica.org/about/pismoprezidentu.html",
+      "error": "RuntimeError: HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=6)"
+    },
+    {
+      "url": "https://cosmatica.org/articles/100-noosferno-kosmicheskaja-ustoichivost-razvitija-i-noo-konstitucija-chelovechestva.html",
+      "error": "RuntimeError: HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=6)"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1034-dela-i-sobytija-rko.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/1034-dela-i-sobytija-rko.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1040-sobstvennaja-setevaja-platforma-russkogo-kosmicheskogo-obschestva-nbics-merkulov-a-a.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/1040-sobstvennaja-setevaja-platforma-russkogo-kosmicheskogo-obschestva-nbics-"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1085-deklaracija-sezda-buduschih-molodyh-i-mnogodetnyh-semei-nacionalnoe-dostojanie.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/1085-deklaracija-sezda-buduschih-molodyh-i-mnogodetnyh-semei-nacionalnoe-dost"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1094-proekty-rko-klinok.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/1094-proekty-rko-klinok.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1101-noosferno-kosmicheskie-instrumenty-formirovanija-nashego-buduschego.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/1101-noosferno-kosmicheskie-instrumenty-formirovanija-nashego-buduschego.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/162-kolybel-dlja-zolotogo-fonda.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/162-kolybel-dlja-zolotogo-fonda.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/163-noosfernoe-obrazovanie-strategicheskii-resurs-obschestva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/163-noosfernoe-obrazovanie-strategicheskii-resurs-obschestva.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/164-teorija-geneticheskogo-energoinformacionnogo-edinstva-mira.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/164-teorija-geneticheskogo-energoinformacionnogo-edinstva-mira.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/165-noosfernaja-koncepcija-samosoznanija.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/165-noosfernaja-koncepcija-samosoznanija.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/101-antihrematicheskie-tehnologii-russkogo-kosmicheskogo-obschestva.html",
+      "error": "RuntimeError: HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=6)"
+    },
+    {
+      "url": "https://cosmatica.org/articles/173-riski-ustoichivogo-razvitija-cifrovogo-obschestva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/173-riski-ustoichivogo-razvitija-cifrovogo-obschestva.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/177-modelirovanie-socialnoi-sistemy-dlja-ustoichivogo-razvitija.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/177-modelirovanie-socialnoi-sistemy-dlja-ustoichivogo-razvitija.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/234-noosfernoe-obrazovanie-dlja-ustoichivogo-razvitija-rossii.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/234-noosfernoe-obrazovanie-dlja-ustoichivogo-razvitija-rossii.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/39-energoinformacionnoe-vozdeistvie-narodnogo-uzora-na-vodu-i-rastenija.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/39-energoinformacionnoe-vozdeistvie-narodnogo-uzora-na-vodu-i-rastenija.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/403-informacionnaja-bezopasnost-detei-v-uslovijah-globalizacii.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/403-informacionnaja-bezopasnost-detei-v-uslovijah-globalizacii.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/42-osnovy-obrazovanija-znakov-russkogo-narodnogo-uzora.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/42-osnovy-obrazovanija-znakov-russkogo-narodnogo-uzora.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/43-cennostnye-osnovanija-russkoi-civilizacii-kak-faktor-obespechenija-bezopasnosti-socialnyh-sistem.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/43-cennostnye-osnovanija-russkoi-civilizacii-kak-faktor-obespechenija-bezopas"
+    },
+    {
+      "url": "https://cosmatica.org/articles/46-principy-nenasilstvennogo-razvitija.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/46-principy-nenasilstvennogo-razvitija.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/566-preodolenie-stressa-futuroshoka-posredstvom-formirovanija-sistemnogo-myshlenija-molodyozhi.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/566-preodolenie-stressa-futuroshoka-posredstvom-formirovanija-sistemnogo-mysh"
+    },
+    {
+      "url": "https://cosmatica.org/articles/580-kosmichesoke-zhenskoe-poslanie-kak-faktor-formirovanija-povestki-ustoichivogo-razvitija.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/580-kosmichesoke-zhenskoe-poslanie-kak-faktor-formirovanija-povestki-ustoichi"
+    },
+    {
+      "url": "https://cosmatica.org/articles/588-pokazateli-aktivnosti-mozga-operatora-pri-nahozhdenii-v-zerkalah-mniika-mega-galaxy.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/588-pokazateli-aktivnosti-mozga-operatora-pri-nahozhdenii-v-zerkalah-mniika-m"
+    },
+    {
+      "url": "https://cosmatica.org/articles/616-sistemonomija-v-russkom-kosmicheskom-obschestve.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/616-sistemonomija-v-russkom-kosmicheskom-obschestve.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/65-obschestvenno-gosudarstvennoe-partnyorstvo.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/65-obschestvenno-gosudarstvennoe-partnyorstvo.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/734-problemy-formirovanija-kreativnogo-klassa-v-uslovijah-cifrovizacii-socialno-ekonomich-processov.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/734-problemy-formirovanija-kreativnogo-klassa-v-uslovijah-cifrovizacii-social"
+    },
+    {
+      "url": "https://cosmatica.org/articles/740-chelovek-kak-funkcija-vremeni-v-prostranstve-kozyreva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/740-chelovek-kak-funkcija-vremeni-v-prostranstve-kozyreva.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/775-nauchnaja-obrazovatelnaja-i-izdatelskaja-dejatelnost-russkogo-kosmicheskogo-obschestva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/775-nauchnaja-obrazovatelnaja-i-izdatelskaja-dejatelnost-russkogo-kosmichesko"
+    },
+    {
+      "url": "https://cosmatica.org/articles/864-formirovanie-politicheskoi-infrastruktury-bezopasnogo-razvitija-socialnyh-sistem.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/864-formirovanie-politicheskoi-infrastruktury-bezopasnogo-razvitija-socialnyh"
+    },
+    {
+      "url": "https://cosmatica.org/articles/882-nauchnoe-mirovozzrenie-fundamentalnaja-osnova-proektirovanija-buduschego-kosmicheskoi-ery.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/882-nauchnoe-mirovozzrenie-fundamentalnaja-osnova-proektirovanija-buduschego-"
+    },
+    {
+      "url": "https://cosmatica.org/articles/885-ekaterina-evgenevna-zvonova-v-gostjah-u-kluba-sofija-filosofskii-razgovor.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/885-ekaterina-evgenevna-zvonova-v-gostjah-u-kluba-sofija-filosofskii-razgovor"
+    },
+    {
+      "url": "https://cosmatica.org/articles/890-chto-takoe-noosfernoe-obrazovanie.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/890-chto-takoe-noosfernoe-obrazovanie.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/891-preimuschestva-bioadekvatnyh-uchebnikov.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/891-preimuschestva-bioadekvatnyh-uchebnikov.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/895-tokarev-valerii-ivanovich-intervyu-na-syomkah-filma-era.html",
+      "error": "RuntimeError: Text lost during extraction"
+    },
+    {
+      "url": "https://cosmatica.org/articles/892-kak-vklyuchit-sobstvennyi-detektor-istiny-nravstvennost-v-noosfernom-vospitanii.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/892-kak-vklyuchit-sobstvennyi-detektor-istiny-nravstvennost-v-noosfernom-vosp"
+    },
+    {
+      "url": "https://cosmatica.org/articles/893-prirodosoobraznost-princip-sledovanija-zakonam-prirody-cheloveka-mira.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/893-prirodosoobraznost-princip-sledovanija-zakonam-prirody-cheloveka-mira.htm"
+    },
+    {
+      "url": "https://cosmatica.org/articles/949-russkoe-kosmicheskoe-obschestvo-2035.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/949-russkoe-kosmicheskoe-obschestvo-2035.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/965-obezlichennost-kak-faktor-formirovanija-totalitarnogo-obschestva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/965-obezlichennost-kak-faktor-formirovanija-totalitarnogo-obschestva.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/973-apodikticheskie-osnovy-mirovozzrenija-dlja-kosmoproryva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/973-apodikticheskie-osnovy-mirovozzrenija-dlja-kosmoproryva.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/984-platformennaja-paradigma-upravlenija-socialno-ekonomicheskimi-sistemami-v-osobyi-period.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/984-platformennaja-paradigma-upravlenija-socialno-ekonomicheskimi-sistemami-v"
+    },
+    {
+      "url": "https://cosmatica.org/articles/999-dinamika-energo-adaptacionnogo-potenciala-cheloveka-vo-vzaimodeistvii-s-kosmicheskoi-sredoi.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/999-dinamika-energo-adaptacionnogo-potenciala-cheloveka-vo-vzaimodeistvii-s-k"
+    },
+    {
+      "url": "https://cosmatica.org/collegium/11-redakcionnyi-sovet.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/collegium/11-redakcionnyi-sovet.html"
+    },
+    {
+      "url": "https://cosmatica.org/collegium/20-sovet-po-biologii-i-medicine.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/collegium/20-sovet-po-biologii-i-medicine.html"
+    },
+    {
+      "url": "https://cosmatica.org/collegium/7-sovet-bezopasnosti.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/collegium/7-sovet-bezopasnosti.html"
+    },
+    {
+      "url": "https://cosmatica.org/collegium/8-sovet-mudrecov.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/collegium/8-sovet-mudrecov.html"
+    },
+    {
+      "url": "https://cosmatica.org/departments/12-saratovskaja-oblast.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/departments/12-saratovskaja-oblast.html"
+    },
+    {
+      "url": "https://cosmatica.org/departments/15-predstavitelstvo-v-italii.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/departments/15-predstavitelstvo-v-italii.html"
+    },
+    {
+      "url": "https://cosmatica.org/departments/17-smolenskaja-oblast.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/departments/17-smolenskaja-oblast.html"
+    },
+    {
+      "url": "https://cosmatica.org/departments/25-stavropolskii-krai.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/departments/25-stavropolskii-krai.html"
+    },
+    {
+      "url": "https://cosmatica.org/departments/26-samarskaja-oblast.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/departments/26-samarskaja-oblast.html"
+    },
+    {
+      "url": "https://cosmatica.org/departments/27-rjazanskaja-oblast.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/departments/27-rjazanskaja-oblast.html"
+    },
+    {
+      "url": "https://cosmatica.org/departments/28-sahalinskaja-oblact.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/departments/28-sahalinskaja-oblact.html"
+    },
+    {
+      "url": "https://cosmatica.org/departments/3-predstavitelstvo-v-kazahstane.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/departments/3-predstavitelstvo-v-kazahstane.html"
+    },
+    {
+      "url": "https://cosmatica.org/departments/31-sevastopolskoe-otdelenie.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/departments/31-sevastopolskoe-otdelenie.html"
+    },
+    {
+      "url": "https://cosmatica.org/direction.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/direction.html"
+    },
+    {
+      "url": "https://cosmatica.org/library/376-neo-noosfera-v-prostranstve-kozyreva-kaznacheeva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/library/376-neo-noosfera-v-prostranstve-kozyreva-kaznacheeva.html"
+    },
+    {
+      "url": "https://cosmatica.org/library/38-rol-rabot-e-v-ilenkova-v-razrabotke-sistem-zhizneobespechenija.html",
+      "error": "RuntimeError: 403 Client Error: Forbidden for url: https://cosmatica.org/library/38-rol-rabot-e-v-ilenkova-v-razrabotke-sistem-zhizneobespechenija.html"
+    },
+    {
+      "url": "https://cosmatica.org/library/380-periodicheskaja-sistema-vseobschih-zakonov-mira.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/library/380-periodicheskaja-sistema-vseobschih-zakonov-mira.html"
+    },
+    {
+      "url": "https://cosmatica.org/library/383-periodicheskaja-sistema-obschih-zakonov-chelovecheskogo-obschestva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/library/383-periodicheskaja-sistema-obschih-zakonov-chelovecheskogo-obschestva.html"
+    },
+    {
+      "url": "https://cosmatica.org/library/384-periodicheskaja-sistema-obschih-zakonov-poznanija-i-postizhenija.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/library/384-periodicheskaja-sistema-obschih-zakonov-poznanija-i-postizhenija.html"
+    },
+    {
+      "url": "https://cosmatica.org/library/385-periodicheskaja-sistema-zakonov-obrazovanija.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/library/385-periodicheskaja-sistema-zakonov-obrazovanija.html"
+    },
+    {
+      "url": "https://cosmatica.org/library/386-sistemonomija.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/library/386-sistemonomija.html"
+    },
+    {
+      "url": "https://cosmatica.org/library/393-obschaja-cel-razvitija-chelovechestva-i-biosfery-nauchnye-osnovanija-proektirovanija-buduschego.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/library/393-obschaja-cel-razvitija-chelovechestva-i-biosfery-nauchnye-osnovanija-proek"
+    },
+    {
+      "url": "https://cosmatica.org/library/440-noosfernaja-etiko-ekologicheskaja-konstitucija-chelovechestva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/library/440-noosfernaja-etiko-ekologicheskaja-konstitucija-chelovechestva.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/185-sistemonomicheskaja-transformacionnaja-igra-kvant-zhizni-dlja-vseh.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/185-sistemonomicheskaja-transformacionnaja-igra-kvant-zhizni-dlja-vseh.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/259-noosfernomu-obrazovaniyu-v-chuvashskoi-respublike-byt.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/259-noosfernomu-obrazovaniyu-v-chuvashskoi-respublike-byt.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/276-sistemonomicheskie-chtenija-pamjati-b-e-bolashkova.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/276-sistemonomicheskie-chtenija-pamjati-b-e-bolashkova.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/291-sostojalsja-zimnii-seminar-celostnoe-myshlenie.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/291-sostojalsja-zimnii-seminar-celostnoe-myshlenie.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/363-sostojalsja-vesennii-seminar-celostnoe-myshlenie.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/363-sostojalsja-vesennii-seminar-celostnoe-myshlenie.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/400-sistemonomija-v-russkom-kosmicheskom-obschestve.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/400-sistemonomija-v-russkom-kosmicheskom-obschestve.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/495-proshyol-seminar-po-noosfernomu-obrazovaniyu-i-razvitiyu.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/495-proshyol-seminar-po-noosfernomu-obrazovaniyu-i-razvitiyu.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/517-ekodvor-v-dubne.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/517-ekodvor-v-dubne.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/555-vyshlo-v-svet-2-e-izdanie-monografii-n-v-maslovoi-periodicheskaja-sistema-vseobschih-zakonov-mir.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/555-vyshlo-v-svet-2-e-izdanie-monografii-n-v-maslovoi-periodicheskaja-sistema-vse"
+    },
+    {
+      "url": "https://cosmatica.org/news/556-otdelenie-sistemonomii-russkogo-kosmicheskogo-obschestva-izdalo-monografiyu-n-v-maslovoi-periodi.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/556-otdelenie-sistemonomii-russkogo-kosmicheskogo-obschestva-izdalo-monografiyu-n"
+    },
+    {
+      "url": "https://cosmatica.org/news/558-festival-malenkogo-princa-proshyol-v-moskve.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/558-festival-malenkogo-princa-proshyol-v-moskve.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/627-ja-priehal-kak-pedagog-a-uezzhayu-kak-chelovek-kotoryi-nashyol-sebja.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/627-ja-priehal-kak-pedagog-a-uezzhayu-kak-chelovek-kotoryi-nashyol-sebja.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/646-uspeshno-zavershilsja-pervyi-etap-intensiva-cifrovaja-transformacija-2-0.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/646-uspeshno-zavershilsja-pervyi-etap-intensiva-cifrovaja-transformacija-2-0.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/665-noosfernoe-obrazovanie-v-brjanske.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/665-noosfernoe-obrazovanie-v-brjanske.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/687-sistemonomija-nauchno-metodicheskii-seminar-rko.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/687-sistemonomija-nauchno-metodicheskii-seminar-rko.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/706-rko-vstrechaetsja-s-roditeljami-uchenikov-v-lopatinskoi-shkole.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/706-rko-vstrechaetsja-s-roditeljami-uchenikov-v-lopatinskoi-shkole.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/824-nauchnye-osnovy-celostnogo-myshlenija-dlja-prepodavatelei-vuzov-i-shkol.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/824-nauchnye-osnovy-celostnogo-myshlenija-dlja-prepodavatelei-vuzov-i-shkol.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/834-novaja-kniga-dlja-lyudei-kosmoproryva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/834-novaja-kniga-dlja-lyudei-kosmoproryva.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/881-teorija-mirozdanija.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/881-teorija-mirozdanija.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/882-celostnoe-myshlenie-seminar-dlja-prepodavatelei.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/882-celostnoe-myshlenie-seminar-dlja-prepodavatelei.html"
+    },
+    {
+      "url": "https://cosmatica.org/news/894-otkrytie-sistemy-estestvennyh-zakonov-russkogo-jazyka.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/news/894-otkrytie-sistemy-estestvennyh-zakonov-russkogo-jazyka.html"
+    },
+    {
+      "url": "https://cosmatica.org/partners/13-noo-kulturnoe-razvitie-pokolenii.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/partners/13-noo-kulturnoe-razvitie-pokolenii.html"
+    },
+    {
+      "url": "https://cosmatica.org/partners/8-fond-pomoschi-i-razvitija-semei-rodnaja-semja.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/partners/8-fond-pomoschi-i-razvitija-semei-rodnaja-semja.html"
+    },
+    {
+      "url": "https://cosmatica.org/poster/126-sistemonomija-dlja-obrazovanija.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/poster/126-sistemonomija-dlja-obrazovanija.html"
+    },
+    {
+      "url": "https://cosmatica.org/poster/187-proekt-ekodvor.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/poster/187-proekt-ekodvor.html"
+    },
+    {
+      "url": "https://cosmatica.org/poster/259-prostranstva-sotvorchestva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/poster/259-prostranstva-sotvorchestva.html"
+    },
+    {
+      "url": "https://cosmatica.org/poster/290-ix-sistemonomicheskie-chtenija.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/poster/290-ix-sistemonomicheskie-chtenija.html"
+    },
+    {
+      "url": "https://cosmatica.org/poster/60-avtorskii-seminar-celostnoe-myshlenie-v-janvare.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/poster/60-avtorskii-seminar-celostnoe-myshlenie-v-janvare.html"
+    },
+    {
+      "url": "https://cosmatica.org/poster/66-sistemonomicheskie-chtenija-pamjati-b-e-bolshakova.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/poster/66-sistemonomicheskie-chtenija-pamjati-b-e-bolshakova.html"
+    },
+    {
+      "url": "https://cosmatica.org/projects/125",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/projects/125"
+    },
+    {
+      "url": "https://cosmatica.org/projects/127",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/projects/127"
+    },
+    {
+      "url": "https://cosmatica.org/projects/129",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/projects/129"
+    },
+    {
+      "url": "https://cosmatica.org/projects/132",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/projects/132"
+    },
+    {
+      "url": "https://cosmatica.org/projects/170",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/projects/170"
+    },
+    {
+      "url": "https://cosmatica.org/projects/194",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/projects/194"
+    },
+    {
+      "url": "https://cosmatica.org/projects/197",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/projects/197"
+    },
+    {
+      "url": "https://cosmatica.org/projects/chizhevskii",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/projects/chizhevskii"
+    },
+    {
+      "url": "https://cosmatica.org/projects/kinouroki",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/projects/kinouroki"
+    },
+    {
+      "url": "https://cosmatica.org/projects/klinok",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/projects/klinok"
+    },
+    {
+      "url": "https://cosmatica.org/projects/maationok",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/projects/maationok"
+    },
+    {
+      "url": "https://cosmatica.org/projects/noo-constitution",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/projects/noo-constitution"
+    },
+    {
+      "url": "https://cosmatica.org/projects/rkk",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/projects/rkk"
+    },
+    {
+      "url": "https://cosmatica.org/projects/rko2035",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/projects/rko2035"
+    },
+    {
+      "url": "https://cosmatica.org/section/1-sistemonomija.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/section/1-sistemonomija.html"
+    },
+    {
+      "url": "https://cosmatica.org/users/111",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/111"
+    },
+    {
+      "url": "https://cosmatica.org/users/112",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/112"
+    },
+    {
+      "url": "https://cosmatica.org/users/117",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/117"
+    },
+    {
+      "url": "https://cosmatica.org/users/125",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/125"
+    },
+    {
+      "url": "https://cosmatica.org/users/128",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/128"
+    },
+    {
+      "url": "https://cosmatica.org/users/129",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/129"
+    },
+    {
+      "url": "https://cosmatica.org/users/134",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/134"
+    },
+    {
+      "url": "https://cosmatica.org/users/141",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/141"
+    },
+    {
+      "url": "https://cosmatica.org/users/146",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/146"
+    },
+    {
+      "url": "https://cosmatica.org/users/15",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/15"
+    },
+    {
+      "url": "https://cosmatica.org/users/150",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/150"
+    },
+    {
+      "url": "https://cosmatica.org/users/153",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/153"
+    },
+    {
+      "url": "https://cosmatica.org/users/16",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/16"
+    },
+    {
+      "url": "https://cosmatica.org/users/163",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/163"
+    },
+    {
+      "url": "https://cosmatica.org/users/166",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/166"
+    },
+    {
+      "url": "https://cosmatica.org/users/177",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/177"
+    },
+    {
+      "url": "https://cosmatica.org/users/184",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/184"
+    },
+    {
+      "url": "https://cosmatica.org/users/188",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/188"
+    },
+    {
+      "url": "https://cosmatica.org/users/190",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/190"
+    },
+    {
+      "url": "https://cosmatica.org/users/192",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/192"
+    },
+    {
+      "url": "https://cosmatica.org/users/198",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/198"
+    },
+    {
+      "url": "https://cosmatica.org/users/199",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/199"
+    },
+    {
+      "url": "https://cosmatica.org/users/2",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/2"
+    },
+    {
+      "url": "https://cosmatica.org/users/200",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/200"
+    },
+    {
+      "url": "https://cosmatica.org/users/201",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/201"
+    },
+    {
+      "url": "https://cosmatica.org/users/203",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/203"
+    },
+    {
+      "url": "https://cosmatica.org/users/204",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/204"
+    },
+    {
+      "url": "https://cosmatica.org/users/205",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/205"
+    },
+    {
+      "url": "https://cosmatica.org/users/207",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/207"
+    },
+    {
+      "url": "https://cosmatica.org/users/208",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/208"
+    },
+    {
+      "url": "https://cosmatica.org/users/215",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/215"
+    },
+    {
+      "url": "https://cosmatica.org/users/216",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/216"
+    },
+    {
+      "url": "https://cosmatica.org/users/217",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/217"
+    },
+    {
+      "url": "https://cosmatica.org/users/222",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/222"
+    },
+    {
+      "url": "https://cosmatica.org/users/233",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/233"
+    },
+    {
+      "url": "https://cosmatica.org/users/234",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/234"
+    },
+    {
+      "url": "https://cosmatica.org/users/244",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/244"
+    },
+    {
+      "url": "https://cosmatica.org/users/246",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/246"
+    },
+    {
+      "url": "https://cosmatica.org/users/247",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/247"
+    },
+    {
+      "url": "https://cosmatica.org/users/249",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/249"
+    },
+    {
+      "url": "https://cosmatica.org/users/252",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/252"
+    },
+    {
+      "url": "https://cosmatica.org/users/254",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/254"
+    },
+    {
+      "url": "https://cosmatica.org/users/269",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/269"
+    },
+    {
+      "url": "https://cosmatica.org/users/27",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/27"
+    },
+    {
+      "url": "https://cosmatica.org/users/270",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/270"
+    },
+    {
+      "url": "https://cosmatica.org/users/272",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/272"
+    },
+    {
+      "url": "https://cosmatica.org/users/278",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/278"
+    },
+    {
+      "url": "https://cosmatica.org/users/28",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/28"
+    },
+    {
+      "url": "https://cosmatica.org/users/286",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/286"
+    },
+    {
+      "url": "https://cosmatica.org/users/292",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/292"
+    },
+    {
+      "url": "https://cosmatica.org/users/293",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/293"
+    },
+    {
+      "url": "https://cosmatica.org/users/299",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/299"
+    },
+    {
+      "url": "https://cosmatica.org/users/305",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/305"
+    },
+    {
+      "url": "https://cosmatica.org/users/308",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/308"
+    },
+    {
+      "url": "https://cosmatica.org/users/312",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/312"
+    },
+    {
+      "url": "https://cosmatica.org/users/313",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/313"
+    },
+    {
+      "url": "https://cosmatica.org/users/32",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/32"
+    },
+    {
+      "url": "https://cosmatica.org/users/327",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/327"
+    },
+    {
+      "url": "https://cosmatica.org/users/33",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/33"
+    },
+    {
+      "url": "https://cosmatica.org/users/331",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/331"
+    },
+    {
+      "url": "https://cosmatica.org/users/334",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/334"
+    },
+    {
+      "url": "https://cosmatica.org/users/336",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/336"
+    },
+    {
+      "url": "https://cosmatica.org/users/341",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/341"
+    },
+    {
+      "url": "https://cosmatica.org/users/342",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/342"
+    },
+    {
+      "url": "https://cosmatica.org/users/343",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/343"
+    },
+    {
+      "url": "https://cosmatica.org/users/344",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/344"
+    },
+    {
+      "url": "https://cosmatica.org/users/352",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/352"
+    },
+    {
+      "url": "https://cosmatica.org/users/360",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/360"
+    },
+    {
+      "url": "https://cosmatica.org/users/364",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/364"
+    },
+    {
+      "url": "https://cosmatica.org/users/367",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/367"
+    },
+    {
+      "url": "https://cosmatica.org/users/370",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/370"
+    },
+    {
+      "url": "https://cosmatica.org/users/373",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/373"
+    },
+    {
+      "url": "https://cosmatica.org/users/376",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/376"
+    },
+    {
+      "url": "https://cosmatica.org/users/380",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/380"
+    },
+    {
+      "url": "https://cosmatica.org/users/392",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/392"
+    },
+    {
+      "url": "https://cosmatica.org/users/405",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/405"
+    },
+    {
+      "url": "https://cosmatica.org/users/406",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/406"
+    },
+    {
+      "url": "https://cosmatica.org/users/409",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/409"
+    },
+    {
+      "url": "https://cosmatica.org/users/410",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/410"
+    },
+    {
+      "url": "https://cosmatica.org/users/413",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/413"
+    },
+    {
+      "url": "https://cosmatica.org/users/414",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/414"
+    },
+    {
+      "url": "https://cosmatica.org/users/415",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/415"
+    },
+    {
+      "url": "https://cosmatica.org/users/422",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/422"
+    },
+    {
+      "url": "https://cosmatica.org/users/425",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/425"
+    },
+    {
+      "url": "https://cosmatica.org/users/426",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/426"
+    },
+    {
+      "url": "https://cosmatica.org/users/429",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/429"
+    },
+    {
+      "url": "https://cosmatica.org/users/434",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/434"
+    },
+    {
+      "url": "https://cosmatica.org/users/436",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/436"
+    },
+    {
+      "url": "https://cosmatica.org/users/440",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/440"
+    },
+    {
+      "url": "https://cosmatica.org/users/441",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/441"
+    },
+    {
+      "url": "https://cosmatica.org/users/442",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/442"
+    },
+    {
+      "url": "https://cosmatica.org/users/443",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/443"
+    },
+    {
+      "url": "https://cosmatica.org/users/444",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/444"
+    },
+    {
+      "url": "https://cosmatica.org/users/446",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/446"
+    },
+    {
+      "url": "https://cosmatica.org/users/447",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/447"
+    },
+    {
+      "url": "https://cosmatica.org/users/448",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/448"
+    },
+    {
+      "url": "https://cosmatica.org/users/450",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/450"
+    },
+    {
+      "url": "https://cosmatica.org/users/451",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/451"
+    },
+    {
+      "url": "https://cosmatica.org/users/452",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/452"
+    },
+    {
+      "url": "https://cosmatica.org/users/453",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/453"
+    },
+    {
+      "url": "https://cosmatica.org/users/454",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/454"
+    },
+    {
+      "url": "https://cosmatica.org/users/460",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/460"
+    },
+    {
+      "url": "https://cosmatica.org/users/462",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/462"
+    },
+    {
+      "url": "https://cosmatica.org/users/466",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/466"
+    },
+    {
+      "url": "https://cosmatica.org/users/467",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/467"
+    },
+    {
+      "url": "https://cosmatica.org/users/468",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/468"
+    },
+    {
+      "url": "https://cosmatica.org/users/469",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/469"
+    },
+    {
+      "url": "https://cosmatica.org/users/47",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/47"
+    },
+    {
+      "url": "https://cosmatica.org/users/472",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/472"
+    },
+    {
+      "url": "https://cosmatica.org/users/473",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/473"
+    },
+    {
+      "url": "https://cosmatica.org/users/475",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/475"
+    },
+    {
+      "url": "https://cosmatica.org/users/476",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/476"
+    },
+    {
+      "url": "https://cosmatica.org/users/477",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/477"
+    },
+    {
+      "url": "https://cosmatica.org/users/478",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/478"
+    },
+    {
+      "url": "https://cosmatica.org/users/482",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/482"
+    },
+    {
+      "url": "https://cosmatica.org/users/484",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/484"
+    },
+    {
+      "url": "https://cosmatica.org/users/487",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/487"
+    },
+    {
+      "url": "https://cosmatica.org/users/489",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/489"
+    },
+    {
+      "url": "https://cosmatica.org/users/490",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/490"
+    },
+    {
+      "url": "https://cosmatica.org/users/491",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/491"
+    },
+    {
+      "url": "https://cosmatica.org/users/492",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/492"
+    },
+    {
+      "url": "https://cosmatica.org/users/493",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/493"
+    },
+    {
+      "url": "https://cosmatica.org/users/497",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/497"
+    },
+    {
+      "url": "https://cosmatica.org/users/499",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/499"
+    },
+    {
+      "url": "https://cosmatica.org/users/500",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/500"
+    },
+    {
+      "url": "https://cosmatica.org/users/502",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/502"
+    },
+    {
+      "url": "https://cosmatica.org/users/503",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/503"
+    },
+    {
+      "url": "https://cosmatica.org/users/504",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/504"
+    },
+    {
+      "url": "https://cosmatica.org/users/505",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/505"
+    },
+    {
+      "url": "https://cosmatica.org/users/506",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/506"
+    },
+    {
+      "url": "https://cosmatica.org/users/508",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/508"
+    },
+    {
+      "url": "https://cosmatica.org/users/509",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/509"
+    },
+    {
+      "url": "https://cosmatica.org/users/512",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/512"
+    },
+    {
+      "url": "https://cosmatica.org/users/514",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/514"
+    },
+    {
+      "url": "https://cosmatica.org/users/516",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/516"
+    },
+    {
+      "url": "https://cosmatica.org/users/517",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/517"
+    },
+    {
+      "url": "https://cosmatica.org/users/518",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/518"
+    },
+    {
+      "url": "https://cosmatica.org/users/520",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/520"
+    },
+    {
+      "url": "https://cosmatica.org/users/521",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/521"
+    },
+    {
+      "url": "https://cosmatica.org/users/522",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/522"
+    },
+    {
+      "url": "https://cosmatica.org/users/523",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/523"
+    },
+    {
+      "url": "https://cosmatica.org/users/524",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/524"
+    },
+    {
+      "url": "https://cosmatica.org/users/525",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/525"
+    },
+    {
+      "url": "https://cosmatica.org/users/526",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/526"
+    },
+    {
+      "url": "https://cosmatica.org/users/527",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/527"
+    },
+    {
+      "url": "https://cosmatica.org/users/528",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/528"
+    },
+    {
+      "url": "https://cosmatica.org/users/529",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/529"
+    },
+    {
+      "url": "https://cosmatica.org/users/530",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/530"
+    },
+    {
+      "url": "https://cosmatica.org/users/532",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/532"
+    },
+    {
+      "url": "https://cosmatica.org/users/535",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/535"
+    },
+    {
+      "url": "https://cosmatica.org/users/536",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/536"
+    },
+    {
+      "url": "https://cosmatica.org/users/537",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/537"
+    },
+    {
+      "url": "https://cosmatica.org/users/539",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/539"
+    },
+    {
+      "url": "https://cosmatica.org/users/54",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/54"
+    },
+    {
+      "url": "https://cosmatica.org/users/540",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/540"
+    },
+    {
+      "url": "https://cosmatica.org/users/541",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/541"
+    },
+    {
+      "url": "https://cosmatica.org/users/542",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/542"
+    },
+    {
+      "url": "https://cosmatica.org/users/544",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/544"
+    },
+    {
+      "url": "https://cosmatica.org/users/545",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/545"
+    },
+    {
+      "url": "https://cosmatica.org/users/546",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/546"
+    },
+    {
+      "url": "https://cosmatica.org/users/547",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/547"
+    },
+    {
+      "url": "https://cosmatica.org/users/549",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/549"
+    },
+    {
+      "url": "https://cosmatica.org/users/55",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/55"
+    },
+    {
+      "url": "https://cosmatica.org/users/551",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/551"
+    },
+    {
+      "url": "https://cosmatica.org/users/552",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/552"
+    },
+    {
+      "url": "https://cosmatica.org/users/553",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/553"
+    },
+    {
+      "url": "https://cosmatica.org/users/554",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/554"
+    },
+    {
+      "url": "https://cosmatica.org/users/555",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/555"
+    },
+    {
+      "url": "https://cosmatica.org/users/556",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/556"
+    },
+    {
+      "url": "https://cosmatica.org/users/557",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/557"
+    },
+    {
+      "url": "https://cosmatica.org/users/558",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/558"
+    },
+    {
+      "url": "https://cosmatica.org/users/559",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/559"
+    },
+    {
+      "url": "https://cosmatica.org/users/56",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/56"
+    },
+    {
+      "url": "https://cosmatica.org/users/560",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/560"
+    },
+    {
+      "url": "https://cosmatica.org/users/561",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/561"
+    },
+    {
+      "url": "https://cosmatica.org/users/562",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/562"
+    },
+    {
+      "url": "https://cosmatica.org/users/563",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/563"
+    },
+    {
+      "url": "https://cosmatica.org/users/564",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/564"
+    },
+    {
+      "url": "https://cosmatica.org/users/565",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/565"
+    },
+    {
+      "url": "https://cosmatica.org/users/566",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/566"
+    },
+    {
+      "url": "https://cosmatica.org/users/567",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/567"
+    },
+    {
+      "url": "https://cosmatica.org/users/568",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/568"
+    },
+    {
+      "url": "https://cosmatica.org/users/569",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/569"
+    },
+    {
+      "url": "https://cosmatica.org/users/57",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/57"
+    },
+    {
+      "url": "https://cosmatica.org/users/570",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/570"
+    },
+    {
+      "url": "https://cosmatica.org/users/571",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/571"
+    },
+    {
+      "url": "https://cosmatica.org/users/572",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/572"
+    },
+    {
+      "url": "https://cosmatica.org/users/573",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/573"
+    },
+    {
+      "url": "https://cosmatica.org/users/576",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/576"
+    },
+    {
+      "url": "https://cosmatica.org/users/577",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/577"
+    },
+    {
+      "url": "https://cosmatica.org/users/578",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/578"
+    },
+    {
+      "url": "https://cosmatica.org/users/579",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/579"
+    },
+    {
+      "url": "https://cosmatica.org/users/58",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/58"
+    },
+    {
+      "url": "https://cosmatica.org/users/580",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/580"
+    },
+    {
+      "url": "https://cosmatica.org/users/582",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/582"
+    },
+    {
+      "url": "https://cosmatica.org/users/583",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/583"
+    },
+    {
+      "url": "https://cosmatica.org/users/586",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/586"
+    },
+    {
+      "url": "https://cosmatica.org/users/587",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/587"
+    },
+    {
+      "url": "https://cosmatica.org/users/588",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/588"
+    },
+    {
+      "url": "https://cosmatica.org/users/589",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/589"
+    },
+    {
+      "url": "https://cosmatica.org/users/59",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/59"
+    },
+    {
+      "url": "https://cosmatica.org/users/593",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/593"
+    },
+    {
+      "url": "https://cosmatica.org/users/597",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/597"
+    },
+    {
+      "url": "https://cosmatica.org/users/603",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/603"
+    },
+    {
+      "url": "https://cosmatica.org/users/61",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/61"
+    },
+    {
+      "url": "https://cosmatica.org/users/612",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/612"
+    },
+    {
+      "url": "https://cosmatica.org/users/619",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/619"
+    },
+    {
+      "url": "https://cosmatica.org/users/621",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/621"
+    },
+    {
+      "url": "https://cosmatica.org/users/624",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/624"
+    },
+    {
+      "url": "https://cosmatica.org/users/628",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/628"
+    },
+    {
+      "url": "https://cosmatica.org/users/632",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/632"
+    },
+    {
+      "url": "https://cosmatica.org/users/633",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/633"
+    },
+    {
+      "url": "https://cosmatica.org/users/635",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/635"
+    },
+    {
+      "url": "https://cosmatica.org/users/636",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/636"
+    },
+    {
+      "url": "https://cosmatica.org/users/64",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/64"
+    },
+    {
+      "url": "https://cosmatica.org/users/646",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/646"
+    },
+    {
+      "url": "https://cosmatica.org/users/658",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/658"
+    },
+    {
+      "url": "https://cosmatica.org/users/660",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/660"
+    },
+    {
+      "url": "https://cosmatica.org/users/667",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/667"
+    },
+    {
+      "url": "https://cosmatica.org/users/67",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/67"
+    },
+    {
+      "url": "https://cosmatica.org/users/671",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/671"
+    },
+    {
+      "url": "https://cosmatica.org/users/677",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/677"
+    },
+    {
+      "url": "https://cosmatica.org/users/682",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/682"
+    },
+    {
+      "url": "https://cosmatica.org/users/686",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/686"
+    },
+    {
+      "url": "https://cosmatica.org/users/687",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/687"
+    },
+    {
+      "url": "https://cosmatica.org/users/691",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/691"
+    },
+    {
+      "url": "https://cosmatica.org/users/696",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/696"
+    },
+    {
+      "url": "https://cosmatica.org/users/697",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/697"
+    },
+    {
+      "url": "https://cosmatica.org/users/703",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/703"
+    },
+    {
+      "url": "https://cosmatica.org/users/715",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/715"
+    },
+    {
+      "url": "https://cosmatica.org/users/717",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/717"
+    },
+    {
+      "url": "https://cosmatica.org/users/729",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/729"
+    },
+    {
+      "url": "https://cosmatica.org/users/730",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/730"
+    },
+    {
+      "url": "https://cosmatica.org/users/735",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/735"
+    },
+    {
+      "url": "https://cosmatica.org/users/736",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/736"
+    },
+    {
+      "url": "https://cosmatica.org/users/740",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/740"
+    },
+    {
+      "url": "https://cosmatica.org/users/743",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/743"
+    },
+    {
+      "url": "https://cosmatica.org/users/744",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/744"
+    },
+    {
+      "url": "https://cosmatica.org/users/747",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/747"
+    },
+    {
+      "url": "https://cosmatica.org/users/752",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/752"
+    },
+    {
+      "url": "https://cosmatica.org/users/758",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/758"
+    },
+    {
+      "url": "https://cosmatica.org/users/761",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/761"
+    },
+    {
+      "url": "https://cosmatica.org/users/765",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/765"
+    },
+    {
+      "url": "https://cosmatica.org/users/767",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/767"
+    },
+    {
+      "url": "https://cosmatica.org/users/768",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/768"
+    },
+    {
+      "url": "https://cosmatica.org/users/769",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/769"
+    },
+    {
+      "url": "https://cosmatica.org/users/771",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/771"
+    },
+    {
+      "url": "https://cosmatica.org/users/778",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/778"
+    },
+    {
+      "url": "https://cosmatica.org/users/779",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/779"
+    },
+    {
+      "url": "https://cosmatica.org/users/781",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/781"
+    },
+    {
+      "url": "https://cosmatica.org/users/783",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/783"
+    },
+    {
+      "url": "https://cosmatica.org/users/784",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/784"
+    },
+    {
+      "url": "https://cosmatica.org/users/787",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/787"
+    },
+    {
+      "url": "https://cosmatica.org/users/792",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/792"
+    },
+    {
+      "url": "https://cosmatica.org/users/82",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/82"
+    },
+    {
+      "url": "https://cosmatica.org/users/83",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/83"
+    },
+    {
+      "url": "https://cosmatica.org/users/84",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/84"
+    },
+    {
+      "url": "https://cosmatica.org/users/85",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/85"
+    },
+    {
+      "url": "https://cosmatica.org/users/87",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/87"
+    },
+    {
+      "url": "https://cosmatica.org/users/9",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/9"
+    },
+    {
+      "url": "https://cosmatica.org/users/91",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/91"
+    },
+    {
+      "url": "https://cosmatica.org/users/93",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/93"
+    },
+    {
+      "url": "https://cosmatica.org/users/97",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/users/97"
+    }
+  ],
+  "timestamp": "2026-10-08T09:22:29Z"
+}

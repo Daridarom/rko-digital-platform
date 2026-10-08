@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/197",
+  "title": "Сергей Александрович Домбровский",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/b/129081cc.jpg",
+      "alt": "Сергей Александрович Домбровский"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 1"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/7/30a86034.jpg",
+      "alt": "Сергей Александрович Домбровский"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Офицер запаса. Образование Высшее. Женат, трое детей.",
+      "spans": [
+        {
+          "text": "Офицер запаса. Образование Высшее. Женат, трое детей."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Эл. почта: dombrovskiy@cosmatica.org",
+      "spans": [
+        {
+          "text": "Эл. почта: dombrovskiy@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Многодетность:",
+      "value": "Да",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Офицер запаса. Образование Высшее. Женат, трое детей. Эл. почта: dombrovskiy@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/5/b/129081cc.jpg",
+    "https://cosmatica.org/upload/002/u218/5/7/30a86034.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 212,
+    "storedTextCharacters": 138,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36468
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 136,
+  "capturedBodyCharacters": 138,
+  "sourceTextSHA256": "07f6c2501f20a18fff0fc09a97f0f47f0fcba6b6a0e6bcea1f4d334103737665",
+  "archiveSnapshotAt": "2026-10-08T09:18:25Z"
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/111-marketing.html",
+  "title": "Маркетинг",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это деятельность по созданию плана реализации потока товаров и услуг от производителя к потребителю. \r\n\r\nМаркетинг – это инструмент (",
+      "spans": [
+        {
+          "text": "это деятельность по созданию плана реализации потока товаров и услуг от производителя к потребителю. \r\n\r\nМаркетинг – это инструмент ("
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "план",
+      "spans": [
+        {
+          "text": "план"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "), связывающий производителей и потребителей и представляющий собой совокупность методов анали­за потребностей и возможностей системы и среды.",
+      "spans": [
+        {
+          "text": "), связывающий производителей и потребителей и представляющий собой совокупность методов анали­за потребностей и возможностей системы и среды."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это деятельность по созданию плана реализации потока товаров и услуг от производителя к потребителю. Маркетинг – это инструмент ( план ), связывающий производителей и потребителей и представляющий собой совокупность методов анали­за потребностей и возможностей системы и среды.",
+      "links": [
+        {
+          "title": "план",
+          "url": "https://cosmatica.org/glossary/88-plan.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 287,
+    "storedTextCharacters": 279,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32228
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 277,
+  "capturedBodyCharacters": 279,
+  "sourceTextSHA256": "cc8f38414292a6edda48c7d03bfaeeb04b5bbfdfa8c15c4c5ea7a45cfe24d054",
+  "archiveSnapshotAt": "2026-10-08T08:46:23Z"
+}

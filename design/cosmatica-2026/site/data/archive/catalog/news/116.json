@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 116,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Сохраняя память для наших детей",
+      "description": "Научные сотрудники музея, на базе которого открыт филиал Русского Космического Общества, рассказывали школьникам о партизанском движении в анапском районе во время оккупации немецкими захватчиками, познакомили подрастающее поколение со страшными событиями Великой Отечественной Войны глазами детей, предоставили возможность ознакомиться с подлинными фотографиями, документами и экспонатами из фондов музея.",
+      "url": "https://cosmatica.org/news/325-sohranjaja-pamjat-dlja-nashih-detei.html",
+      "image": "https://cosmatica.org/upload/001/u152/5/d/d0869a7b.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ca9c4c8554756448e4",
+      "type": "news-item",
+      "sourceCharacters": 1116,
+      "verified": false
+    },
+    {
+      "title": "Живопись природы в фотографиях",
+      "description": "В особняке на Малой Дмитровке, д. 27 (городская усадьба И.Г. Григорьева - Писемских) сейчас располагается ГБУ ТЦСО \"Тверской\". Здесь в 1840-1850-х гг. располагался литературный салон, который посещали Н.В. Гоголь, П.А. Вяземский, Ф.Н. Глинка, Ф.И. Тютчев, С.П. Шевырев. Усадьба представляет значительный интерес в соединении культурных и художественных традиций исторической Москвы.",
+      "url": "https://cosmatica.org/news/324-zhivopis-prirody-v-fotografijah.html",
+      "image": "https://cosmatica.org/upload/000/u8/c/3/e47179c2.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5c40401a908620ad69",
+      "type": "news-item",
+      "sourceCharacters": 1542,
+      "verified": false
+    },
+    {
+      "title": "Член Президиума РКО награждена Премией за Мир им. Махатмы Ганди",
+      "description": "В период с 25 по 27 января 2019 года в Республике Индия с официальным визитом пребывала российская делегация, в составе которой была Афанасьева Ольга Фёдоровна - член Президиума Русского Космического Общества .",
+      "url": "https://cosmatica.org/news/323-chlen-prezidiuma-rko-nagrazhdena-premiei-za-mir-im-mahatmy-gandi.html",
+      "image": "https://cosmatica.org/upload/000/u8/7/7/9cc718ba.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=09671d101ba9b71033",
+      "type": "news-item",
+      "sourceCharacters": 1162,
+      "verified": false
+    },
+    {
+      "title": "Освоение новых направлений",
+      "description": "Члены молодежного совета РКО Прудник Денис Олегович и Самарин Игорь Сергеевич провели рабочую встречу с заместителем директора института Мартыновым Дмитрием Юрьевичем .",
+      "url": "https://cosmatica.org/news/322-osvoenie-novyh-napravlenii.html",
+      "image": "https://cosmatica.org/upload/000/u26/e/5/ca0a5736.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cd035b6a7a73377efc",
+      "type": "news-item",
+      "sourceCharacters": 2084,
+      "verified": false
+    },
+    {
+      "title": "Когда общество и власть двигаются вместе!",
+      "description": "В середине января этого года от имени Гагаринского комитета, в числе других, было написано письмо и Губернатору Нижегородской области Глебу Сергеевичу Никитину.",
+      "url": "https://cosmatica.org/news/321-kogda-obschestvo-i-vlast-dvigayutsja-vmeste.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/1/kogda-obschestvo-i-vlast-dvigayutsja-vmeste-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d7b7b29db19bda681d",
+      "type": "news-item",
+      "sourceCharacters": 3051,
+      "verified": false
+    },
+    {
+      "title": "Все дороги ведут в РКО",
+      "description": "На нашей площадке собрались представители организаций, которые (казалось бы) ничем не связаны между собой.",
+      "url": "https://cosmatica.org/news/320-vse-dorogi-vedut-v-rko.html",
+      "image": "https://cosmatica.org/upload/000/u8/3/a/vse-dorogi-vedut-v-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8e366c3dc6d6bec354",
+      "type": "news-item",
+      "sourceCharacters": 4024,
+      "verified": false
+    },
+    {
+      "title": "Охватить мир объективом фотокамеры",
+      "description": "13 февраля в рамках работы фотоклуба \"Образ\" директор библиотеки г.о. Лосино-Петровский Московской области Инна Владимировна Савина открыла фотовыставку. Первыми посетителями экспозиции и слушателями лекции о пернатых стали восьмиклассники местной школы №1.",
+      "url": "https://cosmatica.org/news/319-ohvatit-mir-obektivom-fotokamery.html",
+      "image": "https://cosmatica.org/upload/000/u8/5/9/68061fb0.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=69daf9bc100e181a58",
+      "type": "news-item",
+      "sourceCharacters": 1095,
+      "verified": false
+    },
+    {
+      "title": "Раскрыты научные аспекты космоса в прошлом, настоящем и будущем",
+      "description": "8 февраля 2019 года в Санкт-Петербурге состоялась научная конференция «Наука и Космос: прошлое, настоящее, будущее».",
+      "url": "https://cosmatica.org/news/318-raskryty-nauchnye-aspekty-kosmosa-v-proshlom-nastojaschem-i-buduschem.html",
+      "image": "https://cosmatica.org/upload/000/u21/29/f3/raskryty-nauchnye-aspekty-kosmosa-v-proshlom-nastojaschem-i-buduschem.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c680df8748cd3f6a2d",
+      "type": "news-item",
+      "sourceCharacters": 12173,
+      "verified": false
+    },
+    {
+      "title": "Он сказал:\"Поехали!\" в Ельцин-центре.",
+      "description": "В центральной части Екатеринбурга, в современном комплексе «Ельцин-центр» действует площадка детского технопарка «Кванториум» https://dm-centre.ru/kvantorium ), где под руководством педагога Павла Скрипниченко реализуется дополнительная общеобразовательная программа технической направленности «Космоквантум». Именно там, 2 февраля 2019 года, в рамках работы Общественно-государственного комитета празднования 85-летия Ю",
+      "url": "https://cosmatica.org/news/316-on-skazal-poehali-v-elcin-centre.html",
+      "image": "https://cosmatica.org/upload/000/u44/46/b5/on-skazal-poehali-v-elcin-centre-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d59c0162e66acceb31",
+      "type": "news-item",
+      "sourceCharacters": 4017,
+      "verified": false
+    },
+    {
+      "title": "Международный день женщин и девочек в науке",
+      "description": "20 декабря 2013 года Генеральная Ассамблея ООН приняла резолюцию «Наука, техника и инновации в целях развития» , в которой признавался равный и полноценный доступ женщин и девочек любого возраста к достижениям и развитию науки, техники и инноваций как залог обеспечения равноправия в данной сфере. А спустя два года на очередном пленарном заседании Генассамблеи была принята резолюция (70/212), провозглашающая 11 феврал",
+      "url": "https://cosmatica.org/news/317-mezhdunarodnyi-den-zhenschin-i-devochek-v-nauke.html",
+      "image": "https://cosmatica.org/upload/000/u26/98/c3/mezhdunarodnyi-den-zhenschin-i-devochek-v-nauke-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fe08859e67e7c496a8",
+      "type": "news-item",
+      "sourceCharacters": 3008,
+      "verified": false
+    },
+    {
+      "title": "Президент посетил Уральский регион.",
+      "description": "Свердловское региональное отделение РКО было создано летом прошлого года. До сего момента оно наращивало обороты, и вот теперь, можно сказать, что деловая поездка Президента РКО явилась Прорывом к деятельности отделения в новом качестве.",
+      "url": "https://cosmatica.org/news/315-prezident-posetil-uralskii-region.html",
+      "image": "https://cosmatica.org/upload/000/u44/13/e8/vizit-prezidenta-v-uralskii-region-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7d27e2cc97662b1dce",
+      "type": "news-item",
+      "sourceCharacters": 7528,
+      "verified": false
+    },
+    {
+      "title": "Новый поход",
+      "description": "Доступен для распространения первый выпуск газеты Русского Космического Общества в 2019 году. Он открывает новый этап свершений, достижений и побед.",
+      "url": "https://cosmatica.org/news/314-novyi-pohod.html",
+      "image": "https://cosmatica.org/upload/000/u8/2b/d2/71ee3d63.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cc8f09a47ede8ad13b",
+      "type": "news-item",
+      "sourceCharacters": 2179,
+      "verified": false
+    },
+    {
+      "title": "И пусть вовек не гаснет пламя светлой мысли!",
+      "description": "От всей души поздравляем всех, кто пропускает удар сердца при взгляде на звёзды, всех, у кого душа раскрывается бездне пространства, наполненной тайнами и знаниями, а ум и разум толкают к новым открытиям, свершениям и достижениям на пути восхождения чистого сознания к вершинам мироздания!",
+      "url": "https://cosmatica.org/news/313-i-pust-vovek-ne-gasnet-plamja-svetloi-mysli.html",
+      "image": "https://cosmatica.org/upload/000/u8/6d/9c/i-pust-vovek-ne-gasnet-plamja-svetloi-mysli-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e01d3369fc00a78b3d",
+      "type": "news-item",
+      "sourceCharacters": 889,
+      "verified": false
+    },
+    {
+      "title": "Царица всех наук начала своё торжественное шествие",
+      "description": "2019 год провозглашён Генеральной ассамблеей ООН Международным годом Периодической таблицы химических элементов в честь 150-летия открытия Периодического закона химических элементов Д.И. Менделеевым.",
+      "url": "https://cosmatica.org/news/311-carica-vseh-nauk-nachala-svoyo-torzhestvennoe-shestvie.html",
+      "image": "https://cosmatica.org/upload/000/u8/21/97/619dce71.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5f22bc20df5a54545b",
+      "type": "news-item",
+      "sourceCharacters": 3563,
+      "verified": false
+    },
+    {
+      "title": "Два имени спустя десятилетия",
+      "description": "6 февраля А нна Михайловна Буйная , член Русского Космического Общества и опытный педагог, провела встречу на тему: \"Ушедшие, но не забытые\" . На занятии присутствовали учащиеся первого класса шестой школы.",
+      "url": "https://cosmatica.org/news/309-dva-imeni-spustja-desjatiletija.html",
+      "image": "https://cosmatica.org/upload/001/u152/ca/d4/aedf5463.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7c6305f70b942df8b6",
+      "type": "news-item",
+      "sourceCharacters": 1895,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

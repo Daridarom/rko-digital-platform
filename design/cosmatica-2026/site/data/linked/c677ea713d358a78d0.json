@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/508-missija-noosfernogo-obrazovanija-v-evraziiskom-proryve-rossii-k-novomu-kachestvu-bytija-chelovek.html",
+  "title": "«Миссия ноосферного образования в евразийском прорыве России к новому качеству бытия человека на земле в XXI веке».",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/3/c/11b7609b.jpg",
+      "alt": "«Миссия ноосферного образования в евразийском прорыве России к новому качеству бытия человека на земле в XXI веке»."
+    },
+    {
+      "type": "paragraph",
+      "text": "Миссия ноосферного образования в евразийском прорыве России к новому качеству бытия человека на Земле в XXI веке: коллектив-ная монография / По материалам XII Международной научной конфе-ренции «Ноосферное образование в евразийском пространстве», 23 декабря 2022 г.",
+      "spans": [
+        {
+          "text": "Миссия ноосферного образования в евразийском прорыве России к новому качеству бытия человека на Земле в XXI веке: коллектив-ная монография / По материалам XII Международной научной конфе-ренции «Ноосферное образование в евразийском пространстве», 23 декабря 2022 г."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Субетто А.И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Миссия ноосферного образования в евразийском прорыве России к новому качеству бытия человека на Земле в XXI веке: коллектив-ная монография / По материалам XII Международной научной конфе-ренции «Ноосферное образование в евразийском пространстве», 23 декабря 2022 г.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 8 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/4871/619c094725058f60bc83afb628081198"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/3/c/11b7609b.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/4871/619c094725058f60bc83afb628081198"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 420,
+    "storedTextCharacters": 265,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40815
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 304,
+  "capturedBodyCharacters": 265,
+  "sourceTextSHA256": "75c2426c067aecc819529f98cd84e67b29e3e0d2bd6e8fbe769e3861bc0029ca",
+  "archiveSnapshotAt": "2026-10-08T08:50:38Z"
+}

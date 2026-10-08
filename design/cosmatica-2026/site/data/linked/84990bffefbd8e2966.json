@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/793-novye-gosti-v-chas-rko.html",
+  "title": "Новые гости в Час РКО",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/0/e/novye-gosti-v-chas-rko-photo-normal.jpg",
+      "alt": "Новые гости в Час РКО"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "584hxf5Syms",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=584hxf5Syms"
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "aKT23t3iVvY",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=aKT23t3iVvY"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Приглашаем к просмотру новых эфиров в рубрике \"Час РКО\" на канале \"Юность Авроры\"",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В студии ИА \"Аврора\" Меркулов Александр Алексеевич , кандидат технических наук, директор технопарка КГТУ, руководитель ассоциации инновационных предприятий NBICS, председатель Калининградского отделения РКО. Он рассказал о собственной сетевой платформе Русского Космического Общества (РКО) https://rko.nbics.net/ Это первая в мире платформа, которая представляет собой процесс конвергентного сетевого взаимодействия различных субъектов, объектов и ресурсов, объединённых единой целью. План эфира: 1. Ваша платформа является аналогом таких платформами как SKYPE, ZOOM? 2. Какая Аудитория у этой платформы? 3. Каковы её Перспективы? 4. Почему в период самоизоляции учебные заведения нашей страны сделали выбор в пользу зарубежных программ? Ещё одна актуальная тема - Воспитание Героев и Творцов будущего. Детский военно-космический лагерь \"Космодесант\". http://космодесант.рф/ Тематические занятия и профориентация для поступления в высшие учебные заведения по специальностям, связанным с Космосом.... Инженер, военный лётчик, космонавт-исследователь и другие. Программа лагеря – победитель городских конкурсов и включает в себя: 1) Занятия с опытными инструкторами по тактике и маскировке, топографии и ориентированию. 2) Военно-тактические игры с использованием лазерного оборудования и макетов вооружения. 3) Спортивные игры и соревнования, элементы рукопашного боя. 4) Навыки выживания на природе, обустройство лагеря, питание, растения, разведение костров и многое другое. 5) Астрономические наблюдения, ориентирование по звёздам, космические легенды и встречи с учёными и космонавтами. 6) Беседы об Истории Отечества, о героях, песни у костра. 7) Как финал — особая программа «Ракетное Выживание» на несколько дней в лесу под контролем инструкторов. Гость студии Юность Авроры - Зотов Степан Андреевич, член Президиума и Первого отряда РКО, основатель проекта \"Космодесант\", руководитель проекта «Наша Армия». Страница проекта на сайте РКО: https://cosmatica.org/projects/cosmodesant Ведущие: Евгения Фёдоровна Кабацкая директор ИА \"Аврора\" и Олег Александрович Чагин директор НИИ Антропогенеза, действительный член РКО. Ссылка на канал Юность Авроры: https://www.youtube.com/channel/UCgelhV6iH6V7hsM7H... Ссылка на канал НИИ Антропогенеза: https://www.youtube.com/channel/UCEowc_vw7nW8ECwub...",
+      "links": [
+        {
+          "title": "Меркулов Александр Алексеевич",
+          "url": "https://cosmatica.org/users/222"
+        },
+        {
+          "title": "https://rko.nbics.net/",
+          "url": "https://rko.nbics.net/"
+        },
+        {
+          "title": "План",
+          "url": "https://cosmatica.org/glossary/88-plan.html"
+        },
+        {
+          "title": "http://космодесант.рф/",
+          "url": "https://www.youtube.com/redirect?v=aKT23t3iVvY&event=video_description&q=http%3A%2F%2F%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%B4%D0%B5%D1%81%D0%B0%D0%BD%D1%82.%D1%80%D1%84%2F&redir_token=HI5kReOeF--5-hIxjKY0ALfoL8p8MTU5MjY0NzQ1OUAxNTkyNTYxMDU5"
+        },
+        {
+          "title": "https://cosmatica.org/projects/cosmodesant",
+          "url": "https://cosmatica.org/projects/cosmodesant"
+        },
+        {
+          "title": "https://www.youtube.com/channel/UCgelhV6iH6V7hsM7H...",
+          "url": "https://www.youtube.com/channel/UCgelhV6iH6V7hsM7HZkJ_9g"
+        },
+        {
+          "title": "https://www.youtube.com/channel/UCEowc_vw7nW8ECwub...",
+          "url": "https://www.youtube.com/channel/UCEowc_vw7nW8ECwubFHMERQ"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/0/e/novye-gosti-v-chas-rko-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 2741,
+    "storedTextCharacters": 11,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 52351
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 2609,
+  "capturedBodyCharacters": 11,
+  "sourceTextSHA256": "ea3798bd18191199f896d0ba1c2965fe37474ab718a6ab49b3bccef9266285ab",
+  "archiveSnapshotAt": "2026-10-08T09:13:37Z",
+  "publicVideoCount": 2
+}

@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/118-petrov-n-v-evolyucija-zhizni-i-bessmertie-dushi.html",
+  "title": "Петров Н.В. - Эволюция жизни и бессмертие души",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u19/ed/49/petrov-n-v-evolyucija-zhizni-i-bessmertie-dushi-photo-normal.jpg",
+      "alt": "Петров Н.В. - Эволюция жизни и бессмертие души"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга предназначена для тех, кто хочет понять",
+      "spans": [
+        {
+          "text": "Книга предназначена для тех, кто хочет понять"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "жизнь",
+      "spans": [
+        {
+          "text": "жизнь"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "реально так, как она есть на самом деле. Она укрепит силу веры у верующих и откроет истину внешнего управления живым процессом для людей науки. В книге раскрывается сама суть гармоничного развития материальной формы до стадии совершенства, раскрывается причина старения, причина исчезновения многих видов живых форм, цель жизни и назначение человека.",
+      "spans": [
+        {
+          "text": "реально так, как она есть на самом деле. Она укрепит силу веры у верующих и откроет истину внешнего управления живым процессом для людей науки. В книге раскрывается сама суть гармоничного развития материальной формы до стадии совершенства, раскрывается причина старения, причина исчезновения многих видов живых форм, цель жизни и назначение человека."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Книга предназначена для тех, кто хочет понять жизнь реально так, как она есть на самом деле. Она укрепит силу веры у верующих и откроет истину внешнего управления живым процессом для людей науки. В книге раскрывается сама суть гармоничного развития материальной формы до стадии совершенства, раскрывается причина старения, причина исчезновения многих видов живых форм, цель жизни и назначение человека.",
+      "links": [
+        {
+          "title": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 4 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/291/851127740e52c2933004175465e31c93"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u19/ed/49/petrov-n-v-evolyucija-zhizni-i-bessmertie-dushi-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/291/851127740e52c2933004175465e31c93"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 468,
+    "storedTextCharacters": 400,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40278
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 421,
+  "capturedBodyCharacters": 400,
+  "sourceTextSHA256": "67c479abadfafebe07595db4b16aeab17d146b060cc4fed70f52a134f0e20980",
+  "archiveSnapshotAt": "2026-10-08T08:47:35Z"
+}

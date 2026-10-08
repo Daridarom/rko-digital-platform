@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/54-raboty-p-g-kuznecova-na-saite-situation-ru.html",
+  "title": "Работы П.Г.Кузнецова на сайте Situation.ru",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "http://situation.ru/app/aut_t_39.htm",
+      "spans": [
+        {
+          "text": "http://situation.ru/app/aut_t_39.htm"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "http://situation.ru/app/aut_t_39.htm",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 79,
+    "storedTextCharacters": 36,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 38138
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 36,
+  "capturedBodyCharacters": 36,
+  "sourceTextSHA256": "7ccb0e3a22ede2c772bd19344bce048e21af4ed2f452e2f0e7169d5bb597fb96",
+  "archiveSnapshotAt": "2026-10-08T08:50:58Z"
+}

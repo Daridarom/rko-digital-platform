@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/1755",
+  "title": "Михаил Иванович Ефремов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/c/57380e85.jpg",
+      "alt": "Михаил Иванович Ефремов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 1"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/0/6/f9c0b8a1.jpg",
+      "alt": "Михаил Иванович Ефремов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 4 года назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Секретарь Брянского отделения РКО",
+      "spans": [
+        {
+          "text": "Секретарь Брянского отделения РКО"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Брянская область",
+      "links": [
+        {
+          "title": "Брянская область",
+          "url": "https://cosmatica.org/departments/33-brjanskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Секретарь Брянского отделения РКО",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/5/c/57380e85.jpg",
+    "https://cosmatica.org/upload/000/u35/0/6/f9c0b8a1.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 139,
+    "storedTextCharacters": 83,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35799
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 71,
+  "capturedBodyCharacters": 83,
+  "sourceTextSHA256": "ff395727d5f8f2921ab9a003b994b12f3ddf33a6a641a3889be74e34a60194db",
+  "archiveSnapshotAt": "2026-10-08T09:18:17Z"
+}

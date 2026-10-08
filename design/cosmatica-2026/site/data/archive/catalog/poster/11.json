@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "poster",
+  "title": "Мероприятия",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 11,
+  "pageCount": 22,
+  "total": 316,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Дни РКО в Беларуси",
+      "description": "В рамках проводимого членом РКО Беларуси Харкевичем Юрием Анатольевичем военно-спортивного лагеря, на берегу Велейского водохранилища, Русское Космическое Общество представит специальную программу.",
+      "url": "https://cosmatica.org/poster/178-dni-rko-v-belarusi.html",
+      "image": "https://cosmatica.org/upload/001/u186/9/e/1da0b25f.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=7783731026e4e2a043",
+      "type": "poster-item",
+      "sourceCharacters": 852,
+      "verified": false
+    },
+    {
+      "title": "Вечер памяти Антуана де Сент-Экзюпери",
+      "description": "Вечер, посвящённый памяти великого писателя, гуманиста, легенды Франции - военного лётчика Антуана де Сент-Экзюпери, пройдёт в Культурном центре библиотеки им. А. де Сент-Экзюпери.",
+      "url": "https://cosmatica.org/poster/175-vecher-pamjati-antuana-de-sent-ekzyuperi.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/0/vecher-pamjati-antuana-de-sent-ekzyuperi-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=60ff201f76f37064a6",
+      "type": "poster-item",
+      "sourceCharacters": 701,
+      "verified": false
+    },
+    {
+      "title": "Тропа здоровья #Тропа здоровья",
+      "description": "27 июля нас ждёт \"Тропа здоровья\". Идём приблизительно 15 км.",
+      "url": "https://cosmatica.org/poster/174-tropa-zdorovja.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/7/tropa-zdorovja-photo-big.png",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=29796471d6a73f1cdd",
+      "type": "poster-item",
+      "sourceCharacters": 1154,
+      "verified": false
+    },
+    {
+      "title": "Презентация книги Вадима Ловчикова \"Научный апокалипсис\"",
+      "description": "Что такое масса,заряд электричества, температура, агрегатное состояние ..?",
+      "url": "https://cosmatica.org/poster/173-prezentacija-knigi-vadima-lovchikova-nauchnyi-apokalipsis.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/d/prezentacija-knigi-vadima-lovchikova-nauchnyi-apokalipsis-photo-b.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=2976826a757f2bd256",
+      "type": "poster-item",
+      "sourceCharacters": 901,
+      "verified": false
+    },
+    {
+      "title": "Субботник по уборке русла и берегов реки Лобня #Экопроект «Действуем разумно живя на Земле»",
+      "description": "В рамках проекта \"Действуем разумно, живя на Земле\" состоится субботник по очистке реки Лобня (Подмосковье). Организаторы проекта будут рады видеть всех желающих.",
+      "url": "https://cosmatica.org/poster/172-subbotnik-po-uborke-rusla-i-beregov-reki-lobnja.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/8/subbotnik-po-uborke-rusla-i-beregov-reki-lobnja-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=ca4863438fa4ef6095",
+      "type": "poster-item",
+      "sourceCharacters": 751,
+      "verified": false
+    },
+    {
+      "title": "Спортклуб «Роскосмоса» и Русское Космическое Общество проведут турнир по мини-футболу",
+      "description": "В прошлом году также в августе прошёл турнир, организованный спортклубом «Роскосмоса», в котором приняла участие и команда Русского Космического Общества, заняв пятое место из четырнадцати команд-участниц.",
+      "url": "https://cosmatica.org/poster/171-sportklub-roskosmosa-i-russkoe-kosmicheskoe-obschestvo-provedut-turnir-po-mini-futbolu.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/4/sportklub-roskosmosa-i-russkoe-kosmicheskoe-obschestvo-provedut-t.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=b5eaedbeebe115fc69",
+      "type": "poster-item",
+      "sourceCharacters": 1435,
+      "verified": false
+    },
+    {
+      "title": "Первое учредительное собрание Волгоградского отделения РКО",
+      "description": "Место проведения: Актовый зал администрации Кумылженского муниципального района Волгоградской области (станица Кумылженская, ул. Мира 18).",
+      "url": "https://cosmatica.org/poster/170-pervoe-uchreditelnoe-sobranie-volgogradskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/4/pervoe-uchreditelnoe-sobranie-volgogradskogo-otdelenija-rko-photo.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=10c338648661a163ee",
+      "type": "poster-item",
+      "sourceCharacters": 2766,
+      "verified": false
+    },
+    {
+      "title": "Подведение итогов конкурса «Звёздное перо – 2018»",
+      "description": "\"Звёздное перо 2018\" проводился Литературное объединение \"Зодиак\", г. Кашира с 1 сентября по 1 декабря 2018 года.",
+      "url": "https://cosmatica.org/poster/169-podvedenie-itogov-konkursa-zvyozdnoe-pero-2018.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/c/podvedenie-itogov-konkursa-zvyozdnoe-pero-2018-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=a7556f2a12de46e38a",
+      "type": "poster-item",
+      "sourceCharacters": 830,
+      "verified": false
+    },
+    {
+      "title": "Первое учредительное собрание Калининградского отделения РКО",
+      "description": "Первое учредительное собрание Калининградского отделения Русского космического общества",
+      "url": "https://cosmatica.org/poster/168-pervoe-uchreditelnoe-sobranie-kaliningradskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/002/u209/7/4/pervoe-uchreditelnoe-sobranie-kaliningradskogo-otdelenija-rko-pho.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=372b003f914ff15fac",
+      "type": "poster-item",
+      "sourceCharacters": 1407,
+      "verified": false
+    },
+    {
+      "title": "Первые \"Гагаринские сборы\" на планете Земля #Первые \"Гагаринские сборы\" на планете Земля",
+      "description": "Первые «Гагаринские сборы» на планете Земля состоятся в период с 25 по 27 июня 2019 года на базе Мемориального комплекса Ю. А. Гагарина , в городе Гагарин, Смоленской области",
+      "url": "https://cosmatica.org/poster/167-pervye-gagarinskie-sbory-na-planete-zemlja.html",
+      "image": "https://cosmatica.org/upload/002/u212/7/a/pervye-gagarinskie-sbory-na-planete-zemlja-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=c6318711faad85e7e5",
+      "type": "poster-item",
+      "sourceCharacters": 3084,
+      "verified": false
+    },
+    {
+      "title": "Лекция об истории развития отечественного ракетостроения.",
+      "description": "Лето – это не только солнце и свежий воздух, но и интересные мероприятия для того, чтобы узнать что-то новое! Всех, кто ещё не совсем расплавился от жары, приглашаем на просветительскую лекцию-беседу на тему \"300-летняя история развития отечественного ракетостроения\".",
+      "url": "https://cosmatica.org/poster/166-lekcija-ob-istorii-razvitija-otechestvennogo-raketostroenija.html",
+      "image": "https://cosmatica.org/upload/001/u133/7/2/lekcija-ob-istorii-razvitija-otechestvennogo-raketostroenija-photo.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=67c97cecf7a572e934",
+      "type": "poster-item",
+      "sourceCharacters": 1493,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль \"Золотой щит\". Казачий спас. #Фестиваль \"Золотой щит - казачий Спас\"",
+      "description": "С 23 июля на фестивале будет работать площадка Русского Космического общества.",
+      "url": "https://cosmatica.org/poster/165-festival-zolotoi-schit-kazachii-spas.html",
+      "image": "https://cosmatica.org/upload/002/u211/b/4/festival-zolotoi-schit-kazachii-spas-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=1abc5bb10244dce69a",
+      "type": "poster-item",
+      "sourceCharacters": 1398,
+      "verified": false
+    },
+    {
+      "title": "Презентация проекта \"Прорыв\" #Создание полнометражного художественного фильма \"Прорыв\"",
+      "description": "Приглашаем Вас на презентацию проекта создания полнометражного игрового художественного фильма «Прорыв» ставящего своей целью возрождении мечты о Космосе.",
+      "url": "https://cosmatica.org/poster/164-prezentacija-proekta-proryv.html",
+      "image": "https://cosmatica.org/upload/000/u21/2/1/prezentacija-proekta-proryv-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=899bf76f278d473c09",
+      "type": "poster-item",
+      "sourceCharacters": 1748,
+      "verified": false
+    },
+    {
+      "title": "Акция по сбору раздельно собранного вторсырья",
+      "description": "1 июня состоится вторая акция по сбору раздельно собранного вторсырья под эгидой Экологического Совета РКО .",
+      "url": "https://cosmatica.org/poster/163-akcija-po-sboru-razdelno-sobrannogo-vtorsyrja.html",
+      "image": "https://cosmatica.org/upload/000/u21/8/0/akcija-po-sboru-razdelno-sobrannogo-vtorsyrja-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=76b866fde989b0543a",
+      "type": "poster-item",
+      "sourceCharacters": 2292,
+      "verified": false
+    },
+    {
+      "title": "МежВУЗовский форум молодых новаторов",
+      "description": "Приглашаются студенты всех курсов и любой специализации на МежВУЗовский форум молодых новаторов, инициатором которого является Молодежный Центр Инновационных Разработок и Изобретений (МЦИРИ) и Русское Космическое Общество а также, школьники, для участия в творческом клубе МТК-«iзобретатель», увлекающиеся изобретательским творчеством или желающие им заняться серьезно и надолго.",
+      "url": "https://cosmatica.org/poster/162-mezhvuzovskii-forum-molodyh-novatorov.html",
+      "image": "https://cosmatica.org/upload/000/u26/1/a/mezhvuzovskii-forum-molodyh-novatorov-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=a4b37c450c215945ac",
+      "type": "poster-item",
+      "sourceCharacters": 1939,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/102-metodologija.html",
+  "title": "Методология",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это совокупность познавательных средств, используе­мых для ответа на вопрос «как получить",
+      "spans": [
+        {
+          "text": "это совокупность познавательных средств, используе­мых для ответа на вопрос «как получить"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "знание",
+      "spans": [
+        {
+          "text": "знание"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "». Методология – на­ука о методе или логика метода.",
+      "spans": [
+        {
+          "text": "». Методология – на­ука о методе или логика метода."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Метод",
+      "spans": [
+        {
+          "text": "Метод"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "дает возможность получать но­вое знание и проектировать",
+      "spans": [
+        {
+          "text": "дает возможность получать но­вое знание и проектировать"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "развитие",
+      "spans": [
+        {
+          "text": "развитие"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "системы.",
+      "spans": [
+        {
+          "text": "системы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это совокупность познавательных средств, используе­мых для ответа на вопрос «как получить знание ». Методология – на­ука о методе или логика метода. Метод дает возможность получать но­вое знание и проектировать развитие системы.",
+      "links": [
+        {
+          "title": "знание",
+          "url": "https://cosmatica.org/glossary/128-znanie.html"
+        },
+        {
+          "title": "Метод",
+          "url": "https://cosmatica.org/glossary/108-metod.html"
+        },
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 240,
+    "storedTextCharacters": 222,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32548
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 228,
+  "capturedBodyCharacters": 222,
+  "sourceTextSHA256": "f6073cf9131eef0e378f56197e132a8aa1be4c8aa9aa5e77dc6d12560cb17493",
+  "archiveSnapshotAt": "2026-10-08T08:46:20Z"
+}

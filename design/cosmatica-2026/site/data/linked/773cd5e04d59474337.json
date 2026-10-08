@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/447-velosiped.html",
+  "title": "Велосипед",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u38/5/a/velosiped-photo-normal.jpg",
+      "alt": "Велосипед"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга доступна для чтения по адресу: https://ridero.ru/books/velosiped_1/ Будем рады Вашей поддержке, отзывам и комментариям.",
+      "spans": [
+        {
+          "text": "Книга доступна для чтения по адресу: https://ridero.ru/books/velosiped_1/ Будем рады Вашей поддержке, отзывам и комментариям."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Степан Андреевич Зотов",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга доступна для чтения по адресу: https://ridero.ru/books/velosiped_1/ Будем рады Вашей поддержке, отзывам и комментариям.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u38/5/a/velosiped-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 165,
+    "storedTextCharacters": 125,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 38859
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 155,
+  "capturedBodyCharacters": 125,
+  "sourceTextSHA256": "b0711b590819002860e88add199553eceb479215c7d9a200219025642d4596e9",
+  "archiveSnapshotAt": "2026-10-08T08:50:14Z"
+}

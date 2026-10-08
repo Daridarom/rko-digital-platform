@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "projects",
+  "title": "Проекты",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 7,
+  "pageCount": 20,
+  "total": 290,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Академия Горя и Радости (АГРА)",
+      "description": "Невозможное вчера, становится возможным сегодня.",
+      "url": "https://cosmatica.org/projects/agra",
+      "image": "https://cosmatica.org/upload/003/u318/0/7/akademija-gorja-i-radosti-agra-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=d9b30f6d29715c031d",
+      "type": "project",
+      "sourceCharacters": 2755,
+      "verified": false
+    },
+    {
+      "title": "\"РОДОСФЕРА\" - вперёд на землю!",
+      "description": "Цель проекта — создание устойчивой системы развития культуры и цивилизации на благо приумножения потенциала природы и как следствие изобильного существования всех её составных элементов человек \\ природа \\ общество.",
+      "url": "https://cosmatica.org/projects/rodosfera",
+      "image": "https://cosmatica.org/upload/003/u318/1/5/rodosfera-vperyod-na-zemlyu-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=44a8484e9605af0667",
+      "type": "project",
+      "sourceCharacters": 1498,
+      "verified": false
+    },
+    {
+      "title": "ПАСКЕЯ - мониторинг и создание окружающей среды",
+      "description": "ПАСКЕЯ — это био-социоцентричная сетевая платформа, которая помогает решить множество насущных проблем в сфере экологии.",
+      "url": "https://cosmatica.org/projects/239",
+      "image": "https://cosmatica.org/upload/003/u318/9/4/paskeja-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=591d50a8bc65d46e4e",
+      "type": "project",
+      "sourceCharacters": 394,
+      "verified": false
+    },
+    {
+      "title": "Сохраняя память. Родом из Донбасса: Воронин Г.И., Кривошеин Н.А.",
+      "description": "Донецкое отделение Русского Космического Общества в честь 60-летия первого полёта человека в космос инициирует проведение в Донецкой народной республике проекта «Сохраняя память. Родом из Донбасса: Воронин Г.И., Кривошеин Н.А.», посвящённого изучению жизнедеятельности и увековечению памяти выдающихся советских конструкторов, которые внесли весомый вклад в создание ракетной и космической техники, уроженцев Донбасса (г",
+      "url": "https://cosmatica.org/projects/238",
+      "image": "https://cosmatica.org/upload/000/u35/9/1/sohranjaja-pamjat-rodom-iz-donbassa-voronin-g-i-krivoshein-n-a.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=bcc487f1e8ed790454",
+      "type": "project",
+      "sourceCharacters": 11398,
+      "verified": false
+    },
+    {
+      "title": "Национальный книгопроект «Природосообразные учебники – детям России»",
+      "description": "Миссия: создание учебников, развивающих здоровье и проектное мышление учеников.",
+      "url": "https://cosmatica.org/projects/237",
+      "image": "https://cosmatica.org/upload/002/u218/6/a/nacionalnyi-knigoproekt-prirodosoobraznye-uchebniki-detjam-ros.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=5fe939a31f39c524c9",
+      "type": "project",
+      "sourceCharacters": 15647,
+      "verified": false
+    },
+    {
+      "title": "Система сохранения и развития общественного здоровья - \"ЦЕЛОСФЕРА\"",
+      "description": "Для того чтобы планово вести свою деятельность у себя в регионе, муниципальном образовании, округе, надо стать членом нашего движения, создать региональное отделение, быть активным сторонником НАШЕГО МИРОВОЗЗРЕНИЯ!",
+      "url": "https://cosmatica.org/projects/236",
+      "image": "https://cosmatica.org/upload/000/u35/b/2/sistema-sohranenija-i-razvitija-obschestvennogo-zdorovja-celosfer.jpeg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=565d2dc4f8ff183ee6",
+      "type": "project",
+      "sourceCharacters": 4449,
+      "verified": false
+    },
+    {
+      "title": "Платформа Инновационного Развития (ПИР)",
+      "description": "« Общество, способное использовать идеи, появляющиеся в сознании отдельного индивидуума, для роста возможностей общества в целом и использующее рост возможностей общества как целого для формирования индивидуума, способного генерировать новые идеи, — будет обладать наиболее быстрым темпом роста возможностей ».",
+      "url": "https://cosmatica.org/projects/pir",
+      "image": "https://cosmatica.org/upload/000/u35/5/1/platforma-innovacionnogo-razvitija-pir-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e7b3f8209d78dcbdd8",
+      "type": "project",
+      "sourceCharacters": 14337,
+      "verified": false
+    },
+    {
+      "title": "Детский космический год в Снежинске",
+      "description": "Проект Челябинского отделения Русского Космического Общества",
+      "url": "https://cosmatica.org/projects/234",
+      "image": "https://cosmatica.org/upload/000/u35/a/8/detskii-kosmicheskii-god-v-snezhinske-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=a9613bdadea0f392fe",
+      "type": "project",
+      "sourceCharacters": 2478,
+      "verified": false
+    },
+    {
+      "title": "Конкурс \"Космические зарисовки\"",
+      "description": "Региональный конкурс детского и молодёжного творчества «Космические зарисовки» (далее – конкурс).",
+      "url": "https://cosmatica.org/projects/233",
+      "image": "https://cosmatica.org/upload/002/u218/5/5/konkurs-kosmicheskie-zarisovki-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=4c68178e0bc204405b",
+      "type": "project",
+      "sourceCharacters": 4964,
+      "verified": false
+    },
+    {
+      "title": "Ресурсный Центр развития сельских территорий",
+      "description": "О Ресурсном Центре развития сельских территорий",
+      "url": "https://cosmatica.org/projects/232",
+      "image": "https://cosmatica.org/upload/003/u318/f/b/resursnyi-centr-razvitija-selskih-territorii-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=5f26e6ef02a7b64893",
+      "type": "project",
+      "sourceCharacters": 2554,
+      "verified": false
+    },
+    {
+      "title": "Молодёжный форум \"Космический импульс\"",
+      "description": "20 марта в 15:00 на территории молодёжного центра «Импульс» состоится Молодёжный форум Гражданско-патриотической направленности, посвященный 60-летию полёта Ю.А. Гагарина в Космос.",
+      "url": "https://cosmatica.org/projects/230",
+      "image": "https://cosmatica.org/upload/002/u218/3/d/51778094.jpeg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=ea0e7463b3c74b3070",
+      "type": "project",
+      "sourceCharacters": 1468,
+      "verified": false
+    },
+    {
+      "title": "Авиамодельный клуб «ЗИГЗАГ»",
+      "description": "Авиамодельный клуб «ЗИГЗАГ» создан при нахабинской школе №3",
+      "url": "https://cosmatica.org/projects/zigzag",
+      "image": "https://cosmatica.org/upload/000/u35/d/9/f49d8cb4.jpeg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e81251ba6abdffa83e",
+      "type": "project",
+      "sourceCharacters": 1784,
+      "verified": false
+    },
+    {
+      "title": "Ветераны космодрома Байконур",
+      "description": "Чтобы совершить прорыв, необходимо приложить большое количество энергии, сил и средств в правильном направлении. Развитие человечества идёт по законам природы и опирается на предыдущий мировой опыт.",
+      "url": "https://cosmatica.org/projects/veterany-baikonura",
+      "image": "https://cosmatica.org/upload/000/u35/f/0/veterany-kosmodroma-baikonur-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=4212cd10d09ea887c7",
+      "type": "project",
+      "sourceCharacters": 2006,
+      "verified": false
+    },
+    {
+      "title": "Путь к звёздам: становление и развитие советской/российской космонавтики",
+      "description": "КОНКУРС ТВОРЧЕСКИХ ИССЛЕДОВАТЕЛЬСКИХ И ПРАКТИКО-ОРИЕНТИРОВАННЫХ ПРОЕКТОВ",
+      "url": "https://cosmatica.org/projects/225",
+      "image": "https://cosmatica.org/upload/002/u218/9/b/rossiiskoi-kosm.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=7eaccc725529a731ea",
+      "type": "project",
+      "sourceCharacters": 11257,
+      "verified": false
+    },
+    {
+      "title": "Всероссийский конкурс детского творчества «Хочу в космос»",
+      "description": "Посвящается Дню космонавтики, юбилею первого полёта человека в космос",
+      "url": "https://cosmatica.org/projects/224",
+      "image": "https://cosmatica.org/upload/002/u218/2/a/vserossiiskii-konkurs-detskogo-tvorchestva-hochu-v-kosmos-logo.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=fad6b09e3995087ea2",
+      "type": "project",
+      "sourceCharacters": 7228,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

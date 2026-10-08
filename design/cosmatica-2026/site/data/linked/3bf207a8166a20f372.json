@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/967-v-donecke-proshla-pervaja-chast-online-konferencii-kosmos-i-civilizacija-proshloe-nastojaschee-b.html",
+  "title": "В Донецке прошла первая часть online-конференции «Космос и цивилизация: прошлое, настоящее, будущее»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Научно-практическая конференция \"Космос и цивилизация: прошлое, настоящее, будущее...\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "10 апреля на базе ДонНТУ состоялся первый этап Международной научно-практической online-конференции \"Космос и цивилизация: прошлое, настоящее, будущее...\".",
+      "spans": [
+        {
+          "text": "10 апреля на базе ДонНТУ состоялся первый этап Международной  научно-практической online-конференции \"Космос и цивилизация: прошлое,  настоящее, будущее...\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Репортаж снял Первый Республиканский Телеканал ДНР",
+      "spans": [
+        {
+          "text": "Репортаж снял Первый Республиканский Телеканал ДНР "
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "1deX5Z06wg0",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=1deX5Z06wg0"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "10 апреля на базе ДонНТУ состоялся первый этап Международной научно-практической online-конференции \"Космос и цивилизация: прошлое, настоящее, будущее...\". Репортаж снял Первый Республиканский Телеканал ДНР",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 414,
+    "storedTextCharacters": 292,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 75134
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 225,
+  "capturedBodyCharacters": 292,
+  "sourceTextSHA256": "2871a0fab95df13edead6d2ce0ba4610ee610a313d306beb03b287dc0618a469",
+  "archiveSnapshotAt": "2026-10-08T08:44:51Z",
+  "publicVideoCount": 1
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 307,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Владислав Николаевич Липисивицкий",
+      "description": "",
+      "url": "https://cosmatica.org/users/206",
+      "image": "https://cosmatica.org/upload/000/u26/1/1/9f454347.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=abe328ba1da5a00faa",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Калининградское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/209",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=4ad6efd8a513c478e1",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Санкт-Петербургское отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/21",
+      "image": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=33d30527afa06c3118",
+      "type": "profile",
+      "sourceCharacters": 10,
+      "verified": false
+    },
+    {
+      "title": "Кемеровское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/210",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=3f15ee38ae0d1a1cac",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Волгоградское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/211",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=90fbebb8004ddf5e44",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Смоленское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/212",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=9a101d6b20a481d841",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Александр Леонидович Яковенко",
+      "description": "Наставник Молодежного Центра Инновационных Разработок и Изобретений Русского Космического Общества (МЦИРИ РКО).",
+      "url": "https://cosmatica.org/users/213",
+      "image": "https://cosmatica.org/upload/000/u26/b/b/a3375eda.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=d2ab5bcdf4a615bec2",
+      "type": "profile",
+      "sourceCharacters": 139,
+      "verified": false
+    },
+    {
+      "title": "Олег Николаевич Цуканов",
+      "description": "Специалист в области технологии машиностроения, металлорежущих станков и инструментов.",
+      "url": "https://cosmatica.org/users/214",
+      "image": "https://cosmatica.org/upload/000/u26/f/3/aa5b35f8.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=f2444e57402ecc5b04",
+      "type": "profile",
+      "sourceCharacters": 2488,
+      "verified": false
+    },
+    {
+      "title": "Информационно-аналитический центр РКО",
+      "description": "",
+      "url": "https://cosmatica.org/users/218",
+      "image": "https://cosmatica.org/upload/002/u218/4/4/6b05285e.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=e3e0f1dbc4170caf9a",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Виталий Владиславович Лебедев",
+      "description": "Виталий Владиславович Лебедев родился 5 октября 1964 г. в г.Ленинграде в семье служащих. В 1980 г. закончил 8-летнюю Среднюю школу № 125 и одновременно Художественную школу № 6. В этом же году поступил в Ленинградский Физико-механический техникум им. Зверева на Факультет «Оптико-электронные приборы», который успешно закончил в 1984 г.",
+      "url": "https://cosmatica.org/users/22",
+      "image": "https://cosmatica.org/upload/000/u21/b6/41/6e42c0a2.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=c1c8dbe36c8813f73d",
+      "type": "profile",
+      "sourceCharacters": 33138,
+      "verified": false
+    },
+    {
+      "title": "Константин Владимирович Гуськов",
+      "description": "Калининградский планетарий им. Ф. В. Бесселя. Директор",
+      "url": "https://cosmatica.org/users/223",
+      "image": "https://cosmatica.org/upload/000/u35/7/9/05b68f04.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=4475df71f7ebd123fd",
+      "type": "profile",
+      "sourceCharacters": 99,
+      "verified": false
+    },
+    {
+      "title": "Ирина Геннадьевна Лукшене",
+      "description": "Секретарь Калининградского отделения Русского Космического Общества",
+      "url": "https://cosmatica.org/users/224",
+      "image": "https://cosmatica.org/upload/000/u35/b/5/132c84b6.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=b062db5bf0e20c89f8",
+      "type": "profile",
+      "sourceCharacters": 176,
+      "verified": false
+    },
+    {
+      "title": "Иван Викторович Черных",
+      "description": "Председатель КРОО «Спортивно-патриотический клуб «Славянин», руководитель многих социальных проектов. Закончил РГУ им. И. Канта 2004-2009 г. по специальности математика; аспирантуру БФУ им. И. Канта, кафедра математического анализа, 2010-2013; магистратуру БФУ им. И. Канта по специальности физической культура и спорт 2013-2016. Депутат Багратионовского городского Совета депутатов 2014-2017 Профессиональный спортсмен.",
+      "url": "https://cosmatica.org/users/225",
+      "image": "assets/source/4fa28eedd40174b56806457b.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=50b5b0e74740c810cc",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Анастасия Сергеевна Фомина",
+      "description": "Выпускница ГМК им. Гнесиных (класс ЗА РФ М. Ю. Евтушенко, 2009), Санкт-Петербургской государственной консерватории им. Н. А. Римского-Корсакова (класс доцента, лауреата Всероссийского конкурса И. Н. Ершовой, 2014), ассистентуры-стажировки СПбГИК (научное руководство- профессор Н.А.Кравцов 2018), магистр искусств (2016).",
+      "url": "https://cosmatica.org/users/226",
+      "image": "https://cosmatica.org/upload/002/u226/a/3/67602612.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=f25f5d02cacf08f5e3",
+      "type": "profile",
+      "sourceCharacters": 1650,
+      "verified": false
+    },
+    {
+      "title": "Елизавета Александровна Панченко",
+      "description": "Елизавета Панченко (р. 1987) — молодой русский композитор и мультиинструменталист (орган, клавесин, фортепиано); член Союза композиторов Санкт-Петербурга, Союза композиторов России, РАО. Автор идеи и участник проекта «Гусли в космосе», артист ансамбля старинной музыки Barocco Concertato (Санкт-Петербург), лауреат конкурса Van Wassenaer (2016). В числе сочинений — камерная опера «Дафна» на сюжет Овидия (2013), кантата",
+      "url": "https://cosmatica.org/users/227",
+      "image": "https://cosmatica.org/upload/000/u35/8/e/f614294f.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=e8fb76825857296331",
+      "type": "profile",
+      "sourceCharacters": 1314,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

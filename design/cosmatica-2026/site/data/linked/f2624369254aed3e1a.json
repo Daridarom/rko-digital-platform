@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/30-o-mnozhestvennosti-geometrii-i-mnozhestvennosti-fizik.html",
+  "title": "О множественности геометрий и множественности физик",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Современная наука, включая физику, представляет собой\r\n«развивающийся организм», в рамках которого все",
+      "spans": [
+        {
+          "text": "Современная наука, включая физику, представляет собой\r\n«развивающийся организм», в рамках которого все"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "время",
+      "spans": [
+        {
+          "text": "время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "сохраняется",
+      "spans": [
+        {
+          "text": "сохраняется"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "тенденция",
+      "spans": [
+        {
+          "text": "тенденция"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "к открытию новых, ранее неизвестных\r\nзаконов природы.",
+      "spans": [
+        {
+          "text": "к открытию новых, ранее неизвестных\r\nзаконов природы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Современная наука, включая физику, представляет собой «развивающийся организм», в рамках которого все время сохраняется тенденция к открытию новых, ранее неизвестных законов природы.",
+      "links": [
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        },
+        {
+          "title": "тенденция",
+          "url": "https://cosmatica.org/glossary/166-tendencija.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 298 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/46/172eeff88232bb59efbfdd11fdebc5aa"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/46/172eeff88232bb59efbfdd11fdebc5aa"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 255,
+    "storedTextCharacters": 180,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39607
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 203,
+  "capturedBodyCharacters": 180,
+  "sourceTextSHA256": "7cbaaafff35409f3e4933ac00464ebc06d4a356a691ccbb6c2d829dbc5375005",
+  "archiveSnapshotAt": "2026-10-08T08:49:05Z"
+}

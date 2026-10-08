@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/319-izgotovlenie-i-kontrol-opticheskih-detalei-1983.html",
+  "title": "Изготовление и контроль оптических деталей (1983)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/c/d/izgotovlenie-i-kontrol-opticheskih-detalei-1983-photo-normal.jpg",
+      "alt": "Изготовление и контроль оптических деталей (1983)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Приведены основные сведения об изготовлении оптических деталей, свойствах стекла, обрабатывающих и вспомогательных материалах; рассмотрены станки, инструменты и технологическая оснастка для обработки деталей; описан технологический процесс обработки; даны краткие сведения о механизации и автоматизации процессов оптического производства; изложены методы технического контроля.",
+      "spans": [
+        {
+          "text": "Приведены основные сведения об изготовлении оптических деталей, свойствах стекла, обрабатывающих и вспомогательных материалах; рассмотрены станки, инструменты и технологическая оснастка для обработки деталей; описан технологический процесс обработки; даны краткие сведения о механизации и автоматизации процессов оптического производства; изложены методы технического контроля."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Ефремов А.А., Сальников Ю.В.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Приведены основные сведения об изготовлении оптических деталей, свойствах стекла, обрабатывающих и вспомогательных материалах; рассмотрены станки, инструменты и технологическая оснастка для обработки деталей; описан технологический процесс обработки; даны краткие сведения о механизации и автоматизации процессов оптического производства; изложены методы технического контроля.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 14 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2052/2f99051e4be4d527c2778c91c3684493"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/c/d/izgotovlenie-i-kontrol-opticheskih-detalei-1983-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2052/2f99051e4be4d527c2778c91c3684493"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 483,
+    "storedTextCharacters": 377,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40726
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 433,
+  "capturedBodyCharacters": 377,
+  "sourceTextSHA256": "6d2ee297a316608c9b1158cf8d66f42e0de42a8a7bf10e9d97fcabf98ba5164b",
+  "archiveSnapshotAt": "2026-10-08T08:49:16Z"
+}

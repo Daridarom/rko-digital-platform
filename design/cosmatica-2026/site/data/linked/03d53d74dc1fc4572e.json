@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/713",
+  "title": "Алексей Андреевич Горшков",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/6/d3590d3f.jpg",
+      "alt": "Алексей Андреевич Горшков"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/5/3851535c.jpg",
+      "alt": "Алексей Андреевич Горшков"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Крымского отделения РКО",
+      "spans": [
+        {
+          "text": "Председатель Крымского отделения РКО"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Участник проекта «Киноуроки в школах России»: kinouroki.ru",
+      "spans": [
+        {
+          "text": "Участник проекта «Киноуроки в школах России»: kinouroki.ru"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Общественный деятель",
+      "spans": [
+        {
+          "text": "Общественный деятель"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Участник СВО",
+      "spans": [
+        {
+          "text": "Участник СВО"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Республика Крым",
+      "links": [
+        {
+          "title": "Республика Крым",
+          "url": "https://cosmatica.org/departments/6-respublika-krym.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Многодетность:",
+      "value": "Да",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Председатель Крымского отделения РКО Участник проекта «Киноуроки в школах России»: kinouroki.ru Общественный деятель Участник СВО",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/c/6/d3590d3f.jpg",
+    "https://cosmatica.org/upload/000/u35/c/5/3851535c.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 235,
+    "storedTextCharacters": 159,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35582
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 184,
+  "capturedBodyCharacters": 159,
+  "sourceTextSHA256": "6f787033652297cfeae0e118383c895ecafb8afde1202e45a30daa706e82ba8c",
+  "archiveSnapshotAt": "2026-10-08T09:21:53Z"
+}

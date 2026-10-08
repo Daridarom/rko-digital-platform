@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1728-glava-rko-na-narodnom-slavjanskom-radio.html",
+  "title": "Глава РКО на народном Славянском радио",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/3/2/glava-rko-na-narodnom-slavjanskom-radio-photo-normal.jpg",
+      "alt": "Глава РКО на народном Славянском радио"
+    },
+    {
+      "type": "paragraph",
+      "text": "Простые рецепты и конкретные шаги к победе над войной от Главы Русского Космического Общества Гапонова Алексея Алексеевича .",
+      "spans": [
+        {
+          "text": "Простые рецепты и конкретные шаги к победе над войной от Главы Русского Космического Общества "
+        },
+        {
+          "text": "Гапонова Алексея Алексеевича",
+          "href": "https://cosmatica.org/users/7"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "links": [
+        {
+          "text": "Гапонова Алексея Алексеевича",
+          "url": "https://cosmatica.org/users/7"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "СВО - это битва за время . Время - это то, что нужно нам для того, чтобы успеть создать будущее, родив и верно воспитав наших детей в настоящем.",
+      "spans": [
+        {
+          "text": "СВО - это битва за  "
+        },
+        {
+          "text": "время",
+          "href": "https://cosmatica.org/glossary/157-vremja.html"
+        },
+        {
+          "text": ". Время - это то, что нужно нам для того, чтобы успеть создать будущее, родив и верно воспитав наших детей в настоящем."
+        }
+      ],
+      "links": [
+        {
+          "text": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "hhrMdwykSLk",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=hhrMdwykSLk"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Простым языком о сложном и главном.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Простые рецепты и конкретные шаги к победе над войной от Главы Русского Космического Общества Гапонова Алексея Алексеевича . СВО - это битва за время . Время - это то, что нужно нам для того, чтобы успеть создать будущее, родив и верно воспитав наших детей в настоящем.",
+      "links": [
+        {
+          "title": "Гапонова Алексея Алексеевича",
+          "url": "https://cosmatica.org/users/7"
+        },
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/3/2/glava-rko-na-narodnom-slavjanskom-radio-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 541,
+    "storedTextCharacters": 279,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 46196
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 392,
+  "capturedBodyCharacters": 279,
+  "sourceTextSHA256": "13bf8790686fb6c002f29cb8e4e82b7b2e61cd936afb3706b624878566f7e8ba",
+  "archiveSnapshotAt": "2026-10-08T09:08:23Z",
+  "publicVideoCount": 1
+}

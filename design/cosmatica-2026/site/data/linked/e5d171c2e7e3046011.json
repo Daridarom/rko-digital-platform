@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/37",
+  "title": "Челябинское областное отделение",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u37/4a/82/2975be20.jpg",
+      "alt": "Челябинское областное отделение"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 6"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u37/4d/c4/23dfa381.jpg",
+      "alt": "Челябинское областное отделение"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 2"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u37/4a/82/2975be20.jpg",
+    "https://cosmatica.org/upload/000/u37/4d/c4/23dfa381.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 97,
+    "storedTextCharacters": 51,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35362
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 10,
+  "capturedBodyCharacters": 51,
+  "sourceTextSHA256": "0843745e11113f5b0b0e25f23e794d9d9fe5d81bfdfea46464e167e39aa665d8",
+  "archiveSnapshotAt": "2026-10-08T09:19:24Z"
+}

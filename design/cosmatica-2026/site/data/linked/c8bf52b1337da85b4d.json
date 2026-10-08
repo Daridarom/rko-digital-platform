@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/192-konceptualnaja-model-ustoichivogo-razvitija-rossiiskoi-federacii.html",
+  "title": "Концептуальная модель устойчивого развития Российской Федерации",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/f/3/konceptualnaja-model-ustoichivogo-razvitija-rossiiskoi-federacii.jpg",
+      "alt": "Концептуальная модель устойчивого развития Российской Федерации"
+    },
+    {
+      "type": "paragraph",
+      "text": "В работе проводится систематизация инициативных идей, мыслей и предложений, высказанных В.В.Путиным и Д.А.Медведевым в ходе предвыборной компании Президента РФ в декабре 2007 г. – марте 2008 г., на основе которых разрабатывается концептуальная",
+      "spans": [
+        {
+          "text": "В работе проводится систематизация инициативных идей, мыслей и предложений, высказанных В.В.Путиным и Д.А.Медведевым в ходе предвыборной компании Президента РФ в декабре 2007 г. – марте 2008 г., на основе которых разрабатывается концептуальная"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "модель",
+      "spans": [
+        {
+          "text": "модель"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "устойчивого развития Российской Федерации, представленная в форме матрицы «неисчезающих потребностей».",
+      "spans": [
+        {
+          "text": "устойчивого развития Российской Федерации, представленная в форме матрицы «неисчезающих потребностей»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Работа",
+      "spans": [
+        {
+          "text": "Работа"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "выполнена при финансовой поддержке РГНФ в рамках научно-исследовательского проекта РГНФ №07-03-90306а/Б.",
+      "spans": [
+        {
+          "text": "выполнена при финансовой поддержке РГНФ в рамках научно-исследовательского проекта РГНФ №07-03-90306а/Б."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Большаков Б.Е., Шадров К.Н.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В работе проводится систематизация инициативных идей, мыслей и предложений, высказанных В.В.Путиным и Д.А.Медведевым в ходе предвыборной компании Президента РФ в декабре 2007 г. – марте 2008 г., на основе которых разрабатывается концептуальная модель устойчивого развития Российской Федерации, представленная в форме матрицы «неисчезающих потребностей». Работа выполнена при финансовой поддержке РГНФ в рамках научно-исследовательского проекта РГНФ №07-03-90306а/Б.",
+      "links": [
+        {
+          "title": "модель",
+          "url": "https://cosmatica.org/glossary/105-model.html"
+        },
+        {
+          "title": "Работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 170 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1460/0a99cdc9541d5c91f062f19bb59f0340"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u10/f/3/konceptualnaja-model-ustoichivogo-razvitija-rossiiskoi-federacii.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1460/0a99cdc9541d5c91f062f19bb59f0340"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 585,
+    "storedTextCharacters": 461,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 41042
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 521,
+  "capturedBodyCharacters": 461,
+  "sourceTextSHA256": "8a1b5ba97433f3aeaf1b3f2d89bd076b6bbbcd63842da3c99061fce2ed97c4d2",
+  "archiveSnapshotAt": "2026-10-08T08:47:56Z"
+}

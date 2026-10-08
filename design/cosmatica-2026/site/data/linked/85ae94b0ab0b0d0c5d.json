@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/10-umov-nikolai-alekseevich-matematika-mehanika-fizika-astronomija.html",
+  "title": "Умов Николай Алексеевич - Математика. Механика. Физика. Астрономия.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/3a/5f/umov-nikolai-alekseevich-matematika-mehanika-fizika-astronom.jpg",
+      "alt": "Умов Николай Алексеевич - Математика. Механика. Физика. Астрономия."
+    },
+    {
+      "type": "paragraph",
+      "text": "В сборник вошли наиболее выдающиеся работы физика-теоретика и философа\r\nН.А.Умова, а также автобиографический и биографический очерки.",
+      "spans": [
+        {
+          "text": "В сборник вошли наиболее выдающиеся работы физика-теоретика и философа\r\nН.А.Умова, а также автобиографический и биографический очерки."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Умов Николай Алексеевич",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В сборник вошли наиболее выдающиеся работы физика-теоретика и философа Н.А.Умова, а также автобиографический и биографический очерки.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 27 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/11/b861e052fa6312cb016b5385bf5396e3"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/3a/5f/umov-nikolai-alekseevich-matematika-mehanika-fizika-astronom.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/11/b861e052fa6312cb016b5385bf5396e3"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 252,
+    "storedTextCharacters": 134,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40246
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 184,
+  "capturedBodyCharacters": 134,
+  "sourceTextSHA256": "43f9b3a85d156846917601366a4a000f3aa72d3984ba8dfda653a4b327b50e88",
+  "archiveSnapshotAt": "2026-10-08T08:47:31Z"
+}

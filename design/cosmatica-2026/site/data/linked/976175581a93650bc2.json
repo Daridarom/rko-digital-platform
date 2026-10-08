@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1088-tropa-muzhestva-osen-2020-kak-eto-bylo.html",
+  "title": "Тропа Мужества - осень 2020. Как это было",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Тропа Мужества",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа ВКонтакте",
+      "spans": [
+        {
+          "text": "Группа ВКонтакте",
+          "href": "https://vk.com/natropu"
+        }
+      ],
+      "links": [
+        {
+          "text": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ссылка на Youtube",
+      "spans": [
+        {
+          "text": "Ссылка на Youtube",
+          "href": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "links": [
+        {
+          "text": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Полный текст исходного материала"
+    },
+    {
+      "type": "paragraph",
+      "text": "Официальный сайт Группа ВКонтакте Ссылка на Youtube тропа мужества , проверь себя , пеший марафон , русское космическое общество Информационно-аналитический центр РКО",
+      "spans": [
+        {
+          "text": "Официальный сайт Группа ВКонтакте Ссылка на Youtube тропа мужества , проверь себя , пеший марафон , русское космическое общество Информационно-аналитический центр РКО"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "glQrDIqfr10",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=glQrDIqfr10"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Официальный сайт Группа ВКонтакте Ссылка на Youtube",
+      "links": [
+        {
+          "title": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        },
+        {
+          "title": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 224,
+    "storedTextCharacters": 48,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 74770
+  },
+  "textFallbackRequired": true,
+  "originalKind": "article",
+  "sourceTextCharacters": 166,
+  "capturedBodyCharacters": 246,
+  "sourceTextSHA256": "a11494035904dfd7440a8c1971270d19aa4939be10a97ab3e78919b529ea44e7",
+  "archiveSnapshotAt": "2026-10-08T08:38:11Z",
+  "publicVideoCount": 1
+}

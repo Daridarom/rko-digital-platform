@@ -132,6 +132,8 @@ def import_one(item,overwrite):
 def run(args):
  inventory=json.loads((ARCHIVE/'inventory.json').read_text())
  rows=inventory['records']
+ if args.skip_missing_404:
+  rows=[r for r in rows if r.get('availability')!='not_found_404']
  if args.kind:
   rows=[x for x in rows if x['kind'] in args.kind]
  if args.limit:rows=rows[:args.limit]
@@ -158,4 +160,5 @@ if __name__=='__main__':
  p.add_argument('--kind',action='append')
  p.add_argument('--workers',type=int,choices=[1,2,3],default=2)
  p.add_argument('--overwrite',action='store_true')
+ p.add_argument('--skip-missing-404',action='store_true',help='Do not retry URLs confirmed 404 in prior pass')
  sys.exit(run(p.parse_args()))

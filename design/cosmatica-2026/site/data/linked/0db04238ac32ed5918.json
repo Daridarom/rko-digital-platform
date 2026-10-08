@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1006-elektricheskaja-energija-istochniki-toka-novogo-tipa.html",
+  "title": "Электрическая энергия – источники тока нового типа",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Лекторий Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "В рамках проекта Лекторий Русского Космического Общества 24 апреля 2019 года состоялся открытый семинар на тему: «Электрическая энергия – источники тока нового типа».",
+      "spans": [
+        {
+          "text": "В  рамках проекта Лекторий Русского Космического Общества 24 апреля 2019  года состоялся открытый семинар на тему: «Электрическая энергия –  источники тока нового типа»."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "CqQGN50JHc8",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=CqQGN50JHc8"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В рамках проекта Лекторий Русского Космического Общества 24 апреля 2019 года состоялся открытый семинар на тему: «Электрическая энергия – источники тока нового типа». Выступал руководитель Секции Авангардных исследований при Совете труда и творчества РКО, инженер-исследователь Анищенко Александр Михайлович. Тема доклада «Источники тока нового типа». В докладе изложено: 1. Физические основы работы химических источников тока (ХИТ). 2. Основа технологии производства источников тока нового типа.",
+      "links": [
+        {
+          "title": "Секции Авангардных исследований",
+          "url": "https://cosmatica.org/section/6-avangardnye-issledovanija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 737,
+    "storedTextCharacters": 206,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 76721
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 645,
+  "capturedBodyCharacters": 206,
+  "sourceTextSHA256": "7284474818642e4fd4adcb91787a42451753e2fc909ca5449665a3bbcd5e454c",
+  "archiveSnapshotAt": "2026-10-08T08:37:13Z",
+  "publicVideoCount": 1
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/323-den-i-noch-vremena-goda-1947.html",
+  "title": "День и ночь. Времена года (1947)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/d/den-i-noch-vremena-goda-1947-photo-normal.png",
+      "alt": "День и ночь. Времена года (1947)"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Кунций Р. В.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 3 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2056/2490dee4b72d766ae90518707ab7bcad"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/9/d/den-i-noch-vremena-goda-1947-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2056/2490dee4b72d766ae90518707ab7bcad"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 71,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 38989
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 38,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "b24ed0b0ccfd30f5aa89dead61b86fe8006faa906532d5c800eb753af5614c45",
+  "archiveSnapshotAt": "2026-10-08T08:49:18Z"
+}

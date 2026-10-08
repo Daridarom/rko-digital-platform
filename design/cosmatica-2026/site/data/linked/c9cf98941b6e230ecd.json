@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/533-cel-sozdanija-organicheskogo-razuma.html",
+  "title": "Цель создания органического разума",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/5/cel-sozdanija-organicheskogo-razuma-photo-normal.jpg",
+      "alt": "Цель создания органического разума"
+    },
+    {
+      "type": "paragraph",
+      "text": "Друзья, соотечественники, земляне! Эта книга нужна нам всем потому, что остановить  деградацию жизни на Земле может только понимание того, что мы — органический разум биосферы и сотворены для того, чтобы сделать Вселенную средой обитания Жизни сотворенной на Земле Вселенским Разумом!",
+      "spans": [
+        {
+          "text": "Друзья, соотечественники, земляне! Эта книга нужна нам всем потому, что остановить  деградацию жизни на Земле может только понимание того, что мы — органический разум биосферы и сотворены для того, чтобы сделать Вселенную средой обитания Жизни сотворенной на Земле Вселенским Разумом!"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Шапиро В.А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Друзья, соотечественники, земляне! Эта книга нужна нам всем потому, что остановить деградацию жизни на Земле может только понимание того, что мы — органический разум биосферы и сотворены для того, чтобы сделать Вселенную средой обитания Жизни сотворенной на Земле Вселенским Разумом!",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/5500/75ec104a946bb519f3191cd6130addb7"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/e/5/cel-sozdanija-organicheskogo-razuma-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/5500/75ec104a946bb519f3191cd6130addb7"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 356,
+    "storedTextCharacters": 284,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39921
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 321,
+  "capturedBodyCharacters": 284,
+  "sourceTextSHA256": "c6196b6d703754d609736c573dd76b0efaf788f5a517b4959e173e8faa13e6d5",
+  "archiveSnapshotAt": "2026-10-08T08:50:57Z"
+}

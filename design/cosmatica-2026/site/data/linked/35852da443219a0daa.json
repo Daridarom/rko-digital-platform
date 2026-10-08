@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/nauchnoe-nasledie-p-g-kuznecova",
+  "title": "Научное наследие П.Г.Кузнецова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "П.Г.Кузнецов. Идеи и жизнь.",
+          "Никоноров С.П.",
+          ""
+        ],
+        [
+          "",
+          "Математическое обеспечение управления. Меры развития общества",
+          "Гвардейцев Михаил Иванович, Кузнецов Побиск Георгиевич, Розенберг Владимир Яковлевич",
+          ""
+        ],
+        [
+          "",
+          "Избранные труды П.Г.Кузнецова",
+          "",
+          ""
+        ],
+        [
+          "",
+          "О смысле жизни человечества",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Метод «дефектной ведомости»",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Тождество и противоположность грамматических и логических форм",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Киловатт-час — универсальная мера стоимости в мировой экономике III тысячелетия (к парламентским слу",
+          "",
+          ""
+        ],
+        [
+          "",
+          "К проблеме оснований математики",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Конструкторы будущего: интервью с П.Г. Кузнецовым",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Меморандум о преступлениях против Человечества Международного Валютного Фонда",
+          "",
+          ""
+        ],
+        [
+          "",
+          "LaRouche in dialogue with Russian science (дискуссия П.Г. Кузнецова и Линдона Ларуша на семинаре в А",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Принцип полной редукции как «двойник» принципа полной индукции (о доказательстве последней теоремы Ф",
+          "",
+          ""
+        ],
+        [
+          "",
+          "О международной комплексной целевой программе «ПРЕЗИДЕНТ»: обращение к мировым политическим лидерам,",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Законы истории и социальное конструирование XXI века",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Необратимость исторического процесса природы и общества в трудах В.И. Вернадского и в науке",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/8/2/bec56af6.jpg",
+      "alt": "П.Г.Кузнецов. Идеи и жизнь."
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/5f/db/izbrannye-trudy-p-g-kuznecova-photo-small.png",
+      "alt": "Избранные труды П.Г.Кузнецова"
+    }
+  ],
+  "cards": [
+    {
+      "title": "П.Г.Кузнецов. Идеи и жизнь.",
+      "description": "П.Г.Кузнецов. Идеи и жизнь. Никоноров С.П.",
+      "url": "https://cosmatica.org/library/492-p-g-kuznecov-idei-i-zhizn.html",
+      "image": "https://cosmatica.org/upload/000/u7/8/2/bec56af6.jpg",
+      "links": [
+        {
+          "title": "П.Г.Кузнецов. Идеи и жизнь.",
+          "url": "https://cosmatica.org/library/492-p-g-kuznecov-idei-i-zhizn.html"
+        }
+      ]
+    },
+    {
+      "title": "Математическое обеспечение управления. Меры развития общества",
+      "description": "Математическое обеспечение управления. Меры развития общества Гвардейцев Михаил Иванович, Кузнецов Побиск Георгиевич, Розенберг Владимир Яковлевич",
+      "url": "https://cosmatica.org/library/462-matematicheskoe-obespechenie-upravlenija-mery-razvitija-obschestva.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Математическое обеспечение управления. Меры развития общества",
+          "url": "https://cosmatica.org/library/462-matematicheskoe-obespechenie-upravlenija-mery-razvitija-obschestva.html"
+        }
+      ]
+    },
+    {
+      "title": "Избранные труды П.Г.Кузнецова",
+      "description": "Избранные труды П.Г.Кузнецова",
+      "url": "https://cosmatica.org/library/47-izbrannye-trudy-p-g-kuznecova.html",
+      "image": "https://cosmatica.org/upload/000/u1/5f/db/izbrannye-trudy-p-g-kuznecova-photo-small.png",
+      "links": [
+        {
+          "title": "Избранные труды П.Г.Кузнецова",
+          "url": "https://cosmatica.org/library/47-izbrannye-trudy-p-g-kuznecova.html"
+        }
+      ]
+    },
+    {
+      "title": "О смысле жизни человечества",
+      "description": "О смысле жизни человечества",
+      "url": "https://cosmatica.org/library/46-o-smysle-zhizni-chelovechestva.html",
+      "image": null,
+      "links": [
+        {
+          "title": "О смысле жизни человечества",
+          "url": "https://cosmatica.org/library/46-o-smysle-zhizni-chelovechestva.html"
+        }
+      ]
+    },
+    {
+      "title": "Метод «дефектной ведомости»",
+      "description": "Метод «дефектной ведомости»",
+      "url": "https://cosmatica.org/library/45-metod-defektnoi-vedomosti.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Метод «дефектной ведомости»",
+          "url": "https://cosmatica.org/library/45-metod-defektnoi-vedomosti.html"
+        }
+      ]
+    },
+    {
+      "title": "Тождество и противоположность грамматических и логических форм",
+      "description": "Тождество и противоположность грамматических и логических форм",
+      "url": "https://cosmatica.org/library/44-tozhdestvo-i-protivopolozhnost-grammaticheskih-i-logicheskih-form.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Тождество и противоположность грамматических и логических форм",
+          "url": "https://cosmatica.org/library/44-tozhdestvo-i-protivopolozhnost-grammaticheskih-i-logicheskih-form.html"
+        }
+      ]
+    },
+    {
+      "title": "Киловатт-час — универсальная мера стоимости в мировой экономике III тысячелетия (к парламентским слу",
+      "description": "Киловатт-час — универсальная мера стоимости в мировой экономике III тысячелетия (к парламентским слу",
+      "url": "https://cosmatica.org/library/43-kilovatt-chas-universalnaja-mera-stoimosti-v-mirovoi-ekonomike-iii-tysjacheletija-k-parlamentskim.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Киловатт-час — универсальная мера стоимости в мировой экономике III тысячелетия (к парламентским слу",
+          "url": "https://cosmatica.org/library/43-kilovatt-chas-universalnaja-mera-stoimosti-v-mirovoi-ekonomike-iii-tysjacheletija-k-parlamentskim.html"
+        }
+      ]
+    },
+    {
+      "title": "К проблеме оснований математики",
+      "description": "К проблеме оснований математики",
+      "url": "https://cosmatica.org/library/42-k-probleme-osnovanii-matematiki.html",
+      "image": null,
+      "links": [
+        {
+          "title": "К проблеме оснований математики",
+          "url": "https://cosmatica.org/library/42-k-probleme-osnovanii-matematiki.html"
+        }
+      ]
+    },
+    {
+      "title": "Конструкторы будущего: интервью с П.Г. Кузнецовым",
+      "description": "Конструкторы будущего: интервью с П.Г. Кузнецовым",
+      "url": "https://cosmatica.org/library/41-konstruktory-buduschego-intervyu-s-p-g-kuznecovym.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Конструкторы будущего: интервью с П.Г. Кузнецовым",
+          "url": "https://cosmatica.org/library/41-konstruktory-buduschego-intervyu-s-p-g-kuznecovym.html"
+        }
+      ]
+    },
+    {
+      "title": "Меморандум о преступлениях против Человечества Международного Валютного Фонда",
+      "description": "Меморандум о преступлениях против Человечества Международного Валютного Фонда",
+      "url": "https://cosmatica.org/library/40-memorandum-o-prestuplenijah-protiv-chelovechestva-mezhdunarodnogo-valyutnogo-fonda.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Меморандум о преступлениях против Человечества Международного Валютного Фонда",
+          "url": "https://cosmatica.org/library/40-memorandum-o-prestuplenijah-protiv-chelovechestva-mezhdunarodnogo-valyutnogo-fonda.html"
+        }
+      ]
+    },
+    {
+      "title": "LaRouche in dialogue with Russian science (дискуссия П.Г. Кузнецова и Линдона Ларуша на семинаре в А",
+      "description": "LaRouche in dialogue with Russian science (дискуссия П.Г. Кузнецова и Линдона Ларуша на семинаре в А",
+      "url": "https://cosmatica.org/library/39-larouche-in-dialogue-with-russian-science-diskussija-p-g-kuznecova-i-lindona-larusha-na-seminare-.html",
+      "image": null,
+      "links": [
+        {
+          "title": "LaRouche in dialogue with Russian science (дискуссия П.Г. Кузнецова и Линдона Ларуша на семинаре в А",
+          "url": "https://cosmatica.org/library/39-larouche-in-dialogue-with-russian-science-diskussija-p-g-kuznecova-i-lindona-larusha-na-seminare-.html"
+        }
+      ]
+    },
+    {
+      "title": "Принцип полной редукции как «двойник» принципа полной индукции (о доказательстве последней теоремы Ф",
+      "description": "Принцип полной редукции как «двойник» принципа полной индукции (о доказательстве последней теоремы Ф",
+      "url": "https://cosmatica.org/library/37-princip-polnoi-redukcii-kak-dvoinik-principa-polnoi-indukcii-o-dokazatelstve-poslednei-teoremy-f.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Принцип полной редукции как «двойник» принципа полной индукции (о доказательстве последней теоремы Ф",
+          "url": "https://cosmatica.org/library/37-princip-polnoi-redukcii-kak-dvoinik-principa-polnoi-indukcii-o-dokazatelstve-poslednei-teoremy-f.html"
+        }
+      ]
+    },
+    {
+      "title": "О международной комплексной целевой программе «ПРЕЗИДЕНТ»: обращение к мировым политическим лидерам,",
+      "description": "О международной комплексной целевой программе «ПРЕЗИДЕНТ»: обращение к мировым политическим лидерам,",
+      "url": "https://cosmatica.org/library/36-o-mezhdunarodnoi-kompleksnoi-celevoi-programme-prezident-obraschenie-k-mirovym-politicheskim-lide.html",
+      "image": null,
+      "links": [
+        {
+          "title": "О международной комплексной целевой программе «ПРЕЗИДЕНТ»: обращение к мировым политическим лидерам,",
+          "url": "https://cosmatica.org/library/36-o-mezhdunarodnoi-kompleksnoi-celevoi-programme-prezident-obraschenie-k-mirovym-politicheskim-lide.html"
+        }
+      ]
+    },
+    {
+      "title": "Законы истории и социальное конструирование XXI века",
+      "description": "Законы истории и социальное конструирование XXI века",
+      "url": "https://cosmatica.org/library/35-zakony-istorii-i-socialnoe-konstruirovanie-xxi-veka.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Законы истории и социальное конструирование XXI века",
+          "url": "https://cosmatica.org/library/35-zakony-istorii-i-socialnoe-konstruirovanie-xxi-veka.html"
+        }
+      ]
+    },
+    {
+      "title": "Необратимость исторического процесса природы и общества в трудах В.И. Вернадского и в науке",
+      "description": "Необратимость исторического процесса природы и общества в трудах В.И. Вернадского и в науке",
+      "url": "https://cosmatica.org/library/34-neobratimost-istoricheskogo-processa-prirody-i-obschestva-v-trudah-v-i-vernadskogo-i-v-nauke.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Необратимость исторического процесса природы и общества в трудах В.И. Вернадского и в науке",
+          "url": "https://cosmatica.org/library/34-neobratimost-istoricheskogo-processa-prirody-i-obschestva-v-trudah-v-i-vernadskogo-i-v-nauke.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/8/2/bec56af6.jpg",
+    "https://cosmatica.org/upload/000/u1/5f/db/izbrannye-trudy-p-g-kuznecova-photo-small.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1138,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 15,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 57021
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 1138,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "16c9463716d561593e970bbe016fe94836d12e00cb0a90c69809ef131b556616",
+  "archiveSnapshotAt": "2026-10-08T08:51:14Z"
+}

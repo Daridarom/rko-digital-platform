@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/190-dvoistvennye-seti-i-setevaja-model-socialno-ekonomicheskoi-sistemy.html",
+  "title": "Двойственные сети и сетевая модель социально-экономической системы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u20/8/4/dvoistvennye-seti-i-setevaja-model-socialno-ekonomicheskoi-siste.jpg",
+      "alt": "Двойственные сети и сетевая модель социально-экономической системы"
+    },
+    {
+      "type": "paragraph",
+      "text": "Метод",
+      "spans": [
+        {
+          "text": "Метод"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "двойственных сетей, основанный на инварианте двойственности, дает",
+      "spans": [
+        {
+          "text": "двойственных сетей, основанный на инварианте двойственности, дает"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "закон",
+      "spans": [
+        {
+          "text": "закон"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "сохранения потока энергии и методы расчета сложных систем с переменной структурой,\r\nвключая сетевые модели экономических систем для управления устойчивым развитием.",
+      "spans": [
+        {
+          "text": "сохранения потока энергии и методы расчета сложных систем с переменной структурой,\r\nвключая сетевые модели экономических систем для управления устойчивым развитием."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Работа",
+      "spans": [
+        {
+          "text": "Работа"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "выполнена по гранту Президента Российской Федерации для государственной\r\nподдержки ведущих научных школ Российской Федерации в рамках научного исследования\r\n№НШ-1269.2008.9.",
+      "spans": [
+        {
+          "text": "выполнена по гранту Президента Российской Федерации для государственной\r\nподдержки ведущих научных школ Российской Федерации в рамках научного исследования\r\n№НШ-1269.2008.9."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Петров А.Е.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Метод двойственных сетей, основанный на инварианте двойственности, дает закон сохранения потока энергии и методы расчета сложных систем с переменной структурой, включая сетевые модели экономических систем для управления устойчивым развитием. Работа выполнена по гранту Президента Российской Федерации для государственной поддержки ведущих научных школ Российской Федерации в рамках научного исследования №НШ-1269.2008.9.",
+      "links": [
+        {
+          "title": "Метод",
+          "url": "https://cosmatica.org/glossary/108-metod.html"
+        },
+        {
+          "title": "закон",
+          "url": "https://cosmatica.org/glossary/139-zakon.html"
+        },
+        {
+          "title": "Работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 149 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1458/40df34e6b52f9fd270917b537b24f336"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u20/8/4/dvoistvennye-seti-i-setevaja-model-socialno-ekonomicheskoi-siste.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1458/40df34e6b52f9fd270917b537b24f336"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 527,
+    "storedTextCharacters": 418,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 41120
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 460,
+  "capturedBodyCharacters": 418,
+  "sourceTextSHA256": "3c407bf7e2685d1d5d959b5b1c132ffc44c39ccdb924f93c0760280992d5bf94",
+  "archiveSnapshotAt": "2026-10-08T08:47:55Z"
+}

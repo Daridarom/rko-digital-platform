@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 86,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Если с другом вышел в путь - веселей дорога!",
+      "description": "Нейский этап лета 2020 стал уникальным по многим параметрам. Одно то, что Тропа была организована в столь непростой период для всей страны в кратчайшие сроки и, преодолев все ограничения и трудности, состоялась – уже достижение. Про уникальную дистанцию в 210 км мы рассказывали ранее, отдав должное мужеству героев, решившихся на такой марш-бросок и с честью прошедших испытание.",
+      "url": "https://cosmatica.org/news/804-esli-s-drugom-vyshel-v-put-veselei-doroga.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/5/a9b26ab2.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=12bbdd683890ad8cff",
+      "type": "news-item",
+      "sourceCharacters": 4386,
+      "verified": false
+    },
+    {
+      "title": "800 зелёных жизней",
+      "description": "Нами было высажено 800 саженцев винограда амурского, которые в дальнейшем будут отправлены в родовые селения и тем, кто занимается восстановлением популяции редких растений.",
+      "url": "https://cosmatica.org/news/803-800-zelyonyh-zhiznei.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/c/75a56c93.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d5184fb88cc54a2708",
+      "type": "news-item",
+      "sourceCharacters": 1290,
+      "verified": false
+    },
+    {
+      "title": "Тропа Мужества. Лето 2020. Первый этап завершён!",
+      "description": "Завершился первый этап Похода Победы. Марш-бросок в 210 км не всем удалось завершить. Но это не главное. Главное то, что эти отважные первопроходцы нашли в себе смелость и мужественно шагнули в неизвестность.",
+      "url": "https://cosmatica.org/news/801-tropa-muzhestva-leto-2020-pervyi-etap-zavershyon.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/3/tropa-muzhestva-leto-2020-pervyi-etap-zavershyon-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=66b4d26e0575586623",
+      "type": "news-item",
+      "sourceCharacters": 3227,
+      "verified": false
+    },
+    {
+      "title": "«Электричество. Просто о простом. Часть 2. Расширенная и дополненная»",
+      "description": "Доклад руководителя Секции Авангардных исследований при Совете труда и творчества РКО, естествоиспытателя, инженера-механика Александра Михайловича Анищенко",
+      "url": "https://cosmatica.org/news/800-elektrichestvo-prosto-o-prostom-chast-2-rasshirennaja-i-dopolnennaja.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/7/elektrichestvo-prosto-o-prostom-chast-2-rasshirennaja-i-dopolne.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a60b753d26ec0c8c89",
+      "type": "news-item",
+      "sourceCharacters": 625,
+      "verified": false
+    },
+    {
+      "title": "Новый выпуск цикла передач \"Прорыв!\". Герой программы: Прудник Денис Олегович",
+      "description": "\"Прорыв!\" - серия передач Русского Космического Общества на канале \"ANNA News\".",
+      "url": "https://cosmatica.org/news/799-novyi-vypusk-cikla-peredach-proryv-geroi-programmy-prudnik-denis-olegovich.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/6/novyi-vypusk-cikla-peredach-proryv-geroi-programmy-prudnik-d.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bc1ee9345163c16ae3",
+      "type": "news-item",
+      "sourceCharacters": 969,
+      "verified": false
+    },
+    {
+      "title": "\"Поход Победы\" состоялся!",
+      "description": "22 июня 2020 года, ровно в 4 утра, вышли в \"Поход Победы\", на маршрут памяти, протяжённостью 210 километров 14 добровольцев объединённой команды ↑↑↑ ТРОПА МУЖЕСТВА ↑↑↑ .",
+      "url": "https://cosmatica.org/news/798-pohod-pobedy-sostojalsja.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/3/pohod-pobedy-sostojalsja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=33703256ab1b2efbe2",
+      "type": "news-item",
+      "sourceCharacters": 2276,
+      "verified": false
+    },
+    {
+      "title": "Кто преуспел в русской литературной композиции?",
+      "description": "\"Каждый человек хотя бы и несколько раз за свою жизнь , но пережил состояние вдохновения - душевного подъёма, свежести, живого восприятия действительности, полноты мысли и сознания своей творческой силы\". К.Г. Паустовский",
+      "url": "https://cosmatica.org/news/802-kto-preuspel-v-russkoi-literaturnoi-kompozicii.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/7/kto-preuspel-v-russkoi-literaturnoi-kompozicii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c6903b4feb3c75f72c",
+      "type": "news-item",
+      "sourceCharacters": 2486,
+      "verified": false
+    },
+    {
+      "title": "Молодёжь и бизнес: опыт создания технопарков на промышленных предприятиях России. Итоги",
+      "description": "Круглый стол состоялся 11 июня в режиме реального времени на цифровой платформе Русского Космического Общества rko.nbics.net",
+      "url": "https://cosmatica.org/news/797-molodyozh-i-biznes-opyt-sozdanija-tehnoparkov-na-promyshlennyh-predprijatijah-rossii-itogi.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/f/molodyozh-i-biznes-opyt-sozdanija-tehnoparkov-na-promyshlennyh-pre.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4f0f19f57fddca67c8",
+      "type": "news-item",
+      "sourceCharacters": 690,
+      "verified": false
+    },
+    {
+      "title": "Тропа мужества в Нее началась!",
+      "description": "На маршрут памяти, протяжённостью 210 километров вышли 14 добровольцев команды ↑↑↑ ТРОПА МУЖЕСТВА ↑↑↑ в их числе 3 девушки. Их маршрут проляжет через живописные просторы Нейского района Костромской области. принимающей стороной этого этапа нашего проекта является НП \"ВОТЧИНА\" г. Нея. Благодарность за труд и самоотдачу этой замечательной команде единомышленников, горячо любящих родной край и Россию, делом доказывающим",
+      "url": "https://cosmatica.org/news/795-tropa-muzhestva-v-nee-nachalas.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/1/tropa-muzhestva-nachalas-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c6ed5a48f9ed34d418",
+      "type": "news-item",
+      "sourceCharacters": 1498,
+      "verified": false
+    },
+    {
+      "title": "Вечная память Героям",
+      "description": "В ночь с 21 на 22 июня 1941 года, в нашем небе самолётам со свастикой противостояли самолёты с красными звёздами на крыльях.",
+      "url": "https://cosmatica.org/news/796-vechnaja-pamjat-gerojam.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/a/vechnaja-pamjat-gerojam-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d7e9d1e012c22cca87",
+      "type": "news-item",
+      "sourceCharacters": 1143,
+      "verified": false
+    },
+    {
+      "title": "Торжественное открытие памятника Игорю Петровичу Волку в Жуковском",
+      "description": "Открытие памятника должно было состояться 12 апреля, в День космонавтики и День рождения Игоря Петровича, однако из-за ограничительных мер мероприятие пришлось перенести.",
+      "url": "https://cosmatica.org/news/794-torzhestvennoe-otkrytie-pamjatnika-igoryu-petrovichu-volku-v-zhukovskom.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/5/torzhestvennoe-otkrytie-pamjatnika-igoryu-petrovichu-volku-v-zhukovsk_db80ca9e21eaf2dc5b4b232195e30dba.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ed0686078e48f7c39b",
+      "type": "news-item",
+      "sourceCharacters": 4190,
+      "verified": false
+    },
+    {
+      "title": "Новые гости в Час РКО",
+      "description": "Приглашаем к просмотру новых эфиров в рубрике \"Час РКО\" на канале \"Юность Авроры\"",
+      "url": "https://cosmatica.org/news/793-novye-gosti-v-chas-rko.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/e/novye-gosti-v-chas-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=84990bffefbd8e2966",
+      "type": "news-item",
+      "sourceCharacters": 2609,
+      "verified": false
+    },
+    {
+      "title": "О развитии сотрудничества РКО - МЗЭМА",
+      "description": "16 июня состоялась встреча представителей Молодёжного совета Русского Космического Общества с руководством предприятия АО «Московский завод электромеханической аппаратуры» (ГК Роскосмос).",
+      "url": "https://cosmatica.org/news/792-o-razvitii-sotrudnichestva-rko-mzema.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/b/o-razvitii-sotrudnichestva-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b92ec6d03eaeb993c4",
+      "type": "news-item",
+      "sourceCharacters": 2224,
+      "verified": false
+    },
+    {
+      "title": "Изучение космоса, как расширение границ познания",
+      "description": "Александр Иванович Лазуткин - лётчик-космонавт, Герой России, член Совета \"Первых\" Русского Космического Общества. Он совсем недавно встал в наш общий строй, получив членский билет за номером 300.",
+      "url": "https://cosmatica.org/news/790-izuchenie-kosmosa-kak-rasshirenie-granic-poznanija.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/9/izuchenie-kosmosa-kak-rasshirenie-granic-poznanija-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d513e557a4b57e918e",
+      "type": "news-item",
+      "sourceCharacters": 2033,
+      "verified": false
+    },
+    {
+      "title": "Дневник разработки проекта \"Наша Вселенная\" за май 2020",
+      "description": "Друзья, мир постепенно приходит в себя после пандемии, и понятно, что он никогда не будет прежним, у каждого в жизни произошли перемены. Но жизнь продолжается, и мы продолжаем проект , продолжаем воплощать в реальности наши космические мечты.",
+      "url": "https://cosmatica.org/news/789-dnevnik-razrabotki-proekta-nasha-vselennaja-za-mai-2020.html",
+      "image": "https://cosmatica.org/upload/000/u64/1/d/dnevnik-razrabotki-proekta-nasha-vselennaja-za-mai-2020-photo-no.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c7c27146ea56981f9c",
+      "type": "news-item",
+      "sourceCharacters": 1064,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

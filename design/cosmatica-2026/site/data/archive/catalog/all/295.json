@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 295,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Календарь космических событий",
+      "description": "Наша страна по праву считается основательницей практической космонавтики.",
+      "url": "https://cosmatica.org/projects/kosmokalendar",
+      "image": "https://cosmatica.org/upload/000/u26/b9/12/kalendar-kosmicheskih-sobytii-logo-normal.png",
+      "kind": "project",
+      "href": "view.html?p=project&ref=484cadb0d7814e499c",
+      "type": "project",
+      "sourceCharacters": 1339,
+      "verified": false
+    },
+    {
+      "title": "«Космос, меняющий нас...»",
+      "description": "Инициаторами проекта являются: «Галерея на чистых прудах» Делового центра Торгово-промышленной палаты Российской Федерации (дир. Новиков В.П.), Творческое объединение «Созвездие видений» (рук. Ярошевский Д.В.), Редакция журнала «Наука и религия» (гл. ред. Антоненко С.Г.) при поддержке Русского Космического Общества (РКО) и Ассоциации музеев космонавтики России.",
+      "url": "https://cosmatica.org/projects/kosmos-menyaushiy-nas",
+      "image": "https://cosmatica.org/upload/000/u26/75/7e/kosmos-menjayuschii-nas-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=ff6b4be9f85bdb0ecf",
+      "type": "project",
+      "sourceCharacters": 2616,
+      "verified": false
+    },
+    {
+      "title": "\"Космос вчера, сегодня, завтра...\"",
+      "description": "Псковское отделение Русского Космического Общества (ПО РКО) объявляет о старте областного конкурса эссе «Космос вчера, сегодня, завтра…» , проводимого для обучающихся образовательных организаций Псковской области.",
+      "url": "https://cosmatica.org/projects/kosmos-vchera-segodnya-zavtra",
+      "image": "https://cosmatica.org/upload/001/u133/d2/0e/kosmos-vchera-segodnja-zavtra-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e88b0ce1b31c7f4d33",
+      "type": "project",
+      "sourceCharacters": 1671,
+      "verified": false
+    },
+    {
+      "title": "Ковчег Сплочения",
+      "description": "Сегодня как никогда важно выработать единые цивилизационно-ценностные основания, которые позволят сплотить распадающееся население России в единую, историческую общность, живущую в стране-цивилизации, устремлённой в светлое, счастливое будущее.",
+      "url": "https://cosmatica.org/projects/kovcheg-splochenija",
+      "image": "https://cosmatica.org/upload/002/u218/b/d/kovcheg-splochenija-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=55e5e1a30cc16f2438",
+      "type": "project",
+      "sourceCharacters": 1835,
+      "verified": false
+    },
+    {
+      "title": "Сквозная технология Концептуального проектирования систем организационного управления",
+      "description": "Руководитель проекта: Кучкаров Захирджан Анварович",
+      "url": "https://cosmatica.org/projects/kp-sou",
+      "image": "https://cosmatica.org/upload/000/u26/31/5a/skvoznaja-tehnologija-konceptualnogo-proektirovanija-sistem-organi.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=9e03cb7982d292b1dc",
+      "type": "project",
+      "sourceCharacters": 4892,
+      "verified": false
+    },
+    {
+      "title": "Спец проект КТОЧТОГДЕ и Русского Космического Общества \"Величие России\"",
+      "description": "12 апреля 1961 года человек впервые поднялся в космос, положив начало эре освоения неведомого доселе пространства.",
+      "url": "https://cosmatica.org/projects/ktochtogde",
+      "image": "https://cosmatica.org/upload/000/u8/51/3a/spec-proekt-ktochtogde-i-russkogo-kosmicheskogo-obschestva-velichie.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=02d285b1d3e2b3ad55",
+      "type": "project",
+      "sourceCharacters": 848,
+      "verified": false
+    },
+    {
+      "title": "Курская битва за будущее",
+      "description": "6 августа 2024 года враг вторгся на территорию Курской области. Множество разрушений, горя и потерь принесло это вторжение. Наши войска героически бьются за родную землю. Но против нас стоит не только и не столько ВСУ. Против нас воюет НАТО. Силы и средства, которыми располагает противник на данном участке театра военных действий серьёзен. Несмотря на успехи нашей армии, момент, когда враг будет полностью выбит из Ку",
+      "url": "https://cosmatica.org/projects/kurskaya-bitva-za-budushchee",
+      "image": "https://cosmatica.org/upload/002/u218/b/e/kurskaja-bitva-za-buduschee-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=9df5b76991a8dd063b",
+      "type": "project",
+      "sourceCharacters": 5270,
+      "verified": false
+    },
+    {
+      "title": "Лекторий Русского Космического Общества",
+      "description": "Современный человек ежедневно потребляет больше информации, чем его предок из докосмической эры за всю жизнь. Но чем больше информации, тем сложнее заметить среди её нескончаемого потока ценные и важные идеи. Какие же идеи можно назвать ценными и важными?",
+      "url": "https://cosmatica.org/projects/lectoriy-rko",
+      "image": "https://cosmatica.org/upload/000/u21/b9/a8/lektorii-russkogo-kosmicheskogo-obschestva-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=18942a256fec46e292",
+      "type": "project",
+      "sourceCharacters": 2264,
+      "verified": false
+    },
+    {
+      "title": "Областной конкурс \"Письмо Леонову\"",
+      "description": "К 85-ЛЕТИЮ ВЫДАЮЩЕГОСЯ КОСМОНАВТА АЛЕКСЕЯ АРХИПОВИЧА ЛЕОНОВА",
+      "url": "https://cosmatica.org/projects/leonov-message",
+      "image": "https://cosmatica.org/upload/000/u26/b/e/oblastnoi-konkurs-pismo-leonovu-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=3ee1e5c591b1147792",
+      "type": "project",
+      "sourceCharacters": 1564,
+      "verified": false
+    },
+    {
+      "title": "Международный День Матери-Земли – Россия",
+      "description": "Ежегодно 22 апреля всё прогрессивное человечество отмечает Международный день Матери-Земли. Это широко признанный ежегодный праздник экологической направленности.",
+      "url": "https://cosmatica.org/projects/mdmz",
+      "image": "https://cosmatica.org/upload/000/u35/5/3/ffdb586b.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=9815049ebe0cec94ac",
+      "type": "project",
+      "sourceCharacters": 3667,
+      "verified": false
+    },
+    {
+      "title": "Мы - косможители",
+      "description": "«Образовательная программа \" Мы — косможители \" на базе музея космической и ракетной техники им. Глушко, в г. Санкт-Петербург».",
+      "url": "https://cosmatica.org/projects/mi-kosmozhitely",
+      "image": "https://cosmatica.org/upload/000/u21/a5/ec/my-kosmozhiteli-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b5309bbf2147e2b029",
+      "type": "project",
+      "sourceCharacters": 2470,
+      "verified": false
+    },
+    {
+      "title": "Книга \"Мир героев\"",
+      "description": "Автор: Зотов Степан Андреевич - член Президиума и Первого Отряда Русского Космического Общества.",
+      "url": "https://cosmatica.org/projects/mir-geroev",
+      "image": "https://cosmatica.org/upload/002/u218/b/4/kniga-mir-geroev-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=f095e3b843a01d29b7",
+      "type": "project",
+      "sourceCharacters": 3836,
+      "verified": false
+    },
+    {
+      "title": "Экомарафон ноосферного наставничества - 2024",
+      "description": "27.12.2023г. на заседании Государственного совета В.В.Путин заявил о важности сохранения живого духа наставничества. Он подчеркнул, что нужно создавать такие условия, чтобы как можно больше людей искренне стремились взять на себя эту почетную миссию: наставлять, в самом хорошем смысле этого слова, вести за собой других.",
+      "url": "https://cosmatica.org/projects/mnn-2024",
+      "image": "https://cosmatica.org/upload/002/u218/6/a/ekomarafon-noosfernogo-nastavnichestva-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=bf3e34026058547707",
+      "type": "project",
+      "sourceCharacters": 6866,
+      "verified": false
+    },
+    {
+      "title": "Молодежный Центр Инновационных Разработок и Изобретений Русского Космического Общества.",
+      "description": "Межвузовский научно-инженерно-образовательный и производственный центр представляется Молодёжным Творческим Коллективом – «iзобретатель» и Молодежным Центров Инновационных Разработок и Изобретений Русского Космического Общества (МЦИРИ РКО) (участники которых, учатся в ВУЗах- МИИТ, МСХА, РУДН, МАИ и др.).",
+      "url": "https://cosmatica.org/projects/molodegniy-centr-innovaciy",
+      "image": "https://cosmatica.org/upload/000/u26/9/e/c261ace7.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=d394764aa2da2fb6c7",
+      "type": "project",
+      "sourceCharacters": 15393,
+      "verified": false
+    },
+    {
+      "title": "Мониторинг будущего в пространстве Козырева",
+      "description": "Этот авангардный проект Международного научно-исследовательского института космопланетарной антропоэкологии имени академика В.П.Казначеева (МНИИКА) и Русского Космического Общества (РКО), при участии Сonferenceseries ltd (Великобритания), Applied phys tech research laboratory(США) и МНИЦ Н.Тесла (Сербия).",
+      "url": "https://cosmatica.org/projects/monitoringbuduschego",
+      "image": "https://cosmatica.org/upload/000/u30/a3/b5/monitoring-buduschego-v-prostranstve-kozyreva-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=3d008edbbd4de91644",
+      "type": "project",
+      "sourceCharacters": 3220,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

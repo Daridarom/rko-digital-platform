@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/34-neobratimost-istoricheskogo-processa-prirody-i-obschestva-v-trudah-v-i-vernadskogo-i-v-nauke.html",
+  "title": "Необратимость исторического процесса природы и общества в трудах В.И. Вернадского и в науке",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Существует ли такой вопрос, задавшись которым молодой человек вырастает в маститого ученого,\r\nпродолжающего до седых волос искать на него ответ? Мне кажется, что такой вопрос существует и может быть\r\nсформулирован кратко так: «Что такое история? Каково место мыслящего человека в истории?»",
+      "spans": [
+        {
+          "text": "Существует ли такой вопрос, задавшись которым молодой человек вырастает в маститого ученого,\r\nпродолжающего до седых волос искать на него ответ? Мне кажется, что такой вопрос существует и может быть\r\nсформулирован кратко так: «Что такое история? Каково место мыслящего человека в истории?»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Существует ли такой вопрос, задавшись которым молодой человек вырастает в маститого ученого, продолжающего до седых волос искать на него ответ? Мне кажется, что такой вопрос существует и может быть сформулирован кратко так: «Что такое история? Каково место мыслящего человека в истории?»",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 206 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/50/e247ead5e015744bc5bcadbedba926c4"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/50/e247ead5e015744bc5bcadbedba926c4"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 400,
+    "storedTextCharacters": 289,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 40005
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 308,
+  "capturedBodyCharacters": 289,
+  "sourceTextSHA256": "58955cd188fd79f6fcad5f97e2b4250f3ac86611db45d202cecce89ab7baaccc",
+  "archiveSnapshotAt": "2026-10-08T08:49:24Z"
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/178-tenzornyi-metod-dvoistvennyh-sistem.html",
+  "title": "Тензорный метод двойственных систем",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u20/bf/42/3c606c05.jpg",
+      "alt": "Тензорный метод двойственных систем"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Петров А.Е.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 6 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1333/125c889dd45d7572bcb1cd4c45e373e6"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u20/bf/42/3c606c05.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1333/125c889dd45d7572bcb1cd4c45e373e6"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 73,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39037
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 37,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "16a8306e675073d666a7dc1265140f04be7f5f9b02a81aceb14f15d71fd9dc84",
+  "archiveSnapshotAt": "2026-10-08T08:47:52Z"
+}

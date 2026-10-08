@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/490-edinaja-teorija-polja-prirodnyh-otnoshenii.html",
+  "title": "Единая теория поля природных отношений",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/3/c/edinaja-teorija-polja-prirodnyh-otnoshenii-photo-normal.jpg",
+      "alt": "Единая теория поля природных отношений"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Беляев М.И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 42 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/4265/5c400269a1a1268e8d68fc77169c2092"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/3/c/edinaja-teorija-polja-prirodnyh-otnoshenii-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/4265/5c400269a1a1268e8d68fc77169c2092"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 77,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39170
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 38,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "a8b19cd8cc6e85cedffd59bc60147b1a94b96d4e2f8fcfce624d1dd32e57ac44",
+  "archiveSnapshotAt": "2026-10-08T08:50:33Z"
+}

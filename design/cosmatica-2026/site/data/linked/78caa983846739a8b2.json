@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/152-vychislenie.html",
+  "title": "Вычисление",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "операции с числом.",
+      "spans": [
+        {
+          "text": "операции с числом."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "операции с числом.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 29,
+    "storedTextCharacters": 18,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31384
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 18,
+  "capturedBodyCharacters": 18,
+  "sourceTextSHA256": "4684a1bcf57e68bd071f4e37c97e68b282e334bf9c9bc480e39230f2b56f65d9",
+  "archiveSnapshotAt": "2026-10-08T08:46:35Z"
+}

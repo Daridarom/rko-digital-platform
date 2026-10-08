@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/98-neustoichivoe-razvitie.html",
+  "title": "Неустойчивое развитие",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "развитие",
+      "spans": [
+        {
+          "text": "развитие"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", если оно не является историче­ски хроноцелостным: имеет место выполнение условий развития в те­кущее",
+      "spans": [
+        {
+          "text": ", если оно не является историче­ски хроноцелостным: имеет место выполнение условий развития в те­кущее"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "время",
+      "spans": [
+        {
+          "text": "время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", но не выполняются условия сохранения развития в буду­щем.",
+      "spans": [
+        {
+          "text": ", но не выполняются условия сохранения развития в буду­щем."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "развитие , если оно не является историче­ски хроноцелостным: имеет место выполнение условий развития в те­кущее время , но не выполняются условия сохранения развития в буду­щем.",
+      "links": [
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 199,
+    "storedTextCharacters": 174,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32331
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 177,
+  "capturedBodyCharacters": 174,
+  "sourceTextSHA256": "3e29c16387bac21cf906cf6f3cf53bcc6372e845825cf8f368ed0d3a3f0dd621",
+  "archiveSnapshotAt": "2026-10-08T08:47:22Z"
+}

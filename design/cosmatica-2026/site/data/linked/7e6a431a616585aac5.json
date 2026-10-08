@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1067-tropa-muzhestva-leto-2020-kak-eto-bylo.html",
+  "title": "Тропа мужества. Лето 2020. Как это было.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Тропа Мужества",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Для того что бы пойти к звёздам, Человечеству нужно и качественно и количественно соответствовать высоким требованиям предъявляемым Вселенной к своим детям. Малым вкладом в формирование человека, готового ставить перед собой сверхзадачи, решать и переходить таким образом на качественно новый уровень развития, является проект «Тропа мужества».",
+      "spans": [
+        {
+          "text": "Для того что бы пойти к звёздам, Человечеству нужно и качественно и  количественно соответствовать высоким требованиям предъявляемым  Вселенной к своим детям. Малым вкладом в формирование человека, готового  ставить перед собой сверхзадачи, решать и переходить таким образом на  качественно новый уровень развития, является  "
+        },
+        {
+          "text": "проект",
+          "href": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": " «Тропа мужества»."
+        }
+      ],
+      "links": [
+        {
+          "text": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "«Тропа Мужества» — пеший комплексный марафон, позволяющий проверить и изменить себя на одной из четырёх дистанций",
+      "spans": [
+        {
+          "text": "«Тропа Мужества» — пеший комплексный марафон, позволяющий проверить и  изменить себя на одной из четырёх дистанций"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Костромская область, Нейский район. Поход Победы 22-28 июня 2020 года Дистанции: 210, 70, 35 км На 15 км никто не вышел.",
+      "spans": [
+        {
+          "text": "Костромская область, Нейский район. Поход Победы 22-28 июня 2020 года Дистанции: 210, 70, 35 км На 15 км никто не вышел."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Проект на сайте РКО: https://cosmatica.org/projects/tropa-muzhestva",
+      "spans": [
+        {
+          "text": "Проект на сайте РКО: "
+        },
+        {
+          "text": "https://cosmatica.org/projects/tropa-muzhestva",
+          "href": "https://cosmatica.org/projects/tropa-muzhestva"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/projects/tropa-muzhestva",
+          "url": "https://cosmatica.org/projects/tropa-muzhestva"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://vk.com/natropu",
+      "spans": [
+        {
+          "text": "https://vk.com/natropu",
+          "href": "https://vk.com/natropu"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "https://vk.com/natropu",
+          "url": "https://vk.com/natropu"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "http://www.natrope.com",
+      "spans": [
+        {
+          "text": "http://www.natrope.com"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "nlV_b8ubUfg",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=nlV_b8ubUfg"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Для того что бы пойти к звёздам, Человечеству нужно и качественно и количественно соответствовать высоким требованиям предъявляемым Вселенной к своим детям. Малым вкладом в формирование человека, готового ставить перед собой сверхзадачи, решать и переходить таким образом на качественно новый уровень развития, является проект «Тропа мужества». «Тропа Мужества» — пеший комплексный марафон, позволяющий проверить и изменить себя на одной из четырёх дистанций Костромская область, Нейский район. Поход Победы 22-28 июня 2020 года Дистанции: 210, 70, 35 км На 15 км никто не вышел. Проект на сайте РКО: https://cosmatica.org/projects/tropa-muzhestva https://vk.com/natropu http://www.natrope.com",
+      "links": [
+        {
+          "title": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "https://cosmatica.org/projects/tropa-muzhestva",
+          "url": "https://cosmatica.org/projects/tropa-muzhestva"
+        },
+        {
+          "title": "https://vk.com/natropu",
+          "url": "https://vk.com/natropu"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 919,
+    "storedTextCharacters": 703,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 6,
+    "sourceBytes": 76872
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 862,
+  "capturedBodyCharacters": 703,
+  "sourceTextSHA256": "19d244293fdeb3074ff66155f6cf12ecb2423b27ce6d7a658deda7589394487c",
+  "archiveSnapshotAt": "2026-10-08T08:38:03Z",
+  "publicVideoCount": 1
+}

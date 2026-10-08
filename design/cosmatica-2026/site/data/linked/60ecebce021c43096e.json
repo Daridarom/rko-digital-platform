@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/171-obobschayuschaja-forma-znanija.html",
+  "title": "Обобщающая форма знания",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Обобщающей формой знания, дающего понимание, является",
+      "spans": [
+        {
+          "text": "Обобщающей формой знания, дающего понимание, является"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "теория",
+      "spans": [
+        {
+          "text": "теория"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "как",
+      "spans": [
+        {
+          "text": "как"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "система",
+      "spans": [
+        {
+          "text": "система"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "высказываний, объясняющих сущность системы и дающих возможность предсказывать тенденции ее развития.",
+      "spans": [
+        {
+          "text": "высказываний, объясняющих сущность системы и дающих возможность предсказывать тенденции ее развития."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Обобщающей формой знания, дающего понимание, является теория как система высказываний, объясняющих сущность системы и дающих возможность предсказывать тенденции ее развития.",
+      "links": [
+        {
+          "title": "теория",
+          "url": "https://cosmatica.org/glossary/35-teorija.html"
+        },
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 197,
+    "storedTextCharacters": 169,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32325
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 173,
+  "capturedBodyCharacters": 169,
+  "sourceTextSHA256": "2d34fc6e655f9a0edb0050bced17dc03eb871cb8a58d8cf5e58b9aad4f484b4f",
+  "archiveSnapshotAt": "2026-10-08T08:46:40Z"
+}

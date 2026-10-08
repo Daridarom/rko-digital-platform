@@ -7,8 +7,17 @@
   "blocks": [
     {
       "type": "image",
-      "src": "assets/source/ba9e768999379aedda57d50f.webp",
+      "src": "https://cosmatica.org/upload/002/u218/0/e/5feee504.jpg",
       "alt": "Весёлый водный мир"
+    },
+    {
+      "type": "paragraph",
+      "text": "Литературный конкурс \"Империум: Победа!\" - 2026г. 3 место",
+      "spans": [
+        {
+          "text": "Литературный конкурс \"Империум: Победа!\" - 2026г. 3 место"
+        }
+      ]
     }
   ],
   "cards": [],
@@ -31,19 +40,19 @@
       "links": [
         {
           "title": "Скачать",
-          "url": "https://cosmatica.org/files/download/5976/5309c1727502d1c076d816947a45d5d3"
+          "url": "https://cosmatica.org/files/download/5976/c668ec4827482794c4f7715e74b69339"
         }
       ],
       "image": null
     }
   ],
   "images": [
-    "assets/source/ba9e768999379aedda57d50f.webp"
+    "https://cosmatica.org/upload/002/u218/0/e/5feee504.jpg"
   ],
   "documents": [
     {
       "label": "Скачать",
-      "url": "https://cosmatica.org/files/download/5976/5309c1727502d1c076d816947a45d5d3"
+      "url": "https://cosmatica.org/files/download/5976/c668ec4827482794c4f7715e74b69339"
     }
   ],
   "categories": [],
@@ -51,10 +60,16 @@
   "sourceEvidence": {
     "http": 200,
     "sourceTextCharacters": 120,
-    "storedTextCharacters": 0,
+    "storedTextCharacters": 57,
     "sourceCardCount": 0,
     "sourceImageCount": 1,
     "paragraphCount": 0,
     "sourceBytes": 39619
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 101,
+  "capturedBodyCharacters": 57,
+  "sourceTextSHA256": "0245ceca0ef726229721053b470fa8d67dd9ed6157268437f90ec1eb676b84e3",
+  "archiveSnapshotAt": "2026-10-08T08:50:59Z"
 }

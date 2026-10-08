@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/445-golosa.html",
+  "title": "Голоса",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u38/5/f/golosa-photo-normal.jpg",
+      "alt": "Голоса"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга доступна для чтения по адресу: https://ridero.ru/books/golosa_6/\r\nБудем рады Вашей поддержке, отзывам и комментариям.",
+      "spans": [
+        {
+          "text": "Книга доступна для чтения по адресу: https://ridero.ru/books/golosa_6/\r\nБудем рады Вашей поддержке, отзывам и комментариям."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Степан Андреевич Зотов",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга доступна для чтения по адресу: https://ridero.ru/books/golosa_6/ Будем рады Вашей поддержке, отзывам и комментариям.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u38/5/f/golosa-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 159,
+    "storedTextCharacters": 123,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 38812
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 152,
+  "capturedBodyCharacters": 123,
+  "sourceTextSHA256": "c80a3ce2f5cc9f15e684d0c789b206b624db004761f69c9e6f1c03efe761bc04",
+  "archiveSnapshotAt": "2026-10-08T08:50:04Z"
+}

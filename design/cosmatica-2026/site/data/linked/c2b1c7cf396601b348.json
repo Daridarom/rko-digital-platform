@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/newspaper/73-vypusk-23-2019-sentjabr.html",
+  "title": "ВЫПУСК № 23. 2019, СЕНТЯБРЬ",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Научно-образовательная и просветительская газета \"Природа-Общество-Человек: ноосферное устойчивое ра",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/7/rko-interaktivnaya-versia-1.jpg",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Файл:",
+      "value": "Скачать 13 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2212/58c8f49964693ef288be2677ea2ef14e"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/5/7/rko-interaktivnaya-versia-1.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2212/58c8f49964693ef288be2677ea2ef14e"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 149,
+    "storedTextCharacters": 101,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 32905
+  },
+  "textFallbackRequired": false,
+  "originalKind": "newspaper-item",
+  "sourceTextCharacters": 19,
+  "capturedBodyCharacters": 101,
+  "sourceTextSHA256": "ef5744c99a5c0328dbe6625580a5f64e02f0236f8943052784e1b5ffd25b6bba",
+  "archiveSnapshotAt": "2026-10-08T09:14:45Z"
+}

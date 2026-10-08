@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1669-o-batalone-skif-govorili-na-solovevlive.html",
+  "title": "О батальоне СКИФ говорили на СОЛОВЬЕВLIVE",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Казачий батальон \"СКИФ\"",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/6/6/o-batalone-skif-govorili-na-solovevlive-photo-normal.jpg",
+      "alt": "О батальоне СКИФ говорили на СОЛОВЬЕВLIVE"
+    },
+    {
+      "type": "paragraph",
+      "text": "В студии обсудили следующие вопросы: - Кто входит в ряды батальона и какие критерии отбора в личный состав; - Мировоззренческая составляющая, русский космизм и война за смыслы; - Материально-техническое обеспечение; - Развернутое понимание психологических и иных инструментов ведения современной войны; - Внутренняя организация несения службы батальона и взаимодействие с МО.",
+      "spans": [
+        {
+          "text": "В студии обсудили следующие вопросы: - Кто входит в ряды батальона и какие критерии отбора в личный состав; - Мировоззренческая составляющая, русский космизм и война за смыслы; - Материально-техническое обеспечение; - Развернутое понимание психологических и иных инструментов ведения современной войны; - Внутренняя организация несения службы батальона и взаимодействие с МО."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "oYjgmJv0coE",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=oYjgmJv0coE"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В эфире «СОЛОВЬЁВ LIVE» коротко о главном рассказал замполит казачьего батальона «СКИФ», Глава Русского Космического Общества Алексей Алнесннвич Гапонов",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В студии обсудили следующие вопросы: - Кто входит в ряды батальона и какие критерии отбора в личный состав; - Мировоззренческая составляющая, русский космизм и война за смыслы; - Материально-техническое обеспечение; - Развернутое понимание психологических и иных инструментов ведения современной войны; - Внутренняя организация несения службы батальона и взаимодействие с МО.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/6/6/o-batalone-skif-govorili-na-solovevlive-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 765,
+    "storedTextCharacters": 410,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 47267
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 588,
+  "capturedBodyCharacters": 410,
+  "sourceTextSHA256": "a9fe7227e96e996ca31ebb53a79c6ba15070068aac2596a21a27b17628ae64df",
+  "archiveSnapshotAt": "2026-10-08T09:08:06Z",
+  "publicVideoCount": 1
+}

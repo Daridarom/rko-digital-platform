@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/170-zhizn-i-rabota-v-kosmose.html",
+  "title": "Жизнь и работа в космосе",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u15/14/a9/zhizn-i-rabota-v-kosmose-photo-normal.jpg",
+      "alt": "Жизнь и работа в космосе"
+    },
+    {
+      "type": "paragraph",
+      "text": "Восемнадцать лет назад, в знаменательный октябрьский день 1957 г., прозвучавшее из Москвы сообщение о запуске первого искусственного спутника Земли возвестило начало освоения космоса человеком.",
+      "spans": [
+        {
+          "text": "Восемнадцать лет назад, в знаменательный октябрьский день 1957 г., прозвучавшее из Москвы сообщение о запуске первого искусственного спутника Земли возвестило начало освоения космоса человеком."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Гильберг Л.А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Восемнадцать лет назад, в знаменательный октябрьский день 1957 г., прозвучавшее из Москвы сообщение о запуске первого искусственного спутника Земли возвестило начало освоения космоса человеком.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 10 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1056/e9f289e623c75e34da3108ea3a063137"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u15/14/a9/zhizn-i-rabota-v-kosmose-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1056/e9f289e623c75e34da3108ea3a063137"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 259,
+    "storedTextCharacters": 193,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39947
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 234,
+  "capturedBodyCharacters": 193,
+  "sourceTextSHA256": "f1669a8816807461aac2888d5d09df253029e0cf8cef56323490d16a83369774",
+  "archiveSnapshotAt": "2026-10-08T08:47:50Z"
+}

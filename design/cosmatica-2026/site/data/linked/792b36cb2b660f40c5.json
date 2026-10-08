@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/501-marina-valerevna-doronina-na-nika-tv-otdelenie-russkogo-kosmicheskogo-obschestva-v-kaluge.html",
+  "title": "Марина Валерьевна Доронина на НИКА ТВ. Отделение Русского Космического Общества в Калуге.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "На базе центра «Созвездие» в Калуге создано отделение Русского космического общества, где дети смогут учиться, соревноваться и развивать космическую науку.",
+      "spans": [
+        {
+          "text": "На базе центра «Созвездие» в Калуге создано отделение Русского космического общества, где дети смогут учиться, соревноваться и развивать космическую науку."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Какие перспективы открывает для ребят такое отделение?",
+      "spans": [
+        {
+          "text": "Какие перспективы открывает для ребят такое отделение?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На вопросы отвечает Председатель Калужского областного отделения Русского Космического Общества Доронина Марина Валерьевна .",
+      "spans": [
+        {
+          "text": "На вопросы отвечает Председатель "
+        },
+        {
+          "text": "Калужского областного отделения",
+          "href": "https://cosmatica.org/departments/11-kaluzhskaja-oblast.html"
+        },
+        {
+          "text": " Русского Космического Общества "
+        },
+        {
+          "text": "Доронина Марина Валерьевна",
+          "href": "https://cosmatica.org/users/182"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "links": [
+        {
+          "text": "Калужского областного отделения",
+          "url": "https://cosmatica.org/departments/11-kaluzhskaja-oblast.html"
+        },
+        {
+          "text": "Доронина Марина Валерьевна",
+          "url": "https://cosmatica.org/users/182"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "nkpvuJe-x8k",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=nkpvuJe-x8k"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "На базе центра «Созвездие» в Калуге создано отделение Русского космического общества, где дети смогут учиться, соревноваться и развивать космическую науку. Какие перспективы открывает для ребят такое отделение? На вопросы отвечает Председатель Калужского областного отделения Русского Космического Общества Доронина Марина Валерьевна .",
+      "links": [
+        {
+          "title": "Калужского областного отделения",
+          "url": "https://cosmatica.org/departments/11-kaluzhskaja-oblast.html"
+        },
+        {
+          "title": "Доронина Марина Валерьевна",
+          "url": "https://cosmatica.org/users/182"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 536,
+    "storedTextCharacters": 333,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 75607
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 446,
+  "capturedBodyCharacters": 333,
+  "sourceTextSHA256": "e196bbe97e1f7a27f3534c4ce79e18b3ec27212e56a32bfde788498bb52ce810",
+  "archiveSnapshotAt": "2026-10-08T08:41:59Z",
+  "publicVideoCount": 1
+}

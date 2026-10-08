@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 208,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Ноосферная Россия: стратегия прорыва",
+      "description": "Под эгидой РКО вышло в свет новое издание \"Ноосферная Россия: стратегия прорыва\" (основания ноосферного россиеведения).",
+      "url": "https://cosmatica.org/news/224-noosfernaja-rossija-strategija-proryva.html",
+      "image": "https://cosmatica.org/upload/000/u26/ad/1b/noosfernaja-rossija-strategija-proryva-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=68ede0508673cd8cc0",
+      "type": "news-item",
+      "sourceCharacters": 1465,
+      "verified": false
+    },
+    {
+      "title": "Выставка лучших работ художественного конкурса \"Моя большая КосмоСемья\" в Ярославле #Моя большая КосмоСемья",
+      "description": "Фонд поддержки и развития семей «Родная Семья » при поддержке МОО «Русское космическое общество» провёл всероссийский социально направленный конкурс детского художественного рисунка «Моя большая КосмоСемья» в честь 85-летия со дня рождения первого космонавта Земли Юрия Алексеевича Гагарина.",
+      "url": "https://cosmatica.org/poster/224-vystavka-luchshih-rabot-hudozhestvennogo-konkursa-moja-bolshaja-kosmosemja-v-jaroslavle.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/4/vystavka-luchshih-rabot-hudozhestvennogo-konkursa-moja-bolshaja-kosm.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=1f4aa3d040d9b08c10",
+      "type": "poster-item",
+      "sourceCharacters": 2015,
+      "verified": false
+    },
+    {
+      "title": "Штаб космодрома",
+      "description": "Основным органом управления космодрома является штаб. В начальный период создания полигона штаб решал в основном организационные вопросы, такие как: разработка и утверждение штатов на управление полигона и входящих в его состав частей и подразделений; подбор кадров, формирование и укомплектование управления полигона, научно-испытательных отделов, контроль за ходом комплектования личным составом частей и подразделений",
+      "url": "https://cosmatica.org/articles/223-shtab-kosmodroma.html",
+      "image": "https://cosmatica.org/upload/000/u26/2b/51/fyvfy.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=719b9f25a5f4db28be",
+      "type": "article",
+      "sourceCharacters": 1851,
+      "verified": false
+    },
+    {
+      "title": "Вижу Землю....",
+      "description": "",
+      "url": "https://cosmatica.org/library/223-vizhu-zemlyu.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/e/vizhu-zemlyu-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=5860de21241b013f2e",
+      "type": "book",
+      "sourceCharacters": 38,
+      "verified": false
+    },
+    {
+      "title": "Арктический Совет: результаты и планы.",
+      "description": "Сегодня только очень ленивый не говорит об Арктике .",
+      "url": "https://cosmatica.org/news/223-arkticheskii-sovet-rezultaty-i-plany.html",
+      "image": "https://cosmatica.org/upload/000/u21/1d/4c/arkticheskii-sovet-rezultaty-i-plany-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6648c15cfea96ff65b",
+      "type": "news-item",
+      "sourceCharacters": 3587,
+      "verified": false
+    },
+    {
+      "title": "Выставка лучших работ художественного конкурса \"Моя большая космосемья\" в Костроме #Моя большая КосмоСемья",
+      "description": "Фонд поддержки и развития семей «Родная Семья » при поддержке МОО «Русское космическое общество» провёл всероссийский социально направленный конкурс детского художественного рисунка «Моя большая КосмоСемья» в честь 85-летия со дня рождения первого космонавта Земли Юрия Алексеевича Гагарина.",
+      "url": "https://cosmatica.org/poster/223-vystavka-luchshih-rabot-hudozhestvennogo-konkursa-moja-bolshaja-kosmosemja-v-kostrome.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/6/vystavka-luchshih-rabot-hudozhestvennogo-konkursa-moja-bolshaja-kosm.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=3c4dce612630beaa95",
+      "type": "poster-item",
+      "sourceCharacters": 2073,
+      "verified": false
+    },
+    {
+      "title": "Начальники космодрома",
+      "description": "Организационно-штатная структура управления полигона утверждена директивой ГШ СА от 2 июня 1955 года. Первым начальником НИИП-5 МО приказом МО СССР от 19.03.1955 года назначен генерал-лейтенант артиллерии Нестеренко Алексей Иванович, участник Великой Отечественной войны, командовавший на различных фронтах многими соединениями гвардейских минометных частей. Он в кратчайшие сроки формирует командование, штаб, политотде",
+      "url": "https://cosmatica.org/articles/222-nachalniki-kosmodroma.html",
+      "image": "https://cosmatica.org/upload/000/u26/33/4d/bezymjannyi.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=34eaa7117952a18249",
+      "type": "article",
+      "sourceCharacters": 716,
+      "verified": false
+    },
+    {
+      "title": "Космическая академия",
+      "description": "В книге овещена малоизвестная область космонавтики, связанная с отбором,обучением, психологической и лётной подготовкой космонавтов. В Советском Союзе отбор, обучение и воспитание космонавтов осуществляется в Центре подготовки космонавтов имени Ю.А.Гагарина. Это весьма необычное учебное заведение, сродни академии, в котором последовательно и динамично решается целый комплекс проблем, возникающих при подготовке к очер",
+      "url": "https://cosmatica.org/library/222-kosmicheskaja-akademija.html",
+      "image": "https://cosmatica.org/upload/000/u7/d/3/kosmicheskaja-akademija-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=f0eaa479eacde35438",
+      "type": "book",
+      "sourceCharacters": 1800,
+      "verified": false
+    },
+    {
+      "title": "Новый выпуск цикла передач \"Прорыв!\", герой программы: Усанин Александр Евгеньевич.",
+      "description": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/222-novyi-vypusk-cikla-peredach-proryv-geroi-programmy-usanin-aleksandr-evgenevich.html",
+      "image": "https://cosmatica.org/upload/000/u26/ee/e0/5a710fd2.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7e15fb2423220e3989",
+      "type": "news-item",
+      "sourceCharacters": 530,
+      "verified": false
+    },
+    {
+      "title": "Выставка лучших работ художественного конкурса \"Моя большая космосемья\" в Иваново #Моя большая КосмоСемья",
+      "description": "Фонд поддержки и развития семей «Родная Семья » при поддержке МОО «Русское космическое общество» провёл всероссийский социально направленный конкурс детского художественного рисунка «Моя большая КосмоСемья» в честь 85-летия со дня рождения первого космонавта Земли Юрия Алексеевича Гагарина.",
+      "url": "https://cosmatica.org/poster/222-vystavka-luchshih-rabot-hudozhestvennogo-konkursa-moja-bolshaja-kosmosemja-v-ivanovo.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/6/vystavka-luchshih-rabot-hudozhestvennogo-konkursa-moja-bolshaja-kosm.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=0804bc8911c4b14c9b",
+      "type": "poster-item",
+      "sourceCharacters": 2023,
+      "verified": false
+    },
+    {
+      "title": "Награды космодрома",
+      "description": "За успешное проведение лётной отработки специальных изделий НИИП-5 МО награжден орденом Красной Звезды .",
+      "url": "https://cosmatica.org/articles/221-nagrady-kosmodroma.html",
+      "image": "https://cosmatica.org/upload/000/u26/a0/d8/ussr-shlp4.gif",
+      "kind": "article",
+      "href": "view.html?p=article&ref=ba2468f42b59dbdddc",
+      "type": "article",
+      "sourceCharacters": 5214,
+      "verified": false
+    },
+    {
+      "title": "Записки космического контрразведчика",
+      "description": "Книгу он посвятил космонавтам и специалистам, работающим рядом с ними, а также проблемам, которые вставали перед этими людьми и которые ему приходилось решать",
+      "url": "https://cosmatica.org/library/221-zapiski-kosmicheskogo-kontrrazvedchika.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/7/zapiski-kosmicheskogo-kontrrazvedchika-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=26f790cc3b6d231382",
+      "type": "book",
+      "sourceCharacters": 196,
+      "verified": false
+    },
+    {
+      "title": "Региональный этап всероссийского фестиваля среди детских футбольных команд «Ближе к звёздам»",
+      "description": "Большую роль в организации проведения приняли участие: «Русское космическое общество», Спортивный клуб «Роскосмос», детская Нижегородская Лига по футболу. Мы надеемся, что данные соревнования будут проходить ежегодно, с участием команд из других регионов нашей Страны.",
+      "url": "https://cosmatica.org/news/221-regionalnyi-etap-vserossiiskogo-festivalja-sredi-detskih-futbolnyh-komand-blizhe-k-zvyozdam.html",
+      "image": "https://cosmatica.org/upload/000/u26/82/d7/regionalnyi-etap-vserossiiskogo-festivalja-sredi-detskih-futbol.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c8c2c2f262f874c6b4",
+      "type": "news-item",
+      "sourceCharacters": 1833,
+      "verified": false
+    },
+    {
+      "title": "Замысел",
+      "description": "Закрытый показ первого художественного фильма Донбасса.",
+      "url": "https://cosmatica.org/poster/221-zamysel.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/4/zamysel-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=dfb58d1f60ca497cb1",
+      "type": "poster-item",
+      "sourceCharacters": 195,
+      "verified": false
+    },
+    {
+      "title": "Боевое знамя",
+      "description": "Боевое Знамя НИИП-5 МО СССР вручено 12 апреля 1961 года после запуска боевым расчётом полигона лётчика-космонавта СССР Ю.А. Гагарина. Вручение произвёл Главнокомандующий Ракетными войсками стратегического назначения Маршал Советского Союза Москаленко Константин Семёнович в присутствии первого секретаря Кзыл-Ординского областного комитета Компартии Казахстана. Знамя принял исполняющий должность начальника полигона гва",
+      "url": "https://cosmatica.org/articles/220-boevoe-znamja.html",
+      "image": "https://cosmatica.org/upload/000/u26/37/51/znamya.gif",
+      "kind": "article",
+      "href": "view.html?p=article&ref=4957e932553fbeaa31",
+      "type": "article",
+      "sourceCharacters": 647,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

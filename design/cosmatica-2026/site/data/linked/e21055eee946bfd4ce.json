@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/519-1204-travis-kent-meksika.html",
+  "title": "12/04. Травис Кент, Мексика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Международная акция 12/04",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Если у Вас есть возможность расспросить человека, который помнит тот день, запишите, пожалуйста, на видео его короткое интервью, выложите видео на YouTube или в любое облако, и пришлите ссылку на адрес: gagarin@gagarinday.ru",
+      "spans": [
+        {
+          "text": "Если у Вас есть возможность расспросить человека, который помнит тот день, запишите, пожалуйста, на видео его короткое интервью, выложите видео на YouTube или в любое облако, и пришлите ссылку на адрес: gagarin@gagarinday.ru"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "17u5w6W6YHw",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=17u5w6W6YHw"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Если у Вас есть возможность расспросить человека, который помнит тот день, запишите, пожалуйста, на видео его короткое интервью, выложите видео на YouTube или в любое облако, и пришлите ссылку на адрес: gagarin@gagarinday.ru",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 302,
+    "storedTextCharacters": 250,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 74354
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 247,
+  "capturedBodyCharacters": 250,
+  "sourceTextSHA256": "132bc01d62091c0627e808dc359521780974b76a0239795390d20bce9aae81b4",
+  "archiveSnapshotAt": "2026-10-08T08:42:03Z",
+  "publicVideoCount": 1
+}

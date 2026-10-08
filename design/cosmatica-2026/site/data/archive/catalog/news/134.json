@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 134,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Что есть жизнь? По каким законам она развивается? Какова её цель?",
+      "description": "Осознать это простое на первый взгляд обстоятельство возможно тогда, когда явно представлен ответ на вопросы «что есть жизнь ?», «по каким законам она развивается?», «какова её цель?», «как согласовать с это целью жизнь и деятельность отдельного человека и общества в целом?». Только ответив на эти вопросы, приведя в соответствие с полученными ответами все сферы жизнедеятельности человека, общества и государства, можн",
+      "url": "https://cosmatica.org/news/36-russkoe-kosmicheskoe-obschestvo-eto-sobranie-lyudei-obedinivshih-svoi-usilija-v-dele-borby-so-vse.html",
+      "image": "https://cosmatica.org/upload/000/u1/1e/9d/russkoe-kosmicheskoe-obschestvo-eto-sobranie-lyudei-obedinivshih.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2bd3f108bd10422e84",
+      "type": "news-item",
+      "sourceCharacters": 2559,
+      "verified": false
+    },
+    {
+      "title": "Приветственные письма в адрес Русского Космического Общества",
+      "description": "В честь первого общего собрания членов Русского Космического Общества, которое состоялось 21 декабря 2017 года в Центральном доме учёных по адресу: г. Москва, ул. Пречистенка, д. 16, в адрес РКО поступили приветственные письма ряда организаций, отметивших важность данного события и выразивших готовность к плодотворному сотрудничеству в долгосрочной перспективе.",
+      "url": "https://cosmatica.org/news/35-privetstvennye-pisma-v-adres-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u1/c5/59/privetstvennye-pisma-v-adres-russkogo-kosmicheskogo-obschestva-pho.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a62d0232079e9f7970",
+      "type": "news-item",
+      "sourceCharacters": 658,
+      "verified": false
+    },
+    {
+      "title": "Космос - это наше будущее!",
+      "description": "О том, что такое Косматика, кому принадлежит космос, какие проекты в ближайших перспективах РКО и подробнее об одном из них - компьютерной игре \"Наша Вселенная\".",
+      "url": "https://cosmatica.org/news/33-osobyi-rakurs-o-russkom-kosmicheskom-obschestve.html",
+      "image": "https://cosmatica.org/upload/000/u1/b3/59/osobyi-rakurs-o-russkom-kosmicheskom-obschestve-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2f4a6b22d1918048f0",
+      "type": "news-item",
+      "sourceCharacters": 9853,
+      "verified": false
+    },
+    {
+      "title": "21 декабря 2017 года Русское Космическое Общество провело первое общее собрание членов",
+      "description": "Собрание прошло в Центральном доме учёных по адресу: г. Москва, ул. Пречистенка, д. 16.",
+      "url": "https://cosmatica.org/news/32-21-dekabrja-2017-goda-russkoe-kosmicheskoe-obschestvo-provelo-pervoe-obschee-sobranie-chlenov-ono.html",
+      "image": "https://cosmatica.org/upload/000/u1/93/09/21-dekabrja-2017-goda-russkoe-kosmicheskoe-obschestvo-provelo-pervo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8b7f247ece144eb00e",
+      "type": "news-item",
+      "sourceCharacters": 6168,
+      "verified": false
+    },
+    {
+      "title": "Наша газета - лауреат Международной премии \"EcoWorld\" 2017 года",
+      "description": "Премия «EcoWorld» присуждается с 2004 года. Ее учредители - Межрегиональная общественная организация «Фонд благотворительных инициатив» и Российская академия естественных наук. Ежегодный контекст для определения лауреатов премии определяется наиболее эффективными проектами в деле защиты окружающей среды и общественного здоровья. Проект охватывает 76 регионов РФ, а также Армению, Украину, Беларусь, Францию и Чили.",
+      "url": "https://cosmatica.org/news/31-nasha-gazeta-laureat-mezhdunarodnoi-premii-ecoworld-2017-goda.html",
+      "image": "https://cosmatica.org/upload/000/u1/19/4f/nasha-gazeta-laureat-mezhdunarodnoi-premii-ecoworld-2017-goda.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7356fcb841499dc3fa",
+      "type": "news-item",
+      "sourceCharacters": 801,
+      "verified": false
+    },
+    {
+      "title": "Синергия космоса, веры, искусства и инженерной мысли = прорыв",
+      "description": "Организаторами встречи выступили Институт мировой литературы им. А.М. Горького РАН, Мемориальный музей космонавтики, Музей-библиотека Н.Ф. Федорова (при Библиотеке № 180 ЦБС), АНО «ProКОСМОС».",
+      "url": "https://cosmatica.org/news/29-sinergija-kosmosa-very-iskusstva-i-inzhenernoi-mysli-proryv.html",
+      "image": "https://cosmatica.org/upload/000/u1/fe/75/sinergija-kosmosa-very-iskusstva-i-inzhenernoi-mysli-proryv.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=33ab6990a14e783295",
+      "type": "news-item",
+      "sourceCharacters": 1847,
+      "verified": false
+    },
+    {
+      "title": "Кто мы – потребители новых благ или создатели новых горизонтов?",
+      "description": "Встреча состоялась в музейном комплексе Государственного университета управления по приглашению проректора университета, Чуева Сергея Владимировича, её ведущим выступил Член Президиума РКО, автор книги «Империум Человека», Зотов Степан Андреевич.",
+      "url": "https://cosmatica.org/news/34-kto-my-potrebiteli-novyh-blag-ili-sozdateli-novyh-gorizontov.html",
+      "image": "https://cosmatica.org/upload/000/u1/27/32/kto-my-potrebiteli-novyh-blag-ili-sozdateli-novyh-gorizontov.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=828d33016ce5beccd4",
+      "type": "news-item",
+      "sourceCharacters": 1224,
+      "verified": false
+    },
+    {
+      "title": "РКО представило образовательный проект для школьников",
+      "description": "13 декабря Русское Космическое Общество приняло участие в Молодёжном информационном форуме, который проходил в Доме правительства Московской области.",
+      "url": "https://cosmatica.org/news/27-rko-predstavilo-obrazovatelnyi-proekt-dlja-shkolnikov.html",
+      "image": "https://cosmatica.org/upload/000/u1/97/09/rko-predstavilo-obrazovatelnyi-proekt-dlja-shkolnikov-photo-norm.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=625020929312801235",
+      "type": "news-item",
+      "sourceCharacters": 1923,
+      "verified": false
+    },
+    {
+      "title": "Президент РКО выступил с докладом в Санкт-Петербурге",
+      "description": "Тема конференции: «Столетняя годовщина Великой Октябрьской социалистической революции и Год Экологии в 2017 году как стимулы развития ноосферной парадигмы образования, науки и экономики как базового условия стратегии России в XXI веке».",
+      "url": "https://cosmatica.org/news/26-prezident-rko-vystupil-s-dokladom-v-sankt-peterburge.html",
+      "image": "https://cosmatica.org/upload/000/u1/c4/59/be7d72af.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4e7b25f182849e4c7a",
+      "type": "news-item",
+      "sourceCharacters": 3666,
+      "verified": false
+    },
+    {
+      "title": "Правительство Московской области выразило Русскому Космическому Обществу письменную благодарность",
+      "description": "Правительство Московской области выразило Русскому Космическому Обществу письменную благодарность как лучшему молодежному проекту по космической тематике с организацией и проведением образовательной программы по космонавтике, представленной делегатами от Московской области на XIX Всемирном фестивале молодежи и студентов, г. Сочи, Россия, 14-22 октября 2017",
+      "url": "https://cosmatica.org/news/25-pravitelstvo-moskovskoi-oblasti-vyrazilo-russkomu-kosmicheskomu-obschestvu-pismennuyu-blagodarnos.html",
+      "image": "https://cosmatica.org/upload/000/u1/43/e3/pravitelstvo-moskovskoi-oblasti-vyrazilo-russkomu-kosmicheskomu.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c0a78eb3c7683d9270",
+      "type": "news-item",
+      "sourceCharacters": 836,
+      "verified": false
+    },
+    {
+      "title": "Презентация Русского Космического Общества",
+      "description": "23-24 ноября, по приглашению регионального отделения движения «Новый Рубеж» в Краснодарском крае, прошла презентация идей и проектов Русского Космического Общества. В рамках форума «Успех-2017» выступал член Президиума РКО, Степан Андреевич Зотов.",
+      "url": "https://cosmatica.org/news/24-prezentacija-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u1/c6/b2/prezentacija-russkogo-kosmicheskogo-obschestva-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cfa8dd48554b3ad1a8",
+      "type": "news-item",
+      "sourceCharacters": 1299,
+      "verified": false
+    },
+    {
+      "title": "Книга про аэрокосмическое достижения Отечества",
+      "description": "Сидоренко Виктор Иванович – ветеран аэро-космической отрасли – инженер механик. Выйдя на пенсию, осознавая проблему нехватки научно-технических кадров в нашей стране, Виктор Иванович стал проводить занятия со школьниками. «Интерес, с которым ребята слушали мои лекции побудили меня написать книжку введение в космонавтику для школьников. Весь опыт и знания, которые я накопил, я теперь возвращаю детям в надежде, что эта",
+      "url": "https://cosmatica.org/news/21-kniga-pro-aerokosmicheskoe-dostizhenija-otechestva.html",
+      "image": "https://cosmatica.org/upload/000/u1/9b/d0/kniga-pro-aerokosmicheskoe-dostizhenija-otechestva-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cb91c27bf189acf2b6",
+      "type": "news-item",
+      "sourceCharacters": 1528,
+      "verified": false
+    },
+    {
+      "title": "Энтузиаст из Долгопрудного предлагает познавать тайны вселенной",
+      "description": "Издание книги о достижениях отечественной космонавтики, разработка «космического» онлайн-курса и организация летних физико-технических школ для подростков. Эти и многие другие проекты реализуют активисты региональной общественной организации «Русское космическое общество». Подробности корреспондент «Подмосковье сегодня» узнал у идейного вдохновителя и одного из главных соорганизаторов РКО Дениса Шпотя из Долгопрудног",
+      "url": "https://cosmatica.org/news/20-entuziast-iz-dolgoprudnogo-predlagaet-poznavat-tainy-vselennoi.html",
+      "image": "https://cosmatica.org/upload/000/u1/da/64/entuziast-iz-dolgoprudnogo-predlagaet-poznavat-tainy-vselennoi.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=81803c5f8e848417d4",
+      "type": "news-item",
+      "sourceCharacters": 4748,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество стало лауреатом конкурса достижений молодёжи \"Славим Отечество\"",
+      "description": "В конкурсе было пять номинаций, одна из них: \"Славные традиции российской науки\". В этой номинации, Шпотя Денис Александрович с проектом \"Русское космическое общество\" стал победителем конкурса. Каждая номинация была с небольшой предысторией в виде видео сюжета. Отрадно, что сюжет к научной номинации был основан на достижениях Русского космического общества и его аэрокосмической проблематике! Спасибо большое организа",
+      "url": "https://cosmatica.org/news/16-russkoe-kosmicheskoe-obschestvo-stalo-laureatom-konkursa-dostizhenii-molodyozhi-slavim-otechestvo.html",
+      "image": "https://cosmatica.org/upload/000/u1/02/06/russkoe-kosmicheskoe-obschestvo-stalo-laureatom-konkursa-dostizhenii.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b5fb98a17a6830d6bb",
+      "type": "news-item",
+      "sourceCharacters": 1987,
+      "verified": false
+    },
+    {
+      "title": "Состоялось заседание бюро президиума РАЕН",
+      "description": "Доклад на тему «Научное наследие Н.Н. Моисеева и будущее науки», был сделан Ю.В.Яковцом – д.э.н., проф., заслуженным деятелем науки РФ, членом",
+      "url": "https://cosmatica.org/news/17-sostojalos-zasedanie-byuro-prezidiuma-raen.html",
+      "image": "https://cosmatica.org/upload/000/u1/dd/1c/sostojalos-zasedanie-byuro-prezidiuma-raen-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=944e6d6dcbeb611177",
+      "type": "news-item",
+      "sourceCharacters": 1213,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/50-svobodnaja-energija.html",
+  "title": "Свободная энергия",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "энергия, которая способна совершать работу.",
+      "spans": [
+        {
+          "text": "энергия, которая способна совершать работу."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "энергия, которая способна совершать работу.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 61,
+    "storedTextCharacters": 43,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31560
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 43,
+  "capturedBodyCharacters": 43,
+  "sourceTextSHA256": "e2d7da32065aa47dcffff3861a3b2a973bf99b82773e61152f38c53758097861",
+  "archiveSnapshotAt": "2026-10-08T08:46:52Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 294,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Сохраняя память: Генерал \"Буран\"",
+      "description": "Проект «Генерал „Буран“ осуществляется в рамках Всероссийского движения Русского Космического Общества «СОХРАНЯЯ ПАМЯТЬ»",
+      "url": "https://cosmatica.org/projects/gudilin",
+      "image": "https://cosmatica.org/upload/000/u21/e8/21/sohranjaja-pamjat-general-buran-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e1b4cddfec601a8184",
+      "type": "project",
+      "sourceCharacters": 4179,
+      "verified": false
+    },
+    {
+      "title": "Международная научная конференция «Ильенковские чтения»",
+      "description": "Ежегодная международная научная конференция «Ильенковские чтения» посвящена не только памяти, но и развитию идей выдающегося, трагически погибшего советского философа Ильенкова Эвальда Васильевича (1924-1979), физически ощущавшего боль от несоответствия социалистического идеала и реального социализма, догматического и творческого марксизма.",
+      "url": "https://cosmatica.org/projects/ilyenkovskie-chteniya",
+      "image": "https://cosmatica.org/upload/000/u26/ff/18/xxi-mezhdunarodnaja-nauchnaja-konferencija-ilenkovskie-chtenija-logo.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=c7b4866f215f42a055",
+      "type": "project",
+      "sourceCharacters": 857,
+      "verified": false
+    },
+    {
+      "title": "Империум Человека",
+      "description": "Империум Человека – общество будущего, каким оно должно быть. Новое слово. Новый мир, где Человек, впервые, становится Мерой. Целью, а не средством. Где критерий развития, это рост доблести, мужества, верности, чести, целого свода Благородных Качеств. Жизнь и жизнеродность, явленные как творчество, труд и борьба, становятся истинным и вечным императивом. Инвариантом управления Обществом.",
+      "url": "https://cosmatica.org/projects/imperium",
+      "image": "https://cosmatica.org/upload/000/u7/2/2/imperium-cheloveka-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=db10fefc1b532a071f",
+      "type": "project",
+      "sourceCharacters": 4964,
+      "verified": false
+    },
+    {
+      "title": "Издание сборника трудов П.Г. Кузнецова: \"Наука развития жизни\"",
+      "description": "Издание уникального трёхтомника генерального конструктора будущего и инженера истории П.Г. Кузнецова.",
+      "url": "https://cosmatica.org/projects/izdanie-pobisk",
+      "image": "https://cosmatica.org/upload/000/u26/b8/5f/sbornik-trudov-p-g-kuznecova-nauka-razvitija-zhizni-logo-norm.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=7617c6fd81a5829573",
+      "type": "project",
+      "sourceCharacters": 3710,
+      "verified": false
+    },
+    {
+      "title": "Структура жизни",
+      "description": "Основная цель проекта «Структура Жизни» — всестороннее устойчивое развитие в системе Природа-Общество-Человек, которые помогут гармонизировать как саму среду обитания, так и здоровье общества и человека.",
+      "url": "https://cosmatica.org/projects/jivas",
+      "image": "https://cosmatica.org/upload/003/u318/f/e/struktura-zhizni-logo-normal.png",
+      "kind": "project",
+      "href": "view.html?p=project&ref=f641cba377e06bc466",
+      "type": "project",
+      "sourceCharacters": 6621,
+      "verified": false
+    },
+    {
+      "title": "Экспериментальный концертный театр-лаборатория \"Кантилена\"",
+      "description": "«Правильной музыкой можно управлять государством»",
+      "url": "https://cosmatica.org/projects/kantilena",
+      "image": "https://cosmatica.org/upload/000/u8/65/f3/kantilena-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=5df3adbf05768813e6",
+      "type": "project",
+      "sourceCharacters": 4613,
+      "verified": false
+    },
+    {
+      "title": "Социальный проект: «Каждая жизнь для Жизни бесценна»",
+      "description": "Проект реализуется Научно образовательным Советом в рамках развития Просветительско-гуманитарного центра Русского Космического Общества.",
+      "url": "https://cosmatica.org/projects/kazhdaya-zhizn",
+      "image": "https://cosmatica.org/upload/000/u35/a/4/socialnyi-proekt-kazhdaja-zhizn-dlja-zhizni-bescenna-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=83e3ee79fc476feb49",
+      "type": "project",
+      "sourceCharacters": 3607,
+      "verified": false
+    },
+    {
+      "title": "Сохраняя память: Волский М.И.",
+      "description": "Михаил Иванович Волский – открывая дорогу в космос.",
+      "url": "https://cosmatica.org/projects/keeping-memory-volskiy",
+      "image": "https://cosmatica.org/upload/001/u176/2/a/sohranjaja-pamjat-volskii-m-i-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=38e2bd98dd67faf074",
+      "type": "project",
+      "sourceCharacters": 9886,
+      "verified": false
+    },
+    {
+      "title": "Школа конструкторов будущего",
+      "description": "«Невозможное сегодня станет возможным завтра».",
+      "url": "https://cosmatica.org/projects/klubkb",
+      "image": "https://cosmatica.org/upload/002/u218/e/9/klub-konstruktorov-buduschego-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=ce6d08c52563ef754b",
+      "type": "project",
+      "sourceCharacters": 9289,
+      "verified": false
+    },
+    {
+      "title": "Клуб ПОБИСК",
+      "description": "Клуб ПОБИСК – это экспертное, научно-общественное, неполитическое, информационное, интеллектуальное пространство людей, заинтересованных в устойчивом природосообразном будущем России и мира, организованном на принципах научного управления.",
+      "url": "https://cosmatica.org/projects/klubpobisk",
+      "image": "https://cosmatica.org/upload/000/u35/2/3/klub-pobisk-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=ab3eaf349390c51375",
+      "type": "project",
+      "sourceCharacters": 25132,
+      "verified": false
+    },
+    {
+      "title": "\"Космическое творчество Г.И. Тищенко\"",
+      "description": "Геннадий Иванович Тищенко — советский и российский мультипликатор, режиссёр, художник и сценарист.",
+      "url": "https://cosmatica.org/projects/kocmicheckoe-tvorchestvo-tishchekno",
+      "image": "https://cosmatica.org/upload/000/u1/10/cb/kosmicheskoe-tvorchestvo-g-i-tischenko-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=1f5d3626d53360ef89",
+      "type": "project",
+      "sourceCharacters": 1577,
+      "verified": false
+    },
+    {
+      "title": "Московский футурологический конгресс им. Б.Е. Большакова",
+      "description": "Московский футурологический конгресс — это съезд авторов и представителей социально значимых проектов России.",
+      "url": "https://cosmatica.org/projects/kongress-im-bolshakova",
+      "image": "https://cosmatica.org/upload/000/u26/b/3/a4088150.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=f2883024bbae69ca6f",
+      "type": "project",
+      "sourceCharacters": 1646,
+      "verified": false
+    },
+    {
+      "title": "Открытый конкурс эссе им. Р. Бартини «Многомерность Вселенной»",
+      "description": "— ФГБОУ ВО «Брянский государственный инженерно-технологический университет» (далее – университет, вуз, БГИТУ);",
+      "url": "https://cosmatica.org/projects/konkurs-bartiny",
+      "image": "https://cosmatica.org/upload/000/u26/4/6/otkrytyi-konkurs-esse-im-r-bartini-mnogomernost-vselennoi-l.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=f8d167effe2482ddbd",
+      "type": "project",
+      "sourceCharacters": 2001,
+      "verified": false
+    },
+    {
+      "title": "Конкурс \"Час быка\"",
+      "description": "Международный конкурс рисунка, музыки и сценария",
+      "url": "https://cosmatica.org/projects/konkurs-chas-byka",
+      "image": "https://cosmatica.org/upload/000/u35/b/7/konkurs-chas-byka-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=07fd1a81fe2281f86e",
+      "type": "project",
+      "sourceCharacters": 7706,
+      "verified": false
+    },
+    {
+      "title": "Международный конкурс исследовательских проектов",
+      "description": "«Ю.А. Гагарин и его наследие в истории страны и всего мира».",
+      "url": "https://cosmatica.org/projects/konkurs-issledovateley",
+      "image": "https://cosmatica.org/upload/000/u26/49/b5/mezhdunarodnyi-konkurs-issledovatelskih-proektov-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=523f4091583056ab7c",
+      "type": "project",
+      "sourceCharacters": 6103,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

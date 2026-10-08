@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1076-konferencija-lyudi-voennoi-aviacii-doklady-horoshun-m-p-i-hohlovoi-yu-a.html",
+  "title": "Конференция \"Люди военной авиации\". Доклады Хорошун М.П. и Хохловой Ю.А.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Сохраняя память: Люди военной авиации",
+      "level": 2
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "c_7QkdFh5J4",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=c_7QkdFh5J4"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Итоговая конференция проекта \"Сохраняя память: Люди военной авиации\" Доклады студенток ГБПОУ НСО «Новосибирский авиационный технический колледж имени Б. С. Галущака», г. Новосибирск \"Так победили! Гражданский подвиг гениального учёного-аэродинамика Сергея Алексеевича Чаплыгина в годы Великой Отечественной войны\" - Мария Павловна Хорошун. \"Героическая веха развития аэродинамики: создание аэродинамической трубы Т-201\" - Юлия Андреевна Хохлова. 9 мая 2020г. Сетевая платформа Русского Космического Общества https://rko.nbics.net Проект на сайте РКО: https://cosmatica.org/projects/138",
+      "links": [
+        {
+          "title": "https://rko.nbics.net",
+          "url": "https://rko.nbics.net/"
+        },
+        {
+          "title": "",
+          "url": "https://www.youtube.com/redirect?event=video_description&v=c_7QkdFh5J4&q=https%3A%2F%2Frko.nbics.net&redir_token=QUFFLUhqbXpWdDk3aG1Oa05oZ2RIMmx0MVBaU0M4WjhfZ3xBQ3Jtc0ttam1oRHNyamJNYXR3Z0NwcU44X1d4bnNIVkNjdlRIRTVRbmZxalhrdUZwZFI4MERLMmhXenlrZFd4MGhNQnU1Wk1zYXdfeTlfa2FNMkhjdUY5S0czMVVQZTdwN2N1YU1mTE1nWDVFbkVNTUNKNUlQWQ%3D%3D"
+        },
+        {
+          "title": "Проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "https://cosmatica.org/projects/138",
+          "url": "https://cosmatica.org/projects/138"
+        },
+        {
+          "title": "",
+          "url": "https://cosmatica.org/projects/138"
+        },
+        {
+          "title": "",
+          "url": "https://www.youtube.com/redirect?event=video_description&v=c_7QkdFh5J4&q=https%3A%2F%2Fcosmatica.org%2Fprojects%2F138&redir_token=QUFFLUhqbW0yNGhKc1FsNVlfLXlsamJKU2d3Q2xuRDdqZ3xBQ3Jtc0tub0dpTkl6ZW9xTlF1ZEZTNUtIVHYwc0hlODE0R3F5OGdZNHNTSEo1Y1ZVMFFHYzhzMjZXWXpBcDRDN1V2aV9IbmYwOVd3S25RanpFRnlvdC1KYVBjcFNySlBGYklRelZRWkFLMnlIY25TVUxEU1R6VQ%3D%3D"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 823,
+    "storedTextCharacters": 38,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 77744
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 711,
+  "capturedBodyCharacters": 38,
+  "sourceTextSHA256": "05bda28259505290b5922e4bc02e740694fcdb17981e23d898f80764953cb885",
+  "archiveSnapshotAt": "2026-10-08T08:38:06Z",
+  "publicVideoCount": 1
+}

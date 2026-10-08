@@ -61,3 +61,12 @@
  .rich-blocks blockquote{padding:10px 0 10px 14px}
  .rich-blocks h2{font-size:22px}
 }
+/* Public video references stay on YouTube; load player only after a user opens it. */
+.rich-video{max-width:900px;margin:24px 0;border:1px solid var(--line);border-radius:16px;padding:15px 18px;background:var(--surface)}
+.rich-video summary{font-size:16px;font-weight:750;cursor:pointer;min-height:32px;line-height:1.5}
+.rich-video summary:focus-visible,.rich-video-source:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+.rich-video-frame{display:none;position:relative;aspect-ratio:16/9;margin:14px 0;background:#111227;border-radius:10px;overflow:hidden}
+.rich-video[open] .rich-video-frame{display:block}
+.rich-video-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.rich-video-source{display:inline-block;margin-top:10px;font-size:13px;color:var(--red);text-decoration:underline}
+@media(max-width:640px){.rich-video{padding:12px;margin:19px 0}.rich-video summary{font-size:14px}}

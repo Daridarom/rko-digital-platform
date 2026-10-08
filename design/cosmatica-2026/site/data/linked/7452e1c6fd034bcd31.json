@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/169",
+  "title": "Надежда Леонидовна Пастернак",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/fc/75/e68a20d5.jpg",
+      "alt": "Надежда Леонидовна Пастернак"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/36/58/9af24473.jpg",
+      "alt": "Надежда Леонидовна Пастернак"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Инженер-строитель по образованию.",
+      "spans": [
+        {
+          "text": "Инженер-строитель по образованию."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Планируемая деятельность в РКО: Мониторинг и улучшение экологической ситуации в Краснодарском крае. Развитие ноосферного образования.",
+      "spans": [
+        {
+          "text": "Планируемая деятельность в РКО: Мониторинг и улучшение экологической ситуации в Краснодарском крае. Развитие ноосферного образования."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Краснодарский край",
+      "links": [
+        {
+          "title": "Краснодарский край",
+          "url": "https://cosmatica.org/departments/1-krasnodarskii-krai.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Инженер-строитель по образованию. Планируемая деятельность в РКО: Мониторинг и улучшение экологической ситуации в Краснодарском крае. Развитие ноосферного образования.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/fc/75/e68a20d5.jpg",
+    "https://cosmatica.org/upload/000/u8/36/58/9af24473.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 261,
+    "storedTextCharacters": 199,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35191
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 207,
+  "capturedBodyCharacters": 199,
+  "sourceTextSHA256": "70fcafc400aacfe0cf5af116b18707e43dfc938a546f53c98c8979dd995bcfe4",
+  "archiveSnapshotAt": "2026-10-08T09:18:15Z"
+}

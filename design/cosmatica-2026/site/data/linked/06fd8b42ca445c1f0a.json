@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/lektorii",
+  "title": "Лектории",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Грядущие",
+        "Все"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [
+    "Грядущие",
+    "Все"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 51,
+    "storedTextCharacters": 11,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 45964
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 51,
+  "capturedBodyCharacters": 11,
+  "sourceTextSHA256": "6e17628513754f06f6af2757a99f4053401f3ee93fb73ef19f0ae6bdf0ffd451",
+  "archiveSnapshotAt": "2026-10-08T09:16:18Z"
+}

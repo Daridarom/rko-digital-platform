@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/979-formula-krasoty-12-02-2020.html",
+  "title": "Формула красоты.12.02.2020",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Выступление в Библио-глобусе. Февраль 2020",
+      "spans": [
+        {
+          "text": "Выступление в Библио-глобусе. Февраль 2020"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ЗАКАЗАТЬ КНИГИ С.И. Сухоноса: https://rassvetbooks.com/",
+      "spans": [
+        {
+          "text": "ЗАКАЗАТЬ КНИГИ С.И. Сухоноса: "
+        },
+        {
+          "text": "https://rassvetbooks.com/",
+          "href": "https://www.youtube.com/redirect?event=video_description&redir_token=qh9bnr2mNXS57FHkUm4eIS7VvKl8MTU5MDg1NDM4MEAxNTkwNzY3OTgw&q=https%3A%2F%2Frassvetbooks.com%2F&v=E0NHHmKRrkk"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://rassvetbooks.com/",
+          "url": "https://www.youtube.com/redirect?event=video_description&redir_token=qh9bnr2mNXS57FHkUm4eIS7VvKl8MTU5MDg1NDM4MEAxNTkwNzY3OTgw&q=https%3A%2F%2Frassvetbooks.com%2F&v=E0NHHmKRrkk"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Официальный сайт Сергея Ивановича Сухоноса: http://suhonos.ru/",
+      "spans": [
+        {
+          "text": "Официальный сайт Сергея Ивановича Сухоноса: "
+        },
+        {
+          "text": "http://suhonos.ru/",
+          "href": "https://www.youtube.com/redirect?event=video_description&redir_token=qh9bnr2mNXS57FHkUm4eIS7VvKl8MTU5MDg1NDM4MEAxNTkwNzY3OTgw&q=http%3A%2F%2Fsuhonos.ru%2F&v=E0NHHmKRrkk"
+        }
+      ],
+      "links": [
+        {
+          "text": "http://suhonos.ru/",
+          "url": "https://www.youtube.com/redirect?event=video_description&redir_token=qh9bnr2mNXS57FHkUm4eIS7VvKl8MTU5MDg1NDM4MEAxNTkwNzY3OTgw&q=http%3A%2F%2Fsuhonos.ru%2F&v=E0NHHmKRrkk"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "E0NHHmKRrkk",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=E0NHHmKRrkk"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Выступление в Библио-глобусе. Февраль 2020 ЗАКАЗАТЬ КНИГИ С.И. Сухоноса: https://rassvetbooks.com/ Официальный сайт Сергея Ивановича Сухоноса: http://suhonos.ru/",
+      "links": [
+        {
+          "title": "https://rassvetbooks.com/",
+          "url": "https://www.youtube.com/redirect?event=video_description&redir_token=qh9bnr2mNXS57FHkUm4eIS7VvKl8MTU5MDg1NDM4MEAxNTkwNzY3OTgw&q=https%3A%2F%2Frassvetbooks.com%2F&v=E0NHHmKRrkk"
+        },
+        {
+          "title": "http://suhonos.ru/",
+          "url": "https://www.youtube.com/redirect?event=video_description&redir_token=qh9bnr2mNXS57FHkUm4eIS7VvKl8MTU5MDg1NDM4MEAxNTkwNzY3OTgw&q=http%3A%2F%2Fsuhonos.ru%2F&v=E0NHHmKRrkk"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 212,
+    "storedTextCharacters": 159,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 74295
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 185,
+  "capturedBodyCharacters": 159,
+  "sourceTextSHA256": "fd4e0e8ee7ed179535c9c450ded92db37ce10540e4ea82656ab98756a0b86eba",
+  "archiveSnapshotAt": "2026-10-08T08:44:55Z",
+  "publicVideoCount": 1
+}

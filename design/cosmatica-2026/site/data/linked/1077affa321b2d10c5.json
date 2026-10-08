@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/538-1204-ramazanova-lidija-vladislavovna-minsk.html",
+  "title": "12/04. Рамазанова Лидия Владиславовна. Минск",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Международная акция 12/04",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Рамазанова Лидия Владиславовна. Минск",
+      "spans": [
+        {
+          "text": "Рамазанова Лидия Владиславовна. Минск"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Если у Вас есть возможность расспросить человека, который помнит тот день, запишите, пожалуйста, на видео его короткое интервью, выложите видео на YouTube или в любое облако, и пришлите ссылку на адрес: gagarin@gagarinday.ru",
+      "spans": [
+        {
+          "text": "Если у Вас есть возможность расспросить человека, который помнит тот   день, запишите, пожалуйста, на видео его короткое интервью, выложите   видео на YouTube или в любое облако, и пришлите ссылку на адрес:   gagarin@gagarinday.ru"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "A6LTxHAXEy0",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=A6LTxHAXEy0"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Рамазанова Лидия Владиславовна. Минск Если у Вас есть возможность расспросить человека, который помнит тот день, запишите, пожалуйста, на видео его короткое интервью, выложите видео на YouTube или в любое облако, и пришлите ссылку на адрес: gagarin@gagarinday.ru",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 463,
+    "storedTextCharacters": 287,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 75316
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 391,
+  "capturedBodyCharacters": 287,
+  "sourceTextSHA256": "59a14419240a33364e9d0751a5e28a35ebd39fa538fe0add6c79637d9b132c90",
+  "archiveSnapshotAt": "2026-10-08T08:42:09Z",
+  "publicVideoCount": 1
+}

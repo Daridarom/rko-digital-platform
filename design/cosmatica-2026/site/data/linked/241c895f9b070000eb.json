@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/420",
+  "title": "Николай Алексеевич Мельниченко",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/c/3cc2b895.jpg",
+      "alt": "Николай Алексеевич Мельниченко"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/6/35db78bf.jpg",
+      "alt": "Николай Алексеевич Мельниченко"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Калининградская область",
+      "links": [
+        {
+          "title": "Калининградская область",
+          "url": "https://cosmatica.org/departments/20-kaliningradskaja-oblast.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/5/c/3cc2b895.jpg",
+    "https://cosmatica.org/upload/000/u35/c/6/35db78bf.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 90,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34173
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 34,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "7bd034516adf901c2cfc9ea5bb4bbbb58b8cc1188985ed3182268202235c8a10",
+  "archiveSnapshotAt": "2026-10-08T09:19:38Z"
+}

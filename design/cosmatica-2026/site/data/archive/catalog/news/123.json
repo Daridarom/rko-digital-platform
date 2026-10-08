@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 123,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "15 октября проекту Наша Вселенная исполнилось 3 года",
+      "description": "И по прошествии этих немалых лет руководители проекта со всей ответственностью заявляют: \"Нас по-прежнему вдохновляют звёзды, манят миры иных планет и зовёт Вселенная!\"",
+      "url": "https://cosmatica.org/news/216-15-oktjabrja-proektu-nasha-vselennaja-kompyuternaja-igra-pro-kosmos-ispolnilos-3-goda.html",
+      "image": "https://cosmatica.org/upload/000/u26/2c/35/15-oktjabrja-proektu-nasha-vselennaja-kompyuternaja-igra-pro-kosmos.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c20b4f058bcabbe612",
+      "type": "news-item",
+      "sourceCharacters": 2108,
+      "verified": false
+    },
+    {
+      "title": "3-е рабочее собрание Санкт-Петербургского отделения РКО",
+      "description": "13 октября 2018 года в Санкт-Петербурге состоялось третье собрание Санкт-Петербургского отделения Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/213-3-e-rabochee-sobranie-sankt-peterburgskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/000/u21/ef/6c/3-e-rabochee-sobranie-sankt-peterburgskogo-otdelenija-rko-photo-no.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c0bf58f06fdf71e61e",
+      "type": "news-item",
+      "sourceCharacters": 13330,
+      "verified": false
+    },
+    {
+      "title": "Открытие выставки работ Геннадия Ивановича Тищенко",
+      "description": "14 октября 2018 года в ДК «Алые Паруса» (г. Москва) состоялось открытие выставки работ члена Русского Космического Общества, художника, мультипликатора, писателя-фантаста Геннадия Ивановича Тищенко.",
+      "url": "https://cosmatica.org/news/217-otkrytie-vystavki-rabot-gennadija-ivanovicha-tischenko.html",
+      "image": "https://cosmatica.org/upload/000/u26/51/84/otkrytie-vystavki-rabot-gennadija-ivanovicha-tischenko-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a2e2cbb73df7c412ee",
+      "type": "news-item",
+      "sourceCharacters": 2294,
+      "verified": false
+    },
+    {
+      "title": "Валерий Иванович Токарев - член Русского Космического Общества",
+      "description": "Вручение членского билета и нагрудного знака прошло в Звёздном городке, главой которого он является.",
+      "url": "https://cosmatica.org/news/212-valerii-ivanovich-tokarev-chlen-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u7/5e/82/valerii-ivanovich-tokarev-chlen-russkogo-kosmicheskogo-obschestva-p.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4dd355249e9a7d5319",
+      "type": "news-item",
+      "sourceCharacters": 4102,
+      "verified": false
+    },
+    {
+      "title": "Система аварийного спасения сработала",
+      "description": "Понимаем сейчас мысли многих людей и где-то возможно их поддерживаем, но вся эта поддержка заканчивается ровно после осознания некоторых генеральных обстоятельств.",
+      "url": "https://cosmatica.org/news/211-sistema-avariinogo-spasenija-srabotala.html",
+      "image": "https://cosmatica.org/upload/001/u120/8e/3d/sistema-avariinogo-spasenija-srabotala-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2acb146144a8d2c5e9",
+      "type": "news-item",
+      "sourceCharacters": 2149,
+      "verified": false
+    },
+    {
+      "title": "Новосибирский взгляд на звёзды Хакасии",
+      "description": "Отделение Русского Космического Общества Хакасии сформировано на базе музея-заповедника «Сундуки».",
+      "url": "https://cosmatica.org/news/209-novosibirskii-vzgljad-na-zvyozdy-hakasii.html",
+      "image": "https://cosmatica.org/upload/000/u43/74/47/novosibirskii-vzgljad-na-zvyozdy-hakasii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=09e689661d7d968184",
+      "type": "news-item",
+      "sourceCharacters": 1768,
+      "verified": false
+    },
+    {
+      "title": "Созвездие геометрических образов",
+      "description": "5 октября в Москве в Выставочном зале «Тушино» открылась персональная художественная выставка художника-графика Иветты Ки (г. Сочи) «ГЕОМЕТРИЯ ОБРАЗА» г. Москва, Выставочный зал «Тушино», (5-21 октября 2018 г.)",
+      "url": "https://cosmatica.org/news/208-sozvezdie-geometricheskih-obrazov.html",
+      "image": "https://cosmatica.org/upload/000/u8/f7/0c/sozvezdie-geometricheskih-obrazov-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=87cba5f6692915b502",
+      "type": "news-item",
+      "sourceCharacters": 3646,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество: \"На Благо Мира!\"",
+      "description": "Сегодня, в условиях информационной замусоренности и навязывания нам чуждых ценностей и идеалов, мы с полной ответственностью должны сказать своё веское слово. Тем более, нам есть, что сказать.",
+      "url": "https://cosmatica.org/news/207-russkoe-kosmicheskoe-obschestvo-na-blago-mira.html",
+      "image": "https://cosmatica.org/upload/000/u26/ba/be/853f03af.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=83ad094d7506acbf56",
+      "type": "news-item",
+      "sourceCharacters": 2559,
+      "verified": false
+    },
+    {
+      "title": "Встреча Титанов",
+      "description": "07 октября в офисе Санкт-Петербургского отделения Русского Космического Общества (РКО) состоялась рабочая встреча Председателя Философского совета и СПб отделения РКО, Субетто Александра Ивановича и члена РКО, космонавта, Героя России, Авдеева Сергея Васильевича.",
+      "url": "https://cosmatica.org/news/206-vstrecha-titanov.html",
+      "image": "https://cosmatica.org/upload/000/u21/20/28/26917d21.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ed3607225e394182e8",
+      "type": "news-item",
+      "sourceCharacters": 1205,
+      "verified": false
+    },
+    {
+      "title": "Региональный этап всероссийского фестиваля среди детских футбольных команд «Ближе к звёздам»",
+      "description": "Большую роль в организации проведения приняли участие: «Русское космическое общество», Спортивный клуб «Роскосмос», детская Нижегородская Лига по футболу. Мы надеемся, что данные соревнования будут проходить ежегодно, с участием команд из других регионов нашей Страны.",
+      "url": "https://cosmatica.org/news/221-regionalnyi-etap-vserossiiskogo-festivalja-sredi-detskih-futbolnyh-komand-blizhe-k-zvyozdam.html",
+      "image": "https://cosmatica.org/upload/000/u26/82/d7/regionalnyi-etap-vserossiiskogo-festivalja-sredi-detskih-futbol.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c8c2c2f262f874c6b4",
+      "type": "news-item",
+      "sourceCharacters": 1833,
+      "verified": false
+    },
+    {
+      "title": "Приглашаем на открытие выставки Иветты Ки!",
+      "description": "г. Москва, Выставочный зал «Тушино», 5 -21 октября 2018 г.",
+      "url": "https://cosmatica.org/news/205-priglashaem-na-otkrytie-vystavki-ivetty-ki.html",
+      "image": "https://cosmatica.org/upload/000/u26/7e/43/c41ad7e5.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ac6316bdc1ec3e48b0",
+      "type": "news-item",
+      "sourceCharacters": 2583,
+      "verified": false
+    },
+    {
+      "title": "Поздравление президента РКО с днём космических войск",
+      "description": "61 год назад человечество сделало шаг в открытый космос, запустив в свой первый полёт искусственный спутник Земли. Это стало началом космической истории земного человечества, предопределило его дальнейшее развитие .",
+      "url": "https://cosmatica.org/news/202-pozdravlenie-prezidenta-rko-s-dnyom-kosmicheskih-voisk.html",
+      "image": "https://cosmatica.org/upload/000/u26/1a/42/pozdravlenie-prezidenta-rko-s-dnyom-kosmicheskih-voisk-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1ba5801554e6839e04",
+      "type": "news-item",
+      "sourceCharacters": 649,
+      "verified": false
+    },
+    {
+      "title": "Слово стало песней",
+      "description": "Этот год также ознаменован проведением Всероссийской премии детского литературного творчества им. С.А. Есенина «Песенное слово».",
+      "url": "https://cosmatica.org/news/203-slovo-stalo-pesnei.html",
+      "image": "https://cosmatica.org/upload/000/u26/89/f3/f789f9f6.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=afb29f42be7728ac41",
+      "type": "news-item",
+      "sourceCharacters": 2322,
+      "verified": false
+    },
+    {
+      "title": "Начинающие журналисты, мы ждём вас!",
+      "description": "Русское Космическое Общество – это собрание людей, объединившихся в особый период развития человеческой цивилизации вокруг общей ЦЕЛИ – сохранения и развития жизни как космопланетарного явления, а также содействия переходу цивилизации на путь её космической истории. Для осмысления и правильного применения законов эволюции жизни на Земле и в Космосе. Для распространения научного и философского наследия школы Русского ",
+      "url": "https://cosmatica.org/news/201-nachinayuschie-pisateli-my-zhdyom-vas.html",
+      "image": "https://cosmatica.org/upload/000/u26/50/dd/710890fa.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1f1db7ff7bcc82b09d",
+      "type": "news-item",
+      "sourceCharacters": 3482,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль \"Наука 0+\" в Брянске при участии Русского Космического Общества",
+      "description": "Организатором фестиваля в регионе является Брянский государственный инженерно-технологический университет.",
+      "url": "https://cosmatica.org/news/204-festival-nauka-0-v-brjanske-pri-uchastii-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u26/e0/f8/d1ff510b.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3d06a91f43c927d7e6",
+      "type": "news-item",
+      "sourceCharacters": 2383,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

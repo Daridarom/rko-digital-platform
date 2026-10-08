@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/458",
+  "title": "Александр Владимирович Захаров",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/0/748a9570.jpg",
+      "alt": "Александр Владимирович Захаров"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/6/c02dab39.jpg",
+      "alt": "Александр Владимирович Захаров"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Генеральный директор Центра ноосферного здоровья, кандидат медицинских наук.",
+      "spans": [
+        {
+          "text": "Генеральный директор Центра ноосферного здоровья, кандидат медицинских наук."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "АНО «Центр ноосферного здоровья» —",
+      "spans": [
+        {
+          "text": "АНО «Центр ноосферного здоровья» —"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ooscentr.ru",
+      "spans": [
+        {
+          "text": "ooscentr.ru"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Генеральный директор Центра ноосферного здоровья, кандидат медицинских наук. АНО «Центр ноосферного здоровья» — nooscentr.ru",
+      "links": [
+        {
+          "title": "nooscentr.ru",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fnooscentr.ru"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/5/0/748a9570.jpg",
+    "https://cosmatica.org/upload/002/u218/f/6/c02dab39.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 208,
+    "storedTextCharacters": 154,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35267
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 152,
+  "capturedBodyCharacters": 154,
+  "sourceTextSHA256": "417cfff8494d0584d8361a8ef3ee4bd3a10125735ef1ff338eb783d4d1203c4e",
+  "archiveSnapshotAt": "2026-10-08T09:19:56Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "users",
+  "title": "Участники РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 12,
+  "pageCount": 16,
+  "total": 235,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Рязанское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/335",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=51e5bc3c9de7624aaa",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Евгений Николаевич Щёголев",
+      "description": "Родился 21 июля 1976 года в г. Ленинграде в семье инженеров. В 2001 году окончил Санкт-Петербургский университет культуры и искусств, квалификация: руководитель оркестра. В 2018 году окончил с отличием магистратуру по направлению «Государственное и муниципальное управление» Балтийского государственного технического университета «ВОЕНМЕХ» им. Д. Ф. Устинова. 28 января 2025 года защитил кандидатскую диссертацию по спец",
+      "url": "https://cosmatica.org/users/348",
+      "image": "https://cosmatica.org/upload/000/u35/7/c/c2948304.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=d516bf481e13ce469c",
+      "type": "profile",
+      "sourceCharacters": 545,
+      "verified": false
+    },
+    {
+      "title": "Игорь Викторович Скикевич",
+      "description": "— Руководитель отдела по работе с молодежью Экспедиционного Центра «Арктика» РГО.",
+      "url": "https://cosmatica.org/users/357",
+      "image": "https://cosmatica.org/upload/000/u35/c/f/54b26800.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=9a93c19c80fe5dd97f",
+      "type": "profile",
+      "sourceCharacters": 410,
+      "verified": false
+    },
+    {
+      "title": "Никита Александрович Матасов",
+      "description": "Ведущий лектор просветительского проекта «Мы верим в космос»",
+      "url": "https://cosmatica.org/users/359",
+      "image": "https://cosmatica.org/upload/000/u35/c/5/2288ffc4.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=fc53066e50df300b93",
+      "type": "profile",
+      "sourceCharacters": 119,
+      "verified": false
+    },
+    {
+      "title": "Геннадий Иванович Тищенко",
+      "description": "Геннадий Иванович Тищенко родился 14.07.1948 в Баку. Встал в Вечный Строй 20 июля 2024г.",
+      "url": "https://cosmatica.org/users/36",
+      "image": "https://cosmatica.org/upload/000/u1/95/af/6872bc23.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=277df4e5523705d870",
+      "type": "profile",
+      "sourceCharacters": 13378,
+      "verified": false
+    },
+    {
+      "title": "Сафарби Хабасович Тлупов",
+      "description": "",
+      "url": "https://cosmatica.org/users/361",
+      "image": "https://cosmatica.org/upload/000/u35/3/5/dbbbc7cf.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=011a02e2fec2ea0714",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Борис Петрович Жданов",
+      "description": "",
+      "url": "https://cosmatica.org/users/362",
+      "image": "https://cosmatica.org/upload/000/u35/0/1/7ecaaefc.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=df79765c09efcd3fd7",
+      "type": "profile",
+      "sourceCharacters": 29,
+      "verified": false
+    },
+    {
+      "title": "Александр Филиппович Бугаёв",
+      "description": "",
+      "url": "https://cosmatica.org/users/363",
+      "image": "https://cosmatica.org/upload/000/u35/e/4/5069d46e.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=6afa5d2db1bcb5196c",
+      "type": "profile",
+      "sourceCharacters": 26,
+      "verified": false
+    },
+    {
+      "title": "Глеб Михайлович Линёв",
+      "description": "Учредитель Представительства РКО в Латвии Руководитель детского лагеря «Система»",
+      "url": "https://cosmatica.org/users/365",
+      "image": "https://cosmatica.org/upload/000/u35/1/f/035369c3.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=120da9efcf6538d68d",
+      "type": "profile",
+      "sourceCharacters": 128,
+      "verified": false
+    },
+    {
+      "title": "Челябинское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/37",
+      "image": "https://cosmatica.org/upload/000/u37/4a/82/2975be20.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=e5d171c2e7e3046011",
+      "type": "profile",
+      "sourceCharacters": 10,
+      "verified": false
+    },
+    {
+      "title": "Борис Борисович Паутов",
+      "description": "«Новгородский государственный педагогический институт» (1995 г.) — технология и предпринимательство;",
+      "url": "https://cosmatica.org/users/371",
+      "image": "https://cosmatica.org/upload/000/u35/1/9/d9a25ba8.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=7c9b6527a1b00aa700",
+      "type": "profile",
+      "sourceCharacters": 333,
+      "verified": false
+    },
+    {
+      "title": "Сергей Викторович Палагин",
+      "description": "(Саратовский политехнический институт, 1977 год.)",
+      "url": "https://cosmatica.org/users/378",
+      "image": "https://cosmatica.org/upload/000/u35/8/9/04bc67ad.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=82ec96ff923dce80a9",
+      "type": "profile",
+      "sourceCharacters": 289,
+      "verified": false
+    },
+    {
+      "title": "Андрей Витальевич Йосу",
+      "description": "",
+      "url": "https://cosmatica.org/users/385",
+      "image": "https://cosmatica.org/upload/000/u35/4/c/7d9b0638.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=5585344e16cc60bbb1",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Валерий Абрамович Шапиро",
+      "description": "Научный руководитель проекта «Технологии ХБО», член союза литераторов РФ, академик РАЕН, автор книг, открытий и изобретений. Более 20 патентов.",
+      "url": "https://cosmatica.org/users/386",
+      "image": "https://cosmatica.org/upload/000/u35/0/7/43d58ead.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=27b03ccec4404a67c6",
+      "type": "profile",
+      "sourceCharacters": 191,
+      "verified": false
+    },
+    {
+      "title": "Станислав Александрович Райковский",
+      "description": "Станочник широкого профиля оператор станков ЧПУ, ВПУ г.Комсомольск-на-Амуре.",
+      "url": "https://cosmatica.org/users/393",
+      "image": "https://cosmatica.org/upload/000/u35/f/f/c3009e2c.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=c463e1ae63ff7b4457",
+      "type": "profile",
+      "sourceCharacters": 935,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

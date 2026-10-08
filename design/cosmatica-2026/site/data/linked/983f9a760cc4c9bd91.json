@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/7-javlenie.html",
+  "title": "Явление",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это «проявление» некоторого инвариантного объекта в той или иной системе координат.",
+      "spans": [
+        {
+          "text": "это «проявление» некоторого инвариантного объекта в той или иной системе координат."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это «проявление» некоторого инвариантного объекта в той или иной системе координат.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 91,
+    "storedTextCharacters": 83,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31722
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 83,
+  "capturedBodyCharacters": 83,
+  "sourceTextSHA256": "c2b7ef9acff83ed5e4c9374a14a6fcb0819e223f307635c162a86a9b205a1e43",
+  "archiveSnapshotAt": "2026-10-08T08:46:57Z"
+}

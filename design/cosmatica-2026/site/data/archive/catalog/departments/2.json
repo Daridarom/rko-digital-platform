@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "departments",
+  "title": "Отделения",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 2,
+  "pageCount": 3,
+  "total": 31,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Курганская область",
+      "description": "Адрес отделения: 641884, г. Шадринск, Курганская область, ул Володарского, дом 53, офис 4",
+      "url": "https://cosmatica.org/departments/21-kurganskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=5de05052dc4f9f8f84",
+      "type": "department",
+      "sourceCharacters": 232,
+      "verified": false
+    },
+    {
+      "title": "Калининградская область",
+      "description": "Официальное открытие отделения состоялось 5 июля 2019г.",
+      "url": "https://cosmatica.org/departments/20-kaliningradskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=fbee202a16693dae6f",
+      "type": "department",
+      "sourceCharacters": 259,
+      "verified": false
+    },
+    {
+      "title": "Волгоградская область",
+      "description": "Председатель отделения - Баркова Элеонора Владиленовна",
+      "url": "https://cosmatica.org/departments/19-volgogradskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=b0f6bd412eff3aeabb",
+      "type": "department",
+      "sourceCharacters": 134,
+      "verified": false
+    },
+    {
+      "title": "Кемеровская область",
+      "description": "Председатель отделения - Грицкевич Татьяна Игоревна",
+      "url": "https://cosmatica.org/departments/18-kemerovskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=40374b638e97dbb153",
+      "type": "department",
+      "sourceCharacters": 97,
+      "verified": false
+    },
+    {
+      "title": "Представительство в Беларуси",
+      "description": "Представительство в Республике Беларусь создано 16 марта 2019г.",
+      "url": "https://cosmatica.org/departments/16-predstavitelstvo-v-belarusi.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=4d0d629d0141772ffe",
+      "type": "department",
+      "sourceCharacters": 263,
+      "verified": false
+    },
+    {
+      "title": "Нижегородская область",
+      "description": "Председатель отделения - Травкин Николай Васильевич",
+      "url": "https://cosmatica.org/departments/13-nizhegorodskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=3424f7f1c887642e1c",
+      "type": "department",
+      "sourceCharacters": 122,
+      "verified": false
+    },
+    {
+      "title": "Калужская область",
+      "description": "Калужское региональное отделение создано 02 марта 2019 года.",
+      "url": "https://cosmatica.org/departments/11-kaluzhskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=2b2656cf4c9e1f92a2",
+      "type": "department",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Москва",
+      "description": "Московское региональное отделение создано 21 декабря 2017 года .",
+      "url": "https://cosmatica.org/departments/10-moskva.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department",
+      "type": "department",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Санкт-Петербург",
+      "description": "Санкт-Петербургское региональное отделение создано 2 февраля 2018 года .",
+      "url": "https://cosmatica.org/departments/9-sankt-peterburg.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=8012cbf5dd47bf5067",
+      "type": "department",
+      "sourceCharacters": 370,
+      "verified": false
+    },
+    {
+      "title": "Новосибирская область",
+      "description": "Председатель отделения - Димов Александр Михайлович",
+      "url": "https://cosmatica.org/departments/8-novosibirskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=b52a379e0fadc1fc6d",
+      "type": "department",
+      "sourceCharacters": 123,
+      "verified": false
+    },
+    {
+      "title": "Челябинская область",
+      "description": "Председатель отделения — Бессонов Антон Владимирович , инженер- механик, рядовой запаса Вооруженных сил СССР, исследователь истории создания ракетно-ядерного щита СССР.",
+      "url": "https://cosmatica.org/departments/7-cheljabinskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=dac75e8421c9169b50",
+      "type": "department",
+      "sourceCharacters": 234,
+      "verified": false
+    },
+    {
+      "title": "Республика Крым",
+      "description": "Председатель Отделения - Электронная почта: info-krm@cosmatica.org",
+      "url": "https://cosmatica.org/departments/6-respublika-krym.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=6efb69953f3fc0f727",
+      "type": "department",
+      "sourceCharacters": 89,
+      "verified": false
+    },
+    {
+      "title": "Республика Хакасия",
+      "description": "Председатель отделения — Радюк Наталья Васильевна.",
+      "url": "https://cosmatica.org/departments/5-respublika-hakasija.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=5bbf8a38d769f28879",
+      "type": "department",
+      "sourceCharacters": 227,
+      "verified": false
+    },
+    {
+      "title": "Свердловская область",
+      "description": "Председатель отделения — Берг Дмитрий Борисович, профессор, доктор физико-математических наук.",
+      "url": "https://cosmatica.org/departments/4-sverdlovskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=38d04a29a236b853ef",
+      "type": "department",
+      "sourceCharacters": 202,
+      "verified": false
+    },
+    {
+      "title": "Псковская область",
+      "description": "Председатель отделения - Колпаков Владимир Юрьевич",
+      "url": "https://cosmatica.org/departments/2-pskovskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=64cf230a112c9020f3",
+      "type": "department",
+      "sourceCharacters": 210,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

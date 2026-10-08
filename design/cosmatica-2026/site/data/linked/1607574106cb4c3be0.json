@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/71-a-d-nechvolodov-ot-razorenija-k-dostatku.html",
+  "title": "А.Д. Нечволодов - От разорения к достатку",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/94/02/a-d-nechvolodov-ot-razorenija-k-dostatku-photo-normal.png",
+      "alt": "А.Д. Нечволодов - От разорения к достатку"
+    },
+    {
+      "type": "paragraph",
+      "text": "Предлагаемый труд основан на ряде общеизве-\r\nстных цифр.\r\nСказанные вместе, цифры эти проливают яркий\r\nсвет на главнейшую причину наших современных\r\nбедствий.\r\nОни показывают также, в чем заключается тай-\r\nна могущества всемирных ростовщиков, как ис-\r\nкуссно опутавших своими невидимыми сетями все\r\nтрудящееся человечество.\r\nНаконец, цифры же эти указывают нам и путь\r\nдля перехода от современного общего разорения к\r\nдостатку в будущем.",
+      "spans": [
+        {
+          "text": "Предлагаемый труд основан на ряде общеизве-\r\nстных цифр.\r\nСказанные вместе, цифры эти проливают яркий\r\nсвет на главнейшую причину наших современных\r\nбедствий.\r\nОни показывают также, в чем заключается тай-\r\nна могущества всемирных ростовщиков, как ис-\r\nкуссно опутавших своими невидимыми сетями все\r\nтрудящееся человечество.\r\nНаконец, цифры же эти указывают нам и путь\r\nдля перехода от современного общего разорения к\r\nдостатку в будущем."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Предлагаемый труд основан на ряде общеизве- стных цифр. Сказанные вместе, цифры эти проливают яркий свет на главнейшую причину наших современных бедствий. Они показывают также, в чем заключается тай- на могущества всемирных ростовщиков, как ис- куссно опутавших своими невидимыми сетями все трудящееся человечество. Наконец, цифры же эти указывают нам и путь для перехода от современного общего разорения к достатку в будущем.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 1 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/82/1cf4c14e36b997a1d21dfc26ef311d3d"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/94/02/a-d-nechvolodov-ot-razorenija-k-dostatku-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/82/1cf4c14e36b997a1d21dfc26ef311d3d"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 487,
+    "storedTextCharacters": 437,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40155
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 445,
+  "capturedBodyCharacters": 437,
+  "sourceTextSHA256": "f0d88a89eab83e2abea2084fc9c11a2609b30443694b8309c7a9e4dfe7ca8821",
+  "archiveSnapshotAt": "2026-10-08T08:51:06Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "projects",
+  "title": "Проекты",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 9,
+  "pageCount": 20,
+  "total": 290,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Всемирный человек - Разумный Землянин",
+      "description": "Миллиарды лет назад усилиями Вселенной на Земле были сотворены условия, при которых на поверхности планеты смогли появиться первые живые клетки — бактерии.",
+      "url": "https://cosmatica.org/projects/cosmosapiens",
+      "image": "https://cosmatica.org/upload/000/u7/5/b/vsemirnyi-chelovek-razumnyi-zemljanin-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=57de472a39a9c13646",
+      "type": "project",
+      "sourceCharacters": 13046,
+      "verified": false
+    },
+    {
+      "title": "Потому что мы здесь живём",
+      "description": "Миссия: Создание территорий устойчивого развития.",
+      "url": "https://cosmatica.org/projects/207",
+      "image": "https://cosmatica.org/upload/006/u648/d/4/potomu-chto-my-zdes-zhivem-logo-normal.jpeg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=ae430eb9deb0851bf3",
+      "type": "project",
+      "sourceCharacters": 13281,
+      "verified": false
+    },
+    {
+      "title": "Книга дня",
+      "description": "Товарищи, по своей природе дело РКО направлено на формирование нового человека и через него – нового космопланетарного будущего. В первую очередь, наша сила в могуществе идей, в мировоззрении, в новом Слове. Задача – донести это Слово до людей в России и в мире является первоочередной.",
+      "url": "https://cosmatica.org/projects/206",
+      "image": "https://cosmatica.org/upload/002/u218/7/2/kniga-dnja-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=9a6395ee89363f5c68",
+      "type": "project",
+      "sourceCharacters": 1454,
+      "verified": false
+    },
+    {
+      "title": "Культура развития Жизни",
+      "description": "Культура Нового времени – Культура развития Жизни.",
+      "url": "https://cosmatica.org/projects/culturasveta",
+      "image": "https://cosmatica.org/upload/000/u35/8/5/kultura-razvitija-zhizni-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=689f4a799bc1eae353",
+      "type": "project",
+      "sourceCharacters": 7915,
+      "verified": false
+    },
+    {
+      "title": "Сохраняя память: Щёлкин К.И.",
+      "description": "71 год назад, 29 августа 1949 года, в Казахстане, на опытном поле близ г. Семипалатинск, было успешно проведено испытание первого советского ядерного заряда.",
+      "url": "https://cosmatica.org/projects/schelkin",
+      "image": "https://cosmatica.org/upload/002/u218/2/f/sohranjaja-pamjat-schyolkin-k-i-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=c2e950bfb713014e6e",
+      "type": "project",
+      "sourceCharacters": 7837,
+      "verified": false
+    },
+    {
+      "title": "Клуб любителей астрономии \"АстроПсков\"",
+      "description": "Астрономия – это наука, которая влияет на формирование мировоззрения, давая представление о мире в целом и о роли человека во Вселенной. Несмотря на это, в 1991 году уроки астрономии в школах были отменены. К сожалению, это привело к тому, что довольно большая часть современных детей и молодёжи считают, что Солнце вращается вокруг Земли и первыми в космос полетели американцы. Не каждый школьник может назвать больше д",
+      "url": "https://cosmatica.org/projects/astropskov",
+      "image": "https://cosmatica.org/upload/001/u143/e/6/klub-lyubitelei-astronomii-astropskov-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=f325c8b48d9ca8a4ae",
+      "type": "project",
+      "sourceCharacters": 2251,
+      "verified": false
+    },
+    {
+      "title": "СИТШ",
+      "description": "Основное направление нашей деятельности в образовании — соз­дать систему образов­ания, которая заменит почти умершую сущ­ествующую. Создаваем­ая система направлена на развитие познав­ательной активности ребенка и понимания им происходящих в ок­ружающем мире процес­сов и явлений. Не за­учивать, а понимать и при необходимости — восстановить цепо­чку рассуждений и вы­вести нужную для реш­ения конкретной зада­чи формулу.",
+      "url": "https://cosmatica.org/projects/sitsh",
+      "image": "https://cosmatica.org/upload/002/u218/a/c/sitsh-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=3fbebdc6e33de648fa",
+      "type": "project",
+      "sourceCharacters": 6898,
+      "verified": false
+    },
+    {
+      "title": "Физическая экономика",
+      "description": "Цель проекта — развитие, популяризация и внедрение парадигмы физического понимания социально-экономических процессов и систем для обеспечения устойчивого инновационного развития страны и человечества.",
+      "url": "https://cosmatica.org/projects/199",
+      "image": "https://cosmatica.org/upload/000/u35/f/c/fizicheskaja-ekonomika-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=1ad2eda76f5d927244",
+      "type": "project",
+      "sourceCharacters": 2206,
+      "verified": false
+    },
+    {
+      "title": "Буду всё знать. Познавательный контакт детей и взрослых.",
+      "description": "Уникальный обучающий проект «БУДУ ВСЕ ЗНАТЬ» предназначен для самостоятельного домашнего семейного общения взрослых со своими детьми, от младшего — до среднего школьного возраста. Автор проекта Звездный Маэстро Леонид Викторович Ведагоров (Л.В.Тимошенко)",
+      "url": "https://cosmatica.org/projects/198",
+      "image": "https://cosmatica.org/upload/002/u218/1/6/budu-vsyo-znat-poznavatelnyi-kontakt-detei-i-vzroslyh-logo-no.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=cb5b67459c4043d9c9",
+      "type": "project",
+      "sourceCharacters": 1704,
+      "verified": false
+    },
+    {
+      "title": "Герой и Враг Империума",
+      "description": "Приглашаем русскоязычных авторов к созданию произведений в рамках литературного конкурса на тему «Герой и Враг Империума».",
+      "url": "https://cosmatica.org/projects/195",
+      "image": "https://cosmatica.org/upload/002/u218/7/b/geroi-i-vrag-imperiuma-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=15a921caebd9a11f00",
+      "type": "project",
+      "sourceCharacters": 2503,
+      "verified": false
+    },
+    {
+      "title": "Великая Космическая Одиссея",
+      "description": "Космонавт – это звучит гордо! Так было и так будет. Будущее человечества в космосе. Туда устремляется вектор его развития. С его освоением сопряжена гармонизация отношений на Земле. И потому космонавт, тот, кто лучше всех подготовлен нравственно, духовно, интеллектуально, физически и специально – вот профессия, которая будет желанной, востребованной и нужной уже в очень недалёком будущем. Нас, человечество, ожидает В",
+      "url": "https://cosmatica.org/projects/vko",
+      "image": "https://cosmatica.org/upload/000/u7/4/3/velikaja-kosmicheskaja-odisseja-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=2896b30eefabf1f2cb",
+      "type": "project",
+      "sourceCharacters": 5984,
+      "verified": false
+    },
+    {
+      "title": "Все краски мира",
+      "description": "Всероссийский просветительский проект «Пойдём с нами» , реализуемый при поддержке Русского Космического Общества начинает новый проект, направленный на укрепление межнациональной дружбы, творческое объединение детей и взрослых разных регионов России и Стран Мира, приуроченный к Международному дню защиты детей и Всемирному Дню родителей! Своей акцией мы хотим поддержать всех врачей и мам, которые нынешней сложной обще",
+      "url": "https://cosmatica.org/projects/190",
+      "image": "https://cosmatica.org/upload/000/u35/6/9/vse-kraski-mira-logo-normal.jpeg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=4d23f5584fbaf349a1",
+      "type": "project",
+      "sourceCharacters": 2481,
+      "verified": false
+    },
+    {
+      "title": "Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва человечества",
+      "description": "М еждународная научно-практическая конференция: «Космическая философия — Космическое право — Космическая деятельность: триединство космического прорыва человечества».",
+      "url": "https://cosmatica.org/projects/188",
+      "image": "https://cosmatica.org/upload/002/u218/a/3/kosmicheskaja-filosofija-kosmicheskoe-pravo-kosmicheskaja-dejatelnost.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=69227f6eb245619ed2",
+      "type": "project",
+      "sourceCharacters": 2934,
+      "verified": false
+    },
+    {
+      "title": "Кружок \"Основы космонавтики\" г. Кострома",
+      "description": "Проблематика: слабое знание детьми истории космонавтики; отсутствие интереса к информации о космосе; нежелание быть космонавтами и летать на другие планеты; потребительское отношение к жизни, отсутствие зовущей мечты.",
+      "url": "https://cosmatica.org/projects/187",
+      "image": "https://cosmatica.org/upload/000/u35/6/9/kruzhok-osnovy-kosmonavtiki-g-kostroma-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=88b6ae30e200ed0377",
+      "type": "project",
+      "sourceCharacters": 1545,
+      "verified": false
+    },
+    {
+      "title": "Структура жизни",
+      "description": "Основная цель проекта «Структура Жизни» — всестороннее устойчивое развитие в системе Природа-Общество-Человек, которые помогут гармонизировать как саму среду обитания, так и здоровье общества и человека.",
+      "url": "https://cosmatica.org/projects/jivas",
+      "image": "https://cosmatica.org/upload/003/u318/f/e/struktura-zhizni-logo-normal.png",
+      "kind": "project",
+      "href": "view.html?p=project&ref=f641cba377e06bc466",
+      "type": "project",
+      "sourceCharacters": 6621,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

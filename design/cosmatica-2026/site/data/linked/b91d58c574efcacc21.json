@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/76-lendri-ch-kreativnyi-gorod.html",
+  "title": "Лэндри Ч. - Креативный город",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/da/37/lendri-ch-kreativnyi-gorod-photo-normal.png",
+      "alt": "Лэндри Ч. - Креативный город"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ведущий специалист по развитию городов Чарльз Лэндри даёт\r\nответ нa насущные вопросы:\r\n- Как сделать город тем местом, где хочется жить?\r\n- Как превратить города в \"человечные\" центры творчества?\r\nКнига Лэндри даёт и философскую концепцию, и инструментарий\r\nдля практиков, позволяющий понять то, как для решения новых задач\r\nсоздавать новые виды бизнеса и реализовать новые подходы к\r\nразвитию городов.",
+      "spans": [
+        {
+          "text": "Ведущий специалист по развитию городов Чарльз Лэндри даёт\r\nответ нa насущные вопросы:\r\n- Как сделать город тем местом, где хочется жить?\r\n- Как превратить города в \"человечные\" центры творчества?\r\nКнига Лэндри даёт и философскую концепцию, и инструментарий\r\nдля практиков, позволяющий понять то, как для решения новых задач\r\nсоздавать новые виды бизнеса и реализовать новые подходы к\r\nразвитию городов."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Ведущий специалист по развитию городов Чарльз Лэндри даёт ответ нa насущные вопросы: - Как сделать город тем местом, где хочется жить? - Как превратить города в \"человечные\" центры творчества? Книга Лэндри даёт и философскую концепцию, и инструментарий для практиков, позволяющий понять то, как для решения новых задач создавать новые виды бизнеса и реализовать новые подходы к развитию городов.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 241 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/87/657dab6923b1495d427b98cb362282d8"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/da/37/lendri-ch-kreativnyi-gorod-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/87/657dab6923b1495d427b98cb362282d8"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 445,
+    "storedTextCharacters": 402,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39981
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 416,
+  "capturedBodyCharacters": 402,
+  "sourceTextSHA256": "4ea4a539341fe573b8b20e6a95869a0aabce674f14ea4fac6012fe4822cd45d9",
+  "archiveSnapshotAt": "2026-10-08T08:51:07Z"
+}

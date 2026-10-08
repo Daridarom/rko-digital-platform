@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/51-socialnoe-vremja.html",
+  "title": "Социальное время",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "время",
+      "spans": [
+        {
+          "text": "время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", которое общество расходует на удо­влетворение той или иной общественной потребности.",
+      "spans": [
+        {
+          "text": ", которое общество расходует на удо­влетворение той или иной общественной потребности."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Необходимое социальное время",
+      "spans": [
+        {
+          "text": "Необходимое социальное время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "– такая часть полного бюджета социально­го времени, которую общество расходовало, расходует и будет расхо­довать на восстановление того, что астрономическое время разрушает.",
+      "spans": [
+        {
+          "text": "– такая часть полного бюджета социально­го времени, которую общество расходовало, расходует и будет расхо­довать на восстановление того, что астрономическое время разрушает."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это время , которое общество расходует на удо­влетворение той или иной общественной потребности. Необходимое социальное время – такая часть полного бюджета социально­го времени, которую общество расходовало, расходует и будет расхо­довать на восстановление того, что астрономическое время разрушает.",
+      "links": [
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        },
+        {
+          "title": "Необходимое социальное время",
+          "url": "https://cosmatica.org/glossary/178-neobhodimoe-socialnoe-vremja.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 316,
+    "storedTextCharacters": 295,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32415
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 299,
+  "capturedBodyCharacters": 295,
+  "sourceTextSHA256": "bfee49757d6c8f2b2214a18fed9f7ffc9954f80a092e1dbe35467dc3ceda8cca",
+  "archiveSnapshotAt": "2026-10-08T08:46:52Z"
+}

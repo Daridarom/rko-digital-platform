@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/42-stoimost.html",
+  "title": "Стоимость",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это совокупная ценность продукта, мерой которой яв­ляется общественный труд. Субстанцией стоимости является труд, мерой которого является энергия, а мерой производительности труда является",
+      "spans": [
+        {
+          "text": "это совокупная ценность продукта, мерой которой яв­ляется общественный труд. Субстанцией стоимости является труд, мерой которого является энергия, а мерой производительности труда является"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мощность",
+      "spans": [
+        {
+          "text": "мощность"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ".",
+      "spans": [
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это совокупная ценность продукта, мерой которой яв­ляется общественный труд. Субстанцией стоимости является труд, мерой которого является энергия, а мерой производительности труда является мощность .",
+      "links": [
+        {
+          "title": "мощность",
+          "url": "https://cosmatica.org/glossary/104-moschnost.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 209,
+    "storedTextCharacters": 197,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32270
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 199,
+  "capturedBodyCharacters": 197,
+  "sourceTextSHA256": "7fc8f92ed4f041509ad4bcbbf29b46d48c421d048d9d5f752bbc94711223afe9",
+  "archiveSnapshotAt": "2026-10-08T08:46:50Z"
+}

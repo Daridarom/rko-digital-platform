@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 2,
+  "slug": "project",
+  "sourceUrl": "https://cosmatica.org/projects/149",
+  "title": "Международная научная конференция «Ноосферное образование в евразийском пространстве»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/3/e/ix-mezhdunarodnaja-nauchnaja-konferencija-noosfernoe-obrazovanie-v.jpg",
+      "alt": "Международная научная конференция  «Ноосферное образование в евразийском пространстве»"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О проекте",
+        "Материалы 9",
+        "Новости 3",
+        "Мероприятия 5"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Международная научная конференция «НООСФЕРНОЕ ОБРАЗОВАНИЕ В ЕВРАЗИЙСКОМ ПРОСТРАНСТВЕ»",
+      "spans": [
+        {
+          "text": "Международная научная конференция «НООСФЕРНОЕ ОБРАЗОВАНИЕ В ЕВРАЗИЙСКОМ ПРОСТРАНСТВЕ»\n",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ежегодная конференция инициированная и проводимая Субетто Александром Ивановичем.",
+      "spans": [
+        {
+          "text": "Ежегодная конференция инициированная и проводимая Субетто Александром Ивановичем. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Проводится в Санкт-Петербурге. По итогам конференции выходит сборник статей конференции в электронном и печатном виде.",
+      "spans": [
+        {
+          "text": "Проводится в Санкт-Петербурге.\r\nПо итогам конференции выходит сборник статей конференции в электронном и печатном виде."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Стена проекта",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Нет записей.",
+      "spans": [
+        {
+          "text": "\n                                    Нет записей.                            "
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Международная научная конференция «НООСФЕРНОЕ ОБРАЗОВАНИЕ В ЕВРАЗИЙСКОМ ПРОСТРАНСТВЕ» Ежегодная конференция инициированная и проводимая Субетто Александром Ивановичем. Проводится в Санкт-Петербурге. По итогам конференции выходит сборник статей конференции в электронном и печатном виде.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Направление:",
+      "value": "Образование",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Статус:",
+      "value": "Завершенный",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/3/e/ix-mezhdunarodnaja-nauchnaja-konferencija-noosfernoe-obrazovanie-v.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 502,
+    "storedTextCharacters": 351,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 39603
+  },
+  "textFallbackRequired": false,
+  "originalKind": "project",
+  "sourceTextCharacters": 331,
+  "capturedBodyCharacters": 351,
+  "sourceTextSHA256": "943fa2fd823239464bbaf114f24c0aa3519402fecc9ad470b82cb6aacf55d91c",
+  "archiveSnapshotAt": "2026-10-08T09:16:29Z"
+}

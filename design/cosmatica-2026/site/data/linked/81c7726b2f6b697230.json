@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/281",
+  "title": "Дара Владимировна Туйкина-Костомарова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/c/3/f291852c.jpeg",
+      "alt": "Дара Владимировна Туйкина-Костомарова"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/b/6/e0d1292e.jpeg",
+      "alt": "Дара Владимировна Туйкина-Костомарова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/c/3/f291852c.jpeg",
+    "https://cosmatica.org/upload/002/u218/b/6/e0d1292e.jpeg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 80,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34231
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 17,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "f2558d486f365b8f13aeed963aa319273b8050fae2b2a88b55d7ab151c64dd70",
+  "archiveSnapshotAt": "2026-10-08T09:19:00Z"
+}

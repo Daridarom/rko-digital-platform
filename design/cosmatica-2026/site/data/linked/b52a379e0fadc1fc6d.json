@@ -13,7 +13,7 @@
         "Новости 25",
         "Материалы 15",
         "Мероприятия 5",
-        "Состав 12"
+        "Состав 11"
       ]
     },
     {
@@ -80,5 +80,11 @@
     "sourceImageCount": 0,
     "paragraphCount": 3,
     "sourceBytes": 36013
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "department",
+  "sourceTextCharacters": 123,
+  "capturedBodyCharacters": 151,
+  "sourceTextSHA256": "001d8bcd6df3db8a775b2593309ce77dad7e88456d99ef5efad07b675c2a2ac4",
+  "archiveSnapshotAt": "2026-10-08T08:46:18Z"
 }

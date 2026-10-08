@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/e",
+  "title": "Е",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Единый язык",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Естественная мера",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 31,
+    "storedTextCharacters": 28,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32570
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 31,
+  "capturedBodyCharacters": 28,
+  "sourceTextSHA256": "95366a036d09fd0f3ac3f1938ab87c1318e3dda41b3368edf8e5cb01393e05af",
+  "archiveSnapshotAt": "2026-10-08T08:47:24Z"
+}

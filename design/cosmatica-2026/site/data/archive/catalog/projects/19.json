@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "projects",
+  "title": "Проекты",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 19,
+  "pageCount": 20,
+  "total": 290,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "«Наша Вселенная»",
+      "description": "Интерактивный образовательный проект «Наша Вселенная» знакомит с настоящим и будущим отечественной космонавтики. В планируемой образовательной части – лекции и семинары энтузиастов и популяризаторов космоса на досуговых площадках Москвы: в интеркаториуме «Марс-Тефо» на базе Московского планетария, в ДК ВДНХ и т.д. В планируемой мотивационной части – создание альфа-версии компьютерной игры «Наша Вселенная», в которой ",
+      "url": "https://cosmatica.org/projects/nasha-vselennaya",
+      "image": "https://cosmatica.org/upload/000/u7/9/7/nasha-vselennaja-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e261877788b45eea70",
+      "type": "project",
+      "sourceCharacters": 2697,
+      "verified": false
+    },
+    {
+      "title": "Цикл передач \"Прорыв!\"",
+      "description": "Проект серии передач Русского Космического Общества «Прорыв» направлен на представление широкой аудитории новых направлений мысли, достижений науки, воспитания и общественной деятельности.",
+      "url": "https://cosmatica.org/projects/proriv",
+      "image": "https://cosmatica.org/upload/000/u21/cc/9d/cikl-peredach-proryv-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=2580f0ba2eb0199c1a",
+      "type": "project",
+      "sourceCharacters": 799,
+      "verified": false
+    },
+    {
+      "title": "Лекторий Русского Космического Общества",
+      "description": "Современный человек ежедневно потребляет больше информации, чем его предок из докосмической эры за всю жизнь. Но чем больше информации, тем сложнее заметить среди её нескончаемого потока ценные и важные идеи. Какие же идеи можно назвать ценными и важными?",
+      "url": "https://cosmatica.org/projects/lectoriy-rko",
+      "image": "https://cosmatica.org/upload/000/u21/b9/a8/lektorii-russkogo-kosmicheskogo-obschestva-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=18942a256fec46e292",
+      "type": "project",
+      "sourceCharacters": 2264,
+      "verified": false
+    },
+    {
+      "title": "Цикл передач \"РКО в Лицах\"",
+      "description": "\" Русское Космическое Общество в Лицах \" — это Проект, в котором рассказывается о людях, объединившихся вместе для того, чтобы Словом и Делом внести свой вклад в построение ноосферно-космического будущего России.",
+      "url": "https://cosmatica.org/projects/vlicah",
+      "image": "https://cosmatica.org/upload/000/u21/d1/5a/cikl-peredach-rko-v-licah-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=3ca588bab28adb5732",
+      "type": "project",
+      "sourceCharacters": 997,
+      "verified": false
+    },
+    {
+      "title": "Зеркала в голографической вселенной Козырева: история, результаты, перспективы.",
+      "description": "Готовится выйти в свет монография Трофимова Александра Васильевича, Председателя отделения Новосибирской области Русского Космического Общества",
+      "url": "https://cosmatica.org/projects/zerkala-kozireva",
+      "image": "https://cosmatica.org/upload/000/u26/d6/f8/zerkala-v-golograficheskoi-vselennoi-kozyreva-istorija-rezultat.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=4664b3ca6baaa85da3",
+      "type": "project",
+      "sourceCharacters": 682,
+      "verified": false
+    },
+    {
+      "title": "Мы - косможители",
+      "description": "«Образовательная программа \" Мы — косможители \" на базе музея космической и ракетной техники им. Глушко, в г. Санкт-Петербург».",
+      "url": "https://cosmatica.org/projects/mi-kosmozhitely",
+      "image": "https://cosmatica.org/upload/000/u21/a5/ec/my-kosmozhiteli-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b5309bbf2147e2b029",
+      "type": "project",
+      "sourceCharacters": 2470,
+      "verified": false
+    },
+    {
+      "title": "Поэзия Русского Космизма",
+      "description": "Проект направлен на повышение творческого потенциала среди молодежи, развитие чувства вкуса, приобщение к культуре через философию устойчивого развития.",
+      "url": "https://cosmatica.org/projects/cosmaticapoetry",
+      "image": "https://cosmatica.org/upload/000/u1/b4/4f/poezija-russkogo-kosmizma-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=c9fe9970130a2e1ce4",
+      "type": "project",
+      "sourceCharacters": 951,
+      "verified": false
+    },
+    {
+      "title": "Молодежный Футурологический Конгресс 2018",
+      "description": "Русское Космическое Общество поддерживает инициативу проведения съезда авторов и представителей социально значимых проектов России – «Молодежный футурологический конгресс 2018», который пройдёт 20 апреля 2018г. по адресу: г. Москва, Ленинградский проспект, 7/1, конференц-зал Института прикладной механики РАН.",
+      "url": "https://cosmatica.org/projects/congress",
+      "image": "https://cosmatica.org/upload/000/u26/39/2c/molodezhnyi-futurologicheskii-kongress-2018-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=4a1cfcbe5af095d0ac",
+      "type": "project",
+      "sourceCharacters": 1585,
+      "verified": false
+    },
+    {
+      "title": "\"Космическое творчество Г.И. Тищенко\"",
+      "description": "Геннадий Иванович Тищенко — советский и российский мультипликатор, режиссёр, художник и сценарист.",
+      "url": "https://cosmatica.org/projects/kocmicheckoe-tvorchestvo-tishchekno",
+      "image": "https://cosmatica.org/upload/000/u1/10/cb/kosmicheskoe-tvorchestvo-g-i-tischenko-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=1f5d3626d53360ef89",
+      "type": "project",
+      "sourceCharacters": 1577,
+      "verified": false
+    },
+    {
+      "title": "Выставка детского технического творчества и рисунка \"Эра фантастики\"",
+      "description": "Федеральная выставка детского технического творчества и рисунка «ЭРА ФАНТАСТИКИ» состоится в ЦВЗ «Манеж», г. Москва с 4 по 21 апреля 2018 г .",
+      "url": "https://cosmatica.org/projects/vistavka-era-fantastiki",
+      "image": "https://cosmatica.org/upload/000/u26/fe/2b/era-fantastiki-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=218377f4490cc06d62",
+      "type": "project",
+      "sourceCharacters": 2205,
+      "verified": false
+    },
+    {
+      "title": "Научно-образовательная и просветительская газета \"Природа-Общество-Человек: ноосферное устойчивое развитие\"",
+      "description": "«Природа – Общество – Человек: ноосферное Устойчивое Развитие» – научно-образовательная газета Русского Космического Общества.",
+      "url": "https://cosmatica.org/projects/priroda-obchestvo-chelovek",
+      "image": "https://cosmatica.org/upload/000/u26/e4/f7/nauchno-obrazovatelnaja-i-prosvetitelskaja-gazeta-priroda-obschest.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=4911185bbd7a8422dd",
+      "type": "project",
+      "sourceCharacters": 1993,
+      "verified": false
+    },
+    {
+      "title": "Всероссийский конкурс эссе: \"Устойчивое развитие - это просто, если...\".",
+      "description": "Цель конкурса: Пробудить и объединить созидательный потенциал абитуриентов для преодоления социальных и экономических кризисов, активизировать способность к творчеству и познавательный интерес выпускников-бакалавров в области обеспечения проектирования и управления устойчивым инновационным развитием и модернизацией страны, повышение мотивации к обучению в магистратуре в России.",
+      "url": "https://cosmatica.org/projects/ustoichivoe-razvitie-prosto-esly",
+      "image": "https://cosmatica.org/upload/000/u26/28/7b/vserossiiskii-konkurs-esse-ustoichivoe-razvitie-eto-prosto-e.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=a0f89b92bb1610aae6",
+      "type": "project",
+      "sourceCharacters": 2804,
+      "verified": false
+    },
+    {
+      "title": "Энергоинформационная составляющая народного текстильного узора и её влияние на человека",
+      "description": "Основные направления деятельности Русского Космического Общества включают утверждение ноосферного устойчивого развития нашей страны и мира в целом, сбережение и передачу потомкам мудрости и знаний наших предков, направленных на установление космической гармонии человека, Природы и общества, формирование космического мировоззрения, опирающегося на ценности Русского Космизма – философию объединения Космического Знания ",
+      "url": "https://cosmatica.org/projects/energosostavlaushaya-narodnogo-tekstilya",
+      "image": "https://cosmatica.org/upload/000/u35/c/1/energoinformacionnaja-sostavljayuschaja-narodnogo-tekstilnogo-uzora-i.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b10368ddd691b9c3cc",
+      "type": "project",
+      "sourceCharacters": 6627,
+      "verified": false
+    },
+    {
+      "title": "Всероссийская премия детского литературного творчества им. С.А. Есенина «Песенное слово»",
+      "description": "Русское Космическое Общество поддержало инициативу Фонда сохранения культурного наследия «Русский Витязь» в проведении всероссийской премии детского литературного творчества им. С.А. Есенина «Песенное слово».",
+      "url": "https://cosmatica.org/projects/premiya-esenina",
+      "image": "https://cosmatica.org/upload/000/u26/13/ab/vserossiiskaja-premija-detskogo-literaturnogo-tvorchestva-im-s-a.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=9bd39968e415d97cad",
+      "type": "project",
+      "sourceCharacters": 1294,
+      "verified": false
+    },
+    {
+      "title": "Образовательные школы с космическим уклоном",
+      "description": "Физико-техническая школа с космическим и православным уклоном — лето 2016 Инженерный практикум в ходе аэрокосмической школы МФТИ — осень 2016 Инженерно-космическая смена в православном лагере «Богослово» — лето 2017",
+      "url": "https://cosmatica.org/projects/obrazovatelnie-shkoli-s-cosmicheskim-uklonom",
+      "image": "https://cosmatica.org/upload/000/u1/25/d6/obrazovatelnye-shkoly-s-kosmicheskim-uklonom-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=d23c802ca5a7cc4968",
+      "type": "project",
+      "sourceCharacters": 260,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

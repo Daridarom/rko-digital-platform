@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/900-nauchnye-osnovy-i-rekomendacii-po-proektnomu-upravleniyu-ustoichivym-razvitiem-e-f-shamaeva.html",
+  "title": "Научные основы и рекомендации по проектному управлению устойчивым развитием (Е.Ф. Шамаева)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Научно-образовательные семинары по фундаментальным и прикладным проблемам устойчивого развития жизни",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Всем желающим разобраться в научно-теоретической основе Русского Космического Общества, данный семинар просто необходим.",
+      "spans": [
+        {
+          "text": "Всем желающим разобраться в научно-теоретической основе Русского Космического Общества, данный семинар просто необходим."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Екатерина Фёдоровна Шамаева - Председатель Президиума Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "Екатерина Фёдоровна Шамаева - Председатель Президиума Русского Космического Общества."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "QMgJSr00LGU",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=QMgJSr00LGU"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "24 февраля 2020 года в 14:00 в Московском офисе Русского Космического Общества состоялся научно-практический семинар на тему \"Введение в проблему проектного управления устойчивым развитием\". Данный семинар планируется регулярным и направлен именно на преподавание, обсуждение и обучение нашему стержневому, фундаментальному направлению - науке развития жизни. Всем желающим разобраться в научно-теоретической основе Русского Космического Общества, данный семинар просто необходим. Екатерина Фёдоровна Шамаева - Председатель Президиума Русского Космического Общества. Кандидат технических наук, доцент государственного Университета «Дубна», член-корреспондент МАЭБП.",
+      "links": [
+        {
+          "title": "14:00",
+          "url": "https://www.youtube.com/watch?v=QMgJSr00LGU&t=840s"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1090,
+    "storedTextCharacters": 306,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 77751
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 897,
+  "capturedBodyCharacters": 306,
+  "sourceTextSHA256": "7451b59b67f48a6439c15e0d602ce54758ef00cba294da0567360deb0b591a31",
+  "archiveSnapshotAt": "2026-10-08T08:44:36Z",
+  "publicVideoCount": 1
+}

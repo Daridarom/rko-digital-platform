@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/416",
+  "title": "Михаил Константинович Низавитин",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/a/8a0081e7.jpeg",
+      "alt": "Михаил Константинович Низавитин"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/7/0/e90a501d.jpeg",
+      "alt": "Михаил Константинович Низавитин"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель коллективной радиостанции.",
+      "spans": [
+        {
+          "text": "Руководитель коллективной радиостанции."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Педагог, радиолюбитель",
+      "spans": [
+        {
+          "text": "Педагог, радиолюбитель"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Курганская область",
+      "links": [
+        {
+          "title": "Курганская область",
+          "url": "https://cosmatica.org/departments/21-kurganskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Руководитель коллективной радиостанции. Педагог, радиолюбитель",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/c/a/8a0081e7.jpeg",
+    "https://cosmatica.org/upload/000/u35/7/0/e90a501d.jpeg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 159,
+    "storedTextCharacters": 94,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35046
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 102,
+  "capturedBodyCharacters": 94,
+  "sourceTextSHA256": "938acbe73e19339b228653afa205d250cf35770cc24ba95205797908d607e699",
+  "archiveSnapshotAt": "2026-10-08T09:19:36Z"
+}

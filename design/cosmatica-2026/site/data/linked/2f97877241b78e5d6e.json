@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/172-slovo-o-russkom-narode-i-russkom-cheloveke.html",
+  "title": "Слово о русском народе и русском человеке",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u14/d2/83/slovo-o-russkom-narode-i-russkom-cheloveke-photo-normal.jpg",
+      "alt": "Слово о русском народе и русском человеке"
+    },
+    {
+      "type": "paragraph",
+      "text": "В работе Субетто А.И. «Слово о русском народе и русском человеке» сделана попытка раскрыть синтетический взгляд на историю, культуру, духовный мир и предназначение русского народа и русского человека. Книга адресована к каждому заинтересованному читателю, обеспокоенному судьбами России, человечества и русского народа в XXI веке.",
+      "spans": [
+        {
+          "text": "В работе Субетто А.И. «Слово о русском народе и русском человеке» сделана попытка раскрыть синтетический взгляд на историю, культуру, духовный мир и предназначение русского народа и русского человека. Книга адресована к каждому заинтересованному читателю, обеспокоенному судьбами России, человечества и русского народа в XXI веке."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Субетто А.И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В работе Субетто А.И. «Слово о русском народе и русском человеке» сделана попытка раскрыть синтетический взгляд на историю, культуру, духовный мир и предназначение русского народа и русского человека. Книга адресована к каждому заинтересованному читателю, обеспокоенному судьбами России, человечества и русского народа в XXI веке.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 3 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1165/afdae32e33cf0ef291d67508b9bbf3c4"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u14/d2/83/slovo-o-russkom-narode-i-russkom-cheloveke-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1165/afdae32e33cf0ef291d67508b9bbf3c4"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 411,
+    "storedTextCharacters": 330,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40372
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 369,
+  "capturedBodyCharacters": 330,
+  "sourceTextSHA256": "26dd8676ff196814de9b9ccc7d8055be81496c0fe6606ab7c8812d51adad0fd7",
+  "archiveSnapshotAt": "2026-10-08T08:47:51Z"
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/81",
+  "title": "Олег Афанасьевич Сизов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/f9/21/9e7eb027.jpg",
+      "alt": "Олег Афанасьевич Сизов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/55/73/0dae9140.jpg",
+      "alt": "Олег Афанасьевич Сизов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Президент национального экологического фонда, декан факультета Московской академии государственного и муниципального управления, летчик-испытатель, доктор технических наук, профессор",
+      "spans": [
+        {
+          "text": "Президент национального экологического фонда, декан факультета Московской академии государственного и муниципального управления, летчик-испытатель, доктор технических наук, профессор"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Президент национального экологического фонда, декан факультета Московской академии государственного и муниципального управления, летчик-испытатель, доктор технических наук, профессор",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/f9/21/9e7eb027.jpg",
+    "https://cosmatica.org/upload/000/u26/55/73/0dae9140.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 258,
+    "storedTextCharacters": 215,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35085
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 210,
+  "capturedBodyCharacters": 215,
+  "sourceTextSHA256": "3e69bd6ca63aa7eaca0600e9d93aea4798dbc6a6b29f36fb778d6a80424a07df",
+  "archiveSnapshotAt": "2026-10-08T09:22:17Z"
+}

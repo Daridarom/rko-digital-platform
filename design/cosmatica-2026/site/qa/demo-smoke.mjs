@@ -16,7 +16,7 @@ async function inspect(page,slug,device){
   const w=document.documentElement.clientWidth;
   return {bodyW:document.documentElement.scrollWidth,w,h1:document.querySelector('h1')?.textContent.trim(),
    broken:[...document.images].filter(x=>x.complete&&!x.naturalWidth).map(x=>x.src),
-   external:[...document.querySelectorAll('a[href]')].filter(a=>{const u=new URL(a.href);return /^https?:/.test(u.protocol)&&u.origin!==location.origin}).map(x=>x.href),
+   external:[...document.querySelectorAll('a[href]')].filter(a=>{const u=new URL(a.href);return /^https?:/.test(u.protocol)&&u.origin!==location.origin}).filter(a=>!(a.dataset.originalDownload==='cosmatica'&&/^https:\/\/cosmatica\.org\/files\/download\/\d+\/[a-f0-9]+$/i.test(a.href))).filter(a=>!(a.dataset.contentExternal==='true'&&a.href.startsWith('https://')&&a.target==='_blank'&&a.rel.includes('noopener'))).map(x=>x.href),
    fake:[...document.querySelectorAll('main a[href="#"]')].map(x=>x.textContent.trim())};
  });
  assert(stats.h1,'H1 is empty on '+slug);

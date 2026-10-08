@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 220,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Вернадский Владимир Иванович - Биосфера и ноосфера",
+      "description": "",
+      "url": "https://cosmatica.org/library/176-vernadskii-vladimir-ivanovich-biosfera-i-noosfera.html",
+      "image": "https://cosmatica.org/upload/000/u26/1f/b9/vladimir-ivanovich-vernadskii-biosfera-i-noosfera-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=474b5b25203ed913c1",
+      "type": "book",
+      "sourceCharacters": 55,
+      "verified": false
+    },
+    {
+      "title": "Подарите книге новую жизнь!",
+      "description": "Русское Космическое Общество объявляет Всероссийскую акцию «Космос. Время читать!»",
+      "url": "https://cosmatica.org/news/176-podarite-knige-novuyu-zhizn.html",
+      "image": "https://cosmatica.org/upload/000/u21/42/3b/podarite-knige-novuyu-zhizn-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8b74978bf3b358fd3f",
+      "type": "news-item",
+      "sourceCharacters": 3144,
+      "verified": false
+    },
+    {
+      "title": "Союз ноосферной медицины и ноосферного образования",
+      "description": "Идея объединения медицины и педагогики – не нова. В существующем мироустройстве два этих направления сотрудничают друг с другом. Так на бытовом житейском уровне педагоги обучают будущих врачей, а врачи лечат педагогов. На таком обывательском процессуальном предметно-конкретном уровне между медициной и педагогикой давно налажено крепкое сотрудничество. Однако на уровне научном между ними нет не просто сотрудничества, ",
+      "url": "https://cosmatica.org/articles/175-soyuz-noosfernoi-mediciny-i-noosfernogo-obrazovanija.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=6682d85b32ebcb97e4",
+      "type": "article",
+      "sourceCharacters": 11294,
+      "verified": false
+    },
+    {
+      "title": "Логическая связь",
+      "description": ", существующая между исходными и выводимы­ми утверждениями, в форме умозаключений: дедукция, индукция и аналогия. Такая связь соединяет только рядом стоящие объекты.",
+      "url": "https://cosmatica.org/glossary/175-logicheskaja-svjaz.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=4912c05f0167c6a943",
+      "type": "article",
+      "sourceCharacters": 171,
+      "verified": false
+    },
+    {
+      "title": "Чижевский Александр Леонидович - Земное эхо солнечных бурь",
+      "description": "",
+      "url": "https://cosmatica.org/library/175-chizhevskii-aleksandr-leonidovich-zemnoe-eho-solnechnyh-bur.html",
+      "image": "https://cosmatica.org/upload/000/u26/9d/19/d7c44937.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=59e1ee8d773cea3984",
+      "type": "book",
+      "sourceCharacters": 57,
+      "verified": false
+    },
+    {
+      "title": "Вечер памяти Антуана де Сент-Экзюпери",
+      "description": "Вечер, посвящённый памяти великого писателя, гуманиста, легенды Франции - военного лётчика Антуана де Сент-Экзюпери, пройдёт в Культурном центре библиотеки им. А. де Сент-Экзюпери.",
+      "url": "https://cosmatica.org/poster/175-vecher-pamjati-antuana-de-sent-ekzyuperi.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/0/vecher-pamjati-antuana-de-sent-ekzyuperi-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=60ff201f76f37064a6",
+      "type": "poster-item",
+      "sourceCharacters": 701,
+      "verified": false
+    },
+    {
+      "title": "Опыт и география ноосферного образования",
+      "description": "Ноосферная парадигма мышления, активно разрабатываемая последние два десятилетия целой плеядой учёных, сегодня ярко демонстрирует технологическую готовность общества к переходу на новый уровень эволюционного развития. Платформой и одновременно важнейшим рычагом такого перехода становится ноосферное образование как «фундаментальная форма постижения бытия» (Ю.А. Урманцев), сопрягающая непрерывное развитие всех секторов",
+      "url": "https://cosmatica.org/articles/174-opyt-i-geografija-noosfernogo-obrazovanija.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=44a458b4f904c42c6c",
+      "type": "article",
+      "sourceCharacters": 15841,
+      "verified": false
+    },
+    {
+      "title": "Словесно-вербальная связь",
+      "description": "словесно сформулированное утверждение, которое устанавливает",
+      "url": "https://cosmatica.org/glossary/174-slovesno-verbalnaja-svjaz.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=2c1e20e16bb0fb2385",
+      "type": "article",
+      "sourceCharacters": 167,
+      "verified": false
+    },
+    {
+      "title": "Чижевский Александр Леонидович - Теория космических эр",
+      "description": "",
+      "url": "https://cosmatica.org/library/174-chizhevskii-aleksandr-leonidovich-teorija-kosmicheskih-er.html",
+      "image": "https://cosmatica.org/upload/000/u26/bf/b6/teorija-kosmicheskih-er-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ad05ab99c775edf998",
+      "type": "book",
+      "sourceCharacters": 58,
+      "verified": false
+    },
+    {
+      "title": "Космическое Женское Послание в Звёздном городке",
+      "description": "Члены Русского Космического Общества и руководители проекта \"Космическое Женское Послание\" ( http://cosmatica.org/projects/coswom ) - Афанасьева Ольга Фёдоровна и Афанасьев Сергей Глебович - посетили Звёздный городок и рассказали об истоках Космического Женского Послания и его перспективах, а также подарили музею Звёздного городка ценные экспонаты.",
+      "url": "https://cosmatica.org/news/174-kosmicheskoe-zhenskoe-poslanie-v-zvyozdnom-gorodke.html",
+      "image": "https://cosmatica.org/upload/000/u8/e2/e3/kosmicheskoe-zhenskoe-poslanie-v-zvyozdnom-gorodke-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=086c10f0f04307236d",
+      "type": "news-item",
+      "sourceCharacters": 1784,
+      "verified": false
+    },
+    {
+      "title": "Тропа здоровья #Тропа здоровья",
+      "description": "27 июля нас ждёт \"Тропа здоровья\". Идём приблизительно 15 км.",
+      "url": "https://cosmatica.org/poster/174-tropa-zdorovja.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/7/tropa-zdorovja-photo-big.png",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=29796471d6a73f1cdd",
+      "type": "poster-item",
+      "sourceCharacters": 1154,
+      "verified": false
+    },
+    {
+      "title": "Следствия",
+      "description": "предсказания: выводы, полученные по правилам теории. Этапы создания прикладной научной теории: Обоснование системы мер. Формирование языка. Обоснование исходных предположений – постулатов. Формирование аксиоматики. Обоснование правил – критериев вывода следствий. Разработка алгоритмов получения следствий. Получение следствий – предсказаний.",
+      "url": "https://cosmatica.org/glossary/173-sledstvija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=6c0807e42b9b6d2f86",
+      "type": "article",
+      "sourceCharacters": 342,
+      "verified": false
+    },
+    {
+      "title": "Манифест ноосферного социализма",
+      "description": "«Манифест ноосферного социализма» раскрывает основные положения и аргументацию единственно возможной стратегии выхода человечества из ситуации первой фазы Глобальной Экологической Катастрофы, которая грозит превратиться в экологическую гибель человечества уже к середине XXI века, – стратегии на базе перехода человечества к ноосферному, экологическому, духовному социализму в виде управляемой социоприродной эволюции на",
+      "url": "https://cosmatica.org/library/173-manifest-noosfernogo-socializma.html",
+      "image": "https://cosmatica.org/upload/000/u14/56/5c/manifest-noosfernogo-socializma-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=d2c37a826bb48bd4f0",
+      "type": "book",
+      "sourceCharacters": 599,
+      "verified": false
+    },
+    {
+      "title": "Новый выпуск цикла передач \"Прорыв!\", герой программы: Коробко Илья Романович",
+      "description": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/173-novyi-vypusk-cikla-peredach-proryv.html",
+      "image": "https://cosmatica.org/upload/000/u26/89/be/d3b201bd.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=70986516b03ffc56c8",
+      "type": "news-item",
+      "sourceCharacters": 753,
+      "verified": false
+    },
+    {
+      "title": "Презентация книги Вадима Ловчикова \"Научный апокалипсис\"",
+      "description": "Что такое масса,заряд электричества, температура, агрегатное состояние ..?",
+      "url": "https://cosmatica.org/poster/173-prezentacija-knigi-vadima-lovchikova-nauchnyi-apokalipsis.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/d/prezentacija-knigi-vadima-lovchikova-nauchnyi-apokalipsis-photo-b.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=2976826a757f2bd256",
+      "type": "poster-item",
+      "sourceCharacters": 901,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

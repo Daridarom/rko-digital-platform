@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "glossary",
+  "title": "Глоссарий",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 14,
+  "pageCount": 14,
+  "total": 196,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Ж",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/zh",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=940ce8b15d89a29233",
+      "type": "articles-list",
+      "sourceCharacters": 84,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/129-zamknutaja-sistema.html",
+  "title": "Замкнутая система",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это такая",
+      "spans": [
+        {
+          "text": "это такая"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "система",
+      "spans": [
+        {
+          "text": "система"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", которая не способна к обме­ну энергией с другими системами, и собственная энергия которой со­храняется не только качественно (как размерность), но и количествен­но.",
+      "spans": [
+        {
+          "text": ", которая не способна к обме­ну энергией с другими системами, и собственная энергия которой со­храняется не только качественно (как размерность), но и количествен­но."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это такая система , которая не способна к обме­ну энергией с другими системами, и собственная энергия которой со­храняется не только качественно (как размерность), но и количествен­но.",
+      "links": [
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 202,
+    "storedTextCharacters": 182,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32284
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 184,
+  "capturedBodyCharacters": 182,
+  "sourceTextSHA256": "596a80e86c76fc04d08b9911e5e076641eca5a9dde6df2e8cd6130c63b293016",
+  "archiveSnapshotAt": "2026-10-08T08:46:28Z"
+}

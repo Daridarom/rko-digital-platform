@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/127-prezentacija-knigi-m-i-beljaeva-teoretiko-metodologicheskie-osnovy-mezhdisciplinarnogo-sinteza.html",
+  "title": "Презентация книги М.И. Беляева \"Теоретико-методологические основы междисциплинарного синтеза\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/9/d/prezentacija-knigi-m-i-beljaeva-teoretiko-metodologicheskie-osnov.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Презентацию своей книги \"Теоретико-методологические основы междисциплинарного синтеза\" проведёт Руководитель Секции Методов синтеза междисциплинарных знаний Научно-технического Совета Михаил Иванович Беляев.",
+      "spans": [
+        {
+          "text": "\r\n\tПрезентацию своей книги \"Теоретико-методологические основы междисциплинарного синтеза\" проведёт Руководитель Секции"
+        },
+        {
+          "text": " Методов синтеза междисциплинарных знаний Научно-технического Совета ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "Михаил Иванович Беляев.",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/users/113"
+        }
+      ],
+      "links": [
+        {
+          "text": "Михаил Иванович Беляев.",
+          "url": "https://cosmatica.org/users/113"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Дата проведения: 27 марта 2019 г.",
+      "spans": [
+        {
+          "text": "Дата проведения:",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " 27 марта 2019 г."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Место проведения: Конференц-зал ИПРИМ РАН - г. Москва, Ленинградский проспект дом 7/1.",
+      "spans": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Место проведения:",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " Конференц-зал ИПРИМ РАН - г. Москва, Ленинградский проспект дом 7/1."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Начало: 15:00",
+      "spans": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Начало: ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "15:00"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "По вопросам участия обращаться:",
+      "spans": [
+        {
+          "text": "\r\n\tПо вопросам участия обращаться:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "+7 (495) 205-33-52",
+      "spans": [
+        {
+          "text": "\r\n\t+7 (495) 205-33-52"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "info@cosmatica.org",
+      "spans": [
+        {
+          "text": "\r\n\tinfo@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Презентацию своей книги \"Теоретико-методологические основы междисциплинарного синтеза\" проведёт Руководитель Секции Методов синтеза междисциплинарных знаний Научно-технического Совета Михаил Иванович Беляев. Дата проведения: 27 марта 2019 г. Место проведения: Конференц-зал ИПРИМ РАН - г. Москва, Ленинградский проспект дом 7/1. Начало: 15:00 По вопросам участия обращаться: +7 (495) 205-33-52 info@cosmatica.org",
+      "links": [
+        {
+          "title": "Михаил Иванович Беляев.",
+          "url": "https://cosmatica.org/users/113"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/9/d/prezentacija-knigi-m-i-beljaeva-teoretiko-metodologicheskie-osnov.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 598,
+    "storedTextCharacters": 406,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 9,
+    "sourceBytes": 39388
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 598,
+  "capturedBodyCharacters": 406,
+  "sourceTextSHA256": "3fd6c9c1d1401001baf930ee2ed07f22a122cf643ed5b4423c8556c737b77fa1",
+  "archiveSnapshotAt": "2026-10-08T09:14:55Z"
+}

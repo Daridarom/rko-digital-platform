@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/12-chislo.html",
+  "title": "Число",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "отношение измеряемой величины к единице измерения этой величины. \r\n(И.Ньютон)",
+      "spans": [
+        {
+          "text": "отношение измеряемой величины к единице измерения этой величины. \r\n(И.Ньютон)"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "отношение измеряемой величины к единице измерения этой величины. (И.Ньютон)",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 81,
+    "storedTextCharacters": 77,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31643
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 75,
+  "capturedBodyCharacters": 77,
+  "sourceTextSHA256": "dccba2c7979c36e9e0a4a8b8416e11904715b7b0e6d043f44bbac724ec25fbdc",
+  "archiveSnapshotAt": "2026-10-08T08:46:25Z"
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1104-issledovanie-problem-i-strategii-razvitija-sovremennoi-molodyozhi-rossiiskoi-federacii-kovalenk.html",
+  "title": "Исследование проблем и стратегии развития современной молодёжи Российской Федерации. Коваленко А.А.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Коваленко Александр Алексеевич, генеральный Директор ООО «ДРИМ ТОЙ»",
+      "spans": [
+        {
+          "text": "Коваленко Александр Алексеевич, генеральный Директор ООО «ДРИМ ТОЙ»"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Информация о конференции: https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+      "spans": [
+        {
+          "text": " "
+        },
+        {
+          "text": "Информация",
+          "href": "https://cosmatica.org/glossary/119-informacija.html"
+        },
+        {
+          "text": " о конференции: "
+        },
+        {
+          "text": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+          "href": "https://cosmatica.org/news/890-molodyozh-rossii-v-kosmicheskom-buduschem-chelovechestva.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "Информация",
+          "url": "https://cosmatica.org/glossary/119-informacija.html"
+        },
+        {
+          "text": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+          "url": "https://cosmatica.org/news/890-molodyozh-rossii-v-kosmicheskom-buduschem-chelovechestva.html"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "Ga5WCxuP9Ms",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ga5WCxuP9Ms"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Коваленко Александр Алексеевич, генеральный Директор ООО «ДРИМ ТОЙ» Информация о конференции: https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+      "links": [
+        {
+          "title": "Информация",
+          "url": "https://cosmatica.org/glossary/119-informacija.html"
+        },
+        {
+          "title": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+          "url": "https://cosmatica.org/news/890-molodyozh-rossii-v-kosmicheskom-buduschem-chelovechestva.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 285,
+    "storedTextCharacters": 146,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 74822
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 185,
+  "capturedBodyCharacters": 146,
+  "sourceTextSHA256": "6b28bfcafcc6e3411cda9e8213254404ce63c21e6fcbaef50324e7872958bd6a",
+  "archiveSnapshotAt": "2026-10-08T08:38:17Z",
+  "publicVideoCount": 1
+}

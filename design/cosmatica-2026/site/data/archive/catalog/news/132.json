@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 132,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Молодежный Футурологический Конгресс 2018",
+      "description": "Русское Космическое Общество поддерживает инициативу проведения съезда авторов и представителей социально значимых проектов России – «Молодежный футурологический конгресс 2018», который пройдёт 20 апреля 2018г.",
+      "url": "https://cosmatica.org/news/74-molodezhnyi-futurologicheskii-kongress-2018.html",
+      "image": "https://cosmatica.org/upload/000/u8/71/bc/molodezhnyi-futurologicheskii-kongress-2018-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=72b3d09e010ded1ffc",
+      "type": "news-item",
+      "sourceCharacters": 823,
+      "verified": false
+    },
+    {
+      "title": "Успешно окончен I этап образовательной программы",
+      "description": "Выпускники подготовились к заключительному испытанию: командной презентации Лунной программы, которая была разработана на основании полученных в ходе обучения знаний.",
+      "url": "https://cosmatica.org/news/72-uspeshno-okonchen-i-etap-obrazovatelnoi-programmy.html",
+      "image": "https://cosmatica.org/upload/000/u8/9e/ab/uspeshno-okonchen-i-etap-obrazovatelnoi-programmy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0b4665669c7b8525fb",
+      "type": "news-item",
+      "sourceCharacters": 1839,
+      "verified": false
+    },
+    {
+      "title": "РКО СПб приглашает на второе собрание отделения.",
+      "description": "Приглашаем Вас принять участие во втором собрании Санкт-Петербургского отделения Русского Космического Общества, которое состоится 7 апреля 2018 года.",
+      "url": "https://cosmatica.org/news/71-rko-spb-priglashaet-na-vtoroe-sobranie-otdelenija.html",
+      "image": "https://cosmatica.org/upload/000/u21/49/83/43b5c0dd.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a6fffd89681d485fa9",
+      "type": "news-item",
+      "sourceCharacters": 1523,
+      "verified": false
+    },
+    {
+      "title": "Внимание, эстеты и любители классики!",
+      "description": "ЭКТЛ «Кантилена» под руководством художественного руководителя, Заслуженного работника культуры России, Члена Русского Космического Общества Л.С.Гординой, представит произведения классики, которые, согласно исследованиям ученых, оказывают наиболее гармоничное воздействие на слушателя.",
+      "url": "https://cosmatica.org/news/70-vnimanie-estety-i-lyubiteli-klassiki.html",
+      "image": "https://cosmatica.org/upload/000/u8/dc/d9/vnimanie-estety-i-lyubiteli-klassiki-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5660bef3c95c8e5ffb",
+      "type": "news-item",
+      "sourceCharacters": 1784,
+      "verified": false
+    },
+    {
+      "title": "Новый выпуск цикла передач \"Прорыв!\"",
+      "description": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/69-novyi-vypusk-cikla-peredach-proryv.html",
+      "image": "https://cosmatica.org/upload/000/u26/fd/87/novyi-vypusk-cikla-peredach-proryv-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=39d5a717677d1743de",
+      "type": "news-item",
+      "sourceCharacters": 554,
+      "verified": false
+    },
+    {
+      "title": "Вышел в свет выпуск №8 газеты \"Природа-Общество-Человек\"",
+      "description": "25 октября 2017 года Русское Космическое Общество получило официальную регистрацию в Минюсте. День в день, ровно через сто лет после Великой Октябрьской Социалистической революции, предопределившей развитие нашей страны и всей мировой истории на столетие, создана организация, которая ставит своей задачей – Прорыв в космическое будущее!",
+      "url": "https://cosmatica.org/news/67-vyshel-v-svet-8oi-vypusk-gazety-priroda-obschestvo-chelovek.html",
+      "image": "https://cosmatica.org/upload/000/u7/03/80/1d20d17b.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c1b2ba1a1f06e5b547",
+      "type": "news-item",
+      "sourceCharacters": 4555,
+      "verified": false
+    },
+    {
+      "title": "Эпизод из жизни РКО в Санкт-Петербурге.",
+      "description": "15 марта в Санкт-Петербурге состоялось заседание Секции истории авиации и космонавтики СПбФ ИИЕТ РАН \"ПРОТИВ СТЕЛСА\".",
+      "url": "https://cosmatica.org/news/66-epizod-iz-zhizni-rko-v-sankt-peterburge.html",
+      "image": "https://cosmatica.org/upload/000/u21/c8/36/epizod-iz-zhizni-rko-v-sankt-peterburge-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=05f88a92479882f10f",
+      "type": "news-item",
+      "sourceCharacters": 1567,
+      "verified": false
+    },
+    {
+      "title": "XX Международные научные чтения имени Игоря Ивановича Сикорского",
+      "description": "Уважаемые коллеги, историки авиации, учёные, исследователи, потомки российских и зарубежных авиаторов, молодые учёные, аспиранты, студенты, представители предприятий гражданской авиации и связанных с ней отраслей, представители научных и образовательных учреждений, музеев, журналисты, частные лица – все, кого интересует история и современное состояние отечественной авиации, приглашаем Вас на:",
+      "url": "https://cosmatica.org/news/65-xx-mezhdunarodnye-nauchnye-chtenija-imeni-igorja-ivanovicha-sikorskogo.html",
+      "image": "https://cosmatica.org/upload/000/u21/70/7b/xx-mezhdunarodnye-nauchnye-chtenija-imeni-igorja-ivanovicha-sikorskogo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b63178b7464ef32e4c",
+      "type": "news-item",
+      "sourceCharacters": 2422,
+      "verified": false
+    },
+    {
+      "title": "Научно-образовательная газета «Природа – Общество – Человек: ноосферное Устойчивое Развитие»",
+      "description": "Мы также преследуем цель удовлетворения потребности интеллектуальной части наших соотечественников в актуальной информации относительно науки ноосферного устойчивого развития. Считаем крайне важным донести до молодёжи научные идеи, опираясь на которые можно без преувеличения стать генеральными конструкторами будущего и инженерами истории!",
+      "url": "https://cosmatica.org/news/64-odnim-iz-proektov-russkogo-kosmicheskogo-obschestva-javljaetsja-nauchno-obrazovatelnaja-gazeta-pr.html",
+      "image": "https://cosmatica.org/upload/000/u1/86/d8/odnim-iz-proektov-russkogo-kosmicheskogo-obschestva-javljaetsja-nauchno.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=42462e521b76495e83",
+      "type": "news-item",
+      "sourceCharacters": 1618,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество укрепило позиции в Санкт-Петербурге",
+      "description": "Предлагаем вашему вниманию отчётный видеосюжет с прошедшего 2 февраля 2018 года общего (учредительного) собрания Санкт-Петербургского отделения РКО.",
+      "url": "https://cosmatica.org/news/63-russkoe-kosmicheskoe-obschestvo-ukrepilo-pozicii-v-sankt-peterburge.html",
+      "image": "https://cosmatica.org/upload/000/u21/76/d3/russkoe-kosmicheskoe-obschestvo-ukrepilo-pozicii-v-sankt-peterburge.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=70e05426655d44ba75",
+      "type": "news-item",
+      "sourceCharacters": 165,
+      "verified": false
+    },
+    {
+      "title": "\"Песенное слово\" - новые голоса России",
+      "description": "На первый взгляд тема литературного конкурса никак не связана с целями и задачами РКО. Однако это далеко не так. Ведь цель нашей организации заключается не только в содействии и распространении идей о Русском космизме, космосе и космонавтике. В первую очередь, мы видим свою задачу в формировании в человеке творческого, созидательного начала. Ведь труд и творчество по своей природе космичны.",
+      "url": "https://cosmatica.org/news/61-pesennoe-slovo-novye-golosa-rossi.html",
+      "image": "https://cosmatica.org/upload/000/u1/3f/2c/pesennoe-slovo-novye-golosa-rossi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=38a74c8e1e5a3437e6",
+      "type": "news-item",
+      "sourceCharacters": 1351,
+      "verified": false
+    },
+    {
+      "title": "Открытие выставки «Всё выше и выше!»",
+      "description": "Рад вам сообщить о благополучном завершении работы, к которому мы шли с 2017 года, когда общероссийский проект \"Россия - моя история\" начал обретать черты практического воплощения.",
+      "url": "https://cosmatica.org/news/59-otkrytie-vystavki-vsyo-vyshe-i-vyshe.html",
+      "image": "https://cosmatica.org/upload/000/u21/cf/88/otkrytie-vystavki-vsyo-vyshe-i-vyshe-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=02a6aea5ccd5878a90",
+      "type": "news-item",
+      "sourceCharacters": 1850,
+      "verified": false
+    },
+    {
+      "title": "Открытие выставки «Всё выше и выше!»",
+      "description": "Рад вам сообщить о благополучном завершении работы, к которому мы шли с 2017 года, когда общероссийский проект \"Россия - моя история\" начал обретать черты практического воплощения.",
+      "url": "https://cosmatica.org/news/57-otkrytie-vystavki-vsyo-vyshe-i-vyshe.html",
+      "image": "https://cosmatica.org/upload/000/u21/67/61/otkrytie-vystavki-vsyo-vyshe-i-vyshe-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ff6669eaa54227fb95",
+      "type": "news-item",
+      "sourceCharacters": 1850,
+      "verified": false
+    },
+    {
+      "title": "«Космические рубежи России. Молодежь и энергия прорыва»",
+      "description": "Мероприятие собрало представителей различных государственных и общественных организаций, среди которых: Русское Космическое Общество, Союз добровольцев России, Российская академия естественных наук, Научно-исследовательский институт военно-космической академии им. А.Ф.Можайского, Государственный университет \"Дубна\", МАИ \"Космические системы и ракетостроение\", Фонд поддержки детского и юношеского творчества имени лётч",
+      "url": "https://cosmatica.org/news/55-kosmicheskie-rubezhi-rossii-molodezh-i-energija-proryva.html",
+      "image": "https://cosmatica.org/upload/000/u8/f9/f4/6fb2d3d1.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c62abe8420e7874773",
+      "type": "news-item",
+      "sourceCharacters": 2401,
+      "verified": false
+    },
+    {
+      "title": "Бесплатный образовательный курс по космонавтике!",
+      "description": "С 26 февраля по 26 марта 2018 года приглашаем всех, кто увлечен космонавтикой и мечтает её продвигать в массы, пройти бесплатный междисциплинарный образовательный курс «Взгляд в космос: события, технологии и люди российской космонавтики».",
+      "url": "https://cosmatica.org/news/54-besplatnyi-obrazovatelnyi-kurs-po-kosmonavtike.html",
+      "image": "https://cosmatica.org/upload/000/u8/1d/2b/cb6a50f0.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8ff455f9ba19bed3b7",
+      "type": "news-item",
+      "sourceCharacters": 1897,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

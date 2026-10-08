@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1021-sistemnyi-podhod-razvitija-innovacionnogo-potenciala-dlja-aerokosmicheskoi-otrasli.html",
+  "title": "Системный подход развития инновационного потенциала для аэрокосмической отрасли...",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва ч",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "https://создайбудущее.рф",
+      "spans": [
+        {
+          "text": "https://создайбудущее.рф",
+          "href": "https://создайбудущее.рф"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "https://создайбудущее.рф",
+          "url": "https://создайбудущее.рф"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "iahX0wwsExY",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=iahX0wwsExY"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "I Международная научно-практическая конференция: «Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва человечества» Секция «Космическое право – основа дальнейшего успешного исследования космоса». Доклад: «Системный подход развития инновационного потенциала для аэрокосмической отрасли: примеры США, Китая и Самарской области» - Митрянин Александр Валерьевич, производственный мастер участка АО «РКЦ «Прогресс», г. Самара 24.05.2020г. Россия, Москва https://создайбудущее.рф Страница проекта на сайте РКО: https://cosmatica.org/projects/188 ПРЕЗЕНТАЦИЯ (скачать) СТАТЬЯ в сборник (скачать)",
+      "links": [
+        {
+          "title": "https://создайбудущее.рф",
+          "url": "https://создайбудущее.рф"
+        },
+        {
+          "title": "https://cosmatica.org/projects/188",
+          "url": "https://www.youtube.com/redirect?q=https%3A%2F%2Fcosmatica.org%2Fprojects%2F188&v=iahX0wwsExY&redir_token=QUFFLUhqbmdyVnVSZDUzMHpqUXdtdkhQVFBHbjlIRHVlUXxBQ3Jtc0tsZTBneWFRMGY5YWpuRE1JVGRWemVGYS0tY29sYXBCWmxRVk1ZcEp4NjJITEpBNEJYVE5mQ0dpc1VsSksyTkJaMnlEUU5ySVVBWkRQZGN6aTVHV0FTUjRLLWg5Q3BmNzRVQVMwM09SWm0zeWdxcEk1WQ%3D%3D&event=video_description"
+        },
+        {
+          "title": "ПРЕЗЕНТАЦИЯ (скачать)",
+          "url": "https://cosmatica.org/upload/redactorfiles/МИТРЯНИН А.В. - КОСМИЧЕСКОЕ ПРАВО.pdf"
+        },
+        {
+          "title": "СТАТЬЯ в сборник (скачать)",
+          "url": "https://cosmatica.org/upload/redactorfiles/Митрянин А.В. -Космическое ПРАВО. 24.05.2020.pdf"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 976,
+    "storedTextCharacters": 125,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 77899
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 791,
+  "capturedBodyCharacters": 125,
+  "sourceTextSHA256": "b6ddced782928323d94e5451365cc68f7af5b4947f149b85bad94923fdb94789",
+  "archiveSnapshotAt": "2026-10-08T08:37:45Z",
+  "publicVideoCount": 1
+}

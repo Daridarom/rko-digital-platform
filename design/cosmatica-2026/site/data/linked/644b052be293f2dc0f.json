@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/calendar",
+  "title": "Календарь",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "октябрь, 2026",
+        "ноябрь, 2026",
+        "декабрь, 2026",
+        "январь, 2027",
+        "февраль, 2027",
+        "март, 2027"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "четверг 1 октября",
+        "четверг 8 октября",
+        "суббота 24 октября"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/b/2/mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-s.jpg",
+      "alt": "Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Полный текст исходного материала"
+    },
+    {
+      "type": "paragraph",
+      "text": "Календарь октябрь, 2026 ноябрь, 2026 декабрь, 2026 январь, 2027 февраль, 2027 март, 2027 четверг 1 октября четверг 8 октября суббота 24 октября Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\" Конференции Информационное сообщение и проведении Международной конференции по фундаментальным и прикладным...",
+      "spans": [
+        {
+          "text": "Календарь октябрь, 2026 ноябрь, 2026 декабрь, 2026 январь, 2027 февраль, 2027 март, 2027 четверг 1 октября четверг 8 октября суббота 24 октября Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\" Конференции Информационное сообщение и проведении Международной конференции по фундаментальным и прикладным..."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/b/2/mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-s.jpg"
+  ],
+  "documents": [],
+  "categories": [
+    "октябрь, 2026",
+    "ноябрь, 2026",
+    "декабрь, 2026",
+    "январь, 2027",
+    "февраль, 2027",
+    "март, 2027",
+    "четверг 1 октября",
+    "четверг 8 октября",
+    "суббота 24 октября"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 352,
+    "storedTextCharacters": 125,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 47312
+  },
+  "textFallbackRequired": true,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 352,
+  "capturedBodyCharacters": 509,
+  "sourceTextSHA256": "90f5ab7db73bd7f1fe42b34d557fe839d0a5c2d6811c2eb3c266a8f2b49aa4dd",
+  "archiveSnapshotAt": "2026-10-08T09:16:16Z"
+}

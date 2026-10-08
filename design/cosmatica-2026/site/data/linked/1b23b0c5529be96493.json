@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/329-the-universe-ethic-algorithms.html",
+  "title": "The Universe Ethic Algorithms",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u250/0/f/the-universe-ethic-algorithms-photo-normal.jpg",
+      "alt": "The Universe Ethic Algorithms"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dear Reader, It is the work for the Man of the Future and it deals with the\r\nEthic Algorithms of the Future Science. It is a ready Doctoral dissertation which I\r\nhave not managed to defend so far as there are no relevant boards to do it at. The necessary academic councils are to be established. The book is the specific public defense of the dissertation. It is a collection of papers in which the author shows the application of the research new synthetic method. The method has not been recognized by the modern science yet, though its roots go in the old days. Different aspects of its application in pedagogic, philosophy, power engineering andartificial intelligence are examined.\r\nAll the papers were presented at various international interdisciplinary\r\nconferences in different world countries, were awarded by diplomas and got\r\npositive references from experts. They are presented in the logical order in the\r\nbook. There are some repetitions but they just emphasize the significance of\r\napplication of the ethic algorithms in science.\r\nThe book came out in the year of the 700th anniversary of St. Sergius of\r\nRadonezh, the 350th anniversary of the Treaty of Pereyaslav, 140th anniversary of\r\nN.K. Roerich, 135th anniversary of E.I. Roerich, and the 110th anniversary of S.N.\r\nRoerich.\r\nThe book is to be read by the heart language.\r\nThere is every reason to consider the work to be one more brick of the building of the Science of the Coming Jerusalem.",
+      "spans": [
+        {
+          "text": "Dear Reader, It is the work for the Man of the Future and it deals with the\r\nEthic Algorithms of the Future Science. It is a ready Doctoral dissertation which I\r\nhave not managed to defend so far as there are no relevant boards to do it at. The necessary academic councils are to be established. The book is the specific public defense of the dissertation. It is a collection of papers in which the author shows the application of the research new synthetic method. The method has not been recognized by the modern science yet, though its roots go in the old days. Different aspects of its application in pedagogic, philosophy, power engineering andartificial intelligence are examined.\r\nAll the papers were presented at various international interdisciplinary\r\nconferences in different world countries, were awarded by diplomas and got\r\npositive references from experts. They are presented in the logical order in the\r\nbook. There are some repetitions but they just emphasize the significance of\r\napplication of the ethic algorithms in science.\r\nThe book came out in the year of the 700th anniversary of St. Sergius of\r\nRadonezh, the 350th anniversary of the Treaty of Pereyaslav, 140th anniversary of\r\nN.K. Roerich, 135th anniversary of E.I. Roerich, and the 110th anniversary of S.N.\r\nRoerich.\r\nThe book is to be read by the heart language.\r\nThere is every reason to consider the work to be one more brick of the building of the Science of the Coming Jerusalem."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Dzhura S.G.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Dear Reader, It is the work for the Man of the Future and it deals with the Ethic Algorithms of the Future Science. It is a ready Doctoral dissertation which I have not managed to defend so far as there are no relevant boards to do it at. The necessary academic councils are to be established. The book is the specific public defense of the dissertation. It is a collection of papers in which the author shows the application of the research new synthetic method. The method has not been recognized by the modern science yet, though its roots go in the old days. Different aspects of its application in pedagogic, philosophy, power engineering andartificial intelligence are examined. All the papers were presented at various international interdisciplinary conferences in different world countries, were awarded by diplomas and got positive references from experts. They are presented in the logical order in the book. There are some repetitions but they just emphasize the significance of application of the ethic algorithms in science. The book came out in the year of the 700th anniversary of St. Sergius of Radonezh, the 350th anniversary of the Treaty of Pereyaslav, 140th anniversary of N.K. Roerich, 135th anniversary of E.I. Roerich, and the 110th anniversary of S.N. Roerich. The book is to be read by the heart language. There is every reason to consider the work to be one more brick of the building of the Science of the Coming Jerusalem.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 14 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2063/082490fed8cecc8060cf246400d09a2b"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u250/0/f/the-universe-ethic-algorithms-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2063/082490fed8cecc8060cf246400d09a2b"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1520,
+    "storedTextCharacters": 1464,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40745
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 1490,
+  "capturedBodyCharacters": 1464,
+  "sourceTextSHA256": "79a2fc53c9c056dcc5d88303507727fc623ac0df8db6f9e02fa7f7e22150dd6c",
+  "archiveSnapshotAt": "2026-10-08T08:49:20Z"
+}

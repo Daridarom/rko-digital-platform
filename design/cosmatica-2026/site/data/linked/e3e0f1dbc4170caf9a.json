@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/218",
+  "title": "Информационно-аналитический центр РКО",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/4/4/6b05285e.jpg",
+      "alt": "Информационно-аналитический центр РКО"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 259"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/a/4/0b0711b2.jpg",
+      "alt": "Информационно-аналитический центр РКО"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 311"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/4/4/6b05285e.jpg",
+    "https://cosmatica.org/upload/002/u218/a/4/0b0711b2.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 96,
+    "storedTextCharacters": 55,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35133
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 0,
+  "capturedBodyCharacters": 55,
+  "sourceTextSHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "archiveSnapshotAt": "2026-10-08T09:18:39Z"
+}

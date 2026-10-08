@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/258",
+  "title": "Юрий Николаевич Куликов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/8/9/6811724e.jpg",
+      "alt": "Юрий Николаевич Куликов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/c/d7705c7e.jpg",
+      "alt": "Юрий Николаевич Куликов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Волгоградская область",
+      "links": [
+        {
+          "title": "Волгоградская область",
+          "url": "https://cosmatica.org/departments/19-volgogradskaja-oblast.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/8/9/6811724e.jpg",
+    "https://cosmatica.org/upload/000/u35/5/c/d7705c7e.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 81,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34055
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 32,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "94e793df19afc8a3c1d491d55215ad8081873a404938669f5cac11f230be3c68",
+  "archiveSnapshotAt": "2026-10-08T09:18:52Z"
+}

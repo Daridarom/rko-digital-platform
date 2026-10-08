@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/42-tropa-zhizni-tropa-muzhestva.html",
+  "title": "Тропа Жизни — Тропа Мужества!",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/ee/8f/tropa-zhizni-tropa-muzhestva-photo-big.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Тропа мужества\" - праздник сноровки и упорства, участие в котором уже равно победе.",
+      "spans": [
+        {
+          "text": "\"Тропа мужества\" - праздник сноровки и упорства, участие в котором уже равно победе."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "«Тропа Мужества. Осень 2018» проводится 21-23 сентября в Боровском районе Калужской области. В районе села Ворсино. С. Шилово, координаты базового лагеря: 55.236614, 36.723209",
+      "spans": [
+        {
+          "text": "«Тропа Мужества. Осень 2018» проводится 21-23 сентября в Боровском районе Калужской области. В районе села Ворсино. С. Шилово, координаты базового лагеря: 55.236614, 36.723209"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Обязательно ознакомьтесь с регламентом соревнований: www.natrope.com/rules.html",
+      "spans": [
+        {
+          "text": "Обязательно ознакомьтесь с регламентом соревнований: "
+        },
+        {
+          "text": "www.natrope.com/rules.html",
+          "href": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com%2Frules.html&post=-108798861_7357&cc_key="
+        }
+      ],
+      "links": [
+        {
+          "text": "www.natrope.com/rules.html",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com%2Frules.html&post=-108798861_7357&cc_key="
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Встретимся на ТРОПЕ! Места и впечатлений хватит на всех!",
+      "spans": [
+        {
+          "text": "Встретимся на ТРОПЕ! Места и впечатлений хватит на всех!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Регистрация: www.natrope.com/registration.html Контакты: www.natrope.com/contacts.html",
+      "spans": [
+        {
+          "text": "Регистрация: "
+        },
+        {
+          "text": "www.natrope.com/registration.html",
+          "href": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com%2Fregistration.html&post=-108798861_7357&cc_key="
+        },
+        {
+          "text": " Контакты: "
+        },
+        {
+          "text": "www.natrope.com/contacts.html",
+          "href": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com%2Fcontacts.html&post=-108798861_7357&cc_key="
+        }
+      ],
+      "links": [
+        {
+          "text": "www.natrope.com/registration.html",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com%2Fregistration.html&post=-108798861_7357&cc_key="
+        },
+        {
+          "text": "www.natrope.com/contacts.html",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com%2Fcontacts.html&post=-108798861_7357&cc_key="
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "\"Тропа мужества\" - праздник сноровки и упорства, участие в котором уже равно победе. «Тропа Мужества. Осень 2018» проводится 21-23 сентября в Боровском районе Калужской области. В районе села Ворсино. С. Шилово, координаты базового лагеря: 55.236614, 36.723209 Обязательно ознакомьтесь с регламентом соревнований: www.natrope.com/rules.html Встретимся на ТРОПЕ! Места и впечатлений хватит на всех! Регистрация: www.natrope.com/registration.html Контакты: www.natrope.com/contacts.html",
+      "links": [
+        {
+          "title": "www.natrope.com/rules.html",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com%2Frules.html&post=-108798861_7357&cc_key="
+        },
+        {
+          "title": "www.natrope.com/registration.html",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com%2Fregistration.html&post=-108798861_7357&cc_key="
+        },
+        {
+          "title": "www.natrope.com/contacts.html",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com%2Fcontacts.html&post=-108798861_7357&cc_key="
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/ee/8f/tropa-zhizni-tropa-muzhestva-photo-big.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 608,
+    "storedTextCharacters": 480,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 5,
+    "sourceBytes": 38709
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 608,
+  "capturedBodyCharacters": 480,
+  "sourceTextSHA256": "5946c883e0455a49baf36abff798c1c2349f623020b568b771d009da8abacb29",
+  "archiveSnapshotAt": "2026-10-08T09:16:01Z"
+}

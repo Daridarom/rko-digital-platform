@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "collegium",
+  "title": "Советы",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 1,
+  "pageCount": 2,
+  "total": 19,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Экономический совет",
+      "description": "Предназначение Экономического Совета – Соединение в рамках Общего дела специалистов в области экономики, финансов и управления с целью разработки, и внедрения природоподобной и природосообразной экономической модели развития общества, государства и цивилизации, соответствующей этапу перехода биосферы в ноосферу, и рождения всемирной цивилизации Землян.",
+      "url": "https://cosmatica.org/collegium/23-ekonomicheskii-sovet.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item",
+      "type": "collegium-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Совет Чести и Права",
+      "description": "Человек – мужчина, или женщина - части человеческого общества, являющегося разумным, духовным органом природы, созданным для управления её стихийными силами.",
+      "url": "https://cosmatica.org/collegium/22-sovet-chesti-i-prava.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=6414f08a1a8dda9e12",
+      "type": "collegium-item",
+      "sourceCharacters": 7554,
+      "verified": false
+    },
+    {
+      "title": "Совет здоровья",
+      "description": "Популяризация передовых научно-практических достижений космомедицины, космобиологии и экологичного взаимодействия человека с биоценозом и техносферой.",
+      "url": "https://cosmatica.org/collegium/20-sovet-zdorovja.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=466d00e0c5c837c3a9",
+      "type": "collegium-item",
+      "sourceCharacters": 3970,
+      "verified": false
+    },
+    {
+      "title": "Совет по развитию космических инициатив",
+      "description": "Деятельность Совета по развитию космических инициатив: нацелена на продвижение созидательных инициатив людей, идущих по пути своего предназначения и создающих новую среду жизнедеятельности, наполненную космическими смыслами и земной человечностью. Общие задачи Совета: - Формирование, отбор, поддержка, развитие и продвижение масштабных, прорывных, социально-инвестиционных, созидательных инициатив дуального значения - ",
+      "url": "https://cosmatica.org/collegium/19-sovet-po-razvitiyu-kosmicheskih-iniciativ.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=7b0d87397b0afd1196",
+      "type": "collegium-item",
+      "sourceCharacters": 2105,
+      "verified": false
+    },
+    {
+      "title": "Экологический Совет",
+      "description": "Деятельность Совета: направлена на обеспечение решения задач «Русского Космического Общества» по изучению и популяризации космонавтики, содействие сохранению научного, исторического и культурного наследия русского космизма, содействие сохранению и приумножению общечеловеческих ценностей, выработанных мировым экологическим движением, создание в России общества сбалансированного устойчивого развития, общества высокой к",
+      "url": "https://cosmatica.org/collegium/18-ekologicheskii-sovet.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=88d158f1b1ff959b3f",
+      "type": "collegium-item",
+      "sourceCharacters": 4475,
+      "verified": false
+    },
+    {
+      "title": "Совет по культуре",
+      "description": "Деятельность Совета: направлена на создание среды для развития и роста мощности человека, общества, государства и Жизни в целом посредством Культуры, отвечающей целям космической эволюции Жизни как космопланетарного явления.",
+      "url": "https://cosmatica.org/collegium/17-sovet-po-kulture.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=9fefdac744090e62b5",
+      "type": "collegium-item",
+      "sourceCharacters": 2139,
+      "verified": false
+    },
+    {
+      "title": "Совет физической культуры и спорта",
+      "description": "Деятельность Совета: направлена на формирование в обществе культуры трезвой, здоровой жизни, где спорт и физическое развитие тела являются такой же неотъемлемой частью, как и интеллектуальное и духовное развитие личности.",
+      "url": "https://cosmatica.org/collegium/16-sovet-fizicheskoi-kultury-i-sporta.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=d51df16dafdb6e078e",
+      "type": "collegium-item",
+      "sourceCharacters": 1712,
+      "verified": false
+    },
+    {
+      "title": "Совет труда и творчества",
+      "description": "Деятельность Совета: направлена на формирование в обществе культуры «Человека – Творца», способного и реализующего свою способность к творчеству во имя сохранения и развития жизни как космопланетарного явления.",
+      "url": "https://cosmatica.org/collegium/15-sovet-truda-i-tvorchestva.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=16098b9f933685b224",
+      "type": "collegium-item",
+      "sourceCharacters": 2842,
+      "verified": false
+    },
+    {
+      "title": "Арктический Совет",
+      "description": "Деятельность Совета: направлена на всестороннее изучение, исследование и развитие Арктической зоны России. Арктика – это особый регион Земли, принципиально отличающийся от любого другого региона нашей планеты не только тем, что здесь сконцентрированы в огромном объеме Северного Ледовитого океана (который по праву следует рассматривать «внутреннем морем Человечества») запасы полезных ископаемых, но, в первую очередь т",
+      "url": "https://cosmatica.org/collegium/14-arkticheskii-sovet.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=b99bfdcd423c9fe84e",
+      "type": "collegium-item",
+      "sourceCharacters": 1337,
+      "verified": false
+    },
+    {
+      "title": "Научно-образовательный Совет",
+      "description": "Деятельность Совета: нацелена на изучение, разработку и внедрение комплексных программ воспитания и образования, согласованных с естественно-научными, ноосферно-космическими основаниями развития Жизни.",
+      "url": "https://cosmatica.org/collegium/13-nauchno-obrazovatelnyi-sovet.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=c56238a217e7d5d72d",
+      "type": "collegium-item",
+      "sourceCharacters": 2770,
+      "verified": false
+    },
+    {
+      "title": "Молодёжный Совет",
+      "description": "Деятельность Совета: нацелена на вовлечение молодёжи России и других стран к созиданию себя и мира вокруг, к труду и творчеству во имя сохранения развития Жизни на Земле. Постижению и правильному применению законов природы, в интересах системы \"Природа-Общество-Человек\". К тому, чтобы молодёжь осознавала своё место и роль, свою ответственность и обязанности перед прошлым, настоящим и будущим. К тому, чтобы крепла дру",
+      "url": "https://cosmatica.org/collegium/12-molodyozhnyi-sovet.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=a4180d8af1f38027d5",
+      "type": "collegium-item",
+      "sourceCharacters": 4943,
+      "verified": false
+    },
+    {
+      "title": "Совет Правды и просвещения",
+      "description": "Деятельность Совета: направлена на создание условий для достижения целей Русского Космического Общества.",
+      "url": "https://cosmatica.org/collegium/11-sovet-pravdy-i-prosveschenija.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=e917cc3094f4bd5762",
+      "type": "collegium-item",
+      "sourceCharacters": 3314,
+      "verified": false
+    },
+    {
+      "title": "Общественно-государственный Совет",
+      "description": "Деятельность Совета: нацелена на создание условий и систем жизнеобеспечения в нашей в нашей стране, и в мире в целом, для рождения Космического Человечества и создания Всемирного Космического Союза.",
+      "url": "https://cosmatica.org/collegium/10-obschestvenno-gosudarstvennyi-sovet.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=ef80c31d566fe8398c",
+      "type": "collegium-item",
+      "sourceCharacters": 2270,
+      "verified": false
+    },
+    {
+      "title": "Научно-технический Совет",
+      "description": "Деятельность Совета нацелена на использование базового принципа LT-технологий, сведение результатов в базу данных по существующим технологиям жизнеобеспечения, базу данных внешних и внутренних научных проектов, развитие новых технологий жизнеобеспечения.",
+      "url": "https://cosmatica.org/collegium/9-nauchno-tehnicheskii-sovet.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=75a697433db02cfd93",
+      "type": "collegium-item",
+      "sourceCharacters": 2429,
+      "verified": false
+    },
+    {
+      "title": "Философский Совет",
+      "description": "Деятельность Совета: нацелена на оценку рисков, влияющих на деятельность Общества, проведение оценки результатов деятельности Общества.",
+      "url": "https://cosmatica.org/collegium/6-filosofskii-sovet.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=946d87c7c4b28d6caf",
+      "type": "collegium-item",
+      "sourceCharacters": 1100,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

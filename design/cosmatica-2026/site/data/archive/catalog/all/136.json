@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 136,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Прорастать в Донецке «Гагаринскому саду». Шелестеть листвою по весне",
+      "description": "Светился ликом белоснежным Совсем земной и свойский даже. Про Космос рассказал безбрежный И вспомнил Рериха пейзажи",
+      "url": "https://cosmatica.org/news/583-prorastat-v-donecke-gagarinskomu-sadu-shelestet-listvoyu-po-vesne.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/4/prorastat-v-donecke-gagarinskomu-sadu-shelestet-listvoyu-po-v.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3da4855d7e6998ae6d",
+      "type": "news-item",
+      "sourceCharacters": 5084,
+      "verified": false
+    },
+    {
+      "title": "«В коллективе должен быть один лидер»",
+      "description": "Тридцатичетырехлетний Степан Зотов 13 лет занимается военно-патриотическим воспитанием трудных подростков. Он немного напоминает былинного богатыря: крепкий, широкоплечий, из-под распахнутой на груди рубашки виден православный крест. В каждом его движении — уверенность.",
+      "url": "https://cosmatica.org/articles/582-v-kollektive-dolzhen-byt-odin-lider.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=b2566d924785ea9679",
+      "type": "article",
+      "sourceCharacters": 3549,
+      "verified": false
+    },
+    {
+      "title": "Научный апокалипсис. Или теория всего.",
+      "description": "Русское Космическое Общество, г. Москва, Россия",
+      "url": "https://cosmatica.org/articles/581-nauchnyi-apokalipsis-ili-teorija-vsego.html",
+      "image": "https://cosmatica.org/upload/001/u196/a/c/lovch1.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=c673f9cb7c9993d72a",
+      "type": "article",
+      "sourceCharacters": 13027,
+      "verified": false
+    },
+    {
+      "title": "Великое открытие Семёна Давидовича Кирлиана",
+      "description": "С лекцией «Великое открытие Семёна Давидовича Кирлиана» выступил доцент ДонНТУ, к.т.н., член Донецкого отделения РКО, Джура Сергей Георгиевич.",
+      "url": "https://cosmatica.org/news/581-velikoe-otkrytie-semyona-davidovicha-kirliana.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/1/95858f7c.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=aaebf270c828a94eb8",
+      "type": "news-item",
+      "sourceCharacters": 1527,
+      "verified": false
+    },
+    {
+      "title": "Космоплан Гагарина",
+      "description": "12 октября в Центральной библиотеке города Луги Ленинградской области состоялась встреча с Председателем Секции истории авиации и космонавтики СПбФ ИИЕТ РАН, Заместителем председателя СПбО Русского Космического Общества Лебедевым Виталием Владиславовичем.",
+      "url": "https://cosmatica.org/news/580-kosmoplan-gagarina.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/a/kosmoplan-gagarina-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d903efc44b4d01122f",
+      "type": "news-item",
+      "sourceCharacters": 2047,
+      "verified": false
+    },
+    {
+      "title": "Изучение истории космонавтики в почтовых марках",
+      "description": "II место в рамках гуманитарного направления в категории",
+      "url": "https://cosmatica.org/articles/579-izuchenie-istorii-kosmonavtiki-v-pochtovyh-markah.html",
+      "image": "https://cosmatica.org/upload/000/u26/c/7/ris-1.png",
+      "kind": "article",
+      "href": "view.html?p=article&ref=454e5ff4ea4196d20d",
+      "type": "article",
+      "sourceCharacters": 14970,
+      "verified": false
+    },
+    {
+      "title": "Кедры у Шенфлиза",
+      "description": "Инициатором акции выступил член Калининградского отделения РКО Черных Иван Викторович .",
+      "url": "https://cosmatica.org/news/579-kedry-u-shenfliza.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/8/kedry-u-shenfliza-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8bdedd06af3223a79e",
+      "type": "news-item",
+      "sourceCharacters": 1439,
+      "verified": false
+    },
+    {
+      "title": "Ноосферная этико-экологическая Конституция человечества...",
+      "description": "Ноосферная этико-экологическая Конституция человечества как основа для создания Всемирного космического законодательства",
+      "url": "https://cosmatica.org/articles/577-noosfernaja-etiko-ekologicheskaja-konstitucija-chelovechestva.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=21d11d949ec2c3334a",
+      "type": "article",
+      "sourceCharacters": 14777,
+      "verified": false
+    },
+    {
+      "title": "Ушёл в вечность легендарный лётчик-космонавт Алексей Архипович Леонов",
+      "description": "Леонов был одиннадцатым советским космонавтом и первым человеком, вышедшим в открытый космос.",
+      "url": "https://cosmatica.org/news/577-skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/4/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9b6b365cfbd20f23b7",
+      "type": "news-item",
+      "sourceCharacters": 1964,
+      "verified": false
+    },
+    {
+      "title": "Идя \"Дорогою в космос\"",
+      "description": "С 1 по 4 октября 2019г. в Москве в Институте космических исследований Российской академии наук (ИКИ РАН) прошла Первая всероссийская конференция по космическому образованию «Дорога в космос».",
+      "url": "https://cosmatica.org/news/576-idja-dorogoyu-v-kosmos.html",
+      "image": "https://cosmatica.org/upload/000/u7/1/8/68c044ae.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=55b21ee11bb54b466f",
+      "type": "news-item",
+      "sourceCharacters": 9857,
+      "verified": false
+    },
+    {
+      "title": "Первые часы до и после полета Ю.А. Гагарина",
+      "description": "в категории «студенты и аспиранты высших учебных заведений»",
+      "url": "https://cosmatica.org/articles/575-pervye-chasy-do-i-posle-poleta-yu-a-gagarina.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=743fb5ebfbe395ad81",
+      "type": "article",
+      "sourceCharacters": 21874,
+      "verified": false
+    },
+    {
+      "title": "Вселенная на ладони: история космической фотографии",
+      "description": "«Челябинский энергетический колледж им С.М Кирова» г. Челябинск",
+      "url": "https://cosmatica.org/articles/574-vselennaja-na-ladoni-istorija-kosmicheskoi-fotografii.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=33166519b3fece00b1",
+      "type": "article",
+      "sourceCharacters": 12382,
+      "verified": false
+    },
+    {
+      "title": "Музей легендарной лётчицы В.С. Гризодубовой открылся в Санкт-Петербурге",
+      "description": "С её биографией связаны не только многие первые страницы отечественной истории покорения воздушного пространства, но и годы ратной службы по защите нашей Родины в годы войны с немецко-фашистскими захватчиками.",
+      "url": "https://cosmatica.org/news/574-muzei-legendarnoi-lyotchicy-v-s-grizodubovoi-otkrylsja-v-sankt-peterburge.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/a/muzei-legendarnoi-lyotchicy-v-s-grizodubovoi-otkrylsja-v-sankt-pet.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a5c2714f0cb341f41b",
+      "type": "news-item",
+      "sourceCharacters": 5447,
+      "verified": false
+    },
+    {
+      "title": "Ю.А. Гагарин и развитие советско-индийских отношений в начале 1960-х гг.",
+      "description": "в категории «студенты и аспиранты высших учебных заведений»",
+      "url": "https://cosmatica.org/articles/573-yu-a-gagarin-i-razvitie-sovetsko-indiiskih-otnoshenii-v-nachale-1960-h-gg.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=982fdc35a41842dd4c",
+      "type": "article",
+      "sourceCharacters": 11959,
+      "verified": false
+    },
+    {
+      "title": "\"Великие тайны космоса\" открылись донецкой молодёжи",
+      "description": "В рамках Всемирной недели космоса 7 октября в читальном зале Научно-технической библиотеки Донецкого национального технического университета состоялась престиж-встреча «Великие тайны космоса» под эгидой Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/573-velikie-tainy-kosmosa-otkrylis-doneckoi-molodyozhi.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/c/velikie-tainy-kosmosa-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ec08ca37fc4a096246",
+      "type": "news-item",
+      "sourceCharacters": 1950,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

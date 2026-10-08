@@ -1,0 +1,391 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/sintez-mezhdisciplinarnyh-znanii",
+  "title": "Синтез междисциплинарных знаний",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "Начала Единой теории природных систем",
+          "Беляев М.И.",
+          ""
+        ],
+        [
+          "",
+          "Единая теория космического и духовного летоисчисления",
+          "Беляев М.И.",
+          ""
+        ],
+        [
+          "",
+          "Тайны арифметического треугольника",
+          "Беляев М.И.",
+          ""
+        ],
+        [
+          "",
+          "Стереотипы мышления: невежество и мракобесие",
+          "Беляев М.И.",
+          ""
+        ],
+        [
+          "",
+          "Обзор Нуль-Теории». Часть 3. Пропорциональные отношения в Природе",
+          "Ермолинская Л.",
+          ""
+        ],
+        [
+          "",
+          "Обзор Нуль-Теории». Часть 2. Принципы и Каноны Природы",
+          "Ермолинская Л.",
+          ""
+        ],
+        [
+          "",
+          "Обзор Нуль-Теории. Часть 1. Предисловие",
+          "Ермолинская Л.",
+          ""
+        ],
+        [
+          "",
+          "Азы природных отношений Теории Всего. Единая Теория Поля Природных Отношений, том 3",
+          "Беляев М.И.",
+          ""
+        ],
+        [
+          "",
+          "Единая теория поля природных отношений",
+          "Беляев М.И.",
+          ""
+        ],
+        [
+          "",
+          "Начала теории природных суперструн. Том 2.",
+          "Беляев М.И.",
+          ""
+        ],
+        [
+          "",
+          "Мир свободного мышления",
+          "Дмитриев Г.К.",
+          ""
+        ],
+        [
+          "",
+          "Инфоэнергетика. Шаг за образ",
+          "Дмитриев Г.К.",
+          ""
+        ],
+        [
+          "",
+          "Синтез междисциплинарных знаний и устойчивое развитие в системе Пространство – Время",
+          "О.Л. Кузнецов, П.Г. Кузнецов, Б.Е. Большаков",
+          ""
+        ],
+        [
+          "",
+          "Милогия Тайны Высшего Разума",
+          "Беляев М.И.",
+          ""
+        ],
+        [
+          "",
+          "Природные дефекты многомерного LT-пространства",
+          "Беляев М.И.",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u113/8/c/84ff73d5.jpg",
+      "alt": "Начала Единой теории природных систем"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/a/7/edinaja-teorija-kosmicheskogo-i-duhovnogo-letoischislenija-photo-smal.jpg",
+      "alt": "Единая теория космического и духовного летоисчисления"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u113/6/0/tainy-arifmeticheskogo-treugolnika-photo-small.jpg",
+      "alt": "Тайны арифметического треугольника"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u113/c/4/stereotipy-myshlenija-nevezhestvo-i-mrakobesie-photo-small.jpg",
+      "alt": "Стереотипы мышления: невежество и мракобесие"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u113/7/b/obzor-nul-teorii-chast-3-proporcionalnye-otnoshenija-v-prirod.jpg",
+      "alt": "Обзор Нуль-Теории». Часть 3. Пропорциональные отношения в Природе"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u113/7/9/d02a08fe.jpg",
+      "alt": "Обзор Нуль-Теории». Часть 2. Принципы и Каноны Природы"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u113/a/d/3fcd975e.jpg",
+      "alt": "Обзор Нуль-Теории. Часть 1. Предисловие"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/4/2/9fdea4df.jpg",
+      "alt": "Азы природных отношений Теории Всего. Единая Теория Поля Природных  Отношений, том 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/8/4/edinaja-teorija-polja-prirodnyh-otnoshenii-photo-small.jpg",
+      "alt": "Единая теория поля природных отношений"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/d/0/c8474ec9.jpg",
+      "alt": "Начала теории природных суперструн. Том 2."
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/2/2/abf2d895.jpg",
+      "alt": "Синтез междисциплинарных знаний и устойчивое развитие в системе Пространство – Время"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u113/3/5/25dbed32.jpg",
+      "alt": "Милогия Тайны Высшего Разума"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u113/1/5/468caaa8.jpg",
+      "alt": "Природные дефекты многомерного LT-пространства"
+    }
+  ],
+  "cards": [
+    {
+      "title": "Начала Единой теории природных систем",
+      "description": "Начала Единой теории природных систем Беляев М.И.",
+      "url": "https://cosmatica.org/library/518-nachala-edinoi-teorii-prirodnyh-sistem.html",
+      "image": "https://cosmatica.org/upload/001/u113/8/c/84ff73d5.jpg",
+      "links": [
+        {
+          "title": "Начала Единой теории природных систем",
+          "url": "https://cosmatica.org/library/518-nachala-edinoi-teorii-prirodnyh-sistem.html"
+        }
+      ]
+    },
+    {
+      "title": "Единая теория космического и духовного летоисчисления",
+      "description": "Единая теория космического и духовного летоисчисления Беляев М.И.",
+      "url": "https://cosmatica.org/library/506-edinaja-teorija-kosmicheskogo-i-duhovnogo-letoischislenija.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/7/edinaja-teorija-kosmicheskogo-i-duhovnogo-letoischislenija-photo-smal.jpg",
+      "links": [
+        {
+          "title": "Единая теория космического и духовного летоисчисления",
+          "url": "https://cosmatica.org/library/506-edinaja-teorija-kosmicheskogo-i-duhovnogo-letoischislenija.html"
+        }
+      ]
+    },
+    {
+      "title": "Тайны арифметического треугольника",
+      "description": "Тайны арифметического треугольника Беляев М.И.",
+      "url": "https://cosmatica.org/library/505-tainy-arifmeticheskogo-treugolnika.html",
+      "image": "https://cosmatica.org/upload/001/u113/6/0/tainy-arifmeticheskogo-treugolnika-photo-small.jpg",
+      "links": [
+        {
+          "title": "Тайны арифметического треугольника",
+          "url": "https://cosmatica.org/library/505-tainy-arifmeticheskogo-treugolnika.html"
+        }
+      ]
+    },
+    {
+      "title": "Стереотипы мышления: невежество и мракобесие",
+      "description": "Стереотипы мышления: невежество и мракобесие Беляев М.И.",
+      "url": "https://cosmatica.org/library/504-stereotipy-myshlenija-nevezhestvo-i-mrakobesie.html",
+      "image": "https://cosmatica.org/upload/001/u113/c/4/stereotipy-myshlenija-nevezhestvo-i-mrakobesie-photo-small.jpg",
+      "links": [
+        {
+          "title": "Стереотипы мышления: невежество и мракобесие",
+          "url": "https://cosmatica.org/library/504-stereotipy-myshlenija-nevezhestvo-i-mrakobesie.html"
+        }
+      ]
+    },
+    {
+      "title": "Обзор Нуль-Теории». Часть 3. Пропорциональные отношения в Природе",
+      "description": "Обзор Нуль-Теории». Часть 3. Пропорциональные отношения в Природе Ермолинская Л.",
+      "url": "https://cosmatica.org/library/503-obzor-nul-teorii-chast-3-proporcionalnye-otnoshenija-v-prirode.html",
+      "image": "https://cosmatica.org/upload/001/u113/7/b/obzor-nul-teorii-chast-3-proporcionalnye-otnoshenija-v-prirod.jpg",
+      "links": [
+        {
+          "title": "Обзор Нуль-Теории». Часть 3. Пропорциональные отношения в Природе",
+          "url": "https://cosmatica.org/library/503-obzor-nul-teorii-chast-3-proporcionalnye-otnoshenija-v-prirode.html"
+        }
+      ]
+    },
+    {
+      "title": "Обзор Нуль-Теории». Часть 2. Принципы и Каноны Природы",
+      "description": "Обзор Нуль-Теории». Часть 2. Принципы и Каноны Природы Ермолинская Л.",
+      "url": "https://cosmatica.org/library/502-obzor-nul-teorii-chast-2-principy-i-kanony-prirody.html",
+      "image": "https://cosmatica.org/upload/001/u113/7/9/d02a08fe.jpg",
+      "links": [
+        {
+          "title": "Обзор Нуль-Теории». Часть 2. Принципы и Каноны Природы",
+          "url": "https://cosmatica.org/library/502-obzor-nul-teorii-chast-2-principy-i-kanony-prirody.html"
+        }
+      ]
+    },
+    {
+      "title": "Обзор Нуль-Теории. Часть 1. Предисловие",
+      "description": "Обзор Нуль-Теории. Часть 1. Предисловие Ермолинская Л.",
+      "url": "https://cosmatica.org/library/501-obzor-nul-teorii-chast-1-predislovie.html",
+      "image": "https://cosmatica.org/upload/001/u113/a/d/3fcd975e.jpg",
+      "links": [
+        {
+          "title": "Обзор Нуль-Теории. Часть 1. Предисловие",
+          "url": "https://cosmatica.org/library/501-obzor-nul-teorii-chast-1-predislovie.html"
+        }
+      ]
+    },
+    {
+      "title": "Азы природных отношений Теории Всего. Единая Теория Поля Природных Отношений, том 3",
+      "description": "Азы природных отношений Теории Всего. Единая Теория Поля Природных Отношений, том 3 Беляев М.И.",
+      "url": "https://cosmatica.org/library/491-azy-prirodnyh-otnoshenii-teorii-vsego-edinaja-teorija-polja-prirodnyh-otnoshenii-tom-3.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/2/9fdea4df.jpg",
+      "links": [
+        {
+          "title": "Азы природных отношений Теории Всего. Единая Теория Поля Природных Отношений, том 3",
+          "url": "https://cosmatica.org/library/491-azy-prirodnyh-otnoshenii-teorii-vsego-edinaja-teorija-polja-prirodnyh-otnoshenii-tom-3.html"
+        }
+      ]
+    },
+    {
+      "title": "Единая теория поля природных отношений",
+      "description": "Единая теория поля природных отношений Беляев М.И.",
+      "url": "https://cosmatica.org/library/490-edinaja-teorija-polja-prirodnyh-otnoshenii.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/4/edinaja-teorija-polja-prirodnyh-otnoshenii-photo-small.jpg",
+      "links": [
+        {
+          "title": "Единая теория поля природных отношений",
+          "url": "https://cosmatica.org/library/490-edinaja-teorija-polja-prirodnyh-otnoshenii.html"
+        }
+      ]
+    },
+    {
+      "title": "Начала теории природных суперструн. Том 2.",
+      "description": "Начала теории природных суперструн. Том 2. Беляев М.И.",
+      "url": "https://cosmatica.org/library/489-nachala-teorii-prirodnyh-superstrun-tom-2.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/0/c8474ec9.jpg",
+      "links": [
+        {
+          "title": "Начала теории природных суперструн. Том 2.",
+          "url": "https://cosmatica.org/library/489-nachala-teorii-prirodnyh-superstrun-tom-2.html"
+        }
+      ]
+    },
+    {
+      "title": "Мир свободного мышления",
+      "description": "Мир свободного мышления Дмитриев Г.К.",
+      "url": "https://cosmatica.org/library/465-mir-svobodnogo-myshlenija.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Мир свободного мышления",
+          "url": "https://cosmatica.org/library/465-mir-svobodnogo-myshlenija.html"
+        }
+      ]
+    },
+    {
+      "title": "Инфоэнергетика. Шаг за образ",
+      "description": "Инфоэнергетика. Шаг за образ Дмитриев Г.К.",
+      "url": "https://cosmatica.org/library/464-infoenergetika-shag-za-obraz.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Инфоэнергетика. Шаг за образ",
+          "url": "https://cosmatica.org/library/464-infoenergetika-shag-za-obraz.html"
+        }
+      ]
+    },
+    {
+      "title": "Синтез междисциплинарных знаний и устойчивое развитие в системе Пространство – Время",
+      "description": "Синтез междисциплинарных знаний и устойчивое развитие в системе Пространство – Время О.Л. Кузнецов, П.Г. Кузнецов, Б.Е. Большаков",
+      "url": "https://cosmatica.org/library/242-sintez-mezhdisciplinarnyh-znanii-i-ustoichivoe-razvitie-v-sisteme-prostranstvo-vremja.html",
+      "image": "https://cosmatica.org/upload/000/u10/2/2/abf2d895.jpg",
+      "links": [
+        {
+          "title": "Синтез междисциплинарных знаний и устойчивое развитие в системе Пространство – Время",
+          "url": "https://cosmatica.org/library/242-sintez-mezhdisciplinarnyh-znanii-i-ustoichivoe-razvitie-v-sisteme-prostranstvo-vremja.html"
+        }
+      ]
+    },
+    {
+      "title": "Милогия Тайны Высшего Разума",
+      "description": "Милогия Тайны Высшего Разума Беляев М.И.",
+      "url": "https://cosmatica.org/library/234-milogija-tainy-vysshego-razuma.html",
+      "image": "https://cosmatica.org/upload/001/u113/3/5/25dbed32.jpg",
+      "links": [
+        {
+          "title": "Милогия Тайны Высшего Разума",
+          "url": "https://cosmatica.org/library/234-milogija-tainy-vysshego-razuma.html"
+        }
+      ]
+    },
+    {
+      "title": "Природные дефекты многомерного LT-пространства",
+      "description": "Природные дефекты многомерного LT-пространства Беляев М.И.",
+      "url": "https://cosmatica.org/library/233-prirodnye-defekty-mnogomernogo-lt-prostranstva.html",
+      "image": "https://cosmatica.org/upload/001/u113/1/5/468caaa8.jpg",
+      "links": [
+        {
+          "title": "Природные дефекты многомерного LT-пространства",
+          "url": "https://cosmatica.org/library/233-prirodnye-defekty-mnogomernogo-lt-prostranstva.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/001/u113/8/c/84ff73d5.jpg",
+    "https://cosmatica.org/upload/000/u35/a/7/edinaja-teorija-kosmicheskogo-i-duhovnogo-letoischislenija-photo-smal.jpg",
+    "https://cosmatica.org/upload/001/u113/6/0/tainy-arifmeticheskogo-treugolnika-photo-small.jpg",
+    "https://cosmatica.org/upload/001/u113/c/4/stereotipy-myshlenija-nevezhestvo-i-mrakobesie-photo-small.jpg",
+    "https://cosmatica.org/upload/001/u113/7/b/obzor-nul-teorii-chast-3-proporcionalnye-otnoshenija-v-prirod.jpg",
+    "https://cosmatica.org/upload/001/u113/7/9/d02a08fe.jpg",
+    "https://cosmatica.org/upload/001/u113/a/d/3fcd975e.jpg",
+    "https://cosmatica.org/upload/000/u35/4/2/9fdea4df.jpg",
+    "https://cosmatica.org/upload/000/u35/8/4/edinaja-teorija-polja-prirodnyh-otnoshenii-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u35/d/0/c8474ec9.jpg",
+    "https://cosmatica.org/upload/000/u10/2/2/abf2d895.jpg",
+    "https://cosmatica.org/upload/001/u113/3/5/25dbed32.jpg",
+    "https://cosmatica.org/upload/001/u113/1/5/468caaa8.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1030,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 15,
+    "sourceImageCount": 13,
+    "paragraphCount": 0,
+    "sourceBytes": 63530
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 1030,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "035e7b07605a6cb221c34a928af680d6b5838160b23dd064f8203019a5ab1775",
+  "archiveSnapshotAt": "2026-10-08T08:51:15Z"
+}

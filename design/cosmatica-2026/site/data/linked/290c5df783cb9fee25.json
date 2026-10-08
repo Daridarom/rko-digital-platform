@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/140-zhivaja-sistema.html",
+  "title": "Живая система",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "открытая",
+      "spans": [
+        {
+          "text": "открытая"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "система",
+      "spans": [
+        {
+          "text": "система"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", способная совершать внешнюю работу во времени и пространстве. Система, неспособная совершать внешнюю работу, является косной (мертвой) системой.",
+      "spans": [
+        {
+          "text": ", способная совершать внешнюю работу во времени и пространстве. Система, неспособная совершать внешнюю работу, является косной (мертвой) системой."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "открытая система , способная совершать внешнюю работу во времени и пространстве. Система, неспособная совершать внешнюю работу, является косной (мертвой) системой.",
+      "links": [
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 177,
+    "storedTextCharacters": 161,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32139
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 163,
+  "capturedBodyCharacters": 161,
+  "sourceTextSHA256": "e24f31d1d7363546f6a5a5e02201fd3439ad0b5ac236df4183a833bcc1426833",
+  "archiveSnapshotAt": "2026-10-08T08:46:32Z"
+}

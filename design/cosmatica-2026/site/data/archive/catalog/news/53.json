@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 53,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "День космонавтики в МБОУ \"Святославская средняя общеобразовательная школа\", Кузбасс",
+      "description": "Отряд \"юных гагаринцев\" под названием \"Звёздный\" Святославской средней общеобразовательной школы",
+      "url": "https://cosmatica.org/news/1353-den-kosmonavtiki-v-mbou-svjatoslavskaja-srednjaja-obscheobrazovatelnaja-shkola-kuzbass.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/b/den-kosmonavtiki-v-mbou-svjatoslavskaja-srednjaja-obscheobrazovatel.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=758131af83e2172edd",
+      "type": "news-item",
+      "sourceCharacters": 2425,
+      "verified": false
+    },
+    {
+      "title": "В Ессентуках представлен Центр Инновационного Непрерывного Образования - ПРОСВЕТ",
+      "description": "Концепцию проекта инновационного центра непрерывного образования в День Космонавтики 12 апреля 2022 года представили в Ессентуках. Авторы программы и руководители проекта делают акцент на неразрывный цикл образовательной системы: воспитание, просвещение и профессиональную подготовку. Опорной базой \"Просвета\" станет Северо-Кавказский Гуманитарный Техникум.",
+      "url": "https://cosmatica.org/news/1351-centr-innovacionnogo-nepreryvnogo-obrazovanija-prosvet.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/a/v-essentukah-predstavlen-centr-innovacionnogo-nepreryvnogo-obraz.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e797f702683abe4056",
+      "type": "news-item",
+      "sourceCharacters": 4248,
+      "verified": false
+    },
+    {
+      "title": "День космонавтики в МБОУ \"Промышленновская СОШ №56\", Кузбасс",
+      "description": "Глава Промышленновского муниципального округа С. А. Федарюк в этот знаменательный день поздравил ребят с праздником и пожелал верить в мечту и непременно добиваться поставленных целей.",
+      "url": "https://cosmatica.org/news/1354-den-kosmonavtiki-v-mbou-promyshlennovskaja-sosh-56-kuzbass.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/6/den-kosmonavtiki-v-mbou-promyshlennovskaja-sosh-56-kuzbass-pho.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6993caa8a2bf3e176e",
+      "type": "news-item",
+      "sourceCharacters": 2806,
+      "verified": false
+    },
+    {
+      "title": "Устойчивое развитие: наука и практика «особого периода»",
+      "description": "13 апреля 2022 года Национальным экологическим институтом Устойчивого развития при поддержке Международной школы устойчивого развития им. П.Г. Кузнецова и Московской ассоциации предпринимателей на площадке Торгово-промышленной палаты Российской Федерации проведена научно-практическая конференция «Устойчивое развитие : наука и практика «особого периода».",
+      "url": "https://cosmatica.org/news/1349-tpp.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/1/tpp-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ef4b7af9041638bfaa",
+      "type": "news-item",
+      "sourceCharacters": 9061,
+      "verified": false
+    },
+    {
+      "title": "Приглашаем к участию в конкурсе научно-фантастических рассказов",
+      "description": "Цель конкурса «Космическая Олимпиада» — открытие новых имен и поддержка талантливых авторов в их начинаниях.",
+      "url": "https://cosmatica.org/news/1348-priglashaem-k-uchastiyu-v-konkurse-nauchno-fantasticheskih-rasskazov.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/c/00fd7e4c.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=125239c6e9f83c155d",
+      "type": "news-item",
+      "sourceCharacters": 5009,
+      "verified": false
+    },
+    {
+      "title": "Байконур - дверь в космос",
+      "description": "09 апреля мы совершили путешествие на космодром Байконур. Именно оттуда началась космическая история нашего Отечества, да и всего человечества.",
+      "url": "https://cosmatica.org/news/1345-baikonur-dver-v-kosmos.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/8/baikonur-dver-v-kosmos-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=544d676b0c1352e419",
+      "type": "news-item",
+      "sourceCharacters": 1052,
+      "verified": false
+    },
+    {
+      "title": "Детский взгляд в космос под грохот канонады",
+      "description": "Донецкое отделение Русского Космического Общества продолжает работать в штатном режиме и даже проводит мероприятия. «…Если очень захотеть – можно в космос полететь!». Под таким девизом 12 апреля, в День космонавтики, работники Центральной городской детской библиотеки Муниципального бюджетного учреждения «Централизованная библиотечная система » администрации города Шахтерска, продолжая творческое сотрудничество с Русс",
+      "url": "https://cosmatica.org/news/1343-detskii-vzgljad-v-kosmos-pod-grohot-kononady.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/7/detskii-vzgljad-v-kosmos-pod-grohot-kononady-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f9226aa95e11b06038",
+      "type": "news-item",
+      "sourceCharacters": 2543,
+      "verified": false
+    },
+    {
+      "title": "Космический мир вокруг нас",
+      "description": "Он был приурочен к юбилею Владимирского планетария - 28 апреля 2022 года он будет отмечать свое 60-летие.",
+      "url": "https://cosmatica.org/news/1342-kosmicheskii-mir-vokrug-nas.html",
+      "image": "https://cosmatica.org/upload/000/u35/c/6/kosmicheskii-mir-vokrug-nas-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9ffd250201b2efcfa3",
+      "type": "news-item",
+      "sourceCharacters": 2028,
+      "verified": false
+    },
+    {
+      "title": "С Днём космонавтики",
+      "description": "61 год назад состоялся первый полёт человека в космос. Началась космическая эра человечества. Юрий Алексеевич Гагарин, Сергей Павлович Королёв и многие сопричастные к этому событию наши соотечественники подарили нам мечту. Мечту о том, что человечество способно стать ноосферно-космическим и понести жизнь дальше в космическое пространство . Это подарило нам надежду на то, что мы сможем войти в Эру встретившихся рук и ",
+      "url": "https://cosmatica.org/news/1340-s-dnyom-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/d/f9444eab.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8035505dda816cd10a",
+      "type": "news-item",
+      "sourceCharacters": 1831,
+      "verified": false
+    },
+    {
+      "title": "Проект «Мы верим в космос» в лагере «Орлёнок»",
+      "description": "9 апреля во Всероссийском детском центре «Орлёнок» открылась выставка картин, посвященная теме космоса. Работы молодых художников уникальны тем, что выставлялись во многих городах СССР, а затем были подарены «Орлёнку». Эти творения научно-фантастической живописи собрал журнал «Техника - молодёжи» ещё в 1981 году.",
+      "url": "https://cosmatica.org/news/1344-proekt-my-verim-v-kosmos-v-lagere-orlyonok.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/a/e143a567.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ccdf286e44f9f5c782",
+      "type": "news-item",
+      "sourceCharacters": 4229,
+      "verified": false
+    },
+    {
+      "title": "Весенние сборы выходного дня КГБ",
+      "description": "Главной целью сборов является воспитание духа товарищества, ответственности и самостоятельности в детях. Настроя на победу, благодарность, уважение к себе, к равным и старшим.",
+      "url": "https://cosmatica.org/news/1347-vesennie-sbory-vyhodnogo-dnja-kgb.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/4/vesennie-sbory-vyhodnogo-dnja-kgb-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e2c929916cde1cf53e",
+      "type": "news-item",
+      "sourceCharacters": 2229,
+      "verified": false
+    },
+    {
+      "title": "Журналистика, как инструмент созидания прекрасного будущего",
+      "description": "Это касается жизни каждого человека, семьи, общества, государства. Это же касается и сферы деятельности журналистики.",
+      "url": "https://cosmatica.org/news/1339-buduschee-ne-opredeleno-buduschee-opredeljaet.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/c/zhurnalistika-kak-instrument-sozidanija-prekrasnogo-buduschego-phot.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=78e44c0b60fcc8af5e",
+      "type": "news-item",
+      "sourceCharacters": 6253,
+      "verified": false
+    },
+    {
+      "title": "Развёртывание народных советов ФНС набирает обороты.",
+      "description": "В повестке Совещания также стоял вопрос организации Всемирного конгресса цивилизаций и формирование Дорожной карты общенародных проектов ФНС.",
+      "url": "https://cosmatica.org/news/1337-razvyortyvanie-narodnyh-sovetov-fns-nabiraet-oboroty.html",
+      "image": "https://cosmatica.org/upload/000/u7/d/7/razvyortyvanie-narodnyh-sovetov-fns-nabiraet-oboroty-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=98936cd6584c037fe3",
+      "type": "news-item",
+      "sourceCharacters": 5632,
+      "verified": false
+    },
+    {
+      "title": "Объявлено Народное сплочение",
+      "description": "Русское Космическое Общество (РКО) и Совет Отцов РОД «Семья Отечества» (РОД СО) формирует Народное сплочение и организует Штаб вклада в Победу.",
+      "url": "https://cosmatica.org/news/1336-objavleno-narodnoe-splochenie.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/a/objavleno-narodnoe-splochenie-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=480bb81e58c418f8c3",
+      "type": "news-item",
+      "sourceCharacters": 3082,
+      "verified": false
+    },
+    {
+      "title": "Отечественная война. Отступать некуда. За нами Вечность!",
+      "description": "Обращение главы Русского Космического Общества Алексея Алексеевича Гапонова в ответ на многочисленные просьбы высказать отношение РКО и его руководящего состава к происходящему ныне в связи со специальной военно-политической операцией на Украине.",
+      "url": "https://cosmatica.org/news/1334-otechestvennaja-voina-otstupat-nekuda-za-nami-vechnost.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/5/otechestvennaja-voina-otstupat-nekuda-za-nami-vechnost-photo.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=06391a65e0c4aa45ef",
+      "type": "news-item",
+      "sourceCharacters": 1014,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

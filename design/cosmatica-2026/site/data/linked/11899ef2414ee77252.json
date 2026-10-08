@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1079-aviacionnyi-zavod-im-chkalova-vo-vremja-velikoi-otechestvennoi-voiny-peinovich-d-n.html",
+  "title": "Авиационный завод им. Чкалова во время Великой Отечественной войны - Пейнович Д.Н.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Сохраняя память: Люди военной авиации",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Итоговая видеоконференция проекта \"Сохраняя память: Люди военной авиации\" https://cosmatica.org/projects/138",
+      "spans": [
+        {
+          "text": "Итоговая видеоконференция проекта \"Сохраняя память: Люди военной авиации\" "
+        },
+        {
+          "text": "https://cosmatica.org/projects/138",
+          "href": "https://cosmatica.org/projects/138"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/projects/138",
+          "url": "https://cosmatica.org/projects/138"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "TmQd1lq1rKE",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=TmQd1lq1rKE"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Итоговая видеоконференция проекта \"Сохраняя память: Люди военной авиации\" https://cosmatica.org/projects/138 Докладчик: Пейнович Данила Николаевич, сотрудник Музея Дзержинского района, филиала Музея Новосибирска\", г. Новосибирск 75-летию Великой Победы посвящается. Конференция проходила на цифровой платформе Русского Космического Общества https://rko.nbics.net",
+      "links": [
+        {
+          "title": "https://cosmatica.org/projects/138",
+          "url": "https://cosmatica.org/projects/138"
+        },
+        {
+          "title": "https://rko.nbics.net",
+          "url": "https://rko.nbics.net/"
+        },
+        {
+          "title": "",
+          "url": "https://www.youtube.com/redirect?v=TmQd1lq1rKE&event=video_description&q=https%3A%2F%2Frko.nbics.net&redir_token=QUFFLUhqa1dQMWdjb1RFTHhpaGNwaUtsQUJ1ckx6aWV0d3xBQ3Jtc0tsRlFrUklXUHNLVnFkS2JMbGVsU1ZWc2VMcW9XVkdRQjUxUXZ5YVNOSlVEZ1pBSjhnQks0ODJOM1RpM2M5RTJhU09NUVZLNjZyMmthSXRCVXJaQThsSmNBdUJvQ1dnWFlWcGxyVjNHa1hIZmxwUXBFMA%3D%3D"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 639,
+    "storedTextCharacters": 146,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 76836
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 517,
+  "capturedBodyCharacters": 146,
+  "sourceTextSHA256": "e2199c220fe2874d9ef0de1f0679dbff9996a829f637f91c27e07f762f27d811",
+  "archiveSnapshotAt": "2026-10-08T08:38:07Z",
+  "publicVideoCount": 1
+}

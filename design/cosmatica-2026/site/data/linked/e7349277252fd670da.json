@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/335-rko-osoznannaja-neobhodimost.html",
+  "title": "РКО - осознанная необходимость #Лекторий Русского Космического Общества",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/f/rko-osoznannaja-neobhodimost-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Русское космическое общество - это осознанная необходимость?",
+      "spans": [
+        {
+          "text": "Русское космическое общество - это осознанная необходимость?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На этот вопрос 27 октября в 19:00 на онлайн-лекции отвечает член Президиума Русского Космического Общества, руководитель проекта \"Космодесант\", писатель Степан Андреевич Зотов.",
+      "spans": [
+        {
+          "text": "На этот вопрос 27 октября в 19:00 на онлайн-лекции отвечает член Президиума Русского Космического Общества, руководитель проекта \"Космодесант\", писатель Степан Андреевич Зотов."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Как пришла идея создать общество, которое может объединить людей, увлечённых космосом, а также инженеров, художников, и других специалистов, так или иначе связанных с космосом?",
+      "spans": [
+        {
+          "text": "Как  пришла идея создать общество, которое может объединить людей, увлечённых космосом, а также инженеров, художников, и других  специалистов, так или иначе связанных с космосом?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "И почему оно было создано лишь спустя 60 лет после начала освоения космоса?",
+      "spans": [
+        {
+          "text": "И почему оно было создано лишь спустя 60 лет после начала освоения космоса?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Лекция пройдет через приложение Zoom. Для участия в лекции необходимо зарегистрироваться - https://zaobiblio.timepad.ru/event/1431402/ Ссылка на подключение придет за час до начала события.",
+      "spans": [
+        {
+          "text": "Лекция пройдет через приложение Zoom. Для участия в лекции необходимо зарегистрироваться - "
+        },
+        {
+          "text": "https://zaobiblio.timepad.ru/event/1431402/",
+          "href": "https://vk.com/away.php?to=https%3A%2F%2Fzaobiblio.timepad.ru%2Fevent%2F1431402%2F&cc_key="
+        },
+        {
+          "text": "Ссылка на подключение придет за час до начала события."
+        }
+      ],
+      "links": [
+        {
+          "text": "https://zaobiblio.timepad.ru/event/1431402/",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fzaobiblio.timepad.ru%2Fevent%2F1431402%2F&cc_key="
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Русское космическое общество - это осознанная необходимость? На этот вопрос 27 октября в 19:00 на онлайн-лекции отвечает член Президиума Русского Космического Общества, руководитель проекта \"Космодесант\", писатель Степан Андреевич Зотов. Как пришла идея создать общество, которое может объединить людей, увлечённых космосом, а также инженеров, художников, и других специалистов, так или иначе связанных с космосом? И почему оно было создано лишь спустя 60 лет после начала освоения космоса? Лекция пройдет через приложение Zoom. Для участия в лекции необходимо зарегистрироваться - https://zaobiblio.timepad.ru/event/1431402/ Ссылка на подключение придет за час до начала события.",
+      "links": [
+        {
+          "title": "https://zaobiblio.timepad.ru/event/1431402/",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fzaobiblio.timepad.ru%2Fevent%2F1431402%2F&cc_key="
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/f/rko-osoznannaja-neobhodimost-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 849,
+    "storedTextCharacters": 676,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 6,
+    "sourceBytes": 39688
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 849,
+  "capturedBodyCharacters": 676,
+  "sourceTextSHA256": "6a0de33e5d48ccdd051c07bb1ae21be8e9c59163e508bde7b4a4633f5fb8f6ba",
+  "archiveSnapshotAt": "2026-10-08T09:15:56Z"
+}

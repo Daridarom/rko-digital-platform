@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 42,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Военно-спортивные сборы для детей и молодёжи «К защите Отечества готов?»",
+      "description": "Юлия Леонидовна Юртова действительный член Русского Космического Общества, генеральный директор Просветительской общественной инициативы «Пойдём с нами» без устали придумывает и проводит всё новые мероприятия для детей. В этот раз задуманный ею проект для подрастающего поколения был поддержан большим количеством друзей.",
+      "url": "https://cosmatica.org/news/1541-voenno-sportivnye-sbory-dlja-detei-i-molodyozhi-k-zaschite-otechestva-gotov.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/f/8c957b8e.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c455b5d09c3fe403ec",
+      "type": "news-item",
+      "sourceCharacters": 6315,
+      "verified": false
+    },
+    {
+      "title": "Заслуженная победа в \"Лиге Будущего\"",
+      "description": "В рамках линии «Образование и наука» он представил всенародный проект \"Киноуроки в школах мира\" .",
+      "url": "https://cosmatica.org/news/1539-istorija-uspeha-peterburgskii-proekt-pokoril-ligu-buduschego.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/0/zasluzhennaja-pobeda-v-lige-buduschego-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1b1a965dba8fe17c0a",
+      "type": "news-item",
+      "sourceCharacters": 3632,
+      "verified": false
+    },
+    {
+      "title": "Крылья взлетели над Воронежем!",
+      "description": "Поздравляем вас, соотечественники и соотечественницы!",
+      "url": "https://cosmatica.org/news/1538-krylja-vzleteli-nad-voronezhem.html",
+      "image": "https://cosmatica.org/upload/000/u7/8/e/krylja-vzleteli-nad-voronezhem-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=acf50b175116b938f6",
+      "type": "news-item",
+      "sourceCharacters": 2304,
+      "verified": false
+    },
+    {
+      "title": "Закон спиральной фрактальности системного времени и теория Наблюдателя и Сверх-Наблюдателя",
+      "description": "Философия Русского космизма, как одно из теоретических крыльев Русского Космического Общества, где вторым является Косматика, в которой языком мыслей, слов и дел говорит мудрость природы, развивается трудами руководителя Философского совета РКО, доктора экономических наук, доктора философских наук, кандидата технических наук, профессора, Субетто Александра Ивановича.",
+      "url": "https://cosmatica.org/news/1537-zakon-spiralnoi-fraktalnosti-sistemnogo-vremeni-i-teorija-nablyudatelja-i-sverh-nablyudatelja.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/9/c805b0df.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7fddfcd3eda765f39f",
+      "type": "news-item",
+      "sourceCharacters": 1686,
+      "verified": false
+    },
+    {
+      "title": "Перед лицом Гагарина торжественно обещаем...",
+      "description": "14 октября 2022 года 19 пятиклассников боровской Ноосферной школы приняли на себя высокую ответственность стать гагаринцами.",
+      "url": "https://cosmatica.org/news/1536-pered-licom-gagarina-torzhestvenno-obeschaem.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/6/pered-licom-gagarina-torzhestvenno-obeschaem-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4b1cce871826e2fc67",
+      "type": "news-item",
+      "sourceCharacters": 4648,
+      "verified": false
+    },
+    {
+      "title": "Готовим очередную поездку в ДНР. Начинаем сбор!",
+      "description": "Команда Русского Космического Общества выезжает 14 ноября из Москвы.",
+      "url": "https://cosmatica.org/news/1535-gotovim-ocherednuyu-poezdku-v-dnr-nachinaem-sbor.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/5/3d21bcb7.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=324ac466d9797ad1ee",
+      "type": "news-item",
+      "sourceCharacters": 3663,
+      "verified": false
+    },
+    {
+      "title": "Дружина Кузбасса продолжает активную работу",
+      "description": "11.10.2022 г. в день памяти лётчика-космонавта, дважды Героя Советского Союза Алексея Архиповича Леонова Леоновский отряд гагаринской дружины Кузбасса лицея №23 посадил саженец рябины на Аллее Дружбы в Ботаническом саду.",
+      "url": "https://cosmatica.org/news/1534-druzhina-kuzbassa-prodolzhaet-aktivnuyu-rabotu.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/4/48c3efe4.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c60e56d91c72c9ce0c",
+      "type": "news-item",
+      "sourceCharacters": 2405,
+      "verified": false
+    },
+    {
+      "title": "Гагаринская дружина Кузбасса",
+      "description": "10.10.2022 г. ребята из гагаринского отряда МБОУ \"Промышленновская №56\", организованного на базе Кузбасского отделения Русского Космического Общества принесли в редакцию местной газеты \"Эхо\" тёплые вещи для российских военных.",
+      "url": "https://cosmatica.org/news/1532-gagarinskaja-druzhina-kuzbassa.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/7/gagarinskaja-druzhina-kuzbassa-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0ccf88a02ca194ac16",
+      "type": "news-item",
+      "sourceCharacters": 2856,
+      "verified": false
+    },
+    {
+      "title": "Атака на воспитание Человека",
+      "description": "Ядро будущей России - это поколение творцов-созидателей, с библиотекой высоких, благородных качеств и нравственных ценностей.",
+      "url": "https://cosmatica.org/news/1531-ataka-na-vospitanie-cheloveka.html",
+      "image": "https://cosmatica.org/upload/000/u7/2/2/b14f15cb.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e21268f4f8ab16fab0",
+      "type": "news-item",
+      "sourceCharacters": 1027,
+      "verified": false
+    },
+    {
+      "title": "Моделирование устойчивого регионального развития в системно-энергетическом измерении",
+      "description": "\" Моделирование устойчивого регионального развития в системно энергетическом измерении\"",
+      "url": "https://cosmatica.org/news/1530-modelirovanie-ustoichivogo-regionalnogo-razvitija-v-sistemno-energeticheskom-izmerenii.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/9/bad10524.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f9f620dd773092de6e",
+      "type": "news-item",
+      "sourceCharacters": 2311,
+      "verified": false
+    },
+    {
+      "title": "Бесконфликтное общение. Возможно ли это?",
+      "description": "Летом 2022г. добровольцы эколагеря \"Утриш\" проводили эколого-просветительские обходы с целью популяризации раздельного сбора вторсырья и ответственного отношения к природе. Так же приглашали на наши мероприятия и занятия. У нас накопился ценный опыт, которым хотим поделиться. И совершенно удачным образов к нам в лагерь зашел специалист по бесконфликтному общению Виталий Витальевич Ильинский. Как делать эколого-просве",
+      "url": "https://cosmatica.org/news/1528-beskonfliktnoe-obschenie-vozmozhno-li-eto.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/7/beskonfliktnoe-obschenie-vozmozhno-li-eto-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=49e64b296e76ac8a0a",
+      "type": "news-item",
+      "sourceCharacters": 1226,
+      "verified": false
+    },
+    {
+      "title": "Космическая перемена уже началась",
+      "description": "Мы живём в эпоху перемен. Меняется всё: от земных полюсов - до порядка мироустройства. Наш великий соотечественник Владимир Иванович Вернадский пророчил планете эти великие времена и назвал их ноосферным переходом - переходом в новое качество жизни всех живых систем.",
+      "url": "https://cosmatica.org/news/1527-kosmicheskaja-peremena-uzhe-nachalas.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/e/2693fc59.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3eddc5ae1d9ec91833",
+      "type": "news-item",
+      "sourceCharacters": 1755,
+      "verified": false
+    },
+    {
+      "title": "Крылья Воронежской земли",
+      "description": "В Воронеже начались съёмки нового детского короткометражного фильма «Крылья» в рамках Всероссийского народного проекта «Киноуроки в школах России». Воронежский фильм будет посвящён личной ответственности.",
+      "url": "https://cosmatica.org/news/1525-krylja-voronezhskoi-zemli.html",
+      "image": "https://cosmatica.org/upload/000/u7/b/7/krylja-voronezhskoi-zemli-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9ef0e2a85ecdc92106",
+      "type": "news-item",
+      "sourceCharacters": 3529,
+      "verified": false
+    },
+    {
+      "title": "Встало Русское Космическое Общество на Орловщине",
+      "description": "Соратники на Орловщине у РКО появились давно. Взаимодействовали в смежных направлениях. Делали совместные проекты. Узнавали друг друга. Весной этого года три человека проявили инициативу и выразили готовность вступить в ряды Русского Космического Общества. К лету отделение начало потихоньку вставать на рельсы. Теперь же есть готовность полноценно включиться в Общее Дело, понимание пути и даже первые плоды.",
+      "url": "https://cosmatica.org/news/1523-vstalo-russkoe-kosmicheskoe-obschestvo-na-orlovschine.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/6/vstalo-russkoe-kosmicheskoe-obschestvo-na-orlovschine-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=193371c0cc43a7072c",
+      "type": "news-item",
+      "sourceCharacters": 6362,
+      "verified": false
+    },
+    {
+      "title": "РКО на фестивале «Симфония Космоса» на родине Н.К.Рериха",
+      "description": "Организаторами фестиваля стали Культурный Центр «Извара-15», Санкт-Петербургское общество имени М.К. Чюрлёниса, Международный Центр Рерихов (Москва), а также Санкт-Петербургское отделение Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/1522-rko-na-festivale-simfonija-kosmosa-na-rodine-n-k-reriha.html",
+      "image": "https://cosmatica.org/upload/000/u21/c/b/rko-na-festivale-simfonija-kosmosa-na-rodine-n-k-reriha-photo-n.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e9fb34bc1282b17b5f",
+      "type": "news-item",
+      "sourceCharacters": 3392,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

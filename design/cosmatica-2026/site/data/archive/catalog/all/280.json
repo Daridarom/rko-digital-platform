@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 280,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Фантастика",
+      "description": "",
+      "url": "https://cosmatica.org/library/fantastika",
+      "image": "https://cosmatica.org/upload/002/u218/e/9/bb5beb82.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=011119d0868f8ac18d",
+      "type": "library",
+      "sourceCharacters": 751,
+      "verified": false
+    },
+    {
+      "title": "Философия",
+      "description": "",
+      "url": "https://cosmatica.org/library/filosofija",
+      "image": "https://cosmatica.org/upload/000/u14/7/b/e971a95c.png",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=d7a1e1b2c951ad1727",
+      "type": "library",
+      "sourceCharacters": 323,
+      "verified": false
+    },
+    {
+      "title": "Издательство РКО",
+      "description": "",
+      "url": "https://cosmatica.org/library/izdatelstvo-rko",
+      "image": "https://cosmatica.org/upload/000/u7/3/8/73869559.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=30ab46c855e586edee",
+      "type": "library",
+      "sourceCharacters": 1021,
+      "verified": false
+    },
+    {
+      "title": "Космонавтика",
+      "description": "",
+      "url": "https://cosmatica.org/library/kosmonavtika",
+      "image": "https://cosmatica.org/upload/002/u218/5/c/dnevnik-kosmonavta-photo-small.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=4d004af3384e7f7859",
+      "type": "library",
+      "sourceCharacters": 791,
+      "verified": false
+    },
+    {
+      "title": "Монографии",
+      "description": "",
+      "url": "https://cosmatica.org/library/monografii",
+      "image": "https://cosmatica.org/upload/002/u218/b/5/19041030.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=a5079329732fa790c4",
+      "type": "library",
+      "sourceCharacters": 1289,
+      "verified": false
+    },
+    {
+      "title": "Научное наследие П.Г.Кузнецова",
+      "description": "",
+      "url": "https://cosmatica.org/library/nauchnoe-nasledie-p-g-kuznecova",
+      "image": "https://cosmatica.org/upload/000/u7/8/2/bec56af6.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=35852da443219a0daa",
+      "type": "library",
+      "sourceCharacters": 1138,
+      "verified": false
+    },
+    {
+      "title": "Образование",
+      "description": "",
+      "url": "https://cosmatica.org/library/obrazovanie",
+      "image": "https://cosmatica.org/upload/000/u35/d/9/drevneslovenskaja-bukvica-photo-small.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=9f07623d95a7ee071e",
+      "type": "library",
+      "sourceCharacters": 919,
+      "verified": false
+    },
+    {
+      "title": "Дошкольное образование",
+      "description": "",
+      "url": "https://cosmatica.org/library/obrazovanie/doshkolnoe-obrazovanie",
+      "image": "https://cosmatica.org/upload/000/u7/c/4/c753bb4b.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=e9829f8c3764160bf7",
+      "type": "library",
+      "sourceCharacters": 728,
+      "verified": false
+    },
+    {
+      "title": "Начальное образование",
+      "description": "",
+      "url": "https://cosmatica.org/library/obrazovanie/nachalnoe-obrazovanie",
+      "image": "https://cosmatica.org/upload/002/u218/9/e/zanimatelnaja-arifmetika-photo-small.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=502450588d5c14d2b7",
+      "type": "library",
+      "sourceCharacters": 782,
+      "verified": false
+    },
+    {
+      "title": "Среднее образование",
+      "description": "",
+      "url": "https://cosmatica.org/library/obrazovanie/srednee-obrazovanie",
+      "image": "https://cosmatica.org/upload/000/u35/d/9/drevneslovenskaja-bukvica-photo-small.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=25209b78b937babf95",
+      "type": "library",
+      "sourceCharacters": 941,
+      "verified": false
+    },
+    {
+      "title": "Основания русского космизма",
+      "description": "",
+      "url": "https://cosmatica.org/library/osnovanija-russkogo-kosmizma",
+      "image": "https://cosmatica.org/upload/000/u7/3/6/2c7ceec8.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=b70acce698ac96be40",
+      "type": "library",
+      "sourceCharacters": 1290,
+      "verified": false
+    },
+    {
+      "title": "Синтез междисциплинарных знаний",
+      "description": "",
+      "url": "https://cosmatica.org/library/sintez-mezhdisciplinarnyh-znanii",
+      "image": "https://cosmatica.org/upload/001/u113/8/c/84ff73d5.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=3e2065f63ff4387c52",
+      "type": "library",
+      "sourceCharacters": 1030,
+      "verified": false
+    },
+    {
+      "title": "Учебно-методические пособия",
+      "description": "",
+      "url": "https://cosmatica.org/library/uchebno-metodicheskie-posobija",
+      "image": "https://cosmatica.org/upload/000/u35/c/c/osnovy-teorii-psihologicheskogo-programmirovanija-photo-small.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=76e613d61b48cee501",
+      "type": "library",
+      "sourceCharacters": 1460,
+      "verified": false
+    },
+    {
+      "title": "Устойчивое развитие",
+      "description": "",
+      "url": "https://cosmatica.org/library/ustoichivoe-razvitie",
+      "image": "https://cosmatica.org/upload/000/u7/3/a/filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-u.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=b8e7450b3deee80f84",
+      "type": "library",
+      "sourceCharacters": 1987,
+      "verified": false
+    },
+    {
+      "title": "Новости",
+      "description": "",
+      "url": "https://cosmatica.org/news",
+      "image": "assets/source/5ff6fe3456cc4e654c4ba045.webp",
+      "kind": "news",
+      "href": "view.html?p=news",
+      "type": "news",
+      "sourceCharacters": 0,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

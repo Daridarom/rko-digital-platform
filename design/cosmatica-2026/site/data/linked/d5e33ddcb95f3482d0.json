@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1363-shahmatnyi-turnir-yunye-zvyozdy.html",
+  "title": "Шахматный турнир \"Юные звёзды\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Прорыв к здоровой Жизни",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/b/cf0e47f2.jpg",
+      "alt": "Шахматный турнир \"Юные звёзды\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Вот уже 6 лет подряд проводится открытый фестиваль \"Юные звёзды\". Но в этот раз был особый статус мероприятия - благотворительный. Все собранные на мероприятии средства, за исключением прямых организационных расходов, направлены на материальную помощь детям, оказавшимся в сложной жизненной ситуации на Донбассе.",
+      "spans": [
+        {
+          "text": "Вот уже 6 лет подряд проводится открытый фестиваль \"Юные звёзды\". Но в этот раз был особый статус мероприятия - благотворительный. Все собранные на мероприятии средства, за исключением прямых организационных расходов, направлены на материальную помощь детям, оказавшимся в сложной жизненной ситуации на Донбассе."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "МОО \"Русское Космическое общество\"",
+      "spans": [
+        {
+          "text": "МОО \"Русское Космическое общество\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Турнир начался с торжественного приветствия. Успешной игры участникам пожелали Алексей Николаевич Петров , почётный член Русского Космического Общества, Председатель Наблюдательного Совета \"СК ФКА\" и Юрий Северинович Лекомцев генеральный директор Спортклуба Роскосмоса и почётный член РКО.",
+      "spans": [
+        {
+          "text": "Турнир начался с торжественного приветствия. Успешной игры участникам пожелали"
+        },
+        {
+          "text": " Алексей Николаевич Петров",
+          "href": "https://cosmatica.org/users/107"
+        },
+        {
+          "text": ", почётный член Русского Космического Общества, Председатель Наблюдательного Совета \"СК ФКА\" и Юрий Северинович Лекомцев генеральный директор Спортклуба Роскосмоса и почётный член РКО."
+        }
+      ],
+      "links": [
+        {
+          "text": "Алексей Николаевич Петров",
+          "url": "https://cosmatica.org/users/107"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/7/mg-4470.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Смотрите краткий отчёт:",
+      "spans": [
+        {
+          "text": "Смотрите краткий отчёт:"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/3/8/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+      "alt": "Шахматный турнир \"Юные звёзды\" 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/9/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+      "alt": "Шахматный турнир \"Юные звёзды\" 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/8/1/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+      "alt": "Шахматный турнир \"Юные звёзды\" 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/9/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+      "alt": "Шахматный турнир \"Юные звёзды\" 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/4/8/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+      "alt": "Шахматный турнир \"Юные звёзды\" 4"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/2/1/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+      "alt": "Шахматный турнир \"Юные звёзды\" 5"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/b/b/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+      "alt": "Шахматный турнир \"Юные звёзды\" 6"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/b/5/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+      "alt": "Шахматный турнир \"Юные звёзды\" 7"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/c/c/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+      "alt": "Шахматный турнир \"Юные звёзды\" 8"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/4/6/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+      "alt": "Шахматный турнир \"Юные звёзды\" 9"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Детский фестиваль по быстрым шахматам, посвящённый 61-й годовщине первого полёта человека в космос и в поддержку детей Донбасса состоялся.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Вот уже 6 лет подряд проводится открытый фестиваль \"Юные звёзды\". Но в этот раз был особый статус мероприятия - благотворительный. Все собранные на мероприятии средства, за исключением прямых организационных расходов, направлены на материальную помощь детям, оказавшимся в сложной жизненной ситуации на Донбассе. Организаторы и оргкомитет фестиваля: АНО \"Спортивный клуб Роскосмос\" МОО \"Русское Космическое общество\" ООО \"Группа компаний РТА\" Спортивный культурно-патриотический центр (ООО \"СКПЦ\") Благотворительный фонд \"Улучшение жизни и образования \"ЭЙБЛ СНГ\". Директор турнира — Петров Алексей Николаевич Главный судья турнира — Израэльянц Карен Рубенович Турнир начался с торжественного приветствия. Успешной игры участникам пожелали Алексей Николаевич Петров , почётный член Русского Космического Общества, Председатель Наблюдательного Совета \"СК ФКА\" и Юрий Северинович Лекомцев генеральный директор Спортклуба Роскосмоса и почётный член РКО. В качестве почётных гостей на фестивале присутствовали лётчик-космонавт, Герой России, член Президиума Русского Космического Общества Валерий Иванович Токарев и Глава Русского Космического Общества Алексей Алексеевич Гапонов . А самыми важными гостями стали шестеро детей из Донецкой Народной Республики. На церемонии открытия фестиваля им были вручены подарки от организаторов соревнований. А пока наши \"юные звёзды\" сражались в жарких шахматных баталиях, ребята из ДНР смогли пообщаться с настоящим космонавтом и героем Валерием Ивановичем Токаревым . Его новых знакомых интересовало практически всё, что происходит в жизни космонавтов! Видны ли реки из космоса, какое питание, какая физическая подготовка у космонавтов и многое другое. Валерий Иванович в течении двух часов подробно рассказывал обо всём. По результатам игр в 7 турах определены лучшие три игрока в каждой из трёх возрастных категорий: А — дети до 2011 года рождения; В — дети 2010 — 2009 годов рождения; С — дети до 2008 — 2007 годов рождения. В качестве наград за призовые места ребятам были вручены медали, кубки и книги С. А. Зотова \"История Героев\". Каждый участник турнира получил сертификат участника турнира \"Юные Звёзды\". Как сказал Глава РКО Алексей Алексеевич Гапонов: \" Была горячая битва умов, внимания, собранности и стратегий. В этой битве есть победители, но нет проигравших. Победили мы все вместе!\" Так пусть же на нашей прекрасной планете будут только такие битвы и всегда побеждает дружба! Смотрите краткий отчёт:",
+      "links": [
+        {
+          "title": "Алексей Николаевич Петров",
+          "url": "https://cosmatica.org/users/107"
+        },
+        {
+          "title": "Алексей Алексеевич Гапонов",
+          "url": "https://cosmatica.org/users/7"
+        },
+        {
+          "title": "Валерием Ивановичем Токаревым",
+          "url": "https://cosmatica.org/users/131"
+        },
+        {
+          "title": "С. А. Зотова",
+          "url": "https://cosmatica.org/users/38"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/002/u218/0/7/mg-4470.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/5/b/cf0e47f2.jpg",
+    "https://cosmatica.org/upload/002/u218/0/7/mg-4470.jpg",
+    "https://cosmatica.org/upload/002/u218/3/8/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/5/9/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/8/1/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/7/9/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/4/8/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/2/1/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/b/b/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/b/5/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/c/c/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/4/6/shahmatnyi-turnir-yunye-zvyozdy-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 2926,
+    "storedTextCharacters": 693,
+    "sourceCardCount": 0,
+    "sourceImageCount": 12,
+    "paragraphCount": 5,
+    "sourceBytes": 57791
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 2760,
+  "capturedBodyCharacters": 693,
+  "sourceTextSHA256": "4a80d8526c7641651a8ec0420cf0912ef311dc8123844a67f386d60d360f6404",
+  "archiveSnapshotAt": "2026-10-08T09:07:18Z"
+}

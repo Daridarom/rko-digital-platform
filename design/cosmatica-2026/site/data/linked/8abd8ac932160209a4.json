@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/140",
+  "title": "Галина Владимировна Почукаева",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/0c/b3/59adbee0.png",
+      "alt": "Галина Владимировна Почукаева"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/b4/ed/f277e49e.png",
+      "alt": "Галина Владимировна Почукаева"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Логотерапевт",
+      "spans": [
+        {
+          "text": "Логотерапевт"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Логотерапевт",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/0c/b3/59adbee0.png",
+    "https://cosmatica.org/upload/000/u7/b4/ed/f277e49e.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 95,
+    "storedTextCharacters": 45,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34928
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 40,
+  "capturedBodyCharacters": 45,
+  "sourceTextSHA256": "c639b0d695218ae25895a8a862472cb73ef09f0cc0dddaf59d48a555ff79d689",
+  "archiveSnapshotAt": "2026-10-08T09:18:04Z"
+}

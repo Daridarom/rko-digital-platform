@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/157-vremja.html",
+  "title": "Время",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "многомерная длительность, обладающая приникающей способ­ностью в",
+      "spans": [
+        {
+          "text": "многомерная длительность, обладающая приникающей способ­ностью в"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Пространство",
+      "spans": [
+        {
+          "text": "Пространство"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ".",
+      "spans": [
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "многомерная длительность, обладающая приникающей способ­ностью в Пространство .",
+      "links": [
+        {
+          "title": "Пространство",
+          "url": "https://cosmatica.org/glossary/64-prostranstvo.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 85,
+    "storedTextCharacters": 77,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31767
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 79,
+  "capturedBodyCharacters": 77,
+  "sourceTextSHA256": "5d23e7e065a8ca201dff85e57fd57b486be3b6a95df1e7dc8935ee9b2259e34b",
+  "archiveSnapshotAt": "2026-10-08T08:46:36Z"
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/435",
+  "title": "Артём Валентинович Фоменко",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/3/4/2ab6c2b6.jpg",
+      "alt": "Артём Валентинович Фоменко"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/1/5a02875a.jpg",
+      "alt": "Артём Валентинович Фоменко"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Донецкий национальный технический университет, 2017г",
+      "spans": [
+        {
+          "text": "Донецкий национальный технический университет, 2017г"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Межрегиональная академия управления персонала, 2015г",
+      "spans": [
+        {
+          "text": "Межрегиональная академия управления персонала, 2015г"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Основатель донецкого клуба «Русские шахматы»",
+      "spans": [
+        {
+          "text": "Основатель донецкого клуба «Русские шахматы»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Представительство в Беларуси",
+      "links": [
+        {
+          "title": "Представительство в Беларуси",
+          "url": "https://cosmatica.org/departments/16-predstavitelstvo-v-belarusi.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Донецкий национальный технический университет, 2017г Межрегиональная академия управления персонала, 2015г Основатель донецкого клуба «Русские шахматы»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/3/4/2ab6c2b6.jpg",
+    "https://cosmatica.org/upload/000/u35/1/1/5a02875a.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 252,
+    "storedTextCharacters": 181,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35205
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 200,
+  "capturedBodyCharacters": 181,
+  "sourceTextSHA256": "a47a38c6a567c8f4808cee50101265aec110c640b4c4f54f8bedc81884667d7c",
+  "archiveSnapshotAt": "2026-10-08T09:19:43Z"
+}

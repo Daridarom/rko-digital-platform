@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/f",
+  "title": "Ф",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Финансы",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Физическая величина",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Физический закон",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 46,
+    "storedTextCharacters": 42,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 33348
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 46,
+  "capturedBodyCharacters": 42,
+  "sourceTextSHA256": "d8b1eb0c3775fd42bbd2e5037df5d87b965fbafcba0922583a4f5ab01f197c5b",
+  "archiveSnapshotAt": "2026-10-08T08:47:24Z"
+}

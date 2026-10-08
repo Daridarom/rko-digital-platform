@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "glossary",
+  "title": "Глоссарий",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 1,
+  "pageCount": 14,
+  "total": 196,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Существующее состояние",
+      "description": ". Не­обходимое (требуемое) состояние – это состояние системы, удовлетво­ряющее заданным граничным условиям, определяемым на основе за­кона развития.",
+      "url": "https://cosmatica.org/glossary/180-suschestvuyuschee-sostojanie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=e5b3af6d5b583b6db9",
+      "type": "article",
+      "sourceCharacters": 187,
+      "verified": false
+    },
+    {
+      "title": "Описать систему",
+      "description": "значит изложить ее на языке научной теории, вклю­чая: аксиомы,",
+      "url": "https://cosmatica.org/glossary/179-opisat-sistemu.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=fbe6a692281c6b2045",
+      "type": "article",
+      "sourceCharacters": 91,
+      "verified": false
+    },
+    {
+      "title": "Необходимое социальное время",
+      "description": "такая часть полного бюджета социально­го времени, которую общество расходовало, расходует и будет расхо­довать на восстановление того, что астрономическое",
+      "url": "https://cosmatica.org/glossary/178-neobhodimoe-socialnoe-vremja.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=19d987b952bd535591",
+      "type": "article",
+      "sourceCharacters": 171,
+      "verified": false
+    },
+    {
+      "title": "Контекстно связная или физическая связь с реальным миром",
+      "description": ", которая устанавливает математическую зависимость между параме­трами системы, имеющими физическую интерпретацию, выраженную определенной математической формулой в терминах универсальных устойчивых величин.",
+      "url": "https://cosmatica.org/glossary/177-kontekstno-svjaznaja-ili-fizicheskaja-svjaz-s-realnym-mirom.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=d5fd272675ecf9b4d2",
+      "type": "article",
+      "sourceCharacters": 216,
+      "verified": false
+    },
+    {
+      "title": "Контекстно свободная или математическая связь",
+      "description": ", устанав­ливающая зависимость одного параметра (элемента) системы от дру­гого посредством правила соответствия – преобразования. Устанав­ливается на основе статистики о поведении исследуемых параметров системы. Выражается в виде математической формулы или функции одной или нескольких переменных, независящих от физически изме­римых величин.",
+      "url": "https://cosmatica.org/glossary/176-kontekstno-svobodnaja-ili-matematicheskaja-svjaz.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=e32e08b0faa9be0e15",
+      "type": "article",
+      "sourceCharacters": 352,
+      "verified": false
+    },
+    {
+      "title": "Логическая связь",
+      "description": ", существующая между исходными и выводимы­ми утверждениями, в форме умозаключений: дедукция, индукция и аналогия. Такая связь соединяет только рядом стоящие объекты.",
+      "url": "https://cosmatica.org/glossary/175-logicheskaja-svjaz.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=4912c05f0167c6a943",
+      "type": "article",
+      "sourceCharacters": 171,
+      "verified": false
+    },
+    {
+      "title": "Словесно-вербальная связь",
+      "description": "словесно сформулированное утверждение, которое устанавливает",
+      "url": "https://cosmatica.org/glossary/174-slovesno-verbalnaja-svjaz.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=2c1e20e16bb0fb2385",
+      "type": "article",
+      "sourceCharacters": 167,
+      "verified": false
+    },
+    {
+      "title": "Следствия",
+      "description": "предсказания: выводы, полученные по правилам теории. Этапы создания прикладной научной теории: Обоснование системы мер. Формирование языка. Обоснование исходных предположений – постулатов. Формирование аксиоматики. Обоснование правил – критериев вывода следствий. Разработка алгоритмов получения следствий. Получение следствий – предсказаний.",
+      "url": "https://cosmatica.org/glossary/173-sledstvija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=6c0807e42b9b6d2f86",
+      "type": "article",
+      "sourceCharacters": 342,
+      "verified": false
+    },
+    {
+      "title": "Правила вывода",
+      "description": "методы (модели, алгоритмы) получения следствий – предсказаний теории, не противоречащих исходным принципам тео­рии.",
+      "url": "https://cosmatica.org/glossary/172-pravila-vyvoda.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=07ce31b57acce31bd6",
+      "type": "article",
+      "sourceCharacters": 115,
+      "verified": false
+    },
+    {
+      "title": "Обобщающая форма знания",
+      "description": "Обобщающей формой знания, дающего понимание, является",
+      "url": "https://cosmatica.org/glossary/171-obobschayuschaja-forma-znanija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=60ecebce021c43096e",
+      "type": "article",
+      "sourceCharacters": 173,
+      "verified": false
+    },
+    {
+      "title": "Инвариант процесса исторического развития",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/170-invariant-processa-istoricheskogo-razvitija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=53162af36d19741d8c",
+      "type": "article",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Инвариант в математике",
+      "description": "функция от координат преобразуемой ве­личины, не изменяющая своего значения при данной совокупности преобразования этой величины.",
+      "url": "https://cosmatica.org/glossary/169-invariant-v-matematike.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=1c16fcc1a2502b53f5",
+      "type": "article",
+      "sourceCharacters": 129,
+      "verified": false
+    },
+    {
+      "title": "Инвариант в физике",
+      "description": ", принцип, не меняющийся при перехо­де от одного объекта к другому в определенном классе объектов. В",
+      "url": "https://cosmatica.org/glossary/168-invariant-v-fizike.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=f84d4209528c0c819b",
+      "type": "article",
+      "sourceCharacters": 178,
+      "verified": false
+    },
+    {
+      "title": "Временные (переменные) аксиомы",
+      "description": "неявные аксиомы или условия, границы применения, ограничения теории.",
+      "url": "https://cosmatica.org/glossary/167-vremennye-peremennye-aksiomy.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=ac2630b25c3bd48553",
+      "type": "article",
+      "sourceCharacters": 68,
+      "verified": false
+    },
+    {
+      "title": "Тенденция",
+      "description": "приобретает статус закономерности, если установлена ее",
+      "url": "https://cosmatica.org/glossary/166-tendencija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=3539e046649c9fd045",
+      "type": "article",
+      "sourceCharacters": 71,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

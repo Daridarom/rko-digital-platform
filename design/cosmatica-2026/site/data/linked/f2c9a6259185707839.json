@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/85-potrebnost.html",
+  "title": "Потребность",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это необходимая потенциальная или реальная воз­можность (",
+      "spans": [
+        {
+          "text": "это необходимая потенциальная или реальная воз­можность ("
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мощность",
+      "spans": [
+        {
+          "text": "мощность"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "), которая в данное",
+      "spans": [
+        {
+          "text": "), которая в данное"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "время",
+      "spans": [
+        {
+          "text": "время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "отсутствует, но кото­рую субъекту необходимо иметь в будущем.",
+      "spans": [
+        {
+          "text": "отсутствует, но кото­рую субъекту необходимо иметь в будущем."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это необходимая потенциальная или реальная воз­можность ( мощность ), которая в данное время отсутствует, но кото­рую субъекту необходимо иметь в будущем.",
+      "links": [
+        {
+          "title": "мощность",
+          "url": "https://cosmatica.org/glossary/104-moschnost.html"
+        },
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 166,
+    "storedTextCharacters": 150,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32190
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 154,
+  "capturedBodyCharacters": 150,
+  "sourceTextSHA256": "d99e2a7d5a4bac4d65f627a3d44363bc22f692cba02058e1345c673dd1a16ec4",
+  "archiveSnapshotAt": "2026-10-08T08:47:18Z"
+}

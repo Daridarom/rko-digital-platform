@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 161,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Состоялось открытие Секции Методов синтеза междисциплинарных знаний",
+      "description": "22 ноября в Научно-техническом совете Русского Космического Общества официально открыта новая Секция.",
+      "url": "https://cosmatica.org/articles/435-sostojalos-otkrytie-sekcii-metodov-sinteza-mezhdisciplinarnyh-znanii.html",
+      "image": "https://cosmatica.org/upload/000/u26/b9/f4/sostojalos-otkrytie-sekcii-metodov-sinteza-mezhdisciplinarnyh-zna.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=aa86321002dfbcaf49",
+      "type": "article",
+      "sourceCharacters": 1809,
+      "verified": false
+    },
+    {
+      "title": "Избранные труды. Том I",
+      "description": "Первый том «Избранных трудов» включает часть научного наследия Б.Е. Большакова (1941 – 2018) и посвящен работам, расцениваемым как краеугольные в процессе формирования науки устойчивого развития. Борис Евгеньевич Большаков — доктор технических наук, профессор, автор научной теории устойчивого развития общественно-природных систем в терминах универсальных измерителей. Автор более 250 научных работ по мировоззренческим",
+      "url": "https://cosmatica.org/library/435-izbrannye-trudy-tom-i.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/8/0699c757.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=06502ec1f92ea9f79e",
+      "type": "book",
+      "sourceCharacters": 1281,
+      "verified": false
+    },
+    {
+      "title": "Добро пожаловать на Тропу!",
+      "description": "«Тропа Мужества» — пеший комплексный марафон, позволяющий проверить и изменить себя.",
+      "url": "https://cosmatica.org/news/435-dobro-pozhalovat-na-tropu.html",
+      "image": "https://cosmatica.org/upload/000/u26/0/d/dobro-pozhalovat-na-tropu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9f8cdbd42e5c99fd5c",
+      "type": "news-item",
+      "sourceCharacters": 814,
+      "verified": false
+    },
+    {
+      "title": "Космос нужен молодёжи!",
+      "description": "Состоялся успешный старт \"Гудилинских слушаний\"",
+      "url": "https://cosmatica.org/articles/434-kosmos-nuzhen-molodyozhi.html",
+      "image": "https://cosmatica.org/upload/000/u37/6c/67/ec04f7a1.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=f5e541e5d55459ac73",
+      "type": "article",
+      "sourceCharacters": 3472,
+      "verified": false
+    },
+    {
+      "title": "Идеи П.Г. Кузнецова и проблема устойчивого развития в системе природа—общество—человек",
+      "description": "Настоящее издание представляет собой третье дополненное издание доклада авторов на международном симпозиуме «",
+      "url": "https://cosmatica.org/library/434-idei-p-g-kuznecova-i-problema-ustoichivogo-razvitija-v-sisteme-priroda-obschestvo-chelovek.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/0/malenkaja-ona-takaja-malenkaja-i-hrupkaja-nasha-zemlja-mat-vse.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7a70f4aa0a719abd44",
+      "type": "book",
+      "sourceCharacters": 749,
+      "verified": false
+    },
+    {
+      "title": "Создан Совет по гражданско-патриотическому и духовно-нравственному воспитанию детей и молодежи",
+      "description": "В созданный при Департаменте Труда и социальной защиты населения г. Москвы Совет по вопросам гражданско-патриотического и духовно-нравственного воспитания детей и молодёжи в государственных учреждениях социального обслуживания г. Москвы вошли представители Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/434-sozdan-sovet-po-grazhdansko-patrioticheskomu-i-duhovno-nravstvennomu-vospitaniyu-detei-i-molodez.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/a/sozdan-sovet-po-grazhdansko-patrioticheskomu-i-duhovno-nravstvenn.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=48a897c4200536939a",
+      "type": "news-item",
+      "sourceCharacters": 6014,
+      "verified": false
+    },
+    {
+      "title": "«Буран» расправил крылья в выставочном зале «Тушино»",
+      "description": "Юбилейный арт-фестиваль «БУРАН – КРЫЛАТАЯ ЛЕГЕНДА», посвященный 30-летию старта МТКС «Энергия-Буран», открыл свои двери для посетителей.",
+      "url": "https://cosmatica.org/articles/433-buran-raspravil-krylja-v-vystavochnom-zale-tushino.html",
+      "image": "https://cosmatica.org/upload/000/u26/ee/d1/buran-raspravil-krylja-v-vystavochnom-zale-tushino-photo-big.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=ef7763813ac37cf8c6",
+      "type": "article",
+      "sourceCharacters": 2791,
+      "verified": false
+    },
+    {
+      "title": "Законы творческого развития и ноосферный университет цивилизаций",
+      "description": "В новой работе А.И. Субетто, в её первой части раскрываются ос- новы науки о творчестве – креатологии и авторская концепция законов творческого развития человека, в том числе и механизмов творческого долгожительства. Раскрывается",
+      "url": "https://cosmatica.org/library/433-zakony-tvorcheskogo-razvitija-i-noosfernyi-universitet-civilizacii.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/e/zakony-tvorcheskogo-razvitija-i-noosfernyi-universitet-civilizacii.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=e5d6641e9e294a81c0",
+      "type": "book",
+      "sourceCharacters": 544,
+      "verified": false
+    },
+    {
+      "title": "Под луной золотой",
+      "description": "Несмотря на ненастную дождливую погоду, в концертном зале дома-музея Льва Николаевича Толстого на Пречистинке, в рамках цикла программ вечера «Музыка в доме Толстого» и проекта ЭКТЛ «Волшебной музыки целительные звуки», прошёл концерт театра-лаборатории «Кантилена» с названием «Под луной золотой …» .",
+      "url": "https://cosmatica.org/news/433-pod-lunoi-zolotoi.html",
+      "image": "https://cosmatica.org/upload/000/u26/8/6/pod-lunoi-zolotoi-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a8134899b0c09f569b",
+      "type": "news-item",
+      "sourceCharacters": 4033,
+      "verified": false
+    },
+    {
+      "title": "Ноосферному образованию в Чувашской республике быть!",
+      "description": "23 ноября 2019 года члены РКО и отделения «Ноосферное образование» РАЕН принимали участие в международном молодёжном образовательном форуме «21 регион. Процветающая Россия».",
+      "url": "https://cosmatica.org/articles/432-noosfernomu-obrazovaniyu-v-chuvashskoi-respublike-byt.html",
+      "image": "https://cosmatica.org/upload/000/u26/a6/59/noosfernomu-obrazovaniyu-v-chuvashskoi-respublike-byt-photo-big.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=f8ef9e85aca98fc761",
+      "type": "article",
+      "sourceCharacters": 2105,
+      "verified": false
+    },
+    {
+      "title": "Занимательная арифметика",
+      "description": "В книге Я. И. Перельмана представлены оригинальные математические задачи различной степени сложности. Арифметические задания, ребусы, фокусы, интересные события, поддающиеся действию законов математики, и многие другие любопытнейшие явления не оставят равнодушными ни одного читателя. Задачник направлен на то, чтобы развить математическое чутье, логическое мышление и пробудить интерес к дальнейшему решению арифметичес",
+      "url": "https://cosmatica.org/library/432-zanimatelnaja-arifmetika.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/c/zanimatelnaja-arifmetika-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=015fdb3ae2ea511346",
+      "type": "book",
+      "sourceCharacters": 473,
+      "verified": false
+    },
+    {
+      "title": "95 лет Побиску Георгиевичу Кузнецову",
+      "description": "Русское Космическое Общество создано в логике развития идей Побиска Георгиевича Кузнецова . Оно базируется на фундаментальных научных основаниях, которые он заложил. На идеях русского космизма доведённых в его трудах до максимальной степени конструктивизма.",
+      "url": "https://cosmatica.org/news/432-95-let-pobisku-georgievichu-kuznecovu.html",
+      "image": "https://cosmatica.org/upload/000/u26/9/7/95-let-pobisku-georgievichu-kuznecovu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8572988101f65945d2",
+      "type": "news-item",
+      "sourceCharacters": 14581,
+      "verified": false
+    },
+    {
+      "title": "Быстрым воланчиком пролетел турнир по бадминтону среди предприятий Ракетно-Космической отрасли",
+      "description": "Мероприятие состоялось 24 ноября в Спортивном комплексе МИРЭА (Московский государственный институт радиотехники, электроники и автоматики).",
+      "url": "https://cosmatica.org/articles/431-bystrym-volanchikom-proletel-turnir-po-badmintonu-sredi-predprijatii-raketno-kosmicheskoi-otrasl.html",
+      "image": "https://cosmatica.org/upload/000/u26/08/7e/bystrym-volanchikom-proletel-turnir-po-badmintonu-sredi-predprijat.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=4cd450288614cc8289",
+      "type": "article",
+      "sourceCharacters": 1906,
+      "verified": false
+    },
+    {
+      "title": "Занимательная алгебра",
+      "description": "В книге Я. И. Перельмана 'Занимательная алгебра' даны задачи с необычными сюжетами, любопытные истории, интересные случаи о неожиданном применении алгебры в жизни. Книга одинаково интересна для читателей всех возрастов.",
+      "url": "https://cosmatica.org/library/431-zanimatelnaja-algebra.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/0/zanimatelnaja-algebra-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=887271994e6f52cf82",
+      "type": "book",
+      "sourceCharacters": 261,
+      "verified": false
+    },
+    {
+      "title": "Нам будет чем заняться в ближайшие 500 лет.",
+      "description": "18 мая 2019 года в городе Кронштадт Ленинградской области состоялась высадка кедров, приуроченная к 75-летию полного снятия блокады Ленинграда и 315-й годовщине основания Кронштадта. На территории исторических укреплений Люнет “Ден” по адресу Кронштадтское шоссе дом 29, были высажены 75 саженцев кедра, символизирующих волю к жизни и веру в победу наших предков в самое сложное время для Отечества и родного города.",
+      "url": "https://cosmatica.org/news/431-nam-budet-chem-zanjatsja-v-blizhaishie-500-let.html",
+      "image": "https://cosmatica.org/upload/000/u21/5/8/nam-budet-chem-zanjatsja-v-blizhaishie-500-let-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1472380673d7bf8c3d",
+      "type": "news-item",
+      "sourceCharacters": 3519,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

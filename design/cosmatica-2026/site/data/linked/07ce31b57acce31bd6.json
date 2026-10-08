@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/172-pravila-vyvoda.html",
+  "title": "Правила вывода",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "методы (модели, алгоритмы) получения следствий – предсказаний теории, не противоречащих исходным принципам тео­рии.",
+      "spans": [
+        {
+          "text": "методы (модели, алгоритмы) получения следствий – предсказаний теории, не противоречащих исходным принципам тео­рии."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "методы (модели, алгоритмы) получения следствий – предсказаний теории, не противоречащих исходным принципам тео­рии.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 130,
+    "storedTextCharacters": 115,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31930
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 115,
+  "capturedBodyCharacters": 115,
+  "sourceTextSHA256": "36ae0a25d32628c188e11e865100d7589d2bcb7fe04705ec8ad25eb50a4a5c90",
+  "archiveSnapshotAt": "2026-10-08T08:46:41Z"
+}

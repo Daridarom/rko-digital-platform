@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/b",
+  "title": "Б",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Биотворческая система",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "База знаний",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "База научных знаний",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Базовый принцип устойчивого развития в единицах мощности",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 112,
+    "storedTextCharacters": 107,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 34278
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 112,
+  "capturedBodyCharacters": 107,
+  "sourceTextSHA256": "6ed6f2bebed633b663b7710bd2c97a05be7356282383eb5a6acd9e4e742036d6",
+  "archiveSnapshotAt": "2026-10-08T08:47:23Z"
+}

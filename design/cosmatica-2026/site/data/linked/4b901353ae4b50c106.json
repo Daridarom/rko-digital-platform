@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/z",
+  "title": "З",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Закон",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Закон Природы",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Закон сохранения мощности",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Закон технологического развития",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Закон научно-технического прогресса",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Закон устойчивой неравновесности",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Закон возвышения потребностей",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Закон сохранения Жизни",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Закон развития Жизни",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Закон той или иной предметной области",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Замкнутая система",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Знание",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Задача",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Земля",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 298,
+    "storedTextCharacters": 283,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 42174
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 298,
+  "capturedBodyCharacters": 283,
+  "sourceTextSHA256": "96b1f5d77773f76862f9715e6d95562d62fcfcc566af803745363707d1c5b764",
+  "archiveSnapshotAt": "2026-10-08T08:47:29Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 212,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Созвездие геометрических образов",
+      "description": "5 октября в Москве в Выставочном зале «Тушино» открылась персональная художественная выставка художника-графика Иветты Ки (г. Сочи) «ГЕОМЕТРИЯ ОБРАЗА» г. Москва, Выставочный зал «Тушино», (5-21 октября 2018 г.)",
+      "url": "https://cosmatica.org/news/208-sozvezdie-geometricheskih-obrazov.html",
+      "image": "https://cosmatica.org/upload/000/u8/f7/0c/sozvezdie-geometricheskih-obrazov-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=87cba5f6692915b502",
+      "type": "news-item",
+      "sourceCharacters": 3646,
+      "verified": false
+    },
+    {
+      "title": "Акция \"Посади дерево\" #Всемирное движение Русского Космического Общества \"Гагаринский сад\"",
+      "description": "Акция \"Посади дерево\" в Храме Сергия Радонежского в Гольянове.",
+      "url": "https://cosmatica.org/poster/208-akcija-posadi-derevo.html",
+      "image": "https://cosmatica.org/upload/000/u26/0/5/8d47b07e.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=861701e553390b0f68",
+      "type": "poster-item",
+      "sourceCharacters": 1413,
+      "verified": false
+    },
+    {
+      "title": "Турнир по шахматам \"Юные звёзды\"",
+      "description": "27 мая в Звёздном городке, в Центре подготовки космонавтов им. Ю.А. Гагарина, состоялся шахматный праздник - турнир по быстрым шахматам: \"Юные звёзды\".",
+      "url": "https://cosmatica.org/articles/207-turnir-po-shahmatam-yunye-zvyozdy.html",
+      "image": "https://cosmatica.org/upload/000/u26/36/05/1july.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=6345c5c2c38dc1e5da",
+      "type": "article",
+      "sourceCharacters": 1791,
+      "verified": false
+    },
+    {
+      "title": "Компрессионный мотор Ф-10",
+      "description": "Книга, из которой вы узнаете: как создать действующую",
+      "url": "https://cosmatica.org/library/207-kompressionnyi-motor-f-10.html",
+      "image": "https://cosmatica.org/upload/000/u26/d/6/kompressionnyi-motor-f-10-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=59fc628b41e0eda268",
+      "type": "book",
+      "sourceCharacters": 374,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество: \"На Благо Мира!\"",
+      "description": "Сегодня, в условиях информационной замусоренности и навязывания нам чуждых ценностей и идеалов, мы с полной ответственностью должны сказать своё веское слово. Тем более, нам есть, что сказать.",
+      "url": "https://cosmatica.org/news/207-russkoe-kosmicheskoe-obschestvo-na-blago-mira.html",
+      "image": "https://cosmatica.org/upload/000/u26/ba/be/853f03af.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=83ad094d7506acbf56",
+      "type": "news-item",
+      "sourceCharacters": 2559,
+      "verified": false
+    },
+    {
+      "title": "Проект «Пойдём с нами» организует Тропу Волоколамск-Дубосеково #Просветительская Общественная инициатива «Пойдем с нами»",
+      "description": "19 октября (суббота) Проект «Пойдём с нами» организует Тропу Волоколамск-Дубосеково, к месту великих сражений и исторических событий, связанных с обороной Москвы и Панфиловской дивизией, остановившей врага на подступах к столице нашей Родины. Любовь Гавриловна Митина - дочь одного из героев-Панфиловцев специально для Проекта «Пойдём с нами» расскажет историю своей семьи.",
+      "url": "https://cosmatica.org/poster/207-proekt-poidyom-s-nami-organizuet-tropu-volokolamsk-dubosekovo.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/5/proekt-poidyom-s-nami-organizuet-tropu-volokolamsk-dubosekovo-p_f9b7761e6b80043c74ad50868bf752fe.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=24059681ccc6c79992",
+      "type": "poster-item",
+      "sourceCharacters": 856,
+      "verified": false
+    },
+    {
+      "title": "Состоялся пилотный проект \"Астропутешествие в Париж\"",
+      "description": "В рамках проекта «АстроГлобус» Астропутешествие в Париж было организовано Алевтиной Валерьевной Лещенко, членом РКО и Астроклуба «СПАГО».",
+      "url": "https://cosmatica.org/articles/206-sostojalsja-pilotnyi-proekt-astroputeshestvie-v-parizh.html",
+      "image": "https://cosmatica.org/upload/000/u26/7b/aa/123333july.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=19b1254fd9e87f44a5",
+      "type": "article",
+      "sourceCharacters": 1378,
+      "verified": false
+    },
+    {
+      "title": "Бензиномоторчик",
+      "description": "Описываемый моторчик типа ПП-4 спроектирован инженером П.В.Пылковым (Ленинград). При конструировании моторчика были учтены конструкции авиамодельных моторов США.",
+      "url": "https://cosmatica.org/library/206-benzinomotorchik.html",
+      "image": "https://cosmatica.org/upload/000/u26/8/2/benzinomotorchik-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=97602f1ca71a057cad",
+      "type": "book",
+      "sourceCharacters": 416,
+      "verified": false
+    },
+    {
+      "title": "Встреча Титанов",
+      "description": "07 октября в офисе Санкт-Петербургского отделения Русского Космического Общества (РКО) состоялась рабочая встреча Председателя Философского совета и СПб отделения РКО, Субетто Александра Ивановича и члена РКО, космонавта, Героя России, Авдеева Сергея Васильевича.",
+      "url": "https://cosmatica.org/news/206-vstrecha-titanov.html",
+      "image": "https://cosmatica.org/upload/000/u21/20/28/26917d21.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ed3607225e394182e8",
+      "type": "news-item",
+      "sourceCharacters": 1205,
+      "verified": false
+    },
+    {
+      "title": "Соревнования по джиу-джитсу \"Калужский прорыв\"",
+      "description": "Соревнования по джиу-джитсу «Калужский прорыв», посвященные памяти полковника Ивана Георгиевича Старчака, среди юниоров и юниорок 1999-2001 годов рождения (до 21 года), а также мужчин и женщин 2001 года рождения и старше.",
+      "url": "https://cosmatica.org/poster/206-sorevnovanija-po-dzhiu-dzhitsu-kaluzhskii-proryv.html",
+      "image": "https://cosmatica.org/upload/001/u172/5/5/d1c2c1c2.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=044a61e498d0119fa4",
+      "type": "poster-item",
+      "sourceCharacters": 1521,
+      "verified": false
+    },
+    {
+      "title": "Всероссийское движение РКО \"Сохраняя память\"",
+      "description": "Целью движения является сохранение и увековечивание памяти о выдающихся личностях, людях известных и незаслуженно забытых, внёсших неоценимый вклад в развитие нашего Отечества, Родины и государства.",
+      "url": "https://cosmatica.org/articles/205-vserossiiskoe-dvizhenie-rko-sohranjaja-pamjat.html",
+      "image": "https://cosmatica.org/upload/000/u26/e3/48/123july.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=a8dbb2b39f74dd2295",
+      "type": "article",
+      "sourceCharacters": 1230,
+      "verified": false
+    },
+    {
+      "title": "Самодельный телевизор",
+      "description": "Мы давно привыкли каждый день пользоваться телефоном, связывающим нас с далеким собеседником. Никого из нас не удивляет возможность передачи и приема по радио речи, пения, музыки, но далеко не все представляют себе, как происходит эта передача. Благодаря этой книге, вы не только разберетесь в вопросах радиоволн, но и сможете попробовать собрать собственный телевизор. Самодельный телевизор / Б. Шефер.- M. : Детиздат Ц",
+      "url": "https://cosmatica.org/library/205-samodelnyi-televizor.html",
+      "image": "https://cosmatica.org/upload/000/u26/3/0/samodelnyi-televizor-1937g-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ffd0a54ca8e0c3e4cf",
+      "type": "book",
+      "sourceCharacters": 484,
+      "verified": false
+    },
+    {
+      "title": "Приглашаем на открытие выставки Иветты Ки!",
+      "description": "г. Москва, Выставочный зал «Тушино», 5 -21 октября 2018 г.",
+      "url": "https://cosmatica.org/news/205-priglashaem-na-otkrytie-vystavki-ivetty-ki.html",
+      "image": "https://cosmatica.org/upload/000/u26/7e/43/c41ad7e5.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ac6316bdc1ec3e48b0",
+      "type": "news-item",
+      "sourceCharacters": 2583,
+      "verified": false
+    },
+    {
+      "title": "VIII студенческий благотворительный фестиваль \"От сердца к сердцу\"",
+      "description": "Среди многообразия площадок фестиваля рекомендуем обратить внимание на площадку \"Научную\" - там в 15:30 сопредседатель Молодежного Совета Русского Космического Общества Денис Олегович Прудник проведёт \"Космическую викторину\".",
+      "url": "https://cosmatica.org/poster/205-viii-studencheskii-blagotvoritelnyi-festival-ot-serdca-k-serdcu.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/b/viii-studencheskii-blagotvoritelnyi-festival-ot-serdca-k-serdc.jpeg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=b2fbd703607bf53db5",
+      "type": "poster-item",
+      "sourceCharacters": 858,
+      "verified": false
+    },
+    {
+      "title": "Продолжение издательской деятельности",
+      "description": "Издано новое учебное пособие: «Научная экспертиза проектов устойчивого развития сложных систем».",
+      "url": "https://cosmatica.org/articles/204-prodolzhenie-izdatelskoi-dejatelnosti.html",
+      "image": "https://cosmatica.org/upload/000/u26/7d/c0/rovsprchspr.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=d7042919eda6e89bcf",
+      "type": "article",
+      "sourceCharacters": 4032,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

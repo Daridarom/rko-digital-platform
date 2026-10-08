@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/72",
+  "title": "Наталья Владимировна Попова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/84/e9/570be529.jpg",
+      "alt": "Наталья Владимировна Попова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 3"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/2a/82/7f618454.jpg",
+      "alt": "Наталья Владимировна Попова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "МОБУ «Русская школа», учитель начальных классов",
+      "spans": [
+        {
+          "text": "МОБУ «Русская школа», учитель начальных классов"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "советник РАЕН, член секции «Системономия» Научно-образовательного совета РКО",
+      "spans": [
+        {
+          "text": "советник РАЕН, член секции «Системономия» Научно-образовательного совета РКО"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "МОБУ «Русская школа», учитель начальных классов советник РАЕН, член секции «Системономия» Научно-образовательного совета РКО",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/84/e9/570be529.jpg",
+    "https://cosmatica.org/upload/000/u8/2a/82/7f618454.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 223,
+    "storedTextCharacters": 172,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36142
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 152,
+  "capturedBodyCharacters": 172,
+  "sourceTextSHA256": "58a3ac10565a59f75c770b40f93c5f2e7daf941dcde6b3725853cffc7f514b7b",
+  "archiveSnapshotAt": "2026-10-08T09:21:54Z"
+}

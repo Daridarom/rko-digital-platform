@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 299,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Интерактивные школьные космические пространства",
+      "description": "Данный проект подразумевает создание на базе общеобразовательных учреждений РФ интерактивных школьных космических пространств , которые знакомят учащихся с историей развития космонавтики в нашей стране. Само пространство представляет из себя набор тематических плакатов по космической тематике .",
+      "url": "https://cosmatica.org/projects/spacemuseum",
+      "image": "https://cosmatica.org/upload/000/u35/5/6/shkolnyi-kosmicheskii-muzei-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=065b1ede5083816deb",
+      "type": "project",
+      "sourceCharacters": 1553,
+      "verified": false
+    },
+    {
+      "title": "Съезд семей \"Семья Отечества\"",
+      "description": "Главным национальным достоянием России является полная многодетная семья. Высшим национальным приоритетом – сбережение и преумножение народа России. 15 января 2020 года в своём послании Федеральному собранию Президент Российской Федерации В.В. Путин уделил этому государственному приоритету особое внимание: « Судьба России, её историческая перспектива зависит от того, сколько нас будет, сколько детей родится в российс",
+      "url": "https://cosmatica.org/projects/sso",
+      "image": "https://cosmatica.org/upload/002/u218/1/7/sezd-semei-semja-otechestva-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=406c7b850f9b772de5",
+      "type": "project",
+      "sourceCharacters": 6089,
+      "verified": false
+    },
+    {
+      "title": "Издание книги \"Становление ноосферного образовательного пространства\".",
+      "description": "Становление ноосферного образовательного пространства",
+      "url": "https://cosmatica.org/projects/stanovlenie-noosferno-obrazovatelnogo-prostranstva",
+      "image": "https://cosmatica.org/upload/001/u165/7b/7b/izdanie-knigi-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=d57ff139524ccefdcc",
+      "type": "project",
+      "sourceCharacters": 9762,
+      "verified": false
+    },
+    {
+      "title": "Столица",
+      "description": "Вашему вниманию представлен проект природосообразной жизни «Столица», совместная реализация которого позволит во многом исключить причины социально-деструктивных процессов в молодёжной среде.",
+      "url": "https://cosmatica.org/projects/stolitsa",
+      "image": "https://cosmatica.org/upload/000/u35/b/e/stolica-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b32644333e8d2dba7f",
+      "type": "project",
+      "sourceCharacters": 9480,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль \"Страж в истоке невы\"",
+      "description": "14 и 15 июля в крепости Орешек в рамках фестиваля «Страж в истоке Невы» на площадке Санкт-Петербургского отделения Русского Космического Общества распахнётся для гостей космический шатёр Звездочёта.",
+      "url": "https://cosmatica.org/projects/strazh-v-istoke-nevy",
+      "image": "https://cosmatica.org/upload/000/u21/19/3c/festival-strazh-v-istoke-nevy-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=679f752028a6bda68f",
+      "type": "project",
+      "sourceCharacters": 1475,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль \"Сундуки - Храм Солнца\"",
+      "description": "В рамках фестиваля «Сундуки — Храм Солнца» 22-23 июня 2018г. в Хакасии будет работать площадка Русского Космического Общества.",
+      "url": "https://cosmatica.org/projects/sunduky-hram-solnca",
+      "image": "https://cosmatica.org/upload/000/u43/49/79/88be38f1.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=51de1a423f186390d7",
+      "type": "project",
+      "sourceCharacters": 1540,
+      "verified": false
+    },
+    {
+      "title": "Фонд \"Светославъ\"",
+      "description": "Фонд содействия сохранению и развитию историко-культурных и духовно-нравственных основ Русской цивилизации – «Светославъ» создан в 2014 году.",
+      "url": "https://cosmatica.org/projects/svetoslav",
+      "image": "https://cosmatica.org/upload/000/u35/e/3/fond-svetoslav-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=0744ee7fcb2baf02cb",
+      "type": "project",
+      "sourceCharacters": 2450,
+      "verified": false
+    },
+    {
+      "title": "«Талант, согревающий добром»",
+      "description": "Русское Космическое Общество стало соорганизатором Национального детско-юношеского конкурса поэтов-песенников «Талант, согревающий добром» и внесло предложение об учреждении отдельной номинации Конкурса – Лучшая литературная основа для песни на космическую тему.",
+      "url": "https://cosmatica.org/projects/talant",
+      "image": "https://cosmatica.org/upload/000/u26/f0/e8/7d8ec4ba.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b792c9ad1c511c332d",
+      "type": "project",
+      "sourceCharacters": 1909,
+      "verified": false
+    },
+    {
+      "title": "Техно-фестиваль в Калуге",
+      "description": "Учредитель Техно-фестиваля — Управление образования города Калуги.",
+      "url": "https://cosmatica.org/projects/tehno-festival-kaluga",
+      "image": "https://cosmatica.org/upload/001/u172/5/c/tehno-festival-v-kaluge-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=bd58da6099e07b645e",
+      "type": "project",
+      "sourceCharacters": 3807,
+      "verified": false
+    },
+    {
+      "title": "Трезвость - основа устойчивого развития Жизни",
+      "description": "Проект Русского Космического Общества «Трезвость — основа устойчивого развития Жизни» реализуется в рамках деятельности Совета физической культуры и спорта и направлен на содействие продвижению в обществе культуры трезвой, здоровой жизни, где спорт и физическое развитие тела являются такой же неотъемлемой частью, как и интеллектуальное и духовное развитие личности.",
+      "url": "https://cosmatica.org/projects/trezvost-osnova",
+      "image": "https://cosmatica.org/upload/000/u26/7d/da/trezvost-osnova-ustoichivogo-razvitija-zhizni-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=fee8b867a0a2bcda1c",
+      "type": "project",
+      "sourceCharacters": 1870,
+      "verified": false
+    },
+    {
+      "title": "Триединство космичного прорыва человечества",
+      "description": "космичная философия – космичное право – космичная деятельность",
+      "url": "https://cosmatica.org/projects/triedinstvo2026",
+      "image": "https://cosmatica.org/upload/002/u218/8/4/triedinstvo-kosmichnogo-proryva-chelovechestva-logo-normal.png",
+      "kind": "project",
+      "href": "view.html?p=project&ref=6945b71e1b445ac9b8",
+      "type": "project",
+      "sourceCharacters": 7242,
+      "verified": false
+    },
+    {
+      "title": "Тропа Мужества",
+      "description": "Русское Космическое Общество стоит за то, чтобы возродить мечту о Космосе и Человеке с большой буквы.",
+      "url": "https://cosmatica.org/projects/tropa-muzhestva",
+      "image": "https://cosmatica.org/upload/000/u26/c1/b6/tropa-muzhestva-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b52057356ede74a57e",
+      "type": "project",
+      "sourceCharacters": 6443,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль инженерно-технического творчества «Юный техник».",
+      "description": "Цели и задачи фестиваля: популяризация инновационных технологий и инновационной деятельности на территории Псковской области, популяризация дополнительного инженерно-технического образования и информирование жителей города об имеющихся на территории Пскова организаций дополнительного образования, выявление и поддержка талантливой молодёжи, проявляющей интерес к сфере высоких технологий, реализация ими своих потенциал",
+      "url": "https://cosmatica.org/projects/uniy-tehnik",
+      "image": "https://cosmatica.org/upload/000/u35/7/a/festival-inzhenerno-tehnicheskogo-tvorchestva-yunyi-tehnik-logo.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=34f1ee4f764143bf76",
+      "type": "project",
+      "sourceCharacters": 2726,
+      "verified": false
+    },
+    {
+      "title": "Юнкор - 2023",
+      "description": "IV Открытый международный конкурс юных корреспондентов «ЮНКОР-2023",
+      "url": "https://cosmatica.org/projects/unkor2023",
+      "image": "https://cosmatica.org/upload/002/u218/f/3/yunkor-2023-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=901d304a8e4e2a3960",
+      "type": "project",
+      "sourceCharacters": 6612,
+      "verified": false
+    },
+    {
+      "title": "Всероссийский конкурс эссе: \"Устойчивое развитие - это просто, если...\".",
+      "description": "Цель конкурса: Пробудить и объединить созидательный потенциал абитуриентов для преодоления социальных и экономических кризисов, активизировать способность к творчеству и познавательный интерес выпускников-бакалавров в области обеспечения проектирования и управления устойчивым инновационным развитием и модернизацией страны, повышение мотивации к обучению в магистратуре в России.",
+      "url": "https://cosmatica.org/projects/ustoichivoe-razvitie-prosto-esly",
+      "image": "https://cosmatica.org/upload/000/u26/28/7b/vserossiiskii-konkurs-esse-ustoichivoe-razvitie-eto-prosto-e.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=a0f89b92bb1610aae6",
+      "type": "project",
+      "sourceCharacters": 2804,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

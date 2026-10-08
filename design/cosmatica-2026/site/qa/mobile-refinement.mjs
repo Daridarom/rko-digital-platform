@@ -36,7 +36,7 @@ async function verify(slug,width,height){
     catalogCount:document.querySelectorAll('.source-card').length,
     searchLists:document.querySelectorAll('.search-section .shell > .grid').length,
     totalSearchCards:document.querySelectorAll('.search-grid .card').length,
-    externalLinks:[...document.querySelectorAll('a[href]')].filter(a=>new URL(a.href).origin!==location.origin).length};
+    externalLinks:[...document.querySelectorAll('a[href]')].filter(a=>new URL(a.href).origin!==location.origin).filter(a=>!(a.dataset.originalDownload==='cosmatica'&&/^https:\/\/cosmatica\.org\/files\/download\/\d+\/[a-f0-9]+$/i.test(a.href))).filter(a=>!(a.dataset.contentExternal==='true'&&a.href.startsWith('https://')&&a.target==='_blank'&&a.rel.includes('noopener'))).length};
   });
   assert(x.heading,slug+' missing heading');
   assert(x.scroll-x.window<=3,slug+'/'+width+' horizontal overflow '+JSON.stringify(x));

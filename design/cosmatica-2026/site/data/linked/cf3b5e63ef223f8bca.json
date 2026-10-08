@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/332-missija-na-mars-kosmicheskie-korabli-i-teleskopy-kak-razvivaetsja-rossiiskaja-kosmonavtika.html",
+  "title": "\"Миссия на Марс, космические корабли и телескопы: как развивается российская космонавтика\" #Профориентационно-образовательный проект \"МЫ ВЕРИМ В КОСМОС\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/0/missija-na-mars-kosmicheskie-korabli-i-teleskopy-kak-razvivaets.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Друзья, в связи с усложнением эпидемиологической обстановки лекция перенесена в онлайн-формат.",
+      "spans": [
+        {
+          "text": "  Друзья, в связи с усложнением эпидемиологической обстановки "
+        },
+        {
+          "text": "лекция перенесена в онлайн-формат. ",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Л екция пройдет в формате прямого эфира в нашем инстаграме: https://www.instagram.com/svetlovka/",
+      "spans": [
+        {
+          "text": " "
+        },
+        {
+          "text": "Лекция пройдет в формате прямого эфира в нашем инстаграме:",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "https://www.instagram.com/svetlovka/",
+          "href": "https://www.instagram.com/svetlovka/"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://www.instagram.com/svetlovka/",
+          "url": "https://www.instagram.com/svetlovka/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Светловка (Центральная городская молодёжная библиотека им. М.А. Светлова) приглашает на космическую лекцию, которая приурочена ко Всемирной неделе космоса. Сегодня наша страна — один из важнейших представителей космической индустрии. Помимо отправки людей в космос, российские инженеры и учёные активно исследуют Солнечную систему, физиологию человека и другие важные вещи, без которых невозможно развитие космической отрасли. Среди интересных проектов и новый космический корабль, и телескопы для исследования Вселенной, и миссии на Марс и Луну.",
+      "spans": [
+        {
+          "text": " "
+        },
+        {
+          "text": "Светловка",
+          "href": "https://www.svetlovka.ru/about/"
+        },
+        {
+          "text": " (Центральная городская молодёжная библиотека им. М.А. Светлова) приглашает на космическую лекцию, которая приурочена ко  Всемирной неделе космоса. Сегодня наша страна — один из важнейших представителей космической индустрии. Помимо отправки людей в космос,  российские инженеры и учёные активно исследуют Солнечную систему,  физиологию человека и другие важные вещи, без которых невозможно   "
+        },
+        {
+          "text": "развитие",
+          "href": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "text": " космической отрасли. Среди интересных проектов и новый  космический корабль, и телескопы для исследования Вселенной, и миссии на  Марс и Луну. "
+        }
+      ],
+      "links": [
+        {
+          "text": "Светловка",
+          "url": "https://www.svetlovka.ru/about/"
+        },
+        {
+          "text": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На лекции гости Светловки узнают об этих и других важнейших проектах современной отечественной космонавтики и смогут задать любой вопрос лектору. Лекция понравится и детям, и взрослым, которым интересна космонавтика.",
+      "spans": [
+        {
+          "text": "На лекции гости Светловки узнают об этих и других  важнейших проектах современной отечественной космонавтики и смогут  задать любой вопрос лектору. Лекция понравится и детям, и взрослым,  которым интересна космонавтика. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Лектор: Денис Олегович Прудник – основатель профориентационно-образовательного проекта мыверимвкосмос.рф, председатель Молодёжного совета Русского Космического Общества, аспирант МАИ. Лектор, популяризатор космонавтики. Участник отбора в отряд космонавтов.",
+      "spans": [
+        {
+          "text": " \t Лектор: "
+        },
+        {
+          "text": "Денис Олегович Прудник",
+          "href": "https://cosmatica.org/users/120"
+        },
+        {
+          "text": " – основатель  профориентационно-образовательного проекта мыверимвкосмос.рф, председатель Молодёжного совета Русского  Космического Общества, аспирант МАИ. Лектор, популяризатор космонавтики.  Участник отбора в отряд космонавтов."
+        }
+      ],
+      "links": [
+        {
+          "text": "Денис Олегович Прудник",
+          "url": "https://cosmatica.org/users/120"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Регистрация: https://www.svetlovka.ru/events/other/missiya-na-m...",
+      "spans": [
+        {
+          "text": "Регистрация: "
+        },
+        {
+          "text": "https://www.svetlovka.ru/events/other/missiya-na-m...",
+          "href": "https://www.svetlovka.ru/events/other/missiya-na-mars-kosmicheskie-korabli-i-teleskopy-kak-razvivaetsya-rossiyskaya-kosmonavtika/"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://www.svetlovka.ru/events/other/missiya-na-m...",
+          "url": "https://www.svetlovka.ru/events/other/missiya-na-mars-kosmicheskie-korabli-i-teleskopy-kak-razvivaetsya-rossiyskaya-kosmonavtika/"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Друзья, в связи с усложнением эпидемиологической обстановки лекция перенесена в онлайн-формат. Л екция пройдет в формате прямого эфира в нашем инстаграме: https://www.instagram.com/svetlovka/ Светловка (Центральная городская молодёжная библиотека им. М.А. Светлова) приглашает на космическую лекцию, которая приурочена ко Всемирной неделе космоса. Сегодня наша страна — один из важнейших представителей космической индустрии. Помимо отправки людей в космос, российские инженеры и учёные активно исследуют Солнечную систему, физиологию человека и другие важные вещи, без которых невозможно развитие космической отрасли. Среди интересных проектов и новый космический корабль, и телескопы для исследования Вселенной, и миссии на Марс и Луну. На лекции гости Светловки узнают об этих и других важнейших проектах современной отечественной космонавтики и смогут задать любой вопрос лектору. Лекция понравится и детям, и взрослым, которым интересна космонавтика. Лектор: Денис Олегович Прудник – основатель профориентационно-образовательного проекта мыверимвкосмос.рф, председатель Молодёжного совета Русского Космического Общества, аспирант МАИ. Лектор, популяризатор космонавтики. Участник отбора в отряд космонавтов. Регистрация: https://www.svetlovka.ru/events/other/missiya-na-m...",
+      "links": [
+        {
+          "title": "https://www.instagram.com/svetlovka/",
+          "url": "https://www.instagram.com/svetlovka/"
+        },
+        {
+          "title": "Светловка",
+          "url": "https://www.svetlovka.ru/about/"
+        },
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "title": "Денис Олегович Прудник",
+          "url": "https://cosmatica.org/users/120"
+        },
+        {
+          "title": "https://www.svetlovka.ru/events/other/missiya-na-m...",
+          "url": "https://www.svetlovka.ru/events/other/missiya-na-mars-kosmicheskie-korabli-i-teleskopy-kak-razvivaetsya-rossiyskaya-kosmonavtika/"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/f/0/missija-na-mars-kosmicheskie-korabli-i-teleskopy-kak-razvivaets.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1529,
+    "storedTextCharacters": 1274,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 6,
+    "sourceBytes": 41647
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 1529,
+  "capturedBodyCharacters": 1274,
+  "sourceTextSHA256": "88bb4e3ae8c0af5744879c53f0e166ef9377a397142eb0fd9ba49df6e87e8f47",
+  "archiveSnapshotAt": "2026-10-08T09:15:55Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "library",
+  "title": "Библиотека",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 30,
+  "pageCount": 34,
+  "total": 510,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Г.М. Мутанов - Инновации: создание и развитие",
+      "description": "Книга посвящена проблемам создания и развития инноваций в современной экономике. На основе анализа отечественного и зарубежного опыта представлено современное видение инновационных процессов - от генерации идеи до воплощения коммерческих продуктов в практику. Книга рассчитана на специалистов в области инноваций, экономики, технологий. Может быть полезна студентам, аспирантам и преподавателям вузов.",
+      "url": "https://cosmatica.org/library/75-g-m-mutanov-innovacii-sozdanie-i-razvitie.html",
+      "image": "https://cosmatica.org/upload/000/u1/49/5b/g-m-mutanov-innovacii-sozdanie-i-razvitie-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=3c5e735641a5fcc664",
+      "type": "book",
+      "sourceCharacters": 420,
+      "verified": false
+    },
+    {
+      "title": "Н.А. Искаков - Устойчивое развитие: прорывные идеи и технологии",
+      "description": "Монография посвящена интеграции науки и практики в решении сложных проблем формирования и реализации механизмов стратегии устойчивого развития страны, что особенно актуально в условиях мирового системного кризиса. Посткризисное",
+      "url": "https://cosmatica.org/library/74-n-a-iskakov-ustoichivoe-razvitie-proryvnye-idei-i-tehnologii.html",
+      "image": "https://cosmatica.org/upload/000/u1/94/01/n-a-iskakov-ustoichivoe-razvitie-proryvnye-idei-i-tehnologii.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=fd1cd99e572dd46a47",
+      "type": "book",
+      "sourceCharacters": 1907,
+      "verified": false
+    },
+    {
+      "title": "С.А. Подолинский - Труд человека и его отношение к распределению энергии",
+      "description": "Труд человека и тех животных, к действиям которых приложимо понятие о труде, есть один из многочисленных видов проявления общей мировой энергии. Как ни разнообразны и сбивчивы в настоящее",
+      "url": "https://cosmatica.org/library/72-s-a-podolinskii-trud-cheloveka-i-ego-otnoshenie-k-raspredeleniyu-energii.html",
+      "image": "https://cosmatica.org/upload/000/u1/d9/b0/s-a-podolinskii-trud-cheloveka-i-ego-otnoshenie-k-raspredeleniyu.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=dcba7155a0be168496",
+      "type": "book",
+      "sourceCharacters": 746,
+      "verified": false
+    },
+    {
+      "title": "А.Д. Нечволодов - От разорения к достатку",
+      "description": "Предлагаемый труд основан на ряде общеизве- стных цифр. Сказанные вместе, цифры эти проливают яркий свет на главнейшую причину наших современных бедствий. Они показывают также, в чем заключается тай- на могущества всемирных ростовщиков, как ис- куссно опутавших своими невидимыми сетями все трудящееся человечество. Наконец, цифры же эти указывают нам и путь для перехода от современного общего разорения к достатку в бу",
+      "url": "https://cosmatica.org/library/71-a-d-nechvolodov-ot-razorenija-k-dostatku.html",
+      "image": "https://cosmatica.org/upload/000/u1/94/02/a-d-nechvolodov-ot-razorenija-k-dostatku-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=1607574106cb4c3be0",
+      "type": "book",
+      "sourceCharacters": 445,
+      "verified": false
+    },
+    {
+      "title": "Ларуш Л. - Физическая экономика",
+      "description": "Физическая экономика как платоновская эпистемологическая основа всех отраслей человеческого знания Линдон Ларуш -- американский экономист и политик, снискавший своими научными трудами и активной общественной деятельностью признание крупнейшего мыслителя современности, бескомпромиссного ученого, талантливого оратора и педагога с мировым именем. Данная книга содержит результаты его многолетних научных исследований в об",
+      "url": "https://cosmatica.org/library/70-larush-l-fizicheskaja-ekonomika.html",
+      "image": "https://cosmatica.org/upload/000/u1/b9/cb/larush-l-fizicheskaja-ekonomika-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=287c23e7fe7c38e696",
+      "type": "book",
+      "sourceCharacters": 501,
+      "verified": false
+    },
+    {
+      "title": "А.Е Арменский., С.Э. Кочубей ., М.П. Любимов ., С.О. Травин., В.В. Устюгов - Экономика суверенной де",
+      "description": "Опубликованная в 1995 году статья Михаила Петровича Любимова Операция Голгофа - генерала КГБ наделала много шума в обществе. Многие задавались вопросом: да неужели, правда? Задавались этим вопросом и после того, как автор опубликовал опровержение и признался, что это был его литературный вымысел. А почему бы и нет. Почему бы не иметь права на существование столь дьявольскому замыслу по отношению к своему народу? Ведь",
+      "url": "https://cosmatica.org/library/69-a-e-armenskii-s-e-kochubei-m-p-lyubimov-s-o-travin-v-v-ustyugov-ekonomika-suverennoi-de.html",
+      "image": "https://cosmatica.org/upload/000/u1/2a/df/a-e-armenskii-s-e-kochubei-m-p-lyubimov-s-o-travin-v.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=0d20925e0a9fd68481",
+      "type": "book",
+      "sourceCharacters": 3161,
+      "verified": false
+    },
+    {
+      "title": "А.Е., Арменский, С.Э. Кочубей , В.В. Устюгов - Экономика устойчивого развития: прорывные идеи и тех",
+      "description": "А.Е.Арменский, С.Э.Кочубей, В.В.Устюгов Экономика устойчивого развития: прорывные идеи и технологии Структура монографии Введение. 1. Современное",
+      "url": "https://cosmatica.org/library/68-a-e-armenskii-s-e-kochubei-v-v-ustyugov-ekonomika-ustoichivogo-razvitija-proryvnye-idei-i-teh.html",
+      "image": "https://cosmatica.org/upload/000/u1/92/0c/a-e-armenskii-s-e-kochubei-v-v-ustyugov-ekonomika-ustoich.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=29bbfe72fc747232ac",
+      "type": "book",
+      "sourceCharacters": 1628,
+      "verified": false
+    },
+    {
+      "title": "А.А. Кудряшева - Человечество, живой мир и среда обитания",
+      "description": "В глобальной иерархии международной и государственной деятельности решение экологических и продовольственных проблем занимает одно из первых мест из-за создавшихся кри- тических ситуаций во многих регионах мира. Наряду с решени- ем этих важнейших проблем ООН и ряд других организаций прилагают большие усилия по ликвидации голода, хроническо- го недоедания и недостаточной обеспеченности организма че- ловека незаменимым",
+      "url": "https://cosmatica.org/library/66-a-a-kudrjasheva-chelovechestvo-zhivoi-mir-i-sreda-obitanija.html",
+      "image": "https://cosmatica.org/upload/000/u1/51/b0/a-a-kudrjasheva-chelovechestvo-zhivoi-mir-i-sreda-obitanija-photo.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=104512e8e19809ead5",
+      "type": "book",
+      "sourceCharacters": 1684,
+      "verified": false
+    },
+    {
+      "title": "Н.А.Искаков - Устойчивое развитие: наука и практика",
+      "description": "Монография посвящена интеграции науки и практики в решении проблемы перехода к устойчивому развитию общества во взаимодействии с окружающей человека природной средой. Обсуждение проблемы базируется на мировом опыте и национальном опыте Казахстана. Впервые излагается обобщение научных исследований в области интеграции мировоззре- ния, теории, методологии, технологии и проектного управления устойчивым развитием. Обсуж-",
+      "url": "https://cosmatica.org/library/65-n-a-iskakov-ustoichivoe-razvitie-nauka-i-praktika.html",
+      "image": "https://cosmatica.org/upload/000/u1/1e/57/n-a-iskakov-ustoichivoe-razvitie-nauka-i-praktika-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ed2d93d57093dd7ed0",
+      "type": "book",
+      "sourceCharacters": 1081,
+      "verified": false
+    },
+    {
+      "title": "Крон Г. - Тензорный анализ сетей часть 2",
+      "description": "",
+      "url": "https://cosmatica.org/library/63-kron-g-tenzornyi-analiz-setei-chast-2.html",
+      "image": "https://cosmatica.org/upload/000/u1/27/c7/kron-g-tenzornyi-analiz-setei-chast-2-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=419f50ee6d8c7655db",
+      "type": "book",
+      "sourceCharacters": 19,
+      "verified": false
+    },
+    {
+      "title": "Крон Г. - Тензорный анализ сетей часть 1",
+      "description": "Книга представляет собой классически труд, в которой заложен фундамент системотехники, автоматизации проектирования, кибернетик и др. Термин «",
+      "url": "https://cosmatica.org/library/62-kron-g-tenzornyi-analiz-setei-chast-1.html",
+      "image": "https://cosmatica.org/upload/000/u1/c1/8a/kron-g-tenzornyi-analiz-setei-chast-1-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=fdf99d06a6d2ec9edb",
+      "type": "book",
+      "sourceCharacters": 607,
+      "verified": false
+    },
+    {
+      "title": "А.Е.Петров - Тензорный метод двойственных систем",
+      "description": "Изложены методологические, научные, математические основы тензорного метода двойственных сетей, который обеспечивает моделирование, расчет и анализ поведения сложных технических и социально-экономических систем с переменной структурой. Математической основой является",
+      "url": "https://cosmatica.org/library/61-a-e-petrov-tenzornyi-metod-dvoistvennyh-sistem.html",
+      "image": "https://cosmatica.org/upload/000/u1/22/04/a-e-petrov-tenzornyi-metod-dvoistvennyh-sistem-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=bccf7fb2e2479341ab",
+      "type": "book",
+      "sourceCharacters": 2472,
+      "verified": false
+    },
+    {
+      "title": "Б.Е.Большаков - Проектное управление устойчивым инновационным развитием",
+      "description": "В учебном пособии излагаются основы теории, методологии и",
+      "url": "https://cosmatica.org/library/60-b-e-bolshakov-proektnoe-upravlenie-ustoichivym-innovacionnym-razvitiem.html",
+      "image": "https://cosmatica.org/upload/000/u1/21/b8/b-e-bolshakov-proektnoe-upravlenie-ustoichivym-innovacionnym-ra.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=cc31de325c3eec19fd",
+      "type": "book",
+      "sourceCharacters": 1824,
+      "verified": false
+    },
+    {
+      "title": "И.И.Гвай - О малоизвестной гипотезе Циолковского",
+      "description": "Константин Эдуардович Циолковский, основоположник многих работ в ракетостроении и авиации, оставил наследие и в такой труднодоступной области познаний, как всеобщий круговорот энергии. Значительная часть этих работ до сего времени не опубликована. Данная книга имеет цель восполнить этот пробел. Автор её кандидат технических наук И.И. Гвай взял на себя труд привлечь внимание общественности к малоизвестной гипотезе Цио",
+      "url": "https://cosmatica.org/library/56-i-i-gvai-o-maloizvestnoi-gipoteze-ciolkovskogo.html",
+      "image": "https://cosmatica.org/upload/000/u1/44/b0/i-i-gvai-o-maloizvestnoi-gipoteze-ciolkovskogo-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=c21fc9cf3cb6c6b9c9",
+      "type": "book",
+      "sourceCharacters": 449,
+      "verified": false
+    },
+    {
+      "title": "Кузнецов О.Л., Большаков Б.Е. - Мировоззрение устойчивого развития",
+      "description": "научных знаний о системе «природа — общество — человек»,",
+      "url": "https://cosmatica.org/library/55-kuznecov-o-l-bolshakov-b-e-mirovozzrenie-ustoichivogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u1/b7/c6/kuznecov-o-l-bolshakov-b-e-mirovozzrenie-ustoichivogo-razvit.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=f485471cea22fb6425",
+      "type": "book",
+      "sourceCharacters": 2275,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/179",
+  "title": "Светлана Леонидовна Милютина",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/1/6/f9afe4c3.jpg",
+      "alt": "Светлана Леонидовна Милютина"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/3/6/a16be0b2.jpg",
+      "alt": "Светлана Леонидовна Милютина"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Директор МБОУДО «Центр развития творчества детей и юношества „Созвездие“ г. Калуга",
+      "spans": [
+        {
+          "text": "Директор МБОУДО «Центр развития творчества детей и юношества „Созвездие“ г. Калуга"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Калужская область",
+      "links": [
+        {
+          "title": "Калужская область",
+          "url": "https://cosmatica.org/departments/11-kaluzhskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Директор МБОУДО «Центр развития творчества детей и юношества „Созвездие“ г. Калуга",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/1/6/f9afe4c3.jpg",
+    "https://cosmatica.org/upload/000/u26/3/6/a16be0b2.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 175,
+    "storedTextCharacters": 115,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35025
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 121,
+  "capturedBodyCharacters": 115,
+  "sourceTextSHA256": "2165d6913811df78d0f31b8851363a828e1be885751a7e0f3349e805804b234c",
+  "archiveSnapshotAt": "2026-10-08T09:18:18Z"
+}

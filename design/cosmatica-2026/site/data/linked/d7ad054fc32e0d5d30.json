@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/66",
+  "title": "Наталия Александровна Загустина",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/3/8/0f8893d2.jpg",
+      "alt": "Наталия Александровна Загустина"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/a/09c2715a.jpg",
+      "alt": "Наталия Александровна Загустина"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "ООО «НПЦ» Потенциал\", Генеральный директор.",
+      "spans": [
+        {
+          "text": "ООО «НПЦ» Потенциал\", Генеральный директор."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Биофизик, разработчик суперсовременного метода диагностики «КСИ-метод»",
+      "spans": [
+        {
+          "text": "Биофизик, разработчик суперсовременного метода диагностики «КСИ-метод»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Санкт-Петербург",
+      "links": [
+        {
+          "title": "Санкт-Петербург",
+          "url": "https://cosmatica.org/departments/9-sankt-peterburg.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "ООО «НПЦ» Потенциал\", Генеральный директор. Биофизик, разработчик суперсовременного метода диагностики «КСИ-метод»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/3/8/0f8893d2.jpg",
+    "https://cosmatica.org/upload/000/u35/1/a/09c2715a.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 208,
+    "storedTextCharacters": 146,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35180
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 151,
+  "capturedBodyCharacters": 146,
+  "sourceTextSHA256": "dbff1fc8449ee269ff31045bd9fb013798cbdd2de28526c95ddff6fdfbcd7485",
+  "archiveSnapshotAt": "2026-10-08T09:21:40Z"
+}

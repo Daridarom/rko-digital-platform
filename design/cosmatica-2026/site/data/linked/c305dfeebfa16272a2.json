@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/7",
+  "title": "Алексей Алексеевич Гапонов. Аркон.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/5/b12f65ad.jpg",
+      "alt": "Алексей Алексеевич Гапонов. Аркон."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 122"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/1/8/eb3e6bcf.jpg",
+      "alt": "Алексей Алексеевич Гапонов. Аркон."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 90"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад",
+        "По приглашению: Шабанов Павел Алексеевич"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Президент МОО «Русское Космическое Общество».",
+      "spans": [
+        {
+          "text": "Президент МОО «Русское Космическое Общество»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Вице-президент фонда русской цивилизации «Светославъ».",
+      "spans": [
+        {
+          "text": "Вице-президент фонда русской цивилизации «Светославъ»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Участник СВО. Награждён медалью «За отвагу».",
+      "spans": [
+        {
+          "text": "Участник СВО. Награждён медалью «За отвагу»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Контакты: gaponov@cosmatica.org",
+      "spans": [
+        {
+          "text": "Контакты: gaponov@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Многодетность:",
+      "value": "Да",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Президент МОО «Русское Космическое Общество». Вице-президент фонда русской цивилизации «Светославъ». Участник СВО. Награждён медалью «За отвагу». Контакты: gaponov@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/5/b12f65ad.jpg",
+    "https://cosmatica.org/upload/002/u218/1/8/eb3e6bcf.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 357,
+    "storedTextCharacters": 277,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 37565
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 223,
+  "capturedBodyCharacters": 277,
+  "sourceTextSHA256": "4f8dda50e1ce80707abc9e264e588959e33dfef3daea4b4042f8fad1032e1b97",
+  "archiveSnapshotAt": "2026-10-08T09:21:50Z"
+}

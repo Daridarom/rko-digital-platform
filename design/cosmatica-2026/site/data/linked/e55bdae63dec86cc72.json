@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/232",
+  "title": "Георгий Хохлов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/4/ae75e7be.jpg",
+      "alt": "Георгий  Хохлов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/8/b/e5bcb045.jpg",
+      "alt": "Георгий  Хохлов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Санкт-Петербург",
+      "links": [
+        {
+          "title": "Санкт-Петербург",
+          "url": "https://cosmatica.org/departments/9-sankt-peterburg.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/1/4/ae75e7be.jpg",
+    "https://cosmatica.org/upload/000/u35/8/b/e5bcb045.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 66,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 33908
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 26,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "7fc38663ccc8a78aae0bcf41d62c1b1798e910256214e8d0f02f4506adc13ea8",
+  "archiveSnapshotAt": "2026-10-08T09:18:42Z"
+}

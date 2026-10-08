@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/528-proekt-nasha-vselennaja.html",
+  "title": "Проект \"Наша Вселенная\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#«Наша Вселенная»",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u64/8/a/proekt-nasha-vselennaja-photo-normal.jpg",
+      "alt": "Проект \"Наша Вселенная\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Здравствуйте, друзья! Продолжаем рассказывать о проекте. В последний месяц мы немного сместили вектор усилий, и основной упор был сделан в сторону настольной игры. Правила претерпели настолько глубокие изменения, что от прошлого дизайна неизменными остались только жетоны токенов и кубики (и это не шутка). В данный момент продолжается работа над оформлением коробки и корректурой правил, ожидаем партию фишек, кубиков и пакетов, максимальная готовность к печати пробного тиража.",
+      "spans": [
+        {
+          "text": "Здравствуйте, друзья! Продолжаем рассказывать о проекте. В последний месяц мы немного сместили вектор усилий, и основной упор был сделан в сторону настольной игры. Правила претерпели настолько глубокие изменения, что от прошлого дизайна неизменными остались только жетоны токенов и кубики (и это не шутка). В данный момент продолжается  "
+        },
+        {
+          "text": "работа",
+          "href": "https://cosmatica.org/glossary/62-rabota.html"
+        },
+        {
+          "text": " над оформлением коробки и корректурой правил, ожидаем партию фишек, кубиков и пакетов, максимальная готовность к печати пробного тиража."
+        }
+      ],
+      "links": [
+        {
+          "text": "работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "К нашей команде присоединился разработчик на Unity Валерий Скляров, и в данный момент он занят доводкой анимации космонавтов. Мы постепенно расширяем круг знакомств, информационных партнёров и просто друзей. Отечественные компании Galaktika и Лин Индастриал известны многим и в дополнительном представлении не нуждаются (а подробнее о них можно узнать на сайтах galaktika.space и spacelin.ru ). А бразильская команда Habitat Marte – это новый уровень коммуникаций, и мы выражаем огромную благодарность профессору Julio Rezende из Mars Society Brasil за проявленный к проекту интерес и отзывчивость. Подробнее о разработках проектов для поселений на Марсе и в аридных зонах Земли можно узнать на сайте www.habitatmarte.com .",
+      "spans": [
+        {
+          "text": "К нашей команде присоединился разработчик на Unity Валерий Скляров, и в данный момент он занят доводкой анимации космонавтов. Мы постепенно расширяем круг знакомств, информационных партнёров и просто друзей. Отечественные компании Galaktika и Лин Индастриал известны многим и в дополнительном представлении не нуждаются (а подробнее о них можно узнать на сайтах "
+        },
+        {
+          "text": "galaktika.space",
+          "href": "https://vk.com/away.php?to=http%3A%2F%2Fgalaktika.space&post=-122871447_11891&cc_key="
+        },
+        {
+          "text": " и "
+        },
+        {
+          "text": "spacelin.ru",
+          "href": "https://vk.com/away.php?to=http%3A%2F%2Fspacelin.ru&post=-122871447_11891&cc_key="
+        },
+        {
+          "text": "). А бразильская команда Habitat Marte – это новый уровень коммуникаций, и мы выражаем огромную благодарность профессору Julio Rezende из Mars Society Brasil за проявленный к проекту интерес и отзывчивость. Подробнее о разработках проектов для поселений на Марсе и в аридных зонах Земли можно узнать на сайте "
+        },
+        {
+          "text": "www.habitatmarte.com",
+          "href": "https://vk.com/away.php?to=http%3A%2F%2Fwww.habitatmarte.com&post=-122871447_11891&cc_key="
+        },
+        {
+          "text": "."
+        }
+      ],
+      "links": [
+        {
+          "text": "galaktika.space",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fgalaktika.space&post=-122871447_11891&cc_key="
+        },
+        {
+          "text": "spacelin.ru",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fspacelin.ru&post=-122871447_11891&cc_key="
+        },
+        {
+          "text": "www.habitatmarte.com",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fwww.habitatmarte.com&post=-122871447_11891&cc_key="
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Традиционно несколько скриншотов о текущей разработке с небольшим описанием.",
+      "spans": [
+        {
+          "text": "Традиционно несколько скриншотов о текущей разработке с небольшим описанием."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Работа в Unity и моделирование в программе Blender: Валерий Скляров и Алексей Борисов Настольная игра: Андрей Казьмиркевич, Алексей Борисов и Анастасия Кирк-Гагаринская Развитие коммуникаций с новыми партнёрами: Алексей Борисов, Анастасия Кирк-Гагаринская и Дмитрий Саяпин.",
+      "spans": [
+        {
+          "text": "Работа в Unity и моделирование в программе Blender: Валерий Скляров и "
+        },
+        {
+          "text": "Алексей Борисов",
+          "href": "https://cosmatica.org/users/64"
+        },
+        {
+          "text": " Настольная игра: Андрей Казьмиркевич, Алексей Борисов и Анастасия Кирк-Гагаринская  "
+        },
+        {
+          "text": "Развитие",
+          "href": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "text": " коммуникаций с новыми партнёрами: Алексей Борисов, Анастасия Кирк-Гагаринская и Дмитрий Саяпин."
+        }
+      ],
+      "links": [
+        {
+          "text": "Алексей Борисов",
+          "url": "https://cosmatica.org/users/64"
+        },
+        {
+          "text": "Развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ГИРД \"Планета Людей\" (Группа Инициативных Разработчиков-Добровольцев)",
+      "spans": [
+        {
+          "text": "ГИРД \"Планета Людей\" (Группа Инициативных Разработчиков-Добровольцев)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "#игра@nvru_game #космос #новости #В_космосе",
+      "spans": [
+        {
+          "text": "#игра@nvru_game",
+          "href": "https://vk.com/wall-122871447?q=%23%D0%B8%D0%B3%D1%80%D0%B0"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "#космос",
+          "href": "https://vk.com/feed?section=search&q=%23%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "#новости",
+          "href": "https://vk.com/feed?section=search&q=%23%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "#В_космосе",
+          "href": "https://vk.com/feed?section=search&q=%23%D0%92_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B5"
+        }
+      ],
+      "links": [
+        {
+          "text": "#игра@nvru_game",
+          "url": "https://vk.com/wall-122871447?q=%23%D0%B8%D0%B3%D1%80%D0%B0"
+        },
+        {
+          "text": "#космос",
+          "url": "https://vk.com/feed?section=search&q=%23%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81"
+        },
+        {
+          "text": "#новости",
+          "url": "https://vk.com/feed?section=search&q=%23%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8"
+        },
+        {
+          "text": "#В_космосе",
+          "url": "https://vk.com/feed?section=search&q=%23%D0%92_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B5"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1. К проекту присоединился разработчик на Unity Валерий Скляров. В данный момент Валерий занимается обновлением анимации космонавта.",
+      "spans": [
+        {
+          "text": "1. К проекту присоединился разработчик на Unity Валерий Скляров. В данный момент Валерий занимается обновлением анимации космонавта. "
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355161/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Несколько месяцев коммуникации и сотрудничества принесли результаты. Мы благодарны новым партнёрам по интересам за расширение возможностей проекта в настоящем и в будущем!",
+      "spans": [
+        {
+          "text": "2. Несколько месяцев коммуникации и сотрудничества принесли результаты.Мы благодарны новым партнёрам по интересам за расширение возможностей проекта в настоящем и в будущем! "
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355162/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Глобальное обновление правил и дизайна настольной версии игры.",
+      "spans": [
+        {
+          "text": "3. Глобальное обновление правил и дизайна настольной версии игры."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355163/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Жетоны игровых ресурсов, карточки Фракций. Всего в игре сейчас доступно 7 фракций.",
+      "spans": [
+        {
+          "text": "4. Жетоны игровых ресурсов, карточки Фракций. Всего в игре сейчас доступно 7 фракций."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355165/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Жетоны модулей космических аппаратов (всего в игровом комплекте 280 модулей).",
+      "spans": [
+        {
+          "text": "5. Жетоны модулей космических аппаратов (всего в игровом комплекте 280 модулей). "
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355164/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "6-7. Оформление коробки. Обновление боковых граней. На согласовании в Музее Космонавтики (Калуга).",
+      "spans": [
+        {
+          "text": "6-7. Оформление коробки. Обновление боковых граней. На согласовании в Музее Космонавтики (Калуга)."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355166/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355167/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "8-9. Продолжаем работу над кабиной марсохода. Быстро хорошо не бывает, так что ждите, будет хорошо!",
+      "spans": [
+        {
+          "text": "8-9. Продолжаем работу над кабиной марсохода. Быстро хорошо не бывает, так что ждите, будет хорошо!"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355168/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355169/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Дневник разработки за июль-август 2019",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Здравствуйте, друзья! Продолжаем рассказывать о проекте. В последний месяц мы немного сместили вектор усилий, и основной упор был сделан в сторону настольной игры. Правила претерпели настолько глубокие изменения, что от прошлого дизайна неизменными остались только жетоны токенов и кубики (и это не шутка). В данный момент продолжается работа над оформлением коробки и корректурой правил, ожидаем партию фишек, кубиков и пакетов, максимальная готовность к печати пробного тиража. К нашей команде присоединился разработчик на Unity Валерий Скляров, и в данный момент он занят доводкой анимации космонавтов. Мы постепенно расширяем круг знакомств, информационных партнёров и просто друзей. Отечественные компании Galaktika и Лин Индастриал известны многим и в дополнительном представлении не нуждаются (а подробнее о них можно узнать на сайтах galaktika.space и spacelin.ru ). А бразильская команда Habitat Marte – это новый уровень коммуникаций, и мы выражаем огромную благодарность профессору Julio Rezende из Mars Society Brasil за проявленный к проекту интерес и отзывчивость. Подробнее о разработках проектов для поселений на Марсе и в аридных зонах Земли можно узнать на сайте www.habitatmarte.com . Традиционно несколько скриншотов о текущей разработке с небольшим описанием. Работа в Unity и моделирование в программе Blender: Валерий Скляров и Алексей Борисов Настольная игра: Андрей Казьмиркевич, Алексей Борисов и Анастасия Кирк-Гагаринская Развитие коммуникаций с новыми партнёрами: Алексей Борисов, Анастасия Кирк-Гагаринская и Дмитрий Саяпин. ГИРД \"Планета Людей\" (Группа Инициативных Разработчиков-Добровольцев) #игра@nvru_game #космос #новости #В_космосе 1. К проекту присоединился разработчик на Unity Валерий Скляров. В данный момент Валерий занимается обновлением анимации космонавта. 2. Несколько месяцев коммуникации и сотрудничества принесли результаты. Мы благодарны новым партнёрам по интересам за расширение возможностей проекта в настоящем и в будущем! 3. Глобальное обновление правил и дизайна настольной версии игры. 4. Жетоны игровых ресурсов, карточки Фракций. Всего в игре сейчас доступно 7 фракций. 5. Жетоны модулей космических аппаратов (всего в игровом комплекте 280 модулей). 6-7. Оформление коробки. Обновление боковых граней. На согласовании в Музее Космонавтики (Калуга). 8-9. Продолжаем работу над кабиной марсохода. Быстро хорошо не бывает, так что ждите, будет хорошо!",
+      "links": [
+        {
+          "title": "работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        },
+        {
+          "title": "galaktika.space",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fgalaktika.space&post=-122871447_11891&cc_key="
+        },
+        {
+          "title": "spacelin.ru",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fspacelin.ru&post=-122871447_11891&cc_key="
+        },
+        {
+          "title": "www.habitatmarte.com",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fwww.habitatmarte.com&post=-122871447_11891&cc_key="
+        },
+        {
+          "title": "Алексей Борисов",
+          "url": "https://cosmatica.org/users/64"
+        },
+        {
+          "title": "Развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "title": "#игра@nvru_game",
+          "url": "https://vk.com/wall-122871447?q=%23%D0%B8%D0%B3%D1%80%D0%B0"
+        },
+        {
+          "title": "#космос",
+          "url": "https://vk.com/feed?section=search&q=%23%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81"
+        },
+        {
+          "title": "#новости",
+          "url": "https://vk.com/feed?section=search&q=%23%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8"
+        },
+        {
+          "title": "#В_космосе",
+          "url": "https://vk.com/feed?section=search&q=%23%D0%92_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B5"
+        }
+      ],
+      "image": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355161/embed_asset.png"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u64/8/a/proekt-nasha-vselennaja-photo-normal.jpg",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355161/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355162/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355163/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355165/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355164/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355166/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355167/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355168/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/355169/embed_asset.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 2751,
+    "storedTextCharacters": 2424,
+    "sourceCardCount": 0,
+    "sourceImageCount": 10,
+    "paragraphCount": 22,
+    "sourceBytes": 53376
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 2599,
+  "capturedBodyCharacters": 2424,
+  "sourceTextSHA256": "78a3fa421d434d92ee243547544672f018b7157d99e33e241120836a38eb4dcd",
+  "archiveSnapshotAt": "2026-10-08T09:12:17Z"
+}

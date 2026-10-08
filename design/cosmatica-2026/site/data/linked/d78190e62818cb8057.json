@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "slug": "article",
+  "slug": "articles-list",
   "sourceUrl": "https://cosmatica.org/articles/polezno-znat",
   "title": "Полезно знать",
   "intro": "",
@@ -20,7 +20,28 @@
       "level": 2
     }
   ],
-  "cards": [],
+  "cards": [
+    {
+      "title": "Познавательная настольная игра \"Только вперед!\" #Курс Звёздной гармонии",
+      "description": "Познавательная настольная игра \"Только вперед!\" #Курс Звёздной гармонии Автор: Тимошенко Л.В. - Звёздный маэстро Подробнее",
+      "url": "https://cosmatica.org/articles/1115-poznavatelnaja-nastolnaja-igra-tolko-vpered.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Познавательная настольная игра \"Только вперед!\"",
+          "url": "https://cosmatica.org/articles/1115-poznavatelnaja-nastolnaja-igra-tolko-vpered.html"
+        },
+        {
+          "title": "#Курс Звёздной гармонии",
+          "url": "https://cosmatica.org/projects/145/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1115-poznavatelnaja-nastolnaja-igra-tolko-vpered.html"
+        }
+      ]
+    }
+  ],
   "fields": [],
   "images": [],
   "documents": [],
@@ -30,9 +51,15 @@
     "http": 200,
     "sourceTextCharacters": 261,
     "storedTextCharacters": 195,
-    "sourceCardCount": 0,
+    "sourceCardCount": 1,
     "sourceImageCount": 0,
     "paragraphCount": 1,
     "sourceBytes": 74610
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "articles-list",
+  "sourceTextCharacters": 261,
+  "capturedBodyCharacters": 195,
+  "sourceTextSHA256": "0a55d4afdfa8488d23183c1d2a149bb06315637ba54d68d257d701f540856c1b",
+  "archiveSnapshotAt": "2026-10-08T08:45:06Z"
 }

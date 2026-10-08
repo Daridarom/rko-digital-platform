@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "departments",
+  "title": "Отделения",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 3,
+  "pageCount": 3,
+  "total": 31,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Краснодарский край",
+      "description": "Краснодарское региональное отделение создано 15 января 2019 года .",
+      "url": "https://cosmatica.org/departments/1-krasnodarskii-krai.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=e4d9bb1c9c69eff405",
+      "type": "department",
+      "sourceCharacters": 158,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

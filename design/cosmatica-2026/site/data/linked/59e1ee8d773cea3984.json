@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/175-chizhevskii-aleksandr-leonidovich-zemnoe-eho-solnechnyh-bur.html",
+  "title": "Чижевский Александр Леонидович - Земное эхо солнечных бурь",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/9d/19/d7c44937.jpg",
+      "alt": "Чижевский Александр Леонидович - Земное эхо солнечных бурь"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Чижевский Александр Леонидович",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 10 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1274/21b0e8509032f9013fe5e3ae4770f1c6"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/9d/19/d7c44937.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1274/21b0e8509032f9013fe5e3ae4770f1c6"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 116,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39356
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 57,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "ff74c72948ffd8416b2f0ccf9f72003577683999bc3097070df5ca18b58b5dba",
+  "archiveSnapshotAt": "2026-10-08T08:47:52Z"
+}

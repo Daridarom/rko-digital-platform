@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 43,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Успешный старт ракеты состоялся",
+      "description": "5 октября 2022 с космодрома на мысе Канаверал, откуда стартуют ракеты-носители NASA, в космос отправился космический корабль Crew Dragon к МКС.",
+      "url": "https://cosmatica.org/news/1521-uspeshnyi-start-rakety-sostojalsja.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/9/e5e31cd4.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c244ccdde753df812a",
+      "type": "news-item",
+      "sourceCharacters": 1711,
+      "verified": false
+    },
+    {
+      "title": "Пополнились ряды дружинки гагаринцев в МАДОУ №24 \"Жар-Птица\"",
+      "description": "По выражению создателя спутника Сергея Павловича Королёва позывные советского спутника \"разнеслись по всем материкам и среди всех народов как воплощение дерзновенной мечты человечества\".",
+      "url": "https://cosmatica.org/news/1520-popolnilis-rjady-druzhinki-gagarincev-v-madou-24-zhar-ptica.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/e/popolnilis-rjady-druzhinki-gagarincev-v-madou-24-zhar-ptica-ph.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2fadb52b3c74132194",
+      "type": "news-item",
+      "sourceCharacters": 2705,
+      "verified": false
+    },
+    {
+      "title": "Развитие сети общественных народных советов продолжается",
+      "description": "30 сентября 2022 года в городе Москве, перед историческим обращением Президента Российской Федерации о включении Херсонской, Запорожской областей, Донецкой и Луганской народных республик в состав Российской Федерации, состоялось совещание с применением дистанционных электронных технологий по организации ноосистемы (общественной экосистемы) Федерального Народного Совета « Развитие сети общественных народных советов и ",
+      "url": "https://cosmatica.org/news/1519-razvitie-seti-obschestvennyh-narodnyh-sovetov-prodolzhaetsja.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/d/razvitie-seti-obschestvennyh-narodnyh-sovetov-prodolzhaetsja-photo-n.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f091c164b77e2a4387",
+      "type": "news-item",
+      "sourceCharacters": 5329,
+      "verified": false
+    },
+    {
+      "title": "Совет Отцов Семьи Отечества встал в Московском регионе",
+      "description": "01.10.2022г. в г. Москва, по адресу Гранатный переулок, д. 12, состоялось собрание, целью которого было учреждение Московского регионального отделения Совета Отцов Российского общественного движения \" Семья Отечества\".",
+      "url": "https://cosmatica.org/news/1518-sovet-otcov-semi-otechestva-vstal-v-moskovskom-regione.html",
+      "image": "https://cosmatica.org/upload/000/u7/6/9/sovet-otcov-semi-otechestva-vstal-v-moskovskom-regione-photo-nor.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=73fc1d777d340796e9",
+      "type": "news-item",
+      "sourceCharacters": 7109,
+      "verified": false
+    },
+    {
+      "title": "Навстречу Донбассу, идущему домой",
+      "description": "Так символично совпало, что поездка пришлась на подготовку и начало референдума о вхождении Новороссии в состав России.",
+      "url": "https://cosmatica.org/news/1516-navstrechu-donbassu-iduschemu-domoi.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/4/navstrechu-donbassu-iduschemu-domoi-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9e29f776c52d31d2e8",
+      "type": "news-item",
+      "sourceCharacters": 17279,
+      "verified": false
+    },
+    {
+      "title": "Открытие космической эры. А что знаешь об этом ты?",
+      "description": "- Владимирский государственный университет имени Александра Григорьевича и Николая Григорьевича СтолетовыхКафедра всеобщей истории",
+      "url": "https://cosmatica.org/news/1517-otkrytie-kosmicheskoi-ery-a-chto-znaesh-ob-etom-ty.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/a/848a6e2d.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e899f73ee763f809dd",
+      "type": "news-item",
+      "sourceCharacters": 7159,
+      "verified": false
+    },
+    {
+      "title": "Встреча с легендами советской авиации",
+      "description": "- генерального директора АНО поддержки семьи и детей просветительской общественной инициативой \"Пойдем с нами\", действительного члена Русского Космического Общества Юртовой Юлии Леонидовны ;",
+      "url": "https://cosmatica.org/news/1515-vstrecha-s-legendami-sovetskoi-aviacii.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/d/c6e45bbd.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0cb45f0be7c2b6f581",
+      "type": "news-item",
+      "sourceCharacters": 1911,
+      "verified": false
+    },
+    {
+      "title": "Методология открытия новых физических принципов",
+      "description": "Уровень развития цивилизации определяется уровнем развития её фундаментальной науки. Уровень развития фундаментальной науки определяется уровнем постижения ею структуры реальности.",
+      "url": "https://cosmatica.org/news/1509-metodologija-otkrytija-novyh-fizicheskih-principov.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/3/metodologija-otkrytija-novyh-fizicheskih-principov-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3a8cb9cf82ccf2704a",
+      "type": "news-item",
+      "sourceCharacters": 2995,
+      "verified": false
+    },
+    {
+      "title": "Штаб вклада в Победу появился на освобождённых территориях ДНР",
+      "description": "Сразу хотим начать с благодарности всем тем, кто откликнулся на наш призыв и принял участие в сборе средств и гуманитарной помощи нашим соотечественникам. Милосердие и сострадание, щедрость души и великодушие всегда были отличительными чертами русского человека. Всегда на Руси народ мог сплотиться во имя мира и добра. Из века в век всем миром могли одолеть любую напасть.",
+      "url": "https://cosmatica.org/news/1512-shtab-vklada-v-pobedu-pojavilsja-na-osvobozhdyonnyh-territorijah-dnr.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/a/shtab-vklada-v-pobedu-pojavilsja-na-osvobozhdyonnyh-territorijah-dnr-p.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7b0f693b2dbd91f99a",
+      "type": "news-item",
+      "sourceCharacters": 8990,
+      "verified": false
+    },
+    {
+      "title": "Космодесант 2022. Как это было",
+      "description": "Предлагаем вам познакомиться с сюжетом, повествующем о 12 днях трудностей и радостей, новых навыков и досадных ошибок, новых впечатлений и преодоления - 12 дней, изменившие жизнь на \"до\" и \"после\" для 38 подростков.",
+      "url": "https://cosmatica.org/news/1511-kosmodesant-2022-kak-eto-bylo.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/2/kosmodesant-2022-kak-eto-bylo-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7bd5da947a6d214883",
+      "type": "news-item",
+      "sourceCharacters": 3137,
+      "verified": false
+    },
+    {
+      "title": "Культурные коды или цифровые когнитивные коридоры?",
+      "description": "Кандидат физико-математических наук, специалист в области искусственного интеллекта, эксперт по разработке цифровых и аналитических решений Bigи SmartData для среднего бизнеса, президент «Инновационного центра познания и творчества», приглашённый преподаватель СколТех, НГУ и РАНХиГС, председатель Канадского представительства Русского Космического Общества Ирина Консьтантиновна Мухина убеждена: «В развитии искусственн",
+      "url": "https://cosmatica.org/news/1508-kulturnye-kody-ili-cifrovye-kognitivnye-koridory.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/3/kulturnye-kody-ili-cifrovye-kognitivnye-koridory-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6a48772fe5af1d38ef",
+      "type": "news-item",
+      "sourceCharacters": 1748,
+      "verified": false
+    },
+    {
+      "title": "Время сплочения во имя будущего",
+      "description": "Обновлённая идеология клуба \" Аретократия \", который возглавляет наш содей, Руководитель Совета по физической культуре и спорту Романов Сергей Николаевич , заключается в том, что Клуб есть объединение представителей великих родов, которые своей фамилией, пронесённой их предками через века, гордятся, передавая её честь по эстафете своим потомкам.",
+      "url": "https://cosmatica.org/news/1510-vremja-splochenija-vo-imja-buduschego.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/3/vremja-splochenija-vo-imja-buduschego-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1a06b8c156ccddcc91",
+      "type": "news-item",
+      "sourceCharacters": 1018,
+      "verified": false
+    },
+    {
+      "title": "Эко Утриш. Сезон завершён. Лагерь продолжается",
+      "description": "Эколагерь \"Утриш\" начал свою деятельность в этом году с 5 июня.",
+      "url": "https://cosmatica.org/news/1507-eko-utrish-sezon-zavershyon-lager-prodolzhaetsja.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/2/eko-utrish-sezon-zavershyon-lager-prodolzhaetsja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=21629e6ea30fc3e421",
+      "type": "news-item",
+      "sourceCharacters": 6339,
+      "verified": false
+    },
+    {
+      "title": "О гражданских инициативах помощи Донбассу говорили на площадке \"Кибер фронта\"",
+      "description": "В Штабе КИБЕР ФРОНТ Z в Санкт-Петербурге прошла встреча с представителями общественных организаций, которые помогают нашим воинам и их семьям, людям на освобожденных территориях и вынужденным переселенцам на Донбассе. СВО сплотила гражданское общество, и огромное количество людей стали добровольцами тыла, жертвуют деньги, вещи, доставляют гуманитарные грузы, проводят акции в поддержку ВС РФ. Ведущим мероприятия высту",
+      "url": "https://cosmatica.org/news/1506-o-grazhdanskih-iniciativah-pomoschi-donbassu-govorili-na-ploschadke-kiber-fronta.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/4/o-grazhdanskih-iniciativah-govorili-na-ploschadke-kiber-fronta-ph.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0857b3d7a29f486482",
+      "type": "news-item",
+      "sourceCharacters": 2323,
+      "verified": false
+    },
+    {
+      "title": "Шагами Победы",
+      "description": "В день осеннего равноденствия, в великий православный праздник, на важном рубеже времён в решающий момент истории цивилизации Земли Россия сделала важный шаг к Победе.",
+      "url": "https://cosmatica.org/news/1505-shagami-pobedy.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/f/shagami-pobedy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1f260b96507b1cb3fd",
+      "type": "news-item",
+      "sourceCharacters": 1578,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

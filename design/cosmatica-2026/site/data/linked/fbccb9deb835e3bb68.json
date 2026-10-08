@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/286-nebosvod-2013-8.html",
+  "title": "Небосвод (2013 №8)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/1/nebosvod-2013-8-photo-normal.png",
+      "alt": "Небосвод (2013 №8)"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Журнал",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 5 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2019/56c84598d93b8aa4f3ca4088ef75dc42"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/0/1/nebosvod-2013-8-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2019/56c84598d93b8aa4f3ca4088ef75dc42"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 51,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 38835
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 32,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "ef781cd19d3b844ac8e8e0faf67096896ced8f611d68d213457f621643cdc961",
+  "archiveSnapshotAt": "2026-10-08T08:48:32Z"
+}

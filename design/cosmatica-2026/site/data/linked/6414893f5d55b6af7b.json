@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/244-otkrytoe-rabochee-sobranie-sankt-peterburgskogo-otdelenija-rko.html",
+  "title": "Открытое рабочее собрание Санкт-Петербургского отделения РКО",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/8/otkrytoe-rabochee-sobranie-sankt-peterburgskogo-otdelenija-rko-pho.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "В программе:",
+      "spans": [
+        {
+          "text": "В программе:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Подведение итогов 2019 года;",
+      "spans": [
+        {
+          "text": "- Подведение итогов 2019 года;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Выступление руководителей проектов и отчёты о проделанной работе;",
+      "spans": [
+        {
+          "text": "- Выступление руководителей проектов и отчёты о проделанной работе;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Обсуждение планов 2020 года.",
+      "spans": [
+        {
+          "text": "- Обсуждение планов 2020 года."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Вход только по приглашениям.",
+      "spans": [
+        {
+          "text": "Вход только по приглашениям."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Страница отделения на сайте РКО: https://cosmatica.org/departments/9-sankt-peterburg.html",
+      "spans": [
+        {
+          "text": "Страница отделения на сайте РКО: https://cosmatica.org/departments/9-sankt-peterburg.html"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В программе: - Подведение итогов 2019 года; - Выступление руководителей проектов и отчёты о проделанной работе; - Обсуждение планов 2020 года. Вход только по приглашениям. Страница отделения на сайте РКО: https://cosmatica.org/departments/9-sankt-peterburg.html",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/b/8/otkrytoe-rabochee-sobranie-sankt-peterburgskogo-otdelenija-rko-pho.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 404,
+    "storedTextCharacters": 256,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 6,
+    "sourceBytes": 38186
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 404,
+  "capturedBodyCharacters": 256,
+  "sourceTextSHA256": "10a7df41e9bfc4ea63a9011bfdbad5a40a4064328b1fce8966bf4b4b91a7e7a0",
+  "archiveSnapshotAt": "2026-10-08T09:15:30Z"
+}

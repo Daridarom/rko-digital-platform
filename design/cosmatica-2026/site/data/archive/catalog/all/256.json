@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 256,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Выпуск № 10. 2018, июнь",
+      "description": "Здравствуйте те, кто впервые держит газету Русского Космического Общества в руках. Здравствуйте те, кто читает её регулярно. Здравствуйте, наши соратники, здравствуйте, единомышленники, здравствуйте, равнодушные, здравствуйте, недоброжелатели. Все здравствуйте!",
+      "url": "https://cosmatica.org/newspaper/56-vypusk-10-2018-iyun.html",
+      "image": "https://cosmatica.org/upload/000/u1/df/bc/123123123july.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=1a8a43d7aa4927e1d3",
+      "type": "article",
+      "sourceCharacters": 4502,
+      "verified": false
+    },
+    {
+      "title": "Открытие Секции Концептуального проектирования систем организационного управления",
+      "description": "Приглашаем вас 13 ноября в 18:00 на открытие Секции Концептуального проектирования систем организационного управления при Научно-техническом совете Русского Космического Общества, которое пройдёт по адресу: г. Москва, Ленинградский проспект, д. 7/1, конференц-зал ИПРИМ РАН.",
+      "url": "https://cosmatica.org/poster/56-otkrytie-sekcii-konceptualnogo-proektirovanija-sistem-organizacionnogo-upravlenija.html",
+      "image": "https://cosmatica.org/upload/000/u26/0d/f5/otkrytie-sekcii-konceptualnogo-proektirovanija-sistem-organizaci.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=e87d9a39243f16603b",
+      "type": "poster-item",
+      "sourceCharacters": 2892,
+      "verified": false
+    },
+    {
+      "title": "Связь",
+      "description": "это понятие, которое обеспечивает суще­ствование системы.",
+      "url": "https://cosmatica.org/glossary/55-svjaz.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=28afdbf2c7f6782396",
+      "type": "article",
+      "sourceCharacters": 1118,
+      "verified": false
+    },
+    {
+      "title": "Кузнецов О.Л., Большаков Б.Е. - Мировоззрение устойчивого развития",
+      "description": "научных знаний о системе «природа — общество — человек»,",
+      "url": "https://cosmatica.org/library/55-kuznecov-o-l-bolshakov-b-e-mirovozzrenie-ustoichivogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u1/b7/c6/kuznecov-o-l-bolshakov-b-e-mirovozzrenie-ustoichivogo-razvit.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=f485471cea22fb6425",
+      "type": "book",
+      "sourceCharacters": 2275,
+      "verified": false
+    },
+    {
+      "title": "«Космические рубежи России. Молодежь и энергия прорыва»",
+      "description": "Мероприятие собрало представителей различных государственных и общественных организаций, среди которых: Русское Космическое Общество, Союз добровольцев России, Российская академия естественных наук, Научно-исследовательский институт военно-космической академии им. А.Ф.Можайского, Государственный университет \"Дубна\", МАИ \"Космические системы и ракетостроение\", Фонд поддержки детского и юношеского творчества имени лётч",
+      "url": "https://cosmatica.org/news/55-kosmicheskie-rubezhi-rossii-molodezh-i-energija-proryva.html",
+      "image": "https://cosmatica.org/upload/000/u8/f9/f4/6fb2d3d1.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c62abe8420e7874773",
+      "type": "news-item",
+      "sourceCharacters": 2401,
+      "verified": false
+    },
+    {
+      "title": "Выпуск № 9. 2018, май",
+      "description": "В 1943 году В.И. Вернадский сказал так: «В войне такого масштаба, в которой участвует наша страна, победит тот, кто следует закону Природы, проявляемому в ноосфере. Победит Россия потому, что она следует по естественному пути становления разума или ноосферы».",
+      "url": "https://cosmatica.org/newspaper/55-vypusk-9-2018-mai.html",
+      "image": "https://cosmatica.org/upload/000/u8/1a/70/bez-imeni-1.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=d2a1476ee7bc8a633f",
+      "type": "article",
+      "sourceCharacters": 6558,
+      "verified": false
+    },
+    {
+      "title": "Буран - крылатая легенда",
+      "description": "Юбилейный арт-фестиваль «БУРАН–КРЫЛАТАЯ ЛЕГЕНДА», посвященный 30-летию старта МТКС «Энергия-Буран».",
+      "url": "https://cosmatica.org/poster/55-buran-krylataja-legenda.html",
+      "image": "https://cosmatica.org/upload/000/u26/52/24/buran-krylataja-legenda-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=721783ba508cbf0164",
+      "type": "poster-item",
+      "sourceCharacters": 2622,
+      "verified": false
+    },
+    {
+      "title": "Работы П.Г.Кузнецова на сайте Situation.ru",
+      "description": "",
+      "url": "https://cosmatica.org/library/54-raboty-p-g-kuznecova-na-saite-situation-ru.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=441b9238d2c7629682",
+      "type": "book",
+      "sourceCharacters": 36,
+      "verified": false
+    },
+    {
+      "title": "Бесплатный образовательный курс по космонавтике!",
+      "description": "С 26 февраля по 26 марта 2018 года приглашаем всех, кто увлечен космонавтикой и мечтает её продвигать в массы, пройти бесплатный междисциплинарный образовательный курс «Взгляд в космос: события, технологии и люди российской космонавтики».",
+      "url": "https://cosmatica.org/news/54-besplatnyi-obrazovatelnyi-kurs-po-kosmonavtike.html",
+      "image": "https://cosmatica.org/upload/000/u8/1d/2b/cb6a50f0.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8ff455f9ba19bed3b7",
+      "type": "news-item",
+      "sourceCharacters": 1897,
+      "verified": false
+    },
+    {
+      "title": "«Электрическая энергия – основа устойчивого развития». #Лекторий Русского Космического Общества",
+      "description": "Русское Космическое Общество приглашает посетить семинар на тему: «Электрическая энергия – основа устойчивого развития».",
+      "url": "https://cosmatica.org/poster/54-elektricheskaja-energija-osnova-ustoichivogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u26/28/fc/elektricheskaja-energija-osnova-ustoichivogo-razvitija-photo-bi.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=7e8a6650093cbbe1d4",
+      "type": "poster-item",
+      "sourceCharacters": 895,
+      "verified": false
+    },
+    {
+      "title": "\"Взгляд в космос: события, технологии и люди российской космонавтики\"",
+      "description": "В 2016 Шпотя Д.А., глава Молодежного Совета РКО, был приглашен на должность «Главного методолога курса» в команду Исполнителя заказа для нужд ГК «Роскомос» проекта по созданию образовательного онлайн курса по космонавтике.",
+      "url": "https://cosmatica.org/articles/53-vzgljad-v-kosmos-sobytija-tehnologii-i-lyudi-rossiiskoi-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/000/u3/f3/e2/02-2017-roskosmos-onlai-n-kurs.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=732390ea899336ba5d",
+      "type": "article",
+      "sourceCharacters": 4134,
+      "verified": false
+    },
+    {
+      "title": "Свойство неравновесных систем",
+      "description": "эволюция во времени, то есть спо­собность с течением времени совершать внешнюю работу (внешние потоки не уравновешены внутренними).",
+      "url": "https://cosmatica.org/glossary/53-svoistvo-neravnovesnyh-sistem.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=e3be5a7f566b57d3ac",
+      "type": "article",
+      "sourceCharacters": 131,
+      "verified": false
+    },
+    {
+      "title": "Электронный архив П.Г.Кузнецова",
+      "description": "http://www.pobisk-memory.narod.ru/library.htm",
+      "url": "https://cosmatica.org/library/53-elektronnyi-arhiv-p-g-kuznecova.html",
+      "image": "https://cosmatica.org/upload/000/u1/2f/3d/elektronnyi-arhiv-p-g-kuznecova-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7dbc333dadc02329af",
+      "type": "book",
+      "sourceCharacters": 66,
+      "verified": false
+    },
+    {
+      "title": "«Космос и молодежь: точки, которые нас сближают»",
+      "description": "Круглый стол на тему «Космос и молодежь: точки, которые нас сближают» состоится 7 ноября в Москве.",
+      "url": "https://cosmatica.org/poster/53-kosmos-i-molodezh-tochki-kotorye-nas-sblizhayut.html",
+      "image": "https://cosmatica.org/upload/000/u8/5c/28/kosmos-i-molodezh-tochki-kotorye-nas-sblizhayut-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=d744f9070a9b8d46a2",
+      "type": "poster-item",
+      "sourceCharacters": 1850,
+      "verified": false
+    },
+    {
+      "title": "«Повестка дня на XXI век» - ноосферно-социолистическое преобразование глобальной экономики",
+      "description": "1. Экологическое (Великое) Отрицание сложившихся основ и механизмов социально-экономического развития человечества.",
+      "url": "https://cosmatica.org/articles/52-povestka-dnja-na-xxi-vek-noosferno-sociolisticheskoe-preobrazovanie-globalnoi-ekonomiki.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=771a301c5e48fd9666",
+      "type": "article",
+      "sourceCharacters": 23185,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

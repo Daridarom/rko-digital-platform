@@ -43,7 +43,7 @@ for section in sections:
   issues.append('Missing section pages '+ident+' expected='+str(section['count'])+' got='+str(found))
  if found and section['pages']!=(found-1)//15+1:
   issues.append('Incorrect section page count '+ident)
-books=0;links=0
+books=0;links=0;videos=0
 types=Counter()
 checked=0
 for url in catalog_records:
@@ -56,6 +56,12 @@ for url in catalog_records:
  if not data.get('title') or not isinstance(data.get('blocks'),list):
   issues.append('Empty record '+str(file))
  types[data.get('slug')]+=1
+ for block in data.get('blocks',[]):
+  if block.get('type')=='video':
+   videos+=1
+   ident=block.get('videoId','')
+   if block.get('platform')!='youtube' or not re.fullmatch(r'[A-Za-z0-9_-]{11}',ident):
+    issues.append('Unsafe or invalid embedded video '+str(file))
  if data.get('slug')=='book':
   books+=1
   for doc in data.get('documents',[]):
@@ -75,7 +81,7 @@ for url in catalog_records:
   if text+field+cardtext < .8*data['sourceTextCharacters']:
    issues.append('Possible truncated text '+str(file))
 print('ARCHIVE_INTEGRITY',json.dumps({'discovered':inventory.get('discovered'),'indexed':len(catalog_records),
- 'recordsOpened':checked,'books':books,'originalBookLinks':links,'kinds':dict(types),
+ 'recordsOpened':checked,'books':books,'originalBookLinks':links,'publicVideos':videos,'kinds':dict(types),
  'sectionRecords':catalog_count,'errors':len(issues)},ensure_ascii=False))
 for line in issues[:30]:print('ERROR',line)
 if issues:sys.exit(1)

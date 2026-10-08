@@ -65,5 +65,11 @@
     "sourceImageCount": 0,
     "paragraphCount": 3,
     "sourceBytes": 36116
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "department",
+  "sourceTextCharacters": 232,
+  "capturedBodyCharacters": 262,
+  "sourceTextSHA256": "2ff4e07123b235c29eb5f4413af0dec9f9b6f96b42a363046764f2468f0f8157",
+  "archiveSnapshotAt": "2026-10-08T08:45:53Z"
 }

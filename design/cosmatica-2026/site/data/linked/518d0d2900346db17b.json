@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/11-podolinskii-sergei-andreevich-trud-cheloveka-i-ego-otnoshenie-k-raspredeleniyu-energii.html",
+  "title": "Подолинский Сергей Андреевич - Труд человека и его отношение к распределению энергии",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/7c/50/podolinskii-sergei-andreevich-trud-cheloveka-i-ego-otnoshenie-k-r.jpg",
+      "alt": "Подолинский Сергей Андреевич - Труд человека и его отношение к распределению энергии"
+    },
+    {
+      "type": "paragraph",
+      "text": "Работы С. А. Подолинского, и прежде всего статья «Труд человека и его отношение к\r\nраспределению энергии» (1880), заложили основы новой, совершенно оригинальной\r\nтеории труда, не только как экономической, но и нравственной категории,\r\nрассматриваемой под углом естественнонаучных процессов.",
+      "spans": [
+        {
+          "text": "Работы С. А. Подолинского, и прежде всего статья «Труд человека и его отношение к\r\nраспределению энергии» (1880), заложили основы новой, совершенно оригинальной\r\nтеории труда, не только как экономической, но и нравственной категории,\r\nрассматриваемой под углом естественнонаучных процессов."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Подолинский Сергей Андреевич",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Работы С. А. Подолинского, и прежде всего статья «Труд человека и его отношение к распределению энергии» (1880), заложили основы новой, совершенно оригинальной теории труда, не только как экономической, но и нравственной категории, рассматриваемой под углом естественнонаучных процессов.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/12/71ccee2c7367320d35ad3348fa2cc8dd"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/7c/50/podolinskii-sergei-andreevich-trud-cheloveka-i-ego-otnoshenie-k-r.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/12/71ccee2c7367320d35ad3348fa2cc8dd"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 427,
+    "storedTextCharacters": 290,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40482
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 342,
+  "capturedBodyCharacters": 290,
+  "sourceTextSHA256": "e82d5584337701d1c3880936a1abb9483f581fb23dd7a03e97e0a4999e8410a5",
+  "archiveSnapshotAt": "2026-10-08T08:47:32Z"
+}

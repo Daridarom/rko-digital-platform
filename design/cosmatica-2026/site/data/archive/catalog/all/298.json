@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 298,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "РОД Семья Отечества",
+      "description": "Российское общественное Движение «Семья Отечества» (РОД СО)",
+      "url": "https://cosmatica.org/projects/rodso",
+      "image": "https://cosmatica.org/upload/002/u218/0/9/rod-semja-otechestva-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=6ce89757c87995ab36",
+      "type": "project",
+      "sourceCharacters": 6562,
+      "verified": false
+    },
+    {
+      "title": "Школьные ботаны - 2: Русский Леонардо",
+      "description": "Проект, который пишется миллионами сердец: Станьте созидателем национального кинофеномена!",
+      "url": "https://cosmatica.org/projects/rusleo",
+      "image": "assets/source/7b8dcf9128e506fb43a4fea6.webp",
+      "kind": "project",
+      "href": "view.html?p=project&ref=818c1da887bcd5722d",
+      "type": "project",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Сетевое научное издание \"Устойчивое инновационное развитие: проектирование и управление\"",
+      "description": "Сетевое научное издание «Устойчивое развитие: проектирование и управление» – адресовано ученым, преподавателям, аспирантам и студентам, работникам федеральных и региональных органов государственного управления, а также всем, кого интересуют вопросы практического применения идей и механизмов устойчивого развития, движения к качественно новому состоянию общества, вопросы развития и интеграции естественных, технических ",
+      "url": "https://cosmatica.org/projects/rypravlenie",
+      "image": "https://cosmatica.org/upload/000/u26/a8/6d/setevoe-nauchnoe-izdanie-ustoichivoe-innovacionnoe-razvitie-proe.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=898284cb3b49641480",
+      "type": "project",
+      "sourceCharacters": 5797,
+      "verified": false
+    },
+    {
+      "title": "Сохраняя память: Щёлкин К.И.",
+      "description": "71 год назад, 29 августа 1949 года, в Казахстане, на опытном поле близ г. Семипалатинск, было успешно проведено испытание первого советского ядерного заряда.",
+      "url": "https://cosmatica.org/projects/schelkin",
+      "image": "https://cosmatica.org/upload/002/u218/2/f/sohranjaja-pamjat-schyolkin-k-i-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=c2e950bfb713014e6e",
+      "type": "project",
+      "sourceCharacters": 7837,
+      "verified": false
+    },
+    {
+      "title": "Молодёжный космический форум – «Семихатовские чтения»",
+      "description": "«Семихатовские чтения» проводятся ежегодно в канун празднования Дня космонавтики и посвящаются памяти конструктора и ученого – академика Н.А. Семихатова.",
+      "url": "https://cosmatica.org/projects/semihatovskie-chteniya",
+      "image": "https://cosmatica.org/upload/002/u218/1/9/molodyozhnyi-kosmicheskii-forum-semihatovskie-chtenija-logo-norma.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=95a5b67f97c2d85947",
+      "type": "project",
+      "sourceCharacters": 2078,
+      "verified": false
+    },
+    {
+      "title": "Конкурс детского рисунка «Шаг из Колыбели»",
+      "description": "Конкурс приурочен к Юбилею празднования 85-ления Юрия Алексеевича Гагарина.",
+      "url": "https://cosmatica.org/projects/shag-iz-kolibely",
+      "image": "https://cosmatica.org/upload/000/u26/2/5/konkurs-detskogo-risunka-shag-iz-kolybeli-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=6a9224889e2f419b35",
+      "type": "project",
+      "sourceCharacters": 4848,
+      "verified": false
+    },
+    {
+      "title": "Школа Генеральных конструкторов",
+      "description": "Школа Генеральных конструкторов будущего Русского космического общества — это всероссийский образовательный проект, который призван объединить организации и отдельные инициативные группы в сфере дошкольного, школьного и вузовского образования с целью продвижения идей знаменитой плеяды русских учёных-космистов об устойчивом развитии человечества, обучения молодежи его основным методологическим принципам, методикам и т",
+      "url": "https://cosmatica.org/projects/shkola-generalnih-konstructorov",
+      "image": "https://cosmatica.org/upload/000/u44/2/9/shkola-generalnyh-konstruktorov-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=c8d5fd3ee77bf3e742",
+      "type": "project",
+      "sourceCharacters": 970,
+      "verified": false
+    },
+    {
+      "title": "Монография: \"Синтез междисциплинарных знаний и устойчивое развитие в системе Пространство – Время\"",
+      "description": "Монография является вторым, дополненным и переработанным изданием авторов (первое издание было опубликовано в 2001 году). В работе рассмотрены различные аспекты интеграции естественных и гуманитарных наук: философские, математические, физические, химические, биологические, экологические, экономические, финансовые, правовые, политические.",
+      "url": "https://cosmatica.org/projects/sintez-mezhdisciplinarnih-znaniy",
+      "image": "https://cosmatica.org/upload/000/u26/b4/e3/monografija-sintez-mezhdisciplinarnyh-znanii-i-ustoichivoe-razvit.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=2753db24b6759a6dee",
+      "type": "project",
+      "sourceCharacters": 1393,
+      "verified": false
+    },
+    {
+      "title": "СИТШ",
+      "description": "Основное направление нашей деятельности в образовании — соз­дать систему образов­ания, которая заменит почти умершую сущ­ествующую. Создаваем­ая система направлена на развитие познав­ательной активности ребенка и понимания им происходящих в ок­ружающем мире процес­сов и явлений. Не за­учивать, а понимать и при необходимости — восстановить цепо­чку рассуждений и вы­вести нужную для реш­ения конкретной зада­чи формулу.",
+      "url": "https://cosmatica.org/projects/sitsh",
+      "image": "https://cosmatica.org/upload/002/u218/a/c/sitsh-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=3fbebdc6e33de648fa",
+      "type": "project",
+      "sourceCharacters": 6898,
+      "verified": false
+    },
+    {
+      "title": "Казачий батальон \"СКИФ\"",
+      "description": "В ноябре 2022 года уполномоченными представителями организаций: Ассоциация Военных и Охранных структур России, Ассоциация ветеранов боевых действий ОВД и ВВ, Фонда «Офицеры Защитники Отечества», Общероссийская организация «ОФИЦЕРЫ РОССИИ», ПП «Российский Общенародный Союз», Казацкие реестровые и общественные организации г.Севастополя в соответствии с Федеральным законом от 04.11.2022 № 419-ФЗ «О внесении изменений в ",
+      "url": "https://cosmatica.org/projects/skif",
+      "image": "https://cosmatica.org/upload/000/u35/7/0/kazachii-batalon-skif-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=7c687178326b1ad6bc",
+      "type": "project",
+      "sourceCharacters": 3111,
+      "verified": false
+    },
+    {
+      "title": "Сохраняя память: С.А.Снегов",
+      "description": "2020 год — юбилейный год Сергея Александровича Снегова, русского писателя-фантаста, талантливого физика, философа. Ему исполнилось бы 110 лет со дня рождения.",
+      "url": "https://cosmatica.org/projects/snegov",
+      "image": "https://cosmatica.org/upload/002/u218/a/a/sohranjaja-pamjat-s-a-snegov-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=d901759f5ba683ac41",
+      "type": "project",
+      "sourceCharacters": 1959,
+      "verified": false
+    },
+    {
+      "title": "Союз Народного Cплочения",
+      "description": "Союз Народного Сплочения – это единство многих и разных людей и организаций, сплочённых в одно целое Общей Целью и Общим Делом.",
+      "url": "https://cosmatica.org/projects/sns",
+      "image": "assets/source/863ea9d5ff8668ecdf06ec3e.webp",
+      "kind": "project",
+      "href": "view.html?p=project&ref=a4a032b4f7e2255e69",
+      "type": "project",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Соэволюция",
+      "description": "Россия в лице СССР в середине ХХ века стала первой в мире космической державой Человечества. За этим прорывом России – СССР в ХХ веке стоят достижения как русской космической научно-философской мысли, так и русской авиакосмической научно-технической мысли.",
+      "url": "https://cosmatica.org/projects/soevolyuciya",
+      "image": "https://cosmatica.org/upload/002/u218/6/7/soevolyucija-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=4fc8794565e3c14f6c",
+      "type": "project",
+      "sourceCharacters": 3730,
+      "verified": false
+    },
+    {
+      "title": "Сохраняя память: Кованько А.М.",
+      "description": "– первому в мире генерал-лейтенанту в области воздухоплавания,",
+      "url": "https://cosmatica.org/projects/sohranyaya-pamyat-kovanko",
+      "image": "https://cosmatica.org/upload/000/u21/a5/12/sohranjaja-pamjat-kovanko-a-m-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=76c146a2fdb1bd7ad3",
+      "type": "project",
+      "sourceCharacters": 10332,
+      "verified": false
+    },
+    {
+      "title": "Всероссийское движение Русского Космического Общества \"Сохраняя память\"",
+      "description": "Целью движения является сохранение и увековечивание памяти о выдающихся личностях, людях известных и незаслуженно забытых, внёсших неоценимый вклад в развитие нашего Отечества, Родины и государства.",
+      "url": "https://cosmatica.org/projects/sokhranjaja-pamjat",
+      "image": "https://cosmatica.org/upload/000/u21/9d/1b/vserossiiskoe-dvizhenie-russkogo-kosmicheskogo-obschestva-sohranjaja.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=09c19097bde4f3c5a8",
+      "type": "project",
+      "sourceCharacters": 2201,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

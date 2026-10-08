@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/126-zemlja.html",
+  "title": "Земля",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это пространственно ограниченная открытая планетарная",
+      "spans": [
+        {
+          "text": "это пространственно ограниченная открытая планетарная"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "система",
+      "spans": [
+        {
+          "text": "система"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", непрерывно обменивающаяся потоками энергии с космиче­ской средой, что и обеспечивает ее движение в Пространстве–Време­ни.",
+      "spans": [
+        {
+          "text": ", непрерывно обменивающаяся потоками энергии с космиче­ской средой, что и обеспечивает ее движение в Пространстве–Време­ни."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это пространственно ограниченная открытая планетарная система , непрерывно обменивающаяся потоками энергии с космиче­ской средой, что и обеспечивает ее движение в Пространстве–Време­ни.",
+      "links": [
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 191,
+    "storedTextCharacters": 183,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32264
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 185,
+  "capturedBodyCharacters": 183,
+  "sourceTextSHA256": "ca0e40e71af39501e008d61f86a054dc3b8ce72abcc2bc4541ff1f19d493dd60",
+  "archiveSnapshotAt": "2026-10-08T08:46:27Z"
+}

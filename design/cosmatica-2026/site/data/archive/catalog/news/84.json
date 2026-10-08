@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 84,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Пополнение в Первом отряде РКО",
+      "description": "Первый Отряд учреждён 21.12.2019 года на годовом открытом собрании членов Русского Космического Общества по адресу: г. Москва, ул. Моховая, д. 11, стр. 11.",
+      "url": "https://cosmatica.org/news/852-popolnenie-v-pervom-otrjade-rko.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/f/popolnenija-v-pervom-otrjade-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fc24797473d185d1ce",
+      "type": "news-item",
+      "sourceCharacters": 6645,
+      "verified": false
+    },
+    {
+      "title": "Состоялась презентация IV тома сборника \"Наука развития жизни\" П.Г. Кузнецова",
+      "description": "Эта книга уникальна. Её нужно изучить всем, кто ищет фундаментальные, научные основания, методологические и технологические решения для обеспечения выхода нашей страны и всей мировой социально-экономической системы из глобального кризиса, поставившего под угрозу само её существование.",
+      "url": "https://cosmatica.org/news/837-sostojalas-prezentacija-iv-toma-sbornika-nauka-razvitija-zhizni-p-g-kuznecova.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/1/sostojalas-prezentacija-iv-toma-sbornika-nauka-razvitija-zhizni-p.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7199624b143e0438ed",
+      "type": "news-item",
+      "sourceCharacters": 1699,
+      "verified": false
+    },
+    {
+      "title": "Введение в проблему конструирования самоорганизации развивающихся систем",
+      "description": "Введение в проблему конструирования самоорганизации развивающихся систем. Научные основания Делократии.",
+      "url": "https://cosmatica.org/news/836-vvedenie-v-problemu-konstruirovanija-samoorganizacii-razvivayuschihsja-sistem.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/d/vvedenie-v-problemu-konstruirovanija-samoorganizacii-razvivayuschihs.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0138f454913a5f4ef4",
+      "type": "news-item",
+      "sourceCharacters": 1277,
+      "verified": false
+    },
+    {
+      "title": "Космодесант-2020. Как это было",
+      "description": "12 дней трудностей и радостей, новых навыков и досадных ошибок, новых впечатлений и преодоления, 12 дней изменившие жизнь на до и после.",
+      "url": "https://cosmatica.org/news/835-kosmodesant-2020-kak-eto-bylo.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/2/kosmodesant-2020-kak-eto-bylo-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f1877dc8fb932e1bb3",
+      "type": "news-item",
+      "sourceCharacters": 834,
+      "verified": false
+    },
+    {
+      "title": "Дело ГИРД живёт и победит",
+      "description": "Бывают праздники трёх типов. Праздники прошлого, это когда чествуют события и героев минувших дней. Праздники вечности, это даты космических циклов и святых в религиях. А есть праздники, которые чествуют героев и события, заложивших своими трудами и делами основы будущего. Именно таким является праздник памяти старта первой ГИРДовской ракеты.",
+      "url": "https://cosmatica.org/news/833-delo-gird-zhivyot-i-pobedit.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/c/delo-gird-zhivyot-i-pobedit-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=452dfb5a3ef5653f70",
+      "type": "news-item",
+      "sourceCharacters": 4853,
+      "verified": false
+    },
+    {
+      "title": "Белка и Стрелка с \"Книгой на орбите\"",
+      "description": "Литературно образовательный проект «Книга на орбите» направлен на формирование у детей и подростков представления о космическом пространстве, окружающем мире, изучение Вселенной, а также популяризацию литературы космической тематики.",
+      "url": "https://cosmatica.org/news/832-belka-i-strelka-s-knigoi-na-orbite.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/e/belka-i-strelka-s-knigoi-na-orbite-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c1ea55993174a8004b",
+      "type": "news-item",
+      "sourceCharacters": 5147,
+      "verified": false
+    },
+    {
+      "title": "Архитектура будущего - возможные миры",
+      "description": "На этот раз обсуждалась обширная тема, в которой были затронуты вопросы архитектуры Земли на ближайшие 100-1000 лет и на более далёкую перспективу, в том числе аспекты поселений в других мирах, в условиях, отличных от родной планеты Человечества.",
+      "url": "https://cosmatica.org/news/831-arhitektura-buduschego-vozmozhnye-miry.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/d/13ee24fa.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=948c224ddaeab9c809",
+      "type": "news-item",
+      "sourceCharacters": 960,
+      "verified": false
+    },
+    {
+      "title": "Александр Александрович Карпачёв ушёл в вечность.",
+      "description": "Он присоединился к бессмертному строю тех, кто сбылся в этой жизни, отдал себя без остатка служению Общему Делу.",
+      "url": "https://cosmatica.org/news/830-aleksandr-aleksandrovich-karpachyov-ushyol-v-vechnost.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/b/aleksandr-aleksandrovich-karpachyov-ushyol-v-vechnost-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=262e9d5ae9a66561d3",
+      "type": "news-item",
+      "sourceCharacters": 6167,
+      "verified": false
+    },
+    {
+      "title": "Выходить за пределы, побеждать вопреки!",
+      "description": "Наш космический лагерь состоялся . Путь в две недели пройден. За плечами опыт, а на сердце радость. Всё прошло, всё состоялось. Мы смогли и сделали. Не благодаря, но вопреки. И значит впереди новые высоты.",
+      "url": "https://cosmatica.org/news/829-vyhodit-za-predely-pobezhdat-vopreki.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/2/vyhodit-za-predely-pobezhdat-vopreki-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=aed8f1ff0404e50111",
+      "type": "news-item",
+      "sourceCharacters": 6442,
+      "verified": false
+    },
+    {
+      "title": "Семья на орбите - оптимальный вариант экипажа",
+      "description": "Освоение космоса - мечта всего человечества. А с какого возраста можно начинать подготовку к полётам?",
+      "url": "https://cosmatica.org/news/828-semja-na-orbite-optimalnyi-variant-ekipazha.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/f/semja-na-orbite-optimalnyi-variant-ekipazha-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1e03eda0e6b8aff28b",
+      "type": "news-item",
+      "sourceCharacters": 4991,
+      "verified": false
+    },
+    {
+      "title": "IV том Науки развития Жизни П.Г.Кузнецова вышел из печати",
+      "description": "Эта книга уникальна. Её нужно изучить всем, кто ищет фундаментальные, научные основания, методологические и технологические решения для обеспечения выхода нашей страны и всей мировой социально-экономической системы из глобального кризиса, поставившего под угрозу само её существование.",
+      "url": "https://cosmatica.org/news/827-nauka-razvitija-zhizni-p-g-kuznecova-tom-4-vyshla-iz-pechati.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/b/iv-tom-nauki-razvitija-zhizni-p-g-kuznecova-vyshel-iz-pechati-photo.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e5db28865489c516bd",
+      "type": "news-item",
+      "sourceCharacters": 9373,
+      "verified": false
+    },
+    {
+      "title": "Вышли материалы конференции",
+      "description": "В конференции приняли участие докладчики из разных уголков нашей Великой Родины: из Москвы и Новосибирска, Нижнего Тагила и Орла, Снежинска, Санкт-Петербурга и Екатеринбурга.",
+      "url": "https://cosmatica.org/news/825-vyshli-materialy-konferencii.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/8/vyshli-materialy-konferencii-sohranjaja-pamjat-lyudi-voennoi-aviac.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9d2c99a00702cb1296",
+      "type": "news-item",
+      "sourceCharacters": 1778,
+      "verified": false
+    },
+    {
+      "title": "Любительская астрономия в Псковской области",
+      "description": "Общества и одного из руководителей клуба любителей астрономии Псковской области «АстроПсков» с выходом на новый астрономический уровень.",
+      "url": "https://cosmatica.org/news/823-vyezdnye-nablyudenija-08-08-2020.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/5/lyubitelskaja-astronomija-v-pskovskoi-oblasti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6bedb454b1b97c21f3",
+      "type": "news-item",
+      "sourceCharacters": 2277,
+      "verified": false
+    },
+    {
+      "title": "Учёный, писатель, учитель, пророк... 110 лет с нами",
+      "description": "«...мы стоим в переломном пункте развития человечества и любой неосторожный шаг может оказаться непоправимым. Но и бездействовать тоже нельзя. Осторожность и смелость - вот что сегодня требуется от всех ».",
+      "url": "https://cosmatica.org/news/822-uchyonyi-pisatel-uchitel-prorok-110-let-s-nami.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/6/uchyonyi-pisatel-uchitel-prorok-110-let-s-nami-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5930a0d6771e850cda",
+      "type": "news-item",
+      "sourceCharacters": 6866,
+      "verified": false
+    },
+    {
+      "title": "Кто же станет лучшим лектором?",
+      "description": "Цель Конкурса «Лучший Лектор» – формирование интереса к разговорной форме изложения учебного, научного или научно-популярного материала, развитие и популяризация лекторского искусства в российском обществе и развитие просветительской деятельности в России.",
+      "url": "https://cosmatica.org/news/821-kto-zhe-stanet-luchshim-lektorom.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/e/kto-zhe-stanet-luchshim-lektorom-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ccf0ad9136931aeb80",
+      "type": "news-item",
+      "sourceCharacters": 2003,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

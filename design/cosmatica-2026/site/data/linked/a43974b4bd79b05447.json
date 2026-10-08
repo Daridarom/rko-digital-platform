@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/43-kilovatt-chas-universalnaja-mera-stoimosti-v-mirovoi-ekonomike-iii-tysjacheletija-k-parlamentskim.html",
+  "title": "Киловатт-час — универсальная мера стоимости в мировой экономике III тысячелетия (к парламентским слу",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Больше тридцати лет тому назад пришлось мне\r\nвыступать на «закрытом» совещании по методам оценки\r\nэкономической эффективности разделения редких земель. В те\r\nвремена химики-редкоземельщики и химики-ядерщики «ходили\r\nодной командой» и прекрасно знали друг друга в лицо.",
+      "spans": [
+        {
+          "text": "Больше тридцати лет тому назад пришлось мне\r\nвыступать на «закрытом» совещании по методам оценки\r\nэкономической эффективности разделения редких земель. В те\r\nвремена химики-редкоземельщики и химики-ядерщики «ходили\r\nодной командой» и прекрасно знали друг друга в лицо."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Больше тридцати лет тому назад пришлось мне выступать на «закрытом» совещании по методам оценки экономической эффективности разделения редких земель. В те времена химики-редкоземельщики и химики-ядерщики «ходили одной командой» и прекрасно знали друг друга в лицо.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 98 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/59/b724f6ca115bb097698016867ed19da9"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/59/b724f6ca115bb097698016867ed19da9"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 385,
+    "storedTextCharacters": 268,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39904
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 284,
+  "capturedBodyCharacters": 268,
+  "sourceTextSHA256": "aad3b57c7606fdcd0f964647dccff7320da29395288f3faf4ee308b1684ad9ca",
+  "archiveSnapshotAt": "2026-10-08T08:49:56Z"
+}

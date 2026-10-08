@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/246-kosmicheskie-kanikuly.html",
+  "title": "Космические каникулы #Космические каникулы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/9/kosmicheskie-kanikuly-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "«Космические каникулы» - познавательно-развлекательное мероприятие для детей и подростков из Донецкой Народной Республики, ставших победителями конкурсов на космическую тематику, а также детей из Горловки.",
+      "spans": [
+        {
+          "text": "«Космические каникулы»",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " - познавательно-развлекательное мероприятие для детей и подростков из Донецкой Народной Республики, ставших победителями конкурсов на космическую тематику, а также детей из Горловки."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Базовое размещение детей планируется на территории ДОЛ «Юнармеец» Щёлковского района Московской области.",
+      "spans": [
+        {
+          "text": "Базовое размещение",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " детей планируется на территории ДОЛ «Юнармеец» Щёлковского района Московской области. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Количество детей: 50 человек – финалисты конкурсов на космическую тематику, 50 – дети из Горловки",
+      "spans": [
+        {
+          "text": " ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "Количество",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        },
+        {
+          "text": " детей:",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " 50 человек – финалисты конкурсов на космическую тематику, 50 – дети из Горловки"
+        }
+      ],
+      "links": [
+        {
+          "text": "Количество",
+          "url": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Пребывание детей на территории РФ планируется с 05.01.2020 г. по 12.01.2020 г.",
+      "spans": [
+        {
+          "text": "Пребывание детей на территории РФ планируется с 05.01.2020 г. по 12.01.2020 г."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "«Космические каникулы» - познавательно-развлекательное мероприятие для детей и подростков из Донецкой Народной Республики, ставших победителями конкурсов на космическую тематику, а также детей из Горловки. Базовое размещение детей планируется на территории ДОЛ «Юнармеец» Щёлковского района Московской области. Количество детей: 50 человек – финалисты конкурсов на космическую тематику, 50 – дети из Горловки Пребывание детей на территории РФ планируется с 05.01.2020 г. по 12.01.2020 г.",
+      "links": [
+        {
+          "title": "Количество",
+          "url": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/9/kosmicheskie-kanikuly-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 626,
+    "storedTextCharacters": 484,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 5,
+    "sourceBytes": 39138
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 626,
+  "capturedBodyCharacters": 484,
+  "sourceTextSHA256": "6cdbecfcffc3f7ad307401fa9db95a4348257482f1bf4fdbf355cd93a226d7f4",
+  "archiveSnapshotAt": "2026-10-08T09:15:31Z"
+}

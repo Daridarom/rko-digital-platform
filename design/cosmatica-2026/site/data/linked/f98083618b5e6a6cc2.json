@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/707-nagrazhdenie-yunyh-gagarincev-v-lopatinskoi-shkole.html",
+  "title": "Награждение юных гагаринцев в Лопатинской школе",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Гагаринский отряд МБОУ \"Лопатинская средняя общеобразовательная школа\"",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/a/c/nagrazhdenie-yunyh-gagarincev-v-lopatinskoi-shkole-photo-normal.jpg",
+      "alt": "Награждение юных гагаринцев в Лопатинской школе"
+    },
+    {
+      "type": "paragraph",
+      "text": "29 февраля 2020 года в Лопатинской школе прошли итоговые линейки по окончанию второго триместра. В присутствии всей школы на сцене актового зала в торжественной обстановке юным гагаринцам были вручены значки с изображением Юрия Гагарина. Это первая награда за добрые дела на благо школы. Теперь у этих учеников есть особый знак отличия, который они будут носить с гордостью и почтением.",
+      "spans": [
+        {
+          "text": "29 февраля 2020 года в Лопатинской школе прошли итоговые линейки по окончанию второго триместра. В присутствии всей школы на сцене актового зала в торжественной обстановке юным гагаринцам были вручены значки с изображением Юрия Гагарина. Это первая награда за добрые дела на благо школы. Теперь у этих учеников есть особый знак отличия, который они будут носить  с гордостью и почтением."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/8/c/nagrazhdenie-yunyh-gagarincev-v-lopatinskoi-shkole-gallery-normal.jpg",
+      "alt": "Награждение юных гагаринцев в Лопатинской школе 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/0/b/nagrazhdenie-yunyh-gagarincev-v-lopatinskoi-shkole-gallery-normal.jpg",
+      "alt": "Награждение юных гагаринцев в Лопатинской школе 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/7/8/nagrazhdenie-yunyh-gagarincev-v-lopatinskoi-shkole-gallery-normal.jpg",
+      "alt": "Награждение юных гагаринцев в Лопатинской школе 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/2/1/nagrazhdenie-yunyh-gagarincev-v-lopatinskoi-shkole-gallery-normal.jpg",
+      "alt": "Награждение юных гагаринцев в Лопатинской школе 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/d/7/nagrazhdenie-yunyh-gagarincev-v-lopatinskoi-shkole-gallery-normal.jpg",
+      "alt": "Награждение юных гагаринцев в Лопатинской школе 4"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В Лопатинской школе на итоговой линейке по окончанию второго триместра юных гагаринцев наградили почётными значками с изображением Юрия Гагарина",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "29 февраля 2020 года в Лопатинской школе прошли итоговые линейки по окончанию второго триместра. В присутствии всей школы на сцене актового зала в торжественной обстановке юным гагаринцам были вручены значки с изображением Юрия Гагарина. Это первая награда за добрые дела на благо школы. Теперь у этих учеников есть особый знак отличия, который они будут носить с гордостью и почтением.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u72/a/c/nagrazhdenie-yunyh-gagarincev-v-lopatinskoi-shkole-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/8/c/nagrazhdenie-yunyh-gagarincev-v-lopatinskoi-shkole-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/0/b/nagrazhdenie-yunyh-gagarincev-v-lopatinskoi-shkole-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/7/8/nagrazhdenie-yunyh-gagarincev-v-lopatinskoi-shkole-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/2/1/nagrazhdenie-yunyh-gagarincev-v-lopatinskoi-shkole-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/d/7/nagrazhdenie-yunyh-gagarincev-v-lopatinskoi-shkole-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 796,
+    "storedTextCharacters": 468,
+    "sourceCardCount": 0,
+    "sourceImageCount": 6,
+    "paragraphCount": 1,
+    "sourceBytes": 50144
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 566,
+  "capturedBodyCharacters": 468,
+  "sourceTextSHA256": "1b12f9fdc7faaab748dfccefd4aa83410c56aab3acfce281c238670133f8592f",
+  "archiveSnapshotAt": "2026-10-08T09:13:10Z"
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/212-kanon-kuba-kak-zakon-sohranenija-prirodnyh-otnoshenii.html",
+  "title": "Канон куба как закон сохранения природных отношений #Методы синтеза междисциплинарных знаний",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/2/a/kanon-kuba-kak-zakon-sohranenija-prirodnyh-otnoshenii-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Уважаемые соратники и единомышленники, приглашаем Вас на очередное заседание секции «Методы синтеза междисциплинарных знаний» при Научно-техническом совете Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "Уважаемые соратники и единомышленники, приглашаем Вас на очередное заседание секции «Методы синтеза междисциплинарных знаний» при Научно-техническом совете Русского Космического Общества. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Повестка дня:",
+      "spans": [
+        {
+          "text": "Повестка дня:"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Уважаемые соратники и единомышленники, приглашаем Вас на очередное заседание секции «Методы синтеза междисциплинарных знаний» при Научно-техническом совете Русского Космического Общества. Повестка дня: - Лекция №2 «Канон куба как закон сохранения природных отношений». Лектор: Руководитель Секции М.И. Беляев, академик Международной Академии экологической безопасности и природопользования (МОАЭБП), академик Общественной академии национальной безопасности (ОАНБ) - Обсуждение - Организационные вопросы Секции Место проведения: Ленинградский проспект до 7/1, офис РКО Обязательна предварительная регистрация: milogiya@mail.ru, +7 915 347 29 14",
+      "links": [
+        {
+          "title": "закон",
+          "url": "https://cosmatica.org/glossary/139-zakon.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/2/a/kanon-kuba-kak-zakon-sohranenija-prirodnyh-otnoshenii-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 828,
+    "storedTextCharacters": 200,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 39956
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 828,
+  "capturedBodyCharacters": 200,
+  "sourceTextSHA256": "4d66c36a0220f04fc793da7fd84f85a9279479d999baf7930640937d2ac8bdc1",
+  "archiveSnapshotAt": "2026-10-08T09:15:21Z"
+}

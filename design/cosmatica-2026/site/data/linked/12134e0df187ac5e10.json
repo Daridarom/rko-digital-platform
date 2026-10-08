@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/135-zakon-nauchno-tehnicheskogo-progressa.html",
+  "title": "Закон научно-технического прогресса",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "новое средство приходит на смену старому, если оно обеспечивает выполнение заданной функции более экономично – с меньшими потерями мощности, то есть с мень­шим риском для устойчивого развития.",
+      "spans": [
+        {
+          "text": "новое средство приходит на смену старому, если оно обеспечивает выполнение заданной функции более экономично – с меньшими потерями мощности, то есть с мень­шим риском для устойчивого развития."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "новое средство приходит на смену старому, если оно обеспечивает выполнение заданной функции более экономично – с меньшими потерями мощности, то есть с мень­шим риском для устойчивого развития.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 228,
+    "storedTextCharacters": 192,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32352
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 192,
+  "capturedBodyCharacters": 192,
+  "sourceTextSHA256": "a3d3cb610ca403bcd2b932704760056219f05c92ec93004a186e99bf9df6b3dc",
+  "archiveSnapshotAt": "2026-10-08T08:46:30Z"
+}

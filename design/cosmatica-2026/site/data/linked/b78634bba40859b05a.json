@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/527-neboprohodcy.html",
+  "title": "Небопроходцы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/4/b/neboprohodcy-photo-normal.jpg",
+      "alt": "Небопроходцы"
+    },
+    {
+      "type": "paragraph",
+      "text": "По многочисленным просьбам читателей авторы осветили творческое содружество мировых знаменитостей — авиаконструктора Н.Н. Поликарпова (1892-1944) и лётчика-испытателя В.П. Чкалова (1904-1938), судьбы которых оказались трагичными в предвоенных и военных годах.",
+      "spans": [
+        {
+          "text": "По многочисленным просьбам читателей авторы осветили творческое содружество мировых знаменитостей — авиаконструктора Н.Н. Поликарпова (1892-1944) и лётчика-испытателя В.П. Чкалова (1904-1938), судьбы которых оказались трагичными в предвоенных и военных годах."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Виктор и Сергей Рассохины",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "По многочисленным просьбам читателей авторы осветили творческое содружество мировых знаменитостей — авиаконструктора Н.Н. Поликарпова (1892-1944) и лётчика-испытателя В.П. Чкалова (1904-1938), судьбы которых оказались трагичными в предвоенных и военных годах.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 39 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/5251/53ef9fe42b5a6b12663f1c6dcc50f573"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/4/b/neboprohodcy-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/5251/53ef9fe42b5a6b12663f1c6dcc50f573"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 325,
+    "storedTextCharacters": 259,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39670
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 312,
+  "capturedBodyCharacters": 259,
+  "sourceTextSHA256": "3742903bcb8a31334d3385e52f9d038ca5b58bb377e4d2b1ef0f540a8348fa30",
+  "archiveSnapshotAt": "2026-10-08T08:50:55Z"
+}

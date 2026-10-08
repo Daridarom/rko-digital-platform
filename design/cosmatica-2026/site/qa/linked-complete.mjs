@@ -37,6 +37,8 @@ async function worker(){
     external:[...document.querySelectorAll('a[href]')].filter(a=>new URL(a.href).origin!==location.origin)
       .filter(a=>!(a.dataset.originalDownload==='cosmatica'&&
        /^https:\/\/cosmatica\.org\/files\/download\/\d+\/[a-f0-9]+$/i.test(a.href)))
+      .filter(a=>!(a.dataset.contentExternal==='true'&&a.href.startsWith('https://')&&
+        a.target==='_blank'&&a.rel.includes('noopener')))
       .map(a=>a.href)
    }));
    assert(view.overflow<=3,'overflow '+id+': '+view.overflow);

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 175,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Детский взгляд в космос.",
+      "description": "7 марта 2019 года, в г. Снежинск, Челябинской области, состоялось торжественное награждение победителей регионального этапа I международного конкурса детских рисунков \"Наше комическое завтра\".",
+      "url": "https://cosmatica.org/news/357-detskii-vzgljad-v-kosmos.html",
+      "image": "https://cosmatica.org/upload/000/u37/3/a/detskii-vzgljad-v-kosmos-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=deace03078e5998c8d",
+      "type": "news-item",
+      "sourceCharacters": 2000,
+      "verified": false
+    },
+    {
+      "title": "Проект «Сохраняя память: Б.Е. Большаков»",
+      "description": "Всероссийское движение Русского Космического Общества",
+      "url": "https://cosmatica.org/articles/356-proekt-sohranjaja-pamjat-b-e-bolshakov.html",
+      "image": "https://cosmatica.org/upload/000/u26/4b/6e/3december.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=8ef05b4887fe9cbc6f",
+      "type": "article",
+      "sourceCharacters": 1362,
+      "verified": false
+    },
+    {
+      "title": "Чудесные поделки из бумаги",
+      "description": "Материалы для художественного конструирования Характеристика видов бумаги Окраска бумаги Приемы изготовления поделок по типу оригами Отображение в поделках разнообразия животного мира Изображение образа человека Конструирование цветов Конструирование домов разного типа и видов транспорта Последовательность усложнения приемов оригами Варианты тематических композиции Цветочные композиции Композиции с птицами Композиции",
+      "url": "https://cosmatica.org/library/356-chudesnye-podelki-iz-bumagi.html",
+      "image": "https://cosmatica.org/upload/000/u26/e/3/chudesnye-podelki-iz-bumagi-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=b2d9a1e58eadba077d",
+      "type": "book",
+      "sourceCharacters": 702,
+      "verified": false
+    },
+    {
+      "title": "Мерным отзвуком сопрано",
+      "description": "Вот уже в четвертый раз Экспериментальный концертный театр «Кантилена» стал организатором музыкального концерта-посвящения Елене Васильевне Образцовой .",
+      "url": "https://cosmatica.org/news/356-mernym-otzvukom-soprano.html",
+      "image": "https://cosmatica.org/upload/000/u26/c/c/11c2c1e7.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=15b4061b69b645fcbc",
+      "type": "news-item",
+      "sourceCharacters": 2563,
+      "verified": false
+    },
+    {
+      "title": "Проведение Большаковских чтений",
+      "description": "Настоящая конференция будет посвящена творческому наследию выдающегося отечественного мыслителя и ученого XX- XXIвеков, великого гражданина России Большакова Бориса Евгеньевича, инициатора создания и Первого Президента Русского Космического Общества, в котором в практической форме реализованы его идеи.",
+      "url": "https://cosmatica.org/articles/355-provedenie-bolshakovskih-chtenii.html",
+      "image": "https://cosmatica.org/upload/000/u26/06/45/2december.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=d6d2707cc7832d5a50",
+      "type": "article",
+      "sourceCharacters": 919,
+      "verified": false
+    },
+    {
+      "title": "Геометрия (6-8 классы)",
+      "description": "",
+      "url": "https://cosmatica.org/library/355-geometrija-6-8-klassy.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/e/geometrija-6-8-klassy-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=51e0cd501d283ae4f7",
+      "type": "book",
+      "sourceCharacters": 38,
+      "verified": false
+    },
+    {
+      "title": "Ко дню рождения В.И.Вернадского",
+      "description": "Это порог, за которым открывается эпоха ноосферно-космической истории человечества Земли.",
+      "url": "https://cosmatica.org/news/355-ko-dnyu-rozhdenija-v-i-vernadskogo.html",
+      "image": "https://cosmatica.org/upload/000/u26/7/2/ko-dnyu-rozhdenija-v-i-vernadskogo-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=53be0db44d47f1b753",
+      "type": "news-item",
+      "sourceCharacters": 5710,
+      "verified": false
+    },
+    {
+      "title": "Мемориальная доска и сайт учёного",
+      "description": "В настоящий момент разрабатывается образец мемориальной доски, который вы можете видеть ниже. В обозримом будущем будет принято коллективное решение о месте установки доски и согласование с уполномоченными лицами.",
+      "url": "https://cosmatica.org/articles/354-memorialnaja-doska-i-sait-uchyonogo.html",
+      "image": "https://cosmatica.org/upload/000/u26/71/d0/1december.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=696a9a4b16025f925e",
+      "type": "article",
+      "sourceCharacters": 572,
+      "verified": false
+    },
+    {
+      "title": "Книга для чтения по анатомии, физиологии и гигиене человека",
+      "description": "Книга содержит краткие очерки, в которых освещены наиболее интересные вопросы строения и функционирования человеческого организма, раскрыты вопросы личной и общественной гигиены труда и отдыха. Популярно изложены элементы физиологии труда. Все практические советы даны как логические выводы из знаний по физиологии человека.",
+      "url": "https://cosmatica.org/library/354-kniga-dlja-chtenija-po-anatomii-fiziologii-i-gigiene-cheloveka.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/9/kniga-dlja-chtenija-po-anatomii-fiziologii-i-gigiene-cheloveka-phot.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=eef80f464962ced0c9",
+      "type": "book",
+      "sourceCharacters": 363,
+      "verified": false
+    },
+    {
+      "title": "День Гагарина на Псковской земле",
+      "description": "9 марта весть мир отмечал День Гагарина. В 2019 году это ещё и 85-летний юбилей со дня рождения Юрия Алексеевича.",
+      "url": "https://cosmatica.org/news/354-den-gagarina-na-pskovskoi-zemle.html",
+      "image": "https://cosmatica.org/upload/001/u133/7/2/den-gagarina-na-pskovskoi-zemle-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a5ed1ec3718ad470e5",
+      "type": "news-item",
+      "sourceCharacters": 4454,
+      "verified": false
+    },
+    {
+      "title": "В Публичной библиотеке состоялось космическое путешествие",
+      "description": "В прошедшую пятницу главный зал Челябинской областной универсальной научной библиотеки был полон любителями небесных светил – в этот день Центр культурно-просветительских программ библиотеки подготовил для южноуральцев обширную программу, посвященную теме космоса и далеких галактик.",
+      "url": "https://cosmatica.org/articles/353-v-publichnoi-biblioteke-sostojalos-kosmicheskoe-puteshestvie.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=0d99c20a650fe3be3c",
+      "type": "article",
+      "sourceCharacters": 1278,
+      "verified": false
+    },
+    {
+      "title": "Занимательные задачи-парадоксы и софизмы по физике",
+      "description": "Книга содержит занимательные задачи-парадоксы и софизмы, подобранные в соответствии с программой курса физики средней школы.",
+      "url": "https://cosmatica.org/library/353-zanimatelnye-zadachi-paradoksy-i-sofizmy-po-fizike.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/c/zanimatelnye-zadachi-paradoksy-i-sofizmy-po-fizike-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=f661e0ffc901d1b6e9",
+      "type": "book",
+      "sourceCharacters": 167,
+      "verified": false
+    },
+    {
+      "title": "Внеси свой вклад в деятельность РКО!",
+      "description": "Мы верим в то, что можем и должны сделать так, чтобы наш народ и наша страна вновь и уже навсегда стали лидером в деле сохранения и развития Жизни на Земле и в космосе. Русское Космическое Общество – это люди, объединившиеся в особый период, который переживает наша страна и вся Земная цивилизация. Мы объединились во имя священного дела мира и развития. Мы разные, но нас объединяет одно – Общее Дело и Общая Цель.",
+      "url": "https://cosmatica.org/news/353-vnesi-svoi-vklad-v-dejatelnost-rko.html",
+      "image": "https://cosmatica.org/upload/000/u26/f/b/a0e222b7.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=10d2f6cae390f08558",
+      "type": "news-item",
+      "sourceCharacters": 1118,
+      "verified": false
+    },
+    {
+      "title": "Вступительное слово",
+      "description": "Вы держите в руках 14-й, специальный выпуск газеты, посвящённый знаменательной для нашей страны дате. 15 ноября 1988 года свой легендарный полёт совершил многоразовый орбитальный корабль-ракетоплан «Буран», и в этом году мы отмечаем тридцатилетие данного события!",
+      "url": "https://cosmatica.org/articles/352-vstupitelnoe-slovo.html",
+      "image": "https://cosmatica.org/upload/000/u26/18/17/123november.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=5f202069cd22c6264d",
+      "type": "article",
+      "sourceCharacters": 7699,
+      "verified": false
+    },
+    {
+      "title": "Сборник практических задач по математике",
+      "description": "Настоящий «Сборник практических задач по математике» ставит своей целью помочь учителям начальных классов (особенно учителям, начинающим работу) в подборе для каждого класса по каждой теме задач с практическим содержанием (помимо тех, какие имеются в принятых учебниках по математике) и дать полезные советы по методике решения таких задач. Задачи, помещённые в настоящем «Сборнике», заставят ученика действовать: рисова",
+      "url": "https://cosmatica.org/library/352-sbornik-prakticheskih-zadach-po-matematike.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/2/sbornik-prakticheskih-zadach-po-matematike-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=e14c704deba80ab87c",
+      "type": "book",
+      "sourceCharacters": 711,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

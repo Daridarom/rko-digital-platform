@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/142-seminar-po-iskusstvu-publichnogo-vystuplenija-dlja-chlenov-rko.html",
+  "title": "Семинар по искусству публичного выступления для членов РКО",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/0/9/seminar-po-iskusstvu-publichnogo-vystuplenija-dlja-chlenov-rko-photo.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Дорогие товарищи. В ходе работы РКО нам часто приходится выступать перед различными аудиториями. Публичное выступление - это такая же компетенция и искусство.",
+      "spans": [
+        {
+          "text": "Дорогие товарищи. В ходе работы РКО нам часто приходится выступать перед различными аудиториями. Публичное выступление - это такая же компетенция и искусство. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ведущий: Член Президиума РКО Степан Андрееевич Зотов - многократный лауреат конкурса \"Лидер 21 Века\" в номинации \"Лучший Оратор\".",
+      "spans": [
+        {
+          "text": "Ведущий: Член Президиума РКО "
+        },
+        {
+          "text": "Степан Андрееевич Зотов",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/users/38"
+        },
+        {
+          "text": " -",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " многократный лауреат конкурса \"Лидер 21 Века\" в номинации \"Лучший Оратор\". "
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://cosmatica.org/users/38"
+        },
+        {
+          "text": "Степан Андрееевич Зотов",
+          "url": "https://cosmatica.org/users/38"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Советы и ценный опыт Степана Андреевича помогут нам усилить общую мощность . Ведь через слово мы несем наши идеи. А идеи и воля к их реализации - единственный источник устойчивого развития.",
+      "spans": [
+        {
+          "text": "Советы и ценный опыт Степана Андреевича помогут нам усилить общую  "
+        },
+        {
+          "text": "мощность",
+          "href": "https://cosmatica.org/glossary/104-moschnost.html"
+        },
+        {
+          "text": ". Ведь через слово мы несем наши идеи. А идеи и  "
+        },
+        {
+          "text": "воля",
+          "href": "https://cosmatica.org/glossary/154-volja.html"
+        },
+        {
+          "text": " к их реализации - единственный источник устойчивого развития. "
+        }
+      ],
+      "links": [
+        {
+          "text": "мощность",
+          "url": "https://cosmatica.org/glossary/104-moschnost.html"
+        },
+        {
+          "text": "воля",
+          "url": "https://cosmatica.org/glossary/154-volja.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Занятие доступно для всех членов Организации, кто должен или желает начать выступать перед незнакомыми аудиториями, особенно молодежными. ВНИМАНИЕ! Мероприятие только для членов Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "Занятие доступно для всех членов Организации, кто должен или желает начать выступать перед незнакомыми аудиториями, особенно молодежными."
+        },
+        {
+          "text": "ВНИМАНИЕ! Мероприятие только для членов Русского Космического Общества.",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Дорогие товарищи. В ходе работы РКО нам часто приходится выступать перед различными аудиториями. Публичное выступление - это такая же компетенция и искусство. Ведущий: Член Президиума РКО Степан Андрееевич Зотов - многократный лауреат конкурса \"Лидер 21 Века\" в номинации \"Лучший Оратор\". Советы и ценный опыт Степана Андреевича помогут нам усилить общую мощность . Ведь через слово мы несем наши идеи. А идеи и воля к их реализации - единственный источник устойчивого развития. Занятие доступно для всех членов Организации, кто должен или желает начать выступать перед незнакомыми аудиториями, особенно молодежными. ВНИМАНИЕ! Мероприятие только для членов Русского Космического Общества.",
+      "links": [
+        {
+          "title": "",
+          "url": "https://cosmatica.org/users/38"
+        },
+        {
+          "title": "Степан Андрееевич Зотов",
+          "url": "https://cosmatica.org/users/38"
+        },
+        {
+          "title": "мощность",
+          "url": "https://cosmatica.org/glossary/104-moschnost.html"
+        },
+        {
+          "title": "воля",
+          "url": "https://cosmatica.org/glossary/154-volja.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/0/9/seminar-po-iskusstvu-publichnogo-vystuplenija-dlja-chlenov-rko-photo.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 835,
+    "storedTextCharacters": 685,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 39355
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 835,
+  "capturedBodyCharacters": 685,
+  "sourceTextSHA256": "8cbc4c086f97b49a0e8b792ff1ded65342f11ef1d38bc72681b9e805646a0e3b",
+  "archiveSnapshotAt": "2026-10-08T09:15:01Z"
+}

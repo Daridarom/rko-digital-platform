@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/203-akcija-nash-vklad-v-gagarinskii-sad.html",
+  "title": "Акция \"Наш вклад в \"Гагаринский сад\"\" #Экопроект «Действуем разумно живя на Земле»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/6/akcija-nash-vklad-v-gagarinskii-sad-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "21 сентября 2019 в г. Лобня состоится акция по посадке кедров «Наш вклад в Гагаринский сад».",
+      "spans": [
+        {
+          "text": "21 сентября 2019 в г. Лобня состоится акция по посадке кедров «Наш вклад в Гагаринский сад»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В рамках массового экологического проекта Подмосковья «Посади своё дерево».",
+      "spans": [
+        {
+          "text": "В рамках массового экологического проекта Подмосковья «Посади своё дерево»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "21 сентября 2019 в г. Лобня состоится акция по посадке кедров «Наш вклад в Гагаринский сад». В рамках массового экологического проекта Подмосковья «Посади своё дерево». 30 школ и дошкольных учреждений г. Лобня посадят именные кедры в честь героев Великой Отечественной войны. Саженцы будут благотворительно предоставлены членом Калининградского отделения Русского Космического общества Иваном Ивановичем Санжаровым , руководителем Зеленоградского кедрового экопитомника . Приглашаем всех желающих внести свой вклад в это событие. Руководитель проекта: Мазурина Любовь Викторовна Подробности по почте: mazurinalubov@mail.ru",
+      "links": [
+        {
+          "title": "Иваном Ивановичем Санжаровым",
+          "url": "https://cosmatica.org/users/243"
+        },
+        {
+          "title": "Зеленоградского кедрового экопитомника",
+          "url": "https://cosmatica.org/projects/130"
+        },
+        {
+          "title": "Мазурина Любовь Викторовна",
+          "url": "https://cosmatica.org/users/150"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/f/6/akcija-nash-vklad-v-gagarinskii-sad-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 801,
+    "storedTextCharacters": 167,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 39986
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 801,
+  "capturedBodyCharacters": 167,
+  "sourceTextSHA256": "c0763ce1ac5ec21375723127aeff9b405c6adc3e07457ff8cdcb8a8a6fdf6b9d",
+  "archiveSnapshotAt": "2026-10-08T09:15:19Z"
+}

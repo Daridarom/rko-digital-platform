@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/24",
+  "title": "Мария Николаевна Миловзорова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/f5/e6/e386b8fe.jpg",
+      "alt": "Мария Николаевна Миловзорова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 6"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/3e/b2/3c32e67f.jpg",
+      "alt": "Мария Николаевна Миловзорова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 1"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "кандидат философских наук, доцент, Почетный работник сферы образования Российской Федерации. Автор 114 научных работ, в том числе 2 авторские монографии и 6 учебных пособий.",
+      "spans": [
+        {
+          "text": "кандидат философских наук, доцент, Почетный работник сферы образования Российской Федерации. Автор 114 научных работ, в том числе 2 авторские монографии и 6 учебных пособий."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Санкт-Петербург",
+      "links": [
+        {
+          "title": "Санкт-Петербург",
+          "url": "https://cosmatica.org/departments/9-sankt-peterburg.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "кандидат философских наук, доцент, Почетный работник сферы образования Российской Федерации. Автор 114 научных работ, в том числе 2 авторские монографии и 6 учебных пособий.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u21/f5/e6/e386b8fe.jpg",
+    "https://cosmatica.org/upload/000/u21/3e/b2/3c32e67f.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 294,
+    "storedTextCharacters": 233,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36575
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 210,
+  "capturedBodyCharacters": 233,
+  "sourceTextSHA256": "10a0c62bce86b9dbd4086fb3320ebffb46924dc6369e142f921cf78f1d1ecc6a",
+  "archiveSnapshotAt": "2026-10-08T09:18:44Z"
+}

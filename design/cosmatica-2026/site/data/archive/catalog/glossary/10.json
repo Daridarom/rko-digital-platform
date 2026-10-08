@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "glossary",
+  "title": "Глоссарий",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 10,
+  "pageCount": 14,
+  "total": 196,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Стратегия",
+      "description": "целенаправ­ленных работ, методов (технологий), средств и ресурсов, необходи­мых для ее достижения, развернутые по направлениям и этапам в про­странстве и времени на долгосрочную перспективу.",
+      "url": "https://cosmatica.org/glossary/41-strategija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=d002ed2fd40280e47d",
+      "type": "article",
+      "sourceCharacters": 231,
+      "verified": false
+    },
+    {
+      "title": "Стратегия развития",
+      "description": ", ориентированная на сохране­ние роста производимой полезной мощности преимущественно за счет использования инновационных технологий, удовлетворяющих требованиям к качеству результатов.",
+      "url": "https://cosmatica.org/glossary/40-strategija-razvitija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=9424290f3c3ec4de08",
+      "type": "article",
+      "sourceCharacters": 199,
+      "verified": false
+    },
+    {
+      "title": "Стратегия устойчивого развития",
+      "description": ", ориентирован­ная на сохранение неубывающих темпов роста полезной мощности при не увеличении темпов потребляемой мощности, сокращении по­терь мощности за счет воспроизводимых прорывных технологий и по­вышения качества управления. Из определения следует, что стратегия устойчивого развития – это стратегия, согласованная с законом раз­вития Жизни.",
+      "url": "https://cosmatica.org/glossary/39-strategija-ustoichivogo-razvitija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=239e8001d6c232044d",
+      "type": "article",
+      "sourceCharacters": 361,
+      "verified": false
+    },
+    {
+      "title": "Творчество",
+      "description": "процесс превращения невозможного в возможное.",
+      "url": "https://cosmatica.org/glossary/38-tvorchestvo.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=8fba5d192680b14dc0",
+      "type": "article",
+      "sourceCharacters": 45,
+      "verified": false
+    },
+    {
+      "title": "Тензор",
+      "description": "это специальное понятие, вводимое для обозначения сущно­сти (инварианта) проектируемой системы, представляемой сетью ве­личины «",
+      "url": "https://cosmatica.org/glossary/37-tenzor.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=1d9fca82ed2adb2511",
+      "type": "article",
+      "sourceCharacters": 233,
+      "verified": false
+    },
+    {
+      "title": "Тензорный анализ",
+      "description": "проектирования новой системы, дающий правила преобразования (перехода) из существующей системы коор­динат в требуемые проектом с инвариантом величины «",
+      "url": "https://cosmatica.org/glossary/36-tenzornyi-analiz.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=2264efc66889be5ac3",
+      "type": "article",
+      "sourceCharacters": 169,
+      "verified": false
+    },
+    {
+      "title": "Теория",
+      "description": "универсальных высказываний (поддающихся экспе­риментальной проверке и логической верификации), позволяющих: объяснять сущность, устройство и правила работы исследуемой си­стемы; предсказывать направления, тенденции развития; получать как следствие рекомендации по созданию технологий устойчивого разви­тия систем разной природы и различного назначения. Теория включа­ет язык (алфавит, словарь терминов, формулизмы), пост",
+      "url": "https://cosmatica.org/glossary/35-teorija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=e7f09591f3ba935bc2",
+      "type": "article",
+      "sourceCharacters": 511,
+      "verified": false
+    },
+    {
+      "title": "Технология",
+      "description": "(от греч. téchne – мастерство, умение) – предметная об­ласть, изучающая правила преобразования движений в пространстве– времени; условия сохранения и изменения полезной мощности (рабо­тоспособности) системы жизнеобеспечения во времени и простран­стве.",
+      "url": "https://cosmatica.org/glossary/34-tehnologija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=4fa83c15d4d9e2d047",
+      "type": "article",
+      "sourceCharacters": 251,
+      "verified": false
+    },
+    {
+      "title": "Товар (услуга)",
+      "description": "с установленной меновой стоимостью (ры­ночной ценой).",
+      "url": "https://cosmatica.org/glossary/33-tovar-usluga.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=686a90000c30a815c0",
+      "type": "article",
+      "sourceCharacters": 61,
+      "verified": false
+    },
+    {
+      "title": "Труд",
+      "description": "целесообразная деятельность, мерой которой является произ­ведение рабочего времени на полезную",
+      "url": "https://cosmatica.org/glossary/32-trud.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=417a92aa1db5395ccf",
+      "type": "article",
+      "sourceCharacters": 271,
+      "verified": false
+    },
+    {
+      "title": "Универсальная мера",
+      "description": "это единство качественных и количествен­ных свойств системы, выраженное в терминах пространственно-временных величин.",
+      "url": "https://cosmatica.org/glossary/31-universalnaja-mera.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=8a72c8a5e0d05736d3",
+      "type": "article",
+      "sourceCharacters": 117,
+      "verified": false
+    },
+    {
+      "title": "Универсальный пространственно-временной язык (LT-язык)",
+      "description": "это язык многомерных пространственно-временных величин, который сшива­ет воедино разнородные меры-законы для наиболее точного решения задач исследователя – конструктора – организатора в интересах без­опасности и устойчивого развития.",
+      "url": "https://cosmatica.org/glossary/30-universalnyi-prostranstvenno-vremennoi-jazyk-lt-jazyk.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=5b1e1124eabcbe0725",
+      "type": "article",
+      "sourceCharacters": 233,
+      "verified": false
+    },
+    {
+      "title": "Универсум",
+      "description": "это поток пространства–времени, где все изменяется и остается неизменным в заданной системе координат.",
+      "url": "https://cosmatica.org/glossary/29-universum.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=c2a443a37a87c60137",
+      "type": "article",
+      "sourceCharacters": 102,
+      "verified": false
+    },
+    {
+      "title": "Управление",
+      "description": "целенаправленное изменение свойств системы. Управ­ление является объективным,если существует принцип –",
+      "url": "https://cosmatica.org/glossary/28-upravlenie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=b4ef471ee77c7ce3de",
+      "type": "article",
+      "sourceCharacters": 407,
+      "verified": false
+    },
+    {
+      "title": "Устойчивое развитие",
+      "description": "это сбалансированное взаимодействие есте­ственных, общественных и духовных процессов, сохраняющее разви­тие системы во Времени–Пространстве.",
+      "url": "https://cosmatica.org/glossary/27-ustoichivoe-razvitie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=395731dc67c45dddb9",
+      "type": "article",
+      "sourceCharacters": 140,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

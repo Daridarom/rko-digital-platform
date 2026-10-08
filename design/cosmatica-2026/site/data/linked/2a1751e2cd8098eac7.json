@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/18-finansy.html",
+  "title": "Финансы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "предметная область, изучающая движение потоков, выра­женных в денежной форме.",
+      "spans": [
+        {
+          "text": "предметная область, изучающая движение потоков, выра­женных в денежной форме."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "предметная область, изучающая движение потоков, выра­женных в денежной форме.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 85,
+    "storedTextCharacters": 77,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31701
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 77,
+  "capturedBodyCharacters": 77,
+  "sourceTextSHA256": "e6bf6666d9243da231101327d6d4fb6d6e6917ee9e6e048ccd2b6b192db10b69",
+  "archiveSnapshotAt": "2026-10-08T08:46:43Z"
+}

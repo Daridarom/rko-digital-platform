@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/46-o-smysle-zhizni-chelovechestva.html",
+  "title": "О смысле жизни человечества",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "У меня есть еще несколько месяцев (а может быть и дней), чтобы высказать то, что не нашло\r\nотражения в книгах обо мне.",
+      "spans": [
+        {
+          "text": "У меня есть еще несколько месяцев (а может быть и дней), чтобы высказать то, что не нашло\r\nотражения в книгах обо мне."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "У меня есть еще несколько месяцев (а может быть и дней), чтобы высказать то, что не нашло отражения в книгах обо мне.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/62/03a981a5570579ebf31b1a665a3738e0"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/62/03a981a5570579ebf31b1a665a3738e0"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 164,
+    "storedTextCharacters": 118,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 38924
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 136,
+  "capturedBodyCharacters": 118,
+  "sourceTextSHA256": "b0e56481b1c0c84794c7f6c5667ca7afe246da51db871728ca7d12c3b5c2017e",
+  "archiveSnapshotAt": "2026-10-08T08:50:25Z"
+}

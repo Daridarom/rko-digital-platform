@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "poster",
+  "title": "Мероприятия",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 5,
+  "pageCount": 22,
+  "total": 316,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "День памяти последнего полёта Ю. А. Гагарина #Сохраняя память: Гагарин и Серёгин",
+      "description": "27 марта 1968 года в 10 часов 31 минуту неподалёку от деревни Новосёлово под Киржачом произошла авиационная катастрофа, которая унесла жизни двух героев: учебно-тренировочный самолёт-истребитель УТИ МиГ-15 с бортовым номером 18 пилотировали Герой Советского Союза, лётчик-космонавт СССР полковник Юрий Алексеевич Гагарин и Герой Советского Союза, лётчик-испытатель 1 класса полковник Владимир Сергеевич Серёгин. В 10 час",
+      "url": "https://cosmatica.org/poster/282-den-pamjati-poslednego-polyota-yu-a-gagarina.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/3/cc6533de.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=dbac3ab5f115f0d4d4",
+      "type": "poster-item",
+      "sourceCharacters": 1664,
+      "verified": false
+    },
+    {
+      "title": "Награждение победителей конкурса \"Космоград\" #Городской конкурс детского творчества \"Космоград\"",
+      "description": "Конкурс направлен на проектирование инновационных решений для комфортных условий жизни, развитие инженерно-конструкторских способностей творческого и технического мышления у детей дошкольного, младшего, среднего и старшего школьного возраста, выявление одарённых, талантливых детей.",
+      "url": "https://cosmatica.org/poster/279-nagrazhdenie-pobeditelei-konkursa-kosmograd.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/5/nagrazhdenie-pobeditelei-konkursa-kosmograd-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=0f4907bb1bf293e2d7",
+      "type": "poster-item",
+      "sourceCharacters": 1690,
+      "verified": false
+    },
+    {
+      "title": "Научно-образовательный семинар имени Бориса Евгеньевича Большакова #Научно-образовательные семинары по фундаментальным и прикладным проблемам устойчивого развития жизни",
+      "description": "Приглашаем вас на очередное заседание научно-образовательного семинара имени Бориса Евгеньевича Большакова в Русском Космическом Обществе. Руководитель семинара Екатерина Федоровна Шамаева.",
+      "url": "https://cosmatica.org/poster/277-nauchno-obrazovatelnyi-seminar-imeni-borisa-evgenevicha-bolshakova.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/8/nauchno-obrazovatelnyi-seminar-imeni-borisa-evgenevicha-bolshako.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=d17246d882f03e3d54",
+      "type": "poster-item",
+      "sourceCharacters": 1109,
+      "verified": false
+    },
+    {
+      "title": "Гусли в космосе в День космонавтики #Гусли в космосе",
+      "description": "Создатели уникального проекта \"Гусли в Космосе\" , члены Русского Космического Общества Анастасия Сергеевна Фомина (гусли), Елизавета Александровна Панченко (орган) приглашают друзей 8 ноября 2020 года на удивительный концерт дуэта органа и звончатых гуслей \"Гусли в космосе\", который состоится в Белом зале Политехнического университета Санкт-Петербурга.",
+      "url": "https://cosmatica.org/poster/275-gusli-v-kosmose-v-den-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/1/gusli-v-kosmose-v-den-kosmonavtiki-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=9cd624ffe785d47ec5",
+      "type": "poster-item",
+      "sourceCharacters": 1608,
+      "verified": false
+    },
+    {
+      "title": "Вечер научной фантастики #Соэволюция",
+      "description": "Неделя космического творчества, русского космизма и космонавтики « Соэволюция » — это ежегодное мероприятие, учреждённое Русским Космическим Обществом.",
+      "url": "https://cosmatica.org/poster/273-vecher-nauchnoi-fantastiki.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/6/vecher-nauchnoi-fantastiki-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=a6275b9f7f645d90ab",
+      "type": "poster-item",
+      "sourceCharacters": 1042,
+      "verified": false
+    },
+    {
+      "title": "Космос для Героев. Кто ковал историю человечества? #Соэволюция",
+      "description": "Неделя космического творчества, русского космизма и космонавтики « Соэволюция » — это ежегодное мероприятие, учреждённое Русским Космическим Обществом.",
+      "url": "https://cosmatica.org/poster/272-kosmos-dlja-geroev-kto-koval-istoriyu-chelovechestva.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/6/kosmos-dlja-geroev-kto-koval-istoriyu-chelovechestva-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=6c3e04b0931421c315",
+      "type": "poster-item",
+      "sourceCharacters": 986,
+      "verified": false
+    },
+    {
+      "title": "Вечер русского космизма #Соэволюция",
+      "description": "Неделя космического творчества, русского космизма и космонавтики « Соэволюция » — это ежегодное мероприятие, учреждённое Русским Космическим Обществом.",
+      "url": "https://cosmatica.org/poster/271-vecher-russkogo-kosmizma.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/a/vecher-russkogo-kosmizma-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=2a02adb01850a018f6",
+      "type": "poster-item",
+      "sourceCharacters": 1003,
+      "verified": false
+    },
+    {
+      "title": "Взгляд во Вселенную. От античности до современности #Соэволюция",
+      "description": "Неделя космического творчества, русского космизма и космонавтики « Соэволюция » — это ежегодное мероприятие, учреждённое Русским Космическим Обществом.",
+      "url": "https://cosmatica.org/poster/270-vzgljad-vo-vselennuyu-ot-antichnosti-do-sovremennosti.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/b/24bc19c2.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=fe4a00ea759e0cbca2",
+      "type": "poster-item",
+      "sourceCharacters": 885,
+      "verified": false
+    },
+    {
+      "title": "9 марта - День Гагарина #Соэволюция",
+      "description": "Неделя космического творчества, русского космизма и космонавтики « Соэволюция » — это ежегодное мероприятие, учреждённое Русским Космическим Обществом.",
+      "url": "https://cosmatica.org/poster/269-9-marta-den-gagarina.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/1/9-marta-den-gagarina-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=854164f173127f3bc5",
+      "type": "poster-item",
+      "sourceCharacters": 1428,
+      "verified": false
+    },
+    {
+      "title": "Соэволюция. Неделя космического творчества, русского космизма и космонавтики #Соэволюция",
+      "description": "Неделя космического творчества, русского космизма и космонавтики « Соэволюция » — это ежегодное мероприятие, учреждённое Русским Космическим Обществом. Вход свободный !",
+      "url": "https://cosmatica.org/poster/268-soevolyucija-nedelja-kosmicheskogo-tvorchestva-russkogo-kosmizma-i-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/9/soevolyucija-nedelja-kosmicheskogo-tvorchestva-russkogo-kosmizma-i.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=64bb4b27a080e7561d",
+      "type": "poster-item",
+      "sourceCharacters": 7461,
+      "verified": false
+    },
+    {
+      "title": "\"Империум Человека: Эра Фантастики\". Награждение #Литературный конкурс \"Империум Человека\"",
+      "description": "Дорогие друзья, приглашаем Вас на церемонию награждения литературного конкурса \"Империум Человека: Эра Фантастики\"",
+      "url": "https://cosmatica.org/poster/267-imperium-cheloveka-era-fantastiki-nagrazhdenie.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/7/imperium-cheloveka-era-fantastiki-nagrazhdenie-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=9af86c33ae2f3d5d4d",
+      "type": "poster-item",
+      "sourceCharacters": 733,
+      "verified": false
+    },
+    {
+      "title": "Гагаринские чтения",
+      "description": "Традиционно, 9-12 марта 2020 года, в день рождения Ю.А. Гагарина, на его родине, в городе Гагарине Смоленской области, состоятся XLVII Общественно-научные чтения, посвященные памяти первопроходца космоса.",
+      "url": "https://cosmatica.org/poster/266-gagarinskie-chtenija.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/a/gagarinskie-chtenija-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=d4609430d01012aa47",
+      "type": "poster-item",
+      "sourceCharacters": 1104,
+      "verified": false
+    },
+    {
+      "title": "Как стать космонавтом? #Профориентационно-образовательный проект \"МЫ ВЕРИМ В КОСМОС\"",
+      "description": "В конце июня 2019 года госкорпорация Роскосмос объявила третий открытый отбор в отряд космонавтов. На лекции будет рассказано о том, как происходит отбор в отряд космонавтов и как они готовятся к космическому полету. Лекцию проводит участник открытого отбора 2017 года, который сам прошел через эту процедуру.",
+      "url": "https://cosmatica.org/poster/265-kak-stat-kosmonavtom.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/a/kak-stat-kosmonavtom-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=12406a42e2862f912a",
+      "type": "poster-item",
+      "sourceCharacters": 1192,
+      "verified": false
+    },
+    {
+      "title": "Космическая викторина #Профориентационно-образовательный проект \"МЫ ВЕРИМ В КОСМОС\"",
+      "description": "В рамках викторины вы более подробно узнаете об истории Космонавтики, услышите интересные истории, а также узнаете, как все-таки летает ракета. Участники поделятся на команды, самые активные получат космические сувениры! В самом начале викторины участники будут разделены на команды, каждая команда выберет свое название. После этого начнется непосредственно игра, в которой будет 3 раунда. В каждом раунде участникам бу",
+      "url": "https://cosmatica.org/poster/264-kosmicheskaja-viktorina.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/d/kosmicheskaja-viktorina-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=dde1cae39060d0e2b1",
+      "type": "poster-item",
+      "sourceCharacters": 1428,
+      "verified": false
+    },
+    {
+      "title": "Презентация книг Степана Андреевича Зотова #Издание Книги \"История Героев\"",
+      "description": "Приглашаем на презентацию книг Степана Андреевича Зотова \"Империум Человека: Эра косматики\" и \"История Героев\".",
+      "url": "https://cosmatica.org/poster/263-prezentacija-knig-stepana-andreevicha-zotova.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/e/prezentacija-knig-stepana-andreevicha-zotova-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=513d299084306a94ba",
+      "type": "poster-item",
+      "sourceCharacters": 685,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/365",
+  "title": "Глеб Михайлович Линёв",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/f/035369c3.jpeg",
+      "alt": "Глеб Михайлович Линёв"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/9/4/819a8515.jpeg",
+      "alt": "Глеб Михайлович Линёв"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Учредитель Представительства РКО в Латвии",
+      "spans": [
+        {
+          "text": "Учредитель Представительства РКО в Латвии"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель детского лагеря «Система»",
+      "spans": [
+        {
+          "text": "Руководитель детского лагеря «Система»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Представительство в Латвии",
+      "links": [
+        {
+          "title": "Представительство в Латвии",
+          "url": "https://cosmatica.org/departments/30-predstavitelstvo-v-latvii.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Учредитель Представительства РКО в Латвии Руководитель детского лагеря «Система»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/1/f/035369c3.jpeg",
+    "https://cosmatica.org/upload/000/u35/9/4/819a8515.jpeg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 175,
+    "storedTextCharacters": 112,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34966
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 128,
+  "capturedBodyCharacters": 112,
+  "sourceTextSHA256": "8dd1bbedd2441bb3a918adde641ededd2da97957ec2cca5f30f12341d3ea351a",
+  "archiveSnapshotAt": "2026-10-08T09:19:23Z"
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/141-regionalnoe-ustoichivoe-innovacionnoe-razvitie-tehnologija-proektirovanija-i-upravlenija.html",
+  "title": "Региональное устойчивое инновационное развитие: технология проектирования и управления",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/18/c8/regionalnoe-ustoichivoe-innovacionnoe-razvitie-tehnologija-proek.png",
+      "alt": "Региональное устойчивое инновационное развитие: технология проектирования и управления"
+    },
+    {
+      "type": "paragraph",
+      "text": "Рекомендовано учебно-методическим советом университета\r\n«Дубна» в качестве учебного пособия для студентов, обучающихся\r\nпо направлениям подготовки «Системный анализ и управление»,\r\n«Менеджмент», «",
+      "spans": [
+        {
+          "text": "Рекомендовано учебно-методическим советом университета\r\n«Дубна» в качестве учебного пособия для студентов, обучающихся\r\nпо направлениям подготовки «Системный анализ и управление»,\r\n«Менеджмент», «"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Экология",
+      "spans": [
+        {
+          "text": "Экология"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "и природопользование»\r\n(магистратура)",
+      "spans": [
+        {
+          "text": "и природопользование»\r\n(магистратура)"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Б.Е. Большаков, Е.Ф. Шамаева",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Рекомендовано учебно-методическим советом университета «Дубна» в качестве учебного пособия для студентов, обучающихся по направлениям подготовки «Системный анализ и управление», «Менеджмент», « Экология и природопользование» (магистратура)",
+      "links": [
+        {
+          "title": "Экология",
+          "url": "https://cosmatica.org/glossary/200-ekologija.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 5 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/567/6365c653425244ad6256f75129632217"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u10/18/c8/regionalnoe-ustoichivoe-innovacionnoe-razvitie-tehnologija-proek.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/567/6365c653425244ad6256f75129632217"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 381,
+    "storedTextCharacters": 241,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40996
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 294,
+  "capturedBodyCharacters": 241,
+  "sourceTextSHA256": "f272b9d32a61fb7dfa3f34d956a00cd1126b80a8790b4d6601586dabc028edd4",
+  "archiveSnapshotAt": "2026-10-08T08:47:42Z"
+}

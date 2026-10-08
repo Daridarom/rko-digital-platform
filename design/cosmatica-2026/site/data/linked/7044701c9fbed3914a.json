@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/308-prezentacija-sitsh.html",
+  "title": "Презентация СИТШ #СИТШ",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/3/6/prezentaija-sitsh-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Готовы делиться методикой, передавать опыт соратникам.",
+      "spans": [
+        {
+          "text": "Готовы делиться методикой, передавать опыт соратникам."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Доступ будет открыт за 15 минут до начала презентации.",
+      "spans": [
+        {
+          "text": "Доступ будет открыт за 15 минут до начала презентации."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Гарантированная работа вебинаров на платформе rko.nbics.net обеспечена на следующих браузерах Goolge Chrome, Yandex Browser (Браузер последней версии с активной поддержкой технологии WebRtc)",
+      "spans": [
+        {
+          "text": "Гарантированная      "
+        },
+        {
+          "text": "работа",
+          "href": "https://cosmatica.org/glossary/62-rabota.html"
+        },
+        {
+          "text": "  вебинаров на платформе   "
+        },
+        {
+          "text": "rko.nbics.net",
+          "href": "https://cosmatica.org/glossary/165-platforma-rko-nbics-net.html"
+        },
+        {
+          "text": "   обеспечена на следующих  браузерах  Goolge Chrome, Yandex Browser   (Браузер последней версии с  активной  поддержкой технологии WebRtc)"
+        }
+      ],
+      "links": [
+        {
+          "text": "работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        },
+        {
+          "text": "rko.nbics.net",
+          "url": "https://cosmatica.org/glossary/165-platforma-rko-nbics-net.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Для незарегистрированных пользователей доступен только просмотр.",
+      "spans": [
+        {
+          "text": "Для незарегистрированных пользователей доступен только просмотр."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "21 июля в 18:00 (мск) состоится презентация проекта Сетевой инженерно-технической школы (СИТШ) https://ситш.рф/ Презентацию проводит Берг Дмитрий Борисович , Председатель Свердловского областного Отделения Русского Космического Общества, профессор, доктор физико-математических наук, руководитель проекта СИТШ. Мы создаем организационно-методические условия и практические возможности для всех детей (даже из семей с невысоким уровнем дохода) повысить свой уровень подготовки по инженерно-техническим и естественно-научным дисциплинам. Наши авторские курсы и методики позволяют обучающимся системно понять изучаемые дисциплины и без проблем сдать все необходимые экзамены, чтобы поступить в любой технический ВУЗ и успешно продолжать в нем обучение Готовы делиться методикой, передавать опыт соратникам. Длительность презентации - 45 минут Обсуждение и вопросы - 45 минут Вход в вебинарную комнату: https://rko.nbics.net/ru/Vebinary11?topwdd=2773&to... Доступ будет открыт за 15 минут до начала презентации. Гарантированная работа вебинаров на платформе rko.nbics.net обеспечена на следующих браузерах Goolge Chrome, Yandex Browser (Браузер последней версии с активной поддержкой технологии WebRtc) Для всех зарегистрированных в системе rko.nbics.net во время вебинара будет доступен чат. Вы сможете задать свои вопросы лектору и участвовать в дискуссии. Регистрация в левом нижнем углу платформы. ИНСТРУКЦИЯ. Для незарегистрированных пользователей доступен только просмотр.",
+      "links": [
+        {
+          "title": "https://ситш.рф/",
+          "url": "https://xn--h1arey.xn--p1ai/"
+        },
+        {
+          "title": "Берг Дмитрий Борисович",
+          "url": "https://cosmatica.org/users/53"
+        },
+        {
+          "title": "https://rko.nbics.net/ru/Vebinary11?topwdd=2773&to...",
+          "url": "https://rko.nbics.net/ru/Vebinary11?topwdd=2773&topwdt=2&topwdi=-32766"
+        },
+        {
+          "title": "работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        },
+        {
+          "title": "rko.nbics.net",
+          "url": "https://cosmatica.org/glossary/165-platforma-rko-nbics-net.html"
+        },
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        },
+        {
+          "title": "ИНСТРУКЦИЯ.",
+          "url": "https://cosmatica.org/upload/redactorfiles/%D0%A0%D0%9A%D0%9E%20nbics.%20%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F.docx"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/3/6/prezentaija-sitsh-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1606,
+    "storedTextCharacters": 362,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 41475
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 1606,
+  "capturedBodyCharacters": 362,
+  "sourceTextSHA256": "ee3ba92ca6f7795cbda7eb0a96caf4dc63f3f2d7cfaa46920ceaa0da87db7860",
+  "archiveSnapshotAt": "2026-10-08T09:15:48Z"
+}

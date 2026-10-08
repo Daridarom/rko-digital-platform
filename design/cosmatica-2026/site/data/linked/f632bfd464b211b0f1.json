@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/49-torzhestvennoe-meroprijatie-v-chest-prazdnovanija-godovschiny-sozdanija-russkogo-kosmicheskogo-ob.html",
+  "title": "Торжественное мероприятие в честь празднования годовщины создания Русского Космического Общества",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/cb/fb/a4cf0972.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "25 октября 2018 года состоится торжественное мероприятие в честь празднования годовщины создания Русского Космического Общества, на котором будут подведены итоги года и определены планы на будущее.",
+      "spans": [
+        {
+          "text": "25 октября 2018 года состоится торжественное мероприятие в честь празднования годовщины создания  Русского Космического Общества, на котором будут подведены итоги года и определены планы на будущее. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Планируется присутствие представителей зарубежных стран и региональных Отделений РКО, всего в мероприятии примет участие около 100 человек. Вход строго по приглашениям.",
+      "spans": [
+        {
+          "text": "Планируется присутствие представителей зарубежных стран и региональных Отделений РКО, всего в мероприятии примет участие около 100 человек. Вход строго по приглашениям."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "25 октября 2018 года состоится торжественное мероприятие в честь празднования годовщины создания Русского Космического Общества, на котором будут подведены итоги года и определены планы на будущее. Планируется присутствие представителей зарубежных стран и региональных Отделений РКО, всего в мероприятии примет участие около 100 человек. Вход строго по приглашениям.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/cb/fb/a4cf0972.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 546,
+    "storedTextCharacters": 365,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 38736
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 546,
+  "capturedBodyCharacters": 365,
+  "sourceTextSHA256": "e53c04a0508362a900c5026ba42d36fce0ee78dcb117b8ec0a70ca9deed3a38c",
+  "archiveSnapshotAt": "2026-10-08T09:16:03Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 1,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Переиздание ключевых книг РКО",
+      "description": "Приглашаем проявить Целеустремлённость и Волю и внести часть своей жизненной энергии в очередное издание книг Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/2267-pereizdanie-klyuchevyh-knig-rko.html",
+      "image": "assets/source/5ff6fe3456cc4e654c4ba045.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Итоги семинара Международной научной школы им. П.Г.Кузнецова",
+      "description": "12.09.2026 г. на базе Русского Космического Общества состоялся семинар \" Проектирование теории современной медицины в свете учения П.Г. Кузнецова\".",
+      "url": "https://cosmatica.org/news/2266-itogi-seminara-mezhdunarodnoi-nauchnoi-shkoly-im-p-g-kuznecova.html",
+      "image": "assets/source/54a7b93ea1751a32763bf80b.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b2bc16cd858221784d",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Солидарная, кооперационная, локальная экономика в действии",
+      "description": "3 октября при участии и поддержке РКО в посёлке Сумино Волосовского района Ленинградской области состоялась открытая встреча на площадке птичника кооператива «Союз собственников-совладельцев “Семейный Капитал. Феникс”». Перед участниками выступили организаторы и идеологи новой экономической модели хозяйствования И.Н.Белоусов, А.В.Бобровский, а также представители РКО - Задерей Валерий Александрович, Макаров Владимир ",
+      "url": "https://cosmatica.org/news/2265-solidarnaja-kooperacionnaja-ekonomika-v-deistvii.html",
+      "image": "assets/source/6ed69dc554c3f607bf1ef670.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a886e9c067f72de12e",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Стартовал всероссийский конкурс \"Живое слово\"!",
+      "description": "Цель конкурса — не утверждение спорных теорий, а возвращение к богатству и многообразию русского слова.",
+      "url": "https://cosmatica.org/news/2264-startoval-vserossiiskii-konkurs-zhivoe-slovo.html",
+      "image": "assets/source/c41f6a90245d830e30b9207d.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ce148a0ca9dc39d390",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Шахматный фестиваль ветеранов прошёл в Москве",
+      "description": "25 и 26 сентября 2026 года в Москве прошёл межрегиональный культурно-спортивный фестиваль по шахматам среди ветеранов. Его приурочили к 70-летию Российского Союза ветеранов. Играли в Центре шахматной культуры и информации имени Авербаха при Государственной публичной научно-технической библиотеке России.",
+      "url": "https://cosmatica.org/news/2263-shahmatnyi-festival-veteranov-proshyol-v-moskve.html",
+      "image": "assets/source/2abcb9fd552df93e6b617703.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7ccbb2e6fb7475bd15",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Юрий Владимирович Яковец встал в Вечный строй",
+      "description": "Для Русского Космического Общества это уход в мир горний своего человека. Имя Юрия Владимировича стоит в исторической справке о духовных и материальных корнях Общества , в том ряду учёных, на чьё творчество мы опирались, когда РКО создавалось, на чьи труды ссылаемся в своих работах, на чью личность равняемся в труде и борьбе. Он был членом Президиума Федерального народного совета солидарного общества, и внёс свой вкл",
+      "url": "https://cosmatica.org/news/2262-yurii-vladimirovich-jakovec-vstal-v-vechnyi-stroi.html",
+      "image": "assets/source/9c1831e836e13d3a8cc97ec0.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=468c1f13e607ec47b5",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Солидарное общество, или, «Как построить Россию будущего»",
+      "description": "Разговор о солидарном обществе, гармоничной личности и будущем России. Специалист в сфере государственного и муниципального управления, бывший депутат Государственной Думы, доктор наук, сопредседатель Федерального Народного Совета Солидарного Общества Игорь Викторович Бабичев рассказывает о концепции солидарного строительства и необходимости поставить в центр развития страны человека, семью, общество и созидание.",
+      "url": "https://cosmatica.org/news/2261-solidarnoe-obschestvo-ili-kak-postroit-rossiyu-buduschego.html",
+      "image": "assets/source/2a3117f53fd40dffccd259a0.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9dc938bb2181961ecd",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Фантастика расправляет крылья молодым!",
+      "description": "Прежде чем речь пойдёт о самом проекте, от первого лица его руководителя, от лица Правления Русского Космического Общества добавим, что совсем недавно руководитель проекта Марина Евгеньевна Лебедева взяла на себя ответственность возглавить Совет по культуре Русского Космического Общества .",
+      "url": "https://cosmatica.org/news/2260-fantastika-raspravljaet-krylja-molodym.html",
+      "image": "assets/source/96ddf0fc4a4af4814b6c45d7.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8aff9fc42d4a492c09",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "О тех, кто уходит, и о тех, кто остается",
+      "description": "В последнее время в информационном поле РКО появились призывы «распространять информацию о массовом выходе членов». Нам предлагают считать, кто ушел, и уведомлять об этом всех знакомых.",
+      "url": "https://cosmatica.org/news/2259-o-teh-kto-uhodit-i-o-teh-kto-ostaetsja.html",
+      "image": "assets/source/f3e5da4272647fd166d48ee3.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b0d9f843c3fc031f08",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Внеочередная конференция РКО. Итоги.",
+      "description": "Конференция проводилась по инициативе Правления Организации.",
+      "url": "https://cosmatica.org/news/2258-itogi-vneocherednoi-konferencii-rko.html",
+      "image": "assets/source/07c99de7efdae86feaf1a57c.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ebd87016b23ebaebb5",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Марина Евгеньевна Лебедева идёт в Государственную Думу",
+      "description": "В Русском Космическом Обществе Марину Евгеньевну Лебедеву знают хорошо и давно. Не только по верным словам – но и по добрым делам.",
+      "url": "https://cosmatica.org/news/2257-marina-evgenevna-lebedeva-idyot-v-gosudarstvennuyu-dumu.html",
+      "image": "assets/source/0d3264f7edc5342399268a0f.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=56802255e113e95fa3",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Концепция экологического просвещения",
+      "description": "В современном мире мы часто слышим, что экология находится в плачевном состоянии, экология нарушена и в то же время есть общепринятая установка, что экология должна спасти мир.",
+      "url": "https://cosmatica.org/news/2256-koncepcija-ekologicheskogo-prosveschenija.html",
+      "image": "assets/source/ff1273a474a9846e75a143f9.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9515be5a26e8056c8a",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "12.09.2026 состоялся семинар Международной научной школы устойчивого развития им. П.Г. Кузнецова",
+      "description": "12 сентября 2026 года состоялся онлайн-семинар Международной научной школы устойчивого развития имени П.Г. Кузнецова.",
+      "url": "https://cosmatica.org/news/2255-12-09-2026-sostojalsja-seminar-mezhdunarodnoi-nauchnoi-shkoly-ustoichivogo-razvitija-im-p-g-kuz.html",
+      "image": "assets/source/2261e8f57d6ca68373c7cb4b.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2e916dfd306f510f98",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Космоздрав. Ноосистема здоровья",
+      "description": "Сегодняшняя медицина умеет многое. Она умеет оперировать, подавлять симптом, продлевать жизнь органа. И всё же она остаётся медициной болезни.",
+      "url": "https://cosmatica.org/news/2254-kosmozdrav-noosistema-zdorovja.html",
+      "image": "assets/source/6e7adf2ee5851249ac024d77.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8c6eeaac884ac34e22",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Гагаринский сад. Осень - время сажать!",
+      "description": "Юрий Алексеевич Гагарин, облетев Землю обратился к нам: «Люди, будем хранить и приумножать эту красоту, а не разрушать её».",
+      "url": "https://cosmatica.org/news/2253-gagarinskii-sad-osen-vremja-sazhat.html",
+      "image": "assets/source/775615577900ce4f0f44c13f.webp",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9d432d69a479ba316b",
+      "type": "news-item",
+      "sourceCharacters": 0,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

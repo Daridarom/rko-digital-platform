@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/213-moi-pervyi-radiopriemnik.html",
+  "title": "Мой первый радиоприемник",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/5/b/moi-pervyi-radiopriemnik-photo-normal.jpg",
+      "alt": "Мой первый радиоприемник"
+    },
+    {
+      "type": "paragraph",
+      "text": "В этой небольшой книге мы расскажем вам, дорогие ребята, о сущности радиопередачи и радиоприёма и о том, как построить ваши первые радиоприёмники. Мы уверены, что знания и навыки, приобретённые вами при постройке даже этих простых конструкций, положительно скажутся на учёбе в школе, пригодятся в вашей будущей трудовой жизни.",
+      "spans": [
+        {
+          "text": "В этой небольшой книге мы расскажем вам, дорогие ребята, о сущности радиопередачи и радиоприёма и о том, как построить ваши первые радиоприёмники. Мы уверены, что знания и навыки, приобретённые вами при постройке даже этих простых конструкций, положительно скажутся на учёбе в школе, пригодятся в вашей будущей трудовой жизни."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Борисов В.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В этой небольшой книге мы расскажем вам, дорогие ребята, о сущности радиопередачи и радиоприёма и о том, как построить ваши первые радиоприёмники. Мы уверены, что знания и навыки, приобретённые вами при постройке даже этих простых конструкций, положительно скажутся на учёбе в школе, пригодятся в вашей будущей трудовой жизни.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 19 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1501/91a24b7e19eb318c43c0f2945b0d1d69"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/5/b/moi-pervyi-radiopriemnik-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1501/91a24b7e19eb318c43c0f2945b0d1d69"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 389,
+    "storedTextCharacters": 326,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40109
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 364,
+  "capturedBodyCharacters": 326,
+  "sourceTextSHA256": "644fee11fe6c0ff3388fed12901166cbb5bffafc336386035f87f344f06e1442",
+  "archiveSnapshotAt": "2026-10-08T08:48:03Z"
+}

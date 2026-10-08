@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/81-otkrytie-literaturnogo-kluba-rko.html",
+  "title": "Открытие литературного клуба РКО",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Поэзия Русского Космизма",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/6e/f7/otkrytie-literaturnogo-kluba-rko-photo-normal.jpg",
+      "alt": "Открытие литературного клуба РКО"
+    },
+    {
+      "type": "paragraph",
+      "text": "30-го марта в офисе Московского отделения прошло первое собрание клуба РКО. Литературный клуб ставит себе задачу по повышению творческого потенциала среди членов РКО. В рамках встреч будут разбираться основы стихосложения, рецензироваться стихи участников клуба, зачитываться доклады о творчестве русских классиков и не только.",
+      "spans": [
+        {
+          "text": "30-го марта в офисе Московского отделения прошло первое собрание клуба РКО. Литературный клуб ставит себе задачу по повышению творческого потенциала среди членов РКО. В рамках встреч будут разбираться основы стихосложения, рецензироваться стихи участников клуба, зачитываться доклады о творчестве русских классиков и не только. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Собрания будут проходить один раз в две недели, следующее назначено на 13-е апреля. Ждём всех желающих. Следите за нами вконтакте https://vk.com/cosmaticapoetryclub",
+      "spans": [
+        {
+          "text": "Собрания будут проходить один раз в две недели, следующее назначено на 13-е апреля. Ждём всех желающих. Следите за нами вконтакте "
+        },
+        {
+          "text": "https://vk.com/cosmaticapoetryclub",
+          "href": "https://vk.com/cosmaticapoetryclub"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://vk.com/cosmaticapoetryclub",
+          "url": "https://vk.com/cosmaticapoetryclub"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В рамках проекта \"Поэзия Русского Космизма\" открылся литературный клуб",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "30-го марта в офисе Московского отделения прошло первое собрание клуба РКО. Литературный клуб ставит себе задачу по повышению творческого потенциала среди членов РКО. В рамках встреч будут разбираться основы стихосложения, рецензироваться стихи участников клуба, зачитываться доклады о творчестве русских классиков и не только. Собрания будут проходить один раз в две недели, следующее назначено на 13-е апреля. Ждём всех желающих. Следите за нами вконтакте https://vk.com/cosmaticapoetryclub",
+      "links": [
+        {
+          "title": "https://vk.com/cosmaticapoetryclub",
+          "url": "https://vk.com/cosmaticapoetryclub"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/6e/f7/otkrytie-literaturnogo-kluba-rko-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 749,
+    "storedTextCharacters": 527,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 46501
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 580,
+  "capturedBodyCharacters": 527,
+  "sourceTextSHA256": "dcb08d1c33e5b3252e641423208236817d21f348e2149459f1ab7a5f2284a3fd",
+  "archiveSnapshotAt": "2026-10-08T09:13:41Z"
+}

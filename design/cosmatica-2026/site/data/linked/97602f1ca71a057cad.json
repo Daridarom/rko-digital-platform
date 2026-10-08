@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/206-benzinomotorchik.html",
+  "title": "Бензиномоторчик",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/8/2/benzinomotorchik-photo-normal.jpg",
+      "alt": "Бензиномоторчик"
+    },
+    {
+      "type": "paragraph",
+      "text": "Описываемый моторчик типа ПП-4 спроектирован инженером П.В.Пылковым (Ленинград).\r\nПри конструировании моторчика были учтены конструкции авиамодельных моторов США.",
+      "spans": [
+        {
+          "text": "Описываемый моторчик типа ПП-4 спроектирован инженером П.В.Пылковым (Ленинград).\r\nПри конструировании моторчика были учтены конструкции авиамодельных моторов США."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Модель",
+      "spans": [
+        {
+          "text": "Модель"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", построенная Петровым (Ленинград), с моторчиком ПП-4 установила на авиамодельных состязаниях 1937 г. в Коктебеле всесоюзный рекорд дальности в 14370 метров.\r\nМ.: Изд-во Детской литературы ЦК ВЛКСМ, 1940. — 36 с.",
+      "spans": [
+        {
+          "text": ", построенная Петровым (Ленинград), с моторчиком ПП-4 установила на авиамодельных состязаниях 1937 г. в Коктебеле всесоюзный рекорд дальности в 14370 метров.\r\nМ.: Изд-во Детской литературы ЦК ВЛКСМ, 1940. — 36 с."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Пылков П.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Описываемый моторчик типа ПП-4 спроектирован инженером П.В.Пылковым (Ленинград). При конструировании моторчика были учтены конструкции авиамодельных моторов США. Модель , построенная Петровым (Ленинград), с моторчиком ПП-4 установила на авиамодельных состязаниях 1937 г. в Коктебеле всесоюзный рекорд дальности в 14370 метров. М.: Изд-во Детской литературы ЦК ВЛКСМ, 1940. — 36 с.",
+      "links": [
+        {
+          "title": "Модель",
+          "url": "https://cosmatica.org/glossary/105-model.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 8 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1494/e4ba33e3374810f3d4f1c91784d11b00"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/8/2/benzinomotorchik-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1494/e4ba33e3374810f3d4f1c91784d11b00"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 432,
+    "storedTextCharacters": 380,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40189
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 416,
+  "capturedBodyCharacters": 380,
+  "sourceTextSHA256": "69397c2261e8a4298b8fbc6c6b4f55c36ec05a73a3bd6396ba08fc5e6df3f881",
+  "archiveSnapshotAt": "2026-10-08T08:48:01Z"
+}

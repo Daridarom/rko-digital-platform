@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/351-rukodelie-v-shkole-1971.html",
+  "title": "Рукоделие в школе (1971)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/d/b/rukodelie-v-shkole-1971-photo-normal.png",
+      "alt": "Рукоделие в школе (1971)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга написана учительницей домоводства школы Таллинна. В ней обобщен многолетний опыт работы автора, а также таллиннских учителей ряда школ по внеклассной работе по рукоделию. Содержание книги построено по видам рукоделия: вязание крючком, вязание на спицах и вышивание. Материал в разделах расположен в постепенном усложнении.",
+      "spans": [
+        {
+          "text": "Книга написана учительницей домоводства школы Таллинна. В ней обобщен многолетний опыт работы автора, а также таллиннских учителей ряда школ по внеклассной работе по рукоделию. Содержание книги построено по видам рукоделия: вязание крючком, вязание на спицах и вышивание. Материал в разделах расположен в постепенном усложнении."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Мульги А.Я.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга написана учительницей домоводства школы Таллинна. В ней обобщен многолетний опыт работы автора, а также таллиннских учителей ряда школ по внеклассной работе по рукоделию. Содержание книги построено по видам рукоделия: вязание крючком, вязание на спицах и вышивание. Материал в разделах расположен в постепенном усложнении.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 28 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2135/d5a0437c4d1cdbfc95b3de3f2f029fdf"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/d/b/rukodelie-v-shkole-1971-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2135/d5a0437c4d1cdbfc95b3de3f2f029fdf"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 392,
+    "storedTextCharacters": 328,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40505
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 367,
+  "capturedBodyCharacters": 328,
+  "sourceTextSHA256": "2f7e446134b5f1a306c7bdd1d36de17a42e3ca0c14738a79c2d4482aff5cc95e",
+  "archiveSnapshotAt": "2026-10-08T08:49:27Z"
+}

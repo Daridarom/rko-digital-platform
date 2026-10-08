@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 130,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Сайт Президента РКО Большакова Бориса Евгеньевича - учёного в области науки устойчивого развития",
+      "description": "Русским Космическим Обществом создан сайт Президента РКО, учёного в области науки устойчивого развития - Большакова Бориса Евгеньевича.",
+      "url": "https://cosmatica.org/news/104-sait-prezidenta-rko-uchyonogo-v-oblasti-nauki-ustoichivogo-razvitija-bolshakova-borisa-evgenevic.html",
+      "image": "https://cosmatica.org/upload/000/u7/b8/6c/sait-prezidenta-rko-uchyonogo-v-oblasti-nauki-ustoichivogo-razviti.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=686615d0cc1e604f8e",
+      "type": "news-item",
+      "sourceCharacters": 3551,
+      "verified": false
+    },
+    {
+      "title": "В Звёздном сияли юные звёзды.",
+      "description": "Это прекрасное событие собрало более 200 юных шахматистов из России, Белоруссии, Киргизии и Казахстана. Всего же заявки на участие в соревнованиях подали более 600 детей.",
+      "url": "https://cosmatica.org/news/368-v-zvyozdnom-sijali-yunye-zvyozdy.html",
+      "image": "https://cosmatica.org/upload/000/u26/8/c/fa2b8b51.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=58e0f99570cf35323f",
+      "type": "news-item",
+      "sourceCharacters": 1759,
+      "verified": false
+    },
+    {
+      "title": "Генерал \"Буран\"",
+      "description": "В рамках Всероссийского движения Русского Космического Общества «СОХРАНЯЯ ПАМЯТЬ» началось осуществление проекта ГЕНЕРАЛ \"БУРАН\".",
+      "url": "https://cosmatica.org/news/103-general-buran.html",
+      "image": "https://cosmatica.org/upload/000/u21/64/56/general-buran-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=644b13da959e02ab84",
+      "type": "news-item",
+      "sourceCharacters": 2214,
+      "verified": false
+    },
+    {
+      "title": "\"Зеркала в голографической вселенной Козырева: история, результаты, перспективы\"",
+      "description": "В монографии представлены: научная хроника становления и развития нового фундаментально-прикладного направления в российском естествознании и космической антропоэкологии — изучения живого вещества и интеллекта в «пространстве энергии-времени Н.А. Козырева», результаты многолетних научных исследований трансперсональных дистанционных взаимодействий между людьми, проведенных в «Зеркалах Козырева» ИКЭМ СО РАМН и Междунар",
+      "url": "https://cosmatica.org/news/102-zerkala-v-golograficheskoi-vselennoi-kozyreva-istorija-rezultaty-perspektivy.html",
+      "image": "https://cosmatica.org/upload/000/u30/94/f5/d76514cc.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=538251dad88a781329",
+      "type": "news-item",
+      "sourceCharacters": 1579,
+      "verified": false
+    },
+    {
+      "title": "Приглашаем на конференцию Русского Космического Общества",
+      "description": "Конференция и её секции пройдут на площадках г. Москвы, г. Санкт-Петербурга, г. Дубны (Московская область).",
+      "url": "https://cosmatica.org/news/100-priglashaem-na-konferenciyu-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u8/e2/51/priglashaem-na-konferenciyu-russkogo-kosmicheskogo-obschestva-photo-n.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c0878ae070e390d7c4",
+      "type": "news-item",
+      "sourceCharacters": 2001,
+      "verified": false
+    },
+    {
+      "title": "В рамках проекта \"Поэзия русского космизма\" продолжает работу литературный клуб",
+      "description": "Литературный клуб РКО приглашает поэтов на заседания клуба. Следующая встреча состоится в среду 30-го мая в 19-00 По адресу Ленинградский проспект, дом 7",
+      "url": "https://cosmatica.org/news/99-v-ramkah-proekta-poezija-russkogo-kosmizma-prodolzhaet-rabotu-literaturnyi-klub.html",
+      "image": "https://cosmatica.org/upload/000/u1/4e/eb/v-ramkah-proekta-poezija-russkogo-kosmizma-prodolzhaet-rabotu-li.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d2c9fcdb42a90f8158",
+      "type": "news-item",
+      "sourceCharacters": 212,
+      "verified": false
+    },
+    {
+      "title": "Заседание Бюро Президиума Российской академии естественных наук",
+      "description": "В рамках доклада Президента РАЕН О.Л. Кузнецова: \" Информация о деятельности РАЕН\", было предоставлено слово Председателю Президиума Русского Космического Общества Гапонову Алексею Алексеевичу.",
+      "url": "https://cosmatica.org/news/98-zasedanie-byuro-prezidiuma-rossiiskoi-akademii-estestvennyh-nauk.html",
+      "image": "https://cosmatica.org/upload/000/u8/1b/64/zasedanie-byuro-prezidiuma-rossiiskoi-akademii-estestvennyh-nauk.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e3fa76c073da75ddda",
+      "type": "news-item",
+      "sourceCharacters": 1147,
+      "verified": false
+    },
+    {
+      "title": "Новый выпуск цикла передач \"Прорыв!\"",
+      "description": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/97-novyi-vypusk-cikla-peredach-proryv.html",
+      "image": "https://cosmatica.org/upload/000/u26/ff/48/74318573.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b4cfbec3910679f2ad",
+      "type": "news-item",
+      "sourceCharacters": 780,
+      "verified": false
+    },
+    {
+      "title": "Газета \"Природа - Общество - Человек\". Выпуск №9.",
+      "description": "Печатный выпуск издания можно получить двумя способами: 1. По подписке. Подробнее об этом: подписка . 2. Заглянуть к нам в офис, предварительно связавшись по указанным контактам: контакты .",
+      "url": "https://cosmatica.org/news/95-gazeta-priroda-obschestvo-chelovek-vypusk-9.html",
+      "image": "https://cosmatica.org/upload/000/u8/7e/05/bbee5e7c.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1eacbf37dda13f5ab1",
+      "type": "news-item",
+      "sourceCharacters": 6907,
+      "verified": false
+    },
+    {
+      "title": "Открыта регистрация на IX Международную научную конференцию",
+      "description": "25 мая 2018 года с 10:00 до 15:30 состоится IX Международная научная конференция по фундаментальным и прикладным проблемам в системе «Природа-Общество-Человек» на тему «Устойчивое развитие как условие сохранения и развития жизни российского общества».",
+      "url": "https://cosmatica.org/news/94-otkryta-registracija-na-ix-mezhdunarodnuyu-nauchnuyu-konferenciyu-na-temu-ustoichivoe-razvitie-ka.html",
+      "image": "https://cosmatica.org/upload/000/u1/5a/8d/otkryta-registracija-na-ix-mezhdunarodnuyu-nauchnuyu-konferenciyu-pho.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=902edb54b7bfbdb561",
+      "type": "news-item",
+      "sourceCharacters": 1513,
+      "verified": false
+    },
+    {
+      "title": "Итоги и планы РКО СПб",
+      "description": "Представляем вашему вниманию видеоотчет по второму собранию Санкт-Петербургского отделения РКО, прошедшему 07.04.2018 г.",
+      "url": "https://cosmatica.org/news/93-itogi-i-plany-rko-spb.html",
+      "image": "https://cosmatica.org/upload/000/u21/d7/5d/itogi-i-plany-rko-spb-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0b0de61a6e67699016",
+      "type": "news-item",
+      "sourceCharacters": 137,
+      "verified": false
+    },
+    {
+      "title": "Итоги IV «космической» смены в Артеке",
+      "description": "Русское Космическое Общество объединяло, объединяет и будет объединять лучшую молодежь России!",
+      "url": "https://cosmatica.org/news/91-itogi-iv-kosmicheskoi-smeny-v-arteke.html",
+      "image": "https://cosmatica.org/upload/000/u26/e5/b2/f93b8bbb.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ae88ad3e76c104f3f5",
+      "type": "news-item",
+      "sourceCharacters": 1086,
+      "verified": false
+    },
+    {
+      "title": "Подведены итоги конкурса эссе!",
+      "description": "В конкурсе приняли участие молодые специалисты (бакалавры и магистры) из стран: Казахстан (Казахстанский Национальный университет им. Аль-Фараби, Казахстанский национальный технический университет им. К.И. Сатпаева и др.), Белоруссия (Республиканский институт Высшей школы), Киргизия (Кыргызско-Российский Славянский университет) и России. Российские участники представляли многие регионы нашей страны. Среди них:",
+      "url": "https://cosmatica.org/news/90-podvedeny-itogi-konkursa-esse.html",
+      "image": "https://cosmatica.org/upload/000/u8/3a/8d/podvedeny-itogi-konkursa-esse-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=da64f05640d844708e",
+      "type": "news-item",
+      "sourceCharacters": 3114,
+      "verified": false
+    },
+    {
+      "title": "Итоги Молодёжного футурологического конгресса 2018.",
+      "description": "Было подано 18 заявок на участие, из которых 7 проектов прошли модерацию.",
+      "url": "https://cosmatica.org/news/89-itogi-molodyozhnogo-futurologicheskogo-kongressa-2018.html",
+      "image": "https://cosmatica.org/upload/000/u7/02/b8/itogi-molodyozhnogo-futurologicheskogo-kongressa-2018-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a19d766c2596c574cd",
+      "type": "news-item",
+      "sourceCharacters": 827,
+      "verified": false
+    },
+    {
+      "title": "Системономические чтения – 2018",
+      "description": "В конференц-зале собрались представители Русского Космического общества (РКО), учёные РАЕН, Крымской академии ноосферного образования и науки (КАНОН), Международной ноосферной академии науки и образования (НАНО), Международного Университета «Природа-общество-человек» г. Дубна, Славянской Всемирной академии (СВА), института целостного мышления России (Москва), института целостного мышления Украины (Одесса).",
+      "url": "https://cosmatica.org/news/92-sistemonomicheskie-chtenija-2018.html",
+      "image": "https://cosmatica.org/upload/000/u42/fb/c9/0dbed8ce.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=50560c17ebcd8eee5c",
+      "type": "news-item",
+      "sourceCharacters": 1755,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

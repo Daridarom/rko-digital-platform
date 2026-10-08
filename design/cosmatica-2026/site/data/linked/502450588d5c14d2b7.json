@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/obrazovanie/nachalnoe-obrazovanie",
+  "title": "Начальное образование",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "Занимательная арифметика",
+          "Перельман. Я. И.",
+          ""
+        ],
+        [
+          "",
+          "Занимательная алгебра",
+          "Перельман Я. И.",
+          ""
+        ],
+        [
+          "",
+          "Занимательная зоология",
+          "Проф. Никольский А. М",
+          ""
+        ],
+        [
+          "",
+          "Внеклассная работа по математике в 4-5 классах",
+          "Чесноков А. С., Шварцбурд С. И., Головина В. Д.",
+          ""
+        ],
+        [
+          "",
+          "Незнайка в стране графов",
+          "Мельников О. И.",
+          ""
+        ],
+        [
+          "",
+          "Воспитание творчеством",
+          "Соловейчик С.Л.",
+          ""
+        ],
+        [
+          "",
+          "Английский для малышей (книга 1)",
+          "Скультэ В.",
+          ""
+        ],
+        [
+          "",
+          "Родная песня",
+          "Солоникова О. В.",
+          ""
+        ],
+        [
+          "",
+          "Детский мир. Хрестоматия",
+          "Ушинский К. Д.",
+          ""
+        ],
+        [
+          "",
+          "Родное слово",
+          "Ушинский К. Д.",
+          ""
+        ],
+        [
+          "",
+          "Рисование",
+          "Ростовцев Н. Н.",
+          ""
+        ],
+        [
+          "",
+          "Дневник наблюдений над природой и деятельностью человека",
+          "Валерьяновая Е. А.",
+          ""
+        ],
+        [
+          "",
+          "Изучай свой край",
+          "Обручев С. В.",
+          ""
+        ],
+        [
+          "",
+          "Книга для чтения по анатомии, физиологии и гигиене человека",
+          "Зверев И.Д.",
+          ""
+        ],
+        [
+          "",
+          "Сборник практических задач по математике",
+          "Сорокин П.И.",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/e/zanimatelnaja-arifmetika-photo-small.jpg",
+      "alt": "Занимательная арифметика"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/4/zanimatelnaja-algebra-photo-small.jpg",
+      "alt": "Занимательная алгебра"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/9/zanimatelnaja-zoologija-photo-small.jpg",
+      "alt": "Занимательная зоология"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/6/7/vneklassnaja-rabota-po-matematike-v-4-5-klassah-photo-small.jpg",
+      "alt": "Внеклассная работа по математике в 4-5 классах"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/8/3/neznaika-v-strane-grafov-photo-small.jpg",
+      "alt": "Незнайка в стране графов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/5/1/71fe5191.jpg",
+      "alt": "Воспитание творчеством"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/5/0/angliiskii-dlja-malyshei-kniga-1-photo-small.png",
+      "alt": "Английский для малышей (книга 1)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/e/3/rodnaja-pesnja-photo-small.png",
+      "alt": "Родная песня"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/5/4/detskii-mir-hrestomatija-photo-small.jpg",
+      "alt": "Детский мир. Хрестоматия"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/c/b/rodnoe-slovo-photo-small.png",
+      "alt": "Родное слово"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/1/7/risovanie-photo-small.png",
+      "alt": "Рисование"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/5/5/dnevnik-nablyudenii-nad-prirodoi-i-dejatelnostyu-cheloveka-photo-s.png",
+      "alt": "Дневник наблюдений над природой и деятельностью человека"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/b/b/izuchai-svoi-krai-photo-small.png",
+      "alt": "Изучай свой край"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/1/b/kniga-dlja-chtenija-po-anatomii-fiziologii-i-gigiene-cheloveka-phot.png",
+      "alt": "Книга для чтения по анатомии, физиологии и гигиене человека"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/b/sbornik-prakticheskih-zadach-po-matematike-photo-small.png",
+      "alt": "Сборник практических задач по математике"
+    }
+  ],
+  "cards": [
+    {
+      "title": "Занимательная арифметика",
+      "description": "Занимательная арифметика Перельман. Я. И.",
+      "url": "https://cosmatica.org/library/432-zanimatelnaja-arifmetika.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/e/zanimatelnaja-arifmetika-photo-small.jpg",
+      "links": [
+        {
+          "title": "Занимательная арифметика",
+          "url": "https://cosmatica.org/library/432-zanimatelnaja-arifmetika.html"
+        }
+      ]
+    },
+    {
+      "title": "Занимательная алгебра",
+      "description": "Занимательная алгебра Перельман Я. И.",
+      "url": "https://cosmatica.org/library/431-zanimatelnaja-algebra.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/4/zanimatelnaja-algebra-photo-small.jpg",
+      "links": [
+        {
+          "title": "Занимательная алгебра",
+          "url": "https://cosmatica.org/library/431-zanimatelnaja-algebra.html"
+        }
+      ]
+    },
+    {
+      "title": "Занимательная зоология",
+      "description": "Занимательная зоология Проф. Никольский А. М",
+      "url": "https://cosmatica.org/library/429-zanimatelnaja-zoologija.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/9/zanimatelnaja-zoologija-photo-small.jpg",
+      "links": [
+        {
+          "title": "Занимательная зоология",
+          "url": "https://cosmatica.org/library/429-zanimatelnaja-zoologija.html"
+        }
+      ]
+    },
+    {
+      "title": "Внеклассная работа по математике в 4-5 классах",
+      "description": "Внеклассная работа по математике в 4-5 классах Чесноков А. С., Шварцбурд С. И., Головина В. Д.",
+      "url": "https://cosmatica.org/library/416-vneklassnaja-rabota-po-matematike-v-4-5-klassah.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/7/vneklassnaja-rabota-po-matematike-v-4-5-klassah-photo-small.jpg",
+      "links": [
+        {
+          "title": "Внеклассная работа по математике в 4-5 классах",
+          "url": "https://cosmatica.org/library/416-vneklassnaja-rabota-po-matematike-v-4-5-klassah.html"
+        }
+      ]
+    },
+    {
+      "title": "Незнайка в стране графов",
+      "description": "Незнайка в стране графов Мельников О. И.",
+      "url": "https://cosmatica.org/library/412-neznaika-v-strane-grafov.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/3/neznaika-v-strane-grafov-photo-small.jpg",
+      "links": [
+        {
+          "title": "Незнайка в стране графов",
+          "url": "https://cosmatica.org/library/412-neznaika-v-strane-grafov.html"
+        }
+      ]
+    },
+    {
+      "title": "Воспитание творчеством",
+      "description": "Воспитание творчеством Соловейчик С.Л.",
+      "url": "https://cosmatica.org/library/402-vospitanie-tvorchestvom.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/1/71fe5191.jpg",
+      "links": [
+        {
+          "title": "Воспитание творчеством",
+          "url": "https://cosmatica.org/library/402-vospitanie-tvorchestvom.html"
+        }
+      ]
+    },
+    {
+      "title": "Английский для малышей (книга 1)",
+      "description": "Английский для малышей (книга 1) Скультэ В.",
+      "url": "https://cosmatica.org/library/373-angliiskii-dlja-malyshei-kniga-1.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/0/angliiskii-dlja-malyshei-kniga-1-photo-small.png",
+      "links": [
+        {
+          "title": "Английский для малышей (книга 1)",
+          "url": "https://cosmatica.org/library/373-angliiskii-dlja-malyshei-kniga-1.html"
+        }
+      ]
+    },
+    {
+      "title": "Родная песня",
+      "description": "Родная песня Солоникова О. В.",
+      "url": "https://cosmatica.org/library/370-rodnaja-pesnja.html",
+      "image": "https://cosmatica.org/upload/000/u26/e/3/rodnaja-pesnja-photo-small.png",
+      "links": [
+        {
+          "title": "Родная песня",
+          "url": "https://cosmatica.org/library/370-rodnaja-pesnja.html"
+        }
+      ]
+    },
+    {
+      "title": "Детский мир. Хрестоматия",
+      "description": "Детский мир. Хрестоматия Ушинский К. Д.",
+      "url": "https://cosmatica.org/library/368-detskii-mir-hrestomatija.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/4/detskii-mir-hrestomatija-photo-small.jpg",
+      "links": [
+        {
+          "title": "Детский мир. Хрестоматия",
+          "url": "https://cosmatica.org/library/368-detskii-mir-hrestomatija.html"
+        }
+      ]
+    },
+    {
+      "title": "Родное слово",
+      "description": "Родное слово Ушинский К. Д.",
+      "url": "https://cosmatica.org/library/367-rodnoe-slovo.html",
+      "image": "https://cosmatica.org/upload/000/u26/c/b/rodnoe-slovo-photo-small.png",
+      "links": [
+        {
+          "title": "Родное слово",
+          "url": "https://cosmatica.org/library/367-rodnoe-slovo.html"
+        }
+      ]
+    },
+    {
+      "title": "Рисование",
+      "description": "Рисование Ростовцев Н. Н.",
+      "url": "https://cosmatica.org/library/366-risovanie.html",
+      "image": "https://cosmatica.org/upload/000/u26/1/7/risovanie-photo-small.png",
+      "links": [
+        {
+          "title": "Рисование",
+          "url": "https://cosmatica.org/library/366-risovanie.html"
+        }
+      ]
+    },
+    {
+      "title": "Дневник наблюдений над природой и деятельностью человека",
+      "description": "Дневник наблюдений над природой и деятельностью человека Валерьяновая Е. А.",
+      "url": "https://cosmatica.org/library/365-dnevnik-nablyudenii-nad-prirodoi-i-dejatelnostyu-cheloveka.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/5/dnevnik-nablyudenii-nad-prirodoi-i-dejatelnostyu-cheloveka-photo-s.png",
+      "links": [
+        {
+          "title": "Дневник наблюдений над природой и деятельностью человека",
+          "url": "https://cosmatica.org/library/365-dnevnik-nablyudenii-nad-prirodoi-i-dejatelnostyu-cheloveka.html"
+        }
+      ]
+    },
+    {
+      "title": "Изучай свой край",
+      "description": "Изучай свой край Обручев С. В.",
+      "url": "https://cosmatica.org/library/364-izuchai-svoi-krai.html",
+      "image": "https://cosmatica.org/upload/000/u26/b/b/izuchai-svoi-krai-photo-small.png",
+      "links": [
+        {
+          "title": "Изучай свой край",
+          "url": "https://cosmatica.org/library/364-izuchai-svoi-krai.html"
+        }
+      ]
+    },
+    {
+      "title": "Книга для чтения по анатомии, физиологии и гигиене человека",
+      "description": "Книга для чтения по анатомии, физиологии и гигиене человека Зверев И.Д.",
+      "url": "https://cosmatica.org/library/354-kniga-dlja-chtenija-po-anatomii-fiziologii-i-gigiene-cheloveka.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/b/kniga-dlja-chtenija-po-anatomii-fiziologii-i-gigiene-cheloveka-phot.png",
+      "links": [
+        {
+          "title": "Книга для чтения по анатомии, физиологии и гигиене человека",
+          "url": "https://cosmatica.org/library/354-kniga-dlja-chtenija-po-anatomii-fiziologii-i-gigiene-cheloveka.html"
+        }
+      ]
+    },
+    {
+      "title": "Сборник практических задач по математике",
+      "description": "Сборник практических задач по математике Сорокин П.И.",
+      "url": "https://cosmatica.org/library/352-sbornik-prakticheskih-zadach-po-matematike.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/b/sbornik-prakticheskih-zadach-po-matematike-photo-small.png",
+      "links": [
+        {
+          "title": "Сборник практических задач по математике",
+          "url": "https://cosmatica.org/library/352-sbornik-prakticheskih-zadach-po-matematike.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/9/e/zanimatelnaja-arifmetika-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/0/4/zanimatelnaja-algebra-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/e/9/zanimatelnaja-zoologija-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/6/7/vneklassnaja-rabota-po-matematike-v-4-5-klassah-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/8/3/neznaika-v-strane-grafov-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u7/5/1/71fe5191.jpg",
+    "https://cosmatica.org/upload/000/u26/5/0/angliiskii-dlja-malyshei-kniga-1-photo-small.png",
+    "https://cosmatica.org/upload/000/u26/e/3/rodnaja-pesnja-photo-small.png",
+    "https://cosmatica.org/upload/000/u26/5/4/detskii-mir-hrestomatija-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u26/c/b/rodnoe-slovo-photo-small.png",
+    "https://cosmatica.org/upload/000/u26/1/7/risovanie-photo-small.png",
+    "https://cosmatica.org/upload/000/u26/5/5/dnevnik-nablyudenii-nad-prirodoi-i-dejatelnostyu-cheloveka-photo-s.png",
+    "https://cosmatica.org/upload/000/u26/b/b/izuchai-svoi-krai-photo-small.png",
+    "https://cosmatica.org/upload/002/u218/1/b/kniga-dlja-chtenija-po-anatomii-fiziologii-i-gigiene-cheloveka-phot.png",
+    "https://cosmatica.org/upload/002/u218/7/b/sbornik-prakticheskih-zadach-po-matematike-photo-small.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 782,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 15,
+    "sourceImageCount": 15,
+    "paragraphCount": 0,
+    "sourceBytes": 62549
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 782,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "873ab751baa48db555901a2950c23033abf36ff0d0d2adafbf02c945fbf3d93e",
+  "archiveSnapshotAt": "2026-10-08T08:51:15Z"
+}

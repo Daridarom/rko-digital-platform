@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/274-teoreticheskaja-astrofizika-1952.html",
+  "title": "Теоретическая астрофизика (1952)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/2/7/teoreticheskaja-astrofizika-1952-photo-normal.jpg",
+      "alt": "Теоретическая астрофизика (1952)"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Амбарцумян В.А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 10 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2007/3ea496a175afc607cb52cc9e9d3db377"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/2/7/teoreticheskaja-astrofizika-1952-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2007/3ea496a175afc607cb52cc9e9d3db377"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 75,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39025
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 42,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "c6b6132f1eb877bd02fbcdfe1f87d243b3409cdbf7d3fba8cb2f290b9c876a7d",
+  "archiveSnapshotAt": "2026-10-08T08:48:25Z"
+}

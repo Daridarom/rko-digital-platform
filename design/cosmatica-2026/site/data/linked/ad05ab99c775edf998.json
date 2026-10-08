@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/174-chizhevskii-aleksandr-leonidovich-teorija-kosmicheskih-er.html",
+  "title": "Чижевский Александр Леонидович - Теория космических эр",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/bf/b6/teorija-kosmicheskih-er-photo-normal.jpg",
+      "alt": "Чижевский Александр Леонидович - Теория космических эр"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Чижевский Александр Леонидович",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 339 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1273/d7c370c189e06395d752e79886922cf3"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/bf/b6/teorija-kosmicheskih-er-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1273/d7c370c189e06395d752e79886922cf3"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 113,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39348
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 58,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "3c0804477deedfce3aac5ecee6bb809bd161a34022216339dd28f71260e5e9f7",
+  "archiveSnapshotAt": "2026-10-08T08:47:51Z"
+}

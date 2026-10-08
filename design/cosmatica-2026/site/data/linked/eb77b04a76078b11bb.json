@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1160-tradicionnaja-babushka-ocifrovannogo-mira-o-singuljarnosti.html",
+  "title": "Традиционная бабушка оцифрованного мира о сингулярности",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Лекторий Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/1/tradicionnaja-babushka-ocifrovannogo-mira-o-singuljarnosti-photo-no.jpeg",
+      "alt": "Традиционная бабушка оцифрованного мира о сингулярности"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/3/f/img-20210925-wa0070.jpg",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "0XGkPT8NOCs",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=0XGkPT8NOCs"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "23 сентября в Москве в библиотеке № 234 состоялась лекция председателя Канадского представительства Русского Космического Общества.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Эра Человечности. Время перехода. Ноосфера , или Некросфера - выбор без выбора. Технологическая сингулярность, или Человеческая сингулярность. Новая глобальная идентичность - космическое человечество. Как мы сделаем это. Такая глобальная тема была вынесена на повестку на встрече с Мухиной Ириной Константиновной , которая состоялась 23 сентября 2021 года в Библиотеке № 234 \"Фантазиум\". Она - к.ф-м.наук, специалист в финтехе и в цифровых технологиях, учредитель и президент «Инновационного центра познания и творчества» и частной школы ЭРУДИТ, приглашенный преподаватель НГУ и РАНХиГС, автор и ведущая видео-блога и виртуального клуба-горницы «Искусственный Интеллект для домохозяек», председатель представительства РКО в Канаде и традиционная бабушка оцифрованного мира, как она сама себя называет. Ирина Константиновна уже четверть века проживает в Канаде. В Москву приезжает преподавать. Её лекции и встречи с гостями виртуального клуба-горницы «Искусственный Интеллект для домохозяек» всегда вызывают интерес как в России, так и за рубежом. Присоединившись к Русскому Космическому Обществу, Ирина Константиновна взяла на себя ответственность создать и возглавить Канадское отделение нашей Организации. Кроме того, она активно включилась в процесс распространения технологии Сетения, который определён нами, как биосоциотехнический соэволюционный процесс, направляемый разумом человека на повышение эффективности обмена энергией, информацией, ресурсами в интересах устойчивого развития жизни. Приглашаем посмотреть видеозапись встречи, услышать сделанные в нём посылы, и присоединяться к нашему Общему Делу.",
+      "links": [
+        {
+          "title": "Время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        },
+        {
+          "title": "Ноосфера",
+          "url": "https://cosmatica.org/glossary/97-noosfera.html"
+        },
+        {
+          "title": "Мухиной Ириной Константиновной",
+          "url": "https://cosmatica.org/users/1298"
+        },
+        {
+          "title": "Общему Делу.",
+          "url": "https://cosmatica.org/about/1-memorandum.html"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u35/3/f/img-20210925-wa0070.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/b/1/tradicionnaja-babushka-ocifrovannogo-mira-o-singuljarnosti-photo-no.jpeg",
+    "https://cosmatica.org/upload/000/u35/3/f/img-20210925-wa0070.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 2084,
+    "storedTextCharacters": 51,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 2,
+    "sourceBytes": 51265
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1877,
+  "capturedBodyCharacters": 51,
+  "sourceTextSHA256": "2798f94a1af870db8b2d08749d7a0ce6530c3094fd1df760268f979857e99810",
+  "archiveSnapshotAt": "2026-10-08T08:52:36Z",
+  "publicVideoCount": 1
+}

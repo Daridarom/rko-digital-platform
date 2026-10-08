@@ -7,8 +7,17 @@
   "blocks": [
     {
       "type": "image",
-      "src": "assets/source/88d4bd62bba58ccae1f63b26.webp",
+      "src": "https://cosmatica.org/upload/000/u7/b/3/6ee015dd.jpg",
       "alt": "The Book of Life"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Book of Life is not a dogma, for Life itself is the transformation of the impossible today into the possible tomorrow . The Book of Life is not for everyone, because the burden of Choice is great . The Book of Life is the first Book of Initiation, for the one who holds it will never be the same . The Book of Life is not finished, for it is being realized, and a single Appendix opens the veil of what is to come.",
+      "spans": [
+        {
+          "text": "The Book of Life is not a dogma, for Life itself is the transformation of the impossible today into the possible tomorrow . The Book of Life is not for everyone, because the burden of Choice is great . The Book of Life is the first Book of Initiation, for the one who holds it will never be the same . The Book of Life is not finished, for it is being realized, and a single Appendix opens the veil of what is to come."
+        }
+      ]
     }
   ],
   "cards": [],
@@ -31,19 +40,19 @@
       "links": [
         {
           "title": "Скачать",
-          "url": "https://cosmatica.org/files/download/6048/0db45baffa9108db17a73c9d7d37ba40"
+          "url": "https://cosmatica.org/files/download/6048/010b68e53129f78f6e8c04a671f4d8b3"
         }
       ],
       "image": null
     }
   ],
   "images": [
-    "assets/source/88d4bd62bba58ccae1f63b26.webp"
+    "https://cosmatica.org/upload/000/u7/b/3/6ee015dd.jpg"
   ],
   "documents": [
     {
       "label": "Скачать",
-      "url": "https://cosmatica.org/files/download/6048/0db45baffa9108db17a73c9d7d37ba40"
+      "url": "https://cosmatica.org/files/download/6048/010b68e53129f78f6e8c04a671f4d8b3"
     }
   ],
   "categories": [],
@@ -51,10 +60,16 @@
   "sourceEvidence": {
     "http": 200,
     "sourceTextCharacters": 486,
-    "storedTextCharacters": 0,
+    "storedTextCharacters": 418,
     "sourceCardCount": 0,
     "sourceImageCount": 1,
     "paragraphCount": 0,
     "sourceBytes": 39388
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 469,
+  "capturedBodyCharacters": 418,
+  "sourceTextSHA256": "ec02758c3b9f53ee8c766acc686f528d8e0fe5b41bbf74b9a9ca7a8954f1d36f",
+  "archiveSnapshotAt": "2026-10-08T08:51:02Z"
 }

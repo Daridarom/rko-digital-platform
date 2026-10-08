@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/68-vypusk-1-galushkin-yurii-aleksandrovich.html",
+  "title": "Выпуск 1: Галушкин Юрий Александрович",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Цикл передач \"Прорыв!\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Герой выпуска - Галушкин Юрий Александрович, почётный академик РАЕН, профессор, ученик академика С.П. Королёва, первый выпуск МФТИ, председатель Совета «Первых» РКО",
+      "spans": [
+        {
+          "text": "Герой выпуска - Галушкин Юрий Александрович, почётный академик РАЕН, профессор, ученик академика С.П. Королёва, первый выпуск МФТИ, председатель Совета «Первых» РКО"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Об основаниях, истоках и истории Русского Космизма.",
+      "spans": [
+        {
+          "text": "Об основаниях, истоках и истории Русского Космизма."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа ВКонтакте",
+      "spans": [
+        {
+          "text": "Группа ВКонтакте",
+          "href": "https://vk.com/cosmatica"
+        }
+      ],
+      "links": [
+        {
+          "text": "Группа ВКонтакте",
+          "url": "https://vk.com/cosmatica"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Канал YouTube",
+      "spans": [
+        {
+          "text": "Канал YouTube",
+          "href": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ],
+      "links": [
+        {
+          "text": "Канал YouTube",
+          "url": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "pbdsXkk67Ig",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=pbdsXkk67Ig"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Герой выпуска - Галушкин Юрий Александрович, почётный академик РАЕН, профессор, ученик академика С.П. Королёва, первый выпуск МФТИ, председатель Совета «Первых» РКО Об основаниях, истоках и истории Русского Космизма. Группа ВКонтакте Канал YouTube",
+      "links": [
+        {
+          "title": "Группа ВКонтакте",
+          "url": "https://vk.com/cosmatica"
+        },
+        {
+          "title": "Канал YouTube",
+          "url": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 330,
+    "storedTextCharacters": 267,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 74473
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 268,
+  "capturedBodyCharacters": 267,
+  "sourceTextSHA256": "8e99b9e238daf5b2d4adad552b3b1fa07f2528f95f6a46fe71da053f426ab218",
+  "archiveSnapshotAt": "2026-10-08T08:43:01Z",
+  "publicVideoCount": 1
+}

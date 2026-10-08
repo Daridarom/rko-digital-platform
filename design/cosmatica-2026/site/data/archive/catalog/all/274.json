@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 274,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Авангардные исследования",
+      "description": "Современный этап развития земной цивилизации характеризуется как «ОСОБЫЙ ПЕРИОД».",
+      "url": "https://cosmatica.org/section/6-avangardnye-issledovanija.html",
+      "image": null,
+      "kind": "section-item",
+      "href": "view.html?p=article&ref=0e4ebf55612959ec94",
+      "type": "article",
+      "sourceCharacters": 4024,
+      "verified": false
+    },
+    {
+      "title": "Международный Совет",
+      "description": "Деятельность Совета: нацелена на создание сети международных и региональных отделений РКО.",
+      "url": "https://cosmatica.org/collegium/5-mezhdunarodnyi-sovet.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=e5f9598a519fdca09a",
+      "type": "collegium-item",
+      "sourceCharacters": 1105,
+      "verified": false
+    },
+    {
+      "title": "Республика Хакасия",
+      "description": "Председатель отделения — Радюк Наталья Васильевна.",
+      "url": "https://cosmatica.org/departments/5-respublika-hakasija.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=5bbf8a38d769f28879",
+      "type": "department",
+      "sourceCharacters": 227,
+      "verified": false
+    },
+    {
+      "title": "Язык",
+      "description": "терминов и понятий, отражающих сущность и законо­мерности развития социально-природных систем.",
+      "url": "https://cosmatica.org/glossary/5-jazyk.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=e1a0990b4c795b7d21",
+      "type": "article",
+      "sourceCharacters": 102,
+      "verified": false
+    },
+    {
+      "title": "Ассоциация Всеобщее Вселенское Содружество (Италия)",
+      "description": "Ассоциация была создана 2 июня 2004 года и официально зарегистрирована в Италии в 2009 году. За время существования Ассоциации была проведена огромная работа на всех уровнях и в различных направлениях. Мы работаем в областях науки, искусства и культуры, проводим мероприятия на высоком уровне культурной и социальной значимости. Сайт: www.rusvvs.altervista.org",
+      "url": "https://cosmatica.org/partners/5-associacija-vseobschee-vselenskoe-sodruzhestvo-italija.html",
+      "image": "assets/source/8d561fc8e3f99ef68e485e86.webp",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=482ae04fda502afe9d",
+      "type": "partner",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Открытие выставки детского технического творчества и рисунка \"Эра фантастики\" #Выставка детского технического творчества и рисунка \"Эра фантастики\"",
+      "description": "Федеральная выставка детского технического творчества и рисунка «ЭРА ФАНТАСТИКИ» состоится в ЦВЗ «Манеж», г. Москва с 4 по 21 апреля 2018 г .",
+      "url": "https://cosmatica.org/poster/5-otkrytie-vystavki-detskogo-tehnicheskogo-tvorchestva-i-risunka-era-fantastiki.html",
+      "image": "https://cosmatica.org/upload/000/u26/c7/0b/otkrytie-vystavki-detskogo-tehnicheskogo-tvorchestva-i-risunka-er.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=6ff25dfd23d7b0927b",
+      "type": "poster-item",
+      "sourceCharacters": 1942,
+      "verified": false
+    },
+    {
+      "title": "Цифровая трансформация",
+      "description": "Деятельность Секции: направлена на всестороннее изучение, исследование и развитие нового технологического уклада, известного в обществе под названием “Цифровая экономика”.",
+      "url": "https://cosmatica.org/section/5-cifrovaja-transformacija.html",
+      "image": null,
+      "kind": "section-item",
+      "href": "view.html?p=article&ref=d9c5e680903a03cf94",
+      "type": "article",
+      "sourceCharacters": 1246,
+      "verified": false
+    },
+    {
+      "title": "Совет «Первых»",
+      "description": "Деятельность Совета: нацелена на консолидацию в Организации людей, которые стали первыми в различных областях науки, культуры, техники, ремесла, общественной и государственной деятельности. Людей, которые совершили прорыв и стали для многих достойным примером.",
+      "url": "https://cosmatica.org/collegium/4-sovet-pervyh.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=8a7c6fc2e745a9f61a",
+      "type": "collegium-item",
+      "sourceCharacters": 709,
+      "verified": false
+    },
+    {
+      "title": "Свердловская область",
+      "description": "Председатель отделения — Берг Дмитрий Борисович, профессор, доктор физико-математических наук.",
+      "url": "https://cosmatica.org/departments/4-sverdlovskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=38d04a29a236b853ef",
+      "type": "department",
+      "sourceCharacters": 202,
+      "verified": false
+    },
+    {
+      "title": "Музей космонавтики",
+      "description": "Музей космонавтики – один из крупнейших научно-исторических музеев мира. История музея началась во второй половине XX века, когда в 1964 году на карте Москвы появился монумент «Покорителям космоса». География выставочной деятельности музея: Россия, страны СНГ, Великобритания, США, Индия, Австралия, Монголия, Германия, Испания, Франция, Китай. Так, с каждым днем, космос становится еще ближе. Сайт: www.kosmo-museum.ru",
+      "url": "https://cosmatica.org/partners/4-muzei-kosmonavtiki.html",
+      "image": "assets/source/f4f6218fdcdbcc3dac4049be.webp",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=064ea0d14694f9db1b",
+      "type": "partner",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Собрание литературного клуба РКО #Поэзия Русского Космизма",
+      "description": "30-го марта в 19:00 пройдёт первое заседание литературного клуба Русского Космического общества.",
+      "url": "https://cosmatica.org/poster/4-sobranie-literaturnogo-kluba-rko.html",
+      "image": "https://cosmatica.org/upload/000/u1/4f/50/sobranie-literaturnogo-kluba-rko-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=a1c2d44aeed4a496a4",
+      "type": "poster-item",
+      "sourceCharacters": 787,
+      "verified": false
+    },
+    {
+      "title": "Общество изобретателей",
+      "description": "Деятельность Секции направлена на представительство сообщества изобретателей в обществе и государстве.",
+      "url": "https://cosmatica.org/section/4-obschestvo-izobretatelei.html",
+      "image": null,
+      "kind": "section-item",
+      "href": "view.html?p=article&ref=67a563303155805a4d",
+      "type": "article",
+      "sourceCharacters": 1839,
+      "verified": false
+    },
+    {
+      "title": "Направления деятельности Русского Космического Общества",
+      "description": "- создавших учение о развитии Жизни как космическом явлении и его разумной формы, - создавших учение о переходе Биосферы в Ноосферу, - разработавших научные и технологические основы мировой космонавтики и проектирования космического будущего в системе «человек – общество – природа».",
+      "url": "https://cosmatica.org/about/3-napravlenija-dejatelnosti.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=8c1d21abc126acc9bb",
+      "type": "article",
+      "sourceCharacters": 3126,
+      "verified": false
+    },
+    {
+      "title": "Экспертный Совет",
+      "description": "Деятельность Совета: нацелена на разработку и реализацию прорывных проектов, в различных областях жизни и деятельности. На привлечение к деятельности РКО, экспертов из различных профессиональных и научных областей, с целью формирования профессионального корпуса специалистов, способных решать и освещать различные вопросы, касающиеся ноосферно-космического развития человека, общества и государства.",
+      "url": "https://cosmatica.org/collegium/3-ekspertnyi-sovet.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=c69f7b16bb9da2e153",
+      "type": "collegium-item",
+      "sourceCharacters": 2060,
+      "verified": false
+    },
+    {
+      "title": "АНО \"Спортивный клуб Федерального космического агентства Роскосмос\"",
+      "description": "Целями организации являются: - Предоставление услуг в области развития физической культуры и массового спорта в системе Роскосмоса. -Повышение престижа работы в системе Роскосмоса за счет пропаганды достижений спортсменов и спортивных коллективов Роскосмоса на уровне массового спорта и спорта высоких достижений. -Укрепление здоровья, морально-волевых качеств, трудолюбия, повышение уровня работоспособности, профилакти",
+      "url": "https://cosmatica.org/partners/3-ano-sportivnyi-klub-federalnogo-kosmicheskogo-agentstva-roskosmos.html",
+      "image": "assets/source/3da4436a4bf6d10b583fc682.webp",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=65513c86e68ee2b4e9",
+      "type": "partner",
+      "sourceCharacters": 0,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

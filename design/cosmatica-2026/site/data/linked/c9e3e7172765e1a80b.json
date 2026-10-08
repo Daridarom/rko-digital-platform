@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/243",
+  "title": "Иван Иванович Санжаров",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/1/736ff2da.jpg",
+      "alt": "Иван Иванович Санжаров"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 2"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/7/2/85c4fd11.jpg",
+      "alt": "Иван Иванович Санжаров"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 3"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Основатель и руководитель Зеленоградского кедрового питомника АНО «Кедры Родины»",
+      "spans": [
+        {
+          "text": "Основатель и руководитель Зеленоградского кедрового питомника АНО «Кедры Родины»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Калининградская область",
+      "links": [
+        {
+          "title": "Калининградская область",
+          "url": "https://cosmatica.org/departments/20-kaliningradskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Основатель и руководитель Зеленоградского кедрового питомника АНО «Кедры Родины»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/c/1/736ff2da.jpg",
+    "https://cosmatica.org/upload/000/u35/7/2/85c4fd11.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 203,
+    "storedTextCharacters": 140,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36370
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 125,
+  "capturedBodyCharacters": 140,
+  "sourceTextSHA256": "850e698da916a6998bd0d7e2024abc3862a222434eaae11cd2cdd2acd8f40fd5",
+  "archiveSnapshotAt": "2026-10-08T09:18:46Z"
+}

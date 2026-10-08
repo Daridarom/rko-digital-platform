@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 213,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Делократия, или самосовершенствующиеся производственные системы",
+      "description": "представляет собой частично изменённую и дополненную монографию в двух частях Протопопова А. И. Конструирование самоорганизации развивающихся систем под ред. д.т.н., проф. Б. Е. Большакова. — М.: РАЕН, 2017. — 140 с.: илл., табл. Настоящая работа ставит своей целью показать, как можно обеспечить постоянный и устойчивый",
+      "url": "https://cosmatica.org/library/204-delokratija-ili-samosovershenstvuyuschiesja-proizvodstvennye-sistemy.html",
+      "image": "https://cosmatica.org/upload/000/u26/1/5/delokratija-ili-samosovershenstvuyuschiesja-proizvodstvennye-sistemy.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=21af658334357d4c55",
+      "type": "book",
+      "sourceCharacters": 512,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль \"Наука 0+\" в Брянске при участии Русского Космического Общества",
+      "description": "Организатором фестиваля в регионе является Брянский государственный инженерно-технологический университет.",
+      "url": "https://cosmatica.org/news/204-festival-nauka-0-v-brjanske-pri-uchastii-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u26/e0/f8/d1ff510b.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3d06a91f43c927d7e6",
+      "type": "news-item",
+      "sourceCharacters": 2383,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль \"Сундуки - Храм Солнца\"",
+      "description": "22 и 23 июня на площадке РКО в музее-заповеднике \"Сундуки\" пройдена тропа шамана от древних обсерваторий до современной астрономии.",
+      "url": "https://cosmatica.org/articles/203-festival-sunduki-hram-solnca.html",
+      "image": "https://cosmatica.org/upload/000/u26/e1/1d/dsc-2352.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=307fe76c528a3972cb",
+      "type": "article",
+      "sourceCharacters": 1667,
+      "verified": false
+    },
+    {
+      "title": "Сборник докладов научной конференции студентов и аспирантов, посвящённой 15-летию Университета «Дубна»",
+      "description": "В сборнике представлены результаты научных исследований студентов и аспирантов Университета «Дубна» в области проектирования и управления устойчивым развитием, доложенные на Конференции. Конференция состоялась 30 мая 2009 года на заседании конкурсной комиссии в Международном университете природы, общества и человека «Дубна».",
+      "url": "https://cosmatica.org/library/203-sbornik-dokladov-nauchnoi-konferencii-studentov-i-aspirantov-posvjaschyonnoi-15-letiyu-universit.html",
+      "image": "https://cosmatica.org/upload/000/u10/e/1/sbornik-dokladov-nauchnoi-konferencii-studentov-i-aspirantov-pos.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=779d66b6e46e7e14df",
+      "type": "book",
+      "sourceCharacters": 454,
+      "verified": false
+    },
+    {
+      "title": "Слово стало песней",
+      "description": "Этот год также ознаменован проведением Всероссийской премии детского литературного творчества им. С.А. Есенина «Песенное слово».",
+      "url": "https://cosmatica.org/news/203-slovo-stalo-pesnei.html",
+      "image": "https://cosmatica.org/upload/000/u26/89/f3/f789f9f6.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=afb29f42be7728ac41",
+      "type": "news-item",
+      "sourceCharacters": 2322,
+      "verified": false
+    },
+    {
+      "title": "Акция \"Наш вклад в \"Гагаринский сад\"\" #Экопроект «Действуем разумно живя на Земле»",
+      "description": "21 сентября 2019 в г. Лобня состоится акция по посадке кедров «Наш вклад в Гагаринский сад».",
+      "url": "https://cosmatica.org/poster/203-akcija-nash-vklad-v-gagarinskii-sad.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/6/akcija-nash-vklad-v-gagarinskii-sad-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=1ad355242e3e5d1b12",
+      "type": "poster-item",
+      "sourceCharacters": 801,
+      "verified": false
+    },
+    {
+      "title": "Космическое Женское Послание",
+      "description": "Первого января 2000 года в Антарктиде (именно там, где нет государственных границ) в рамках программы «Навстречу XXI веку» был создан символ III Тысячелетия – «Огонь Сохранения Цивилизации».",
+      "url": "https://cosmatica.org/articles/202-kosmicheskoe-zhenskoe-poslanie.html",
+      "image": "https://cosmatica.org/upload/000/u26/14/54/fyvfyvfyv.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=45afa91194c9af0901",
+      "type": "article",
+      "sourceCharacters": 3230,
+      "verified": false
+    },
+    {
+      "title": "П.Г. Кузнецов и проблема устойчивого развития Человечества в системе «природа – общество – человек»",
+      "description": "Прошло немногим более года после выхода в свет книги: «Побиск Георгиевич Кузнецов: идеи и",
+      "url": "https://cosmatica.org/library/202-p-g-kuznecov-i-problema-ustoichivogo-razvitija-chelovechestva-v-sisteme-priroda-obschestvo-chelo.html",
+      "image": "https://cosmatica.org/upload/000/u10/1/9/p-g-kuznecov-i-problema-ustoichivogo-razvitija-chelovechestva-v-sis.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=d5b7472ce3cf85589d",
+      "type": "book",
+      "sourceCharacters": 806,
+      "verified": false
+    },
+    {
+      "title": "Поздравление президента РКО с днём космических войск",
+      "description": "61 год назад человечество сделало шаг в открытый космос, запустив в свой первый полёт искусственный спутник Земли. Это стало началом космической истории земного человечества, предопределило его дальнейшее развитие .",
+      "url": "https://cosmatica.org/news/202-pozdravlenie-prezidenta-rko-s-dnyom-kosmicheskih-voisk.html",
+      "image": "https://cosmatica.org/upload/000/u26/1a/42/pozdravlenie-prezidenta-rko-s-dnyom-kosmicheskih-voisk-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1ba5801554e6839e04",
+      "type": "news-item",
+      "sourceCharacters": 649,
+      "verified": false
+    },
+    {
+      "title": "Сохраняя память: субботник на Новодевичьем",
+      "description": "Стало хорошей традицией организация ухода за могилами воинов и героев прошлых лет, тех, кто является примером для нас.",
+      "url": "https://cosmatica.org/poster/202-sohranjaja-pamjat-subbotnik-na-novodevichem.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/5/sohranjaja-pamjat-subbotnik-na-novodevichem-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=0841620be0c62033a3",
+      "type": "poster-item",
+      "sourceCharacters": 2486,
+      "verified": false
+    },
+    {
+      "title": "Научный семинар-презентация",
+      "description": "18 июня 2018 года в Звездном Городке, на базе Музея НИИЦ подготовки космонавтов им. Ю.А. Гагарина, прошел Научный семинар-презентация Проекта: \"Космическое Женское Послание\".",
+      "url": "https://cosmatica.org/articles/201-nauchnyi-seminar-prezentacija.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=5f73372d99e952c5de",
+      "type": "article",
+      "sourceCharacters": 1744,
+      "verified": false
+    },
+    {
+      "title": "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития» НШ-1269.2008.9",
+      "description": "Итоговый научный отчёт по гранту Президента РФ НШ-1269.2008.9 Стратегическим направлением развития нашей страны является устойчивое инновационное",
+      "url": "https://cosmatica.org/library/201-razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunikacionnoi-sistemy-mezhdunarodnaja-.html",
+      "image": "https://cosmatica.org/upload/000/u26/e/a/razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunika.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=1c512cd43084a39ea0",
+      "type": "book",
+      "sourceCharacters": 814,
+      "verified": false
+    },
+    {
+      "title": "Начинающие журналисты, мы ждём вас!",
+      "description": "Русское Космическое Общество – это собрание людей, объединившихся в особый период развития человеческой цивилизации вокруг общей ЦЕЛИ – сохранения и развития жизни как космопланетарного явления, а также содействия переходу цивилизации на путь её космической истории. Для осмысления и правильного применения законов эволюции жизни на Земле и в Космосе. Для распространения научного и философского наследия школы Русского ",
+      "url": "https://cosmatica.org/news/201-nachinayuschie-pisateli-my-zhdyom-vas.html",
+      "image": "https://cosmatica.org/upload/000/u26/50/dd/710890fa.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1f1db7ff7bcc82b09d",
+      "type": "news-item",
+      "sourceCharacters": 3482,
+      "verified": false
+    },
+    {
+      "title": "Первое собрание Лаборатории авангардных исследований (клуб АНЭТ)",
+      "description": "С целью общего обсуждения состояния дел в современной науке, а также для того, чтобы наметить пути достижения актуальных коллективных целей, приглашаются все желающие на учредительное собрание клуба АНЭТ. Обсудить возможности создания лаборатории авангардных исследований АНЭТ, описать и спланировать первые эксперименты.",
+      "url": "https://cosmatica.org/poster/201-pervoe-sobranie-laboratorii-avangardnyh-issledovanii-klub-anet.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/e/pervoe-sobranie-kluba-anet-photo-big.png",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=a380bc65101cf827bb",
+      "type": "poster-item",
+      "sourceCharacters": 1175,
+      "verified": false
+    },
+    {
+      "title": "Заседание рабочей группы",
+      "description": "22 июня в офисе Русского Космического Общества состоялось заседание рабочей группы Космического Женского Послания.",
+      "url": "https://cosmatica.org/articles/200-zasedanie-rabochei-gruppy.html",
+      "image": "https://cosmatica.org/upload/000/u26/4b/92/img-20180622-wa0007.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=434e91a51bfb68a15e",
+      "type": "article",
+      "sourceCharacters": 860,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

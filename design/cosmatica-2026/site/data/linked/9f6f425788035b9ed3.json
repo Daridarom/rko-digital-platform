@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/76-princip-ustoichivogo-razvitija.html",
+  "title": "Принцип устойчивого развития",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "необходимость согласования реше­ний в различных предметных областях с общими законами сохранения развития живой Природы.",
+      "spans": [
+        {
+          "text": "необходимость согласования реше­ний в различных предметных областях с общими законами сохранения развития живой Природы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "необходимость согласования реше­ний в различных предметных областях с общими законами сохранения развития живой Природы.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 149,
+    "storedTextCharacters": 120,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32056
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 120,
+  "capturedBodyCharacters": 120,
+  "sourceTextSHA256": "5d03e53f123a4f6acea157e160a048d8f2f9bbd6731a913d8c1816770ed4f06c",
+  "archiveSnapshotAt": "2026-10-08T08:47:16Z"
+}

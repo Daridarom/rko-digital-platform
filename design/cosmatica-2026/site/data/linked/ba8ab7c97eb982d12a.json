@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/227-den-pamjati-bolshakova-borisa-evgenevicha.html",
+  "title": "День памяти Большакова Бориса Евгеньевича",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/e/c/79a7260e.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Желающие отдать дань памяти этому великому человеку, могут присоединиться к членам РКО, которые 17 ноября придут в 10.00 на Старо-Покровское кладбище, расположенное по адресу г. Москва, по адресу: ул. Подольских Курсантов, 24, стр. 1.",
+      "spans": [
+        {
+          "text": "Желающие отдать дань памяти этому великому человеку, могут присоединиться к членам РКО, которые 17 ноября придут в 10.00 на Старо-Покровское кладбище, расположенное по адресу г. Москва, по адресу: ул. Подольских Курсантов, 24, стр. 1."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/9/f/bezymjannyi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Встреча у входа на территорию.",
+      "spans": [
+        {
+          "text": "Встреча у входа на территорию. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Контактный телефон: +7 926 344-0727.",
+      "spans": [
+        {
+          "text": "Контактный телефон: +7 926 344-0727."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Желающие отдать дань памяти этому великому человеку, могут присоединиться к членам РКО, которые 17 ноября придут в 10.00 на Старо-Покровское кладбище, расположенное по адресу г. Москва, по адресу: ул. Подольских Курсантов, 24, стр. 1. Встреча у входа на территорию. Контактный телефон: +7 926 344-0727.",
+      "links": [],
+      "image": "https://cosmatica.org/upload/000/u7/9/f/bezymjannyi.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/e/c/79a7260e.jpg",
+    "https://cosmatica.org/upload/000/u7/9/f/bezymjannyi.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 437,
+    "storedTextCharacters": 300,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 5,
+    "sourceBytes": 38323
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 437,
+  "capturedBodyCharacters": 300,
+  "sourceTextSHA256": "69918e78e052bee11de2cb9a53b6e89ab9b62b171613c9668804c4515362c8ad",
+  "archiveSnapshotAt": "2026-10-08T09:15:25Z"
+}

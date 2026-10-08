@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/720-tropa-muzhestva-iz-oseni-v-zimu-2015.html",
+  "title": "\"Тропа мужества\". Из Осени в Зиму 2015",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Тропа Мужества",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "В 2016 году соревнования пройдут 25-26 июня и 12-13 ноября. Вся информация о месте проведения и положении предстоящих соревнований, будет представлена на официальном сайте и группе Вконтакте.",
+      "spans": [
+        {
+          "text": "В 2016 году соревнования пройдут 25-26 июня и 12-13 ноября. Вся  "
+        },
+        {
+          "text": "информация",
+          "href": "https://cosmatica.org/glossary/119-informacija.html"
+        },
+        {
+          "text": " о месте проведения и положении предстоящих соревнований, будет представлена на официальном сайте и группе "
+        },
+        {
+          "text": "Вконтакте.",
+          "href": "https://vk.com/natropu"
+        }
+      ],
+      "links": [
+        {
+          "text": "информация",
+          "url": "https://cosmatica.org/glossary/119-informacija.html"
+        },
+        {
+          "text": "Вконтакте.",
+          "url": "https://vk.com/natropu"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Официальный сайт",
+      "spans": [
+        {
+          "text": "Официальный сайт"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа ВКонтакте",
+      "spans": [
+        {
+          "text": "Группа ВКонтакте",
+          "href": "https://vk.com/natropu"
+        }
+      ],
+      "links": [
+        {
+          "text": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ссылка на Youtube",
+      "spans": [
+        {
+          "text": "Ссылка на Youtube",
+          "href": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "links": [
+        {
+          "text": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "ic1hDU8aFOo",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=ic1hDU8aFOo"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В 2016 году соревнования пройдут 25-26 июня и 12-13 ноября. Вся информация о месте проведения и положении предстоящих соревнований, будет представлена на официальном сайте и группе Вконтакте. Официальный сайт Группа ВКонтакте Ссылка на Youtube",
+      "links": [
+        {
+          "title": "информация",
+          "url": "https://cosmatica.org/glossary/119-informacija.html"
+        },
+        {
+          "title": "Вконтакте.",
+          "url": "https://vk.com/natropu"
+        },
+        {
+          "title": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        },
+        {
+          "title": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 319,
+    "storedTextCharacters": 255,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 74606
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 264,
+  "capturedBodyCharacters": 255,
+  "sourceTextSHA256": "007800ce24dbc7b8997de1bbec83e7b6516e5cb8715a919da3dee8727bd2c8bd",
+  "archiveSnapshotAt": "2026-10-08T08:43:08Z",
+  "publicVideoCount": 1
+}

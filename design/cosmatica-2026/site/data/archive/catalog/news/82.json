@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 82,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Киноуроки выходят на новый виток",
+      "description": "Мероприятие проходило по инициативе Русского Космического Общества и АНО \"Интелрост\". Участников гостеприимно принял уютный кинозал \"Парка развлечений Радуга Кино\", любезно предоставленный для проведение презентации Рудовским Дмитрием Олеговичем.",
+      "url": "https://cosmatica.org/news/869-kinouroki-vyhodjat-na-novyi-vitok.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/4/kinouroki-vyhodjat-na-novyi-vitok-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=893c46dd389d7d52e3",
+      "type": "news-item",
+      "sourceCharacters": 3485,
+      "verified": false
+    },
+    {
+      "title": "Наше будущее - \"Семья Отечества\"!",
+      "description": "Инициаторами и основными организаторами Съезда выступили Фонд поддержки и развития семей \"Родная Семья \" и Русское Космическое Общество.",
+      "url": "https://cosmatica.org/news/868-nashe-buduschee-semja-otechestvo.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/3/nashe-buduschee-semja-otechestvo-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=15f86862874ab2ce8d",
+      "type": "news-item",
+      "sourceCharacters": 12490,
+      "verified": false
+    },
+    {
+      "title": "Книга дня сегодня...",
+      "description": "Автор: Виктор Николаевич Яиков , научный сотрудник в области Экономической безопасности при Поволжском технологическом университете, отделение развития космонавтики",
+      "url": "https://cosmatica.org/news/867-kniga-dnja-segodnja.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/b/kniga-dnja-segodnja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8f4b7e02360c593afe",
+      "type": "news-item",
+      "sourceCharacters": 3370,
+      "verified": false
+    },
+    {
+      "title": "Бобры с \"подливой\" на радость марафонцам",
+      "description": "С 25 по 27 сентября в Калужской области снова проверяли себя на прочность отчаянные марафонцы. Этой осенью на дистанции вышли 165 участников. Из них мужчины: 125 участников; женщины: 40 участников.",
+      "url": "https://cosmatica.org/news/866-bobry-s-podlivoi-na-radost-marafoncam.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/3/bobry-s-podlivoi-na-radost-marafoncam-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2428bcd131705630ba",
+      "type": "news-item",
+      "sourceCharacters": 5232,
+      "verified": false
+    },
+    {
+      "title": "«Космос. Мир. Дружба»: заседание оргкомитета в РКО",
+      "description": "На заседании присутствовали Алексей Николаевич Петров – Председатель Наблюдательного Совета «Спортивного Клуба Федерального Космического Агентства»; Юрий Северинович Лекомцев - Генеральный директор АНО «Спортклуб Роскосмос»; Алексей Алексеевич Гапонов – Глава Русского Космического Общества (РКО); Ирина Николаевна Гирш - заместитель генерального директора АНО «Спортклуб Роскосмос» по связям с общественностью; Василий ",
+      "url": "https://cosmatica.org/news/865-kosmos-mir-druzhba-zasedanie-orgkomiteta-v-rko.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/a/kosmos-mir-druzhba-zasedanie-orgkomiteta-v-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5eb21e0253b0a8ff80",
+      "type": "news-item",
+      "sourceCharacters": 3806,
+      "verified": false
+    },
+    {
+      "title": "Дружелюбие Башкирии",
+      "description": "Что такое честность, доброта и справедливость? Какие качества присущи настоящему Человеку? Как их воспитать? На эти вопросы уже на протяжении 5 лет отвечает народный проект “Киноуроки в школах России”.",
+      "url": "https://cosmatica.org/news/864-druzhelyubie-bashkirii.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/7/druzhelyubie-bashkirii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3b573daccd99ad0bfd",
+      "type": "news-item",
+      "sourceCharacters": 1716,
+      "verified": false
+    },
+    {
+      "title": "В очередь за звёздами",
+      "description": "Очередные выездные наблюдения - \"посмотрелки на Соколихе\" вызвали большой интерес у псковичей.",
+      "url": "https://cosmatica.org/news/863-v-ochered-za-zvyozdami.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/1/nas-manjat-zvyozdy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=99e8e27bd11cd96a14",
+      "type": "news-item",
+      "sourceCharacters": 3405,
+      "verified": false
+    },
+    {
+      "title": "Великая Космическая Одиссея Донбасса продолжается",
+      "description": "В 21 веке человечеству предстоит отправиться в Великую Космическую Одиссею и осваивать Луну, Венеру, Марс. Кто же готов лететь в космос?",
+      "url": "https://cosmatica.org/news/862-velikaja-kosmicheskaja-odisseja-donbassa-prodolzhaetsja.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/b/98fd6b38.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1006c839726774862e",
+      "type": "news-item",
+      "sourceCharacters": 1921,
+      "verified": false
+    },
+    {
+      "title": "Результаты международной конференции \"Инновационные разработки в аэрокосмической отрасли\"",
+      "description": "Перед конференцией стояло множество задач, из которых хотелось бы особо выделить повышение возможности сотрудничества смежных организаций, создания совместных проектов, раскрытие актуальных проблем предприятий и вовлечение молодёжи, а также внедрение инновационных решений на предприятиях ГК «Роскосмос».",
+      "url": "https://cosmatica.org/news/861-rezultaty-mezhdunarodnoi-konferencii-innovacionnye-razrabotki-v-aerokosmicheskoi-otrasli.html",
+      "image": "https://cosmatica.org/upload/002/u252/8/0/rezultaty-mezhdunarodnoi-konferencii-innovacionnye-razrabotki-v.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b12fbc867210c62840",
+      "type": "news-item",
+      "sourceCharacters": 3093,
+      "verified": false
+    },
+    {
+      "title": "Благородство в сердце каждого",
+      "description": "«Луга - школам России» - фильм с таким заглавным титром расскажет детям и взрослым о понятии благородства и его силе.",
+      "url": "https://cosmatica.org/news/859-blagorodstvo-v-serdce-kazhdogo.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/3/blagorodstvo-v-serdce-kazhdogo-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0f8bbe4d0c3569db4b",
+      "type": "news-item",
+      "sourceCharacters": 1657,
+      "verified": false
+    },
+    {
+      "title": "Мы верим в космос! Присоединяйтесь!",
+      "description": "Профориентационно-образовательный проект «МЫ ВЕРИМ В КОСМОС» , реализуемый Молодёжным советом Русского Космического Общества, создан с целью популяризации космонавтики, её достижений и инженерно-технического творчества в нашей стране, а также для улучшения кадровой ситуации в ракетно-космической отрасли.",
+      "url": "https://cosmatica.org/news/858-my-verim-v-kosmos-prisoedinjaites.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/2/my-verim-v-kosmos-prisoedinjaites-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c9df60ee2a061c547d",
+      "type": "news-item",
+      "sourceCharacters": 2317,
+      "verified": false
+    },
+    {
+      "title": "Космический туризм в России",
+      "description": "Форум открыл ректор РМАТ, доктор политический наук Евгений Николаевич Трофимов. В начале своего выступления он остановился на истории развития отечественной космонавтики, подчеркнул, что Россия удерживала лидерство в космосе на протяжении ряда десятилетий. Космос – основа международного престижа нашей страны. Евгений Николаевич лично знает многих космонавтов и убежден, что данную профессию выбирают сильные духом и от",
+      "url": "https://cosmatica.org/news/857-kosmicheskii-turizm-v-rossii.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/3/70186fa7.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2a9fb7e00a6539b83a",
+      "type": "news-item",
+      "sourceCharacters": 5591,
+      "verified": false
+    },
+    {
+      "title": "Книга дня сегодня...",
+      "description": "Товарищи, по своей природе дело РКО направлено на формирование нового человека и через него – нового космопланетарного будущего. В первую очередь, наша сила в могуществе идей, в мировоззрении, в новом Слове. Задача – донести это Слово до людей в России и в мире является первоочередной.",
+      "url": "https://cosmatica.org/news/860-kniga-dnja-segodnja.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/3/kniga-dnja-segodnja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ecb041a7effc4ad888",
+      "type": "news-item",
+      "sourceCharacters": 3640,
+      "verified": false
+    },
+    {
+      "title": "Подтвердили готовность осваивать Космос",
+      "description": "В ходе программы лагеря \"Космодесант-2020\" в рамках Великой Космической Одиссеи все отряды вели наблюдения за флорой и фауной непознанной, ещё никем не исследованной планеты. А также за собственными действиями и состоянием отряда. Наблюдения фиксировались в особом журнале задания, по форме, установленной в проекте. Ребята ставили вопросы, выявляли проблемы, выдвигали гипотезы их разрешения.",
+      "url": "https://cosmatica.org/news/855-podtverdili-gotovnost-osvaivat-kosmos.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/6/podtverdili-gotovnost-osvaivat-kosmos-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=968fbf08876b2b52b6",
+      "type": "news-item",
+      "sourceCharacters": 2890,
+      "verified": false
+    },
+    {
+      "title": "Космос - это с детства",
+      "description": "Конкурс стартовал в апреле этого года. Его организаторами выступили Русское Космическое Общество и фонд поддержки и развития семей «Родная Семья»",
+      "url": "https://cosmatica.org/news/853-kosmos-eto-s-detstva.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/1/kosmos-eto-s-detstva-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=db2bbbe99d35b98aef",
+      "type": "news-item",
+      "sourceCharacters": 7873,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

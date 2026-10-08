@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/r",
+  "title": "Р",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Развитие обусловленное эволюционно",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Работа",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Размерность математическая",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Размерность физическая",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Реализованная или экономическая возможность",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Реальная возможность",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Развитие",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Рост",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 172,
+    "storedTextCharacters": 163,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 37388
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 172,
+  "capturedBodyCharacters": 163,
+  "sourceTextSHA256": "65ad63d12a3a6361062f1275b383cc5f117e897be1e95da045e5421f15607043",
+  "archiveSnapshotAt": "2026-10-08T08:47:28Z"
+}

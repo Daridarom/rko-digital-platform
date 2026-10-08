@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/9-fedorov-nikolai-fedorovich-sochinenija.html",
+  "title": "Федоров Николай Федорович - Сочинения",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/35/7d/sochinenija-photo-normal.jpg",
+      "alt": "Федоров Николай Федорович - Сочинения"
+    },
+    {
+      "type": "paragraph",
+      "text": "В издание включены главные сочинения Н.Ф.Федорова из двухтомника «Философия\r\nобщего дела», еще до революции ставшего библиографической редкостью, а также статьи\r\nи письма философа.",
+      "spans": [
+        {
+          "text": "В издание включены главные сочинения Н.Ф.Федорова из двухтомника «Философия\r\nобщего дела», еще до революции ставшего библиографической редкостью, а также статьи\r\nи письма философа."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Федоров Николай Федорович",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В издание включены главные сочинения Н.Ф.Федорова из двухтомника «Философия общего дела», еще до революции ставшего библиографической редкостью, а также статьи и письма философа.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 22 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/10/85da32d8f83e23d540790abb2a090f37"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/35/7d/sochinenija-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/10/85da32d8f83e23d540790abb2a090f37"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 269,
+    "storedTextCharacters": 180,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40077
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 231,
+  "capturedBodyCharacters": 180,
+  "sourceTextSHA256": "6ac0ce488b9370fa2bac8202037f6cefaaa352a9aa5bdcb493cbd6742d3acd2a",
+  "archiveSnapshotAt": "2026-10-08T08:51:10Z"
+}

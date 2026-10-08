@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/7-sobranie-literaturnogo-kluba-rko.html",
+  "title": "Собрание литературного клуба РКО #Поэзия Русского Космизма",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/a5/ee/sobranie-literaturnogo-kluba-rko-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "В пятницу 13-го апреля состоится очередное собрание клуба.",
+      "spans": [
+        {
+          "text": "В пятницу 13-го апреля состоится очередное собрание клуба."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Темы теоретической части: 1. Организация стихотворной речи. Отличие стихотворения от прозы. 2. Ритм. 3. Метр, стопа, размер. 3. Ритмические огрехи.",
+      "spans": [
+        {
+          "text": "Темы теоретической части: 1. Организация стихотворной речи. Отличие стихотворения от прозы.2. Ритм.3. Метр, стопа, размер.3. Ритмические огрехи."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Начало в 19:00 , по адресу: Москва, Ленинградский проспект, д.7, стр.1 офис 20.",
+      "spans": [
+        {
+          "text": "Начало в 19:00 , по адресу: Москва, Ленинградский проспект, д.7, стр.1 офис 20."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Для посещения мероприятия необходима предварительная запись у организатора https://vk.com/p_reutov",
+      "spans": [
+        {
+          "text": "Для посещения мероприятия необходима предварительная запись у организатора https://vk.com/p_reutov"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В пятницу 13-го апреля состоится очередное собрание клуба. Темы теоретической части: 1. Организация стихотворной речи. Отличие стихотворения от прозы. 2. Ритм. 3. Метр, стопа, размер. 3. Ритмические огрехи. Начало в 19:00 , по адресу: Москва, Ленинградский проспект, д.7, стр.1 офис 20. Для посещения мероприятия необходима предварительная запись у организатора https://vk.com/p_reutov",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/a5/ee/sobranie-literaturnogo-kluba-rko-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 529,
+    "storedTextCharacters": 382,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 38745
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 529,
+  "capturedBodyCharacters": 382,
+  "sourceTextSHA256": "4a7dafa4f178d3170c57330081c009a8c2423746405446a6b3eda5d4582f7745",
+  "archiveSnapshotAt": "2026-10-08T09:16:10Z"
+}

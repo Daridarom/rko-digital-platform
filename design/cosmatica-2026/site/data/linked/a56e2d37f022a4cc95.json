@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/818-buduschee-i-deti.html",
+  "title": "Будущее и дети",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Разговор о будущем с точки зрения здравого смысла.",
+      "spans": [
+        {
+          "text": "Разговор о будущем с точки зрения здравого смысла."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В студии Чагин Олег Александрович - Сопредседатель Совета безопасности Русского Космического Общества, директор НИИ «Научно-исследовательский институт Антропогенеза», кандидат экономических наук., доктор медицинских наук, доктор философских наук, профессор, академик РАЕН.",
+      "spans": [
+        {
+          "text": "В студии "
+        },
+        {
+          "text": "Чагин Олег Александрович",
+          "href": "https://cosmatica.org/users/73"
+        },
+        {
+          "text": " - Сопредседатель Совета безопасности Русского Космического Общества, директор НИИ «Научно-исследовательский институт Антропогенеза», кандидат экономических наук., доктор медицинских наук, доктор философских наук, профессор, академик РАЕН."
+        }
+      ],
+      "links": [
+        {
+          "text": "Чагин Олег Александрович",
+          "url": "https://cosmatica.org/users/73"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "KYiNi3pMwT0",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=KYiNi3pMwT0"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Разговор о будущем с точки зрения здравого смысла. В студии Чагин Олег Александрович - Сопредседатель Совета безопасности Русского Космического Общества, директор НИИ «Научно-исследовательский институт Антропогенеза», кандидат экономических наук., доктор медицинских наук, доктор философских наук, профессор, академик РАЕН.",
+      "links": [
+        {
+          "title": "Чагин Олег Александрович",
+          "url": "https://cosmatica.org/users/73"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 426,
+    "storedTextCharacters": 322,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 74709
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 411,
+  "capturedBodyCharacters": 322,
+  "sourceTextSHA256": "5dc9947b0a975eaa6bf4c104d579a701b94f38c5ebf0212f73a9e41c4df2eeeb",
+  "archiveSnapshotAt": "2026-10-08T08:44:06Z",
+  "publicVideoCount": 1
+}

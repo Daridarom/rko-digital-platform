@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/101-nauchnaja-teorija.html",
+  "title": "Научная теория",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "система",
+      "spans": [
+        {
+          "text": "система"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "универсальных высказываний (под­дающихся экспериментальной проверке и логической верификации), позволяющих: объяснять сущность, предсказывать тенденции разви­тия системы, получать, как следствие, рекомендации по проектирова­нию технологий устойчивого развития социально-природных систем.",
+      "spans": [
+        {
+          "text": "универсальных высказываний (под­дающихся экспериментальной проверке и логической верификации), позволяющих: объяснять сущность, предсказывать тенденции разви­тия системы, получать, как следствие, рекомендации по проектирова­нию технологий устойчивого развития социально-природных систем."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это система универсальных высказываний (под­дающихся экспериментальной проверке и логической верификации), позволяющих: объяснять сущность, предсказывать тенденции разви­тия системы, получать, как следствие, рекомендации по проектирова­нию технологий устойчивого развития социально-природных систем.",
+      "links": [
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 314,
+    "storedTextCharacters": 297,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32636
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 299,
+  "capturedBodyCharacters": 297,
+  "sourceTextSHA256": "a20bf4c5939a42487dd5b217d62f198763a76f3ad06d1fbc46e38a039cce3bbc",
+  "archiveSnapshotAt": "2026-10-08T08:46:20Z"
+}

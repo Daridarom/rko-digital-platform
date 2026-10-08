@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/12398",
+  "title": "Олег Васильевич Казарский",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/123/u12398/3/d/65be4aa6.png",
+      "alt": "Олег Васильевич Казарский"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/123/u12398/f/0/3b5971ba.png",
+      "alt": "Олег Васильевич Казарский"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 1 год назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Координатор движения «Народное Славянское Единство»",
+      "spans": [
+        {
+          "text": "Координатор движения «Народное Славянское Единство»"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "t.me/SlavRodEdin/",
+      "spans": [
+        {
+          "text": "t.me/SlavRodEdin/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "по Томской области (Томск) Участник Всероссийского экологического движения «ПОДАРИ ЗЕМЛЕ САД» по Томской области",
+      "spans": [
+        {
+          "text": "по Томской области (Томск) Участник Всероссийского экологического движения «ПОДАРИ ЗЕМЛЕ САД» по Томской области"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Томская область",
+      "links": [
+        {
+          "title": "Томская область",
+          "url": "https://cosmatica.org/departments/40-tomskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Координатор движения «Народное Славянское Единство» t.me/SlavRodEdin/ по Томской области (Томск) Участник Всероссийского экологического движения «ПОДАРИ ЗЕМЛЕ САД» по Томской области",
+      "links": [
+        {
+          "title": "t.me/SlavRodEdin/",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Ft.me%2FSlavRodEdin%2F"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/123/u12398/3/d/65be4aa6.png",
+    "https://cosmatica.org/upload/123/u12398/f/0/3b5971ba.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 270,
+    "storedTextCharacters": 213,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35330
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 219,
+  "capturedBodyCharacters": 213,
+  "sourceTextSHA256": "34025583b7b684a5dbbd73bd8943367a13cc07a24fe1511e78b8e965aca558e8",
+  "archiveSnapshotAt": "2026-10-08T09:17:57Z"
+}

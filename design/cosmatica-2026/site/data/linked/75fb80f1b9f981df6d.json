@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/l",
+  "title": "Л",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Любовь",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Логическая связь",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Логика проектирования",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 47,
+    "storedTextCharacters": 43,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 33353
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 47,
+  "capturedBodyCharacters": 43,
+  "sourceTextSHA256": "549e42ea2c281c7f6057769dd6003c87a96b7d1e2f439a9d9f3d92e1bc17a850",
+  "archiveSnapshotAt": "2026-10-08T08:47:26Z"
+}

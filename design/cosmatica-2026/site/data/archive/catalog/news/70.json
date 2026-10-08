@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 70,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "«Дружина Гагаринцев» встала на Волгоградской земле!",
+      "description": "В юбилейный год первого полёта человека в космос юные добровольцы МОУ СОШ п. Куйбышев Среднеахтубинского района Волгоградской области присоединились к Всероссийскому молодёжному общественному движению Русского Космического Общества «Дружина Гагаринцев» .",
+      "url": "https://cosmatica.org/news/1058-druzhina-gagarincev-vstala-na-volgogradskoi-zemle.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/1/druzhina-gagarincev-vstala-na-volgogradskoi-zemle-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=58f28cd898995e5e7a",
+      "type": "news-item",
+      "sourceCharacters": 2943,
+      "verified": false
+    },
+    {
+      "title": "Общероссийская конференция по вопросам демографии, защиты семьи, материнства, детства и отцовства",
+      "description": "14 апреля 2021 года в Государственной Думе Федерального Собрания Российской Федерации, в Круглом зале Дома Союзов, состоялась «Общероссийская конференция по вопросам демографии, защиты семьи, материнства, детства и отцовства, борьбе с беспризорностью и безнадзорностью».",
+      "url": "https://cosmatica.org/news/1057-obscherossiiskaja-konferencija-po-voprosam-demografii-zaschity-semi-materinstva-detstva-i-otcov.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/3/obscherossiiskaja-konferencija-po-voprosam-demografii-zaschity-semi.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=010539de3477a7df2b",
+      "type": "news-item",
+      "sourceCharacters": 7175,
+      "verified": false
+    },
+    {
+      "title": "Письма в прошлое во имя будущего",
+      "description": "Конкурс был инициирован Русским Космическим Обществом в Донецкой Народной Республике и был посвящён 100-летию со дня рождения космонавта Георгия Тимофеевича Берегового.",
+      "url": "https://cosmatica.org/news/1056-pisma-v-proshloe-vo-imja-buduschego.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/f/116a97e1.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d57b131d4729686686",
+      "type": "news-item",
+      "sourceCharacters": 5000,
+      "verified": false
+    },
+    {
+      "title": "Первый Отряд РКО принял ещё одного новобранца",
+      "description": "В Первый Отряд Русского Космического Общества вступил заместитель председателя Философского Совета РКО, к.ф.н., член РФО, доцент кафедры гуманитарных наук НМИЦ им. В.А. Алмазова Минздрава России Макаров Владимир Витальевич .",
+      "url": "https://cosmatica.org/news/1055-pervyi-otrjad-rko-prinjal-eschyo-odnogo-novobranca.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/5/pervyi-otrjad-rko-prinjal-eschyo-odnogo-novobranca-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=229c53e15fa45c694c",
+      "type": "news-item",
+      "sourceCharacters": 4982,
+      "verified": false
+    },
+    {
+      "title": "Сформирован первый отряд \"Дружинки юных гагаринцев\"",
+      "description": "Мы не могли обойти и космическую тематику, так как Земля наш общий космический дом, и первый космонавт планеты завещал нам её беречь.",
+      "url": "https://cosmatica.org/news/1054-sformirovan-pervyi-otrjad-druzhinki-yunyh-gagarincev.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/0/sformirovan-pervyi-otrjad-druzhinki-yunyh-gagarincev-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3f638d350b103705f0",
+      "type": "news-item",
+      "sourceCharacters": 3372,
+      "verified": false
+    },
+    {
+      "title": "Глава Роскосмоса в РАН. Хорошо и профессионально о главном.",
+      "description": "Смелое, честное, профессиональное, а главное... очевидно, что это выступление человека болеющего за своё, и наше Общее Дело, делающего всё, на что способен в существующих для него условиях и реалиях.",
+      "url": "https://cosmatica.org/news/1053-glava-roskosmosa-v-ran-horosho-i-professionalno-o-glavnom.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/c/glava-roskosmosa-v-ran-horosho-i-professionalno-o-glavnom-phot.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4cc6b563371a477f03",
+      "type": "news-item",
+      "sourceCharacters": 3205,
+      "verified": false
+    },
+    {
+      "title": "Путь к звёздам пролёг через Владимирскую землю",
+      "description": "Основной площадкой стали гостеприимные стены Владимирского государственного университета.",
+      "url": "https://cosmatica.org/news/1052-put-k-zvyozdam-prolyog-cherez-vladimirskuyu-zemlyu.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/8/put-k-zvyozdam-prolyog-cherez-vladimirskuyu-zemlyu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2f8786cc40a25bb9d7",
+      "type": "news-item",
+      "sourceCharacters": 10057,
+      "verified": false
+    },
+    {
+      "title": "Отмечаем юбилей вместе с \"Книгой на орбите\"",
+      "description": "С 12 по 16 апреля 2021 года в Донецкой республиканской библиотеке для детей им. С.М. Кирова проходили мероприятия в рамках литературно-образовательного проекта «Книга на орбите» . Проект реализуется в библиотеке с 2019 года совместно с Русским Космическим Обществом при поддержке Министерства культуры Донецкой Народной Республики.",
+      "url": "https://cosmatica.org/news/1068-otmechaem-yubilei-vmeste-s-knigoi-na-orbite.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/0/0f9f8342.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=46ce7460c8f06f54bb",
+      "type": "news-item",
+      "sourceCharacters": 4981,
+      "verified": false
+    },
+    {
+      "title": "День космонавтики в Костромской области",
+      "description": "День космонавтики в этом 2021 году особенный для всей нашей необъятной Родины. А для Костромского отделения - это праздник глубоко личный, так как председатель отделения Николай Николаевич Калитенко не просто имеет прямое отношение к космонавтике, а отдал этому более 20 лет своей жизни, прослужив на космодроме Байконур.",
+      "url": "https://cosmatica.org/news/1051-den-kosmonavtiki-v-kostromskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/000/u35/c/4/den-kosmonavtiki-v-kostromskoi-oblasti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ba7476c9af3c06df25",
+      "type": "news-item",
+      "sourceCharacters": 4294,
+      "verified": false
+    },
+    {
+      "title": "Небо начинается на земле",
+      "description": "15 апреля исполнилось ровно 100 лет со дня рождения лётчика-космонавта СССР, дважды Героя Советского Союза, участника Великой Отечественной войны Георгия Тимофеевича Берегового. Родился он в селе Фёдоровка Полтавской области, а детство и юность провёл в городе Енакиево Донецкой области. Особенно отмечают эту дату в Донецкой Народной Республике и, конечно, в Донецком отделении Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/1115-nebo-nachinaetsja-na-zemle.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/6/nebo-nachinaetsja-na-zemle-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=267b78ab7298c87df0",
+      "type": "news-item",
+      "sourceCharacters": 4688,
+      "verified": false
+    },
+    {
+      "title": "Встреча с лётчиком-космонавтом А.И. Лазуткиным",
+      "description": "17 апреля 2021 года в Центральном доме авиации и космонавтики ДОСААФ России под эгидой Русского Космического Общества состоялась встреча с лётчиком-космонавтом, Героем России, почётным членом Русского Космического Общества Александром Ивановичем Лазуткиным .",
+      "url": "https://cosmatica.org/news/1049-vstrecha-s-lyotchikom-kosmonavtom-aleksandrom-ivanovichem-lazutkinym.html",
+      "image": "https://cosmatica.org/upload/005/u576/8/3/vstrecha-s-lyotchikom-kosmonavtom-a-i-lazutkinym-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8463dff5f3cb7d24be",
+      "type": "news-item",
+      "sourceCharacters": 1652,
+      "verified": false
+    },
+    {
+      "title": "\"Земля сияет улыбкой Гагарина\" в Краснодарском отделении РКО",
+      "description": "Конференция приурочена к 60-летию первого полета Ю.А. Гагарина в космос, а также присвоению первым дружинам и отрядам имени \"Юрия Гагарина\" и включение их во Всемирное Эко-движение \"Природовица\" .",
+      "url": "https://cosmatica.org/news/1048-zemlja-sijaet-ulybkoi-gagarina-v-anapskom-otdelenii-rko.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/4/zemlja-sijaet-ulybkoi-gagarina-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1fae1c2c741d2c6742",
+      "type": "news-item",
+      "sourceCharacters": 6212,
+      "verified": false
+    },
+    {
+      "title": "Запуск эстафеты #япомню12апреля",
+      "description": "Русское Космическое Общество, Российское общественное движение \" Семья Отечества\" и литературный клуб \"Литпросвет\" при поддержке издательского дома \"Азбука детского счастья\" запустили эстафету памяти #япомню12апреля.",
+      "url": "https://cosmatica.org/news/1047-zapusk-estafety-japomnyu12aprelja.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/f/8eba079a.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1e78ec83dc0959e5ad",
+      "type": "news-item",
+      "sourceCharacters": 1641,
+      "verified": false
+    },
+    {
+      "title": "День космонавтики в Кузбассе",
+      "description": "12 апреля 2021 г., в День Космонавтики для всех участников Всероссийского движения Русского Космического Общества \"Дружина Гагаринцев\" Кузбасса Русским Космическим Обществом совместно с КРИПКиПРО организована и проведена патриотическая акция «Устремляясь к звёздам!».",
+      "url": "https://cosmatica.org/news/1046-den-kosmonavtiki-v-kuzbasse.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/3/bed6bc23.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2655e2f2b0c1610d3b",
+      "type": "news-item",
+      "sourceCharacters": 5076,
+      "verified": false
+    },
+    {
+      "title": "Книга дня сегодня...",
+      "description": "Автор: Стрельников Владимир Николаевич, профессиональный защитник Родины, участник боевых действий, писатель, победитель литературного конкурса \"Империум Человека. Герой и Враг Империума\"",
+      "url": "https://cosmatica.org/news/1045-kniga-dnja-segodnja.html",
+      "image": "https://cosmatica.org/upload/003/u395/3/5/kniga-dnja-segodnja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e317080a9c6404979d",
+      "type": "news-item",
+      "sourceCharacters": 1003,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

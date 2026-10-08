@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/974-kosmos-i-civilizacija-v-proshlom-i-buduschem.html",
+  "title": "Космос и цивилизация в прошлом и будущем",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва ч",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Доклад на I Международной научно-практической конференции: «Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва человечества»",
+      "spans": [
+        {
+          "text": "Доклад на I Международной научно-практической конференции: «Космическая  философия-Космическое право-Космическая деятельность: триединство  космического прорыва человечества»"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Докладчик: Аноприенко Александр Яковлевич, ректор ДонНТУ, Председатель Донецкого отделения РКО. ДНР, Донецк",
+      "spans": [
+        {
+          "text": "Докладчик: Аноприенко Александр Яковлевич, ректор ДонНТУ, Председатель  Донецкого отделения РКО. ДНР, Донецк"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "23.05.2020г. Россия, Москва",
+      "spans": [
+        {
+          "text": "23.05.2020г. Россия, Москва"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сайт конференции: создайбудущее.рф",
+      "spans": [
+        {
+          "text": " Сайт конференции: "
+        },
+        {
+          "text": "создайбудущее.рф",
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2F%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B9%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5.%D1%80%D1%84"
+        }
+      ],
+      "links": [
+        {
+          "text": "создайбудущее.рф",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2F%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B9%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5.%D1%80%D1%84"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "VsRGWF3lSwc",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=VsRGWF3lSwc"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Доклад на I Международной научно-практической конференции: «Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва человечества» Докладчик: Аноприенко Александр Яковлевич, ректор ДонНТУ, Председатель Донецкого отделения РКО. ДНР, Донецк 23.05.2020г. Россия, Москва Сайт конференции: создайбудущее.рф",
+      "links": [
+        {
+          "title": "создайбудущее.рф",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2F%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B9%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5.%D1%80%D1%84"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 672,
+    "storedTextCharacters": 441,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 77041
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 529,
+  "capturedBodyCharacters": 441,
+  "sourceTextSHA256": "4853162665735699512eba882a875d70aff1bf3990cec76c5fc5307db583237a",
+  "archiveSnapshotAt": "2026-10-08T08:44:53Z",
+  "publicVideoCount": 1
+}

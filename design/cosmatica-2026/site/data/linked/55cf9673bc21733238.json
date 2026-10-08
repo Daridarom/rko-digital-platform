@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/8173",
+  "title": "Анатолий Феликсович Михайлов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/3/21565aac.jpeg",
+      "alt": "Анатолий Феликсович Михайлов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/8/4/efe94069.jpeg",
+      "alt": "Анатолий Феликсович Михайлов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 2 года назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Исполнительный директор АНО «Центр Владимира Малявина „Средоточие“»",
+      "spans": [
+        {
+          "text": "Исполнительный директор АНО «Центр Владимира Малявина „Средоточие“»"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Координатор деятельности Евразийского клуба",
+      "spans": [
+        {
+          "text": "Координатор деятельности Евразийского клуба"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Исполнительный директор АНО «Центр Владимира Малявина „Средоточие“» Координатор деятельности Евразийского клуба",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/b/3/21565aac.jpeg",
+    "https://cosmatica.org/upload/000/u35/8/4/efe94069.jpeg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 194,
+    "storedTextCharacters": 144,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35089
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 139,
+  "capturedBodyCharacters": 144,
+  "sourceTextSHA256": "b2983f2f685d83c2fcb342a93aef693af6feeb3b77755f04bc795e13b690f080",
+  "archiveSnapshotAt": "2026-10-08T09:22:18Z"
+}

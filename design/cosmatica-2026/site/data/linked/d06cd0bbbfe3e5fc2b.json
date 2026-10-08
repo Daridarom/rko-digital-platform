@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/48-set.html",
+  "title": "Сеть",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "система",
+      "spans": [
+        {
+          "text": "система"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", в которой протекают процессы – потоки, соеди­няющие ее элементы.",
+      "spans": [
+        {
+          "text": ", в которой протекают процессы – потоки, соеди­няющие ее элементы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это система , в которой протекают процессы – потоки, соеди­няющие ее элементы.",
+      "links": [
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 83,
+    "storedTextCharacters": 76,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31706
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 78,
+  "capturedBodyCharacters": 76,
+  "sourceTextSHA256": "848dbbe3e498eb5ca117ac5a1021a5f09e0c2cacef3ab01dd6395392823ab6a5",
+  "archiveSnapshotAt": "2026-10-08T08:46:51Z"
+}

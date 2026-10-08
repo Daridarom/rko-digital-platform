@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/144-vypusk-4-russkaja-igra-pro-kosmos-nasha-vselennaja.html",
+  "title": "Выпуск 4: Русская игра про Космос - \"Наша Вселенная\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Цикл передач \"Прорыв!\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Гость передачи: Алексей Борисов –директор студии «Планета Людей», автор проекта «Наша Вселенная»",
+      "spans": [
+        {
+          "text": "\r\n\tГость передачи: Алексей Борисов –директор студии «Планета Людей», автор проекта «Наша Вселенная»"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Уникальный проект русской мечты - образовательный игровой проект о русском космосе и будущем \"Наша Вселенная\". Как соединить игру и воспитание, как зажечь сердца и мысли подвигом? Какие перспективы стоят перед нашим обществом и космонавтикой? Об этом в разговоре с директором студии \"Планета Людей\" и автором проекта \"Наша Вселенная\", Борисовым Алексеем\".",
+      "spans": [
+        {
+          "text": "\r\n\t\"Уникальный  "
+        },
+        {
+          "text": "проект",
+          "href": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": " русской мечты - образовательный игровой проект о русском космосе и будущем \"Наша Вселенная\". Как соединить игру и воспитание, как зажечь сердца и мысли подвигом? Какие перспективы стоят перед нашим обществом и космонавтикой? Об этом в разговоре с директором студии \"Планета Людей\" и автором проекта \"Наша Вселенная\", Борисовым Алексеем\"."
+        }
+      ],
+      "links": [
+        {
+          "text": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа ВКонтакте",
+      "spans": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Группа ВКонтакте",
+          "href": "https://vk.com/cosmatica"
+        }
+      ],
+      "links": [
+        {
+          "text": "Группа ВКонтакте",
+          "url": "https://vk.com/cosmatica"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Канал YouTube",
+      "spans": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Канал YouTube",
+          "href": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ],
+      "links": [
+        {
+          "text": "Канал YouTube",
+          "url": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "hzUUmm2t8tU",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=hzUUmm2t8tU"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Гость передачи: Алексей Борисов –директор студии «Планета Людей», автор проекта «Наша Вселенная» \"Уникальный проект русской мечты - образовательный игровой проект о русском космосе и будущем \"Наша Вселенная\". Как соединить игру и воспитание, как зажечь сердца и мысли подвигом? Какие перспективы стоят перед нашим обществом и космонавтикой? Об этом в разговоре с директором студии \"Планета Людей\" и автором проекта \"Наша Вселенная\", Борисовым Алексеем\". Группа ВКонтакте Канал YouTube",
+      "links": [
+        {
+          "title": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "Группа ВКонтакте",
+          "url": "https://vk.com/cosmatica"
+        },
+        {
+          "title": "Канал YouTube",
+          "url": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 582,
+    "storedTextCharacters": 504,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 7,
+    "sourceBytes": 75396
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 505,
+  "capturedBodyCharacters": 504,
+  "sourceTextSHA256": "85ca5cc92ad58b0fe45cec3826887f34c39cd7c22edb8ae23ced42b6f594d51c",
+  "archiveSnapshotAt": "2026-10-08T08:38:57Z",
+  "publicVideoCount": 1
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "library",
+  "title": "Библиотека",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 22,
+  "pageCount": 34,
+  "total": 510,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Мой первый радиоприемник",
+      "description": "В этой небольшой книге мы расскажем вам, дорогие ребята, о сущности радиопередачи и радиоприёма и о том, как построить ваши первые радиоприёмники. Мы уверены, что знания и навыки, приобретённые вами при постройке даже этих простых конструкций, положительно скажутся на учёбе в школе, пригодятся в вашей будущей трудовой жизни.",
+      "url": "https://cosmatica.org/library/213-moi-pervyi-radiopriemnik.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/b/moi-pervyi-radiopriemnik-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=749616558a3ea7f39d",
+      "type": "book",
+      "sourceCharacters": 364,
+      "verified": false
+    },
+    {
+      "title": "Самодельные телефонные аппараты",
+      "description": "Цель этой брошюры — помочь юному связисту ДОСААФ изготовить самодельный телефонный аппарат. Брошюра полезна также для школьных кружков ДОСААФ, юных изобретателей и конструкторов. Модели телефонных аппаратов можно сделать из подручных материалов при помощи простейших инструментов. Прежде чем конструировать телефонные аппараты нужно изучить их принцип работы и знать назначение деталей. Телефон удалось создать в результ",
+      "url": "https://cosmatica.org/library/212-samodelnye-telefonnye-apparaty.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/5/samodelnye-telefonnye-apparaty-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=9a71a180178f87a71a",
+      "type": "book",
+      "sourceCharacters": 1361,
+      "verified": false
+    },
+    {
+      "title": "Летающие модели гидросамолетов",
+      "description": "Как вы себе представляете гидросамолёт? Правильно, гидро – это значит вода. Таким образом, гидросамолёт – это не самолет, летающий по воде, а самолет, с помощью воды взлетающий и приземляющийся на воду. Авиамоделисты Советского Союза имеют многолетний опыт постройки летающих моделей гидросамолетов. За последние годы ими создано немало интересных моделей этого класса. Большинство мировых рекордов по гидромоделям прина",
+      "url": "https://cosmatica.org/library/211-letayuschie-modeli-gidrosamoletov.html",
+      "image": "https://cosmatica.org/upload/000/u26/b/a/letayuschie-modeli-gidrosamoletov-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=5dc914ddf4dab85d9c",
+      "type": "book",
+      "sourceCharacters": 991,
+      "verified": false
+    },
+    {
+      "title": "Радиоприемник юного туриста",
+      "description": "Многие юные радиолюбители хотели бы сделать самодельный приемник-радиопередвижку. На таком радиоприемнике можно слушать обзор газет, последние известия, музыкальные передачи. Сравнительно простой в сборке и налаживании, недорогой и удобный походный радиоприемник пригодится не только в туристском походе, его охотно возьмет с собой отпускник, охотник, рыболов. Построить и описать такой радиоприемник и поставил себе цел",
+      "url": "https://cosmatica.org/library/210-radiopriemnik-yunogo-turista.html",
+      "image": "https://cosmatica.org/upload/000/u26/c/1/radiopriemnik-yunogo-turista-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=1e574fecf73049d042",
+      "type": "book",
+      "sourceCharacters": 751,
+      "verified": false
+    },
+    {
+      "title": "Простейшая ветроэлектростанция КД-2",
+      "description": "Маломощные ветродвигатели, предназначенные для зарядки радиоаккумуляторов и для освещения, могут быть быстроходными и тихоходными. Первые технически более совершенны, но они и более сложны в конструктивном отношении. В этой брошюре дается описание устройства двух вариантов простейшего деревометаллического ветродвигателя: тихоходного девятилопастного типа КД-2, доступного в изготовлении для всякого, кто знаком со стол",
+      "url": "https://cosmatica.org/library/209-prosteishaja-vetroelektrostancija-kd-2.html",
+      "image": "https://cosmatica.org/upload/000/u26/8/2/prosteishaja-vetroelektrostancija-kd-2-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=6b716bc0fd3ac735ff",
+      "type": "book",
+      "sourceCharacters": 725,
+      "verified": false
+    },
+    {
+      "title": "Модель яхты",
+      "description": "Добровольное общество содействия Военно-Морскому Флоту (ДОСФЛОТ), начиная с 1949 года, проводит ежегодные соревнования плавающих моделей судов. Описываемая в этой брошюре",
+      "url": "https://cosmatica.org/library/208-model-jahty.html",
+      "image": "https://cosmatica.org/upload/000/u26/b/8/model-jahty-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=361b4ea0e78d71a403",
+      "type": "book",
+      "sourceCharacters": 559,
+      "verified": false
+    },
+    {
+      "title": "Компрессионный мотор Ф-10",
+      "description": "Книга, из которой вы узнаете: как создать действующую",
+      "url": "https://cosmatica.org/library/207-kompressionnyi-motor-f-10.html",
+      "image": "https://cosmatica.org/upload/000/u26/d/6/kompressionnyi-motor-f-10-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=59fc628b41e0eda268",
+      "type": "book",
+      "sourceCharacters": 374,
+      "verified": false
+    },
+    {
+      "title": "Бензиномоторчик",
+      "description": "Описываемый моторчик типа ПП-4 спроектирован инженером П.В.Пылковым (Ленинград). При конструировании моторчика были учтены конструкции авиамодельных моторов США.",
+      "url": "https://cosmatica.org/library/206-benzinomotorchik.html",
+      "image": "https://cosmatica.org/upload/000/u26/8/2/benzinomotorchik-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=97602f1ca71a057cad",
+      "type": "book",
+      "sourceCharacters": 416,
+      "verified": false
+    },
+    {
+      "title": "Самодельный телевизор",
+      "description": "Мы давно привыкли каждый день пользоваться телефоном, связывающим нас с далеким собеседником. Никого из нас не удивляет возможность передачи и приема по радио речи, пения, музыки, но далеко не все представляют себе, как происходит эта передача. Благодаря этой книге, вы не только разберетесь в вопросах радиоволн, но и сможете попробовать собрать собственный телевизор. Самодельный телевизор / Б. Шефер.- M. : Детиздат Ц",
+      "url": "https://cosmatica.org/library/205-samodelnyi-televizor.html",
+      "image": "https://cosmatica.org/upload/000/u26/3/0/samodelnyi-televizor-1937g-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ffd0a54ca8e0c3e4cf",
+      "type": "book",
+      "sourceCharacters": 484,
+      "verified": false
+    },
+    {
+      "title": "Делократия, или самосовершенствующиеся производственные системы",
+      "description": "представляет собой частично изменённую и дополненную монографию в двух частях Протопопова А. И. Конструирование самоорганизации развивающихся систем под ред. д.т.н., проф. Б. Е. Большакова. — М.: РАЕН, 2017. — 140 с.: илл., табл. Настоящая работа ставит своей целью показать, как можно обеспечить постоянный и устойчивый",
+      "url": "https://cosmatica.org/library/204-delokratija-ili-samosovershenstvuyuschiesja-proizvodstvennye-sistemy.html",
+      "image": "https://cosmatica.org/upload/000/u26/1/5/delokratija-ili-samosovershenstvuyuschiesja-proizvodstvennye-sistemy.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=21af658334357d4c55",
+      "type": "book",
+      "sourceCharacters": 512,
+      "verified": false
+    },
+    {
+      "title": "Сборник докладов научной конференции студентов и аспирантов, посвящённой 15-летию Университета «Дубна»",
+      "description": "В сборнике представлены результаты научных исследований студентов и аспирантов Университета «Дубна» в области проектирования и управления устойчивым развитием, доложенные на Конференции. Конференция состоялась 30 мая 2009 года на заседании конкурсной комиссии в Международном университете природы, общества и человека «Дубна».",
+      "url": "https://cosmatica.org/library/203-sbornik-dokladov-nauchnoi-konferencii-studentov-i-aspirantov-posvjaschyonnoi-15-letiyu-universit.html",
+      "image": "https://cosmatica.org/upload/000/u10/e/1/sbornik-dokladov-nauchnoi-konferencii-studentov-i-aspirantov-pos.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=779d66b6e46e7e14df",
+      "type": "book",
+      "sourceCharacters": 454,
+      "verified": false
+    },
+    {
+      "title": "П.Г. Кузнецов и проблема устойчивого развития Человечества в системе «природа – общество – человек»",
+      "description": "Прошло немногим более года после выхода в свет книги: «Побиск Георгиевич Кузнецов: идеи и",
+      "url": "https://cosmatica.org/library/202-p-g-kuznecov-i-problema-ustoichivogo-razvitija-chelovechestva-v-sisteme-priroda-obschestvo-chelo.html",
+      "image": "https://cosmatica.org/upload/000/u10/1/9/p-g-kuznecov-i-problema-ustoichivogo-razvitija-chelovechestva-v-sis.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=d5b7472ce3cf85589d",
+      "type": "book",
+      "sourceCharacters": 806,
+      "verified": false
+    },
+    {
+      "title": "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития» НШ-1269.2008.9",
+      "description": "Итоговый научный отчёт по гранту Президента РФ НШ-1269.2008.9 Стратегическим направлением развития нашей страны является устойчивое инновационное",
+      "url": "https://cosmatica.org/library/201-razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunikacionnoi-sistemy-mezhdunarodnaja-.html",
+      "image": "https://cosmatica.org/upload/000/u26/e/a/razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunika.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=1c512cd43084a39ea0",
+      "type": "book",
+      "sourceCharacters": 814,
+      "verified": false
+    },
+    {
+      "title": "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития»",
+      "description": "Научный отчёт по гранту Президента РФ НШ-1269.2008.9 Содержит:",
+      "url": "https://cosmatica.org/library/200-razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunikacionnoi-sistemy-mezhdunarodnaja-.html",
+      "image": "https://cosmatica.org/upload/000/u26/7/e/razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunika.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=608f85b64bf7ac2f7e",
+      "type": "book",
+      "sourceCharacters": 591,
+      "verified": false
+    },
+    {
+      "title": "К вопросу о значении и ключевой роли открытия новых альтернативных источников энергии для устойчивого развития общества",
+      "description": "В работе отражены некоторые результаты исследования перспектив развития альтернативных возобновляемых источников энергии, в том числе основанных на эффекте «энергетической инверсии». Показана их ключевая роль в обеспечении устойчивого развития. В связи с этим особую актуальность получает",
+      "url": "https://cosmatica.org/library/199-k-voprosu-o-znachenii-i-klyuchevoi-roli-otkrytija-novyh-alternativnyh-istochnikov-energii-dlja-u.html",
+      "image": "https://cosmatica.org/upload/000/u26/9/8/k-voprosu-o-znachenii-i-klyuchevoi-roli-otkrytija-novyh-alternativn.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=6c01159ad0057afa31",
+      "type": "book",
+      "sourceCharacters": 640,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

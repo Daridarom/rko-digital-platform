@@ -24,11 +24,15 @@ async function test(slug,device,width,height,href,full,expectedTitle=null){
     original:!!main?.querySelector('.source-page'),
     headingSize:parseFloat(getComputedStyle(main?.querySelector('.source-headline h1')||main?.querySelector('h1')).fontSize),
     programmeTitle:!!main?.querySelector('.source-title-suffix'),
-    external:[...document.querySelectorAll('a[href]')].filter(a=>new URL(a.href).origin!==location.origin).length,
+    external:[...document.querySelectorAll('a[href]')].filter(a=>new URL(a.href).origin!==location.origin).filter(a=>!(a.dataset.originalDownload==='cosmatica'&&/^https:\/\/cosmatica\.org\/files\/download\/\d+\/[a-f0-9]+$/i.test(a.href))).filter(a=>!(a.dataset.contentExternal==='true'&&a.href.startsWith('https://')&&a.target==='_blank'&&a.rel.includes('noopener'))).length,
     broken:[...document.querySelectorAll('img')].filter(i=>i.complete&&!i.naturalWidth&&i.src.includes('/assets/source/')).length
    };
   });
   assert(result.title,'No heading');
+  if(slug==='donate'){
+   await page.locator('.donate-intro .rich-blocks p').first().waitFor();
+   assert.equal(await page.locator('.donate-intro .rich-blocks p').count(),5);
+  }
   assert(result.overflow<=3,'Horizontal scroll '+result.overflow);
   assert.equal(result.external,0,'External user links');
   assert.equal(result.broken,0,'Missing local media');

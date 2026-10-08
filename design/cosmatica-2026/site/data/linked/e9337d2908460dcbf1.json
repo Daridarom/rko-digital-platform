@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1019-kosmicheskoe-pravo-vzgljad-v-iii-tysjacheletie-bondarenko-a-v.html",
+  "title": "Космическое право: взгляд в III тысячелетие - Бондаренко А.В.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва ч",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "https://создайбудущее.рф",
+      "spans": [
+        {
+          "text": "https://создайбудущее.рф",
+          "href": "https://создайбудущее.рф"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "https://создайбудущее.рф",
+          "url": "https://создайбудущее.рф"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "4PqiCgJSrUc",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=4PqiCgJSrUc"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "I Международная научно-практическая конференция: «Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва человечества» Секция «Космическое право – основа дальнейшего успешного исследования космоса». Доклад: «Космическое право: взгляд в III тысячелетие» - Бондаренко Артём Владимирович, доктор филологических наук, ведущий научный сотрудник АО «НПК «Системы прецизионного приборостроения» 24.05.2020г. Россия, Москва https://создайбудущее.рф Страница проекта на сайте РКО: https://cosmatica.org/projects/188 ПРЕЗЕНТАЦИЯ (скачать)",
+      "links": [
+        {
+          "title": "https://создайбудущее.рф",
+          "url": "https://создайбудущее.рф"
+        },
+        {
+          "title": "https://cosmatica.org/projects/188",
+          "url": "https://www.youtube.com/redirect?event=video_description&v=4PqiCgJSrUc&q=https%3A%2F%2Fcosmatica.org%2Fprojects%2F188&redir_token=QUFFLUhqa21sdXBLZWZ5RlFPS0Z1VzVRRWpKN2UzbTlnQXxBQ3Jtc0trTGpmZm9SSVVZbWJZdVcyanNGLTFrVGFKTzlaWFRwWlNtTGEtVHA3SElvN04zNzJzc3NGN1h3Y0xmNmI2MWNPTG9ZVHZfZVF2ZzZKZ0RLYkJVN3Z3ZHlFQW9HcVYyZksxUkRIZkxlV2h2MHJ4VWoxbw%3D%3D"
+        },
+        {
+          "title": "ПРЕЗЕНТАЦИЯ (скачать)",
+          "url": "https://cosmatica.org/upload/redactorfiles/Бондаренко Презентация президента МАКП на конференции РКО.pdf"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 877,
+    "storedTextCharacters": 125,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 77707
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 713,
+  "capturedBodyCharacters": 125,
+  "sourceTextSHA256": "ce18146f2ddf55213e2ddce806c9281c18342c217ba86ba6e68e355697bfb41b",
+  "archiveSnapshotAt": "2026-10-08T08:37:44Z",
+  "publicVideoCount": 1
+}

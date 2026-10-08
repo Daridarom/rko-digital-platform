@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/33-dialekticheskii-metod-k-marksa-teoreticheskaja-osnova-razrabotki-i-primenenija-sistem-sputnik-ska.html",
+  "title": "Диалектический метод К. Маркса — теоретическая основа разработки и применения систем «СПУТНИК-СКАЛАР",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Рассматриваются теоретические предпосылки,\r\nлежащие в основе разработки и применения систем\r\n«СПУТНИК-СКАЛАР».",
+      "spans": [
+        {
+          "text": "Рассматриваются теоретические предпосылки,\r\nлежащие в основе разработки и применения систем\r\n«СПУТНИК-СКАЛАР»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Рассматриваются теоретические предпосылки, лежащие в основе разработки и применения систем «СПУТНИК-СКАЛАР».",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 193 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/49/5833af1e8e32b28eead25f688aa4e6bf"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/49/5833af1e8e32b28eead25f688aa4e6bf"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 230,
+    "storedTextCharacters": 110,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39565
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 129,
+  "capturedBodyCharacters": 110,
+  "sourceTextSHA256": "7fb54f47690a1edd04318dea65df4483d828a4ee14b862aefbe02e2990852c54",
+  "archiveSnapshotAt": "2026-10-08T08:49:21Z"
+}

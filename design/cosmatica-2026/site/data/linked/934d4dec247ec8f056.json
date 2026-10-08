@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/konferencii",
+  "title": "Конференции",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Грядущие",
+        "Все"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "8 октября",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/4/5/mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-s.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "text": "18 мая",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/1/5/triedinstvo-kosmicheskogo-proryva-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Полный текст исходного материала"
+    },
+    {
+      "type": "paragraph",
+      "text": "Конференции Грядущие Все 8 октября Конференции Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\" #​Международная научная школа устойчивого развития имени П.Г.Кузнецова 08.10.2026 18 мая Конференции Триединство космического прорыва 18.05.2027",
+      "spans": [
+        {
+          "text": "Конференции Грядущие Все 8 октября Конференции Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\" #​Международная научная школа устойчивого развития имени П.Г.Кузнецова 08.10.2026 18 мая Конференции Триединство космического прорыва 18.05.2027"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/4/5/mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-s.jpg",
+    "https://cosmatica.org/upload/002/u218/1/5/triedinstvo-kosmicheskogo-proryva-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [
+    "Грядущие",
+    "Все"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 289,
+    "storedTextCharacters": 26,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 51822
+  },
+  "textFallbackRequired": true,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 289,
+  "capturedBodyCharacters": 347,
+  "sourceTextSHA256": "a1f015b152efc3578ba99cbbee10ff2096ebb64bc3ded3c6c4fe3c2b76ea6cb7",
+  "archiveSnapshotAt": "2026-10-08T09:16:17Z"
+}

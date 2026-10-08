@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 262,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Орловская область",
+      "description": "Адрес: г. Орёл, ул. Октябрьская д. 30 (здание Администрации Советского р-на, цокольный этаж)",
+      "url": "https://cosmatica.org/departments/34-orlovskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=8ef687ffcbef339c09",
+      "type": "department",
+      "sourceCharacters": 187,
+      "verified": false
+    },
+    {
+      "title": "Технология",
+      "description": "(от греч. téchne – мастерство, умение) – предметная об­ласть, изучающая правила преобразования движений в пространстве– времени; условия сохранения и изменения полезной мощности (рабо­тоспособности) системы жизнеобеспечения во времени и простран­стве.",
+      "url": "https://cosmatica.org/glossary/34-tehnologija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=4fa83c15d4d9e2d047",
+      "type": "article",
+      "sourceCharacters": 251,
+      "verified": false
+    },
+    {
+      "title": "Необратимость исторического процесса природы и общества в трудах В.И. Вернадского и в науке",
+      "description": "Существует ли такой вопрос, задавшись которым молодой человек вырастает в маститого ученого, продолжающего до седых волос искать на него ответ? Мне кажется, что такой вопрос существует и может быть сформулирован кратко так: «Что такое история? Каково место мыслящего человека в истории?»",
+      "url": "https://cosmatica.org/library/34-neobratimost-istoricheskogo-processa-prirody-i-obschestva-v-trudah-v-i-vernadskogo-i-v-nauke.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=0b527d3946d204ac2f",
+      "type": "book",
+      "sourceCharacters": 308,
+      "verified": false
+    },
+    {
+      "title": "Кто мы – потребители новых благ или создатели новых горизонтов?",
+      "description": "Встреча состоялась в музейном комплексе Государственного университета управления по приглашению проректора университета, Чуева Сергея Владимировича, её ведущим выступил Член Президиума РКО, автор книги «Империум Человека», Зотов Степан Андреевич.",
+      "url": "https://cosmatica.org/news/34-kto-my-potrebiteli-novyh-blag-ili-sozdateli-novyh-gorizontov.html",
+      "image": "https://cosmatica.org/upload/000/u1/27/32/kto-my-potrebiteli-novyh-blag-ili-sozdateli-novyh-gorizontov.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=828d33016ce5beccd4",
+      "type": "news-item",
+      "sourceCharacters": 1224,
+      "verified": false
+    },
+    {
+      "title": "День космического искусства. #Право руля: \"Рожденные летать\"",
+      "description": "26 сентября в рамках форсайт-фестиваля «Право руля!» состоится «День космического искусства»",
+      "url": "https://cosmatica.org/poster/34-den-kosmicheskogo-iskusstva.html",
+      "image": "https://cosmatica.org/upload/000/u21/af/12/den-kosmicheskogo-iskusstva-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=08ed976e80372e4a2f",
+      "type": "poster-item",
+      "sourceCharacters": 2381,
+      "verified": false
+    },
+    {
+      "title": "Роль следственных органов Санкт-Петербурга в противодействии экстремизму.",
+      "description": "Выступление Председателя Санкт-Петербургского Отделения и Философского Совета Русского Космического Общества, вице-президента Петровской академии наук и искусств 2018 г. Субетто Александра Ивановича 14 февраля 2018г. в Голубом зале РГПУ им. Герцена после Публичной лекции руководителя Главного следственного управления Следственного комитета Российской Федерации по г.Санкт-Петербургу генерал-майора юстиции Клауса Алекс",
+      "url": "https://cosmatica.org/articles/33-rol-sledstvennyh-organov-sankt-peterburga-v-protivodeistvii-ekstremizmu.html",
+      "image": "https://cosmatica.org/upload/000/u21/ea/77/xwlejja6lea.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=15e733f8311d007c8b",
+      "type": "article",
+      "sourceCharacters": 7658,
+      "verified": false
+    },
+    {
+      "title": "Брянская область",
+      "description": "Председатель отделения - Щербенко Алексей Васильевич",
+      "url": "https://cosmatica.org/departments/33-brjanskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=cd64f189a11a2094ce",
+      "type": "department",
+      "sourceCharacters": 284,
+      "verified": false
+    },
+    {
+      "title": "Товар (услуга)",
+      "description": "с установленной меновой стоимостью (ры­ночной ценой).",
+      "url": "https://cosmatica.org/glossary/33-tovar-usluga.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=686a90000c30a815c0",
+      "type": "article",
+      "sourceCharacters": 61,
+      "verified": false
+    },
+    {
+      "title": "Диалектический метод К. Маркса — теоретическая основа разработки и применения систем «СПУТНИК-СКАЛАР",
+      "description": "Рассматриваются теоретические предпосылки, лежащие в основе разработки и применения систем «СПУТНИК-СКАЛАР».",
+      "url": "https://cosmatica.org/library/33-dialekticheskii-metod-k-marksa-teoreticheskaja-osnova-razrabotki-i-primenenija-sistem-sputnik-ska.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=100b65778052ccaeba",
+      "type": "book",
+      "sourceCharacters": 129,
+      "verified": false
+    },
+    {
+      "title": "Космос - это наше будущее!",
+      "description": "О том, что такое Косматика, кому принадлежит космос, какие проекты в ближайших перспективах РКО и подробнее об одном из них - компьютерной игре \"Наша Вселенная\".",
+      "url": "https://cosmatica.org/news/33-osobyi-rakurs-o-russkom-kosmicheskom-obschestve.html",
+      "image": "https://cosmatica.org/upload/000/u1/b3/59/osobyi-rakurs-o-russkom-kosmicheskom-obschestve-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2f4a6b22d1918048f0",
+      "type": "news-item",
+      "sourceCharacters": 9853,
+      "verified": false
+    },
+    {
+      "title": "«Будущее российского космоса в фантастике и в жизни»",
+      "description": "25 августа 2018 года на базе спортивного комплекса «Искра» в г. Москва состоится круглый стол «Будущее российского космоса в фантастике и в жизни», на котором писатели, издатели, космонавты и специалисты космической отрасли обсудят популяризацию космоса в обществе.",
+      "url": "https://cosmatica.org/poster/33-buduschee-rossiiskogo-kosmosa-v-fantastike-i-v-zhizni.html",
+      "image": "https://cosmatica.org/upload/000/u26/ab/89/9315d27a.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=39a4bb674dd408da08",
+      "type": "poster-item",
+      "sourceCharacters": 2915,
+      "verified": false
+    },
+    {
+      "title": "Первая мировая выставка межпланетных аппаратов и механизмов (1927 г.)",
+      "description": "Автор: Председатель Секции истории авиации и космонавтики СПбФ ИИЕТ РАН Руководитель Комиссии воздухоплавания РГО, Член Экспертного Совета Русского Космического Общества В.В. Лебедев",
+      "url": "https://cosmatica.org/articles/32-pervaja-mirovaja-vystavka-mezhplanetnyh-apparatov-i-mehanizmov-1927-g.html",
+      "image": "https://pp.userapi.com/c840235/v840235792/785f9/s5NUzCQACfA.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=dad3d36f157d776741",
+      "type": "article",
+      "sourceCharacters": 34693,
+      "verified": false
+    },
+    {
+      "title": "Представительство в Канаде",
+      "description": "Адрес: 2323 Bloor Street West, Unit 216, Toronto, ON M6S 4W1",
+      "url": "https://cosmatica.org/departments/32-predstavitelstvo-v-kanade.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=a6859e84a882b5f712",
+      "type": "department",
+      "sourceCharacters": 138,
+      "verified": false
+    },
+    {
+      "title": "Труд",
+      "description": "целесообразная деятельность, мерой которой является произ­ведение рабочего времени на полезную",
+      "url": "https://cosmatica.org/glossary/32-trud.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=417a92aa1db5395ccf",
+      "type": "article",
+      "sourceCharacters": 271,
+      "verified": false
+    },
+    {
+      "title": "Спинорный метод решения систем нелинейных алгебраических уравнений",
+      "description": "решения систем нелинейных алгебраических уравнений состоит из двух этапов: предварительного, дающего расположение корней, и дальнейшего уточнения корней.",
+      "url": "https://cosmatica.org/library/32-spinornyi-metod-reshenija-sistem-nelineinyh-algebraicheskih-uravnenii.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=ffba89e33fcaf8cbfd",
+      "type": "book",
+      "sourceCharacters": 186,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

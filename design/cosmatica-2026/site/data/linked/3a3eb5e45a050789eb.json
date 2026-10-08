@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/407-elementarnaja-matematika-2-e-izdanie.html",
+  "title": "Элементарная математика (2-е издание)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/1/3/elementarnaja-matematika-photo-normal.jpg",
+      "alt": "Элементарная математика (2-е издание)"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Зайцев В. В., Рыжков В. В., Сканави М. И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 24 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2413/7f28e0635d929d94d3523052dcfb377b"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/1/3/elementarnaja-matematika-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2413/7f28e0635d929d94d3523052dcfb377b"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 106,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39488
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 68,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "dbee05861d7d8b587c5c9da7b4839f4b7cadf6e08567219bf82fbbaca564e8f3",
+  "archiveSnapshotAt": "2026-10-08T08:49:47Z"
+}

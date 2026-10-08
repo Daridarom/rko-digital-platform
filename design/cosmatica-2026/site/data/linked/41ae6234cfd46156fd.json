@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/880-nasha-objazannost-podgotovit-rebyonka-k-zhizni-v-buduschem-krym-detskii-ostrov.html",
+  "title": "Наша обязанность — подготовить ребёнка к жизни в будущем. Крым — Детский остров",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "В данном видео Олег Александрович Чаги, Сопредседатель Совета безопасности Русского Космического Общества. Директор НИИ «Научно-исследовательский институт Антропогенеза», к.э.н., д.м.н, д.ф.н., профессор, академик РАЕН делится своим видением перспектив формирования среды для развития детей и формирования из них полноценного развитого человека.",
+      "spans": [
+        {
+          "text": "В данном видео Олег Александрович Чаги, Сопредседатель Совета безопасности Русского Космического Общества. Директор НИИ «Научно-исследовательский институт Антропогенеза», к.э.н., д.м.н, д.ф.н., профессор, академик РАЕН делится своим видением перспектив  формирования среды для развития детей и формирования из них полноценного  развитого человека."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "IeL0Tgysy5Y",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=IeL0Tgysy5Y"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В данном видео Олег Александрович Чаги, Сопредседатель Совета безопасности Русского Космического Общества. Директор НИИ «Научно-исследовательский институт Антропогенеза», к.э.н., д.м.н, д.ф.н., профессор, академик РАЕН делится своим видением перспектив формирования среды для развития детей и формирования из них полноценного развитого человека.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 566,
+    "storedTextCharacters": 345,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 76025
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 486,
+  "capturedBodyCharacters": 345,
+  "sourceTextSHA256": "aae5580b0fe0d9a0de777435d28855613f8edccd353c0072bac59be6bbb04a31",
+  "archiveSnapshotAt": "2026-10-08T08:44:27Z",
+  "publicVideoCount": 1
+}

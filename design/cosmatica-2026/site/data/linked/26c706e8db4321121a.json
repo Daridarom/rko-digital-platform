@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "slug": "article",
+  "slug": "articles-list",
   "sourceUrl": "https://cosmatica.org/articles/konkursnye-raboty",
   "title": "Конкурсные работы",
   "intro": "",
@@ -106,7 +106,304 @@
       "level": 2
     }
   ],
-  "cards": [],
+  "cards": [
+    {
+      "title": "Целеустремленность через призму науки",
+      "description": "Целеустремленность через призму науки Автор: Иванчишена Алёна Вадимовна Подробнее",
+      "url": "https://cosmatica.org/articles/1484-celeustremlennost-cherez-prizmu-nauki.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Целеустремленность через призму науки",
+          "url": "https://cosmatica.org/articles/1484-celeustremlennost-cherez-prizmu-nauki.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1484-celeustremlennost-cherez-prizmu-nauki.html"
+        }
+      ]
+    },
+    {
+      "title": "Целеустремленность через призму науки #​Международная научная школа устойчивого развития имени П.Г.Кузнецова",
+      "description": "Целеустремленность через призму науки #​Международная научная школа устойчивого развития имени П.Г.Кузнецова Автор: Гусева Екатерина Владимировна, 9 «Б» класс Подробнее",
+      "url": "https://cosmatica.org/articles/1483-celeustremlennost-cherez-prizmu-nauki.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Целеустремленность через призму науки",
+          "url": "https://cosmatica.org/articles/1483-celeustremlennost-cherez-prizmu-nauki.html"
+        },
+        {
+          "title": "#​Международная научная школа устойчивого развития имени П.Г.Кузнецова",
+          "url": "https://cosmatica.org/projects/267/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1483-celeustremlennost-cherez-prizmu-nauki.html"
+        }
+      ]
+    },
+    {
+      "title": "Целеустремленность через призму науки #​Международная научная школа устойчивого развития имени П.Г.Кузнецова",
+      "description": "Целеустремленность через призму науки #​Международная научная школа устойчивого развития имени П.Г.Кузнецова Автор: Кузнецова Анастасия Александровна Подробнее",
+      "url": "https://cosmatica.org/articles/1482-celeustremlennost-cherez-prizmu-nauki.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Целеустремленность через призму науки",
+          "url": "https://cosmatica.org/articles/1482-celeustremlennost-cherez-prizmu-nauki.html"
+        },
+        {
+          "title": "#​Международная научная школа устойчивого развития имени П.Г.Кузнецова",
+          "url": "https://cosmatica.org/projects/267/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1482-celeustremlennost-cherez-prizmu-nauki.html"
+        }
+      ]
+    },
+    {
+      "title": "Мой космический корабль #Зачем Человеку Космос – Зачем Космосу Человек",
+      "description": "Мой космический корабль #Зачем Человеку Космос – Зачем Космосу Человек Автор: Дорошенко Артур Игоревич, ГБУ ОО ЗО «Нововодянская СОШ». Наставник - Вовк Оксана Владимировна Подробнее",
+      "url": "https://cosmatica.org/articles/1470-moi-kosmicheskii-korabl.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Мой космический корабль",
+          "url": "https://cosmatica.org/articles/1470-moi-kosmicheskii-korabl.html"
+        },
+        {
+          "title": "#Зачем Человеку Космос – Зачем Космосу Человек",
+          "url": "https://cosmatica.org/projects/327/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1470-moi-kosmicheskii-korabl.html"
+        }
+      ]
+    },
+    {
+      "title": "Как стать космонавтом #Зачем Человеку Космос – Зачем Космосу Человек",
+      "description": "Как стать космонавтом #Зачем Человеку Космос – Зачем Космосу Человек Автор: Грицула Николай Николаевич. ГБУ ОО ЗО «Розовская СОШ №2» Куйбышевского района Запорожской области, 7 класс Подробнее",
+      "url": "https://cosmatica.org/articles/1469-kak-stat-kosmonavtom.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Как стать космонавтом",
+          "url": "https://cosmatica.org/articles/1469-kak-stat-kosmonavtom.html"
+        },
+        {
+          "title": "#Зачем Человеку Космос – Зачем Космосу Человек",
+          "url": "https://cosmatica.org/projects/327/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1469-kak-stat-kosmonavtom.html"
+        }
+      ]
+    },
+    {
+      "title": "Тема: Семья – основа жизни общества #Журналист - созидатель будущего",
+      "description": "Тема: Семья – основа жизни общества #Журналист - созидатель будущего Автор: Кущишина Анастасия Сергеевна, начинающий журналист. Подробнее",
+      "url": "https://cosmatica.org/articles/1402-tema-semja-osnova-zhizni-obschestva.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Тема: Семья – основа жизни общества",
+          "url": "https://cosmatica.org/articles/1402-tema-semja-osnova-zhizni-obschestva.html"
+        },
+        {
+          "title": "#Журналист - созидатель будущего",
+          "url": "https://cosmatica.org/projects/264/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1402-tema-semja-osnova-zhizni-obschestva.html"
+        }
+      ]
+    },
+    {
+      "title": "Не губите истоки жизни - в них связь поколений, любовь и тепло #Журналист - созидатель будущего",
+      "description": "Не губите истоки жизни - в них связь поколений, любовь и тепло #Журналист - созидатель будущего Автор: Баландина Мария Сергеевна, начинающий журналист, г. Люберцы Подробнее",
+      "url": "https://cosmatica.org/articles/1401-ne-gubite-istoki-zhizni-v-nih-svjaz-pokolenii-lyubov-i-teplo.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Не губите истоки жизни - в них связь поколений, любовь и тепло",
+          "url": "https://cosmatica.org/articles/1401-ne-gubite-istoki-zhizni-v-nih-svjaz-pokolenii-lyubov-i-teplo.html"
+        },
+        {
+          "title": "#Журналист - созидатель будущего",
+          "url": "https://cosmatica.org/projects/264/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1401-ne-gubite-istoki-zhizni-v-nih-svjaz-pokolenii-lyubov-i-teplo.html"
+        }
+      ]
+    },
+    {
+      "title": "Дом, где всегда тепло #Журналист - созидатель будущего",
+      "description": "Дом, где всегда тепло #Журналист - созидатель будущего Автор: Труфанова Дарья Сергеевна, начинающий журналист, г. Кемерово Подробнее",
+      "url": "https://cosmatica.org/articles/1400-dom-gde-vsegda-teplo.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Дом, где всегда тепло",
+          "url": "https://cosmatica.org/articles/1400-dom-gde-vsegda-teplo.html"
+        },
+        {
+          "title": "#Журналист - созидатель будущего",
+          "url": "https://cosmatica.org/projects/264/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1400-dom-gde-vsegda-teplo.html"
+        }
+      ]
+    },
+    {
+      "title": "Настоящая. Любящая. Наша #Журналист - созидатель будущего",
+      "description": "Настоящая. Любящая. Наша #Журналист - созидатель будущего Автор: Лобова Варвара Сергеевна, начинающий журналист, г. Кострома Подробнее",
+      "url": "https://cosmatica.org/articles/1399-nastojaschaja-lyubjaschaja-nasha.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Настоящая. Любящая. Наша",
+          "url": "https://cosmatica.org/articles/1399-nastojaschaja-lyubjaschaja-nasha.html"
+        },
+        {
+          "title": "#Журналист - созидатель будущего",
+          "url": "https://cosmatica.org/projects/264/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1399-nastojaschaja-lyubjaschaja-nasha.html"
+        }
+      ]
+    },
+    {
+      "title": "Развиваться нельзя деградировать #Журналист - созидатель будущего",
+      "description": "Развиваться нельзя деградировать #Журналист - созидатель будущего Автор: Пузанова Яна Викторовна, начинающий журналист, г. Ульяновск Подробнее",
+      "url": "https://cosmatica.org/articles/1398-razvivatsja-nelzja-degradirovat.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Развиваться нельзя деградировать",
+          "url": "https://cosmatica.org/articles/1398-razvivatsja-nelzja-degradirovat.html"
+        },
+        {
+          "title": "#Журналист - созидатель будущего",
+          "url": "https://cosmatica.org/projects/264/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1398-razvivatsja-nelzja-degradirovat.html"
+        }
+      ]
+    },
+    {
+      "title": "Кукушка #Журналист - созидатель будущего",
+      "description": "Кукушка #Журналист - созидатель будущего Автор: Леонтьева Анастасия Александровна, начинающий журналист Подробнее",
+      "url": "https://cosmatica.org/articles/1397-kukushka.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Кукушка",
+          "url": "https://cosmatica.org/articles/1397-kukushka.html"
+        },
+        {
+          "title": "#Журналист - созидатель будущего",
+          "url": "https://cosmatica.org/projects/264/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1397-kukushka.html"
+        }
+      ]
+    },
+    {
+      "title": "Круговорот труда в Природе #Журналист - созидатель будущего",
+      "description": "Круговорот труда в Природе #Журналист - созидатель будущего Автор: Елена Эдуардовна Корецкая, начинающий журналист, г. Будённовск Подробнее",
+      "url": "https://cosmatica.org/articles/1396-krugovorot-truda-v-prirode.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Круговорот труда в Природе",
+          "url": "https://cosmatica.org/articles/1396-krugovorot-truda-v-prirode.html"
+        },
+        {
+          "title": "#Журналист - созидатель будущего",
+          "url": "https://cosmatica.org/projects/264/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1396-krugovorot-truda-v-prirode.html"
+        }
+      ]
+    },
+    {
+      "title": "Жизнь и полёт Ю.А.Гагарина в советской и современной литературе #Международный конкурс исследовательских проектов",
+      "description": "Жизнь и полёт Ю.А.Гагарина в советской и современной литературе #Международный конкурс исследовательских проектов Елизавета Евгеньевна Пиданова, ученица 11 «А» класс МБОУ СОШ №2 г. Солнечногорска Подробнее",
+      "url": "https://cosmatica.org/articles/648-zhizn-i-polyot-yu-a-gagarina-v-sovetskoi-i-sovremennoi-literature.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Жизнь и полёт Ю.А.Гагарина в советской и современной литературе",
+          "url": "https://cosmatica.org/articles/648-zhizn-i-polyot-yu-a-gagarina-v-sovetskoi-i-sovremennoi-literature.html"
+        },
+        {
+          "title": "#Международный конкурс исследовательских проектов",
+          "url": "https://cosmatica.org/projects/konkurs-issledovateley/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/648-zhizn-i-polyot-yu-a-gagarina-v-sovetskoi-i-sovremennoi-literature.html"
+        }
+      ]
+    },
+    {
+      "title": "История развития отечественной космической программы #Международный конкурс исследовательских проектов",
+      "description": "История развития отечественной космической программы #Международный конкурс исследовательских проектов Занько Анатолий, ученик 11 «А» класса СОШ№10 . Руководитель: Куделько Т. С. Подробнее",
+      "url": "https://cosmatica.org/articles/647-istorija-razvitija-otechestvennoi-kosmicheskoi-programmy.html",
+      "image": null,
+      "links": [
+        {
+          "title": "История развития отечественной космической программы",
+          "url": "https://cosmatica.org/articles/647-istorija-razvitija-otechestvennoi-kosmicheskoi-programmy.html"
+        },
+        {
+          "title": "#Международный конкурс исследовательских проектов",
+          "url": "https://cosmatica.org/projects/konkurs-issledovateley/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/647-istorija-razvitija-otechestvennoi-kosmicheskoi-programmy.html"
+        }
+      ]
+    },
+    {
+      "title": "Изучение истории космонавтики в почтовых марках #Международный конкурс исследовательских проектов",
+      "description": "Изучение истории космонавтики в почтовых марках #Международный конкурс исследовательских проектов Перервенко Кирилл Гордеевич, НОЧУ СОШ \"Премьерский лицей\", г. Москва. Руководитель: Пономаренко Ольга Владимировна. Подробнее",
+      "url": "https://cosmatica.org/articles/579-izuchenie-istorii-kosmonavtiki-v-pochtovyh-markah.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Изучение истории космонавтики в почтовых марках",
+          "url": "https://cosmatica.org/articles/579-izuchenie-istorii-kosmonavtiki-v-pochtovyh-markah.html"
+        },
+        {
+          "title": "#Международный конкурс исследовательских проектов",
+          "url": "https://cosmatica.org/projects/konkurs-issledovateley/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/579-izuchenie-istorii-kosmonavtiki-v-pochtovyh-markah.html"
+        }
+      ]
+    }
+  ],
   "fields": [],
   "images": [],
   "documents": [],
@@ -118,9 +415,15 @@
     "http": 200,
     "sourceTextCharacters": 2871,
     "storedTextCharacters": 1566,
-    "sourceCardCount": 0,
+    "sourceCardCount": 15,
     "sourceImageCount": 0,
     "paragraphCount": 2,
     "sourceBytes": 100436
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "articles-list",
+  "sourceTextCharacters": 2871,
+  "capturedBodyCharacters": 1566,
+  "sourceTextSHA256": "83b0176e33209510c6212f54e0f7f292c6e0c7f3383946010f96705fcfb7d282",
+  "archiveSnapshotAt": "2026-10-08T08:45:04Z"
 }

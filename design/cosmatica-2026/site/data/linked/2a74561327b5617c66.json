@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/397-astronomija-dlja-umnenkih-detei-kamni-kotorye-upali-s-neba.html",
+  "title": "Астрономия для умненьких детей. Камни, которые упали с неба",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/4/7/astronomija-dlja-umnenkih-detei-kamni-kotorye-upali-s-neba-phot.png",
+      "alt": "Астрономия для умненьких детей. Камни, которые упали с неба"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Левитан Е. П.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 36 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2398/1422e642b5130bd51d0e6737e9daa05f"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/4/7/astronomija-dlja-umnenkih-detei-kamni-kotorye-upali-s-neba-phot.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2398/1422e642b5130bd51d0e6737e9daa05f"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 100,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39747
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 40,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "f51b14e86c289837bd95256321249e5978652ca13f188d98606afe265526d2f4",
+  "archiveSnapshotAt": "2026-10-08T08:49:44Z"
+}

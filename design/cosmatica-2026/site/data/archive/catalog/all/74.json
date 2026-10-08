@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 74,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Готовимся к старту",
+      "description": "17 августа 2021 года исполняется 88 лет со дня успешного пуска первой отечественной жидкостной ракеты. Местом этого исторического события, навсегда разделившего историю цивилизации Земли на «до» и «после» стал Нахабинский полигон Московской области.",
+      "url": "https://cosmatica.org/news/1125-gotovimsja-k-startu.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/1/f7cdb97a.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=19e6cf7a8bb3d272fd",
+      "type": "news-item",
+      "sourceCharacters": 2394,
+      "verified": false
+    },
+    {
+      "title": "Особый период и Новая эра",
+      "description": "«Всякое царство, разделившееся само в себе, опустеет;",
+      "url": "https://cosmatica.org/news/1124-osobyi-period-i-novaja-era.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/b/osobyi-period-i-novaja-era-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=901463a981512aa7fa",
+      "type": "news-item",
+      "sourceCharacters": 6869,
+      "verified": false
+    },
+    {
+      "title": "Презентация книги Мир Героев",
+      "description": "25 августа в 14 часов состоится презентация книги Зотова Степана Андреевича \"Мир Героев\".",
+      "url": "https://cosmatica.org/news/1123-prezentacija-knigi-mir-geroev.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/0/prezentacija-knigi-mir-geroev-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a695e5ddf475ba5896",
+      "type": "news-item",
+      "sourceCharacters": 3984,
+      "verified": false
+    },
+    {
+      "title": "Отчёт о деятельности Русского Космического Общества за 2020 год",
+      "description": "Три года позади. 2020 год принёс перемены. Перемены произошли и в Русском Космическом Обществе.",
+      "url": "https://cosmatica.org/articles/1122-otchyot-o-dejatelnosti-russkogo-kosmicheskogo-obschestva-za-2020-god.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/c/3-goda-rko.jpeg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=8ae07d398f7436474d",
+      "type": "article",
+      "sourceCharacters": 37160,
+      "verified": false
+    },
+    {
+      "title": "Кудеярова Тропа состоялась",
+      "description": "Он прошёл с 30 июля по 1 августа в новом для нас месте пос. Дугна Ферзиковского района Калужской области. По всеобщему согласию это был один из живописнейших маршрутов Тропы. А потому трудности дистанции прекрасно дополнялись эстетическим удовольствием созерцания окружающих пейзажей. Это уникальный район Калужской области, так называемая калужская Швейцария, в котором характерны большие перепады высот, холмы, сопки. ",
+      "url": "https://cosmatica.org/news/1122-kudejarova-tropa-sostojalas.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/b/kudejarova-tropa-sostojalas-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5c3611f3a57cf37b19",
+      "type": "news-item",
+      "sourceCharacters": 5339,
+      "verified": false
+    },
+    {
+      "title": "Проект \"Мы верим в космос\" и РГАНТД подписали соглашение о сотрудничестве",
+      "description": "Русское Космическое Общество и Российский государственный архив научно-технической документации (РГАНТД) заключили соглашение о сотрудничестве в сфере популяризации космонавтики. Оно направлено на создание условий для развития взаимодействия в области популяризации и изучения истории космонавтики.",
+      "url": "https://cosmatica.org/news/1121-proekt-my-verim-v-kosmos-i-rgantd-podpisali-soglashenie-o-sotrudnichestve.html",
+      "image": "https://cosmatica.org/upload/001/u120/c/2/proekt-my-verim-v-kosmos-i-rgantd-podpisali-soglashenie-o-sotru.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e5cca50ddd390d8592",
+      "type": "news-item",
+      "sourceCharacters": 1416,
+      "verified": false
+    },
+    {
+      "title": "В Волгоградском отделении РКО новый председатель",
+      "description": "В начале июля с однодневным рабочим визитом Глава Русского Космического Общества посетил Волгоград.",
+      "url": "https://cosmatica.org/news/1120-v-volgogradskom-otdelenii-rko-novyi-predsedatel.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/4/novyi-predsedatel-volgogradskogo-otdelenija-rko-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7912d1e208f41af4a3",
+      "type": "news-item",
+      "sourceCharacters": 4300,
+      "verified": false
+    },
+    {
+      "title": "Путь философа - вечность",
+      "description": "Пополнил Вечный строй легенда Ленинградской философии - Линьков Евгений Семенович (08.04.1938, Орел – 14.07.2021, С-Петербург).",
+      "url": "https://cosmatica.org/news/1119-put-filosofa-vechnost.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/0/ada29157.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=767f0e880495dc5be5",
+      "type": "news-item",
+      "sourceCharacters": 2147,
+      "verified": false
+    },
+    {
+      "title": "Никто не забыт",
+      "description": "Осенью 2020 года к Русскому Космическому Обществу обратился житель села Глазуновка Орловской области Родионов Дмитрий Александрович с просьбой оказать содействие в увековечивании подвига 20-летней девушки, лётчицы Поляковой Александры Павловны, которая, по одной из версий историков ВОВ, 9 мая 1943 года в небе над станцией Глазуновка совершила огненный таран. РКО откликнулось на призыв и включило данный эпизод в проек",
+      "url": "https://cosmatica.org/news/1118-nikto-ne-zabyt.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/1/ebd27087.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b995b83c38cef5fcdb",
+      "type": "news-item",
+      "sourceCharacters": 5663,
+      "verified": false
+    },
+    {
+      "title": "Введение в проблему конструирования самоорганизации развивающихся систем. Делократия. Урок 2",
+      "description": "Введение в проблему конструирования самоорганизации развивающихся систем. Научные основания Делократии.",
+      "url": "https://cosmatica.org/articles/1117-vvedenie-v-problemu-konstruirovanija-samoorganizacii-razvivayuschihsja-sistem-delokratija-urok-.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=5dedd50bfdc3c36aa1",
+      "type": "article",
+      "sourceCharacters": 748,
+      "verified": false
+    },
+    {
+      "title": "Участники РКО и ОД Возвращаем воду в реки на Фестивале Мира и Экотехнологий в Татарстане",
+      "description": "Людмила Ивановна Севостьянова - председатель Общественного движения \"Возвращаем воду в реки\", участник РКО была приглашена на фестиваль Мира и Экотехнологий в Татарстане для обмена опытом и передачи уникальной методики восстановления и сохранения водных ресурсов.",
+      "url": "https://cosmatica.org/news/1117-uchastniki-rko-i-od-vozvraschaem-vodu-v-reki-na-festivale-mira-i-ekotehnologii-v-tatarstane.html",
+      "image": "https://cosmatica.org/upload/009/u983/a/f/uchastniki-rko-i-od-vozvraschaem-vodu-v-reki-na-festivale-mira-i-e.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f0b5d276e62c945da4",
+      "type": "news-item",
+      "sourceCharacters": 2002,
+      "verified": false
+    },
+    {
+      "title": "Введение в проблему конструирования самоорганизации развивающихся систем. Делократия",
+      "description": "Приглашаем ознакомиться с вводной лекцией от автора Делократии Протопопова А.И.",
+      "url": "https://cosmatica.org/articles/1116-vvedenie-v-problemu-konstruirovanija-samoorganizacii-razvivayuschihsja-sistem-delokratija.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=fdbee0995b26f42c65",
+      "type": "article",
+      "sourceCharacters": 956,
+      "verified": false
+    },
+    {
+      "title": "Наш Гагарин открылся для жителей Шахтёрска",
+      "description": "В Шахтёрске открылась передвижная фотовыставка «Наш Гагарин».",
+      "url": "https://cosmatica.org/news/1116-nash-gagarin-otkrylsja-dlja-zhitelei-shahtyorska.html",
+      "image": "https://cosmatica.org/upload/000/u35/c/1/7008dcac.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1a5c9a1c0077abf68c",
+      "type": "news-item",
+      "sourceCharacters": 2923,
+      "verified": false
+    },
+    {
+      "title": "Познавательная настольная игра \"Только вперед!\"",
+      "description": "Познавательная настольная игра «ТОЛЬКО ВПЕРЕД!»",
+      "url": "https://cosmatica.org/articles/1115-poznavatelnaja-nastolnaja-igra-tolko-vpered.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=73287d27439061f86c",
+      "type": "article",
+      "sourceCharacters": 4271,
+      "verified": false
+    },
+    {
+      "title": "Небо начинается на земле",
+      "description": "15 апреля исполнилось ровно 100 лет со дня рождения лётчика-космонавта СССР, дважды Героя Советского Союза, участника Великой Отечественной войны Георгия Тимофеевича Берегового. Родился он в селе Фёдоровка Полтавской области, а детство и юность провёл в городе Енакиево Донецкой области. Особенно отмечают эту дату в Донецкой Народной Республике и, конечно, в Донецком отделении Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/1115-nebo-nachinaetsja-na-zemle.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/6/nebo-nachinaetsja-na-zemle-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=267b78ab7298c87df0",
+      "type": "news-item",
+      "sourceCharacters": 4688,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "users",
+  "title": "Участники РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 8,
+  "pageCount": 16,
+  "total": 235,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Пётр Григорьевич Никитенко",
+      "description": "Председатель Представительства РКО в Республике Беларусь.",
+      "url": "https://cosmatica.org/users/194",
+      "image": "https://cosmatica.org/upload/001/u194/6/0/24d6e590.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=50ee9f40530b2c3a08",
+      "type": "profile",
+      "sourceCharacters": 4962,
+      "verified": false
+    },
+    {
+      "title": "Вадим Иванович Ловчиков",
+      "description": "Естествоиспытатель, автор обобщенной формулы энергии, автор закона нулевой прибыли, ведущий, общественный деятель.",
+      "url": "https://cosmatica.org/users/196",
+      "image": "https://cosmatica.org/upload/000/u26/8/2/caceb1d2.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=fb844e4e008b0c9028",
+      "type": "profile",
+      "sourceCharacters": 186,
+      "verified": false
+    },
+    {
+      "title": "Сергей Александрович Домбровский",
+      "description": "Офицер запаса. Образование Высшее. Женат, трое детей.",
+      "url": "https://cosmatica.org/users/197",
+      "image": "https://cosmatica.org/upload/002/u218/5/b/129081cc.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=8fbcbde825188dc9c0",
+      "type": "profile",
+      "sourceCharacters": 136,
+      "verified": false
+    },
+    {
+      "title": "Андрей Евгеньевич Петров",
+      "description": "Председатель экспертного Совета Русского Космического Общества.",
+      "url": "https://cosmatica.org/users/20",
+      "image": "https://cosmatica.org/upload/000/u1/5e/e3/3e6e5b8b.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=b9a4175c4d59cac71f",
+      "type": "profile",
+      "sourceCharacters": 5084,
+      "verified": false
+    },
+    {
+      "title": "Алексей Михайлович Пухович",
+      "description": "Выпускник ГЦОЛИФК, тренер-преподаватель по Самбо, КМС по Самбо и Дзюдо.",
+      "url": "https://cosmatica.org/users/202",
+      "image": "https://cosmatica.org/upload/000/u35/b/6/40c30053.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=5cc640245400aac0ee",
+      "type": "profile",
+      "sourceCharacters": 409,
+      "verified": false
+    },
+    {
+      "title": "Владислав Николаевич Липисивицкий",
+      "description": "",
+      "url": "https://cosmatica.org/users/206",
+      "image": "https://cosmatica.org/upload/000/u26/1/1/9f454347.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=abe328ba1da5a00faa",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Калининградское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/209",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=4ad6efd8a513c478e1",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Санкт-Петербургское отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/21",
+      "image": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=33d30527afa06c3118",
+      "type": "profile",
+      "sourceCharacters": 10,
+      "verified": false
+    },
+    {
+      "title": "Кемеровское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/210",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=3f15ee38ae0d1a1cac",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Волгоградское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/211",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=90fbebb8004ddf5e44",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Смоленское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/212",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=9a101d6b20a481d841",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Александр Леонидович Яковенко",
+      "description": "Наставник Молодежного Центра Инновационных Разработок и Изобретений Русского Космического Общества (МЦИРИ РКО).",
+      "url": "https://cosmatica.org/users/213",
+      "image": "https://cosmatica.org/upload/000/u26/b/b/a3375eda.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=d2ab5bcdf4a615bec2",
+      "type": "profile",
+      "sourceCharacters": 139,
+      "verified": false
+    },
+    {
+      "title": "Олег Николаевич Цуканов",
+      "description": "Специалист в области технологии машиностроения, металлорежущих станков и инструментов.",
+      "url": "https://cosmatica.org/users/214",
+      "image": "https://cosmatica.org/upload/000/u26/f/3/aa5b35f8.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=f2444e57402ecc5b04",
+      "type": "profile",
+      "sourceCharacters": 2488,
+      "verified": false
+    },
+    {
+      "title": "Информационно-аналитический центр РКО",
+      "description": "",
+      "url": "https://cosmatica.org/users/218",
+      "image": "https://cosmatica.org/upload/002/u218/4/4/6b05285e.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=e3e0f1dbc4170caf9a",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Виталий Владиславович Лебедев",
+      "description": "Виталий Владиславович Лебедев родился 5 октября 1964 г. в г.Ленинграде в семье служащих. В 1980 г. закончил 8-летнюю Среднюю школу № 125 и одновременно Художественную школу № 6. В этом же году поступил в Ленинградский Физико-механический техникум им. Зверева на Факультет «Оптико-электронные приборы», который успешно закончил в 1984 г.",
+      "url": "https://cosmatica.org/users/22",
+      "image": "https://cosmatica.org/upload/000/u21/b6/41/6e42c0a2.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=c1c8dbe36c8813f73d",
+      "type": "profile",
+      "sourceCharacters": 33138,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

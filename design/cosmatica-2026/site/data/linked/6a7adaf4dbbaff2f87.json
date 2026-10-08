@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/120-novyi-vypusk-cikla-peredach-proryv.html",
+  "title": "Новый выпуск цикла передач \"Прорыв!\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Цикл передач \"Прорыв!\"",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/9e/d6/1791d4c8.jpg",
+      "alt": "Новый выпуск цикла передач \"Прорыв!\""
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "\"Прорыв!\" - серия передач Русского Космического Общества."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "3sv7WNjt8FU",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=3sv7WNjt8FU"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Приглашаем к просмотру пятого выпуска.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "\"Прорыв!\" - серия передач Русского Космического Общества. Об идеях нашего Общества. О нашей миссии. О новых проектах Прорыва. О том будущем, которое мы должны и будем создавать своими руками. Ведущий программы - Степан Андреевич Зотов. Гость передачи: Максим Григорьевич Бардин - член расширенного Общественного совета при Минвостокразвития России, куратор региональной политики Всероссийской общественной организации «Союз добровольцев России». О добровольческом движении в России и необходимости продвижения идеи личной ответственности каждого гражданина страны.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/9e/d6/1791d4c8.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 859,
+    "storedTextCharacters": 91,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 47798
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 688,
+  "capturedBodyCharacters": 91,
+  "sourceTextSHA256": "ba6fa0ffdb14373701971f9fbd3a3f6555e65e37e2ec87febc28d758bad4597d",
+  "archiveSnapshotAt": "2026-10-08T08:52:47Z",
+  "publicVideoCount": 1
+}

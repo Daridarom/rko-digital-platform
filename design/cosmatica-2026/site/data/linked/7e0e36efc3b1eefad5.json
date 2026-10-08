@@ -1,0 +1,478 @@
+{
+  "schemaVersion": 2,
+  "slug": "project",
+  "sourceUrl": "https://cosmatica.org/projects/cosmodesant",
+  "title": "Военно-космические сборы «Космодесант»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/3/6/voenno-kosmicheskie-sbory-kosmodesant-logo-normal.jpg",
+      "alt": "Военно-космические сборы «Космодесант»"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О проекте",
+        "Материалы 1",
+        "Новости 23",
+        "Мероприятия 17"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Уважаемые родители, приглашаем Ваших детей к участию в традиционных военно-космических сборах «Космодесант». Подальше от городов и болезней!",
+      "spans": [
+        {
+          "text": "Уважаемые родители, приглашаем Ваших детей к участию в традиционных военно-космических сборах «Космодесант». Подальше от городов и болезней!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Главной целью сборов является воспитание духа товарищества, ответственности и самостоятельности в детях, настроя на победу, благодарности, уважения к себе, к труду и старшим.",
+      "spans": [
+        {
+          "text": "Главной целью сборов является воспитание духа товарищества, ответственности и самостоятельности в детях, настроя на победу, благодарности, уважения к себе, к труду и старшим."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Наставником сборов является Русское Космическое Общество.",
+      "spans": [
+        {
+          "text": "Наставником сборов является Русское Космическое Общество. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Особой тематикой сборов является Космос. Тематические занятия и профориентация для поступления в высшие учебные заведения по специальностям, связанным с Космосом. Инженер, военный летчик, космонавт-исследователь и другие.",
+      "spans": [
+        {
+          "text": "Особой тематикой сборов является Космос.",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " Тематические занятия и профориентация для поступления в высшие учебные заведения по специальностям, связанным с Космосом. Инженер, военный летчик, космонавт-исследователь и другие. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Программа сборов – победитель городских конкурсов и включает в себя: 1) Занятия с опытными инструкторами по тактике и маскировке, топографии и ориентированию. 2) Военно-тактические игры с использованием лазерного оборудования и макетов вооружения. 3) Спортивные игры и соревнования, элементы рукопашного боя. 4) Навыки выживания на природе, обустройство лагеря, питание, растения, разведение костров и многое другое. 5) Астрономические наблюдения, ориентирование по звездам, космические легенды и встречи с учеными и космонавтами. 6) Беседы по Истории Отечества, знание о героях, песни у костра. 7) Как финал — особая программа «Ракетное Выживание» на несколько дней в лесу под контролем инструкторов.",
+      "spans": [
+        {
+          "text": "Программа сборов – победитель городских конкурсов и включает в себя: \r\n1) Занятия с опытными инструкторами по тактике и маскировке, топографии и ориентированию. \r\n2) Военно-тактические игры с использованием лазерного оборудования и макетов вооружения. \r\n3) Спортивные игры и соревнования, элементы рукопашного боя. \r\n4) Навыки выживания на природе, обустройство лагеря, питание, растения, разведение костров и многое другое. \r\n5) Астрономические наблюдения, ориентирование по звездам, космические легенды и встречи с учеными и космонавтами. \r\n6) Беседы по Истории Отечества, знание о героях, песни у костра. \r\n7) Как финал — особая программа «Ракетное Выживание» на несколько дней в лесу под контролем инструкторов. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Всем, кто с честью пройдет испытания вручаются памятные стальные жетоны. Наши сборы – это опыт, товарищество и впечатления на всю жизнь.",
+      "spans": [
+        {
+          "text": "Всем, кто с честью пройдет испытания вручаются памятные стальные жетоны. Наши сборы – это опыт, товарищество и впечатления на всю жизнь. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сроки: 1-12 августа",
+      "spans": [
+        {
+          "text": "Сроки: 1-12 августа",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Участники смены: как правило, 25-30 человек. Возраст 12-18 лет, по договоренности можно и старше/младше.",
+      "spans": [
+        {
+          "text": "Участники смены: как правило, 25-30 человек. Возраст 12-18 лет, по договоренности можно и старше/младше."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Питание: 3-х разовое горячее. Участники программы сами готовят пищу на костре. Свежие продукты, хлеб, овощи и фрукты закупаются в продуктовых магазинах и рынке на «большой земле».",
+      "spans": [
+        {
+          "text": "Питание: 3-х разовое горячее. Участники программы сами готовят пищу на костре. Свежие продукты, хлеб, овощи и фрукты закупаются в продуктовых магазинах и рынке на «большой земле». "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Вся питьевая вода проходит кипячение. Либо приобретается в бутылках.",
+      "spans": [
+        {
+          "text": "Вся питьевая вода проходит кипячение. Либо приобретается в бутылках."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Проживание: Раздельное для юношей и девушек. Коврики и спальники рекомендуем приобретать свои. Либо взять напрокат у нас.",
+      "spans": [
+        {
+          "text": "Проживание: Раздельное для юношей и девушек. Коврики и спальники рекомендуем приобретать свои. Либо взять напрокат у нас."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ждём Ваших звонков и писем.",
+      "spans": [
+        {
+          "text": "Ждём Ваших звонков и писем."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель программы , член Президиума РКО, Руководитель проекта «Наша Армия» Зотов Степан Андреевич .",
+      "spans": [
+        {
+          "text": "Руководитель программы",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": ", член Президиума РКО, Руководитель проекта «Наша Армия»  "
+        },
+        {
+          "text": "Зотов Степан Андреевич",
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F38"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "links": [
+        {
+          "text": "Зотов Степан Андреевич",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F38"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "(8916-142-1264), https://stepanzotov.ru/ , stepanzotov@yandex.ru , www.dosaaf-new.ru",
+      "spans": [
+        {
+          "text": "(8916-142-1264), "
+        },
+        {
+          "text": "https://stepanzotov.ru/",
+          "href": "https://cosmatica.org/redirect?url=https%3A%2F%2Fstepanzotov.ru%2F"
+        },
+        {
+          "text": ", stepanzotov@yandex.ru, "
+        },
+        {
+          "text": "www.dosaaf-new.ru",
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fwww.dosaaf-new.ru"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://stepanzotov.ru/",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fstepanzotov.ru%2F"
+        },
+        {
+          "text": "www.dosaaf-new.ru",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fwww.dosaaf-new.ru"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Стена проекта",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/68/60/1271b1fb.jpg",
+      "alt": "Московское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/59/7d/ywkvxlhv-e8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/a4/48/gsiupqmbkl0.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/ed/3d/prpxdrbl-z8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/68/60/1271b1fb.jpg",
+      "alt": "Московское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/81/9a/0agocgj7jac.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/fd/dd/oku0hwhkhke.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/77/d2/itnbeckgmi4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/80/8c/fnh3qvewdrq.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/d6/fc/gest-6xdqew.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/a7/c5/wkxeiotbwj0.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/4f/af/rhh7fbctdnc.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/68/60/1271b1fb.jpg",
+      "alt": "Московское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/bb/dd/gha88fmf3hy.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/ca/7c/z-5bgdmsj-k.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/68/60/1271b1fb.jpg",
+      "alt": "Московское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/e6/73/tpueb6bacn4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/48/fb/xygbwa7czgg.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/24/5b/r7tbsd1s0d4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/68/60/1271b1fb.jpg",
+      "alt": "Московское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/2b/ba/0n1chvq47oo.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/84/a7/pwufp9voyj0.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/20/15/of9nwvyedj0.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/68/60/1271b1fb.jpg",
+      "alt": "Московское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/62/ab/zi-rkoqhwls.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/68/60/1271b1fb.jpg",
+      "alt": "Московское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/a6/5c/kzfs55w5y28.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/2c/f6/qui0htmtkpc.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/f2/dd/udhaiygndpi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/46/b6/osr25gllovo.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/68/60/1271b1fb.jpg",
+      "alt": "Московское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/68/60/1271b1fb.jpg",
+      "alt": "Московское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/57/a6/dihdbrupxc4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/55/90/7a0tppijxqy.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/82/2e/znp-ea3qbda.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/82/c8/kftpk-jwzsg.jpg",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Уважаемые родители, приглашаем Ваших детей к участию в традиционных военно-космических сборах «Космодесант». Подальше от городов и болезней! Главной целью сборов является воспитание духа товарищества, ответственности и самостоятельности в детях, настроя на победу, благодарности, уважения к себе, к труду и старшим. Наставником сборов является Русское Космическое Общество. Особой тематикой сборов является Космос. Тематические занятия и профориентация для поступления в высшие учебные заведения по специальностям, связанным с Космосом. Инженер, военный летчик, космонавт-исследователь и другие. Программа сборов – победитель городских конкурсов и включает в себя: 1) Занятия с опытными инструкторами по тактике и маскировке, топографии и ориентированию. 2) Военно-тактические игры с использованием лазерного оборудования и макетов вооружения. 3) Спортивные игры и соревнования, элементы рукопашного боя. 4) Навыки выживания на природе, обустройство лагеря, питание, растения, разведение костров и многое другое. 5) Астрономические наблюдения, ориентирование по звездам, космические легенды и встречи с учеными и космонавтами. 6) Беседы по Истории Отечества, знание о героях, песни у костра. 7) Как финал — особая программа «Ракетное Выживание» на несколько дней в лесу под контролем инструкторов. Всем, кто с честью пройдет испытания вручаются памятные стальные жетоны. Наши сборы – это опыт, товарищество и впечатления на всю жизнь. Сроки: 1-12 августа Участники смены: как правило, 25-30 человек. Возраст 12-18 лет, по договоренности можно и старше/младше. Питание: 3-х разовое горячее. Участники программы сами готовят пищу на костре. Свежие продукты, хлеб, овощи и фрукты закупаются в продуктовых магазинах и рынке на «большой земле». Вся питьевая вода проходит кипячение. Либо приобретается в бутылках. Проживание: Раздельное для юношей и девушек. Коврики и спальники рекомендуем приобретать свои. Либо взять напрокат у нас. Ждём Ваших звонков и писем. Руководитель программы , член Президиума РКО, Руководитель проекта «Наша Армия» Зотов Степан Андреевич . (8916-142-1264), https://stepanzotov.ru/ , stepanzotov@yandex.ru , www.dosaaf-new.ru",
+      "links": [
+        {
+          "title": "Зотов Степан Андреевич",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F38"
+        },
+        {
+          "title": "https://stepanzotov.ru/",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fstepanzotov.ru%2F"
+        },
+        {
+          "title": "www.dosaaf-new.ru",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fwww.dosaaf-new.ru"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Направление:",
+      "value": "Образование",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Статус:",
+      "value": "Действующий",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Сайт:",
+      "value": "космодесант.рф",
+      "links": [
+        {
+          "title": "космодесант.рф",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2F%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%B4%D0%B5%D1%81%D0%B0%D0%BD%D1%82.%D1%80%D1%84"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/3/6/voenno-kosmicheskie-sbory-kosmodesant-logo-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/68/60/1271b1fb.jpg",
+    "https://cosmatica.org/upload/000/u26/59/7d/ywkvxlhv-e8.jpg",
+    "https://cosmatica.org/upload/000/u26/a4/48/gsiupqmbkl0.jpg",
+    "https://cosmatica.org/upload/000/u26/ed/3d/prpxdrbl-z8.jpg",
+    "https://cosmatica.org/upload/000/u26/81/9a/0agocgj7jac.jpg",
+    "https://cosmatica.org/upload/000/u26/fd/dd/oku0hwhkhke.jpg",
+    "https://cosmatica.org/upload/000/u26/77/d2/itnbeckgmi4.jpg",
+    "https://cosmatica.org/upload/000/u26/80/8c/fnh3qvewdrq.jpg",
+    "https://cosmatica.org/upload/000/u26/d6/fc/gest-6xdqew.jpg",
+    "https://cosmatica.org/upload/000/u26/a7/c5/wkxeiotbwj0.jpg",
+    "https://cosmatica.org/upload/000/u26/4f/af/rhh7fbctdnc.jpg",
+    "https://cosmatica.org/upload/000/u26/bb/dd/gha88fmf3hy.jpg",
+    "https://cosmatica.org/upload/000/u26/ca/7c/z-5bgdmsj-k.jpg",
+    "https://cosmatica.org/upload/000/u26/e6/73/tpueb6bacn4.jpg",
+    "https://cosmatica.org/upload/000/u26/48/fb/xygbwa7czgg.jpg",
+    "https://cosmatica.org/upload/000/u26/24/5b/r7tbsd1s0d4.jpg",
+    "https://cosmatica.org/upload/000/u26/2b/ba/0n1chvq47oo.jpg",
+    "https://cosmatica.org/upload/000/u26/84/a7/pwufp9voyj0.jpg",
+    "https://cosmatica.org/upload/000/u26/20/15/of9nwvyedj0.jpg",
+    "https://cosmatica.org/upload/000/u26/62/ab/zi-rkoqhwls.jpg",
+    "https://cosmatica.org/upload/000/u26/a6/5c/kzfs55w5y28.jpg",
+    "https://cosmatica.org/upload/000/u26/2c/f6/qui0htmtkpc.jpg",
+    "https://cosmatica.org/upload/000/u26/f2/dd/udhaiygndpi.jpg",
+    "https://cosmatica.org/upload/000/u26/46/b6/osr25gllovo.jpg",
+    "https://cosmatica.org/upload/000/u26/57/a6/dihdbrupxc4.jpg",
+    "https://cosmatica.org/upload/000/u26/55/90/7a0tppijxqy.jpg",
+    "https://cosmatica.org/upload/000/u26/82/2e/znp-ea3qbda.jpg",
+    "https://cosmatica.org/upload/000/u26/82/c8/kftpk-jwzsg.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 5396,
+    "storedTextCharacters": 2192,
+    "sourceCardCount": 0,
+    "sourceImageCount": 29,
+    "paragraphCount": 14,
+    "sourceBytes": 61767
+  },
+  "textFallbackRequired": false,
+  "originalKind": "project",
+  "sourceTextCharacters": 2214,
+  "capturedBodyCharacters": 2192,
+  "sourceTextSHA256": "9dfcb1968070a0cdf928e42fc96e1c667d54b64442b8382dac39e6a4fc4d64ff",
+  "archiveSnapshotAt": "2026-10-08T09:17:05Z"
+}

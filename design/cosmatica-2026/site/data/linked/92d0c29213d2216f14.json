@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/145-otkrytie-vystavki-oni-byli-pervymi.html",
+  "title": "Открытие выставки \"Они были первыми\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/2/b/484e90f9.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Совет по культуре приглашает к посещению выставки!",
+      "spans": [
+        {
+          "text": "Совет по культуре",
+          "href": "https://cosmatica.org/collegium/17-sovet-po-kulture.html"
+        },
+        {
+          "text": " приглашает к посещению выставки!"
+        }
+      ],
+      "links": [
+        {
+          "text": "Совет по культуре",
+          "url": "https://cosmatica.org/collegium/17-sovet-po-kulture.html"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Полный текст исходного материала"
+    },
+    {
+      "type": "paragraph",
+      "text": "Открытие выставки \"Они были первыми\" Выставки Место и время: Событие уже прошло Московское отделение Кто пойдет: 871 Совет по культуре приглашает к посещению выставки!",
+      "spans": [
+        {
+          "text": "Открытие выставки \"Они были первыми\" Выставки Место и время: Событие уже прошло Московское отделение Кто пойдет: 871 Совет по культуре приглашает к посещению выставки!"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Совет по культуре приглашает к посещению выставки!",
+      "links": [
+        {
+          "title": "Совет по культуре",
+          "url": "https://cosmatica.org/collegium/17-sovet-po-kulture.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/2/b/484e90f9.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 167,
+    "storedTextCharacters": 50,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 37297
+  },
+  "textFallbackRequired": true,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 167,
+  "capturedBodyCharacters": 249,
+  "sourceTextSHA256": "7e6612a74048e67b69e9a01d1198fcb443b27d2240e7eea19e3133fdb59240c3",
+  "archiveSnapshotAt": "2026-10-08T09:15:02Z"
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/269-petrov-aleksei-nikolaevich-ob-ano-sportklub-roskosmos.html",
+  "title": "Петров Алексей Николаевич об АНО «Спортклуб Роскосмос»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Петров Алексей Николаевич, член Русского Космического Общества. Председатель Наблюдательного Совета \"СК ФКА\".",
+      "spans": [
+        {
+          "text": "Петров Алексей Николаевич, член Русского Космического Общества. Председатель Наблюдательного Совета \"СК ФКА\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Об истории создании \"Спортивного клуба Федерального космического агентства Роскосмос\".",
+      "spans": [
+        {
+          "text": "Об истории создании \"Спортивного клуба Федерального космического агентства Роскосмос\"."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "rc0GVnS_qls",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=rc0GVnS_qls"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Петров Алексей Николаевич, член Русского Космического Общества. Председатель Наблюдательного Совета \"СК ФКА\". Об истории создании \"Спортивного клуба Федерального космического агентства Роскосмос\".",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 384,
+    "storedTextCharacters": 195,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 75309
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 329,
+  "capturedBodyCharacters": 195,
+  "sourceTextSHA256": "8eccabddce2927091031ffab8fbb34e28122ff6abca78728114c04536e6bc322",
+  "archiveSnapshotAt": "2026-10-08T09:06:20Z",
+  "publicVideoCount": 1
+}

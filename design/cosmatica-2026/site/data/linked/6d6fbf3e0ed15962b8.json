@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/853-tainstvennaja-krasota-vselennoi-i-zvyozdy-v-karmane-lekcii-kolpakova-v-yu.html",
+  "title": "Таинственная красота вселенной и Звёзды в кармане - лекции Колпакова В. Ю.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Лекция: Таинственная красота Вселенной. Рассказ о том, что, как и с помощью чего наблюдать на небе.",
+      "spans": [
+        {
+          "text": "Лекция: Таинственная красота Вселенной. Рассказ о том, что, как и с  помощью чего наблюдать на небе."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Лекция: Звёзды в кармане. Рассказ о мобильных приложениях для любителя астрономии. Как изучать астрономию, не вставая с дивана и легко научиться ориентироваться на небе. Как увлечь ребёнка астрономией с помощью современных гаджетов.",
+      "spans": [
+        {
+          "text": "Лекция: Звёзды в кармане. Рассказ о  мобильных приложениях для любителя астрономии. Как изучать  астрономию,  не вставая с дивана и легко научиться ориентироваться на  небе. Как  увлечь ребёнка астрономией с помощью современных гаджетов. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "2019 год",
+      "spans": [
+        {
+          "text": "2019 год"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "8bkeeXQ0EUQ",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=8bkeeXQ0EUQ"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Лекция: Таинственная красота Вселенной. Рассказ о том, что, как и с помощью чего наблюдать на небе. Лекция: Звёзды в кармане. Рассказ о мобильных приложениях для любителя астрономии. Как изучать астрономию, не вставая с дивана и легко научиться ориентироваться на небе. Как увлечь ребёнка астрономией с помощью современных гаджетов. 2019 год",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 528,
+    "storedTextCharacters": 339,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 75586
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 453,
+  "capturedBodyCharacters": 339,
+  "sourceTextSHA256": "7ae8add197fa8598d262f822cad8695fc5997d6cc0941efb7e7ac4c63a6c61d5",
+  "archiveSnapshotAt": "2026-10-08T08:44:18Z",
+  "publicVideoCount": 1
+}

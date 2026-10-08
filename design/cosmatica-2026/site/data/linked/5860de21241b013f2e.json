@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/223-vizhu-zemlyu.html",
+  "title": "Вижу Землю....",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/5/e/vizhu-zemlyu-photo-normal.jpg",
+      "alt": "Вижу Землю...."
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Гагарин Ю.А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1561/604530a15d5a0ac6382e7521534a0d7e"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/5/e/vizhu-zemlyu-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1561/604530a15d5a0ac6382e7521534a0d7e"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 53,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 38816
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 38,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "f873219679119e922b553defdc51dfc3acdf4b1cffce8088b5d2423dad73f403",
+  "archiveSnapshotAt": "2026-10-08T08:48:06Z"
+}

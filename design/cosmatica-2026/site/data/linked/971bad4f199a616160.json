@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1004-sbornik-statei-konferencii.html",
+  "title": "Сборник статей конференции",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Нео-Ноосфера в «Пространстве Козырева-Казначеева",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "В Материалах конференции, организованной МНИИКА им. Академика В.П. Казначеева, Русским Космическим Обществом, Музеем космонавтики и ООО «MEGA-GALAXY», представлены доклады российских и зарубежных учёных, в которых обсуждаются полученные авторами материалы и обобщения по фундаментальному научному вкладу Н.А. Козырева и В.П. Казначеева в авангардную космологию и новую космогонию живого вещества; моделям эволюционного перехода ноосферы Земли в Нео-ноосферу голографической Вселенной; «Зеркалам Козырева» как нео-ноосферному инструменту 3-го тысячелетии, а также научно-обоснованные гипотезы и предложения в Программу междисциплинарных исследований «Пространства Козырева-Казначеева».",
+      "spans": [
+        {
+          "text": "В Материалах конференции, организованной МНИИКА им. Академика В.П.  Казначеева, Русским Космическим Обществом, Музеем космонавтики и ООО  «MEGA-GALAXY», представлены доклады российских и зарубежных учёных, в  которых обсуждаются полученные авторами материалы и обобщения по  фундаментальному научному вкладу Н.А. Козырева и В.П. Казначеева в  авангардную космологию и новую космогонию живого вещества; моделям  эволюционного перехода ноосферы Земли в Нео-ноосферу голографической  Вселенной; «Зеркалам Козырева» как нео-ноосферному инструменту 3-го  тысячелетии, а также научно-обоснованные гипотезы и предложения в  Программу междисциплинарных исследований «Пространства  Козырева-Казначеева»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "TEZISY_SBORNIK_NEO-NOOSFERA_V_PROSTRANSTVE_KOZYREVA_-_KAZNAChEEVA.pdf",
+      "spans": [
+        {
+          "text": "TEZISY_SBORNIK_NEO-NOOSFERA_V_PROSTRANSTVE_KOZYREVA_-_KAZNAChEEVA.pdf",
+          "href": "https://cosmatica.org/upload/redactorfiles/TEZISY_SBORNIK_NEO-NOOSFERA_V_PROSTRANSTVE_KOZYREVA_-_KAZNAChEEVA.pdf"
+        }
+      ],
+      "links": [
+        {
+          "text": "TEZISY_SBORNIK_NEO-NOOSFERA_V_PROSTRANSTVE_KOZYREVA_-_KAZNAChEEVA.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/TEZISY_SBORNIK_NEO-NOOSFERA_V_PROSTRANSTVE_KOZYREVA_-_KAZNAChEEVA.pdf"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В Материалах конференции, организованной МНИИКА им. Академика В.П. Казначеева, Русским Космическим Обществом, Музеем космонавтики и ООО «MEGA-GALAXY», представлены доклады российских и зарубежных учёных, в которых обсуждаются полученные авторами материалы и обобщения по фундаментальному научному вкладу Н.А. Козырева и В.П. Казначеева в авангардную космологию и новую космогонию живого вещества; моделям эволюционного перехода ноосферы Земли в Нео-ноосферу голографической Вселенной; «Зеркалам Козырева» как нео-ноосферному инструменту 3-го тысячелетии, а также научно-обоснованные гипотезы и предложения в Программу междисциплинарных исследований «Пространства Козырева-Казначеева». TEZISY_SBORNIK_NEO-NOOSFERA_V_PROSTRANSTVE_KOZYREVA_-_KAZNAChEEVA.pdf",
+      "links": [
+        {
+          "title": "TEZISY_SBORNIK_NEO-NOOSFERA_V_PROSTRANSTVE_KOZYREVA_-_KAZNAChEEVA.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/TEZISY_SBORNIK_NEO-NOOSFERA_V_PROSTRANSTVE_KOZYREVA_-_KAZNAChEEVA.pdf"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1020,
+    "storedTextCharacters": 802,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 76533
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 943,
+  "capturedBodyCharacters": 802,
+  "sourceTextSHA256": "55822e479aa9fdf96621db312111bf471da52a167b1fff77288fbb133c1886ac",
+  "archiveSnapshotAt": "2026-10-08T09:06:03Z"
+}

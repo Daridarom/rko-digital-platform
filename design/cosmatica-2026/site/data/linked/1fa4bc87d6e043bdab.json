@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/78-v-m-muhachev-realizacija-izobretenii.html",
+  "title": "В.М. Мухачев - Реализация изобретений",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/03/d8/v-m-muhachev-realizacija-izobretenii-photo-normal.png",
+      "alt": "В.М. Мухачев - Реализация изобретений"
+    },
+    {
+      "type": "paragraph",
+      "text": "Изобретения изменяют лик Земли,  нашу",
+      "spans": [
+        {
+          "text": "Изобретения изменяют лик Земли,  нашу"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "жизнь",
+      "spans": [
+        {
+          "text": "жизнь"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "и нас самих. Поэтому мы не только вправе, но и должны знать, какие именно изобретения мы реализуем и как идет этот процесс, реализуем ли мы действительно то, что нужнее всего, не упускаем ли какие-либо благоприятные возможности.",
+      "spans": [
+        {
+          "text": "и нас самих. Поэтому мы не только вправе, но и должны знать, какие именно изобретения мы реализуем и как идет этот процесс, реализуем ли мы действительно то, что нужнее всего, не упускаем ли какие-либо благоприятные возможности."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Изобретения изменяют лик Земли, нашу жизнь и нас самих. Поэтому мы не только вправе, но и должны знать, какие именно изобретения мы реализуем и как идет этот процесс, реализуем ли мы действительно то, что нужнее всего, не упускаем ли какие-либо благоприятные возможности.",
+      "links": [
+        {
+          "title": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 6 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/89/d4be745391b1aae98f692461924afd1d"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/03/d8/v-m-muhachev-realizacija-izobretenii-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/89/d4be745391b1aae98f692461924afd1d"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 328,
+    "storedTextCharacters": 270,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39670
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 290,
+  "capturedBodyCharacters": 270,
+  "sourceTextSHA256": "0fd36e1ce1f3feacf4fc7a746528b62da40ff929dc3d1b37dba4517d0cfed7d0",
+  "archiveSnapshotAt": "2026-10-08T08:51:08Z"
+}

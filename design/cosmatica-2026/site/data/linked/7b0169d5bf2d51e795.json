@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/8171",
+  "title": "Юрий Михайлович Бабонов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/a/7/a917423e.jpg",
+      "alt": "Юрий Михайлович Бабонов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/6/0/0c3e67fd.jpg",
+      "alt": "Юрий Михайлович Бабонов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 2 года назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/a/7/a917423e.jpg",
+    "https://cosmatica.org/upload/000/u35/6/0/0c3e67fd.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 67,
+    "storedTextCharacters": 25,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 33992
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 17,
+  "capturedBodyCharacters": 25,
+  "sourceTextSHA256": "f2558d486f365b8f13aeed963aa319273b8050fae2b2a88b55d7ab151c64dd70",
+  "archiveSnapshotAt": "2026-10-08T09:22:17Z"
+}

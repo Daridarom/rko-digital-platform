@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "about",
+  "title": "Об РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 1,
+  "pageCount": 2,
+  "total": 19,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Стратегия становления – наше Общее Дело",
+      "description": "Стратегия становления Русского Космического Общества – наше Общее Дело",
+      "url": "https://cosmatica.org/about/18-strategija-stanovlenija-nashe-obschee-delo.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/d/bezymjannyi.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=a654f9881ecb1bb234",
+      "type": "article",
+      "sourceCharacters": 20383,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество в вопросах и ответах команды инициаторов его создания",
+      "description": "Как мы пришли к идее Русского Космического Общества?",
+      "url": "https://cosmatica.org/about/17-russkoe-kosmicheskoe-obschestvo-v-voprosah-i-otvetah-komandy-iniciatorov-sozdanija-rko.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=7034b4f3d430a715eb",
+      "type": "article",
+      "sourceCharacters": 16156,
+      "verified": false
+    },
+    {
+      "title": "Историческая справка о духовных и материальных корнях Русского Космического Общества",
+      "description": "Создание Русского Космического Общества есть естественный логический шаг в развитии современной России – шаг, обусловленный как ноосферно-космическим прорывом, выражающим становление космической эры Человечества, так и тем фактом, что именно Россия в лице СССР в середине ХХ века стала первой в мире космической державой Человечества. За этим прорывом России – СССР в ХХ веке стоят достижения как русской космической нау",
+      "url": "https://cosmatica.org/about/16-istoricheskaja-spravka-o-duhovnyh-i-materialnyh-kornjah-russkogo-kosmicheskogo-obschestva.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=7e40974842f9a994ff",
+      "type": "article",
+      "sourceCharacters": 29928,
+      "verified": false
+    },
+    {
+      "title": "Положение о защите прав субъектов персональных данных",
+      "description": "",
+      "url": "https://cosmatica.org/about/14-polozhenie-o-zaschite-prav-subektov-personalnyh-dannyh.html",
+      "image": "https://cosmatica.org/upload/000/u26/e7/da/ilovepdf-com.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=616acfadc20943c07c",
+      "type": "article",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Положение о членстве и участии в РКО",
+      "description": "",
+      "url": "https://cosmatica.org/about/12-polozhenie-o-chlenstve-i-uchastii-v-rko.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/f/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-01.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=deb26b3a87f82b1388",
+      "type": "article",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Регистрационные документы",
+      "description": "",
+      "url": "https://cosmatica.org/about/9-registracionnye-dokumenty.html",
+      "image": "https://cosmatica.org/upload/000/u26/e6/a9/ilovepdf-com.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=669cdcca7483851bc0",
+      "type": "article",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Направления деятельности Русского Космического Общества",
+      "description": "- создавших учение о развитии Жизни как космическом явлении и его разумной формы, - создавших учение о переходе Биосферы в Ноосферу, - разработавших научные и технологические основы мировой космонавтики и проектирования космического будущего в системе «человек – общество – природа».",
+      "url": "https://cosmatica.org/about/3-napravlenija-dejatelnosti.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=8c1d21abc126acc9bb",
+      "type": "article",
+      "sourceCharacters": 3126,
+      "verified": false
+    },
+    {
+      "title": "Зачем создано Русское Космическое Общество?",
+      "description": "Сохранение и упрочение позиций России как ведущей космической державы, в интересах развития всей цивилизации землян, является важнейшей задачей народа и государства, требующей консолидации всего интеллектуального потенциала страны.",
+      "url": "https://cosmatica.org/about/2-zachem-sozdano-russkoe-kosmicheskoe-obschestvo.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=89211c1ff3505c8d74",
+      "type": "article",
+      "sourceCharacters": 13377,
+      "verified": false
+    },
+    {
+      "title": "Устои Русского Космического Общества",
+      "description": "Мы, солидарные мужчины и женщины, представители своих семей и родов, части своих народов и цивилизаций, множество, стремящееся к единству – соединившись:",
+      "url": "https://cosmatica.org/about/1-memorandum.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/b/iqvtee-irdi.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=d2aebce43efe04505a",
+      "type": "article",
+      "sourceCharacters": 8431,
+      "verified": false
+    },
+    {
+      "title": "Контакты",
+      "description": "Тел.: +7 9219967296 e-mail: info@cosmatica.org",
+      "url": "https://cosmatica.org/about/contacts",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=contacts",
+      "type": "contacts",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "КОСМАТИКА",
+      "description": "Косматика есть сключение Человека с Природой с целью их обоюдного одухотворения. Система знаний и действий, основанная на сключении человека с природой, с её целями, законами и проявлениями, есть Косматика. Говоря иначе, Косматика - есть учение Жизни о Самой Себе. Косматика - это Жизнь , осознавшая себя как космопланетарное явление и действующая в направлении устойчивого саморазвития на Земле и за её пределами. Косма",
+      "url": "https://cosmatica.org/about/cosmatica.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=930470f0df46aff95e",
+      "type": "article",
+      "sourceCharacters": 3193,
+      "verified": false
+    },
+    {
+      "title": "Документы",
+      "description": "",
+      "url": "https://cosmatica.org/about/documents",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=3aad368023fe488e32",
+      "type": "article",
+      "sourceCharacters": 221,
+      "verified": false
+    },
+    {
+      "title": "О гербе Русского Космического Общества - ПРОРЫВ!",
+      "description": "Герб РКО (Прорыв) представляет собой изображение в виде квадрата, на 2/3 иссиня-чёрного цвета.",
+      "url": "https://cosmatica.org/about/gerbrko.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/5/bezymjannyi.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=284eedd8a43f94518e",
+      "type": "article",
+      "sourceCharacters": 4547,
+      "verified": false
+    },
+    {
+      "title": "Информация",
+      "description": "",
+      "url": "https://cosmatica.org/about/informacija",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=about-info",
+      "type": "about-info",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Карточка организации",
+      "description": "Полное Наименование Межрегиональная общественная организация в сфере изучения и популяризации космонавтики «Русское космическое общество» Сокращённое наименование МОО «Русское космическое общество» Полное Наименование на английском языке Inyerregional non-government organization «Russian Cosmic Society» Сокращённое наименование на английском языке Russian Cosmic Society, RСS Юридический адрес 107061, г. Москва, ул. Х",
+      "url": "https://cosmatica.org/about/kartochka-organizacii.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=ffcc385f792ae5bf93",
+      "type": "article",
+      "sourceCharacters": 968,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

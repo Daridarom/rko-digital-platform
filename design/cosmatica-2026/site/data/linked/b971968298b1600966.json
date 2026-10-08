@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/63-problema.html",
+  "title": "Проблема",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это разница между необходимым и фактическим (текущим) состоянием системы.",
+      "spans": [
+        {
+          "text": "это разница между необходимым и фактическим (текущим) состоянием системы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это разница между необходимым и фактическим (текущим) состоянием системы.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 82,
+    "storedTextCharacters": 73,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31658
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 73,
+  "capturedBodyCharacters": 73,
+  "sourceTextSHA256": "f46fe07c9346eab957709f6a32f6dff7d12121a359d68cabc38084d712fcb4d1",
+  "archiveSnapshotAt": "2026-10-08T08:46:55Z"
+}

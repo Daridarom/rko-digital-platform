@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/409-verojatnost-vokrug-nas.html",
+  "title": "Вероятность вокруг нас",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/c/7/verojatnost-vokrug-nas-photo-normal.jpg",
+      "alt": "Вероятность вокруг нас"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Скороход А. В.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 7 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2415/d79a68e6f8405649342321569d67c958"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/c/7/verojatnost-vokrug-nas-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2415/d79a68e6f8405649342321569d67c958"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 63,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39279
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 40,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "3be1711e095348a00eeb9213f9e909f24a39bb23205fb5b8edcb0d1fcd3b0122",
+  "archiveSnapshotAt": "2026-10-08T08:49:48Z"
+}

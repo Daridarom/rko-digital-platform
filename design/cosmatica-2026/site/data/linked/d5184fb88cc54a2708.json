@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/803-800-zelyonyh-zhiznei.html",
+  "title": "800 зелёных жизней",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Структура жизни",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/c/75a56c93.jpg",
+      "alt": "800 зелёных жизней"
+    },
+    {
+      "type": "paragraph",
+      "text": "Нами было высажено 800 саженцев винограда амурского, которые в дальнейшем будут отправлены в родовые селения и тем, кто занимается восстановлением популяции редких растений.",
+      "spans": [
+        {
+          "text": " Нами было  высажено 800 саженцев винограда амурского, которые в дальнейшем будут отправлены в родовые селения и тем, кто занимается восстановлением популяции редких растений. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Все желающие могут посетить питомник, чтобы побыть в природе, научиться сажать растения и ухаживать за ними, узнать о краснокнижных растениях и просто пообщаться и обменяться опытом и знаниями с интересными людьми за чаепитием и с пользой провести выходные. Для взрослых и детей! Свободное посещение и росточек в подарок.",
+      "spans": [
+        {
+          "text": "Все желающие могут  посетить питомник, чтобы побыть в природе, научиться сажать  растения и ухаживать за ними, узнать о краснокнижных растениях и просто пообщаться и обменяться опытом и знаниями с интересными людьми за чаепитием и с пользой провести  выходные. Для взрослых и детей! Свободное посещение и росточек  в подарок."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На видео небольшой рассказ о питомнике \"Царёв луг\" от его создателя, нашего эксперта по лесосадам и редким растениям - Олега Васильевича Егоренкова. Он покажет, какие растения растут в его саду и лесосаду и расскажет об их уникальных свойствах.",
+      "spans": [
+        {
+          "text": "На видео небольшой рассказ о питомнике \"Царёв луг\" от его создателя,   нашего эксперта по лесосадам и редким растениям - Олега Васильевича   Егоренкова. Он покажет, какие растения растут в его саду и лесосаду и   расскажет об их уникальных свойствах."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Подробнее о лесосадах и агролесоводстве, на нашем сайте: https://jivas.ru/agrolesovodstvo/ Материалы секции сохранения биосферного разнообразия: https://cosmatica.org/articles/sekcija-sohranenija...",
+      "spans": [
+        {
+          "text": "Подробнее о лесосадах и агролесоводстве, на нашем сайте: "
+        },
+        {
+          "text": "https://jivas.ru/agrolesovodstvo/",
+          "href": "https://vk.com/away.php?to=https%3A%2F%2Fjivas.ru%2Fagrolesovodstvo%2F&post=-146842769_7368&cc_key="
+        },
+        {
+          "text": "Материалы секции сохранения биосферного разнообразия: "
+        },
+        {
+          "text": "https://cosmatica.org/articles/sekcija-sohranenija...",
+          "href": "https://cosmatica.org/articles/sekcija-sohranenija-biosfernogo-raznoobrazija"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://jivas.ru/agrolesovodstvo/",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fjivas.ru%2Fagrolesovodstvo%2F&post=-146842769_7368&cc_key="
+        },
+        {
+          "text": "https://cosmatica.org/articles/sekcija-sohranenija...",
+          "url": "https://cosmatica.org/articles/sekcija-sohranenija-biosfernogo-raznoobrazija"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "По вопросам сотрудничества и участия в проекте обращаться к Тимошкиной Елене Евгеньевне",
+      "spans": [
+        {
+          "text": "По вопросам сотрудничества и участия в проекте обращаться к "
+        },
+        {
+          "text": "Тимошкиной Елене Евгеньевне",
+          "href": "https://cosmatica.org/users/318"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "Тимошкиной Елене Евгеньевне",
+          "url": "https://cosmatica.org/users/318"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "timoshkina@cosmatica.org",
+      "spans": [
+        {
+          "text": "timoshkina@cosmatica.org"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "8kq_h7v1GjE",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=8kq_h7v1GjE"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В эти выходные наши добровольцы из \"Секции сохранения биосферного разнообразия\" Русского Космического Общества, развернули деятельность в питомнике краснокнижных растений \"Царёв Луг\" в г. Красногорске Московской области.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Нами было высажено 800 саженцев винограда амурского, которые в дальнейшем будут отправлены в родовые селения и тем, кто занимается восстановлением популяции редких растений. Все желающие могут посетить питомник, чтобы побыть в природе, научиться сажать растения и ухаживать за ними, узнать о краснокнижных растениях и просто пообщаться и обменяться опытом и знаниями с интересными людьми за чаепитием и с пользой провести выходные. Для взрослых и детей! Свободное посещение и росточек в подарок. На видео небольшой рассказ о питомнике \"Царёв луг\" от его создателя, нашего эксперта по лесосадам и редким растениям - Олега Васильевича Егоренкова. Он покажет, какие растения растут в его саду и лесосаду и расскажет об их уникальных свойствах. Подробнее о лесосадах и агролесоводстве, на нашем сайте: https://jivas.ru/agrolesovodstvo/ Материалы секции сохранения биосферного разнообразия: https://cosmatica.org/articles/sekcija-sohranenija... По вопросам сотрудничества и участия в проекте обращаться к Тимошкиной Елене Евгеньевне timoshkina@cosmatica.org",
+      "links": [
+        {
+          "title": "https://jivas.ru/agrolesovodstvo/",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fjivas.ru%2Fagrolesovodstvo%2F&post=-146842769_7368&cc_key="
+        },
+        {
+          "title": "https://cosmatica.org/articles/sekcija-sohranenija...",
+          "url": "https://cosmatica.org/articles/sekcija-sohranenija-biosfernogo-raznoobrazija"
+        },
+        {
+          "title": "Тимошкиной Елене Евгеньевне",
+          "url": "https://cosmatica.org/users/318"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/b/c/75a56c93.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1436,
+    "storedTextCharacters": 1074,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 6,
+    "sourceBytes": 47917
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1290,
+  "capturedBodyCharacters": 1074,
+  "sourceTextSHA256": "84bba6fec28c8ff83f0d652c85eeff8bdcfaf50462e6e7132a7b556abe8ce686",
+  "archiveSnapshotAt": "2026-10-08T09:13:40Z",
+  "publicVideoCount": 1
+}

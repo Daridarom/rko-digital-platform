@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "poster",
+  "title": "Мероприятия",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 22,
+  "pageCount": 22,
+  "total": 316,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Выставки",
+      "description": "",
+      "url": "https://cosmatica.org/poster/vystavki",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=6ae9c5475f44558ed1",
+      "type": "poster-item",
+      "sourceCharacters": 51,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/806-sistemonomija-4-dekabr-2019.html",
+  "title": "Системономия №4 декабрь 2019​",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Издательство РКО",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u87/f/9/oblozhka.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Системономия №4 декабрь 2019",
+      "spans": [
+        {
+          "text": "Системономия №4 декабрь 2019",
+          "href": "https://cosmatica.org/upload/redactorfiles/4.pdf"
+        }
+      ],
+      "links": [
+        {
+          "text": "Системономия №4 декабрь 2019",
+          "url": "https://cosmatica.org/upload/redactorfiles/4.pdf"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Системономия №4 декабрь 2019",
+      "links": [
+        {
+          "title": "",
+          "url": "https://cosmatica.org/upload/redactorfiles/4.pdf"
+        },
+        {
+          "title": "Системономия №4 декабрь 2019",
+          "url": "https://cosmatica.org/upload/redactorfiles/4.pdf"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u87/f/9/oblozhka.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u87/f/9/oblozhka.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 107,
+    "storedTextCharacters": 45,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 3,
+    "sourceBytes": 73572
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 59,
+  "capturedBodyCharacters": 45,
+  "sourceTextSHA256": "c872d5a1c6eae6ab72ec1f47a1b249bfde193df7762f9ca23e5bb2dec31b6be0",
+  "archiveSnapshotAt": "2026-10-08T08:43:33Z"
+}

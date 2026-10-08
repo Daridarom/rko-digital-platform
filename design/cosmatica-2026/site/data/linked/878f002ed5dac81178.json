@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/79-princip-soizmerimosti.html",
+  "title": "Принцип соизмеримости",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "в определенной системе измерений вели­чины называются соизмеримыми, если удовлетворяют двум требова­ниям: имеют общую физическую размерность; отношение их числен­ных значений является рациональным числом.",
+      "spans": [
+        {
+          "text": "в определенной системе измерений вели­чины называются соизмеримыми, если удовлетворяют двум требова­ниям: имеют общую физическую размерность; отношение их числен­ных значений является рациональным числом."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "в определенной системе измерений вели­чины называются соизмеримыми, если удовлетворяют двум требова­ниям: имеют общую физическую размерность; отношение их числен­ных значений является рациональным числом.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 226,
+    "storedTextCharacters": 204,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32347
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 204,
+  "capturedBodyCharacters": 204,
+  "sourceTextSHA256": "ff7bf1c4b7c132b6f50e397ed2bbca176dccc194c1f45f066734a850172d64f3",
+  "archiveSnapshotAt": "2026-10-08T08:47:16Z"
+}

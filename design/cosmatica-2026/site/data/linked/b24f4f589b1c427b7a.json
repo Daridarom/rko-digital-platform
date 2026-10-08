@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/86-gagarinskii-urok-v-ekaterinburge.html",
+  "title": "Гагаринский урок в Екатеринбурге",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u44/54/49/1abd14a4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Челябинского отделения, Бессонов Антон Владимирович расскажет об истории отечественного ракетостроения, а так же познакомит слушателей с различными страницами из жизни первого космонавта Земли Ю.А.Гагарина.",
+      "spans": [
+        {
+          "text": "Председатель Челябинского отделения, Бессонов Антон Владимирович расскажет об истории отечественного ракетостроения, а так же познакомит слушателей с различными страницами из жизни первого космонавта Земли Ю.А.Гагарина."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Мероприятие проходит в рамках работы Общественно-Государственного комитета празднования 85-летия Ю.А. Гагарина. gagarinday.ru",
+      "spans": [
+        {
+          "text": "Мероприятие проходит в рамках работы Общественно-Государственного комитета празднования 85-летия Ю.А. Гагарина.  gagarinday.ru"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Встреча состоится 2 февраля 2019 года в 16.00",
+      "spans": [
+        {
+          "text": "Встреча состоится 2 февраля 2019 года в 16.00"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "По адресу: Екатеринбург, ул. Бориса Ельцина, д. 3, метро Площадь 1905 года, Кванториум Свердловской обл.",
+      "spans": [
+        {
+          "text": "По адресу: Екатеринбург, ул. Бориса Ельцина, д. 3, метро Площадь 1905 года, Кванториум Свердловской обл."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://vk.com/kvant66",
+      "spans": [
+        {
+          "text": "https://vk.com/kvant66",
+          "href": "https://vk.com/kvant66"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://vk.com/kvant66",
+          "url": "https://vk.com/kvant66"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Регистрация по ссылке: https://goo.gl/forms/9W8TCucBNBIx1sD22 Количество мест ограничено!",
+      "spans": [
+        {
+          "text": "Регистрация по ссылке: "
+        },
+        {
+          "text": "https://goo.gl/forms/9W8TCucBNBIx1sD22",
+          "href": "https://vk.com/away.php?to=https%3A%2F%2Fgoo.gl%2Fforms%2F9W8TCucBNBIx1sD22&post=-169763112_1135&cc_key="
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Количество",
+          "href": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        },
+        {
+          "text": " мест ограничено!"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://goo.gl/forms/9W8TCucBNBIx1sD22",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fgoo.gl%2Fforms%2F9W8TCucBNBIx1sD22&post=-169763112_1135&cc_key="
+        },
+        {
+          "text": "Количество",
+          "url": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель Челябинского отделения, Бессонов Антон Владимирович расскажет об истории отечественного ракетостроения, а так же познакомит слушателей с различными страницами из жизни первого космонавта Земли Ю.А.Гагарина. Мероприятие проходит в рамках работы Общественно-Государственного комитета празднования 85-летия Ю.А. Гагарина. gagarinday.ru Встреча состоится 2 февраля 2019 года в 16.00 По адресу: Екатеринбург, ул. Бориса Ельцина, д. 3, метро Площадь 1905 года, Кванториум Свердловской обл. https://vk.com/kvant66 Регистрация по ссылке: https://goo.gl/forms/9W8TCucBNBIx1sD22 Количество мест ограничено!",
+      "links": [
+        {
+          "title": "",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fdm-centre.ru%2Fkvantorium&cc_key="
+        },
+        {
+          "title": "https://vk.com/kvant66",
+          "url": "https://vk.com/kvant66"
+        },
+        {
+          "title": "",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fdm-centre.ru%2Fkvantorium&cc_key="
+        },
+        {
+          "title": "https://goo.gl/forms/9W8TCucBNBIx1sD22",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fgoo.gl%2Fforms%2F9W8TCucBNBIx1sD22&post=-169763112_1135&cc_key="
+        },
+        {
+          "title": "Количество",
+          "url": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u44/54/49/1abd14a4.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 734,
+    "storedTextCharacters": 604,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 8,
+    "sourceBytes": 39266
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 734,
+  "capturedBodyCharacters": 604,
+  "sourceTextSHA256": "d5f52b5acc8e38f2f152654475be679d6004b528907943876f7093299eef126b",
+  "archiveSnapshotAt": "2026-10-08T09:16:13Z"
+}

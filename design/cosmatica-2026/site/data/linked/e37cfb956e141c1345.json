@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/392-ischeznovenie-dilogija.html",
+  "title": "Исчезновение. Дилогия",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/7/ischeznovenie-dilogija-photo-normal.jpg",
+      "alt": "Исчезновение. Дилогия"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Исчезновение\" - два фантастических романа, дилогия. Внеземная цивилизация выбирает 12 человек из разных стран, чтобы остановить возможность новой мировой войны. Увлекательные сюжетные линии переплетаются с рассуждениями автора о существующем мире и знаниях человечества.",
+      "spans": [
+        {
+          "text": "\"Исчезновение\" - два фантастических романа, дилогия. Внеземная цивилизация выбирает 12 человек из разных стран, чтобы остановить возможность новой мировой войны. Увлекательные сюжетные линии переплетаются с рассуждениями автора о существующем мире и знаниях человечества."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Леонид Викторович Тимошенко",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "\"Исчезновение\" - два фантастических романа, дилогия. Внеземная цивилизация выбирает 12 человек из разных стран, чтобы остановить возможность новой мировой войны. Увлекательные сюжетные линии переплетаются с рассуждениями автора о существующем мире и знаниях человечества.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 443 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2353/0cd810efe3c5c6bdd8c5c509d7e28d6e"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/b/7/ischeznovenie-dilogija-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2353/0cd810efe3c5c6bdd8c5c509d7e28d6e"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 349,
+    "storedTextCharacters": 271,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40022
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 327,
+  "capturedBodyCharacters": 271,
+  "sourceTextSHA256": "d3000461c49c5b4eb155143844a254375b07de4961db2842a354af048a994222",
+  "archiveSnapshotAt": "2026-10-08T08:49:42Z"
+}

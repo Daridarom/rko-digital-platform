@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/242",
+  "title": "Владимир Павлович Бажутин",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/c/29542eb2.jpg",
+      "alt": "Владимир Павлович Бажутин"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/2/980d1f91.jpg",
+      "alt": "Владимир Павлович Бажутин"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Курганская область",
+      "links": [
+        {
+          "title": "Курганская область",
+          "url": "https://cosmatica.org/departments/21-kurganskaja-oblast.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/c/c/29542eb2.jpg",
+    "https://cosmatica.org/upload/000/u35/1/2/980d1f91.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 80,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34053
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 29,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "8ca5131def9e927d9eec5a14f0da87e782ba9db72758bf80da8fc1802ef4747d",
+  "archiveSnapshotAt": "2026-10-08T09:18:45Z"
+}

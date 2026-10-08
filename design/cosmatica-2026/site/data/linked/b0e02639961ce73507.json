@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/525-kak-izbezhat-vyrozhdenija.html",
+  "title": "Как избежать вырождения",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Чагин Олег Александрович о том, как важно создать для ребёнка среду, в которой он сможет и должен раскрыть свой обусловленный эволюцией потенциал.",
+      "spans": [
+        {
+          "text": "Чагин Олег Александрович о том, как важно создать для ребёнка среду, в которой он сможет и должен раскрыть свой обусловленный эволюцией потенциал."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "T1wICFN4MiQ",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=T1wICFN4MiQ"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Чагин Олег Александрович о том, как важно создать для ребёнка среду, в которой он сможет и должен раскрыть свой обусловленный эволюцией потенциал.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 240,
+    "storedTextCharacters": 146,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 74418
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 216,
+  "capturedBodyCharacters": 146,
+  "sourceTextSHA256": "0bd958a8612b7d35af3b98558c6382d39227623b3afd833182d06b15fd9617c8",
+  "archiveSnapshotAt": "2026-10-08T08:42:05Z",
+  "publicVideoCount": 1
+}

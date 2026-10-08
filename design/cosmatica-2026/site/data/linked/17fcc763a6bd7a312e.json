@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/d",
+  "title": "Д",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Доктрина Победы",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Данные",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Основные виды обра­ботки данных",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Диссипативные процессы",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Димензиальность",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Доказательство для диалектики",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Доказательство для математики",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 155,
+    "storedTextCharacters": 147,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 36604
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 155,
+  "capturedBodyCharacters": 147,
+  "sourceTextSHA256": "552cb75244f29f9216fd034fe349c9d57541c9ebf55fc99f00867f3fa795ab8d",
+  "archiveSnapshotAt": "2026-10-08T08:47:24Z"
+}

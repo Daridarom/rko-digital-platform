@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/71",
+  "title": "Александр Николаевич Денисов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u71/4f/3a/cb12851f.jpg",
+      "alt": "Александр Николаевич Денисов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 1"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u71/44/a7/29712c9a.jpg",
+      "alt": "Александр Николаевич Денисов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "ООО «Йело», Дизайнер",
+      "spans": [
+        {
+          "text": "ООО «Йело», Дизайнер"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Республика Хакасия",
+      "links": [
+        {
+          "title": "Республика Хакасия",
+          "url": "https://cosmatica.org/departments/5-respublika-hakasija.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "ООО «Йело», Дизайнер",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u71/4f/3a/cb12851f.jpg",
+    "https://cosmatica.org/upload/000/u71/44/a7/29712c9a.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 132,
+    "storedTextCharacters": 69,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35825
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 60,
+  "capturedBodyCharacters": 69,
+  "sourceTextSHA256": "d81ddb448236e383c371b8ffd3ed0e45a603271b662597670028e0c2299d0532",
+  "archiveSnapshotAt": "2026-10-08T09:21:53Z"
+}

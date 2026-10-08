@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "slug": "article",
+  "slug": "articles-list",
   "sourceUrl": "https://cosmatica.org/articles/blizhe-k-kosmosu",
   "title": "Ближе к космосу",
   "intro": "",
@@ -31,7 +31,104 @@
       "level": 2
     }
   ],
-  "cards": [],
+  "cards": [
+    {
+      "title": "Выпуск №4 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+      "description": "Выпуск №4 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+      "url": "https://cosmatica.org/articles/1326-vypusk-4.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Выпуск №4",
+          "url": "https://cosmatica.org/articles/1326-vypusk-4.html"
+        },
+        {
+          "title": "#Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+          "url": "https://cosmatica.org/projects/blizhe-k-cosmosu/content/articles"
+        }
+      ]
+    },
+    {
+      "title": "Выпуск №3 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+      "description": "Выпуск №3 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\" Молодёжный Совет в лице проекта «Мы верим в космос» создал научно-популярное издание для детей и молодёжи под названием «Ближе к космосу». Подробнее",
+      "url": "https://cosmatica.org/articles/1280-vypusk-3.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Выпуск №3",
+          "url": "https://cosmatica.org/articles/1280-vypusk-3.html"
+        },
+        {
+          "title": "#Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+          "url": "https://cosmatica.org/projects/blizhe-k-cosmosu/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1280-vypusk-3.html"
+        }
+      ]
+    },
+    {
+      "title": "Выпуск №2 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+      "description": "Выпуск №2 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\" Молодёжный Совет в лице проекта «Мы верим в космос» создал научно-популярное издание для детей и молодёжи под названием «Ближе к космосу». Подробнее",
+      "url": "https://cosmatica.org/articles/1277-vypusk-2.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Выпуск №2",
+          "url": "https://cosmatica.org/articles/1277-vypusk-2.html"
+        },
+        {
+          "title": "#Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+          "url": "https://cosmatica.org/projects/blizhe-k-cosmosu/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1277-vypusk-2.html"
+        }
+      ]
+    },
+    {
+      "title": "Выпуск №1 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+      "description": "Выпуск №1 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\" Молодёжный Совет в лице проекта «Мы верим в космос» создал научно-популярное издание для детей и молодёжи под названием «Ближе к космосу». Подробнее",
+      "url": "https://cosmatica.org/articles/1274-vypusk-1.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Выпуск №1",
+          "url": "https://cosmatica.org/articles/1274-vypusk-1.html"
+        },
+        {
+          "title": "#Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+          "url": "https://cosmatica.org/projects/blizhe-k-cosmosu/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1274-vypusk-1.html"
+        }
+      ]
+    },
+    {
+      "title": "Выпуск №0 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+      "description": "Выпуск №0 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\" Молодёжный Совет в лице проекта «Мы верим в космос» создал научно-популярное издание для детей и молодёжи под названием «Ближе к космосу». Подробнее",
+      "url": "https://cosmatica.org/articles/1257-vypusk-0.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Выпуск №0",
+          "url": "https://cosmatica.org/articles/1257-vypusk-0.html"
+        },
+        {
+          "title": "#Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+          "url": "https://cosmatica.org/projects/blizhe-k-cosmosu/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1257-vypusk-0.html"
+        }
+      ]
+    }
+  ],
   "fields": [],
   "images": [],
   "documents": [],
@@ -41,9 +138,15 @@
     "http": 200,
     "sourceTextCharacters": 951,
     "storedTextCharacters": 335,
-    "sourceCardCount": 0,
+    "sourceCardCount": 5,
     "sourceImageCount": 0,
     "paragraphCount": 0,
     "sourceBytes": 80774
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "articles-list",
+  "sourceTextCharacters": 951,
+  "capturedBodyCharacters": 335,
+  "sourceTextSHA256": "2ce909cbfef5618e37729067abd3faa7f5cb00be224b6e2f72aab4070e166bd3",
+  "archiveSnapshotAt": "2026-10-08T08:45:02Z"
 }

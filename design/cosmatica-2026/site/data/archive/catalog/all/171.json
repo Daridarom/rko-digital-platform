@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 171,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Открытый IT-чемпионат для студентов и школьников нашёл своих героев",
+      "description": "Организаторами чемпионата выступили БГИТУ, Русское космическое общество, Образовательный проект для начинающих программистов IT-ПАРК, Школа робототехники Robotize Брянск, Центр технического творчества Брянской области, ДДиЮТ имени Ю.А. Гагарина.",
+      "url": "https://cosmatica.org/news/380-otkrytyi-it-chempionat-dlja-studentov-i-shkolnikov-nashyol-svoih-geroev.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/c/otkrytyi-it-chempionat-dlja-studentov-i-shkolnikov-nashyol-svoih-ger.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3f9427e9f7a617f23c",
+      "type": "news-item",
+      "sourceCharacters": 7012,
+      "verified": false
+    },
+    {
+      "title": "Выпуски 2015 года",
+      "description": "1) Кузнецов Побиск Георгиевич МЕТОД «ДЕФЕКТНОЙ ВЕДОМОСТИ»",
+      "url": "https://cosmatica.org/articles/379-vypuski-2015-goda.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=464fe32f9ec9909a88",
+      "type": "article",
+      "sourceCharacters": 5858,
+      "verified": false
+    },
+    {
+      "title": "Индикаторы устойчивого развития региона (на примере Томской области)",
+      "description": "Учебно-методическое пособие «Индикаторы устойчивого развития региона (на примере Томской области)» - часть учебного курса «Устойчивое",
+      "url": "https://cosmatica.org/library/379-indikatory-ustoichivogo-razvitija-regiona-na-primere-tomskoi-oblasti.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=4aed6dbbdcd2909072",
+      "type": "book",
+      "sourceCharacters": 724,
+      "verified": false
+    },
+    {
+      "title": "Наука и религия. Интервью.",
+      "description": "85‑летний юбилей Юрия Гагарина даёт повод в очередной раз поговорить о роли космоса в будущем земной цивилизации. Сейчас нередко звучит мнение, что освоение космоса не сулит особых перспектив. Однако руководители Русского Космического Общества (РКО) и Российской академии естественных наук (РАЕН) категорически с этим не согласны. Мы встретились с известным геофизиком, ректором Государственного университета «Дубна», пр",
+      "url": "https://cosmatica.org/news/379-nauka-i-religija-intervyu.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/8/nauka-i-religija-intervyu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=71bfddf803581535c7",
+      "type": "news-item",
+      "sourceCharacters": 1251,
+      "verified": false
+    },
+    {
+      "title": "Выпуски 2014 года",
+      "description": "Выпуск подготовлен по итогам региональной научно-практической конференции «Проблемы образования-2014» (21–23 марта 2014 г.)",
+      "url": "https://cosmatica.org/articles/378-vypuski-2014-goda.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=2c409e2ceaae647637",
+      "type": "article",
+      "sourceCharacters": 4667,
+      "verified": false
+    },
+    {
+      "title": "Энергоэкологическая безопасность от чрезвычайных ситуаций различного генезиса как основа устойчивого развития региона",
+      "description": "оценки энергоэкологических последствий чрезвычайных ситуаций различного генезиса как основа безопасности и устойчивого развития региона. Изучены энергоэкологические последствия чрезвычайных ситуаций различного генезиса, а также их влияние на экономику, экологию, население на примере субъектов Сибирского федерального округа. Представлены статистические",
+      "url": "https://cosmatica.org/library/378-energoekologicheskaja-bezopasnost-ot-chrezvychainyh-situacii-razlichnogo-genezisa-kak-osnova-ust.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/3/energoekologicheskaja-bezopasnost-ot-chrezvychainyh-situacii-razlich.jpeg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=98fe314dd29e1e65d1",
+      "type": "book",
+      "sourceCharacters": 973,
+      "verified": false
+    },
+    {
+      "title": "Мамино счастье",
+      "description": "7 апреля в Санкт-Петербурге на базе ГБУК «Клуб Выборгская Сторона» прошла Весенняя конкурсная программа «Мамино счастье» в рамках Международного Детского Фестиваля Дружбы народов, Культуры и Таланта «Gatingo World Kids»",
+      "url": "https://cosmatica.org/news/378-mamino-schaste.html",
+      "image": "https://cosmatica.org/upload/000/u21/9/3/mamino-schaste-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1c1a2df0b75de9a7bb",
+      "type": "news-item",
+      "sourceCharacters": 1806,
+      "verified": false
+    },
+    {
+      "title": "Выпуски 2013 года",
+      "description": "1) Бондаренко Валентина Михайловна ПЕРЕХОД К БЕСКРИЗИСНОМУ РАЗВИТИЮ — МИФ ИЛИ РЕАЛЬНОСТЬ?",
+      "url": "https://cosmatica.org/articles/377-vypuski-2013-goda.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=5ec3a7854f8a472675",
+      "type": "article",
+      "sourceCharacters": 1757,
+      "verified": false
+    },
+    {
+      "title": "Природно – техносферная безопасность",
+      "description": "Учебное пособие «Природно – техносферная безопасность» посвящено анализу ряда опасных природных и техногенных процессов, происходящих на планете Земля. Сегодня на Земле не найдётся места, где не случались бы природные бедствия и техногенные катастрофы. При этом их",
+      "url": "https://cosmatica.org/library/377-prirodno-tehnosfernaja-bezopasnost.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/d/prirodno-tehnosfernaja-bezopasnost-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=4cbe8f88d8a93a648b",
+      "type": "book",
+      "sourceCharacters": 948,
+      "verified": false
+    },
+    {
+      "title": "Приём работ окончен!",
+      "description": "Конкурс организует и проводит Фонд поддержки и развития семей «Родная Семья » , при поддержке Р усского Космического Общества .",
+      "url": "https://cosmatica.org/news/377-priyom-rabot-okonchen.html",
+      "image": "https://cosmatica.org/upload/000/u26/1/5/85a76641.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6220dccda389b03603",
+      "type": "news-item",
+      "sourceCharacters": 2454,
+      "verified": false
+    },
+    {
+      "title": "Выпуски 2012 года",
+      "description": "1) Большаков Борис Евгеньевич ОБЩАЯ СХЕМА ПРОЕКТИРОВАНИЯ СИСТЕМЫ ЦЕННОСТЕЙ И ИДЕАЛОВ СУБЪЕКТОВ УСТОЙЧИВОГО РАЗВИТИЯ",
+      "url": "https://cosmatica.org/articles/376-vypuski-2012-goda.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=33324994d09042693c",
+      "type": "article",
+      "sourceCharacters": 2287,
+      "verified": false
+    },
+    {
+      "title": "Выпуски 2011 года",
+      "description": "1) Маженов Нурбек, Маженова Айнур ЭНЕРГЕТИЧЕСКИЕ ОСНОВЫ ТЕОРИИ ТРУДОВОЙ СТОИМОСТИ А.СМИТА И Д.РИКАРДО",
+      "url": "https://cosmatica.org/articles/375-vypuski-2011-goda.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=dfaf90d5bfc78be03b",
+      "type": "article",
+      "sourceCharacters": 2322,
+      "verified": false
+    },
+    {
+      "title": "Космонавт №5. Быковский Валерий Фёдорович",
+      "description": "27 марта покинул земной простор Быковский Валерий Фёдорович. Мы не давали траурных заметок. Он навсегда в Строю. Но знать его и помнить, несомненно, должны.",
+      "url": "https://cosmatica.org/news/375-kosmonavt-5-bykovskii-valerii-fyodorovich.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/2/kosmonavt-5-bykovskii-valerii-fyodorovich-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=554f1e24bd4b14c741",
+      "type": "news-item",
+      "sourceCharacters": 10867,
+      "verified": false
+    },
+    {
+      "title": "Вступительное слово",
+      "description": "17 ноября 2018 года покинул этот мир Большаков Борис Евгеньевич.",
+      "url": "https://cosmatica.org/articles/374-vstupitelnoe-slovo.html",
+      "image": "https://cosmatica.org/upload/000/u26/df/03/1december.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=de15adb7b698e2f9fd",
+      "type": "article",
+      "sourceCharacters": 4136,
+      "verified": false
+    },
+    {
+      "title": "Природные опасности и риски. Учебное пособие",
+      "description": "Учебное пособие «Природные опасности и риски» - часть учебного курса «География природного риска», оно посвящено анализу ряда опасных природных процессов, происходящих на планете Земля. Это связано с тем, что сегодня на Земле не найдётся места, где не случались бы природные бедствия. При этом их",
+      "url": "https://cosmatica.org/library/374-prirodnye-opasnosti-i-riski-uchebnoe-posobie.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/9/prirodnye-opasnosti-i-riski-uchebnoe-posobie-photo-normal.jpeg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=2c7429a52345fb703f",
+      "type": "book",
+      "sourceCharacters": 942,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

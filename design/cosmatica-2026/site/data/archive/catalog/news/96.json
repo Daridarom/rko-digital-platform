@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 96,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "РКО подвело итоги второго года жизни",
+      "description": "\"Почему 21 декабря?\"- спросите вы. Да, есть дата, когда было зарегистрировано Общество. 25 октября 2017 года, в Единый государственный реестр юридических лиц Российской Федерации внесена запись о регистрации общественной организации «РУССКОЕ КОСМИЧЕСКОЕ ОБЩЕСТВО». Но... Организация - это прежде всего люди. Печать на бланке ничего не значит без живого человеческого порыва. Потому мы отмечаем вторую годовщину РКО 21 де",
+      "url": "https://cosmatica.org/news/642-rko-podvelo-itogi-vtorogo-goda-zhizni.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/7/rko-podvelo-itogi-vtorogo-goda-zhizni-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=611265a07d06ba88ff",
+      "type": "news-item",
+      "sourceCharacters": 12908,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль борьбы прошёл в Калужской области",
+      "description": "Снова проявил активность член Совета физической культуры и спорта, вице-президент федерации джиу-джитсу Калужской области Пухович Алексей Михаилович , который вошёл в число организаторов Фестиваля борьбы Грепплинг и Джиу-джитсу в Калужской области.",
+      "url": "https://cosmatica.org/news/645-festival-borby-proshyol-v-kaluzhskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/0/festival-borby-proshyol-v-kaluzhskoi-oblasti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=55a8b99a07ff11c964",
+      "type": "news-item",
+      "sourceCharacters": 1966,
+      "verified": false
+    },
+    {
+      "title": "Вышел декабрьский номер газеты Русского Космического Общества",
+      "description": "Здравствуйте, родные наши соотечественники и соотечественницы!",
+      "url": "https://cosmatica.org/news/643-vyshel-dekabrskoi-nomer-gazety-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/0/vyshel-dekabrskii-nomer-gazety-russkogo-kosmicheskogo-obschestva-ph.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=547546d7ddfe37924e",
+      "type": "news-item",
+      "sourceCharacters": 6200,
+      "verified": false
+    },
+    {
+      "title": "Презентация книги В.П. Глушко в ДонНТУ",
+      "description": "Научно-популярный, постоянно действующий лекторий «Корифеи культуры: имена, образы, легенды», который проходит в Большом актовом зале первого учебного корпуса ДонНТУ снова удивил своих слушателей необычной программой.",
+      "url": "https://cosmatica.org/news/647-prezentacija-knigi-v-p-glushko-v-donntu.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/b/prezentacija-knigi-v-p-glushko-v-donntu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=01d3c6b99f2e4a50ef",
+      "type": "news-item",
+      "sourceCharacters": 2131,
+      "verified": false
+    },
+    {
+      "title": "Всегда на передовой",
+      "description": "Это знаковое событие состоялось на годовом открытом собрании членов РКО",
+      "url": "https://cosmatica.org/news/680-vsegda-na-peredovoi.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/b/vsegda-na-peredovoi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=697c3513f25eca7e0e",
+      "type": "news-item",
+      "sourceCharacters": 2709,
+      "verified": false
+    },
+    {
+      "title": "Награды нашли победителей в столице Донецкой Народной Республики",
+      "description": "Этой осенью по инициативе Русского Космического Общества в Донецкой Народной Республике в рамках работы Донецкого отделения РКО и Общественно-государственного комитета празднования 85-летия Ю.А. Гагарина состоялось целых три республиканских конкурса для детей: конкурс рисунка \"Наше космическое будущее\", конкурс эссе \"Отечественная космонавтика: вчера, сегодня, завтра\" и конкурс космомоделирования \"Космос вчера-сегодн",
+      "url": "https://cosmatica.org/news/641-nagrady-nashli-pobeditelei-v-stolice-doneckoi-narodnoi-respublike.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/1/nagrady-nashli-pobeditelei-v-stolice-doneckoi-narodnoi-respubliki.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=00d99c6abb1d1f7d02",
+      "type": "news-item",
+      "sourceCharacters": 5916,
+      "verified": false
+    },
+    {
+      "title": "В будущее человековедения",
+      "description": "«Ноосферное человековедение как основа ноосферной парадигмы образования, воспитания и просвещения»",
+      "url": "https://cosmatica.org/news/640-v-buduschee-chelovekovedenija.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/1/f22d47cc.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=57f84f29bf5d431a5f",
+      "type": "news-item",
+      "sourceCharacters": 5168,
+      "verified": false
+    },
+    {
+      "title": "Итоги третьего семинара по устойчивому развитию жизни",
+      "description": "На этот раз мероприятие проходило в конференц-зале Института прикладной механики РАН, так как количество участников семинара превысило вместимость помещения центрального штаба РКО в Москве.",
+      "url": "https://cosmatica.org/news/639-itogi-tretego-seminara-po-ustoichivomu-razvitiyu-zhizni.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/1/itogi-tretego-seminara-po-ustoichivomu-razvitiyu-zhizni-photo-norm.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ad9ebc2928fe199aa2",
+      "type": "news-item",
+      "sourceCharacters": 2136,
+      "verified": false
+    },
+    {
+      "title": "Запускаем уникальный всенародный проект!",
+      "description": "18 декабря в 16:30 (мск) в группе Русского Космического Общества состоится всероссийское совещание лидеров отечественных общественных организаций и сообществ патриотической направленности в режиме реального времени.",
+      "url": "https://cosmatica.org/news/638-zapuskaem-unikalnyi-vsenarodnyi-proekt.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/6/zapuskaem-unikalnyi-vsenarodnyi-proekt-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ac16389bbc4681960e",
+      "type": "news-item",
+      "sourceCharacters": 1836,
+      "verified": false
+    },
+    {
+      "title": "Делегация РКО приняла участие в заседании Организационного комитета Федерального Народного Совета.",
+      "description": "13 декабря 2019 года в Московской торгово-промышленной палате состоялось расширенное заседание Федерального Народного Совета (ФНС). Основной темой заседания являлось обсуждение концепции идеологии российской цивилизации. В мероприятии приняло участие около 70 человек. С основными докладами «О концепции идеологии российской цивилизации» выступили: Игорь Бабичев, сопредседатель Организационного комитета ФНС, председате",
+      "url": "https://cosmatica.org/news/637-ideologija-rossiiskoi-civilizacii-na-povestke-dnja.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/5/0f834ecb.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6ade1cb13894d1f95d",
+      "type": "news-item",
+      "sourceCharacters": 4954,
+      "verified": false
+    },
+    {
+      "title": "26 ноября 2019 года в Москве прошел VII Московский международный инженерный форум",
+      "description": "Организатором форума выступила Московская Конфедерация промышленников и предпринимателей (работодателей) МКПП(р) при участии Правительства Москвы, Министерства науки и высшего образования РФ, Министерства промышленности и торговли РФ, Министерства труда и социальной защиты РФ.",
+      "url": "https://cosmatica.org/news/644-26-nojabrja-2019-goda-v-g-moskve-proshel-vii-moskovskii-mezhdunarodnyi-inzhenernyi-forum.html",
+      "image": "https://cosmatica.org/upload/002/u252/b/d/26-nojabrja-2019-goda-v-g-moskve-proshel-vii-moskovskii-mezhdunarod.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bc97e62b1e03449b86",
+      "type": "news-item",
+      "sourceCharacters": 2179,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество и киноуроки в школах России",
+      "description": "Проект \"Киноуроки в школах России\", реализуемой группой замечательных людей, под общим руководством Меркулова Виктора Александровича развивает проект с 2015 года, когда был создан первый детский художественный короткометражный фильм \"За руку с Богом\".",
+      "url": "https://cosmatica.org/news/635-russkoe-kosmicheskoe-obschestvo-i-kinouroki-v-shkolah-rossii.html",
+      "image": "https://cosmatica.org/upload/000/u7/b/8/russkoe-kosmicheskoe-obschestvo-i-kinouroki-v-shkolah-rossii-photo-n.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=08ee4471638ccd3b6a",
+      "type": "news-item",
+      "sourceCharacters": 2431,
+      "verified": false
+    },
+    {
+      "title": "О результатах заседания Общественного Совета АНО СК «Роскосмоса» по итогам работы в 2019 году",
+      "description": "10 декабря 2019 года в АНО «Спортивный клуб «Роскосмос» (Далее АНО СК РК) состоялось заседание Общественного Совета. Заседание провёл его Председатель Петрашко Арсений Григорьевич – руководитель группы компаний «РТА».",
+      "url": "https://cosmatica.org/news/633-o-rezultatah-zasedanija-obschestvennogo-soveta-ano-sk-roskosmosa-po-itogam-raboty-v-2019-godu.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/9/o-rezultatah-zasedanija-obschestvennogo-soveta-ano-sk-roskosmosa.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f23f669dad963822e1",
+      "type": "news-item",
+      "sourceCharacters": 4777,
+      "verified": false
+    },
+    {
+      "title": "РКО на форуме \"Ливадия\"",
+      "description": "На Форуме, 30 экспертов - новаторов, спикеров – практиков, поделились с участниками своим передовым опытом и уникальными знаниями. Присутствующие смогли получить предметные ответы на свои вопросы, завести нужные знакомства с подлинными единомышленниками, обменяться мнениями вдохновиться атмосферой открытой и творческой северной культуры и получить новый вектор направления для реализации своих проектов.",
+      "url": "https://cosmatica.org/news/634-rko-na-forume-livadija.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/7/for-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=287834b706863328e3",
+      "type": "news-item",
+      "sourceCharacters": 2199,
+      "verified": false
+    },
+    {
+      "title": "В Екатеринбурге подвели итоги заочного этапа Инженерно-технической интернет олимпиады для школьников",
+      "description": "Результаты размещены в обезличенном виде на страничке Олимпиады на сайте ситш.рф",
+      "url": "https://cosmatica.org/news/632-v-ekaterinburge-podveli-itogi-zaochnogo-etapa-inzhenerno-tehnicheskoi-internet-olimpiady-dlja-sh.html",
+      "image": "https://cosmatica.org/upload/000/u53/1/d/v-ekaterinburge-podveli-itogi-zaochnogo-etapa-inzhenerno-tehnichesk.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8eec59d4503f64d1ca",
+      "type": "news-item",
+      "sourceCharacters": 1452,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

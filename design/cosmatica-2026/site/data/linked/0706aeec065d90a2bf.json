@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1016-kosmicheskie-professii-buduschego-prudnik-rjabuhina.html",
+  "title": "Космические профессии будущего (Прудник, Рябухина)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Профориентационно-образовательный проект \"МЫ ВЕРИМ В КОСМОС\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "В гостях у Юности Авроры аспирант института астрономии Ольга Леонидовна Рябухина и Денис Олегович Прудник, председатель Молодёжного совета Русского Космического Общества. Продолжаем беседу об интересных космических профессиях.",
+      "spans": [
+        {
+          "text": "В гостях у Юности Авроры аспирант института астрономии Ольга Леонидовна Рябухина и Денис Олегович Прудник, председатель Молодёжного совета Русского Космического Общества. Продолжаем беседу об интересных космических профессиях."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "_MaArKjiecU",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=_MaArKjiecU"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В гостях у Юности Авроры аспирант института астрономии Ольга Леонидовна Рябухина и Денис Олегович Прудник, председатель Молодёжного совета Русского Космического Общества. Продолжаем беседу об интересных космических профессиях.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 515,
+    "storedTextCharacters": 287,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 76217
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 402,
+  "capturedBodyCharacters": 287,
+  "sourceTextSHA256": "bb6df03bd90bf164eb3c4d34facb494c769208ef8faa2a46f065e2bcd49e5772",
+  "archiveSnapshotAt": "2026-10-08T08:37:43Z",
+  "publicVideoCount": 1
+}

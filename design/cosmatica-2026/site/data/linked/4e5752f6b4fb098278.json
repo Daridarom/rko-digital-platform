@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/266-skolko-zvyozd-na-nebe-1954.html",
+  "title": "Сколько звёзд на небе (1954)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/a/5/skolko-zvyozd-na-nebe-1954-photo-normal.png",
+      "alt": "Сколько звёзд на небе (1954)"
+    },
+    {
+      "type": "paragraph",
+      "text": "В ясную, безоблачную ночь внимание человека всегда привлекает небо, усыпанное звёздами. Множество ярких звезд, мерцая, блестит белым или чуть голубоватым светом. А сколько ещё на небе слабых, еле заметных звёздочек!.. Около многих из них существуют свиты планет, возможно даже обитаемых, населенных неведомыми существами... Перед глазами встаёт величественная картина неизмеримой бездны вселенной. 1954",
+      "spans": [
+        {
+          "text": "В ясную, безоблачную ночь внимание человека всегда привлекает небо, усыпанное звёздами. Множество ярких звезд, мерцая, блестит белым или чуть голубоватым светом. А сколько ещё на небе слабых, еле заметных звёздочек!.. Около многих из них существуют свиты планет, возможно даже обитаемых, населенных неведомыми существами... Перед глазами встаёт величественная картина неизмеримой бездны вселенной. 1954"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Огородников К.Ф.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В ясную, безоблачную ночь внимание человека всегда привлекает небо, усыпанное звёздами. Множество ярких звезд, мерцая, блестит белым или чуть голубоватым светом. А сколько ещё на небе слабых, еле заметных звёздочек!.. Около многих из них существуют свиты планет, возможно даже обитаемых, населенных неведомыми существами... Перед глазами встаёт величественная картина неизмеримой бездны вселенной. 1954",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 6 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1999/017baed2ada095e89ffb6ce6d0a4cbd3"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/a/5/skolko-zvyozd-na-nebe-1954-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1999/017baed2ada095e89ffb6ce6d0a4cbd3"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 474,
+    "storedTextCharacters": 402,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40316
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 445,
+  "capturedBodyCharacters": 402,
+  "sourceTextSHA256": "23c94488a977e0cebd9aa158dedd2375e399b6b59109bbad35a4b216dae4ecdb",
+  "archiveSnapshotAt": "2026-10-08T08:48:22Z"
+}

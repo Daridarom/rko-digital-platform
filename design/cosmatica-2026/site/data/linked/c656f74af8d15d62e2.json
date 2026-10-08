@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/131-nasha-vselennaja-dnevnik-razrabotki-za-iyun.html",
+  "title": "Наша Вселенная: дневник разработки за июнь",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#«Наша Вселенная»",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/a5/4e/nasha-vselennaja-dnevnik-razrabotki-za-iyun-photo-normal.jpg",
+      "alt": "Наша Вселенная: дневник разработки за июнь"
+    },
+    {
+      "type": "paragraph",
+      "text": "Команда программистов сейчас создаёт квестовоый движок. Попробовали сделать \"по-быстрому\", получилось не так, как хочется. Поэтому делаем иначе, более основательно. Надеемся, что скоро команда программистов увелиичится.",
+      "spans": [
+        {
+          "text": "Команда программистов сейчас создаёт квестовоый движок. Попробовали сделать \"по-быстрому\", получилось не так, как хочется. Поэтому делаем иначе, более основательно. Надеемся, что скоро команда программистов увелиичится."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Пожалуй, одним из важнейших событий июня стало тесное знакомство с коворкингом РКК \"Энергия\". А так же долгожданная встреча Алексея Борисова и Марка Серова. Марк поддерживает нас буквально с первых шагов, и до сих пор общались только по электронной почте.",
+      "spans": [
+        {
+          "text": "Пожалуй, одним из важнейших событий июня стало тесное знакомство с коворкингом РКК \"Энергия\". А так же долгожданная встреча Алексея Борисова и Марка Серова. Марк поддерживает нас буквально с первых шагов, и до сих пор общались только по электронной почте."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В определённом смысле, месяц выдался трудный. Но там, где дружный экипаж, все трудности преодолимы.",
+      "spans": [
+        {
+          "text": "В определённом смысле, месяц выдался трудный. Но там, где дружный экипаж, все трудности преодолимы."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Дополняем картинки записями.",
+      "spans": [
+        {
+          "text": "Дополняем картинки записями."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Тестирование обновления пылевой бури.",
+      "spans": [
+        {
+          "text": "Тестирование обновления пылевой бури."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Тестирование анимации скафандра. На этот раз скафандр \"без ничего\" и с обвесом профессии \"пилот\". Предстоит ещё много работы.",
+      "spans": [
+        {
+          "text": "Тестирование анимации скафандра. На этот раз скафандр \"без ничего\" и с обвесом профессии \"пилот\". Предстоит ещё много работы."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Озвучивание пресонажей альфа-версии.",
+      "spans": [
+        {
+          "text": "Озвучивание пресонажей альфа-версии."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Светлана Оюн (Елена Саркисян): https://cloud.mail.ru/public/FGxh/vAy8zfLna",
+      "spans": [
+        {
+          "text": "Светлана Оюн (Елена Саркисян):"
+        },
+        {
+          "text": "https://cloud.mail.ru/public/FGxh/vAy8zfLna",
+          "href": "https://vk.com/away.php?to=https%3A%2F%2Fcloud.mail.ru%2Fpublic%2FFGxh%2FvAy8zfLna&post=1986645_3001&cc_key="
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cloud.mail.ru/public/FGxh/vAy8zfLna",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fcloud.mail.ru%2Fpublic%2FFGxh%2FvAy8zfLna&post=1986645_3001&cc_key="
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Элис Фэйн (София Шорникова): https://cloud.mail.ru/public/2ZVr/5JTew7KWU",
+      "spans": [
+        {
+          "text": "Элис Фэйн (София Шорникова):"
+        },
+        {
+          "text": "https://cloud.mail.ru/public/2ZVr/5JTew7KWU",
+          "href": "https://vk.com/away.php?to=https%3A%2F%2Fcloud.mail.ru%2Fpublic%2F2ZVr%2F5JTew7KWU&post=1986645_3001&cc_key="
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cloud.mail.ru/public/2ZVr/5JTew7KWU",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fcloud.mail.ru%2Fpublic%2F2ZVr%2F5JTew7KWU&post=1986645_3001&cc_key="
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Аким Скворцов (Дмитрий Саяпин): https://cloud.mail.ru/public/GGL3/SXqifkMQt",
+      "spans": [
+        {
+          "text": "Аким Скворцов (Дмитрий Саяпин):"
+        },
+        {
+          "text": "https://cloud.mail.ru/public/GGL3/SXqifkMQt",
+          "href": "https://vk.com/away.php?to=https%3A%2F%2Fcloud.mail.ru%2Fpublic%2FGGL3%2FSXqifkMQt&post=1986645_3001&cc_key="
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cloud.mail.ru/public/GGL3/SXqifkMQt",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fcloud.mail.ru%2Fpublic%2FGGL3%2FSXqifkMQt&post=1986645_3001&cc_key="
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Работа в Unity: Валерий Дементьев, Алексей Борисов. 3D-моделирование: Константин Хорн, Алексей Борисов. Тексты диалогов: Руслан Рюмин, Дмитрий Саяпин.",
+      "spans": [
+        {
+          "text": " "
+        },
+        {
+          "text": "Работа",
+          "href": "https://cosmatica.org/glossary/62-rabota.html"
+        },
+        {
+          "text": " в Unity: Валерий Дементьев, Алексей Борисов.3D-моделирование: Константин Хорн, Алексей Борисов.Тексты диалогов: Руслан Рюмин, Дмитрий Саяпин."
+        }
+      ],
+      "links": [
+        {
+          "text": "Работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/a9/a0/nho2cm07lik.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/1e/8b/sr22u3ycgba.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/1b/89/flirixf70o8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/31/c9/lt4jd5qdxkq.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Страница Проекта: http://cosmatica.org/projects/nasha-vselennaya",
+      "spans": [
+        {
+          "text": "Страница Проекта: http://cosmatica.org/projects/nasha-vselennaya"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "03m3G3OkwnY",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=03m3G3OkwnY"
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "y9Oy7U0cdto",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=y9Oy7U0cdto"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Свод новостей проекта за прошедший месяц.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Команда программистов сейчас создаёт квестовоый движок. Попробовали сделать \"по-быстрому\", получилось не так, как хочется. Поэтому делаем иначе, более основательно. Надеемся, что скоро команда программистов увелиичится. Пожалуй, одним из важнейших событий июня стало тесное знакомство с коворкингом РКК \"Энергия\". А так же долгожданная встреча Алексея Борисова и Марка Серова. Марк поддерживает нас буквально с первых шагов, и до сих пор общались только по электронной почте. В определённом смысле, месяц выдался трудный. Но там, где дружный экипаж, все трудности преодолимы. Дополняем картинки записями. Тестирование обновления пылевой бури. Тестирование анимации скафандра. На этот раз скафандр \"без ничего\" и с обвесом профессии \"пилот\". Предстоит ещё много работы. Озвучивание пресонажей альфа-версии. Светлана Оюн (Елена Саркисян): https://cloud.mail.ru/public/FGxh/vAy8zfLna Элис Фэйн (София Шорникова): https://cloud.mail.ru/public/2ZVr/5JTew7KWU Аким Скворцов (Дмитрий Саяпин): https://cloud.mail.ru/public/GGL3/SXqifkMQt Работа в Unity: Валерий Дементьев, Алексей Борисов. 3D-моделирование: Константин Хорн, Алексей Борисов. Тексты диалогов: Руслан Рюмин, Дмитрий Саяпин. Страница Проекта: http://cosmatica.org/projects/nasha-vselennaya",
+      "links": [
+        {
+          "title": "https://cloud.mail.ru/public/FGxh/vAy8zfLna",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fcloud.mail.ru%2Fpublic%2FFGxh%2FvAy8zfLna&post=1986645_3001&cc_key="
+        },
+        {
+          "title": "https://cloud.mail.ru/public/2ZVr/5JTew7KWU",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fcloud.mail.ru%2Fpublic%2F2ZVr%2F5JTew7KWU&post=1986645_3001&cc_key="
+        },
+        {
+          "title": "https://cloud.mail.ru/public/GGL3/SXqifkMQt",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fcloud.mail.ru%2Fpublic%2FGGL3%2FSXqifkMQt&post=1986645_3001&cc_key="
+        },
+        {
+          "title": "Работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u26/a9/a0/nho2cm07lik.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/a5/4e/nasha-vselennaja-dnevnik-razrabotki-za-iyun-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/a9/a0/nho2cm07lik.jpg",
+    "https://cosmatica.org/upload/000/u26/1e/8b/sr22u3ycgba.jpg",
+    "https://cosmatica.org/upload/000/u26/1b/89/flirixf70o8.jpg",
+    "https://cosmatica.org/upload/000/u26/31/c9/lt4jd5qdxkq.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1577,
+    "storedTextCharacters": 1262,
+    "sourceCardCount": 0,
+    "sourceImageCount": 5,
+    "paragraphCount": 16,
+    "sourceBytes": 49877
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1406,
+  "capturedBodyCharacters": 1262,
+  "sourceTextSHA256": "db2b9b9722e956ee115198b199a6df8e24dd3e29efd4524f2d0a9233f0715e5f",
+  "archiveSnapshotAt": "2026-10-08T08:53:17Z",
+  "publicVideoCount": 2
+}

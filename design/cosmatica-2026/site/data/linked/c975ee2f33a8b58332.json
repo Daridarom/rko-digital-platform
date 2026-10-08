@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/8-entropija.html",
+  "title": "Энтропия",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "количество",
+      "spans": [
+        {
+          "text": "количество"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "преобразованной энергии, которое не спо­собно к дальнейшим превращениям (в определенных технологических условиях).",
+      "spans": [
+        {
+          "text": "преобразованной энергии, которое не спо­собно к дальнейшим превращениям (в определенных технологических условиях)."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "количество преобразованной энергии, которое не спо­собно к дальнейшим превращениям (в определенных технологических условиях).",
+      "links": [
+        {
+          "title": "количество",
+          "url": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 134,
+    "storedTextCharacters": 124,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32038
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 125,
+  "capturedBodyCharacters": 124,
+  "sourceTextSHA256": "fe567967f32accd99a2be8402904f115f2b4d622cce20d86bf5b4dcf559dc0fe",
+  "archiveSnapshotAt": "2026-10-08T08:47:16Z"
+}

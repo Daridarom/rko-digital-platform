@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/c",
+  "title": "Ц",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Цивилизация",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Цельность",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Цель",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 28,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 33298
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 28,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "dc4d32355df4306a720bfac62466749744c2e5c6bf606a482238d1d6b2af8d88",
+  "archiveSnapshotAt": "2026-10-08T08:47:23Z"
+}

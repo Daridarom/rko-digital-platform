@@ -2,7 +2,7 @@ import {chromium} from 'playwright';
 import assert from 'node:assert/strict';
 import {mkdir} from 'node:fs/promises';
 const base=process.env.SITE_URL||'http://127.0.0.1:8768/design/cosmatica-2026/site/';
-const browser=await chromium.launch({headless:true,args:['--no-sandbox']});
+const browser=await chromium.launch({headless:true,...(process.env.CHROME_BIN?{executablePath:process.env.CHROME_BIN}:{}),args:['--no-sandbox']});
 const stats={pages:0,screenshots:0};
 const article={
  type:'article',title:'Исследование: развёрнутая публикация',author:'Редакция РКО',publishedAt:'2026-10-08',

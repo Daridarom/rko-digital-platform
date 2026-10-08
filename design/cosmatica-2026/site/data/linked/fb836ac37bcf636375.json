@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 2,
+  "slug": "projects",
+  "sourceUrl": "https://cosmatica.org/projects",
+  "title": "Проекты",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Все",
+        "Стратегические инициативы",
+        "Действующие",
+        "Завершённые",
+        "Перспективные",
+        "Ждут поддержки"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/d/0/vsenarodnoe-detsko-yunosheskoe-obschestvennoe-dvizhenie-russkogo-kosm.jpg",
+      "alt": "Всенародное детско-юношеское общественное движение Русского Космического Общества - \"Дружина Гагаринцев\""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/1/0/soyuz-narodnogo-cplochenija-logo-normal.jpg",
+      "alt": "Союз Народного Cплочения"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/b/shkolnye-botany-2-russkii-leonardo-logo-normal.jpg",
+      "alt": "Школьные ботаны - 2: Русский Леонардо"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/3/pereizdanie-klyuchevyh-knig-rko-2026-logo-normal.jpg",
+      "alt": "Переиздание ключевых книг РКО - 2026"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/5/aafcbd09.jpg",
+      "alt": "Информационно-аналитический канал Чо-ТВ"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/1/3/6dc695dc.jpg",
+      "alt": "Всероссийский конкурс \"ЖИВОЕ СЛОВО\""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/6/f/literaturnyi-proekt-prosto-fantastika-logo-normal.jpg",
+      "alt": "Литературный проект \"Просто Фантастика!\""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/4/0/mezhregionalnyi-konkurs-kosmos-vdohnovljaet-logo-normal.jpg",
+      "alt": "Межрегиональный конкурс - Космос вдохновляет!"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/1/f/akademija-nauchnoi-fantastiki-logo-normal.jpg",
+      "alt": "Академия научной фантастики"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/d/sportivnyi-klub-russkogo-kosmicheskogo-obschestva-logo-normal.jpg",
+      "alt": "Спортивный клуб Русского Космического  Общества"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/8/8/bitva-za-buduschee-russkii-rubezh-logo-normal.jpg",
+      "alt": "Битва за будущее - Русский рубеж"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/6/8/imperium-pervye-literaturnyi-konkurs-logo-normal.jpg",
+      "alt": "Империум: Первые. Литературный конкурс"
+    }
+  ],
+  "cards": [
+    {
+      "title": "Всенародное детско-юношеское общественное движение Русского Космического Общества - \"Дружина Гагаринцев\"",
+      "description": "Поддержать проект Всенародное детско-юношеское общественное движение Русского Космического Общества - \"Дружина Гагаринцев\" 29.10.2018",
+      "url": "https://cosmatica.org/projects/gagarincy",
+      "image": "https://cosmatica.org/upload/002/u218/d/0/vsenarodnoe-detsko-yunosheskoe-obschestvennoe-dvizhenie-russkogo-kosm.jpg",
+      "links": [
+        {
+          "title": "Поддержать проект",
+          "url": "https://cosmatica.org/projects/gagarincy"
+        },
+        {
+          "title": "Всенародное детско-юношеское общественное движение Русского Космического Общества - \"Дружина Гагаринцев\"",
+          "url": "https://cosmatica.org/projects/gagarincy"
+        }
+      ]
+    },
+    {
+      "title": "Союз Народного Cплочения",
+      "description": "Союз Народного Cплочения 03.12.2022",
+      "url": "https://cosmatica.org/projects/sns",
+      "image": "https://cosmatica.org/upload/000/u7/1/0/soyuz-narodnogo-cplochenija-logo-normal.jpg",
+      "links": [
+        {
+          "title": "Союз Народного Cплочения",
+          "url": "https://cosmatica.org/projects/sns"
+        }
+      ]
+    },
+    {
+      "title": "Школьные ботаны - 2: Русский Леонардо",
+      "description": "На развитие проекта собрано: 15500 руб. Поддержать проект Школьные ботаны - 2: Русский Леонардо 06.05.2026",
+      "url": "https://cosmatica.org/projects/rusleo",
+      "image": "https://cosmatica.org/upload/000/u35/1/b/shkolnye-botany-2-russkii-leonardo-logo-normal.jpg",
+      "links": [
+        {
+          "title": "Поддержать проект",
+          "url": "https://cosmatica.org/projects/rusleo"
+        },
+        {
+          "title": "Школьные ботаны - 2: Русский Леонардо",
+          "url": "https://cosmatica.org/projects/rusleo"
+        }
+      ]
+    },
+    {
+      "title": "Переиздание ключевых книг РКО - 2026",
+      "description": "На развитие проекта собрано: 1000 руб. Поддержать проект Переиздание ключевых книг РКО - 2026 03.10.2026",
+      "url": "https://cosmatica.org/projects/350",
+      "image": "https://cosmatica.org/upload/002/u218/f/3/pereizdanie-klyuchevyh-knig-rko-2026-logo-normal.jpg",
+      "links": [
+        {
+          "title": "Поддержать проект",
+          "url": "https://cosmatica.org/projects/350"
+        },
+        {
+          "title": "Переиздание ключевых книг РКО - 2026",
+          "url": "https://cosmatica.org/projects/350"
+        }
+      ]
+    },
+    {
+      "title": "Информационно-аналитический канал Чо-ТВ",
+      "description": "Информационно-аналитический канал Чо-ТВ 02.10.2026",
+      "url": "https://cosmatica.org/projects/349",
+      "image": "https://cosmatica.org/upload/002/u218/9/5/aafcbd09.jpg",
+      "links": [
+        {
+          "title": "Информационно-аналитический канал Чо-ТВ",
+          "url": "https://cosmatica.org/projects/349"
+        }
+      ]
+    },
+    {
+      "title": "Всероссийский конкурс \"ЖИВОЕ СЛОВО\"",
+      "description": "Всероссийский конкурс \"ЖИВОЕ СЛОВО\" 01.10.2026",
+      "url": "https://cosmatica.org/projects/348",
+      "image": "https://cosmatica.org/upload/002/u218/1/3/6dc695dc.jpg",
+      "links": [
+        {
+          "title": "Всероссийский конкурс \"ЖИВОЕ СЛОВО\"",
+          "url": "https://cosmatica.org/projects/348"
+        }
+      ]
+    },
+    {
+      "title": "Литературный проект \"Просто Фантастика!\"",
+      "description": "Литературный проект \"Просто Фантастика!\" 25.09.2026",
+      "url": "https://cosmatica.org/projects/347",
+      "image": "https://cosmatica.org/upload/002/u218/6/f/literaturnyi-proekt-prosto-fantastika-logo-normal.jpg",
+      "links": [
+        {
+          "title": "Литературный проект \"Просто Фантастика!\"",
+          "url": "https://cosmatica.org/projects/347"
+        }
+      ]
+    },
+    {
+      "title": "Межрегиональный конкурс - Космос вдохновляет!",
+      "description": "Межрегиональный конкурс - Космос вдохновляет! 08.09.2026",
+      "url": "https://cosmatica.org/projects/346",
+      "image": "https://cosmatica.org/upload/000/u7/4/0/mezhregionalnyi-konkurs-kosmos-vdohnovljaet-logo-normal.jpg",
+      "links": [
+        {
+          "title": "Межрегиональный конкурс - Космос вдохновляет!",
+          "url": "https://cosmatica.org/projects/346"
+        }
+      ]
+    },
+    {
+      "title": "Академия научной фантастики",
+      "description": "Академия научной фантастики 07.09.2026",
+      "url": "https://cosmatica.org/projects/345",
+      "image": "https://cosmatica.org/upload/002/u218/1/f/akademija-nauchnoi-fantastiki-logo-normal.jpg",
+      "links": [
+        {
+          "title": "Академия научной фантастики",
+          "url": "https://cosmatica.org/projects/345"
+        }
+      ]
+    },
+    {
+      "title": "Спортивный клуб Русского Космического Общества",
+      "description": "Спортивный клуб Русского Космического Общества 04.09.2026",
+      "url": "https://cosmatica.org/projects/344",
+      "image": "https://cosmatica.org/upload/000/u7/c/d/sportivnyi-klub-russkogo-kosmicheskogo-obschestva-logo-normal.jpg",
+      "links": [
+        {
+          "title": "Спортивный клуб Русского Космического Общества",
+          "url": "https://cosmatica.org/projects/344"
+        }
+      ]
+    },
+    {
+      "title": "Битва за будущее - Русский рубеж",
+      "description": "Битва за будущее - Русский рубеж 21.06.2026",
+      "url": "https://cosmatica.org/projects/bitvazabuduchee",
+      "image": "https://cosmatica.org/upload/000/u7/8/8/bitva-za-buduschee-russkii-rubezh-logo-normal.jpg",
+      "links": [
+        {
+          "title": "Битва за будущее - Русский рубеж",
+          "url": "https://cosmatica.org/projects/bitvazabuduchee"
+        }
+      ]
+    },
+    {
+      "title": "Империум: Первые. Литературный конкурс",
+      "description": "Поддержать проект Империум: Первые. Литературный конкурс 29.05.2026",
+      "url": "https://cosmatica.org/projects/342",
+      "image": "https://cosmatica.org/upload/002/u218/6/8/imperium-pervye-literaturnyi-konkurs-logo-normal.jpg",
+      "links": [
+        {
+          "title": "Поддержать проект",
+          "url": "https://cosmatica.org/projects/342"
+        },
+        {
+          "title": "Империум: Первые. Литературный конкурс",
+          "url": "https://cosmatica.org/projects/342"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/d/0/vsenarodnoe-detsko-yunosheskoe-obschestvennoe-dvizhenie-russkogo-kosm.jpg",
+    "https://cosmatica.org/upload/000/u7/1/0/soyuz-narodnogo-cplochenija-logo-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/1/b/shkolnye-botany-2-russkii-leonardo-logo-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/f/3/pereizdanie-klyuchevyh-knig-rko-2026-logo-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/9/5/aafcbd09.jpg",
+    "https://cosmatica.org/upload/002/u218/1/3/6dc695dc.jpg",
+    "https://cosmatica.org/upload/002/u218/6/f/literaturnyi-proekt-prosto-fantastika-logo-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/4/0/mezhregionalnyi-konkurs-kosmos-vdohnovljaet-logo-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/1/f/akademija-nauchnoi-fantastiki-logo-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/c/d/sportivnyi-klub-russkogo-kosmicheskogo-obschestva-logo-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/8/8/bitva-za-buduschee-russkii-rubezh-logo-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/6/8/imperium-pervye-literaturnyi-konkurs-logo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [
+    "Все",
+    "Стратегические инициативы",
+    "Действующие",
+    "Завершённые",
+    "Перспективные",
+    "Ждут поддержки"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 948,
+    "storedTextCharacters": 77,
+    "sourceCardCount": 12,
+    "sourceImageCount": 12,
+    "paragraphCount": 0,
+    "sourceBytes": 60808
+  },
+  "textFallbackRequired": false,
+  "originalKind": "projects",
+  "sourceTextCharacters": 948,
+  "capturedBodyCharacters": 77,
+  "sourceTextSHA256": "8bbe12134a623a434e25bf2095e9ae31aa77f606da7ac5a4a05a731d8de32266",
+  "archiveSnapshotAt": "2026-10-08T09:16:21Z"
+}

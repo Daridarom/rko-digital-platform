@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/157",
+  "title": "Алла Степановна Макарова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u157/bf/9e/78c91eb9.jpg",
+      "alt": "Алла Степановна Макарова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 2"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u157/50/c1/380e7c8c.jpg",
+      "alt": "Алла Степановна Макарова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Член Научно-образовательного совета РКО, кандидат психологических наук, доцент",
+      "spans": [
+        {
+          "text": "Член Научно-образовательного совета РКО, кандидат психологических наук, доцент"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Санкт-Петербург",
+      "links": [
+        {
+          "title": "Санкт-Петербург",
+          "url": "https://cosmatica.org/departments/9-sankt-peterburg.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Член Научно-образовательного совета РКО, кандидат психологических наук, доцент",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/001/u157/bf/9e/78c91eb9.jpg",
+    "https://cosmatica.org/upload/001/u157/50/c1/380e7c8c.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 183,
+    "storedTextCharacters": 127,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35867
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 115,
+  "capturedBodyCharacters": 127,
+  "sourceTextSHA256": "5d7adf30f9ed1d95570114bc6a1e4fdb05e6424ab99eb384722301e0f7a4c16d",
+  "archiveSnapshotAt": "2026-10-08T09:18:10Z"
+}

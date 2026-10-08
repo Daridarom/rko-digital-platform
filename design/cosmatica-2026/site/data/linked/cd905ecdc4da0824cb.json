@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/70-vypusk-3-karpachyov-aleksandr-aleksandrovich.html",
+  "title": "Выпуск 3: Карпачёв Александр Александрович",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Цикл передач \"Прорыв!\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Герой выпуска - Карпачёв Александр Александрович, Член Совета безопасности Русского Космического Общества, Председатель правления Региональной общественной организации по пропаганде здорового образа жизни «Союз борьбы за народную трезвость» (РОО «СБНТ»), эксперт секции «Совет по законодательству о борьбе с наркоманией, алкоголизмом и табакокурением».",
+      "spans": [
+        {
+          "text": "Герой выпуска - Карпачёв Александр Александрович, Член Совета безопасности Русского Космического Общества, Председатель правления Региональной общественной организации по пропаганде здорового образа жизни «Союз борьбы за народную трезвость» (РОО «СБНТ»), эксперт секции «Совет по законодательству о борьбе с наркоманией, алкоголизмом и табакокурением»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Об основах формирования трезвого и активного населения, способного не только к плодотворной жизни на Земле, но и к освоению космического пространства.",
+      "spans": [
+        {
+          "text": "Об основах формирования трезвого и активного населения, способного не только к плодотворной жизни на Земле, но и к освоению космического пространства."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа ВКонтакте",
+      "spans": [
+        {
+          "text": "Группа ВКонтакте",
+          "href": "https://vk.com/cosmatica"
+        }
+      ],
+      "links": [
+        {
+          "text": "Группа ВКонтакте",
+          "url": "https://vk.com/cosmatica"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Канал YouTube",
+      "spans": [
+        {
+          "text": "Канал YouTube",
+          "href": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ],
+      "links": [
+        {
+          "text": "Канал YouTube",
+          "url": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "AqWXsZCfdB0",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=AqWXsZCfdB0"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Герой выпуска - Карпачёв Александр Александрович, Член Совета безопасности Русского Космического Общества, Председатель правления Региональной общественной организации по пропаганде здорового образа жизни «Союз борьбы за народную трезвость» (РОО «СБНТ»), эксперт секции «Совет по законодательству о борьбе с наркоманией, алкоголизмом и табакокурением». Об основах формирования трезвого и активного населения, способного не только к плодотворной жизни на Земле, но и к освоению космического пространства. Группа ВКонтакте Канал YouTube",
+      "links": [
+        {
+          "title": "Группа ВКонтакте",
+          "url": "https://vk.com/cosmatica"
+        },
+        {
+          "title": "Канал YouTube",
+          "url": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 622,
+    "storedTextCharacters": 554,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 75093
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 555,
+  "capturedBodyCharacters": 554,
+  "sourceTextSHA256": "4a5252b55d1cd5052b73703980913842b5cc762854007400cda0db3645ff67d9",
+  "archiveSnapshotAt": "2026-10-08T08:43:05Z",
+  "publicVideoCount": 1
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/221-zapiski-kosmicheskogo-kontrrazvedchika.html",
+  "title": "Записки космического контрразведчика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/f/7/zapiski-kosmicheskogo-kontrrazvedchika-photo-normal.jpg",
+      "alt": "Записки космического контрразведчика"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книгу он посвятил космонавтам и специалистам, работающим рядом с ними, а также проблемам, которые вставали перед этими людьми и которые ему приходилось решать",
+      "spans": [
+        {
+          "text": "Книгу он посвятил космонавтам и специалистам, работающим рядом с ними, а также проблемам, которые вставали перед этими людьми и которые ему приходилось решать"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Рыбкин Н.Н.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книгу он посвятил космонавтам и специалистам, работающим рядом с ними, а также проблемам, которые вставали перед этими людьми и которые ему приходилось решать",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 3 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1559/56cc5910e2b1fd1d473e75aae04187aa"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/f/7/zapiski-kosmicheskogo-kontrrazvedchika-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1559/56cc5910e2b1fd1d473e75aae04187aa"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 233,
+    "storedTextCharacters": 158,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39951
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 196,
+  "capturedBodyCharacters": 158,
+  "sourceTextSHA256": "b4e0c27d87afec6f990513f0e69c04f0d78afaa001225be46d865c8b1980dd73",
+  "archiveSnapshotAt": "2026-10-08T08:48:06Z"
+}

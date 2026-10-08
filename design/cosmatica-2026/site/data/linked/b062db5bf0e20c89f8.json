@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/224",
+  "title": "Ирина Геннадьевна Лукшене",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/5/132c84b6.jpg",
+      "alt": "Ирина Геннадьевна Лукшене"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/2/3/ac681dac.jpg",
+      "alt": "Ирина Геннадьевна Лукшене"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Секретарь Калининградского отделения Русского Космического Общества",
+      "spans": [
+        {
+          "text": "Секретарь Калининградского отделения Русского Космического Общества"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Заведующая библиотекой им.С.Снегова (МАУК «Калининградская ЦБС)",
+      "spans": [
+        {
+          "text": "Заведующая библиотекой им.С.Снегова (МАУК «Калининградская ЦБС)"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Калининградская область",
+      "links": [
+        {
+          "title": "Калининградская область",
+          "url": "https://cosmatica.org/departments/20-kaliningradskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Секретарь Калининградского отделения Русского Космического Общества Заведующая библиотекой им.С.Снегова (МАУК «Калининградская ЦБС)",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/b/5/132c84b6.jpg",
+    "https://cosmatica.org/upload/000/u35/2/3/ac681dac.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 227,
+    "storedTextCharacters": 163,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35148
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 176,
+  "capturedBodyCharacters": 163,
+  "sourceTextSHA256": "dfad2d2f71c5974f533606592ddae783087181a3f64b86571b9239a815f183db",
+  "archiveSnapshotAt": "2026-10-08T09:18:40Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 113,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Изучение космоса, как расширение границ познания",
+      "description": "Александр Иванович Лазуткин - лётчик-космонавт, Герой России, член Совета \"Первых\" Русского Космического Общества. Он совсем недавно встал в наш общий строй, получив членский билет за номером 300.",
+      "url": "https://cosmatica.org/news/790-izuchenie-kosmosa-kak-rasshirenie-granic-poznanija.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/9/izuchenie-kosmosa-kak-rasshirenie-granic-poznanija-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d513e557a4b57e918e",
+      "type": "news-item",
+      "sourceCharacters": 2033,
+      "verified": false
+    },
+    {
+      "title": "Космос слов и образов. Литературный конкурс «Империум человека»",
+      "description": "Создание образа будущего для человечества, его выживания и победы навсегда. Переход из современности в новый мир. Либо даже далекое будущее развития общества, которое происходит согласно законам интеллектуализации бытия и ноосферы. Конфликты и проблемы, муки и радости, прорывы и возможные тупики – дайте волю фантазии.",
+      "url": "https://cosmatica.org/articles/789-kosmos-slov-i-obrazov-literaturnyi-konkurs-imperium-cheloveka.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/a/2-4-13-2.png",
+      "kind": "article",
+      "href": "view.html?p=article&ref=9d2ceb8d3763da087e",
+      "type": "article",
+      "sourceCharacters": 3120,
+      "verified": false
+    },
+    {
+      "title": "Дневник разработки проекта \"Наша Вселенная\" за май 2020",
+      "description": "Друзья, мир постепенно приходит в себя после пандемии, и понятно, что он никогда не будет прежним, у каждого в жизни произошли перемены. Но жизнь продолжается, и мы продолжаем проект , продолжаем воплощать в реальности наши космические мечты.",
+      "url": "https://cosmatica.org/news/789-dnevnik-razrabotki-proekta-nasha-vselennaja-za-mai-2020.html",
+      "image": "https://cosmatica.org/upload/000/u64/1/d/dnevnik-razrabotki-proekta-nasha-vselennaja-za-mai-2020-photo-no.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c7c27146ea56981f9c",
+      "type": "news-item",
+      "sourceCharacters": 1064,
+      "verified": false
+    },
+    {
+      "title": "Космос слов и образов. Кинокартина «Прорыв», новости проекта",
+      "description": "После презентации проекта картины в Мемориальном Музее Космонавтики 5 июня, нашим горячим сторонником стала продюсер фильма «Мы из будущего», Людмила Сергеевна Кукоба.",
+      "url": "https://cosmatica.org/articles/788-kosmos-slov-i-obrazov-kinokartina-proryv-novosti-proekta.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=85d1ccc254bc439738",
+      "type": "article",
+      "sourceCharacters": 1059,
+      "verified": false
+    },
+    {
+      "title": "Империум Человека - в развитии!",
+      "description": "9 марта 2020, в годовщину рождения Юрия Алексеевича Гагарина, были подведены итоги первого литературного конкурса РКО \"Империум Человека - Эра Косматики\".",
+      "url": "https://cosmatica.org/news/788-imperium-cheloveka-v-razvitii.html",
+      "image": "https://cosmatica.org/upload/000/u35/c/c/imperium-cheloveka-v-razvitii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=032b6dcac1fe5d5091",
+      "type": "news-item",
+      "sourceCharacters": 1527,
+      "verified": false
+    },
+    {
+      "title": "Космос слов и образов. Звездные перья Каширы пишут о Космосе",
+      "description": "Именно так – «Звездное перо», - называется литературный конкурс в Кашире",
+      "url": "https://cosmatica.org/articles/787-kosmos-slov-i-obrazov-zvezdnye-perja-kashiry-pishut-o-kosmose.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/8/12-2.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=c91fd35ae634115433",
+      "type": "article",
+      "sourceCharacters": 4110,
+      "verified": false
+    },
+    {
+      "title": "Создавать ли нам технопарк?",
+      "description": "На круглом столе обсуждалась возможность создания Молодёжного креативного технопарка на территории АО «МЗЭМА» совместно с проектом «Е-Технопарк» и обмен опытом с уже действующими технопарками России и стран СНГ.",
+      "url": "https://cosmatica.org/news/787-11-iyunja-2020-goda-sostojalsja-kruglyi-stol-molodezh-i-biznes-opyt-sozdanija-tehnoparkov-na-pro.html",
+      "image": "https://cosmatica.org/upload/002/u252/9/8/11-iyunja-2020-goda-sostojalsja-kruglyi-stol-molodezh-i-biznes-op.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0fced0818e5499920f",
+      "type": "news-item",
+      "sourceCharacters": 7006,
+      "verified": false
+    },
+    {
+      "title": "Креаторий, или Учебка для русского мафусаила",
+      "description": "Известно, что эпоха Великих географических открытий началась с момента разработки и освоения двух прорывных технологий. Одну из них породил прогресс в судостроительной отрасли, а другая появилась в сфере консервирования продуктов питания. Можно сказать, что парус каравеллы и бочка солонины стали той силой, с помощью которой человек смог объять необъятные морские просторы. Так что капитана Хряка и матушку Хавронью мож",
+      "url": "https://cosmatica.org/articles/786-kreatorii-ili-uchebka-dlja-russkogo-mafusaila.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/1/maf.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=22f4a8f8b43cf8f785",
+      "type": "article",
+      "sourceCharacters": 50604,
+      "verified": false
+    },
+    {
+      "title": "Час РКО на канале Юность Авроры",
+      "description": "Родилось это сотрудничество благодаря члену РКО, директору НИИ Анропогенеза, Чагину Олегу Александровичу . Именно в тесном сотрудничестве с НИИ Антропогенеза ИА \"Аврора\" принимает решение создать отдельный канал \"Юность Авроры\" , который будет посвящён воспитанию и образовательным технологиям, который будет ориентирован на подрастающее поколение и их родителей и наполнит эфир правильными смыслами.",
+      "url": "https://cosmatica.org/news/786-chas-rko-na-kanale-yunost-avrory.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/4/chas-rko-na-kanale-yunost-avrory-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ebf8ce4bc24c52f5a0",
+      "type": "news-item",
+      "sourceCharacters": 2348,
+      "verified": false
+    },
+    {
+      "title": "Новые результаты. Новые планы. Новые горизонты. Новое время!",
+      "description": "В новом выпуске представлены результаты деятельности Русского Космического Общества за март, апрель и май 2020 года.",
+      "url": "https://cosmatica.org/news/785-novye-rezultaty-novye-plany-novye-gorizonty.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/f/5393f638.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f322e5ee9ef957620c",
+      "type": "news-item",
+      "sourceCharacters": 1531,
+      "verified": false
+    },
+    {
+      "title": "Молодёжь и бизнес: Опыт создания технопарков на промышленных предприятиях России",
+      "description": "Организаторы: РОО «Челябинцы», АО «Московский завод электромеханической аппаратуры», МОО «Русское Космическое Общество», Конфедерация промышленников и предпринимателей г. Москвы, при участии Клуба « Развитие » и МДОО «Молодёжь и развитие»",
+      "url": "https://cosmatica.org/news/784-molodyozh-i-biznes-opyt-sozdanija-tehnoparkov-na-promyshlennyh-predprijatijah-rossii.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/5/molodyozh-i-biznes-opyt-sozdanija-tehnoparkov-na-promyshlennyh-pre.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=702e1ef7c809a52f25",
+      "type": "news-item",
+      "sourceCharacters": 5983,
+      "verified": false
+    },
+    {
+      "title": "Мнения и идеи. Члены Русского Космического Общества о важном",
+      "description": "Мы сегодня поговорим о человеке с 37 летним стажем педагогической деятельности. Мамбеталиева Гульмира Сулайновна ....",
+      "url": "https://cosmatica.org/articles/783-mnenija-i-idei-chleny-russkogo-kosmicheskogo-obschestva-o-vazhnom.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/9/17-1.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=e36db99af0aba4976f",
+      "type": "article",
+      "sourceCharacters": 4180,
+      "verified": false
+    },
+    {
+      "title": "Первый Школьный космический музей от РКО появился в Лопатинской школе",
+      "description": "Примечательно, что монтаж удалось осуществить задолго до начала учебного года. Оставшееся до сентября время будет потрачено на доработку методических материалов, благодаря которым учителя смогу сами проводить дополнительные занятия, экскурсии и мастер-классы с детьми, не прибегая к помощи создателей проекта.",
+      "url": "https://cosmatica.org/news/783-pervyi-shkolnyi-kosmicheskii-muzei-smontirovan-v-lopatinskoi-shkole.html",
+      "image": "https://cosmatica.org/upload/001/u120/b/d/pervyi-shkolnyi-kosmicheskii-muzei-smontirovan-v-lopatinskoi-shkol.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3b532152bea5948bff",
+      "type": "news-item",
+      "sourceCharacters": 1813,
+      "verified": false
+    },
+    {
+      "title": "Мнения и идеи. Члены Русского Космического Общества о важном",
+      "description": "Недавно меня спросили - зачем? Это когда я рассказала, что пополнила ряды Русского Космического Общества. И что буду теперь создавать информационно-аналитический центр для него.",
+      "url": "https://cosmatica.org/articles/782-mnenija-i-idei-chleny-russkogo-kosmicheskogo-obschestva-o-vazhnom.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/4/16-2.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=a163862a3b12fdbd5b",
+      "type": "article",
+      "sourceCharacters": 2886,
+      "verified": false
+    },
+    {
+      "title": "Пилотный курс института \"Системономии и целостного мышления\"",
+      "description": "Курс разработан на платформе NBICS.NET и будет реализован на площадке РКО rko.nbics.net",
+      "url": "https://cosmatica.org/news/782-pilotnyi-kurs-instituta-sistemonomii-i-celostnogo-myshlenija.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/b/pilotnyi-kurs-instituta-sistemonomii-i-celostnogo-myshlenija-pho.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1166bbea411100a339",
+      "type": "news-item",
+      "sourceCharacters": 2071,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

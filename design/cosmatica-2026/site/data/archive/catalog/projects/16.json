@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "projects",
+  "title": "Проекты",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 16,
+  "pageCount": 20,
+  "total": 290,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Сетевое научное издание \"Устойчивое развитие: наука и практика\"",
+      "description": "Развитие науки, проведение исследований на современном уровне немыслимо без оперативного обмена информацией. Сетевые журналы – это именно та динамично развивающаяся технология, которая дает возможность неограниченному кругу читателей оперативно знакомиться с новейшими научными разработками, свободно вести дискуссию по опубликованной информации с авторами статей и другими заинтересованными лицами. Причем, что очень ва",
+      "url": "https://cosmatica.org/projects/yrazvitie",
+      "image": "https://cosmatica.org/upload/000/u26/e0/7e/setevoe-nauchnoe-izdanie-ustoichivoe-razvitie-nauka-i-praktika.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=6e756e10bf78275214",
+      "type": "project",
+      "sourceCharacters": 5478,
+      "verified": false
+    },
+    {
+      "title": "Сетевое научное издание \"Устойчивое инновационное развитие: проектирование и управление\"",
+      "description": "Сетевое научное издание «Устойчивое развитие: проектирование и управление» – адресовано ученым, преподавателям, аспирантам и студентам, работникам федеральных и региональных органов государственного управления, а также всем, кого интересуют вопросы практического применения идей и механизмов устойчивого развития, движения к качественно новому состоянию общества, вопросы развития и интеграции естественных, технических ",
+      "url": "https://cosmatica.org/projects/rypravlenie",
+      "image": "https://cosmatica.org/upload/000/u26/a8/6d/setevoe-nauchnoe-izdanie-ustoichivoe-innovacionnoe-razvitie-proe.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=898284cb3b49641480",
+      "type": "project",
+      "sourceCharacters": 5797,
+      "verified": false
+    },
+    {
+      "title": "Встреча-конференция «\"Энергия-Буран\" 30 лет спустя»",
+      "description": "Исторический старт МТКС «Энергия-Буран» состоялся 15 ноября 1988 года.",
+      "url": "https://cosmatica.org/projects/energiya-buran",
+      "image": "https://cosmatica.org/upload/000/u26/71/70/c830f2fa.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=a494aab5010ee0d8ef",
+      "type": "project",
+      "sourceCharacters": 2264,
+      "verified": false
+    },
+    {
+      "title": "Сквозная технология Концептуального проектирования систем организационного управления",
+      "description": "Руководитель проекта: Кучкаров Захирджан Анварович",
+      "url": "https://cosmatica.org/projects/kp-sou",
+      "image": "https://cosmatica.org/upload/000/u26/31/5a/skvoznaja-tehnologija-konceptualnogo-proektirovanija-sistem-organi.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=9e03cb7982d292b1dc",
+      "type": "project",
+      "sourceCharacters": 4892,
+      "verified": false
+    },
+    {
+      "title": "\"Космос вчера, сегодня, завтра...\"",
+      "description": "Псковское отделение Русского Космического Общества (ПО РКО) объявляет о старте областного конкурса эссе «Космос вчера, сегодня, завтра…» , проводимого для обучающихся образовательных организаций Псковской области.",
+      "url": "https://cosmatica.org/projects/kosmos-vchera-segodnya-zavtra",
+      "image": "https://cosmatica.org/upload/001/u133/d2/0e/kosmos-vchera-segodnja-zavtra-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e88b0ce1b31c7f4d33",
+      "type": "project",
+      "sourceCharacters": 1671,
+      "verified": false
+    },
+    {
+      "title": "Цикл интервью \"Время космоса\"",
+      "description": "В основном люди знакомы с ключевыми фигурами истории отечественной космонавтики, которые вывели человечество в космос и совершили передовые прорывные действия во внеземном пространстве. К.Э. Циолковский, С.П. Королёв, В.П. Глушко, Ю.А. Гагарин, А.А. Леонов, В.В. Терешкова… Их имена навсегда вписаны в историю нашей цивилизации. На них равняются, их примером восхищаются.",
+      "url": "https://cosmatica.org/projects/vremya-cosmosa",
+      "image": "https://cosmatica.org/upload/000/u8/c0/02/cikl-intervyu-vremja-kosmosa-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=9e82d0ec947008779d",
+      "type": "project",
+      "sourceCharacters": 1008,
+      "verified": false
+    },
+    {
+      "title": "Экспериментальный концертный театр-лаборатория \"Кантилена\"",
+      "description": "«Правильной музыкой можно управлять государством»",
+      "url": "https://cosmatica.org/projects/kantilena",
+      "image": "https://cosmatica.org/upload/000/u8/65/f3/kantilena-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=5df3adbf05768813e6",
+      "type": "project",
+      "sourceCharacters": 4613,
+      "verified": false
+    },
+    {
+      "title": "Общественно-государственный комитет празднования 85-летия Ю.А. Гагарина",
+      "description": "Значение жизни и деятельности Юрия Алексеевича Гагарина в истории нашей страны и всего мира настолько велико, что оценить его полностью, наверное, смогут только наши далекие потомки. Он является олицетворением начала новой Космической эры человечества. Именно с его именем ассоциируется всемирная искренняя радость, охватившая всю планету в 1961 году.",
+      "url": "https://cosmatica.org/projects/gagarinu85",
+      "image": "https://cosmatica.org/upload/000/u35/a/7/obschestvenno-gosudarstvennyi-komitet-prazdnovanija-85-letija-yu-a-g.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=d32c5b03ba1895a0f2",
+      "type": "project",
+      "sourceCharacters": 2478,
+      "verified": false
+    },
+    {
+      "title": "Создание полнометражного художественного фильма \"Прорыв\"",
+      "description": "Наверное, каждый ребенок в детстве мечтал стать Космонавтом. Мы знали, чтобы стать Космонавтом, нужно пройти строгий отбор, годы тренировок и обучение множеству сложных навыков. Нужны самоотверженность и бесстрашие, готовность к труду и высоким результатам, слаженной работе в команде и индивидуальному подвигу.",
+      "url": "https://cosmatica.org/projects/film-proriv",
+      "image": "https://cosmatica.org/upload/000/u8/a9/8a/sozdanie-hudozhestvennogo-filma-proryv-logo-normal.png",
+      "kind": "project",
+      "href": "view.html?p=project&ref=6528d08054649768d4",
+      "type": "project",
+      "sourceCharacters": 2029,
+      "verified": false
+    },
+    {
+      "title": "«Вещий лес»",
+      "description": "Настоящий проект предназначен для воспитанников всех возрастных групп детского сада, а также родителей, библиотекарей, учителей и педагогов образовательных учреждений. Проект составлен на базе теоретических и методических положений и практических разработок.",
+      "url": "https://cosmatica.org/projects/vetschii-les",
+      "image": "https://cosmatica.org/upload/000/u8/1f/d3/veschii-les-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=7b3d229553f2294d97",
+      "type": "project",
+      "sourceCharacters": 4001,
+      "verified": false
+    },
+    {
+      "title": "Издание сборника трудов П.Г. Кузнецова: \"Наука развития жизни\"",
+      "description": "Издание уникального трёхтомника генерального конструктора будущего и инженера истории П.Г. Кузнецова.",
+      "url": "https://cosmatica.org/projects/izdanie-pobisk",
+      "image": "https://cosmatica.org/upload/000/u26/b8/5f/sbornik-trudov-p-g-kuznecova-nauka-razvitija-zhizni-logo-norm.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=7617c6fd81a5829573",
+      "type": "project",
+      "sourceCharacters": 3710,
+      "verified": false
+    },
+    {
+      "title": "Трезвость - основа устойчивого развития Жизни",
+      "description": "Проект Русского Космического Общества «Трезвость — основа устойчивого развития Жизни» реализуется в рамках деятельности Совета физической культуры и спорта и направлен на содействие продвижению в обществе культуры трезвой, здоровой жизни, где спорт и физическое развитие тела являются такой же неотъемлемой частью, как и интеллектуальное и духовное развитие личности.",
+      "url": "https://cosmatica.org/projects/trezvost-osnova",
+      "image": "https://cosmatica.org/upload/000/u26/7d/da/trezvost-osnova-ustoichivogo-razvitija-zhizni-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=fee8b867a0a2bcda1c",
+      "type": "project",
+      "sourceCharacters": 1870,
+      "verified": false
+    },
+    {
+      "title": "Тропа Мужества",
+      "description": "Русское Космическое Общество стоит за то, чтобы возродить мечту о Космосе и Человеке с большой буквы.",
+      "url": "https://cosmatica.org/projects/tropa-muzhestva",
+      "image": "https://cosmatica.org/upload/000/u26/c1/b6/tropa-muzhestva-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b52057356ede74a57e",
+      "type": "project",
+      "sourceCharacters": 6443,
+      "verified": false
+    },
+    {
+      "title": "Прорыв к здоровой Жизни",
+      "description": "Проект Русского Космического Общества «Прорыв к здоровой Жизни» реализуется в рамках деятельности Совета физической культуры и спорта и направлен на содействие продвижению в обществе культуры трезвой, здоровой жизни, где спорт и физическое развитие тела являются такой же неотъемлемой частью, как и интеллектуальное и духовное развитие личности.",
+      "url": "https://cosmatica.org/projects/zdorovie",
+      "image": "https://cosmatica.org/upload/000/u26/34/ab/2eb9888d.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=45c003fda675bb90a4",
+      "type": "project",
+      "sourceCharacters": 1182,
+      "verified": false
+    },
+    {
+      "title": "VIII Международная научная конференция «Ноосферное образование в евразийском пространстве»",
+      "description": "6 — 7 декабря 2018 года состоится VIII Международная научная конференция «Ноосферное образование в евразийском пространстве»",
+      "url": "https://cosmatica.org/projects/noosfernoe-obrazovanie-v-evrazii",
+      "image": "https://cosmatica.org/upload/000/u21/8c/7c/viii-mezhdunarodnaja-nauchnaja-konferencija-noosfernoe-obrazovanie-v.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=2d6be14b100d1bc1df",
+      "type": "project",
+      "sourceCharacters": 4065,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/36-tenzornyi-analiz.html",
+  "title": "Тензорный анализ",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "метод",
+      "spans": [
+        {
+          "text": "метод"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "проектирования новой системы, дающий правила преобразования (перехода) из существующей системы коор­динат в требуемые проектом с инвариантом величины «",
+      "spans": [
+        {
+          "text": "проектирования новой системы, дающий правила преобразования (перехода) из существующей системы коор­динат в требуемые проектом с инвариантом величины «"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мощность",
+      "spans": [
+        {
+          "text": "мощность"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "».",
+      "spans": [
+        {
+          "text": "»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "метод проектирования новой системы, дающий правила преобразования (перехода) из существующей системы коор­динат в требуемые проектом с инвариантом величины « мощность ».",
+      "links": [
+        {
+          "title": "метод",
+          "url": "https://cosmatica.org/glossary/108-metod.html"
+        },
+        {
+          "title": "мощность",
+          "url": "https://cosmatica.org/glossary/104-moschnost.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 186,
+    "storedTextCharacters": 166,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32272
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 169,
+  "capturedBodyCharacters": 166,
+  "sourceTextSHA256": "791aa576454da71cd5c29f0117fee22a4f87f0e72c220021a3c6c5621d093252",
+  "archiveSnapshotAt": "2026-10-08T08:46:48Z"
+}

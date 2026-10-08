@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 289,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "III международная конференция «Природоподобные / природосообразные технологии и наше будущее»",
+      "description": "В соответствии со вступившим в действие Указом Президента РФ об утверждении «Стратегии научно-технологического развития Российской Федерации» № 145 от 28 февраля 2024 г. мы разрабатываем программу этой конференции.",
+      "url": "https://cosmatica.org/projects/322",
+      "image": "https://cosmatica.org/upload/000/u7/0/b/eb52eac4.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=36133a7dcd999256ab",
+      "type": "project",
+      "sourceCharacters": 3908,
+      "verified": false
+    },
+    {
+      "title": "Переиздание Ключевых книг РКО",
+      "description": "Приглашаем проявить Целеустремлённость и Волю и внести часть своей жизненной энергии в очередное издание книг Русского Космического Общества.",
+      "url": "https://cosmatica.org/projects/323",
+      "image": "https://cosmatica.org/upload/002/u218/6/c/pereizdanie-knig-zotova-s-a-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=90b9b87dd573e3c887",
+      "type": "project",
+      "sourceCharacters": 3112,
+      "verified": false
+    },
+    {
+      "title": "Дядя Яша поможет",
+      "description": "В основе сильной и процветающей России лежит крепкая семья, способная воспитать здоровое и ответственное поколение.",
+      "url": "https://cosmatica.org/projects/324",
+      "image": "https://cosmatica.org/upload/002/u218/7/1/djadja-jasha-pomozhet-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=45192e3019be1298df",
+      "type": "project",
+      "sourceCharacters": 3667,
+      "verified": false
+    },
+    {
+      "title": "Звёздный журнал",
+      "description": "Школьно-подростковый «Звёздный журнал» — это площадка в социальных сетях (ВК, ТГ-канал), где публикуются познавательные и информационные материалы, проводятся различные активности.",
+      "url": "https://cosmatica.org/projects/326",
+      "image": "https://cosmatica.org/upload/017/u1749/9/8/zvyozdnyi-zhurnal-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=a50e87d6a157d6a1d3",
+      "type": "project",
+      "sourceCharacters": 6377,
+      "verified": false
+    },
+    {
+      "title": "Зачем Человеку Космос – Зачем Космосу Человек",
+      "description": "Региональный научно-исследовательский конкурс и итоговая конференция",
+      "url": "https://cosmatica.org/projects/327",
+      "image": "https://cosmatica.org/upload/002/u218/6/5/zachem-cheloveku-kosmos-zachem-kosmosu-chelovek-logo-normal.jpeg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=901739bfe522aaf7fd",
+      "type": "project",
+      "sourceCharacters": 4822,
+      "verified": false
+    },
+    {
+      "title": "Первенство по прохождению игры-симулятора космической отрасли «Космос – пространство будущего»",
+      "description": "Первенство по прохождению познавательно-образовательной компьютерной игры-симулятора космической отрасли",
+      "url": "https://cosmatica.org/projects/328",
+      "image": "https://cosmatica.org/upload/002/u218/9/3/5308f1e7.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=259f4748821bfdf4c1",
+      "type": "project",
+      "sourceCharacters": 6580,
+      "verified": false
+    },
+    {
+      "title": "Школа вожатского мастерства",
+      "description": "Вожатый — это тот, кто становится для детей другом, наставником и проводником в мир открытий. Он создаёт атмосферу доверия и дружбы, где каждый ребенок чувствует себя важным и ценным.",
+      "url": "https://cosmatica.org/projects/329",
+      "image": "https://cosmatica.org/upload/092/u9295/5/3/shkola-vozhatskogo-masterstva-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=3c6ebb427d3449986e",
+      "type": "project",
+      "sourceCharacters": 1818,
+      "verified": false
+    },
+    {
+      "title": "ИСКРА",
+      "description": "Научно-исследовательская смена «Искра» в формате палаточных сборов на природной территории.",
+      "url": "https://cosmatica.org/projects/331",
+      "image": "https://cosmatica.org/upload/017/u1749/8/2/iskra-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=dc9b29584ce521c653",
+      "type": "project",
+      "sourceCharacters": 5134,
+      "verified": false
+    },
+    {
+      "title": "Космоноосфера",
+      "description": "Миссия: Космоноосферное развитие Жизни путём формирования КосмоНооосфер NBICS.NET во всех пространственно — временных масштабах Вселенной.",
+      "url": "https://cosmatica.org/projects/332",
+      "image": "https://cosmatica.org/upload/002/u218/2/6/kosmonoosfera-nbics-net-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=bb9a903a11784e12c8",
+      "type": "project",
+      "sourceCharacters": 1982,
+      "verified": false
+    },
+    {
+      "title": "\"Живая Буквица\" онлайн-конкурс",
+      "description": "Просвещение в области культурных взаимосвязей славянских народов",
+      "url": "https://cosmatica.org/projects/333",
+      "image": "https://cosmatica.org/upload/017/u1749/8/4/zhivaja-bukvica-onlain-konkurs-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=f3c8ea452cf9ff20ed",
+      "type": "project",
+      "sourceCharacters": 3106,
+      "verified": false
+    },
+    {
+      "title": "Конкурс \"Тайна маленького принца\"",
+      "description": "Посвящается 125-летию Антуана де Сент-Экзюпери",
+      "url": "https://cosmatica.org/projects/334",
+      "image": "https://cosmatica.org/upload/002/u218/f/8/konkurs-taina-malenkogo-princa-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=f8f36ea581066d3ffa",
+      "type": "project",
+      "sourceCharacters": 4849,
+      "verified": false
+    },
+    {
+      "title": "Русские спарринги",
+      "description": "Социальный проект по оздоровлению нации «Русские спарринги» направлен на развитие массового спорта, формирование трезвого образа жизни и традиционных семейных ценностей, военно‑патриотическое воспитание и поддержку ветеранов СВО на базе регулярных тренировок, культурно‑просветительских мероприятий и оздоровительных программ.",
+      "url": "https://cosmatica.org/projects/335",
+      "image": "https://cosmatica.org/upload/003/u318/4/f/russkie-sparringi-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=8ea5ea99f3c2434f1b",
+      "type": "project",
+      "sourceCharacters": 3959,
+      "verified": false
+    },
+    {
+      "title": "Посёлок \"Ноосферово\"",
+      "description": "Мы начинаем строительство уникального поселения «Ноосферово» — пространства, где человек, природа и технологии гармонично дополняют друг-друга.",
+      "url": "https://cosmatica.org/projects/337",
+      "image": "https://cosmatica.org/upload/003/u318/5/6/posyolok-noosferovo-logo-normal.png",
+      "kind": "project",
+      "href": "view.html?p=project&ref=79d089a4827eb1d6d0",
+      "type": "project",
+      "sourceCharacters": 7442,
+      "verified": false
+    },
+    {
+      "title": "Киноурок \"Город-сад\"",
+      "description": "Семидесятый фильм-киноурок, посвящённый качеству «Энтузиазм». Съёмки фильма прошли в Брянской области.",
+      "url": "https://cosmatica.org/projects/339",
+      "image": "https://cosmatica.org/upload/000/u7/f/7/kinourok-gorod-sad-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=864bf78558d87b6021",
+      "type": "project",
+      "sourceCharacters": 20906,
+      "verified": false
+    },
+    {
+      "title": "Империум: Первые. Литературный конкурс",
+      "description": "Приглашаем русскоязычных авторов к созданию произведений в рамках конкурса на тему: «Империум: Первые».",
+      "url": "https://cosmatica.org/projects/342",
+      "image": "assets/source/6ce6c3cdb885c5ca5515cbdd.webp",
+      "kind": "project",
+      "href": "view.html?p=project&ref=fefca142426bccbaa7",
+      "type": "project",
+      "sourceCharacters": 0,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

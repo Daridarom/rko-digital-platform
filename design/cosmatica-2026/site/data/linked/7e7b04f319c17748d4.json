@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/456-dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai.html",
+  "title": "Дневник разработки компьютерной игры \"Наша вселенная\" за май",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#«Наша Вселенная»",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/6/f/dnevnik-razrabotki-za-mai-photo-normal.jpg",
+      "alt": "Дневник разработки компьютерной игры \"Наша вселенная\" за май"
+    },
+    {
+      "type": "paragraph",
+      "text": "Главные события последних недель – обновление в Unity до версий 2019 и всё, что за этим произошло. Проект тряхнуло так, что потряхивает до сих пор.",
+      "spans": [
+        {
+          "text": "Главные события последних недель – обновление в Unity до версий 2019 и всё, что за этим произошло.  "
+        },
+        {
+          "text": "Проект",
+          "href": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": " тряхнуло так, что потряхивает до сих пор."
+        }
+      ],
+      "links": [
+        {
+          "text": "Проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "И, конечно же, участие в Фестивале «108 минут», к чему мы долго и упорно готовились, а как итог – ряд важных договорённостей с Музеем космонавтики в Калуге. Поразило чуткое отношение к нам со стороны сотрудников Музея. И, конечно же, благодарим Сергея Чекмаева за возможность установить такой контакт и принять участие в Фестивале.",
+      "spans": [
+        {
+          "text": "И, конечно же, участие в Фестивале «108 минут», к чему мы долго и упорно готовились, а как итог – ряд важных договорённостей с Музеем космонавтики в Калуге. Поразило чуткое отношение к нам со стороны сотрудников Музея. И, конечно же, благодарим Сергея Чекмаева за возможность установить такой контакт и принять участие в Фестивале. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Из множества того, что пришлось чинить и латать после обновления Unity, ярко светит позитивом исправление багов редактора террейна. Если кто в курсе, что после обновления Unity 2018.3 всё стало ужас-ужас, порадуйтесь, теперь всё в порядке.",
+      "spans": [
+        {
+          "text": "Из множества того, что пришлось чинить и латать после обновления Unity, ярко светит позитивом исправление багов редактора террейна. Если кто в курсе, что после обновления Unity 2018.3 всё стало ужас-ужас, порадуйтесь, теперь всё в порядке. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "После тестов на Фестивале в Калуге мы определили несколько задач, которые требуют решения в ближайшее время . Что характерно, их примерно в 5 раз меньше, чем по итогам последнего масштабного тестирования. А значит, мы непреклонно приближаемся в выпуску пре-альфы, которая будет доступна тем, кто уже поддержал нас на площадке Boomstarter.",
+      "spans": [
+        {
+          "text": "После тестов на Фестивале в Калуге мы определили несколько задач, которые требуют решения в ближайшее  "
+        },
+        {
+          "text": "время",
+          "href": "https://cosmatica.org/glossary/157-vremja.html"
+        },
+        {
+          "text": ". Что характерно, их примерно в 5 раз меньше, чем по итогам последнего масштабного тестирования. А значит, мы непреклонно приближаемся в выпуску пре-альфы, которая будет доступна тем, кто уже поддержал нас на площадке Boomstarter. "
+        }
+      ],
+      "links": [
+        {
+          "text": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "И, соответственно, запуск новой кампании. Он постоянно сдвигается, по разным обстоятельствам. Обстоятельства случаются у людей, поэтому от души желаем, чтобы у всех всё наладилось!",
+      "spans": [
+        {
+          "text": "И, соответственно, запуск новой кампании. Он постоянно сдвигается, по разным обстоятельствам. Обстоятельства случаются у людей, поэтому от души желаем, чтобы у всех всё наладилось! "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "А ещё, мы наконец завершили рассылку призов и дипломов по итогам конкурса «Шаг из колыбели».",
+      "spans": [
+        {
+          "text": "А ещё, мы наконец завершили рассылку призов и дипломов по итогам конкурса «Шаг из колыбели». "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Комментарии к слайдам:",
+      "spans": [
+        {
+          "text": "Комментарии к слайдам: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Восстановление функционала проекта после обновления y Unity: Валерий Дементьев, Константин Хорн.",
+      "spans": [
+        {
+          "text": "Восстановление функционала проекта после обновления y Unity: Валерий Дементьев, Константин Хорн. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Обновление элементов интерфейса, выбора космонавтов и т.д.: Валерий Дементьев, Алексей Борисов.",
+      "spans": [
+        {
+          "text": "Обновление элементов интерфейса, выбора космонавтов и т.д.: Валерий Дементьев, Алексей Борисов. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Продолжение работы над образами персонажей: Анастасия Кирк-Гагаринская, Алексей Борисов.",
+      "spans": [
+        {
+          "text": "Продолжение работы над образами персонажей: Анастасия Кирк-Гагаринская, Алексей Борисов. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Погодные эффекты: Александр Шурухин, Валерий Дементьев.",
+      "spans": [
+        {
+          "text": "Погодные эффекты: Александр Шурухин, Валерий Дементьев. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Обновление настольной версии: Андрей Казьмиркевич, Алексей Борисов.",
+      "spans": [
+        {
+          "text": "Обновление настольной версии: Андрей Казьмиркевич, Алексей Борисов. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ГИРД \"Планета Людей\" (Группа Инициативных Разработчиков-Добровольцев).",
+      "spans": [
+        {
+          "text": "ГИРД \"Планета Людей\" (Группа Инициативных Разработчиков-Добровольцев)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Проект на сайте: https://cosmatica.org/projects/20",
+      "spans": [
+        {
+          "text": "Проект на сайте: "
+        },
+        {
+          "text": "https://cosmatica.org/projects/20",
+          "href": "https://cosmatica.org/projects/20"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/projects/20",
+          "url": "https://cosmatica.org/projects/20"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сайт Проекта: http://realuniverse.ru/",
+      "spans": [
+        {
+          "text": "Сайт Проекта: http://realuniverse.ru/"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/3/1/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal.jpg",
+      "alt": "Дневник разработки компьютерной игры \"Наша вселенная\" за май 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/f/b/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal.jpg",
+      "alt": "Дневник разработки компьютерной игры \"Наша вселенная\" за май 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/6/6/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal.jpg",
+      "alt": "Дневник разработки компьютерной игры \"Наша вселенная\" за май 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/a/0/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal.jpg",
+      "alt": "Дневник разработки компьютерной игры \"Наша вселенная\" за май 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/7/5/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal.jpg",
+      "alt": "Дневник разработки компьютерной игры \"Наша вселенная\" за май 4"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/f/1/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal_f764c4c89cff7aabc3785c7a99ed7e5c.jpg",
+      "alt": "Дневник разработки компьютерной игры \"Наша вселенная\" за май 5"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/f/5/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal_bb81d0f09e93c8f6bda2a0542c2e80b1.jpg",
+      "alt": "Дневник разработки компьютерной игры \"Наша вселенная\" за май 6"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/a/a/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal.jpg",
+      "alt": "Дневник разработки компьютерной игры \"Наша вселенная\" за май 7"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/6/0/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal.jpg",
+      "alt": "Дневник разработки компьютерной игры \"Наша вселенная\" за май 8"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "​Дневник разработки за май. Получается, он плавно перетекает в июнь, но для нас это привычное дело, проект – дело небыстрое, но почти перманентное.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Главные события последних недель – обновление в Unity до версий 2019 и всё, что за этим произошло. Проект тряхнуло так, что потряхивает до сих пор. И, конечно же, участие в Фестивале «108 минут», к чему мы долго и упорно готовились, а как итог – ряд важных договорённостей с Музеем космонавтики в Калуге. Поразило чуткое отношение к нам со стороны сотрудников Музея. И, конечно же, благодарим Сергея Чекмаева за возможность установить такой контакт и принять участие в Фестивале. Из множества того, что пришлось чинить и латать после обновления Unity, ярко светит позитивом исправление багов редактора террейна. Если кто в курсе, что после обновления Unity 2018.3 всё стало ужас-ужас, порадуйтесь, теперь всё в порядке. После тестов на Фестивале в Калуге мы определили несколько задач, которые требуют решения в ближайшее время . Что характерно, их примерно в 5 раз меньше, чем по итогам последнего масштабного тестирования. А значит, мы непреклонно приближаемся в выпуску пре-альфы, которая будет доступна тем, кто уже поддержал нас на площадке Boomstarter. И, соответственно, запуск новой кампании. Он постоянно сдвигается, по разным обстоятельствам. Обстоятельства случаются у людей, поэтому от души желаем, чтобы у всех всё наладилось! А ещё, мы наконец завершили рассылку призов и дипломов по итогам конкурса «Шаг из колыбели». Комментарии к слайдам: Восстановление функционала проекта после обновления y Unity: Валерий Дементьев, Константин Хорн. Обновление элементов интерфейса, выбора космонавтов и т.д.: Валерий Дементьев, Алексей Борисов. Продолжение работы над образами персонажей: Анастасия Кирк-Гагаринская, Алексей Борисов. Погодные эффекты: Александр Шурухин, Валерий Дементьев. Обновление настольной версии: Андрей Казьмиркевич, Алексей Борисов. ГИРД \"Планета Людей\" (Группа Инициативных Разработчиков-Добровольцев). Проект на сайте: https://cosmatica.org/projects/20 Сайт Проекта: http://realuniverse.ru/",
+      "links": [
+        {
+          "title": "Проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        },
+        {
+          "title": "https://cosmatica.org/projects/20",
+          "url": "https://cosmatica.org/projects/20"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/6/f/dnevnik-razrabotki-za-mai-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/3/1/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal.jpg",
+    "https://cosmatica.org/upload/000/u26/f/b/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal.jpg",
+    "https://cosmatica.org/upload/000/u26/6/6/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal.jpg",
+    "https://cosmatica.org/upload/000/u26/a/0/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal.jpg",
+    "https://cosmatica.org/upload/000/u26/7/5/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal.jpg",
+    "https://cosmatica.org/upload/000/u26/f/1/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal_f764c4c89cff7aabc3785c7a99ed7e5c.jpg",
+    "https://cosmatica.org/upload/000/u26/f/5/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal_bb81d0f09e93c8f6bda2a0542c2e80b1.jpg",
+    "https://cosmatica.org/upload/000/u26/a/a/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal.jpg",
+    "https://cosmatica.org/upload/000/u26/6/0/dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai-gal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 2447,
+    "storedTextCharacters": 1935,
+    "sourceCardCount": 0,
+    "sourceImageCount": 10,
+    "paragraphCount": 16,
+    "sourceBytes": 57968
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 2258,
+  "capturedBodyCharacters": 1935,
+  "sourceTextSHA256": "5076947b57d90b420382614a67ddcddfb514b950e3c90eb514457ea299e89376",
+  "archiveSnapshotAt": "2026-10-08T09:11:55Z"
+}

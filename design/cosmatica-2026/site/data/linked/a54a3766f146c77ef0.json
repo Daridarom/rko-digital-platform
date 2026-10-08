@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/113-logika-proektirovanija.html",
+  "title": "Логика проектирования",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это мышление, формирующее",
+      "spans": [
+        {
+          "text": "это мышление, формирующее"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "проект",
+      "spans": [
+        {
+          "text": "проект"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "буду­щей системы.",
+      "spans": [
+        {
+          "text": "буду­щей системы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это мышление, формирующее проект буду­щей системы.",
+      "links": [
+        {
+          "title": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 72,
+    "storedTextCharacters": 48,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31700
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 50,
+  "capturedBodyCharacters": 48,
+  "sourceTextSHA256": "0ab5421f992b90ce205cc0c07a69bb1236f9d8460858170493285e971d9f2bf0",
+  "archiveSnapshotAt": "2026-10-08T08:46:23Z"
+}

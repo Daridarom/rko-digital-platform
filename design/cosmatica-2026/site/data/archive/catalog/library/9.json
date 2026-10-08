@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "library",
+  "title": "Библиотека",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 9,
+  "pageCount": 34,
+  "total": 510,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Элементарная астрономия",
+      "description": "Элементарная астрономия / И. А. Климишин. - М. : Наука, 1991. - 461,[1] с. : ил.; 22 см.; ISBN 5-02-014478-9 Показывается, каким образом было получено то или иное",
+      "url": "https://cosmatica.org/library/424-elementarnaja-astronomija.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/9/elementarnaja-astronomija-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=f01d3e975c9a8d50bb",
+      "type": "book",
+      "sourceCharacters": 949,
+      "verified": false
+    },
+    {
+      "title": "Ильенковские чтения - 2019",
+      "description": "единства и целостности философско-мировоззренческих взглядов. Материалы XXI Международной научной конференции «Ильенковские чтения», 26 -27 апреля 2019, г. Москва. В сборник материалов XXI Международной научной конференции «Ильенковские чтения», приуроченной к 95-летию Э.В.Ильенкова, включены доклады и выступления очных и заочных участников Конференции, в которых получило отражение и основное содержание устного обсуж",
+      "url": "https://cosmatica.org/library/423-ilenkovskie-chtenija-2019.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/9/ilenkovskie-chtenija-2019-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=e9a5fd13e6441f5752",
+      "type": "book",
+      "sourceCharacters": 637,
+      "verified": false
+    },
+    {
+      "title": "Космос - Земле",
+      "description": "Штерн М.И. Космос - Земле / М.И. Штерн; АН СССР. - Москва : Наука, 1976. - 183 с. Книга знакомит читателей с важнейшими результатами научных исследований, осуществляемых в космосе, с конструкцией и назначением различных космических аппаратов, с использованием космической техники для нужд навигации, метеорологии, геодезии, разведки природных ресурсов. Она включает краткий очерк, посвященный перспективам развития косми",
+      "url": "https://cosmatica.org/library/422-kosmos-zemle.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/5/kosmos-zemle-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=88294c8b6c103a3db4",
+      "type": "book",
+      "sourceCharacters": 481,
+      "verified": false
+    },
+    {
+      "title": "Необычайное путешествие Петьки Озорникова",
+      "description": "Советский писатель Олег Павловский в 1950 году написал детскую книгу \"Необычайное путешествие Петьки Озорникова\". В ней описывается, как выглядел бы СССР спустя тридцать лет - в 1980 году. Всю энергию даёт атом - ни нефть, ни уголь, ни другое ископаемое топливо больше не используется. Весь транспорт - электрический. Общественные здания - стеклянные, жилые - 5-этажные, облицованные гранитом, с просторными квартирами. ",
+      "url": "https://cosmatica.org/library/421-neobychainoe-puteshestvie-petki-ozornikova.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/6/neobychainoe-puteshestvie-petki-ozornikova-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=53946c52d333054618",
+      "type": "book",
+      "sourceCharacters": 616,
+      "verified": false
+    },
+    {
+      "title": "Кодекс новой цивилизации: основы экологической безопасности",
+      "description": "Сегодня в Интернете можно найти самую невероятную информацию – от информации о плоской и полой Земле до утверждения, что Луна – космический корабль и на ней живут люди, и даже занимаются на её поверхности земледелием. По сравнению с этим эта книга не так уж абсурдна – она достаточно обоснована и способна давать практическую отдачу желающим вникнуть в нее, по крайней мере – укрепить свое душевное и физическое здоровье",
+      "url": "https://cosmatica.org/library/420-kodeks-novoi-civilizacii-osnovy-ekologicheskoi-bezopasnosti.html",
+      "image": "https://cosmatica.org/upload/003/u363/6/b/kodeks-novoi-civilizacii-osnovy-ekologicheskoi-bezopasnosti-phot.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=0a099beaeb7745d3de",
+      "type": "book",
+      "sourceCharacters": 779,
+      "verified": false
+    },
+    {
+      "title": "Между Стоунхенджем и Аркаимом",
+      "description": "Книга «Между Стоунхенджем и Аркаимом» Звездного Маэстро Леонида Викторовича Тимошенко – ученого, писателя, композитора трудно отнести к какому-либо конкретному литературному жанру. Она художественная и документальная одновременно – с элементами, гипотез, научных трактатов, фантастики, и описания интересных событий из жизни автора, невероятных по логики вещей. Книга – о космическом творчестве, о музыке и философии, о ",
+      "url": "https://cosmatica.org/library/419-mezhdu-stounhendzhem-i-arkaimom.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=cd61f4a052194ed966",
+      "type": "book",
+      "sourceCharacters": 1448,
+      "verified": false
+    },
+    {
+      "title": "Империум человека. Эра косматики",
+      "description": "«Победителей не судят» – утверждает старая поговорка. «Судят победители!» – восклицают авторы «Империума Человека». Их книга необычна и парадоксальна, здесь мировой дух и любовь к Родине. Она – инструмент, вскрывающий мозг нашего молодого современника, она – перепрошивка человеческого сознания. Амбициозный",
+      "url": "https://cosmatica.org/library/418-imperium-cheloveka-era-kosmatiki.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/f/imperium-cheloveka-era-kosmatiki-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=406536299868028e9b",
+      "type": "book",
+      "sourceCharacters": 825,
+      "verified": false
+    },
+    {
+      "title": "Задачи повышенной трудности в курсе алгебры 7-9 классов",
+      "description": "",
+      "url": "https://cosmatica.org/library/417-zadachi-povyshennoi-trudnosti-v-kurse-algebry-7-9-klassov.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/5/zadachi-povyshennoi-trudnosti-v-kurse-algebry-7-9-klassov-photo-no.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=05889274246e2d64cb",
+      "type": "book",
+      "sourceCharacters": 43,
+      "verified": false
+    },
+    {
+      "title": "Внеклассная работа по математике в 4-5 классах",
+      "description": "В книге отражен материал кружковых занятий по математике, олимпиад и математических вечеров.",
+      "url": "https://cosmatica.org/library/416-vneklassnaja-rabota-po-matematike-v-4-5-klassah.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/5/vneklassnaja-rabota-po-matematike-v-4-5-klassah-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7aa32b41f1db45e554",
+      "type": "book",
+      "sourceCharacters": 167,
+      "verified": false
+    },
+    {
+      "title": "Учебное пособие для углубленного изучения математики в 7-м классе",
+      "description": "Пыжова Т. А., Лупенко Г. В., Масленникова И. А.",
+      "url": "https://cosmatica.org/library/415-uchebnoe-posobie-dlja-uglublennogo-izuchenija-matematiki-v-7-m-klasse.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/e/uchebnoe-posobie-dlja-uglublennogo-izuchenija-matematiki-v-7-m-klass.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=778147eb397dbfae0c",
+      "type": "book",
+      "sourceCharacters": 75,
+      "verified": false
+    },
+    {
+      "title": "Удивительная физика",
+      "description": "Занимательная и полезная книга двух известных физиков-теоретиков рассказывает о природе ряда явлений, встречающихся нам в повседневной жизни, в окружающем нас мире. Авторы делятся с читателем своим восхищением красотой Физики — науки, возникшей в незапамятные времена и ставшей сегодня мощной научной индустрией. На примере простых и знакомых каждому явлений читатель увидит действие иногда весьма сложных физических зак",
+      "url": "https://cosmatica.org/library/414-udivitelnaja-fizika.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/2/udivitelnaja-fizika-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=cad98c1a7e164226ca",
+      "type": "book",
+      "sourceCharacters": 737,
+      "verified": false
+    },
+    {
+      "title": "Популярная логика и занимательные задачи",
+      "description": "всегда молодой науке о правильном мышлении — логике. Материал излагается просто, ясно и интересно; приводятся многочисленные примеры, показывающие практическую значимость логики для современного человека. Предлагаемые в книге занимательные задачи направлены на",
+      "url": "https://cosmatica.org/library/413-populjarnaja-logika-i-zanimatelnye-zadachi.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/b/populjarnaja-logika-i-zanimatelnye-zadachi-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=97d5ab9f1534f33c16",
+      "type": "book",
+      "sourceCharacters": 953,
+      "verified": false
+    },
+    {
+      "title": "Незнайка в стране графов",
+      "description": "",
+      "url": "https://cosmatica.org/library/412-neznaika-v-strane-grafov.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/3/neznaika-v-strane-grafov-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=8749ea558c22e85750",
+      "type": "book",
+      "sourceCharacters": 42,
+      "verified": false
+    },
+    {
+      "title": "Олимпиадные задачи по физике",
+      "description": "Кузнецов А. П., Кузнецов С. П., Мельников Л. А., Шевцов В. Н.",
+      "url": "https://cosmatica.org/library/411-olimpiadnye-zadachi-po-fizike.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/9/olimpiadnye-zadachi-po-fizike-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=437d462e77ce2dfbd8",
+      "type": "book",
+      "sourceCharacters": 87,
+      "verified": false
+    },
+    {
+      "title": "Вероятность и статистика",
+      "description": "",
+      "url": "https://cosmatica.org/library/410-verojatnost-i-statistika.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/d/verojatnost-i-statistika-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=1a659970d00f430e95",
+      "type": "book",
+      "sourceCharacters": 56,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

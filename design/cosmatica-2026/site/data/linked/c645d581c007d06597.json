@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/260-fantasticheskie-miry-gennadija-tischenko.html",
+  "title": "Фантастические миры Геннадия Тищенко",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Москва",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Художник-мультипликатор Геннадий Тищенко показывает свои иллюстрации к известным фантастическим романам",
+      "spans": [
+        {
+          "text": "Художник-мультипликатор Геннадий Тищенко показывает свои иллюстрации к известным фантастическим романам"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "Ihx6DbMdNNI",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ihx6DbMdNNI"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Художник-мультипликатор Геннадий Тищенко показывает свои иллюстрации к известным фантастическим романам",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 257,
+    "storedTextCharacters": 110,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 74997
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 212,
+  "capturedBodyCharacters": 110,
+  "sourceTextSHA256": "afe1dda554fbbd7b7dcb771472364c3710d39bc30ff721a62d764201f2e28184",
+  "archiveSnapshotAt": "2026-10-08T08:39:57Z",
+  "publicVideoCount": 1
+}

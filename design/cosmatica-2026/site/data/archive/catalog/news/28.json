@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 28,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Личная ответственность за будущее",
+      "description": "19 ноября Глава РКО Алексей Алексеевич Гапонов и соратники по Русскому Комическому Обществу посетили луганскую школу №17, где встретились со старшеклассниками и юнармейцами Луганска.",
+      "url": "https://cosmatica.org/news/1768-lichnaja-otvetstvennost-za-buduschee.html",
+      "image": "https://cosmatica.org/upload/000/u7/8/b/lichnaja-otvetstvennost-za-buduschee-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8af380f6cee15a0c00",
+      "type": "news-item",
+      "sourceCharacters": 4822,
+      "verified": false
+    },
+    {
+      "title": "Александр Невский - символ прошлого и будущего единства Руси",
+      "description": "14 ноября 2023 года в г. Минске произошло важное символическое событие – возле российского посольства состоялось торжественное открытие памятника князю Александру Невскому.",
+      "url": "https://cosmatica.org/news/1767-fond-svetoslav-na-ostrie-borby-za-istoricheskuyu-pravdu.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/b/fond-svetoslav-na-ostrie-borby-za-istoricheskuyu-pravdu-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=09ea6a7afd72ecf096",
+      "type": "news-item",
+      "sourceCharacters": 1746,
+      "verified": false
+    },
+    {
+      "title": "К мечте с детства",
+      "description": "Об этом и много другом говорили на встрече воспитанников проекта Миссия Нирма с лётчиком-космонавтом, полковником ВВС, Героем России, членом Президиума Русского Космического Космического Общества, председателем Координационного совета Всенародного детско-юношеского движения \"Дружина Гагаринцев\" Токаревым Валерием Ивановичем.",
+      "url": "https://cosmatica.org/news/1766-k-meste-s-detstva.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/2/k-meste-s-detstva-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ab737b9321dd541084",
+      "type": "news-item",
+      "sourceCharacters": 1690,
+      "verified": false
+    },
+    {
+      "title": "Борис Евгеньевич Большаков. 5 лет в Вечном строю",
+      "description": "Он Жизнь любил и отдавал себя всего Ей без остатка,",
+      "url": "https://cosmatica.org/news/1765-boris-evgenevich-bolshakov-5-let-v-vechnom-stroyu.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/4/boris-evgenevich-bolshakov-5-let-v-vechnom-stroyu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=01584cace525b1e6e1",
+      "type": "news-item",
+      "sourceCharacters": 5012,
+      "verified": false
+    },
+    {
+      "title": "На связи проект «Космос – пространство будущего»",
+      "description": "Уникальность игры в контенте — создается план освоения космического пространства: Луны, Марса, точек Лагранжа, астероидного пояса.",
+      "url": "https://cosmatica.org/news/1764-na-svjazi-proekt-kosmos-prostranstvo-buduschego.html",
+      "image": "https://cosmatica.org/upload/000/u35/c/b/87501165.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1d81113e3ab44a1015",
+      "type": "news-item",
+      "sourceCharacters": 2633,
+      "verified": false
+    },
+    {
+      "title": "Первое собрание в новом доме Санкт-Петербургского отделения РКО",
+      "description": "Проводили собрание Глава Русского Космического Общества Алексей Алексеевич Гапонов , куратор проектной деятельности и региональных отделений РКО Анна Сергеевна Козлова и председатель Санкт-Петербургского отделения РКО Владимир Витальевич Макаров .",
+      "url": "https://cosmatica.org/news/1763-pervoe-sobranie-v-novom-dome-sankt-peterbkrgskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/2/d8bad3d4.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=80c782fe0fa81fe01a",
+      "type": "news-item",
+      "sourceCharacters": 2809,
+      "verified": false
+    },
+    {
+      "title": "Открытое письмо М.В.Ковальчуку и в Администрацию Президента России.",
+      "description": "2 ноября 2023 года подписан указ Президента РФ Владимира Владимировича Путина «О развитии природоподобных технологий в Российской Федерации».",
+      "url": "https://cosmatica.org/news/1761-otkrytoe-pismo-m-v-kovalchuku-i-v-administraciyu-prezidenta-rossii.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/9/otkrytoe-pismo-m-v-kovalchuku-i-v-administraciyu-prezidenta-ross.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=742c64605110b6c222",
+      "type": "news-item",
+      "sourceCharacters": 15189,
+      "verified": false
+    },
+    {
+      "title": "Муниципальный форум БРИКС - знакомство с моделью ноосферного устойчивого развития",
+      "description": "9 и 10 ноября состоялось заседание сессии «Новые подходы к устойчивому региональному развитию» в рамках V Международного Муниципального Форума БРИКС+ 2023 в городе Санкт-Петербурге",
+      "url": "https://cosmatica.org/news/1760-municipalnyi-forum-briks-znakomstvo-s-modelyu-noosfernogo-ustoichivogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/b/municipalnyi-forum-briks-znakomstvo-s-modelyu-noosfernogo-us.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=908b5ba9106a767eee",
+      "type": "news-item",
+      "sourceCharacters": 15951,
+      "verified": false
+    },
+    {
+      "title": "Передаёт борт межгалактического корабля «Звездолёт»!",
+      "description": "30.09.2023г состоялся старт межгалактического экотурнира «Звездолёт». С того момента участники – члены экипажа уже почти полтора месяца находятся в полёте. Их задача - генерировать экотопливо выполняя задания маршрутного листа «Подвиг Гагарина».",
+      "url": "https://cosmatica.org/news/1759-peredayot-bort-mezhgalakticheskogo-korablja-zvezdolyot.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/c/peredayot-bort-mezhgalakticheskogo-korablja-zvezdolyot-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=987bf80102016aec37",
+      "type": "news-item",
+      "sourceCharacters": 4118,
+      "verified": false
+    },
+    {
+      "title": "Пополнение в Первом Отряде РКО",
+      "description": "10 ноября на рабочем собрании Санкт-Петербургского отделения РКО в присутствии содеев, в числе которых было 4 представителя Первого Отряда Клятву Вечности принесла руководитель Экологического совета РКО Мария Владимировна Губенко.",
+      "url": "https://cosmatica.org/news/1758-popolnenie-v-pervom-otrjade-rko.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/0/9a4c35f8.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=16f777c08c46cd7def",
+      "type": "news-item",
+      "sourceCharacters": 4597,
+      "verified": false
+    },
+    {
+      "title": "КГБ. Осень 2023",
+      "description": "Все мы знаем, что довольно часто стремление в Космос начинается с неба. Пример первого космонавта земли Юрия Алексеевича Гагарина тому подтверждение.",
+      "url": "https://cosmatica.org/news/1756-kgb-osen-2023.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/3/6b6fc589.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9659b140eb219926a0",
+      "type": "news-item",
+      "sourceCharacters": 3646,
+      "verified": false
+    },
+    {
+      "title": "Проект \"О Будущем\" на форуме \"Россия\"",
+      "description": "В павильоне Газпром, который расположился на территории ВДНХ, прошла презентация проекта \"О будущем\" и показ нового фильма от Донецкой Народной Республики \"Призвание\", раскрывающего качество -\"подвижничество\".",
+      "url": "https://cosmatica.org/news/1757-proekt-o-buduschem-na-forume-rossija.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/e/proekt-o-buduschem-na-forume-rossija-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7f4f574ffb0739f710",
+      "type": "news-item",
+      "sourceCharacters": 2267,
+      "verified": false
+    },
+    {
+      "title": "В едином порыве идём на второй десяток!",
+      "description": "Юбилейный этап «Тропы Мужества» состоится в д. Шилово Боровского района Калужской области 29 сентября – 01 октября 2023 года. Шли на дистанции: 45 км, 70 км и 110 км («Тропа-трейл» с весом снаряжения на усмотрение участника, с одним пунктом горячего питания на дистанции в промежутке между 50-55 км).",
+      "url": "https://cosmatica.org/news/1755-v-edinom-poryve-idyom-na-vtoroi-desjatok.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/7/v-edinom-poryve-idyom-na-vtoroi-desjatok-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=288b453d831ef87f99",
+      "type": "news-item",
+      "sourceCharacters": 10266,
+      "verified": false
+    },
+    {
+      "title": "Утверждена новая редакция Декларации Федерального Народного Совета",
+      "description": "Утверждена новая редакция декларации Федерального Народного Совета. В ней отражены основные, опорные положения онтологии, на которую опирается это всенародное Движение.",
+      "url": "https://cosmatica.org/news/1754-utverzhdena-novaja-redakcija-deklaracii-federalnogo-narodnogo-soveta.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/e/utverzhdena-novaja-redakcija-deklaracii-federalnogo-narodnogo-sove.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=41befcd5e4dd7cbae1",
+      "type": "news-item",
+      "sourceCharacters": 3190,
+      "verified": false
+    },
+    {
+      "title": "Вебинар для Юнармейцев о возможности создания Цифрового дома Юнармии",
+      "description": "3 ноября 2023 года в 12.00 по московскому времени была проведена ознакомительная встреча по возможности создания Цифрового дома Юнармии. Участие в вебинаре приняли Юнармейцы ВКС, их родители, руководители отрядов, и педагоги.",
+      "url": "https://cosmatica.org/news/1753-vebinar-dlja-yunarmeicev-o-vozmozhnosti-sozdanija-cifrovogo-doma-yunarmii.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/3/vebinar-dlja-yunarmeicev-o-vozmozhnosti-sozdanija-cifrovogo-doma-yuna.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=395882117d9da184b8",
+      "type": "news-item",
+      "sourceCharacters": 1723,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

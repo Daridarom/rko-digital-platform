@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/321-zvyozdy-1994.html",
+  "title": "Звёзды (1994)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/0/zvyozdy-1994-photo-normal.jpg",
+      "alt": "Звёзды (1994)"
+    },
+    {
+      "type": "paragraph",
+      "text": "С началом космической эры звезды стали нам ближе. Мы смогли прикоснуться к Венере и Марсу, нашим ближайшим соседям, а на Луну даже несколько раз высаживались астронавты. Так что древнейшая наука о звездах, астрономия, в наши дни не только не исчерпала себя, но, напротив, стала еще более интересной.",
+      "spans": [
+        {
+          "text": "С началом космической эры звезды стали нам ближе. Мы смогли прикоснуться к Венере и Марсу, нашим ближайшим соседям, а на Луну даже несколько раз высаживались астронавты. Так что древнейшая наука о звездах, астрономия, в наши дни не только не исчерпала себя, но, напротив, стала еще более интересной."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Хабер Х.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "С началом космической эры звезды стали нам ближе. Мы смогли прикоснуться к Венере и Марсу, нашим ближайшим соседям, а на Луну даже несколько раз высаживались астронавты. Так что древнейшая наука о звездах, астрономия, в наши дни не только не исчерпала себя, но, напротив, стала еще более интересной.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2054/5ec606fcc8f8d8e6661564a5b2a156e2"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/5/0/zvyozdy-1994-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2054/5ec606fcc8f8d8e6661564a5b2a156e2"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 348,
+    "storedTextCharacters": 299,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39869
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 334,
+  "capturedBodyCharacters": 299,
+  "sourceTextSHA256": "eae33d29e8a969e2aac79d25d4175892f531196e460007c54fd968dd9b572745",
+  "archiveSnapshotAt": "2026-10-08T08:49:17Z"
+}

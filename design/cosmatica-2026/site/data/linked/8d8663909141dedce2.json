@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/263-proryv-vypusk-6-korobko-ilja-romanovich.html",
+  "title": "\"Прорыв!\" Выпуск 6: Коробко Илья Романович",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Цикл передач \"Прорыв!\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Гость передачи: Коробко Илья Романович - молодой российский актёр, получил актёрское образование в РАТИ \"ГИТИС\".",
+      "spans": [
+        {
+          "text": "Гость передачи: Коробко Илья Романович - молодой российский актёр, получил актёрское образование в РАТИ \"ГИТИС\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "О молодёжных проектах, известных далеко не всем. Этике и кодексе чести артиста. Что мы можем и должны делать в сфере кино - важнейшего из искусств? Почему известным людям надо запретить социальные сети? Чем плёнка лучше цифры?",
+      "spans": [
+        {
+          "text": "О молодёжных проектах, известных далеко не всем. Этике и кодексе чести артиста. Что мы можем и должны делать в сфере кино - важнейшего из искусств? Почему известным людям надо запретить социальные сети? Чем плёнка лучше цифры?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа ВКонтакте",
+      "spans": [
+        {
+          "text": "Группа ВКонтакте",
+          "href": "https://vk.com/cosmatica"
+        }
+      ],
+      "links": [
+        {
+          "text": "Группа ВКонтакте",
+          "url": "https://vk.com/cosmatica"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Канал YouTube",
+      "spans": [
+        {
+          "text": "Канал YouTube",
+          "href": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ],
+      "links": [
+        {
+          "text": "Канал YouTube",
+          "url": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "wgcieidmkL4",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=wgcieidmkL4"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Гость передачи: Коробко Илья Романович - молодой российский актёр, получил актёрское образование в РАТИ \"ГИТИС\". О молодёжных проектах, известных далеко не всем. Этике и кодексе чести артиста. Что мы можем и должны делать в сфере кино - важнейшего из искусств? Почему известным людям надо запретить социальные сети? Чем плёнка лучше цифры? Группа ВКонтакте Канал YouTube",
+      "links": [
+        {
+          "title": "Группа ВКонтакте",
+          "url": "https://vk.com/cosmatica"
+        },
+        {
+          "title": "Канал YouTube",
+          "url": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 526,
+    "storedTextCharacters": 390,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 75581
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 459,
+  "capturedBodyCharacters": 390,
+  "sourceTextSHA256": "72a9f0b9ea9c69926ce925e694ce9f006f3a2e4f0139bc47a5ae91b5e82062e8",
+  "archiveSnapshotAt": "2026-10-08T08:39:58Z",
+  "publicVideoCount": 1
+}

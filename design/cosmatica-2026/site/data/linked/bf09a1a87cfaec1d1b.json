@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/v",
+  "title": "В",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Всемир",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Временные (переменные) аксиомы",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Величина",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Время",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Возросшая мощность",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Воля",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Высшая форма знания",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Вычисление",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 109,
+    "storedTextCharacters": 100,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 37209
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 109,
+  "capturedBodyCharacters": 100,
+  "sourceTextSHA256": "7cb2f2d9a20dbc9c9ddf7cce8a90ff8794856e9ddd31747376be9eb605d00a99",
+  "archiveSnapshotAt": "2026-10-08T08:47:29Z"
+}

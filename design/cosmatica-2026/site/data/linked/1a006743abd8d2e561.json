@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/441-pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok.html",
+  "title": "\"Птицы Сибири\" залетели в Звёздный городок",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/4/c/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-photo-normal.jpg",
+      "alt": "\"Птицы Сибири\" залетели в Звёздный городок"
+    },
+    {
+      "type": "paragraph",
+      "text": "Наверное, не случайно получилось так, что первыми зрителями фотовыставки стали герои-космонавты В.Г. Титов, Ю.И. Маленченко и О.В. Новицкий , которые в этот день встречали в Доме космонавтов французскую делегацию во главе с первым французским космонавтом Жан Лу Кретьеном .",
+      "spans": [
+        {
+          "text": "Наверное, не случайно получилось так, что первыми зрителями фотовыставки стали герои-космонавты "
+        },
+        {
+          "text": "В.Г. Титов, Ю.И. Маленченко ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "и"
+        },
+        {
+          "text": " О.В. Новицкий",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": ", которые в этот день встречали в Доме космонавтов французскую делегацию во главе с первым французским космонавтом"
+        },
+        {
+          "text": " Жан Лу Кретьеном",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Выставка начала свою работу! Обязательно приходите с детьми! Презентация выставки запланирована на 27 мая.",
+      "spans": [
+        {
+          "text": "Выставка начала свою работу! Обязательно приходите с детьми! Презентация выставки запланирована на 27 мая."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Уже 23 мая в выставочном зале Дома космонавтов состоялась встреча учащихся МБОУ СОШ им. В.М. Комарова с организаторами персональной фотовыставки.",
+      "spans": [
+        {
+          "text": "Уже 23 мая в выставочном зале Дома космонавтов состоялась встреча учащихся МБОУ СОШ им. В.М. Комарова с организаторами персональной фотовыставки."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Экскурсию для ребят под пение птиц провёл куратор уникальной фотовыставки, член Русского Космического Общества - Юрий Анатольевич Спасенников .",
+      "spans": [
+        {
+          "text": "Экскурсию для ребят под пение птиц провёл куратор уникальной фотовыставки, член Русского Космического Общества - "
+        },
+        {
+          "text": "Юрий Анатольевич Спасенников",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/users/137"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      "links": [
+        {
+          "text": "Юрий Анатольевич Спасенников",
+          "url": "https://cosmatica.org/users/137"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ребята внимательно слушали, задавали вопросы и с интересом рассматривали фотоснимки, которые призывают задуматься о красоте природы.",
+      "spans": [
+        {
+          "text": "Ребята внимательно слушали, задавали вопросы и с интересом рассматривали фотоснимки, которые призывают задуматься о красоте природы."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "О важности темы бережного отношения к окружающему нас миру выступил руководитель историко-патриотического фотоклуба пос. Монино А.Ю. Яблонских.",
+      "spans": [
+        {
+          "text": "О важности темы бережного отношения к окружающему нас миру выступил руководитель историко-патриотического фотоклуба пос. Монино "
+        },
+        {
+          "text": "А.Ю. Яблонских.",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ведущий методист Дома космонавтов И.И. Скальская вручила благодарственные письма организаторам фотовыставки и передала благодарность автору экспозиции - Александру Аркадьевичу Антипину.",
+      "spans": [
+        {
+          "text": "Ведущий методист Дома космонавтов "
+        },
+        {
+          "text": "И.И. Скальская",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " вручила благодарственные письма организаторам фотовыставки и передала благодарность автору экспозиции - Александру Аркадьевичу Антипину. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В Дом космонавтов приглашаются все любители природы. Выставка работает ежедневно до 1 июня.",
+      "spans": [
+        {
+          "text": "В Дом космонавтов приглашаются все любители природы. Выставка работает ежедневно до 1 июня."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес: ЗАТО Звёздный городок, Дом космонавтов, 1 этаж.",
+      "spans": [
+        {
+          "text": "Адрес: ЗАТО Звёздный городок, Дом космонавтов, 1 этаж.",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Фото: Михаил Пшеннов",
+      "spans": [
+        {
+          "text": "Фото: Михаил Пшеннов",
+          "marks": [
+            "bold",
+            "italic"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/d/a/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+      "alt": "\"Птицы Сибири\" залетели в Звёздный городок 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/e/8/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+      "alt": "\"Птицы Сибири\" залетели в Звёздный городок 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/c/c/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+      "alt": "\"Птицы Сибири\" залетели в Звёздный городок 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/6/0/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+      "alt": "\"Птицы Сибири\" залетели в Звёздный городок 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/a/c/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+      "alt": "\"Птицы Сибири\" залетели в Звёздный городок 4"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/b/8/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+      "alt": "\"Птицы Сибири\" залетели в Звёздный городок 5"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/4/4/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+      "alt": "\"Птицы Сибири\" залетели в Звёздный городок 6"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/a/f/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+      "alt": "\"Птицы Сибири\" залетели в Звёздный городок 7"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/f/c/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+      "alt": "\"Птицы Сибири\" залетели в Звёздный городок 8"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/5/6/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+      "alt": "\"Птицы Сибири\" залетели в Звёздный городок 9"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/1/0/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+      "alt": "\"Птицы Сибири\" залетели в Звёздный городок 10"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "20 мая в выставочном зале Дома космонавтов оформили интересную фотовыставку фотографа Александра Аркадьевича Антипина \"Птицы Сибири\".",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Наверное, не случайно получилось так, что первыми зрителями фотовыставки стали герои-космонавты В.Г. Титов, Ю.И. Маленченко и О.В. Новицкий , которые в этот день встречали в Доме космонавтов французскую делегацию во главе с первым французским космонавтом Жан Лу Кретьеном . Выставка начала свою работу! Обязательно приходите с детьми! Презентация выставки запланирована на 27 мая. Уже 23 мая в выставочном зале Дома космонавтов состоялась встреча учащихся МБОУ СОШ им. В.М. Комарова с организаторами персональной фотовыставки. Экскурсию для ребят под пение птиц провёл куратор уникальной фотовыставки, член Русского Космического Общества - Юрий Анатольевич Спасенников . Ребята внимательно слушали, задавали вопросы и с интересом рассматривали фотоснимки, которые призывают задуматься о красоте природы. О важности темы бережного отношения к окружающему нас миру выступил руководитель историко-патриотического фотоклуба пос. Монино А.Ю. Яблонских. Ведущий методист Дома космонавтов И.И. Скальская вручила благодарственные письма организаторам фотовыставки и передала благодарность автору экспозиции - Александру Аркадьевичу Антипину. В Дом космонавтов приглашаются все любители природы. Выставка работает ежедневно до 1 июня. Адрес: ЗАТО Звёздный городок, Дом космонавтов, 1 этаж. Фото: Михаил Пшеннов",
+      "links": [
+        {
+          "title": "Юрий Анатольевич Спасенников",
+          "url": "https://cosmatica.org/users/137"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/4/c/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/d/a/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/e/8/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/c/c/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/6/0/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/a/c/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/b/8/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/4/4/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/a/f/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/f/c/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/5/6/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/1/0/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1724,
+    "storedTextCharacters": 1303,
+    "sourceCardCount": 0,
+    "sourceImageCount": 12,
+    "paragraphCount": 10,
+    "sourceBytes": 55029
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1571,
+  "capturedBodyCharacters": 1303,
+  "sourceTextSHA256": "94dae41b3d45f475694f1a807fc7cd986456420dfed82a1526da55538f49a0ea",
+  "archiveSnapshotAt": "2026-10-08T09:11:51Z"
+}

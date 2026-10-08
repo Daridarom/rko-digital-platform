@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "slug": "article",
+  "slug": "articles-list",
   "sourceUrl": "https://cosmatica.org/articles/fantastika-rko",
   "title": "Фантастика РКО",
   "intro": "",
@@ -83,7 +83,184 @@
       "level": 2
     }
   ],
-  "cards": [],
+  "cards": [
+    {
+      "title": "Невымышленная история Космических полётов (рассказ)",
+      "description": "Невымышленная история Космических полётов (рассказ) Автор: Лещенко Н.А. В просторах Космоса терпел аварию космический корабль. Из-за недостатка топлива он не мог возвратиться домой. Люди предпринимают единственно верное решение, которое даёт один шанс из 1000 на возвращение домой. Но медленно умирать далеко от Родины - намного хуже. Подробнее",
+      "url": "https://cosmatica.org/articles/1218-nevymyshlennaja-istorija-kosmicheskih-polyotov-rasskaz.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Невымышленная история Космических полётов (рассказ)",
+          "url": "https://cosmatica.org/articles/1218-nevymyshlennaja-istorija-kosmicheskih-polyotov-rasskaz.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1218-nevymyshlennaja-istorija-kosmicheskih-polyotov-rasskaz.html"
+        }
+      ]
+    },
+    {
+      "title": "Наследие #\"Космическое творчество Г.И. Тищенко\"",
+      "description": "Наследие #\"Космическое творчество Г.И. Тищенко\" Автор: Тищенко Г.И. Научно-фантастический рассказ Подробнее",
+      "url": "https://cosmatica.org/articles/957-nasledie.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Наследие",
+          "url": "https://cosmatica.org/articles/957-nasledie.html"
+        },
+        {
+          "title": "#\"Космическое творчество Г.И. Тищенко\"",
+          "url": "https://cosmatica.org/projects/kocmicheckoe-tvorchestvo-tishchekno/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/957-nasledie.html"
+        }
+      ]
+    },
+    {
+      "title": "Есть сила! О Добрынюшке и Марьюшке, детках их малых и о Змее поганом невидимом. #Курс Звёздной гармонии",
+      "description": "Есть сила! О Добрынюшке и Марьюшке, детках их малых и о Змее поганом невидимом. #Курс Звёздной гармонии Автор: Тимошенко Л.В. Авторская мифологическая былина об очень давних временах. Защищал Добрыня - богатырь великий землю русичей, не пускал пришлых и тёмную силу поработить народ праведный. Отгонял прочь ворогов лютых. На том и стоит и будет стоять Земля русская, Держава священная! Подробнее",
+      "url": "https://cosmatica.org/articles/937-est-sila-o-dobrynyushke-i-maryushke-detkah-ih-malyh-i-o-zmee-poganom-nevidimom.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Есть сила! О Добрынюшке и Марьюшке, детках их малых и о Змее поганом невидимом.",
+          "url": "https://cosmatica.org/articles/937-est-sila-o-dobrynyushke-i-maryushke-detkah-ih-malyh-i-o-zmee-poganom-nevidimom.html"
+        },
+        {
+          "title": "#Курс Звёздной гармонии",
+          "url": "https://cosmatica.org/projects/145/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/937-est-sila-o-dobrynyushke-i-maryushke-detkah-ih-malyh-i-o-zmee-poganom-nevidimom.html"
+        }
+      ]
+    },
+    {
+      "title": "Телепортация #Курс Звёздной гармонии",
+      "description": "Телепортация #Курс Звёздной гармонии Автор: Тимешенко Л.В. В очень далекие времена был создан проект Телепортации на другие планеты. На Землю готовятся прибыть космические люди других миров. Они создадут одну из земных цивилизаций, которая будет обладать знанием высокого уровня, и станет основной на этой планете. Подробнее",
+      "url": "https://cosmatica.org/articles/808-teleportacija.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Телепортация",
+          "url": "https://cosmatica.org/articles/808-teleportacija.html"
+        },
+        {
+          "title": "#Курс Звёздной гармонии",
+          "url": "https://cosmatica.org/projects/145/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/808-teleportacija.html"
+        }
+      ]
+    },
+    {
+      "title": "Боги летят #Курс Звёздной гармонии",
+      "description": "Боги летят #Курс Звёздной гармонии Автор: Тимошенко Л.В. К Земле двигаются три огромных звездолета. Земляне ждут контакта, но им показывают сложную голографическую мистификацию. Наконец их приглашают на контакт ,и предлагают свои технологии на право диктовать свои условия землянам. Подробнее",
+      "url": "https://cosmatica.org/articles/807-bogi-letjat.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Боги летят",
+          "url": "https://cosmatica.org/articles/807-bogi-letjat.html"
+        },
+        {
+          "title": "#Курс Звёздной гармонии",
+          "url": "https://cosmatica.org/projects/145/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/807-bogi-letjat.html"
+        }
+      ]
+    },
+    {
+      "title": "Галактическая битва",
+      "description": "Галактическая битва Автор: Тимошенко Л.В. В рассказе \"Галактическая битва\" автор отталкивается от реальных фактов. Исчезли леса в горах Татры за нескольких минут, повалены от неизвестного, страшной силы, вихря. Подробнее",
+      "url": "https://cosmatica.org/articles/805-galakticheskaja-bitva.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Галактическая битва",
+          "url": "https://cosmatica.org/articles/805-galakticheskaja-bitva.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/805-galakticheskaja-bitva.html"
+        }
+      ]
+    },
+    {
+      "title": "Мост Эйнштейна",
+      "description": "Мост Эйнштейна Автор: Геннадий Иванович Тищенко Подробнее",
+      "url": "https://cosmatica.org/articles/327-most-einshteina.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Мост Эйнштейна",
+          "url": "https://cosmatica.org/articles/327-most-einshteina.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/327-most-einshteina.html"
+        }
+      ]
+    },
+    {
+      "title": "Последний рассказ Аэлиты",
+      "description": "Последний рассказ Аэлиты Автор: Геннадий Иванович Тищенко Подробнее",
+      "url": "https://cosmatica.org/articles/326-poslednii-rasskaz-aelity.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Последний рассказ Аэлиты",
+          "url": "https://cosmatica.org/articles/326-poslednii-rasskaz-aelity.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/326-poslednii-rasskaz-aelity.html"
+        }
+      ]
+    },
+    {
+      "title": "Велосипед (из цикла произведений «Империум Человека»)",
+      "description": "Велосипед (из цикла произведений «Империум Человека») Автор: Степан Андреевич Зотов Подробнее",
+      "url": "https://cosmatica.org/articles/322-velosiped-iz-cikla-proizvedenii-imperium-cheloveka.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Велосипед (из цикла произведений «Империум Человека»)",
+          "url": "https://cosmatica.org/articles/322-velosiped-iz-cikla-proizvedenii-imperium-cheloveka.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/322-velosiped-iz-cikla-proizvedenii-imperium-cheloveka.html"
+        }
+      ]
+    },
+    {
+      "title": "Жажда (из цикла произведений «Империум Человека»)",
+      "description": "Жажда (из цикла произведений «Империум Человека») Автор: Степан Андреевич Зотов Подробнее",
+      "url": "https://cosmatica.org/articles/321-zhazhda-iz-cikla-proizvedenii-imperium-cheloveka.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Жажда (из цикла произведений «Империум Человека»)",
+          "url": "https://cosmatica.org/articles/321-zhazhda-iz-cikla-proizvedenii-imperium-cheloveka.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/321-zhazhda-iz-cikla-proizvedenii-imperium-cheloveka.html"
+        }
+      ]
+    }
+  ],
   "fields": [],
   "images": [],
   "documents": [],
@@ -93,9 +270,15 @@
     "http": 200,
     "sourceTextCharacters": 2457,
     "storedTextCharacters": 871,
-    "sourceCardCount": 0,
+    "sourceCardCount": 10,
     "sourceImageCount": 0,
     "paragraphCount": 3,
     "sourceBytes": 90884
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "articles-list",
+  "sourceTextCharacters": 2457,
+  "capturedBodyCharacters": 871,
+  "sourceTextSHA256": "04e447922ba469437f1def2f82268163b393b5a577246b5a01fbd2802b2d8ee7",
+  "archiveSnapshotAt": "2026-10-08T08:45:03Z"
 }

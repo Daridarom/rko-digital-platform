@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/newspaper/29-vypusk-6-2017-iyul.html",
+  "title": "Выпуск № 6. 2017, июль",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Научно-образовательная и просветительская газета \"Природа-Общество-Человек: ноосферное устойчивое ра",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "О чем говорили на круглом столе «Интеллектуальные ресурсы для устойчивого развития на евразийском пространстве»? Как можно интегрировать разные научные школы развития? Устойчивое развитие в прошлом, настоящем и будущем. Чем актуальны работы академика В.П.Казначеева в наши дни? Об этом и о многом другом – в 6 выпуске газеты «Природа – Общество - Человек»!",
+      "spans": [
+        {
+          "text": "О чем говорили на круглом столе «Интеллектуальные ресурсы для устойчивого развития на евразийском пространстве»? Как можно интегрировать разные научные школы развития? Устойчивое  "
+        },
+        {
+          "text": "развитие",
+          "href": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "text": " в прошлом, настоящем и будущем. Чем актуальны работы академика В.П.Казначеева в наши дни? Об этом и о многом другом – в 6 выпуске газеты «Природа – Общество - Человек»!"
+        }
+      ],
+      "links": [
+        {
+          "text": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "О чем говорили на круглом столе «Интеллектуальные ресурсы для устойчивого развития на евразийском пространстве»? Как можно интегрировать разные научные школы развития? Устойчивое развитие в прошлом, настоящем и будущем. Чем актуальны работы академика В.П.Казначеева в наши дни? Об этом и о многом другом – в 6 выпуске газеты «Природа – Общество - Человек»!",
+      "links": [
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 18 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/214/f582c4aa4956381ba24f0c8e7ca46d53"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/214/f582c4aa4956381ba24f0c8e7ca46d53"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 501,
+    "storedTextCharacters": 457,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 33522
+  },
+  "textFallbackRequired": false,
+  "originalKind": "newspaper-item",
+  "sourceTextCharacters": 376,
+  "capturedBodyCharacters": 457,
+  "sourceTextSHA256": "a1844536ed2883c80a6000da5c694c6447effd26500f2353345f654114c5ab26",
+  "archiveSnapshotAt": "2026-10-08T09:14:40Z"
+}

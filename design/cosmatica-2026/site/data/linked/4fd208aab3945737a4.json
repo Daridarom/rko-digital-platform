@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/138-zakon-prirody.html",
+  "title": "Закон Природы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "эмпирическое обобщение – правило, на которое не действует",
+      "spans": [
+        {
+          "text": "эмпирическое обобщение – правило, на которое не действует"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "время",
+      "spans": [
+        {
+          "text": "время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", утверждающее, что определенная пространственно-временная",
+      "spans": [
+        {
+          "text": ", утверждающее, что определенная пространственно-временная"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "величина",
+      "spans": [
+        {
+          "text": "величина"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "является инвариантом в определенном классе си­стем (явлений) – все изменяется (количественно) и остается неизмен­ным (в рамках определенного качества).",
+      "spans": [
+        {
+          "text": "является инвариантом в определенном классе си­стем (явлений) – все изменяется (количественно) и остается неизмен­ным (в рамках определенного качества)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Инвариант",
+      "spans": [
+        {
+          "text": "Инвариант"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "– то, что остается без изменений при преобразовании координат.",
+      "spans": [
+        {
+          "text": "– то, что остается без изменений при преобразовании координат."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "эмпирическое обобщение – правило, на которое не действует время , утверждающее, что определенная пространственно-временная величина является инвариантом в определенном классе си­стем (явлений) – все изменяется (количественно) и остается неизмен­ным (в рамках определенного качества). Инвариант – то, что остается без изменений при преобразовании координат.",
+      "links": [
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        },
+        {
+          "title": "величина",
+          "url": "https://cosmatica.org/glossary/158-velichina.html"
+        },
+        {
+          "title": "Инвариант",
+          "url": "https://cosmatica.org/glossary/125-invariant.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 370,
+    "storedTextCharacters": 350,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32870
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 356,
+  "capturedBodyCharacters": 350,
+  "sourceTextSHA256": "0a82511b7fcf9f7997cef9cb320dff64fa66ec918366171c0f785349acc1749a",
+  "archiveSnapshotAt": "2026-10-08T08:46:31Z"
+}

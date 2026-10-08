@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "departments",
+  "title": "Отделения",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 1,
+  "pageCount": 3,
+  "total": 31,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Алтайский край. Представительство",
+      "description": "",
+      "url": "https://cosmatica.org/departments/42-altaiskii-krai-predstavitelstvo.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=099421f4f0acf0c31c",
+      "type": "department",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Республика Саха (Якутия). Представительство",
+      "description": "",
+      "url": "https://cosmatica.org/departments/41-respublika-saha-jakutija-predstavitelstvo.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=bac244b8b80db71667",
+      "type": "department",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Томская область",
+      "description": "Председатель: Вылегжанина Виктория Владимировна",
+      "url": "https://cosmatica.org/departments/40-tomskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=aa9e61d9687b1fd61d",
+      "type": "department",
+      "sourceCharacters": 707,
+      "verified": false
+    },
+    {
+      "title": "Запорожская область",
+      "description": "Председатель отделения : Сивец Дмитрий Фёдорович",
+      "url": "https://cosmatica.org/departments/39-zaporozhskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=a2d77e9edf1dbc3c42",
+      "type": "department",
+      "sourceCharacters": 89,
+      "verified": false
+    },
+    {
+      "title": "Тюменская область",
+      "description": "Председатель: Драчук Татьяна Ивановна Адрес: Телефон: Электронная почта: info-tumen@cosmatica.org",
+      "url": "https://cosmatica.org/departments/38-tyumenskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=ea23fb4a4079d30f6f",
+      "type": "department",
+      "sourceCharacters": 97,
+      "verified": false
+    },
+    {
+      "title": "Луганская республика",
+      "description": "Адрес: ЛНР, г. Стаханов, ул. Богдана Хмельницкого, 18",
+      "url": "https://cosmatica.org/departments/37-luganskaja-respublika.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=b2b7637e8ab3d91daf",
+      "type": "department",
+      "sourceCharacters": 148,
+      "verified": false
+    },
+    {
+      "title": "Ростовская область",
+      "description": "Председатель - Калайдов Игорь Владимирович Адрес: Телефон: Электронная почта: info-rnd@cosmatica.org",
+      "url": "https://cosmatica.org/departments/36-rostovskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=8935bc87dfa3595a94",
+      "type": "department",
+      "sourceCharacters": 100,
+      "verified": false
+    },
+    {
+      "title": "Орловская область",
+      "description": "Адрес: г. Орёл, ул. Октябрьская д. 30 (здание Администрации Советского р-на, цокольный этаж)",
+      "url": "https://cosmatica.org/departments/34-orlovskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=8ef687ffcbef339c09",
+      "type": "department",
+      "sourceCharacters": 187,
+      "verified": false
+    },
+    {
+      "title": "Брянская область",
+      "description": "Председатель отделения - Щербенко Алексей Васильевич",
+      "url": "https://cosmatica.org/departments/33-brjanskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=cd64f189a11a2094ce",
+      "type": "department",
+      "sourceCharacters": 284,
+      "verified": false
+    },
+    {
+      "title": "Представительство в Канаде",
+      "description": "Адрес: 2323 Bloor Street West, Unit 216, Toronto, ON M6S 4W1",
+      "url": "https://cosmatica.org/departments/32-predstavitelstvo-v-kanade.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=a6859e84a882b5f712",
+      "type": "department",
+      "sourceCharacters": 138,
+      "verified": false
+    },
+    {
+      "title": "Представительство в Латвии",
+      "description": "Руководитель Представительства: Линёв Глеб Михайлович",
+      "url": "https://cosmatica.org/departments/30-predstavitelstvo-v-latvii.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=309a5950765db11066",
+      "type": "department",
+      "sourceCharacters": 53,
+      "verified": false
+    },
+    {
+      "title": "Костромская область",
+      "description": "Председатель отделения: Калитенко Николай Николаевич",
+      "url": "https://cosmatica.org/departments/29-kostromskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=0a41183188a1fe7795",
+      "type": "department",
+      "sourceCharacters": 138,
+      "verified": false
+    },
+    {
+      "title": "Владимирская область",
+      "description": "Открытие отделения состоялось 14 августа 2019г.",
+      "url": "https://cosmatica.org/departments/24-vladimirskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=067ab13afb3a151b7c",
+      "type": "department",
+      "sourceCharacters": 291,
+      "verified": false
+    },
+    {
+      "title": "Донецкая республика",
+      "description": "Председатель отделения - Аноприенко Александр Яковлевич, ректор ДонНТУ",
+      "url": "https://cosmatica.org/departments/23-doneckaja-respublika.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=79aa67a529067ff4be",
+      "type": "department",
+      "sourceCharacters": 232,
+      "verified": false
+    },
+    {
+      "title": "Удмуртская республика",
+      "description": "",
+      "url": "https://cosmatica.org/departments/22-udmurtskaja-respublika.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=73aac266057853f235",
+      "type": "department",
+      "sourceCharacters": 34,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

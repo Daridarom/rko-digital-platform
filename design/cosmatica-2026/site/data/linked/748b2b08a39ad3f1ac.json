@@ -7,8 +7,17 @@
   "blocks": [
     {
       "type": "image",
-      "src": "assets/source/3323bc10acce98a8497aa0bb.webp",
+      "src": "https://cosmatica.org/upload/002/u218/b/e/b846123a.jpg",
       "alt": "Покер с Богом"
+    },
+    {
+      "type": "paragraph",
+      "text": "Литературный конкурс \"Империум: Победа!\" - 2026г. Номинация \"Оригинальность\"",
+      "spans": [
+        {
+          "text": "Литературный конкурс \"Империум: Победа!\" - 2026г. Номинация \"Оригинальность\""
+        }
+      ]
     }
   ],
   "cards": [],
@@ -31,19 +40,19 @@
       "links": [
         {
           "title": "Скачать",
-          "url": "https://cosmatica.org/files/download/5982/f3aae58a162e2fe42e86983c7f64a48b"
+          "url": "https://cosmatica.org/files/download/5982/4ebb55be0494eaff4348286fa6278a80"
         }
       ],
       "image": null
     }
   ],
   "images": [
-    "assets/source/3323bc10acce98a8497aa0bb.webp"
+    "https://cosmatica.org/upload/002/u218/b/e/b846123a.jpg"
   ],
   "documents": [
     {
       "label": "Скачать",
-      "url": "https://cosmatica.org/files/download/5982/f3aae58a162e2fe42e86983c7f64a48b"
+      "url": "https://cosmatica.org/files/download/5982/4ebb55be0494eaff4348286fa6278a80"
     }
   ],
   "categories": [],
@@ -51,10 +60,16 @@
   "sourceEvidence": {
     "http": 200,
     "sourceTextCharacters": 134,
-    "storedTextCharacters": 0,
+    "storedTextCharacters": 76,
     "sourceCardCount": 0,
     "sourceImageCount": 1,
     "paragraphCount": 0,
     "sourceBytes": 39628
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 120,
+  "capturedBodyCharacters": 76,
+  "sourceTextSHA256": "a525e54022951ab7d4a84494423b1cbe7e0a442c24fccf48e6147d0ea84e430e",
+  "archiveSnapshotAt": "2026-10-08T08:51:01Z"
 }

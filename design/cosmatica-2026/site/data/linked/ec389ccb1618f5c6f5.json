@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/328-pilotnyi-nomer-zhurnala-russkii-kosmos-nojabr-2018-goda.html",
+  "title": "Пилотный номер журнала «Русский космос». Ноябрь 2018 года",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/95/54/bez-imeni-1.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Скачать выпуск: rk-01-2018.pdf",
+      "spans": [
+        {
+          "text": "Скачать выпуск: ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "rk-01-2018.pdf",
+          "href": "https://cosmatica.org/upload/redactorfiles/rk-01-2018.pdf"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "rk-01-2018.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/rk-01-2018.pdf"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Скачать выпуск: rk-01-2018.pdf",
+      "links": [
+        {
+          "title": "rk-01-2018.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/rk-01-2018.pdf"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u26/95/54/bez-imeni-1.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/95/54/bez-imeni-1.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 109,
+    "storedTextCharacters": 30,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 73711
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 51,
+  "capturedBodyCharacters": 30,
+  "sourceTextSHA256": "e40892d0a7cb0e145b833e29e33702d0d97d1a1af02545c940ba9cfb9e47550b",
+  "archiveSnapshotAt": "2026-10-08T08:41:09Z"
+}

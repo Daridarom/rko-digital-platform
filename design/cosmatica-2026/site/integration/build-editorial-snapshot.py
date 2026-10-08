@@ -156,7 +156,7 @@ def blocks(root,url):
   # text in a .field.ft_text .value div with <br> breaks, not <p> tags.
   # Do not silently lose thousands of characters when converting to blocks.
   if node.name=='div' and 'value' in node.get('class',[]):
-   field=node.find_parent('div',class_=lambda c:c and ('ft_text' in c.split() or 'f_bio' in c.split()))
+   field=node.find_parent('div',class_=lambda c:c and ('ft_text' in c.split() or 'ft_html' in c.split() or 'f_bio' in c.split()))
    if field and not node.select('p,h2,h3,h4,blockquote,ul,ol,table'):
     raw=node.get_text('\\n',strip=True)
     chunks=[re.sub(r'\\s+',' ',x).strip() for x in re.split(r'\\n+',raw)]
@@ -229,13 +229,34 @@ def fields(root,url):
    'image':image_of(el,url)})
  return out
 
+def video_blocks(root,source_url):
+ """Retain public YouTube embeds without copying or autoplaying video files."""
+ result=[];seen=set()
+ for frame in root.select('iframe[src]'):
+  uri=abs_url(frame.get('src'),source_url)
+  if not uri:continue
+  parts=urlparse(uri)
+  if parts.hostname not in ('youtube.com','www.youtube.com','www.youtube-nocookie.com'):
+   continue
+  match=re.fullmatch(r'/embed/([a-zA-Z0-9_-]{11})/?',parts.path)
+  if not match:continue
+  video_id=match.group(1)
+  if video_id in seen:continue
+  seen.add(video_id)
+  result.append({'type':'video','platform':'youtube','videoId':video_id,
+                 'title':'Видео РКО','sourceUrl':'https://www.youtube.com/watch?v='+video_id})
+ return result
+
 def snapshot(url,kind):
  response=fetch(url)
- soup=strip_technical(BeautifulSoup(response.text,'html.parser'))
+ raw=BeautifulSoup(response.text,'html.parser')
+ videos=video_blocks(editorial_root(raw),response.url)
+ soup=strip_technical(raw)
  root=editorial_root(soup)
  title=(clean_text(soup.select_one('#controller_wrap h1')) or
         clean_text(root.select_one('h1')) or clean_text(soup.select_one('title')) or kind)
  body=direction_blocks(root,response.url) if kind=='direction' else blocks(root,response.url)
+ body.extend(videos)
  gallery=[]
  for element in root.select('img[src],.photo,[style*="background-image"]'):
   ref=image_of(element,response.url)

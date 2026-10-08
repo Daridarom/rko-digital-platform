@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1619-zasskazali-gagarincam-o-solnechnoi-sisteme.html",
+  "title": "Рассказали гагаринцам о Солнечной системе",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Лекторий Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/1/9/zasskazali-gagarincam-o-solnechnoi-sisteme-photo-normal_74208eb82268c958b0e692c1c8c138a7.jpg",
+      "alt": "Рассказали гагаринцам о Солнечной системе"
+    },
+    {
+      "type": "paragraph",
+      "text": "Гостем лектория на этот раз стал Колпаков Владимир Юрьевич - председатель Псковского отделения РКО, директор Псковского планетария, учитель физики и астрономии.",
+      "spans": [
+        {
+          "text": "\r\n\tГостем лектория на этот раз стал "
+        },
+        {
+          "text": "Колпаков Владимир Юрьевич ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "- председатель Псковского отделения РКО, директор Псковского планетария, учитель физики и астрономии."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Приглашаем к просмотру этой очень содержательной лекции.",
+      "spans": [
+        {
+          "text": "\r\n\tПриглашаем к просмотру этой очень содержательной лекции."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "8OlTCokajX0",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=8OlTCokajX0"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Приглашаем к просмотру шестой лекции лектория для гагаринцев \"Космическая перемена\".",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Гостем лектория на этот раз стал Колпаков Владимир Юрьевич - председатель Псковского отделения РКО, директор Псковского планетария, учитель физики и астрономии. Тема: Солнечная система . Ребята узнали о строении нашей Солнечной системы, о Солнце и планетах, астероидах и кометах. Оказывается космос огромен, и наша Солнечная система - лишь малая его часть. Поговорили про кольца Сатурна и ледники на Марсе. В завершении встречи гагаринцы задавали вопросы и обсуждали услышанное. Владимир Юрьевич прекрасный рассказчик и подаёт материал простым, доступным языком. Приглашаем к просмотру этой очень содержательной лекции.",
+      "links": [
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/1/9/zasskazali-gagarincam-o-solnechnoi-sisteme-photo-normal_74208eb82268c958b0e692c1c8c138a7.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1019,
+    "storedTextCharacters": 267,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 3,
+    "sourceBytes": 48506
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 826,
+  "capturedBodyCharacters": 267,
+  "sourceTextSHA256": "3fa48c9d8ceafd5a5310f43885319db85306c3c9c4d4872bd4e3c5b82d88e288",
+  "archiveSnapshotAt": "2026-10-08T09:07:52Z",
+  "publicVideoCount": 1
+}

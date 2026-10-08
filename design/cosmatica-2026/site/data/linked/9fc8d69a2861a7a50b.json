@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/16-fizicheskii-zakon.html",
+  "title": "Физический закон",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "формульное выражение инвариантности физиче­ской величины в определенном классе явлений материального мира.",
+      "spans": [
+        {
+          "text": "формульное выражение инвариантности физиче­ской величины в определенном классе явлений материального мира."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "формульное выражение инвариантности физиче­ской величины в определенном классе явлений материального мира.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 123,
+    "storedTextCharacters": 106,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31930
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 106,
+  "capturedBodyCharacters": 106,
+  "sourceTextSHA256": "189f82d7d07df70523ecda99b29b514fb59b93498db64844835a6506c41559ef",
+  "archiveSnapshotAt": "2026-10-08T08:46:37Z"
+}

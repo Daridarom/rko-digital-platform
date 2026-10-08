@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/143",
+  "title": "Владимир Юрьевич Колпаков",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/a9/10/18fc4e41.jpg",
+      "alt": "Владимир Юрьевич Колпаков"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 3"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/1d/27/f5289658.jpg",
+      "alt": "Владимир Юрьевич Колпаков"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 1"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Псковского отделения РКО.",
+      "spans": [
+        {
+          "text": "Председатель Псковского отделения РКО."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Учитель физики и математики, популяризатор астрономии. Член Общественной палаты Псковской области 2018-2021 г.г., один из организаторов открытого регионального турнира Псковской области по робототехнике и астрономического форума «АстроПсков».",
+      "spans": [
+        {
+          "text": "Учитель физики и математики, популяризатор астрономии. Член Общественной палаты Псковской области 2018-2021 г.г., один из организаторов открытого регионального турнира Псковской области по робототехнике и астрономического форума «АстроПсков»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Псковская область",
+      "links": [
+        {
+          "title": "Псковская область",
+          "url": "https://cosmatica.org/departments/2-pskovskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Председатель Псковского отделения РКО. Учитель физики и математики, популяризатор астрономии. Член Общественной палаты Псковской области 2018-2021 г.г., один из организаторов открытого регионального турнира Псковской области по робототехнике и астрономического форума «АстроПсков».",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/a9/10/18fc4e41.jpg",
+    "https://cosmatica.org/upload/000/u8/1d/27/f5289658.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 401,
+    "storedTextCharacters": 340,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36826
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 320,
+  "capturedBodyCharacters": 340,
+  "sourceTextSHA256": "6c2c0c551e5c3b5e17d640427780108b81e9fcb12eee3591013eccc5a710392e",
+  "archiveSnapshotAt": "2026-10-08T09:18:06Z"
+}

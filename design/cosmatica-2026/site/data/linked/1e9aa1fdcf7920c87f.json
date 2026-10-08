@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/a",
+  "title": "А",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Антидиссипативные процессы",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Алгоритм",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Алфавит теории",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 52,
+    "storedTextCharacters": 48,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 33365
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 52,
+  "capturedBodyCharacters": 48,
+  "sourceTextSHA256": "47bfca4a90b49e1157dbc3645a30f9e6b05e1ddd399b29383606fbd14895e7c0",
+  "archiveSnapshotAt": "2026-10-08T08:47:22Z"
+}

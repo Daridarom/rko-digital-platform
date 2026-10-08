@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1431-dela-gumanitarnye-znachit-chelovechnye.html",
+  "title": "Дела гуманитарные, значит человечные",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Штаб вклада в Победу",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u380/4/5/dela-gumanitarnye-znachit-chelovechnye-photo-normal.jpg",
+      "alt": "Дела гуманитарные, значит человечные"
+    },
+    {
+      "type": "paragraph",
+      "text": "Штаб вклада в Победу Русского Космического Общества в ДНР оказал помощь хирургическому отделению № 1 Коммунального учреждения «Центральная городская клиническая больница № 16 г. Донецка», передав 30 кг постельного белья, подушки и 8 мебельных панелей щитов для оборудования ровных горизонтальных поверхностей кроватей для раненых.",
+      "spans": [
+        {
+          "text": "Штаб вклада в Победу Русского Космического Общества в ДНР  оказал помощь  хирургическому отделению № 1  Коммунального учреждения «Центральная городская клиническая больница № 16 г. Донецка», передав 30 кг постельного белья, подушки и 8 мебельных панелей щитов для оборудования ровных горизонтальных поверхностей кроватей для раненых. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Для многодетной семьи Чалых Андрея и Елены предоставлено 6 пар обуви для детей.",
+      "spans": [
+        {
+          "text": "\tДля многодетной семьи  Чалых Андрея и Елены предоставлено 6 пар обуви для детей."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Русское Космическое Общество передало в прифронтовое село Васильевка Ясиноватского района гуманитарные наборы для детей: сладости, напитки, средства гигиены. Деток в посёлке осталось семеро. Танометры переданы пожилым людям. Васильевка находится в прифронтовой полосе возле г.Авдеевки под ежедневными обстрелами, без газа, электричества, воды и месяцами без гум.помощи.",
+      "spans": [
+        {
+          "text": "Русское Космическое Общество передало в  прифронтовое село Васильевка Ясиноватского района гуманитарные наборы  для детей: сладости, напитки, средства гигиены. Деток в посёлке осталось семеро. Танометры переданы пожилым людям. Васильевка находится в прифронтовой полосе возле г.Авдеевки под ежедневными обстрелами, без газа, электричества, воды и месяцами без гум.помощи. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Благодаря Олегу Пескову и Сергею Прудникову в Мариуполь доставлена цистерна с питьевой водой, профинансированная предпринимателем Виталием Литвиненко.",
+      "spans": [
+        {
+          "text": "Благодаря Олегу Пескову и  Сергею Прудникову в Мариуполь доставлена цистерна с питьевой водой, профинансированная  предпринимателем Виталием Литвиненко."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Активно идёт взаимодействие со столовой \"Солнышко\" в г.Донецке, в которой уже 4 раза проведены познавательные программы и организовано бесплатное питание для детей из обстреливаемых районов г.Донецка. Такую важную работу проводит заведующая столовой - Пахмутова Елена Ивановна, которая в мае 2022г. была торжественно принята в ряды участников РКО. Для ведения работы с детьми Донецкое отделение предоставило наборы акварельных красок.",
+      "spans": [
+        {
+          "text": "\tАктивно идёт  взаимодействие со столовой \"Солнышко\" в г.Донецке, в которой уже 4 раза  проведены познавательные программы и организовано бесплатное питание для детей из обстреливаемых районов г.Донецка. Такую важную работу проводит заведующая столовой  - Пахмутова Елена Ивановна, которая в мае 2022г. была торжественно принята в ряды участников РКО. Для ведения работы с детьми Донецкое отделение предоставило наборы акварельных красок. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Добровольцы Штаба оказывают консультационную работу по вопросам социального обеспечения беженцев и пострадавших в результате боевых действий.",
+      "spans": [
+        {
+          "text": "Добровольцы Штаба  оказывают консультационную работу по вопросам  социального обеспечения беженцев и пострадавших в результате боевых действий."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В настоящее время собран груз одежды для жителей пострадавших сёл, который ждёт своей доставки по адресу.",
+      "spans": [
+        {
+          "text": "В настоящее  "
+        },
+        {
+          "text": "время",
+          "href": "https://cosmatica.org/glossary/157-vremja.html"
+        },
+        {
+          "text": " собран груз одежды для  жителей пострадавших сёл, который ждёт своей доставки по адресу."
+        }
+      ],
+      "links": [
+        {
+          "text": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Благодарим за оказанную помощь добровольных помощников: Цупку Наталью, Калинина Игоря, Волычеву Аллу, Сергиенко Алёну, Владимира Берёзина, Федора Байдала, местных жителей Будёновского района г. Донецка.",
+      "spans": [
+        {
+          "text": "Благодарим за оказанную помощь добровольных помощников: Цупку Наталью, Калинина Игоря, Волычеву Аллу, Сергиенко Алёну, Владимира Берёзина, Федора Байдала, местных жителей Будёновского района г. Донецка."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Приглашаем добровольцев тыла на территории ДНР для ухода за ранеными, упаковки пищевых гуманитарных наборов, перевозки нетранспортабельных людей, приготовления пищи, сбора информации о потребностях пострадавших, диспетчерской работы на телефоне по консультированию и координации, оказания информационной помощи пострадавшим и для сплочения усилий в решении насущных гуманитарных задач времени.",
+      "spans": [
+        {
+          "text": "Приглашаем добровольцев",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " тыла   на территории ДНР для ухода за ранеными, упаковки пищевых гуманитарных   наборов, перевозки нетранспортабельных людей, приготовления пищи,  сбора  информации о потребностях пострадавших,  диспетчерской работы на  телефоне по консультированию и координации, оказания информационной  помощи  пострадавшим и для сплочения усилий в решении насущных  гуманитарных  задач времени. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Создан канал в Телеграм: https://t.me/donbass_splochenie",
+      "spans": [
+        {
+          "text": "Создан канал в Телеграм: "
+        },
+        {
+          "text": "https://t.me/donbass_splochenie",
+          "href": "https://t.me/donbass_splochenie"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://t.me/donbass_splochenie",
+          "url": "https://t.me/donbass_splochenie"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "По вопросам сотрудничества звоните по тел :",
+      "spans": [
+        {
+          "text": "По вопросам сотрудничества звоните по тел",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": ": "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "+79494360377 (Вайбер, Ватсапп, Телеграм), эл.почта: info-dnr@cosmatica.org",
+      "spans": [
+        {
+          "text": "+79494360377 (Вайбер, Ватсапп, Телеграм), эл.почта: info-dnr@cosmatica.org"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Желающие сделать финансовый вклад для совместной закупки необходимых вещей , могут сделать это на странице проекта https://cosmatica.org/projects/vklad-v-pobedu , нажав на кнопку ПОДДЕРЖАТЬ ПРОЕКТ , слева от текста. Денежные пожертвования поступают на счёт РКО. Далее на них будем закупать необходимые вещи и продукты.",
+      "spans": [
+        {
+          "text": "Желающие сделать финансовый вклад для совместной закупки необходимых вещей",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": ", могут сделать это на странице проекта "
+        },
+        {
+          "text": "https://cosmatica.org/projects/vklad-v-pobedu",
+          "href": "https://vk.com/away.php?to=https%3A%2F%2Fcosmatica.org%2Fprojects%2Fvklad-v-pobedu&post=-146842769_8930&cc_key="
+        },
+        {
+          "text": ", нажав на кнопку ПОДДЕРЖАТЬ  "
+        },
+        {
+          "text": "ПРОЕКТ",
+          "href": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": ", слева от текста. Денежные пожертвования поступают на счёт РКО. Далее на них будем закупать необходимые вещи и продукты."
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/projects/vklad-v-pobedu",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fcosmatica.org%2Fprojects%2Fvklad-v-pobedu&post=-146842769_8930&cc_key="
+        },
+        {
+          "text": "ПРОЕКТ",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В пяти городах организованы пункты сбора гум.помощи.",
+      "spans": [
+        {
+          "text": "В пяти городах организованы пункты сбора гум.помощи."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Подробно о работе Штаба вклада в Победу на сайте РКО: https://cosmatica.org/projects/vklad-v-pobedu",
+      "spans": [
+        {
+          "text": "Подробно о работе Штаба вклада в Победу на сайте РКО: "
+        },
+        {
+          "text": "https://cosmatica.org/projects/vklad-v-pobedu",
+          "href": "https://cosmatica.org/projects/vklad-v-pobedu"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/projects/vklad-v-pobedu",
+          "url": "https://cosmatica.org/projects/vklad-v-pobedu"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/f/b/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+      "alt": "Дела гуманитарные, значит человечные 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/e/5/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+      "alt": "Дела гуманитарные, значит человечные 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/5/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+      "alt": "Дела гуманитарные, значит человечные 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u380/1/9/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+      "alt": "Дела гуманитарные, значит человечные 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u380/4/f/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+      "alt": "Дела гуманитарные, значит человечные 4"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u380/f/6/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+      "alt": "Дела гуманитарные, значит человечные 5"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u380/c/b/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+      "alt": "Дела гуманитарные, значит человечные 6"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u380/5/c/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+      "alt": "Дела гуманитарные, значит человечные 7"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u380/2/b/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+      "alt": "Дела гуманитарные, значит человечные 8"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u380/9/3/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+      "alt": "Дела гуманитарные, значит человечные 9"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u380/c/2/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+      "alt": "Дела гуманитарные, значит человечные 10"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u380/5/2/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+      "alt": "Дела гуманитарные, значит человечные 11"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/5/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.png",
+      "alt": "Дела гуманитарные, значит человечные 12"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/f/3/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+      "alt": "Дела гуманитарные, значит человечные 13"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "​Продолжается гуманитарная работа на Донбассе",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Штаб вклада в Победу Русского Космического Общества в ДНР оказал помощь хирургическому отделению № 1 Коммунального учреждения «Центральная городская клиническая больница № 16 г. Донецка», передав 30 кг постельного белья, подушки и 8 мебельных панелей щитов для оборудования ровных горизонтальных поверхностей кроватей для раненых. Для многодетной семьи Чалых Андрея и Елены предоставлено 6 пар обуви для детей. Русское Космическое Общество передало в прифронтовое село Васильевка Ясиноватского района гуманитарные наборы для детей: сладости, напитки, средства гигиены. Деток в посёлке осталось семеро. Танометры переданы пожилым людям. Васильевка находится в прифронтовой полосе возле г.Авдеевки под ежедневными обстрелами, без газа, электричества, воды и месяцами без гум.помощи. Благодаря Олегу Пескову и Сергею Прудникову в Мариуполь доставлена цистерна с питьевой водой, профинансированная предпринимателем Виталием Литвиненко. Активно идёт взаимодействие со столовой \"Солнышко\" в г.Донецке, в которой уже 4 раза проведены познавательные программы и организовано бесплатное питание для детей из обстреливаемых районов г.Донецка. Такую важную работу проводит заведующая столовой - Пахмутова Елена Ивановна, которая в мае 2022г. была торжественно принята в ряды участников РКО. Для ведения работы с детьми Донецкое отделение предоставило наборы акварельных красок. Добровольцы Штаба оказывают консультационную работу по вопросам социального обеспечения беженцев и пострадавших в результате боевых действий. В настоящее время собран груз одежды для жителей пострадавших сёл, который ждёт своей доставки по адресу. Благодарим за оказанную помощь добровольных помощников: Цупку Наталью, Калинина Игоря, Волычеву Аллу, Сергиенко Алёну, Владимира Берёзина, Федора Байдала, местных жителей Будёновского района г. Донецка. Приглашаем добровольцев тыла на территории ДНР для ухода за ранеными, упаковки пищевых гуманитарных наборов, перевозки нетранспортабельных людей, приготовления пищи, сбора информации о потребностях пострадавших, диспетчерской работы на телефоне по консультированию и координации, оказания информационной помощи пострадавшим и для сплочения усилий в решении насущных гуманитарных задач времени. Создан канал в Телеграм: https://t.me/donbass_splochenie По вопросам сотрудничества звоните по тел : +79494360377 (Вайбер, Ватсапп, Телеграм), эл.почта: info-dnr@cosmatica.org Желающие сделать финансовый вклад для совместной закупки необходимых вещей , могут сделать это на странице проекта https://cosmatica.org/projects/vklad-v-pobedu , нажав на кнопку ПОДДЕРЖАТЬ ПРОЕКТ , слева от текста. Денежные пожертвования поступают на счёт РКО. Далее на них будем закупать необходимые вещи и продукты. В пяти городах организованы пункты сбора гум.помощи. Подробно о работе Штаба вклада в Победу на сайте РКО: https://cosmatica.org/projects/vklad-v-pobedu",
+      "links": [
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        },
+        {
+          "title": "https://t.me/donbass_splochenie",
+          "url": "https://t.me/donbass_splochenie"
+        },
+        {
+          "title": "https://cosmatica.org/projects/vklad-v-pobedu",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fcosmatica.org%2Fprojects%2Fvklad-v-pobedu&post=-146842769_8930&cc_key="
+        },
+        {
+          "title": "ПРОЕКТ",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "https://cosmatica.org/projects/vklad-v-pobedu",
+          "url": "https://cosmatica.org/projects/vklad-v-pobedu"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/003/u380/4/5/dela-gumanitarnye-znachit-chelovechnye-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/f/b/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/e/5/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/5/5/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+    "https://cosmatica.org/upload/003/u380/1/9/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+    "https://cosmatica.org/upload/003/u380/4/f/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+    "https://cosmatica.org/upload/003/u380/f/6/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+    "https://cosmatica.org/upload/003/u380/c/b/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+    "https://cosmatica.org/upload/003/u380/5/c/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+    "https://cosmatica.org/upload/003/u380/2/b/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+    "https://cosmatica.org/upload/003/u380/9/3/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+    "https://cosmatica.org/upload/003/u380/c/2/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+    "https://cosmatica.org/upload/003/u380/5/2/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/1/5/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.png",
+    "https://cosmatica.org/upload/000/u35/f/3/dela-gumanitarnye-znachit-chelovechnye-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 3214,
+    "storedTextCharacters": 2877,
+    "sourceCardCount": 0,
+    "sourceImageCount": 15,
+    "paragraphCount": 15,
+    "sourceBytes": 59524
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 3045,
+  "capturedBodyCharacters": 2877,
+  "sourceTextSHA256": "c8165e386f92ca5b9c67b8dbd2984d1fa050fb25268b6be5228f19a8558c40c6",
+  "archiveSnapshotAt": "2026-10-08T08:58:21Z"
+}

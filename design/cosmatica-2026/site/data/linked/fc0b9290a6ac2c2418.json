@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/ch",
+  "title": "Ч",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Человечность",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Человек",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Число",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 28,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 33297
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 28,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "e17e946d7d4131191730f7899c5191f32f4f82aa7a1a6bd339accd3ee9bfb8b4",
+  "archiveSnapshotAt": "2026-10-08T08:47:23Z"
+}

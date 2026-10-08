@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/455",
+  "title": "Елена Витальевна Сулава",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/004/u455/1/e/210b45fe.jpg",
+      "alt": "Елена Витальевна Сулава"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/004/u455/b/7/309ae718.jpg",
+      "alt": "Елена Витальевна Сулава"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Калининградская область",
+      "links": [
+        {
+          "title": "Калининградская область",
+          "url": "https://cosmatica.org/departments/20-kaliningradskaja-oblast.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/004/u455/1/e/210b45fe.jpg",
+    "https://cosmatica.org/upload/004/u455/b/7/309ae718.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 83,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34063
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 34,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "7bd034516adf901c2cfc9ea5bb4bbbb58b8cc1188985ed3182268202235c8a10",
+  "archiveSnapshotAt": "2026-10-08T09:19:55Z"
+}

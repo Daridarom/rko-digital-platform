@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/151-teorija-i-metodologija-proektirovanija-ustoichivogo-razvitija-socio-prirodnyh-sistem.html",
+  "title": "Теория и методология проектирования устойчивого развития социо-природных систем",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/43/53/teorija-i-metodologija-proektirovanija-ustoichivogo-razvitija-socio.png",
+      "alt": "Теория и методология проектирования устойчивого развития  социо-природных систем"
+    },
+    {
+      "type": "paragraph",
+      "text": "Учебно-методическое пособие предназначено для подготовки специалистов по магистерской программе \"Проектное управление устойчивым развитием\". В пособии рассматриваются: глоссарий основных терминов и понятий, мировой опыт,",
+      "spans": [
+        {
+          "text": "Учебно-методическое пособие предназначено для подготовки специалистов по магистерской программе \"Проектное управление устойчивым развитием\". В пособии рассматриваются: глоссарий основных терминов и понятий, мировой опыт,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мировоззрение",
+      "spans": [
+        {
+          "text": "мировоззрение"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ",",
+      "spans": [
+        {
+          "text": ","
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "теория",
+      "spans": [
+        {
+          "text": "теория"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "и",
+      "spans": [
+        {
+          "text": "и"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "методология",
+      "spans": [
+        {
+          "text": "методология"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "устойчивого развития; методические указания по самостоятельной работе студентов; экзаменационные билеты; обучающие программы.",
+      "spans": [
+        {
+          "text": "устойчивого развития; методические указания по самостоятельной работе студентов; экзаменационные билеты; обучающие программы."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Работа",
+      "spans": [
+        {
+          "text": "Работа"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "выполнена по гранту Президента №НШ-1269.2008.9.",
+      "spans": [
+        {
+          "text": "выполнена по гранту Президента №НШ-1269.2008.9."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Б.Е. Большаков",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Учебно-методическое пособие предназначено для подготовки специалистов по магистерской программе \"Проектное управление устойчивым развитием\". В пособии рассматриваются: глоссарий основных терминов и понятий, мировой опыт, мировоззрение , теория и методология устойчивого развития; методические указания по самостоятельной работе студентов; экзаменационные билеты; обучающие программы. Работа выполнена по гранту Президента №НШ-1269.2008.9.",
+      "links": [
+        {
+          "title": "мировоззрение",
+          "url": "https://cosmatica.org/glossary/106-mirovozzrenie.html"
+        },
+        {
+          "title": "теория",
+          "url": "https://cosmatica.org/glossary/35-teorija.html"
+        },
+        {
+          "title": "методология",
+          "url": "https://cosmatica.org/glossary/102-metodologija.html"
+        },
+        {
+          "title": "Работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/577/7805d08865c9656b4c0b1b9f4e1eba40"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u10/43/53/teorija-i-metodologija-proektirovanija-ustoichivogo-razvitija-socio.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/577/7805d08865c9656b4c0b1b9f4e1eba40"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 559,
+    "storedTextCharacters": 430,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 41242
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 479,
+  "capturedBodyCharacters": 430,
+  "sourceTextSHA256": "ae988301ba8392d0bbf7e82c49c37d5f65f4e446a86f02735b66795126da1f1f",
+  "archiveSnapshotAt": "2026-10-08T08:47:44Z"
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/975-kosmos-i-civilizacija-proshloe-nastojaschee-buduschee-polnaja-versija.html",
+  "title": "Космос и цивилизация: прошлое, настоящее, будущее (полная версия)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Научно-практическая конференция \"Космос и цивилизация: прошлое, настоящее, будущее...\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Научно-практическая конференция \"Космос и цивилизация: прошлое, настоящее, будущее...\"",
+      "spans": [
+        {
+          "text": "Научно-практическая конференция \"Космос и цивилизация: прошлое,  настоящее, будущее...\" "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Докладчик: ректор ДонНТУ, профессор, Председатель Донецкого отделения Русского Космического Общества Александр Яковлевич Аноприенко",
+      "spans": [
+        {
+          "text": "Докладчик:  ректор ДонНТУ, профессор, Председатель Донецкого отделения  Русского Космического Общества Александр Яковлевич Аноприенко "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ДНР, Донецк, 2020г.",
+      "spans": [
+        {
+          "text": "ДНР, Донецк, 2020г."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "WDINi1keBfQ",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=WDINi1keBfQ"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Научно-практическая конференция \"Космос и цивилизация: прошлое, настоящее, будущее...\" Докладчик: ректор ДонНТУ, профессор, Председатель Донецкого отделения Русского Космического Общества Александр Яковлевич Аноприенко ДНР, Донецк, 2020г.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 575,
+    "storedTextCharacters": 323,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 76346
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 421,
+  "capturedBodyCharacters": 323,
+  "sourceTextSHA256": "b635aa857aea7af863b874ff9071e9f0e5571ff620ca1f7a307e6356c89506d2",
+  "archiveSnapshotAt": "2026-10-08T08:44:53Z",
+  "publicVideoCount": 1
+}

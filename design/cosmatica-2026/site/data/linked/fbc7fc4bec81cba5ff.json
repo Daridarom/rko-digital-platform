@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/9-empiricheskaja-baza.html",
+  "title": "Эмпирическая база",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "принципы, законы и закономерности, открытые в науке.",
+      "spans": [
+        {
+          "text": "принципы, законы и закономерности, открытые в науке."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "принципы, законы и закономерности, открытые в науке.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 70,
+    "storedTextCharacters": 52,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31613
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 52,
+  "capturedBodyCharacters": 52,
+  "sourceTextSHA256": "2de5003eb4385f5085661b6fddbfa3241af8a7c1bb92add6f0ccf6f4c7139603",
+  "archiveSnapshotAt": "2026-10-08T08:47:20Z"
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/sobranija",
+  "title": "Собрания",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Грядущие",
+        "Все"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [
+    "Грядущие",
+    "Все"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 51,
+    "storedTextCharacters": 11,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 45967
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 51,
+  "capturedBodyCharacters": 11,
+  "sourceTextSHA256": "b83c91abf3993b50624bad1c785be4e2d11b755e48d2179232ab0259892a209e",
+  "archiveSnapshotAt": "2026-10-08T09:16:19Z"
+}

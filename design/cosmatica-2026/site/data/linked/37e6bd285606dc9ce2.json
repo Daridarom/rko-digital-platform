@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/571-bez-neba-mne-ne-zhit.html",
+  "title": "Без неба мне не жить",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Слушать поэму в исполнении автора",
+      "spans": [
+        {
+          "text": "Слушать поэму в исполнении автора",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://drive.google.com/file/d/1cYN4t2xzIzDjbeeTOEW4wKKctJFyPQYV/view"
+        }
+      ],
+      "links": [
+        {
+          "text": "Слушать поэму в исполнении автора",
+          "url": "https://drive.google.com/file/d/1cYN4t2xzIzDjbeeTOEW4wKKctJFyPQYV/view"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Поэма, оформленная в виде книги: подробнее",
+      "spans": [
+        {
+          "text": "Поэма, оформленная в виде книги:"
+        },
+        {
+          "text": " ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "подробнее",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://ridero.ru/books/bez_neba_mne_ne_zhit/"
+        },
+        {
+          "text": "  ",
+          "marks": [
+            "bold"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "подробнее",
+          "url": "https://ridero.ru/books/bez_neba_mne_ne_zhit/"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Слушать поэму в исполнении автора Поэма, оформленная в виде книги: подробнее",
+      "links": [
+        {
+          "title": "Слушать поэму в исполнении автора",
+          "url": "https://drive.google.com/file/d/1cYN4t2xzIzDjbeeTOEW4wKKctJFyPQYV/view"
+        },
+        {
+          "title": "подробнее",
+          "url": "https://ridero.ru/books/bez_neba_mne_ne_zhit/"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 199,
+    "storedTextCharacters": 75,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 74447
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 178,
+  "capturedBodyCharacters": 75,
+  "sourceTextSHA256": "8736b4f51eaee7454a8d8e09f678bad383e74e5fcfc0bd281804f474832e7b31",
+  "archiveSnapshotAt": "2026-10-08T08:42:26Z"
+}

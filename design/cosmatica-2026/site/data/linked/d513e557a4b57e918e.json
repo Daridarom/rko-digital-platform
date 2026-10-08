@@ -1,0 +1,349 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/790-izuchenie-kosmosa-kak-rasshirenie-granic-poznanija.html",
+  "title": "Изучение космоса, как расширение границ познания",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Великая Космическая Одиссея",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/9/izuchenie-kosmosa-kak-rasshirenie-granic-poznanija-photo-normal.jpg",
+      "alt": "Изучение космоса, как расширение границ познания"
+    },
+    {
+      "type": "paragraph",
+      "text": "Александр Иванович Лазуткин - лётчик-космонавт, Герой России, член Совета \"Первых\" Русского Космического Общества. Он совсем недавно встал в наш общий строй, получив членский билет за номером 300.",
+      "spans": [
+        {
+          "text": "Александр Иванович Лазуткин",
+          "href": "https://cosmatica.org/users/427"
+        },
+        {
+          "text": " - лётчик-космонавт, Герой России, член Совета \"Первых\" Русского Космического Общества. Он совсем недавно встал в наш общий строй, получив членский билет за номером 300."
+        }
+      ],
+      "links": [
+        {
+          "text": "Александр Иванович Лазуткин",
+          "url": "https://cosmatica.org/users/427"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Его решение стать частью Общего Дела было осознанным и основанным на совместной деятельности, уже осуществляемой ранее. В конце прошлого года Александр Иванович посетил Донбасс. В качестве почётного гостя он участвовал в награждении победителей региональных конкурсов, инициированных и организованных Русским Космическим Обществом совместно с Министерство образования и науки Донецкой Народной Республики. В январе 2020 года Александр Иванович встречался с ребятами из ДНР уже в Москве, в рамках проекта \"Космические каникулы\" .",
+      "spans": [
+        {
+          "text": "Его решение стать частью Общего Дела было осознанным и основанным на совместной деятельности, уже осуществляемой ранее. В конце прошлого года Александр Иванович посетил Донбасс. В качестве почётного гостя он участвовал в награждении победителей региональных конкурсов, инициированных и организованных Русским Космическим Обществом совместно с Министерство образования и науки Донецкой Народной Республики. В январе 2020 года Александр Иванович встречался с ребятами из ДНР уже в Москве, в рамках проекта "
+        },
+        {
+          "text": "\"Космические каникулы\"",
+          "href": "https://cosmatica.org/projects/164"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      "links": [
+        {
+          "text": "\"Космические каникулы\"",
+          "url": "https://cosmatica.org/projects/164"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сейчас же по программе Великой Космической Одиссеи (ВКО) у космонавта проходит обучение первый тестовый отряд членов РКО. Именно этот проект и стал основной темой встречи на канале \"Юность Авроры\" в студии информационного агентства \"Аврора\".",
+      "spans": [
+        {
+          "text": "Сейчас же по программе Великой Космической Одиссеи (ВКО) у космонавта проходит обучение первый тестовый отряд членов РКО. Именно этот  "
+        },
+        {
+          "text": "проект",
+          "href": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": " и стал основной темой встречи на "
+        },
+        {
+          "text": "канале \"Юность Авроры\"",
+          "href": "https://www.youtube.com/channel/UCgelhV6iH6V7hsM7HZkJ_9g"
+        },
+        {
+          "text": " в студии информационного агентства \"Аврора\"."
+        }
+      ],
+      "links": [
+        {
+          "text": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": "канале \"Юность Авроры\"",
+          "url": "https://www.youtube.com/channel/UCgelhV6iH6V7hsM7HZkJ_9g"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Тема беседы: Великая Космическая Одиссея Русского Космического Общества",
+      "spans": [
+        {
+          "text": "Тема беседы: "
+        },
+        {
+          "text": "Великая Космическая Одиссея",
+          "href": "https://cosmatica.org/projects/vko "
+        },
+        {
+          "text": " Русского Космического Общества "
+        }
+      ],
+      "links": [
+        {
+          "text": "Великая Космическая Одиссея",
+          "url": "https://cosmatica.org/projects/vko "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В беседе герой эфира ответил на следующие вопросы:",
+      "spans": [
+        {
+          "text": "В беседе герой эфира ответил на следующие вопросы: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Для чего нужно изучать космос?",
+      "spans": [
+        {
+          "text": "1. Для чего нужно изучать космос? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Насколько космос открыт человеку?",
+      "spans": [
+        {
+          "text": "2. Насколько космос открыт человеку? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Почему падает престиж такой профессии, как космонавт?",
+      "spans": [
+        {
+          "text": "3. Почему падает престиж такой профессии, как космонавт? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Меняется ли отношение к нашей планете после возвращения из космоса?",
+      "spans": [
+        {
+          "text": "4. Меняется ли отношение к нашей планете после возвращения из космоса? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Россия перестала быть монополистом в космосе?",
+      "spans": [
+        {
+          "text": "5. Россия перестала быть монополистом в космосе? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Насколько важна подготовка детей к мысли о космосе?",
+      "spans": [
+        {
+          "text": "6. Насколько важна подготовка детей к мысли о космосе? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ведущие: Евгения Фёдоровна Кабацкая директор ИА \"Аврора\" и Олег Александрович Чагин директор НИИ Антропогенеза , действительный член РКО.",
+      "spans": [
+        {
+          "text": "Ведущие: Евгения Фёдоровна Кабацкая директор ИА \"Аврора\" и Олег Александрович Чагин директор"
+        },
+        {
+          "text": " НИИ Антропогенеза",
+          "href": "https://vk.com/anthropogenez"
+        },
+        {
+          "text": ", действительный член РКО."
+        }
+      ],
+      "links": [
+        {
+          "text": "НИИ Антропогенеза",
+          "url": "https://vk.com/anthropogenez"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Посмотреть все эфиры можно на сайте РКО: https://cosmatica.org/articles/media/rko-na-kanale-yunost-avrory",
+      "spans": [
+        {
+          "text": "Посмотреть все эфиры можно на сайте РКО: "
+        },
+        {
+          "text": "https://cosmatica.org/articles/media/rko-na-kanale-yunost-avrory",
+          "href": "https://cosmatica.org/articles/media/rko-na-kanale-yunost-avrory"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/articles/media/rko-na-kanale-yunost-avrory",
+          "url": "https://cosmatica.org/articles/media/rko-na-kanale-yunost-avrory"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Канал Юность Авроры: https://www.youtube.com/channel/UCgel...",
+      "spans": [
+        {
+          "text": "Канал Юность Авроры: "
+        },
+        {
+          "text": "https://www.youtube.com/channel/UCgel...",
+          "href": "https://www.youtube.com/channel/UCgelhV6iH6V7hsM7HZkJ_9g"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://www.youtube.com/channel/UCgel...",
+          "url": "https://www.youtube.com/channel/UCgelhV6iH6V7hsM7HZkJ_9g"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Канал НИИ Антропогенеза: https://www.youtube.com/channel/UCEowc_vw7nW8ECwub...",
+      "spans": [
+        {
+          "text": "Канал НИИ Антропогенеза: "
+        },
+        {
+          "text": "https://www.youtube.com/channel/UCEowc_vw7nW8ECwub...",
+          "href": "https://www.youtube.com/channel/UCEowc_vw7nW8ECwubFHMERQ/featured"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://www.youtube.com/channel/UCEowc_vw7nW8ECwub...",
+          "url": "https://www.youtube.com/channel/UCEowc_vw7nW8ECwubFHMERQ/featured"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "9TksWP2EcCU",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=9TksWP2EcCU"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Лётчик-космонавт Александр Иванович Лазуткин стал желанным гостем на канале \"Юность Авроры\"",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Александр Иванович Лазуткин - лётчик-космонавт, Герой России, член Совета \"Первых\" Русского Космического Общества. Он совсем недавно встал в наш общий строй, получив членский билет за номером 300. Его решение стать частью Общего Дела было осознанным и основанным на совместной деятельности, уже осуществляемой ранее. В конце прошлого года Александр Иванович посетил Донбасс. В качестве почётного гостя он участвовал в награждении победителей региональных конкурсов, инициированных и организованных Русским Космическим Обществом совместно с Министерство образования и науки Донецкой Народной Республики. В январе 2020 года Александр Иванович встречался с ребятами из ДНР уже в Москве, в рамках проекта \"Космические каникулы\" . Сейчас же по программе Великой Космической Одиссеи (ВКО) у космонавта проходит обучение первый тестовый отряд членов РКО. Именно этот проект и стал основной темой встречи на канале \"Юность Авроры\" в студии информационного агентства \"Аврора\". Тема беседы: Великая Космическая Одиссея Русского Космического Общества В беседе герой эфира ответил на следующие вопросы: 1. Для чего нужно изучать космос? 2. Насколько космос открыт человеку? 3. Почему падает престиж такой профессии, как космонавт? 4. Меняется ли отношение к нашей планете после возвращения из космоса? 5. Россия перестала быть монополистом в космосе? 6. Насколько важна подготовка детей к мысли о космосе? Ведущие: Евгения Фёдоровна Кабацкая директор ИА \"Аврора\" и Олег Александрович Чагин директор НИИ Антропогенеза , действительный член РКО. Посмотреть все эфиры можно на сайте РКО: https://cosmatica.org/articles/media/rko-na-kanale-yunost-avrory Канал Юность Авроры: https://www.youtube.com/channel/UCgel... Канал НИИ Антропогенеза: https://www.youtube.com/channel/UCEowc_vw7nW8ECwub...",
+      "links": [
+        {
+          "title": "Александр Иванович Лазуткин",
+          "url": "https://cosmatica.org/users/427"
+        },
+        {
+          "title": "\"Космические каникулы\"",
+          "url": "https://cosmatica.org/projects/164"
+        },
+        {
+          "title": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "канале \"Юность Авроры\"",
+          "url": "https://www.youtube.com/channel/UCgelhV6iH6V7hsM7HZkJ_9g"
+        },
+        {
+          "title": "Великая Космическая Одиссея",
+          "url": "https://cosmatica.org/projects/vko "
+        },
+        {
+          "title": "НИИ Антропогенеза",
+          "url": "https://vk.com/anthropogenez"
+        },
+        {
+          "title": "https://cosmatica.org/articles/media/rko-na-kanale-yunost-avrory",
+          "url": "https://cosmatica.org/articles/media/rko-na-kanale-yunost-avrory"
+        },
+        {
+          "title": "https://www.youtube.com/channel/UCgel...",
+          "url": "https://www.youtube.com/channel/UCgelhV6iH6V7hsM7HZkJ_9g"
+        },
+        {
+          "title": "https://www.youtube.com/channel/UCEowc_vw7nW8ECwub...",
+          "url": "https://www.youtube.com/channel/UCEowc_vw7nW8ECwubFHMERQ/featured"
+        },
+        {
+          "title": "",
+          "url": "https://www.youtube.com/channel/UCgelhV6iH6V7hsM7HZkJ_9g"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/5/9/izuchenie-kosmosa-kak-rasshirenie-granic-poznanija-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 2221,
+    "storedTextCharacters": 1803,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 16,
+    "sourceBytes": 51647
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 2033,
+  "capturedBodyCharacters": 1803,
+  "sourceTextSHA256": "5942acb78d6ce6a0fe10ef73c563bced54e3a651bef26bf5373fdd5d8d7345eb",
+  "archiveSnapshotAt": "2026-10-08T09:13:36Z",
+  "publicVideoCount": 1
+}

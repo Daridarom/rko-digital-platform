@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/742",
+  "title": "Анжелика Михайловна Новгородова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/9/aed09b35.jpg",
+      "alt": "Анжелика Михайловна Новгородова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 1"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/d/e/8e86364d.jpg",
+      "alt": "Анжелика Михайловна Новгородова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 5 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/5/9/aed09b35.jpg",
+    "https://cosmatica.org/upload/000/u35/d/e/8e86364d.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 92,
+    "storedTextCharacters": 40,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35056
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 17,
+  "capturedBodyCharacters": 40,
+  "sourceTextSHA256": "f2558d486f365b8f13aeed963aa319273b8050fae2b2a88b55d7ab151c64dd70",
+  "archiveSnapshotAt": "2026-10-08T09:22:01Z"
+}

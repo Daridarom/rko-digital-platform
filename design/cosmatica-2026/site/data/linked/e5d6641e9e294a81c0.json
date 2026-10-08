@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/433-zakony-tvorcheskogo-razvitija-i-noosfernyi-universitet-civilizacii.html",
+  "title": "Законы творческого развития и ноосферный университет цивилизаций",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/a/e/zakony-tvorcheskogo-razvitija-i-noosfernyi-universitet-civilizacii.jpg",
+      "alt": "Законы творческого развития и ноосферный университет цивилизаций"
+    },
+    {
+      "type": "paragraph",
+      "text": "В новой работе А.И. Субетто, в её первой части раскрываются ос- новы науки о творчестве – креатологии и авторская концепция законов творческого развития человека, в том числе и механизмов творческого долгожительства. Раскрывается",
+      "spans": [
+        {
+          "text": "В новой работе А.И. Субетто, в её первой части раскрываются ос- новы науки о творчестве – креатологии и авторская концепция законов творческого развития человека, в том числе и механизмов творческого долгожительства. Раскрывается"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "связь",
+      "spans": [
+        {
+          "text": "связь"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "законов творчества, новой – ноосферной – парадигмы учительства XXI века и действующего императива экологического спасения человечества через переход к ноосферной парадигме развития. Вторая часть представляет собой интервью А.И. Субетто, которое он дал В.В. Лукоянову.",
+      "spans": [
+        {
+          "text": "законов творчества, новой – ноосферной – парадигмы учительства XXI века и действующего императива экологического спасения человечества через переход к ноосферной парадигме развития. Вторая часть представляет собой интервью А.И. Субетто, которое он дал В.В. Лукоянову."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Субетто А.И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В новой работе А.И. Субетто, в её первой части раскрываются ос- новы науки о творчестве – креатологии и авторская концепция законов творческого развития человека, в том числе и механизмов творческого долгожительства. Раскрывается связь законов творчества, новой – ноосферной – парадигмы учительства XXI века и действующего императива экологического спасения человечества через переход к ноосферной парадигме развития. Вторая часть представляет собой интервью А.И. Субетто, которое он дал В.В. Лукоянову.",
+      "links": [
+        {
+          "title": "связь",
+          "url": "https://cosmatica.org/glossary/55-svjaz.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 444 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2763/43c7adfeed0c5d24dd41a7c7bacdbb56"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/a/e/zakony-tvorcheskogo-razvitija-i-noosfernyi-universitet-civilizacii.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2763/43c7adfeed0c5d24dd41a7c7bacdbb56"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 609,
+    "storedTextCharacters": 501,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40776
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 544,
+  "capturedBodyCharacters": 501,
+  "sourceTextSHA256": "70866ee1e56698eac30cbfa315ed706a0b0292209583d4252ae0d2f78e05cbc1",
+  "archiveSnapshotAt": "2026-10-08T08:49:58Z"
+}

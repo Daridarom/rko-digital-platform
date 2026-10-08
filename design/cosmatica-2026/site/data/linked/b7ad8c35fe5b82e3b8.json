@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/132-elektricheskaja-energija-istochniki-toka-novogo-tipa.html",
+  "title": "Электрическая энергия – источники тока нового типа #Лекторий Русского Космического Общества",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/7/1/elektricheskaja-energija-istochniki-toka-novogo-tipa-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Русское Космическое Общество в рамках деятельности Секции Авангардных исследований при Совете труда и творчества приглашает посетить семинар на тему: «Электрическая энергия – источники тока нового типа».",
+      "spans": [
+        {
+          "text": "Русское Космическое Общество в рамках деятельности "
+        },
+        {
+          "text": "Секции ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "Авангардных исследований",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/section/6-avangardnye-issledovanija.html"
+        },
+        {
+          "text": " при Совете труда и творчества",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " приглашает посетить семинар на тему: "
+        },
+        {
+          "text": "«Электрическая энергия – источники тока нового типа».",
+          "marks": [
+            "bold"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Авангардных исследований",
+          "url": "https://cosmatica.org/section/6-avangardnye-issledovanija.html"
+        },
+        {
+          "text": "",
+          "url": "https://cosmatica.org/section/6-avangardnye-issledovanija.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Будет заслушан доклад инженера Анищенко А.М.",
+      "spans": [
+        {
+          "text": "Будет заслушан доклад инженера Анищенко А.М. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Тема доклада «Источники тока нового типа» .",
+      "spans": [
+        {
+          "text": "  Тема доклада "
+        },
+        {
+          "text": "«Источники тока нового типа»",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В докладе изложено:",
+      "spans": [
+        {
+          "text": "  В докладе изложено:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Физические основы работы химических источников тока (ХИТ). 2. Основа технологии производства источников тока нового типа.",
+      "spans": [
+        {
+          "text": "1. Физические основы работы химических источников тока (ХИТ).2. Основа технологии производства источников тока нового типа."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Семинар состоится 24 апреля (среда) в 15:00 по адресу: г. Москва, Ленинградский п-кт д.7, стр.1 метро «Белорусская».",
+      "spans": [
+        {
+          "text": "Семинар состоится 24 апреля (среда) в 15:00 по адресу: г. Москва, Ленинградский п-кт д.7, стр.1 метро «Белорусская»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Русское Космическое Общество в рамках деятельности Секции Авангардных исследований при Совете труда и творчества приглашает посетить семинар на тему: «Электрическая энергия – источники тока нового типа». Будет заслушан доклад инженера Анищенко А.М. Тема доклада «Источники тока нового типа» . В докладе изложено: 1. Физические основы работы химических источников тока (ХИТ). 2. Основа технологии производства источников тока нового типа. Семинар состоится 24 апреля (среда) в 15:00 по адресу: г. Москва, Ленинградский п-кт д.7, стр.1 метро «Белорусская».",
+      "links": [
+        {
+          "title": "Авангардных исследований",
+          "url": "https://cosmatica.org/section/6-avangardnye-issledovanija.html"
+        },
+        {
+          "title": "",
+          "url": "https://cosmatica.org/section/6-avangardnye-issledovanija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/7/1/elektricheskaja-energija-istochniki-toka-novogo-tipa-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 727,
+    "storedTextCharacters": 549,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 6,
+    "sourceBytes": 39888
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 727,
+  "capturedBodyCharacters": 549,
+  "sourceTextSHA256": "f3b8761b0c09b0dd3df379fbd3521b303e9f3cd2f8d9674c7d7734878453e8e2",
+  "archiveSnapshotAt": "2026-10-08T09:14:57Z"
+}

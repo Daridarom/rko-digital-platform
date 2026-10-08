@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/810-russkii-kosmos-2-fevral-2019.html",
+  "title": "Русский космос №2 (февраль, 2019)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Русский космос №2 (февраль, 2019)",
+      "spans": [
+        {
+          "text": "Русский космос №2 (февраль, 2019)",
+          "href": "https://cosmatica.org/upload/redactorfiles/"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "Русский космос №2 (февраль, 2019)",
+          "url": "https://cosmatica.org/upload/redactorfiles/"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/2/snimok-ekrana-2019-09-04-v-14-08-25.png",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Русский космос №2 (февраль, 2019)",
+      "links": [
+        {
+          "title": "Русский космос №2 (февраль, 2019)",
+          "url": "https://cosmatica.org/upload/redactorfiles/"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/002/u218/7/2/snimok-ekrana-2019-09-04-v-14-08-25.png"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/2/snimok-ekrana-2019-09-04-v-14-08-25.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 105,
+    "storedTextCharacters": 33,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 73494
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 71,
+  "capturedBodyCharacters": 33,
+  "sourceTextSHA256": "3eaf5a4aa6f3491d46eef5068644fd6ba5184bb49d9f892e0b09bcf3df7b1ac1",
+  "archiveSnapshotAt": "2026-10-08T09:06:35Z"
+}

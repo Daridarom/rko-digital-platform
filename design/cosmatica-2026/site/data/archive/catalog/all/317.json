@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 317,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Нургуль Маратовна Мусина",
+      "description": "",
+      "url": "https://cosmatica.org/users/95",
+      "image": "https://cosmatica.org/upload/000/u8/34/7f/83a6dffd.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=37b075d15db56ca842",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Владимир Николаевич Кучин",
+      "description": "Родился 4 июля 1952 года в небольшом поселке, расположенном в самом медвежьем углу Рязанщины, где сходятся границы Мордовии, Пензенской и Тамбовской областей, а всепогодным транспортным средством, связывавшим аборигенов с большой страной, был легендарный пассажирский поезд Москва – Вернадовка.",
+      "url": "https://cosmatica.org/users/96",
+      "image": "https://cosmatica.org/upload/000/u8/99/56/98187d60.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=4f9bcf5dea011b7c0b",
+      "type": "profile",
+      "sourceCharacters": 1314,
+      "verified": false
+    },
+    {
+      "title": "Алексей Петрович Дёмин",
+      "description": "",
+      "url": "https://cosmatica.org/users/965",
+      "image": "https://cosmatica.org/upload/000/u35/2/b/3c63f796.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=f465e9f8a38a77339d",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Александр Иванович Шипков",
+      "description": "Александр Иванович Шипков (род. 21 апреля 1936, Коломна, Московская область) — российский архитектор. Член Союза архитекторов СССР и Союза архитекторов России c 1962 года. Работал в Ленинграде, Воркуте, Норильске.",
+      "url": "https://cosmatica.org/users/98",
+      "image": "https://cosmatica.org/upload/000/u8/65/2e/104dce86.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=471e7124e01fc88c89",
+      "type": "profile",
+      "sourceCharacters": 4102,
+      "verified": false
+    },
+    {
+      "title": "Александр Петрович Ярошевич",
+      "description": "Образование [ 1976 – 1981 г.г.] Харьковский ордена Ленина авиационный институт им. Жуковского, факультет АСУ ЛА, специальность инженер-системотехник.",
+      "url": "https://cosmatica.org/users/99",
+      "image": "https://cosmatica.org/upload/000/u8/d0/b6/429972e9.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=de2f3b3ac6c1c10f9b",
+      "type": "profile",
+      "sourceCharacters": 6949,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

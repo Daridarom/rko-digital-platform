@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/639-itogi-tretego-seminara-po-ustoichivomu-razvitiyu-zhizni.html",
+  "title": "Итоги третьего семинара по устойчивому развитию жизни",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Научно-образовательные семинары по фундаментальным и прикладным проблемам устойчивого развития жизни",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/1/itogi-tretego-seminara-po-ustoichivomu-razvitiyu-zhizni-photo-norm.jpg",
+      "alt": "Итоги третьего семинара по устойчивому развитию жизни"
+    },
+    {
+      "type": "paragraph",
+      "text": "На этот раз мероприятие проходило в конференц-зале Института прикладной механики РАН, так как количество участников семинара превысило вместимость помещения центрального штаба РКО в Москве.",
+      "spans": [
+        {
+          "text": "На этот раз мероприятие проходило в конференц-зале Института прикладной механики РАН, так как  "
+        },
+        {
+          "text": "количество",
+          "href": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        },
+        {
+          "text": " участников семинара превысило вместимость помещения центрального штаба РКО в Москве. "
+        }
+      ],
+      "links": [
+        {
+          "text": "количество",
+          "url": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Приглашаем к сотрудничеству и обмену информацией научные, образовательные и общественные организации.",
+      "spans": [
+        {
+          "text": "Приглашаем к сотрудничеству и обмену информацией научные, образовательные и общественные организации. "
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/4/6/itogi-tretego-seminara-po-ustoichivomu-razvitiyu-zhizni-gallery-no.jpg",
+      "alt": "Итоги третьего семинара по устойчивому развитию жизни 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/6/5/itogi-tretego-seminara-po-ustoichivomu-razvitiyu-zhizni-gallery-no.jpg",
+      "alt": "Итоги третьего семинара по устойчивому развитию жизни 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/8/itogi-tretego-seminara-po-ustoichivomu-razvitiyu-zhizni-gallery-no.jpg",
+      "alt": "Итоги третьего семинара по устойчивому развитию жизни 2"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "14 декабря в Москве состоялось третье заседание Научно-образовательного семинара РКО по устойчивому развитию Жизни имени Б.Е. Большакова​.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "На этот раз мероприятие проходило в конференц-зале Института прикладной механики РАН, так как количество участников семинара превысило вместимость помещения центрального штаба РКО в Москве. В первой части встречи слушали презентацию лекционного курса Плохотникова Константина Эдуардовича, доктора физмат наук, ведущего научного сотрудника физического факультета МГУ, кафедра математического моделирования и информатики, тема курса \"Математическое моделирование глобальной общественной динамики\". Мат. моделир. глоб. обществ. динамики.pdf После презентации постановили: Считать представленный лекционный курс К.Э. Плохотникова перспективной и своевременной научной работой, необходимой для понимания сути вертикали управления. Чётко обозначенные автором границы структуры управления позволяют расширить горизонт её восприятия, более продуктивно рассматривать различные социально-экономические процессы и повысить эффективность управления их развитием. Практическая значимость представленной работы в том, что она позволяет делать социально значимые прогнозы на научной основе. Далее было заслушано сообщение Капустяна Виктора Михайловича, академика РАЕН, на тему: \"Два десятка проклятий\", которые нависают над человечеством, и их преодоление\". Перечень прилагаем: Капустян Перечень.pdf В итоге было принято решение считать перечень выявленных докладчиком проблем методологически обоснованным. предлагаемый им подход позволяет находить парадоксальные решения отдельных проблем на экономичной основе. Начать преодоление перечисленных проблем с обучения участников семинара. Провести следующее заседание как учебное с практическим зачётом полученных результатов. Анонс следующего семинара будет размещён в календаре сайта РКО. Приглашаем к сотрудничеству и обмену информацией научные, образовательные и общественные организации. Контактное лицо: Учёный секретарь Мумладзе Наталия Александровна, nmumladze@mail.ru",
+      "links": [
+        {
+          "title": "количество",
+          "url": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        },
+        {
+          "title": "Мат. моделир. глоб. обществ. динамики.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/Мат. моделир. глоб. обществ. динамики.pdf"
+        },
+        {
+          "title": "Капустян Перечень.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/Капустян Перечень.pdf"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/b/1/itogi-tretego-seminara-po-ustoichivomu-razvitiyu-zhizni-photo-norm.jpg",
+    "https://cosmatica.org/upload/000/u35/4/6/itogi-tretego-seminara-po-ustoichivomu-razvitiyu-zhizni-gallery-no.jpg",
+    "https://cosmatica.org/upload/000/u35/6/5/itogi-tretego-seminara-po-ustoichivomu-razvitiyu-zhizni-gallery-no.jpg",
+    "https://cosmatica.org/upload/000/u35/b/8/itogi-tretego-seminara-po-ustoichivomu-razvitiyu-zhizni-gallery-no.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 2402,
+    "storedTextCharacters": 402,
+    "sourceCardCount": 0,
+    "sourceImageCount": 4,
+    "paragraphCount": 2,
+    "sourceBytes": 53811
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 2136,
+  "capturedBodyCharacters": 402,
+  "sourceTextSHA256": "1658f448351e5ee5f84a17ba23088e9bc7acc2d4660d11edb9e3c64bce8d5bdc",
+  "archiveSnapshotAt": "2026-10-08T09:12:49Z"
+}

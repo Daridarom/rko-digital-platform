@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 183,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Член Президиума РКО награждена Премией за Мир им. Махатмы Ганди",
+      "description": "В период с 25 по 27 января 2019 года в Республике Индия с официальным визитом пребывала российская делегация, в составе которой была Афанасьева Ольга Фёдоровна - член Президиума Русского Космического Общества .",
+      "url": "https://cosmatica.org/news/323-chlen-prezidiuma-rko-nagrazhdena-premiei-za-mir-im-mahatmy-gandi.html",
+      "image": "https://cosmatica.org/upload/000/u8/7/7/9cc718ba.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=09671d101ba9b71033",
+      "type": "news-item",
+      "sourceCharacters": 1162,
+      "verified": false
+    },
+    {
+      "title": "Научно-популярная лекция \"Гардероб за миллиард: космические скафандры России\" #Профориентационно-образовательный проект \"МЫ ВЕРИМ В КОСМОС\"",
+      "description": "18 сентября (пт) в 19:00 в КЦ Зил пройдет лекция проекта мыверимвкосмос.рф.",
+      "url": "https://cosmatica.org/poster/323-nauchno-populjarnaja-lekcija-garderob-za-milliard-kosmicheskie-skafandry-rossii.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/2/nauchno-populjarnaja-lekcija-garderob-za-milliard-kosmicheskie-skaf.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=d2498a4452206c5088",
+      "type": "poster-item",
+      "sourceCharacters": 1091,
+      "verified": false
+    },
+    {
+      "title": "Велосипед (из цикла произведений «Империум Человека»)",
+      "description": "У меня свой велосипед! Уже не какой-нибудь детский, трехколесный, а настоящий стальной конь. Можно рассекать по улицам с гордо поднятой головой. Да, порой ноги до педалей едва достают, но это уже не считается. Велосипед настоящий.",
+      "url": "https://cosmatica.org/articles/322-velosiped-iz-cikla-proizvedenii-imperium-cheloveka.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=8e817a1bcbaf14f646",
+      "type": "article",
+      "sourceCharacters": 14029,
+      "verified": false
+    },
+    {
+      "title": "Диалог о двух главнейших системах мира",
+      "description": "Как бы ни был велик вклад в создание классической науки таких гигантов как Н. Коперник, И. Кеплер, Тихо Браге и др., именно Галилея принято считать ее главным основателем и героем. Разумеется, Галилею принадлежит ряд важных научных достижений, однако он не только заложил основы классической физики, он сделал нечто большее - он создал новый тип научного мышления. Он верил в возможность математического постижения физич",
+      "url": "https://cosmatica.org/library/322-dialog-o-dvuh-glavneishih-sistemah-mira.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/6/dialog-o-dvuh-glavneishih-sistemah-mira-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=dfac0ca0e3b7a561e0",
+      "type": "book",
+      "sourceCharacters": 1209,
+      "verified": false
+    },
+    {
+      "title": "Освоение новых направлений",
+      "description": "Члены молодежного совета РКО Прудник Денис Олегович и Самарин Игорь Сергеевич провели рабочую встречу с заместителем директора института Мартыновым Дмитрием Юрьевичем .",
+      "url": "https://cosmatica.org/news/322-osvoenie-novyh-napravlenii.html",
+      "image": "https://cosmatica.org/upload/000/u26/e/5/ca0a5736.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cd035b6a7a73377efc",
+      "type": "news-item",
+      "sourceCharacters": 2084,
+      "verified": false
+    },
+    {
+      "title": "Жажда (из цикла произведений «Империум Человека»)",
+      "description": "«Без сомнения нет веры. Без страха нет мужества».",
+      "url": "https://cosmatica.org/articles/321-zhazhda-iz-cikla-proizvedenii-imperium-cheloveka.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=92be78c2263384670c",
+      "type": "article",
+      "sourceCharacters": 34739,
+      "verified": false
+    },
+    {
+      "title": "Звёзды (1994)",
+      "description": "С началом космической эры звезды стали нам ближе. Мы смогли прикоснуться к Венере и Марсу, нашим ближайшим соседям, а на Луну даже несколько раз высаживались астронавты. Так что древнейшая наука о звездах, астрономия, в наши дни не только не исчерпала себя, но, напротив, стала еще более интересной.",
+      "url": "https://cosmatica.org/library/321-zvyozdy-1994.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/0/zvyozdy-1994-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=b63fa43a897cdb4519",
+      "type": "book",
+      "sourceCharacters": 334,
+      "verified": false
+    },
+    {
+      "title": "Когда общество и власть двигаются вместе!",
+      "description": "В середине января этого года от имени Гагаринского комитета, в числе других, было написано письмо и Губернатору Нижегородской области Глебу Сергеевичу Никитину.",
+      "url": "https://cosmatica.org/news/321-kogda-obschestvo-i-vlast-dvigayutsja-vmeste.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/1/kogda-obschestvo-i-vlast-dvigayutsja-vmeste-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d7b7b29db19bda681d",
+      "type": "news-item",
+      "sourceCharacters": 3051,
+      "verified": false
+    },
+    {
+      "title": "Стройка в невесомости: Международная космическая станция #Профориентационно-образовательный проект \"МЫ ВЕРИМ В КОСМОС\"",
+      "description": "26 сентября в 18:00 в рамках образовательной программы центра «Космонавтика и авиация» Денис Олегович Прудник, председатель Молодёжного совета Русского Космического Общества, популяризатор космонавтики, основатель и руководитель проекта мыверимвкосмос.рф прочитает лекцию «Стройка в невесомости: Международная космическая станция»",
+      "url": "https://cosmatica.org/poster/321-stroika-v-nevesomosti-mezhdunarodnaja-kosmicheskaja-stancija.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/5/stroika-v-nevesomosti-mezhdunarodnaja-kosmicheskaja-stancija-photo-b.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=39b4d8a1f24c9eabd9",
+      "type": "poster-item",
+      "sourceCharacters": 918,
+      "verified": false
+    },
+    {
+      "title": "Вступительное слово",
+      "description": "«Сорок шесть лет тому назад на окраине города Ржева я убил человека. Командуя взводом разведки, не сумев взять языка. Мы забрали документы убитого. У него был партийный билет члена Национал-Социалистической Немецкой Рабочей Партии. Имея 18 лет от роду, мне было очень трудно понять, кто и против кого воюет? Кто и что защищает? И мы, и немцы воюем за Социализм, и у нас, и у них Партия Рабочая? В этом случае уж совсем н",
+      "url": "https://cosmatica.org/articles/320-vstupitelnoe-slovo.html",
+      "image": "https://cosmatica.org/upload/000/u26/13/87/bez-imeni-1.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=9e052d15d51f350486",
+      "type": "article",
+      "sourceCharacters": 6019,
+      "verified": false
+    },
+    {
+      "title": "Земля и её вращение (1984)",
+      "description": "Автор книги — старейший советский астроном, популярно рассказывает о планете на которой мы живем,— о ее форме, размерах, массе, средней плотности, вращении, о том какие доказательства подтверждают это вращение, как оно используется для измерения времени. Специальные разделы посвящены неравномерности вращения Земли и причинам этой неравномерности, изменению положения оси вращения Земли и изменению географических широт",
+      "url": "https://cosmatica.org/library/320-zemlja-i-eyo-vraschenie-1984.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/4/zemlja-i-eyo-vraschenie-1984-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=d65e4831974678528e",
+      "type": "book",
+      "sourceCharacters": 564,
+      "verified": false
+    },
+    {
+      "title": "Все дороги ведут в РКО",
+      "description": "На нашей площадке собрались представители организаций, которые (казалось бы) ничем не связаны между собой.",
+      "url": "https://cosmatica.org/news/320-vse-dorogi-vedut-v-rko.html",
+      "image": "https://cosmatica.org/upload/000/u8/3/a/vse-dorogi-vedut-v-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8e366c3dc6d6bec354",
+      "type": "news-item",
+      "sourceCharacters": 4024,
+      "verified": false
+    },
+    {
+      "title": "Спортивный космос #Профориентационно-образовательный проект \"МЫ ВЕРИМ В КОСМОС\"",
+      "description": "Он расскажет гостям о том, какой спортивный путь проходят покорители Вселенной с момента отбора в отряд космонавтов до полета на орбиту.",
+      "url": "https://cosmatica.org/poster/320-sportivnyi-kosmos.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/6/56d5d1ee.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=cf7ef3d10f3ff10e48",
+      "type": "poster-item",
+      "sourceCharacters": 1057,
+      "verified": false
+    },
+    {
+      "title": "От полюса до полюса",
+      "description": "Совсем недавно завершилась экспедиция «Загадки и легенды Чукотки 2018», проходящая под эгидой массового проекта «От полюса до полюса», автором которого является член Арктического Совета Чуков Владимир Семёнович. Группа в составе 10 человек на двух вездеходах «Арктика-М» прошла кольцевой маршрут около 600 км к С-В от Певека. Главной её задачей было побывать на месте стоянки оленеводов-кочевников в нижнем течении р. Пе",
+      "url": "https://cosmatica.org/articles/319-ot-polyusa-do-polyusa.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=3e335e046455d14de7",
+      "type": "article",
+      "sourceCharacters": 1929,
+      "verified": false
+    },
+    {
+      "title": "Изготовление и контроль оптических деталей (1983)",
+      "description": "Приведены основные сведения об изготовлении оптических деталей, свойствах стекла, обрабатывающих и вспомогательных материалах; рассмотрены станки, инструменты и технологическая оснастка для обработки деталей; описан технологический процесс обработки; даны краткие сведения о механизации и автоматизации процессов оптического производства; изложены методы технического контроля.",
+      "url": "https://cosmatica.org/library/319-izgotovlenie-i-kontrol-opticheskih-detalei-1983.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/d/izgotovlenie-i-kontrol-opticheskih-detalei-1983-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=d1744f0c1402ce5feb",
+      "type": "book",
+      "sourceCharacters": 433,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 16,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Первое заседание Общественного экспертного совета ФНС",
+      "description": "30 октября 2024 года в Круглом зале Дома Союзов при поддержке Комитета Государственной Думы по региональной политике и местному самоуправлению состоялось первое заседание Общественного Экспертного совета по социально-экономическому прогнозированию и планированию (далее – Общественный Экспертный совет).",
+      "url": "https://cosmatica.org/news/1960-pervoe-zasedanie-obschestvennogo-ekspertnogo-soveta-fns.html",
+      "image": "https://cosmatica.org/upload/000/u7/b/c/pervoe-zasedanie-obschestvennogo-ekspertnogo-soveta-fns-photo-norm.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=155736d9b99d34f762",
+      "type": "news-item",
+      "sourceCharacters": 16813,
+      "verified": false
+    },
+    {
+      "title": "Философская осень: Возрождение традиций",
+      "description": "В этом году проект был посвящён празднованию 300-летия Российской Академии наук и 160-летия М.И. Туган-Барановского.",
+      "url": "https://cosmatica.org/news/1956-filosofskaja-osen-vozrozhdenie-tradicii.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/b/filosofskaja-osen-vozrozhdenie-tradicii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7cc9bab078da91b8ef",
+      "type": "news-item",
+      "sourceCharacters": 3401,
+      "verified": false
+    },
+    {
+      "title": "Гагаринцы Лобни посетили Звёздный городок",
+      "description": "Юрий Гагарин положил начало космической эре. Это вдохновляющий пример для будущих поколений.",
+      "url": "https://cosmatica.org/news/1955-gagarincy-lobni-posetili-zvyozdnyi-gorodok.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/5/0e0136cd.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=675121598c1fa50350",
+      "type": "news-item",
+      "sourceCharacters": 1590,
+      "verified": false
+    },
+    {
+      "title": "Столичная ладья. Курс на победу",
+      "description": "Турнир стал настоящим праздником для всех любителей интеллектуальной игры, объединив соревнования, мастер-классы и развлекательную программу.",
+      "url": "https://cosmatica.org/news/1958-stolichnaja-ladja-kurs-na-pobedu.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/3/stolichnaja-ladja-kurs-na-pobedu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d4f586228c4b45eb9a",
+      "type": "news-item",
+      "sourceCharacters": 3927,
+      "verified": false
+    },
+    {
+      "title": "Мамины сказки каждому ребёнку",
+      "description": "В каждой стране, в каждом уголке земли есть брошенные, несчастные малыши, которым нужна поддержка. Новый фильм «Мамины сказки» – воззвание, призыв к женщинам всего мира о помощи детям, оставшимся без родителей, детям разрушенных городов.",
+      "url": "https://cosmatica.org/news/1954-maminy-skazki-kazhdomu-rebyonku.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/e/maminy-skazki-kazhdomu-rebyonku-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=51e27855a31005f9b5",
+      "type": "news-item",
+      "sourceCharacters": 2208,
+      "verified": false
+    },
+    {
+      "title": "Мир, в котором хочется жить",
+      "description": "Медали, как и любые другие награды, несут в себе символизм, но важен ли сам знак без реальных действий и осмысленного отношения к тому, что он олицетворяет? Это не просто признание заслуг, а своего рода ответственность перед будущим.",
+      "url": "https://cosmatica.org/news/1953-mir-v-kotorom-hochetsja-zhit.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/9/43fa0522.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f7236a2d97177406e4",
+      "type": "news-item",
+      "sourceCharacters": 3112,
+      "verified": false
+    },
+    {
+      "title": "Сплочение и труд – это Всетруд!",
+      "description": "Мы знаем, что в современном мире высоких скоростей и вечной занятости люди перестали читать большие тексты, а многие вообще перестали читать. Новости стали короткие и сухие. Вычленяем главное. А часто в информационной ленте эфир и просто забит картинками.",
+      "url": "https://cosmatica.org/news/1952-splochenie-i-trud-eto-vsetrud.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/6/splochenie-i-trud-eto-vsetrud-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4c3ae0908ac27c22b2",
+      "type": "news-item",
+      "sourceCharacters": 17586,
+      "verified": false
+    },
+    {
+      "title": "Меркулов Александр Алексеевич вступил в должность Президента Русского Космического Общества",
+      "description": "Делаю своё первое обращение, как Президент Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/1950-merkulov-aleksandr-alekseevich-vstupil-v-dolzhnost-prezidenta-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/2/merkulov-aleksandr-alekseevich-vstupil-v-dolzhnost-prezidenta-rus.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0875a069487b0c3a1e",
+      "type": "news-item",
+      "sourceCharacters": 4040,
+      "verified": false
+    },
+    {
+      "title": "Гагаринцы вышли и решили!",
+      "description": "Гагаринский отряд лицея №17 отметил первый день космической недели общением с жителями нашего города на тему космоса, а также принял участие в масштабной контрольной работе.",
+      "url": "https://cosmatica.org/news/1947-gagarincy-vyshli-i-reshili.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/3/gagarincy-vyshli-i-reshili-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7bc7cd2e2dd9cb7c3b",
+      "type": "news-item",
+      "sourceCharacters": 2805,
+      "verified": false
+    },
+    {
+      "title": "Одна Земля у нас. Одна для нас награда - служить Отечеству. Гагарин, мы с тобой!",
+      "description": "В конце сентября – начале октября сразу в нескольких школах Донецка и Макеевки появились новые Гагаринские отряды. Дружина Гагаринцев донецкой земли принимала пополнение, приурочив мероприятия ко Дню запуска первого искусственного спутника Земли 4 октября.",
+      "url": "https://cosmatica.org/news/1949-odna-zemlja-u-nas-odna-dlja-nas-nagrada-sluzhit-otechestvu-gagarin-my-s-toboi.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/4/odna-zemlja-u-nas-odna-dlja-nas-nagrada-sluzhit-otechestvu-gag.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9234af01e5a7cf32fc",
+      "type": "news-item",
+      "sourceCharacters": 5955,
+      "verified": false
+    },
+    {
+      "title": "Индекс ноосферного развития обсудили в Росстате",
+      "description": "8 октября 2024 года на заседании Научно-методологического совета Росстата состоялось заслушивание Индекса устойчивого ноосферного развития регионов России.",
+      "url": "https://cosmatica.org/news/1948-indeks-noosfernogo-razvitija-obsudili-v-rosstate.html",
+      "image": "https://cosmatica.org/upload/000/u46/7/d/indeks-noosfernogo-razvitija-obsudili-v-rosstate-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=94e7271f1c69a72fa9",
+      "type": "news-item",
+      "sourceCharacters": 7243,
+      "verified": false
+    },
+    {
+      "title": "Капитан \"Звездолёта\" наградил лучших членов экипажа",
+      "description": "В мае этого года завершилась вторая экспедиция космического корабля Звездолёт по маршрутному листу «Подвиг Гагарина».",
+      "url": "https://cosmatica.org/news/1946-kapitan-zvezdolyota-nagradil-luchshih-chlenov-ekipazha.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/4/kapitan-zvezdolyota-nagradil-luchshih-chlenov-ekipazha-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d09c7fbc6a35ed75c7",
+      "type": "news-item",
+      "sourceCharacters": 6616,
+      "verified": false
+    },
+    {
+      "title": "Молодежный совет РКО отметил День рождения в стенах медиа-субъекта «Аврора»",
+      "description": "День рождения — это не просто дата, это чудесная возможность собраться вместе, обменяться идеями и строить планы на будущее. Именно так прошел один из недавних дней для Молодёжного совета Русского Космического Общества, который почти в полном составе собрался в стенах медиа-субъекта «Аврора». Этот гостеприимный центр открыл свои двери для юных участников, предоставив им пространство для творчества и обмена мнениями.",
+      "url": "https://cosmatica.org/news/1945-molodezhnyi-sovet-russkogo-kosmicheskogo-obschestva-otmetil-den-rozhdenija-v-stenah-media-subek.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/f/molodezhnyi-sovet-russkogo-kosmicheskogo-obschestva-otmetil-den-rozh.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b9d29298e8dd019ec5",
+      "type": "news-item",
+      "sourceCharacters": 1636,
+      "verified": false
+    },
+    {
+      "title": "Воспитание Человека как задача №1",
+      "description": "С 23 по 25 сентября Руководящий состав РКО снова трудился в самой горячей точке нашей Родины.",
+      "url": "https://cosmatica.org/news/1944-vospitanie-cheloveka-kak-zadacha-1.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/0/vospitanie-cheloveka-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0ac40fc58a6dda0375",
+      "type": "news-item",
+      "sourceCharacters": 4466,
+      "verified": false
+    },
+    {
+      "title": "Рабочие будни в Донецкой Республике",
+      "description": "Всем уже известно, что мы постоянно занимаемся пополнением и формированием библиотечных фондов на «новых» территориях.",
+      "url": "https://cosmatica.org/news/1943-gumanitarnaja-missija-rko-v-doneckoi-respublike-svodki-s-polei.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/d/gumanitarnaja-missija-rko-v-doneckoi-respublike-svodki-s-polei-p.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bd807786e73266123b",
+      "type": "news-item",
+      "sourceCharacters": 3171,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

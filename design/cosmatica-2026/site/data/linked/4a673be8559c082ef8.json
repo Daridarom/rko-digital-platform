@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/346-kniga-dlja-chtenija-po-himii-chast-pervaja.html",
+  "title": "Книга для чтения по химии (часть первая)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/4/1/kniga-dlja-chtenija-po-himii-chast-pervaja-photo-normal.png",
+      "alt": "Книга для чтения по химии (часть первая)"
+    },
+    {
+      "type": "paragraph",
+      "text": "В книге содержатся статьи, дополняющие и расширяющие материал, входящий в школьный курс химии.",
+      "spans": [
+        {
+          "text": "В книге содержатся статьи, дополняющие и расширяющие материал, входящий в школьный курс химии."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Парменов К.Я., Сморгонский Л.М.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В книге содержатся статьи, дополняющие и расширяющие материал, входящий в школьный курс химии.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 20 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2130/55d39475d01f88633d1a7c1b1b205d16"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/4/1/kniga-dlja-chtenija-po-himii-chast-pervaja-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2130/55d39475d01f88633d1a7c1b1b205d16"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 194,
+    "storedTextCharacters": 94,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40121
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 153,
+  "capturedBodyCharacters": 94,
+  "sourceTextSHA256": "6e5c25941f56bd0e18ce0852920ab2b122c0bea876d78d713c81f766dcd2b5d9",
+  "archiveSnapshotAt": "2026-10-08T08:49:26Z"
+}

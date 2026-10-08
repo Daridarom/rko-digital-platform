@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/81-princip-zhivuchesti-ili-sohranenie-razvitija.html",
+  "title": "Принцип живучести или сохранение развития",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "«В ходе геологическо­го времени растет",
+      "spans": [
+        {
+          "text": "«В ходе геологическо­го времени растет"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мощность",
+      "spans": [
+        {
+          "text": "мощность"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "выявления живого вещества в биосфере».\r\n(В.И. Вернадский)",
+      "spans": [
+        {
+          "text": "выявления живого вещества в биосфере».\r\n(В.И. Вернадский)"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "«В ходе геологическо­го времени растет мощность выявления живого вещества в биосфере». (В.И. Вернадский)",
+      "links": [
+        {
+          "title": "мощность",
+          "url": "https://cosmatica.org/glossary/104-moschnost.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 146,
+    "storedTextCharacters": 103,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32117
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 104,
+  "capturedBodyCharacters": 103,
+  "sourceTextSHA256": "ccd8b5a995a2ae9901c740677fcd84eb6a0eecb6980cd0a5e5d2d23baa5abd95",
+  "archiveSnapshotAt": "2026-10-08T08:47:17Z"
+}

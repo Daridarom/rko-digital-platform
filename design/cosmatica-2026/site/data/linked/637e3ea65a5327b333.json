@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/26-nekotorye-voprosy-upravlenija-nauchno-tehnicheskim-progressom.html",
+  "title": "Некоторые вопросы управления научно-техническим прогрессом",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Об оптимальном использовании научно-технических\r\nсредств путем совершенствования системы управления.",
+      "spans": [
+        {
+          "text": "Об оптимальном использовании научно-технических\r\nсредств путем совершенствования системы управления."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Об оптимальном использовании научно-технических средств путем совершенствования системы управления.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 177 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/42/54e7867daf630686c6994e14fe2be967"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/42/54e7867daf630686c6994e14fe2be967"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 179,
+    "storedTextCharacters": 100,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39205
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 120,
+  "capturedBodyCharacters": 100,
+  "sourceTextSHA256": "0ab4e72bf010c18de6913afd890399406c43cc7da11c8c2cb174873ea7c3127e",
+  "archiveSnapshotAt": "2026-10-08T08:48:19Z"
+}

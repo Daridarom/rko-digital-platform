@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/357",
+  "title": "Игорь Викторович Скикевич",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/f/54b26800.jpg",
+      "alt": "Игорь Викторович Скикевич"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/e/0/2a12a8a2.jpg",
+      "alt": "Игорь Викторович Скикевич"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "— Руководитель отдела по работе с молодежью Экспедиционного Центра «Арктика» РГО.",
+      "spans": [
+        {
+          "text": "— Руководитель отдела по работе с молодежью Экспедиционного Центра «Арктика» РГО."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— Член Томского областного отделения РГО — эксперт по паратуризму.",
+      "spans": [
+        {
+          "text": "— Член Томского областного отделения РГО — эксперт по паратуризму."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— Член Совета патриотических организаций Центрального Исполкома «Офицеры России».",
+      "spans": [
+        {
+          "text": "— Член Совета патриотических организаций Центрального Исполкома «Офицеры России»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— Председатель Суворовского патриотического движения «Доблесть и верность»,",
+      "spans": [
+        {
+          "text": "— Председатель Суворовского патриотического движения «Доблесть и верность»,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— Председатель благотворительного фонда «Компас Жизни».",
+      "spans": [
+        {
+          "text": "— Председатель благотворительного фонда «Компас Жизни»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Парапутешественник.",
+      "spans": [
+        {
+          "text": "Парапутешественник."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "— Руководитель отдела по работе с молодежью Экспедиционного Центра «Арктика» РГО. — Член Томского областного отделения РГО — эксперт по паратуризму. — Член Совета патриотических организаций Центрального Исполкома «Офицеры России». — Председатель Суворовского патриотического движения «Доблесть и верность», — Председатель благотворительного фонда «Компас Жизни». Парапутешественник.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/c/f/54b26800.jpg",
+    "https://cosmatica.org/upload/000/u35/e/0/2a12a8a2.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 461,
+    "storedTextCharacters": 410,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35597
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 410,
+  "capturedBodyCharacters": 410,
+  "sourceTextSHA256": "d0246e689ae89c906d1f8679048361ad805b21957969dc465d911fa30e897c42",
+  "archiveSnapshotAt": "2026-10-08T09:19:20Z"
+}

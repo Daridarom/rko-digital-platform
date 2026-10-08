@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/418",
+  "title": "Валерий Яковлевич Васильев",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/e/9/ee6d8ea0.jpg",
+      "alt": "Валерий Яковлевич Васильев"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/6/f/e7b8368a.jpg",
+      "alt": "Валерий Яковлевич Васильев"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Удмуртская республика",
+      "links": [
+        {
+          "title": "Удмуртская республика",
+          "url": "https://cosmatica.org/departments/22-udmurtskaja-respublika.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/e/9/ee6d8ea0.jpg",
+    "https://cosmatica.org/upload/000/u35/6/f/e7b8368a.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 84,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34055
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 32,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "b584ddbc674cf1c91f0001ece61f3e2b602ee3554a2d0641127911268b046c75",
+  "archiveSnapshotAt": "2026-10-08T09:19:37Z"
+}

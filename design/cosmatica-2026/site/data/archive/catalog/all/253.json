@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 253,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Эпизод из жизни РКО в Санкт-Петербурге.",
+      "description": "15 марта в Санкт-Петербурге состоялось заседание Секции истории авиации и космонавтики СПбФ ИИЕТ РАН \"ПРОТИВ СТЕЛСА\".",
+      "url": "https://cosmatica.org/news/66-epizod-iz-zhizni-rko-v-sankt-peterburge.html",
+      "image": "https://cosmatica.org/upload/000/u21/c8/36/epizod-iz-zhizni-rko-v-sankt-peterburge-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=05f88a92479882f10f",
+      "type": "news-item",
+      "sourceCharacters": 1567,
+      "verified": false
+    },
+    {
+      "title": "ВЫПУСК № 17. 2019, ЯНВАРЬ",
+      "description": "В Ваших руках первый выпуск газеты Русского Космического Общества в 2019 году. Он открывает новый этап свершений, достижений и побед.",
+      "url": "https://cosmatica.org/newspaper/66-vypusk-17-2019-janvar.html",
+      "image": "https://cosmatica.org/upload/000/u26/2/9/1february.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=6f07d6920e5e591a9d",
+      "type": "article",
+      "sourceCharacters": 4366,
+      "verified": false
+    },
+    {
+      "title": "Общественно-частно-государственное единство (ОЧАГ)",
+      "description": "Общественно-частно-государственное единство (ОЧАГ), как фактор национальной безопасности и устойчивого инновационного развития России [1] .",
+      "url": "https://cosmatica.org/articles/65-obschestvenno-chastno-gosudarstvennoe-edinstvo-ochag.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=a3cb9daa9e5e5f7d41",
+      "type": "article",
+      "sourceCharacters": 14938,
+      "verified": false
+    },
+    {
+      "title": "Н.А.Искаков - Устойчивое развитие: наука и практика",
+      "description": "Монография посвящена интеграции науки и практики в решении проблемы перехода к устойчивому развитию общества во взаимодействии с окружающей человека природной средой. Обсуждение проблемы базируется на мировом опыте и национальном опыте Казахстана. Впервые излагается обобщение научных исследований в области интеграции мировоззре- ния, теории, методологии, технологии и проектного управления устойчивым развитием. Обсуж-",
+      "url": "https://cosmatica.org/library/65-n-a-iskakov-ustoichivoe-razvitie-nauka-i-praktika.html",
+      "image": "https://cosmatica.org/upload/000/u1/1e/57/n-a-iskakov-ustoichivoe-razvitie-nauka-i-praktika-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ed2d93d57093dd7ed0",
+      "type": "book",
+      "sourceCharacters": 1081,
+      "verified": false
+    },
+    {
+      "title": "XX Международные научные чтения имени Игоря Ивановича Сикорского",
+      "description": "Уважаемые коллеги, историки авиации, учёные, исследователи, потомки российских и зарубежных авиаторов, молодые учёные, аспиранты, студенты, представители предприятий гражданской авиации и связанных с ней отраслей, представители научных и образовательных учреждений, музеев, журналисты, частные лица – все, кого интересует история и современное состояние отечественной авиации, приглашаем Вас на:",
+      "url": "https://cosmatica.org/news/65-xx-mezhdunarodnye-nauchnye-chtenija-imeni-igorja-ivanovicha-sikorskogo.html",
+      "image": "https://cosmatica.org/upload/000/u21/70/7b/xx-mezhdunarodnye-nauchnye-chtenija-imeni-igorja-ivanovicha-sikorskogo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b63178b7464ef32e4c",
+      "type": "news-item",
+      "sourceCharacters": 2422,
+      "verified": false
+    },
+    {
+      "title": "Выпуск № 16. 2018, декабрь",
+      "description": "В преддверии Нового года принято вспоминать о событиях года минувшего, подводить итоги, строить планы.",
+      "url": "https://cosmatica.org/newspaper/65-vypusk-16-2018-dekabr.html",
+      "image": "https://cosmatica.org/upload/000/u26/e9/5f/bezymjannyi.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=344c635656a651bf47",
+      "type": "article",
+      "sourceCharacters": 7544,
+      "verified": false
+    },
+    {
+      "title": "Презентация экологического фонда “Подари жизнь воде”",
+      "description": "Российская академия естественных наук (РАЕН) отделение \"Ноосферное образование\"",
+      "url": "https://cosmatica.org/poster/65-prezentacija-ekologicheskogo-fonda-podari-zhizn-vode.html",
+      "image": "https://cosmatica.org/upload/000/u26/ce/c8/prezentacija-ekologicheskogo-fonda-podari-zhizn-vode-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=52c767e4a070758ee1",
+      "type": "poster-item",
+      "sourceCharacters": 2752,
+      "verified": false
+    },
+    {
+      "title": "Обеспечить жизнь всем живущим без ущерба следующим поколениям",
+      "description": "ОБЕСПЕЧИТЬ ЖИЗНЬ ВСЕМ ЖИВУЩИМ БЕЗ УЩЕРБА СЛЕДУЮЩИМ ПОКОЛЕНИЯМ",
+      "url": "https://cosmatica.org/articles/64-obespechit-zhizn-vsem-zhivuschim-bez-uscherba-sleduyuschim-pokolenijam.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=1a2671a5499678fb03",
+      "type": "article",
+      "sourceCharacters": 14793,
+      "verified": false
+    },
+    {
+      "title": "Пространство",
+      "description": "многомерная протяженность, обладающая проника­ющей способностью во",
+      "url": "https://cosmatica.org/glossary/64-prostranstvo.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=33a56a1834e806f95e",
+      "type": "article",
+      "sourceCharacters": 74,
+      "verified": false
+    },
+    {
+      "title": "Научно-образовательная газета «Природа – Общество – Человек: ноосферное Устойчивое Развитие»",
+      "description": "Мы также преследуем цель удовлетворения потребности интеллектуальной части наших соотечественников в актуальной информации относительно науки ноосферного устойчивого развития. Считаем крайне важным донести до молодёжи научные идеи, опираясь на которые можно без преувеличения стать генеральными конструкторами будущего и инженерами истории!",
+      "url": "https://cosmatica.org/news/64-odnim-iz-proektov-russkogo-kosmicheskogo-obschestva-javljaetsja-nauchno-obrazovatelnaja-gazeta-pr.html",
+      "image": "https://cosmatica.org/upload/000/u1/86/d8/odnim-iz-proektov-russkogo-kosmicheskogo-obschestva-javljaetsja-nauchno.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=42462e521b76495e83",
+      "type": "news-item",
+      "sourceCharacters": 1618,
+      "verified": false
+    },
+    {
+      "title": "Выпуск № 17. 2019, январь",
+      "description": "В Ваших руках первый выпуск газеты Русского Космического Общества в 2019 году. Он открывает новый этап свершений, достижений и побед.",
+      "url": "https://cosmatica.org/newspaper/64-vypusk-17-2019-janvar.html",
+      "image": "https://cosmatica.org/upload/000/u8/7d/2b/bezymjannyi.png",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=7e480b75cd2fe8e9a1",
+      "type": "article",
+      "sourceCharacters": 4320,
+      "verified": false
+    },
+    {
+      "title": "Встреча-конференция \"\"Энергия-Буран\" 30 лет спустя.\" #Встреча-конференция «\"Энергия-Буран\" 30 лет спустя»",
+      "description": "Исторический старт МТКС «Энергия-Буран» состоялся 15 ноября 1988 года.",
+      "url": "https://cosmatica.org/poster/64-vstrecha-konferencija-energija-buran-30-let-spustja.html",
+      "image": "https://cosmatica.org/upload/000/u26/a3/f5/vstrecha-konferencija-energija-buran-30-let-spustja-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=45e5d5218f9bbe894d",
+      "type": "poster-item",
+      "sourceCharacters": 3920,
+      "verified": false
+    },
+    {
+      "title": "Проблема",
+      "description": "это разница между необходимым и фактическим (текущим) состоянием системы.",
+      "url": "https://cosmatica.org/glossary/63-problema.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=b971968298b1600966",
+      "type": "article",
+      "sourceCharacters": 73,
+      "verified": false
+    },
+    {
+      "title": "Крон Г. - Тензорный анализ сетей часть 2",
+      "description": "",
+      "url": "https://cosmatica.org/library/63-kron-g-tenzornyi-analiz-setei-chast-2.html",
+      "image": "https://cosmatica.org/upload/000/u1/27/c7/kron-g-tenzornyi-analiz-setei-chast-2-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=419f50ee6d8c7655db",
+      "type": "book",
+      "sourceCharacters": 19,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество укрепило позиции в Санкт-Петербурге",
+      "description": "Предлагаем вашему вниманию отчётный видеосюжет с прошедшего 2 февраля 2018 года общего (учредительного) собрания Санкт-Петербургского отделения РКО.",
+      "url": "https://cosmatica.org/news/63-russkoe-kosmicheskoe-obschestvo-ukrepilo-pozicii-v-sankt-peterburge.html",
+      "image": "https://cosmatica.org/upload/000/u21/76/d3/russkoe-kosmicheskoe-obschestvo-ukrepilo-pozicii-v-sankt-peterburge.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=70e05426655d44ba75",
+      "type": "news-item",
+      "sourceCharacters": 165,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

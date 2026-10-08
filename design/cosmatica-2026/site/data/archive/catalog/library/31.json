@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "library",
+  "title": "Библиотека",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 31,
+  "pageCount": 34,
+  "total": 510,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Работы П.Г.Кузнецова на сайте Situation.ru",
+      "description": "",
+      "url": "https://cosmatica.org/library/54-raboty-p-g-kuznecova-na-saite-situation-ru.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=441b9238d2c7629682",
+      "type": "book",
+      "sourceCharacters": 36,
+      "verified": false
+    },
+    {
+      "title": "Электронный архив П.Г.Кузнецова",
+      "description": "http://www.pobisk-memory.narod.ru/library.htm",
+      "url": "https://cosmatica.org/library/53-elektronnyi-arhiv-p-g-kuznecova.html",
+      "image": "https://cosmatica.org/upload/000/u1/2f/3d/elektronnyi-arhiv-p-g-kuznecova-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7dbc333dadc02329af",
+      "type": "book",
+      "sourceCharacters": 66,
+      "verified": false
+    },
+    {
+      "title": "Избранные труды П.Г.Кузнецова",
+      "description": "Побиск Георгиевич Кузнецов (1924-2000) — советский учёный, последний из Генеральных конструкторов СССР, специалист по системам целевого управления и планирования. Большое влияние на П. Г. Кузнецова, как утверждал он сам, в философии оказали труды Николая Фёдорова. В основе его идей лежат труды крупнейших философов, математиков и физиков, среди которых: Кант, Гегель, Фихте, Маркс, Энгельс, Федоров, Подолинский, Умов, ",
+      "url": "https://cosmatica.org/library/47-izbrannye-trudy-p-g-kuznecova.html",
+      "image": "https://cosmatica.org/upload/000/u1/86/f9/izbrannye-trudy-p-g-kuznecova-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=986ce61e2bb796c74b",
+      "type": "book",
+      "sourceCharacters": 571,
+      "verified": false
+    },
+    {
+      "title": "О смысле жизни человечества",
+      "description": "У меня есть еще несколько месяцев (а может быть и дней), чтобы высказать то, что не нашло отражения в книгах обо мне.",
+      "url": "https://cosmatica.org/library/46-o-smysle-zhizni-chelovechestva.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=d59566fe1bde3d383b",
+      "type": "book",
+      "sourceCharacters": 136,
+      "verified": false
+    },
+    {
+      "title": "Метод «дефектной ведомости»",
+      "description": "Немного истории. В 1964 г. к специалистам, входящим в состав рабочей группы газеты «Правда», обратились из Техниче- ского управления Госкомитета по химии с вопросом: «Не могли бы вы указать перспективные направления развития химической промышленности?». Поскольку в группе были и физики, и химики, и другие специалисты, то в первый момент сама поста- новка вопроса показалась просто дикой.",
+      "url": "https://cosmatica.org/library/45-metod-defektnoi-vedomosti.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=77d53a66687b907e1e",
+      "type": "book",
+      "sourceCharacters": 410,
+      "verified": false
+    },
+    {
+      "title": "Тождество и противоположность грамматических и логических форм",
+      "description": "Работы Канта привели к ясному осознанию АНТИНОМИЙ. Кант пытался построить «аксиоматическую теорию Вселенной», частными случаями которой были бы все известные и будущие научные дисциплины.",
+      "url": "https://cosmatica.org/library/44-tozhdestvo-i-protivopolozhnost-grammaticheskih-i-logicheskih-form.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=55adf77a3d3bb01771",
+      "type": "book",
+      "sourceCharacters": 208,
+      "verified": false
+    },
+    {
+      "title": "Киловатт-час — универсальная мера стоимости в мировой экономике III тысячелетия (к парламентским слу",
+      "description": "Больше тридцати лет тому назад пришлось мне выступать на «закрытом» совещании по методам оценки экономической эффективности разделения редких земель. В те времена химики-редкоземельщики и химики-ядерщики «ходили одной командой» и прекрасно знали друг друга в лицо.",
+      "url": "https://cosmatica.org/library/43-kilovatt-chas-universalnaja-mera-stoimosti-v-mirovoi-ekonomike-iii-tysjacheletija-k-parlamentskim.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=a43974b4bd79b05447",
+      "type": "book",
+      "sourceCharacters": 284,
+      "verified": false
+    },
+    {
+      "title": "К проблеме оснований математики",
+      "description": "Из обилия возможных проблем, связанных с основаниями математики я выбираю только три. Почему человечество (с необходимостью, присущей случаю) должно было придумать математику? Почему математика должна быть устроена аксиоматически? Почему",
+      "url": "https://cosmatica.org/library/42-k-probleme-osnovanii-matematiki.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=8178f4b4254d7c72dc",
+      "type": "book",
+      "sourceCharacters": 350,
+      "verified": false
+    },
+    {
+      "title": "Конструкторы будущего: интервью с П.Г. Кузнецовым",
+      "description": "КУЗНЕЦОВ Побиск Георгиевич окончил военно-морскую спецшколу. Просился добровольцем на фронт. Не взяли, не хватило лет. Поступил в танковое училище. Воевал в гвардейской танковой бригаде командиром взвода разведки.",
+      "url": "https://cosmatica.org/library/41-konstruktory-buduschego-intervyu-s-p-g-kuznecovym.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=8e91f44e88e1cdfb72",
+      "type": "book",
+      "sourceCharacters": 234,
+      "verified": false
+    },
+    {
+      "title": "Меморандум о преступлениях против Человечества Международного Валютного Фонда",
+      "description": "Зная Ваши взаимоотношения с Международным Валютным Фондом, ставим Вас в известность, что Вы имеете дело с шайкой фальшивомонетчиков, которых пора судить Международным трибуналом за преступления против Человечества.",
+      "url": "https://cosmatica.org/library/40-memorandum-o-prestuplenijah-protiv-chelovechestva-mezhdunarodnogo-valyutnogo-fonda.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=014c1f6c5a78ca4abb",
+      "type": "book",
+      "sourceCharacters": 235,
+      "verified": false
+    },
+    {
+      "title": "LaRouche in dialogue with Russian science (дискуссия П.Г. Кузнецова и Линдона Ларуша на семинаре в А",
+      "description": "The lectures and discussion presented here took place on April 28, 1994 in Moscow before an audience of approximately 60 Russian scientists. The occasion was the monthly gathering under the auspices of the “Prezident” program, initiated by Dr. Pobisk Kuznetsov to explore the application of experience gained in developing life-support systems for spaceships and orbital stations, to the question of the survival of huma",
+      "url": "https://cosmatica.org/library/39-larouche-in-dialogue-with-russian-science-diskussija-p-g-kuznecova-i-lindona-larusha-na-seminare-.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=2a6f07f78967c4046b",
+      "type": "book",
+      "sourceCharacters": 489,
+      "verified": false
+    },
+    {
+      "title": "Принцип полной редукции как «двойник» принципа полной индукции (о доказательстве последней теоремы Ф",
+      "description": "Обнаружение «двойника» ЕДИНСТВЕННОМУ принципу математического доказательства вряд ли может пройти незамеченным среди математиков.",
+      "url": "https://cosmatica.org/library/37-princip-polnoi-redukcii-kak-dvoinik-principa-polnoi-indukcii-o-dokazatelstve-poslednei-teoremy-f.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=4db04282a103a51126",
+      "type": "book",
+      "sourceCharacters": 150,
+      "verified": false
+    },
+    {
+      "title": "О международной комплексной целевой программе «ПРЕЗИДЕНТ»: обращение к мировым политическим лидерам,",
+      "description": "27 января 1994 г. мною объявлено о начале работ по новой международной целевой комплексной программе «ПРЕЗИДЕНТ».",
+      "url": "https://cosmatica.org/library/36-o-mezhdunarodnoi-kompleksnoi-celevoi-programme-prezident-obraschenie-k-mirovym-politicheskim-lide.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=b9b8d0ab1f1ddbd096",
+      "type": "book",
+      "sourceCharacters": 134,
+      "verified": false
+    },
+    {
+      "title": "Законы истории и социальное конструирование XXI века",
+      "description": ", когда хотят привести наиболее весомые аргументы, принято ссылаться на «научные рекомендации».",
+      "url": "https://cosmatica.org/library/35-zakony-istorii-i-socialnoe-konstruirovanie-xxi-veka.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=4cddaeed1120d0aa81",
+      "type": "book",
+      "sourceCharacters": 134,
+      "verified": false
+    },
+    {
+      "title": "Необратимость исторического процесса природы и общества в трудах В.И. Вернадского и в науке",
+      "description": "Существует ли такой вопрос, задавшись которым молодой человек вырастает в маститого ученого, продолжающего до седых волос искать на него ответ? Мне кажется, что такой вопрос существует и может быть сформулирован кратко так: «Что такое история? Каково место мыслящего человека в истории?»",
+      "url": "https://cosmatica.org/library/34-neobratimost-istoricheskogo-processa-prirody-i-obschestva-v-trudah-v-i-vernadskogo-i-v-nauke.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=0b527d3946d204ac2f",
+      "type": "book",
+      "sourceCharacters": 308,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

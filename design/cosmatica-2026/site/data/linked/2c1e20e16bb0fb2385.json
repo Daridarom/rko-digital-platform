@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/174-slovesno-verbalnaja-svjaz.html",
+  "title": "Словесно-вербальная связь",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "словесно сформулированное утверждение, которое устанавливает",
+      "spans": [
+        {
+          "text": "словесно сформулированное утверждение, которое устанавливает"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "связь",
+      "spans": [
+        {
+          "text": "связь"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "между понятиями системы с их значени­ем и обозначением (символом). Обычно устанавливается вербально.",
+      "spans": [
+        {
+          "text": "между понятиями системы с их значени­ем и обозначением (символом). Обычно устанавливается вербально."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "словесно сформулированное утверждение, которое устанавливает связь между понятиями системы с их значени­ем и обозначением (символом). Обычно устанавливается вербально.",
+      "links": [
+        {
+          "title": "связь",
+          "url": "https://cosmatica.org/glossary/55-svjaz.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 193,
+    "storedTextCharacters": 165,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32288
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 167,
+  "capturedBodyCharacters": 165,
+  "sourceTextSHA256": "7a8f58a13f187a81dc279e9cbb62c22bc2d7b89d4a7284ccd82cf3d6de859ec4",
+  "archiveSnapshotAt": "2026-10-08T08:46:41Z"
+}

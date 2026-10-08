@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/83-forrester-dzh-mirovaja-dinamika.html",
+  "title": "Форрестер Дж. - Мировая динамика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/49/f4/forrester-dzh-mirovaja-dinamika-photo-normal.png",
+      "alt": "Форрестер Дж. - Мировая динамика"
+    },
+    {
+      "type": "paragraph",
+      "text": "Вторая половина XX века подвела черту в истории аналитики мироздания.\r\nВ течение многих сотен лет человек создавал свод формул своего бытия и бытия\r\nмира, который окружает Homo Sapiens. В итоге к концу второго тысячелетия\r\nпашен эры мир стал информационно прозрачен, и пришло понимание\r\nневозможности простых соотношений, позволяющих однозначно описать\r\nмироздание. Для понимания основных тенденций развития требовалась",
+      "spans": [
+        {
+          "text": "Вторая половина XX века подвела черту в истории аналитики мироздания.\r\nВ течение многих сотен лет человек создавал свод формул своего бытия и бытия\r\nмира, который окружает Homo Sapiens. В итоге к концу второго тысячелетия\r\nпашен эры мир стал информационно прозрачен, и пришло понимание\r\nневозможности простых соотношений, позволяющих однозначно описать\r\nмироздание. Для понимания основных тенденций развития требовалась"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "модель",
+      "spans": [
+        {
+          "text": "модель"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мира.",
+      "spans": [
+        {
+          "text": "мира."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Вторая половина XX века подвела черту в истории аналитики мироздания. В течение многих сотен лет человек создавал свод формул своего бытия и бытия мира, который окружает Homo Sapiens. В итоге к концу второго тысячелетия пашен эры мир стал информационно прозрачен, и пришло понимание невозможности простых соотношений, позволяющих однозначно описать мироздание. Для понимания основных тенденций развития требовалась модель мира.",
+      "links": [
+        {
+          "title": "модель",
+          "url": "https://cosmatica.org/glossary/105-model.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 453 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/94/ee475d91f8c5167a390c69f95f75236a"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/49/f4/forrester-dzh-mirovaja-dinamika-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/94/ee475d91f8c5167a390c69f95f75236a"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 481,
+    "storedTextCharacters": 430,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40098
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 448,
+  "capturedBodyCharacters": 430,
+  "sourceTextSHA256": "4424f40fb0f20fca03ac4aa32fafc4f174de13ab2cdc5c4d0fe840fa049891ce",
+  "archiveSnapshotAt": "2026-10-08T08:51:09Z"
+}

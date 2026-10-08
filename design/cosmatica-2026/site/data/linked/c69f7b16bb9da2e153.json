@@ -10,7 +10,7 @@
       "ordered": false,
       "items": [
         "Совет",
-        "Члены совета 21"
+        "Члены совета 20"
       ]
     },
     {
@@ -379,5 +379,11 @@
     "sourceImageCount": 0,
     "paragraphCount": 27,
     "sourceBytes": 36892
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "collegium-item",
+  "sourceTextCharacters": 2060,
+  "capturedBodyCharacters": 2055,
+  "sourceTextSHA256": "0a2b45f6a54b58814fdae5a30b4544e4ea2817b09a691fafc653b82687316343",
+  "archiveSnapshotAt": "2026-10-08T08:45:13Z"
 }

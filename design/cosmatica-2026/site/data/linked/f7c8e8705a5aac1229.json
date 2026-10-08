@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/897-aleksei-alekseevich-gaponov-glava-rko-intervyu-na-syomkah-filma-era.html",
+  "title": "Алексей Алексеевич Гапонов Глава РКО. Интервью на съёмках фильма \"ЭРА\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Полный текст исходного материала"
+    },
+    {
+      "type": "paragraph",
+      "text": "Беседа с Главой Русского Космического Общества Алексеем Алексеевичем Гапоновым о будущем и настоящем. Упустили ли мы шанс возродить в детях понятие «мечта»? Чем особенна профессия космонавта и какое качество стоит развивать в детях в первую очередь — об этом и не только в нашем интервью. Санкт-Петербург 26.02.2020г. Проект \"Киноуроки. ЭРА\" на сайте РКО https://cosmatica.org/projects/kinouroki Сайт Проекта kinouroki.ru русское космическое общество , рко детям , киноуроки в школах россии , фильм эра , воспитание человека , мечта , космическое будущее Алексей Алексеевич Гапонов. Аркон.",
+      "spans": [
+        {
+          "text": "Беседа с Главой Русского Космического Общества Алексеем Алексеевичем Гапоновым о будущем и настоящем. Упустили ли мы шанс возродить в детях понятие «мечта»? Чем особенна профессия космонавта и какое качество стоит развивать в детях в первую очередь — об этом и не только в нашем интервью. Санкт-Петербург 26.02.2020г. Проект \"Киноуроки. ЭРА\" на сайте РКО https://cosmatica.org/projects/kinouroki Сайт Проекта kinouroki.ru русское космическое общество , рко детям , киноуроки в школах россии , фильм эра , воспитание человека , мечта , космическое будущее Алексей Алексеевич Гапонов. Аркон."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "hEmA9w5ND6s",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=hEmA9w5ND6s"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Беседа с Главой Русского Космического Общества Алексеем Алексеевичем Гапоновым о будущем и настоящем. Упустили ли мы шанс возродить в детях понятие «мечта»? Чем особенна профессия космонавта и какое качество стоит развивать в детях в первую очередь — об этом и не только в нашем интервью. Санкт-Петербург 26.02.2020г. Проект \"Киноуроки. ЭРА\" на сайте РКО https://cosmatica.org/projects/kinouroki Сайт Проекта kinouroki.ru",
+      "links": [
+        {
+          "title": "качество",
+          "url": "https://cosmatica.org/glossary/117-kachestvo.html"
+        },
+        {
+          "title": "Проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "https://cosmatica.org/projects/kinouroki",
+          "url": "https://www.youtube.com/redirect?q=https%3A%2F%2Fcosmatica.org%2Fprojects%2Fkinouroki&redir_token=TFiBVzU2r8op8QuZFQTwGLWDW-J8MTU4MzEzMzYzOEAxNTgzMDQ3MjM4&event=video_description&v=hEmA9w5ND6s"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 660,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 76511
+  },
+  "textFallbackRequired": true,
+  "originalKind": "article",
+  "sourceTextCharacters": 589,
+  "capturedBodyCharacters": 621,
+  "sourceTextSHA256": "665a1eec763628bf6611f35d818f1ba935a9bfe11b17e894cc1bd9fbd4f8312f",
+  "archiveSnapshotAt": "2026-10-08T08:44:35Z",
+  "publicVideoCount": 1
+}

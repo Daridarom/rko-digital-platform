@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "slug": "article",
+  "slug": "articles-list",
   "sourceUrl": "https://cosmatica.org/articles/izdanija",
   "title": "Издания",
   "intro": "",
@@ -46,5 +46,11 @@
     "sourceImageCount": 0,
     "paragraphCount": 1,
     "sourceBytes": 73654
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "articles-list",
+  "sourceTextCharacters": 168,
+  "capturedBodyCharacters": 155,
+  "sourceTextSHA256": "d986232ee8e526a6e5ced3031ca760c7512c3d734dea6eacbc901d9a45397bd6",
+  "archiveSnapshotAt": "2026-10-08T08:45:03Z"
 }

@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/904-delokratija-urok-2.html",
+  "title": "Делократия. Урок 2",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Лекторий Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/4/delokratija-urok-2-photo-normal.jpg",
+      "alt": "Делократия. Урок 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Во втором уроке представлены альтернативные методы организации управления, позволяющие обеспечить непрерывный рост прибыльности предприятия, освободить руководителя от оперативной деятельности по управлению персоналом, превратить экономический кризис в фактор производственного роста.",
+      "spans": [
+        {
+          "text": "Во втором уроке представлены альтернативные  методы организации управления, позволяющие обеспечить непрерывный  "
+        },
+        {
+          "text": "рост",
+          "href": "https://cosmatica.org/glossary/56-rost.html"
+        },
+        {
+          "text": " прибыльности предприятия, освободить руководителя от оперативной деятельности по управлению персоналом, превратить экономический кризис в фактор производственного роста."
+        }
+      ],
+      "links": [
+        {
+          "text": "рост",
+          "url": "https://cosmatica.org/glossary/56-rost.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Автор курса: Протопопов Александр Иванович, предприниматель, член Экспертного совета Русского Космического Общества, организатор онлайн-школы \"Власть пользы\" и автор курса \"Альтернативные методы организации и управления производством\".",
+      "spans": [
+        {
+          "text": "Автор курса: Протопопов Александр Иванович, предприниматель, член Экспертного совета  Русского Космического Общества, организатор онлайн-школы \"Власть пользы\" и автор курса \"Альтернативные методы организации и управления производством\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "С первой вводной лекцией можно ознакомиться тут: https://cosmatica.org/articles/media/lektorii-rko",
+      "spans": [
+        {
+          "text": "С первой вводной лекцией можно ознакомиться тут: "
+        },
+        {
+          "text": "https://cosmatica.org/articles/media/lektorii-rko",
+          "href": "https://cosmatica.org/articles/media/lektorii-rko"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/articles/media/lektorii-rko",
+          "url": "https://cosmatica.org/articles/media/lektorii-rko"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ".",
+      "spans": [
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Скачать книгу \"Делократия, или самоорганизующиеся производственные системы\" можно в библиотеке на сайте РКО:",
+      "spans": [
+        {
+          "text": "Скачать книгу \"Делократия, или самоорганизующиеся производственные системы\" можно в библиотеке на сайте РКО:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://cosmatica.org/library/204-delokratija-ili-...",
+      "spans": [
+        {
+          "text": "https://cosmatica.org/library/204-delokratija-ili-...",
+          "href": "https://cosmatica.org/library/204-delokratija-ili-samosovershenstvuyuschiesja-proizvodstvennye-sistemy.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/library/204-delokratija-ili-...",
+          "url": "https://cosmatica.org/library/204-delokratija-ili-samosovershenstvuyuschiesja-proizvodstvennye-sistemy.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Статья в газете Русского Космического Общества \"Природа-Общество- Человек : ноосферное устойчивое развитие \":",
+      "spans": [
+        {
+          "text": "Статья в газете Русского Космического Общества \"Природа-Общество- "
+        },
+        {
+          "text": "Человек",
+          "href": "https://cosmatica.org/glossary/13-chelovek.html"
+        },
+        {
+          "text": ": ноосферное устойчивое "
+        },
+        {
+          "text": "развитие",
+          "href": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "text": "\":"
+        }
+      ],
+      "links": [
+        {
+          "text": "Человек",
+          "url": "https://cosmatica.org/glossary/13-chelovek.html"
+        },
+        {
+          "text": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://cosmatica.org/articles/838-vsemirnyi-likbe...",
+      "spans": [
+        {
+          "text": "https://cosmatica.org/articles/838-vsemirnyi-likbe...",
+          "href": "https://cosmatica.org/articles/838-vsemirnyi-likbez-delokratija-prirodopodobnyi-sposob-organizacii.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/articles/838-vsemirnyi-likbe...",
+          "url": "https://cosmatica.org/articles/838-vsemirnyi-likbez-delokratija-prirodopodobnyi-sposob-organizacii.html"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "I5qZZh8I1vA",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=I5qZZh8I1vA"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Продолжаем разбирать проблему конструирования самоорганизации развивающихся систем вместе с автором курса Делократии",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Во втором уроке представлены альтернативные методы организации управления, позволяющие обеспечить непрерывный рост прибыльности предприятия, освободить руководителя от оперативной деятельности по управлению персоналом, превратить экономический кризис в фактор производственного роста. Автор курса: Протопопов Александр Иванович, предприниматель, член Экспертного совета Русского Космического Общества, организатор онлайн-школы \"Власть пользы\" и автор курса \"Альтернативные методы организации и управления производством\". С первой вводной лекцией можно ознакомиться тут: https://cosmatica.org/articles/media/lektorii-rko . Скачать книгу \"Делократия, или самоорганизующиеся производственные системы\" можно в библиотеке на сайте РКО: https://cosmatica.org/library/204-delokratija-ili-... Статья в газете Русского Космического Общества \"Природа-Общество- Человек : ноосферное устойчивое развитие \": https://cosmatica.org/articles/838-vsemirnyi-likbe...",
+      "links": [
+        {
+          "title": "рост",
+          "url": "https://cosmatica.org/glossary/56-rost.html"
+        },
+        {
+          "title": "https://cosmatica.org/articles/media/lektorii-rko",
+          "url": "https://cosmatica.org/articles/media/lektorii-rko"
+        },
+        {
+          "title": "https://cosmatica.org/library/204-delokratija-ili-...",
+          "url": "https://cosmatica.org/library/204-delokratija-ili-samosovershenstvuyuschiesja-proizvodstvennye-sistemy.html"
+        },
+        {
+          "title": "Человек",
+          "url": "https://cosmatica.org/glossary/13-chelovek.html"
+        },
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "title": "https://cosmatica.org/articles/838-vsemirnyi-likbe...",
+          "url": "https://cosmatica.org/articles/838-vsemirnyi-likbez-delokratija-prirodopodobnyi-sposob-organizacii.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/9/4/delokratija-urok-2-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1355,
+    "storedTextCharacters": 992,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 9,
+    "sourceBytes": 49137
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1185,
+  "capturedBodyCharacters": 992,
+  "sourceTextSHA256": "0983aac439a504b6f395dd328b6c6f8156ea118a951fda8b008ce00641e4ced8",
+  "archiveSnapshotAt": "2026-10-08T09:14:11Z",
+  "publicVideoCount": 1
+}

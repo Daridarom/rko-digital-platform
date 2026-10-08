@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/232-otchyotnoe-godovoe-sobranie.html",
+  "title": "Отчётное годовое собрание",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/0/c/otchyotnoe-godovoe-sobranie-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Полный текст исходного материала"
+    },
+    {
+      "type": "paragraph",
+      "text": "Отчётное годовое собрание Конференции Место и время: Событие уже прошло Алексей Алексеевич Гапонов. Аркон. Кто пойдет: 848",
+      "spans": [
+        {
+          "text": "Отчётное годовое собрание Конференции Место и время: Событие уже прошло Алексей Алексеевич Гапонов. Аркон. Кто пойдет: 848"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/0/c/otchyotnoe-godovoe-sobranie-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 122,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 36855
+  },
+  "textFallbackRequired": true,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 122,
+  "capturedBodyCharacters": 154,
+  "sourceTextSHA256": "a6b5569394932dff7489da9d3e3f0cd9d636e9b8d0b6acc3a64bfdacceb5f909",
+  "archiveSnapshotAt": "2026-10-08T09:15:27Z"
+}

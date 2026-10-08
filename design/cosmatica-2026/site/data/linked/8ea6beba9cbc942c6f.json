@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/168",
+  "title": "Елена Геннадьевна Носкова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/64/b6/ef08660f.png",
+      "alt": "Елена Геннадьевна Носкова"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/7f/24/8b3865bf.png",
+      "alt": "Елена Геннадьевна Носкова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Педагог дополнительного образования МБОУ СОШ №1 г-к Анапа",
+      "spans": [
+        {
+          "text": "Педагог дополнительного образования МБОУ СОШ №1 г-к Анапа"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Краснодарский край",
+      "links": [
+        {
+          "title": "Краснодарский край",
+          "url": "https://cosmatica.org/departments/1-krasnodarskii-krai.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Педагог дополнительного образования МБОУ СОШ №1 г-к Анапа",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/64/b6/ef08660f.png",
+    "https://cosmatica.org/upload/000/u26/7f/24/8b3865bf.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 148,
+    "storedTextCharacters": 90,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34933
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 97,
+  "capturedBodyCharacters": 90,
+  "sourceTextSHA256": "b2f45035a37af2af9310d62c50a5a507d3c9d24aba318b4f2f706478eeb70fe1",
+  "archiveSnapshotAt": "2026-10-08T09:18:14Z"
+}

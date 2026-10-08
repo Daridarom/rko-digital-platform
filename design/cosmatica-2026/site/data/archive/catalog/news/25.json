@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 25,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Мир Героев: куда идём с детьми?",
+      "description": "Беседа с автором книги \"Мир Героев\", членом Президиума и Первого Отряда РКО Степаном Андреевичем Зотовым и Главой Русского Космического Общества Алексеем Алексеевичем Гапоновым.",
+      "url": "https://cosmatica.org/news/1817-mir-geroev-kuda-idyom-s-detmi.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/1/mir-geroev-kuda-idyom-s-detmi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3927f7493e1e1812e9",
+      "type": "news-item",
+      "sourceCharacters": 793,
+      "verified": false
+    },
+    {
+      "title": "Нешуточные баталии ракетно-космической отрасли",
+      "description": "Эти игры были не только борьбой умов и стратегий, но и данью уважения великому Михаилу Ивановичу Тихомирову, чья жизнь и деятельность оказали неоценимое влияние на развитие шахматного искусства.",
+      "url": "https://cosmatica.org/news/1815-neshutochnye-batalii-raketno-kosmicheskoi-otrasli.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/9/a303f66f.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=81901c82d9f778ceae",
+      "type": "news-item",
+      "sourceCharacters": 1825,
+      "verified": false
+    },
+    {
+      "title": "Чем выше культура, тем выше ценится труд",
+      "description": "Предлагаем вам познакомиться с обратной связью педагога, работающего по системе воспитания \"Киноуроки в школах России и мира». Вдумайтесь в написанное. Это могучий посыл всем тем, кто ещё не знаком с этой всенародной образовательной инициативой. А тем кто знаком, кто участвует в созидании нашего прекрасного - низкий поклон и уважение. Так победим!",
+      "url": "https://cosmatica.org/news/1814-chem-vyshe-kultura-tem-vyshe-cenitsja-trud.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/9/chem-vyshe-kultura-tem-vyshe-cenitsja-trud-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=82dc3b3bb24810e003",
+      "type": "news-item",
+      "sourceCharacters": 4078,
+      "verified": false
+    },
+    {
+      "title": "Углеродная и кремниевая формы Жизни. Симбиоз, или Борьба?",
+      "description": "Новости из мира нейросетей, различных робототехнических устройств и сервисов кому-то рисуют новые горизонты, а в кого-то вселяют тревогу из-за быстроты и непредсказуемости изменений устоявшегося мира. Уже нет привычной стабильности, основанной на полученных знаниях, опыте и навыках. Всевозможные андроиды и разные «умные Алисы» всё быстрее начинают вторгаться в привычные процессы и пространства нашей жизнедеятельности",
+      "url": "https://cosmatica.org/news/1813-uglerodnaja-i-kremnievaja-formy-zhizni-simbioz-ili-borba.html",
+      "image": "https://cosmatica.org/upload/000/u7/8/9/uglerodnaja-i-kremnievaja-formy-zhizni-simbioz-ili-borba-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cd649c8e3049f6a824",
+      "type": "news-item",
+      "sourceCharacters": 2097,
+      "verified": false
+    },
+    {
+      "title": "Конструкторы будущего Волновахи. Бортовой журнал за январь 2024",
+      "description": "По причине не простой военной обстановки и периодических обстрелов города осенью прошлого года ребята не могли собираться каждую неделю и почти не виделись. Новый год принёс желанную возможность встречаться и творить.",
+      "url": "https://cosmatica.org/news/1812-konstruktora-buduschego-volnovahi-bortovoi-zhurnal-za-janvar-2024.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/7/konstruktora-buduschego-volnovahi-bortovoi-zhurnal-za-janvar-2024.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bb59ec3d789722b623",
+      "type": "news-item",
+      "sourceCharacters": 2883,
+      "verified": false
+    },
+    {
+      "title": "Тропа Мужества. Зима - 2024",
+      "description": "«Тропа мужества» Зима 2024 – открытые соревнования, представляющие собой преодоление дистанции 25-30 км (базовая), 7-10 км (начальная) по пересеченной местности, при полном самообеспечении участников с определенным весом снаряжения.",
+      "url": "https://cosmatica.org/news/1811-tropa-muzhestva-zima-2024.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/7/f6374c1a.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=334cda69361e18fa16",
+      "type": "news-item",
+      "sourceCharacters": 6105,
+      "verified": false
+    },
+    {
+      "title": "Всемирный путь русской цивилизации",
+      "description": "В этом видео Глава Русского Космического Общества и вице-президент фонда «СветославЪ» Алексей Алексеевич Гапонов и профессор кафедры истории МПГУ Герман Анатольевич Артамонов продолжили начатое общение на животрепещущие и волнующие многих темы, начатые на первой встрече .",
+      "url": "https://cosmatica.org/news/1810-vsemirnyi-put-russkoi-civilizacii.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/3/4b1126c3.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d90d3101e99bcdace6",
+      "type": "news-item",
+      "sourceCharacters": 2687,
+      "verified": false
+    },
+    {
+      "title": "Книга Жизни для жизни",
+      "description": "Наши Демоны реальны, мы говорим это метафорически, но, как вы поймёте из Книги, не только...",
+      "url": "https://cosmatica.org/news/1809-kniga-zhizni-dlja-zhizni.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/2/kniga-zhizni-dlja-zhizni-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e1049c8bb88736818c",
+      "type": "news-item",
+      "sourceCharacters": 8942,
+      "verified": false
+    },
+    {
+      "title": "Создана первая Дружина Гагаринцев Северной столицы",
+      "description": "Первыми высокую ответственность носить имя Юрия Алексеевича Гагарина взяли на себя учащиеся 3\"В\" класса под руководством классного руководителя Л.В.Ерастовой.",
+      "url": "https://cosmatica.org/news/1808-sozdana-pervaja-druzhina-gagarincev-severnoi-stolicy.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/f/sozdana-pervaja-druzhina-gagarincev-severnoi-stolicy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=14524910c16711158c",
+      "type": "news-item",
+      "sourceCharacters": 3336,
+      "verified": false
+    },
+    {
+      "title": "Симбиотрофное будущее человечества!",
+      "description": "Шапиро Валерий Абрамович – академик РАЕН – секция «Ноосферные знания и технологии». Автор книг, открытий и изобретений. Научный руководитель секции по разработке региональных технологий Хомобитоического оборота.",
+      "url": "https://cosmatica.org/news/1807-simbiotrofnoe-buduschee-chelovechestva.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/1/simbiotrofnoe-buduschee-chelovechestva-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9c5fa7dca533d29db9",
+      "type": "news-item",
+      "sourceCharacters": 5434,
+      "verified": false
+    },
+    {
+      "title": "Глава РКО посетил школу им. С.П. Королёва в Санкт-Петербурге",
+      "description": "Более 300 учащихся и педагогов посмотрели короткометражные кинофильмы.",
+      "url": "https://cosmatica.org/news/1806-glava-rko-posetil-shkolu-im-s-p-korolyova-v-sankt-peterburge.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/3/4f14df69.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e1f2b7ff2f4229fcc9",
+      "type": "news-item",
+      "sourceCharacters": 2839,
+      "verified": false
+    },
+    {
+      "title": "Ещё одной Дружинкой укрепилась Всенародная «Дружина Гагаринцев»",
+      "description": "Теперь в детском саду есть своя «Дружинка Гагаринцев» Всенародного детско-юношеского общественного движения Русского Космического Общества. Открыли мероприятие почётный гость - инспектор по дошкольному образованию Управления образования муниципального района Благовещенский район Глазырина Г.Г. и заведующая дошкольным учреждением Галимуллина Л.В. Галина Георгиевна и Луиза Венеровна поздравили ребят с важным событием и",
+      "url": "https://cosmatica.org/news/1805-eschyo-odnim-otrjadom-ukrepilas-vsenarodnaja-druzhina-gagarincev.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/1/eschyo-odnim-otrjadom-ukrepilas-vsenarodnaja-druzhina-gagarincev-ph.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b957f1da5eb68ad66a",
+      "type": "news-item",
+      "sourceCharacters": 3202,
+      "verified": false
+    },
+    {
+      "title": "Семья – основа государства",
+      "description": "«Чем больше семей живут в гармонии и согласии, чем сильней они скреплены общими целями и нравственными началами, тем гуманнее всё наше общество.",
+      "url": "https://cosmatica.org/news/1804-semja-osnova-gosudarstva.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/8/117d3d4e.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cb75c65268caf70bf9",
+      "type": "news-item",
+      "sourceCharacters": 2836,
+      "verified": false
+    },
+    {
+      "title": "Философия - основа мировоззрения",
+      "description": "Прежде всего для освещения этого вопроса надо разобраться, а что такое философия вообще.",
+      "url": "https://cosmatica.org/news/1803-filosofija-osnova-mirovozzrenija.html",
+      "image": "https://cosmatica.org/upload/000/u7/b/2/filosofija-osnova-mirovozzrenija-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a7f0cced604d94a30f",
+      "type": "news-item",
+      "sourceCharacters": 8486,
+      "verified": false
+    },
+    {
+      "title": "Космос-Природа-Человек.",
+      "description": "Сегодня много говорят об экологии. И понимаем мы это, как чистый воздух, чистая вода, зелёная трава, деревья, здоровые животные и тому подобное. Только ли это скрывается под понятие экология ? Может, что-то ещё?... Мария Владимировна Губенко видит это как экологическое просвещение, цель которого — экологизация деятельности человека и человечества в целом.",
+      "url": "https://cosmatica.org/news/1802-kosmos-priroda-chelovek.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/6/kosmos-priroda-chelovek-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=887d9fdf9842567f5d",
+      "type": "news-item",
+      "sourceCharacters": 1802,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/817-russkii-kosmos-9-sentjabr-2019.html",
+  "title": "Русский космос №9 (сентябрь, 2019)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Русский космос №9 (сентябрь, 2019)",
+      "spans": [
+        {
+          "text": "Русский космос №9 (сентябрь, 2019)",
+          "href": "https://cosmatica.org/upload/redactorfiles/"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "Русский космос №9 (сентябрь, 2019)",
+          "url": "https://cosmatica.org/upload/redactorfiles/"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/8/a/snimok-ekrana-2019-10-16-v-18-50-55.png",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Русский космос №9 (сентябрь, 2019)",
+      "links": [
+        {
+          "title": "Русский космос №9 (сентябрь, 2019)",
+          "url": "https://cosmatica.org/upload/redactorfiles/"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/002/u218/8/a/snimok-ekrana-2019-10-16-v-18-50-55.png"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/8/a/snimok-ekrana-2019-10-16-v-18-50-55.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 107,
+    "storedTextCharacters": 34,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 73508
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 72,
+  "capturedBodyCharacters": 34,
+  "sourceTextSHA256": "0c90a0a8fd4cfda302142fe06771904b063ae4b89e1220f38840bec85df34b9c",
+  "archiveSnapshotAt": "2026-10-08T08:44:06Z"
+}

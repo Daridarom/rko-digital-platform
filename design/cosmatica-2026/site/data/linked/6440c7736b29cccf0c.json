@@ -1,0 +1,558 @@
+{
+  "schemaVersion": 2,
+  "slug": "departments",
+  "sourceUrl": "https://cosmatica.org/departments",
+  "title": "Отделения",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Москва",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Санкт-Петербург",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Новосибирская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Челябинская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Республика Крым",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Республика Хакасия",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Свердловская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Псковская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Краснодарский край",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Калужская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Нижегородская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Представительство в Беларуси",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Кемеровская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Волгоградская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Калининградская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Курганская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Удмуртская республика",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Донецкая республика",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Владимирская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Костромская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Представительство в Латвии",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Представительство в Канаде",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Брянская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Орловская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Ростовская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Луганская республика",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Тюменская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Запорожская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Томская область",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Республика Саха (Якутия). Представительство",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Алтайский край. Представительство",
+      "level": 2
+    }
+  ],
+  "cards": [
+    {
+      "title": "Москва",
+      "description": "Москва",
+      "url": "https://cosmatica.org/departments/10-moskva.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ]
+    },
+    {
+      "title": "Санкт-Петербург",
+      "description": "Санкт-Петербург",
+      "url": "https://cosmatica.org/departments/9-sankt-peterburg.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Санкт-Петербург",
+          "url": "https://cosmatica.org/departments/9-sankt-peterburg.html"
+        }
+      ]
+    },
+    {
+      "title": "Новосибирская область",
+      "description": "Новосибирская область",
+      "url": "https://cosmatica.org/departments/8-novosibirskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Новосибирская область",
+          "url": "https://cosmatica.org/departments/8-novosibirskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Челябинская область",
+      "description": "Челябинская область",
+      "url": "https://cosmatica.org/departments/7-cheljabinskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Челябинская область",
+          "url": "https://cosmatica.org/departments/7-cheljabinskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Республика Крым",
+      "description": "Республика Крым",
+      "url": "https://cosmatica.org/departments/6-respublika-krym.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Республика Крым",
+          "url": "https://cosmatica.org/departments/6-respublika-krym.html"
+        }
+      ]
+    },
+    {
+      "title": "Республика Хакасия",
+      "description": "Республика Хакасия",
+      "url": "https://cosmatica.org/departments/5-respublika-hakasija.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Республика Хакасия",
+          "url": "https://cosmatica.org/departments/5-respublika-hakasija.html"
+        }
+      ]
+    },
+    {
+      "title": "Свердловская область",
+      "description": "Свердловская область",
+      "url": "https://cosmatica.org/departments/4-sverdlovskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Свердловская область",
+          "url": "https://cosmatica.org/departments/4-sverdlovskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Псковская область",
+      "description": "Псковская область",
+      "url": "https://cosmatica.org/departments/2-pskovskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Псковская область",
+          "url": "https://cosmatica.org/departments/2-pskovskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Краснодарский край",
+      "description": "Краснодарский край",
+      "url": "https://cosmatica.org/departments/1-krasnodarskii-krai.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Краснодарский край",
+          "url": "https://cosmatica.org/departments/1-krasnodarskii-krai.html"
+        }
+      ]
+    },
+    {
+      "title": "Калужская область",
+      "description": "Калужская область",
+      "url": "https://cosmatica.org/departments/11-kaluzhskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Калужская область",
+          "url": "https://cosmatica.org/departments/11-kaluzhskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Нижегородская область",
+      "description": "Нижегородская область",
+      "url": "https://cosmatica.org/departments/13-nizhegorodskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Нижегородская область",
+          "url": "https://cosmatica.org/departments/13-nizhegorodskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Представительство в Беларуси",
+      "description": "Представительство в Беларуси",
+      "url": "https://cosmatica.org/departments/16-predstavitelstvo-v-belarusi.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Представительство в Беларуси",
+          "url": "https://cosmatica.org/departments/16-predstavitelstvo-v-belarusi.html"
+        }
+      ]
+    },
+    {
+      "title": "Кемеровская область",
+      "description": "Кемеровская область",
+      "url": "https://cosmatica.org/departments/18-kemerovskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Кемеровская область",
+          "url": "https://cosmatica.org/departments/18-kemerovskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Волгоградская область",
+      "description": "Волгоградская область",
+      "url": "https://cosmatica.org/departments/19-volgogradskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Волгоградская область",
+          "url": "https://cosmatica.org/departments/19-volgogradskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Калининградская область",
+      "description": "Калининградская область",
+      "url": "https://cosmatica.org/departments/20-kaliningradskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Калининградская область",
+          "url": "https://cosmatica.org/departments/20-kaliningradskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Курганская область",
+      "description": "Курганская область",
+      "url": "https://cosmatica.org/departments/21-kurganskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Курганская область",
+          "url": "https://cosmatica.org/departments/21-kurganskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Удмуртская республика",
+      "description": "Удмуртская республика",
+      "url": "https://cosmatica.org/departments/22-udmurtskaja-respublika.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Удмуртская республика",
+          "url": "https://cosmatica.org/departments/22-udmurtskaja-respublika.html"
+        }
+      ]
+    },
+    {
+      "title": "Донецкая республика",
+      "description": "Донецкая республика",
+      "url": "https://cosmatica.org/departments/23-doneckaja-respublika.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Донецкая республика",
+          "url": "https://cosmatica.org/departments/23-doneckaja-respublika.html"
+        }
+      ]
+    },
+    {
+      "title": "Владимирская область",
+      "description": "Владимирская область",
+      "url": "https://cosmatica.org/departments/24-vladimirskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Владимирская область",
+          "url": "https://cosmatica.org/departments/24-vladimirskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Костромская область",
+      "description": "Костромская область",
+      "url": "https://cosmatica.org/departments/29-kostromskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Костромская область",
+          "url": "https://cosmatica.org/departments/29-kostromskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Представительство в Латвии",
+      "description": "Представительство в Латвии",
+      "url": "https://cosmatica.org/departments/30-predstavitelstvo-v-latvii.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Представительство в Латвии",
+          "url": "https://cosmatica.org/departments/30-predstavitelstvo-v-latvii.html"
+        }
+      ]
+    },
+    {
+      "title": "Представительство в Канаде",
+      "description": "Представительство в Канаде",
+      "url": "https://cosmatica.org/departments/32-predstavitelstvo-v-kanade.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Представительство в Канаде",
+          "url": "https://cosmatica.org/departments/32-predstavitelstvo-v-kanade.html"
+        }
+      ]
+    },
+    {
+      "title": "Брянская область",
+      "description": "Брянская область",
+      "url": "https://cosmatica.org/departments/33-brjanskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Брянская область",
+          "url": "https://cosmatica.org/departments/33-brjanskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Орловская область",
+      "description": "Орловская область",
+      "url": "https://cosmatica.org/departments/34-orlovskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Орловская область",
+          "url": "https://cosmatica.org/departments/34-orlovskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Ростовская область",
+      "description": "Ростовская область",
+      "url": "https://cosmatica.org/departments/36-rostovskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Ростовская область",
+          "url": "https://cosmatica.org/departments/36-rostovskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Луганская республика",
+      "description": "Луганская республика",
+      "url": "https://cosmatica.org/departments/37-luganskaja-respublika.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Луганская республика",
+          "url": "https://cosmatica.org/departments/37-luganskaja-respublika.html"
+        }
+      ]
+    },
+    {
+      "title": "Тюменская область",
+      "description": "Тюменская область",
+      "url": "https://cosmatica.org/departments/38-tyumenskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Тюменская область",
+          "url": "https://cosmatica.org/departments/38-tyumenskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Запорожская область",
+      "description": "Запорожская область",
+      "url": "https://cosmatica.org/departments/39-zaporozhskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Запорожская область",
+          "url": "https://cosmatica.org/departments/39-zaporozhskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Томская область",
+      "description": "Томская область",
+      "url": "https://cosmatica.org/departments/40-tomskaja-oblast.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Томская область",
+          "url": "https://cosmatica.org/departments/40-tomskaja-oblast.html"
+        }
+      ]
+    },
+    {
+      "title": "Республика Саха (Якутия). Представительство",
+      "description": "Республика Саха (Якутия). Представительство",
+      "url": "https://cosmatica.org/departments/41-respublika-saha-jakutija-predstavitelstvo.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Республика Саха (Якутия). Представительство",
+          "url": "https://cosmatica.org/departments/41-respublika-saha-jakutija-predstavitelstvo.html"
+        }
+      ]
+    },
+    {
+      "title": "Алтайский край. Представительство",
+      "description": "Алтайский край. Представительство",
+      "url": "https://cosmatica.org/departments/42-altaiskii-krai-predstavitelstvo.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Алтайский край. Представительство",
+          "url": "https://cosmatica.org/departments/42-altaiskii-krai-predstavitelstvo.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 665,
+    "storedTextCharacters": 625,
+    "sourceCardCount": 31,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 67231
+  },
+  "textFallbackRequired": false,
+  "originalKind": "departments",
+  "sourceTextCharacters": 665,
+  "capturedBodyCharacters": 625,
+  "sourceTextSHA256": "f8eae4081003e2fb49ca38161928416a09d141f426638002a9306c4c3ca4666e",
+  "archiveSnapshotAt": "2026-10-08T08:45:16Z"
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/647",
+  "title": "Никита Иванович Суслов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/006/u647/1/5/f29b000b.jpg",
+      "alt": "Никита Иванович Суслов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/006/u647/5/9/9f16d133.jpg",
+      "alt": "Никита Иванович Суслов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Студент МГТУ им. Н.Э.Баумна, Аэрокосмический факультет",
+      "spans": [
+        {
+          "text": "Студент МГТУ им. Н.Э.Баумна, Аэрокосмический факультет"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Студент МГТУ им. Н.Э.Баумна, Аэрокосмический факультет",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/006/u647/1/5/f29b000b.jpg",
+    "https://cosmatica.org/upload/006/u647/5/9/9f16d133.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 130,
+    "storedTextCharacters": 87,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34891
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 82,
+  "capturedBodyCharacters": 87,
+  "sourceTextSHA256": "a44a7c44352f0554a53ee40a69b5b4cf20a929c3b2f9d9125cc22757c5aa5efd",
+  "archiveSnapshotAt": "2026-10-08T09:21:39Z"
+}

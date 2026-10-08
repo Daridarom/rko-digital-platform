@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/431-zanimatelnaja-algebra.html",
+  "title": "Занимательная алгебра",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/0/zanimatelnaja-algebra-photo-normal.jpg",
+      "alt": "Занимательная алгебра"
+    },
+    {
+      "type": "paragraph",
+      "text": "В книге Я. И. Перельмана 'Занимательная алгебра' даны задачи с необычными сюжетами, любопытные истории, интересные случаи о неожиданном применении алгебры в жизни. Книга одинаково интересна для читателей всех возрастов.",
+      "spans": [
+        {
+          "text": "В книге Я. И. Перельмана 'Занимательная алгебра' даны задачи с необычными сюжетами, любопытные истории, интересные случаи о неожиданном применении алгебры в жизни. Книга одинаково интересна для читателей всех возрастов."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Перельман Я. И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В книге Я. И. Перельмана 'Занимательная алгебра' даны задачи с необычными сюжетами, любопытные истории, интересные случаи о неожиданном применении алгебры в жизни. Книга одинаково интересна для читателей всех возрастов.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 7 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2696/1cf3d19c48b1363dfc6e51f6f96f3601"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/5/0/zanimatelnaja-algebra-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2696/1cf3d19c48b1363dfc6e51f6f96f3601"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 283,
+    "storedTextCharacters": 219,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40028
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 261,
+  "capturedBodyCharacters": 219,
+  "sourceTextSHA256": "e92a07f42e6be3d22eaa8390e2062b2d40adc6f67ebc8fa768aa631e6a2e7ccc",
+  "archiveSnapshotAt": "2026-10-08T08:49:57Z"
+}

@@ -1,0 +1,100 @@
+{
+  "discovered": 5124,
+  "origin404": 373,
+  "origin403": 1,
+  "nonEditorial": 5,
+  "eligible": 4745,
+  "renderable": 4745,
+  "unresolved": 0,
+  "sections": [
+    {
+      "key": "all",
+      "title": "Весь публичный архив РКО",
+      "count": 4745,
+      "pages": 317
+    },
+    {
+      "key": "news",
+      "title": "Новости",
+      "count": 2019,
+      "pages": 135
+    },
+    {
+      "key": "library",
+      "title": "Библиотека",
+      "count": 510,
+      "pages": 34
+    },
+    {
+      "key": "articles",
+      "title": "Публикации и материалы",
+      "count": 1047,
+      "pages": 70
+    },
+    {
+      "key": "projects",
+      "title": "Проекты",
+      "count": 290,
+      "pages": 20
+    },
+    {
+      "key": "poster",
+      "title": "Мероприятия",
+      "count": 316,
+      "pages": 22
+    },
+    {
+      "key": "users",
+      "title": "Участники РКО",
+      "count": 235,
+      "pages": 16
+    },
+    {
+      "key": "glossary",
+      "title": "Глоссарий",
+      "count": 196,
+      "pages": 14
+    },
+    {
+      "key": "newspaper",
+      "title": "Газета РКО",
+      "count": 30,
+      "pages": 2
+    },
+    {
+      "key": "departments",
+      "title": "Отделения",
+      "count": 31,
+      "pages": 3
+    },
+    {
+      "key": "partners",
+      "title": "Партнёры",
+      "count": 13,
+      "pages": 1
+    },
+    {
+      "key": "collegium",
+      "title": "Советы",
+      "count": 19,
+      "pages": 2
+    },
+    {
+      "key": "about",
+      "title": "Об РКО",
+      "count": 19,
+      "pages": 2
+    },
+    {
+      "key": "section",
+      "title": "Секции",
+      "count": 7,
+      "pages": 1
+    }
+  ],
+  "cautions": [
+    "Search uses local full-text shards; no external service.",
+    "Editorial verification is separate from import."
+  ],
+  "downloadStrategy": "No PDF/DOC/DOCX book copies; use original RKO file URLs."
+}

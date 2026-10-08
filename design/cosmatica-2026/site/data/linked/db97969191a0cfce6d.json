@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/518-1204-natalja-sergeevna-koroleva-doch-s-p-koroleva-moskva.html",
+  "title": "12/04. Наталья Сергеевна Королева, дочь С.П.Королева, Москва",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Международная акция 12/04",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "В канун Дня космонавтики 2017 Наталья Сергеевна Королева, дочь выдающегося Главного конструктора, рассказала о 12 апреля 1961 года проекту \"ВОСТОК.ОДИН\"",
+      "spans": [
+        {
+          "text": "В канун Дня космонавтики 2017 Наталья Сергеевна Королева, дочь выдающегося Главного конструктора, рассказала о 12 апреля 1961 года проекту \"ВОСТОК.ОДИН\""
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "BlonQb6l1Z4",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=BlonQb6l1Z4"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В канун Дня космонавтики 2017 Наталья Сергеевна Королева, дочь выдающегося Главного конструктора, рассказала о 12 апреля 1961 года проекту \"ВОСТОК.ОДИН\"",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 345,
+    "storedTextCharacters": 178,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 75192
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 257,
+  "capturedBodyCharacters": 178,
+  "sourceTextSHA256": "cf7c3a2a904a5291561354aee67f4879acdba76e8df4285b5f079e4eaf726e42",
+  "archiveSnapshotAt": "2026-10-08T08:42:03Z",
+  "publicVideoCount": 1
+}

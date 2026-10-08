@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/128-kosmos-v-kartinkah.html",
+  "title": "Космос в картинках",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/2e/90/kosmos-v-kartinkah-photo-normal.jpg",
+      "alt": "Космос в картинках"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга адресована детям старшего дошкольного возраста. Благодаря этой прекрасно иллюстрированной книжке космос перестанет быть загадкой для ребенка. Он узнает, как возникли планеты. Какую роль играют Луна и Солнце. Рассказы и полетах космических ракет и кораблей, забавные игры помогут сохранить в памяти полученную информацию.",
+      "spans": [
+        {
+          "text": "Книга адресована детям старшего дошкольного возраста. Благодаря этой прекрасно иллюстрированной книжке космос перестанет быть загадкой для ребенка. Он узнает, как возникли планеты. Какую роль играют Луна и Солнце. Рассказы и полетах космических ракет и кораблей, забавные игры помогут сохранить в памяти полученную информацию."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Книга адресована детям старшего дошкольного возраста. Благодаря этой прекрасно иллюстрированной книжке космос перестанет быть загадкой для ребенка. Он узнает, как возникли планеты. Какую роль играют Луна и Солнце. Рассказы и полетах космических ракет и кораблей, забавные игры помогут сохранить в памяти полученную информацию.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 65 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/450/231cdb51ef122390d49fa37632632f8a"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/2e/90/kosmos-v-kartinkah-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/450/231cdb51ef122390d49fa37632632f8a"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 365,
+    "storedTextCharacters": 326,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39849
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 346,
+  "capturedBodyCharacters": 326,
+  "sourceTextSHA256": "9500101d5a7249338ab9f6cde33f3890777b9ad47e89c86515b3a218d54a5946",
+  "archiveSnapshotAt": "2026-10-08T08:47:37Z"
+}

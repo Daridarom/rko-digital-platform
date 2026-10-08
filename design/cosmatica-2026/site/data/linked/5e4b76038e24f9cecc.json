@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/179-tenzornaja-metodologija-v-teorii-sistem.html",
+  "title": "Тензорная методология в теории систем",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u20/fc/93/53662d79.jpg",
+      "alt": "Тензорная методология в теории систем"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Петров А.Е.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 8 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1334/c367fd9ef7f1588a362652dd57a83797"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u20/fc/93/53662d79.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1334/c367fd9ef7f1588a362652dd57a83797"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 75,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39056
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 37,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "9adbeb38295d24020a8962654773780eb44b4f7e41ec3b4b104f85873b6382ef",
+  "archiveSnapshotAt": "2026-10-08T08:47:53Z"
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/o",
+  "title": "О",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Описать систему",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Обобщающая форма знания",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Обобщающая форма веры и знания",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Общий закон Природы",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 92,
+    "storedTextCharacters": 87,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 34225
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 92,
+  "capturedBodyCharacters": 87,
+  "sourceTextSHA256": "1decaf53b2048afc5ac3101133410636a7d4c8a29f27f11ee9725ac40eaa03fd",
+  "archiveSnapshotAt": "2026-10-08T08:47:27Z"
+}

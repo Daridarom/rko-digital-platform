@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/355-geometrija-6-8-klassy.html",
+  "title": "Геометрия (6-8 классы)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/e/geometrija-6-8-klassy-photo-normal.png",
+      "alt": "Геометрия (6-8 классы)"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Никитин Н.Н.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 7 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2139/d4e6770d350d3239b5f78cbc888f6f5a"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/f/e/geometrija-6-8-klassy-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2139/d4e6770d350d3239b5f78cbc888f6f5a"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 61,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39286
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 38,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "3f403476ae3b7dd862d478c8d8c38f4b1cfc98c9d2f786030eb29949234cdf6e",
+  "archiveSnapshotAt": "2026-10-08T08:49:29Z"
+}

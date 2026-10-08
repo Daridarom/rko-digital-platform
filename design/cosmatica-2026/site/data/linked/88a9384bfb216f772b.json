@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/2119-parta-geroja.html",
+  "title": "Парта Героя",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Курская битва за будущее",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/4/parta-geroja-photo-normal.jpg",
+      "alt": "Парта Героя"
+    },
+    {
+      "type": "paragraph",
+      "text": "25 сентября в г.Льгов Курской области, в рамках образовательного проекта «Парта Героя» состоялось открытие парты, посвященной льговчанину, добровольцу бригады «БАРС-Курск», оператору БпЛА, Виктору Николаевичу Косоголову, героически отдавшему жизнь при выполнении боевой задачи 02.02.2025 г.",
+      "spans": [
+        {
+          "text": "25 сентября в г.Льгов Курской области, в рамках образовательного проекта «Парта Героя» состоялось открытие парты, посвященной льговчанину, добровольцу бригады «БАРС-Курск», оператору БпЛА, Виктору Николаевичу Косоголову, героически отдавшему  "
+        },
+        {
+          "text": "жизнь",
+          "href": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "text": " при выполнении боевой задачи 02.02.2025 г."
+        }
+      ],
+      "links": [
+        {
+          "text": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Наш товарищ героически отдал свою жизнь, исполняя боевой долг, защищая родной край, свою Родину. Виктор навеки в Вечном строю защитников Отечества. А ещё он в памяти родных, близких, друзей и товарищей. Он в наших сердцах, словах и делах. - сказал Алексей Алексеевич",
+      "spans": [
+        {
+          "text": "Наш товарищ героически отдал свою жизнь, исполняя боевой долг, защищая родной край, свою Родину.Виктор навеки в Вечном строю защитников Отечества. А ещё он в памяти родных, близких, друзей и товарищей. Он в наших сердцах, словах и делах. - сказал Алексей Алексеевич"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/0/photo-2025-09-25-20-42-24.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/a/parta-geroja-gallery-normal.jpg",
+      "alt": "Парта Героя 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/e/parta-geroja-gallery-normal.jpg",
+      "alt": "Парта Героя 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/a/parta-geroja-gallery-normal.jpg",
+      "alt": "Парта Героя 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/c/c/parta-geroja-gallery-normal.jpg",
+      "alt": "Парта Героя 3"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Алексей Алексеевич Гапонов принял участие в открытии Парты Героя",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "25 сентября в г.Льгов Курской области, в рамках образовательного проекта «Парта Героя» состоялось открытие парты, посвященной льговчанину, добровольцу бригады «БАРС-Курск», оператору БпЛА, Виктору Николаевичу Косоголову, героически отдавшему жизнь при выполнении боевой задачи 02.02.2025 г. Высокой честью для всех собравшихся стала возможность почтить память павшего воина, земляка, товарища, сына… и открыть парту его имени, за которой будут впредь учиться самые достойные учащиеся Школы № 2 г. Льгова, которую когда-то заканчивал сам Виктор Николаевич. На мероприятии присутствовали родители Героя, его боевые товарищи, учащиеся школы, представители Администрации. От лица боевого подразделения в торжественной церемонии открытия участвовал заместитель командира добровольческой бригады БАРС-Курск по военно-политической работе, глава Высшего совета РКО Алексей Алексеевич Гапонов Наш товарищ героически отдал свою жизнь, исполняя боевой долг, защищая родной край, свою Родину. Виктор навеки в Вечном строю защитников Отечества. А ещё он в памяти родных, близких, друзей и товарищей. Он в наших сердцах, словах и делах. - сказал Алексей Алексеевич",
+      "links": [
+        {
+          "title": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "title": "Алексей Алексеевич Гапонов",
+          "url": "https://cosmatica.org/users/7"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/002/u218/7/0/photo-2025-09-25-20-42-24.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/9/4/parta-geroja-photo-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/7/0/photo-2025-09-25-20-42-24.jpg",
+    "https://cosmatica.org/upload/002/u218/e/a/parta-geroja-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/5/e/parta-geroja-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/f/a/parta-geroja-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/c/c/parta-geroja-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1407,
+    "storedTextCharacters": 592,
+    "sourceCardCount": 0,
+    "sourceImageCount": 6,
+    "paragraphCount": 2,
+    "sourceBytes": 49130
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1259,
+  "capturedBodyCharacters": 592,
+  "sourceTextSHA256": "9aa4808f5feb64c3f8fe6a5b2635cbd97fd5d96e5be97efcef6caba5ea4a4447",
+  "archiveSnapshotAt": "2026-10-08T09:10:13Z"
+}

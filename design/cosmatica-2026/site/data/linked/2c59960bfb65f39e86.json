@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/729-tropa-muzhestva-leto-2019.html",
+  "title": "\"Тропа мужества\". Лето 2019",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Тропа Мужества",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Дистанции:",
+      "spans": [
+        {
+          "text": "Дистанции: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- 15 км до 1 КТ и обратно (детская); - ~45 км верхняя петля (начальная дистанция); - ~70 км две петли (базовая); - ~110 км две петли + верхняя (марафонская дистанция).",
+      "spans": [
+        {
+          "text": "- 15 км до 1 КТ и обратно (детская);  - ~45 км верхняя петля (начальная дистанция);  - ~70 км две петли (базовая);  - ~110 км две петли + верхняя (марафонская дистанция)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Всего в марафоне приняли участие более 350 человек. Поздравляем победителей и всех, кто смог Проверить Себя!",
+      "spans": [
+        {
+          "text": "Всего в марафоне приняли участие более 350 человек. Поздравляем победителей и всех, кто смог Проверить Себя! "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "До новых встреч на Тропе!",
+      "spans": [
+        {
+          "text": "До новых встреч на Тропе!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Официальный сайт",
+      "spans": [
+        {
+          "text": "Официальный сайт"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа ВКонтакте",
+      "spans": [
+        {
+          "text": "Группа ВКонтакте",
+          "href": "https://vk.com/natropu"
+        }
+      ],
+      "links": [
+        {
+          "text": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ссылка на Youtube",
+      "spans": [
+        {
+          "text": "Ссылка на Youtube ",
+          "href": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "links": [
+        {
+          "text": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "9n-gv6MyMGI",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=9n-gv6MyMGI"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Дистанции: - 15 км до 1 КТ и обратно (детская); - ~45 км верхняя петля (начальная дистанция); - ~70 км две петли (базовая); - ~110 км две петли + верхняя (марафонская дистанция). Всего в марафоне приняли участие более 350 человек. Поздравляем победителей и всех, кто смог Проверить Себя! До новых встреч на Тропе! Официальный сайт Группа ВКонтакте Ссылка на Youtube",
+      "links": [
+        {
+          "title": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        },
+        {
+          "title": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 430,
+    "storedTextCharacters": 374,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 7,
+    "sourceBytes": 74692
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 386,
+  "capturedBodyCharacters": 374,
+  "sourceTextSHA256": "01dbf8621c6daf5ad563877b88ad78e51bd0edfbf3bbb9ec8aa1302469cfe2db",
+  "archiveSnapshotAt": "2026-10-08T08:43:10Z",
+  "publicVideoCount": 1
+}

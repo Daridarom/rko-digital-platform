@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "projects",
+  "title": "Проекты",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 18,
+  "pageCount": 20,
+  "total": 290,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Профилактика.онлайн",
+      "description": "Русское Космическое Общество выступает соорганизатором портала ПРОФИЛАКТИКА.ОНЛАЙН — информационно-методического ресурса в формате единой электронной библиотеки, содержащей востребованные материалы по профилактике курения, потребления алкоголя и наркотиков, иных химических и нехимических зависимостей, формированию трезвого здорового образа жизни.",
+      "url": "https://cosmatica.org/projects/profilaktika",
+      "image": "https://cosmatica.org/upload/000/u73/3f/78/profilaktika-onlain-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=5c74e855440e5310ae",
+      "type": "project",
+      "sourceCharacters": 1262,
+      "verified": false
+    },
+    {
+      "title": "Женское Космическое Послание Земли",
+      "description": "Планета Земля – источник жизни для всех живых существ, рождённых и живущих на ней. Она их мать и хранительница. Она — надёжная защита всего живого от угроз и опасностей, которые таит в себе бескрайний Космос.",
+      "url": "https://cosmatica.org/projects/coswom",
+      "image": "https://cosmatica.org/upload/000/u7/2/2/zhenskoe-kosmicheskoe-poslanie-zemli-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=40457d60dbff1242ed",
+      "type": "project",
+      "sourceCharacters": 14081,
+      "verified": false
+    },
+    {
+      "title": "Учебное пособие: \"Научная экспертиза проектов устойчивого развития сложных систем\"",
+      "description": "Русским Космическим Обществом издано учебное пособие: «Научная экспертиза проектов устойчивого развития сложных систем».",
+      "url": "https://cosmatica.org/projects/expertiza-publication",
+      "image": "https://cosmatica.org/upload/000/u26/79/07/uchebnoe-posobie-nauchnaja-ekspertiza-proektov-ustoichivogo-razvit.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=51a602ef4e52c1a9ee",
+      "type": "project",
+      "sourceCharacters": 2274,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль \"Сундуки - Храм Солнца\"",
+      "description": "В рамках фестиваля «Сундуки — Храм Солнца» 22-23 июня 2018г. в Хакасии будет работать площадка Русского Космического Общества.",
+      "url": "https://cosmatica.org/projects/sunduky-hram-solnca",
+      "image": "https://cosmatica.org/upload/000/u43/49/79/88be38f1.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=51de1a423f186390d7",
+      "type": "project",
+      "sourceCharacters": 1540,
+      "verified": false
+    },
+    {
+      "title": "«Талант, согревающий добром»",
+      "description": "Русское Космическое Общество стало соорганизатором Национального детско-юношеского конкурса поэтов-песенников «Талант, согревающий добром» и внесло предложение об учреждении отдельной номинации Конкурса – Лучшая литературная основа для песни на космическую тему.",
+      "url": "https://cosmatica.org/projects/talant",
+      "image": "https://cosmatica.org/upload/000/u26/f0/e8/7d8ec4ba.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b792c9ad1c511c332d",
+      "type": "project",
+      "sourceCharacters": 1909,
+      "verified": false
+    },
+    {
+      "title": "Военно-космические сборы «Космодесант»",
+      "description": "Уважаемые родители, приглашаем Ваших детей к участию в традиционных военно-космических сборах «Космодесант». Подальше от городов и болезней!",
+      "url": "https://cosmatica.org/projects/cosmodesant",
+      "image": "https://cosmatica.org/upload/000/u7/3/6/voenno-kosmicheskie-sbory-kosmodesant-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=7e0e36efc3b1eefad5",
+      "type": "project",
+      "sourceCharacters": 2214,
+      "verified": false
+    },
+    {
+      "title": "Астропутешествие в Париж",
+      "description": "В рамках проекта «АстроГлобус» мы начинаем Астропутешествие в Париж.",
+      "url": "https://cosmatica.org/projects/astroputeshestvie-v-paris",
+      "image": "https://cosmatica.org/upload/000/u21/2d/48/astroputeshestvie-v-parizh-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=40fcb348c44f312b76",
+      "type": "project",
+      "sourceCharacters": 618,
+      "verified": false
+    },
+    {
+      "title": "АстроГлобус",
+      "description": "«АстроГлобус» — рубрика впечатлений о путешествиях по астрономическим достопримечательностям и интересным местам.",
+      "url": "https://cosmatica.org/projects/astroglobus",
+      "image": "https://cosmatica.org/upload/000/u21/86/1e/astroglobus-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=07403c22b330a5bad7",
+      "type": "project",
+      "sourceCharacters": 673,
+      "verified": false
+    },
+    {
+      "title": "Российская ноосферная школа РКО",
+      "description": "Проект создания природосообразной школы космоноосферного технологического уклада на основе отечественных достижений науки",
+      "url": "https://cosmatica.org/projects/noosfernaya-shkola-rko",
+      "image": "https://cosmatica.org/upload/000/u8/39/d5/rossiiskaja-noosfernaja-shkola-rko-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=ab6e1ec0e13b84e0b4",
+      "type": "project",
+      "sourceCharacters": 19557,
+      "verified": false
+    },
+    {
+      "title": "Частная ноосферная школа (ЧНШ)",
+      "description": "Миссия проекта: создание воспитательно-образовательных условий для формирования нового поколения граждан России с планетарно-космическим мировоззрением для устойчивого развития Жизни.",
+      "url": "https://cosmatica.org/projects/chastnaya-noosfernaya-shkola",
+      "image": "https://cosmatica.org/upload/000/u8/d7/9d/chastnaja-noosfernaja-shkola-chnsh-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=4bee1ea22889bef1d4",
+      "type": "project",
+      "sourceCharacters": 20938,
+      "verified": false
+    },
+    {
+      "title": "Сохраняя память: Генерал \"Буран\"",
+      "description": "Проект «Генерал „Буран“ осуществляется в рамках Всероссийского движения Русского Космического Общества «СОХРАНЯЯ ПАМЯТЬ»",
+      "url": "https://cosmatica.org/projects/gudilin",
+      "image": "https://cosmatica.org/upload/000/u21/e8/21/sohranjaja-pamjat-general-buran-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e1b4cddfec601a8184",
+      "type": "project",
+      "sourceCharacters": 4179,
+      "verified": false
+    },
+    {
+      "title": "Социальный проект: «Каждая жизнь для Жизни бесценна»",
+      "description": "Проект реализуется Научно образовательным Советом в рамках развития Просветительско-гуманитарного центра Русского Космического Общества.",
+      "url": "https://cosmatica.org/projects/kazhdaya-zhizn",
+      "image": "https://cosmatica.org/upload/000/u35/a/4/socialnyi-proekt-kazhdaja-zhizn-dlja-zhizni-bescenna-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=83e3ee79fc476feb49",
+      "type": "project",
+      "sourceCharacters": 3607,
+      "verified": false
+    },
+    {
+      "title": "Всероссийское движение Русского Космического Общества \"Сохраняя память\"",
+      "description": "Целью движения является сохранение и увековечивание памяти о выдающихся личностях, людях известных и незаслуженно забытых, внёсших неоценимый вклад в развитие нашего Отечества, Родины и государства.",
+      "url": "https://cosmatica.org/projects/sokhranjaja-pamjat",
+      "image": "https://cosmatica.org/upload/000/u21/9d/1b/vserossiiskoe-dvizhenie-russkogo-kosmicheskogo-obschestva-sohranjaja.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=09c19097bde4f3c5a8",
+      "type": "project",
+      "sourceCharacters": 2201,
+      "verified": false
+    },
+    {
+      "title": "IX Международная научная конференция «Устойчивое развитие как условие сохранения и развития жизни российского общества»",
+      "description": "25 мая 2018 года с 10:00 до 15:30 состоится IX Международная научная конференция по фундаментальным и прикладным проблемам в системе «Природа-Общество-Человек» на тему «Устойчивое развитие как условие сохранения и развития жизни российского общества». Конференция и её секции пройдут на площадках г.Москвы, г.Санкт-Петербурга, г.Дубны (Московская область), г.Ялта (республика Крым).",
+      "url": "https://cosmatica.org/projects/chto-nas-objedinyaet",
+      "image": "https://cosmatica.org/upload/000/u26/78/51/ix-mezhdunarodnaja-nauchnaja-konferencija-ustoichivoe-razvitie-kak-us.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=749108848bb790a8ef",
+      "type": "project",
+      "sourceCharacters": 3873,
+      "verified": false
+    },
+    {
+      "title": "Образовательный курс: «Взгляд в космос: события, технологии и люди российской космонавтики»",
+      "description": "Работа и защита проектов команд Мотивация проведения курса Цели проекта Преимущества от прохождения курса. Пройдя курс, вы отлично разберетесь в том как устроена космонавтика, познакомитесь с активными и живыми популяризаторами космонавтики, получите сертификат о прохождении курса (важный артефакт для портфолио), возможность преподавать данный курс в лучших школах Москвы и МО, участвовать в будущих научно-просветител",
+      "url": "https://cosmatica.org/projects/vzglyad-v-cosmos",
+      "image": "https://cosmatica.org/upload/000/u26/b0/9f/obrazovatelnyi-kurs-vzgljad-v-kosmos-sobytija-tehnologii-i-lyu.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=bf831fc5312c3ab8eb",
+      "type": "project",
+      "sourceCharacters": 760,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

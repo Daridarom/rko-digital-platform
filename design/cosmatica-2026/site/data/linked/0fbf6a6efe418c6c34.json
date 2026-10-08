@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/m",
+  "title": "М",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Могущество народа",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Материализованная форма знания",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Маркетинг",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Математический закон",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Меновая стоимость",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Метод",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Мера",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Мировоззрение",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Модель",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Мощность",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Мощность валюты",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Методология",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 168,
+    "storedTextCharacters": 155,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 40323
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 168,
+  "capturedBodyCharacters": 155,
+  "sourceTextSHA256": "68b5b4f69aaaf9c3ebc7edd2cca1c075a02e252c9b4779116f81879727b2c702",
+  "archiveSnapshotAt": "2026-10-08T08:47:27Z"
+}

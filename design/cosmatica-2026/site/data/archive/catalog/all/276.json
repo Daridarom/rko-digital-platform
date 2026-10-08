@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 276,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "КОСМАТИКА",
+      "description": "Косматика есть сключение Человека с Природой с целью их обоюдного одухотворения. Система знаний и действий, основанная на сключении человека с природой, с её целями, законами и проявлениями, есть Косматика. Говоря иначе, Косматика - есть учение Жизни о Самой Себе. Косматика - это Жизнь , осознавшая себя как космопланетарное явление и действующая в направлении устойчивого саморазвития на Земле и за её пределами. Косма",
+      "url": "https://cosmatica.org/about/cosmatica.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=930470f0df46aff95e",
+      "type": "article",
+      "sourceCharacters": 3193,
+      "verified": false
+    },
+    {
+      "title": "Документы",
+      "description": "",
+      "url": "https://cosmatica.org/about/documents",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=3aad368023fe488e32",
+      "type": "article",
+      "sourceCharacters": 221,
+      "verified": false
+    },
+    {
+      "title": "О гербе Русского Космического Общества - ПРОРЫВ!",
+      "description": "Герб РКО (Прорыв) представляет собой изображение в виде квадрата, на 2/3 иссиня-чёрного цвета.",
+      "url": "https://cosmatica.org/about/gerbrko.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/5/bezymjannyi.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=284eedd8a43f94518e",
+      "type": "article",
+      "sourceCharacters": 4547,
+      "verified": false
+    },
+    {
+      "title": "Информация",
+      "description": "",
+      "url": "https://cosmatica.org/about/informacija",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=about-info",
+      "type": "about-info",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Карточка организации",
+      "description": "Полное Наименование Межрегиональная общественная организация в сфере изучения и популяризации космонавтики «Русское космическое общество» Сокращённое наименование МОО «Русское космическое общество» Полное Наименование на английском языке Inyerregional non-government organization «Russian Cosmic Society» Сокращённое наименование на английском языке Russian Cosmic Society, RСS Юридический адрес 107061, г. Москва, ул. Х",
+      "url": "https://cosmatica.org/about/kartochka-organizacii.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=ffcc385f792ae5bf93",
+      "type": "article",
+      "sourceCharacters": 968,
+      "verified": false
+    },
+    {
+      "title": "Марш Русского Космического Общества",
+      "description": "Россия вечно молодая идёт, идёт вперёд, Руками небо обнимая, нас всех зовёт в поход. Мы с тобой всех соберём, мы с тобою всем расскажем, Мы с тобою всё споём через века, через века!",
+      "url": "https://cosmatica.org/about/marchrko.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=e86ccde4a4bd1728fb",
+      "type": "article",
+      "sourceCharacters": 1005,
+      "verified": false
+    },
+    {
+      "title": "Школа Русского Космизма как мировоззренческая основа Русского Космического Общества",
+      "description": "Возникновение школы Русского Космизма было своеобразным ответом русской научной мысли на вызов «о неизбежности тепловой смерти (конце) Вселенной», который был брошен мировому сообществу после рассмотрения Клаузиусом принципов сохранения энергии и роста энтропии. По существу, в поиске ответа на этот глобальный вызов и лежат работы Русского Космизма.",
+      "url": "https://cosmatica.org/about/ruscosmizm.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/9/iqvtee-irdi.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=330e2f86698836f6ca",
+      "type": "article",
+      "sourceCharacters": 16375,
+      "verified": false
+    },
+    {
+      "title": "Символика",
+      "description": "",
+      "url": "https://cosmatica.org/about/simvolika",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=250799991edc98da71",
+      "type": "article",
+      "sourceCharacters": 131,
+      "verified": false
+    },
+    {
+      "title": "Знамя Русского Космического Общества",
+      "description": "Знамя Русского Космического Общества символизирует собой прорыв России в космическое будущее. Оно называется - \"Красный Поход\".",
+      "url": "https://cosmatica.org/about/znamjarko.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/5/iqvtee-irdi.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=9f12e1b13273e53ad2",
+      "type": "article",
+      "sourceCharacters": 1026,
+      "verified": false
+    },
+    {
+      "title": "Материалы",
+      "description": "",
+      "url": "https://cosmatica.org/articles",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles",
+      "type": "articles",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Ближе к космосу",
+      "description": "",
+      "url": "https://cosmatica.org/articles/blizhe-k-kosmosu",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=3a354cf8b1878c1874",
+      "type": "articles-list",
+      "sourceCharacters": 951,
+      "verified": false
+    },
+    {
+      "title": "Фантастика РКО",
+      "description": "Русское Космическое Общество призывает к строительству общества будущего, воспитанию нового - космического человека.",
+      "url": "https://cosmatica.org/articles/fantastika-rko",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=a7c5e7c370403ffb6d",
+      "type": "articles-list",
+      "sourceCharacters": 2457,
+      "verified": false
+    },
+    {
+      "title": "Газета",
+      "description": "Рубрика содержит архивы всех выпусков газеты \"Природа-Общество-Человек\"",
+      "url": "https://cosmatica.org/articles/gazeta",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=0ccf2e8bed57b0926e",
+      "type": "articles-list",
+      "sourceCharacters": 433,
+      "verified": false
+    },
+    {
+      "title": "Издания",
+      "description": "Научные и научно-популярные издания: газеты, журналы, вестники.",
+      "url": "https://cosmatica.org/articles/izdanija",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=b2245d7b62bbf848d6",
+      "type": "articles-list",
+      "sourceCharacters": 168,
+      "verified": false
+    },
+    {
+      "title": "Конференции",
+      "description": "Русское Космическое Общество является организатором конференций, конгрессов, симпозиумов.",
+      "url": "https://cosmatica.org/articles/konferencii",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=a74099aa7c8657d2fa",
+      "type": "articles-list",
+      "sourceCharacters": 845,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

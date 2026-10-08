@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 2,
+  "slug": "project",
+  "sourceUrl": "https://cosmatica.org/projects/286",
+  "title": "Миссия Нирма",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/a/d/missija-nirma-logo-normal.jpg",
+      "alt": "Миссия Нирма"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О проекте",
+        "Новости 15",
+        "Архив газеты 1",
+        "Мероприятия 17"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/6/a/slaid1.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/d/2/slaid2.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/2/d/slaid3.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/8/9/slaid4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/c/2/slaid5.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/b/3/slaid6.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/c/7/slaid7.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/a/8/slaid8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/9/9/slaid9.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/e/0/slaid10.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "text": "Стена проекта",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/1/6/bb4722ab.jpg",
+      "alt": "Елена Евгеньевна Тимошкина"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/5/a/generated-image-65.png",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Направление:",
+      "value": "Образование",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Статус:",
+      "value": "Действующий",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Сайт:",
+      "value": "https://nirmacamp.ru",
+      "links": [
+        {
+          "title": "https://nirmacamp.ru",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fnirmacamp.ru"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/a/d/missija-nirma-logo-normal.jpg",
+    "https://cosmatica.org/upload/003/u318/6/a/slaid1.jpg",
+    "https://cosmatica.org/upload/003/u318/d/2/slaid2.jpg",
+    "https://cosmatica.org/upload/003/u318/2/d/slaid3.jpg",
+    "https://cosmatica.org/upload/003/u318/8/9/slaid4.jpg",
+    "https://cosmatica.org/upload/003/u318/c/2/slaid5.jpg",
+    "https://cosmatica.org/upload/003/u318/b/3/slaid6.jpg",
+    "https://cosmatica.org/upload/003/u318/c/7/slaid7.jpg",
+    "https://cosmatica.org/upload/003/u318/a/8/slaid8.jpg",
+    "https://cosmatica.org/upload/003/u318/9/9/slaid9.jpg",
+    "https://cosmatica.org/upload/003/u318/e/0/slaid10.jpg",
+    "https://cosmatica.org/upload/002/u218/1/6/bb4722ab.jpg",
+    "https://cosmatica.org/upload/003/u318/5/a/generated-image-65.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 3379,
+    "storedTextCharacters": 60,
+    "sourceCardCount": 0,
+    "sourceImageCount": 13,
+    "paragraphCount": 10,
+    "sourceBytes": 46019
+  },
+  "textFallbackRequired": false,
+  "originalKind": "project",
+  "sourceTextCharacters": 71,
+  "capturedBodyCharacters": 60,
+  "sourceTextSHA256": "fc78d051a128bd62c21a05ae65ddb6b824c87c6859f795a5024e6d7bdb8546b0",
+  "archiveSnapshotAt": "2026-10-08T09:16:50Z"
+}

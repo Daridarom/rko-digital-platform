@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/166-vyshel-novyi-vypusk-gazety-iyul-2018.html",
+  "title": "Вышел новый выпуск газеты (июль, 2018)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Научно-образовательная и просветительская газета \"Природа-Общество-Человек: ноосферное устойчивое ра",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/05/c6/vyshel-novyi-vypusk-gazety-iyul-2018-photo-normal.jpg",
+      "alt": "Вышел новый выпуск газеты (июль, 2018)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Дорогие друзья!",
+      "spans": [
+        {
+          "text": "Дорогие друзья!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Рады сообщить о том, что выпуск газеты \"Природа - Общество - Человек: Ноосферное устойчивое развитие \" №11 с понедельника будет распространяться в офисе Русского Космического Общества по адресу: г. Москва, Ленинградский проспект, д. 7/1, оф. 20 и по подписке на территории России.",
+      "spans": [
+        {
+          "text": "Рады сообщить о том, что выпуск газеты \"Природа - Общество - Человек: Ноосферное устойчивое  "
+        },
+        {
+          "text": "развитие",
+          "href": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "text": "\" №11 с понедельника будет распространяться в офисе Русского Космического Общества по адресу: г. Москва, Ленинградский проспект, д. 7/1, оф. 20 и по подписке на территории России. "
+        }
+      ],
+      "links": [
+        {
+          "text": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "С этого месяца газета также будет распространяться и в офисе Русского Космического Общества в городе Санкт-Петербург по адресу: набережная канала Грибоедова, д.5, лит. Е, оф. 428, 4 этаж.",
+      "spans": [
+        {
+          "text": "С этого месяца газета также будет распространяться и в офисе Русского Космического Общества в городе Санкт-Петербург по адресу: набережная канала Грибоедова, д.5, лит. Е, оф. 428, 4 этаж."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ознакомиться с газетой можно по ссылке: http://cosmatica.org/projects/10/content/newspaper .",
+      "spans": [
+        {
+          "text": "Ознакомиться с газетой можно по ссылке: "
+        },
+        {
+          "text": "http://cosmatica.org/projects/10/content/newspaper",
+          "href": "https://vk.com/away.php?to=http%3A%2F%2Fcosmatica.org%2Fprojects%2F10%2Fcontent%2Fnewspaper&post=-146842769_2223&cc_key="
+        },
+        {
+          "text": "."
+        }
+      ],
+      "links": [
+        {
+          "text": "http://cosmatica.org/projects/10/content/newspaper",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fcosmatica.org%2Fprojects%2F10%2Fcontent%2Fnewspaper&post=-146842769_2223&cc_key="
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Рады сообщить, что долгожданный июньский выпуск газеты уже доступен!",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Дорогие друзья! Рады сообщить о том, что выпуск газеты \"Природа - Общество - Человек: Ноосферное устойчивое развитие \" №11 с понедельника будет распространяться в офисе Русского Космического Общества по адресу: г. Москва, Ленинградский проспект, д. 7/1, оф. 20 и по подписке на территории России. С этого месяца газета также будет распространяться и в офисе Русского Космического Общества в городе Санкт-Петербург по адресу: набережная канала Грибоедова, д.5, лит. Е, оф. 428, 4 этаж. Ознакомиться с газетой можно по ссылке: http://cosmatica.org/projects/10/content/newspaper .",
+      "links": [
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "title": "http://cosmatica.org/projects/10/content/newspaper",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fcosmatica.org%2Fprojects%2F10%2Fcontent%2Fnewspaper&post=-146842769_2223&cc_key="
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/05/c6/vyshel-novyi-vypusk-gazety-iyul-2018-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1075,
+    "storedTextCharacters": 686,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 49172
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 824,
+  "capturedBodyCharacters": 686,
+  "sourceTextSHA256": "72add2b04c61129b6a64d97a436776be59b4c61c171ca5aac67d74b5f6f58208",
+  "archiveSnapshotAt": "2026-10-08T09:08:04Z"
+}

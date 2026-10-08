@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/728-tropa-muzhestva-leto-2019.html",
+  "title": "\"Тропа мужества\". Лето 2019",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Тропа Мужества",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Дистанции:",
+      "spans": [
+        {
+          "text": "Дистанции: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- 15 км до 1 КТ и обратно (детская); - ~45 км верхняя петля (начальная дистанция); - ~70 км две петли (базовая); - ~110 км две петли + верхняя (марафонская дистанция).",
+      "spans": [
+        {
+          "text": "- 15 км до 1 КТ и обратно (детская);  - ~45 км верхняя петля (начальная дистанция);  - ~70 км две петли (базовая);  - ~110 км две петли + верхняя (марафонская дистанция)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Зарегистрироваться можно, перейдя по ссылке",
+      "spans": [
+        {
+          "text": "Зарегистрироваться можно, перейдя по "
+        },
+        {
+          "text": "ссылке",
+          "href": "https://cosmatica.org/articles/www.natrope.com/registration.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "ссылке",
+          "url": "https://cosmatica.org/articles/www.natrope.com/registration.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Официальный сайт",
+      "spans": [
+        {
+          "text": "Официальный сайт"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа ВКонтакте",
+      "spans": [
+        {
+          "text": "Группа ВКонтакте",
+          "href": "https://vk.com/natropu"
+        }
+      ],
+      "links": [
+        {
+          "text": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ссылка на Youtube",
+      "spans": [
+        {
+          "text": "Ссылка на Youtube ",
+          "href": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "links": [
+        {
+          "text": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "3nlpDEXuDZ8",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=3nlpDEXuDZ8"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Дистанции: - 15 км до 1 КТ и обратно (детская); - ~45 км верхняя петля (начальная дистанция); - ~70 км две петли (базовая); - ~110 км две петли + верхняя (марафонская дистанция). Зарегистрироваться можно, перейдя по ссылке Официальный сайт Группа ВКонтакте Ссылка на Youtube",
+      "links": [
+        {
+          "title": "ссылке",
+          "url": "https://cosmatica.org/articles/www.natrope.com/registration.html"
+        },
+        {
+          "title": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        },
+        {
+          "title": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 339,
+    "storedTextCharacters": 284,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 6,
+    "sourceBytes": 74458
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 295,
+  "capturedBodyCharacters": 284,
+  "sourceTextSHA256": "1fd7a61b2d5d3c4587bcf1cafe9b659f64ba0dd7ef62cde9304affa9e8359f2f",
+  "archiveSnapshotAt": "2026-10-08T08:43:10Z",
+  "publicVideoCount": 1
+}

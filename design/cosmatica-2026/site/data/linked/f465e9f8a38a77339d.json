@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/965",
+  "title": "Алексей Петрович Дёмин",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/2/b/3c63f796.jpeg",
+      "alt": "Алексей Петрович Дёмин"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/b/4727f806.jpeg",
+      "alt": "Алексей Петрович Дёмин"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 1"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 5 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/2/b/3c63f796.jpeg",
+    "https://cosmatica.org/upload/000/u35/b/b/4727f806.jpeg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 77,
+    "storedTextCharacters": 35,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34434
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 17,
+  "capturedBodyCharacters": 35,
+  "sourceTextSHA256": "f2558d486f365b8f13aeed963aa319273b8050fae2b2a88b55d7ab151c64dd70",
+  "archiveSnapshotAt": "2026-10-08T09:22:26Z"
+}

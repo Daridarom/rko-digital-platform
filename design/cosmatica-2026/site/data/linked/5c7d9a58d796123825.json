@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/672-kinouroki-novosti-kuzbassa.html",
+  "title": "Киноуроки. Новости Кузбасса",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/3/e/kinouroki-novosti-kuzbassa-photo-normal.jpg",
+      "alt": "Киноуроки. Новости Кузбасса"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 школы Кемеровской области уже стали участниками проекта.",
+      "spans": [
+        {
+          "text": "4 школы Кемеровской области уже стали участниками проекта. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Съемки фильма \"ЭРА\"предполагается провести в период с 1 февраля по 1 апреля 2020 года.",
+      "spans": [
+        {
+          "text": "Съемки фильма \"ЭРА\"предполагается провести в период с 1 февраля по 1 апреля 2020 года. "
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "PeJmiAKjFMo",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=PeJmiAKjFMo"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Кузбасское отделение Русского космического общества поддержало Всероссийский народный проект «Киноуроки в школах России».",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Проектные продукты - профессиональные короткометражные художественные фильмы, формирующие созидательные ценности у школьников 1-11 классов. Фильмы создаются от разных субъектов РФ для внеклассной работы с детьми. 18 фильмов-киноуроков уже готово, они расположены на официальном портале министерства Просвещения \"Российская Электронная Школа\" https://resh.edu.ru/special-course/kino Сейчас идёт подготовка к созданию фильма \"Эра\", посвящённого 60-летию первого полёта человека в космос, и это первый фильм, когда киноурок создаётся не от конкретного субъекта РФ, а совместными усилиями школьников России. Именно на этой волне мы и включаем регион в этот проект . Мы ищем 10 школ, чтобы организовать на их базе школьную благотворительную акцию «Киноэкология» по сбору макулатуры, средства от сдачи которой будут использованы для съёмок фильма. Школы-участницы станут сопродюсерами и войдут в титры фильма! Сельские или малокомплектные школы, желающие стать участниками проекта, могут провести альтернативное мероприятие - ярмарку поделок, талантов и прочее. Каждая школа собирает не менее 1 тонны макулатуры на сумму не менее 5000 руб. Всего от региона ожидается 50000 руб. 4 школы Кемеровской области уже стали участниками проекта. Сроки: формирование группы школ-участниц и презентация проекта до 1 февраля 2020 Проведение акции \"Киноэкология\" до 29 февраля 2020. Отчёты: 1 марта 2020. Съемки фильма \"ЭРА\"предполагается провести в период с 1 февраля по 1 апреля 2020 года. Kratkoe_opisanie_proekta.pdf Экспертиза РАО РФ: Экспертиза РАО Киноуроки.pdf Поддержка от Роскосмоса: Письмо от Роскосмоса Дубровской фильм ЭРА.pdf Контакты: kulikova@cosmatica.org Председатель Кузбасского отделения РКО Куликова Наталья Геннадьевна",
+      "links": [
+        {
+          "title": "https://resh.edu.ru/special-course/kino",
+          "url": "https://ok.ru/dk?cmd=logExternal&st.cmd=logExternal&st.sig=K5qX9p-cKb2fdPH9Yc7tKtNoM9M4EYACL0PgOlsyfsr4YOdJL_WBLhFJ49Ukx4tR&st.link=https%3A%2F%2Fresh.edu.ru%2Fspecial-course%2Fkino&st.name=externalLinkRedirect&st.tid=151013121631634"
+        },
+        {
+          "title": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "Kratkoe_opisanie_proekta.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/Kratkoe_opisanie_proekta.pdf"
+        },
+        {
+          "title": "Экспертиза РАО Киноуроки.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%D0%B8%D0%B7%D0%B0%20%D0%A0%D0%90%D0%9E%20%D0%9A%D0%B8%D0%BD%D0%BE%D1%83%D1%80%D0%BE%D0%BA%D0%B8.pdf"
+        },
+        {
+          "title": "Письмо от Роскосмоса Дубровской фильм ЭРА.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/%D0%9F%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%20%D0%BE%D1%82%20%D0%A0%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B0%20%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%20%D0%AD%D0%A0%D0%90.pdf"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/3/e/kinouroki-novosti-kuzbassa-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1998,
+    "storedTextCharacters": 155,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 49510
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1860,
+  "capturedBodyCharacters": 155,
+  "sourceTextSHA256": "571a6fc68b0fe7439042ffe8ec1265e38b3bae4b5a74744144e4b36498db659e",
+  "archiveSnapshotAt": "2026-10-08T09:13:00Z",
+  "publicVideoCount": 1
+}

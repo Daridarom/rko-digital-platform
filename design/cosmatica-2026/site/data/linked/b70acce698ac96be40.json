@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/osnovanija-russkogo-kosmizma",
+  "title": "Основания русского космизма",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "Учение Всемир",
+          "А.В.Сухово-Кобылин",
+          ""
+        ],
+        [
+          "",
+          "Московский Сократ",
+          "А.Г. Гачева, М.М. Панфилов",
+          ""
+        ],
+        [
+          "",
+          "Подолинский Сергей Андреевич - Социализм и единство сил природы",
+          "Подолинский Сергей Андреевич",
+          ""
+        ],
+        [
+          "",
+          "Вернадский Владимир Иванович - Филосовские мысли натуралиста",
+          "Вернадский Владимир Иванович",
+          ""
+        ],
+        [
+          "",
+          "Вернадский Владимир Иванович - Биосфера и ноосфера",
+          "Вернадский Владимир Иванович",
+          ""
+        ],
+        [
+          "",
+          "Чижевский Александр Леонидович - Земное эхо солнечных бурь",
+          "Чижевский Александр Леонидович",
+          ""
+        ],
+        [
+          "",
+          "Чижевский Александр Леонидович - Теория космических эр",
+          "Чижевский Александр Леонидович",
+          ""
+        ],
+        [
+          "",
+          "Забелин Игорь Михайлович - Человечество - для чего оно?",
+          "Забелин Игорь Михайлович",
+          ""
+        ],
+        [
+          "",
+          "Бауэр Эрвин Симонович - Теоретическая биология",
+          "Бауэр Эрвин Симонович",
+          ""
+        ],
+        [
+          "",
+          "Циолковский Константин Эдуардович - Вне Земли",
+          "Циолковский Константин Эдуардович",
+          ""
+        ],
+        [
+          "",
+          "Циолковский Константин Эдуардович - Промышленное освоение космоса",
+          "Циолковский Константин Эдуардович",
+          ""
+        ],
+        [
+          "",
+          "Подолинский Сергей Андреевич - Труд человека и его отношение к распределению энергии",
+          "Подолинский Сергей Андреевич",
+          ""
+        ],
+        [
+          "",
+          "Умов Николай Алексеевич - Математика. Механика. Физика. Астрономия.",
+          "Умов Николай Алексеевич",
+          ""
+        ],
+        [
+          "",
+          "Федоров Николай Федорович - Сочинения",
+          "Федоров Николай Федорович",
+          ""
+        ],
+        [
+          "",
+          "Ломоносов Михаил Васильевич - История. Филология. Поэзия.",
+          "Ломоносов Михаил Васильевич",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/3/6/2c7ceec8.jpg",
+      "alt": "Учение Всемир"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/c/moskovskii-sokrat-photo-small.jpg",
+      "alt": "Московский Сократ"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/3e/3b/socializm-i-edinstvo-sil-prirody-photo-small.jpg",
+      "alt": "Подолинский Сергей Андреевич - Социализм и единство сил природы"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/90/72/vladimir-ivanovich-vernadskii-filosovskie-mysli-naturalista-pho.jpg",
+      "alt": "Вернадский Владимир Иванович - Филосовские мысли натуралиста"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/af/e8/vladimir-ivanovich-vernadskii-biosfera-i-noosfera-photo-small.jpg",
+      "alt": "Вернадский Владимир Иванович - Биосфера и ноосфера"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/bf/4b/fc8328b5.jpg",
+      "alt": "Чижевский Александр Леонидович - Земное эхо солнечных бурь"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/c9/01/teorija-kosmicheskih-er-photo-small.jpg",
+      "alt": "Чижевский Александр Леонидович - Теория космических эр"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/e3/86/igor-mihailovich-zabelin-chelovechestvo-dlja-chego-ono-photo-sm.png",
+      "alt": "Забелин Игорь Михайлович - Человечество - для чего оно?"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/42/92/ervin-simonovich-bauer-photo-small.png",
+      "alt": "Бауэр  Эрвин Симонович - Теоретическая биология"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/54/d3/ciolkovskii-konstantin-eduardovich-vne-zemli-photo-small.png",
+      "alt": "Циолковский Константин Эдуардович - Вне Земли"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/be/29/ciolkovskii-konstantin-eduardovich-promyshlennoe-osvoenie-kosmo.png",
+      "alt": "Циолковский Константин Эдуардович -  Промышленное освоение космоса"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/ff/52/podolinskii-sergei-andreevich-trud-cheloveka-i-ego-otnoshenie-k-r.jpg",
+      "alt": "Подолинский Сергей Андреевич - Труд человека и его отношение к распределению энергии"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/0d/a3/umov-nikolai-alekseevich-matematika-mehanika-fizika-astronom.jpg",
+      "alt": "Умов Николай Алексеевич - Математика. Механика. Физика. Астрономия."
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/71/2a/sochinenija-photo-small.jpg",
+      "alt": "Федоров Николай Федорович - Сочинения"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/69/13/2a62a1b4.png",
+      "alt": "Ломоносов Михаил Васильевич - История. Филология. Поэзия."
+    }
+  ],
+  "cards": [
+    {
+      "title": "Учение Всемир",
+      "description": "Учение Всемир А.В.Сухово-Кобылин",
+      "url": "https://cosmatica.org/library/487-uchenie-vsemir.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/6/2c7ceec8.jpg",
+      "links": [
+        {
+          "title": "Учение Всемир",
+          "url": "https://cosmatica.org/library/487-uchenie-vsemir.html"
+        }
+      ]
+    },
+    {
+      "title": "Московский Сократ",
+      "description": "Московский Сократ А.Г. Гачева, М.М. Панфилов",
+      "url": "https://cosmatica.org/library/382-moskovskii-sokrat.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/c/moskovskii-sokrat-photo-small.jpg",
+      "links": [
+        {
+          "title": "Московский Сократ",
+          "url": "https://cosmatica.org/library/382-moskovskii-sokrat.html"
+        }
+      ]
+    },
+    {
+      "title": "Подолинский Сергей Андреевич - Социализм и единство сил природы",
+      "description": "Подолинский Сергей Андреевич - Социализм и единство сил природы Подолинский Сергей Андреевич",
+      "url": "https://cosmatica.org/library/181-podolinskii-sergei-andreevich-socializm-i-edinstvo-sil-prirody.html",
+      "image": "https://cosmatica.org/upload/000/u8/3e/3b/socializm-i-edinstvo-sil-prirody-photo-small.jpg",
+      "links": [
+        {
+          "title": "Подолинский Сергей Андреевич - Социализм и единство сил природы",
+          "url": "https://cosmatica.org/library/181-podolinskii-sergei-andreevich-socializm-i-edinstvo-sil-prirody.html"
+        }
+      ]
+    },
+    {
+      "title": "Вернадский Владимир Иванович - Филосовские мысли натуралиста",
+      "description": "Вернадский Владимир Иванович - Филосовские мысли натуралиста Вернадский Владимир Иванович",
+      "url": "https://cosmatica.org/library/177-vernadskii-vladimir-ivanovich-filosovskie-mysli-naturalista.html",
+      "image": "https://cosmatica.org/upload/000/u26/90/72/vladimir-ivanovich-vernadskii-filosovskie-mysli-naturalista-pho.jpg",
+      "links": [
+        {
+          "title": "Вернадский Владимир Иванович - Филосовские мысли натуралиста",
+          "url": "https://cosmatica.org/library/177-vernadskii-vladimir-ivanovich-filosovskie-mysli-naturalista.html"
+        }
+      ]
+    },
+    {
+      "title": "Вернадский Владимир Иванович - Биосфера и ноосфера",
+      "description": "Вернадский Владимир Иванович - Биосфера и ноосфера Вернадский Владимир Иванович",
+      "url": "https://cosmatica.org/library/176-vernadskii-vladimir-ivanovich-biosfera-i-noosfera.html",
+      "image": "https://cosmatica.org/upload/000/u26/af/e8/vladimir-ivanovich-vernadskii-biosfera-i-noosfera-photo-small.jpg",
+      "links": [
+        {
+          "title": "Вернадский Владимир Иванович - Биосфера и ноосфера",
+          "url": "https://cosmatica.org/library/176-vernadskii-vladimir-ivanovich-biosfera-i-noosfera.html"
+        }
+      ]
+    },
+    {
+      "title": "Чижевский Александр Леонидович - Земное эхо солнечных бурь",
+      "description": "Чижевский Александр Леонидович - Земное эхо солнечных бурь Чижевский Александр Леонидович",
+      "url": "https://cosmatica.org/library/175-chizhevskii-aleksandr-leonidovich-zemnoe-eho-solnechnyh-bur.html",
+      "image": "https://cosmatica.org/upload/000/u26/bf/4b/fc8328b5.jpg",
+      "links": [
+        {
+          "title": "Чижевский Александр Леонидович - Земное эхо солнечных бурь",
+          "url": "https://cosmatica.org/library/175-chizhevskii-aleksandr-leonidovich-zemnoe-eho-solnechnyh-bur.html"
+        }
+      ]
+    },
+    {
+      "title": "Чижевский Александр Леонидович - Теория космических эр",
+      "description": "Чижевский Александр Леонидович - Теория космических эр Чижевский Александр Леонидович",
+      "url": "https://cosmatica.org/library/174-chizhevskii-aleksandr-leonidovich-teorija-kosmicheskih-er.html",
+      "image": "https://cosmatica.org/upload/000/u26/c9/01/teorija-kosmicheskih-er-photo-small.jpg",
+      "links": [
+        {
+          "title": "Чижевский Александр Леонидович - Теория космических эр",
+          "url": "https://cosmatica.org/library/174-chizhevskii-aleksandr-leonidovich-teorija-kosmicheskih-er.html"
+        }
+      ]
+    },
+    {
+      "title": "Забелин Игорь Михайлович - Человечество - для чего оно?",
+      "description": "Забелин Игорь Михайлович - Человечество - для чего оно? Забелин Игорь Михайлович",
+      "url": "https://cosmatica.org/library/100-zabelin-igor-mihailovich-chelovechestvo-dlja-chego-ono.html",
+      "image": "https://cosmatica.org/upload/000/u1/e3/86/igor-mihailovich-zabelin-chelovechestvo-dlja-chego-ono-photo-sm.png",
+      "links": [
+        {
+          "title": "Забелин Игорь Михайлович - Человечество - для чего оно?",
+          "url": "https://cosmatica.org/library/100-zabelin-igor-mihailovich-chelovechestvo-dlja-chego-ono.html"
+        }
+      ]
+    },
+    {
+      "title": "Бауэр Эрвин Симонович - Теоретическая биология",
+      "description": "Бауэр Эрвин Симонович - Теоретическая биология Бауэр Эрвин Симонович",
+      "url": "https://cosmatica.org/library/99-bauer-ervin-simonovich-teoreticheskaja-biologija.html",
+      "image": "https://cosmatica.org/upload/000/u1/42/92/ervin-simonovich-bauer-photo-small.png",
+      "links": [
+        {
+          "title": "Бауэр Эрвин Симонович - Теоретическая биология",
+          "url": "https://cosmatica.org/library/99-bauer-ervin-simonovich-teoreticheskaja-biologija.html"
+        }
+      ]
+    },
+    {
+      "title": "Циолковский Константин Эдуардович - Вне Земли",
+      "description": "Циолковский Константин Эдуардович - Вне Земли Циолковский Константин Эдуардович",
+      "url": "https://cosmatica.org/library/16-ciolkovskii-konstantin-eduardovich-vne-zemli.html",
+      "image": "https://cosmatica.org/upload/000/u1/54/d3/ciolkovskii-konstantin-eduardovich-vne-zemli-photo-small.png",
+      "links": [
+        {
+          "title": "Циолковский Константин Эдуардович - Вне Земли",
+          "url": "https://cosmatica.org/library/16-ciolkovskii-konstantin-eduardovich-vne-zemli.html"
+        }
+      ]
+    },
+    {
+      "title": "Циолковский Константин Эдуардович - Промышленное освоение космоса",
+      "description": "Циолковский Константин Эдуардович - Промышленное освоение космоса Циолковский Константин Эдуардович",
+      "url": "https://cosmatica.org/library/15-ciolkovskii-konstantin-eduardovich-promyshlennoe-osvoenie-kosmosa.html",
+      "image": "https://cosmatica.org/upload/000/u1/be/29/ciolkovskii-konstantin-eduardovich-promyshlennoe-osvoenie-kosmo.png",
+      "links": [
+        {
+          "title": "Циолковский Константин Эдуардович - Промышленное освоение космоса",
+          "url": "https://cosmatica.org/library/15-ciolkovskii-konstantin-eduardovich-promyshlennoe-osvoenie-kosmosa.html"
+        }
+      ]
+    },
+    {
+      "title": "Подолинский Сергей Андреевич - Труд человека и его отношение к распределению энергии",
+      "description": "Подолинский Сергей Андреевич - Труд человека и его отношение к распределению энергии Подолинский Сергей Андреевич",
+      "url": "https://cosmatica.org/library/11-podolinskii-sergei-andreevich-trud-cheloveka-i-ego-otnoshenie-k-raspredeleniyu-energii.html",
+      "image": "https://cosmatica.org/upload/000/u1/ff/52/podolinskii-sergei-andreevich-trud-cheloveka-i-ego-otnoshenie-k-r.jpg",
+      "links": [
+        {
+          "title": "Подолинский Сергей Андреевич - Труд человека и его отношение к распределению энергии",
+          "url": "https://cosmatica.org/library/11-podolinskii-sergei-andreevich-trud-cheloveka-i-ego-otnoshenie-k-raspredeleniyu-energii.html"
+        }
+      ]
+    },
+    {
+      "title": "Умов Николай Алексеевич - Математика. Механика. Физика. Астрономия.",
+      "description": "Умов Николай Алексеевич - Математика. Механика. Физика. Астрономия. Умов Николай Алексеевич",
+      "url": "https://cosmatica.org/library/10-umov-nikolai-alekseevich-matematika-mehanika-fizika-astronomija.html",
+      "image": "https://cosmatica.org/upload/000/u1/0d/a3/umov-nikolai-alekseevich-matematika-mehanika-fizika-astronom.jpg",
+      "links": [
+        {
+          "title": "Умов Николай Алексеевич - Математика. Механика. Физика. Астрономия.",
+          "url": "https://cosmatica.org/library/10-umov-nikolai-alekseevich-matematika-mehanika-fizika-astronomija.html"
+        }
+      ]
+    },
+    {
+      "title": "Федоров Николай Федорович - Сочинения",
+      "description": "Федоров Николай Федорович - Сочинения Федоров Николай Федорович",
+      "url": "https://cosmatica.org/library/9-fedorov-nikolai-fedorovich-sochinenija.html",
+      "image": "https://cosmatica.org/upload/000/u1/71/2a/sochinenija-photo-small.jpg",
+      "links": [
+        {
+          "title": "Федоров Николай Федорович - Сочинения",
+          "url": "https://cosmatica.org/library/9-fedorov-nikolai-fedorovich-sochinenija.html"
+        }
+      ]
+    },
+    {
+      "title": "Ломоносов Михаил Васильевич - История. Филология. Поэзия.",
+      "description": "Ломоносов Михаил Васильевич - История. Филология. Поэзия. Ломоносов Михаил Васильевич",
+      "url": "https://cosmatica.org/library/8-lomonosov-mihail-vasilevich-istorija-filologija-poezija.html",
+      "image": "https://cosmatica.org/upload/000/u1/69/13/2a62a1b4.png",
+      "links": [
+        {
+          "title": "Ломоносов Михаил Васильевич - История. Филология. Поэзия.",
+          "url": "https://cosmatica.org/library/8-lomonosov-mihail-vasilevich-istorija-filologija-poezija.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/3/6/2c7ceec8.jpg",
+    "https://cosmatica.org/upload/000/u35/5/c/moskovskii-sokrat-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u8/3e/3b/socializm-i-edinstvo-sil-prirody-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u26/90/72/vladimir-ivanovich-vernadskii-filosovskie-mysli-naturalista-pho.jpg",
+    "https://cosmatica.org/upload/000/u26/af/e8/vladimir-ivanovich-vernadskii-biosfera-i-noosfera-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u26/bf/4b/fc8328b5.jpg",
+    "https://cosmatica.org/upload/000/u26/c9/01/teorija-kosmicheskih-er-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u1/e3/86/igor-mihailovich-zabelin-chelovechestvo-dlja-chego-ono-photo-sm.png",
+    "https://cosmatica.org/upload/000/u1/42/92/ervin-simonovich-bauer-photo-small.png",
+    "https://cosmatica.org/upload/000/u1/54/d3/ciolkovskii-konstantin-eduardovich-vne-zemli-photo-small.png",
+    "https://cosmatica.org/upload/000/u1/be/29/ciolkovskii-konstantin-eduardovich-promyshlennoe-osvoenie-kosmo.png",
+    "https://cosmatica.org/upload/000/u1/ff/52/podolinskii-sergei-andreevich-trud-cheloveka-i-ego-otnoshenie-k-r.jpg",
+    "https://cosmatica.org/upload/000/u1/0d/a3/umov-nikolai-alekseevich-matematika-mehanika-fizika-astronom.jpg",
+    "https://cosmatica.org/upload/000/u1/71/2a/sochinenija-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u1/69/13/2a62a1b4.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1290,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 15,
+    "sourceImageCount": 15,
+    "paragraphCount": 0,
+    "sourceBytes": 65183
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 1290,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "af2be559c753e7f026b06779116de3e63e565cc4476ed332cbdbf67483fe3bed",
+  "archiveSnapshotAt": "2026-10-08T08:51:15Z"
+}

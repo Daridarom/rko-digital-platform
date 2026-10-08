@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster",
+  "sourceUrl": "https://cosmatica.org/poster",
+  "title": "Мероприятия",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Грядущие",
+        "Все"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Концерты",
+        "Тематические встречи",
+        "Фестивали",
+        "Конференции",
+        "Собрания",
+        "Выставки",
+        "Лектории",
+        "Событие",
+        "Лагеря",
+        "Конкурсы",
+        "Круглые столы",
+        "Семинары и курсы",
+        "Соревнования"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "8 октября",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/4/5/mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-s.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "text": "24 октября",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/d/e/fc174b5a.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "text": "18 мая",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/1/5/triedinstvo-kosmicheskogo-proryva-photo-big.jpg",
+      "alt": ""
+    }
+  ],
+  "cards": [
+    {
+      "title": "Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\" #​Международная научная школа устойчивого развития имени П.Г.Кузнецова",
+      "description": "Конференции Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\" #​Международная научная школа устойчивого развития имени П.Г.Кузнецова 08.10.2026",
+      "url": "https://cosmatica.org/poster/1085-mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-sisteme-priroda-obschestvo-.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/5/mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-s.jpg",
+      "links": [
+        {
+          "title": "Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\"",
+          "url": "https://cosmatica.org/poster/1085-mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-sisteme-priroda-obschestvo-.html"
+        },
+        {
+          "title": "#​Международная научная школа устойчивого развития имени П.Г.Кузнецова",
+          "url": "https://cosmatica.org/projects/267/content/poster"
+        }
+      ]
+    },
+    {
+      "title": "Тропа мужества 2026 - осень #Тропа Мужества",
+      "description": "Событие Тропа мужества 2026 - осень #Тропа Мужества 24.10.2026",
+      "url": "https://cosmatica.org/poster/1087-tropa-muzhestva-2026-osen.html",
+      "image": "https://cosmatica.org/upload/000/u7/d/e/fc174b5a.jpg",
+      "links": [
+        {
+          "title": "Тропа мужества 2026 - осень",
+          "url": "https://cosmatica.org/poster/1087-tropa-muzhestva-2026-osen.html"
+        },
+        {
+          "title": "#Тропа Мужества",
+          "url": "https://cosmatica.org/projects/tropa-muzhestva/content/poster"
+        }
+      ]
+    },
+    {
+      "title": "Триединство космического прорыва",
+      "description": "Конференции Триединство космического прорыва 18.05.2027",
+      "url": "https://cosmatica.org/poster/1080-triedinstvo-kosmicheskogo-proryva.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/5/triedinstvo-kosmicheskogo-proryva-photo-big.jpg",
+      "links": [
+        {
+          "title": "Триединство космического прорыва",
+          "url": "https://cosmatica.org/poster/1080-triedinstvo-kosmicheskogo-proryva.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/4/5/mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-s.jpg",
+    "https://cosmatica.org/upload/000/u7/d/e/fc174b5a.jpg",
+    "https://cosmatica.org/upload/002/u218/1/5/triedinstvo-kosmicheskogo-proryva-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [
+    "Грядущие",
+    "Все",
+    "Концерты",
+    "Тематические встречи",
+    "Фестивали",
+    "Конференции",
+    "Собрания",
+    "Выставки",
+    "Лектории",
+    "Событие",
+    "Лагеря",
+    "Конкурсы",
+    "Круглые столы",
+    "Семинары и курсы",
+    "Соревнования"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 510,
+    "storedTextCharacters": 170,
+    "sourceCardCount": 3,
+    "sourceImageCount": 3,
+    "paragraphCount": 0,
+    "sourceBytes": 56335
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster",
+  "sourceTextCharacters": 510,
+  "capturedBodyCharacters": 170,
+  "sourceTextSHA256": "cb38cc116e07eb8d03c6b358091fe195aeb6fdfc9cb62f8dff83e48228a5b8e9",
+  "archiveSnapshotAt": "2026-10-08T09:14:48Z"
+}

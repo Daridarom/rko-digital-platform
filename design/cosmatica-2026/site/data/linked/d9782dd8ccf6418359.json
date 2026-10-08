@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/160-baza-nauchnyh-znanii.html",
+  "title": "База научных знаний",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "база знаний",
+      "spans": [
+        {
+          "text": "база знаний"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", организованных в многомер­ную",
+      "spans": [
+        {
+          "text": ", организованных в многомер­ную"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "сеть",
+      "spans": [
+        {
+          "text": "сеть"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "-матриц, преобразуемых по определенным правилам.",
+      "spans": [
+        {
+          "text": "-матриц, преобразуемых по определенным правилам."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это база знаний , организованных в многомер­ную сеть n-матриц, преобразуемых по определенным правилам.",
+      "links": [
+        {
+          "title": "база знаний",
+          "url": "https://cosmatica.org/glossary/161-baza-znanii.html"
+        },
+        {
+          "title": "сеть",
+          "url": "https://cosmatica.org/glossary/48-set.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 122,
+    "storedTextCharacters": 97,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31997
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 102,
+  "capturedBodyCharacters": 97,
+  "sourceTextSHA256": "ffea1f8e38f437326db9c4488f67c87bd448323feeb3df885cde4d123829ddbf",
+  "archiveSnapshotAt": "2026-10-08T08:46:37Z"
+}

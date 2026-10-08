@@ -1,0 +1,582 @@
+{
+  "schemaVersion": 2,
+  "slug": "project",
+  "sourceUrl": "https://cosmatica.org/projects/zvezdi-mira",
+  "title": "Мотоэкспедиция \"Звезды мира. От Колымы до Невы\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/c2/d4/0c9afe18.jpg",
+      "alt": "Мотоэкспедиция \"Звезды мира. От Колымы до Невы\""
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О проекте"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В рамках проекта «АстроГлобус» мы начинаем мотоэкспедицию «Звезды мира. От Колымы до Невы»",
+      "spans": [
+        {
+          "text": "В рамках проекта ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "«АстроГлобус»",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fastroglobus"
+        },
+        {
+          "text": " мы начинаем мотоэкспедицию «Звезды мира. От Колымы до Невы»",
+          "marks": [
+            "bold"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "«АстроГлобус»",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fastroglobus"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Когда Вы последний раз были в планетарии? А на мотовыставке? А причем тут мотоциклы и звезды? Зачем надо ехать за звездами на Памир и в Магадан, здесь их что ли не хватает? Вот в чём вопросы...",
+      "spans": [
+        {
+          "text": "Когда Вы последний раз были в планетарии? А на мотовыставке? А причем тут мотоциклы и звезды? Зачем надо ехать за звездами на Памир и в Магадан, здесь их что ли не хватает?\r\nВот в чём вопросы..."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "А ответы попробуем найти с помощью путевых заметок Виктора Назарова, мотопутешественника и единомышленника Русского космического общества в ходе его очередной мотоэкспедиции «Звезды мира. От Колымы до Невы».",
+      "spans": [
+        {
+          "text": "А ответы попробуем найти с помощью путевых заметок Виктора Назарова, мотопутешественника и единомышленника Русского космического общества в ходе его очередной мотоэкспедиции «Звезды мира. От Колымы до Невы»."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Идея, которая родилась в моей голове, нашла таки отклик с обеих сторон — как у мотоциклистов, так и у астрономов... Виктор Назаров",
+      "spans": [
+        {
+          "text": "Идея, которая родилась в моей голове, нашла таки отклик с обеих сторон — как у мотоциклистов, так и у астрономов...\r\n                                                                                                                                                                                   Виктор Назаров"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Вместе с Виктором флаг РКО проследует от Магадана до Санкт-Петербурга.",
+      "spans": [
+        {
+          "text": "Вместе с Виктором флаг РКО проследует от Магадана до Санкт-Петербурга."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "План экспедиции: — Радиоастрофизическая обсерватория «Бадары» — Саянская обсерватория — Байкальская астрофизическая обсерватория — Астрономическая обсерватория Иркутского государственного университета — Обсерватория Сибирского государственного аэрокосмического университета — Обсерватория Томского государственного университета — Обсерватория в Червишево — Коуровская астрономическая обсерватория — Астрономическая обсерватория им. В.П. Энгельгардта — Пулковская обсерватория",
+      "spans": [
+        {
+          "text": "План экспедиции:\r\n — Радиоастрофизическая обсерватория «Бадары»\r\n — Саянская обсерватория\r\n — Байкальская астрофизическая обсерватория\r\n — Астрономическая обсерватория Иркутского государственного университета\r\n — Обсерватория Сибирского государственного аэрокосмического университета\r\n — Обсерватория Томского государственного университета\r\n — Обсерватория в Червишево\r\n — Коуровская астрономическая обсерватория\r\n — Астрономическая обсерватория им. В.П. Энгельгардта\r\n — Пулковская обсерватория"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Старт проекта состоится 8 июля 2018 года",
+      "spans": [
+        {
+          "text": "Старт проекта состоится 8 июля 2018 года"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Следите за новостями на ресурсах РКО.",
+      "spans": [
+        {
+          "text": "Следите за новостями на ресурсах РКО."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Трек маршрута онлайн",
+      "spans": [
+        {
+          "text": "Трек маршрута онлайн",
+          "href": "https://cosmatica.org/redirect?url=https%3A%2F%2Fshare.findmespot.com%2Fshared%2Ffaces%2Fviewspots.jsp%3FglId%3D0mjIahrlYMjzrzm6qY2XZ5FdQ6qeSs9uL"
+        }
+      ],
+      "links": [
+        {
+          "text": "Трек маршрута онлайн",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fshare.findmespot.com%2Fshared%2Ffaces%2Fviewspots.jsp%3FglId%3D0mjIahrlYMjzrzm6qY2XZ5FdQ6qeSs9uL"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Кратко о предстоящей поездке в видео по ссылке ниже:",
+      "spans": [
+        {
+          "text": "Кратко о предстоящей поездке в видео по ссылке ниже:"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/0b/94/2july.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "text": "Стена проекта",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/a6/d2/elpygo1led4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/01/7d/uqkggepwdms.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/59/53/ejkui-f8mt4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/8e/cb/f-odfzkzhco.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/84/fd/fdcqvlzonj8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/e4/46/ol7kpjaaavc.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/0f/b7/ohv9xhwxjv8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/0b/fc/exs8atae4gi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/ca/94/syrn5davjzg.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/de/9e/ewwn-0ld8bo.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/5d/8c/ffmhkadbxom.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/00/ae/pqyfx-xdzm.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/35/88/cchhpljfubu.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/d5/55/qojlkiqqpzm.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/29/45/iekbapr9vae.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/89/f3/csgg5l-eazm.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/9b/19/vkwr44u7qxa.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/12/64/eucvlvmhdxk.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/d1/b4/dqjkz3sbwu8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/bb/5d/m48rudndvv8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/08/bb/2t38ltdd0yk.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/13/5b/c5k2ol1vjda.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/35/95/d-yxnas6j5w.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/28/f5/cqydysdjm8i.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/43/34/hr1xicwmcgq.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/68/b4/o4g93ci5opu.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/7d/98/mm1w70qflp0.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/fb/ef/tszyadovxu4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/1b/ec/fjk1kzhxkfe.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/f4/ca/jjymolvzsle.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/88/43/cdea2eie-ek.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/48/12/np67ht8ivo.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/7a/e3/iobjhkr8evi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/70/23/gz0kpbce-za.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/41/89/mag.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/83/bc/mag4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/ee/57/mag5.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/66/89/mag8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/41/2a/mag1.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/ab/84/mag6.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/1a/49/mw9-noaygpm.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/ab/01/xuxau8we6ae.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/ef/a6/int0gsyknhi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/85/09/bvh28xzd-fi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/83/f7/lxganczui9u.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/static/smiles/smile.gif",
+      "alt": "smile"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/static/smiles/wink.gif",
+      "alt": "wink"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/0d/d6/lcvarxdcny4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/d5/a3/mchtxybu1gs.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/7f/fa/dwmikindaro.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/73/10/tz1y2gea3sy.jpg",
+      "alt": ""
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "T-XPMMd0Nlg",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=T-XPMMd0Nlg"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В рамках проекта «АстроГлобус» мы начинаем мотоэкспедицию «Звезды мира. От Колымы до Невы» Когда Вы последний раз были в планетарии? А на мотовыставке? А причем тут мотоциклы и звезды? Зачем надо ехать за звездами на Памир и в Магадан, здесь их что ли не хватает? Вот в чём вопросы... А ответы попробуем найти с помощью путевых заметок Виктора Назарова, мотопутешественника и единомышленника Русского космического общества в ходе его очередной мотоэкспедиции «Звезды мира. От Колымы до Невы». Идея, которая родилась в моей голове, нашла таки отклик с обеих сторон — как у мотоциклистов, так и у астрономов... Виктор Назаров Вместе с Виктором флаг РКО проследует от Магадана до Санкт-Петербурга. План экспедиции: — Радиоастрофизическая обсерватория «Бадары» — Саянская обсерватория — Байкальская астрофизическая обсерватория — Астрономическая обсерватория Иркутского государственного университета — Обсерватория Сибирского государственного аэрокосмического университета — Обсерватория Томского государственного университета — Обсерватория в Червишево — Коуровская астрономическая обсерватория — Астрономическая обсерватория им. В.П. Энгельгардта — Пулковская обсерватория Старт проекта состоится 8 июля 2018 года Следите за новостями на ресурсах РКО. Трек маршрута онлайн Кратко о предстоящей поездке в видео по ссылке ниже:",
+      "links": [
+        {
+          "title": "«АстроГлобус»",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fastroglobus"
+        },
+        {
+          "title": "Трек маршрута онлайн",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fshare.findmespot.com%2Fshared%2Ffaces%2Fviewspots.jsp%3FglId%3D0mjIahrlYMjzrzm6qY2XZ5FdQ6qeSs9uL"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u21/0b/94/2july.jpg"
+    },
+    {
+      "key": "Направление:",
+      "value": "Образование",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Статус:",
+      "value": "Завершенный",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u21/c2/d4/0c9afe18.jpg",
+    "https://cosmatica.org/upload/000/u21/0b/94/2july.jpg",
+    "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+    "https://cosmatica.org/upload/000/u21/a6/d2/elpygo1led4.jpg",
+    "https://cosmatica.org/upload/000/u21/01/7d/uqkggepwdms.jpg",
+    "https://cosmatica.org/upload/000/u21/59/53/ejkui-f8mt4.jpg",
+    "https://cosmatica.org/upload/000/u21/8e/cb/f-odfzkzhco.jpg",
+    "https://cosmatica.org/upload/000/u21/84/fd/fdcqvlzonj8.jpg",
+    "https://cosmatica.org/upload/000/u21/e4/46/ol7kpjaaavc.jpg",
+    "https://cosmatica.org/upload/000/u21/0f/b7/ohv9xhwxjv8.jpg",
+    "https://cosmatica.org/upload/000/u21/0b/fc/exs8atae4gi.jpg",
+    "https://cosmatica.org/upload/000/u21/ca/94/syrn5davjzg.jpg",
+    "https://cosmatica.org/upload/000/u21/de/9e/ewwn-0ld8bo.jpg",
+    "https://cosmatica.org/upload/000/u21/5d/8c/ffmhkadbxom.jpg",
+    "https://cosmatica.org/upload/000/u21/00/ae/pqyfx-xdzm.jpg",
+    "https://cosmatica.org/upload/000/u21/35/88/cchhpljfubu.jpg",
+    "https://cosmatica.org/upload/000/u21/d5/55/qojlkiqqpzm.jpg",
+    "https://cosmatica.org/upload/000/u21/29/45/iekbapr9vae.jpg",
+    "https://cosmatica.org/upload/000/u21/89/f3/csgg5l-eazm.jpg",
+    "https://cosmatica.org/upload/000/u21/9b/19/vkwr44u7qxa.jpg",
+    "https://cosmatica.org/upload/000/u21/12/64/eucvlvmhdxk.jpg",
+    "https://cosmatica.org/upload/000/u21/d1/b4/dqjkz3sbwu8.jpg",
+    "https://cosmatica.org/upload/000/u21/bb/5d/m48rudndvv8.jpg",
+    "https://cosmatica.org/upload/000/u21/08/bb/2t38ltdd0yk.jpg",
+    "https://cosmatica.org/upload/000/u21/13/5b/c5k2ol1vjda.jpg",
+    "https://cosmatica.org/upload/000/u21/35/95/d-yxnas6j5w.jpg",
+    "https://cosmatica.org/upload/000/u21/28/f5/cqydysdjm8i.jpg",
+    "https://cosmatica.org/upload/000/u21/43/34/hr1xicwmcgq.jpg",
+    "https://cosmatica.org/upload/000/u21/68/b4/o4g93ci5opu.jpg",
+    "https://cosmatica.org/upload/000/u21/7d/98/mm1w70qflp0.jpg",
+    "https://cosmatica.org/upload/000/u21/fb/ef/tszyadovxu4.jpg",
+    "https://cosmatica.org/upload/000/u21/1b/ec/fjk1kzhxkfe.jpg",
+    "https://cosmatica.org/upload/000/u21/f4/ca/jjymolvzsle.jpg",
+    "https://cosmatica.org/upload/000/u21/88/43/cdea2eie-ek.jpg",
+    "https://cosmatica.org/upload/000/u21/48/12/np67ht8ivo.jpg",
+    "https://cosmatica.org/upload/000/u21/7a/e3/iobjhkr8evi.jpg",
+    "https://cosmatica.org/upload/000/u21/70/23/gz0kpbce-za.jpg",
+    "https://cosmatica.org/upload/000/u21/41/89/mag.jpg",
+    "https://cosmatica.org/upload/000/u21/83/bc/mag4.jpg",
+    "https://cosmatica.org/upload/000/u21/ee/57/mag5.jpg",
+    "https://cosmatica.org/upload/000/u21/66/89/mag8.jpg",
+    "https://cosmatica.org/upload/000/u21/41/2a/mag1.jpg",
+    "https://cosmatica.org/upload/000/u21/ab/84/mag6.jpg",
+    "https://cosmatica.org/upload/000/u21/1a/49/mw9-noaygpm.jpg",
+    "https://cosmatica.org/upload/000/u21/ab/01/xuxau8we6ae.jpg",
+    "https://cosmatica.org/upload/000/u21/ef/a6/int0gsyknhi.jpg",
+    "https://cosmatica.org/upload/000/u21/85/09/bvh28xzd-fi.jpg",
+    "https://cosmatica.org/upload/000/u21/83/f7/lxganczui9u.jpg",
+    "https://cosmatica.org/static/smiles/smile.gif",
+    "https://cosmatica.org/static/smiles/wink.gif",
+    "https://cosmatica.org/upload/000/u21/0d/d6/lcvarxdcny4.jpg",
+    "https://cosmatica.org/upload/000/u21/d5/a3/mchtxybu1gs.jpg",
+    "https://cosmatica.org/upload/000/u21/7f/fa/dwmikindaro.jpg",
+    "https://cosmatica.org/upload/000/u21/73/10/tz1y2gea3sy.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 30210,
+    "storedTextCharacters": 1336,
+    "sourceCardCount": 0,
+    "sourceImageCount": 54,
+    "paragraphCount": 10,
+    "sourceBytes": 113503
+  },
+  "textFallbackRequired": false,
+  "originalKind": "project",
+  "sourceTextCharacters": 1368,
+  "capturedBodyCharacters": 1336,
+  "sourceTextSHA256": "56bb9d7dbcdf38c225fc19e8898b9baf0837b697b7cdc8c9a3e010502ac1f59a",
+  "archiveSnapshotAt": "2026-10-08T09:17:48Z",
+  "publicVideoCount": 1
+}

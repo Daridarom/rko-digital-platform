@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/98-a-i-subetto-yurii-alekseevich-gagarin-simvol-noosferno-kosmicheskogo-proryva-v-budusch.html",
+  "title": "А.И. Субетто - Юрий Алексеевич Гагарин – символ Ноосферно-Космического Прорыва в Будущ",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/7a/90/a-i-subetto-yurii-alekseevich-gagarin-simvol-noosferno-kosmich.png",
+      "alt": "А.И. Субетто - Юрий Алексеевич Гагарин – символ Ноосферно-Космического Прорыва в Будущ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Новая монография А.И.Субетто объединена общей идеей: Юрий Алексеевич Гагарин, советский летчик-космонавт, первый покоривший Космос человек, которому 9 марта исполнилось бы 80 лет, есть символ Ноосферно-Космического Прорыва, новой эпохи ноосферно-космического преобразования человеческого Разума. Книга адресована к самому широкому читателю.",
+      "spans": [
+        {
+          "text": "Новая монография А.И.Субетто объединена общей идеей: Юрий Алексеевич Гагарин, советский летчик-космонавт, первый покоривший Космос человек, которому 9 марта исполнилось бы 80 лет, есть символ Ноосферно-Космического Прорыва, новой эпохи ноосферно-космического преобразования человеческого Разума. Книга адресована к самому широкому читателю."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Новая монография А.И.Субетто объединена общей идеей: Юрий Алексеевич Гагарин, советский летчик-космонавт, первый покоривший Космос человек, которому 9 марта исполнилось бы 80 лет, есть символ Ноосферно-Космического Прорыва, новой эпохи ноосферно-космического преобразования человеческого Разума. Книга адресована к самому широкому читателю.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/112/3ebdab9b7511e1c9cbc0208e29789037"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/7a/90/a-i-subetto-yurii-alekseevich-gagarin-simvol-noosferno-kosmich.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/112/3ebdab9b7511e1c9cbc0208e29789037"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 446,
+    "storedTextCharacters": 340,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40282
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 359,
+  "capturedBodyCharacters": 340,
+  "sourceTextSHA256": "6e26f80fd03de5fdad286fd617c225ac7bd5e5837838924d4fe7b4ba0fb06408",
+  "archiveSnapshotAt": "2026-10-08T08:51:11Z"
+}

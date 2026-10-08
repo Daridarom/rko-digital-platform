@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/335-lunnye-gorizonty-1976.html",
+  "title": "Лунные горизонты (1976)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/8/lunnye-gorizonty-1976-photo-normal.png",
+      "alt": "Лунные горизонты (1976)"
+    },
+    {
+      "type": "paragraph",
+      "text": "В книге увлекательно рассказывается о движении Луны, ее происхождении и природе, о перспективах ее освоения средствами космонавтики. e-reading.club",
+      "spans": [
+        {
+          "text": "В книге увлекательно рассказывается о движении Луны, ее происхождении и природе, о перспективах ее освоения средствами космонавтики. e-reading.club"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Зигель Ф.Ю.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В книге увлекательно рассказывается о движении Луны, ее происхождении и природе, о перспективах ее освоения средствами космонавтики. e-reading.club",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 7 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2070/ce1278085c14222b6ed8b967439d2930"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/9/8/lunnye-gorizonty-1976-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2070/ce1278085c14222b6ed8b967439d2930"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 209,
+    "storedTextCharacters": 147,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39718
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 185,
+  "capturedBodyCharacters": 147,
+  "sourceTextSHA256": "d3ea781af1666f0c83b748807db87c4594fd1ea386cc7bd272b6f27236b6e25d",
+  "archiveSnapshotAt": "2026-10-08T08:49:22Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "users",
+  "title": "Участники РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 3,
+  "pageCount": 16,
+  "total": 235,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Игорь Алексеевич Гундаров",
+      "description": "Руководитель Совета по биологии и медицине Русского Космического Общества.",
+      "url": "https://cosmatica.org/users/1525",
+      "image": "https://cosmatica.org/upload/000/u35/6/0/f44c25f9.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=89185b2ab367545e92",
+      "type": "profile",
+      "sourceCharacters": 517,
+      "verified": false
+    },
+    {
+      "title": "Алексей Петрович Дёмин",
+      "description": "",
+      "url": "https://cosmatica.org/users/965",
+      "image": "https://cosmatica.org/upload/000/u35/2/b/3c63f796.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=f465e9f8a38a77339d",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Елизавета Александровна Панченко",
+      "description": "Елизавета Панченко (р. 1987) — молодой русский композитор и мультиинструменталист (орган, клавесин, фортепиано); член Союза композиторов Санкт-Петербурга, Союза композиторов России, РАО. Автор идеи и участник проекта «Гусли в космосе», артист ансамбля старинной музыки Barocco Concertato (Санкт-Петербург), лауреат конкурса Van Wassenaer (2016). В числе сочинений — камерная опера «Дафна» на сюжет Овидия (2013), кантата",
+      "url": "https://cosmatica.org/users/227",
+      "image": "https://cosmatica.org/upload/000/u35/8/e/f614294f.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=e8fb76825857296331",
+      "type": "profile",
+      "sourceCharacters": 1314,
+      "verified": false
+    },
+    {
+      "title": "Махаев Дмитрий Николаевич",
+      "description": "Председатель Луганского отделения РКО Общественный деятель Ветеран СВО",
+      "url": "https://cosmatica.org/users/1639",
+      "image": "https://cosmatica.org/upload/000/u35/7/6/3905425f.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=86d8aeeacdbe75a629",
+      "type": "profile",
+      "sourceCharacters": 107,
+      "verified": false
+    },
+    {
+      "title": "Сергей Васильевич Кайдаш",
+      "description": "Руководитель Инновационного Центра Непрерывного Образования «Просвет»",
+      "url": "https://cosmatica.org/users/4986",
+      "image": "https://cosmatica.org/upload/000/u35/9/b/fd0828f0.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=87812ab9183fe8cfd8",
+      "type": "profile",
+      "sourceCharacters": 157,
+      "verified": false
+    },
+    {
+      "title": "Ольга Николаевна Янковская",
+      "description": "Руководитель проектов «Связь поколений», «Бизнес и культура»",
+      "url": "https://cosmatica.org/users/1717",
+      "image": "https://cosmatica.org/upload/000/u35/b/4/7d116abd.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=127d95bd1cdb94e97c",
+      "type": "profile",
+      "sourceCharacters": 138,
+      "verified": false
+    },
+    {
+      "title": "Наталья Викторовна Лёвкина",
+      "description": "",
+      "url": "https://cosmatica.org/users/1824",
+      "image": "https://cosmatica.org/upload/000/u35/4/a/a68d4361.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=99a8076d6a826b6feb",
+      "type": "profile",
+      "sourceCharacters": 26,
+      "verified": false
+    },
+    {
+      "title": "Ирина Васильевна Петрова",
+      "description": "Координатор образовательных проектов Русского Космического Общества",
+      "url": "https://cosmatica.org/users/1884",
+      "image": "https://cosmatica.org/upload/002/u218/8/4/5886a2fa.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=613f8d132f131608b5",
+      "type": "profile",
+      "sourceCharacters": 120,
+      "verified": false
+    },
+    {
+      "title": "Алексей Васильевич Щербенко",
+      "description": "",
+      "url": "https://cosmatica.org/users/1594",
+      "image": "https://cosmatica.org/upload/000/u35/4/1/d89b7435.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=fb0f332157a6cb18e4",
+      "type": "profile",
+      "sourceCharacters": 74,
+      "verified": false
+    },
+    {
+      "title": "Мария Владимировна Губенко",
+      "description": "Руководитель Экологического совета РКО, проекта «Добровольческий эколагерь „Утриш“ программа экологического просвещения», и ещё целого ряда важных, уникальных программ целостного, экологического развития системы «природа-общество-человек».",
+      "url": "https://cosmatica.org/users/1749",
+      "image": "https://cosmatica.org/upload/000/u35/d/9/e45cd1d4.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a99fefc4c8c0544996",
+      "type": "profile",
+      "sourceCharacters": 276,
+      "verified": false
+    },
+    {
+      "title": "Юрий Михайлович Бабонов",
+      "description": "",
+      "url": "https://cosmatica.org/users/8171",
+      "image": "https://cosmatica.org/upload/000/u35/a/7/a917423e.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=7b0169d5bf2d51e795",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Ульянова Мария Юрьевна",
+      "description": "",
+      "url": "https://cosmatica.org/users/7310",
+      "image": "https://cosmatica.org/upload/000/u35/1/6/ff8c2f21.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=8b18010a589417c347",
+      "type": "profile",
+      "sourceCharacters": 44,
+      "verified": false
+    },
+    {
+      "title": "Михаил Иванович Ефремов",
+      "description": "",
+      "url": "https://cosmatica.org/users/1755",
+      "image": "https://cosmatica.org/upload/000/u35/5/c/57380e85.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=63ddf967ed66c2b22b",
+      "type": "profile",
+      "sourceCharacters": 71,
+      "verified": false
+    },
+    {
+      "title": "Денис Викторович Шевцов",
+      "description": "Руководитель Совета Отцов Семьи Отечества Брянской области",
+      "url": "https://cosmatica.org/users/1996",
+      "image": "https://cosmatica.org/upload/002/u218/f/f/b312bed4.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=ed2dd29f4214be3a09",
+      "type": "profile",
+      "sourceCharacters": 96,
+      "verified": false
+    },
+    {
+      "title": "Виктория Владимировна Вылегжанина",
+      "description": "Выпускница первого Императорского университета за Уралом — НИ ТГУ, Экономист ВЭД (2000г.); НИ ТПУ, Инновационный менеджмент (2011г.); РГУП им.В.М.Лебедева, Юрист (2014г.); ТУСУР, Преподаватель Высшей Школы (2020г.).",
+      "url": "https://cosmatica.org/users/12396",
+      "image": "https://cosmatica.org/upload/002/u218/7/b/9d5f815a.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=c6cf4cd223cf4599c8",
+      "type": "profile",
+      "sourceCharacters": 2103,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

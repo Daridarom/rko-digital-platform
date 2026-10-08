@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 242,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "В.П. Казначеев , Е.А. Спирин - Космопланетарный феномен человека",
+      "description": "Монография обобщает результаты общенаучных, естественно-научных и гуманитарно-культурологичеких подходов к изучению человека как целостного космопланетарного явления в его неразрывных связях с окружающим космопланетарным миром - как жителя Космоса, по Н.К.Рериху. Авторы опираются на учение В.И. Вернадского о биосфере, на достижения таких направлений современного научного знания, как",
+      "url": "https://cosmatica.org/library/103-v-p-kaznacheev-e-a-spirin-kosmoplanetarnyi-fenomen-cheloveka.html",
+      "image": "https://cosmatica.org/upload/000/u1/1d/7e/kosmoplanetarnyi-fenomen-cheloveka-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=a455ae14531cada9c1",
+      "type": "book",
+      "sourceCharacters": 671,
+      "verified": false
+    },
+    {
+      "title": "Генерал \"Буран\"",
+      "description": "В рамках Всероссийского движения Русского Космического Общества «СОХРАНЯЯ ПАМЯТЬ» началось осуществление проекта ГЕНЕРАЛ \"БУРАН\".",
+      "url": "https://cosmatica.org/news/103-general-buran.html",
+      "image": "https://cosmatica.org/upload/000/u21/64/56/general-buran-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=644b13da959e02ab84",
+      "type": "news-item",
+      "sourceCharacters": 2214,
+      "verified": false
+    },
+    {
+      "title": "Начало приёма работ на Открытый конкурс эссе им. Р. Бартини «Многомерность Вселенной» #Открытый конкурс эссе им. Р. Бартини «Многомерность Вселенной»",
+      "description": "— ФГБОУ ВО «Брянский государственный инженерно-технологический университет» (далее – университет, вуз, БГИТУ);",
+      "url": "https://cosmatica.org/poster/103-nachalo-priyoma-rabot-na-otkrytyi-konkurs-esse-im-r-bartini-mnogomernost-vselennoi.html",
+      "image": "https://cosmatica.org/upload/000/u8/b/e/nachalo-priyoma-rabot-na-otkrytyi-konkurs-esse-im-r-bartini-mno.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=0bdc5bcb798a33023e",
+      "type": "poster-item",
+      "sourceCharacters": 2055,
+      "verified": false
+    },
+    {
+      "title": "В защиту Пулковской обсерватории: если не будет науки, что будем популяризировать?",
+      "description": "5-6 ноября 2017 года Главная астрономическая обсерватория Российской академии наук в Пулково (Санкт-Петербург) проводит научно-популярный астрономический фестиваль.",
+      "url": "https://cosmatica.org/articles/102-v-zaschitu-pulkovskoi-observatorii-esli-ne-budet-nauki-chto-budem-populjarizirovat.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=32d20d8e9eb1c6c205",
+      "type": "article",
+      "sourceCharacters": 9817,
+      "verified": false
+    },
+    {
+      "title": "Методология",
+      "description": "это совокупность познавательных средств, используе­мых для ответа на вопрос «как получить",
+      "url": "https://cosmatica.org/glossary/102-metodologija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=885611a6177075ad12",
+      "type": "article",
+      "sourceCharacters": 228,
+      "verified": false
+    },
+    {
+      "title": "\"Зеркала в голографической вселенной Козырева: история, результаты, перспективы\"",
+      "description": "В монографии представлены: научная хроника становления и развития нового фундаментально-прикладного направления в российском естествознании и космической антропоэкологии — изучения живого вещества и интеллекта в «пространстве энергии-времени Н.А. Козырева», результаты многолетних научных исследований трансперсональных дистанционных взаимодействий между людьми, проведенных в «Зеркалах Козырева» ИКЭМ СО РАМН и Междунар",
+      "url": "https://cosmatica.org/news/102-zerkala-v-golograficheskoi-vselennoi-kozyreva-istorija-rezultaty-perspektivy.html",
+      "image": "https://cosmatica.org/upload/000/u30/94/f5/d76514cc.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=538251dad88a781329",
+      "type": "news-item",
+      "sourceCharacters": 1579,
+      "verified": false
+    },
+    {
+      "title": "Заседание Секции Изобретателей",
+      "description": "Секция Изобретателей Русского Космического Общества проводит регулярное собрание в стенах конференц-зала Института прикладной механики Российской академии наук (ИПРИМ РАН) по адресу: г. Москва, Ленинградский проспект, д. 7/1.",
+      "url": "https://cosmatica.org/poster/102-zasedanie-sekcii-izobretatelei.html",
+      "image": "https://cosmatica.org/upload/000/u26/3/3/zasedanie-sekcii-izobretatelei-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=503dac1b7e5210b05a",
+      "type": "poster-item",
+      "sourceCharacters": 1627,
+      "verified": false
+    },
+    {
+      "title": "Антихрематические технологии Русского Космического Общества",
+      "description": "Антихрематические технологии представляют собой единую систему информационно-телекоммуникационных технологий, которая дает возможность устанавливать связь предстоящих действий субъектов управления с Высшим знанием об объектах управления посредством применения фундаментальных законов сохранения и развития реального мира, лежащими в основании ноосферной этико-экологической Конституции Человечества (Ноо-Конституции).",
+      "url": "https://cosmatica.org/articles/101-antihrematicheskie-tehnologii-russkogo-kosmicheskogo-obschestva.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=b5158cd3f23b15a889",
+      "type": "article",
+      "sourceCharacters": 11847,
+      "verified": false
+    },
+    {
+      "title": "Научная теория",
+      "description": "универсальных высказываний (под­дающихся экспериментальной проверке и логической верификации), позволяющих: объяснять сущность, предсказывать тенденции разви­тия системы, получать, как следствие, рекомендации по проектирова­нию технологий устойчивого развития социально-природных систем.",
+      "url": "https://cosmatica.org/glossary/101-nauchnaja-teorija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=b1c9de152aecda5386",
+      "type": "article",
+      "sourceCharacters": 299,
+      "verified": false
+    },
+    {
+      "title": "Сборник трудов кафедры устойчивого инновационного развития",
+      "description": "Сборник трудов кафедры устойчивого инновационного развития Международного университета природы, общества и человека «Дубна». 2009. 430 с. Аннотация: Сборник составлен из оригинальных работ, выполненных профессорско-преподавательским составом, аспирантами и студентами кафедры устойчивого инновационного развития Международного университета природы, общества и человека «Дубна», а также работ, выполненных в сотрудничеств",
+      "url": "https://cosmatica.org/library/101-sbornik-trudov-kafedry-ustoichivogo-innovacionnogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u1/a4/40/sbornik-trudov-kafedry-ustoichivogo-innovacionnogo-razvitija-photo.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=8ac8c3afeef51bfafd",
+      "type": "book",
+      "sourceCharacters": 1384,
+      "verified": false
+    },
+    {
+      "title": "Как достигнуть Луны. История от Жюля Верна до \"Луны-1\"",
+      "description": "Тема лекции: \"Как достигнуть Луны. История от Жюль Верна до \"Луны-1\"",
+      "url": "https://cosmatica.org/poster/101-kak-dostignut-luny-istorija-ot-zhyulja-verna-do-luny-1.html",
+      "image": "https://cosmatica.org/upload/000/u21/6/0/kak-dostignut-luny-istorija-ot-zhyulja-verna-do-luny-1-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=e58dd4a7b47d6b8405",
+      "type": "poster-item",
+      "sourceCharacters": 509,
+      "verified": false
+    },
+    {
+      "title": "Научное знание",
+      "description": "с мерой, дающее возможность осуще­ствить независимую экспериментальную проверку знания.",
+      "url": "https://cosmatica.org/glossary/100-nauchnoe-znanie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=9c046179df541e04d2",
+      "type": "article",
+      "sourceCharacters": 98,
+      "verified": false
+    },
+    {
+      "title": "Забелин Игорь Михайлович - Человечество - для чего оно?",
+      "description": "",
+      "url": "https://cosmatica.org/library/100-zabelin-igor-mihailovich-chelovechestvo-dlja-chego-ono.html",
+      "image": "https://cosmatica.org/upload/000/u1/6d/4f/igor-mihailovich-zabelin-chelovechestvo-dlja-chego-ono-photo-no.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=b93dd9a6c120318e0d",
+      "type": "book",
+      "sourceCharacters": 52,
+      "verified": false
+    },
+    {
+      "title": "Приглашаем на конференцию Русского Космического Общества",
+      "description": "Конференция и её секции пройдут на площадках г. Москвы, г. Санкт-Петербурга, г. Дубны (Московская область).",
+      "url": "https://cosmatica.org/news/100-priglashaem-na-konferenciyu-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u8/e2/51/priglashaem-na-konferenciyu-russkogo-kosmicheskogo-obschestva-photo-n.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c0878ae070e390d7c4",
+      "type": "news-item",
+      "sourceCharacters": 2001,
+      "verified": false
+    },
+    {
+      "title": "В Калугу к Циолковскому #Техно-фестиваль в Калуге",
+      "description": "Учредитель Техно-фестиваля — Управление образования города Калуги.",
+      "url": "https://cosmatica.org/poster/100-v-kalugu-k-ciolkovskomu.html",
+      "image": "https://cosmatica.org/upload/001/u172/1/1/v-kalugu-k-ciolkovskomu-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=5482690d700cb33500",
+      "type": "poster-item",
+      "sourceCharacters": 3811,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

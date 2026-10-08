@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/k",
+  "title": "К",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Космичность",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Космизм созидания",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Косматика",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Контекстно связная или физическая связь с реальным миром",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Контекстно свободная или математическая связь",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Качество",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Количество",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Коэффициент совершенства технологии (КСТ)",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Критический период",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 225,
+    "storedTextCharacters": 215,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 38281
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 225,
+  "capturedBodyCharacters": 215,
+  "sourceTextSHA256": "2ee31a132caaacac0c94a9e42fe6a0f8b46089b7013a4e14852e7f8cc74bb868",
+  "archiveSnapshotAt": "2026-10-08T08:47:27Z"
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/1594",
+  "title": "Алексей Васильевич Щербенко",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/4/1/d89b7435.jpeg",
+      "alt": "Алексей Васильевич Щербенко"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/a/53bafe46.jpeg",
+      "alt": "Алексей Васильевич Щербенко"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 4 года назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Брянского отделения РКО",
+      "spans": [
+        {
+          "text": "Председатель Брянского отделения РКО"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Брянская область",
+      "links": [
+        {
+          "title": "Брянская область",
+          "url": "https://cosmatica.org/departments/33-brjanskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Председатель Брянского отделения РКО",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/4/1/d89b7435.jpeg",
+    "https://cosmatica.org/upload/000/u35/c/a/53bafe46.jpeg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 128,
+    "storedTextCharacters": 70,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35001
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 74,
+  "capturedBodyCharacters": 70,
+  "sourceTextSHA256": "dc3f41ea96a519b0cd00dea0118c221e2f298193afb0c00807cd091039c6aa95",
+  "archiveSnapshotAt": "2026-10-08T09:18:11Z"
+}

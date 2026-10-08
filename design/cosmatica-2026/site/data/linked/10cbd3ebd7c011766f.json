@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/178",
+  "title": "Светлана Анатольевна Кулларова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u178/f/5/dd5b2a05.jpg",
+      "alt": "Светлана Анатольевна Кулларова"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u178/1/8/7a1239f7.jpg",
+      "alt": "Светлана Анатольевна Кулларова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Заслуженный работник культуры.",
+      "spans": [
+        {
+          "text": "Заслуженный работник культуры."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Санкт-Петербург",
+      "links": [
+        {
+          "title": "Санкт-Петербург",
+          "url": "https://cosmatica.org/departments/9-sankt-peterburg.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Заслуженный работник культуры.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/001/u178/f/5/dd5b2a05.jpg",
+    "https://cosmatica.org/upload/001/u178/1/8/7a1239f7.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 123,
+    "storedTextCharacters": 63,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34953
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 67,
+  "capturedBodyCharacters": 63,
+  "sourceTextSHA256": "4f6d363c5a0a5412473977469be8ff732a69fea3407a9b2a46961284f1fd246a",
+  "archiveSnapshotAt": "2026-10-08T09:18:18Z"
+}

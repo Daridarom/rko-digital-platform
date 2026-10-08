@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/469-specialnyi-kurs-modelirovanie-i-prognoz-mezhdunarodnyh-konfliktnyh-situacii-prochitan-v-diplomat.html",
+  "title": "Специальный курс: моделирование и прогноз международных конфликтных ситуации (прочитан в Дипломатической Академии МИД СССР в 1979-1980 г.г.)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/f/9/specialnyi-kurs-modelirovanie-i-prognoz-mezhdunarodnyh-konflikt.png",
+      "alt": "Специальный курс: моделирование и прогноз международных конфликтных ситуации (прочитан в Дипломатической Академии МИД СССР в 1979-1980 г.г.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Специальный курс: моделирование и прогноз международных конфликтных ситуации (прочитан в Дипломатической Академии МИД СССР в 1979-1980 г.г.)",
+      "spans": [
+        {
+          "text": "Специальный курс: моделирование и прогноз международных конфликтных ситуации (прочитан в Дипломатической Академии МИД СССР в 1979-1980 г.г.)"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Большаков Б.Е.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Специальный курс: моделирование и прогноз международных конфликтных ситуации (прочитан в Дипломатической Академии МИД СССР в 1979-1980 г.г.)",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 1 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/3204/60281a620661954b9107646ef64e2092"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/f/9/specialnyi-kurs-modelirovanie-i-prognoz-mezhdunarodnyh-konflikt.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/3204/60281a620661954b9107646ef64e2092"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 322,
+    "storedTextCharacters": 140,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40890
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 181,
+  "capturedBodyCharacters": 140,
+  "sourceTextSHA256": "a50b23ccdaf382d876f8689c8a39bb2b133974ece1f2f008f7419b0a60633416",
+  "archiveSnapshotAt": "2026-10-08T08:50:27Z"
+}

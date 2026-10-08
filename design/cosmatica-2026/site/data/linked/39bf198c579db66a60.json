@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/t",
+  "title": "Т",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Тенденция",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Творчество",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Тензор",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Тензорный анализ",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Теория",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Технология",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Товар (услуга)",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Труд",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 84,
+    "storedTextCharacters": 75,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 37124
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 84,
+  "capturedBodyCharacters": 75,
+  "sourceTextSHA256": "6a073c630df882c319da112b267c360c9dd4d5850c3074b24fda8f358ebb68e3",
+  "archiveSnapshotAt": "2026-10-08T08:47:29Z"
+}

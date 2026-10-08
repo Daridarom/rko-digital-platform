@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 112,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Знакомство с первооткрывателями Вселенной",
+      "description": "В преддверии Дня космонавтики и в рамках празднования 85-летия со дня рождения первого космонавта Юрия Алексеевича Гагарина Анапский археологический музей, на базе которого располагается региональное отделение Русского Космического Общества, продолжает цикл выездных лекций для детей \"Гражданин Вселенной\", посвящённых первому полёту человека в космос.",
+      "url": "https://cosmatica.org/news/388-znakomstvo-s-pervootkryvateljami-vselennoi.html",
+      "image": "https://cosmatica.org/upload/000/u26/8/c/znakomstvo-s-pervootkryvateljami-vselennoi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c306a136173f8deab6",
+      "type": "news-item",
+      "sourceCharacters": 1282,
+      "verified": false
+    },
+    {
+      "title": "21 век - век космический",
+      "description": "Мы стоим на пороге, за которым открывается эпоха ноосферно-космической истории человечества Земли.",
+      "url": "https://cosmatica.org/news/390-21-vek-vek-kosmicheskii.html",
+      "image": "https://cosmatica.org/upload/000/u26/f/a/21-vek-vek-kosmicheskii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=967c1c2a8899179810",
+      "type": "news-item",
+      "sourceCharacters": 1955,
+      "verified": false
+    },
+    {
+      "title": "День космонавтики в Калининграде",
+      "description": "12 апреля в Калининграде, в школе №2 на улице Гагарина состоялся открытый «Гагаринский урок».",
+      "url": "https://cosmatica.org/news/389-den-kosmonavtiki-v-kaliningrade.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/5/den-kosmonavtiki-v-kaliningrade-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b7170f68099ceb469c",
+      "type": "news-item",
+      "sourceCharacters": 2348,
+      "verified": false
+    },
+    {
+      "title": "Ю.А. Гагарин и его наследие в истории страны и всего мира",
+      "description": "С 1 февраля по 12 апреля 2019 года в рамках работы Общественно-государственного комитета празднования 85-летия Ю.А. Гагарина проходил Международный конкурс на лучший исследовательский и практико-ориентированный проект на тему «Ю.А. Гагарин и его наследие в истории страны и всего мира».",
+      "url": "https://cosmatica.org/news/386-yu-a-gagarin-i-ego-nasledie-v-istorii-strany-i-vsego-mira.html",
+      "image": "https://cosmatica.org/upload/000/u26/f/9/yu-a-gagarin-i-ego-nasledie-v-istorii-strany-i-vsego-mira-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f6b83ef7d9798d0601",
+      "type": "news-item",
+      "sourceCharacters": 11568,
+      "verified": false
+    },
+    {
+      "title": "Сирень для Гагарина",
+      "description": "12 апреля 1961 года – знаковая дата, как в мировой, так и в отечественной истории. В этот день Юрий Алексеевич Гагарин стал первым человеком в мире, совершившим полёт в космос. Начиная с 12 апреля 1962 года, этот день был объявлен Днём космонавтики.",
+      "url": "https://cosmatica.org/news/385-siren-dlja-gagarina.html",
+      "image": "https://cosmatica.org/upload/000/u26/e/0/siren-dlja-gagarina-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=23ced4656260bbcca6",
+      "type": "news-item",
+      "sourceCharacters": 3922,
+      "verified": false
+    },
+    {
+      "title": "День Космонавтики в Берёзовском",
+      "description": "11 апреля, в библиотеке Семейного чтения в г. Березовском Свердловской области , состоялся настоящий праздник космоса.",
+      "url": "https://cosmatica.org/news/384-den-kosmonavtiki-v-beryozovskom.html",
+      "image": "https://cosmatica.org/upload/000/u37/8/2/den-kosmonavtiki-v-beryozovskom-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6fd90006573deb0f66",
+      "type": "news-item",
+      "sourceCharacters": 3971,
+      "verified": false
+    },
+    {
+      "title": "Космос навсегда!",
+      "description": "Вот и наступило 12 апреля. Этот день – есть День космонавтики. И об этом в нашей стране знают многие. Поэтому принято с этим днём соотносить всевозможные мероприятия на космическую тему. Принято поздравлять людей, связанных с аэрокосмической сферой деятельности. Принято проводить форумы, фестивали, выставки, лекции, экскурсии. Принято высаживать деревья и вообще вспоминать и говорить о космосе. О том, как было хорошо",
+      "url": "https://cosmatica.org/news/381-kosmos-navsegda.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/9/kosmos-navsegda-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=90602d5e1baeeb6269",
+      "type": "news-item",
+      "sourceCharacters": 3753,
+      "verified": false
+    },
+    {
+      "title": "Космос — дело мира!",
+      "description": "Открытие выставки: 12 апреля 2019 года. Адрес: Зеленоград, Центральная пл., 1, Культурный центр \"Зеленоград\". Период проведения выставки: 12.04 - 25.04.2019 г.",
+      "url": "https://cosmatica.org/news/387-kosmos-delo-mira.html",
+      "image": "https://cosmatica.org/upload/000/u26/6/0/kosmos-delo-mira-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0284129536fd0da5ee",
+      "type": "news-item",
+      "sourceCharacters": 15986,
+      "verified": false
+    },
+    {
+      "title": "Онлайн репортаж из эталонных «Зеркал Козырева».",
+      "description": "12 апреля 2019 года с 12:00 до 13:00 по московскому времени.",
+      "url": "https://cosmatica.org/news/382-onlain-reportazh-iz-etalonnyh-zerkal-kozyreva.html",
+      "image": "https://cosmatica.org/upload/000/u30/9/c/onlain-reportazh-iz-etalonnyh-zerkal-kozyreva-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=901c3456e7a3db9e4d",
+      "type": "news-item",
+      "sourceCharacters": 855,
+      "verified": false
+    },
+    {
+      "title": "Выполняя завет Гагарина",
+      "description": "6 апреля в пригородах Санкт-Петербурга г. Сестрорецк и г. Зеленогорск состоялась первая акция по сбору раздельно собранного вторсырья под эгидой Экологического Совета РКО .",
+      "url": "https://cosmatica.org/news/383-vypolnjaja-zavet-gagarina.html",
+      "image": "https://cosmatica.org/upload/000/u21/7/1/82801277.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3eed1dbc832f385bf0",
+      "type": "news-item",
+      "sourceCharacters": 2345,
+      "verified": false
+    },
+    {
+      "title": "Наука и религия. Интервью.",
+      "description": "85‑летний юбилей Юрия Гагарина даёт повод в очередной раз поговорить о роли космоса в будущем земной цивилизации. Сейчас нередко звучит мнение, что освоение космоса не сулит особых перспектив. Однако руководители Русского Космического Общества (РКО) и Российской академии естественных наук (РАЕН) категорически с этим не согласны. Мы встретились с известным геофизиком, ректором Государственного университета «Дубна», пр",
+      "url": "https://cosmatica.org/news/379-nauka-i-religija-intervyu.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/8/nauka-i-religija-intervyu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=71bfddf803581535c7",
+      "type": "news-item",
+      "sourceCharacters": 1251,
+      "verified": false
+    },
+    {
+      "title": "Мамино счастье",
+      "description": "7 апреля в Санкт-Петербурге на базе ГБУК «Клуб Выборгская Сторона» прошла Весенняя конкурсная программа «Мамино счастье» в рамках Международного Детского Фестиваля Дружбы народов, Культуры и Таланта «Gatingo World Kids»",
+      "url": "https://cosmatica.org/news/378-mamino-schaste.html",
+      "image": "https://cosmatica.org/upload/000/u21/9/3/mamino-schaste-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1c1a2df0b75de9a7bb",
+      "type": "news-item",
+      "sourceCharacters": 1806,
+      "verified": false
+    },
+    {
+      "title": "Открытый IT-чемпионат для студентов и школьников нашёл своих героев",
+      "description": "Организаторами чемпионата выступили БГИТУ, Русское космическое общество, Образовательный проект для начинающих программистов IT-ПАРК, Школа робототехники Robotize Брянск, Центр технического творчества Брянской области, ДДиЮТ имени Ю.А. Гагарина.",
+      "url": "https://cosmatica.org/news/380-otkrytyi-it-chempionat-dlja-studentov-i-shkolnikov-nashyol-svoih-geroev.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/c/otkrytyi-it-chempionat-dlja-studentov-i-shkolnikov-nashyol-svoih-ger.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3f9427e9f7a617f23c",
+      "type": "news-item",
+      "sourceCharacters": 7012,
+      "verified": false
+    },
+    {
+      "title": "Приём работ окончен!",
+      "description": "Конкурс организует и проводит Фонд поддержки и развития семей «Родная Семья » , при поддержке Р усского Космического Общества .",
+      "url": "https://cosmatica.org/news/377-priyom-rabot-okonchen.html",
+      "image": "https://cosmatica.org/upload/000/u26/1/5/85a76641.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6220dccda389b03603",
+      "type": "news-item",
+      "sourceCharacters": 2454,
+      "verified": false
+    },
+    {
+      "title": "Былина о Гагарине",
+      "description": "Некоторое время назад, в преддверии празднования 85-летия Юрия Алексеевича Гагарина в одной светлой голове родилась идея создания альбома-раскраски для детей, которая будет отражать жизненный путь первого космонавта Земли.",
+      "url": "https://cosmatica.org/news/374-bylina-o-gagarine.html",
+      "image": "https://cosmatica.org/upload/000/u26/c/3/bylina-o-gagarine-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1f6edaf02e11cf11d9",
+      "type": "news-item",
+      "sourceCharacters": 1140,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

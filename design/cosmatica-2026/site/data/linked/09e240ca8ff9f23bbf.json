@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/31-proishozhdenie-zhizni-i-vtoroi-zakon-termodinamiki.html",
+  "title": "Происхождение жизни и второй закон термодинамики",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Проблема",
+      "spans": [
+        {
+          "text": "Проблема"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "происхождения органической жизни из\r\nнеживой природы относится к числу тех научных проблем,\r\nкоторые требуют нового научного вооружения.",
+      "spans": [
+        {
+          "text": "происхождения органической жизни из\r\nнеживой природы относится к числу тех научных проблем,\r\nкоторые требуют нового научного вооружения."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Проблема происхождения органической жизни из неживой природы относится к числу тех научных проблем, которые требуют нового научного вооружения.",
+      "links": [
+        {
+          "title": "Проблема",
+          "url": "https://cosmatica.org/glossary/63-problema.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 116 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/47/76d11661a00b8dd9e726c6f2aadbf235"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/47/76d11661a00b8dd9e726c6f2aadbf235"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 213,
+    "storedTextCharacters": 144,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39352
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 164,
+  "capturedBodyCharacters": 144,
+  "sourceTextSHA256": "ca311044e8a340399b6c8291516280923f4d470c6e6858f05bc78c0e6ee44669",
+  "archiveSnapshotAt": "2026-10-08T08:49:13Z"
+}

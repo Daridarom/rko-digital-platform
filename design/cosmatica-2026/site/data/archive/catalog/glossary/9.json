@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "glossary",
+  "title": "Глоссарий",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 9,
+  "pageCount": 14,
+  "total": 196,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Реальная возможность",
+      "description": "суммарное производство товаров и услуг за определенное",
+      "url": "https://cosmatica.org/glossary/58-realnaja-vozmozhnost.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=87e39c2ad5023519d4",
+      "type": "article",
+      "sourceCharacters": 81,
+      "verified": false
+    },
+    {
+      "title": "Развитие",
+      "description": "возможностей системы в основном за счет повыше­ния эффективности использования внутренних ресурсов, а не за счет увеличения потребления ресурсов из внешней среды.",
+      "url": "https://cosmatica.org/glossary/57-razvitie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=1d8b027452f4526128",
+      "type": "article",
+      "sourceCharacters": 167,
+      "verified": false
+    },
+    {
+      "title": "Рост",
+      "description": "увеличение возможностей социально-экономической систе­мы в основном за счет роста потребления ресурсов из внешней среды (социальной и природной), а не за счет увеличения эффективности ис­пользования имеющихся внутренних ресурсов системы.",
+      "url": "https://cosmatica.org/glossary/56-rost.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=47e02984bb6d9bcd8a",
+      "type": "article",
+      "sourceCharacters": 237,
+      "verified": false
+    },
+    {
+      "title": "Связь",
+      "description": "это понятие, которое обеспечивает суще­ствование системы.",
+      "url": "https://cosmatica.org/glossary/55-svjaz.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=28afdbf2c7f6782396",
+      "type": "article",
+      "sourceCharacters": 1118,
+      "verified": false
+    },
+    {
+      "title": "Свойство неравновесных систем",
+      "description": "эволюция во времени, то есть спо­собность с течением времени совершать внешнюю работу (внешние потоки не уравновешены внутренними).",
+      "url": "https://cosmatica.org/glossary/53-svoistvo-neravnovesnyh-sistem.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=e3be5a7f566b57d3ac",
+      "type": "article",
+      "sourceCharacters": 131,
+      "verified": false
+    },
+    {
+      "title": "Свойство равновесных систем",
+      "description": "не эволюционировать во времени, то есть неспособность совершать внешнюю работу (все внешние потоки уравновешены внутренними).",
+      "url": "https://cosmatica.org/glossary/52-svoistvo-ravnovesnyh-sistem.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=67ceab6f6c0eb03119",
+      "type": "article",
+      "sourceCharacters": 125,
+      "verified": false
+    },
+    {
+      "title": "Социальное время",
+      "description": ", которое общество расходует на удо­влетворение той или иной общественной потребности.",
+      "url": "https://cosmatica.org/glossary/51-socialnoe-vremja.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=ef41f901c7f3fcc07c",
+      "type": "article",
+      "sourceCharacters": 299,
+      "verified": false
+    },
+    {
+      "title": "Свободная энергия",
+      "description": "энергия, которая способна совершать работу.",
+      "url": "https://cosmatica.org/glossary/50-svobodnaja-energija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=0d90734edeb2b851e1",
+      "type": "article",
+      "sourceCharacters": 43,
+      "verified": false
+    },
+    {
+      "title": "Связная энергия",
+      "description": "энергии, не способная к дальнейшим преобразова­ниям, интеграл от мощности потерь, «отработанная» энергия.",
+      "url": "https://cosmatica.org/glossary/49-svjaznaja-energija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=b4957fc8a59d05db4d",
+      "type": "article",
+      "sourceCharacters": 105,
+      "verified": false
+    },
+    {
+      "title": "Сеть",
+      "description": ", в которой протекают процессы – потоки, соеди­няющие ее элементы.",
+      "url": "https://cosmatica.org/glossary/48-set.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=d06cd0bbbfe3e5fc2b",
+      "type": "article",
+      "sourceCharacters": 78,
+      "verified": false
+    },
+    {
+      "title": "Система",
+      "description": "с инвариантом, где в качестве ин­вариантов выступают устойчивые универсальные меры-законы, опре­деляющие пространственно-временные границы системы в окружа­ющей ее среде. Выделить систему – это, прежде всего, установить ее пространственно-временные границы, то есть определить ее «каче­ство», внутри которого изменения только количественные. Система – это часть целого (мира) с выделенными пространственно- временными гр",
+      "url": "https://cosmatica.org/glossary/47-sistema.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=07c007cf074d7d041c",
+      "type": "article",
+      "sourceCharacters": 600,
+      "verified": false
+    },
+    {
+      "title": "Система «природа – общество – человек»",
+      "description": "это взаимодействие естественных, общественных и духовных процессов, протекающих во Времени–Пространстве.",
+      "url": "https://cosmatica.org/glossary/46-sistema-priroda-obschestvo-chelovek.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=37a694893921415e39",
+      "type": "article",
+      "sourceCharacters": 104,
+      "verified": false
+    },
+    {
+      "title": "Сохранение развития в системе «природа – общество – человек»",
+      "description": "это творческий процесс как процесс сохранения неубывающего роста эффективности использования возможностей (полной мощности) си­стемы во Времени–Пространстве.",
+      "url": "https://cosmatica.org/glossary/45-sohranenie-razvitija-v-sisteme-priroda-obschestvo-chelovek.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=d00802e68aa24b744d",
+      "type": "article",
+      "sourceCharacters": 157,
+      "verified": false
+    },
+    {
+      "title": "Состояние",
+      "description": "значений показателей системы на фик­сированное",
+      "url": "https://cosmatica.org/glossary/44-sostojanie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=27947d4fd76e7d07f8",
+      "type": "article",
+      "sourceCharacters": 283,
+      "verified": false
+    },
+    {
+      "title": "Стоимость",
+      "description": "это совокупная ценность продукта, мерой которой яв­ляется общественный труд. Субстанцией стоимости является труд, мерой которого является энергия, а мерой производительности труда является",
+      "url": "https://cosmatica.org/glossary/42-stoimost.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=ebd5662853d21e56ec",
+      "type": "article",
+      "sourceCharacters": 199,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

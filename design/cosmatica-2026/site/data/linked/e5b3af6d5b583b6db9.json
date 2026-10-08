@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/180-suschestvuyuschee-sostojanie.html",
+  "title": "Существующее состояние",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "состояние",
+      "spans": [
+        {
+          "text": "состояние"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "системы на текущее",
+      "spans": [
+        {
+          "text": "системы на текущее"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "время",
+      "spans": [
+        {
+          "text": "время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ". Не­обходимое (требуемое) состояние – это состояние системы, удовлетво­ряющее заданным граничным условиям, определяемым на основе за­кона развития.",
+      "spans": [
+        {
+          "text": ". Не­обходимое (требуемое) состояние – это состояние системы, удовлетво­ряющее заданным граничным условиям, определяемым на основе за­кона развития."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это состояние системы на текущее время . Не­обходимое (требуемое) состояние – это состояние системы, удовлетво­ряющее заданным граничным условиям, определяемым на основе за­кона развития.",
+      "links": [
+        {
+          "title": "состояние",
+          "url": "https://cosmatica.org/glossary/44-sostojanie.html"
+        },
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 210,
+    "storedTextCharacters": 183,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32411
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 187,
+  "capturedBodyCharacters": 183,
+  "sourceTextSHA256": "d402933477953adbed55d258e4ab797001b38b65f0367b112f6be1872cc5be01",
+  "archiveSnapshotAt": "2026-10-08T08:46:43Z"
+}

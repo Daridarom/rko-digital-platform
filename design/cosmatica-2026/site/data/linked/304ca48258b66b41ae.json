@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/69-vypusk-2-tischenko-gennadii-ivanovich.html",
+  "title": "Выпуск 2: Тищенко Геннадий Иванович",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Цикл передач \"Прорыв!\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Герой выпуска - Тищенко Геннадий Иванович, Член Русского Космического Общества, режиссёр-мультипликатор, кинорежиссёр, художник и сценарист, автор и преподаватель курса космонавтики для детей школьного возраста.",
+      "spans": [
+        {
+          "text": "Герой выпуска - Тищенко Геннадий Иванович, Член Русского Космического Общества,  режиссёр-мультипликатор, кинорежиссёр, художник и сценарист, автор и преподаватель курса космонавтики для детей школьного возраста."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "О взаимосвязи искусства и космонавтики.",
+      "spans": [
+        {
+          "text": "О взаимосвязи искусства и космонавтики."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа ВКонтакте",
+      "spans": [
+        {
+          "text": "Группа ВКонтакте",
+          "href": "https://vk.com/cosmatica"
+        }
+      ],
+      "links": [
+        {
+          "text": "Группа ВКонтакте",
+          "url": "https://vk.com/cosmatica"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Канал YouTube",
+      "spans": [
+        {
+          "text": "Канал YouTube",
+          "href": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ],
+      "links": [
+        {
+          "text": "Канал YouTube",
+          "url": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "IN34muXw6a8",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=IN34muXw6a8"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Герой выпуска - Тищенко Геннадий Иванович, Член Русского Космического Общества, режиссёр-мультипликатор, кинорежиссёр, художник и сценарист, автор и преподаватель курса космонавтики для детей школьного возраста. О взаимосвязи искусства и космонавтики. Группа ВКонтакте Канал YouTube",
+      "links": [
+        {
+          "title": "Группа ВКонтакте",
+          "url": "https://vk.com/cosmatica"
+        },
+        {
+          "title": "Канал YouTube",
+          "url": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 363,
+    "storedTextCharacters": 302,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 74498
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 303,
+  "capturedBodyCharacters": 302,
+  "sourceTextSHA256": "8261786a29c6a722e550b1c9b8450cd8bda19741731c59aa97f7980f31ed9890",
+  "archiveSnapshotAt": "2026-10-08T08:43:04Z",
+  "publicVideoCount": 1
+}

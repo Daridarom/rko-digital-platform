@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/168-invariant-v-fizike.html",
+  "title": "Инвариант в физике",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "закон",
+      "spans": [
+        {
+          "text": "закон"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", принцип, не меняющийся при перехо­де от одного объекта к другому в определенном классе объектов. В",
+      "spans": [
+        {
+          "text": ", принцип, не меняющийся при перехо­де от одного объекта к другому в определенном классе объектов. В"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "LT",
+      "spans": [
+        {
+          "text": "LT"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "-системе таким принципом является принцип соразмерности LT- величин.",
+      "spans": [
+        {
+          "text": "-системе таким принципом является принцип соразмерности LT- величин."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "закон , принцип, не меняющийся при перехо­де от одного объекта к другому в определенном классе объектов. В LT -системе таким принципом является принцип соразмерности LT- величин.",
+      "links": [
+        {
+          "title": "закон",
+          "url": "https://cosmatica.org/glossary/139-zakon.html"
+        },
+        {
+          "title": "LT",
+          "url": "https://cosmatica.org/glossary/30-universalnyi-prostranstvenno-vremennoi-jazyk-lt-jazyk.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 197,
+    "storedTextCharacters": 175,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32330
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 178,
+  "capturedBodyCharacters": 175,
+  "sourceTextSHA256": "b476cf4cdbe7c3749c19102e5bfef0934031cf6336c6225747ece02b8e3f59fd",
+  "archiveSnapshotAt": "2026-10-08T08:46:39Z"
+}

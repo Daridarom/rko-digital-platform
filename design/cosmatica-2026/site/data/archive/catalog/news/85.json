@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 85,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Космос открыт для всех всегда",
+      "description": "1 августа состоялся заезд этих самых Героев в военно-космический палаточный лагерь «Космодесант».",
+      "url": "https://cosmatica.org/news/820-kosmos-otkryt-dlja-vseh-vsegda.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/4/kosmos-otkryt-dlja-vseh-vsegda-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=296ef24614423cbae7",
+      "type": "news-item",
+      "sourceCharacters": 2586,
+      "verified": false
+    },
+    {
+      "title": "Прыгнуть в космос",
+      "description": "Увлекательная и познавательная беседа состоялась 3 августа у ребят лагеря дневного пребывания \"Синара-Ленд\".",
+      "url": "https://cosmatica.org/news/819-prygnut-v-kosmos.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/a/95d62268.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=673f01b57e2c4fe033",
+      "type": "news-item",
+      "sourceCharacters": 2196,
+      "verified": false
+    },
+    {
+      "title": "Новые компетенции для профессионального развития",
+      "description": "29 июля, после завершения всех отборочных этапов, были объявлены те 10 участников, которые стали финалистами конкурса (всего в конкурсе приняло участие 150 человек). Решением комиссии и судей финалистом стал Председатель Молодёжного совета Русского Космического Общества Денис Олегович Прудник , который по результатам отбора получил 263,5 балла из 300 возможных, заняв 5 место.",
+      "url": "https://cosmatica.org/news/817-novye-kompetencii-dlja-professionalnogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/e/356b3d92.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c49e720900fdd25048",
+      "type": "news-item",
+      "sourceCharacters": 2243,
+      "verified": false
+    },
+    {
+      "title": "Юные исследователи завершили полёт",
+      "description": "Великая Космическая Одиссея – это комплексная программа, ориентированная на формирование человека с космопланетарным мышлением в триединой логике исследователя, конструктора и организатора, обладающего знаниями, умениями и навыками, необходимыми для будущих космических, межпланетных путешествий.",
+      "url": "https://cosmatica.org/news/826-yunye-issledovateli-okonchili-polyot.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/6/yunye-issledovateli-okonchili-polyot-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cc57de3d65ef379e58",
+      "type": "news-item",
+      "sourceCharacters": 3490,
+      "verified": false
+    },
+    {
+      "title": "Презентация Сетевой инженерно-технической школы (СИТШ)",
+      "description": "Презентацию проводил Берг Дмитрий Борисович , Председатель Свердловского областного Отделения Русского Космического Общества, профессор, доктор физико-математических наук, руководитель проекта СИТШ.",
+      "url": "https://cosmatica.org/news/816-prezentacija-setevoi-inzhenerno-tehnicheskoi-shkoly-sitsh.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/e/prezentacija-setevoi-inzhenerno-tehnicheskoi-shkoly-sitsh-photo-nor.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0ea29fae47289e4c74",
+      "type": "news-item",
+      "sourceCharacters": 2245,
+      "verified": false
+    },
+    {
+      "title": "Кузбасс - территория ноосферного развития",
+      "description": "Председатель отделения, первый заместитель генерального директора Центра ноосферного здоровья Наталья Геннадьевна Куликова вынесла на повестку вопрос о подготовке к тематическому празднованию 60-летия первого полёта человека в Космос и 300-летия Кузбасского региона.",
+      "url": "https://cosmatica.org/news/815-k-300-letiyu-kuzbassa-territorii-noosfernogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/0/k-300-letiyu-kuzbassa-territorii-noosfernogo-razvitija-photo-nor.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=dd11d2e8cc15d62912",
+      "type": "news-item",
+      "sourceCharacters": 2068,
+      "verified": false
+    },
+    {
+      "title": "Устойчивое развитие: проектирование и управление",
+      "description": "Сетевое научное издание адресовано учёным, преподавателям, аспирантам и студентам, работникам федеральных и региональных органов государственного управления, а также всем, кого интересуют вопросы практического применения идей и механизмов устойчивого развития, движения к качественно новому состоянию общества, вопросы развития и интеграции естественных, технических и социальных наук.",
+      "url": "https://cosmatica.org/news/814-ustoichivoe-razvitie-proektirovanie-i-upravlenie.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/4/ustoichivoe-razvitie-proektirovanie-i-upravlenie-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d71645dd3edcf2e3ef",
+      "type": "news-item",
+      "sourceCharacters": 2402,
+      "verified": false
+    },
+    {
+      "title": "Международный журнал. Устойчивое развитие: наука и практика",
+      "description": "Данное научно-образовательное издание, адресованное широким кругам научной общественности, ученым, преподавателям, аспирантам и студентам, работникам федеральных и региональных органов государственного управления, а также всем, кого интересуют вопросы практического применения идей и механизмов устойчивого развития, движения к качественно новому состоянию общества, вопросы развития и интеграции естественных, техническ",
+      "url": "https://cosmatica.org/news/813-mezhdunarodnyi-zhurnal-ustoichivoe-razvitie-nauka-i-praktika.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/9/mezhdunarodnyi-zhurnal-ustoichivoe-razvitie-nauka-i-praktika-phot.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0a765656105efee4df",
+      "type": "news-item",
+      "sourceCharacters": 2727,
+      "verified": false
+    },
+    {
+      "title": "Профориентация. Вектор в космос",
+      "description": "Сохранение и упрочение позиций России как первой и ведущей космической державы является важнейшей задачей государства и гражданского общества, требующей консолидации всего интеллектуального и организационного потенциала страны. Именно поэтому в Технопарке Калининградского государственного технического университета прошла встреча представителей Русского Космического Общества с командой «Атласа новых профессий» при уча",
+      "url": "https://cosmatica.org/news/812-proforientacija-vektor-v-kosmos.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/a/71313b55.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b700a01d149ee80f91",
+      "type": "news-item",
+      "sourceCharacters": 3219,
+      "verified": false
+    },
+    {
+      "title": "Колокольным звоном отзовётся",
+      "description": "15 июля член Президиума Русского Космического Общества, лётчик-космонавт, Герой России Токарев Валерий Иванович принял участие в памятной акции приуроченной к 45-летию экспедиции \"Союз - Аполлон\". Ровно 45 лет назад в этот день советский космонавт Леонов во второй раз поднялся на орбиту на космическом корабле «Союз-19» и стал участником этого исторического события.",
+      "url": "https://cosmatica.org/news/811-kolokolnym-zvonom-otzovyotsja.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/b/kolokolnym-zvonom-otzovyotsja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4774f590845d1be529",
+      "type": "news-item",
+      "sourceCharacters": 3333,
+      "verified": false
+    },
+    {
+      "title": "Год РКО на Калининградской земле.",
+      "description": "Мероприятие прошло на базе библиотеки имени С.А. Снегова, которая является опорным пунктом Отделения в Калининграде.",
+      "url": "https://cosmatica.org/news/809-god-rko-na-kaliningradskoi-zemle.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/1/god-rko-na-kaliningradskoi-zemle-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=36d97e8ee9ee5746fd",
+      "type": "news-item",
+      "sourceCharacters": 2228,
+      "verified": false
+    },
+    {
+      "title": "Искусство говорить",
+      "description": "18 июля 2020 года в Москве в Агентстве общественных проектов состоялся отборный этап конкурса «III чемпиона спикеров» среди представителей молодёжных советов органов исполнительной власти города Москвы. Сам этап состоял из нескольких активностей, а именно: - презентация участника и его деятельности длительностью не более 2 минут; - интеллектуальная викторина; - умная аргументация - вербальные дуэли участников.",
+      "url": "https://cosmatica.org/news/808-iskusstvo-govorit.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/f/fa5eb0f5.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=430c2a14bdef9153d0",
+      "type": "news-item",
+      "sourceCharacters": 1230,
+      "verified": false
+    },
+    {
+      "title": "Первая смена ВКО вышла на орбиту",
+      "description": "– Главная цель всех наук одна – счастье человечества.",
+      "url": "https://cosmatica.org/news/807-pervaja-smena-vko-vyshla-na-orbitu.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/3/7cb4a1c5.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=98f60c98b293507a86",
+      "type": "news-item",
+      "sourceCharacters": 4443,
+      "verified": false
+    },
+    {
+      "title": "Без прошлого нет будущего",
+      "description": "Одной из основных целей Русского Космического Общества является формирование человека-творца, способного и реализующего свою способность к творчеству во имя сохранения и развития жизни на Земле как космопланетарного явления. А следовательно, это связано с развитием личности во всех её гранях. Так одним из направлений РКО в рамках работы Совета по культуре является деятельность фонда содействия сохранению и развитию д",
+      "url": "https://cosmatica.org/news/806-bez-proshlogo-net-buduschego.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/6/bez-proshlogo-net-buduschego-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=76649559958d0d4ffb",
+      "type": "news-item",
+      "sourceCharacters": 7605,
+      "verified": false
+    },
+    {
+      "title": "\"Трансгуманизм\" — возможное будущее космонавтики. Вопросы технологий, этики и философии",
+      "description": "4 июля на цифровой платформе Русского Космического Общества rko.nbics.net состоялась уже вторая онлайн дискуссия на тему: \"Трансгуманизм» — возможное будущее космонавтики. Вопросы технологий, этики и философии\".",
+      "url": "https://cosmatica.org/news/805-transgumanizm-vozmozhnoe-buduschee-kosmonavtiki-voprosy-tehnologii-etiki-i-filosofii.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/2/transgumanizm-vozmozhnoe-buduschee-kosmonavtiki-voprosy-tehnolo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bcef841d7d8f046afb",
+      "type": "news-item",
+      "sourceCharacters": 1573,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

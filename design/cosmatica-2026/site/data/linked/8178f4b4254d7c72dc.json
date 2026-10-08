@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/42-k-probleme-osnovanii-matematiki.html",
+  "title": "К проблеме оснований математики",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Из обилия возможных проблем, связанных с\r\nоснованиями математики я выбираю только три.\r\nПочему человечество (с необходимостью, присущей\r\nслучаю) должно было придумать математику?\r\nПочему математика должна быть устроена\r\nаксиоматически?\r\nПочему",
+      "spans": [
+        {
+          "text": "Из обилия возможных проблем, связанных с\r\nоснованиями математики я выбираю только три.\r\nПочему человечество (с необходимостью, присущей\r\nслучаю) должно было придумать математику?\r\nПочему математика должна быть устроена\r\nаксиоматически?\r\nПочему"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "знание",
+      "spans": [
+        {
+          "text": "знание"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "математики не гарантирует умения\r\nею пользоваться в конкретном проектировании систем?",
+      "spans": [
+        {
+          "text": "математики не гарантирует умения\r\nею пользоваться в конкретном проектировании систем?"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Из обилия возможных проблем, связанных с основаниями математики я выбираю только три. Почему человечество (с необходимостью, присущей случаю) должно было придумать математику? Почему математика должна быть устроена аксиоматически? Почему знание математики не гарантирует умения ею пользоваться в конкретном проектировании систем?",
+      "links": [
+        {
+          "title": "знание",
+          "url": "https://cosmatica.org/glossary/128-znanie.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 248 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/58/8cc91ba678764b0ca0503f5a4fb5e869"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/58/8cc91ba678764b0ca0503f5a4fb5e869"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 382,
+    "storedTextCharacters": 334,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39755
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 350,
+  "capturedBodyCharacters": 334,
+  "sourceTextSHA256": "9827faa4747a7d4333bab21d08a5069cb6a70a4ad6d59666056ef47a95e17a21",
+  "archiveSnapshotAt": "2026-10-08T08:49:52Z"
+}

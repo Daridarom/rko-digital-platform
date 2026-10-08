@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/5-jazyk.html",
+  "title": "Язык",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "система",
+      "spans": [
+        {
+          "text": "система"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "терминов и понятий, отражающих сущность и законо­мерности развития социально-природных систем.",
+      "spans": [
+        {
+          "text": "терминов и понятий, отражающих сущность и законо­мерности развития социально-природных систем."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "система терминов и понятий, отражающих сущность и законо­мерности развития социально-природных систем.",
+      "links": [
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 107,
+    "storedTextCharacters": 101,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31882
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 102,
+  "capturedBodyCharacters": 101,
+  "sourceTextSHA256": "94e6971f70796289fdc9153b95e479e0ee794742e19058901c77b429842a18f5",
+  "archiveSnapshotAt": "2026-10-08T08:46:52Z"
+}

@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "partners",
+  "title": "Партнёры",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 1,
+  "pageCount": 1,
+  "total": 13,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Федеральный экспертный совет",
+      "description": "Федеральный экспертный совет по местному и общественному самоуправлению и местным сообществами при Общенациональной ассоциации территориального общественного самоуправления - Координационный центр местных сообществ. https://www.fesrus.ru",
+      "url": "https://cosmatica.org/partners/15-federalnyi-ekspertnyi-sovet.html",
+      "image": "assets/source/b60ab98dd7ceb65539c42c33.webp",
+      "kind": "partner",
+      "href": "view.html?p=partner",
+      "type": "partner",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Федеральный народный совет",
+      "description": "Федеральный народный совет — это институт гражданского соборного общества, который стремится к созданию и развитию гармоничного и крепкого государства и здорового человека. https://fednarsovet.ru",
+      "url": "https://cosmatica.org/partners/14-federalnyi-narodnyi-sovet.html",
+      "image": "assets/source/19db4f9a49f452a1dd21d943.webp",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=d7bace1c41c3dbdf2c",
+      "type": "partner",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Живой космос",
+      "description": "Целью проекта является популяризация исследований, связанных с темами астробиологии, появления жизни на Земле и экспансии человечества в глубины древнего Космоса.",
+      "url": "https://cosmatica.org/partners/12-zhivoi-kosmos.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/1/zhivoi-kosmos-photo-normal.jpg",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=c123f0bb43a224774c",
+      "type": "partner",
+      "sourceCharacters": 184,
+      "verified": false
+    },
+    {
+      "title": "ФОНД \"АРКТИКА-СГ\"",
+      "description": "Фонд поддержки высокотехнологичных инновационных программ социально-экономического развития Арктики, международного и регионального сотрудничества «Арктика-СГ» создан в соответствии с Конституцией РФ, Гражданским Кодексом РФ, Федеральным законом «О некоммерческих организациях», другими законодательными актами Российской Федерации, настоящим Уставом, на основании решения Учредителей (Протокол №1 Общего собрания Учреди",
+      "url": "https://cosmatica.org/partners/11-fond-arktika-sg.html",
+      "image": "https://cosmatica.org/upload/000/u7/6/4/442a63e1.png",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=5d15959e6a944794cc",
+      "type": "partner",
+      "sourceCharacters": 603,
+      "verified": false
+    },
+    {
+      "title": "International Organization - Club of Sofia",
+      "description": "«Клуб София» проводит симпозиумы, конференции, встречи и доклады. Работает над научно-образовательными программами, направленными на воспитание и формирование общественного мнения по экономическим, социальным и экологическим вопросам.",
+      "url": "https://cosmatica.org/partners/10-international-organization-club-of-sofia.html",
+      "image": "https://cosmatica.org/upload/000/u7/33/04/international-organization-club-of-sofia-photo-normal.png",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=e74d0ceb8c647b702c",
+      "type": "partner",
+      "sourceCharacters": 707,
+      "verified": false
+    },
+    {
+      "title": "«Российская академия естественных наук», РАЕН",
+      "description": "Общероссийская общественная организация «Российская академия естественных наук» (краткое наименование — «Российская академия естественных наук», РАЕН) — российская общественная организация, общественная академия наук, созданная учредительным съездом 31 августа 1990 года в Москве. Согласно уставу, РАЕН является «творческим научным объединением учёных естествоиспытателей и гуманитариев, призванным служить развитию наук",
+      "url": "https://cosmatica.org/partners/9-rossiiskaja-akademija-estestvennyh-nauk-raen.html",
+      "image": "assets/source/3536484a022432a7cc821617.webp",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=7fc315878914436088",
+      "type": "partner",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Секция истории авиации и космонавтики СПбФ ИИЕТ РАН",
+      "description": "История Санкт-Петербургской (Ленинградской) секции «История авиации и космонавтики» и становления исследований в области аэрокосмической науки и техники в городе на Неве Изучение истории науки в Санкт-Петербурге началось сразу, в первые годы деятельности Академии наук (АН). В 1728 г. был создан Архив Конференции Академии наук. Крупнейшие учёные, руководители АН рассматривали изучение истории науки как одно из важнейш",
+      "url": "https://cosmatica.org/partners/7-sekcija-istorii-aviacii-i-kosmonavtiki-spbf-iiet-ran.html",
+      "image": "assets/source/fd8520e7d29c22d5ab523350.webp",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=5bcbfa56eb76ab00cf",
+      "type": "partner",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Фонд Русской цивилизации \"СВЕТОСЛАВЪ\"",
+      "description": "Содействие сохранению и развитию духовно-нравственных, историко-культурных и научных основ Русского Мира - вот та задача, которая стоит перед фондом «Светославъ». Общемировой процесс глобализации напрямую угрожает будущему Русского Мира, его основам, самобытной культуре, традициям, его уникальному научному наследию. В этих условиях защита и поддержка проектов, организаций и людей, работающих в этих областях, является",
+      "url": "https://cosmatica.org/partners/6-fond-russkoi-civilizacii-svetoslav.html",
+      "image": "assets/source/2a7333ce49c7b92c1ab9ded5.webp",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=914cb978b1e81a1b64",
+      "type": "partner",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Ассоциация Всеобщее Вселенское Содружество (Италия)",
+      "description": "Ассоциация была создана 2 июня 2004 года и официально зарегистрирована в Италии в 2009 году. За время существования Ассоциации была проведена огромная работа на всех уровнях и в различных направлениях. Мы работаем в областях науки, искусства и культуры, проводим мероприятия на высоком уровне культурной и социальной значимости. Сайт: www.rusvvs.altervista.org",
+      "url": "https://cosmatica.org/partners/5-associacija-vseobschee-vselenskoe-sodruzhestvo-italija.html",
+      "image": "assets/source/8d561fc8e3f99ef68e485e86.webp",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=482ae04fda502afe9d",
+      "type": "partner",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Музей космонавтики",
+      "description": "Музей космонавтики – один из крупнейших научно-исторических музеев мира. История музея началась во второй половине XX века, когда в 1964 году на карте Москвы появился монумент «Покорителям космоса». География выставочной деятельности музея: Россия, страны СНГ, Великобритания, США, Индия, Австралия, Монголия, Германия, Испания, Франция, Китай. Так, с каждым днем, космос становится еще ближе. Сайт: www.kosmo-museum.ru",
+      "url": "https://cosmatica.org/partners/4-muzei-kosmonavtiki.html",
+      "image": "assets/source/f4f6218fdcdbcc3dac4049be.webp",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=064ea0d14694f9db1b",
+      "type": "partner",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "АНО \"Спортивный клуб Федерального космического агентства Роскосмос\"",
+      "description": "Целями организации являются: - Предоставление услуг в области развития физической культуры и массового спорта в системе Роскосмоса. -Повышение престижа работы в системе Роскосмоса за счет пропаганды достижений спортсменов и спортивных коллективов Роскосмоса на уровне массового спорта и спорта высоких достижений. -Укрепление здоровья, морально-волевых качеств, трудолюбия, повышение уровня работоспособности, профилакти",
+      "url": "https://cosmatica.org/partners/3-ano-sportivnyi-klub-federalnogo-kosmicheskogo-agentstva-roskosmos.html",
+      "image": "assets/source/3da4436a4bf6d10b583fc682.webp",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=65513c86e68ee2b4e9",
+      "type": "partner",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Ассоциация музеев космонавтики России (АМКОС)",
+      "description": "",
+      "url": "https://cosmatica.org/partners/2-associacija-muzeev-kosmonavtiki-rossii-amkos.html",
+      "image": "assets/source/5cbfecfa2dc30c7905108e89.webp",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=a871c6d1c935739e61",
+      "type": "partner",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Госкорпорация «РОСКОСМОС»",
+      "description": "РОСКОСМОС – государственная корпорация, созданная в августе 2015 года для проведения комплексной реформы ракетно-космической отрасли России.",
+      "url": "https://cosmatica.org/partners/1-goskorporacija-roskosmos.html",
+      "image": "https://cosmatica.org/upload/000/u8/a5/a9/d9b6ff9e.png",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=2833b8d7e310d33660",
+      "type": "partner",
+      "sourceCharacters": 658,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

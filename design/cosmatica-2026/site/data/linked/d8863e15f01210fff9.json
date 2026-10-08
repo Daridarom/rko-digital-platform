@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/283",
+  "title": "Карачач Джумаевна Исмаилова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/2/b1d61241.jpg",
+      "alt": "Карачач Джумаевна Исмаилова"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/3/458a24d3.jpg",
+      "alt": "Карачач Джумаевна Исмаилова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/9/2/b1d61241.jpg",
+    "https://cosmatica.org/upload/002/u218/5/3/458a24d3.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 52,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 33481
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 0,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "archiveSnapshotAt": "2026-10-08T09:19:01Z"
+}

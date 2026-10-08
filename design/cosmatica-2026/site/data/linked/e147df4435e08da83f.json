@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/s",
+  "title": "С",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Солидарность",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Сплочение",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Симбиоз",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Соэволюция",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Сключение",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Содея",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Содей",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Социогуманика",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Сетение",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Семья",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Союз семей",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Существующее состояние",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Словесно-вербальная связь",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Следствия",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Связь",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Полный текст исходного материала"
+    },
+    {
+      "type": "paragraph",
+      "text": "С Солидарность Сплочение Симбиоз Соэволюция Сключение Содея Содей Социогуманика Сетение Семья Союз семей Существующее состояние Словесно-вербальная связь Следствия Связь Предыдущая Следующая 1 2 Показаны 1-15 из 29",
+      "spans": [
+        {
+          "text": "С Солидарность Сплочение Симбиоз Соэволюция Сключение Содея Содей Социогуманика Сетение Семья Союз семей Существующее состояние Словесно-вербальная связь Следствия Связь Предыдущая Следующая 1 2 Показаны 1-15 из 29"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 214,
+    "storedTextCharacters": 153,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 42983
+  },
+  "textFallbackRequired": true,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 214,
+  "capturedBodyCharacters": 399,
+  "sourceTextSHA256": "8bfc142f0d941f30801d5b000cdb893b8b4a943b1991db673ed5193ea5392b6a",
+  "archiveSnapshotAt": "2026-10-08T08:47:28Z"
+}

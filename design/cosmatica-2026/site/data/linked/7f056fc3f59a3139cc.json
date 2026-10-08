@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/festivali",
+  "title": "Фестивали",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Грядущие",
+        "Все"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [
+    "Грядущие",
+    "Все"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 52,
+    "storedTextCharacters": 11,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 45975
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 52,
+  "capturedBodyCharacters": 11,
+  "sourceTextSHA256": "d0cfa41683dce975b3b99a1a1f02411e408e1a67be7f7b6d4327a8ab81911966",
+  "archiveSnapshotAt": "2026-10-08T09:16:16Z"
+}

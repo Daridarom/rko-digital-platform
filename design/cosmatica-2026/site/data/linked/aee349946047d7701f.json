@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/108-noosfernaja-ekologija-osnovanija-stanovlenija.html",
+  "title": "НООСФЕРНАЯ ЭКОЛОГИЯ: основания становления",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u14/ab/39/subetto-a-i-noosfernaja-ekologija-osnovanija-stanovlenija-photo.jpg",
+      "alt": "НООСФЕРНАЯ ЭКОЛОГИЯ: основания становления"
+    },
+    {
+      "type": "paragraph",
+      "text": "В книге обсуждаются проблемы, основания и императивы становления ноосферной",
+      "spans": [
+        {
+          "text": "В книге обсуждаются проблемы, основания и императивы становления ноосферной"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "экологии",
+      "spans": [
+        {
+          "text": "экологии"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "как ноосферной парадигмы организации всего корпуса научного экологического знания. Показывается",
+      "spans": [
+        {
+          "text": "как ноосферной парадигмы организации всего корпуса научного экологического знания. Показывается"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "связь",
+      "spans": [
+        {
+          "text": "связь"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "становления ноосферной экологии со становлением ноосферных экономики и технологического базиса. Книга адресована как к экологам, работникам образования, так и к общественным деятелям, политикам, озабоченным экологическими проблемами развития России и человечества.",
+      "spans": [
+        {
+          "text": "становления ноосферной экологии со становлением ноосферных экономики и технологического базиса. Книга адресована как к экологам, работникам образования, так и к общественным деятелям, политикам, озабоченным экологическими проблемами развития России и человечества."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Субетто А.И., Горбунов А.А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В книге обсуждаются проблемы, основания и императивы становления ноосферной экологии как ноосферной парадигмы организации всего корпуса научного экологического знания. Показывается связь становления ноосферной экологии со становлением ноосферных экономики и технологического базиса. Книга адресована как к экологам, работникам образования, так и к общественным деятелям, политикам, озабоченным экологическими проблемами развития России и человечества.",
+      "links": [
+        {
+          "title": "экологии",
+          "url": "https://cosmatica.org/glossary/200-ekologija.html"
+        },
+        {
+          "title": "связь",
+          "url": "https://cosmatica.org/glossary/55-svjaz.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 339 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/255/5b2a7ff944dda3115681b82d6f8bb014"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u14/ab/39/subetto-a-i-noosfernaja-ekologija-osnovanija-stanovlenija-photo.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/255/5b2a7ff944dda3115681b82d6f8bb014"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 550,
+    "storedTextCharacters": 447,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40762
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 507,
+  "capturedBodyCharacters": 447,
+  "sourceTextSHA256": "0fde554de5210aa7f7e2373ddd2ec777eeaa5038c081d5a15c41c904628441a9",
+  "archiveSnapshotAt": "2026-10-08T08:47:32Z"
+}

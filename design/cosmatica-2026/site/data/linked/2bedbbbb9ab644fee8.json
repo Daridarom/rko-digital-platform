@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/240-kosmicheskaja-antropoekologija.html",
+  "title": "Космическая Антропоэкология",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Научно-образовательная и просветительская газета \"Природа-Общество-Человек: ноосферное устойчивое ра",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "17 июля в день 94-летия академика В.П. Казначеева - основоположника космической антропоэкологии - нового направления в естествознании, основателя института МНИИКА и Сибирского отделения РАМН состоялось учредительное заседание секции Русского космического общества \"Космическая антропоэкология\" на базе МНИИКА в Новосибирске и пленарная сессия научной конференции МНИИКА по проблеме \"Геоэкологической безопасности человека в открытом космосе\"",
+      "spans": [
+        {
+          "text": "17 июля в день 94-летия академика В.П. Казначеева - основоположника космической",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " антропоэкологии - нового направления в естествознании, основателя института МНИИКА и Сибирского отделения РАМН состоялось учредительное заседание секции Русского космического общества \"Космическая антропоэкология\" на базе МНИИКА в Новосибирске и пленарная сессия научной конференции МНИИКА по проблеме \"Геоэкологической безопасности человека в открытом космосе\""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/8a/19/bezymjannyi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "\"MAN - UNIVERSE\" CONSTITUENT CONFERENCE OF SECTION COSMIC ANTHROPOECOLOGY OF RUSSIAN COSMIC SOCIETY ON THE BASE OF ISRICA IN NOVOSIBIRSK ON JULY,17 - DAY OF 94 th ANNIVERSARY OF ACADEMICIAN VLAIL P,KAZNACHEEV",
+      "spans": [
+        {
+          "text": "\"MAN - UNIVERSE\" CONSTITUENT CONFERENCE OF SECTION COSMIC ANTHROPOECOLOGY OF RUSSIAN COSMIC SOCIETY ON THE BASE OF ISRICA IN NOVOSIBIRSK ON JULY,17 - DAY OF 94 th ANNIVERSARY OF ACADEMICIAN VLAIL P,KAZNACHEEV"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На секции РКО с успехом прошла презентация авторского проекта М.А. Шатарниной \"Зеркала Козырева\". Мария Шатарнина - внучка академика В.П. Казначеева и достойная продолжательница дела своего деда.",
+      "spans": [
+        {
+          "text": "На секции РКО с успехом прошла презентация авторского проекта М.А. Шатарниной \"Зеркала Козырева\". Мария Шатарнина - внучка академика В.П. Казначеева и достойная продолжательница дела своего деда."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Русское космическое общество искренне поздравляет с этими событиями МНИИКА и отделение РКО Новосибирск.",
+      "spans": [
+        {
+          "text": "Русское космическое общество искренне поздравляет с этими событиями МНИИКА и отделение РКО Новосибирск."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Новосибирское Отделение",
+      "spans": [
+        {
+          "text": "Новосибирское Отделение ",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Русского Космического Общества",
+      "spans": [
+        {
+          "text": "Русского Космического Общества",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "17 июля в день 94-летия академика В.П. Казначеева - основоположника космической антропоэкологии - нового направления в естествознании, основателя института МНИИКА и Сибирского отделения РАМН состоялось учредительное заседание секции Русского космического общества \"Космическая антропоэкология\" на базе МНИИКА в Новосибирске и пленарная сессия научной конференции МНИИКА по проблеме \"Геоэкологической безопасности человека в открытом космосе\" \"MAN - UNIVERSE\" CONSTITUENT CONFERENCE OF SECTION COSMIC ANTHROPOECOLOGY OF RUSSIAN COSMIC SOCIETY ON THE BASE OF ISRICA IN NOVOSIBIRSK ON JULY,17 - DAY OF 94 th ANNIVERSARY OF ACADEMICIAN VLAIL P,KAZNACHEEV На секции РКО с успехом прошла презентация авторского проекта М.А. Шатарниной \"Зеркала Козырева\". Мария Шатарнина - внучка академика В.П. Казначеева и достойная продолжательница дела своего деда. Русское космическое общество искренне поздравляет с этими событиями МНИИКА и отделение РКО Новосибирск. Новосибирское Отделение Русского Космического Общества",
+      "links": [],
+      "image": "https://cosmatica.org/upload/000/u26/8a/19/bezymjannyi.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/8a/19/bezymjannyi.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1265,
+    "storedTextCharacters": 1101,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 7,
+    "sourceBytes": 76656
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 1135,
+  "capturedBodyCharacters": 1101,
+  "sourceTextSHA256": "c7c391c3401ca36fd61d93fdb67c4041817d75877b7c495dd15aae2ff4daf2c2",
+  "archiveSnapshotAt": "2026-10-08T08:39:51Z"
+}

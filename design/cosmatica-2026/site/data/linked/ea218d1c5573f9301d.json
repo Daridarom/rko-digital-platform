@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/235-russkii-kosmizm-na-vseh-kontinentah-zemli.html",
+  "title": "Русский космизм на всех континентах Земли",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u30/a9/61/russkii-kosmizm-na-vseh-kontinentah-zemli-photo-normal.jpg",
+      "alt": "Русский космизм на всех континентах Земли"
+    },
+    {
+      "type": "paragraph",
+      "text": "Издательство Оксфордского университета в 2012 г. выпустило в свет книгу George M.Young \"Русские Космисты...\" c главой об авангардных исследованиях МНИИКА в \"Зеркалах Козырева\".",
+      "spans": [
+        {
+          "text": " Издательство Оксфордского  университета в 2012 г. выпустило в свет книгу George M.Young  \"Русские  Космисты...\" c главой об авангардных исследованиях МНИИКА в \"Зеркалах  Козырева\". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В ноябре сего года эта глава была переведена на португальский и опубликована в Бразилии Tania Belfort, представляющей отделение Ноосферной Ассамблеи, возглавляемой Л.C. Гординой, Председателем Совета культуры Русского Космического Общества (г.Москва)",
+      "spans": [
+        {
+          "text": "В ноябре сего года эта глава была переведена на португальский и  опубликована в Бразилии  Tania Belfort, представляющей отделение  Ноосферной Ассамблеи, возглавляемой Л.C. Гординой, Председателем Совета культуры Русского Космического Общества (г.Москва)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "МНИИКА, возглавляемый Трофимовым Александром Васильевичем, является основной базой Новосибирского отделения Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "МНИИКА, возглавляемый Трофимовым Александром Васильевичем, является  основной базой Новосибирского отделения Русского Космического Общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "РКО горячо поддерживает исследовательскую деятельность института, и уже реализовало ряд совместных проектов.",
+      "spans": [
+        {
+          "text": "РКО горячо поддерживает исследовательскую деятельность института, и уже реализовало  ряд совместных проектов."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u30/c5/3e/russkii-kosmizm-na-vseh-kontinentah-zemli-gallery-normal.jpg",
+      "alt": "Русский космизм на всех континентах Земли 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u30/80/ec/russkii-kosmizm-na-vseh-kontinentah-zemli-gallery-normal.jpg",
+      "alt": "Русский космизм на всех континентах Земли 1"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "О Зеркалах Козырева на португальском.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Издательство Оксфордского университета в 2012 г. выпустило в свет книгу George M.Young \"Русские Космисты...\" c главой об авангардных исследованиях МНИИКА в \"Зеркалах Козырева\". В ноябре сего года эта глава была переведена на португальский и опубликована в Бразилии Tania Belfort, представляющей отделение Ноосферной Ассамблеи, возглавляемой Л.C. Гординой, Председателем Совета культуры Русского Космического Общества (г.Москва) МНИИКА, возглавляемый Трофимовым Александром Васильевичем, является основной базой Новосибирского отделения Русского Космического Общества. РКО горячо поддерживает исследовательскую деятельность института, и уже реализовало ряд совместных проектов.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u30/a9/61/russkii-kosmizm-na-vseh-kontinentah-zemli-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u30/c5/3e/russkii-kosmizm-na-vseh-kontinentah-zemli-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u30/80/ec/russkii-kosmizm-na-vseh-kontinentah-zemli-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 946,
+    "storedTextCharacters": 684,
+    "sourceCardCount": 0,
+    "sourceImageCount": 3,
+    "paragraphCount": 4,
+    "sourceBytes": 47922
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 794,
+  "capturedBodyCharacters": 684,
+  "sourceTextSHA256": "4d046a92079d3ef22cbe6e5b9b9d299b770c42edea2fe42ddb48859ea94095b2",
+  "archiveSnapshotAt": "2026-10-08T09:10:48Z"
+}

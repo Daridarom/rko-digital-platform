@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/25-ustoichivoe-socialnoe-razvitie.html",
+  "title": "Устойчивое социальное развитие",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это хроноцелостный процесс управления сохранением неубывающих темпов роста качества жизни (включая продолжительность жизни, совокупный уровень жизни и ка­чество окружающей среды) на основе законов сохранения и развития планетарной Жизни.",
+      "spans": [
+        {
+          "text": "это хроноцелостный процесс управления сохранением неубывающих темпов роста качества жизни (включая продолжительность жизни, совокупный уровень жизни и ка­чество окружающей среды) на основе законов сохранения и развития планетарной Жизни."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это хроноцелостный процесс управления сохранением неубывающих темпов роста качества жизни (включая продолжительность жизни, совокупный уровень жизни и ка­чество окружающей среды) на основе законов сохранения и развития планетарной Жизни.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 268,
+    "storedTextCharacters": 237,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32495
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 237,
+  "capturedBodyCharacters": 237,
+  "sourceTextSHA256": "d42f7b0d128270b3a3e7984af6f744774ffced7d2521ae724273c0847fd268cb",
+  "archiveSnapshotAt": "2026-10-08T08:46:45Z"
+}

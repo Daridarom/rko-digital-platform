@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1020-mezhdunarodnoe-sotrudnichestvo-rossii-v-kosmose-perspektivy-litvenenko-i-a.html",
+  "title": "Международное сотрудничество России в космосе, перспективы - Литвененко И.А.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва ч",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "https://создайбудущее.рф",
+      "spans": [
+        {
+          "text": "https://создайбудущее.рф "
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "Nlg_gbutvXc",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=Nlg_gbutvXc"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "I Международная научно-практическая конференция: «Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва человечества» Секция «Космическое право – основа дальнейшего успешного исследования космоса». Доклад: «Международное сотрудничество России в космосе, перспективы» - Литвененко Игорь Анатольевич, кандидат экономических наук, Уполномоченный Общероссийского движения поддержка политики Президента России 24.05.2020г. Россия, Москва https://создайбудущее.рф Страница проекта на сайте РКО: https://cosmatica.org/projects/188",
+      "links": [
+        {
+          "title": "https://cosmatica.org/projects/188",
+          "url": "https://www.youtube.com/redirect?event=video_description&v=Nlg_gbutvXc&q=https%3A%2F%2Fcosmatica.org%2Fprojects%2F188&redir_token=QUFFLUhqbDdOcjZmV3dsdVg3VTZGZkN0d2l0MUxxX3B2d3xBQ3Jtc0tuMldaZTFTNnZuRDRvSzVUWWRFOFo1NXNybHVzTkJtNUJIMVBwbGNoTUNzRFNRaHhwUGhPVVpuM2QxNXd1NmtBM1MybzhmMzdVNjh2NFpqWUZwRFE0eGEyOXh1RDRwc19hRFpSeDlJMnVkNlNmSVl2TQ%3D%3D"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 912,
+    "storedTextCharacters": 125,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 77756
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 733,
+  "capturedBodyCharacters": 125,
+  "sourceTextSHA256": "44ca0f2a902dc39605055bd8f56220ce2f8fc63e0257164722dfb52b538125d5",
+  "archiveSnapshotAt": "2026-10-08T08:37:44Z",
+  "publicVideoCount": 1
+}

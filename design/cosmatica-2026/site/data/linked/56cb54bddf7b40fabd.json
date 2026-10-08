@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/659",
+  "title": "Виктор Александрович Соловьёв",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/d/7/11f0f6cb.jpeg",
+      "alt": "Виктор Александрович Соловьёв"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 1"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/c/0/3eb19759.jpeg",
+      "alt": "Виктор Александрович Соловьёв"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 1"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель фонда поддержки и развития семей «Родная семья».",
+      "spans": [
+        {
+          "text": "Руководитель фонда поддержки и развития семей «Родная семья»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Общественный деятель.",
+      "spans": [
+        {
+          "text": "Общественный деятель."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Многодетный отец.",
+      "spans": [
+        {
+          "text": "Многодетный отец."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Имет два высших образования. Экономическое и педагогическое. КМС по самбо",
+      "spans": [
+        {
+          "text": "Имет два высших образования. Экономическое и педагогическое. КМС по самбо"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Многодетность:",
+      "value": "Да",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Руководитель фонда поддержки и развития семей «Родная семья». Общественный деятель. Многодетный отец. Имет два высших образования. Экономическое и педагогическое. КМС по самбо",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/d/7/11f0f6cb.jpeg",
+    "https://cosmatica.org/upload/002/u218/c/0/3eb19759.jpeg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 306,
+    "storedTextCharacters": 232,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 37121
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 221,
+  "capturedBodyCharacters": 232,
+  "sourceTextSHA256": "c19eaf372743476772a956bec61927c8d0f25d2cf0ce2cc502782aec90df80c2",
+  "archiveSnapshotAt": "2026-10-08T09:21:40Z"
+}

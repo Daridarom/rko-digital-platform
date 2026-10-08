@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "slug": "article",
+  "slug": "articles-list",
   "sourceUrl": "https://cosmatica.org/articles/kosmonavtika",
   "title": "Космонавтика",
   "intro": "",
@@ -40,5 +40,11 @@
     "sourceImageCount": 0,
     "paragraphCount": 1,
     "sourceBytes": 73391
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "articles-list",
+  "sourceTextCharacters": 147,
+  "capturedBodyCharacters": 132,
+  "sourceTextSHA256": "abbdc7d543562017df94b2679bea4b4bc7de4c10e689e8ae14f6a0c256ea3d0b",
+  "archiveSnapshotAt": "2026-10-08T08:45:04Z"
 }

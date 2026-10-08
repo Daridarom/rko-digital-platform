@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/60-razmernost-fizicheskaja.html",
+  "title": "Размерность физическая",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "степень меры физической величины.",
+      "spans": [
+        {
+          "text": "степень меры физической величины."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "LT",
+      "spans": [
+        {
+          "text": "LT"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "-размерность – это степени длины и времени пространственно-временной величины. Для обозначения физической размерно­сти используются квадратные скобки [ ], введенные Дж.Максвеллом (1855), тем самым обращая внимание на качественнуюопределенность физической величины.",
+      "spans": [
+        {
+          "text": "-размерность – это степени длины и времени пространственно-временной величины. Для обозначения физической размерно­сти используются квадратные скобки [ ], введенные Дж.Максвеллом (1855), тем самым обращая внимание на качественнуюопределенность физической величины."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "степень меры физической величины. LT -размерность – это степени длины и времени пространственно-временной величины. Для обозначения физической размерно­сти используются квадратные скобки [ ], введенные Дж.Максвеллом (1855), тем самым обращая внимание на качественнуюопределенность физической величины.",
+      "links": [
+        {
+          "title": "LT",
+          "url": "https://cosmatica.org/glossary/30-universalnyi-prostranstvenno-vremennoi-jazyk-lt-jazyk.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 324,
+    "storedTextCharacters": 299,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32652
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 301,
+  "capturedBodyCharacters": 299,
+  "sourceTextSHA256": "348fd05fc2075e714542e35609f68327a13c7a6d4aff63f9bc56bb50f8bf90c8",
+  "archiveSnapshotAt": "2026-10-08T08:46:55Z"
+}

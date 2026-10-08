@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/151-gruppa-preobrazovanii.html",
+  "title": "Группа преобразований",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "сеть",
+      "spans": [
+        {
+          "text": "сеть"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "правил преобразования, связанных с од­ним и тем же инвариантом.",
+      "spans": [
+        {
+          "text": "правил преобразования, связанных с од­ним и тем же инвариантом."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "сеть правил преобразования, связанных с од­ним и тем же инвариантом.",
+      "links": [
+        {
+          "title": "сеть",
+          "url": "https://cosmatica.org/glossary/48-set.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 90,
+    "storedTextCharacters": 67,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31772
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 68,
+  "capturedBodyCharacters": 67,
+  "sourceTextSHA256": "6dbea2b76d724a05057d3a9b53ad46fe3e9baf3c37492f554df9ad4980526723",
+  "archiveSnapshotAt": "2026-10-08T08:46:35Z"
+}

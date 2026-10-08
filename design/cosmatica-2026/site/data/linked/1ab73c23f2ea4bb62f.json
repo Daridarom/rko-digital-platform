@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/96-normativnaja-baza-uskorennogo-socialno-ekonomicheskogo-razvitija.html",
+  "title": "Нормативная база ускоренного социально-экономического развития",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "система",
+      "spans": [
+        {
+          "text": "система"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "стандартов (норм-мер), удовлетворяющих требованиям устой­чивого инновационного развития, на основе которых разрабатывают­ся социально-экономические нормативы, включая: показатели, критерии, законы и правила оценки результатов работ.",
+      "spans": [
+        {
+          "text": "стандартов (норм-мер), удовлетворяющих требованиям устой­чивого инновационного развития, на основе которых разрабатывают­ся социально-экономические нормативы, включая: показатели, критерии, законы и правила оценки результатов работ."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "система стандартов (норм-мер), удовлетворяющих требованиям устой­чивого инновационного развития, на основе которых разрабатывают­ся социально-экономические нормативы, включая: показатели, критерии, законы и правила оценки результатов работ.",
+      "links": [
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 303,
+    "storedTextCharacters": 239,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32832
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 240,
+  "capturedBodyCharacters": 239,
+  "sourceTextSHA256": "43dda6f0efd2554af150916053cb75922e944c71842e878944b32aa481ca30fd",
+  "archiveSnapshotAt": "2026-10-08T08:47:21Z"
+}

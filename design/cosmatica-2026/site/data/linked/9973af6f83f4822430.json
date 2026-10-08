@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/252-kratkii-uchebnik-kosmografii-1924.html",
+  "title": "Краткий учебник Космографии (1924)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/b/5/kratkii-uchebnik-kosmografii-1924-photo-normal.jpg",
+      "alt": "Краткий учебник Космографии (1924)"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Покровский К.Д.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 12 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1957/b0922e0ac141c3864844fafa0d1f88ec"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/b/5/kratkii-uchebnik-kosmografii-1924-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1957/b0922e0ac141c3864844fafa0d1f88ec"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 77,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39040
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 42,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "2cc05748129e8f419244cef31b10d738ecd8e6cfd957ee49eb2e4b1283d558c4",
+  "archiveSnapshotAt": "2026-10-08T08:48:16Z"
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/4-sobranie-literaturnogo-kluba-rko.html",
+  "title": "Собрание литературного клуба РКО #Поэзия Русского Космизма",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/4f/50/sobranie-literaturnogo-kluba-rko-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "30-го марта в 19:00 пройдёт первое заседание литературного клуба Русского Космического общества.",
+      "spans": [
+        {
+          "text": "30-го марта в 19:00 пройдёт первое заседание литературного клуба Русского Космического общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На повестке: 1. Деятельность в рамках проекта \"Поэзия Русского Космизма\"; 2. Регламент встреч литературного клуба.",
+      "spans": [
+        {
+          "text": "На повестке: 1. Деятельность в рамках проекта \"Поэзия Русского Космизма\"; 2. Регламент встреч литературного клуба. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Тема встречи: \"Поэзия как явление\".",
+      "spans": [
+        {
+          "text": "Тема встречи: \"Поэзия как явление\". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Поговорим о поэзии в целом. В рамках беседы будут освещены вопросы: 1. Кто такой поэт? - образ поэта в глазах обывателя; - роль таланта в поэтическом ремесле; - вдохновение. 2. Актуальность поэзии в наше время . 3. Хорошая и плохая поэзия.",
+      "spans": [
+        {
+          "text": "Поговорим о поэзии в целом. В рамках беседы будут освещены вопросы: 1. Кто такой поэт? - образ поэта в глазах обывателя; - роль таланта в поэтическом ремесле; - вдохновение. 2. Актуальность поэзии в наше  "
+        },
+        {
+          "text": "время",
+          "href": "https://cosmatica.org/glossary/157-vremja.html"
+        },
+        {
+          "text": ". 3. Хорошая и плохая поэзия. "
+        }
+      ],
+      "links": [
+        {
+          "text": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Подробности: https://vk.com/cosmaticapoetry",
+      "spans": [
+        {
+          "text": "Подробности: https://vk.com/cosmaticapoetry"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Внимание! Для посещения мероприятия обязательна предварительная запись у организатора https://vk.com/p_reutov .",
+      "spans": [
+        {
+          "text": "Внимание! Для посещения мероприятия обязательна предварительная запись у организатора "
+        },
+        {
+          "text": "https://vk.com/p_reutov",
+          "href": "https://vk.com/p_reutov"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "links": [
+        {
+          "text": "https://vk.com/p_reutov",
+          "url": "https://vk.com/p_reutov"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "30-го марта в 19:00 пройдёт первое заседание литературного клуба Русского Космического общества. На повестке: 1. Деятельность в рамках проекта \"Поэзия Русского Космизма\"; 2. Регламент встреч литературного клуба. Тема встречи: \"Поэзия как явление\". Поговорим о поэзии в целом. В рамках беседы будут освещены вопросы: 1. Кто такой поэт? - образ поэта в глазах обывателя; - роль таланта в поэтическом ремесле; - вдохновение. 2. Актуальность поэзии в наше время . 3. Хорошая и плохая поэзия. Подробности: https://vk.com/cosmaticapoetry Внимание! Для посещения мероприятия обязательна предварительная запись у организатора https://vk.com/p_reutov .",
+      "links": [
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        },
+        {
+          "title": "https://vk.com/p_reutov",
+          "url": "https://vk.com/p_reutov"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/4f/50/sobranie-literaturnogo-kluba-rko-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 787,
+    "storedTextCharacters": 638,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 6,
+    "sourceBytes": 39406
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 787,
+  "capturedBodyCharacters": 638,
+  "sourceTextSHA256": "6cd424c3f654ee98037c0b101307e467427ffdaa144bac906e302b43e9084595",
+  "archiveSnapshotAt": "2026-10-08T09:16:00Z"
+}

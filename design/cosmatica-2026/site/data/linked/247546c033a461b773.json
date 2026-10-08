@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/812-russkii-kosmos-4-aprel-2019.html",
+  "title": "Русский космос №4 (апрель, 2019)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Русский космос №4 (апрель, 2019)",
+      "spans": [
+        {
+          "text": "Русский космос №4 (апрель, 2019)",
+          "href": "https://cosmatica.org/upload/redactorfiles/5. Номер 4. Апрель 2019 года.pdf"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "Русский космос №4 (апрель, 2019)",
+          "url": "https://cosmatica.org/upload/redactorfiles/5. Номер 4. Апрель 2019 года.pdf"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/d/d/snimok-ekrana-2019-10-16-v-18-39-44.png",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Русский космос №4 (апрель, 2019)",
+      "links": [
+        {
+          "title": "Русский космос №4 (апрель, 2019)",
+          "url": "https://cosmatica.org/upload/redactorfiles/5. Номер 4. Апрель 2019 года.pdf"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/002/u218/d/d/snimok-ekrana-2019-10-16-v-18-39-44.png"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/d/d/snimok-ekrana-2019-10-16-v-18-39-44.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 103,
+    "storedTextCharacters": 32,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 73528
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 70,
+  "capturedBodyCharacters": 32,
+  "sourceTextSHA256": "eb1179cf981c2f53bce66d7a4e71387169c0f8598ef0addf7e94318edfc09d52",
+  "archiveSnapshotAt": "2026-10-08T09:06:35Z"
+}

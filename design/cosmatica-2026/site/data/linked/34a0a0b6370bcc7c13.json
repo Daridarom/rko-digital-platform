@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/105-model.html",
+  "title": "Модель",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "соразмерное и соизмеренное с объектом описание, которое позволяет объяснять и предсказывать поведение объекта. Модель в от­личие от теории может не содержать постоянные аксиомы (законы), но обязательно – переменные, то есть заданные условия.",
+      "spans": [
+        {
+          "text": "соразмерное и соизмеренное с объектом описание, которое позволяет объяснять и предсказывать поведение объекта. Модель в от­личие от теории может не содержать постоянные аксиомы (законы), но обязательно – переменные, то есть заданные условия."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "соразмерное и соизмеренное с объектом описание, которое позволяет объяснять и предсказывать поведение объекта. Модель в от­личие от теории может не содержать постоянные аксиомы (законы), но обязательно – переменные, то есть заданные условия.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 248,
+    "storedTextCharacters": 241,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32359
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 241,
+  "capturedBodyCharacters": 241,
+  "sourceTextSHA256": "5d10ea463756a6142d62c3210369e75d2c518573dc306873645e55bdf24e81b3",
+  "archiveSnapshotAt": "2026-10-08T08:46:21Z"
+}

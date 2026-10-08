@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/17",
+  "title": "Вячеслав Васильевич Обрежа",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/ef/59/261174f6.jpg",
+      "alt": "Вячеслав Васильевич Обрежа"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/f6/40/4233eb7c.jpg",
+      "alt": "Вячеслав Васильевич Обрежа"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад",
+        "По приглашению: Шабанов Павел Алексеевич"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Общественно-государственного Совета Русского Космического Общества",
+      "spans": [
+        {
+          "text": "Председатель Общественно-государственного Совета Русского Космического Общества"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1949 г.р.",
+      "spans": [
+        {
+          "text": "1949 г.р."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Полковник КГБ СССР в отставке.",
+      "spans": [
+        {
+          "text": "Полковник КГБ СССР в отставке."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Доктор юридических наук.",
+      "spans": [
+        {
+          "text": "Доктор юридических наук."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Московского общественного совета гражданского общества.",
+      "spans": [
+        {
+          "text": "Председатель Московского общественного совета гражданского общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Учредитель газеты «Власть, общество, народ».",
+      "spans": [
+        {
+          "text": "Учредитель газеты «Власть, общество, народ»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Академик РАЕН.",
+      "spans": [
+        {
+          "text": "Академик РАЕН."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Владимирская область",
+      "links": [
+        {
+          "title": "Владимирская область",
+          "url": "https://cosmatica.org/departments/24-vladimirskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Председатель Общественно-государственного Совета Русского Космического Общества 1949 г.р. Полковник КГБ СССР в отставке. Доктор юридических наук. Председатель Московского общественного совета гражданского общества. Учредитель газеты «Власть, общество, народ». Академик РАЕН.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/ef/59/261174f6.jpg",
+    "https://cosmatica.org/upload/000/u8/f6/40/4233eb7c.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 409,
+    "storedTextCharacters": 341,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35623
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 316,
+  "capturedBodyCharacters": 341,
+  "sourceTextSHA256": "94ab15f30cb86a600e7ea8b1ac936c8bdea6316d5f4c96429b37ecc5e0d10c0e",
+  "archiveSnapshotAt": "2026-10-08T09:18:15Z"
+}

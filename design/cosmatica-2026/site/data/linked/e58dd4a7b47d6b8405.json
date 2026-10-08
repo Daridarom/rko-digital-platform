@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/101-kak-dostignut-luny-istorija-ot-zhyulja-verna-do-luny-1.html",
+  "title": "Как достигнуть Луны. История от Жюля Верна до \"Луны-1\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/6/0/kak-dostignut-luny-istorija-ot-zhyulja-verna-do-luny-1-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Тема лекции: \"Как достигнуть Луны. История от Жюль Верна до \"Луны-1\"",
+      "spans": [
+        {
+          "text": "Тема лекции: \"Как достигнуть Луны. История от Жюль Верна до \"Луны-1\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Докладчик: Павел Шубин, математик, историк космонавтики и автор книги \"Венера. Неукротимая планета\".",
+      "spans": [
+        {
+          "text": "Докладчик: Павел Шубин, математик, историк космонавтики и автор книги \"Венера. Неукротимая планета\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Встреча состоится по адресу: Санкт-Петербург, набережная канала Грибоедова, д.5, лит. Е, оф. 428, 4 этаж",
+      "spans": [
+        {
+          "text": "Встреча состоится по адресу: Санкт-Петербург, набережная канала Грибоедова, д.5, лит. Е, оф. 428, 4 этаж"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Количество мест ограничено. Обязательно предварительная запись по телефону: +7-921-9967296",
+      "spans": [
+        {
+          "text": " "
+        },
+        {
+          "text": "Количество",
+          "href": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        },
+        {
+          "text": " мест ограничено. Обязательно предварительная запись по телефону: +7-921-9967296"
+        }
+      ],
+      "links": [
+        {
+          "text": "Количество",
+          "url": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Тема лекции: \"Как достигнуть Луны. История от Жюль Верна до \"Луны-1\" Докладчик: Павел Шубин, математик, историк космонавтики и автор книги \"Венера. Неукротимая планета\". Встреча состоится по адресу: Санкт-Петербург, набережная канала Грибоедова, д.5, лит. Е, оф. 428, 4 этаж Количество мест ограничено. Обязательно предварительная запись по телефону: +7-921-9967296",
+      "links": [
+        {
+          "title": "Количество",
+          "url": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u21/6/0/kak-dostignut-luny-istorija-ot-zhyulja-verna-do-luny-1-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 509,
+    "storedTextCharacters": 362,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 38606
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 509,
+  "capturedBodyCharacters": 362,
+  "sourceTextSHA256": "d711fe47f0f9177c75c24341f6b987bb11779f00d35f5f8cb45ff3a10bc44322",
+  "archiveSnapshotAt": "2026-10-08T09:14:50Z"
+}

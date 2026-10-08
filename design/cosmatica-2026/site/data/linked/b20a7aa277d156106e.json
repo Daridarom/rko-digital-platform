@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/373-angliiskii-dlja-malyshei-kniga-1.html",
+  "title": "Английский для малышей (книга 1)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/4/1/angliiskii-dlja-malyshei-kniga-1-photo-normal.png",
+      "alt": "Английский для малышей (книга 1)"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Скультэ В.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 24 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2183/fe1b3955a0f20882f3f7f7a4f39a17dd"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/4/1/angliiskii-dlja-malyshei-kniga-1-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2183/fe1b3955a0f20882f3f7f7a4f39a17dd"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 70,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39411
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 37,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "185507103ad1a49ff3848394441b4c9d93cd85d39c3b8572ccbd5f53e58fe6fc",
+  "archiveSnapshotAt": "2026-10-08T08:49:33Z"
+}

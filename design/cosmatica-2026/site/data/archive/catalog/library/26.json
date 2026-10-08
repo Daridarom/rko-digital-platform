@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "library",
+  "title": "Библиотека",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 26,
+  "pageCount": 34,
+  "total": 510,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Теория и методология проектирования устойчивого развития социо-природных систем",
+      "description": "Учебно-методическое пособие предназначено для подготовки специалистов по магистерской программе \"Проектное управление устойчивым развитием\". В пособии рассматриваются: глоссарий основных терминов и понятий, мировой опыт,",
+      "url": "https://cosmatica.org/library/151-teorija-i-metodologija-proektirovanija-ustoichivogo-razvitija-socio-prirodnyh-sistem.html",
+      "image": "https://cosmatica.org/upload/000/u10/43/53/teorija-i-metodologija-proektirovanija-ustoichivogo-razvitija-socio.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=5aecf6cbc19b01d291",
+      "type": "book",
+      "sourceCharacters": 479,
+      "verified": false
+    },
+    {
+      "title": "Технология проектирования устойчивого развития социально-экономических систем",
+      "description": "Учебно-методическое пособие предназначено для подготовки специалистов по магистерской программе \"Проектное управление устойчивым развитием\". Пособие включает: введение, технологии обоснования, разработки и реализации проектов устойчивого инновационного развития; методические указания по самостоятельной работе студентов; экзаменационные билеты; обучающие программы.",
+      "url": "https://cosmatica.org/library/150-tehnologija-proektirovanija-ustoichivogo-razvitija-socialno-ekonomicheskih-sistem.html",
+      "image": "https://cosmatica.org/upload/000/u10/81/28/tehnologija-proektirovanija-ustoichivogo-razvitija-socialno-ekonomi.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=d8e920399de99dea67",
+      "type": "book",
+      "sourceCharacters": 462,
+      "verified": false
+    },
+    {
+      "title": "Возникновение и основные проблемы вхождения понятия «устойчивое развитие» в мировую политику и науку",
+      "description": "Приложение к учебно-методическому комплексу предназначено для подготовки специалистов по магистерской программе «Проектное управление устойчивым развитием». В приложении рассматриваются: введение, возникновение и становление понятия «устойчивое",
+      "url": "https://cosmatica.org/library/149-vozniknovenie-i-osnovnye-problemy-vhozhdenija-ponjatija-ustoichivoe-razvitie-v-mirovuyu-politiku.html",
+      "image": "https://cosmatica.org/upload/000/u10/95/57/vozniknovenie-i-osnovnye-problemy-vhozhdenija-ponjatija-ustoichivoe.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=c7f351767c551f955c",
+      "type": "book",
+      "sourceCharacters": 501,
+      "verified": false
+    },
+    {
+      "title": "Наука устойчивого развития",
+      "description": "Монография посвящена актуальным проблемам формирования науки устойчивого развития как процесса постижения законов-мер Реального мира и их правильного применения в различных сферах жизнедеятельности с целью развития Жизни как космопланетарного явления. Впервые на едином и универсальном языке излагаются законы и методы науки устойчивого развития. Показываются возможности ее применения для решения актуальных проблем сов",
+      "url": "https://cosmatica.org/library/147-nauka-ustoichivogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u10/48/43/nauka-ustoichivogo-razvitija-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=fe95c39c1da16acfcf",
+      "type": "book",
+      "sourceCharacters": 920,
+      "verified": false
+    },
+    {
+      "title": "Устойчивое развитие",
+      "description": "проектирования устойчивого развития как целостная",
+      "url": "https://cosmatica.org/library/146-ustoichivoe-razvitie.html",
+      "image": "https://cosmatica.org/upload/000/u10/d3/8b/ustoichivoe-razvitie-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=4227a983e63cec395d",
+      "type": "book",
+      "sourceCharacters": 777,
+      "verified": false
+    },
+    {
+      "title": "Закон Природы или как работает Пространство-Время?",
+      "description": "В книге излагаются пространственно-временные основы законов физики, химии, биологии с использованием",
+      "url": "https://cosmatica.org/library/144-zakon-prirody-ili-kak-rabotaet-prostranstvo-vremja.html",
+      "image": "https://cosmatica.org/upload/000/u10/65/d7/zakon-prirody-ili-kak-rabotaet-prostranstvo-vremja-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=b4c3504fa9f813995c",
+      "type": "book",
+      "sourceCharacters": 723,
+      "verified": false
+    },
+    {
+      "title": "Русский Космизм, глобальный кризис, устойчивое развитие",
+      "description": "Статья подготовлена по итогам научного доклада О.Л. Кузнецова, Б.Е. Большакова на Общем собрании РАЕН 6 декабря 2012 года. Доклад вызвал большой интерес у слушателей и многие ученые предложили открыть дискуссию в печати на эту тему. В статье рассмотрены естественнонаучные и гуманитарные принципы глобального кризиса и ноосферная парадигма перехода к устойчивому развитию на основе мирового научного наследия и, прежде в",
+      "url": "https://cosmatica.org/library/143-russkii-kosmizm-globalnyi-krizis-ustoichivoe-razvitie.html",
+      "image": "https://cosmatica.org/upload/000/u10/39/79/russkii-kosmizm-globalnyi-krizis-ustoichivoe-razvitie-photo-no.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=3014aa2f439d52474b",
+      "type": "book",
+      "sourceCharacters": 578,
+      "verified": false
+    },
+    {
+      "title": "Учебник XXI века",
+      "description": "проектирования устойчивого развития как целостная",
+      "url": "https://cosmatica.org/library/142-uchebnik-xxi-veka.html",
+      "image": "https://cosmatica.org/upload/000/u10/b9/4c/uchebnik-xxi-veka-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=8bb024a8bf70dae5f1",
+      "type": "book",
+      "sourceCharacters": 971,
+      "verified": false
+    },
+    {
+      "title": "Региональное устойчивое инновационное развитие: технология проектирования и управления",
+      "description": "Рекомендовано учебно-методическим советом университета «Дубна» в качестве учебного пособия для студентов, обучающихся по направлениям подготовки «Системный анализ и управление», «Менеджмент», «",
+      "url": "https://cosmatica.org/library/141-regionalnoe-ustoichivoe-innovacionnoe-razvitie-tehnologija-proektirovanija-i-upravlenija.html",
+      "image": "https://cosmatica.org/upload/000/u10/18/c8/regionalnoe-ustoichivoe-innovacionnoe-razvitie-tehnologija-proek.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=4bff8cc9b415cd1088",
+      "type": "book",
+      "sourceCharacters": 294,
+      "verified": false
+    },
+    {
+      "title": "Закон природы или как работает Пространство-Время.",
+      "description": "В книге излагаются пространственно-временные основы законов физики, химии, биологии с использованием",
+      "url": "https://cosmatica.org/library/140-zakon-prirody-ili-kak-rabotaet-prostranstvo-vremja.html",
+      "image": "https://cosmatica.org/upload/000/u10/de/82/zakon-prirody-ili-kak-rabotaet-prostranstvo-vremja-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7c10dc357ee55ec0bf",
+      "type": "book",
+      "sourceCharacters": 831,
+      "verified": false
+    },
+    {
+      "title": "Наука устойчивого развития",
+      "description": "Монография посвящена актуальным проблемам формирования науки устойчи- вого развития как процесса постижения законов-мер Реального мира и их правиль- ного применения в различных сферах жизнедеятельности с целью развития Жизни как космопланетарного явления. Впервые на едином и универсальном языке излагаются законы и методы науки устойчивого развития. Показываются возможности ее применения для решения ак- туальных пробл",
+      "url": "https://cosmatica.org/library/139-nauka-ustoichivogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u10/59/2c/nauka-ustoichivogo-razvitija-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=64ec2206fb7e8e81d9",
+      "type": "book",
+      "sourceCharacters": 933,
+      "verified": false
+    },
+    {
+      "title": "Закон Природы или Как работает Пространство—Время?",
+      "description": "В книге излагаются пространственно-временные основы законов физики, химии, биологии с использованием",
+      "url": "https://cosmatica.org/library/138-zakon-prirody-ili-kak-rabotaet-prostranstvo-vremja.html",
+      "image": "https://cosmatica.org/upload/000/u10/b0/4c/zakon-prirody-ili-kak-rabotaet-prostranstvo-vremja-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ad150118a4274c5a68",
+      "type": "book",
+      "sourceCharacters": 830,
+      "verified": false
+    },
+    {
+      "title": "Устойчивое развитие: синтез естественных и гуманитарных наук",
+      "description": "В работе рассмотрены различные аспекты интеграции естественных и гуманитарных наук: философские, математические, физические, химические, биологические, экологические, экономи- ческие, финансовые, правовые, политические. Впервые показано, что разные аспекты синтеза научных знаний имеют общий стержень — универсальную систему пространственно-временных мер-законов. Наведен определенный порядок в крайне сложных, запутанны",
+      "url": "https://cosmatica.org/library/137-ustoichivoe-razvitie-sintez-estestvennyh-i-gumanitarnyh-nauk.html",
+      "image": "https://cosmatica.org/upload/000/u10/91/69/ustoichivoe-razvitie-sintez-estestvennyh-i-gumanitar-photo-norma.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=31787718b9bbaeae2e",
+      "type": "book",
+      "sourceCharacters": 933,
+      "verified": false
+    },
+    {
+      "title": "Система Природа—Общество—Человек, Устойчивое развитие",
+      "description": "посвящена актуальной проблеме, которая волнует всех людей, — проблеме сохра- нения развития в системе ПРИРОДА—ОБЩЕСТВО—ЧЕЛОВЕК. Изложенные в работе оригинальные идеи опираются на мысли выдающихся Личностей — философов, математиков, физиков, химиков, биологов, экологов, экономистов, финансистов, юри- стов, политиков, выделившихся в продолжение тысячелетий из миллиардов людей. Эти мысли просеяны через сито Времени. Отб",
+      "url": "https://cosmatica.org/library/136-sistema-priroda-obschestvo-chelovek-ustoichivoe-razvitie.html",
+      "image": "https://cosmatica.org/upload/000/u10/a8/02/sistema-priroda-obschestvo-chelovek-ustoichivoe-razviti-photo-norma.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=8c2fe236e7d7eae19c",
+      "type": "book",
+      "sourceCharacters": 1709,
+      "verified": false
+    },
+    {
+      "title": "Инженерия устойчивого развития",
+      "description": "Монография посвящена формированию и развитию инженерного взгляда на актуальные проблемы устойчивого развития в системе «природа – общество – человек», что особенно важно в условиях глобального систем- ного кризиса, когда остро требуются новые идеи и новаторские инженерные решения. Впервые излагаются научные основы инженерии устойчивого раз- вития на основе фундаментальных результатов Научной школы устойчиво- го разви",
+      "url": "https://cosmatica.org/library/135-inzhenerija-ustoichivogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u10/ff/fc/inzhenerija-ustoichivogo-razvitija-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=4cbbeb1e657eac0116",
+      "type": "book",
+      "sourceCharacters": 861,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

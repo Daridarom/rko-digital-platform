@@ -1,17 +1,23 @@
-import {createRichBlocks,createArticle,createEvent,createProject} from './rich-renderer.mjs';
+import {createRichBlocks,createArticle,createEvent,createProject} from './rich-renderer.mjs?v=archive69';
 
 /* The content is static, reviewed separately, and contains no executable HTML. */
 const qs=new URLSearchParams(location.search);
 const slug=qs.get('p')||'home';
 const ref=qs.get('ref')||'';
-const blocked=new Set(['login','register','restore','search','search-results','donate']);
+const blocked=new Set(['login','register','restore','search','search-results']);
 const body=document.querySelector('#main');
 const el=(tag,cls='',value=null)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(value!=null)n.textContent=String(value);return n;};
 const localImage=value=>{
  if(typeof value!=='string')return null;
- if(value.startsWith('assets/source/'))return value;
- // Original public images may remain on the RKO server. Never proxy files or private URLs.
- try{const uri=new URL(value);return uri.protocol==='https:'&&uri.hostname==='cosmatica.org'&&/^\/(upload|images)\//.test(uri.pathname)?uri.href:null;}catch{return null;}
+ if(/^assets\/source\/[a-z0-9._-]+\.(?:webp|png|jpe?g|gif|svg)$/i.test(value))return value;
+ // Preserve the exact public image source, including externally hosted images
+ // on the original RKO pages. Reject private networks, credentials and scripts.
+ try{
+  const uri=new URL(value);
+  if(uri.protocol!=='https:'||uri.username||uri.password||uri.port)return null;
+  if(!uri.hostname.includes('.')||/^(?:localhost|127\.|10\.|192\.168\.|169\.254\.|172\.(?:1[6-9]|2[0-9]|3[01])\.)/i.test(uri.hostname))return null;
+  return uri.href;
+ }catch{return null;}
 };
 const originalDownload=value=>{
  if(typeof value!=='string')return null;
@@ -59,7 +65,7 @@ function listView(data,index){
  const input=el('input','source-filter-input');
  input.type='search';input.placeholder='Название, тема или город';input.setAttribute('aria-label','Поиск по материалам раздела');
  lab.append(input);
- const count=el('output','source-filter-count','Материалов: '+data.cards.length);count.setAttribute('aria-live','polite');
+ const count=el('output','source-filter-count',(data.slug==='archive'?'На странице: ':'Материалов: ')+data.cards.length);count.setAttribute('aria-live','polite');
  top.append(lab,count);sec.append(top);
  const grid=el('div','source-grid');const rows=[];
  for(const card of data.cards){
@@ -103,7 +109,7 @@ function listView(data,index){
  input.addEventListener('input',()=>{
   let visible=0;const q=input.value.trim().toLocaleLowerCase('ru');
   rows.forEach(([item,text])=>{item.hidden=!!q&&!text.includes(q);if(!item.hidden)visible++;});
-  count.textContent='Найдено: '+visible;
+  count.textContent=(data.slug==='archive'?'Найдено на странице: ':'Найдено: ')+visible;
  });
  sec.append(grid);return sec;
 }
@@ -116,7 +122,14 @@ function getRich(data,type,index){
    ...block,spans:block.spans.map(span=>{
     if(!span.href)return span;
     const href=listingHref({url:span.href.split('#')[0]},index);
-    return {...span,href:href||null};
+    if(href)return {...span,href};
+    // Keep intentional HTTPS references to independent public websites.
+    // Links back to the old RKO CMS must resolve locally or stay plain text.
+    try{const uri=new URL(span.href);
+     if(uri.protocol==='https:'&&uri.hostname!=='cosmatica.org'&&uri.hostname!=='www.cosmatica.org')
+      return {...span,href:uri.href};
+    }catch{}
+    return {...span,href:null};
    })
   });
  data={...data,blocks};
@@ -242,6 +255,17 @@ function notFound(){
 }
 async function run(){
  if(!body||blocked.has(slug)||qs.get('layout')==='full')return;
+ if(slug==='donate'){
+  const source=await fetch('data/source/donate.json?v=fullarchive67');
+  if(source.ok){
+   const content=await source.json();
+   const intro=body.querySelector('.donate-intro');
+   if(intro&&Array.isArray(content.blocks)&&content.blocks.length){
+    intro.replaceChildren(createRichBlocks(content.blocks));
+   }
+  }
+  return;
+ }
  if(slug==='archive'){await renderArchive();return;}
  if(ref&&!/^[a-f0-9]{18}$/.test(ref)){notFound();return;}
  let file=ref?'linked/'+ref+'.json':'source/'+slug+'.json';

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/415-kultura-trezvosti-i-zdorovja-v-molodyozhnoi-srede.html",
+  "title": "Культура трезвости и здоровья в молодёжной среде.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/72/b8/bezymjannyi121221.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Рекомендовано для использования специалистам некоммерческого сектора и институтов гражданского общества",
+      "spans": [
+        {
+          "text": "Рекомендовано для использования специалистам некоммерческого сектора и институтов гражданского общества"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Рекомендовано для использования специалистам некоммерческого сектора и институтов гражданского общества Союзом некоммерческих организаций в сфере профилактики и охраны здоровья «Евразийская ассоциация здоровья» Пособие предназначено специалистам, проводящим работу по первичной профилактике потребления алкоголя, табака, наркотиков, а также занимающихся формированием культуры здоровья и трезвости в молодёжной среде. Пособие будет полезно педагогам, психологам, специалистам по работе с молодёжью, представителям некоммерческих организаций и всем заинтересованным в укреплении здоровья населения сторонам. Культура трезвости и здоровья в молодёжной среде.pdf",
+      "links": [
+        {
+          "title": "Культура трезвости и здоровья в молодёжной среде.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0%20%D1%82%D1%80%D0%B5%D0%B7%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D1%8F%20%D0%B2%20%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%D0%B9%20%D1%81%D1%80%D0%B5%D0%B4%D0%B5.pdf"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u26/72/b8/bezymjannyi121221.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/72/b8/bezymjannyi121221.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 832,
+    "storedTextCharacters": 103,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 76607
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 782,
+  "capturedBodyCharacters": 103,
+  "sourceTextSHA256": "36efa7e6a644487957eeb8d0dc38e13c7f01b73bb03ba7d3dd72ba5ca891315f",
+  "archiveSnapshotAt": "2026-10-08T08:41:34Z"
+}

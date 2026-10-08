@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/914-my-otkryvaem-novye-miry.html",
+  "title": "Мы открываем новые миры",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Великая Космическая Одиссея",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/7/my-otkryvaem-novye-miry-photo-normal.jpg",
+      "alt": "Мы открываем новые миры"
+    },
+    {
+      "type": "paragraph",
+      "text": "Подведены итоги игры \"Космические путешествия\", в которой участвовали семьи воспитанников кружков \"Начальное космическое моделирование\" г. Макеевки , ДНР.",
+      "spans": [
+        {
+          "text": "Подведены итоги игры  \"Космические путешествия\", в которой участвовали семьи  воспитанников  кружков \"Начальное космическое моделирование\" г. Макеевки , ДНР."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Под руководством опытного капитана Великой Космической Одиссеи Абраменковой Элины Александровны сводный экипаж из семейных команд звездолёта \"Станции юных техников\" совершил очередной исследовательский полёт.",
+      "spans": [
+        {
+          "text": "Под руководством опытного капитана "
+        },
+        {
+          "text": "Великой Космической Одиссеи",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/projects/vko"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Абраменковой Элины Александровны",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/users/380"
+        },
+        {
+          "text": " сводный экипаж из семейных команд звездолёта \"Станции юных техников\" совершил очередной исследовательский полёт."
+        }
+      ],
+      "links": [
+        {
+          "text": "Великой Космической Одиссеи",
+          "url": "https://cosmatica.org/projects/vko"
+        },
+        {
+          "text": "Абраменковой Элины Александровны",
+          "url": "https://cosmatica.org/users/380"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/3/9/whatsapp-image-2020-11-25-at-10-46-47.jpeg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/3/a/img-21b16e048d57d20ecb94c2b3b7155a01-v.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Это подтверждает отзыв о походе семьи Атаян Александра:",
+      "spans": [
+        {
+          "text": " Это подтверждает отзыв о походе семьи Атаян Александра:"
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "\"Мы ходили в поход, в поисках инопланетной жизни. По пути нам встретились растения: калина, терновник, райские яблочки и дикий виноград. Мы запускали наш космический летающий аппарат, но встретить признаки неземной сознательной жизни нам не удалось. Но мы отчаиваться не стали, а ещё больше загорелись желанием исследовать, и поэтому наши приключения не заканчиваются...\"",
+      "spans": [
+        {
+          "text": "\"Мы  ходили в поход, в поисках инопланетной жизни. По пути нам встретились  растения: калина, терновник, райские яблочки и дикий виноград. Мы  запускали наш космический летающий аппарат, но встретить признаки  неземной сознательной жизни нам не удалось. Но мы отчаиваться не стали, а  ещё больше загорелись желанием исследовать, и поэтому наши приключения  не заканчиваются...\""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/4/6/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/f/3/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/6/a/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/8/4/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/0/4/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 4"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/4/e/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 5"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/9/6/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 6"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/8/f/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 7"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/e/8/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 8"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/a/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 9"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/c/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 10"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/a/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 11"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/8/e/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 12"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/a/1/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 13"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/3/0/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 14"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/2/0/my-otkryvaem-novye-miry-gallery-normal.jpg",
+      "alt": "Мы открываем новые миры 15"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Великая Космическая Одиссея продолжается!",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Подведены итоги игры \"Космические путешествия\", в которой участвовали семьи воспитанников кружков \"Начальное космическое моделирование\" г. Макеевки , ДНР. Под руководством опытного капитана Великой Космической Одиссеи Абраменковой Элины Александровны сводный экипаж из семейных команд звездолёта \"Станции юных техников\" совершил очередной исследовательский полёт. По условиям задания за неделю семейный космический экипаж должен был найти и сфотографировать: 1. природную ровную живописную площадку удобную для высадки космического корабля. 2. пять представителей фауны планеты (насекомых, животных и т. п.) 3. пять представителей флоры планеты различных форм и цветов. 4. несколько артефактов, т.е. необычных предметов, обнаруженных на планете. С кратким описанием для чего они предназначены. 5. природный источник воды. 6. несколько источников пиши. 7. следы разумной деятельности жителей планеты. В результате Пирогов Иван и Фирсов Евгений собрали наибольшее количество фото-фактов об объектах исследования \"неизведанной планеты\", которые позволили выйти им на первое место. Второй по количеству выполненных заданий была Горбунова Лада. Третье место занял Гуменюк Александр. Высокую активность проявили Жабуринин Юрий и Мосейчук Иван. Путешествия проходили осенней порой, когда природа постепенно засыпает. Однако исследователям удалось найти последние цветы и деревья с яркой листвой, разнообразные грибы, представителей фауны, греющихся в лучах осеннего солнышка. Даже продукты питания добыли первопроходцы космоса: груши, яблоки, орехи, шиповник, терн. Обнаружены также источники воды. Но самое интересное - это артефакты, которые вдохновили на самые необычные невероятные фантазии и истории. Также путешественниками было доказано существование разумной жизни на \"неизведанной планете\" - это следы построек жилищ, технические устройства и следы письменности на стенах. В номинации \"За творческое освещение космических приключений\" отмечены Мосейчук Иван и Жабуринин Юрий. О своих приключениях и исследованиях на неведомой планете ребята составили фотоотчёты. Важным фактором успешности миссии ВКО стало участие в путешествии семейных экипажей Горбуновых и Деркаченко, Михайловых, Жабурининых, Пироговых и Фирсовых, Мосейчук, Гуменюк, Мостовых. Это подтверждает отзыв о походе семьи Атаян Александра: \"Мы ходили в поход, в поисках инопланетной жизни. По пути нам встретились растения: калина, терновник, райские яблочки и дикий виноград. Мы запускали наш космический летающий аппарат, но встретить признаки неземной сознательной жизни нам не удалось. Но мы отчаиваться не стали, а ещё больше загорелись желанием исследовать, и поэтому наши приключения не заканчиваются...\" Организаторы игры предлагают всем желающим присоединиться к исследованиям новых планет в форватере Великой Космической Одиссеи. Победители будут награждены дипломами Русского Космического Общества и сувенирами. А нас ждут новые приключения! Вперёд! В космическое будущее!",
+      "links": [
+        {
+          "title": "Великой Космической Одиссеи",
+          "url": "https://cosmatica.org/projects/vko"
+        },
+        {
+          "title": "Абраменковой Элины Александровны",
+          "url": "https://cosmatica.org/users/380"
+        },
+        {
+          "title": "количество",
+          "url": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u35/3/9/whatsapp-image-2020-11-25-at-10-46-47.jpeg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/b/7/my-otkryvaem-novye-miry-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/3/9/whatsapp-image-2020-11-25-at-10-46-47.jpeg",
+    "https://cosmatica.org/upload/000/u35/3/a/img-21b16e048d57d20ecb94c2b3b7155a01-v.jpg",
+    "https://cosmatica.org/upload/000/u35/4/6/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/f/3/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/6/a/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/8/4/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/0/4/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/4/e/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/9/6/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/8/f/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/e/8/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/5/a/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/c/c/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/c/a/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/8/e/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/a/1/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/3/0/my-otkryvaem-novye-miry-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/2/0/my-otkryvaem-novye-miry-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 3314,
+    "storedTextCharacters": 827,
+    "sourceCardCount": 0,
+    "sourceImageCount": 19,
+    "paragraphCount": 5,
+    "sourceBytes": 59031
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 3151,
+  "capturedBodyCharacters": 827,
+  "sourceTextSHA256": "bab8210b4408f6deb00b4051472426c55eb05b7ad527dcd4031c1478610a37c4",
+  "archiveSnapshotAt": "2026-10-08T09:14:14Z"
+}

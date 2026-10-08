@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/116-kolichestvo.html",
+  "title": "Количество",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это число, определяемое отношением измеряемой вели­чины к единице измерения этой величины.",
+      "spans": [
+        {
+          "text": "это число, определяемое отношением измеряемой вели­чины к единице измерения этой величины."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это число, определяемое отношением измеряемой вели­чины к единице измерения этой величины.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 101,
+    "storedTextCharacters": 90,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31784
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 90,
+  "capturedBodyCharacters": 90,
+  "sourceTextSHA256": "5355ca4cd9723232c2acef5a05654f31f8ffa16d139d05be6e89356f1e6d1f68",
+  "archiveSnapshotAt": "2026-10-08T08:46:24Z"
+}

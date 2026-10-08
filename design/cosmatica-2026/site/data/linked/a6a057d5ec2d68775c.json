@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/400-astronomija-dlja-umnenkih-detei-au-inoplanetjane.html",
+  "title": "Астрономия для умненьких детей. Ау, инопланетяне!",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/5/astronomija-dlja-umnenkih-detei-au-inoplanetjane-photo-normal.png",
+      "alt": "Астрономия для умненьких детей. Ау, инопланетяне!"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Левитан Е. П.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 34 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2401/df90cb69fa38afcdb2507d8ca4e1f072"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/5/5/astronomija-dlja-umnenkih-detei-au-inoplanetjane-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2401/df90cb69fa38afcdb2507d8ca4e1f072"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 90,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39627
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 40,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "ad8beee5f9a2228dd49117e69e2624c48e39aa6f699b1afa3ec8554b6c71a232",
+  "archiveSnapshotAt": "2026-10-08T08:49:45Z"
+}

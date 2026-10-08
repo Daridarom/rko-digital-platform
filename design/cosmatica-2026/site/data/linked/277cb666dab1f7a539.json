@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 2,
+  "slug": "project",
+  "sourceUrl": "https://cosmatica.org/projects/donate_rko",
+  "title": "Поддержать РКО",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Мы – то, что мы делаем.",
+      "spans": [
+        {
+          "text": "Мы – то, что мы делаем."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Мы делаем то, во что верим.",
+      "spans": [
+        {
+          "text": "Мы делаем то, во что верим."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Мы верим в то, что можем и должны сделать так, чтобы наш народ и наша страна вновь и уже навсегда стали лидером в деле сохранения и развития Жизни на Земле и в космосе. Русское Космическое Общество – это люди , объединившиеся в особый период , который переживает наша страна и вся Земная цивилизация. Мы объединились во имя священного дела мира и развития. Мы разные, но нас объединяет одно – Общее Дело и Общая Цель .",
+      "spans": [
+        {
+          "text": "Мы верим в то, что можем и должны сделать так, чтобы наш народ и наша страна вновь и уже навсегда стали лидером в деле сохранения и развития Жизни на Земле и в космосе. Русское Космическое Общество – это "
+        },
+        {
+          "text": "люди",
+          "href": "https://cosmatica.org/users"
+        },
+        {
+          "text": ", объединившиеся в "
+        },
+        {
+          "text": "особый период",
+          "href": "https://cosmatica.org/about/16-istoricheskaja-spravka-o-duhovnyh-i-materialnyh-kornjah-russkogo-kosmicheskogo-obschestva.html"
+        },
+        {
+          "text": ", который переживает наша страна и вся Земная цивилизация. Мы объединились во имя священного дела мира и развития. Мы разные, но нас объединяет одно – "
+        },
+        {
+          "text": "Общее Дело",
+          "href": "https://cosmatica.org/about/2-zachem-sozdano-russkoe-kosmicheskoe-obschestvo.html"
+        },
+        {
+          "text": " и "
+        },
+        {
+          "text": "Общая Цель",
+          "href": "https://cosmatica.org/about/1-memorandum.html"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "links": [
+        {
+          "text": "люди",
+          "url": "https://cosmatica.org/users"
+        },
+        {
+          "text": "особый период",
+          "url": "https://cosmatica.org/about/16-istoricheskaja-spravka-o-duhovnyh-i-materialnyh-kornjah-russkogo-kosmicheskogo-obschestva.html"
+        },
+        {
+          "text": "Общее Дело",
+          "url": "https://cosmatica.org/about/2-zachem-sozdano-russkoe-kosmicheskoe-obschestvo.html"
+        },
+        {
+          "text": "Общая Цель",
+          "url": "https://cosmatica.org/about/1-memorandum.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Достичь успеха можно только делами. Слов не достаточно. Только результаты, выраженные и проявленные в реальном мире – есть мерило эффективности деятельности.",
+      "spans": [
+        {
+          "text": "Достичь успеха можно только делами. Слов не достаточно. Только результаты, выраженные и проявленные в реальном мире – есть мерило эффективности деятельности."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Знакомьтесь с плодами наших трудов . Познакомившись, присоединяйтесь , или поддержите нас в тех делах, которые мы совершаем. Вы можете поддержать конкретный проект или деятельность Русского Космического Общества в целом. Вместе с Вами мы сделаем то, что должны!",
+      "spans": [
+        {
+          "text": "Знакомьтесь с "
+        },
+        {
+          "text": "плодами наших трудов",
+          "href": "https://cosmatica.org/news"
+        },
+        {
+          "text": ". Познакомившись, "
+        },
+        {
+          "text": "присоединяйтесь",
+          "href": "https://cosmatica.org/o-vstuplenii-v-rjady-rko.html"
+        },
+        {
+          "text": ", или поддержите нас в тех делах, которые мы совершаем. Вы можете поддержать конкретный "
+        },
+        {
+          "text": "проект",
+          "href": "https://cosmatica.org/projects"
+        },
+        {
+          "text": " или деятельность Русского Космического Общества в целом.\n\nВместе с Вами мы сделаем то, что должны!\n\n"
+        }
+      ],
+      "links": [
+        {
+          "text": "плодами наших трудов",
+          "url": "https://cosmatica.org/news"
+        },
+        {
+          "text": "присоединяйтесь",
+          "url": "https://cosmatica.org/o-vstuplenii-v-rjady-rko.html"
+        },
+        {
+          "text": "проект",
+          "url": "https://cosmatica.org/projects"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 905,
+    "storedTextCharacters": 886,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 6,
+    "sourceBytes": 32629
+  },
+  "textFallbackRequired": false,
+  "originalKind": "project",
+  "sourceTextCharacters": 905,
+  "capturedBodyCharacters": 886,
+  "sourceTextSHA256": "9a95e883c75b332b6e1b562b336b1dc85d8b0725fbde9937bf5de4831f3732d5",
+  "archiveSnapshotAt": "2026-10-08T09:17:08Z"
+}

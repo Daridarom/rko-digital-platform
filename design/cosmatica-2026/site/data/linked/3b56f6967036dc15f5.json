@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/288-namechena-data-provedenija-tropy-muzhestva-v-2019-godu.html",
+  "title": "Намечена дата проведения Тропы мужества в 2019 году",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Москва",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/c1/65/namechena-data-provedenija-tropy-muzhestva-v-2019-godu-photo-normal.jpg",
+      "alt": "Намечена дата проведения Тропы мужества в 2019 году"
+    },
+    {
+      "type": "paragraph",
+      "text": "Мероприятие будет проводиться в районе с. Ворсино Боровского района на границе Московской и Калужской областей.",
+      "spans": [
+        {
+          "text": "Мероприятие будет проводиться в районе с. Ворсино Боровского района на границе Московской и Калужской областей."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Дистанции: — 15 км до 1 КТ и обратно (детская); — ~45 км верхняя петля (начальная дистанция); — ~70 км две петли (базовая); — ~110 км две петли + верхняя (марафонская дистанция).",
+      "spans": [
+        {
+          "text": "Дистанции:",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " — 15 км до 1 КТ и обратно (детская);— ~45 км верхняя петля (начальная дистанция);— ~70 км две петли (базовая);— ~110 км две петли + верхняя (марафонская дистанция)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Масс-старт для дистанций 110 км, 70 км и 45 км в 4:00*. Старт детской дистанции в 10:00*.",
+      "spans": [
+        {
+          "text": "Масс-старт для дистанций 110 км, 70 км и 45 км в 4:00*.Старт детской дистанции в 10:00*."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "*Обращаем внимание, что данное положение может быть изменено по усмотрению Организаторов.",
+      "spans": [
+        {
+          "text": "*Обращаем внимание, что данное положение может быть изменено по усмотрению Организаторов."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Следите за новостями и готовьтесь к новым впечатлениям!",
+      "spans": [
+        {
+          "text": "Следите за новостями и готовьтесь к новым впечатлениям!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Встретимся на ТРОПЕ! Места и впечатлений хватит на всех!",
+      "spans": [
+        {
+          "text": "Встретимся на ТРОПЕ! Места и впечатлений хватит на всех!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Соревнования проводятся Группой «ТРОПА МУЖЕСТВА», при непосредственном участии и поддержке:",
+      "spans": [
+        {
+          "text": "Соревнования проводятся Группой «ТРОПА МУЖЕСТВА», при непосредственном участии и поддержке:",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Клуба ветеранов специальной разведки ВМФ «Фрог-клуб»;",
+      "spans": [
+        {
+          "text": "- Клуба ветеранов специальной разведки ВМФ «Фрог-клуб»;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Администрации Калужской области;",
+      "spans": [
+        {
+          "text": "- Администрации Калужской области;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Администрации Боровского района;",
+      "spans": [
+        {
+          "text": "- Администрации Боровского района;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Организации «Морской Комплексной Безопасности»;",
+      "spans": [
+        {
+          "text": "- Организации «Морской Комплексной Безопасности»;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Организации Русское Космическое Общество;",
+      "spans": [
+        {
+          "text": "- Организации Русское Космическое Общество;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Компании «СПЛАВ»;",
+      "spans": [
+        {
+          "text": "- Компании «СПЛАВ»;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Компании Мобильные бани «Мобиба Москва».",
+      "spans": [
+        {
+          "text": "- Компании Мобильные бани «Мобиба Москва»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Страница проекта: https://cosmatica.org/projects/tropa-muzhestva",
+      "spans": [
+        {
+          "text": "Страница проекта: "
+        },
+        {
+          "text": "https://cosmatica.org/projects/tropa-muzhestva",
+          "href": "https://cosmatica.org/projects/tropa-muzhestva"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/projects/tropa-muzhestva",
+          "url": "https://cosmatica.org/projects/tropa-muzhestva"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сайт: www.natrope.com",
+      "spans": [
+        {
+          "text": "Сайт: "
+        },
+        {
+          "text": "www.natrope.com",
+          "href": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com&amp;post=-108798861_7588&amp;cc_key="
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "www.natrope.com",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com&amp;post=-108798861_7588&amp;cc_key="
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Контакты: www.natrope.com/contacts.html",
+      "spans": [
+        {
+          "text": "Контакты: "
+        },
+        {
+          "text": "www.natrope.com/contacts.html",
+          "href": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com%2Fcontacts.html&amp;post=-108798861_7588&amp;cc_key="
+        }
+      ],
+      "links": [
+        {
+          "text": "www.natrope.com/contacts.html",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com%2Fcontacts.html&amp;post=-108798861_7588&amp;cc_key="
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "22 июня 2019 года пройдёт очередной этап «Тропы мужества».",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Мероприятие будет проводиться в районе с. Ворсино Боровского района на границе Московской и Калужской областей. Дистанции: — 15 км до 1 КТ и обратно (детская); — ~45 км верхняя петля (начальная дистанция); — ~70 км две петли (базовая); — ~110 км две петли + верхняя (марафонская дистанция). Масс-старт для дистанций 110 км, 70 км и 45 км в 4:00*. Старт детской дистанции в 10:00*. *Обращаем внимание, что данное положение может быть изменено по усмотрению Организаторов. Следите за новостями и готовьтесь к новым впечатлениям! Встретимся на ТРОПЕ! Места и впечатлений хватит на всех! Соревнования проводятся Группой «ТРОПА МУЖЕСТВА», при непосредственном участии и поддержке: - Клуба ветеранов специальной разведки ВМФ «Фрог-клуб»; - Администрации Калужской области; - Администрации Боровского района; - Организации «Морской Комплексной Безопасности»; - Организации Русское Космическое Общество; - Компании «СПЛАВ»; - Компании Мобильные бани «Мобиба Москва». Страница проекта: https://cosmatica.org/projects/tropa-muzhestva Сайт: www.natrope.com Контакты: www.natrope.com/contacts.html",
+      "links": [
+        {
+          "title": "https://cosmatica.org/projects/tropa-muzhestva",
+          "url": "https://cosmatica.org/projects/tropa-muzhestva"
+        },
+        {
+          "title": "www.natrope.com",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com&amp;post=-108798861_7588&amp;cc_key="
+        },
+        {
+          "title": "www.natrope.com/contacts.html",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fwww.natrope.com%2Fcontacts.html&amp;post=-108798861_7588&amp;cc_key="
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/c1/65/namechena-data-provedenija-tropy-muzhestva-v-2019-godu-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1331,
+    "storedTextCharacters": 1087,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 20,
+    "sourceBytes": 48001
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1161,
+  "capturedBodyCharacters": 1087,
+  "sourceTextSHA256": "7050448de8e3d5fd352f3d025b4eb68caad7e8b6f5de531c96017258b9ef59ae",
+  "archiveSnapshotAt": "2026-10-08T09:11:04Z"
+}

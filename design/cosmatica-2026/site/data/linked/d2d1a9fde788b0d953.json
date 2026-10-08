@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/219-pervye-v-mire.html",
+  "title": "Первые в мире",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/5/f/pervye-v-mire-photo-normal.jpg",
+      "alt": "Первые в мире"
+    },
+    {
+      "type": "paragraph",
+      "text": "оставители и авторы текста:\r\nВ. Ф. НЕСТЕРОВА (руководитель), В. И. ИСАЕВА,\r\nВ. В. КАЗАНСКИЙ, Н. А. КУЗЬМИЧЕВ,\r\nО. А. МИХАЙЛОВ, Т. Н. МУСАТОВА, Т. И. РЕЗНИКОВА,\r\nА. В. СЕРЕГИН, В. Н. УСПЕНСКАЯ, Л. В. УСПЕНСКАЯ\r\nХудожники:\r\nА. П. БИРЮКОВ,\r\nЮ. В. КЕРШИН",
+      "spans": [
+        {
+          "text": "оставители и авторы текста:\r\nВ. Ф. НЕСТЕРОВА (руководитель), В. И. ИСАЕВА,\r\nВ. В. КАЗАНСКИЙ, Н. А. КУЗЬМИЧЕВ,\r\nО. А. МИХАЙЛОВ, Т. Н. МУСАТОВА, Т. И. РЕЗНИКОВА,\r\nА. В. СЕРЕГИН, В. Н. УСПЕНСКАЯ, Л. В. УСПЕНСКАЯ\r\nХудожники:\r\nА. П. БИРЮКОВ,\r\nЮ. В. КЕРШИН"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "ДОКУМЕНТЫ ГОСУДАРСТВЕННОГО АРХИВНОГО ФОНДА СССР",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "оставители и авторы текста: В. Ф. НЕСТЕРОВА (руководитель), В. И. ИСАЕВА, В. В. КАЗАНСКИЙ, Н. А. КУЗЬМИЧЕВ, О. А. МИХАЙЛОВ, Т. Н. МУСАТОВА, Т. И. РЕЗНИКОВА, А. В. СЕРЕГИН, В. Н. УСПЕНСКАЯ, Л. В. УСПЕНСКАЯ Художники: А. П. БИРЮКОВ, Ю. В. КЕРШИН",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 42 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1557/953490b89eaefeeb28e663ccd0f500b8"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/5/f/pervye-v-mire-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1557/953490b89eaefeeb28e663ccd0f500b8"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 332,
+    "storedTextCharacters": 250,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39985
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 318,
+  "capturedBodyCharacters": 250,
+  "sourceTextSHA256": "3728da5b31689bb2d735c48e34b24f0690e3570c7212ae114ef268304a6c472f",
+  "archiveSnapshotAt": "2026-10-08T08:48:05Z"
+}

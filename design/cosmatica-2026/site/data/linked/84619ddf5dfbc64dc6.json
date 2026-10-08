@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/118-innovacija.html",
+  "title": "Инновация",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это конечный результат внедрения новшеств с целью из­менения объекта управления и получения экономического, социаль­ного, экологического, научно-технического или другого вида эффекта. Инновация –",
+      "spans": [
+        {
+          "text": "это конечный результат внедрения новшеств с целью из­менения объекта управления и получения экономического, социаль­ного, экологического, научно-технического или другого вида эффекта. Инновация –"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "новация",
+      "spans": [
+        {
+          "text": "новация"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "на стадии реализации, дающая эффект.",
+      "spans": [
+        {
+          "text": "на стадии реализации, дающая эффект."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это конечный результат внедрения новшеств с целью из­менения объекта управления и получения экономического, социаль­ного, экологического, научно-технического или другого вида эффекта. Инновация – новация на стадии реализации, дающая эффект.",
+      "links": [
+        {
+          "title": "новация",
+          "url": "https://cosmatica.org/glossary/94-novacija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 250,
+    "storedTextCharacters": 238,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32444
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 240,
+  "capturedBodyCharacters": 238,
+  "sourceTextSHA256": "766435e810cdcd8ea1afed833bbd743400e7737056fb4dbcceff6c253aa6b282",
+  "archiveSnapshotAt": "2026-10-08T08:46:25Z"
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/167-vremennye-peremennye-aksiomy.html",
+  "title": "Временные (переменные) аксиомы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "неявные аксиомы или условия, границы применения, ограничения теории.",
+      "spans": [
+        {
+          "text": "неявные аксиомы или условия, границы применения, ограничения теории."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "неявные аксиомы или условия, границы применения, ограничения теории.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 99,
+    "storedTextCharacters": 68,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31787
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 68,
+  "capturedBodyCharacters": 68,
+  "sourceTextSHA256": "98a59beb444891510108bb2bc249420235238abbcacb174383373c051cd350f7",
+  "archiveSnapshotAt": "2026-10-08T08:46:39Z"
+}

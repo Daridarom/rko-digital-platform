@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/69",
+  "title": "Наталья Васильевна Радюк",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u69/b3/33/40ff7f38.jpg",
+      "alt": "Наталья Васильевна Радюк"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 1"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u69/b4/d6/1546c6a7.jpg",
+      "alt": "Наталья Васильевна Радюк"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 1"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Муниципальное бюджетное учреждение культуры Музей — заповедник Сундуки под открытым небом",
+      "spans": [
+        {
+          "text": "Муниципальное бюджетное учреждение культуры Музей — заповедник Сундуки под открытым небом"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Экскурсовод, научный сотрудник",
+      "spans": [
+        {
+          "text": "Экскурсовод, научный сотрудник"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Республика Хакасия",
+      "links": [
+        {
+          "title": "Республика Хакасия",
+          "url": "https://cosmatica.org/departments/5-respublika-hakasija.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Муниципальное бюджетное учреждение культуры Музей — заповедник Сундуки под открытым небом Экскурсовод, научный сотрудник",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u69/b3/33/40ff7f38.jpg",
+    "https://cosmatica.org/upload/000/u69/b4/d6/1546c6a7.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 240,
+    "storedTextCharacters": 179,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36417
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 160,
+  "capturedBodyCharacters": 179,
+  "sourceTextSHA256": "8a6a009e115f3032e5c90480712e9025686d0abee616363bcba92067b11a1160",
+  "archiveSnapshotAt": "2026-10-08T09:21:47Z"
+}

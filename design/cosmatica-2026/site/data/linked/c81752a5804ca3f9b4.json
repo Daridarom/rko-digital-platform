@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/70-process-poiska-i-pretvorenija-v-zhizn-neobhodimyh-izmenenii.html",
+  "title": "Процесс поиска и претворения в жизнь необходимых изменений",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "есть твор­ческий процесс. Источником этого процесса являются идеи, а целью – воплощение идеи в работающую конструкцию, которая и дает об­ществу новые возможности удовлетворять свои потребности, как теку­щие, так и будущие.",
+      "spans": [
+        {
+          "text": "есть твор­ческий процесс. Источником этого процесса являются идеи, а целью – воплощение идеи в работающую конструкцию, которая и дает об­ществу новые возможности удовлетворять свои потребности, как теку­щие, так и будущие."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "есть твор­ческий процесс. Источником этого процесса являются идеи, а целью – воплощение идеи в работающую конструкцию, которая и дает об­ществу новые возможности удовлетворять свои потребности, как теку­щие, так и будущие.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 281,
+    "storedTextCharacters": 222,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32635
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 222,
+  "capturedBodyCharacters": 222,
+  "sourceTextSHA256": "dc5a87a7448940a14569a546c5e142f73e8bf0640bdd7ef841a274d7db5e0a90",
+  "archiveSnapshotAt": "2026-10-08T08:47:02Z"
+}

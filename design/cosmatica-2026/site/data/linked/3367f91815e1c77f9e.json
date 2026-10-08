@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/538-v-den-rozhdenija-k-e-ciolkovskogo.html",
+  "title": "В День рождения К.Э.Циолковского",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/f/2/9e9937e2.jpg",
+      "alt": "В День рождения К.Э.Циолковского"
+    },
+    {
+      "type": "paragraph",
+      "text": "17 сентября 1857 года, родился Константин Эдуардович Циолковский, простой школьный учитель и великий изобретатель, учёный-самоучка, ставший отцом-основоположником современной космонавтики.",
+      "spans": [
+        {
+          "text": "17 сентября 1857 года, родился Константин Эдуардович Циолковский, простой школьный учитель и великий изобретатель, учёный-самоучка, ставший отцом-основоположником современной космонавтики."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Гений, непонятый и непризнанный современниками, многие годы упорно шедший к своей мечте. Его стремлению к звездам не помешали ни бедность, ни глухота, ни изолированность от отечественного научного сообщества. Он продолжал трудиться и творить. Лишь к закату жизни, с приходом новой Советской власти, его труды стали востребованы для нового великого будущего Человечества. Циолковский являет для нас яркий пример стойкости и веры, стремления к поставленным целям и самопожертвования, личного героизма и самоотверженного служения Делу во имя общего космического будущего Человечества.",
+      "spans": [
+        {
+          "text": "Гений,  непонятый и непризнанный современниками, многие годы упорно шедший к  своей мечте. Его стремлению к звездам не помешали ни бедность, ни  глухота, ни изолированность от отечественного научного сообщества.  Он продолжал трудиться и творить. Лишь к закату жизни, с приходом новой  Советской власти, его труды стали востребованы для нового великого  будущего Человечества.Циолковский являет для нас яркий пример  стойкости и веры, стремления к поставленным целям и самопожертвования,  личного героизма и самоотверженного служения Делу во имя общего  космического будущего Человечества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Содержание работ К.Э. Циолковского не только не утратило своего значения с течением времени, но и становится все более актуальным. Как космист, К.Э. Циолковский искал универсальные подходы к разрешению острых мировоззренческих и социальных проблем. Позиция, выработанная им, заслуживает пристального внимания со стороны всех, кто хотел бы способствовать миролюбию, развитию деятельной и нравственной человеческой натуры, совершенствованию общественных институтов и преображению человеческого общества в Целом.",
+      "spans": [
+        {
+          "text": "Содержание работ К.Э.  Циолковского не только не утратило своего значения с течением времени,  но и становится все более актуальным.  Как космист, К.Э.  Циолковский искал универсальные подходы к разрешению острых  мировоззренческих и социальных проблем. Позиция, выработанная им,  заслуживает пристального внимания со стороны всех, кто хотел бы  способствовать миролюбию, развитию деятельной и нравственной  человеческой натуры, совершенствованию общественных институтов и  преображению человеческого общества в Целом."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ознакомиться с трудами этого выдающегося человека можно на сайте РКО:",
+      "spans": [
+        {
+          "text": "Ознакомиться с трудами этого выдающегося человека можно на сайте РКО:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://cosmatica.org/library/1-ciolkovskii-konsta...",
+      "spans": [
+        {
+          "text": "https://cosmatica.org/library/1-ciolkovskii-konsta...",
+          "href": "https://cosmatica.org/library/1-ciolkovskii-konstantin-eduardovich-schit-nauchnoi-very.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/library/1-ciolkovskii-konsta...",
+          "url": "https://cosmatica.org/library/1-ciolkovskii-konstantin-eduardovich-schit-nauchnoi-very.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://cosmatica.org/library/15-ciolkovskii-konst...",
+      "spans": [
+        {
+          "text": "https://cosmatica.org/library/15-ciolkovskii-konst...",
+          "href": "https://cosmatica.org/library/15-ciolkovskii-konstantin-eduardovich-promyshlennoe-osvoenie-kosmosa.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/library/15-ciolkovskii-konst...",
+          "url": "https://cosmatica.org/library/15-ciolkovskii-konstantin-eduardovich-promyshlennoe-osvoenie-kosmosa.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://cosmatica.org/library/16-ciolkovskii-konst...",
+      "spans": [
+        {
+          "text": "https://cosmatica.org/library/16-ciolkovskii-konst...",
+          "href": "https://cosmatica.org/library/16-ciolkovskii-konstantin-eduardovich-vne-zemli.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/library/16-ciolkovskii-konst...",
+          "url": "https://cosmatica.org/library/16-ciolkovskii-konstantin-eduardovich-vne-zemli.html"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "DQolGGkNW2w",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=DQolGGkNW2w"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "162 года назад явился в этот мир основоположник космического будущего Человечества.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "17 сентября 1857 года, родился Константин Эдуардович Циолковский, простой школьный учитель и великий изобретатель, учёный-самоучка, ставший отцом-основоположником современной космонавтики. Гений, непонятый и непризнанный современниками, многие годы упорно шедший к своей мечте. Его стремлению к звездам не помешали ни бедность, ни глухота, ни изолированность от отечественного научного сообщества. Он продолжал трудиться и творить. Лишь к закату жизни, с приходом новой Советской власти, его труды стали востребованы для нового великого будущего Человечества. Циолковский являет для нас яркий пример стойкости и веры, стремления к поставленным целям и самопожертвования, личного героизма и самоотверженного служения Делу во имя общего космического будущего Человечества. Содержание работ К.Э. Циолковского не только не утратило своего значения с течением времени, но и становится все более актуальным. Как космист, К.Э. Циолковский искал универсальные подходы к разрешению острых мировоззренческих и социальных проблем. Позиция, выработанная им, заслуживает пристального внимания со стороны всех, кто хотел бы способствовать миролюбию, развитию деятельной и нравственной человеческой натуры, совершенствованию общественных институтов и преображению человеческого общества в Целом. Ознакомиться с трудами этого выдающегося человека можно на сайте РКО: https://cosmatica.org/library/1-ciolkovskii-konsta... https://cosmatica.org/library/15-ciolkovskii-konst... https://cosmatica.org/library/16-ciolkovskii-konst...",
+      "links": [
+        {
+          "title": "https://cosmatica.org/library/1-ciolkovskii-konsta...",
+          "url": "https://cosmatica.org/library/1-ciolkovskii-konstantin-eduardovich-schit-nauchnoi-very.html"
+        },
+        {
+          "title": "https://cosmatica.org/library/15-ciolkovskii-konst...",
+          "url": "https://cosmatica.org/library/15-ciolkovskii-konstantin-eduardovich-promyshlennoe-osvoenie-kosmosa.html"
+        },
+        {
+          "title": "https://cosmatica.org/library/16-ciolkovskii-konst...",
+          "url": "https://cosmatica.org/library/16-ciolkovskii-konstantin-eduardovich-vne-zemli.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/f/2/9e9937e2.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1804,
+    "storedTextCharacters": 1517,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 7,
+    "sourceBytes": 48380
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1661,
+  "capturedBodyCharacters": 1517,
+  "sourceTextSHA256": "c70110418fda97b1ac576f2cb50052aa38e1a2a222342fe4422278d940874db5",
+  "archiveSnapshotAt": "2026-10-08T09:12:20Z",
+  "publicVideoCount": 1
+}

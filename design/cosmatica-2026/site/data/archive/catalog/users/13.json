@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "users",
+  "title": "Участники РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 13,
+  "pageCount": 16,
+  "total": 235,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Мария Александровна Фонякова (Иванова)",
+      "description": "",
+      "url": "https://cosmatica.org/users/396",
+      "image": "https://cosmatica.org/upload/000/u35/6/f/4690e889.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=67d67e6dbc1276dd12",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Александр Александрович Карпачёв",
+      "description": "С 1984 года активный участник, пропагандист и организатор общественных движений СССР и России за Трезвый здоровый образ жизни (ТЗОЖ): Союз борьбы за народную трезвость (СБНТ).",
+      "url": "https://cosmatica.org/users/40",
+      "image": "https://cosmatica.org/upload/000/u26/10/95/ad31ba9e.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=f585006429cd5ce6ee",
+      "type": "profile",
+      "sourceCharacters": 2802,
+      "verified": false
+    },
+    {
+      "title": "Михаил Константинович Низавитин",
+      "description": "Руководитель коллективной радиостанции. Педагог, радиолюбитель",
+      "url": "https://cosmatica.org/users/416",
+      "image": "https://cosmatica.org/upload/000/u35/c/a/8a0081e7.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=83154b2e96c1c02dbf",
+      "type": "profile",
+      "sourceCharacters": 102,
+      "verified": false
+    },
+    {
+      "title": "Валентин Яковлевич Дедов",
+      "description": "Основатель «Народного музея» в Малой Пурге",
+      "url": "https://cosmatica.org/users/417",
+      "image": "https://cosmatica.org/upload/000/u35/0/1/5e066156.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a84e3ff13d2dde3460",
+      "type": "profile",
+      "sourceCharacters": 85,
+      "verified": false
+    },
+    {
+      "title": "Валерий Яковлевич Васильев",
+      "description": "",
+      "url": "https://cosmatica.org/users/418",
+      "image": "https://cosmatica.org/upload/000/u35/e/9/ee6d8ea0.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a7feeb0e72748f643e",
+      "type": "profile",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Татьяна Михайловна Дмитриева",
+      "description": "Директор МАУДО ДЮЦ «На Комсомольской», г. Калининград.",
+      "url": "https://cosmatica.org/users/419",
+      "image": "https://cosmatica.org/upload/000/u35/7/d/bc918a79.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=15536ccb7a2ed68f50",
+      "type": "profile",
+      "sourceCharacters": 99,
+      "verified": false
+    },
+    {
+      "title": "Крымское отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/42",
+      "image": "https://cosmatica.org/upload/000/u26/c2/b9/8c087b18.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=82bdd76c752af69a71",
+      "type": "profile",
+      "sourceCharacters": 10,
+      "verified": false
+    },
+    {
+      "title": "Николай Алексеевич Мельниченко",
+      "description": "",
+      "url": "https://cosmatica.org/users/420",
+      "image": "https://cosmatica.org/upload/000/u35/5/c/3cc2b895.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=241c895f9b070000eb",
+      "type": "profile",
+      "sourceCharacters": 34,
+      "verified": false
+    },
+    {
+      "title": "Александр Иванович Лазуткин",
+      "description": "Продолжительность полета — 184 суток 22 часа 7 минут 40 секунд",
+      "url": "https://cosmatica.org/users/427",
+      "image": "https://cosmatica.org/upload/000/u35/6/1/ab436f12.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=d4358d3d892e859395",
+      "type": "profile",
+      "sourceCharacters": 7483,
+      "verified": false
+    },
+    {
+      "title": "Хакасское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/43",
+      "image": "https://cosmatica.org/upload/000/u26/f1/34/c50e50f9.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=bacf5814f7d7260631",
+      "type": "profile",
+      "sourceCharacters": 10,
+      "verified": false
+    },
+    {
+      "title": "Костромское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/433",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=f51945f41cb18e887b",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Артём Валентинович Фоменко",
+      "description": "Донецкий национальный технический университет, 2017г",
+      "url": "https://cosmatica.org/users/435",
+      "image": "https://cosmatica.org/upload/000/u35/3/4/2ab6c2b6.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=8e219405639a8e4d60",
+      "type": "profile",
+      "sourceCharacters": 200,
+      "verified": false
+    },
+    {
+      "title": "Свердловское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/44",
+      "image": "https://cosmatica.org/upload/000/u26/6e/24/f7350d38.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=e15682a20d46c89eb4",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Станислав Алексеевич Мезенцев",
+      "description": "Врач по основному образованию, философ, целитель, сторонник и пропагандист высокой экологической культуры.",
+      "url": "https://cosmatica.org/users/449",
+      "image": "https://cosmatica.org/upload/000/u35/c/4/6f2fe01f.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=440217428203034195",
+      "type": "profile",
+      "sourceCharacters": 2281,
+      "verified": false
+    },
+    {
+      "title": "Сергей Иванович Сухонос",
+      "description": "Кандидат технических наук, генеральный директор фирмы «Рус-Атлант».",
+      "url": "https://cosmatica.org/users/45",
+      "image": "https://cosmatica.org/upload/000/u8/fe/a5/193d4454.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=76c953b5d5904fa788",
+      "type": "profile",
+      "sourceCharacters": 622,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

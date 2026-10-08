@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 68,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "День русского языка в музее Славянской культуры имени Константина Васильева",
+      "description": "В Москве в помещении музея Славянской культуры имени Константина Васильева состоялось совместное собрание Координационного совета ФНС и Совета музея Славянской культуры имени Константина Васильева.",
+      "url": "https://cosmatica.org/news/1091-den-russkogo-jazyka-v-muzee-slavjanskoi-kultury-imeni-konstantina-vasileva.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/6/e990b77b.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=13e8f759759a0450b9",
+      "type": "news-item",
+      "sourceCharacters": 4398,
+      "verified": false
+    },
+    {
+      "title": "Космическая тропа. День второй",
+      "description": "Первой контрольной точкой был назначен нахабинский полигон. Московская область, Нахабино, военно-инженерный испытательный полигон – место запуска первых отечественных жидкостных ракет ГИРД-09 и ГИРД-Х в 1933 году.",
+      "url": "https://cosmatica.org/news/1090-kosmicheskaja-tropa-den-vtoroi.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/1/05eb49eb.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5a108bc3fa33ad5680",
+      "type": "news-item",
+      "sourceCharacters": 2229,
+      "verified": false
+    },
+    {
+      "title": "Киноуроки в Беларуси",
+      "description": "Три месяца назад, в марте этого года представители Русского Космического Общества и АНО \"Интелрост\" побывали в Бресте. Поводом для поездки послужила первая международная премьера фильма \"ЭРА\" и презентация проекта \"Киноуроки в школах России\" для представителей системы образования Республики Беларусь. Подробности этой поездки можно прочитать в по ссылке: https://cosmatica.org/news/1010-era-vzletela-na-me...",
+      "url": "https://cosmatica.org/news/1089-kinouroki-v-belarusi.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/0/kinouroki-v-belarusi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7ec4e1cd446d5d3b8c",
+      "type": "news-item",
+      "sourceCharacters": 1550,
+      "verified": false
+    },
+    {
+      "title": "Вперёд! По космической тропе",
+      "description": "Говорят, что дождь в дорогу - хорошая примета. Сегодняшним утром он щедро орошал подмосковную землю, обещая добрый путь нашим героям.",
+      "url": "https://cosmatica.org/news/1088-vperyod-po-kosmicheskoi-trope.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/6/vperyod-po-kosmicheskoi-trope-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=aa9d0f27787d286401",
+      "type": "news-item",
+      "sourceCharacters": 2714,
+      "verified": false
+    },
+    {
+      "title": "Доклады секции «Практическая космонавтика: прошлое-настоящее-будущее».",
+      "description": "Триединство космической философии, космического права и космической деятельности не вызывает сомнений. Без осознания того факта, что философия, право и предметная космическая деятельность неразрывно связаны между собой, дальнейшее освоение космоса теряет свои законные, определяемые эволюционным развитием, основания.",
+      "url": "https://cosmatica.org/news/1087-doklady-sekcii-sekcii-prakticheskaja-kosmonavtika-proshloe-nastojaschee-buduschee.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/2/doklady-sekcii-prakticheskaja-kosmonavtika-proshloe-nastojaschee-bud.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c55f85be5fd95de782",
+      "type": "news-item",
+      "sourceCharacters": 3462,
+      "verified": false
+    },
+    {
+      "title": "Хроники космических \"Сундуков\"",
+      "description": "Много ли на Земле людей, живущих масштабами Вселенной? А в России? Не так много, скажем откровенно. Но, нам с вами предстоит сделать так, чтобы их стало достаточно, для того, чтобы мечты о ноосферно-космическом будущем стали явью. И вот, для того, чтобы приблизить этот миг, во многих уголках нашей страны трудятся энтузиасты-просветители, несущие свет знаний о Космосе, Вселенной и устройстве мира в целом. Одними из оч",
+      "url": "https://cosmatica.org/news/1086-hroniki-sundukov.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/3/85aa4ac0.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cb29d52a66a7fd826f",
+      "type": "news-item",
+      "sourceCharacters": 2051,
+      "verified": false
+    },
+    {
+      "title": "Доклады секции \"Космическая философия и космическое право\"",
+      "description": "Триединство космической философии, космического права и космической деятельности не вызывает сомнений. Без осознания того факта, что философия, право и предметная космическая деятельность неразрывно связаны между собой, дальнейшее освоение космоса теряет свои законные, определяемые эволюционным развитием, основания.",
+      "url": "https://cosmatica.org/news/1085-doklady-sekcii-kosmicheskaja-filosofija-i-kosmicheskoe-pravo.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/e/kosmicheskaja-filosofija-i-kosmicheskoe-pravo-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8cf5e2b77e1847db78",
+      "type": "news-item",
+      "sourceCharacters": 2447,
+      "verified": false
+    },
+    {
+      "title": "Боровск - будущий центр Ноосферной педагогики",
+      "description": "Основным поводом для поездки стало посещение Ноосферной школы .",
+      "url": "https://cosmatica.org/news/1084-borovsk-noosfernyi.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/4/borovsk-noosfernyi-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5c3e51ceed021b402c",
+      "type": "news-item",
+      "sourceCharacters": 9192,
+      "verified": false
+    },
+    {
+      "title": "Будет ПИР на весь Мир!",
+      "description": "« Общество, способное использовать идеи, появляющиеся в сознании отдельного индивидуума, для роста возможностей общества в целом и использующее рост возможностей общества как целого для формирования индивидуума, способного генерировать новые идеи, — будет обладать наиболее быстрым темпом роста возможностей ».",
+      "url": "https://cosmatica.org/news/1082-budet-pir-na-ves-mir.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/0/budet-pir-na-ves-mir-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0887dee95301609b86",
+      "type": "news-item",
+      "sourceCharacters": 10270,
+      "verified": false
+    },
+    {
+      "title": "Философия, право, деятельность - триединство космического прорыва",
+      "description": "Лейтмотивом работы, ставшей ежегодной, конференции РКО стали следующие положения.",
+      "url": "https://cosmatica.org/news/1081-filosofija-pravo-dejatelnost-triada-kosmicheskogo-proryva.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/d/263fca07.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ba079ef187027ba333",
+      "type": "news-item",
+      "sourceCharacters": 22273,
+      "verified": false
+    },
+    {
+      "title": "Роль школьного и дошкольного воспитания в сплочении российского народа",
+      "description": "По результатам проведения Международной конференция «Роль школьного и дошкольного воспитания в сплочении российского народа» будут подготовлены и опубликованы Рекомендации.",
+      "url": "https://cosmatica.org/news/1080-rol-shkolnogo-i-doshkolnogo-vospitanija-v-splochenii-rossiiskogo-naroda.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/8/9fa06edb.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=975208f6ddfdfab8d3",
+      "type": "news-item",
+      "sourceCharacters": 7232,
+      "verified": false
+    },
+    {
+      "title": "Сохраняя память: Щёлкин К.И. Итоговая конференция проекта",
+      "description": "Кирилл Иванович Щёлкин – плодотворный физик-теоретик и одновременно настойчивый и успешный экспериментатор в области горения, детонации и взрыва; участник Великой Отечественной воины; один из руководителей советского атомного проекта; вместе с С.П. Королёвым, он ключевая фигура в создании ракетно-ядерного щита нашей страны, за что трижды в 1949, 1951 и 1953 годах, был представлен к высокому званию Герой Социалистичес",
+      "url": "https://cosmatica.org/news/1079-sohranjaja-pamjat-schyolkin-k-i-itogovaja-konferencija-proekta.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/5/sohranjaja-pamjat-schyolkin-k-i-itogovaja-konferencija-proekta-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=678ecea4e796877b87",
+      "type": "news-item",
+      "sourceCharacters": 8367,
+      "verified": false
+    },
+    {
+      "title": "80-й День рождения Бориса Евгеньевича Большакова",
+      "description": "Без малого три года нет с нами Бориса Евгеньевича Большакова.",
+      "url": "https://cosmatica.org/news/1075-den-rozhdenija-borisa-evgenevicha-bolshakova.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/d/den-rozhdenija-borisa-evgenevicha-bolshakova-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cf726ed1c9d222bdeb",
+      "type": "news-item",
+      "sourceCharacters": 4251,
+      "verified": false
+    },
+    {
+      "title": "Космос. ЭРА. Дети",
+      "description": "Мероприятие было организовано ГК Роскосмос для школ - победителей акции \"КиноЭкология\". В числе гостей оказались школьники из Архангельска, Калмыкии и Крыма.",
+      "url": "https://cosmatica.org/news/1083-kosmos-era-deti.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/2/53bef789.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7e871a1a19a6e458a0",
+      "type": "news-item",
+      "sourceCharacters": 1258,
+      "verified": false
+    },
+    {
+      "title": "Присяга пред павшими и живыми",
+      "description": "- Как Вы попали в РКО? Почему приняли такое решение?",
+      "url": "https://cosmatica.org/news/1077-prisjaga-pred-pavshimi-i-zhivymi.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/d/prisjaga-pred-pavshimi-i-zhivymi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1647da60b4e2bd30fc",
+      "type": "news-item",
+      "sourceCharacters": 4439,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

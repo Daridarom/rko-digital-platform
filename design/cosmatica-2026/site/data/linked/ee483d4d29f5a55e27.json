@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "slug": "article",
+  "slug": "articles-list",
   "sourceUrl": "https://cosmatica.org/articles/nauchnaja-shkola-prikladnyh-issledovanii-elektromagnitnyh-osnov-zhizni-v-solnechnoi-sisteme",
   "title": "Научная школа прикладных исследований электромагнитных основ Жизни в Солнечной системе.",
   "intro": "",
@@ -94,7 +94,184 @@
       "level": 2
     }
   ],
-  "cards": [],
+  "cards": [
+    {
+      "title": "Универсальный космический закон живого процесса. Былое и думы о будущем",
+      "description": "Универсальный космический закон живого процесса. Былое и думы о будущем Урок №11. Из серии лекций научно-образовательной секции Русского Космического Общества: \"Электромагнитная основа возникновения жизни в космосе и на Земле\". Руководитель секции: Петров Н. В. Подробнее",
+      "url": "https://cosmatica.org/articles/770-universalnyi-kosmicheskii-zakon-zhivogo-processa-byloe-i-dumy-o-buduschem.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Универсальный космический закон живого процесса. Былое и думы о будущем",
+          "url": "https://cosmatica.org/articles/770-universalnyi-kosmicheskii-zakon-zhivogo-processa-byloe-i-dumy-o-buduschem.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/770-universalnyi-kosmicheskii-zakon-zhivogo-processa-byloe-i-dumy-o-buduschem.html"
+        }
+      ]
+    },
+    {
+      "title": "Электромагнитное происхождение жизни в Солнечной системе",
+      "description": "Электромагнитное происхождение жизни в Солнечной системе Урок №10. Из серии лекций Научно-образовательной секции Русского Космического Общества: \"Электромагнитная основа возникновения жизни в космосе и на Земле\". Руководитель секции: Петров Николай Васильевич. Подробнее",
+      "url": "https://cosmatica.org/articles/769-elektromagnitnoe-proishozhdenie-zhizni-v-solnechnoi-sisteme.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Электромагнитное происхождение жизни в Солнечной системе",
+          "url": "https://cosmatica.org/articles/769-elektromagnitnoe-proishozhdenie-zhizni-v-solnechnoi-sisteme.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/769-elektromagnitnoe-proishozhdenie-zhizni-v-solnechnoi-sisteme.html"
+        }
+      ]
+    },
+    {
+      "title": "Воздействие космической погоды на погоду и климат Земли",
+      "description": "Воздействие космической погоды на погоду и климат Земли Урок №9 из серии лекций Научно-образовательной секции Русского Космического Общества: «Электромагнитная основа возникновения жизни в космосе и на Земле». Руководитель секции: Петров Николай Васильевич Подробнее",
+      "url": "https://cosmatica.org/articles/733-vozdeistvie-kosmicheskoi-pogody-na-pogodu-i-klimat-zemli.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Воздействие космической погоды на погоду и климат Земли",
+          "url": "https://cosmatica.org/articles/733-vozdeistvie-kosmicheskoi-pogody-na-pogodu-i-klimat-zemli.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/733-vozdeistvie-kosmicheskoi-pogody-na-pogodu-i-klimat-zemli.html"
+        }
+      ]
+    },
+    {
+      "title": "Работа электрического колебательного контура",
+      "description": "Работа электрического колебательного контура Урок №8 из серии лекций Научно-образовательной секции Русского Космического Общества: «Электромагнитная основа возникновения жизни в космосе и на Земле». Руководитель секции: Петров Николай Васильевич Подробнее",
+      "url": "https://cosmatica.org/articles/645-rabota-elektricheskogo-kolebatelnogo-kontura.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Работа электрического колебательного контура",
+          "url": "https://cosmatica.org/articles/645-rabota-elektricheskogo-kolebatelnogo-kontura.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/645-rabota-elektricheskogo-kolebatelnogo-kontura.html"
+        }
+      ]
+    },
+    {
+      "title": "Метрика жизни исходит из генетического Центра памяти",
+      "description": "Метрика жизни исходит из генетического Центра памяти Урок №7 из серии лекций Научно-образовательной секции Русского Космического Общества: «Электромагнитная основа возникновения жизни в космосе и на Земле». Руководитель секции: Петров Николай Васильевич Подробнее",
+      "url": "https://cosmatica.org/articles/593-metrika-zhizni-ishodit-iz-geneticheskogo-centra-pamjati.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Метрика жизни исходит из генетического Центра памяти",
+          "url": "https://cosmatica.org/articles/593-metrika-zhizni-ishodit-iz-geneticheskogo-centra-pamjati.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/593-metrika-zhizni-ishodit-iz-geneticheskogo-centra-pamjati.html"
+        }
+      ]
+    },
+    {
+      "title": "Организации живого процесса посредством стационарного и свободного электромагнитного поля.",
+      "description": "Организации живого процесса посредством стационарного и свободного электромагнитного поля. Урок №6 из серии лекций Научно-образовательной секции Русского Космического Общества: «Электромагнитная основа возникновения жизни в космосе и на Земле». Руководитель секции: Петров Николай Васильевич Подробнее",
+      "url": "https://cosmatica.org/articles/592-organizacii-zhivogo-processa-posredstvom-stacionarnogo-i-svobodnogo-elektromagnitnogo-polja.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Организации живого процесса посредством стационарного и свободного электромагнитного поля.",
+          "url": "https://cosmatica.org/articles/592-organizacii-zhivogo-processa-posredstvom-stacionarnogo-i-svobodnogo-elektromagnitnogo-polja.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/592-organizacii-zhivogo-processa-posredstvom-stacionarnogo-i-svobodnogo-elektromagnitnogo-polja.html"
+        }
+      ]
+    },
+    {
+      "title": "Пространство и время: электромагнитная природа происхождения",
+      "description": "Пространство и время: электромагнитная природа происхождения Урок №5 из серии лекций Научно-образовательной секции Русского Космического Общества: «Электромагнитная основа возникновения жизни в космосе и на Земле». Руководитель секции: Петров Николай Васильевич Подробнее",
+      "url": "https://cosmatica.org/articles/563-prostranstvo-i-vremja-elektromagnitnaja-priroda-proishozhdenija.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Пространство и время: электромагнитная природа происхождения",
+          "url": "https://cosmatica.org/articles/563-prostranstvo-i-vremja-elektromagnitnaja-priroda-proishozhdenija.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/563-prostranstvo-i-vremja-elektromagnitnaja-priroda-proishozhdenija.html"
+        }
+      ]
+    },
+    {
+      "title": "Сравнительная оценка представления о живом процессе в современной биологии и в Витакосмологии",
+      "description": "Сравнительная оценка представления о живом процессе в современной биологии и в Витакосмологии Урок №4 из серии лекций Научно-образовательной секции Русского Космического Общества: «Электромагнитная основа возникновения жизни в космосе и на Земле». Руководитель секции: Петров Николай Васильевич Подробнее",
+      "url": "https://cosmatica.org/articles/562-sravnitelnaja-ocenka-predstavlenija-o-zhivom-processe-v-sovremennoi-biologii-i-v-vitakosmologii.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Сравнительная оценка представления о живом процессе в современной биологии и в Витакосмологии",
+          "url": "https://cosmatica.org/articles/562-sravnitelnaja-ocenka-predstavlenija-o-zhivom-processe-v-sovremennoi-biologii-i-v-vitakosmologii.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/562-sravnitelnaja-ocenka-predstavlenija-o-zhivom-processe-v-sovremennoi-biologii-i-v-vitakosmologii.html"
+        }
+      ]
+    },
+    {
+      "title": "Определение, предмет, цели, основные задачи, возлагаемые на витакосмологию",
+      "description": "Определение, предмет, цели, основные задачи, возлагаемые на витакосмологию Урок №3 из серии лекций Научно-образовательной секции Русского Космического Общества: «Электромагнитная основа возникновения жизни в космосе и на Земле» Подробнее",
+      "url": "https://cosmatica.org/articles/561-opredelenie-predmet-celi-osnovnye-zadachi-vozlagaemye-na-vitakosmologiyu.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Определение, предмет, цели, основные задачи, возлагаемые на витакосмологию",
+          "url": "https://cosmatica.org/articles/561-opredelenie-predmet-celi-osnovnye-zadachi-vozlagaemye-na-vitakosmologiyu.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/561-opredelenie-predmet-celi-osnovnye-zadachi-vozlagaemye-na-vitakosmologiyu.html"
+        }
+      ]
+    },
+    {
+      "title": "Введение в ВИТАКОСМОЛОГИЮ – основу реального знания",
+      "description": "Введение в ВИТАКОСМОЛОГИЮ – основу реального знания Урок №2 из серии лекций Научно-образовательной секции Русского Космического Общества: «Электромагнитная основа возникновения жизни в космосе и на Земле» Подробнее",
+      "url": "https://cosmatica.org/articles/560-vvedenie-v-vitakosmologiyu-osnovu-realnogo-znanija.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Введение в ВИТАКОСМОЛОГИЮ – основу реального знания",
+          "url": "https://cosmatica.org/articles/560-vvedenie-v-vitakosmologiyu-osnovu-realnogo-znanija.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/560-vvedenie-v-vitakosmologiyu-osnovu-realnogo-znanija.html"
+        }
+      ]
+    },
+    {
+      "title": "Необходимость создания Витакосмологии как обобщающего знания о Вселенной",
+      "description": "Необходимость создания Витакосмологии как обобщающего знания о Вселенной Урок №1 из серии лекций Научно-образовательной секции Русского Космического Общества: «Электромагнитная основа возникновения жизни в космосе и на Земле». Современный синтез науки и религии. Подробнее",
+      "url": "https://cosmatica.org/articles/559-neobhodimost-sozdanija-vitakosmologii-kak-obobschayuschego-znanija-o-vselennoi.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Необходимость создания Витакосмологии как обобщающего знания о Вселенной",
+          "url": "https://cosmatica.org/articles/559-neobhodimost-sozdanija-vitakosmologii-kak-obobschayuschego-znanija-o-vselennoi.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/559-neobhodimost-sozdanija-vitakosmologii-kak-obobschayuschego-znanija-o-vselennoi.html"
+        }
+      ]
+    }
+  ],
   "fields": [],
   "images": [],
   "documents": [],
@@ -104,9 +281,15 @@
     "http": 200,
     "sourceTextCharacters": 4355,
     "storedTextCharacters": 2048,
-    "sourceCardCount": 0,
+    "sourceCardCount": 11,
     "sourceImageCount": 0,
     "paragraphCount": 4,
     "sourceBytes": 96362
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "articles-list",
+  "sourceTextCharacters": 4355,
+  "capturedBodyCharacters": 2048,
+  "sourceTextSHA256": "29ebe857300c6e846b2f192a2392a178361a0cd447e2d72489ed76c93608b256",
+  "archiveSnapshotAt": "2026-10-08T08:45:06Z"
 }

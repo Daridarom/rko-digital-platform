@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/71-proektirovanie.html",
+  "title": "Проектирование",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "прежде всего творческий процесс создания и реа­лизации систем, обеспечивающих возможность удовлетворять ту или иную",
+      "spans": [
+        {
+          "text": "прежде всего творческий процесс создания и реа­лизации систем, обеспечивающих возможность удовлетворять ту или иную"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "потребность",
+      "spans": [
+        {
+          "text": "потребность"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "общества. Создание таких систем делает возмож­ным то, что до этого считалось невозможным.",
+      "spans": [
+        {
+          "text": "общества. Создание таких систем делает возмож­ным то, что до этого считалось невозможным."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "прежде всего творческий процесс создания и реа­лизации систем, обеспечивающих возможность удовлетворять ту или иную потребность общества. Создание таких систем делает возмож­ным то, что до этого считалось невозможным.",
+      "links": [
+        {
+          "title": "потребность",
+          "url": "https://cosmatica.org/glossary/85-potrebnost.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 232,
+    "storedTextCharacters": 215,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32405
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 217,
+  "capturedBodyCharacters": 215,
+  "sourceTextSHA256": "d8137470e62ea6cd640636d900650413dfed289b293fd40d1cefddea65ce3121",
+  "archiveSnapshotAt": "2026-10-08T08:47:08Z"
+}

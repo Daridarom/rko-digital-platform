@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "glossary",
+  "title": "Глоссарий",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 12,
+  "pageCount": 14,
+  "total": 196,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Экология",
+      "description": "предметная область, изучающая взаимные связи и вза­имодействия между Человеком (Человечеством) и окружающей его социально-природной средой.",
+      "url": "https://cosmatica.org/glossary/11-ekologija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=809455efa7edd73bbd",
+      "type": "article",
+      "sourceCharacters": 139,
+      "verified": false
+    },
+    {
+      "title": "Экономика",
+      "description": "предметная область, изучающая потребление, произ­водство, обмен и распределение продуктов в системе «человек – об­щество – природа».",
+      "url": "https://cosmatica.org/glossary/10-ekonomika.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=9dd3fd6e12ee3bf8af",
+      "type": "article",
+      "sourceCharacters": 132,
+      "verified": false
+    },
+    {
+      "title": "Эмпирическая база",
+      "description": "принципы, законы и закономерности, открытые в науке.",
+      "url": "https://cosmatica.org/glossary/9-empiricheskaja-baza.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=fbc7fc4bec81cba5ff",
+      "type": "article",
+      "sourceCharacters": 52,
+      "verified": false
+    },
+    {
+      "title": "Энтропия",
+      "description": "преобразованной энергии, которое не спо­собно к дальнейшим превращениям (в определенных технологических условиях).",
+      "url": "https://cosmatica.org/glossary/8-entropija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=c975ee2f33a8b58332",
+      "type": "article",
+      "sourceCharacters": 125,
+      "verified": false
+    },
+    {
+      "title": "Явление",
+      "description": "это «проявление» некоторого инвариантного объекта в той или иной системе координат.",
+      "url": "https://cosmatica.org/glossary/7-javlenie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=983f9a760cc4c9bd91",
+      "type": "article",
+      "sourceCharacters": 83,
+      "verified": false
+    },
+    {
+      "title": "Явления Земной Жизни",
+      "description": "одна из многочисленных форм антидисси­пативных процессов.",
+      "url": "https://cosmatica.org/glossary/6-javlenija-zemnoi-zhizni.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=4aaa138a9c3cdb95b1",
+      "type": "article",
+      "sourceCharacters": 57,
+      "verified": false
+    },
+    {
+      "title": "Язык",
+      "description": "терминов и понятий, отражающих сущность и законо­мерности развития социально-природных систем.",
+      "url": "https://cosmatica.org/glossary/5-jazyk.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=e1a0990b4c795b7d21",
+      "type": "article",
+      "sourceCharacters": 102,
+      "verified": false
+    },
+    {
+      "title": "А",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/a",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=1e9aa1fdcf7920c87f",
+      "type": "articles-list",
+      "sourceCharacters": 52,
+      "verified": false
+    },
+    {
+      "title": "Б",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/b",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=c18bd7d1d9bfb1b8fe",
+      "type": "articles-list",
+      "sourceCharacters": 112,
+      "verified": false
+    },
+    {
+      "title": "Ц",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/c",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=5a328b6bf6fccefe16",
+      "type": "articles-list",
+      "sourceCharacters": 28,
+      "verified": false
+    },
+    {
+      "title": "Ч",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/ch",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=fc0b9290a6ac2c2418",
+      "type": "articles-list",
+      "sourceCharacters": 28,
+      "verified": false
+    },
+    {
+      "title": "Д",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/d",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=17fcc763a6bd7a312e",
+      "type": "articles-list",
+      "sourceCharacters": 155,
+      "verified": false
+    },
+    {
+      "title": "Е",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/e",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=42d2598890c1825ed6",
+      "type": "articles-list",
+      "sourceCharacters": 31,
+      "verified": false
+    },
+    {
+      "title": "Ф",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/f",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=4c10da27c42f70a4d6",
+      "type": "articles-list",
+      "sourceCharacters": 46,
+      "verified": false
+    },
+    {
+      "title": "Г",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/g",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=fce108ebd87d66dd4e",
+      "type": "articles-list",
+      "sourceCharacters": 38,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

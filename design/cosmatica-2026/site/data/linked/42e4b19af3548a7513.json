@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/120-izmeritel.html",
+  "title": "Измеритель",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "величина",
+      "spans": [
+        {
+          "text": "величина"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "– является универсальной, если выражена в терминах пространственно-временных величин. Измеритель являет­ся устойчивым, если он является инвариантом в определенном клас­се систем.",
+      "spans": [
+        {
+          "text": "– является универсальной, если выражена в терминах пространственно-временных величин. Измеритель являет­ся устойчивым, если он является инвариантом в определенном клас­се систем."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "величина – является универсальной, если выражена в терминах пространственно-временных величин. Измеритель являет­ся устойчивым, если он является инвариантом в определенном клас­се систем.",
+      "links": [
+        {
+          "title": "величина",
+          "url": "https://cosmatica.org/glossary/158-velichina.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 198,
+    "storedTextCharacters": 186,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32277
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 187,
+  "capturedBodyCharacters": 186,
+  "sourceTextSHA256": "adc9baaccd1378ea026ef60899bdc0d5949ace0a57b2b9a40e9ddb77a6b90d52",
+  "archiveSnapshotAt": "2026-10-08T08:46:26Z"
+}

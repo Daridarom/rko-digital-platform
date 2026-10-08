@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/86-pokazatel.html",
+  "title": "Показатель",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "величина",
+      "spans": [
+        {
+          "text": "величина"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "с именем и мерой, выражающая опреде­ленное свойство управляемой системы.",
+      "spans": [
+        {
+          "text": "с именем и мерой, выражающая опреде­ленное свойство управляемой системы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это величина с именем и мерой, выражающая опреде­ленное свойство управляемой системы.",
+      "links": [
+        {
+          "title": "величина",
+          "url": "https://cosmatica.org/glossary/158-velichina.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 96,
+    "storedTextCharacters": 83,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31819
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 85,
+  "capturedBodyCharacters": 83,
+  "sourceTextSHA256": "0bb2aac7cdee0d35449c501aa8136725a769206373e830a3cc216a3d6f018010",
+  "archiveSnapshotAt": "2026-10-08T08:47:18Z"
+}

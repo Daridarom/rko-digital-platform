@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/4986",
+  "title": "Сергей Васильевич Кайдаш",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/9/b/fd0828f0.jpeg",
+      "alt": "Сергей Васильевич Кайдаш"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/f/7/af543f1f.jpeg",
+      "alt": "Сергей Васильевич Кайдаш"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 4 года назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель Совета Отцов Семьи Отечества",
+      "spans": [
+        {
+          "text": "Руководитель Совета Отцов Семьи Отечества"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель Инновационного Центра Непрерывного Образования «Просвет»",
+      "spans": [
+        {
+          "text": "Руководитель Инновационного Центра Непрерывного Образования «Просвет»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Многодетность:",
+      "value": "Да",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Руководитель Совета Отцов Семьи Отечества Руководитель Инновационного Центра Непрерывного Образования «Просвет»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/9/b/fd0828f0.jpeg",
+    "https://cosmatica.org/upload/000/u35/f/7/af543f1f.jpeg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 208,
+    "storedTextCharacters": 144,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35468
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 157,
+  "capturedBodyCharacters": 144,
+  "sourceTextSHA256": "7f2f24b223b06b4d212b44e0bb6e8f4e04b694e2c6da9ec12d6b8787c5e4d99e",
+  "archiveSnapshotAt": "2026-10-08T09:20:15Z"
+}

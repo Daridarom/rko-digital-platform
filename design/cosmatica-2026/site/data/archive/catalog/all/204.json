@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 204,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "\"РКО в Лицах: Фурсей Георгий Николаевич\"",
+      "description": "Фурсей Георгий Николаевич, почетный член Русского Космического Общества,",
+      "url": "https://cosmatica.org/articles/239-rko-v-licah-fursei-georgii-nikolaevich.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=7cec5a9042bf59e56c",
+      "type": "article",
+      "sourceCharacters": 682,
+      "verified": false
+    },
+    {
+      "title": "Космодром. Космонавты. Космос",
+      "description": "Год выпуска 1971 От издателя «Восход», «Союз». В просторах космоса побывали аппараты «Зонд», «Электрон», «Метеор», «Протон», целая серия спутников Земли «Космос», «Молния». Открыты многие тайны Вселенной, и она начинает служить научно-техническому прогрессу. Но и это не все. На орбите вокруг Земли уже была создана первая экспериментальная станция, опробован",
+      "url": "https://cosmatica.org/library/239-kosmodrom-kosmonavty-kosmos.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/9/28d5cd1d.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=b694321ee925f6af62",
+      "type": "book",
+      "sourceCharacters": 1185,
+      "verified": false
+    },
+    {
+      "title": "РКО на Псковской земле",
+      "description": "Мероприятие прошло 10 ноября 2018 года в ГБОУ \"Центр специального образования N 2\" г. Пыталово Псковской области.",
+      "url": "https://cosmatica.org/news/239-rko-na-pskovskoi-zemle.html",
+      "image": "https://cosmatica.org/upload/001/u133/7b/82/rko-na-pskovskoi-zemle-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9fb3f3e498234556a2",
+      "type": "news-item",
+      "sourceCharacters": 4520,
+      "verified": false
+    },
+    {
+      "title": "Первая учредительная конференция Кемеровского отделения РКО",
+      "description": "Место проведения: Кемеровская областная научная библиотека им. В.Д. Фёдорова, ул. Дзержинского, 19, Кемерово",
+      "url": "https://cosmatica.org/poster/239-pervaja-uchreditelnaja-konferencija-kemerovskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/002/u210/b/5/pervaja-uchreditelnaja-konferencija-kemerovskogo-otdelenija-rko-phot.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=acc345bcac58e560af",
+      "type": "poster-item",
+      "sourceCharacters": 3176,
+      "verified": false
+    },
+    {
+      "title": "Ключи от Ноосферы",
+      "description": "По поводу известной фразы из «Манифеста коммунистической партии» об устранении противоречий между городом и деревней в народе ходила такая шутка: «В результате стирания различий между городом и деревней в СССР начисто стерлась деревня». Финальная стадия этого процесса произошла уже в эпоху «катастройки». Вместе с селом горе-реформаторы стерли с карты мира и сам Советский Союз.",
+      "url": "https://cosmatica.org/articles/238-klyuchi-ot-noosfery.html",
+      "image": "https://cosmatica.org/upload/000/u96/e9/20/bez-imeni-1.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=47b88b55f7f1800e46",
+      "type": "article",
+      "sourceCharacters": 18949,
+      "verified": false
+    },
+    {
+      "title": "СССР - Индия на космических орбитах",
+      "description": "Машиностроение, 1984г. Дружественные связи нашей страны и Индии насчитывают столетия. Советс- ко-индийское сотрудничество распространилось и на область изучения и освоения космического пространства. С середины 60-х годов систематически проводятся совместные исследования и эксперименты на околоземных орбитах; с помощью советских ракет-носителей были выведены на орбиты индийские спутники \"Ариа- бата\", \"Бхаскара\", \"Бхас",
+      "url": "https://cosmatica.org/library/238-sssr-indija-na-kosmicheskih-orbitah.html",
+      "image": "https://cosmatica.org/upload/000/u7/7/3/c18761cc.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=b5764d8a8fe994f596",
+      "type": "book",
+      "sourceCharacters": 970,
+      "verified": false
+    },
+    {
+      "title": "Как международные космические сообщества влияют на популяризацию космоса",
+      "description": "Приглашаем к просмотру первого интервью из цикла \" Время космоса\" с Валерием Ивановичем Токаревым - космонавтом-испытателем, Героем России, Главой Звёздного городка.",
+      "url": "https://cosmatica.org/news/238-kak-mezhdunarodnye-kosmicheskie-soobschestva-vlijayut-na-populjarizaciyu-kosmosa.html",
+      "image": "https://cosmatica.org/upload/000/u26/77/33/f6e694e1.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=720f1949445870f3d2",
+      "type": "news-item",
+      "sourceCharacters": 702,
+      "verified": false
+    },
+    {
+      "title": "Компьютерные технологии будущего: всепроникающие, суперсенсорные, постбинарные...",
+      "description": "Приглашаем студентов и аспирантов ДонНТУ, а также всех заинтересованных и любознательных посетить научно-популярный, постоянно действующий лекторий «Корифеи культуры: имена, образы, легенды», который проходит в Большом актовом зале первого учебного корпуса.",
+      "url": "https://cosmatica.org/poster/238-kompyuternye-tehnologii-buduschego-vsepronikayuschie-supersensornye-postbinarnye.html",
+      "image": "https://cosmatica.org/upload/002/u237/3/b/7184439f.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=52e6b99010ed7a6ec8",
+      "type": "poster-item",
+      "sourceCharacters": 2085,
+      "verified": false
+    },
+    {
+      "title": "Структура автотрофной общины",
+      "description": "«Панацеей от социальных зол и альтернативой как капитализму, так и социализму он объявил «психократию» – утопическую общину, «объединение сынов для воскрешения отцов», – так в эпоху развитого социализма философский словарь кратко и взвешено сообщал читателям о стержневой идее доктрины Общего Дела Николая Федорова. Подобный взгляд на природу власти считался еретическим. А когда в конце столетия из трупа советской парт",
+      "url": "https://cosmatica.org/articles/237-struktura-avtotrofnoi-obschiny.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=f92908cab369084b87",
+      "type": "article",
+      "sourceCharacters": 60321,
+      "verified": false
+    },
+    {
+      "title": "Первый космонавт",
+      "description": "М.: Политиздат, 1969. — 142 с.: ил. — (Герои Советской Родины). Книга посвящена Юрию Гагарину — первому человеку, проложившему дорогу в космос. Авторы, Сергей Александрович Борзенко и Николай Николаевич Денисов — специальные корреспонденты газеты «Правда», освещавшие полеты всех космонавтов и сопровождавшие их в заграничных поездках. Рассчитана на массового читателя.",
+      "url": "https://cosmatica.org/library/237-pervyi-kosmonavt.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/0/fdd72b18.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=4c4f37d24e41cc32f9",
+      "type": "book",
+      "sourceCharacters": 424,
+      "verified": false
+    },
+    {
+      "title": "Найдены точки сближения космоса и молодёжи",
+      "description": "В рамках круглого стола Барминым Максимом Григорьевичем были подняты вопросы привлечения к космосу молодых людей, не являющихся напрямую вхожими в отрасль, а именно: не имеющих физико-математического, технического, военного образования, наличие которых зачастую является базовым условием для участия в аэрокосмической сфере. Решение оратор видит в развитии творческого потенциала молодёжи в теме космонавтики и астрономи",
+      "url": "https://cosmatica.org/news/237-naideny-tochki-sblizhenija-kosmosa-i-molodyozhi.html",
+      "image": "https://cosmatica.org/upload/000/u8/fe/8f/ca8d1233.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=56eae6a68d5858790d",
+      "type": "news-item",
+      "sourceCharacters": 5928,
+      "verified": false
+    },
+    {
+      "title": "Основы теории космических циклов #Методы синтеза междисциплинарных знаний",
+      "description": "Основы теории космических циклов #Методы синтеза междисциплинарных знаний Тематические встречи Место и время: Событие уже прошло Московское отделение Кто пойдет: 679 Тема доклада: «Основы теории космических циклов». Доклад - презентация новой книги. Лектор: Руководитель Секции М.И. Беляев, академик Международной Академии экологической безопасности и природопользования (МОАЭБП), академик Общественной академии национал",
+      "url": "https://cosmatica.org/poster/237-osnovy-teorii-kosmicheskih-ciklov.html",
+      "image": "https://cosmatica.org/upload/000/u26/0/4/osnovy-teorii-kosmicheskih-ciklov-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=f9de728e4fa2fd163f",
+      "type": "poster-item",
+      "sourceCharacters": 701,
+      "verified": false
+    },
+    {
+      "title": "Космонавтика как прелюдия Общего Дела",
+      "description": "Уже полвека человечество прожило в космической эре, начало которой положил запуск первого искусственного спутника Земли (4окт. 1957г.). За это время в мире произошло много знаменательных событий, но эпохальными из них стали два: первый полет человека в космос (12апр. 1961г.) и первая лунная экспедиция (16-24июля 1969г.) Именно они принесли жителям Земли долгожданную Благую Весть - Да! Космос ждет нас! В нем можно жит",
+      "url": "https://cosmatica.org/articles/236-kosmonavtika-kak-prelyudija-obschego-dela.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=90432eb34ba1351fd0",
+      "type": "article",
+      "sourceCharacters": 43396,
+      "verified": false
+    },
+    {
+      "title": "Испытатель космических кораблей",
+      "description": "Издательство: М.: Машиностроение; 1976 г. Эта книга о летчике-космонавте Владимире Комарове, о жизни и работе испытателя космических кораблей 'Восход' и 'Союз', о большой и светлой мечте человека, который хотел летать. Эта книга о пути в космос, о трудных сражениях на этом пути, о победах и поражениях, о силе духа и верности принципам. Читатели узнают о том, как создавались космические корабли, как они проходили назе",
+      "url": "https://cosmatica.org/library/236-ispytatel-kosmicheskih-korablei.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/3/ispytatel-kosmicheskih-korablei-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=c1c28632fe066f9bdf",
+      "type": "book",
+      "sourceCharacters": 913,
+      "verified": false
+    },
+    {
+      "title": "Новый выпуск цикла передач \"Прорыв!\", герой программы: Трушкова Юлия Геннадьевна",
+      "description": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/236-novyi-vypusk-cikla-peredach-proryv-geroi-programmy-trushkova-yulija-gennadevna.html",
+      "image": "https://cosmatica.org/upload/000/u26/ed/e4/novyi-vypusk-cikla-peredach-proryv-geroi-programmy-trushkova.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=800b0880ddd1265687",
+      "type": "news-item",
+      "sourceCharacters": 630,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

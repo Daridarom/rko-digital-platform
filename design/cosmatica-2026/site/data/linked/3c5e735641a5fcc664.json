@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/75-g-m-mutanov-innovacii-sozdanie-i-razvitie.html",
+  "title": "Г.М. Мутанов - Инновации: создание и развитие",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/49/5b/g-m-mutanov-innovacii-sozdanie-i-razvitie-photo-normal.png",
+      "alt": "Г.М. Мутанов - Инновации: создание и развитие"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга посвящена проблемам создания и развития инноваций в современной экономике. На основе анализа отечественного и зарубежного опыта представлено современное видение инновационных процессов - от генерации идеи до воплощения коммерческих продуктов в практику.\r\nКнига рассчитана на специалистов в области инноваций, экономики, технологий. Может быть полезна студентам, аспирантам и преподавателям вузов.",
+      "spans": [
+        {
+          "text": "Книга посвящена проблемам создания и развития инноваций в современной экономике. На основе анализа отечественного и зарубежного опыта представлено современное видение инновационных процессов - от генерации идеи до воплощения коммерческих продуктов в практику.\r\nКнига рассчитана на специалистов в области инноваций, экономики, технологий. Может быть полезна студентам, аспирантам и преподавателям вузов."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Книга посвящена проблемам создания и развития инноваций в современной экономике. На основе анализа отечественного и зарубежного опыта представлено современное видение инновационных процессов - от генерации идеи до воплощения коммерческих продуктов в практику. Книга рассчитана на специалистов в области инноваций, экономики, технологий. Может быть полезна студентам, аспирантам и преподавателям вузов.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 6 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/86/89ee129de51fa081390afad68ce4825a"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/49/5b/g-m-mutanov-innovacii-sozdanie-i-razvitie-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/86/89ee129de51fa081390afad68ce4825a"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 466,
+    "storedTextCharacters": 402,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40014
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 420,
+  "capturedBodyCharacters": 402,
+  "sourceTextSHA256": "fd9bdf3fee185fb7d0ab9aa0da8c2f0d680b6219533ed7a1d41211fea1596c9e",
+  "archiveSnapshotAt": "2026-10-08T08:51:07Z"
+}

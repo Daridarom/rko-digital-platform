@@ -36,9 +36,13 @@ export function createRichBlocks(blocks=[], options={}){
       const outer=node(tag);outer.append(child);child=outer;
      }
      const destination=part.href&&safeSource(part.href);
-     // Preview never sends readers away from the approved demo.
-     if(destination && new URL(destination).origin===location.origin){
-      const a=node('a');a.href=destination;a.append(child);element.append(a);
+     if(destination){
+      const a=node('a');a.href=destination;
+      if(new URL(destination).origin!==location.origin){
+       a.target='_blank';a.rel='noopener noreferrer';a.referrerPolicy='no-referrer';
+       a.dataset.contentExternal='true';
+      }
+      a.append(child);element.append(a);
      }else element.append(child);
     }
    }else element.textContent=String(b.text||'');
@@ -61,6 +65,28 @@ export function createRichBlocks(blocks=[], options={}){
    const img=node('img');img.src=src;img.alt=String(b.alt||'');img.loading='lazy';
    element.append(img);
    if(b.caption)element.append(node('figcaption','',b.caption));
+  }else if(b.type==='video'&&b.platform==='youtube'&&/^[a-zA-Z0-9_-]{11}$/.test(b.videoId||'')){
+   // Nothing is downloaded, and no external player is requested until opened.
+   const id=b.videoId;
+   element=node('details','rich-video');
+   const summary=node('summary','',b.title||'Смотреть видео');
+   const frameWrap=node('div','rich-video-frame');
+   const source=node('a','rich-video-source','Открыть на YouTube ↗');
+   source.href='https://www.youtube.com/watch?v='+id;
+   source.target='_blank';source.rel='noopener noreferrer';
+   source.referrerPolicy='no-referrer';source.dataset.contentExternal='true';
+   element.append(summary,frameWrap,source);
+   element.addEventListener('toggle',()=>{
+    if(element.open&&!frameWrap.firstChild){
+     const frame=node('iframe');
+     frame.src='https://www.youtube-nocookie.com/embed/'+id;
+     frame.title=b.title||'Видео РКО';
+     frame.loading='lazy';frame.referrerPolicy='no-referrer';
+     frame.setAttribute('allow','encrypted-media; picture-in-picture; fullscreen');
+     frame.setAttribute('allowfullscreen','');
+     frameWrap.append(frame);
+    }else if(!element.open)frameWrap.replaceChildren();
+   });
   }else if(b.type==='file'){
    element=node('div','rich-file');
    element.append(node('span','',b.name||'Документ'));

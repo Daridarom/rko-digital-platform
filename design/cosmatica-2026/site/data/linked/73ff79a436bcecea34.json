@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "slug": "article",
+  "slug": "articles-list",
   "sourceUrl": "https://cosmatica.org/articles/mir-geroev",
   "title": "Мир Героев",
   "intro": "",
@@ -139,5 +139,11 @@
     "sourceImageCount": 0,
     "paragraphCount": 3,
     "sourceBytes": 83968
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "articles-list",
+  "sourceTextCharacters": 2301,
+  "capturedBodyCharacters": 2252,
+  "sourceTextSHA256": "4ecd6c5b7fb07d4b63e3d70f54cf0941491b3b0f91340c6c7d1758afb9655fd6",
+  "archiveSnapshotAt": "2026-10-08T08:45:05Z"
 }

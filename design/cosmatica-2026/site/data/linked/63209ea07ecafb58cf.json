@@ -7,8 +7,17 @@
   "blocks": [
     {
       "type": "image",
-      "src": "assets/source/b31ad6d7b7690b8ee009ea73.webp",
+      "src": "https://cosmatica.org/upload/000/u7/d/a/ddc0bc2c.jpg",
       "alt": "Ноосферный разум как разум, научно-управляющий социо-биосферной эволюцией"
+    },
+    {
+      "type": "paragraph",
+      "text": "В новой работе автора раскрываются системно-концептуальные основания теории и философии Ноосферного разума, как теоретического блока в становящемся теоретическом комплексе Ноосферизма, разрабатываемого автором уже более 35 лет.",
+      "spans": [
+        {
+          "text": "В новой работе автора раскрываются системно-концептуальные основания теории и философии Ноосферного разума, как теоретического блока в становящемся теоретическом комплексе Ноосферизма, разрабатываемого автором уже более 35 лет."
+        }
+      ]
     }
   ],
   "cards": [],
@@ -31,19 +40,19 @@
       "links": [
         {
           "title": "Скачать",
-          "url": "https://cosmatica.org/files/download/6047/3d11131db97c0fe21ef77a3c00747cb2"
+          "url": "https://cosmatica.org/files/download/6047/759e01e7eb439abd9f3582f9e47cf22c"
         }
       ],
       "image": null
     }
   ],
   "images": [
-    "assets/source/b31ad6d7b7690b8ee009ea73.webp"
+    "https://cosmatica.org/upload/000/u7/d/a/ddc0bc2c.jpg"
   ],
   "documents": [
     {
       "label": "Скачать",
-      "url": "https://cosmatica.org/files/download/6047/3d11131db97c0fe21ef77a3c00747cb2"
+      "url": "https://cosmatica.org/files/download/6047/759e01e7eb439abd9f3582f9e47cf22c"
     }
   ],
   "categories": [],
@@ -51,10 +60,16 @@
   "sourceEvidence": {
     "http": 200,
     "sourceTextCharacters": 340,
-    "storedTextCharacters": 0,
+    "storedTextCharacters": 227,
     "sourceCardCount": 0,
     "sourceImageCount": 1,
     "paragraphCount": 0,
     "sourceBytes": 40269
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 266,
+  "capturedBodyCharacters": 227,
+  "sourceTextSHA256": "ce861a4deb0f2f3e28465b88908d053c3d70204ebe90c655c97cf3ea187032b4",
+  "archiveSnapshotAt": "2026-10-08T08:51:02Z"
 }

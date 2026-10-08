@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 113,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "В схватке за \"Бородино\".",
+      "description": "30 марта 2019 года в г. Калуга был проведён открытый городской турнир по самбо, посвящённый памяти К.Э. Циолковского.",
+      "url": "https://cosmatica.org/news/373-v-shvatke-za-borodino.html",
+      "image": "https://cosmatica.org/upload/001/u172/1/a/v-shvatke-za-borodino-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=748bb49d805dfcf602",
+      "type": "news-item",
+      "sourceCharacters": 1283,
+      "verified": false
+    },
+    {
+      "title": "Космонавт №5. Быковский Валерий Фёдорович",
+      "description": "27 марта покинул земной простор Быковский Валерий Фёдорович. Мы не давали траурных заметок. Он навсегда в Строю. Но знать его и помнить, несомненно, должны.",
+      "url": "https://cosmatica.org/news/375-kosmonavt-5-bykovskii-valerii-fyodorovich.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/2/kosmonavt-5-bykovskii-valerii-fyodorovich-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=554f1e24bd4b14c741",
+      "type": "news-item",
+      "sourceCharacters": 10867,
+      "verified": false
+    },
+    {
+      "title": "Всенародная радость вне времени и границ",
+      "description": "Ключевыми словами в воспоминаниях людей по всему Миру о 12 апреля 1961 года являются «радость», «счастье», «восторг», «ликование».",
+      "url": "https://cosmatica.org/news/372-vsenarodnaja-radost-vne-vremeni-i-granic.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/f/vsenarodnaja-radost-vne-vremeni-i-granic-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a34ba998c76b2c8e64",
+      "type": "news-item",
+      "sourceCharacters": 1376,
+      "verified": false
+    },
+    {
+      "title": "В защиту Пулковской обсерватории",
+      "description": "Наверное, нет сейчас темы, более тревожной для петербуржцев, чем застройка вокруг Пулковской обсерватории.",
+      "url": "https://cosmatica.org/news/370-v-zaschitu-pulkovskoi-observatorii.html",
+      "image": "https://cosmatica.org/upload/000/u21/e/d/v-zaschitu-pulkovskoi-observatorii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7853ae4c5ac68d29d3",
+      "type": "news-item",
+      "sourceCharacters": 3662,
+      "verified": false
+    },
+    {
+      "title": "Праздник космоса в Трудармейском доме творчества.",
+      "description": "58 лет назад 12 апреля 1961 года нашу планету потрясла неожиданная весть: «Человек в космосе!» Мечта людей о полёте в космос сбылась. Апрельским утром на корабле «Восток-1» первый космонавт Юрий Гагарин совершил полёт в космос и облетел Землю за 1 час 48 минут. Этот день навсегда остался в памяти старшего поколения. Наши дети тоже должны знать великие свершения своего народа и гордится героями-соотечественниками. Вед",
+      "url": "https://cosmatica.org/news/371-prazdnik-kosmosa-v-trudarmeiskom-dome-tvorchestva.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/5/den-gagarina-v-trudarmeiskom-dome-tvorchestva-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4bca2da3dd5f5d927c",
+      "type": "news-item",
+      "sourceCharacters": 2294,
+      "verified": false
+    },
+    {
+      "title": "Начала работу площадка реализации разработок в сфере IT среди студентов",
+      "description": "- Образовательный проект для начинающих программистов IT-ПАРК;",
+      "url": "https://cosmatica.org/news/369-nachala-rabotu-ploschadka-realizacii-razrabotok-v-sfere-it-sredi-studentov.html",
+      "image": "https://cosmatica.org/upload/000/u26/e/2/nachala-rabotu-ploschadka-realizacii-razrabotok-v-sfere-it-sredi-st.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c7b3b47e0b7425198a",
+      "type": "news-item",
+      "sourceCharacters": 2260,
+      "verified": false
+    },
+    {
+      "title": "Будем прирастать Сибирью!",
+      "description": "Первым признаком того, что деятельность Русского Космического Общества выходит на сибирские широты, стало коллективное письмо-обращение участников конференции в рамках Всероссийского фестиваля «Буран – крылатая легенда», приуроченной к 30-летию запуска МТКС «Энергия-Буран» в Выставочном зале «Тушино» г. Москвы, торжественно зачитанное перед официальными докладами куратором проекта Дмитрием Васильевичем Ярошевским . В",
+      "url": "https://cosmatica.org/news/367-budem-prirastat-sibiryu.html",
+      "image": "https://cosmatica.org/upload/000/u26/6/b/budem-prirastat-sibiryu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5d5081151b08f98629",
+      "type": "news-item",
+      "sourceCharacters": 8206,
+      "verified": false
+    },
+    {
+      "title": "Новый выпуск цикла передач \"Прорыв!\", герой программы: Чуков Владимир Семёнович",
+      "description": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/366-novyi-vypusk-cikla-peredach-proryv-geroi-programmy-chukov-vladimir-semyonovich.html",
+      "image": "https://cosmatica.org/upload/000/u26/f/4/novyi-vypusk-cikla-peredach-proryv-geroi-programmy-chukov-vla.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1997dd34425cf69149",
+      "type": "news-item",
+      "sourceCharacters": 830,
+      "verified": false
+    },
+    {
+      "title": "Республиканская научно-практическая конференция. Казахстан.",
+      "description": "Мероприятие проводится при поддержке Казахстанского представительства Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/365-respublikanskaja-nauchno-prakticheskaja-konferencija-kazahstan.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/5/5757793c.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3ed5cc15222fdfda71",
+      "type": "news-item",
+      "sourceCharacters": 1039,
+      "verified": false
+    },
+    {
+      "title": "Ночь полнолуния и начало астрономической весны",
+      "description": "21 марта 2019 в 0.58 моск. вр. = 20 марта 21.58 всемирного (среднего гринвичского) времени.",
+      "url": "https://cosmatica.org/news/364-noch-polnolunija-i-nachalo-astronomicheskoi-vesny.html",
+      "image": "https://cosmatica.org/upload/000/u7/8/8/noch-polnolunija-i-nachalo-astronomicheskoi-vesny-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fc067efea429c1f7bb",
+      "type": "news-item",
+      "sourceCharacters": 795,
+      "verified": false
+    },
+    {
+      "title": "Беларусь - космическая держава.",
+      "description": "Мероприятие прошло в формате круглого стола 16 марта 2019 года в конференц-зале «Союза писателей Беларуси» и собрало более 70 человек.",
+      "url": "https://cosmatica.org/news/362-belarus-kosmicheskaja-derzhava.html",
+      "image": "https://cosmatica.org/upload/000/u26/6/2/belarus-kosmicheskaja-derzhava-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=762565f63c0db6e643",
+      "type": "news-item",
+      "sourceCharacters": 4117,
+      "verified": false
+    },
+    {
+      "title": "Космическое завтра глазами юных нижегородцев.",
+      "description": "15 марта 2019 года, прошло награждение победителей регионального этапа международного конкурса \"Наше космическое завтра\", организованное в Нижегородской области Нижегородским отделением Русского космического общества, Центром стратегического развития, путешествий и наставничества и Академией стратегического проектирования. Церемония награждения прошла в Нижегородском планетарии им. Г.М. Гречко.",
+      "url": "https://cosmatica.org/news/361-kosmicheskoe-zavtra-glazami-yunyh-nizhegorodcev.html",
+      "image": "https://cosmatica.org/upload/001/u176/9/2/nashe-kosmicheskoe-zavtra-glazami-yunyh-nizhegorodcev-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f3a5aa853649d4282b",
+      "type": "news-item",
+      "sourceCharacters": 2145,
+      "verified": false
+    },
+    {
+      "title": "Награды для творцов.",
+      "description": "Рады сообщить участникам Свердловского регионального этапа Первого международного конкурса детского рисунка «Наше космическое завтра» , что наконец, нами сформирована вся наградная продукция: грамоты, призы, сувениры! Без призов или сувениров не останется ни один участник!",
+      "url": "https://cosmatica.org/news/360-nagrady-dlja-tvorcov.html",
+      "image": "https://cosmatica.org/upload/000/u44/f/5/nagrady-dlja-tvorcov-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=93206b5ceb091c4a43",
+      "type": "news-item",
+      "sourceCharacters": 2875,
+      "verified": false
+    },
+    {
+      "title": "Начата новая экспедиция МКС",
+      "description": "Старт совершён 14 марта в 22:14 мск с космодрома Байконур.",
+      "url": "https://cosmatica.org/news/359-nachata-novaja-ekspedicija-mks.html",
+      "image": "https://cosmatica.org/upload/000/u26/c/7/nachata-novaja-ekspedicija-mks-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e9a945537b9e0e4166",
+      "type": "news-item",
+      "sourceCharacters": 3011,
+      "verified": false
+    },
+    {
+      "title": "Гагарин - гражданин Вселенной",
+      "description": "Серьёзный проект подготовлен и будет реализован членами Русского Космического Общества в Анапе, в рамках работы ОГКП 85-летия Ю.А. Гагарина , в течение марта-апреля.",
+      "url": "https://cosmatica.org/news/358-gagarin-grazhdanin-vselennoi.html",
+      "image": "https://cosmatica.org/upload/000/u26/4/2/gagarin-grazhdanin-vselennoi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=84621e91d45c3794ff",
+      "type": "news-item",
+      "sourceCharacters": 3732,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

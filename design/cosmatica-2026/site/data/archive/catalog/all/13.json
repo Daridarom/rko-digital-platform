@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 13,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Экофилософию в массы",
+      "description": "28 января 2025 г в рамках Пятой художественно-промышленной выставки-форума \"Уникальная Россия\" в Гостином дворе (г. Москва, улица Ильинка, дом 4) прошла работа философского Круглого стола \"Уникальная страна: своим умом и своими руками\", организованная Молодежной секцией Комиссии по изучению научного наследия выдающихся учёных Российской академии.",
+      "url": "https://cosmatica.org/news/2008-ekofilosofiyu-v-massy.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/3/ekofilosofiyu-v-massy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=717ab2373ff89903ef",
+      "type": "news-item",
+      "sourceCharacters": 1799,
+      "verified": false
+    },
+    {
+      "title": "В г.Стаханов торжественно открыли Год защитника Отечества",
+      "description": "24 января 2025 года в Стахановском центре детского и юношеского творчества Луганской Народной Республики состоялось мероприятие, посвящённое открытию Года защитника Отечества и 80-летию Великой Победы в общеобразовательных организациях городов Стаханов, Ирмино, Алмазная.",
+      "url": "https://cosmatica.org/news/2007-v-g-stahanov-torzhestvenno-otkryli-god-zaschitnika-otechestva.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/2/v-g-stahanov-torzhestvenno-otkryli-god-zaschitnika-otechestva-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=60b013e3b66bd7da6b",
+      "type": "news-item",
+      "sourceCharacters": 4091,
+      "verified": false
+    },
+    {
+      "title": "В вечном строю прибыло",
+      "description": "8 декабря 2024 года пополнил вечный строй ученик Побиска Георгиевича Кузнецова, пример любознательности и жизнелюбия Виктор Михайлович Капустян .",
+      "url": "https://cosmatica.org/news/2006-v-vechnom-stroyu-pribylo.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/a/04eb2ad9.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1f82421569ec201e6c",
+      "type": "news-item",
+      "sourceCharacters": 1258,
+      "verified": false
+    },
+    {
+      "title": "Здоровеем со Здоровеей!",
+      "description": "Решение вопроса о смысле и цели существования и развития Жизни в системе «Природа – Общество – Человек» интегративно объединяет всех единомышленников Русского Космического Общества. Оно сводится к тому, что смысл жизни каждого человека в частности и человечества в целом состоит в борьбе со всеми формами возрастания энтропии во Вселенной.",
+      "url": "https://cosmatica.org/news/2005-zdoroveem-s-zdoroveei.html",
+      "image": "https://cosmatica.org/upload/000/u7/2/3/e83821a0.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3e7c704cea35ed93c3",
+      "type": "news-item",
+      "sourceCharacters": 3519,
+      "verified": false
+    },
+    {
+      "title": "Стыковка кораблей прошла успешно!",
+      "description": "Экипажи объединились для выполнения совместной разведывательной миссии.",
+      "url": "https://cosmatica.org/news/2004-stykovka-korablei-proshla-uspeshno.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/2/stykovka-korablei-proshla-uspeshno-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8b822d0b1bb89d7413",
+      "type": "news-item",
+      "sourceCharacters": 3828,
+      "verified": false
+    },
+    {
+      "title": "Выражать любовь к Родине можно по-разному",
+      "description": "Любовь к родной стране начинается с любви к природе. (К.Г. Паустовский)",
+      "url": "https://cosmatica.org/news/2003-vyrazhat-lyubov-k-rodine-mozhno-po-raznomu.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/b/85e54061.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=97f013ba9f54216ab1",
+      "type": "news-item",
+      "sourceCharacters": 2987,
+      "verified": false
+    },
+    {
+      "title": "Завершена очередная экспедиция космического корабля \"Звездолёт\"",
+      "description": "Ведущими и выступающими на конференции являются сами дети, и поверьте, им есть что сказать и показать. Ведь эти ребята еще совсем недавно были членами экипажа космического корабля Звездолёт, совершающими экспедицию вокруг Земли.",
+      "url": "https://cosmatica.org/news/2002-zavershena-ocherednaja-ekspedicija-kosmicheskogo-korablja-zvezdolyot.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/d/zavershena-ocherednaja-ekspedicija-kosmicheskogo-korablja-zvezdolyot.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=966a277a51d7adfd65",
+      "type": "news-item",
+      "sourceCharacters": 6109,
+      "verified": false
+    },
+    {
+      "title": "Космонавт Василевская приняла пополнение в Дружину Гагаринцев Беларуси",
+      "description": "Марина Витальевна побывала в школьном \"Музее истории космоса\" и планетарии. После экскурсии прошла диалоговая площадка с участием Марины Витальевны Василевской, начальника отдела по образованию Ольги Михайловны Трубловской, белорусского астронома, доцента кафедры инженерной физики ВГУ имени П. М. Машерова Владимира Александровича Голубева.",
+      "url": "https://cosmatica.org/news/2001-kosmonavt-vasilevskaja-prinjala-popolnenie-v-druzhinu-gagarincev-belarusi.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/c/56672dbe.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=aaefc348458236f4d1",
+      "type": "news-item",
+      "sourceCharacters": 2367,
+      "verified": false
+    },
+    {
+      "title": "90-летие космонавта Кубасова отметили в Вязниках",
+      "description": "В городе Вязники, на родине летчика-космонавта, дважды Героя Советского Союза Валерия Кубасова к его 90-летию стартовал цикл памятных мероприятий «Космическая симфония».",
+      "url": "https://cosmatica.org/news/2000-90-letie-kosmonavta-kubasova-otmetili-v.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/c/90-letie-kosmonavta-kubasova-otmetili-v-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8f3e5bcd96da9ae0ff",
+      "type": "news-item",
+      "sourceCharacters": 3302,
+      "verified": false
+    },
+    {
+      "title": "Рабочие будни в Донецкой республике. Сводки с полей за декабрь.",
+      "description": "- Алексей Алексеевич Гапонов , Координатор Комитета по содействию общественным народным советам Федерального народного совета, Глава Высшего совета РКО, участник СВО;",
+      "url": "https://cosmatica.org/news/1999-rabochie-budni-v-doneckoi-respublike-svodki-s-polei-za-dekabr.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/2/rabochie-budni-v-doneckoi-respublike-svodki-s-polei-za-dekabr.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=761de704b023bf51ea",
+      "type": "news-item",
+      "sourceCharacters": 7181,
+      "verified": false
+    },
+    {
+      "title": "Воспитать новое поколение юных запорожцев",
+      "description": "- Алексей Алексеевич Гапонов , Координатор Комитета по содействию общественным народным советам Федерального народного совета, Глава Высшего совета РКО, участник СВО;",
+      "url": "https://cosmatica.org/news/1997-vospitat-novoe-pokolenie-yunyh-zaporozhcev.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/f/vospitat-novoe-pokolenie-yunyh-zaporozhcev-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d7fab9b88a678e1ed4",
+      "type": "news-item",
+      "sourceCharacters": 4452,
+      "verified": false
+    },
+    {
+      "title": "Крым. SOS!!!",
+      "description": "Танкеры «Волгонефть 212» и «Волгонефть 239» попали в шторм 15 декабря. Из-за сложных метеоусловий оба судна потерпели крушение. Согласно информации экстренных служб, танкеры перевозили около 9,2 тысячи тонн мазута.",
+      "url": "https://cosmatica.org/news/1996-krym-sos.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/b/krym-sos-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f1530d2c482d2dab24",
+      "type": "news-item",
+      "sourceCharacters": 1894,
+      "verified": false
+    },
+    {
+      "title": "7 лет в движении на Цель",
+      "description": "Символично и знаково, что в день и час зимнего солнцестояния, в День рождения Генералиссимуса Победы, собрание прошло в легендарных стенах Российского Союза Ветеранов , ведущего свою историю с 1956 года, когда был образован Советский комитет ветеранов войны (СКВВ).",
+      "url": "https://cosmatica.org/news/1995-7-let-v-pohode.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/5/7-let-v-pohode-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=218cecde59023e7f42",
+      "type": "news-item",
+      "sourceCharacters": 5769,
+      "verified": false
+    },
+    {
+      "title": "Итоги круглого стола \"Философия русского космоса: вчера, сегодня, завтра\"",
+      "description": "13 декабря 2024г. на базе Донецкого национального технического университета прошло знаковое событие – « Круглый стол » на тему : «Философия русского космоса: вчера, сегодня, завтра» .",
+      "url": "https://cosmatica.org/news/1994-itogi-kruglogo-stola-filosofija-russkogo-kosmosa-vchera-segodnja-zavtra.html",
+      "image": "https://cosmatica.org/upload/000/u7/2/d/itogi-kruglogo-stola-filosofija-russkogo-kosmosa-vchera-segodnja.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=28ed0cc8b76c38fabe",
+      "type": "news-item",
+      "sourceCharacters": 5869,
+      "verified": false
+    },
+    {
+      "title": "Ещё одним отрядом укрепилась Дружина Гагаринцев Макеевки",
+      "description": "В торжественной обстановке перед лицом учителей и руководителей Русского Космического Общества дети произнести клятву гагаринца.",
+      "url": "https://cosmatica.org/news/1993-eschyo-odnim-otrjadom-ukrepilas-druzhina-gagarincev-makeevki.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/5/11005f99.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7d1455b386d3ed050b",
+      "type": "news-item",
+      "sourceCharacters": 1714,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

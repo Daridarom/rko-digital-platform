@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "users",
+  "title": "Участники РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 14,
+  "pageCount": 16,
+  "total": 235,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Елена Витальевна Сулава",
+      "description": "",
+      "url": "https://cosmatica.org/users/455",
+      "image": "https://cosmatica.org/upload/004/u455/1/e/210b45fe.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=b8e650b2a899fcefaf",
+      "type": "profile",
+      "sourceCharacters": 34,
+      "verified": false
+    },
+    {
+      "title": "Александр Владимирович Захаров",
+      "description": "Генеральный директор Центра ноосферного здоровья, кандидат медицинских наук.",
+      "url": "https://cosmatica.org/users/458",
+      "image": "https://cosmatica.org/upload/002/u218/5/0/748a9570.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=8304a629b8f793259f",
+      "type": "profile",
+      "sourceCharacters": 152,
+      "verified": false
+    },
+    {
+      "title": "Александр Константинович Гуменюк",
+      "description": "Руководитель Совета по физической культуре и спорту",
+      "url": "https://cosmatica.org/users/471",
+      "image": "https://cosmatica.org/upload/004/u471/3/3/6995046c.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=5d0a01f2b392570d53",
+      "type": "profile",
+      "sourceCharacters": 668,
+      "verified": false
+    },
+    {
+      "title": "Никита Ренарьевич Шахулов",
+      "description": "Инновационный-образовательный Центр космических услуг ОАО «НПК „РЕКОД“» (2015 — 2019)",
+      "url": "https://cosmatica.org/users/474",
+      "image": "https://cosmatica.org/upload/002/u218/a/5/3bccb864.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=3aa79f5841369d13b0",
+      "type": "profile",
+      "sourceCharacters": 961,
+      "verified": false
+    },
+    {
+      "title": "Георгий Николаевич Фурсей",
+      "description": "Председатель Санкт-Петербургского отделения РАЕН, почетный вице-президент РАЕН, д.ф.-м.н., профессор, академик РАЕН, заслуженный деятель науки РФ, Лауреат Государственной премии СССР, почётный работник высшего и среднего профессионального образования РФ, ветеран войны, ветеран труда, жертва политических репрессий.",
+      "url": "https://cosmatica.org/users/50",
+      "image": "https://cosmatica.org/upload/000/u50/fc/4f/1fdb41ab.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=7e0c72269e14233e7e",
+      "type": "profile",
+      "sourceCharacters": 779,
+      "verified": false
+    },
+    {
+      "title": "Таисия Валентиновна Кузнецова",
+      "description": "Научный руководитель. Кандидат медицинских наук. Врач высшей категории (кардиолог, врач ФРМ). Заведующий ОМО. Автор монография «Информационные модули. Виртуальные исследования космического сознания человека в модулированном голографическом пространстве» 2010г, соавтор коллективной монографии «Человек Зеркало Вселенной» 2020г.",
+      "url": "https://cosmatica.org/users/52",
+      "image": "https://cosmatica.org/upload/000/u42/d3/ac/db8f6435.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=1f7d5aa7ac96a227c0",
+      "type": "profile",
+      "sourceCharacters": 2977,
+      "verified": false
+    },
+    {
+      "title": "Валерий Владимирович Сухов",
+      "description": "Московский авиационный институт им. Серго Орджоникидзе в 1978 г.",
+      "url": "https://cosmatica.org/users/575",
+      "image": "https://cosmatica.org/upload/002/u218/a/2/cd81d292.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a356aec06f5908c575",
+      "type": "profile",
+      "sourceCharacters": 179,
+      "verified": false
+    },
+    {
+      "title": "Ольга Викторовна Осеева",
+      "description": "ФГБУ «ИМИЦ имени академика Е.Н. Мешалкина», врач кардиолог",
+      "url": "https://cosmatica.org/users/60",
+      "image": "https://cosmatica.org/upload/000/u8/c5/f4/aaf73fb4.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=3a140b8b02fd460ad4",
+      "type": "profile",
+      "sourceCharacters": 101,
+      "verified": false
+    },
+    {
+      "title": "Егоренков Олег Васильевич",
+      "description": "Родился 15.11.1956 на ст. Монино, Москвоской области.",
+      "url": "https://cosmatica.org/users/609",
+      "image": "https://cosmatica.org/upload/000/u35/d/f/4c851f79.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=4edb8583503218c202",
+      "type": "profile",
+      "sourceCharacters": 666,
+      "verified": false
+    },
+    {
+      "title": "Тамара Борисовна Малых",
+      "description": "",
+      "url": "https://cosmatica.org/users/614",
+      "image": "https://cosmatica.org/upload/000/u35/e/0/92182b49.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=27ccd44243391eadf0",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Горбань Ирина Ивановна",
+      "description": "",
+      "url": "https://cosmatica.org/users/615",
+      "image": "https://cosmatica.org/upload/000/u35/d/0/e0c7ecb8.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=03ce1bc03b12fd6e4f",
+      "type": "profile",
+      "sourceCharacters": 30,
+      "verified": false
+    },
+    {
+      "title": "Татьяна Ильинична Куценко",
+      "description": "",
+      "url": "https://cosmatica.org/users/626",
+      "image": "https://cosmatica.org/upload/000/u35/9/7/6f2ec51a.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=9f530974132c5f8c72",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Никита Иванович Суслов",
+      "description": "Студент МГТУ им. Н.Э.Баумна, Аэрокосмический факультет",
+      "url": "https://cosmatica.org/users/647",
+      "image": "https://cosmatica.org/upload/006/u647/1/5/f29b000b.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=53e79d81596ce20c6d",
+      "type": "profile",
+      "sourceCharacters": 82,
+      "verified": false
+    },
+    {
+      "title": "Сергей Михайлович Федотов",
+      "description": "Президент Некоммерческого благотворительного фонда развития подводных экологических программ «Искусственные рифы».",
+      "url": "https://cosmatica.org/users/649",
+      "image": "https://cosmatica.org/upload/006/u649/d/0/e3cc1235.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=07ade1fd09374c3d14",
+      "type": "profile",
+      "sourceCharacters": 1405,
+      "verified": false
+    },
+    {
+      "title": "Виктор Александрович Соловьёв",
+      "description": "Руководитель фонда поддержки и развития семей «Родная семья».",
+      "url": "https://cosmatica.org/users/659",
+      "image": "https://cosmatica.org/upload/002/u218/d/7/11f0f6cb.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=56cb54bddf7b40fabd",
+      "type": "profile",
+      "sourceCharacters": 221,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

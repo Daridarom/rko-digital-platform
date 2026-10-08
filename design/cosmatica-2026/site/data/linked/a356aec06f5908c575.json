@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/575",
+  "title": "Валерий Владимирович Сухов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/a/2/cd81d292.jpg",
+      "alt": "Валерий Владимирович Сухов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/8/6a99788e.jpg",
+      "alt": "Валерий Владимирович Сухов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Московский авиационный институт им. Серго Орджоникидзе в 1978 г.",
+      "spans": [
+        {
+          "text": "Московский авиационный институт им. Серго Орджоникидзе в 1978 г."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Военная академия им. Дзержинского в 1989 г.",
+      "spans": [
+        {
+          "text": "Военная академия им. Дзержинского в 1989 г."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Московская финансово-промышленная академия",
+      "spans": [
+        {
+          "text": "Московская финансово-промышленная академия"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Московский авиационный институт им. Серго Орджоникидзе в 1978 г. Военная академия им. Дзержинского в 1989 г. Московская финансово-промышленная академия",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/a/2/cd81d292.jpg",
+    "https://cosmatica.org/upload/002/u218/7/8/6a99788e.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 231,
+    "storedTextCharacters": 182,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35139
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 179,
+  "capturedBodyCharacters": 182,
+  "sourceTextSHA256": "27fb2bd33ae4316945e0b6a466e8ca300bbe30929d21b53198bfafc331d6b2d9",
+  "archiveSnapshotAt": "2026-10-08T09:21:13Z"
+}

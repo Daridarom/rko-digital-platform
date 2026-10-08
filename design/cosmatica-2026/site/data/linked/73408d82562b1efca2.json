@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1044-elektrichestvo-prosto-o-prostom-chast-2-rasshirennaja-i-dopolnennaja-anischenko-a-m.html",
+  "title": "«Электричество: Просто о простом. Часть 2. Расширенная и дополненная» - Анищенко А.М.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Лекторий Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Доклад Руководителя Секции Авангардных исследований РКО, естествоиспытателя, инженера-механика Александра Михайловича Анищенко",
+      "spans": [
+        {
+          "text": "Доклад Руководителя Секции Авангардных исследований РКО, естествоиспытателя, инженера-механика Александра Михайловича Анищенко"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Представлено более глубокое физическое понимание явления электрического тока на основании экспериментальных данных. Практические приложения новой модели электричества.",
+      "spans": [
+        {
+          "text": "Представлено более глубокое физическое понимание явления электрического тока на основании экспериментальных данных. Практические приложения новой модели электричества."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "jc5skrji-dM",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=jc5skrji-dM"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Доклад Руководителя Секции Авангардных исследований РКО, естествоиспытателя, инженера-механика Александра Михайловича Анищенко Представлено более глубокое физическое понимание явления электрического тока на основании экспериментальных данных. Практические приложения новой модели электричества.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 555,
+    "storedTextCharacters": 333,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 76214
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 428,
+  "capturedBodyCharacters": 333,
+  "sourceTextSHA256": "336a814379516f1501b0fb65ee5f1182ee60acc106384337ea5c8fefdf52c19e",
+  "archiveSnapshotAt": "2026-10-08T08:37:53Z",
+  "publicVideoCount": 1
+}

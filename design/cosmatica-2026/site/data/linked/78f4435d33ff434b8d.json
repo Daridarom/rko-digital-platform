@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/79-mkosr-oon-nashe-obschee-buduschee.html",
+  "title": "МКОСР ООН - Наше общее будущее",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/c8/cd/mkosr-oon-nashe-obschee-buduschee-photo-normal.png",
+      "alt": "МКОСР ООН - Наше общее будущее"
+    },
+    {
+      "type": "paragraph",
+      "text": "Предлагаемая читателю книга «Наше общее будущее» — не обычная публикация. Это — результат работы\r\nбольшого международного «авторского коллектива»: государственных и общественных деятелей, ученых,\r\nпредставителей деловых кругов, широкой общественности, а также простых людей многих стран мира,\r\nобеспокоенных нависшей над человечеством общей экологической опасностью.",
+      "spans": [
+        {
+          "text": "Предлагаемая читателю книга «Наше общее будущее» — не обычная публикация. Это — результат работы\r\nбольшого международного «авторского коллектива»: государственных и общественных деятелей, ученых,\r\nпредставителей деловых кругов, широкой общественности, а также простых людей многих стран мира,\r\nобеспокоенных нависшей над человечеством общей экологической опасностью."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Предлагаемая читателю книга «Наше общее будущее» — не обычная публикация. Это — результат работы большого международного «авторского коллектива»: государственных и общественных деятелей, ученых, представителей деловых кругов, широкой общественности, а также простых людей многих стран мира, обеспокоенных нависшей над человечеством общей экологической опасностью.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 290 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/90/0dd30b8634070f71a722ad45b0cdcab0"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/c8/cd/mkosr-oon-nashe-obschee-buduschee-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/90/0dd30b8634070f71a722ad45b0cdcab0"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 415,
+    "storedTextCharacters": 366,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39848
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 384,
+  "capturedBodyCharacters": 366,
+  "sourceTextSHA256": "8d5d60d30ec774e6a6e3e1f3082686999aadb19dc3e84bc12d8630d947774909",
+  "archiveSnapshotAt": "2026-10-08T08:51:08Z"
+}

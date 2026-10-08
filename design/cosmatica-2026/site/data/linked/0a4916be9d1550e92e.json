@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/281-fizika-kosmosa-malenkaja-enciklopedija-1986.html",
+  "title": "Физика космоса - маленькая энциклопедия (1986)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/4/f/fizika-kosmosa-malenkaja-enciklopedija-1986-photo-normal.jpg",
+      "alt": "Физика космоса - маленькая энциклопедия (1986)"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Файл:",
+      "value": "Скачать 20 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2014/5a643fcf0e2620826673d0783c59774a"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/4/f/fizika-kosmosa-malenkaja-enciklopedija-1986-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2014/5a643fcf0e2620826673d0783c59774a"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 66,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 38856
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 19,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "8c3db2f42e1ae8b45aa0a7dc91878eea301e165dd2cf4355092fe1ed08fce60b",
+  "archiveSnapshotAt": "2026-10-08T08:48:30Z"
+}

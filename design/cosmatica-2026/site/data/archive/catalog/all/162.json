@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 162,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "О Героях космоса говорили в Челябинске",
+      "description": "23 ноября 2018г. в Колонном зале Челябинской областной научной библиотеки прошли первые общественные \"Гудилинские слушания\".",
+      "url": "https://cosmatica.org/articles/430-o-gerojah-kosmosa-govorili-v-cheljabinske.html",
+      "image": "https://cosmatica.org/upload/000/u37/6b/62/o-gerojah-kosmosa-govorili-v-cheljabinske-photo-big.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=bb8387b7a73e716b56",
+      "type": "article",
+      "sourceCharacters": 3618,
+      "verified": false
+    },
+    {
+      "title": "Занимательная физиология",
+      "description": "В книге «Занимательная физиология» профессора Александра Никольского (1858–1942) в популярной форме рассказывается об устройстве организма, о важнейших жизненных функциях и особенностях работы отдельных органов. Книга насыщена наглядными примерами, сложный материал подается через призму повседневного опыта. Автор дает читателю ключ к пониманию своего организма и предлагает рекомендации по сохранению здоровья.Отдельны",
+      "url": "https://cosmatica.org/library/430-zanimatelnaja-fiziologija.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/1/zanimatelnaja-fiziologija-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=cae5bb051eb9630c8b",
+      "type": "book",
+      "sourceCharacters": 765,
+      "verified": false
+    },
+    {
+      "title": "Стань причастным к созданию космического будущего!",
+      "description": "Космонавт — одна из немногих профессий, где надо знать всё. Действительно, находясь за пределами нашей колыбели жизни, человека ожидает множество трудных задач, поэтому надо быть готовым ко всему. Полеты в космос не ограничиваются астронавтами, которые работают на орбите. Огромное количество людей трудятся для того, чтобы те самые смелые люди отправились за пределы нашей родной Земли. Инженеры и программисты, роботот",
+      "url": "https://cosmatica.org/news/430-stan-prichastnym-k-sozdaniyu-kosmicheskogo-buduschego.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/7/06256e9d.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=241d27dad7a218c41b",
+      "type": "news-item",
+      "sourceCharacters": 5023,
+      "verified": false
+    },
+    {
+      "title": "Гудилинские слушания на Родине Гудилина",
+      "description": "20, 30, 80... Полёт нормальный! Снежинск - стартовая площадка для новых Прорывов.",
+      "url": "https://cosmatica.org/articles/429-gudilinskie-slushanija-na-rodine-gudilina.html",
+      "image": "https://cosmatica.org/upload/000/u37/6a/2e/gudilinskie-slushanija-na-rodine-gudilina-photo-big.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=2a785e091c29aa16f7",
+      "type": "article",
+      "sourceCharacters": 7393,
+      "verified": false
+    },
+    {
+      "title": "Занимательная зоология",
+      "description": "Слово «зоология» понимается в этой книжке в самом широком смысле: под этим названием автор подразумевает совокупность всякого рода сведений о животных, т. е. сведений, касающихся не только строения и образа жизни животных, но и отправления их органов размножения, развития их из яйца и проч. Так как и человек относится к царству животных, то и ему в книжке уделена некоторая доля внимания, главным образом в отношении ф",
+      "url": "https://cosmatica.org/library/429-zanimatelnaja-zoologija.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/2/zanimatelnaja-zoologija-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=fad067aed830352ab8",
+      "type": "book",
+      "sourceCharacters": 1832,
+      "verified": false
+    },
+    {
+      "title": "Луна сияла в \"Сундуках\"",
+      "description": "В лучах Луны ты шлешь мне свои любовные письма, — сказала Ночь Солнцу. — Я оставлю свои ответы — слезами на траве.",
+      "url": "https://cosmatica.org/news/429-luna-sijala-v-sundukah.html",
+      "image": "https://cosmatica.org/upload/000/u43/1/d/21d0ff5e.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4c2914899020b6c6ed",
+      "type": "news-item",
+      "sourceCharacters": 1244,
+      "verified": false
+    },
+    {
+      "title": "Гудилинские слушания расширяют аудиторию.",
+      "description": "Школьники Снежинска узнали о проекте \"Энергия-Буран\".",
+      "url": "https://cosmatica.org/articles/428-gudilinskie-slushanija-rasshirjayut-auditoriyu.html",
+      "image": "https://cosmatica.org/upload/000/u37/d7/b9/ccd34a68.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=2c7a6bdea0b8709f20",
+      "type": "article",
+      "sourceCharacters": 2447,
+      "verified": false
+    },
+    {
+      "title": "Занимательная техника в прошлом",
+      "description": "Книга состоит из разделов: «В помощь изобретателю», «Из прошлого машины», «О старинных станках и орудиях производства», «Транспорт прежде», «Из истории техники связи и дворовых сношений», «Из прошлого некоторых полезных изобретений», «Русская техника в прошлом».",
+      "url": "https://cosmatica.org/library/428-zanimatelnaja-tehnika-v-proshlom.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/9/zanimatelnaja-tehnika-v-proshlom-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=934476d13c3a7c5165",
+      "type": "book",
+      "sourceCharacters": 302,
+      "verified": false
+    },
+    {
+      "title": "Награждение в Калуге",
+      "description": "В замечательном городе Калуге 13 мая 2019 года на базе «Школы-интерната № 5 им. Ф.А. Рау» состоялось долгожданное награждение победителей Международного конкурса рисунка «Наше космическое завтра», посвященного 85-летию Ю.А. Гагарина.",
+      "url": "https://cosmatica.org/news/428-nagrazhdenie-v-kaluge.html",
+      "image": "https://cosmatica.org/upload/001/u172/9/5/106ceccf.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=390719b7d458e22376",
+      "type": "news-item",
+      "sourceCharacters": 1461,
+      "verified": false
+    },
+    {
+      "title": "Поиск образа правильной идеи: общее дело человечества и биосферы",
+      "description": "В 1920-х годах В.И.Вернадский и А.Лотка, а в 1960-х П.Г.Кузнецов и Н.Одум показали, что поток потребляемой обществом энергии, т.е. его полная мощность , является мерой его потенциальных возможностей на определённое время . В поток потребляемой обществом энергии входят:",
+      "url": "https://cosmatica.org/articles/427-poisk-obraza-pravilnoi-idei-obschee-delo-chelovechestva-i-biosfery.html",
+      "image": "https://cosmatica.org/upload/000/u26/0a/6f/8january.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=5c7a3f188dbcd3a5b3",
+      "type": "article",
+      "sourceCharacters": 24955,
+      "verified": false
+    },
+    {
+      "title": "Занимательная авиация",
+      "description": "Понимая под авиацией совокупность всех достижений человека в области механического летания, летописец русской авиации Вегелин счел здесь своей задачей изложить основную сущность некоторых вопросов этой области в общедоступной и, по возможности, занимательной форме. Общая",
+      "url": "https://cosmatica.org/library/427-zanimatelnaja-aviacija.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/1/zanimatelnaja-aviacija-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=9aa05a9adac28d3571",
+      "type": "book",
+      "sourceCharacters": 939,
+      "verified": false
+    },
+    {
+      "title": "В Петербурге обсуждали философские и методологические проблемы научно-технического творчества",
+      "description": "В конференции приняли участие и представители Петербургского отделения Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/427-v-peterburge-obsuzhdali-filosofskie-i-metodologicheskie-problemy-nauchno-tehnicheskogo-tvorchest.html",
+      "image": "https://cosmatica.org/upload/000/u21/e/2/bac8905b.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=dd5f12c1c968e845b6",
+      "type": "news-item",
+      "sourceCharacters": 3514,
+      "verified": false
+    },
+    {
+      "title": "Храм, который мы потеряли",
+      "description": "В 1967 году сбылось моё желание посетить Соловки, где невинно погиб мой дед – казак Оснач Архип Васильевич. Прожив две недели и увидев всё, что было можно на Соловецких островах, мы остановились в Петрозаводске, чтобы посетить знаменитые Кижи. Узнав, что автобусом я могу добраться до Кондопоги, я немедленно туда отправилась увидеть Церковь Успения Богородицы. Печальное это было зрелище, не было даже тропинки к храму.",
+      "url": "https://cosmatica.org/articles/426-hram-kotoryi-my-poterjali.html",
+      "image": "https://cosmatica.org/upload/000/u26/74/7a/7january.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=dfc4fdf60c748d8899",
+      "type": "article",
+      "sourceCharacters": 2934,
+      "verified": false
+    },
+    {
+      "title": "Занимательная география",
+      "description": "Книга выдающегося русского географа С.А. Аржанова представляет собой занимательное изложение природных явлений, парадоксов и феноменов.",
+      "url": "https://cosmatica.org/library/426-zanimatelnaja-geografija.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/0/zanimatelnaja-geografija-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ca1527e1091458ef19",
+      "type": "book",
+      "sourceCharacters": 181,
+      "verified": false
+    },
+    {
+      "title": "Жизнь и полёт Ю.А. Гагарина в отражении кинематографа.",
+      "description": "Дарья Павловна Хаблова, Полина Алексеевна Клочкова,",
+      "url": "https://cosmatica.org/news/426-zhizn-i-polyot-yu-a-gagarina-v-otrazhenii-kinematografa.html",
+      "image": "https://cosmatica.org/upload/000/u21/4/6/zhizn-i-polyot-yu-a-gagarina-v-otrazhenii-kinematografa-photo-no.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=28a520daa7da9c8f42",
+      "type": "news-item",
+      "sourceCharacters": 19943,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

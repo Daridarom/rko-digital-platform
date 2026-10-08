@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/340-shestdesjat-let-u-teleskopa-1959.html",
+  "title": "Шестьдесят лет у телескопа (1959)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/4/shestdesjat-let-u-teleskopa-1959-photo-normal.jpg",
+      "alt": "Шестьдесят лет у телескопа (1959)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Автор книги «Шестьдесят лет у телескопа» Гавриил Адрианович Тихов — выдающийся ученый нашего времени. Им сделаны замечательные открытия в области астрономии. Многие из них связаны с изучением Марса. Г. А. Тихое считает, что на Марсе существует",
+      "spans": [
+        {
+          "text": "Автор книги «Шестьдесят лет у телескопа» Гавриил Адрианович Тихов — выдающийся ученый нашего времени. Им сделаны замечательные открытия в области астрономии. Многие из них связаны с изучением Марса. Г. А. Тихое считает, что на Марсе существует"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "жизнь",
+      "spans": [
+        {
+          "text": "жизнь"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ". Он доказывает это с помощью новой созданной им науки — астроботаники.О своем жизненном пути, о труде исследователя — астронома рассказывает ученый в этой книге.",
+      "spans": [
+        {
+          "text": ". Он доказывает это с помощью новой созданной им науки — астроботаники.О своем жизненном пути, о труде исследователя — астронома рассказывает ученый в этой книге."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Тихов Г.А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Автор книги «Шестьдесят лет у телескопа» Гавриил Адрианович Тихов — выдающийся ученый нашего времени. Им сделаны замечательные открытия в области астрономии. Многие из них связаны с изучением Марса. Г. А. Тихое считает, что на Марсе существует жизнь . Он доказывает это с помощью новой созданной им науки — астроботаники.О своем жизненном пути, о труде исследователя — астронома рассказывает ученый в этой книге.",
+      "links": [
+        {
+          "title": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 8 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2076/845512a9f93b6ee9931505fc52afb925"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/5/4/shestdesjat-let-u-teleskopa-1959-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2076/845512a9f93b6ee9931505fc52afb925"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 483,
+    "storedTextCharacters": 410,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40545
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 449,
+  "capturedBodyCharacters": 410,
+  "sourceTextSHA256": "7638fe603fab66590b881a051ed70fee543d0d4bd0e4c21d869120cf72986242",
+  "archiveSnapshotAt": "2026-10-08T08:49:24Z"
+}

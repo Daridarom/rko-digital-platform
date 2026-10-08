@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 268,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Волгоградская область",
+      "description": "Председатель отделения - Баркова Элеонора Владиленовна",
+      "url": "https://cosmatica.org/departments/19-volgogradskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=b0f6bd412eff3aeabb",
+      "type": "department",
+      "sourceCharacters": 134,
+      "verified": false
+    },
+    {
+      "title": "Управление устойчивым инновационным развитием",
+      "description": "это целенаправ­ленное изменение объекта управления, обеспечивающее",
+      "url": "https://cosmatica.org/glossary/19-upravlenie-ustoichivym-innovacionnym-razvitiem.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=a7b265e54f287e6c5a",
+      "type": "article",
+      "sourceCharacters": 392,
+      "verified": false
+    },
+    {
+      "title": "Еще раз о втором законе термодинамики и \"тепловой смерти\" Вселенной",
+      "description": "",
+      "url": "https://cosmatica.org/library/19-esche-raz-o-vtorom-zakone-termodinamiki-i-teplovoi-smerti-vselennoi.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=55939a9d189963c800",
+      "type": "book",
+      "sourceCharacters": 51,
+      "verified": false
+    },
+    {
+      "title": "Регистрация РКО",
+      "description": "Символично, что это событие произошло именно 25 октября 2017 года, ровно через 100 лет после Великой Октябрьской Социалистической революции. Это событие, юбилей которого отметило всё прогрессивное человечество, повлияло на ход не только Российской, но и всепланетарной истории.",
+      "url": "https://cosmatica.org/news/19-registracija-rko.html",
+      "image": "https://cosmatica.org/upload/000/u1/69/dd/registracija-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=acb354c54aed380db2",
+      "type": "news-item",
+      "sourceCharacters": 1020,
+      "verified": false
+    },
+    {
+      "title": "Закрытие лагерной смены \"Космодесант-2018\" #Военно-космические сборы «Космодесант»",
+      "description": "Главной целью лагеря является воспитание духа товарищества, ответственности и самостоятельности в детях. Космического масштаба мышления, настроя на победу, готовности создавать идеи и воплощать их в жизнь .",
+      "url": "https://cosmatica.org/poster/19-zakrytie-lagernoi-smeny-kosmodesant-2018.html",
+      "image": "https://cosmatica.org/upload/000/u26/6d/f2/zakrytie-lagernoi-smeny-kosmodesant-2018-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=3c73063adb03259673",
+      "type": "poster-item",
+      "sourceCharacters": 1516,
+      "verified": false
+    },
+    {
+      "title": "Стратегия становления – наше Общее Дело",
+      "description": "Стратегия становления Русского Космического Общества – наше Общее Дело",
+      "url": "https://cosmatica.org/about/18-strategija-stanovlenija-nashe-obschee-delo.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/d/bezymjannyi.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=a654f9881ecb1bb234",
+      "type": "article",
+      "sourceCharacters": 20383,
+      "verified": false
+    },
+    {
+      "title": "Экологический Совет",
+      "description": "Деятельность Совета: направлена на обеспечение решения задач «Русского Космического Общества» по изучению и популяризации космонавтики, содействие сохранению научного, исторического и культурного наследия русского космизма, содействие сохранению и приумножению общечеловеческих ценностей, выработанных мировым экологическим движением, создание в России общества сбалансированного устойчивого развития, общества высокой к",
+      "url": "https://cosmatica.org/collegium/18-ekologicheskii-sovet.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=88d158f1b1ff959b3f",
+      "type": "collegium-item",
+      "sourceCharacters": 4475,
+      "verified": false
+    },
+    {
+      "title": "Кемеровская область",
+      "description": "Председатель отделения - Грицкевич Татьяна Игоревна",
+      "url": "https://cosmatica.org/departments/18-kemerovskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=40374b638e97dbb153",
+      "type": "department",
+      "sourceCharacters": 97,
+      "verified": false
+    },
+    {
+      "title": "Финансы",
+      "description": "предметная область, изучающая движение потоков, выра­женных в денежной форме.",
+      "url": "https://cosmatica.org/glossary/18-finansy.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=2a1751e2cd8098eac7",
+      "type": "article",
+      "sourceCharacters": 77,
+      "verified": false
+    },
+    {
+      "title": "Книга \"Империум человека\" и презентация РКО в Иваново",
+      "description": "Эта книга в оригинальной художественной форме раскрывает ряд мировоззренческих положений, которые близки Русскому Космическому Обществу. Ключевая идея книги – формирование нового человека, новых элит - принципиально нового общества. Тема раскрывается в частностях, начиная от необходимости стремиться к тому, что кажется невозможным, и заканчивая сравнением мировоззрения разных цивилизаций. Успеха в этом соревновании д",
+      "url": "https://cosmatica.org/news/18-kniga-imperium-cheloveka-i-prezentacija-rko-v-ivanovo.html",
+      "image": "https://cosmatica.org/upload/000/u1/47/07/kniga-imperium-cheloveka-i-prezentacija-rko-v-ivanovo-photo-norm.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=39db19bffb3da7f23b",
+      "type": "news-item",
+      "sourceCharacters": 922,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество в вопросах и ответах команды инициаторов его создания",
+      "description": "Как мы пришли к идее Русского Космического Общества?",
+      "url": "https://cosmatica.org/about/17-russkoe-kosmicheskoe-obschestvo-v-voprosah-i-otvetah-komandy-iniciatorov-sozdanija-rko.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=7034b4f3d430a715eb",
+      "type": "article",
+      "sourceCharacters": 16156,
+      "verified": false
+    },
+    {
+      "title": "Школа Русского Космизма как мировоззренческая основа Русского Космического общества",
+      "description": "Возникновение школы Русского Космизма было своеобразным ответом русской научной мысли на вызов «о неизбежности тепловой смерти (конце) Вселенной», который был брошен мировому сообществу после рассмотрения Клаузиусом принципов сохранения энергии и роста энтропии. По существу, в поиске ответа на этот глобальный вызов и лежат работы Русского Космизма.",
+      "url": "https://cosmatica.org/articles/17-shkola-russkogo-kosmizma-kak-mirovozzrencheskaja-osnova-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u1/fe/52/shkola-russkogo-kosmizma-kak-mirovozzrencheskaja-osnova-russkogo-k.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=6d701883fc12008bce",
+      "type": "article",
+      "sourceCharacters": 15428,
+      "verified": false
+    },
+    {
+      "title": "Совет по культуре",
+      "description": "Деятельность Совета: направлена на создание среды для развития и роста мощности человека, общества, государства и Жизни в целом посредством Культуры, отвечающей целям космической эволюции Жизни как космопланетарного явления.",
+      "url": "https://cosmatica.org/collegium/17-sovet-po-kulture.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=9fefdac744090e62b5",
+      "type": "collegium-item",
+      "sourceCharacters": 2139,
+      "verified": false
+    },
+    {
+      "title": "Физическая величина",
+      "description": "это величина с мерой пространственно- временных единиц.",
+      "url": "https://cosmatica.org/glossary/17-fizicheskaja-velichina.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=39af0ffe81ea50379f",
+      "type": "article",
+      "sourceCharacters": 55,
+      "verified": false
+    },
+    {
+      "title": "Моисеев Никита Николаевич - Судьба цивилизации, путь разума",
+      "description": "Книга несомненно будет полезна не только учащимся и профессионалам в области экологического образования, но и широким слоям читателей, задумывающихся о том, что ждет нас и грядущие поколения в ближайшей и отдаленной перспективе эволюции жизни на планете Земля.",
+      "url": "https://cosmatica.org/library/17-moiseev-nikita-nikolaevich-sudba-civilizacii-put-razuma.html",
+      "image": "https://cosmatica.org/upload/000/u1/bc/6e/moiseev-nikita-nikolaevich-sudba-civilizacii-put-razuma-phot.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=d83e1ade6c2e195979",
+      "type": "book",
+      "sourceCharacters": 312,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

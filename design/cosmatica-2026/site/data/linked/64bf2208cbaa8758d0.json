@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/701-kosmopoisk.html",
+  "title": "Космопоиск",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Гагаринский отряд МБОУ \"Лопатинская средняя общеобразовательная школа\"",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/c/6/kosmopoisk-photo-normal.jpg",
+      "alt": "Космопоиск"
+    },
+    {
+      "type": "paragraph",
+      "text": "21 февраля участники Гагаринского отряда провели настоящий космопоиск. Дети были на удивительной встрече с учёным Наталией Владимировной Масловой. Это человек, который работал с дочкой Юрия Гагарина, лично знаком с космонавтами. Ребята услышали много интересных познавательных историй. И получили в дар школьного музея ценные экспонаты, которые были приняты по акту. Юные поисковики побывали в роли настоящих архивариусов. И завершили нашу встречу за круглым столом с чашкой чая и тортом \"Полёт\". Оказывается этот торт стали выпускать в 1961 году после полёта Юрия Гагарина. Вот такая получилась Со-бытийная встреча!",
+      "spans": [
+        {
+          "text": "21 февраля участники Гагаринского отряда провели настоящий космопоиск. Дети были на удивительной встрече с учёным Наталией Владимировной Масловой. Это человек, который работал с дочкой Юрия Гагарина, лично знаком с космонавтами. Ребята услышали много интересных познавательных историй. И получили в дар школьного музея ценные экспонаты, которые были приняты по акту. Юные поисковики побывали в роли настоящих архивариусов. И завершили нашу встречу за круглым столом с чашкой чая и тортом \"Полёт\". Оказывается этот торт стали выпускать в 1961 году после полёта Юрия Гагарина. Вот такая получилась  Со-бытийная встреча!"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/4/2/kosmopoisk-gallery-normal.jpg",
+      "alt": "Космопоиск 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/d/0/kosmopoisk-gallery-normal.jpg",
+      "alt": "Космопоиск 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/2/3/kosmopoisk-gallery-normal.jpg",
+      "alt": "Космопоиск 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/2/2/kosmopoisk-gallery-normal.jpg",
+      "alt": "Космопоиск 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/a/4/kosmopoisk-gallery-normal.jpg",
+      "alt": "Космопоиск 4"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/7/d/kosmopoisk-gallery-normal.jpg",
+      "alt": "Космопоиск 5"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/5/8/kosmopoisk-gallery-normal.jpg",
+      "alt": "Космопоиск 6"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/d/c/kosmopoisk-gallery-normal.jpg",
+      "alt": "Космопоиск 7"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/d/9/kosmopoisk-gallery-normal.jpg",
+      "alt": "Космопоиск 8"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Встреча юных гагринцев с Наталией Владимировной Масловой",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "21 февраля участники Гагаринского отряда провели настоящий космопоиск. Дети были на удивительной встрече с учёным Наталией Владимировной Масловой. Это человек, который работал с дочкой Юрия Гагарина, лично знаком с космонавтами. Ребята услышали много интересных познавательных историй. И получили в дар школьного музея ценные экспонаты, которые были приняты по акту. Юные поисковики побывали в роли настоящих архивариусов. И завершили нашу встречу за круглым столом с чашкой чая и тортом \"Полёт\". Оказывается этот торт стали выпускать в 1961 году после полёта Юрия Гагарина. Вот такая получилась Со-бытийная встреча!",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u72/c/6/kosmopoisk-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/4/2/kosmopoisk-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/d/0/kosmopoisk-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/2/3/kosmopoisk-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/2/2/kosmopoisk-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/a/4/kosmopoisk-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/7/d/kosmopoisk-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/5/8/kosmopoisk-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/d/c/kosmopoisk-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/d/9/kosmopoisk-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 901,
+    "storedTextCharacters": 698,
+    "sourceCardCount": 0,
+    "sourceImageCount": 10,
+    "paragraphCount": 1,
+    "sourceBytes": 49429
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 708,
+  "capturedBodyCharacters": 698,
+  "sourceTextSHA256": "c2f556ff1f8fff41943049307b0cbbe0bd845bd867dd0a179212de3f9586e4cf",
+  "archiveSnapshotAt": "2026-10-08T09:13:08Z"
+}

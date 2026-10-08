@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/371-angliiskii-dlja-malyshei-kniga-3.html",
+  "title": "Английский для малышей (книга 3)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/9/6/angliiskii-dlja-malyshei-kniga-3-photo-normal.png",
+      "alt": "Английский для малышей (книга 3)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Перед вами популярнейший учебник английского языка для детей. Теперь у вас появилась прекрасная возможность использовать методику быстрого и качественного освоения живого английского языка.\r\nЭта методика обучения, разработанная В. И. Скультэ более полувека назад, не потеряла своей актуальности и в наши дни.",
+      "spans": [
+        {
+          "text": "Перед вами популярнейший учебник английского языка для детей. Теперь у вас появилась прекрасная возможность использовать методику быстрого и качественного освоения живого английского языка.\r\nЭта методика обучения, разработанная В. И. Скультэ более полувека назад, не потеряла своей актуальности и в наши дни."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Скультэ В.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Перед вами популярнейший учебник английского языка для детей. Теперь у вас появилась прекрасная возможность использовать методику быстрого и качественного освоения живого английского языка. Эта методика обучения, разработанная В. И. Скультэ более полувека назад, не потеряла своей актуальности и в наши дни.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 39 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2181/e8196c6c57dd33abfb88ac06edbe3cad"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/9/6/angliiskii-dlja-malyshei-kniga-3-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2181/e8196c6c57dd33abfb88ac06edbe3cad"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 378,
+    "storedTextCharacters": 308,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40692
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 345,
+  "capturedBodyCharacters": 308,
+  "sourceTextSHA256": "b518d2da2ec239a46f3d806f88e91a768338fca8b9019c0dd90b40db226825b3",
+  "archiveSnapshotAt": "2026-10-08T08:49:32Z"
+}

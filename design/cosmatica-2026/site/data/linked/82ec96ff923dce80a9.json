@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/378",
+  "title": "Сергей Викторович Палагин",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/8/9/04bc67ad.jpg",
+      "alt": "Сергей Викторович Палагин"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/a/6/35c2f9a2.jpg",
+      "alt": "Сергей Викторович Палагин"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Базовое образование — инженер-электрик",
+      "spans": [
+        {
+          "text": "Базовое образование — инженер-электрик"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "(Саратовский политехнический институт, 1977 год.)",
+      "spans": [
+        {
+          "text": "(Саратовский политехнический институт, 1977 год.)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1989 — получение второго образования — социолог",
+      "spans": [
+        {
+          "text": "1989 — получение второго образования — социолог"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1991 год — защита диссертации на степень кандидата философских наук.",
+      "spans": [
+        {
+          "text": "1991 год — защита диссертации на степень кандидата философских наук."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "2000 год — издание первой монографии «Полилогические раскопки»",
+      "spans": [
+        {
+          "text": "2000 год — издание первой монографии «Полилогические раскопки»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Базовое образование — инженер-электрик (Саратовский политехнический институт, 1977 год.) 1989 — получение второго образования — социолог 1991 год — защита диссертации на степень кандидата философских наук. 2000 год — издание первой монографии «Полилогические раскопки»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/8/9/04bc67ad.jpg",
+    "https://cosmatica.org/upload/000/u35/a/6/35c2f9a2.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 340,
+    "storedTextCharacters": 297,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35466
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 289,
+  "capturedBodyCharacters": 297,
+  "sourceTextSHA256": "9f6153cf269bb11c0e4939bf684ba8c96898c87d65e073e79b29a42c1bb3a67e",
+  "archiveSnapshotAt": "2026-10-08T09:19:27Z"
+}

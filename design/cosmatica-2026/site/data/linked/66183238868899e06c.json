@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/446-pervyi-angel.html",
+  "title": "Первый Ангел",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u38/e/1/pervyi-angel-photo-normal.jpg",
+      "alt": "Первый Ангел"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга доступна для чтения по адресу: https://ridero.ru/books/pervyi_angel/ Будем рады Вашей поддержке, отзывам и комментариям.",
+      "spans": [
+        {
+          "text": "Книга доступна для чтения по адресу: https://ridero.ru/books/pervyi_angel/ Будем рады Вашей поддержке, отзывам и комментариям."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Степан Андреевич Зотов",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга доступна для чтения по адресу: https://ridero.ru/books/pervyi_angel/ Будем рады Вашей поддержке, отзывам и комментариям.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u38/e/1/pervyi-angel-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 169,
+    "storedTextCharacters": 126,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 38897
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 156,
+  "capturedBodyCharacters": 126,
+  "sourceTextSHA256": "6c63058f045682f4d1313a43e1ecb1e600ca5569535a1c63ff5e8ac8dbd7b342",
+  "archiveSnapshotAt": "2026-10-08T09:07:06Z"
+}

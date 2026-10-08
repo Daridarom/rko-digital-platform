@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 129,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Наше слово станет делом!",
+      "description": "Русское космическое общество, являясь соорганизатором мероприятия, приглашает всех желающих принять участие в IV Общественном диалоге «Что нас объединяет?!», который будет проходить 28 июня в Общественной палате РФ. Основными темами обсуждения в этом году станут: «Российская Конституция: гарантия стабильности, основа перемен»; «Как нам обустроить Россию? Драйверы территориального развития»; «Возможности лидерства в ц",
+      "url": "https://cosmatica.org/news/121-chto-nas-obedinjaet.html",
+      "image": "https://cosmatica.org/upload/000/u26/ad/49/chto-nas-obedinjaet-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d178d7f7d4c4c595ba",
+      "type": "news-item",
+      "sourceCharacters": 1717,
+      "verified": false
+    },
+    {
+      "title": "Новый выпуск цикла передач \"Прорыв!\"",
+      "description": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/120-novyi-vypusk-cikla-peredach-proryv.html",
+      "image": "https://cosmatica.org/upload/000/u8/9e/d6/1791d4c8.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6a7adaf4dbbaff2f87",
+      "type": "news-item",
+      "sourceCharacters": 688,
+      "verified": false
+    },
+    {
+      "title": "Продолжая дело учителя",
+      "description": "21 сентября 2018 года состоятся первые \"Побисковские чтения\"",
+      "url": "https://cosmatica.org/news/118-prodolzhaja-delo-uchitelja.html",
+      "image": "https://cosmatica.org/upload/000/u26/e8/3b/prodolzhaja-delo-uchitelja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8818452f3ebd86febc",
+      "type": "news-item",
+      "sourceCharacters": 2069,
+      "verified": false
+    },
+    {
+      "title": "\"Последний ароморфоз: истоки человека и его будущее сверхадаптивности\"",
+      "description": "Статья «Последний ароморфоз: истоки человека и его будущее сверхадаптивности» была написана Сопредседателем Совета Безопасности Русского Космического Общества Чагиным Олегом Александровичем в 2014 году.",
+      "url": "https://cosmatica.org/news/117-poslednii-aromorfoz-istoki-cheloveka-i-ego-buduschee-sverhadaptivnosti.html",
+      "image": "https://cosmatica.org/upload/000/u73/ac/57/poslednii-aromorfoz-istoki-cheloveka-i-ego-buduschee-sverhadaptivn.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1e76ac1e39aa8026b6",
+      "type": "news-item",
+      "sourceCharacters": 1116,
+      "verified": false
+    },
+    {
+      "title": "\"Введение в проблему синтеза междисциплинарных знаний\" в новом свете",
+      "description": "Президент РКО, академик РАЕН, Большаков Б.Е.; Президент РАЕН, Кузнецов О.Л.; Председатель Президиума РКО, советник РАЕН Гапонов А.А.",
+      "url": "https://cosmatica.org/news/116-vvedenie-v-problemu-sinteza-mezhdisciplinarnyh-znanii.html",
+      "image": "https://cosmatica.org/upload/000/u9/31/2b/vvedenie-v-problemu-sinteza-mezhdisciplinarnyh-znanii-photo-norm.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1a2e389c644e424937",
+      "type": "news-item",
+      "sourceCharacters": 1299,
+      "verified": false
+    },
+    {
+      "title": "Женские голоса звучат во Вселенной",
+      "description": "Мероприятие приурочено к знаменательной дате. 16 июня 2018 года исполнилось ровно 55 лет с того дня, когда на корабле \"Восток-6\", свой космический полёт совершила Валентина Владимировна Терешкова. С позывным Чайка, она стала шестым космонавтом СССР и первой женщиной, отправившейся в космос.",
+      "url": "https://cosmatica.org/news/115-zhenskie-golosa-zvuchat-vo-vselennoi.html",
+      "image": "https://cosmatica.org/upload/000/u26/d2/f5/987a873d.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1cf9b7b19b314f7d75",
+      "type": "news-item",
+      "sourceCharacters": 4262,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество продолжает издательскую деятельность",
+      "description": "В учебном пособии излагаются основные понятия и методические основы научной экспертизы проектов устойчивого развития сложных социально-экономических систем, позиция Научной школы устойчивого развития для проектирования в системе «природа — общество — человек». Работа структурирована по разделам: введение, основные понятия и критерии научной экспертизы проектов устойчивого развития, методические основы научной эксперт",
+      "url": "https://cosmatica.org/news/113-russkoe-kosmicheskoe-obschestvo-prodolzhaet-izdatelskuyu-dejatelnost.html",
+      "image": "https://cosmatica.org/upload/000/u26/8e/01/5c7648f7.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=19236c27520bfbdb20",
+      "type": "news-item",
+      "sourceCharacters": 2228,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль \"Сундуки - Храм Солнца\"",
+      "description": "В рамках фестиваля «Сундуки — Храм Солнца» 22-23 июня 2018г. в Хакасии будет работать площадка Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/112-festival-sunduki-hram-solnca.html",
+      "image": "https://cosmatica.org/upload/000/u43/f5/80/festival-sunduki-hram-solnca-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b60e4793be285a63ac",
+      "type": "news-item",
+      "sourceCharacters": 1667,
+      "verified": false
+    },
+    {
+      "title": "«Он сказал: «Поехали!», он махнул рукой...»",
+      "description": "Русское Космическое Общество вступил в ряды организаторов Национального детско-юношеского конкурса поэтов-песенников «Талант, согревающий добром». Премиальный фонд специальной космической номинации конкурса будет сформирован на основании решения Президиума РКО.",
+      "url": "https://cosmatica.org/news/111-on-skazal-poehali-on-mahnul-rukoi.html",
+      "image": "https://cosmatica.org/upload/000/u26/00/f9/on-skazal-poehali-on-mahnul-rukoi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0df2ee4585c5948f1e",
+      "type": "news-item",
+      "sourceCharacters": 1943,
+      "verified": false
+    },
+    {
+      "title": "Идет набор в группу \"СИСТЕМНО - ЦЕЛОСТНОЕ МЫШЛЕНИЕ\" Научно-практический психологический семинар.",
+      "description": "доктор психологических наук, академик РАЕН, КАН, КАНОН",
+      "url": "https://cosmatica.org/news/110-idet-nabor-v-gruppu-sistemno-celostnoe-myshlenie-nauchno-prakticheskii-psihologicheskii-seminar.html",
+      "image": "https://cosmatica.org/upload/000/u42/4a/13/seminar-celostnoe-myshlenie-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bb41fe429215a4dae3",
+      "type": "news-item",
+      "sourceCharacters": 25853,
+      "verified": false
+    },
+    {
+      "title": "Продвижение РКО в научно-технической сфере",
+      "description": "Национальная технологическая палата (НТП) является профессиональной самоуправляемой некоммерческой организацией, объединяющей на добровольных началах государственные, коммерческие, некоммерческие организации и индивидуальных предпринимателей, специализирующихся в области разработки и производства новой техники и технологий, осуществления инновационной деятельности, связанной с вовлечением в хозяйственный оборот интел",
+      "url": "https://cosmatica.org/news/109-prodvizhenie-rko-v-nauchno-tehnicheskoi-sfere.html",
+      "image": "https://cosmatica.org/upload/000/u26/af/39/2d8d96e0.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fc5da90d5f36d77f6f",
+      "type": "news-item",
+      "sourceCharacters": 1515,
+      "verified": false
+    },
+    {
+      "title": "Пилотный проект \"Астропутешествие в Париж\" состоялся",
+      "description": "В период 26 мая по 02 июня прошло путешествие по Парижу вместе с Алевтиной Лещенко , членом РКО и Астроклуба «СПАГО».",
+      "url": "https://cosmatica.org/news/108-pilotnyi-proekt-astroputeshestvie-v-parizh-sostojalsja.html",
+      "image": "https://cosmatica.org/upload/000/u21/34/3f/pilotnyi-proekt-astroputeshestvie-v-parizh-sostojalsja-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=013f441a7fedc6f4b4",
+      "type": "news-item",
+      "sourceCharacters": 970,
+      "verified": false
+    },
+    {
+      "title": "«Космодесант-2018»: ведётся набор на летнюю смену",
+      "description": "Главной целью лагеря является воспитание духа товарищества, ответственности и самостоятельности в детях. Настроя на победу, благодарность, уважение к себе, к равным и старшим.",
+      "url": "https://cosmatica.org/news/114-kosmodesant-2018-vedyotsja-nabor-na-letnyuyu-smenu.html",
+      "image": "https://cosmatica.org/upload/000/u26/d6/77/kosmodesant-2018-vedyotsja-nabor-na-letnyuyu-smenu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=913e71f0d5ee73959d",
+      "type": "news-item",
+      "sourceCharacters": 1524,
+      "verified": false
+    },
+    {
+      "title": "Состоялось очередное собрание литературного клуба",
+      "description": "Встреча была посвящена творчеству Александра Блока. В рамках мероприятия был разобран творческий и жизненный путь великого русского писателя.",
+      "url": "https://cosmatica.org/news/105-sostojalos-ocherednoe-sobranie-literaturnogo-kluba.html",
+      "image": "https://cosmatica.org/upload/000/u1/0f/53/sostojalos-ocherednoe-sobranie-literaturnogo-kluba-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5543d19d362cd2630a",
+      "type": "news-item",
+      "sourceCharacters": 226,
+      "verified": false
+    },
+    {
+      "title": "Большое космическое путешествие «Познавая тайны Вселенной»",
+      "description": "В виртуальной экспедиции, кроме воспитанников клуба «Эврика» при музее-заповедники «Сундуки», мог принять участие каждый житель села: и взрослый, и ребёнок.",
+      "url": "https://cosmatica.org/news/119-bolshoe-kosmicheskoe-puteshestvie-poznavaja-tainy-vselennoi.html",
+      "image": "https://cosmatica.org/upload/000/u43/a8/39/bolshoe-kosmicheskoe-puteshestvie-poznavaja-tainy-vselennoi-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ff53c010a713e03d3b",
+      "type": "news-item",
+      "sourceCharacters": 2435,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/186-proryv-vypusk-5-bardin-maksim-grigorevich.html",
+  "title": "\"Прорыв!\" Выпуск 5: Бардин Максим Григорьевич",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Цикл передач \"Прорыв!\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "\"Прорыв!\" - серия передач Русского Космического Общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "О добровольческом движении в России и необходимости продвижения идеи личной ответственности каждого гражданина страны.",
+      "spans": [
+        {
+          "text": "О добровольческом движении в России и необходимости продвижения идеи личной ответственности каждого гражданина страны."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа ВКонтакте",
+      "spans": [
+        {
+          "text": "Группа ВКонтакте",
+          "href": "https://vk.com/cosmatica"
+        }
+      ],
+      "links": [
+        {
+          "text": "Группа ВКонтакте",
+          "url": "https://vk.com/cosmatica"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Канал YouTube",
+      "spans": [
+        {
+          "text": "Канал YouTube",
+          "href": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ],
+      "links": [
+        {
+          "text": "Канал YouTube",
+          "url": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "3sv7WNjt8FU",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=3sv7WNjt8FU"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "\"Прорыв!\" - серия передач Русского Космического Общества. Об идеях нашего Общества. О нашей миссии. О новых проектах Прорыва. О том будущем, которое мы должны и будем создавать своими руками. Ведущий программы - Степан Андреевич Зотов. Гость передачи: Максим Григорьевич Бардин - член расширенного Общественного совета при Минвостокразвития России, куратор региональной политики Всероссийской общественной организации «Союз добровольцев России». О добровольческом движении в России и необходимости продвижения идеи личной ответственности каждого гражданина страны. Группа ВКонтакте Канал YouTube",
+      "links": [
+        {
+          "title": "Группа ВКонтакте",
+          "url": "https://vk.com/cosmatica"
+        },
+        {
+          "title": "Канал YouTube",
+          "url": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg?view_as=subscriber"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 754,
+    "storedTextCharacters": 227,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 76266
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 684,
+  "capturedBodyCharacters": 227,
+  "sourceTextSHA256": "feb976f84d55ba3adcfb554a7ce5459796ac45afa2bf93e0e655d03a88bdcb1a",
+  "archiveSnapshotAt": "2026-10-08T08:39:35Z",
+  "publicVideoCount": 1
+}

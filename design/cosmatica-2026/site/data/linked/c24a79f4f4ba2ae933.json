@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/25-sila-v-mehanike-i-obobschennye-sily-termodinamiki-neobratimyh-processov.html",
+  "title": "Сила в механике и обобщенные силы термодинамики необратимых процессов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "На основании опыта повседневной жизни человек обнаружил, что причина, обуславливающая\r\nизменения положения тел в пространстве или их формы, связана с деятельностью самого человека.",
+      "spans": [
+        {
+          "text": "На основании опыта повседневной жизни человек обнаружил, что причина, обуславливающая\r\nизменения положения тел в пространстве или их формы, связана с деятельностью самого человека."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "На основании опыта повседневной жизни человек обнаружил, что причина, обуславливающая изменения положения тел в пространстве или их формы, связана с деятельностью самого человека.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 297 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/41/4be13ea61ebbbf6edcfcc54f2f79c29f"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/41/4be13ea61ebbbf6edcfcc54f2f79c29f"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 270,
+    "storedTextCharacters": 180,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39562
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 200,
+  "capturedBodyCharacters": 180,
+  "sourceTextSHA256": "3b78e112220f45971a44d47b8b8f256e84528087a689665402e872018908a011",
+  "archiveSnapshotAt": "2026-10-08T08:48:15Z"
+}

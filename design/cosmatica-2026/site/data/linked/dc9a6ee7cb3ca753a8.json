@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/i",
+  "title": "И",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Империум человека",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Инвариант процесса исторического развития",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Инвариант в математике",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Инвариант в физике",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Инвариант",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Интуитивная теория",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Интуитивное мировоззрение",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Инновационное развитие",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Измерение",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Измеритель",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Информация",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Инновация",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 223,
+    "storedTextCharacters": 210,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 40481
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 223,
+  "capturedBodyCharacters": 210,
+  "sourceTextSHA256": "fa9586705cfd79b328579a9a93cd970b503507162f47f86345cd689458271da8",
+  "archiveSnapshotAt": "2026-10-08T08:47:25Z"
+}

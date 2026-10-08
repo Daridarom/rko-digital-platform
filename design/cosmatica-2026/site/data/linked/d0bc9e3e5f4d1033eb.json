@@ -7,8 +7,17 @@
   "blocks": [
     {
       "type": "image",
-      "src": "assets/source/7c150ce17151c35273d5d68a.webp",
+      "src": "https://cosmatica.org/upload/002/u218/9/c/fd8d2490.jpg",
       "alt": "Кто первый"
+    },
+    {
+      "type": "paragraph",
+      "text": "Литературный конкурс \"Империум: Победа!\" - 2026г. Номинация \"Эмоциональный подход\"",
+      "spans": [
+        {
+          "text": "Литературный конкурс \"Империум: Победа!\" - 2026г. Номинация \"Эмоциональный подход\""
+        }
+      ]
     }
   ],
   "cards": [],
@@ -31,19 +40,19 @@
       "links": [
         {
           "title": "Скачать",
-          "url": "https://cosmatica.org/files/download/5981/5e791353f4cdda3e13e7601012cac8db"
+          "url": "https://cosmatica.org/files/download/5981/ef4c970339742d74572e6c75e68fa983"
         }
       ],
       "image": null
     }
   ],
   "images": [
-    "assets/source/7c150ce17151c35273d5d68a.webp"
+    "https://cosmatica.org/upload/002/u218/9/c/fd8d2490.jpg"
   ],
   "documents": [
     {
       "label": "Скачать",
-      "url": "https://cosmatica.org/files/download/5981/5e791353f4cdda3e13e7601012cac8db"
+      "url": "https://cosmatica.org/files/download/5981/ef4c970339742d74572e6c75e68fa983"
     }
   ],
   "categories": [],
@@ -51,10 +60,16 @@
   "sourceEvidence": {
     "http": 200,
     "sourceTextCharacters": 138,
-    "storedTextCharacters": 0,
+    "storedTextCharacters": 82,
     "sourceCardCount": 0,
     "sourceImageCount": 1,
     "paragraphCount": 0,
     "sourceBytes": 39620
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 127,
+  "capturedBodyCharacters": 82,
+  "sourceTextSHA256": "283ceb990a5d441df038ab8410bd57193a5487dbe78e2f870f77cc8be76b9a53",
+  "archiveSnapshotAt": "2026-10-08T08:51:01Z"
 }

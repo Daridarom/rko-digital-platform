@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/filosofija",
+  "title": "Философия",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "Событийность - 6 книга. Каноны Мироздания и жизнь человека",
+          "Звездный Маэстро Л.В.Тимошенко (Ведагор)",
+          ""
+        ],
+        [
+          "",
+          "Ноосферное развитие. Ноосферный гуманизм. Ноосферная телеология.",
+          "Субетто А.И.",
+          ""
+        ],
+        [
+          "",
+          "Гармония в новой жизни.",
+          "Тройченко Алексей Анатольевич",
+          ""
+        ],
+        [
+          "",
+          "Учитесь мыслить смолоду. Издательство «Знание», 1977",
+          "Ильенков Э.В.",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u14/7/b/e971a95c.png",
+      "alt": "Ноосферное развитие. Ноосферный гуманизм. Ноосферная телеология."
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u228/3/c/garmonija-v-novoi-zhizni-photo-small.jpg",
+      "alt": "Гармония в новой жизни."
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/c/8/uchites-myslit-smolodu-izdatelstvo-znanie-1977-photo-small.jpg",
+      "alt": "Учитесь мыслить смолоду. Издательство «Знание», 1977"
+    }
+  ],
+  "cards": [
+    {
+      "title": "Событийность - 6 книга. Каноны Мироздания и жизнь человека",
+      "description": "Событийность - 6 книга. Каноны Мироздания и жизнь человека Звездный Маэстро Л.В.Тимошенко (Ведагор)",
+      "url": "https://cosmatica.org/library/515-sobytiinost-6-kniga-kanony-mirozdanija-i-zhizn-cheloveka.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Событийность - 6 книга. Каноны Мироздания и жизнь человека",
+          "url": "https://cosmatica.org/library/515-sobytiinost-6-kniga-kanony-mirozdanija-i-zhizn-cheloveka.html"
+        }
+      ]
+    },
+    {
+      "title": "Ноосферное развитие. Ноосферный гуманизм. Ноосферная телеология.",
+      "description": "Ноосферное развитие. Ноосферный гуманизм. Ноосферная телеология. Субетто А.И.",
+      "url": "https://cosmatica.org/library/478-noosfernoe-razvitie-noosfernyi-gumanizm-noosfernaja-teleologija.html",
+      "image": "https://cosmatica.org/upload/000/u14/7/b/e971a95c.png",
+      "links": [
+        {
+          "title": "Ноосферное развитие. Ноосферный гуманизм. Ноосферная телеология.",
+          "url": "https://cosmatica.org/library/478-noosfernoe-razvitie-noosfernyi-gumanizm-noosfernaja-teleologija.html"
+        }
+      ]
+    },
+    {
+      "title": "Гармония в новой жизни.",
+      "description": "Гармония в новой жизни. Тройченко Алексей Анатольевич",
+      "url": "https://cosmatica.org/library/470-garmonija-v-novoi-zhizni.html",
+      "image": "https://cosmatica.org/upload/002/u228/3/c/garmonija-v-novoi-zhizni-photo-small.jpg",
+      "links": [
+        {
+          "title": "Гармония в новой жизни.",
+          "url": "https://cosmatica.org/library/470-garmonija-v-novoi-zhizni.html"
+        }
+      ]
+    },
+    {
+      "title": "Учитесь мыслить смолоду. Издательство «Знание», 1977",
+      "description": "Учитесь мыслить смолоду. Издательство «Знание», 1977 Ильенков Э.В.",
+      "url": "https://cosmatica.org/library/453-uchites-myslit-smolodu-izdatelstvo-znanie-1977.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/8/uchites-myslit-smolodu-izdatelstvo-znanie-1977-photo-small.jpg",
+      "links": [
+        {
+          "title": "Учитесь мыслить смолоду. Издательство «Знание», 1977",
+          "url": "https://cosmatica.org/library/453-uchites-myslit-smolodu-izdatelstvo-znanie-1977.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u14/7/b/e971a95c.png",
+    "https://cosmatica.org/upload/002/u228/3/c/garmonija-v-novoi-zhizni-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/c/8/uchites-myslit-smolodu-izdatelstvo-znanie-1977-photo-small.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 323,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 4,
+    "sourceImageCount": 3,
+    "paragraphCount": 0,
+    "sourceBytes": 44967
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 323,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "55e586a03559c27a21add958022c649212d5452d42e652ef84602bf4adf57263",
+  "archiveSnapshotAt": "2026-10-08T08:51:12Z"
+}

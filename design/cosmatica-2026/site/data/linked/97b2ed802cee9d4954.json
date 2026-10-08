@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/141-zhizn.html",
+  "title": "Жизнь",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это космопланетарный процесс с доминированием потоков концентрации над процессами рассеяния потоков энергии во времени и пространстве.",
+      "spans": [
+        {
+          "text": "это космопланетарный процесс с доминированием потоков концентрации над процессами рассеяния потоков энергии во времени и пространстве."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это космопланетарный процесс с доминированием потоков концентрации над процессами рассеяния потоков энергии во времени и пространстве.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 140,
+    "storedTextCharacters": 134,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31961
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 134,
+  "capturedBodyCharacters": 134,
+  "sourceTextSHA256": "d7c5081855d5e986aeae215ee442d7888d87490058d85c4afe395eb648edcaff",
+  "archiveSnapshotAt": "2026-10-08T08:46:32Z"
+}

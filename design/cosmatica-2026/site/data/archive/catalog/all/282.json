@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 282,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Тематические встречи",
+      "description": "",
+      "url": "https://cosmatica.org/poster/tematicheskie-vstrechi",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=76832e1f5d26905d6e",
+      "type": "poster-item",
+      "sourceCharacters": 63,
+      "verified": false
+    },
+    {
+      "title": "Выставки",
+      "description": "",
+      "url": "https://cosmatica.org/poster/vystavki",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=6ae9c5475f44558ed1",
+      "type": "poster-item",
+      "sourceCharacters": 51,
+      "verified": false
+    },
+    {
+      "title": "Проекты",
+      "description": "",
+      "url": "https://cosmatica.org/projects",
+      "image": "assets/source/7f863ab5da8a2ceca0b1ffed.webp",
+      "kind": "projects",
+      "href": "view.html?p=projects",
+      "type": "projects",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Гусли в космосе",
+      "description": "Создатели и исполнители — молодые русские музыканты - Елизавета Александровна ПАНЧЕНКО (композитор, мультиинструменталист, член Союза композиторов Санкт-Петербурга) , и Анастасия Сергеевна ФОМИНА (гусляр, педагог, обладатель Премии Правительства Санкт-Петербурга).",
+      "url": "https://cosmatica.org/projects/113",
+      "image": "https://cosmatica.org/upload/000/u35/f/6/gusli-v-kosmose-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=041ab0140fc087a851",
+      "type": "project",
+      "sourceCharacters": 3680,
+      "verified": false
+    },
+    {
+      "title": "Литературный конкурс \"Империум Человека\"",
+      "description": "Русское Космическое Общество объявляет литературный конкурс на тему «Империум Человека».",
+      "url": "https://cosmatica.org/projects/114",
+      "image": "https://cosmatica.org/upload/002/u218/b/9/literaturnyi-konkurs-imperium-cheloveka-logo-normal.png",
+      "kind": "project",
+      "href": "view.html?p=project&ref=035f8b7f07d33d31f8",
+      "type": "project",
+      "sourceCharacters": 2125,
+      "verified": false
+    },
+    {
+      "title": "Дмитровская дружина",
+      "description": "В программе сборов: спортивные игры и единоборства, развивающие игры и мастер-классы, занятия по астрономии и космонавтике, встречи с интересными людьми.",
+      "url": "https://cosmatica.org/projects/115",
+      "image": "https://cosmatica.org/upload/000/u35/4/6/dmitrovskaja-druzhina-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b77c461d38eb882e8d",
+      "type": "project",
+      "sourceCharacters": 1094,
+      "verified": false
+    },
+    {
+      "title": "Экопроект «Действуем разумно живя на Земле»",
+      "description": "Проект направлен на привлечение внимания разновозрастного населения города к важности понимания системного единства и гармоничного сосуществования человека и природы, целостного подхода в решении задач по сохранению экологического равновесия для устойчивого развития своей местности и планеты в целом. Акцент проекта ориентирован на развитие природосообразного экогеосферного (экологического, планетарного) сознания насе",
+      "url": "https://cosmatica.org/projects/117",
+      "image": "https://cosmatica.org/upload/000/u2/7/3/ekoproekt-deistvuem-razumno-zhivja-na-zemle-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=77bdbececcb785a11a",
+      "type": "project",
+      "sourceCharacters": 2814,
+      "verified": false
+    },
+    {
+      "title": "Тропа здоровья",
+      "description": "Для оздоровления организма необходимо проходить не менее 10000 шагов в день. Но что делать если не имеешь такой возможности в силу ряда причин?",
+      "url": "https://cosmatica.org/projects/118",
+      "image": "https://cosmatica.org/upload/000/u35/4/4/tropa-zdorovja-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=5d79c091a77ab8063e",
+      "type": "project",
+      "sourceCharacters": 946,
+      "verified": false
+    },
+    {
+      "title": "Калининградский планетарий им. Ф. В. Бесселя",
+      "description": "Расположен в памятнике архитектуры регионального значения \"«Крепостные ворота» «Железнодорожные»\" 1866-1889 г.г..",
+      "url": "https://cosmatica.org/projects/119",
+      "image": "https://cosmatica.org/upload/002/u223/7/f/kaliningradskii-planetarii-im-f-v-besselja-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=40f8dbd5631179a5b4",
+      "type": "project",
+      "sourceCharacters": 1212,
+      "verified": false
+    },
+    {
+      "title": "Центр непрерывного интегративного образования нового поколения.",
+      "description": "Цель проекта: в короткие сроки добиться высокого качества патриотического воспитания в условиях идеологического многообразия, обеспечить гармоничное развитие воспитанников и их готовность к эффективной деятельности в условиях современной интеллектуальной экономики, к защите Отечества от внутренних и внешних врагов, созданию крепкой счастливой семьи и решению нестандартных задач в любой области деятельности.",
+      "url": "https://cosmatica.org/projects/121",
+      "image": "https://cosmatica.org/upload/000/u35/f/c/centra-nepreryvnogo-integrativnogo-obrazovanija-novogo-pokolenija.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b7d015915651ba10ab",
+      "type": "project",
+      "sourceCharacters": 2948,
+      "verified": false
+    },
+    {
+      "title": "Издательство РКО",
+      "description": "В РКО объединяются разные люди. С разным жизненным опытом и кругом интересов. С разными научными и ненаучными, житейскими знаниями. Они объединяются с одной стороны, чтобы ощутить плечо ближнего и собственную нужность, т.е. обрести строй и знамя, с другой, что бы идти вместе к Общей Цели. Разные, но единые. И многим из них есть что сказать, чем поделиться, чем усилить товарища и Общество.",
+      "url": "https://cosmatica.org/projects/128",
+      "image": "https://cosmatica.org/upload/000/u35/e/7/izdatelstvo-rko-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=51cb81f5e244f98ec3",
+      "type": "project",
+      "sourceCharacters": 704,
+      "verified": false
+    },
+    {
+      "title": "Зеленоградский кедровый питомник",
+      "description": "Нарастающие с каждым годом проблемы с экологией и массовой вырубкой лесов, отсутствие здравомыслящей политики властей всех уровней и понимания роли лесов и экологии в целом в жизни страны и каждого населённого пункта в отдельности обязывают каждого неравнодушного человека брать ситуацию в свои руки.",
+      "url": "https://cosmatica.org/projects/130",
+      "image": "https://cosmatica.org/upload/000/u35/e/1/zelenogradskii-kedrovyi-pitomnik-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=a1402061a3d5d560e1",
+      "type": "project",
+      "sourceCharacters": 2602,
+      "verified": false
+    },
+    {
+      "title": "Небо зовёт на АстроПсков",
+      "description": "Открытый авиамодельный фестиваль — завершающее мероприятие в рамках проекта «Бессмертная эскадрилья», реализуемого с использованием средств гранта Президента Российской Федерации на развитие гражданского общества, предоставленного Фондом президентских грантов.",
+      "url": "https://cosmatica.org/projects/133",
+      "image": "https://cosmatica.org/upload/001/u133/b/d/530d2739.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=0137bfd3550284ac84",
+      "type": "project",
+      "sourceCharacters": 2318,
+      "verified": false
+    },
+    {
+      "title": "Космос и медицина: прошлое, настоящее, будущее...",
+      "description": "Всероссийская конференция: «Космос и медицина: прошлое настоящее, будущее...»",
+      "url": "https://cosmatica.org/projects/134",
+      "image": "https://cosmatica.org/upload/000/u35/1/8/kosmos-i-medicina-proshloe-nastojaschee-buduschee-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=1d59eec35d7e08e4f1",
+      "type": "project",
+      "sourceCharacters": 3657,
+      "verified": false
+    },
+    {
+      "title": "Фонд \"Светославъ\"",
+      "description": "Фонд содействия сохранению и развитию историко-культурных и духовно-нравственных основ Русской цивилизации – «Светославъ» создан в 2014 году.",
+      "url": "https://cosmatica.org/projects/135",
+      "image": "https://cosmatica.org/upload/000/u35/e/3/fond-svetoslav-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=40496e01067f624243",
+      "type": "project",
+      "sourceCharacters": 2450,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

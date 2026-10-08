@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 6,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Создаем новое-небывалое",
+      "description": "Внимательный, очень спокойный, даже какой-то отрешенный взгляд. Окладистая борода. Крепкое рукопожатие. Он похож больше на священнослужителя, чем на боевого командира. Но еще знаменитый художник Михаил Нестеров, автор красочных исторических полотен, отмечал сходство лиц воинов и иноков. Наверно дело вот в этой отрешенности, готовности в любой момент принять смерть как Божью волю.",
+      "url": "https://cosmatica.org/news/2183-sozdaem-novoe-nebyvaloe.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/5/sozdaem-novoe-nebyvaloe-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=52116550aa577c5fb0",
+      "type": "news-item",
+      "sourceCharacters": 12181,
+      "verified": false
+    },
+    {
+      "title": "Приглашаем ребят из Макеевки приобщиться к космическому творчеству",
+      "description": "Организатором конкурса выступает Муниципальное бюджетное учреждение дополнительного образования «Станция юных техников города Макеевки» (МБУДО «СЮТ») при поддержке департамента образования Администрации городского округа Макеевка.",
+      "url": "https://cosmatica.org/news/2181-doneckoe-otdelenie-rko-podderzhivaet-provedenie-gorodskogo-konkursa-kosmicheskii-proryv.html",
+      "image": "https://cosmatica.org/upload/124/u12409/c/3/doneckoe-otdelenie-russkogo-kosmicheskogo-obschestva-podderzhivaet-p.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2a3527278be00a68d2",
+      "type": "news-item",
+      "sourceCharacters": 3954,
+      "verified": false
+    },
+    {
+      "title": "Донецкое отделение РКО переходит на новый этап сключения сил",
+      "description": "В состав делегации вошли: член Президиума и Первого отряда, руководитель Попечительского совета РКО Волчков Михаил Юрьевич и член Первого отряда, помощница руководителя Попечительского совета РКО Волчкова Любовь Юрьевна . Организацию встреч и сопровождение делегации на протяжении всех пяти дней обеспечивала секретарь Донецкого отделения РКО Лохманова Екатерина Николаевна.",
+      "url": "https://cosmatica.org/news/2180-v-doneckoi-narodnoi-respublike-s-rabochim-vizitom-pobyvala-delegacija-centralnogo-shtaba-russko.html",
+      "image": "https://cosmatica.org/upload/124/u12409/a/6/doneckoe-otdelenie-rko-perehodit-na-novyi-etap-sklyuchenija-sil-pho.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1a10bfd97e44d4cfe5",
+      "type": "news-item",
+      "sourceCharacters": 14849,
+      "verified": false
+    },
+    {
+      "title": "Подведены итоги конкурса \"Империум Человека. Империум:Победа!\"",
+      "description": "Конкурс проводится Русским Космическим Обществом уже в пятый раз в партнерстве с Координационным Советом Некоммерческих Организаций России. В Жюри входят известные писатели, общественные деятели, лауреаты первого конкурса.",
+      "url": "https://cosmatica.org/news/2179-podvedeny-itogi-konkursa-imperium-cheloveka-imperium-pobeda.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/1/podvedeny-itogi-konkursa-imperium-cheloveka-imperium-pobeda.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f0ff9ee9048223e024",
+      "type": "news-item",
+      "sourceCharacters": 1636,
+      "verified": false
+    },
+    {
+      "title": "В Донецке подведены итоги выставки-конкурса детских рисунков «Созвездие детских миров»",
+      "description": "Со 2 февраля по 14 марта в помещении социального проекта «Солнышко», расположенного по адресу: Донецк, ул. Лагутенко 13-Г, проходил конкурс «Созвездие детских миров», организованный Донецким отделением Русского космического общества совместно с социальным проектом «Солнышко». Творческое состязание объединило 117 юных гагаринцев города Макеевки, и стало настоящим путешествием в безграничный мир детской фантазии, где к",
+      "url": "https://cosmatica.org/news/2177-v-donecke-podvedeny-itogi-vystavki-konkursa-detskih-risunkov-sozvezdie-detskih-mirov.html",
+      "image": "https://cosmatica.org/upload/124/u12409/9/f/v-donecke-podvedeny-itogi-vystavki-konkursa-detskih-risunkov-so.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=eec9bbbf5e890b938c",
+      "type": "news-item",
+      "sourceCharacters": 7948,
+      "verified": false
+    },
+    {
+      "title": "От Земли до звезд – Путешествие юных исследователей!",
+      "description": "В ГБОУ «СШ №108 Г.О. МАКЕЕВКА» развернулась настоящая космическая одиссея!",
+      "url": "https://cosmatica.org/news/2176-ot-zemli-do-zvezd-puteshestvie-yunyh-issledovatelei.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/0/ot-zemli-do-zvezd-puteshestvie-yunyh-issledovatelei-photo-norm.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6a87c2f3536e8b814b",
+      "type": "news-item",
+      "sourceCharacters": 2564,
+      "verified": false
+    },
+    {
+      "title": "Итоги конкурса",
+      "description": "‼️ ВНИМАНИЕ ‼️ Друзья, приносим наши извинения. По объективным причинам, связанным с занятостью некоторых участников жюри оглашение итогов конкурса \"Тайна маленького принца\" переносится на 5 апреля. Благодарим всех за понимание. По всем вопросам можно обращаться в Оргкомитет по тел: +79219967296",
+      "url": "https://cosmatica.org/news/2178-itogi-konkursa.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/7/87b0c414.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1860010d62e6873280",
+      "type": "news-item",
+      "sourceCharacters": 331,
+      "verified": false
+    },
+    {
+      "title": "Встреча Федерального Народного Совета и Справедливой России",
+      "description": "5 марта 2026 года в Государственной Думе Федерального Собрания Российской Федерации в зале-фойе фракции «Справедливая Россия» состоялась встреча членов Президиума и актива Федерального Народного Совета солидарного общества с Председателем Партии «Справедливая Россия» Сергеем Михайловичем Мироновым и заместителем Председателя партии Русланом Владимировичем Татариновым.",
+      "url": "https://cosmatica.org/news/2175-vstrecha-federalnogo-narodnogo-soveta-i-spravedlivoi-rossii.html",
+      "image": "https://cosmatica.org/upload/000/u7/7/f/vstrecha-federalnogo-narodnogo-soveta-i-rukovodstva-spravedlivoi.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6508d5b61a8e1079ed",
+      "type": "news-item",
+      "sourceCharacters": 7857,
+      "verified": false
+    },
+    {
+      "title": "Дорога в космос начинается здесь!",
+      "description": "Гагаринский отряд ГБОУ \"СШ № 12 Г.О. МАКЕЕВКА\"",
+      "url": "https://cosmatica.org/news/2173-doroga-v-kosmos-nachinaetsja-zdes.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/2/doroga-v-kosmos-nachinaetsja-zdes-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=056becef37fc8446fd",
+      "type": "news-item",
+      "sourceCharacters": 2619,
+      "verified": false
+    },
+    {
+      "title": "Живая буквица. Награждение призёров состоялось",
+      "description": "Мероприятие явилось площадкой для обмена опытом и знаниями между специалистами и любителями буквицы.",
+      "url": "https://cosmatica.org/news/2172-zhivaja-bukvica-nagrazhdenie-prizyorov-sostojalos.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/f/zhivaja-bukvica-nagrazhdenie-prizyorov-sostojalos-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=409e43454ed08910ae",
+      "type": "news-item",
+      "sourceCharacters": 2691,
+      "verified": false
+    },
+    {
+      "title": "Космический февраль Лопатинской школы",
+      "description": "8 февраля 2026г. в День Российской науки гагаринцы стали гостями центра «Космонавтика и авиация», расположенного на территории ВДНХ. Они приняли участие в «Уроках Космоса», которые позволили им окунуться в мир высоких технологий и научных открытий, получить новые знания и обогатить свой взгляд на Космос.",
+      "url": "https://cosmatica.org/news/2174-gagarinskii-fevral-lopatinskoi-shkoly.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/3/284a826a.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3411a68cc170238394",
+      "type": "news-item",
+      "sourceCharacters": 2975,
+      "verified": false
+    },
+    {
+      "title": "«Помним историю – думаем о Будущем!»: Глава Высшего совета РКО в медицинском ВУЗе Петербурга",
+      "description": "16-го февраля, в преддверии Дня защитника Отечества, в пригороде С-Петербурга, в пос.Солнечное, с участием студентов 1 и 2 курсов ИМО НМИЦ им.В.А. Алмазова прошла тематическая встреча «Помним историю – думаем о Будущем!», посвящённая памятным датам отечественной истории: Дню снятия блокады Ленинграда и Дню памяти о россиянах, исполнявших служебный долг за пределами Отечества.",
+      "url": "https://cosmatica.org/news/2171-pomnim-istoriyu-dumaem-o-buduschem-glava-vysshego-soveta-rko-v-medicinskom-vuze-peterburga.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/3/pomnim-istoriyu-dumaem-o-buduschem-glava-vysshego-soveta-rko-v.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6b2ba64f55521cac70",
+      "type": "news-item",
+      "sourceCharacters": 1846,
+      "verified": false
+    },
+    {
+      "title": "Наука созидать открывает сердца",
+      "description": "Особой целью визита стало награждение Гусевой Екатерины Владимировны , которая стала призером в Международной научно-просветительской акции-конкурсе \"Наука созидать\".",
+      "url": "https://cosmatica.org/news/2165-nauka-sozidat-otkryvaet-serdca.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/8/a2761d0e.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=15196c05e22fd84633",
+      "type": "news-item",
+      "sourceCharacters": 3149,
+      "verified": false
+    },
+    {
+      "title": "Мёртвые сраму не имут",
+      "description": "Вот уже более 12 лет прошло со дня создания фонда сохранения и развития культурных основ Русской цивилизации «Светославъ».",
+      "url": "https://cosmatica.org/news/2163-myortvye-sramu-ne-imut.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/f/myortvye-sramu-ne-imut-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0c5110ccb6803e9f31",
+      "type": "news-item",
+      "sourceCharacters": 10646,
+      "verified": false
+    },
+    {
+      "title": "Уходят на небо товарищи строем",
+      "description": "Тяжёлым для планеты и её человечества станет год 2026-й по общепринятому летоисчислению. Январь принёс череду смертей наших содеев в разных уголках нашей Родины.",
+      "url": "https://cosmatica.org/news/2161-uhodjat-na-nebo-tovarischi-stroem.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/3/uhodjat-na-nebo-tovarischi-stroem-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bb7594bc674e3566bb",
+      "type": "news-item",
+      "sourceCharacters": 4014,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

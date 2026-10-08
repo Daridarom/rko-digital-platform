@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/510-noosferizm-kak-celostnoe-uchenie-i-bazis-teorii-i-praktiki-perehoda-k-upravljaemoi-istorii-chelo.html",
+  "title": "Ноосферизм как целостное учение и базис теории и практики перехода к управляемой истории человечества",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/e/a/noosferizm-kak-celostnoe-uchenie-i-bazis-teorii-i-praktiki-pereho.jpg",
+      "alt": "Ноосферизм как целостное учение и базис теории и практики перехода к управляемой истории человечества"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Субетто А.И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 1 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/4957/84d617fbb4a2bd2a03832a0daa237cec"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/e/a/noosferizm-kak-celostnoe-uchenie-i-bazis-teorii-i-praktiki-pereho.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/4957/84d617fbb4a2bd2a03832a0daa237cec"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 140,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39874
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 38,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "e35a8dc827dcc6f4d73f55793c0e3a2b581d60c88fbe4951e38dfd5ca8731002",
+  "archiveSnapshotAt": "2026-10-08T08:50:39Z"
+}

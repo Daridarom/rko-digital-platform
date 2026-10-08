@@ -7,8 +7,17 @@
   "blocks": [
     {
       "type": "image",
-      "src": "assets/source/5ed7439a75b75c558be9b701.webp",
+      "src": "https://cosmatica.org/upload/002/u218/3/e/den-kogda-menja-vnesli-v-protokol-photo-normal.jpg",
       "alt": "День, когда меня внесли в протокол"
+    },
+    {
+      "type": "paragraph",
+      "text": "Литературный конкурс \"Империум: Победа!\" - 2026г.\r\nНоминация \"Молодое Дарование\"",
+      "spans": [
+        {
+          "text": "Литературный конкурс \"Империум: Победа!\" - 2026г.\r\nНоминация \"Молодое Дарование\""
+        }
+      ]
     }
   ],
   "cards": [],
@@ -31,19 +40,19 @@
       "links": [
         {
           "title": "Скачать",
-          "url": "https://cosmatica.org/files/download/5980/ca654a34b20b5432902d823c40925037"
+          "url": "https://cosmatica.org/files/download/5980/0a55eb258557066ba8cce81db52d3f88"
         }
       ],
       "image": null
     }
   ],
   "images": [
-    "assets/source/5ed7439a75b75c558be9b701.webp"
+    "https://cosmatica.org/upload/002/u218/3/e/den-kogda-menja-vnesli-v-protokol-photo-normal.jpg"
   ],
   "documents": [
     {
       "label": "Скачать",
-      "url": "https://cosmatica.org/files/download/5980/ca654a34b20b5432902d823c40925037"
+      "url": "https://cosmatica.org/files/download/5980/0a55eb258557066ba8cce81db52d3f88"
     }
   ],
   "categories": [],
@@ -51,10 +60,16 @@
   "sourceEvidence": {
     "http": 200,
     "sourceTextCharacters": 159,
-    "storedTextCharacters": 0,
+    "storedTextCharacters": 80,
     "sourceCardCount": 0,
     "sourceImageCount": 1,
     "paragraphCount": 0,
     "sourceBytes": 39928
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 124,
+  "capturedBodyCharacters": 80,
+  "sourceTextSHA256": "3bfb35823ed971dc2e21e45a9b275b75487377f345c060deabef4a07ac47f826",
+  "archiveSnapshotAt": "2026-10-08T08:51:01Z"
 }

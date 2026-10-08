@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "projects",
+  "title": "Проекты",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 20,
+  "pageCount": 20,
+  "total": 290,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Краудфандинг проект по сбору средств на издание книги про аэрокосмические достижения Отечества",
+      "description": "",
+      "url": "https://cosmatica.org/projects/aerocosmicheskie-dostizheniya",
+      "image": "https://cosmatica.org/upload/000/u1/24/e5/kraudfanding-proekt-po-sboru-sredstv-na-izdanie-knigi-pro-aeroko.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=ad8f7780ada48cab6c",
+      "type": "project",
+      "sourceCharacters": 71,
+      "verified": false
+    },
+    {
+      "title": "Фонд \"Светославъ\"",
+      "description": "Фонд содействия сохранению и развитию историко-культурных и духовно-нравственных основ Русской цивилизации – «Светославъ» создан в 2014 году.",
+      "url": "https://cosmatica.org/projects/135",
+      "image": "https://cosmatica.org/upload/000/u35/e/3/fond-svetoslav-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=40496e01067f624243",
+      "type": "project",
+      "sourceCharacters": 2450,
+      "verified": false
+    },
+    {
+      "title": "Городской конкурс детского творчества \"Космоград\"",
+      "description": "Детско-юношеский конкурс по конструированию земного и космического будущего путём создания земных космоселений на экстремальных и особых территориях. С помощью детских и юношеских представлений и фантазий будут созданы яркие образы земных космоселений, в которых интересно и увлекательно жить, учиться, заниматься и отдыхать.",
+      "url": "https://cosmatica.org/projects/168",
+      "image": "https://cosmatica.org/upload/002/u218/2/0/gorodskoi-konkurs-detskogo-tvorchestva-kosmograd-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=450dd11092fe85058c",
+      "type": "project",
+      "sourceCharacters": 4317,
+      "verified": false
+    },
+    {
+      "title": "Культура развития Жизни",
+      "description": "Культура Нового времени – Культура развития Жизни.",
+      "url": "https://cosmatica.org/projects/204",
+      "image": "https://cosmatica.org/upload/000/u35/8/5/kultura-razvitija-zhizni-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=17e9197c39d7cdb413",
+      "type": "project",
+      "sourceCharacters": 7915,
+      "verified": false
+    },
+    {
+      "title": "Поддержать РКО",
+      "description": "Мы верим в то, что можем и должны сделать так, чтобы наш народ и наша страна вновь и уже навсегда стали лидером в деле сохранения и развития Жизни на Земле и в космосе. Русское Космическое Общество – это люди , объединившиеся в особый период , который переживает наша страна и вся Земная цивилизация. Мы объединились во имя священного дела мира и развития. Мы разные, но нас объединяет одно – Общее Дело и Общая Цель .",
+      "url": "https://cosmatica.org/projects/donate_rko",
+      "image": null,
+      "kind": "project",
+      "href": "view.html?p=donate",
+      "type": "donate",
+      "sourceCharacters": 0,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

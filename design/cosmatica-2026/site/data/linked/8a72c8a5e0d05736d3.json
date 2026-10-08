@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/31-universalnaja-mera.html",
+  "title": "Универсальная мера",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это единство качественных и количествен­ных свойств системы, выраженное в терминах пространственно-временных величин.",
+      "spans": [
+        {
+          "text": "это единство качественных и количествен­ных свойств системы, выраженное в терминах пространственно-временных величин."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это единство качественных и количествен­ных свойств системы, выраженное в терминах пространственно-временных величин.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 136,
+    "storedTextCharacters": 117,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31997
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 117,
+  "capturedBodyCharacters": 117,
+  "sourceTextSHA256": "f690b31f6dbbc932dd4ae729bda5ee757f2ba87acd2eda231e7125c2ee67133f",
+  "archiveSnapshotAt": "2026-10-08T08:46:47Z"
+}

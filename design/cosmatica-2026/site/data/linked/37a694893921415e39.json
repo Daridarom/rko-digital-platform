@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/46-sistema-priroda-obschestvo-chelovek.html",
+  "title": "Система «природа – общество – человек»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это взаимодействие естественных, общественных и духовных процессов, протекающих во Времени–Пространстве.",
+      "spans": [
+        {
+          "text": "это взаимодействие естественных, общественных и духовных процессов, протекающих во Времени–Пространстве."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это взаимодействие естественных, общественных и духовных процессов, протекающих во Времени–Пространстве.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 143,
+    "storedTextCharacters": 104,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32111
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 104,
+  "capturedBodyCharacters": 104,
+  "sourceTextSHA256": "a1ed228120a2cd2d99db733261ec8341fc522409fe7c6a997c225fe3dccc3fdf",
+  "archiveSnapshotAt": "2026-10-08T08:46:51Z"
+}

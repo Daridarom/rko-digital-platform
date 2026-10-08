@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/34-tehnologija.html",
+  "title": "Технология",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "(от греч. téchne – мастерство, умение) – предметная об­ласть, изучающая правила преобразования движений в пространстве– времени; условия сохранения и изменения полезной мощности (рабо­тоспособности) системы жизнеобеспечения во времени и простран­стве.",
+      "spans": [
+        {
+          "text": "(от греч. téchne – мастерство, умение) – предметная об­ласть, изучающая правила преобразования движений в пространстве– времени; условия сохранения и изменения полезной мощности (рабо­тоспособности) системы жизнеобеспечения во времени и простран­стве."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "(от греч. téchne – мастерство, умение) – предметная об­ласть, изучающая правила преобразования движений в пространстве– времени; условия сохранения и изменения полезной мощности (рабо­тоспособности) системы жизнеобеспечения во времени и простран­стве.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 262,
+    "storedTextCharacters": 251,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31974
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 251,
+  "capturedBodyCharacters": 251,
+  "sourceTextSHA256": "7e05fd91887421f7701f203d71e44f4d3bc6a00c5d1b79da62b29381f0162464",
+  "archiveSnapshotAt": "2026-10-08T08:46:48Z"
+}

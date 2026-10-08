@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/332-zvyozdnye-vechera-1922.html",
+  "title": "Звёздные вечера (1922)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/b/zvyozdnye-vechera-1922-photo-normal.jpg",
+      "alt": "Звёздные вечера (1922)"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Звёзды невольно притягивают к себе взоры, и всякому хочется их знать. А вместе с тем звёзд никто не знает, и все знают, что их никто не знает, и как будто так и должно быть...\"",
+      "spans": [
+        {
+          "text": "\"Звёзды невольно притягивают к себе взоры, и всякому хочется их знать. А вместе с тем звёзд никто не знает, и все знают, что их никто не знает, и как будто так и должно быть...\""
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Чижов Е.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "\"Звёзды невольно притягивают к себе взоры, и всякому хочется их знать. А вместе с тем звёзд никто не знает, и все знают, что их никто не знает, и как будто так и должно быть...\"",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 3 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2067/8b9f1bbaf9356f97ac42736f1f6ee149"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/0/b/zvyozdnye-vechera-1922-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2067/8b9f1bbaf9356f97ac42736f1f6ee149"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 235,
+    "storedTextCharacters": 177,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39747
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 212,
+  "capturedBodyCharacters": 177,
+  "sourceTextSHA256": "fd70602b63c7005a841dc142709c8ebfef6caee49b5a7792b50ecc25b259acfe",
+  "archiveSnapshotAt": "2026-10-08T08:49:21Z"
+}

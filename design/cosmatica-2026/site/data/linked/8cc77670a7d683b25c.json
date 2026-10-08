@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/20-uskorennoe-socialno-ekonomicheskoe-razvitie.html",
+  "title": "Ускоренное социально-экономическое развитие",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это ускоренный",
+      "spans": [
+        {
+          "text": "это ускоренный"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "рост",
+      "spans": [
+        {
+          "text": "рост"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "качества жизни за счет опережающих темпов совокупной производи­тельности труда, обеспеченных технологией управления устойчивым инновационным развитием.",
+      "spans": [
+        {
+          "text": "качества жизни за счет опережающих темпов совокупной производи­тельности труда, обеспеченных технологией управления устойчивым инновационным развитием."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это ускоренный рост качества жизни за счет опережающих темпов совокупной производи­тельности труда, обеспеченных технологией управления устойчивым инновационным развитием.",
+      "links": [
+        {
+          "title": "рост",
+          "url": "https://cosmatica.org/glossary/56-rost.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 215,
+    "storedTextCharacters": 169,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32426
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 171,
+  "capturedBodyCharacters": 169,
+  "sourceTextSHA256": "b01a17d85af6173d59bc2629a70dbb7bee65fc72faa73fa3353b73fc746873a8",
+  "archiveSnapshotAt": "2026-10-08T08:46:44Z"
+}

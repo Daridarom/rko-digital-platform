@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/976-v-snezhinske-otkrylas-vystavka-posvjaschyonnaja-lyotchiku-mihailu-devjataevu.html",
+  "title": "В Снежинске открылась выставка, посвящённая лётчику Михаилу Девятаеву",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Сохраняя память: Люди военной авиации",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "В витринах торгового центра «Солнечный» открылась фотовыставка, посвящённая жизни и подвигу военного лётчика, героя Советского Союза Михаила Девятаева, который стал организатором успешного побега на бомбардировщике «Хенкель-111» из секретного концлагеря. Посмотреть её можно до конца мая.",
+      "spans": [
+        {
+          "text": "В витринах торгового центра «Солнечный» открылась фотовыставка,  посвящённая жизни и подвигу военного лётчика, героя Советского Союза  Михаила Девятаева, который стал организатором успешного побега на  бомбардировщике «Хенкель-111» из секретного концлагеря. Посмотреть её  можно до конца мая."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Выставка организована в рамках проекта Русского Космического Общества \"Сохраняя память: люди военной авиации\"",
+      "spans": [
+        {
+          "text": "Выставка организована в рамках проекта Русского Космического Общества "
+        },
+        {
+          "text": "\"Сохраняя память: люди военной авиации\"",
+          "href": "https://cosmatica.org/projects/138"
+        }
+      ],
+      "links": [
+        {
+          "text": "\"Сохраняя память: люди военной авиации\"",
+          "url": "https://cosmatica.org/projects/138"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель проекта Бессонов Антон Владимирович",
+      "spans": [
+        {
+          "text": "Руководитель проекта "
+        },
+        {
+          "text": "Бессонов Антон Владимирович",
+          "href": "https://cosmatica.org/users/39"
+        }
+      ],
+      "links": [
+        {
+          "text": "Бессонов Антон Владимирович",
+          "url": "https://cosmatica.org/users/39"
+        },
+        {
+          "text": "",
+          "url": "https://cosmatica.org/projects/138"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "LiOfAMPcg4U",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=LiOfAMPcg4U"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В витринах торгового центра «Солнечный» открылась фотовыставка, посвящённая жизни и подвигу военного лётчика, героя Советского Союза Михаила Девятаева, который стал организатором успешного побега на бомбардировщике «Хенкель-111» из секретного концлагеря. Посмотреть её можно до конца мая. Выставка организована в рамках проекта Русского Космического Общества \"Сохраняя память: люди военной авиации\" Руководитель проекта Бессонов Антон Владимирович",
+      "links": [
+        {
+          "title": "\"Сохраняя память: люди военной авиации\"",
+          "url": "https://cosmatica.org/projects/138"
+        },
+        {
+          "title": "Бессонов Антон Владимирович",
+          "url": "https://cosmatica.org/users/39"
+        },
+        {
+          "title": "",
+          "url": "https://cosmatica.org/projects/138"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 705,
+    "storedTextCharacters": 483,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 76642
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 596,
+  "capturedBodyCharacters": 483,
+  "sourceTextSHA256": "cbf504aeb69a6d191638715416ee3b3157ea609c3e618c2def50f70ab90fecbd",
+  "archiveSnapshotAt": "2026-10-08T08:44:53Z",
+  "publicVideoCount": 1
+}

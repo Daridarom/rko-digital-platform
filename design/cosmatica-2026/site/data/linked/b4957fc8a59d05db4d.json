@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/49-svjaznaja-energija.html",
+  "title": "Связная энергия",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "энергии, не способная к дальнейшим преобразова­ниям, интеграл от мощности потерь, «отработанная» энергия.",
+      "spans": [
+        {
+          "text": "энергии, не способная к дальнейшим преобразова­ниям, интеграл от мощности потерь, «отработанная» энергия."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "энергии, не способная к дальнейшим преобразова­ниям, интеграл от мощности потерь, «отработанная» энергия.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 121,
+    "storedTextCharacters": 105,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31923
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 105,
+  "capturedBodyCharacters": 105,
+  "sourceTextSHA256": "8552ac9f6fdde51fe2ee339f23f9ffb836367623c8ea9c9c9b9bf1c6c3bb6d68",
+  "archiveSnapshotAt": "2026-10-08T08:46:51Z"
+}

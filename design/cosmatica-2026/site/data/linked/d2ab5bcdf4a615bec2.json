@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/213",
+  "title": "Александр Леонидович Яковенко",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/b/b/a3375eda.png",
+      "alt": "Александр Леонидович Яковенко"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/b/8/c3375700.png",
+      "alt": "Александр Леонидович Яковенко"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Наставник Молодежного Центра Инновационных Разработок и Изобретений Русского Космического Общества (МЦИРИ РКО).",
+      "spans": [
+        {
+          "text": "Наставник Молодежного Центра Инновационных Разработок и Изобретений Русского Космического Общества (МЦИРИ РКО)."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Наставник Молодежного Центра Инновационных Разработок и Изобретений Русского Космического Общества (МЦИРИ РКО).",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/b/b/a3375eda.png",
+    "https://cosmatica.org/upload/000/u26/b/8/c3375700.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 194,
+    "storedTextCharacters": 144,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35061
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 139,
+  "capturedBodyCharacters": 144,
+  "sourceTextSHA256": "9ea1a1b8ce3326f384370a4690dd8847aef00b4bbaff1a7bfb4650c804ce4df3",
+  "archiveSnapshotAt": "2026-10-08T09:18:36Z"
+}

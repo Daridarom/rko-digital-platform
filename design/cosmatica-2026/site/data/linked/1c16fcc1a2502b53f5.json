@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/169-invariant-v-matematike.html",
+  "title": "Инвариант в математике",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "функция от координат преобразуемой ве­личины, не изменяющая своего значения при данной совокупности преобразования этой величины.",
+      "spans": [
+        {
+          "text": "функция от координат преобразуемой ве­личины, не изменяющая своего значения при данной совокупности преобразования этой величины."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "функция от координат преобразуемой ве­личины, не изменяющая своего значения при данной совокупности преобразования этой величины.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 152,
+    "storedTextCharacters": 129,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32065
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 129,
+  "capturedBodyCharacters": 129,
+  "sourceTextSHA256": "fe98da85f7ebc0de73238a4ab1e6a3866e3a41b99d10f37dae44fe70fa7cf12d",
+  "archiveSnapshotAt": "2026-10-08T08:46:40Z"
+}

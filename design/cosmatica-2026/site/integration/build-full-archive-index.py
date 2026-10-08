@@ -165,9 +165,15 @@ for stale in search_dir.glob('*.json'):
 (DATA/'archive/search-index.json').write_text(json.dumps(
  {'version':2,'sharded':True,'count':len(items),'records':items},ensure_ascii=False,indent=2))
 print('INDEX_SHARDS',len(shards),flush=True)
-report={'discovered':len(inventory),'renderable':len(good),
-        'missing':len(inventory)-len(good),'sections':sitemap,
+gone=sum(x.get('availability')=='not_found_404' for x in inventory.values())
+forbidden=sum(x.get('availability')=='forbidden_403' for x in inventory.values())
+non_editorial=sum(x.get('availability') not in ('not_found_404','forbidden_403') and x.get('kind') in ('auth','search','home')
+                  for x in inventory.values())
+eligible=len(inventory)-gone-forbidden-non_editorial
+report={'discovered':len(inventory),'origin404':gone,'origin403':forbidden,'nonEditorial':non_editorial,
+        'eligible':eligible,'renderable':len(good),
+        'unresolved':max(0,eligible-len(good)),'sections':sitemap,
         'cautions':['Search uses local full-text shards; no external service.','Editorial verification is separate from import.'],
         'downloadStrategy':'No PDF/DOC/DOCX book copies; use original RKO file URLs.'}
 (DATA/'archive/catalog-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
-print('CATALOG',json.dumps({'discovered':report['discovered'],'renderable':report['renderable'],'missing':report['missing'],'sections':sitemap},ensure_ascii=False))
+print('CATALOG',json.dumps({'discovered':report['discovered'],'renderable':report['renderable'],'origin404':gone,'unresolved':report['unresolved'],'sections':sitemap},ensure_ascii=False))

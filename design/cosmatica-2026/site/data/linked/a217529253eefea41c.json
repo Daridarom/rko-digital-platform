@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/502-obzor-nul-teorii-chast-2-principy-i-kanony-prirody.html",
+  "title": "Обзор Нуль-Теории». Часть 2. Принципы и Каноны Природы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u113/1/c/fc2afffb.jpg",
+      "alt": "Обзор Нуль-Теории». Часть 2. Принципы и Каноны Природы"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Ермолинская Л.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 7 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/4773/b4846c5afb0430b6494490c26e4c1673"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/001/u113/1/c/fc2afffb.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/4773/b4846c5afb0430b6494490c26e4c1673"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 95,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39318
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 40,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "05e8853fef3cb2b279047185289951f491d62e3038743ac8b39ea79d59efcf03",
+  "archiveSnapshotAt": "2026-10-08T08:50:36Z"
+}

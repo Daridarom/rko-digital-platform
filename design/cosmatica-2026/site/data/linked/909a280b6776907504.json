@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/114-kriticheskii-period.html",
+  "title": "Критический период",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это такое",
+      "spans": [
+        {
+          "text": "это такое"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "состояние",
+      "spans": [
+        {
+          "text": "состояние"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "отношений между конку­рирующими системами, которое возникает в процессе их развития и характеризует примерное равенство их полных мощностей.",
+      "spans": [
+        {
+          "text": "отношений между конку­рирующими системами, которое возникает в процессе их развития и характеризует примерное равенство их полных мощностей."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это такое состояние отношений между конку­рирующими системами, которое возникает в процессе их развития и характеризует примерное равенство их полных мощностей.",
+      "links": [
+        {
+          "title": "состояние",
+          "url": "https://cosmatica.org/glossary/44-sostojanie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 179,
+    "storedTextCharacters": 158,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32203
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 160,
+  "capturedBodyCharacters": 158,
+  "sourceTextSHA256": "c8d2c116b6978a2a775188e8fa438e06b9ec5432541a7d039cc9101ae6a61f8a",
+  "archiveSnapshotAt": "2026-10-08T08:46:24Z"
+}

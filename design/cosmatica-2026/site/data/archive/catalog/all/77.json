@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 77,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Круглый стол посвящённый Международному Дню отца",
+      "description": "20.06.2021 в светлый Праздник Троицы и Международный день Отца, Казахстанский фонд «En baqytty el» организовывал тематический Круглый стол, который включал выступление и обмен опытом по направлению ответственного отцовства представителей государственной власти, родительских, семейных и отцовских сообществ Казахстана и России.",
+      "url": "https://cosmatica.org/news/1098-kruglyi-stol-posvjaschyonnyi-mezhdunarodnomu-dnyu-otca.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/0/kruglyi-stol-posvjaschyonnyi-mezhdunarodnomu-dnyu-otca-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0efcc0662bdf40ac5b",
+      "type": "news-item",
+      "sourceCharacters": 4044,
+      "verified": false
+    },
+    {
+      "title": "Научно-образовательная деятельность РКО",
+      "description": "Пилотный курс института «Системономии и целостного мышления»",
+      "url": "https://cosmatica.org/articles/1097-nauchno-obrazovatelnaja-dejatelnost-rko.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/6/4-maslova.png",
+      "kind": "article",
+      "href": "view.html?p=article&ref=a71d5e15ff98394302",
+      "type": "article",
+      "sourceCharacters": 11495,
+      "verified": false
+    },
+    {
+      "title": "Вечный строй пополнил Георгий Николаевич Фурсей",
+      "description": "Его смело можно назвать великим физиком и лириком. Учёный занимался фундаментальной наукой. Из 39 его авторских открытий важнейшим считается явление взрывной электронной эмиссии, что привело к развитию ряда новых областей науки и техники. Выходец из дворянского рода (отец Георгия Николаевича был одним из главных деятелей Неплюевского братства, занимавшегося просвещением народа), лауреат Ленинской и Сталинской премий,",
+      "url": "https://cosmatica.org/news/1097-vechnyi-stroi-popolnil-georgii-nikolaevich-fursei.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/8/vechnyi-stroi-popolnil-georgii-nikolaevich-fursei-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5d3f6b592b2c9ed4e7",
+      "type": "news-item",
+      "sourceCharacters": 3795,
+      "verified": false
+    },
+    {
+      "title": "Издательская деятельность РКО",
+      "description": "Издан IV том сборника «Наука развития Жизни» П.Г. Кузнецова",
+      "url": "https://cosmatica.org/articles/1096-izdatelskaja-dejatelnost-rko.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/3/5-2.jpeg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=357f06ff67dc46d324",
+      "type": "article",
+      "sourceCharacters": 7364,
+      "verified": false
+    },
+    {
+      "title": "Двигатели прогресса совершили свою первую Космическую Одиссею",
+      "description": "Организаторами выступили общественная инициатива \"Пойдём с нами\" совместно с Русским Космическим Обществом.",
+      "url": "https://cosmatica.org/news/1096-dvigateli-progressa-sovershili-svoyu-pervuyu-kosmicheskuyu-odisseyu.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/d/dvigateli-progressa-sovershili-svoyu-pervuyu-kosmicheskuyu-odisseyu-ph.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=be674939654e94e9eb",
+      "type": "news-item",
+      "sourceCharacters": 4453,
+      "verified": false
+    },
+    {
+      "title": "Космос далёкий и близкий",
+      "description": "«…С берега Вселенной, которым стала священная земля нашей Родины, не раз уйдут в ещё неизвестные дали космические корабли. Каждый их полёт и возвращение будут великим праздником нашего народа, всего передового человечества, победой Разума и Прогресса».",
+      "url": "https://cosmatica.org/articles/1095-kosmos-dalyokii-i-blizkii.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/2/6-foto-ot-oksany-hrypko.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=be1c40cdb31e015bf6",
+      "type": "article",
+      "sourceCharacters": 36785,
+      "verified": false
+    },
+    {
+      "title": "Космическая тропа. Маршрут пройден",
+      "description": "Путь, по признаю бегунов, сложным не был, а вот погодные условия доставили неудобства.",
+      "url": "https://cosmatica.org/news/1094-kosmicheskaja-tropa-marshrut-proiden.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/1/kosmicheskaja-tropa-marshrut-proiden-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5c3a921cb06675fa06",
+      "type": "news-item",
+      "sourceCharacters": 2810,
+      "verified": false
+    },
+    {
+      "title": "Сохраняя память: К.И. Щёлкин",
+      "description": "71 год назад, 29 августа 1949 года, в Казахстане на опытном поле близ г. Семипалатинск было успешно проведено испытание первого советского ядерного заряда.",
+      "url": "https://cosmatica.org/articles/1093-sohranjaja-pamjat-k-i-schyolkin.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/5/7-schyolkin.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=abdf587c857a56c7e5",
+      "type": "article",
+      "sourceCharacters": 7357,
+      "verified": false
+    },
+    {
+      "title": "Сохраняем водные ресурсы вместе",
+      "description": "От российской стороны присутствовали министр природных ресурсов Самбурский А. М., замруководителя Нижне – Волжского БВУ, начальник отдела водных ресурсов по Оренбургской области Ридель С.А. и др. Делегацию Казахстана возглавлял Азидуллин Г.А. Список присутствующих прилагается.",
+      "url": "https://cosmatica.org/news/1093-uchastnik-rko-predsedatel-od-vozvraschaem-vodu-v-reki-vystupil-s-dokladom.html",
+      "image": "https://cosmatica.org/upload/009/u983/4/a/uchastnik-rko-predsedatel-od-vozvraschaem-vodu-v-reki-vystupil.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6e15a897b3118f5fd5",
+      "type": "news-item",
+      "sourceCharacters": 2500,
+      "verified": false
+    },
+    {
+      "title": "Памяти А. А. Карпачёва",
+      "description": "17 августа 2020 года безвременно ушёл из жизни наш соратник, активный организатор патриотического и трезвеннического движений СССР и России Александр Александрович Карпачёв .",
+      "url": "https://cosmatica.org/articles/1092-pamjati-a-a-karpachyova.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/d/8-karpachyov.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=b1002f344b572e6d5e",
+      "type": "article",
+      "sourceCharacters": 9185,
+      "verified": false
+    },
+    {
+      "title": "Космическая тропа. День четвёртый",
+      "description": "Завершается четвёртый день марш-броска «Космическая тропа». Утром 14 июня наши герои выйдут на финишную прямую к городу Калуга.",
+      "url": "https://cosmatica.org/news/1092-kosmicheskaja-tropa-den-chetvyortyi.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/e/9e0f4f0e.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=93fb32d1c516dc562c",
+      "type": "news-item",
+      "sourceCharacters": 2209,
+      "verified": false
+    },
+    {
+      "title": "Всемирный ликбез: О смысле жизни человечества",
+      "description": "1. О смысле жизни человечества У меня есть еще несколько месяцев (а может быть и дней), чтобы высказать то, что не нашло отражения в книгах обо мне. Я прожил свою жизнь в поисках смысла нашего человеческого существования. Мне помог в этой работе наш Патриарх Алексий II, утверждая, что человечество создано Творцом для превращения Космоса в сад Эдема. И если это верно, то все порядочные ученые обязаны связать свою науч",
+      "url": "https://cosmatica.org/articles/1091-vsemirnyi-likbez-o-smysle-zhizni-chelovechestva.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/c/2november.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=d7d230c23b004a1fcf",
+      "type": "article",
+      "sourceCharacters": 32198,
+      "verified": false
+    },
+    {
+      "title": "День русского языка в музее Славянской культуры имени Константина Васильева",
+      "description": "В Москве в помещении музея Славянской культуры имени Константина Васильева состоялось совместное собрание Координационного совета ФНС и Совета музея Славянской культуры имени Константина Васильева.",
+      "url": "https://cosmatica.org/news/1091-den-russkogo-jazyka-v-muzee-slavjanskoi-kultury-imeni-konstantina-vasileva.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/6/e990b77b.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=13e8f759759a0450b9",
+      "type": "news-item",
+      "sourceCharacters": 4398,
+      "verified": false
+    },
+    {
+      "title": "Зачем космосу многодетная семья",
+      "description": "Доклад подготовлен к съезду « Семья – национальное достояние», состоявшегося 26-27 сентября 2020 г., одним из организаторов которого является Русское Космическое Общество.",
+      "url": "https://cosmatica.org/articles/1090-zachem-kosmosu-mnogodetnaja-semja.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=b9a67abc230565df1c",
+      "type": "article",
+      "sourceCharacters": 31924,
+      "verified": false
+    },
+    {
+      "title": "Космическая тропа. День второй",
+      "description": "Первой контрольной точкой был назначен нахабинский полигон. Московская область, Нахабино, военно-инженерный испытательный полигон – место запуска первых отечественных жидкостных ракет ГИРД-09 и ГИРД-Х в 1933 году.",
+      "url": "https://cosmatica.org/news/1090-kosmicheskaja-tropa-den-vtoroi.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/1/05eb49eb.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5a108bc3fa33ad5680",
+      "type": "news-item",
+      "sourceCharacters": 2229,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

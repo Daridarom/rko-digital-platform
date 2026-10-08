@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 94,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Развитие Дружины Гагаринцев Кузбасса набирает обороты",
+      "description": "Сразу после новогодних каникул в целом ряде отрядов прошли торжественные встречи с вручение юным Гагаринцам значков.",
+      "url": "https://cosmatica.org/news/962-razvitie-druzhiny-gagarincev-kuzbassa-nabiraet-oboroty.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/e/57a299c1.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b0e72174a6f5c2e6a3",
+      "type": "news-item",
+      "sourceCharacters": 1806,
+      "verified": false
+    },
+    {
+      "title": "Космосу быть! \"Звёзды в кармане\" - Колпаков В.Ю. про обучающие приложения",
+      "description": "Лекторий-марафон \"Космосы быть\", посвящённый Дню космонавтики. Проводился в режиме реального времени на платформе Русского Космического Общества rko.nbics.net",
+      "url": "https://cosmatica.org/articles/961-kosmosu-byt-zvyozdy-v-karmane-kolpakov-v-yu-pro-obuchayuschie-prilozhenija.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=8c0367c44431a63334",
+      "type": "article",
+      "sourceCharacters": 717,
+      "verified": false
+    },
+    {
+      "title": "История Героев на Благо Мира",
+      "description": "Русское Космическое Общество в лице Степана Андреевича Зотова - члена Президиума и Первого отряда РКО стало финалистом премии за доброту в искусстве \"На Благо Мира\" в номинации \"Познавательная литература\" за книгу \"История Героев\".",
+      "url": "https://cosmatica.org/news/961-istorija-geroev-na-blago-mira.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/5/df8e959d.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=32e15ba3decd480b15",
+      "type": "news-item",
+      "sourceCharacters": 1000,
+      "verified": false
+    },
+    {
+      "title": "Космосу быть! Приветствие Главы РКО Гапонова А.А. Презентация проекта \"Наша Вселенная\"",
+      "description": "Лекторий-марафон \"Космосы быть\", посвящённый Дню космонавтики. Проводился в режиме реального времени на платформе Русского Космического Общества rko.nbics.net",
+      "url": "https://cosmatica.org/articles/960-kosmosu-byt-privetstvie-glavy-rko-gaponova-a-a-prezentacija-proekta-nasha-vselennaja.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=c66ebfa783e25f01f5",
+      "type": "article",
+      "sourceCharacters": 645,
+      "verified": false
+    },
+    {
+      "title": "Зимние сборы \"КГБ\" состоялись!",
+      "description": "Отдельную благодарность выражаем руководителю Правового управления РКО Зюзькову Михаилу Викторовичу за помощь с доставкой детей, центру \"Резервист\" за тактико-специальную подготовку, Гришиной Людмиле за медицинские занятия, а также Ермоловой Ксении Владимировне - действительному члену РКО за организацию финальной игры в лесу.",
+      "url": "https://cosmatica.org/news/960-zimnie-sbory-kgb-sostojalis.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/9/0fb58bb5.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=014a2ce4d607bab339",
+      "type": "news-item",
+      "sourceCharacters": 2082,
+      "verified": false
+    },
+    {
+      "title": "Интерактивные, игровые и образовательные проекты РКО",
+      "description": "Гости студии радио АВРОРА члены Русского Космического Общества: Алексей Борисович Борисов, генеральный директор студии \"Планета людей\" и разработчик игры \"Наша вселенная\" - игра про освоение космоса и Дмитрий Викторович Назаров руководитель проекта Космикс.рус.",
+      "url": "https://cosmatica.org/articles/959-interaktivnye-igrovye-i-obrazovatelnye-proekty-rko.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=da7b14040d9bc4ed3b",
+      "type": "article",
+      "sourceCharacters": 617,
+      "verified": false
+    },
+    {
+      "title": "Новогодние диалоги: дорога в космос",
+      "description": "Лазуткин Александр Иванович - российский лётчик-космонавт, лейтенант запаса, заместитель генерального конструктора «НПП «Звезда» имени Г.И. Северина». Участвовал в разработке программ подготовки и тренировки операторов по орбитальному комплексу «Мир». Совершил один полёт в космос, продолжительность которого составила 184 суток 22 часа 07 минут.",
+      "url": "https://cosmatica.org/news/959-novogodnie-dialogi-doroga-v-kosmos.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/b/c7ba3707.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cd49d70f6f485e4d24",
+      "type": "news-item",
+      "sourceCharacters": 761,
+      "verified": false
+    },
+    {
+      "title": "И эхом отзовётся",
+      "description": "Фантастический фильм-предупреждение, по мотивам научно-фантастического рассказа Геннадия Ивановича Тищенко \"Наследие\", опубликованного в альманахе \"На суше и на море\" в 1980г.",
+      "url": "https://cosmatica.org/articles/958-i-ehom-otzovyotsja.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=3f3f33ffcf4ebc5ef8",
+      "type": "article",
+      "sourceCharacters": 791,
+      "verified": false
+    },
+    {
+      "title": "Книга дня сегодня...",
+      "description": "Автор: Беляев Михаил Иванович – офицер запаса, Председатель секции Методов синтеза междисциплинарных знаний при Научно-техническом совете.",
+      "url": "https://cosmatica.org/news/958-kniga-dnja-segodnja.html",
+      "image": "https://cosmatica.org/upload/003/u395/c/9/kniga-dnja-segodnja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5c3688e2bd1c58253d",
+      "type": "news-item",
+      "sourceCharacters": 2179,
+      "verified": false
+    },
+    {
+      "title": "Наследие",
+      "description": "Летит над искрящейся в лучах солнца гладью океана скутер. Солоноватые брызги щекочут лицо. На душе легко и радостно. Предвкушение скорой встречи с Анной переполняет меня, я никак не могу надышаться вольным воздухом, и все происходившее со мной на дне кажется теперь кошмарным сном. Что еще человеку надо для счастья? Я молод и здоров, у меня интересная работа , которую не променяю ни на какую другую... И у меня есть Ан",
+      "url": "https://cosmatica.org/articles/957-nasledie.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=345b2e27e5caa0e6a0",
+      "type": "article",
+      "sourceCharacters": 22793,
+      "verified": false
+    },
+    {
+      "title": "Живописный космос художника Тищенко в библиотеках СЗАО",
+      "description": "Художественная выставка Геннадия Ивановича Тищенк о \" СОЭВОЛЮЦИЯ \", посвященная освоению человечеством космоса открыта для ценителей космического творчества.",
+      "url": "https://cosmatica.org/news/957-zhivopisnyi-kosmos-hudozhnika-tischenko-v-bibliotekah-szao.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/2/77a94ad5.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c12a3f0427ad1cddb5",
+      "type": "news-item",
+      "sourceCharacters": 1508,
+      "verified": false
+    },
+    {
+      "title": "Самоизоляция вредна: краткое научное обоснование",
+      "description": "Аннотация. Показано, что человек, живя в благоприятных условиях среды обитания, созданных самой Землёй под управлением Солнца, является для планеты нужным для её эволюции живым существом. Человек живёт внутри магнитного поля Земли и управляется им. Физиология организма человека представляет собой систему электрических токов, формирующих магнитное поле тела человека. Магнитное поле Земли осуществляет физический процес",
+      "url": "https://cosmatica.org/articles/956-samoizoljacija-vredna-kratkoe-nauchnoe-obosnovanie.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=2e3b334898dcd26d77",
+      "type": "article",
+      "sourceCharacters": 57011,
+      "verified": false
+    },
+    {
+      "title": "Вестник Российской академии естественных наук. № 4 от 2020 года.",
+      "description": "Председатель редакционного совета Вестника Российской академии естественных наук Почётный член Русского Космического Общества, д.т.н., профессор, лауреат государственной премии СССР, Заслуженный деятель науки и техники РФ, лауреат Премии правительства РФ в области науки и техники, президент Международного университета природы, общества и человека «Дубна», президент РАЕН - Кузнецов Олег Леонидович .",
+      "url": "https://cosmatica.org/news/956-vestnik-rossiiskoi-akademii-estestvennyh-nauk-4-ot-2020-goda.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/5/vestnik-rossiiskoi-akademii-estestvennyh-nauk-4-ot-2020-goda.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=84053c5a961b86d699",
+      "type": "news-item",
+      "sourceCharacters": 5659,
+      "verified": false
+    },
+    {
+      "title": "Звук – это универсальный космический язык общения, основа кругооборота мышления и...",
+      "description": "Звук – это универсальный космический язык общения, основа кругооборота мышления и бессмертного Духа в эволюции живой Вселенной.",
+      "url": "https://cosmatica.org/articles/955-zvuk-eto-universalnyi-kosmicheskii-jazyk-obschenija-osnova-krugooborota-myshlenija-i.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=f833fcab29b5e67e44",
+      "type": "article",
+      "sourceCharacters": 61871,
+      "verified": false
+    },
+    {
+      "title": "Псковское отделение РКО делится итогами 2020",
+      "description": "К сожалению, 2020 год спутал нам (и не только нам) все карты. Из-за введённых ограничений не удалось провести фестиваль инженерно-технического творчества \"Робо-2020\", фестиваль \"Небо зовёт\", не удалось запустить \"астрошколу ПсковГУ\" (совместное с ПсковГУ мероприятие, направленное на популяризацию астрономии)... Много чего не удалось, к сожалению. Но мы не унывали и продолжали трудиться в условиях ограничений.",
+      "url": "https://cosmatica.org/news/955-osenne-zimnie-novosti-2020-goda.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/c/pskovskoe-otdelenie-rko-delitsja-itogami-2020-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=29ba00fcc678d326b9",
+      "type": "news-item",
+      "sourceCharacters": 3099,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

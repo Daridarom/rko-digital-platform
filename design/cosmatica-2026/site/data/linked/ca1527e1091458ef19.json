@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/426-zanimatelnaja-geografija.html",
+  "title": "Занимательная география",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/0/zanimatelnaja-geografija-photo-normal.jpg",
+      "alt": "Занимательная география"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга выдающегося русского географа С.А. Аржанова представляет собой занимательное изложение природных явлений, парадоксов и феноменов.",
+      "spans": [
+        {
+          "text": "Книга выдающегося русского географа С.А. Аржанова представляет собой занимательное изложение природных явлений, парадоксов и феноменов."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Проф. Аржанов С. П.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга выдающегося русского географа С.А. Аржанова представляет собой занимательное изложение природных явлений, парадоксов и феноменов.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 4 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2691/e3d72bf9c3bb0453dad0103765fd4219"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/0/zanimatelnaja-geografija-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2691/e3d72bf9c3bb0453dad0103765fd4219"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 205,
+    "storedTextCharacters": 135,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39919
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 181,
+  "capturedBodyCharacters": 135,
+  "sourceTextSHA256": "e6a05dfa97dbc70de20619d2643250c82d66ec604b5aae29bbb2011cfa024328",
+  "archiveSnapshotAt": "2026-10-08T08:49:55Z"
+}

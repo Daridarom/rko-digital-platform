@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/811-russkii-kosmos-3-mart-2019.html",
+  "title": "Русский космос №3 (март, 2019)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Русский космос №3 (март, 2019)",
+      "spans": [
+        {
+          "text": "Русский космос №3 (март, 2019)",
+          "href": "https://cosmatica.org/upload/redactorfiles/4. Номер 3. Март 2019 года.pdf"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "Русский космос №3 (март, 2019)",
+          "url": "https://cosmatica.org/upload/redactorfiles/4. Номер 3. Март 2019 года.pdf"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/a/snimok-ekrana-2019-10-16-v-18-37-19.png",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Русский космос №3 (март, 2019)",
+      "links": [
+        {
+          "title": "Русский космос №3 (март, 2019)",
+          "url": "https://cosmatica.org/upload/redactorfiles/4. Номер 3. Март 2019 года.pdf"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/002/u218/e/a/snimok-ekrana-2019-10-16-v-18-37-19.png"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/e/a/snimok-ekrana-2019-10-16-v-18-37-19.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 99,
+    "storedTextCharacters": 30,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 73489
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 68,
+  "capturedBodyCharacters": 30,
+  "sourceTextSHA256": "3c4bede2392d400e209a9bb106c20b2bcd3000f46cb720b1a5f768f65df41cb4",
+  "archiveSnapshotAt": "2026-10-08T09:06:35Z"
+}

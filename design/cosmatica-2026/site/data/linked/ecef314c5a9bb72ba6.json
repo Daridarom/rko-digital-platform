@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/224-vyhod-chelovechestva-v-kosmos.html",
+  "title": "Выход человечества в космос",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/5/f/vyhod-chelovechestva-v-kosmos-photo-normal.jpg",
+      "alt": "Выход человечества в космос"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Г. А. Скуридин, В. И. Севастьянов, Г. А. Назаров",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 4 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1562/0d80b54a5f1ffcf43b7d048a6c0f0c0f"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/5/f/vyhod-chelovechestva-v-kosmos-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1562/0d80b54a5f1ffcf43b7d048a6c0f0c0f"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 102,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39049
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 74,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "091a6e34124065617f183c2eb68e7c561d84e7af0280bc2187a4f15c80e48596",
+  "archiveSnapshotAt": "2026-10-08T08:48:07Z"
+}

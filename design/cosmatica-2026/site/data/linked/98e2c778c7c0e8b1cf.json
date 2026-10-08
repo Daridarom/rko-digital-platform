@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/detskaja-literatura",
+  "title": "Детская литература",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "Слова силы",
+          "Зотов С.А.",
+          ""
+        ],
+        [
+          "",
+          "Необычайное путешествие Петьки Озорникова",
+          "Павловский Олег",
+          ""
+        ],
+        [
+          "",
+          "Мой первый радиоприемник",
+          "Борисов В.",
+          ""
+        ],
+        [
+          "",
+          "Самодельные телефонные аппараты",
+          "П. Г. Стрелков",
+          ""
+        ],
+        [
+          "",
+          "Летающие модели гидросамолетов",
+          "Хухра Ю.",
+          ""
+        ],
+        [
+          "",
+          "Радиоприемник юного туриста",
+          "Вишневский А.",
+          ""
+        ],
+        [
+          "",
+          "Простейшая ветроэлектростанция КД-2",
+          "Б. Б. Кажинский",
+          ""
+        ],
+        [
+          "",
+          "Модель яхты",
+          "Сулержицкий Д.",
+          ""
+        ],
+        [
+          "",
+          "Компрессионный мотор Ф-10",
+          "А.В. Филиппычев",
+          ""
+        ],
+        [
+          "",
+          "Бензиномоторчик",
+          "Пылков П.",
+          ""
+        ],
+        [
+          "",
+          "Самодельный телевизор",
+          "Шефер Б.",
+          ""
+        ],
+        [
+          "",
+          "Космос в картинках",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Астрономия для детей. Твой звездный городок - Галактика",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Астрономия для детей. Камни, которые упали с неба",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Астрономия для детей. В семье Солнышка \"танцуют\" все.",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/2/slova-sily-photo-small.jpg",
+      "alt": "Слова силы"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/f/c/neobychainoe-puteshestvie-petki-ozornikova-photo-small.jpg",
+      "alt": "Необычайное путешествие Петьки Озорникова"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/4/c/moi-pervyi-radiopriemnik-photo-small.jpg",
+      "alt": "Мой первый радиоприемник"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/4/4/samodelnye-telefonnye-apparaty-photo-small.jpg",
+      "alt": "Самодельные телефонные аппараты"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/1/d/letayuschie-modeli-gidrosamoletov-photo-small.jpg",
+      "alt": "Летающие модели гидросамолетов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/5/5/radiopriemnik-yunogo-turista-photo-small.jpg",
+      "alt": "Радиоприемник юного туриста"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/1/4/prosteishaja-vetroelektrostancija-kd-2-photo-small.jpg",
+      "alt": "Простейшая ветроэлектростанция КД-2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/7/1/model-jahty-photo-small.jpg",
+      "alt": "Модель яхты"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/5/7/kompressionnyi-motor-f-10-photo-small.jpg",
+      "alt": "Компрессионный мотор Ф-10"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/a/0/benzinomotorchik-photo-small.jpg",
+      "alt": "Бензиномоторчик"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/a/1/samodelnyi-televizor-1937g-photo-small.jpg",
+      "alt": "Самодельный телевизор"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/d6/f9/kosmos-v-kartinkah-photo-small.jpg",
+      "alt": "Космос в картинках"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/9b/0e/astronomija-dlja-detei-tvoi-zvezdnyi-gorodok-galaktika-photo-sm.jpg",
+      "alt": "Астрономия для детей. Твой звездный городок - Галактика"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/d9/40/astronomija-dlja-detei-kamni-kotorye-upali-s-neba-photo-small.jpg",
+      "alt": "Астрономия для детей. Камни, которые упали с неба"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/2c/51/ba997a10.jpg",
+      "alt": "Астрономия для детей. В семье Солнышка \"танцуют\" все."
+    }
+  ],
+  "cards": [
+    {
+      "title": "Слова силы",
+      "description": "Слова силы Зотов С.А.",
+      "url": "https://cosmatica.org/library/539-slova-sily.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/2/slova-sily-photo-small.jpg",
+      "links": [
+        {
+          "title": "Слова силы",
+          "url": "https://cosmatica.org/library/539-slova-sily.html"
+        }
+      ]
+    },
+    {
+      "title": "Необычайное путешествие Петьки Озорникова",
+      "description": "Необычайное путешествие Петьки Озорникова Павловский Олег",
+      "url": "https://cosmatica.org/library/421-neobychainoe-puteshestvie-petki-ozornikova.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/c/neobychainoe-puteshestvie-petki-ozornikova-photo-small.jpg",
+      "links": [
+        {
+          "title": "Необычайное путешествие Петьки Озорникова",
+          "url": "https://cosmatica.org/library/421-neobychainoe-puteshestvie-petki-ozornikova.html"
+        }
+      ]
+    },
+    {
+      "title": "Мой первый радиоприемник",
+      "description": "Мой первый радиоприемник Борисов В.",
+      "url": "https://cosmatica.org/library/213-moi-pervyi-radiopriemnik.html",
+      "image": "https://cosmatica.org/upload/000/u26/4/c/moi-pervyi-radiopriemnik-photo-small.jpg",
+      "links": [
+        {
+          "title": "Мой первый радиоприемник",
+          "url": "https://cosmatica.org/library/213-moi-pervyi-radiopriemnik.html"
+        }
+      ]
+    },
+    {
+      "title": "Самодельные телефонные аппараты",
+      "description": "Самодельные телефонные аппараты П. Г. Стрелков",
+      "url": "https://cosmatica.org/library/212-samodelnye-telefonnye-apparaty.html",
+      "image": "https://cosmatica.org/upload/000/u26/4/4/samodelnye-telefonnye-apparaty-photo-small.jpg",
+      "links": [
+        {
+          "title": "Самодельные телефонные аппараты",
+          "url": "https://cosmatica.org/library/212-samodelnye-telefonnye-apparaty.html"
+        }
+      ]
+    },
+    {
+      "title": "Летающие модели гидросамолетов",
+      "description": "Летающие модели гидросамолетов Хухра Ю.",
+      "url": "https://cosmatica.org/library/211-letayuschie-modeli-gidrosamoletov.html",
+      "image": "https://cosmatica.org/upload/000/u26/1/d/letayuschie-modeli-gidrosamoletov-photo-small.jpg",
+      "links": [
+        {
+          "title": "Летающие модели гидросамолетов",
+          "url": "https://cosmatica.org/library/211-letayuschie-modeli-gidrosamoletov.html"
+        }
+      ]
+    },
+    {
+      "title": "Радиоприемник юного туриста",
+      "description": "Радиоприемник юного туриста Вишневский А.",
+      "url": "https://cosmatica.org/library/210-radiopriemnik-yunogo-turista.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/5/radiopriemnik-yunogo-turista-photo-small.jpg",
+      "links": [
+        {
+          "title": "Радиоприемник юного туриста",
+          "url": "https://cosmatica.org/library/210-radiopriemnik-yunogo-turista.html"
+        }
+      ]
+    },
+    {
+      "title": "Простейшая ветроэлектростанция КД-2",
+      "description": "Простейшая ветроэлектростанция КД-2 Б. Б. Кажинский",
+      "url": "https://cosmatica.org/library/209-prosteishaja-vetroelektrostancija-kd-2.html",
+      "image": "https://cosmatica.org/upload/000/u26/1/4/prosteishaja-vetroelektrostancija-kd-2-photo-small.jpg",
+      "links": [
+        {
+          "title": "Простейшая ветроэлектростанция КД-2",
+          "url": "https://cosmatica.org/library/209-prosteishaja-vetroelektrostancija-kd-2.html"
+        }
+      ]
+    },
+    {
+      "title": "Модель яхты",
+      "description": "Модель яхты Сулержицкий Д.",
+      "url": "https://cosmatica.org/library/208-model-jahty.html",
+      "image": "https://cosmatica.org/upload/000/u26/7/1/model-jahty-photo-small.jpg",
+      "links": [
+        {
+          "title": "Модель яхты",
+          "url": "https://cosmatica.org/library/208-model-jahty.html"
+        }
+      ]
+    },
+    {
+      "title": "Компрессионный мотор Ф-10",
+      "description": "Компрессионный мотор Ф-10 А.В. Филиппычев",
+      "url": "https://cosmatica.org/library/207-kompressionnyi-motor-f-10.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/7/kompressionnyi-motor-f-10-photo-small.jpg",
+      "links": [
+        {
+          "title": "Компрессионный мотор Ф-10",
+          "url": "https://cosmatica.org/library/207-kompressionnyi-motor-f-10.html"
+        }
+      ]
+    },
+    {
+      "title": "Бензиномоторчик",
+      "description": "Бензиномоторчик Пылков П.",
+      "url": "https://cosmatica.org/library/206-benzinomotorchik.html",
+      "image": "https://cosmatica.org/upload/000/u26/a/0/benzinomotorchik-photo-small.jpg",
+      "links": [
+        {
+          "title": "Бензиномоторчик",
+          "url": "https://cosmatica.org/library/206-benzinomotorchik.html"
+        }
+      ]
+    },
+    {
+      "title": "Самодельный телевизор",
+      "description": "Самодельный телевизор Шефер Б.",
+      "url": "https://cosmatica.org/library/205-samodelnyi-televizor.html",
+      "image": "https://cosmatica.org/upload/000/u26/a/1/samodelnyi-televizor-1937g-photo-small.jpg",
+      "links": [
+        {
+          "title": "Самодельный телевизор",
+          "url": "https://cosmatica.org/library/205-samodelnyi-televizor.html"
+        }
+      ]
+    },
+    {
+      "title": "Космос в картинках",
+      "description": "Космос в картинках",
+      "url": "https://cosmatica.org/library/128-kosmos-v-kartinkah.html",
+      "image": "https://cosmatica.org/upload/000/u1/d6/f9/kosmos-v-kartinkah-photo-small.jpg",
+      "links": [
+        {
+          "title": "Космос в картинках",
+          "url": "https://cosmatica.org/library/128-kosmos-v-kartinkah.html"
+        }
+      ]
+    },
+    {
+      "title": "Астрономия для детей. Твой звездный городок - Галактика",
+      "description": "Астрономия для детей. Твой звездный городок - Галактика",
+      "url": "https://cosmatica.org/library/127-astronomija-dlja-detei-tvoi-zvezdnyi-gorodok-galaktika.html",
+      "image": "https://cosmatica.org/upload/000/u1/9b/0e/astronomija-dlja-detei-tvoi-zvezdnyi-gorodok-galaktika-photo-sm.jpg",
+      "links": [
+        {
+          "title": "Астрономия для детей. Твой звездный городок - Галактика",
+          "url": "https://cosmatica.org/library/127-astronomija-dlja-detei-tvoi-zvezdnyi-gorodok-galaktika.html"
+        }
+      ]
+    },
+    {
+      "title": "Астрономия для детей. Камни, которые упали с неба",
+      "description": "Астрономия для детей. Камни, которые упали с неба",
+      "url": "https://cosmatica.org/library/126-astronomija-dlja-detei-kamni-kotorye-upali-s-neba.html",
+      "image": "https://cosmatica.org/upload/000/u1/d9/40/astronomija-dlja-detei-kamni-kotorye-upali-s-neba-photo-small.jpg",
+      "links": [
+        {
+          "title": "Астрономия для детей. Камни, которые упали с неба",
+          "url": "https://cosmatica.org/library/126-astronomija-dlja-detei-kamni-kotorye-upali-s-neba.html"
+        }
+      ]
+    },
+    {
+      "title": "Астрономия для детей. В семье Солнышка \"танцуют\" все.",
+      "description": "Астрономия для детей. В семье Солнышка \"танцуют\" все.",
+      "url": "https://cosmatica.org/library/125-astronomija-dlja-detei-v-seme-solnyshka-tancuyut-vse.html",
+      "image": "https://cosmatica.org/upload/000/u1/2c/51/ba997a10.jpg",
+      "links": [
+        {
+          "title": "Астрономия для детей. В семье Солнышка \"танцуют\" все.",
+          "url": "https://cosmatica.org/library/125-astronomija-dlja-detei-v-seme-solnyshka-tancuyut-vse.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/f/2/slova-sily-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u7/f/c/neobychainoe-puteshestvie-petki-ozornikova-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u26/4/c/moi-pervyi-radiopriemnik-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u26/4/4/samodelnye-telefonnye-apparaty-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u26/1/d/letayuschie-modeli-gidrosamoletov-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u26/5/5/radiopriemnik-yunogo-turista-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u26/1/4/prosteishaja-vetroelektrostancija-kd-2-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u26/7/1/model-jahty-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u26/5/7/kompressionnyi-motor-f-10-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u26/a/0/benzinomotorchik-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u26/a/1/samodelnyi-televizor-1937g-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u1/d6/f9/kosmos-v-kartinkah-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u1/9b/0e/astronomija-dlja-detei-tvoi-zvezdnyi-gorodok-galaktika-photo-sm.jpg",
+    "https://cosmatica.org/upload/000/u1/d9/40/astronomija-dlja-detei-kamni-kotorye-upali-s-neba-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u1/2c/51/ba997a10.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 680,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 15,
+    "sourceImageCount": 15,
+    "paragraphCount": 0,
+    "sourceBytes": 61297
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 680,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "e4420d72ed3a7e283d3d1336381eed297c363d8e7ecfaf11b28ac4ed1aa0c0b5",
+  "archiveSnapshotAt": "2026-10-08T08:51:12Z"
+}

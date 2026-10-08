@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 114,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Детский взгляд в космос.",
+      "description": "7 марта 2019 года, в г. Снежинск, Челябинской области, состоялось торжественное награждение победителей регионального этапа I международного конкурса детских рисунков \"Наше комическое завтра\".",
+      "url": "https://cosmatica.org/news/357-detskii-vzgljad-v-kosmos.html",
+      "image": "https://cosmatica.org/upload/000/u37/3/a/detskii-vzgljad-v-kosmos-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=deace03078e5998c8d",
+      "type": "news-item",
+      "sourceCharacters": 2000,
+      "verified": false
+    },
+    {
+      "title": "Мерным отзвуком сопрано",
+      "description": "Вот уже в четвертый раз Экспериментальный концертный театр «Кантилена» стал организатором музыкального концерта-посвящения Елене Васильевне Образцовой .",
+      "url": "https://cosmatica.org/news/356-mernym-otzvukom-soprano.html",
+      "image": "https://cosmatica.org/upload/000/u26/c/c/11c2c1e7.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=15b4061b69b645fcbc",
+      "type": "news-item",
+      "sourceCharacters": 2563,
+      "verified": false
+    },
+    {
+      "title": "Ко дню рождения В.И.Вернадского",
+      "description": "Это порог, за которым открывается эпоха ноосферно-космической истории человечества Земли.",
+      "url": "https://cosmatica.org/news/355-ko-dnyu-rozhdenija-v-i-vernadskogo.html",
+      "image": "https://cosmatica.org/upload/000/u26/7/2/ko-dnyu-rozhdenija-v-i-vernadskogo-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=53be0db44d47f1b753",
+      "type": "news-item",
+      "sourceCharacters": 5710,
+      "verified": false
+    },
+    {
+      "title": "День Гагарина на Псковской земле",
+      "description": "9 марта весть мир отмечал День Гагарина. В 2019 году это ещё и 85-летний юбилей со дня рождения Юрия Алексеевича.",
+      "url": "https://cosmatica.org/news/354-den-gagarina-na-pskovskoi-zemle.html",
+      "image": "https://cosmatica.org/upload/001/u133/7/2/den-gagarina-na-pskovskoi-zemle-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a5ed1ec3718ad470e5",
+      "type": "news-item",
+      "sourceCharacters": 4454,
+      "verified": false
+    },
+    {
+      "title": "Внеси свой вклад в деятельность РКО!",
+      "description": "Мы верим в то, что можем и должны сделать так, чтобы наш народ и наша страна вновь и уже навсегда стали лидером в деле сохранения и развития Жизни на Земле и в космосе. Русское Космическое Общество – это люди, объединившиеся в особый период, который переживает наша страна и вся Земная цивилизация. Мы объединились во имя священного дела мира и развития. Мы разные, но нас объединяет одно – Общее Дело и Общая Цель.",
+      "url": "https://cosmatica.org/news/353-vnesi-svoi-vklad-v-dejatelnost-rko.html",
+      "image": "https://cosmatica.org/upload/000/u26/f/b/a0e222b7.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=10d2f6cae390f08558",
+      "type": "news-item",
+      "sourceCharacters": 1118,
+      "verified": false
+    },
+    {
+      "title": "Жизнь - определяющее понятие нашего космического завтра",
+      "description": "Вот и настал долгожданный День Гагарина. Завершился I Международный конкурс детского рисунка «Наше космическое завтра» . Мы с радостью сообщаем итоги. Финалистами федерального этапа конкурса стали:",
+      "url": "https://cosmatica.org/news/349-zhizn-opredeljayuschee-ponjatie-nashego-kosmicheskogo-zavtra.html",
+      "image": "https://cosmatica.org/upload/000/u26/e/3/1b3ec8c7.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4ecb794ef4c570086b",
+      "type": "news-item",
+      "sourceCharacters": 2733,
+      "verified": false
+    },
+    {
+      "title": "Открылась фотовыставка \"Наш Гагарин\" в Планетарии №1",
+      "description": "Приглашаем всех желающих в Планетарий №1 в Санкт-Петербурге познакомиться с новой экспозицией, посвященной празднованию 85-летия Юрия Гагарина.",
+      "url": "https://cosmatica.org/news/347-otkrylas-fotovystavka-nash-gagarin-v-planetarii-1.html",
+      "image": "https://cosmatica.org/upload/000/u21/d/e/otkrylas-vystavka-nash-gagarin-v-planetarii-1-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7a1d8e68fbd4b90db6",
+      "type": "news-item",
+      "sourceCharacters": 1139,
+      "verified": false
+    },
+    {
+      "title": "Светлый гагаринский привет от юных борских косможителей.",
+      "description": "С 18 февраля по 6 марта 2019 года в МАОУ лицей г. Бор Нижегородской области был реализован комплекс мероприятий в честь празднования 85-летия со дня рождения первого космонавта Земли – Юрия Алексеевича Гагарина.",
+      "url": "https://cosmatica.org/news/346-svetlyi-gagarinskii-privet-ot-yunyh-borskih-kosmozhitelei.html",
+      "image": "https://cosmatica.org/upload/001/u176/e/a/svetlyi-gagarinskii-privet-otyunyh-borskih-kosmozhitelei-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=001758aac5bb5a6406",
+      "type": "news-item",
+      "sourceCharacters": 2411,
+      "verified": false
+    },
+    {
+      "title": "Юные звёзды футбола сияют всё ярче",
+      "description": "Почётными гостями турнира стали звёзды мирового футбола, а также представители депутатского корпуса из разных регионов России и Саратовской области. Ещё никогда ФОК районного посёлка не принимал у себя в гостях столько знаменитостей! Поэтому все три дня соревнований, которые проходили с 28 февраля по 2 марта, зал был переполнен зрителями, которые, конечно же, поддерживали местные детские команды и с нескрываемым восх",
+      "url": "https://cosmatica.org/news/345-yunye-zvyozdy-futbola-sijayut-vsyo-jarche.html",
+      "image": "https://cosmatica.org/upload/000/u26/9/4/41306df8.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b62a9431e410c05031",
+      "type": "news-item",
+      "sourceCharacters": 11080,
+      "verified": false
+    },
+    {
+      "title": "Боргосезия - путь в лучшее будущее",
+      "description": "И в этом городе живут люди, которым не безразлично то, что происходит в нашем мире. Жанна Полетти — не только советник по культуре и образованию города Боргосезии, вице-президент Ассоциации \"Pro Loco di Borgosesia\"и член фольклорной группы \"Città di Borgosesia\", но главное: она ответственная и серьезная женщина, заботящаяся о благополучии и развитии своей земли и народа. С юного возраста Жанна принимала активное учас",
+      "url": "https://cosmatica.org/news/344-borgosezija-put-v-luchshee-buduschee.html",
+      "image": "https://cosmatica.org/upload/000/u26/4/c/86607860.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a9be0ad980039922dc",
+      "type": "news-item",
+      "sourceCharacters": 6136,
+      "verified": false
+    },
+    {
+      "title": "От моделей ученических до кораблей космических",
+      "description": "В мероприятии приняли участие школьники в возрасте от 7 до 18 лет. Всего — около 30 человек.",
+      "url": "https://cosmatica.org/news/343-ot-modelei-uchenicheskih-do-korablei-kosmicheskih.html",
+      "image": "https://cosmatica.org/upload/000/u26/f/b/2780b9c1.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8255f9eb7a4a061920",
+      "type": "news-item",
+      "sourceCharacters": 4801,
+      "verified": false
+    },
+    {
+      "title": "В Калугу к Циолковскому",
+      "description": "Гостей встретила Тимошенкова Елена Алексеевна - не только заведующая Мемориальным Домом-музеем К.Э. Циолковского, но и правнучка Константина Эдуардовича. В самом начале знакомства Елена Алексеевна сообщила, что заведующими дома-музея, по сложившейся традиции, всегда были потомки Циолковского, поэтому внимание к экспозициям и детали жизни Константина Эдуардовича описываются и передаются с особой теплотой и вниманием.",
+      "url": "https://cosmatica.org/news/342-v-kalugu-k-ciolkovskomu.html",
+      "image": "https://cosmatica.org/upload/000/u26/0/e/v-kalugu-k-ciolkovskomu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=861a5192a914b9901d",
+      "type": "news-item",
+      "sourceCharacters": 5099,
+      "verified": false
+    },
+    {
+      "title": "Выставка \"Наш Гагарин\" открылась в Берёзовском Свердловской области",
+      "description": "4 марта в вестибюле библиотеки Семейного чтения в г. Березовском Свердловской области , открылась фотовыставка «Наш Гагарин», приуроченная к 85-летию первого космонавта Юрия Гагарина. На ней представлены редкие фото с краткой информацией о подготовке и полете Гагарина в космос и о его жизни после полета. Выставка проходит в рамках работы Общественно — государственного комитета празднования 85 — летия Ю.А. Гагарина. Р",
+      "url": "https://cosmatica.org/news/341-vystavka-nash-gagarin-otkrylas-v-beryozovskom-sverdlovskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/000/u44/c/2/vystavka-nash-gagarin-otkrylas-v-beryozovskom-sverdlovskoi-obla.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=340b1c209a109beba7",
+      "type": "news-item",
+      "sourceCharacters": 1510,
+      "verified": false
+    },
+    {
+      "title": "Любовь к звёздам.",
+      "description": "Детский клуб \"Эврика\" РКО Хакасии организовал групповое мероприятие в рамках проекта «Жемчуг исканий» с целью вырастить новых членов клуба и привить им любовь к звёздному небу. Под руководством тьюторов: Корнеева Евгения, Седунова Александра, Седунова Кирилла команды начали работу в группах по теме « Созвездия». Участники трёх команд: «Орион», «Цефей», «Персей» - все внимательно слушали мифы, рассказываемые тьюторами",
+      "url": "https://cosmatica.org/news/339-lyubov-k-zvyozdam.html",
+      "image": "https://cosmatica.org/upload/000/u43/5/f/lyubov-k-zvyozdam-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4cca7602411b047f13",
+      "type": "news-item",
+      "sourceCharacters": 1215,
+      "verified": false
+    },
+    {
+      "title": "От мечты к реальности",
+      "description": "«Наш народ своим гением, своим героическим трудом создал самый прекрасный в мире космический корабль «Восток» и его очень умное, очень надёжное оборудование. От старта и до самого приземления у меня не было никакого сомнения в успешном исходе космического полёта. Мне хочется от души поблагодарить наших учёных, инженеров, техников, всех советских рабочих, создавших такой корабль, на котором можно уверенно постигать та",
+      "url": "https://cosmatica.org/news/340-ot-mechty-k-realnosti.html",
+      "image": "https://cosmatica.org/upload/000/u26/4/0/79dc2cee.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b3741e6126612f9729",
+      "type": "news-item",
+      "sourceCharacters": 2893,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

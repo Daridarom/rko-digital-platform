@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1025-russkoe-kosmicheskoe-obschestvo-celi-zadachi-missija-gost-studii-glava-rko-gaponov-a-a.html",
+  "title": "Русское Космическое Общество: цели, задачи, миссия. Гость студии - Глава РКО Гапонов А.А.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "В студии ИА \"Аврора\" на канале \"Юность Авроры\" Гапонов Алексей Алексеевич , Глава Русского Космического Общества и Чагин Олег Александрович, директор НИИ Антропогенеза",
+      "spans": [
+        {
+          "text": "В студии ИА \"Аврора\" на канале \"Юность Авроры\"  "
+        },
+        {
+          "text": "Гапонов Алексей Алексеевич",
+          "href": "https://cosmatica.org/users/7"
+        },
+        {
+          "text": ",  Глава Русского Космического Общества и Чагин Олег Александрович, директор НИИ Антропогенеза"
+        }
+      ],
+      "links": [
+        {
+          "text": "Гапонов Алексей Алексеевич",
+          "url": "https://cosmatica.org/users/7"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Для каких целей и задач создано РКО? 2. Кто является создателем РКО? 3. Что является практической деятельностью РКО и где можно увидеть результаты вашей деятельности? 4. Какие готовятся проекты? Национальная платформа и её горизонты. 5. Какое количество участников на данный момент насчитывает Общество? Эти и другие вопросы обсуждались в студии канала \"Юность Авроры\": https://www.youtube.com/channel/UCgel...",
+      "spans": [
+        {
+          "text": "1. Для каких целей и задач создано РКО? 2. Кто является создателем РКО? 3. Что является практической деятельностью РКО и где можно увидеть результаты вашей деятельности? 4. Какие готовятся проекты? Национальная платформа и её горизонты. 5. Какое  "
+        },
+        {
+          "text": "количество",
+          "href": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        },
+        {
+          "text": " участников на данный момент насчитывает Общество? Эти и другие вопросы обсуждались в студии канала \"Юность Авроры\": "
+        },
+        {
+          "text": "https://www.youtube.com/channel/UCgel...",
+          "href": "https://www.youtube.com/channel/UCgelhV6iH6V7hsM7HZkJ_9g"
+        }
+      ],
+      "links": [
+        {
+          "text": "количество",
+          "url": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        },
+        {
+          "text": "https://www.youtube.com/channel/UCgel...",
+          "url": "https://www.youtube.com/channel/UCgelhV6iH6V7hsM7HZkJ_9g"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "tCwMhjRfN94",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=tCwMhjRfN94"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В студии ИА \"Аврора\" на канале \"Юность Авроры\" Гапонов Алексей Алексеевич , Глава Русского Космического Общества и Чагин Олег Александрович, директор НИИ Антропогенеза 1. Для каких целей и задач создано РКО? 2. Кто является создателем РКО? 3. Что является практической деятельностью РКО и где можно увидеть результаты вашей деятельности? 4. Какие готовятся проекты? Национальная платформа и её горизонты. 5. Какое количество участников на данный момент насчитывает Общество? Эти и другие вопросы обсуждались в студии канала \"Юность Авроры\": https://www.youtube.com/channel/UCgel...",
+      "links": [
+        {
+          "title": "Гапонов Алексей Алексеевич",
+          "url": "https://cosmatica.org/users/7"
+        },
+        {
+          "title": "количество",
+          "url": "https://cosmatica.org/glossary/116-kolichestvo.html"
+        },
+        {
+          "title": "https://www.youtube.com/channel/UCgel...",
+          "url": "https://www.youtube.com/channel/UCgelhV6iH6V7hsM7HZkJ_9g"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1047,
+    "storedTextCharacters": 580,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 78003
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 957,
+  "capturedBodyCharacters": 580,
+  "sourceTextSHA256": "de00a03de18e32c3effbbd374366595b5b525446e74f2ec00397ed45ad4a42ed",
+  "archiveSnapshotAt": "2026-10-08T08:37:46Z",
+  "publicVideoCount": 1
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 128,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Напутственное слово на подвиг",
+      "description": "Главной целью лагеря является воспитание духа товарищества, ответственности и самостоятельности в детях. Космического масштаба мышления, настроя на победу, готовности создавать идеи и воплощать их в жизнь .",
+      "url": "https://cosmatica.org/news/136-naputstvennoe-slovo-na-podvig.html",
+      "image": "https://cosmatica.org/upload/000/u8/16/db/181f38a0.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=43a54a8294afbef122",
+      "type": "news-item",
+      "sourceCharacters": 4160,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество обрело статус Межрегиональной общественной организации",
+      "description": "Это произошло 19 июня 2018 г. Событие открывает новые возможности для действий.",
+      "url": "https://cosmatica.org/news/134-russkoe-kosmicheskoe-obschestvo-obrelo-status-mezhregionalnoi-obschestvennoi-organizacii.html",
+      "image": "https://cosmatica.org/upload/000/u26/89/8f/russkoe-kosmicheskoe-obschestvo-obrelo-status-mezhregionalnoi-obsche.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0d8691982af97b744b",
+      "type": "news-item",
+      "sourceCharacters": 1164,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль \"Страж в истоке невы\"",
+      "description": "14 и 15 июля в крепости Орешек в рамках фестиваля «Страж в истоке Невы» на площадке Санкт-Петербургского отделения Русского Космического Общества распахнётся для гостей космический шатёр Звездочёта.",
+      "url": "https://cosmatica.org/news/133-festival-strazh-v-istoke-nevy.html",
+      "image": "https://cosmatica.org/upload/000/u21/73/e4/festival-strazh-v-istoke-nevy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=131116ca7d4f916214",
+      "type": "news-item",
+      "sourceCharacters": 1436,
+      "verified": false
+    },
+    {
+      "title": "\"РКО в Лицах: Лебедев Виталий Владиславович\"",
+      "description": "Они очень разные. Мужчины и женщины. Юные и люди Главного возраста. Учёные и учащиеся. Люди творческих профессий и предприниматели. Служащие и трудящиеся. Общественные деятели и политики.",
+      "url": "https://cosmatica.org/news/132-rko-v-licah-lebedev-vitalii-vladislavovich.html",
+      "image": "https://cosmatica.org/upload/000/u26/5a/16/1c9220c4.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4036094a15cd01d74e",
+      "type": "news-item",
+      "sourceCharacters": 1589,
+      "verified": false
+    },
+    {
+      "title": "Что такое Русское Космическое Общество?",
+      "description": "Гордое звание космонавта доступно немногим - оно объединяет в себе лучшие качества, присущие человеку. Мы знали, чтобы стать космонавтом, нужно пройти строгий отбор. Для этого нужны годы тренировок и обучение множеству сложных навыков. Нужны самоотверженность и бесстрашие, готовность к труду и высоким результатам, слаженной работе в команде и индивидуальному подвигу. Наконец, нужны доброта и сердечность, честность и ",
+      "url": "https://cosmatica.org/news/130-chto-takoe-russkoe-kosmicheskoe-obschestvo.html",
+      "image": "https://cosmatica.org/upload/000/u26/fd/11/chto-takoe-russkoe-kosmicheskoe-obschestvo-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=638aa7800372d6f727",
+      "type": "news-item",
+      "sourceCharacters": 6193,
+      "verified": false
+    },
+    {
+      "title": "Трезвость в Интернете",
+      "description": "Портал ПРОФИЛАКТИКА.ОНЛАЙН - информационно-методический ресурс в формате единой электронной библиотеки, содержащей востребованные материалы по профилактике курения, потребления алкоголя и наркотиков, иных химических и нехимических зависимостей, формированию трезвого здорового образа жизни.",
+      "url": "https://cosmatica.org/news/127-trezvost-v-internete.html",
+      "image": "https://cosmatica.org/upload/000/u8/83/7c/trezvost-v-internete-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3e6bbe674abbf3723b",
+      "type": "news-item",
+      "sourceCharacters": 1476,
+      "verified": false
+    },
+    {
+      "title": "Мотоэкспедиция \"Звезды мира. От Колымы до Невы\"",
+      "description": "В рамках проекта «АстроГлобус» мы начинаем мотоэкспедицию «Звезды мира. От Колымы до Невы»",
+      "url": "https://cosmatica.org/news/126-motoekspedicija-zvezdy-mira-ot-kolymy-do-nevy.html",
+      "image": "https://cosmatica.org/upload/000/u21/f2/77/motoekspedicija-zvezdy-mira-ot-kolymy-do-nevy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=eeea2b159de7ff937a",
+      "type": "news-item",
+      "sourceCharacters": 1513,
+      "verified": false
+    },
+    {
+      "title": "Наша Вселенная: дневник разработки за июнь",
+      "description": "Команда программистов сейчас создаёт квестовоый движок. Попробовали сделать \"по-быстрому\", получилось не так, как хочется. Поэтому делаем иначе, более основательно. Надеемся, что скоро команда программистов увелиичится.",
+      "url": "https://cosmatica.org/news/131-nasha-vselennaja-dnevnik-razrabotki-za-iyun.html",
+      "image": "https://cosmatica.org/upload/000/u26/a5/4e/nasha-vselennaja-dnevnik-razrabotki-za-iyun-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c656f74af8d15d62e2",
+      "type": "news-item",
+      "sourceCharacters": 1406,
+      "verified": false
+    },
+    {
+      "title": "Русский космизм в Европе",
+      "description": "Актуальным проблемам изменения климата и глобального потепления на Земле была посвящена серия июньских международных научных конференций, в которых активное участие принял МНИИКА во главе с его Генеральным директором, доктором медицинских наук, профессором, Председателем Новосибирского отделения РКО, Трофимовым Александром Васильевичем .",
+      "url": "https://cosmatica.org/news/125-russkii-kosmizm-v-evrope.html",
+      "image": "https://cosmatica.org/upload/000/u30/d0/74/russkii-kosmizm-v-evrope-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=223445a1fd515ab2fe",
+      "type": "news-item",
+      "sourceCharacters": 2787,
+      "verified": false
+    },
+    {
+      "title": "В БГИТУ прошел международный Круглый стол, посвященный вопросам экологии и устойчивого развития",
+      "description": "Организатором мероприятия выступил БГИТУ при поддержке Государственного Фонда развития Северо-Запада и Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/135-v-bgitu-proshel-mezhdunarodnyi-kruglyi-stol-posvjaschennyi-voprosam-ekologii-i-ustoichivogo-razv.html",
+      "image": "https://cosmatica.org/upload/000/u8/e6/da/12edf8d2.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=015da39665e0a275f2",
+      "type": "news-item",
+      "sourceCharacters": 9048,
+      "verified": false
+    },
+    {
+      "title": "По Заветной тропе",
+      "description": "Лето-пора открытий, и мы отправляемся в путешествие по нашей малой родине в одно из популярнейших и загадочных мест на Земле, в музей-заповедник под открытым небом «Сундуки. Группа детей, желающих соприкоснуться с тайнами родной земли, отправилась по Заветной тропе или, как её еще называют, по тропе Жрецов в сопровождении экскурсовода Натальи Васильевной Радюк в увлекательное путешествие.",
+      "url": "https://cosmatica.org/news/128-po-zavetnoi-trope.html",
+      "image": "https://cosmatica.org/upload/000/u43/a2/87/po-zavetnoi-trope-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c67fd3784385af45b5",
+      "type": "news-item",
+      "sourceCharacters": 1914,
+      "verified": false
+    },
+    {
+      "title": "Оглашены основные принципы развития космической отрасли",
+      "description": "28 июня 2018 года в Москве прошла научно-практическая конференция «Основные задачи и перспективы развития Госкорпорации «РОСКОСМОС».",
+      "url": "https://cosmatica.org/news/122-oglasheny-osnovnye-principy-razvitija-kosmicheskoi-otrasli.html",
+      "image": "https://cosmatica.org/upload/000/u26/2d/75/50f59677.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4a4d99d94f6da61e0a",
+      "type": "news-item",
+      "sourceCharacters": 4398,
+      "verified": false
+    },
+    {
+      "title": "Генерал \"Буран\" будет смотреть на восток.",
+      "description": "25 июня 2018 года, в селе Тюбук Челябинской области, в помещении сельской Управы (ул. Ленина,8) состоялась первая личная встреча Председателя Челябинского отделения Бессонова Антона Владимировича и участника РКО Благочиннова Д.В. с Главой сельского поселения Ситниковым Владимиром Александровичем.",
+      "url": "https://cosmatica.org/news/124-general-buran-budet-smotret-na-vostok.html",
+      "image": "https://cosmatica.org/upload/000/u37/fa/fe/general-buran-budet-smotret-na-vostok-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fc6b2f2b825dfb6f06",
+      "type": "news-item",
+      "sourceCharacters": 3589,
+      "verified": false
+    },
+    {
+      "title": "Космический шатёр РКО принял первых гостей.",
+      "description": "22-23 июня 2018г. в Хакасии прошёл фестиваль «Сундуки - Храм Солнца» , на котором работала площадка РКО.",
+      "url": "https://cosmatica.org/news/123-kosmicheskii-shatyor-rko-prinjal-pervyh-gostei.html",
+      "image": "https://cosmatica.org/upload/000/u43/c8/d3/d178d71b.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=43fc23758ff36ddb43",
+      "type": "news-item",
+      "sourceCharacters": 3051,
+      "verified": false
+    },
+    {
+      "title": "Завершил свою работу семинар \"Целостное мышление в ноосферном образовании\".",
+      "description": "Доброго дня, дорогие коллеги и спутники!!! Завершил свою работу семинар \"Целостное мышление в ноосферном образовании\", который состоялся с 17 по 23 июня 2018г. в ближнем Подмосковье.",
+      "url": "https://cosmatica.org/news/129-zavershil-svoyu-rabotu-seminar-celostnoe-myshlenie-v-noosfernom-obrazovanii.html",
+      "image": "https://cosmatica.org/upload/000/u42/54/6a/zavershil-svoyu-rabotu-seminar-celostnoe-myshlenie-v-noosfernom-ob.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e47e4eb4429e9c20dd",
+      "type": "news-item",
+      "sourceCharacters": 2297,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 130,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "О результатах заседания Общественного Совета АНО СК «Роскосмоса» по итогам работы в 2019 году",
+      "description": "10 декабря 2019 года в АНО «Спортивный клуб «Роскосмос» (Далее АНО СК РК) состоялось заседание Общественного Совета. Заседание провёл его Председатель Петрашко Арсений Григорьевич – руководитель группы компаний «РТА».",
+      "url": "https://cosmatica.org/news/633-o-rezultatah-zasedanija-obschestvennogo-soveta-ano-sk-roskosmosa-po-itogam-raboty-v-2019-godu.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/9/o-rezultatah-zasedanija-obschestvennogo-soveta-ano-sk-roskosmosa.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f23f669dad963822e1",
+      "type": "news-item",
+      "sourceCharacters": 4777,
+      "verified": false
+    },
+    {
+      "title": "Всенародный день Матери-Земли в Мемориальном Музее Космонавтики",
+      "description": "День Матери-Земли — это день ответственности перед нашей",
+      "url": "https://cosmatica.org/articles/632-vsenarodnyi-den-materi-zemli-v-memorialnom-muzee-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/000/u26/9/6/vsenarodnyi-den-materi-zemli-v-memorialnom-muzee-kosmonavtiki.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=a46ea2bd4107f0952d",
+      "type": "article",
+      "sourceCharacters": 6877,
+      "verified": false
+    },
+    {
+      "title": "В Екатеринбурге подвели итоги заочного этапа Инженерно-технической интернет олимпиады для школьников",
+      "description": "Результаты размещены в обезличенном виде на страничке Олимпиады на сайте ситш.рф",
+      "url": "https://cosmatica.org/news/632-v-ekaterinburge-podveli-itogi-zaochnogo-etapa-inzhenerno-tehnicheskoi-internet-olimpiady-dlja-sh.html",
+      "image": "https://cosmatica.org/upload/000/u53/1/d/v-ekaterinburge-podveli-itogi-zaochnogo-etapa-inzhenerno-tehnichesk.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8eec59d4503f64d1ca",
+      "type": "news-item",
+      "sourceCharacters": 1452,
+      "verified": false
+    },
+    {
+      "title": "Путь к знаниям - путь к звёздам",
+      "description": "Базовой площадкой Олимпиады стал Баранчинский электромеханический техникум. Организацию процесса, методическую и ИТ-поддержку осуществляли Свердловское отделение Русского Космического Общества (РКО) и Сетевая инженерно-техническая школа (СИТШ).",
+      "url": "https://cosmatica.org/articles/631-put-k-znanijam-put-k-zvyozdam.html",
+      "image": "https://cosmatica.org/upload/000/u26/d/b/put-k-znanijam-put-k-zvyozdam.png",
+      "kind": "article",
+      "href": "view.html?p=article&ref=58e6901d84f4c4875c",
+      "type": "article",
+      "sourceCharacters": 2182,
+      "verified": false
+    },
+    {
+      "title": "Космическая конвергенция БРИКС",
+      "description": "25.04.2019 в центральном офисе Русского Космического Общества в Москве на мероприятии присутствовали гости, в числе которых был герой России, космонавт-испытатель Центра подготовки космонавтов им. Ю. А. Гагарина Токарев Валерий Иванович .",
+      "url": "https://cosmatica.org/articles/630-kosmicheskaja-konvergencija-briks.html",
+      "image": "https://cosmatica.org/upload/000/u26/6/6/briks.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=56af2317fa96498324",
+      "type": "article",
+      "sourceCharacters": 4648,
+      "verified": false
+    },
+    {
+      "title": "Проект \"Наша Вселенная\", ноябрь 2019",
+      "description": "Снова месяц «невидимой жизни». Это значит, происходит много работы с кодом. Несколько интересных экспериментов привели к выводу, что надо переделать основу квестового движка, в том числе из-за внедрения механики инвентаря. Не терпится показать вам, когда всё заработает, но работы ещё много, поэтому, пожалуйста, наберитесь терпения.",
+      "url": "https://cosmatica.org/news/630-dnevnik-proekta-za-nojabr-2019.html",
+      "image": "https://cosmatica.org/upload/000/u64/7/1/dnevnik-proekta-za-nojabr-2019-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2031a7075ed01b674c",
+      "type": "news-item",
+      "sourceCharacters": 1326,
+      "verified": false
+    },
+    {
+      "title": "Кто летит на Байконур!?",
+      "description": "«Семихатовские чтения» проводятся ежегодно в канун празднования Дня космонавтики и посвящаются памяти конструктора и ученого – академика Н.А. Семихатова.",
+      "url": "https://cosmatica.org/articles/629-kto-letit-na-baikonur.html",
+      "image": "https://cosmatica.org/upload/000/u26/2/3/kto-letit-na-baikonur.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=cd41b10ae31f9e2b42",
+      "type": "article",
+      "sourceCharacters": 4613,
+      "verified": false
+    },
+    {
+      "title": "История Героев звучала на Псковской земле",
+      "description": "В эти дни на базе ПсковГУ и МБОУ «СОШ №24 им. Л. И. Малякова» прошла серия мероприятий под общим названием «Космос для героев».",
+      "url": "https://cosmatica.org/news/629-istorija-geroev-zvuchala-na-pskovskoi-zemle.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/a/istorija-geroev-zvuchala-na-pskovskoi-zemle-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=10e0eb2b5c6e2fd16f",
+      "type": "news-item",
+      "sourceCharacters": 3269,
+      "verified": false
+    },
+    {
+      "title": "\"Космология духа\" Ильенкова и традиция Русского Космизма",
+      "description": "В 2019 году Чтения прошли под девизом: «Э.В. Ильенков: проблема единства и целостности философско-мировоззренческих взглядов». Организаторы конференции: Российское Философское общество «Диалектика и культура», Русское Космическое Общество, Общероссийское общественное движение «Альтернативы», Восточное Отделение Казахстанского Философского Конгресса, Кафедра философии Московского авиационного института.",
+      "url": "https://cosmatica.org/articles/628-kosmologija-duha-ilenkova-i-tradicija-russkogo-kosmizma.html",
+      "image": "https://cosmatica.org/upload/000/u26/d/5/22kosmologija-duha-22-ilenkova-i-tradicija-russkogo-kosmizma.png",
+      "kind": "article",
+      "href": "view.html?p=article&ref=3e05953f370d4e86df",
+      "type": "article",
+      "sourceCharacters": 6438,
+      "verified": false
+    },
+    {
+      "title": "Фантастические приключения с королём чёрной звезды",
+      "description": "10 декабря 2019 года в Центральной городской детской библиотеке Муниципального учреждения культуры «Централизованная библиотечная система », в рамках литературно-образовательного проекта «Книга на орбите», для обучающихся 8-В класса Муниципального общеобразовательного учреждения «Шахтерская средняя школа №1» состоялась презентация новой книги известного донецкого фантаста, политика, Председателя Союза писателей ДНР, ",
+      "url": "https://cosmatica.org/news/628-fantasticheskie-priklyuchenija-s-korolyom-chyornoi-zvezdy.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/e/fantasticheskie-priklyuchenija-s-korolyom-chyornoi-zvezdy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8f009752373712a5a5",
+      "type": "news-item",
+      "sourceCharacters": 2280,
+      "verified": false
+    },
+    {
+      "title": "Преемственность космической мечты",
+      "description": "Воспитанникам Центра развития творчества детей и юношества \"Созвездие\" (г. Калуга) посчастливилось посетить Федеральное государственное бюджетное учреждение «Научно-исследовательский испытательный центр подготовки космонавтов имени Ю. А. Гагарина» (ЦПК им. Ю.А. Гагарина) — главное советское и российское учреждение по подготовке космонавтов.",
+      "url": "https://cosmatica.org/articles/627-preemstvennost-kosmicheskoi-mechty.html",
+      "image": "https://cosmatica.org/upload/000/u26/8/1/preemstvennost-kosmicheskoi-mechty.png",
+      "kind": "article",
+      "href": "view.html?p=article&ref=77f3163cfdb4c9fc8c",
+      "type": "article",
+      "sourceCharacters": 2958,
+      "verified": false
+    },
+    {
+      "title": "Дневник разработки \"Нашей Вселенной\" за апрель 2019",
+      "description": "В последнее время было немало сложностей и трудностей, и разработка идёт медленнее, чем хотелось бы. Но, мы, разумеется, продолжаем.",
+      "url": "https://cosmatica.org/articles/626-dnevnik-razrabotki-nashei-vselennoi-za-aprel-2019.html",
+      "image": "https://cosmatica.org/upload/000/u26/c/7/dnevnik-razrabotki-22nashei-vselennoi-22-za-aprel-2019.png",
+      "kind": "article",
+      "href": "view.html?p=article&ref=a153ef595af1ae4ac1",
+      "type": "article",
+      "sourceCharacters": 1336,
+      "verified": false
+    },
+    {
+      "title": "Космос и медицина. В будущее вместе",
+      "description": "23 ноября 2019 года в ФГБУ «НМИЦ им. В.А. Алмазова» успешно прошла первая научно-практическая конференция « Космос и медицина: прошлое, настоящее, будущее ».",
+      "url": "https://cosmatica.org/news/626-kosmos-i-medicina-v-buduschee-vmeste.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/d/3b1a5cf5.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=be1c3db1ba5f0486c7",
+      "type": "news-item",
+      "sourceCharacters": 5207,
+      "verified": false
+    },
+    {
+      "title": "Ю.А. Гагарин и его наследие в истории страны и всего мира",
+      "description": "С 1 февраля по 12 апреля 2019 года в рамках работы Общественно-государственного комитета празднования 85-летия Ю.А. Гагарина проходил Международный конкурс на лучший исследовательский и практико-ориентированный проект на тему «Ю.А. Гагарин и его наследие в истории страны и всего мира».",
+      "url": "https://cosmatica.org/articles/625-yu-a-gagarin-i-ego-nasledie-v-istorii-strany-i-vsego-mira.html",
+      "image": "https://cosmatica.org/upload/000/u26/e/c/gagarin.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=858562dd0537753761",
+      "type": "article",
+      "sourceCharacters": 11438,
+      "verified": false
+    },
+    {
+      "title": "Награждение лауреатов Международного экологического конкурса \"EcoWorld-2019\" состоялось!",
+      "description": "Международная экологическая премия « EcoWorld » является правопреемницей национальной экологической премии “ЭкоМир”. Национальная экологическая премия “ЭкоМир” была учреждена в 2004г. Премия является общественной наградой за достижения в области охраны окружающей среды, цель которой заключается в привлечении внимания общественности к решению экологических проблем за счет новых программ, проектов и технологий. Учредит",
+      "url": "https://cosmatica.org/news/625-nagrazhdenie-laureatov-mezhdunarodnogo-ekologicheskogo-konkursa-ecoworld-2019-sostojalos.html",
+      "image": "https://cosmatica.org/upload/000/u7/b/e/nagrazhdenie-laureatov-mezhdunarodnogo-ekologicheskogo-konkursa-e.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ebfbc6039e567c55c7",
+      "type": "news-item",
+      "sourceCharacters": 3856,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

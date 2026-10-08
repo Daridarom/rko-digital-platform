@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/709",
+  "title": "Ольга Сергеевна Пинчукова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/e/f/23247638.jpg",
+      "alt": "Ольга Сергеевна Пинчукова"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/2/b/e078218f.jpg",
+      "alt": "Ольга Сергеевна Пинчукова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Участник проекта «Киноуроки в школах России»:",
+      "spans": [
+        {
+          "text": "Участник проекта «Киноуроки в школах России»:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "kinouroki.ru/",
+      "spans": [
+        {
+          "text": "kinouroki.ru/"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Санкт-Петербург",
+      "links": [
+        {
+          "title": "Санкт-Петербург",
+          "url": "https://cosmatica.org/departments/9-sankt-peterburg.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Участник проекта «Киноуроки в школах России»: kinouroki.ru/",
+      "links": [
+        {
+          "title": "kinouroki.ru/",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fkinouroki.ru%2F"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/e/f/23247638.jpg",
+    "https://cosmatica.org/upload/000/u35/2/b/e078218f.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 147,
+    "storedTextCharacters": 91,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35108
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 96,
+  "capturedBodyCharacters": 91,
+  "sourceTextSHA256": "c6a266a1665b91ae8592cd6e7fad32f2a185503000b2b4b06deb433ab0070f10",
+  "archiveSnapshotAt": "2026-10-08T09:21:53Z"
+}

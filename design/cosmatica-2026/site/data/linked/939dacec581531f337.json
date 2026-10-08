@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/h",
+  "title": "Х",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Хомогеобиоценозы",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Хомобиотический оборот",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Хроноцелостность процесса",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 67,
+    "storedTextCharacters": 63,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 33409
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 67,
+  "capturedBodyCharacters": 63,
+  "sourceTextSHA256": "de07408ebb03d0d4e527c27038fedab736effd4f54de00bdacad100374bd84e0",
+  "archiveSnapshotAt": "2026-10-08T08:47:26Z"
+}

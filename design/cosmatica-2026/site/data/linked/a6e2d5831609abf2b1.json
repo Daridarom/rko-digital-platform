@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/193",
+  "title": "Ольга Викторовна Новикова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/1/1/76378701.jpg",
+      "alt": "Ольга Викторовна Новикова"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/e/5/a00f9f75.jpg",
+      "alt": "Ольга Викторовна Новикова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Член социально-культурного проекта «Резонанс»",
+      "spans": [
+        {
+          "text": "Член социально-культурного проекта «Резонанс»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Представительство в Беларуси",
+      "links": [
+        {
+          "title": "Представительство в Беларуси",
+          "url": "https://cosmatica.org/departments/16-predstavitelstvo-v-belarusi.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Член социально-культурного проекта «Резонанс»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u21/1/1/76378701.jpg",
+    "https://cosmatica.org/upload/000/u21/e/5/a00f9f75.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 146,
+    "storedTextCharacters": 78,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34938
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 95,
+  "capturedBodyCharacters": 78,
+  "sourceTextSHA256": "cae63522c3f39a9fd5bf69da193a9aad9498a4042d067c663508b88f4e49afb1",
+  "archiveSnapshotAt": "2026-10-08T09:18:23Z"
+}

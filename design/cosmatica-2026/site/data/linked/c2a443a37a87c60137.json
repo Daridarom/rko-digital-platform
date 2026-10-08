@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/29-universum.html",
+  "title": "Универсум",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это поток пространства–времени, где все изменяется и остается неизменным в заданной системе координат.",
+      "spans": [
+        {
+          "text": "это поток пространства–времени, где все изменяется и остается неизменным в заданной системе координат."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это поток пространства–времени, где все изменяется и остается неизменным в заданной системе координат.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 112,
+    "storedTextCharacters": 102,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31838
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 102,
+  "capturedBodyCharacters": 102,
+  "sourceTextSHA256": "5c342a932681315be2c6c9f1edfa9c0450dba32f9e28d1ccf024422ba0a6bb63",
+  "archiveSnapshotAt": "2026-10-08T08:46:46Z"
+}

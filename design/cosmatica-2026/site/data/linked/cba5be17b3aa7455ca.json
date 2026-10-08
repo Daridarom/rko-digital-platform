@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/261",
+  "title": "Фёдор Анатольевич Карчин",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/3/c/8b9247e7.jpg",
+      "alt": "Фёдор Анатольевич Карчин"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/a/f/ae6d0ac7.jpg",
+      "alt": "Фёдор Анатольевич Карчин"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "МФ МГТУ им Н.Э.Баумана, заведующий лабораторией кафедры ЛТ10-МФ",
+      "spans": [
+        {
+          "text": "МФ МГТУ им Н.Э.Баумана, заведующий лабораторией кафедры ЛТ10-МФ"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Владимирская область",
+      "links": [
+        {
+          "title": "Владимирская область",
+          "url": "https://cosmatica.org/departments/24-vladimirskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "МФ МГТУ им Н.Э.Баумана, заведующий лабораторией кафедры ЛТ10-МФ",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/3/c/8b9247e7.jpg",
+    "https://cosmatica.org/upload/000/u35/a/f/ae6d0ac7.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 155,
+    "storedTextCharacters": 96,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34976
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 105,
+  "capturedBodyCharacters": 96,
+  "sourceTextSHA256": "ea2af3d6c2645584962f7161c781fd5087b018625d2d1698ba17445ca655d266",
+  "archiveSnapshotAt": "2026-10-08T09:18:53Z"
+}

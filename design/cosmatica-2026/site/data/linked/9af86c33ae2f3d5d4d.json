@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/267-imperium-cheloveka-era-fantastiki-nagrazhdenie.html",
+  "title": "\"Империум Человека: Эра Фантастики\". Награждение #Литературный конкурс \"Империум Человека\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/7/imperium-cheloveka-era-fantastiki-nagrazhdenie-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Дорогие друзья, приглашаем Вас на церемонию награждения литературного конкурса \"Империум Человека: Эра Фантастики\"",
+      "spans": [
+        {
+          "text": "Дорогие друзья, приглашаем Вас на церемонию награждения литературного конкурса \"Империум Человека: Эра Фантастики\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "конкурс-империум.рф",
+      "spans": [
+        {
+          "text": "конкурс-империум.рф",
+          "href": "https://vk.com/away.php?to=http%3A%2F%2F%EA%EE%ED%EA%F3%F0%F1-%E8%EC%EF%E5%F0%E8%F3%EC.%F0%F4&cc_key="
+        }
+      ],
+      "links": [
+        {
+          "text": "конкурс-империум.рф",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2F%EA%EE%ED%EA%F3%F0%F1-%E8%EC%EF%E5%F0%E8%F3%EC.%F0%F4&cc_key="
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "10 марта, 18.00-20.00 у стен Кремля, в Доме Общественных Организаций, по адресу Покровка, 16/5-1, метро «Китай Город».",
+      "spans": [
+        {
+          "text": "10 марта, 18.00-20.00 у стен Кремля, в Доме Общественных Организаций, по адресу Покровка, 16/5-1, метро «Китай Город»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Вы сможете пообщаться с лауреатами и призёрами - интересными авторами на переднем крае современной фантастики. А также с членами жюри. Узнать о замыслах, идеях и планах авторов, а также Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "Вы  сможете пообщаться с лауреатами и призёрами - интересными авторами на  переднем крае современной фантастики. А также с членами жюри. Узнать о  замыслах, идеях и планах авторов, а также Русского Космического  Общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Контактное лицо: Зотов Степан Андреевич",
+      "spans": [
+        {
+          "text": "Контактное лицо: Зотов Степан Андреевич "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "stepanzotov@yandex.ru",
+      "spans": [
+        {
+          "text": "stepanzotov@yandex.ru"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Дорогие друзья, приглашаем Вас на церемонию награждения литературного конкурса \"Империум Человека: Эра Фантастики\" конкурс-империум.рф 10 марта, 18.00-20.00 у стен Кремля, в Доме Общественных Организаций, по адресу Покровка, 16/5-1, метро «Китай Город». Вы сможете пообщаться с лауреатами и призёрами - интересными авторами на переднем крае современной фантастики. А также с членами жюри. Узнать о замыслах, идеях и планах авторов, а также Русского Космического Общества. Контактное лицо: Зотов Степан Андреевич stepanzotov@yandex.ru",
+      "links": [
+        {
+          "title": "конкурс-империум.рф",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2F%EA%EE%ED%EA%F3%F0%F1-%E8%EC%EF%E5%F0%E8%F3%EC.%F0%F4&cc_key="
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/7/imperium-cheloveka-era-fantastiki-nagrazhdenie-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 733,
+    "storedTextCharacters": 528,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 6,
+    "sourceBytes": 39424
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 733,
+  "capturedBodyCharacters": 528,
+  "sourceTextSHA256": "29e5abffe19414e894538f220ebf9b4c2489ff9eb153ad17025825c07c208953",
+  "archiveSnapshotAt": "2026-10-08T09:15:37Z"
+}

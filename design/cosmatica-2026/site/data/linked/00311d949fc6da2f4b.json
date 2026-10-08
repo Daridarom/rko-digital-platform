@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/926-legendy-kosmosa-kirill-schyolkin.html",
+  "title": "Легенды космоса: Кирилл Щёлкин",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Сохраняя память: Щёлкин К.И.",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/a/2/legendy-kosmosa-kirill-schyolkin-photo-normal.jpg",
+      "alt": "Легенды космоса: Кирилл Щёлкин"
+    },
+    {
+      "type": "paragraph",
+      "text": "Активное участие в создании передачи принял Председатель Челябинского отделения РКО, руководитель проекта \" Сохраняя память: К.И. Щёлкин \" Бесссонов Антон Владимирович .",
+      "spans": [
+        {
+          "text": "Активное участие в создании передачи принял Председатель Челябинского отделения РКО, руководитель проекта "
+        },
+        {
+          "text": "\"",
+          "href": "https://cosmatica.org/projects/schelkin"
+        },
+        {
+          "text": "Сохраняя память: К.И. Щёлкин",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/projects/schelkin"
+        },
+        {
+          "text": "\"",
+          "href": "https://cosmatica.org/projects/schelkin"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Бесссонов Антон Владимирович",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/users/39"
+        },
+        {
+          "text": ".",
+          "marks": [
+            "bold"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "\" Сохраняя память: К.И. Щёлкин \"",
+          "url": "https://cosmatica.org/projects/schelkin"
+        },
+        {
+          "text": "Бесссонов Антон Владимирович",
+          "url": "https://cosmatica.org/users/39"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Кроме него, с комментариями выступил участник Русского Космического Общества, молодой изобретатель Шалевич Дмитрий Вячеславович.",
+      "spans": [
+        {
+          "text": "Кроме него, с комментариями выступил участник Русского Космического Общества, молодой изобретатель "
+        },
+        {
+          "text": "Шалевич Дмитрий Вячеславович.",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/users/834"
+        }
+      ],
+      "links": [
+        {
+          "text": "Шалевич Дмитрий Вячеславович.",
+          "url": "https://cosmatica.org/users/834"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Почему долгие годы имя этого учёного-атомщика было засекречено? Какие его проекты помогли СССР упрочить славу космической супердержавы? Кто лишил Щёлкина всех наград и почетных званий? Конец пятидесятых был самым напряженным и ярким этапом космической гонки, но вывести пилотируемый человеком корабль на орбиту лишь половина дела, главное вернуть его целым и невредимым на Землю, обеспечив плавное приземление капсулы.",
+      "spans": [
+        {
+          "text": "Почему долгие годы имя этого учёного-атомщика было засекречено? Какие его проекты помогли СССР упрочить славу космической супердержавы? Кто лишил Щёлкина всех наград и почетных званий? Конец пятидесятых был самым напряженным и ярким этапом космической гонки, но вывести пилотируемый человеком корабль на орбиту лишь половина дела, главное вернуть его целым и невредимым на Землю, обеспечив плавное приземление капсулы."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Об этом и многом другом говорим в передаче \"Легенды космоса: Кирилл Щёлкин\".",
+      "spans": [
+        {
+          "text": "Об этом и многом другом говорим в передаче \"Легенды космоса: Кирилл Щёлкин\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Посмотреть выпуск можно на сайте телеканала: https://tvzvezda.ru/schedule/programs/201610171325...",
+      "spans": [
+        {
+          "text": "Посмотреть выпуск можно на сайте телеканала: ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "https://tvzvezda.ru/schedule/programs/201610171325...",
+          "href": "https://tvzvezda.ru/schedule/programs/201610171325-2nie.htm/2020123855-RoG6J.html/player/"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://tvzvezda.ru/schedule/programs/201610171325...",
+          "url": "https://tvzvezda.ru/schedule/programs/201610171325-2nie.htm/2020123855-RoG6J.html/player/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Мы приглашаем всех заинтересованных лиц к участию в реализации проекта: \"Сохраняя память: К.И. Щёлкин\"",
+      "spans": [
+        {
+          "text": "Мы приглашаем всех заинтересованных лиц к участию в реализации проекта: "
+        },
+        {
+          "text": "\"Сохраняя память: К.И. Щёлкин\"",
+          "href": "https://cosmatica.org/projects/schelkin"
+        }
+      ],
+      "links": [
+        {
+          "text": "\"Сохраняя память: К.И. Щёлкин\"",
+          "url": "https://cosmatica.org/projects/schelkin"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ознакомиться с подробностями на сайте РКО на странице проекта https://cosmatica.org/projects/schelkin",
+      "spans": [
+        {
+          "text": "Ознакомиться с подробностями на сайте РКО на странице проекта "
+        },
+        {
+          "text": "https://cosmatica.org/projects/schelkin",
+          "href": "https://cosmatica.org/projects/schelkin"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/projects/schelkin",
+          "url": "https://cosmatica.org/projects/schelkin"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Там же можно внести свой посильный вклад перечислив любую сумму на развитие проекта. Кнопка \"ПОДДЕРЖАТЬ ПРОЕКТ \" в колонке слева под символом проекта.",
+      "spans": [
+        {
+          "text": "Там же можно внести свой посильный вклад перечислив любую сумму на  "
+        },
+        {
+          "text": "развитие",
+          "href": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "text": " проекта. Кнопка \"ПОДДЕРЖАТЬ  "
+        },
+        {
+          "text": "ПРОЕКТ",
+          "href": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": "\" в колонке слева под символом проекта."
+        }
+      ],
+      "links": [
+        {
+          "text": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "text": "ПРОЕКТ",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Благодарим телеканал \"Звезда\" за сотрудничество и интерес к личности Кирилла Ивановича Щёлкина.",
+      "spans": [
+        {
+          "text": "Благодарим телеканал "
+        },
+        {
+          "text": "\"Звезда\"",
+          "href": "https://tvzvezda.ru/"
+        },
+        {
+          "text": " за сотрудничество и интерес к личности Кирилла Ивановича Щёлкина."
+        }
+      ],
+      "links": [
+        {
+          "text": "\"Звезда\"",
+          "url": "https://tvzvezda.ru/"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "3 декабря на телеканале \"Звезда\" вышла передача, посвящённая Кириллу Ивановичу Щёлкину.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Активное участие в создании передачи принял Председатель Челябинского отделения РКО, руководитель проекта \" Сохраняя память: К.И. Щёлкин \" Бесссонов Антон Владимирович . Кроме него, с комментариями выступил участник Русского Космического Общества, молодой изобретатель Шалевич Дмитрий Вячеславович. Почему долгие годы имя этого учёного-атомщика было засекречено? Какие его проекты помогли СССР упрочить славу космической супердержавы? Кто лишил Щёлкина всех наград и почетных званий? Конец пятидесятых был самым напряженным и ярким этапом космической гонки, но вывести пилотируемый человеком корабль на орбиту лишь половина дела, главное вернуть его целым и невредимым на Землю, обеспечив плавное приземление капсулы. Об этом и многом другом говорим в передаче \"Легенды космоса: Кирилл Щёлкин\". Посмотреть выпуск можно на сайте телеканала: https://tvzvezda.ru/schedule/programs/201610171325... Мы приглашаем всех заинтересованных лиц к участию в реализации проекта: \"Сохраняя память: К.И. Щёлкин\" Ознакомиться с подробностями на сайте РКО на странице проекта https://cosmatica.org/projects/schelkin Там же можно внести свой посильный вклад перечислив любую сумму на развитие проекта. Кнопка \"ПОДДЕРЖАТЬ ПРОЕКТ \" в колонке слева под символом проекта. Благодарим телеканал \"Звезда\" за сотрудничество и интерес к личности Кирилла Ивановича Щёлкина.",
+      "links": [
+        {
+          "title": "\" Сохраняя память: К.И. Щёлкин \"",
+          "url": "https://cosmatica.org/projects/schelkin"
+        },
+        {
+          "title": "Бесссонов Антон Владимирович",
+          "url": "https://cosmatica.org/users/39"
+        },
+        {
+          "title": "Шалевич Дмитрий Вячеславович.",
+          "url": "https://cosmatica.org/users/834"
+        },
+        {
+          "title": "https://tvzvezda.ru/schedule/programs/201610171325...",
+          "url": "https://tvzvezda.ru/schedule/programs/201610171325-2nie.htm/2020123855-RoG6J.html/player/"
+        },
+        {
+          "title": "\"Сохраняя память: К.И. Щёлкин\"",
+          "url": "https://cosmatica.org/projects/schelkin"
+        },
+        {
+          "title": "https://cosmatica.org/projects/schelkin",
+          "url": "https://cosmatica.org/projects/schelkin"
+        },
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "title": "ПРОЕКТ",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "\"Звезда\"",
+          "url": "https://tvzvezda.ru/"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/a/2/legendy-kosmosa-kirill-schyolkin-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1742,
+    "storedTextCharacters": 1377,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 9,
+    "sourceBytes": 50171
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1571,
+  "capturedBodyCharacters": 1377,
+  "sourceTextSHA256": "427e7531021864d57dba9d6bd0b3f8ab31e13755b6ad611d6956ca57b3889578",
+  "archiveSnapshotAt": "2026-10-08T09:14:17Z"
+}

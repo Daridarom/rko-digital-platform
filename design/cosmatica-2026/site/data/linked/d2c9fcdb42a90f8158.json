@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/99-v-ramkah-proekta-poezija-russkogo-kosmizma-prodolzhaet-rabotu-literaturnyi-klub.html",
+  "title": "В рамках проекта \"Поэзия русского космизма\" продолжает работу литературный клуб",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Поэзия Русского Космизма",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/4e/eb/v-ramkah-proekta-poezija-russkogo-kosmizma-prodolzhaet-rabotu-li.jpg",
+      "alt": "В рамках проекта \"Поэзия русского космизма\" продолжает работу литературный клуб"
+    },
+    {
+      "type": "paragraph",
+      "text": "Литературный клуб РКО приглашает поэтов на заседания клуба. Следующая встреча состоится в среду 30-го мая в 19-00 По адресу Ленинградский проспект, дом 7",
+      "spans": [
+        {
+          "text": "Литературный клуб РКО приглашает поэтов на заседания клуба. Следующая встреча состоится в среду 30-го мая в 19-00 По адресу Ленинградский проспект, дом 7"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Заседания клуба проходят два раза в месяц",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Литературный клуб РКО приглашает поэтов на заседания клуба. Следующая встреча состоится в среду 30-го мая в 19-00 По адресу Ленинградский проспект, дом 7",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/4e/eb/v-ramkah-proekta-poezija-russkogo-kosmizma-prodolzhaet-rabotu-li.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 428,
+    "storedTextCharacters": 189,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 46447
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 212,
+  "capturedBodyCharacters": 189,
+  "sourceTextSHA256": "c0e04334ba14341ef09abe6762f0d47a26e329e292238026451c4d4bcaecb5b2",
+  "archiveSnapshotAt": "2026-10-08T09:14:36Z"
+}

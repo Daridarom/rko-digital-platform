@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/735-celi-zadachi-i-razvyortyvanie-rko.html",
+  "title": "Цели, задачи и развёртывание РКО",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Выступление Главы Русского Космического Общества на первой учредительной конференции Донецкого отделения РКО.",
+      "spans": [
+        {
+          "text": "Выступление Главы Русского Космического Общества на первой учредительной конференции Донецкого отделения РКО."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Место проведения: г. Донецк, ул. Артема, д. 58, ГВУЗ «Донецкий национальный технический университет»",
+      "spans": [
+        {
+          "text": "Место проведения: г. Донецк, ул. Артема, д. 58, ГВУЗ «Донецкий национальный технический университет»"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "HJpsk_FRJio",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=HJpsk_FRJio"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Выступление Главы Русского Космического Общества на первой учредительной конференции Донецкого отделения РКО. Место проведения: г. Донецк, ул. Артема, д. 58, ГВУЗ «Донецкий национальный технический университет»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 413,
+    "storedTextCharacters": 209,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 75473
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 380,
+  "capturedBodyCharacters": 209,
+  "sourceTextSHA256": "2a2b0c1a98f4d6b80f3324d1e9a4d559fb571a52106697f62534d920fdb9d43b",
+  "archiveSnapshotAt": "2026-10-08T08:43:12Z",
+  "publicVideoCount": 1
+}

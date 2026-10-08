@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/123-intuitivnoe-mirovozzrenie.html",
+  "title": "Интуитивное мировоззрение",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "отношение к миру, опирающееся на",
+      "spans": [
+        {
+          "text": "отношение к миру, опирающееся на"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "знание",
+      "spans": [
+        {
+          "text": "знание"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "законов, не имеющих естественной меры (законы религии, обыденной жизни, искусства).",
+      "spans": [
+        {
+          "text": "законов, не имеющих естественной меры (законы религии, обыденной жизни, искусства)."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "отношение к миру, опирающееся на знание законов, не имеющих естественной меры (законы религии, обыденной жизни, искусства).",
+      "links": [
+        {
+          "title": "знание",
+          "url": "https://cosmatica.org/glossary/128-znanie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 149,
+    "storedTextCharacters": 121,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32076
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 123,
+  "capturedBodyCharacters": 121,
+  "sourceTextSHA256": "540d87c0859e748b33d2ed4bae5efdff2ac317a7b2c7c098927bc6891a9e6088",
+  "archiveSnapshotAt": "2026-10-08T08:46:26Z"
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/428-zanimatelnaja-tehnika-v-proshlom.html",
+  "title": "Занимательная техника в прошлом",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/b/9/zanimatelnaja-tehnika-v-proshlom-photo-normal.jpg",
+      "alt": "Занимательная техника в прошлом"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга состоит из разделов: «В помощь изобретателю», «Из прошлого машины», «О старинных станках и орудиях производства», «Транспорт прежде», «Из истории техники связи и дворовых сношений», «Из прошлого некоторых полезных изобретений», «Русская техника в прошлом».",
+      "spans": [
+        {
+          "text": "Книга состоит из разделов: «В помощь изобретателю», «Из прошлого машины», «О старинных станках и орудиях производства», «Транспорт прежде», «Из истории техники связи и дворовых сношений», «Из прошлого некоторых полезных изобретений», «Русская техника в прошлом»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Лебедев В. И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга состоит из разделов: «В помощь изобретателю», «Из прошлого машины», «О старинных станках и орудиях производства», «Транспорт прежде», «Из истории техники связи и дворовых сношений», «Из прошлого некоторых полезных изобретений», «Русская техника в прошлом».",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 9 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2693/0765e60ce620418c4a788f7479b3923f"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/b/9/zanimatelnaja-tehnika-v-proshlom-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2693/0765e60ce620418c4a788f7479b3923f"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 334,
+    "storedTextCharacters": 262,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40221
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 302,
+  "capturedBodyCharacters": 262,
+  "sourceTextSHA256": "572b3084cfdcca5237682faff94409a961cb363e584c0fab762d972afa95b572",
+  "archiveSnapshotAt": "2026-10-08T08:49:55Z"
+}

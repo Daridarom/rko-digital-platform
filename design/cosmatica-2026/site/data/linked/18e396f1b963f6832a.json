@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/75-princip-ustoichivoi-neravnovesnosti.html",
+  "title": "Принцип устойчивой неравновесности",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "все и только живые системы никогда не бывают в равновесии и исполняют за счет своей свободной энергии постоянную работу против равновесия.\r\n(Э.С. Бауэр)",
+      "spans": [
+        {
+          "text": "все и только живые системы никогда не бывают в равновесии и исполняют за счет своей свободной энергии постоянную работу против равновесия.\r\n(Э.С. Бауэр)"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "все и только живые системы никогда не бывают в равновесии и исполняют за счет своей свободной энергии постоянную работу против равновесия. (Э.С. Бауэр)",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 186,
+    "storedTextCharacters": 152,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32167
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 151,
+  "capturedBodyCharacters": 152,
+  "sourceTextSHA256": "db953240c9a64c47938b4157ed98ef3695fb8e551a9302b4aaa74e9b9e855c59",
+  "archiveSnapshotAt": "2026-10-08T08:47:15Z"
+}

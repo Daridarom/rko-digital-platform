@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/272-ja-pochuvstvoval-v-sebe-vestnika-novogo-mira.html",
+  "title": "\"Я почувствовал в себе вестника нового мира\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u42/53/92/ja-pochuvstvoval-v-sebe-vestnika-novogo-mira-photo-normal.jpg",
+      "alt": "\"Я почувствовал в себе вестника нового мира\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Дорогие друзья!",
+      "spans": [
+        {
+          "text": "Дорогие друзья!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Представляем вашему вниманию красиво рассказанную историю о нежном и хрупком совершенстве природных форм, цвета, ароматов и звуков цветущей крымской весны, о божественном единстве жизни во всех её проявлениях, об эволюционном, созидающем потоке, об источнике творческой мысли и душевных сил.",
+      "spans": [
+        {
+          "text": "Представляем вашему вниманию красиво рассказанную историю о нежном и хрупком совершенстве природных  форм, цвета, ароматов и звуков цветущей  крымской весны, о божественном  единстве жизни во всех её проявлениях, об эволюционном, созидающем потоке,  об  источнике творческой мысли и душевных сил. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сюжет фильма основан на личных дневниках Великого русского ученого В.И. Вернадского о крымской весне 1920 г., когда впервые было цельно сформулировано революционное учение о живом веществе и человечестве, когда зародились истоки ноосферной науки и началась новая эпоха в эволюции человеческого сознания.",
+      "spans": [
+        {
+          "text": "Сюжет фильма основан на личных дневниках Великого русского ученого  В.И.  Вернадского о крымской весне 1920 г., когда впервые было цельно  сформулировано революционное учение о живом веществе и человечестве, когда зародились истоки  ноосферной науки и началась новая эпоха в эволюции человеческого  сознания."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Видеофильм подготовлен Крымским отделением Русского Космического Общества на базе Института арома-фитопсихологии FIOLET ( http://fiolet.com.ru/institut-afp ).",
+      "spans": [
+        {
+          "text": "Видеофильм подготовлен Крымским отделением Русского Космического Общества на базе Института арома-фитопсихологии FIOLET ("
+        },
+        {
+          "text": "http://fiolet.com.ru/institut-afp",
+          "href": "https://www.youtube.com/redirect?v=0eXsjPiuC6Q&redir_token=eT2dx90OGH4mBB8fOdDPyaddO5x8MTU0NTIwODk4NEAxNTQ1MTIyNTg0&event=video_description&q=http%3A%2F%2Ffiolet.com.ru%2Finstitut-afp"
+        },
+        {
+          "text": "). "
+        }
+      ],
+      "links": [
+        {
+          "text": "http://fiolet.com.ru/institut-afp",
+          "url": "https://www.youtube.com/redirect?v=0eXsjPiuC6Q&redir_token=eT2dx90OGH4mBB8fOdDPyaddO5x8MTU0NTIwODk4NEAxNTQ1MTIyNTg0&event=video_description&q=http%3A%2F%2Ffiolet.com.ru%2Finstitut-afp"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Отделения РКО и научный руководитель института - Лариса Ивановна Брайко.",
+      "spans": [
+        {
+          "text": "Председатель Отделения РКО и научный руководитель института - Лариса Ивановна Брайко."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "0eXsjPiuC6Q",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=0eXsjPiuC6Q"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Вернадский В.И. о самом важном...",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Дорогие друзья! Представляем вашему вниманию красиво рассказанную историю о нежном и хрупком совершенстве природных форм, цвета, ароматов и звуков цветущей крымской весны, о божественном единстве жизни во всех её проявлениях, об эволюционном, созидающем потоке, об источнике творческой мысли и душевных сил. Сюжет фильма основан на личных дневниках Великого русского ученого В.И. Вернадского о крымской весне 1920 г., когда впервые было цельно сформулировано революционное учение о живом веществе и человечестве, когда зародились истоки ноосферной науки и началась новая эпоха в эволюции человеческого сознания. Видеофильм подготовлен Крымским отделением Русского Космического Общества на базе Института арома-фитопсихологии FIOLET ( http://fiolet.com.ru/institut-afp ). Председатель Отделения РКО и научный руководитель института - Лариса Ивановна Брайко.",
+      "links": [
+        {
+          "title": "http://fiolet.com.ru/institut-afp",
+          "url": "https://www.youtube.com/redirect?v=0eXsjPiuC6Q&redir_token=eT2dx90OGH4mBB8fOdDPyaddO5x8MTU0NTIwODk4NEAxNTQ1MTIyNTg0&event=video_description&q=http%3A%2F%2Ffiolet.com.ru%2Finstitut-afp"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u42/53/92/ja-pochuvstvoval-v-sebe-vestnika-novogo-mira-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1133,
+    "storedTextCharacters": 863,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 5,
+    "sourceBytes": 47324
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 978,
+  "capturedBodyCharacters": 863,
+  "sourceTextSHA256": "6f39fa0f2f1e2df3baa4a5b0d4fc5718279c0c426d45a827a1663a4e408124ef",
+  "archiveSnapshotAt": "2026-10-08T09:11:00Z",
+  "publicVideoCount": 1
+}

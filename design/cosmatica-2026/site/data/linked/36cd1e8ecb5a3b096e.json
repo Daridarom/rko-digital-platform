@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "partner",
+  "sourceUrl": "https://cosmatica.org/partners/15-federalnyi-ekspertnyi-sovet.html",
+  "title": "Федеральный экспертный совет",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/4/8/federalnyi-ekspertnyi-sovet-photo-normal.jpg",
+      "alt": "Федеральный экспертный совет"
+    },
+    {
+      "type": "paragraph",
+      "text": "Федеральный экспертный совет по местному и общественному самоуправлению и местным сообществами при Общенациональной ассоциации территориального общественного самоуправления - Координационный центр местных сообществ.",
+      "spans": [
+        {
+          "text": "Федеральный экспертный совет по местному и общественному самоуправлению и местным сообществами при Общенациональной ассоциации территориального общественного самоуправления - Координационный центр местных сообществ."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://www.fesrus.ru",
+      "spans": [
+        {
+          "text": "https://www.fesrus.ru"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Федеральный экспертный совет по местному и общественному самоуправлению и местным сообществами при Общенациональной ассоциации территориального общественного самоуправления - Координационный центр местных сообществ. https://www.fesrus.ru",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/4/8/federalnyi-ekspertnyi-sovet-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 266,
+    "storedTextCharacters": 236,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 32570
+  },
+  "textFallbackRequired": false,
+  "originalKind": "partner",
+  "sourceTextCharacters": 237,
+  "capturedBodyCharacters": 236,
+  "sourceTextSHA256": "b59eb06d442ed511b90f307bc40293aca5879f5949babda6954331d324f77000",
+  "archiveSnapshotAt": "2026-10-08T09:14:47Z"
+}

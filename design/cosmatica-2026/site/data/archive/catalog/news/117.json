@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 117,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Космос без границ.",
+      "description": "В воскресенье, 3 февраля из офиса Русского Космического Общества был перекинут \"Мост Дружбы\" в Европу. Нашими гостями стали старые друзья Заместителя Председателя Санкт-Петербургского отделения РКО Виталия Владиславовича Лебедева: Якоб Тервей - популяризатор советской и российской космонавтики из Голландии, и Кристиан Лардье - руководитель Французского института истории космонавтики. Компанию им составила активный чл",
+      "url": "https://cosmatica.org/news/312-kosmos-bez-granic.html",
+      "image": "https://cosmatica.org/upload/000/u21/33/8e/zarubezhnye-gosti-rko-spb-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d0c593856890df070e",
+      "type": "news-item",
+      "sourceCharacters": 1923,
+      "verified": false
+    },
+    {
+      "title": "Член Президиума РКО с почётной миссией в Шри-Ланке",
+      "description": "Открывшийся монумент - уже второй бюст Гагарину в этом островном государстве: первый уставлен в гостинице Galle Face, в которой жил космонавт в 1961 году во время визита страны.",
+      "url": "https://cosmatica.org/news/308-prezidium-rko-s-pochyotnoi-missiei-v-shri-lanke.html",
+      "image": "https://cosmatica.org/upload/000/u8/07/ba/a9fb0eaf.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=18dd83127aeb73d04e",
+      "type": "news-item",
+      "sourceCharacters": 2472,
+      "verified": false
+    },
+    {
+      "title": "Анапское отделение РКО передаёт память юным соотечественникам",
+      "description": "Надежда Алексеевна Карпенко и А нна Михайловна Буйная в детском саду №34 провели тематическое мероприятие \"Война глазами детей\", а учащимся школы №23 прочитали лекцию \"Партизанское движение в Анапе. Подвиг Кати Соловьяновой\".",
+      "url": "https://cosmatica.org/news/307-anapskoe-otdelenie-russkogo-kosmicheskogo-obschestvo-peredayot-pamjat-yunym-sootechestvennikam.html",
+      "image": "https://cosmatica.org/upload/001/u152/da/89/anapskoe-otdelenie-russkogo-kosmicheskogo-obschestvo-peredayot-pamjat.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e8fa9199b85176aa50",
+      "type": "news-item",
+      "sourceCharacters": 2015,
+      "verified": false
+    },
+    {
+      "title": "Прорыв Русского Космического Общества на благо мира",
+      "description": "Сегодня, в условиях информационной замусоренности и навязывания нам чуждых ценностей и идеалов, мы с полной ответственностью должны сказать своё веское слово. Тем более, нам есть, что сказать.",
+      "url": "https://cosmatica.org/news/306-proryv-russkogo-kosmicheskogo-obschestva-na-blago-mira.html",
+      "image": "https://cosmatica.org/upload/000/u35/c5/12/proryv-russkogo-kosmicheskogo-obschestva-na-blago-mira-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=765785297cc167022f",
+      "type": "news-item",
+      "sourceCharacters": 2695,
+      "verified": false
+    },
+    {
+      "title": "Санкт-Петербург за Жизнь и мир на платене",
+      "description": "29 января в Санкт-Петербург с деловым визитом прибыли Члены Русского Космического Общества и руководители проекта \"Космическое Женское Послание\" - Афанасьева Ольга Фёдоровна и Афанасьев Сергей Глебович.",
+      "url": "https://cosmatica.org/news/304-kosmicheskoe-zhenskoe-poslanie-v-sankt-peterburge.html",
+      "image": "https://cosmatica.org/upload/000/u35/e3/e5/sankt-peterburg-za-zhizn-i-mir-na-platene-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6c682c5689e1492741",
+      "type": "news-item",
+      "sourceCharacters": 6126,
+      "verified": false
+    },
+    {
+      "title": "Первые шаги к постройке Мечталёта сделаны!",
+      "description": "#ПОСТРОЙ_МЕЧТАЛЁТ - конкурс, концепция которого возникла на базе реализуемого в настоящее время проекта компьютерной игры про космос \"Наша Вселенная\" .",
+      "url": "https://cosmatica.org/news/305-pervye-shagi-k-postroike-mechtalyota-sdelany.html",
+      "image": "https://cosmatica.org/upload/000/u26/9e/89/pervye-shagi-k-postroike-mechtalyota-sdelany-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=52f0bdd0b62a9e35c5",
+      "type": "news-item",
+      "sourceCharacters": 3361,
+      "verified": false
+    },
+    {
+      "title": "От планеты к планете в поисках истины.",
+      "description": "«Путешествие с Маленьким принцем» по следам философской сказки французского писателя Антуана де Сент Экзюпери совершили ребята из хакасского села Июс.",
+      "url": "https://cosmatica.org/news/300-ot-planety-k-planete-v-poiskah-istiny.html",
+      "image": "https://cosmatica.org/upload/000/u43/0d/f2/ot-planety-k-planete-v-poiskah-istiny-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=94d5abf70ff61cd90e",
+      "type": "news-item",
+      "sourceCharacters": 2042,
+      "verified": false
+    },
+    {
+      "title": "Первые Гагаринские награды.",
+      "description": "В Санкт-Петербург с деловым визитом приехал член Президиума Русского Космического Общества, Президент РОО «Патриот», член Высшего Совета межрегионального патриотического молодежного движения «Новый Рубеж», координатор юридической службы Национально-Освободительного Движения, руководитель проекта «Наша Армия», «Империум Человека», федерального направления «Космос и Добровольцы» в Союзе Добровольцев России, Степан Андр",
+      "url": "https://cosmatica.org/news/299-pervye-gagarinskie-nagrady.html",
+      "image": "https://cosmatica.org/upload/000/u21/f1/d1/pervye-gagarinskie-nagrady-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ab070ece72968fc59c",
+      "type": "news-item",
+      "sourceCharacters": 3301,
+      "verified": false
+    },
+    {
+      "title": "\"Буран\" приземлился в Доме космонавтов",
+      "description": "24 января в выставочном зале Дома космонавтов состоялось торжественное открытие историко-художественной экспозиции « БУРАН ‒ КРЫЛАТАЯ ЛЕГЕНДА », на которой собрались участники творческого объединения «Созвездие видений», общественные деятели, авиатриссы, жители Звёздного городка.",
+      "url": "https://cosmatica.org/news/302-buran-prizemlilsja-v-dome-kosmonavtov.html",
+      "image": "https://cosmatica.org/upload/000/u8/71/91/7be56b6e.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=78f45590d01a41d278",
+      "type": "news-item",
+      "sourceCharacters": 2643,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество на сербской земле",
+      "description": "«Русский и сербский народы годами соединяют сотрудничество, братство, любовь и взаимоуважение. Белград является свидетелем этой дружбы, приверженности и лояльности двух народов» – сказал заместитель мэра г. Белграда Андрей Младенович на открытии Балканского научного центра Российской академии естественных наук, которое состоялось в здании Скупщины г. Белграда.",
+      "url": "https://cosmatica.org/news/310-russkoe-kosmicheskoe-obschestvo-na-serbskoi-zemle.html",
+      "image": "https://cosmatica.org/upload/000/u26/ad/3a/ebd52420.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=40f8a1c2fb4d3ee99f",
+      "type": "news-item",
+      "sourceCharacters": 3364,
+      "verified": false
+    },
+    {
+      "title": "В новый год с весомым вкладом: доступен для изучения декабрьский выпуск",
+      "description": "В 2018 году Русское Космическое Общество приобрело статус Межрегиональной общественной организации. На сегодня у нас открыто 11 отделений на территории России. Международные представительства находятся в Казахстане, Италии, Боливии. В наших рядах 125 членов. Много ли это? Достаточно для решения текущих задач, соответствующих возрасту, организационным возможностям и материально-техническому оснащению. Каждый из членов",
+      "url": "https://cosmatica.org/news/301-v-novyi-god-s-vesomym-vkladom-dostupen-dlja-izuchenija-dekabrskii-vypusk.html",
+      "image": "https://cosmatica.org/upload/000/u8/b8/6f/7d5ca70f.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d30a6b07f574d5c6fa",
+      "type": "news-item",
+      "sourceCharacters": 857,
+      "verified": false
+    },
+    {
+      "title": "Космос - тема добрых дел.",
+      "description": "Инициатива исходила от активистов центра мужского воспитания \"Батя\" .",
+      "url": "https://cosmatica.org/news/298-kosmos-tema-dobryh-del.html",
+      "image": "https://cosmatica.org/upload/000/u21/ad/6a/494748a6.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a51db7be26ca3e71b4",
+      "type": "news-item",
+      "sourceCharacters": 1231,
+      "verified": false
+    },
+    {
+      "title": "«ГЕЛИО-СПОРТ» - проект солнечных побед!",
+      "description": "МНИИКА им. Академика В.П.Казначеева (РФ, г. Новосибирск) при информационной поддержке Русского Космического Общества (Новосибирское отделение, секция «Космическая антропоэкология») представляют авангардный научно-прикладной проект «ГЕЛИОСПОРТ».",
+      "url": "https://cosmatica.org/news/297-gelio-sport-proekt-solnechnyh-pobed.html",
+      "image": "https://cosmatica.org/upload/000/u30/f2/b1/gelio-sport-proekt-solnechnyh-pobed-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3682bf04694b81c86a",
+      "type": "news-item",
+      "sourceCharacters": 10066,
+      "verified": false
+    },
+    {
+      "title": "Московское отделение Русского Космического Общества провело первое собрание в новом году",
+      "description": "Ежемесячное мероприятие прошло в расширенном формате: были заслушаны отчёты и презентации не только давно действующих проектов, но и перспективных, которые планируется реализовывать на протяжении 2019 года и далее.",
+      "url": "https://cosmatica.org/news/296-centralnoe-otdelenie-russkogo-kosmicheskogo-obschestva-provelo-pervoe-sobranie-v-novom-godu.html",
+      "image": "https://cosmatica.org/upload/000/u8/00/01/centralnoe-otdelenie-russkogo-kosmicheskogo-obschestva-provelo-per.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=aa075a0a5efe279288",
+      "type": "news-item",
+      "sourceCharacters": 3933,
+      "verified": false
+    },
+    {
+      "title": "Открыто региональное отделение РКО на территории Краснодарского края",
+      "description": "Первое учредительное собрание прошло на базе Анапского археологического музея «Горгиппия» - музея с уникальной историей. Горгиппия — древнегреческий город, где греки проживали около тысячи лет — с VI в до н.э до III в н.э. С 1827 года эта земля стала окончательно русской. Очень символично, что открытие отделения прошло именно в этом месте. Среди камней, пропитанных веками прошлого, будет совершился новый рывок к беск",
+      "url": "https://cosmatica.org/news/294-otkryto-regionalnoe-otdelenie-rko-na-territorii-krasnodarskogo-kraja.html",
+      "image": "https://cosmatica.org/upload/001/u152/b7/2c/e8b7a100.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f989331c2a4685e321",
+      "type": "news-item",
+      "sourceCharacters": 2122,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

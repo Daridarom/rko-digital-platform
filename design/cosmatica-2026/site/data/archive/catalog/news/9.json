@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 9,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Русское Космическое Общество в Брянске",
+      "description": "Встреча соратников Русского Космического Общества: строим планы на новый учебный год!",
+      "url": "https://cosmatica.org/news/2104-russkoe-kosmicheskoe-obschestvo-v-brjanske.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/5/76fd99e1.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=38b7f3456351a28b08",
+      "type": "news-item",
+      "sourceCharacters": 1206,
+      "verified": false
+    },
+    {
+      "title": "Тот, кто стоял у истоков. Помним любим, равняемся",
+      "description": "Многие годы он стоял в строю борцов за Жизнь . И в рядах «концептуалов», и трезвенников, и просветителей, и популяризаторов научного и культурного наследия нашего народа.",
+      "url": "https://cosmatica.org/news/2102-pervye-navechno.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/5/c909023b.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d84c56f48975e5419b",
+      "type": "news-item",
+      "sourceCharacters": 1699,
+      "verified": false
+    },
+    {
+      "title": "Детские игры со смыслом",
+      "description": "Какими игрушками играют наши дети? Каких героев выбирают? Монстры, страшилища, бесполые существа в конец разрушающие духовно-нравственные ценности, культурные традиции и национальное наследие заполонили рынок и подрывают авторитет родительского воспитания. А что можем предложить мы? Даём ли мы возможность выбора нашим детям? Об этом давно задумались в Тюменском отделении Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/2101-detskie-igry-so-smyslom.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/e/8a92ff00.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9a0d0cff9cc23829cb",
+      "type": "news-item",
+      "sourceCharacters": 2332,
+      "verified": false
+    },
+    {
+      "title": "Продолжаем поддерживать своих",
+      "description": "На этот раз мы привезли груз во второй стрелковый батальон: матрасы и подушки для ночлега на блокпостах; пенал для хранения на кухню, уличный умывальник с подогревом, некоторые бытовые принадлежности.",
+      "url": "https://cosmatica.org/news/2097-prodolzhaem-podderzhivat-svoih.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/d/9a76ba09.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ddcc98a939faf9ef1d",
+      "type": "news-item",
+      "sourceCharacters": 2173,
+      "verified": false
+    },
+    {
+      "title": "Космос. Взгляд из Тюмени",
+      "description": "Поэму о космосе в стиле Владимира Маяковского написал гагаринец Дружины Гагаринцев Тюмени Егор Зубарев.",
+      "url": "https://cosmatica.org/news/2095-kosmos-vzgljad-iz-tyumeni.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/7/kosmos-vzgljad-iz-tyumeni-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=94441a394c7a601878",
+      "type": "news-item",
+      "sourceCharacters": 4351,
+      "verified": false
+    },
+    {
+      "title": "Искусство, как поле проектной войны: антропологический взгляд через Подолинского",
+      "description": "Искусство всегда играло ключевую роль в формировании сознания, духа и поведения человека. Оно не просто отражает реальность, но и проектирует возможные миры, в которых человек может жить. Искусство — это проектный инструмент, который через образы, метафоры и эмоции формирует ментальные, эмоциональные и поведенческие матрицы личности и общества. В этой статье мы рассмотрим искусство как арену и инструмент проектной во",
+      "url": "https://cosmatica.org/news/2094-iskusstvo-kak-pole-proektnoi-voiny-antropologicheskii-vzgljad-cherez-podolinskogo.html",
+      "image": "https://cosmatica.org/upload/000/u7/b/4/iskusstvo-kak-pole-proektnoi-voiny-antropologicheskii-vzgljad-che_a81645e660691ba199eaf56e53ce35e1.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3985277668bb04a117",
+      "type": "news-item",
+      "sourceCharacters": 5995,
+      "verified": false
+    },
+    {
+      "title": "Зов вечный - Книга для Русского мира",
+      "description": "В мир вышла Книга, которую, собрав воедино многие знания, составили разумные от Русского народа.",
+      "url": "https://cosmatica.org/news/2090-zov-vechnyi-kniga-dlja-russkogo-mira.html",
+      "image": "https://cosmatica.org/upload/000/u7/2/1/0722cb38.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=87002e09d3053da0ad",
+      "type": "news-item",
+      "sourceCharacters": 7028,
+      "verified": false
+    },
+    {
+      "title": "Крепим ряды",
+      "description": "Член Президиума Русского Космического Общества Степан Андреевич Зотов приступил к выполнению обязанностей замполита батальона БПЛА добровольческой Бригады «БАРС-Курск».",
+      "url": "https://cosmatica.org/news/2088-krepim-rjady.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/8/68bd1a66.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9b861149677328c85e",
+      "type": "news-item",
+      "sourceCharacters": 2953,
+      "verified": false
+    },
+    {
+      "title": "Россия - цивилизация Правды",
+      "description": "Аннотация: В статье в кратком изложении аргументируется, что Россия как общинная, евразийская цивилизация, в которой – самая высокая в мире энергостоимость воспроизводства жизни общества и главный закон развития – Закон Кооперация, есть «Цивилизация Правды», и как Цивилизация Правды всегда одерживала и будет одерживать победы над «Злом», как «Онтологической ложью» и над её врагами. В XXI веке «Онтологическая Правда» ",
+      "url": "https://cosmatica.org/news/2087-rossija-civilizacija-pravdy.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/f/rossija-civilizacija-pravdy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=942ffb875775f1bae9",
+      "type": "news-item",
+      "sourceCharacters": 23942,
+      "verified": false
+    },
+    {
+      "title": "Гагаринский сад - умножать жизнь, а не губить",
+      "description": "12 апреля 1961 года – знаковая дата, как в мировой, так и в отечественной истории. В этот день Юрий Алексеевич Гагарин стал первым человеком в мире, совершившим полёт в космос. Начиная с 12 апреля 1962 года, этот день был объявлен Днём космонавтики. Юрий Алексеевич Гагарин моментально превратился в самого популярного человека не только в Советском Союзе, но и во всём мире. Начались его поездки по стране и за рубеж.",
+      "url": "https://cosmatica.org/news/2085-gagarinskii-sad-umnozhat-zhizn-a-ne-gubit.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/0/0106aa2f.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6f28e63d082d756933",
+      "type": "news-item",
+      "sourceCharacters": 5270,
+      "verified": false
+    },
+    {
+      "title": "Звёздный журнал объявил призёров конкурса викторин",
+      "description": "Целью деятельности журнала является создание безопасной интернет среды в которой реализуются принципы целостного развития. Все статьи \"Звёздного журнала\" направлены на то, чтобы улучшить качество взаимосвязей в системе «Человек-природа-общество». Личность космопланетарного масштаба должна развиваться всесторонне.",
+      "url": "https://cosmatica.org/news/2083-zvyozdnyi-zhurnal-objavil-prizyorov-konkursa-viktorin.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/2/84a9202a.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fd693767c4b22d0338",
+      "type": "news-item",
+      "sourceCharacters": 3183,
+      "verified": false
+    },
+    {
+      "title": "Запорожье и Донбасс с радостью встречали нас",
+      "description": "- Михаил Юрьевич Волчков , член Президиума и руководитель Попечительского совета РКО;",
+      "url": "https://cosmatica.org/news/2081-zaporozhe-i-donbass-s-radostyu-vstrechali-nas.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/b/zaporozhe-i-donbass-s-radostyu-vstrechali-nas-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fb3ed54e63a59ce609",
+      "type": "news-item",
+      "sourceCharacters": 7672,
+      "verified": false
+    },
+    {
+      "title": "Вектор трезвости",
+      "description": "Ужесточение мер борьбы с пьянством обсуждаются на государственном уровне, гражданскими сообществами и экспертами разных областей — от здравоохранения до бизнеса. Большинство из них склоняются к ограничениям продаж алкоголя, профилактической работе с населением и переходу от антиалкогольных мер к политике трезвости. Насколько эти решения эффективны? C позиции Международной научной школы устойчивого развития им. Побиск",
+      "url": "https://cosmatica.org/news/2079-trend-na-trezvost.html",
+      "image": "https://cosmatica.org/upload/000/u46/c/7/trend-na-trezvost-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e8a93a06578f5fe07d",
+      "type": "news-item",
+      "sourceCharacters": 19963,
+      "verified": false
+    },
+    {
+      "title": "Будущее определяет настоящее",
+      "description": "Историю делают Герои. Ученые, воины, первопроходцы.",
+      "url": "https://cosmatica.org/news/2078-buduschee-opredeljaet-nastojaschee.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/4/34cf4e76.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0b1d64d6248acaddf8",
+      "type": "news-item",
+      "sourceCharacters": 2520,
+      "verified": false
+    },
+    {
+      "title": "Всемирный Космический Форум сбылся!",
+      "description": "VI Всемирный Космический Форум «Триединство космического прорыва человечества: космическая философия – космическое право – космическая деятельность » состоялся 18-24 мая 2025 г. Его организаторами выступили Русское Космическое Общество, Академия системономии и Ассоциация инновационных предприятий NBICS.NET.",
+      "url": "https://cosmatica.org/news/2077-vsemirnyi-kosmicheskii-forum-sbylsja.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/5/vsemirnyi-kosmicheskii-forum-sbylsja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=73b61723f25d3e0d12",
+      "type": "news-item",
+      "sourceCharacters": 7687,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

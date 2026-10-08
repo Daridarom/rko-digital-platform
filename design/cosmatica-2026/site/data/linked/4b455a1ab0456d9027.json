@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/92-neopredelennost.html",
+  "title": "Неопределенность",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это имя показателя(лей), значение которого(ых) отсутствует, но необходимо для определения состояния системы.",
+      "spans": [
+        {
+          "text": "это имя показателя(лей), значение которого(ых) отсутствует, но необходимо для определения состояния системы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это имя показателя(лей), значение которого(ых) отсутствует, но необходимо для определения состояния системы.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 125,
+    "storedTextCharacters": 108,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31895
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 108,
+  "capturedBodyCharacters": 108,
+  "sourceTextSHA256": "3351a0bc875a029bad5f2a2a676ac19d95e7c310aaf500b3de552e49f4742d80",
+  "archiveSnapshotAt": "2026-10-08T08:47:20Z"
+}

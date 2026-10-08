@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/552-akcija-gagarinskii-sad-v-lobne.html",
+  "title": "Акция \"Гагаринский сад\" в Лобне",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Всемирное движение Русского Космического Общества \"Гагаринский сад\"",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/3/akcija-gagarinskii-sad-v-lobne-photo-normal.jpg",
+      "alt": "Акция \"Гагаринский сад\" в Лобне"
+    },
+    {
+      "type": "paragraph",
+      "text": "21 сентября 2019 члены БФ «Сохраним жизнь воде» под руководством члена Экологического Совета Любови Викторовны Мазуриной приняли участие в общегородской акции Лобни «Посади своё дерево».",
+      "spans": [
+        {
+          "text": "21 сентября 2019 члены БФ «Сохраним  "
+        },
+        {
+          "text": "жизнь",
+          "href": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "text": " воде» под руководством члена Экологического Совета "
+        },
+        {
+          "text": "Любови Викторовны Мазуриной",
+          "href": "https://cosmatica.org/users/150"
+        },
+        {
+          "text": " приняли участие в общегородской акции Лобни «Посади своё дерево». "
+        }
+      ],
+      "links": [
+        {
+          "text": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "text": "Любови Викторовны Мазуриной",
+          "url": "https://cosmatica.org/users/150"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/c/b/akcija-gagarinskii-sad-v-lobne-gallery-normal.jpg",
+      "alt": "Акция \"Гагаринский сад\" в Лобне 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/6/3/akcija-gagarinskii-sad-v-lobne-gallery-normal.jpg",
+      "alt": "Акция \"Гагаринский сад\" в Лобне 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/3/4/akcija-gagarinskii-sad-v-lobne-gallery-normal.jpg",
+      "alt": "Акция \"Гагаринский сад\" в Лобне 2"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "\"Гагаринский сад\" продолжает разрастаться.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "21 сентября 2019 члены БФ «Сохраним жизнь воде» под руководством члена Экологического Совета Любови Викторовны Мазуриной приняли участие в общегородской акции Лобни «Посади своё дерево». Была посажена именная голубая красавица-ель, на табличке возле дерева - имя Гагарина. Посадка дерева была посвящена 85–летию со дня рождения Ю.А. Гагарина – первого космонавта Земли, человека мира, нашего соотечественника. Ещё одно дерево в г. Лобня пополнило Гагаринский сад всемирного проекта Русского космического общества «Гагаринский сад». Помним своих героев! Гордимся!",
+      "links": [
+        {
+          "title": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "title": "Любови Викторовны Мазуриной",
+          "url": "https://cosmatica.org/users/150"
+        },
+        {
+          "title": "всемирного проекта Русского космического общества «Гагаринский сад».",
+          "url": "https://cosmatica.org/projects/gagarin-garden"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/3/akcija-gagarinskii-sad-v-lobne-photo-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/c/b/akcija-gagarinskii-sad-v-lobne-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/6/3/akcija-gagarinskii-sad-v-lobne-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/3/4/akcija-gagarinskii-sad-v-lobne-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 981,
+    "storedTextCharacters": 265,
+    "sourceCardCount": 0,
+    "sourceImageCount": 4,
+    "paragraphCount": 1,
+    "sourceBytes": 50178
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 770,
+  "capturedBodyCharacters": 265,
+  "sourceTextSHA256": "2b5abee631d55ef54f33405a2bde7f3481a93d2e1dfe346170b5e413830dd0d2",
+  "archiveSnapshotAt": "2026-10-08T09:12:24Z"
+}

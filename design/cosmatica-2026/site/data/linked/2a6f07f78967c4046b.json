@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/39-larouche-in-dialogue-with-russian-science-diskussija-p-g-kuznecova-i-lindona-larusha-na-seminare-.html",
+  "title": "LaRouche in dialogue with Russian science (дискуссия П.Г. Кузнецова и Линдона Ларуша на семинаре в А",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The lectures and discussion presented here took place on\r\nApril 28, 1994 in Moscow before an audience of approximately 60\r\nRussian scientists. The occasion was the monthly gathering under the\r\nauspices of the “Prezident” program, initiated by Dr. Pobisk\r\nKuznetsov to explore the application of experience gained in\r\ndeveloping life-support systems for spaceships and orbital stations,\r\nto the question of the survival of human life on Earth. (See EIR, Feb.\r\n11, 1994, p. 8.)",
+      "spans": [
+        {
+          "text": "The lectures and discussion presented here took place on\r\nApril 28, 1994 in Moscow before an audience of approximately 60\r\nRussian scientists. The occasion was the monthly gathering under the\r\nauspices of the “Prezident” program, initiated by Dr. Pobisk\r\nKuznetsov to explore the application of experience gained in\r\ndeveloping life-support systems for spaceships and orbital stations,\r\nto the question of the survival of human life on Earth. (See EIR, Feb.\r\n11, 1994, p. 8.)"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "The lectures and discussion presented here took place on April 28, 1994 in Moscow before an audience of approximately 60 Russian scientists. The occasion was the monthly gathering under the auspices of the “Prezident” program, initiated by Dr. Pobisk Kuznetsov to explore the application of experience gained in developing life-support systems for spaceships and orbital stations, to the question of the survival of human life on Earth. (See EIR, Feb. 11, 1994, p. 8.)",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 399 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/55/b1111ebbec27b4887c6ed61b510d8f94"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/55/b1111ebbec27b4887c6ed61b510d8f94"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 590,
+    "storedTextCharacters": 475,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39633
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 489,
+  "capturedBodyCharacters": 475,
+  "sourceTextSHA256": "08030424ed76c01517faf722dfe6656099b9a9bc258c4e7a4706ec32aa67908e",
+  "archiveSnapshotAt": "2026-10-08T08:49:41Z"
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/267-semja-solnca-planety-i-sputniki-solnechnoi-sistemy.html",
+  "title": "Семья солнца, планеты и спутники солнечной системы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/5/semja-solnca-planety-i-sputniki-solnechnoi-sistemy-photo-normal.jpg",
+      "alt": "Семья солнца, планеты и спутники солнечной системы"
+    },
+    {
+      "type": "paragraph",
+      "text": "Кольца Юпитера и Урана, горы, вдвое выше Эвереста на Марсе, грозы и облака из капелек серной кислоты на Венере, действующие вулканы на Ио, океаны жидкого азота на Титане. С этими и другими удивительными открытиями, сделанными с помощью космических аппаратов и интенсивных наземных наблюдений, знакомит книга выдающегося американского астрофизика. Для широких кругов читателей со средним образованием, желающих познакомиться с достижениями современной науки.",
+      "spans": [
+        {
+          "text": "Кольца Юпитера и Урана, горы, вдвое выше Эвереста на Марсе, грозы и облака из капелек серной кислоты на Венере, действующие вулканы на Ио, океаны жидкого азота на Титане. С этими и другими удивительными открытиями, сделанными с помощью космических аппаратов и интенсивных наземных наблюдений, знакомит книга выдающегося американского астрофизика. Для широких кругов читателей со средним образованием, желающих познакомиться с достижениями современной науки."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Уиппл Ф.Л.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Кольца Юпитера и Урана, горы, вдвое выше Эвереста на Марсе, грозы и облака из капелек серной кислоты на Венере, действующие вулканы на Ио, океаны жидкого азота на Титане. С этими и другими удивительными открытиями, сделанными с помощью космических аппаратов и интенсивных наземных наблюдений, знакомит книга выдающегося американского астрофизика. Для широких кругов читателей со средним образованием, желающих познакомиться с достижениями современной науки.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 37 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2000/315c7fbc1fea21fd4dda12dc77e3cd8a"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/e/5/semja-solnca-planety-i-sputniki-solnechnoi-sistemy-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2000/315c7fbc1fea21fd4dda12dc77e3cd8a"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 546,
+    "storedTextCharacters": 457,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40638
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 495,
+  "capturedBodyCharacters": 457,
+  "sourceTextSHA256": "8a2581fbb9114e379512636ab5f8893aa0d57bb202ccd07ae2cc92f377eb21f0",
+  "archiveSnapshotAt": "2026-10-08T08:48:22Z"
+}

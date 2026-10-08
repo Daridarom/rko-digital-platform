@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/396-astronomija-dlja-umnenkih-detei-zvyozdy-solnyshkiny-sestrichki.html",
+  "title": "Астрономия для умненьких детей. Звёзды - Солнышкины сестрички",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/2/d/astronomija-dlja-umnenkih-detei-zvyozdy-solnyshkiny-sestrichki-ph.png",
+      "alt": "Астрономия для умненьких детей. Звёзды - Солнышкины сестрички"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Левитан Е. П.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 37 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2397/407e2863c83f092e54be1d9032c766b1"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/2/d/astronomija-dlja-umnenkih-detei-zvyozdy-solnyshkiny-sestrichki-ph.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2397/407e2863c83f092e54be1d9032c766b1"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 102,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39783
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 40,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "d7b4b4719422a2ab2cb06479f5fcb538f5679ff1a17f42ace8da87c9871aaac9",
+  "archiveSnapshotAt": "2026-10-08T08:49:44Z"
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/134-pokazateli-i-indikatory-ustoichivogo-razvitija-kazahstana.html",
+  "title": "Показатели и индикаторы устойчивого развития Казахстана",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/cf/b1/b7511e4f.png",
+      "alt": "Показатели и индикаторы устойчивого развития Казахстана"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Б.Е. Большаков., Т.И Слажнева, А.Г. Брагин., и др.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 3 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/556/1e5aab3f703d7c98f371d9b1f6cd2887"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u10/cf/b1/b7511e4f.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/556/1e5aab3f703d7c98f371d9b1f6cd2887"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 132,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39311
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 76,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "abcedd9612080e4094d60f98e866a7894562ae7d9a09fba531a61362504a9d4b",
+  "archiveSnapshotAt": "2026-10-08T08:47:40Z"
+}

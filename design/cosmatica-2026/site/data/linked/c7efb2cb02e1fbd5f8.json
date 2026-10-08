@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/89",
+  "title": "Владимир Григорьевич Чепига",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/e8/9d/6a4344fc.jpeg",
+      "alt": "Владимир Григорьевич Чепига"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/7c/2a/3e02e82d.jpeg",
+      "alt": "Владимир Григорьевич Чепига"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель Казачьего детского клуба ДДиЮТ г. Южно-Сахалинска.",
+      "spans": [
+        {
+          "text": "Руководитель Казачьего детского клуба ДДиЮТ г. Южно-Сахалинска."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Старейшина Сахалино-Курильского общества.",
+      "spans": [
+        {
+          "text": "Старейшина Сахалино-Курильского общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Член правления штаба регионального отделения «Юнармия».",
+      "spans": [
+        {
+          "text": "Член правления штаба регионального отделения «Юнармия»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Руководитель Казачьего детского клуба ДДиЮТ г. Южно-Сахалинска. Старейшина Сахалино-Курильского общества. Член правления штаба регионального отделения «Юнармия».",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/e8/9d/6a4344fc.jpeg",
+    "https://cosmatica.org/upload/000/u8/7c/2a/3e02e82d.jpeg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 224,
+    "storedTextCharacters": 192,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34539
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 171,
+  "capturedBodyCharacters": 192,
+  "sourceTextSHA256": "e1c5aa9ec47459f795da2051bdd91173398c1c0407bc9a902cb7a4f55b6b1b99",
+  "archiveSnapshotAt": "2026-10-08T09:22:22Z"
+}

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/371",
+  "title": "Борис Борисович Паутов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/9/d9a25ba8.jpg",
+      "alt": "Борис Борисович Паутов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/8/4/3e0dfc72.jpg",
+      "alt": "Борис Борисович Паутов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "«Новгородский государственный педагогический институт» (1995 г.) — технология и предпринимательство;",
+      "spans": [
+        {
+          "text": "«Новгородский государственный педагогический институт» (1995 г.) — технология и предпринимательство;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ГОУ ВПО «Северо-западная академия государственной службы» (2005 г.) – юрист",
+      "spans": [
+        {
+          "text": "ГОУ ВПО «Северо-западная академия государственной службы» (2005 г.) – юрист"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Организатор околонаучного полутехнического культурно-спортивного Форума «Пространства СоТворчества»",
+      "spans": [
+        {
+          "text": "Организатор околонаучного полутехнического культурно-спортивного Форума «Пространства СоТворчества»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Псковская область",
+      "links": [
+        {
+          "title": "Псковская область",
+          "url": "https://cosmatica.org/departments/2-pskovskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Многодетность:",
+      "value": "Да",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "«Новгородский государственный педагогический институт» (1995 г.) — технология и предпринимательство; ГОУ ВПО «Северо-западная академия государственной службы» (2005 г.) – юрист Организатор околонаучного полутехнического культурно-спортивного Форума «Пространства СоТворчества»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/1/9/d9a25ba8.jpg",
+    "https://cosmatica.org/upload/000/u35/8/4/3e0dfc72.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 381,
+    "storedTextCharacters": 307,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35822
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 333,
+  "capturedBodyCharacters": 307,
+  "sourceTextSHA256": "98b391495d25d2f62a28ccd801a1be5bbbe57f084c9a4fe5cebce8f22c0d5dcf",
+  "archiveSnapshotAt": "2026-10-08T09:19:26Z"
+}

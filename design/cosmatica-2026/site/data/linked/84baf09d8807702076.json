@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/187-mirovozzrenie-i-teorija-ustoichivogo-razvitija-v-sisteme-priroda-obschestvo-chelovek.html",
+  "title": "Мировоззрение и теория устойчивого развития в системе «природа–общество–человек»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/a/3/mirovozzrenie-i-teorija-ustoichivogo-razvitija-v-sisteme-priroda-o.jpg",
+      "alt": "Мировоззрение и теория устойчивого развития в системе «природа–общество–человек»"
+    },
+    {
+      "type": "paragraph",
+      "text": "В работе обсуждаются ключевые вопросы научного мировоззрения и теории\r\nустойчивого развития, опираясь на общие законы природы, общества и человека. На\r\nоснове общей системы законов природы дается формулировка законов развития Жизни и\r\nестественно-исторического развития Человечества, формулируется принцип устойчивого\r\nразвития Личности и Разума Человеческой популяции с использованием универсальных\r\nпространственно-временных мер.",
+      "spans": [
+        {
+          "text": "В работе обсуждаются ключевые вопросы научного мировоззрения и теории\r\nустойчивого развития, опираясь на общие законы природы, общества и человека. На\r\nоснове общей системы законов природы дается формулировка законов развития Жизни и\r\nестественно-исторического развития Человечества, формулируется принцип устойчивого\r\nразвития Личности и Разума Человеческой популяции с использованием универсальных\r\nпространственно-временных мер."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Кузнецов О.Л., Большаков Б.Е.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В работе обсуждаются ключевые вопросы научного мировоззрения и теории устойчивого развития, опираясь на общие законы природы, общества и человека. На основе общей системы законов природы дается формулировка законов развития Жизни и естественно-исторического развития Человечества, формулируется принцип устойчивого развития Личности и Разума Человеческой популяции с использованием универсальных пространственно-временных мер.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 3 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1455/4b2964914169e6436d09c98d397e1f56"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/a/3/mirovozzrenie-i-teorija-ustoichivogo-razvitija-v-sisteme-priroda-o.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1455/4b2964914169e6436d09c98d397e1f56"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 563,
+    "storedTextCharacters": 431,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 41049
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 482,
+  "capturedBodyCharacters": 431,
+  "sourceTextSHA256": "d385b63599a5ba13e3c9f48fc0d3c758ba6c80c92b13ae489176ae51753b671f",
+  "archiveSnapshotAt": "2026-10-08T08:47:54Z"
+}

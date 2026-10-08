@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/789-dnevnik-razrabotki-proekta-nasha-vselennaja-za-mai-2020.html",
+  "title": "Дневник разработки проекта \"Наша Вселенная\" за май 2020",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#«Наша Вселенная»",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u64/1/d/dnevnik-razrabotki-proekta-nasha-vselennaja-za-mai-2020-photo-no.jpg",
+      "alt": "Дневник разработки проекта \"Наша Вселенная\" за май 2020"
+    },
+    {
+      "type": "paragraph",
+      "text": "Друзья, мир постепенно приходит в себя после пандемии, и понятно, что он никогда не будет прежним, у каждого в жизни произошли перемены. Но жизнь продолжается, и мы продолжаем проект , продолжаем воплощать в реальности наши космические мечты.",
+      "spans": [
+        {
+          "text": "Друзья, мир постепенно приходит в себя после пандемии, и понятно, что он никогда не будет прежним, у каждого в жизни произошли перемены. Но  "
+        },
+        {
+          "text": "жизнь",
+          "href": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "text": " продолжается, и мы продолжаем  "
+        },
+        {
+          "text": "проект",
+          "href": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": ", продолжаем воплощать в реальности наши космические мечты."
+        }
+      ],
+      "links": [
+        {
+          "text": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "text": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Смотрите дневник разработки за май, оставляйте свои комментарии и предложения. Мы приветствуем любую критику и предложения, как говорят профессионалы, \"тестировщики не бывают неправы\". Поехали!",
+      "spans": [
+        {
+          "text": "Смотрите дневник разработки за май, оставляйте свои комментарии и предложения. Мы приветствуем любую критику и предложения, как говорят профессионалы, \"тестировщики не бывают неправы\".Поехали!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Video post-production: Алексей Борисов и Елена Саркисян.",
+      "spans": [
+        {
+          "text": "Video post-production: Алексей Борисов и Елена Саркисян."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Повседневный костюм космонавтов. Концепт-арт: Сергей Буткин.",
+      "spans": [
+        {
+          "text": "1. Повседневный костюм космонавтов.Концепт-арт: Сергей Буткин."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376908/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Sci-Fi bike for Mars. Концепт-арт: Сергей Буткин.",
+      "spans": [
+        {
+          "text": "2. Sci-Fi bike for Mars.Концепт-арт: Сергей Буткин."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376909/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "3-4. Sci-Fi bike for Mars Моделирование: Максим Дрончак.",
+      "spans": [
+        {
+          "text": "3-4. Sci-Fi bike for MarsМоделирование: Максим Дрончак."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376910/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376911/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "5. MEV. Mutli Environment Vehicle. Концепт-арт и блокинг: Алексей Борисов.",
+      "spans": [
+        {
+          "text": "5. MEV. Mutli Environment Vehicle.Концепт-арт и блокинг: Алексей Борисов."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376912/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Интерьер жилого модуля. Пульт Магнитрона. Моделирование: Вадим Скосырев.",
+      "spans": [
+        {
+          "text": "6. Интерьер жилого модуля. Пульт Магнитрона.Моделирование: Вадим Скосырев."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376913/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "7. Мебель для лунной базы. Моделирование: Анатолий Сахаров.",
+      "spans": [
+        {
+          "text": "7. Мебель для лунной базы.Моделирование: Анатолий Сахаров."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376914/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "8-9. Конкурсный проект Mars Nest Grid. Разработка коллектива «Студия «Планета Людей».",
+      "spans": [
+        {
+          "text": "8-9. Конкурсный проект Mars Nest Grid.Разработка коллектива «Студия «Планета Людей»."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376915/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376916/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "HlaVBdpJTnE",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=HlaVBdpJTnE"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Смотрим видеоотчёт о проделанной работе.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Друзья, мир постепенно приходит в себя после пандемии, и понятно, что он никогда не будет прежним, у каждого в жизни произошли перемены. Но жизнь продолжается, и мы продолжаем проект , продолжаем воплощать в реальности наши космические мечты. Смотрите дневник разработки за май, оставляйте свои комментарии и предложения. Мы приветствуем любую критику и предложения, как говорят профессионалы, \"тестировщики не бывают неправы\". Поехали! Video post-production: Алексей Борисов и Елена Саркисян. 1. Повседневный костюм космонавтов. Концепт-арт: Сергей Буткин. 2. Sci-Fi bike for Mars. Концепт-арт: Сергей Буткин. 3-4. Sci-Fi bike for Mars Моделирование: Максим Дрончак. 5. MEV. Mutli Environment Vehicle. Концепт-арт и блокинг: Алексей Борисов. 6. Интерьер жилого модуля. Пульт Магнитрона. Моделирование: Вадим Скосырев. 7. Мебель для лунной базы. Моделирование: Анатолий Сахаров. 8-9. Конкурсный проект Mars Nest Grid. Разработка коллектива «Студия «Планета Людей».",
+      "links": [
+        {
+          "title": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "title": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ],
+      "image": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376908/embed_asset.png"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u64/1/d/dnevnik-razrabotki-proekta-nasha-vselennaja-za-mai-2020-photo-no.jpg",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376908/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376909/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376910/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376911/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376912/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376913/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376914/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376915/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/376916/embed_asset.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1248,
+    "storedTextCharacters": 983,
+    "sourceCardCount": 0,
+    "sourceImageCount": 10,
+    "paragraphCount": 19,
+    "sourceBytes": 50054
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1064,
+  "capturedBodyCharacters": 983,
+  "sourceTextSHA256": "811c4e20f5850ca9bccf8b4d2a0425ebcc81db4fb2d815d50092f6d90b843436",
+  "archiveSnapshotAt": "2026-10-08T09:13:35Z",
+  "publicVideoCount": 1
+}

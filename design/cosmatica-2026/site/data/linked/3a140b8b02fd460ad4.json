@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/60",
+  "title": "Ольга Викторовна Осеева",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/c5/f4/aaf73fb4.jpg",
+      "alt": "Ольга Викторовна Осеева"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/0a/b2/b68b8a5b.jpg",
+      "alt": "Ольга Викторовна Осеева"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "ФГБУ «ИМИЦ имени академика Е.Н. Мешалкина», врач кардиолог",
+      "spans": [
+        {
+          "text": "ФГБУ «ИМИЦ имени академика Е.Н. Мешалкина», врач кардиолог"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Новосибирская область",
+      "links": [
+        {
+          "title": "Новосибирская область",
+          "url": "https://cosmatica.org/departments/8-novosibirskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "ФГБУ «ИМИЦ имени академика Е.Н. Мешалкина», врач кардиолог",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/c5/f4/aaf73fb4.jpg",
+    "https://cosmatica.org/upload/000/u8/0a/b2/b68b8a5b.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 150,
+    "storedTextCharacters": 91,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34930
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 101,
+  "capturedBodyCharacters": 91,
+  "sourceTextSHA256": "3506e534408f09fcc25d3ea8bb47cecd173963d4b8269fa24f2536cc2c074992",
+  "archiveSnapshotAt": "2026-10-08T09:21:26Z"
+}

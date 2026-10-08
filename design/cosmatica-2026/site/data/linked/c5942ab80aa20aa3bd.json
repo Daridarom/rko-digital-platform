@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/293-suhonos-sergei-4-e-izmerenie.html",
+  "title": "Сухонос Сергей. 4-е измерение.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Законы организации и развития Вселенной, Сознания, Человечества. Масштабная гармония Вселенной. Официальный сайт Сергея Ивановича Сухоноса : http://suhonos.ru/",
+      "spans": [
+        {
+          "text": "Законы организации и развития Вселенной, Сознания, Человечества. Масштабная гармония Вселенной.  Официальный сайт Сергея Ивановича Сухоноса: "
+        },
+        {
+          "text": "http://suhonos.ru/",
+          "href": "https://www.youtube.com/redirect?v=Jtygo-F6GRs&event=video_description&q=http%3A%2F%2Fsuhonos.ru%2F&redir_token=UPj39XDGXFJkE40Moiwmw3jd7Wl8MTU0MDAyODE0NUAxNTM5OTQxNzQ1"
+        }
+      ],
+      "links": [
+        {
+          "text": "http://suhonos.ru/",
+          "url": "https://www.youtube.com/redirect?v=Jtygo-F6GRs&event=video_description&q=http%3A%2F%2Fsuhonos.ru%2F&redir_token=UPj39XDGXFJkE40Moiwmw3jd7Wl8MTU0MDAyODE0NUAxNTM5OTQxNzQ1"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "Jtygo-F6GRs",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=Jtygo-F6GRs"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Законы организации и развития Вселенной, Сознания, Человечества. Масштабная гармония Вселенной. Официальный сайт Сергея Ивановича Сухоноса : http://suhonos.ru/",
+      "links": [
+        {
+          "title": "http://suhonos.ru/",
+          "url": "https://www.youtube.com/redirect?v=Jtygo-F6GRs&event=video_description&q=http%3A%2F%2Fsuhonos.ru%2F&redir_token=UPj39XDGXFJkE40Moiwmw3jd7Wl8MTU0MDAyODE0NUAxNTM5OTQxNzQ1"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 211,
+    "storedTextCharacters": 159,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 74252
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 180,
+  "capturedBodyCharacters": 159,
+  "sourceTextSHA256": "10573c2054f32ec7baeaa6c2519ff694007b161526ce81fd53ee0c1a7ff08655",
+  "archiveSnapshotAt": "2026-10-08T08:40:58Z",
+  "publicVideoCount": 1
+}

@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1908-7-iyulja-v-vozraste-87-let-v-vechnyi-stroi-vstal-andrei-georgievich-malenkov.html",
+  "title": "7 июля в возрасте 87 лет в вечный строй встал ​Андрей Георгиевич Маленков",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/5/7-iyulja-v-vozraste-87-let-v-vechnyi-stroi-vstal-andrei-georgievich.jpg",
+      "alt": "7 июля в возрасте 87 лет в вечный строй встал ​Андрей Георгиевич Маленков"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 июля в возрасте 87 лет в вечный строй встал Андрей Георгиевич Маленков.",
+      "spans": [
+        {
+          "text": "7 июля в возрасте 87 лет в вечный строй встал "
+        },
+        {
+          "text": "Андрей Георгиевич Маленков.",
+          "href": "https://cosmatica.org/users/810"
+        }
+      ],
+      "links": [
+        {
+          "text": "Андрей Георгиевич Маленков.",
+          "url": "https://cosmatica.org/users/810"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Андрей Георгиевич был учёным-биофизиком. Крепко стоял на позициях ноосферного мировоззрения, развивая идеи В.И.Вернадского.",
+      "spans": [
+        {
+          "text": "Андрей Георгиевич был учёным-биофизиком. Крепко стоял на позициях ноосферного мировоззрения, развивая идеи В.И.Вернадского."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Он стоял у истоков создания Российской академии естественных наук. Имел членский билет этой научной организации за номером 3.",
+      "spans": [
+        {
+          "text": "Он стоял у истоков создания Российской академии естественных наук. Имел членский билет этой научной организации за номером 3. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Являясь сыном Георгия Маленкова , возглавлявшего Советский Союз после смерти Сталина на протяжении двух лет, а впоследствии постепенно отстраненного от всех руководящих постов и отправленного в Казахстан руководить электростанциями, издал труд: «О моём отце Георгии Маленкове».",
+      "spans": [
+        {
+          "text": "Являясь сыном "
+        },
+        {
+          "text": "Георгия Маленкова",
+          "href": "https://rodina-history.ru/2022/04/18/georgij-malenkov-obozhatel-stalina-i-shekspira.html"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "возглавлявшего",
+          "href": "https://rg.ru/2014/01/08/malenkov-site.html"
+        },
+        {
+          "text": " Советский Союз после смерти Сталина на протяжении двух лет, а впоследствии постепенно отстраненного от всех руководящих постов и отправленного в Казахстан руководить электростанциями, издал труд: «О моём отце Георгии Маленкове». "
+        }
+      ],
+      "links": [
+        {
+          "text": "Георгия Маленкова",
+          "url": "https://rodina-history.ru/2022/04/18/georgij-malenkov-obozhatel-stalina-i-shekspira.html"
+        },
+        {
+          "text": "возглавлявшего",
+          "url": "https://rg.ru/2014/01/08/malenkov-site.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В рядах РКО Андрей Георгиевич занимал статус \"Почётного члена\".",
+      "spans": [
+        {
+          "text": "В рядах РКО Андрей Георгиевич занимал статус \"Почётного члена\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Вечная память достойному сыну своего Отечества, положившего свою жизнь на алтарь служения и науки!",
+      "spans": [
+        {
+          "text": "Вечная память достойному сыну своего Отечества, положившего свою  "
+        },
+        {
+          "text": "жизнь",
+          "href": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "text": " на алтарь служения и науки!"
+        }
+      ],
+      "links": [
+        {
+          "text": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/a/3/img-2865m.jpg",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "oFM2UJpUg8w",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=oFM2UJpUg8w"
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "QL0BFiNb1zw",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=QL0BFiNb1zw"
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "HEy1C3tS_gg",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=HEy1C3tS_gg"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Ещё один наш соратник ушёл в вечность.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "7 июля в возрасте 87 лет в вечный строй встал Андрей Георгиевич Маленков. Андрей Георгиевич был учёным-биофизиком. Крепко стоял на позициях ноосферного мировоззрения, развивая идеи В.И.Вернадского. Он стоял у истоков создания Российской академии естественных наук. Имел членский билет этой научной организации за номером 3. Являясь сыном Георгия Маленкова , возглавлявшего Советский Союз после смерти Сталина на протяжении двух лет, а впоследствии постепенно отстраненного от всех руководящих постов и отправленного в Казахстан руководить электростанциями, издал труд: «О моём отце Георгии Маленкове». В рядах РКО Андрей Георгиевич занимал статус \"Почётного члена\". Вечная память достойному сыну своего Отечества, положившего свою жизнь на алтарь служения и науки!",
+      "links": [
+        {
+          "title": "Андрей Георгиевич Маленков.",
+          "url": "https://cosmatica.org/users/810"
+        },
+        {
+          "title": "Георгия Маленкова",
+          "url": "https://rodina-history.ru/2022/04/18/georgij-malenkov-obozhatel-stalina-i-shekspira.html"
+        },
+        {
+          "title": "возглавлявшего",
+          "url": "https://rg.ru/2014/01/08/malenkov-site.html"
+        },
+        {
+          "title": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u7/a/3/img-2865m.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/c/5/7-iyulja-v-vozraste-87-let-v-vechnyi-stroi-vstal-andrei-georgievich.jpg",
+    "https://cosmatica.org/upload/000/u7/a/3/img-2865m.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1004,
+    "storedTextCharacters": 770,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 7,
+    "sourceBytes": 47629
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 820,
+  "capturedBodyCharacters": 770,
+  "sourceTextSHA256": "c7fcb135054687c735b94602e43f4896ef1fa957a7faf4e3d0fa6efefb5f7c9b",
+  "archiveSnapshotAt": "2026-10-08T09:09:21Z",
+  "publicVideoCount": 3
+}

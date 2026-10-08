@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/191-rko-v-licah-lebedev-vitalii-vladislavovich.html",
+  "title": "\"РКО в Лицах\": Лебедев Виталий Владиславович",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Цикл передач \"РКО в Лицах\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Лебедев Виталий Владиславович с 2017 года член русского Космического Общества.",
+      "spans": [
+        {
+          "text": "Лебедев Виталий Владиславович с 2017 года член русского Космического Общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "С 2018 года заместитель Председателя Санкт-Петербургского отделения Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "С 2018 года заместитель Председателя Санкт-Петербургского отделения Русского Космического Общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Секции истории авиации и космонавтики СПбФ ИИЕТ РАН.",
+      "spans": [
+        {
+          "text": "Председатель Секции истории авиации и космонавтики СПбФ ИИЕТ РАН."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель Комиссии воздухоплавания РГО.",
+      "spans": [
+        {
+          "text": "Руководитель Комиссии воздухоплавания РГО."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Страница В.В. Лебедева: http://cosmatica.org/users/22",
+      "spans": [
+        {
+          "text": "Страница В.В. Лебедева: "
+        },
+        {
+          "text": "http://cosmatica.org/users/22",
+          "href": "https://www.youtube.com/redirect?q=http%3A%2F%2Fcosmatica.org%2Fusers%2F22&redir_token=3xju4x3KAF7Nly5V5zYMIO523sl8MTUzMTA4NjY0MEAxNTMxMDAwMjQw&v=9W1gENK6v-c&event=video_description"
+        }
+      ],
+      "links": [
+        {
+          "text": "http://cosmatica.org/users/22",
+          "url": "https://www.youtube.com/redirect?q=http%3A%2F%2Fcosmatica.org%2Fusers%2F22&redir_token=3xju4x3KAF7Nly5V5zYMIO523sl8MTUzMTA4NjY0MEAxNTMxMDAwMjQw&v=9W1gENK6v-c&event=video_description"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа в ВК: Русское Космическое Общество",
+      "spans": [
+        {
+          "text": "Группа в ВК: "
+        },
+        {
+          "text": "Русское Космическое Общество",
+          "href": "https://vk.com/cosmatica"
+        }
+      ],
+      "links": [
+        {
+          "text": "Русское Космическое Общество",
+          "url": "https://vk.com/cosmatica"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Канал на : YouTube",
+      "spans": [
+        {
+          "text": "Канал на :"
+        },
+        {
+          "text": "YouTube",
+          "href": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg"
+        }
+      ],
+      "links": [
+        {
+          "text": "YouTube",
+          "url": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "9W1gENK6v-c",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=9W1gENK6v-c"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Лебедев Виталий Владиславович с 2017 года член русского Космического Общества. С 2018 года заместитель Председателя Санкт-Петербургского отделения Русского Космического Общества. Председатель Секции истории авиации и космонавтики СПбФ ИИЕТ РАН. Руководитель Комиссии воздухоплавания РГО. Страница В.В. Лебедева: http://cosmatica.org/users/22 Группа в ВК: Русское Космическое Общество Канал на : YouTube",
+      "links": [
+        {
+          "title": "http://cosmatica.org/users/22",
+          "url": "https://www.youtube.com/redirect?q=http%3A%2F%2Fcosmatica.org%2Fusers%2F22&redir_token=3xju4x3KAF7Nly5V5zYMIO523sl8MTUzMTA4NjY0MEAxNTMxMDAwMjQw&v=9W1gENK6v-c&event=video_description"
+        },
+        {
+          "title": "Русское Космическое Общество",
+          "url": "https://vk.com/cosmatica"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://www.youtube.com/channel/UCGe0o0dgC4jqB4j1UJisfUg"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 578,
+    "storedTextCharacters": 423,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 7,
+    "sourceBytes": 76081
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 505,
+  "capturedBodyCharacters": 423,
+  "sourceTextSHA256": "f3452c4c18582c4445638b78ed16a299fd97835eca965a7ad23b23965c121ba0",
+  "archiveSnapshotAt": "2026-10-08T08:39:36Z",
+  "publicVideoCount": 1
+}

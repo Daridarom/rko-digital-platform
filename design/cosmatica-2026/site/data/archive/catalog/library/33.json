@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "library",
+  "title": "Библиотека",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 33,
+  "pageCount": 34,
+  "total": 510,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Моисеев Никита Николаевич - Судьба цивилизации, путь разума",
+      "description": "Книга несомненно будет полезна не только учащимся и профессионалам в области экологического образования, но и широким слоям читателей, задумывающихся о том, что ждет нас и грядущие поколения в ближайшей и отдаленной перспективе эволюции жизни на планете Земля.",
+      "url": "https://cosmatica.org/library/17-moiseev-nikita-nikolaevich-sudba-civilizacii-put-razuma.html",
+      "image": "https://cosmatica.org/upload/000/u1/bc/6e/moiseev-nikita-nikolaevich-sudba-civilizacii-put-razuma-phot.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=d83e1ade6c2e195979",
+      "type": "book",
+      "sourceCharacters": 312,
+      "verified": false
+    },
+    {
+      "title": "Циолковский Константин Эдуардович - Вне Земли",
+      "description": "",
+      "url": "https://cosmatica.org/library/16-ciolkovskii-konstantin-eduardovich-vne-zemli.html",
+      "image": "https://cosmatica.org/upload/000/u1/06/de/ciolkovskii-konstantin-eduardovich-vne-zemli-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=f98ae2f2d6ca043eba",
+      "type": "book",
+      "sourceCharacters": 89,
+      "verified": false
+    },
+    {
+      "title": "Циолковский Константин Эдуардович - Промышленное освоение космоса",
+      "description": "Впервые собраны основные работы К. Э. Циолковского, в том числе и ранее не публиковавшиеся, в которых рассмотрены вопросы промышленного освоения космоса. Книга позволяет составить полное и целостное представление об этом направлении работы Циолковского. Многие из результатов, полученные великим ученым, имеют приоритетное значение для советской науки.",
+      "url": "https://cosmatica.org/library/15-ciolkovskii-konstantin-eduardovich-promyshlennoe-osvoenie-kosmosa.html",
+      "image": "https://cosmatica.org/upload/000/u1/94/63/ciolkovskii-konstantin-eduardovich-promyshlennoe-osvoenie-kosmo.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=110edae039a2a9c74f",
+      "type": "book",
+      "sourceCharacters": 412,
+      "verified": false
+    },
+    {
+      "title": "Путь к звездам: из истории советской космонавтики",
+      "description": "являлись символом прогресса, предметом законной гордости. А.А. Александров, многие годы проработавший в ракетной отрасли, рассказывает о создателях уникальных космических аппаратов, героях-космонавтах и рядовых тружениках ракетных войск, участвовавших в освоении космоса и создании ракетного щита Родины.",
+      "url": "https://cosmatica.org/library/14-put-k-zvezdam-iz-istorii-sovetskoi-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/000/u1/90/5b/aleksandrov-anatolii-andreevich-put-k-zvezdam-iz-istorii-sove.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=49f65e87dfa31874b5",
+      "type": "book",
+      "sourceCharacters": 412,
+      "verified": false
+    },
+    {
+      "title": "Зато мы делали ракеты",
+      "description": "Константин Петрович Феоктистов — инженер, конструктор космических кораблей, один из первых космонавтов.Его новая книга — увлекательный рассказ о становлении космонавтики и о людях, чьи имена вписаны в историю освоения космоса. Но главная озабоченность К. П. Феоктистова — насущные проблемы человечества. Своими размышлениями о подходах к решению глобальных задач настоящего и ближайшего будущего делится с читателями авт",
+      "url": "https://cosmatica.org/library/13-zato-my-delali-rakety.html",
+      "image": "https://cosmatica.org/upload/000/u1/8b/09/feoktistov-konstantin-petrovich-zato-my-delali-rakety-photo-no.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=fdbf31520224039aa3",
+      "type": "book",
+      "sourceCharacters": 480,
+      "verified": false
+    },
+    {
+      "title": "Лунная Одиссея отечественной космонавтики От «Мечты» к луноходам",
+      "description": "Книга рассказывает об одном из ярких направлений в истории непилотируемой космонавтики - о создании и развитии лунных проектов, их реализации в Советском Союзе. Фоном для этого автор избрал очерк об этапах, предшествовавших этому, о деятелях и свершениях русских учёных и инженеров в XIX-XX вв., о мощном развитии ракетных исследований в период перед Второй мировой войной и особенно по её завершению. Особое место отвед",
+      "url": "https://cosmatica.org/library/12-lunnaja-odisseja-otechestvennoi-kosmonavtiki-ot-mechty-k-lunohodam.html",
+      "image": "https://cosmatica.org/upload/000/u1/72/9c/dovgan-vjacheslav-georgievich-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=e73ceab2ddc3d5204c",
+      "type": "book",
+      "sourceCharacters": 623,
+      "verified": false
+    },
+    {
+      "title": "Подолинский Сергей Андреевич - Труд человека и его отношение к распределению энергии",
+      "description": "Работы С. А. Подолинского, и прежде всего статья «Труд человека и его отношение к распределению энергии» (1880), заложили основы новой, совершенно оригинальной теории труда, не только как экономической, но и нравственной категории, рассматриваемой под углом естественнонаучных процессов.",
+      "url": "https://cosmatica.org/library/11-podolinskii-sergei-andreevich-trud-cheloveka-i-ego-otnoshenie-k-raspredeleniyu-energii.html",
+      "image": "https://cosmatica.org/upload/000/u1/7c/50/podolinskii-sergei-andreevich-trud-cheloveka-i-ego-otnoshenie-k-r.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=518d0d2900346db17b",
+      "type": "book",
+      "sourceCharacters": 342,
+      "verified": false
+    },
+    {
+      "title": "Умов Николай Алексеевич - Математика. Механика. Физика. Астрономия.",
+      "description": "В сборник вошли наиболее выдающиеся работы физика-теоретика и философа Н.А.Умова, а также автобиографический и биографический очерки.",
+      "url": "https://cosmatica.org/library/10-umov-nikolai-alekseevich-matematika-mehanika-fizika-astronomija.html",
+      "image": "https://cosmatica.org/upload/000/u1/3a/5f/umov-nikolai-alekseevich-matematika-mehanika-fizika-astronom.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=85ae94b0ab0b0d0c5d",
+      "type": "book",
+      "sourceCharacters": 184,
+      "verified": false
+    },
+    {
+      "title": "Федоров Николай Федорович - Сочинения",
+      "description": "В издание включены главные сочинения Н.Ф.Федорова из двухтомника «Философия общего дела», еще до революции ставшего библиографической редкостью, а также статьи и письма философа.",
+      "url": "https://cosmatica.org/library/9-fedorov-nikolai-fedorovich-sochinenija.html",
+      "image": "https://cosmatica.org/upload/000/u1/35/7d/sochinenija-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=16d032edd570195eaa",
+      "type": "book",
+      "sourceCharacters": 231,
+      "verified": false
+    },
+    {
+      "title": "Ломоносов Михаил Васильевич - История. Филология. Поэзия.",
+      "description": "Данное двухтомное собрание избранных произведений великого российского ученого и просветителя М.В. Ломоносова, включающего его основные труды в области естественных наук и философии, а также истории, филологии и поэзии, было приурочено к 275-летию со дня его рождения. Как указывается в предисловии, авторы-составители подготовили к выпуску в свет данное издание таким образом, чтобы наиболее полно и рельефно дать читат",
+      "url": "https://cosmatica.org/library/8-lomonosov-mihail-vasilevich-istorija-filologija-poezija.html",
+      "image": "https://cosmatica.org/upload/000/u1/48/84/69f477c8.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=3ec7398f79df8c311a",
+      "type": "book",
+      "sourceCharacters": 1138,
+      "verified": false
+    },
+    {
+      "title": "Ломоносов Михаил Васильевич - Естественные науки и философия",
+      "description": "Данное двухтомное собрание избранных произведений великого российского ученого и просветителя М.В. Ломоносова, включающего его основные труды в области естественных наук и философии, а также истории, филологии и поэзии, было приурочено к 275-летию со дня его рождения. Как указывается в предисловии, авторы-составители подготовили к выпуску в свет данное издание таким образом, чтобы наиболее полно и рельефно дать читат",
+      "url": "https://cosmatica.org/library/7-lomonosov-mihail-vasilevich-estestvennye-nauki-i-filosofija.html",
+      "image": "https://cosmatica.org/upload/000/u1/64/00/estestvennye-nauki-i-filosofija-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=8c33ebb0d888d528ce",
+      "type": "book",
+      "sourceCharacters": 1138,
+      "verified": false
+    },
+    {
+      "title": "Ломоносов Михаил Васильевич - Избранные философские произведения",
+      "description": "Настоящее издание избранных философских, естественно-научных и общественно-политических произведений великого русского ученого, мыслителя и выдающегося деятеля Михаила Васильевича Ломоносова отвечает все возрастающему интересу к истории передовой философской и общественной мысли России. Ломоносов является одним из основоположников материалистической философия и опытной науки в России, отцом русской литературы и литер",
+      "url": "https://cosmatica.org/library/6-lomonosov-mihail-vasilevich-izbrannye-filosofskie-proizvedenija.html",
+      "image": "https://cosmatica.org/upload/000/u1/cf/c0/izbrannye-filosofskie-proizvedenija-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=b09ad4cb29b351a914",
+      "type": "book",
+      "sourceCharacters": 1114,
+      "verified": false
+    },
+    {
+      "title": "Циолковский Константин Эдуардович - Щит научной веры",
+      "description": "Содержание работ К. Э. Циолковского не только не утратило своего значения с течением времени, но и становится все более актуальным. Как космист, К. Э. Циолковский искал универсальные подходы к разрешению острых мировоззренческих и социальных проблем. Позиция, выработанная им, заслуживает пристального внимания со стороны всех, кто хотел бы способствовать миролюбию, толерантности, развитию деятельной и нравственной чел",
+      "url": "https://cosmatica.org/library/1-ciolkovskii-konstantin-eduardovich-schit-nauchnoi-very.html",
+      "image": "https://cosmatica.org/upload/000/u1/4f/22/konstantin-eduardovich-ciolkovskii-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=2dcc5f5979d68b3bd6",
+      "type": "book",
+      "sourceCharacters": 586,
+      "verified": false
+    },
+    {
+      "title": "Библиотека",
+      "description": "",
+      "url": "https://cosmatica.org/library",
+      "image": "assets/source/8eb695955559b6495f6d1610.webp",
+      "kind": "library-category",
+      "href": "view.html?p=library",
+      "type": "library",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Астрономия",
+      "description": "",
+      "url": "https://cosmatica.org/library/astronomija",
+      "image": "https://cosmatica.org/upload/000/u7/2/4/elementarnaja-astronomija-photo-small.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=0fbe72d4cffc47eb98",
+      "type": "library",
+      "sourceCharacters": 726,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

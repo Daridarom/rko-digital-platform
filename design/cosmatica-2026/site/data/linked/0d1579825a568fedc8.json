@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/887-elektrichestvo-prosto-o-prostom.html",
+  "title": "Электричество - просто о простом!",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Лекторий Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Лекция об электричестве от председателя секции Авангардных исследований Совета труда и творчества РКО Александра Михайловича Анищенко.",
+      "spans": [
+        {
+          "text": "Лекция об электричестве от председателя секции Авангардных исследований Совета труда и творчества РКО Александра Михайловича Анищенко."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "20.12.2019.",
+      "spans": [
+        {
+          "text": "20.12.2019."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "1Gjv58NT2QQ",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=1Gjv58NT2QQ"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Лекция об электричестве от председателя секции Авангардных исследований Совета труда и творчества РКО Александра Михайловича Анищенко. 20.12.2019.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 324,
+    "storedTextCharacters": 185,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 75037
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 249,
+  "capturedBodyCharacters": 185,
+  "sourceTextSHA256": "13b42775c72bce9a2043fe7bb0a1a664edd22b4414b88369c4138bc2be7d9d19",
+  "archiveSnapshotAt": "2026-10-08T08:44:30Z",
+  "publicVideoCount": 1
+}

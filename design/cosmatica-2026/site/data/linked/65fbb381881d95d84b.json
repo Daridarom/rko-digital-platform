@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/936-rko-teper-v-telegram.html",
+  "title": "РКО теперь в Телеграм",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/6/9/6e6828ab.jpg",
+      "alt": "РКО теперь в Телеграм"
+    },
+    {
+      "type": "paragraph",
+      "text": "Здравствуйте, друзья!",
+      "spans": [
+        {
+          "text": "Здравствуйте, друзья!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Информируем о том, что у РКО создан канал в Телеграм: https://t.me/RKO_cosmatica",
+      "spans": [
+        {
+          "text": "Информируем о том, что у РКО создан канал в Телеграм:"
+        },
+        {
+          "text": "https://t.me/RKO_cosmatica",
+          "href": "https://vk.com/away.php?to=https%3A%2F%2Ft.me%2FRKO_cosmatica&post=-146842769_7933&cc_key="
+        }
+      ],
+      "links": [
+        {
+          "text": "https://t.me/RKO_cosmatica",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Ft.me%2FRKO_cosmatica&post=-146842769_7933&cc_key="
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Для тех, кому удобно получать новости в Телеграм, кто не успевает следить за новостями в группе и на сайте, кто хочет быть в курсе всего происходящего и получать информацию в режиме реального времени.",
+      "spans": [
+        {
+          "text": "Для тех, кому удобно получать новости в Телеграм, кто не успевает следить за новостями в группе и на сайте, кто хочет быть в курсе всего происходящего и получать информацию в режиме реального времени."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Новости о событиях, анонсы мероприятий, новые проекты, интересные статьи и многое другое на канале РКО в Телеграм.",
+      "spans": [
+        {
+          "text": "Новости о событиях, анонсы мероприятий, новые проекты, интересные статьи и многое другое на канале РКО в Телеграм."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Мы расширяем охват для вашего удобства.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Здравствуйте, друзья! Информируем о том, что у РКО создан канал в Телеграм: https://t.me/RKO_cosmatica Для тех, кому удобно получать новости в Телеграм, кто не успевает следить за новостями в группе и на сайте, кто хочет быть в курсе всего происходящего и получать информацию в режиме реального времени. Новости о событиях, анонсы мероприятий, новые проекты, интересные статьи и многое другое на канале РКО в Телеграм.",
+      "links": [
+        {
+          "title": "https://t.me/RKO_cosmatica",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Ft.me%2FRKO_cosmatica&post=-146842769_7933&cc_key="
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/6/9/6e6828ab.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 607,
+    "storedTextCharacters": 426,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 45194
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 475,
+  "capturedBodyCharacters": 426,
+  "sourceTextSHA256": "fe892dfe9d3f1d543dcf672e605ce727e3bd45501df042d0397ec82094e40fa3",
+  "archiveSnapshotAt": "2026-10-08T09:14:20Z"
+}

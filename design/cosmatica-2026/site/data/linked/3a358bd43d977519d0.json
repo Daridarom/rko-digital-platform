@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/259",
+  "title": "Денисов Валерий Владимирович",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/2/1/ce123bd5.jpg",
+      "alt": "Денисов Валерий Владимирович"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/9/8/86f1febd.jpg",
+      "alt": "Денисов Валерий Владимирович"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Волгоградская область",
+      "links": [
+        {
+          "title": "Волгоградская область",
+          "url": "https://cosmatica.org/departments/19-volgogradskaja-oblast.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/2/1/ce123bd5.jpg",
+    "https://cosmatica.org/upload/000/u35/9/8/86f1febd.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 86,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34135
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 32,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "94e793df19afc8a3c1d491d55215ad8081873a404938669f5cac11f230be3c68",
+  "archiveSnapshotAt": "2026-10-08T09:18:53Z"
+}

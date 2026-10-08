@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/2178-itogi-konkursa.html",
+  "title": "Итоги конкурса",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Конкурс \"Тайна маленького принца\"",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/7/87b0c414.jpg",
+      "alt": "Итоги конкурса"
+    },
+    {
+      "type": "heading",
+      "text": "‼️ ВНИМАНИЕ ‼️",
+      "level": 3
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Сроки перенесены.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "‼️ ВНИМАНИЕ ‼️ Друзья, приносим наши извинения. По объективным причинам, связанным с занятостью некоторых участников жюри оглашение итогов конкурса \"Тайна маленького принца\" переносится на 5 апреля. Благодарим всех за понимание. По всем вопросам можно обращаться в Оргкомитет по тел: +79219967296",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/0/7/87b0c414.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 491,
+    "storedTextCharacters": 59,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 46016
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 331,
+  "capturedBodyCharacters": 59,
+  "sourceTextSHA256": "1c28cd8a32455b7a9f7178c05fccafc7c5ee28c8a4ed028176cc1259b22e95b4",
+  "archiveSnapshotAt": "2026-10-08T09:10:25Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 75,
+  "pageCount": 317,
+  "total": 4745,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Изменив будущее изменим настоящее",
+      "description": "Здравствуйте, родные наши соотечественники и соотечественницы!",
+      "url": "https://cosmatica.org/articles/1114-izmeniv-buduschee-izmenim-nastojaschee.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/3/peredelep.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=5edd297d8142a7afed",
+      "type": "article",
+      "sourceCharacters": 2981,
+      "verified": false
+    },
+    {
+      "title": "Юные космобиологи изучают мир",
+      "description": "Сохранение и развитие жизни как космопланетарного явления – один из постулатов деятельности Русского Космического Общества. Получить опыт моделирования экосистем - систем, обладающих высокой степенью жизнеспособности, смогли ребята из кружка \"Начальное космическое моделирование\" Станции Юных Техников г. Макеевки. Эту работу организовала для юных исследователей вселенной секретарь Донецкого отделения РКО - Абраменкова",
+      "url": "https://cosmatica.org/news/1114-yunye-kosmobiologi-izuchayut-mir.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/b/yunye-kosmobiologi-izuchayut-mir-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8f8d8b994702e764d7",
+      "type": "news-item",
+      "sourceCharacters": 4398,
+      "verified": false
+    },
+    {
+      "title": "Старт Великой Космической Одиссеи",
+      "description": "«– Главная цель всех наук одна – счастье человечества.",
+      "url": "https://cosmatica.org/articles/1113-start-velikoi-kosmicheskoi-odissei.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/7/vko-hrabroe-serdce.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=4355abddb46c913983",
+      "type": "article",
+      "sourceCharacters": 20727,
+      "verified": false
+    },
+    {
+      "title": "Сохраняя память. Родом из Донбасса: Воронин Г.И., Кривошеин Н.А.",
+      "description": "Донецкое отделение Русского Космического Общества в честь 60-летия первого полёта человека в космос инициирует проведение в Донецкой народной республике проекта «Сохраняя память. Родом из Донбасса: Воронин Г.И., Кривошеин Н.А.», посвящённого изучению жизнедеятельности и увековечению памяти выдающихся советских конструкторов, которые внесли весомый вклад в создание ракетной и космической техники, уроженцев Донбасса (г",
+      "url": "https://cosmatica.org/news/1113-sohranjaja-pamjat-rodom-iz-donbassa-voronin-g-i-krivoshein-n-a.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/4/sohranjaja-pamjat-rodom-iz-donbassa-voronin-g-i-krivoshein-n-a.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=31b056d4d4b87c1a74",
+      "type": "news-item",
+      "sourceCharacters": 11557,
+      "verified": false
+    },
+    {
+      "title": "Первый отряд РКО",
+      "description": "Интервью с председателем Президиума РКО, руководителем Международной школы устойчивого развития им. П.Г. Кузнецова Екатериной Фёдоровной Шамаевой.",
+      "url": "https://cosmatica.org/articles/1112-pervyi-otrjad-rko.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/4/53ba3779.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=22424419591880e06f",
+      "type": "article",
+      "sourceCharacters": 7266,
+      "verified": false
+    },
+    {
+      "title": "Мобилизация светлых сил Русского мира или чужих детей не бывает",
+      "description": "Все мы живём в сегодняшнем дне и видим происходящее в нашей стране и в мире в целом. Понимая происходящее, мы готовы не только говорить об этом, но и предлагать реальные решения и выходы из сложившегося кризиса системы воспитания подрастающего поколения. Именно об это и идёт разговор в виртуальной беседке клуба горницы \" Искусственный интеллект для домохозяек .",
+      "url": "https://cosmatica.org/news/1112-mobilizacija-svetlyh-sil-russkogo-mira-ili-chuzhih-detei-ne-byvaet.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/e/6772f282.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1a571cb2faf66da7c2",
+      "type": "news-item",
+      "sourceCharacters": 2135,
+      "verified": false
+    },
+    {
+      "title": "Дела и события РКО",
+      "description": "Весной этого года началось сотрудничество Русского Космического Общества с информационным агентством «Аврора» .",
+      "url": "https://cosmatica.org/articles/1111-dela-i-sobytija-rko.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/8/2-dela-avrora.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=9087949a26bd33fc3c",
+      "type": "article",
+      "sourceCharacters": 24170,
+      "verified": false
+    },
+    {
+      "title": "Ещё один шаг к Семье Отечества",
+      "description": "14 июля 2021 года в Центральном выставочном зале «Манеж» в Москве состоялось Заседание Организационного комитета Российского общественного движения « Семья Отечества».",
+      "url": "https://cosmatica.org/news/1111-eschyo-odin-shag-k-seme-otechestva.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/4/eschyo-odin-shag-k-seme-otechestva-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=63b0e39e07c8f37369",
+      "type": "news-item",
+      "sourceCharacters": 4242,
+      "verified": false
+    },
+    {
+      "title": "РКО спорт",
+      "description": "Международный детский шахматный фестиваль «Юные звёзды», организованный СК Роскосмоса, в этом году прошёл уже в пятый раз. До этого по доброй традиции гостеприимный Звёздный городок принимал юных шахматистов, родителей, бабушек и дедушек в Доме космонавтов. В этом году формат проведения фестиваля был изменён на онлайн, но традиции остались.",
+      "url": "https://cosmatica.org/articles/1110-rko-sport.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/a/04afb4af.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=1dcc7775f2a7796f3c",
+      "type": "article",
+      "sourceCharacters": 12919,
+      "verified": false
+    },
+    {
+      "title": "О здоровье нации говорили на всероссийском совещании",
+      "description": "Во всероссийском совещании приняло участие офлайн более 100 и онлайн более 800 делегатов из 72 субъектов Российской Федерации.",
+      "url": "https://cosmatica.org/news/1110-o-zdorove-nacii-govorili-na-vserossiiskom-soveschanii.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/f/o-zdorove-nacii-govorili-na-vserossiiskom-soveschanii-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9d905a925ea179dd52",
+      "type": "news-item",
+      "sourceCharacters": 7498,
+      "verified": false
+    },
+    {
+      "title": "Прорыв к здоровой жизни - условие перехода к космической эре. Тимофеев Д.А.",
+      "description": "\"Прорыв к здоровой жизни - условие перехода к космической эре\" - Тимофеев Дмитрий Алексеевич, член Совета по физической культуре и спорту РКО",
+      "url": "https://cosmatica.org/articles/1109-proryv-k-zdorovoi-zhizni-uslovie-perehoda-k-kosmicheskoi-ere-timofeev-d-a.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=a2b91c5126e944738a",
+      "type": "article",
+      "sourceCharacters": 169,
+      "verified": false
+    },
+    {
+      "title": "Ушёл из жизни пламенный борец",
+      "description": "Владимир Иванович Филин пополнил Вечный строй борцов за дело сохранения развития Жизни 16.07.2021 года.",
+      "url": "https://cosmatica.org/news/1109-ushyol-iz-zhizni-plamennyi-borec.html",
+      "image": "https://cosmatica.org/upload/000/u35/c/c/ushyol-iz-zhizni-plamennyi-borec-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=704cd5d814f4ad3af9",
+      "type": "news-item",
+      "sourceCharacters": 2230,
+      "verified": false
+    },
+    {
+      "title": "Прорыв - выпуск 12: Космонавтом готов быть! Лазуткин Александр Иванович",
+      "description": "Рубрика Русского Космического Общества «Прорыв» на канале \"ANNA News\".",
+      "url": "https://cosmatica.org/articles/1108-proryv-vypusk-12-kosmonavtom-gotov-byt-lazutkin-aleksandr-ivanovich.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=6f0f3796c11e57fb6d",
+      "type": "article",
+      "sourceCharacters": 496,
+      "verified": false
+    },
+    {
+      "title": "Сотворим Свои Мечты!",
+      "description": "В начале июля в г. Таганрог состоялась встреча Главы Русского Космического Общества Алексея Алексеевича Гапонова с основателем и руководителем народной киностудии русского смыслового кино \"Донфильм\" Дмитрием Николаевичем Зодчим. Обсуждали реализацию проекта \"Час Быка\" и строительство собственной киностудии \"Донфильм\" и Общее Дело. Были приняты решения и определены стратегия и тактика совместной деятельности.",
+      "url": "https://cosmatica.org/news/1108-sotvorim-svoi-mechty.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/d/sotvorim-svoi-mechty-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=835d816e763cdda5c1",
+      "type": "news-item",
+      "sourceCharacters": 3421,
+      "verified": false
+    },
+    {
+      "title": "Клятва Момента и усиление общей мощности системы",
+      "description": "Зотов Степан Андреевич, Член Президиума Русского Космического Общества. Руководитель проекта «Космодесант»",
+      "url": "https://cosmatica.org/articles/1107-kljatva-momenta-i-usilenie-obschei-moschnosti-sistemy.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=578f47d3609e4948fd",
+      "type": "article",
+      "sourceCharacters": 183,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/u",
+  "title": "У",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Уверенное развитие народа",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Универсальная мера",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Универсальный пространственно-временной язык (LT-язык)",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Универсум",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Управление",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Устойчивое развитие",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Устойчивое развитие страны (общества)",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Устойчивое социальное развитие",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Устойчивое экологическое развитие",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Устойчивое экономическое развитие",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Устойчивое инновационное развитие",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Устойчивое развитие Жизни",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Ускоренное социально-экономическое развитие",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Управление устойчивым инновационным развитием",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 429,
+    "storedTextCharacters": 414,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 42534
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 429,
+  "capturedBodyCharacters": 414,
+  "sourceTextSHA256": "5be4b4043ff578bc20d36debe907878d28c1bce8b0f88d2ebd858487837f6af6",
+  "archiveSnapshotAt": "2026-10-08T08:47:29Z"
+}
