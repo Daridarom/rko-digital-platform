@@ -492,7 +492,8 @@
       "demoRoute": "view.html?p=articles",
       "requiredFields": [
         "categories",
-        "counts"
+        "counts",
+        "navigation"
       ],
       "evidence": {
         "sourceHttp": 200,
