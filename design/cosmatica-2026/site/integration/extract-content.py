@@ -74,7 +74,8 @@ def extract(root,url):
     # Preserve DOM order, and skip nested paragraphs in blockquotes and lists.
     for node in root.descendants:
         if not isinstance(node,Tag) or node.name not in TAGS:continue
-        if node.find_parent(list(TAGS)) is not None:continue
+        # An image can be nested in a paragraph and still requires its own media block.
+        if node.name != 'img' and node.find_parent(list(TAGS)) is not None:continue
         b=block(node,url)
         if b:blocks.append(b)
     return blocks
