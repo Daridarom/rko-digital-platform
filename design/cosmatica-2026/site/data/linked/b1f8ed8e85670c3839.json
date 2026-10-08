@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/143-estestvennaja-mera.html",
+  "title": "Естественная мера",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "мера",
+      "spans": [
+        {
+          "text": "мера"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", выраженная в терминах физических вели­чин.",
+      "spans": [
+        {
+          "text": ", выраженная в терминах физических вели­чин."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "мера , выраженная в терминах физических вели­чин.",
+      "links": [
+        {
+          "title": "мера",
+          "url": "https://cosmatica.org/glossary/107-mera.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 67,
+    "storedTextCharacters": 48,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31653
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 49,
+  "capturedBodyCharacters": 48,
+  "sourceTextSHA256": "c006ca8364acc89fae5db73bbc036ab623370839f77e060f872ea31f6445a8e6",
+  "archiveSnapshotAt": "2026-10-08T08:46:32Z"
+}

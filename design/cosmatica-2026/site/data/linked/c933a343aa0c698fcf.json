@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/232-teoretiko-metodologicheskie-osnovy-sinteza-mezhdisciplinarnyh-znanii.html",
+  "title": "Теоретико-методологические основы синтеза междисциплинарных знаний",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u113/3/2/abe37bf0.jpg",
+      "alt": "Теоретико-методологические основы синтеза междисциплинарных знаний"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Беляев М.И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 7 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1618/51cae1031cc6c494b65caa75f17c06fd"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/001/u113/3/2/abe37bf0.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1618/51cae1031cc6c494b65caa75f17c06fd"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 104,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39431
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 37,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "8bafc570d6dd18587150283a07a5d91503adcccb40dcb1aebe93e93459c4950a",
+  "archiveSnapshotAt": "2026-10-08T08:48:10Z"
+}

@@ -7,8 +7,17 @@
   "blocks": [
     {
       "type": "image",
-      "src": "assets/source/a96e595383158f3d9fe1bad4.webp",
+      "src": "https://cosmatica.org/upload/002/u218/c/6/9489ea16.jpg",
       "alt": "Время Энджи"
+    },
+    {
+      "type": "paragraph",
+      "text": "Литературный конкурс \"Империум: Победа!\" - 2026г. 1 место",
+      "spans": [
+        {
+          "text": "Литературный конкурс \"Империум: Победа!\" - 2026г. 1 место"
+        }
+      ]
     }
   ],
   "cards": [],
@@ -31,19 +40,19 @@
       "links": [
         {
           "title": "Скачать",
-          "url": "https://cosmatica.org/files/download/5975/6c377b37ae2a1daed38232d7147331f5"
+          "url": "https://cosmatica.org/files/download/5975/a8deea78d67cd15599074783a7cb1a8f"
         }
       ],
       "image": null
     }
   ],
   "images": [
-    "assets/source/a96e595383158f3d9fe1bad4.webp"
+    "https://cosmatica.org/upload/002/u218/c/6/9489ea16.jpg"
   ],
   "documents": [
     {
       "label": "Скачать",
-      "url": "https://cosmatica.org/files/download/5975/6c377b37ae2a1daed38232d7147331f5"
+      "url": "https://cosmatica.org/files/download/5975/a8deea78d67cd15599074783a7cb1a8f"
     }
   ],
   "categories": [],
@@ -51,10 +60,16 @@
   "sourceEvidence": {
     "http": 200,
     "sourceTextCharacters": 110,
-    "storedTextCharacters": 0,
+    "storedTextCharacters": 57,
     "sourceCardCount": 0,
     "sourceImageCount": 1,
     "paragraphCount": 0,
     "sourceBytes": 39531
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 98,
+  "capturedBodyCharacters": 57,
+  "sourceTextSHA256": "c05532e49adebe9f5491f03a5d4235ac0b8f1fe30ec4f05776f6ffcdcd06baff",
+  "archiveSnapshotAt": "2026-10-08T08:50:59Z"
 }

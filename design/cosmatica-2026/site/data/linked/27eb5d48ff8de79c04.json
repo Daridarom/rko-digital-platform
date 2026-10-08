@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/91-nepredvidennaja-situacija.html",
+  "title": "Непредвиденная ситуация",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это ситуация, параметры которой выхо­дят за рамки принятых граничных условий, предусмотренных альтер­нативами возможных решений проблемы.",
+      "spans": [
+        {
+          "text": "это ситуация, параметры которой выхо­дят за рамки принятых граничных условий, предусмотренных альтер­нативами возможных решений проблемы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это ситуация, параметры которой выхо­дят за рамки принятых граничных условий, предусмотренных альтер­нативами возможных решений проблемы.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 161,
+    "storedTextCharacters": 137,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32073
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 137,
+  "capturedBodyCharacters": 137,
+  "sourceTextSHA256": "7c08925a38ba1ae5ed1ec9c44d10874b96ee02a6da4cceaf94283fa62385f386",
+  "archiveSnapshotAt": "2026-10-08T08:47:20Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "glossary",
+  "title": "Глоссарий",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 7,
+  "pageCount": 16,
+  "total": 236,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Замкнутая система",
+      "description": ", которая не способна к обме­ну энергией с другими системами, и собственная энергия которой со­храняется не только качественно (как размерность), но и количествен­но.",
+      "url": "https://cosmatica.org/glossary/129-zamknutaja-sistema.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=79f030c272c428ba4a",
+      "type": "article",
+      "sourceCharacters": 184,
+      "verified": false
+    },
+    {
+      "title": "Знание",
+      "description": "результат творческой деятельности человека, единство фор­мы (вопроса) и содержания (ответа). Знание – отображение реальности и ее законов в понятиях, принципах, закономерностях, образующих систему знаниевых инструментов, где инструментами знания являются",
+      "url": "https://cosmatica.org/glossary/128-znanie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=6370725de2b59d2925",
+      "type": "article",
+      "sourceCharacters": 312,
+      "verified": false
+    },
+    {
+      "title": "Задача",
+      "description": "с тремя элементами; «вход», «выход», «про­цесс», где «вход» – это исходная система координат, «выход» – ко­нечная, требуемая система координат, «процесс» – это",
+      "url": "https://cosmatica.org/glossary/127-zadacha.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=487d5061854ae0afa2",
+      "type": "article",
+      "sourceCharacters": 544,
+      "verified": false
+    },
+    {
+      "title": "Земля",
+      "description": "это пространственно ограниченная открытая планетарная",
+      "url": "https://cosmatica.org/glossary/126-zemlja.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=94e70cd76184e159ff",
+      "type": "article",
+      "sourceCharacters": 185,
+      "verified": false
+    },
+    {
+      "title": "Инвариант",
+      "description": "это то, что не зависит от выбранной системы коорди­нат, сохраняется при всевозможных изменениях (преобразованиях) системы. Это",
+      "url": "https://cosmatica.org/glossary/125-invariant.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=807652d60880a2986a",
+      "type": "article",
+      "sourceCharacters": 615,
+      "verified": false
+    },
+    {
+      "title": "Интуитивная теория",
+      "description": ", изложенная на естественном языке без указания меры и измерительной процедуры.",
+      "url": "https://cosmatica.org/glossary/124-intuitivnaja-teorija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=f8916e010cacded090",
+      "type": "article",
+      "sourceCharacters": 86,
+      "verified": false
+    },
+    {
+      "title": "Интуитивное мировоззрение",
+      "description": "законов, не имеющих естественной меры (законы религии, обыденной жизни, искусства).",
+      "url": "https://cosmatica.org/glossary/123-intuitivnoe-mirovozzrenie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=0b0fe2b568ba537e54",
+      "type": "article",
+      "sourceCharacters": 123,
+      "verified": false
+    },
+    {
+      "title": "Инновационное развитие",
+      "description": "за счет повышения эффективно­сти использования ресурсов посредством реализации более совершен­ных технологий, дающих больший эффект.",
+      "url": "https://cosmatica.org/glossary/122-innovacionnoe-razvitie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=c15076ca6174229f19",
+      "type": "article",
+      "sourceCharacters": 141,
+      "verified": false
+    },
+    {
+      "title": "Измерение",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/121-izmerenie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=57c3ac2f2fa7dc6fc2",
+      "type": "article",
+      "sourceCharacters": 21,
+      "verified": false
+    },
+    {
+      "title": "Измеритель",
+      "description": "– является универсальной, если выражена в терминах пространственно-временных величин. Измеритель являет­ся устойчивым, если он является инвариантом в определенном клас­се систем.",
+      "url": "https://cosmatica.org/glossary/120-izmeritel.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=42e4b19af3548a7513",
+      "type": "article",
+      "sourceCharacters": 187,
+      "verified": false
+    },
+    {
+      "title": "Информация",
+      "description": ", которые от­вечают на вопросы «кто?», «что?», «где?», «когда?». Основной вид обработки информации – управление материалами, облегчающими ее поиск, использование и восприятие. Объективная информация – это значения показателей, полученных в ре­зультате измерения с использованием физических величин и законов. Субъективная информация – это значения показателей, не имеющих меры.",
+      "url": "https://cosmatica.org/glossary/119-informacija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=a205bc8a45d472da0a",
+      "type": "article",
+      "sourceCharacters": 401,
+      "verified": false
+    },
+    {
+      "title": "Инновация",
+      "description": "это конечный результат внедрения новшеств с целью из­менения объекта управления и получения экономического, социаль­ного, экологического, научно-технического или другого вида эффекта. Инновация –",
+      "url": "https://cosmatica.org/glossary/118-innovacija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=84619ddf5dfbc64dc6",
+      "type": "article",
+      "sourceCharacters": 240,
+      "verified": false
+    },
+    {
+      "title": "Качество",
+      "description": "это то, внутри чего различия только количественные.",
+      "url": "https://cosmatica.org/glossary/117-kachestvo.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=fffa387c4ffbfbd32b",
+      "type": "article",
+      "sourceCharacters": 51,
+      "verified": false
+    },
+    {
+      "title": "Количество",
+      "description": "это число, определяемое отношением измеряемой вели­чины к единице измерения этой величины.",
+      "url": "https://cosmatica.org/glossary/116-kolichestvo.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=60e6f9fe0a1547698f",
+      "type": "article",
+      "sourceCharacters": 90,
+      "verified": false
+    },
+    {
+      "title": "Коэффициент совершенства технологии (КСТ)",
+      "description": "это КПД открытой системы, который определяется отношением полезной мощности на выходе системы к полной мощности на ее входе.",
+      "url": "https://cosmatica.org/glossary/115-koefficient-sovershenstva-tehnologii-kst.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=570f7d63bb57a772d5",
+      "type": "article",
+      "sourceCharacters": 124,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

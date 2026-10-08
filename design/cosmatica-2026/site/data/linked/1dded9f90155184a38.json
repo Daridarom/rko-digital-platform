@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/81-vampiry-geony.html",
+  "title": "Вампиры Геоны",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#\"Космическое творчество Г.И. Тищенко\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "По мотивам рассказа Геннадия Тищенко \"Вампир Гейномиуса\" и мультфильмов \"Вампиры Геоны\" и \"Хозяева Геоны\" (автор сценария Г. Тищенко, режиссёр Г. Тищенко, художники Г. Тищенко, В. Трачук.",
+      "spans": [
+        {
+          "text": "По мотивам рассказа Геннадия Тищенко \"Вампир Гейномиуса\" и мультфильмов \"Вампиры Геоны\" и \"Хозяева Геоны\" (автор сценария Г. Тищенко, режиссёр Г. Тищенко, художники Г. Тищенко, В. Трачук."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "По мотивам рассказа Геннадия Тищенко \"Вампир Гейномиуса\" и мультфильмов \"Вампиры Геоны\" и \"Хозяева Геоны\" (автор сценария Г. Тищенко, режиссёр Г. Тищенко, художники Г. Тищенко, В. Трачук.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 326,
+    "storedTextCharacters": 225,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 74914
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 273,
+  "capturedBodyCharacters": 225,
+  "sourceTextSHA256": "35509e24f0efd7b371a68e78c48229d2c15af55136d4145cd2f0ea0d783bd62f",
+  "archiveSnapshotAt": "2026-10-08T09:06:34Z"
+}

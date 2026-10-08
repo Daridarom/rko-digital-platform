@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/598-proekt-nasha-vselennaja-oktjabr-2019.html",
+  "title": "Проект \"Наша Вселенная\", октябрь 2019",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#«Наша Вселенная»",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u64/e/0/proekt-nasha-vselennaja-oktjabr-2019-photo-normal.jpg",
+      "alt": "Проект \"Наша Вселенная\", октябрь 2019"
+    },
+    {
+      "type": "paragraph",
+      "text": "Продолжаем проект , и на данном этапе мы в основном доделываем «Альфу 1/3», хотя, по некоторым направлениям уже перешли к «Альфе 2/3». Так и было задумано, тестируем сборки, обновляем раз в неделю и пересылаем для ознакомления тем, кто нас уже поддержал.",
+      "spans": [
+        {
+          "text": "Продолжаем  "
+        },
+        {
+          "text": "проект",
+          "href": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": ", и на данном этапе мы в основном доделываем «Альфу 1/3», хотя, по некоторым направлениям уже перешли к «Альфе 2/3». Так и было задумано, тестируем сборки, обновляем раз в неделю и пересылаем для ознакомления тем, кто нас уже поддержал."
+        }
+      ],
+      "links": [
+        {
+          "text": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Для ознакомления с процессом несколько слайдов и коротко описания к ним.",
+      "spans": [
+        {
+          "text": "Для ознакомления с процессом несколько слайдов и коротко описания к ним."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Вид из кабины марсохода «Алтай». Моделирование: Алексей Борисов.",
+      "spans": [
+        {
+          "text": "Вид из кабины марсохода «Алтай».Моделирование: Алексей Борисов."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361864/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361865/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Марсоход Spirit для бонусного квеста. Моделирование: Вадим Скосырев.",
+      "spans": [
+        {
+          "text": "Марсоход Spirit для бонусного квеста.Моделирование: Вадим Скосырев."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361868/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361869/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Расширенная физико-химическая лаборатория, дополнительный квест B18/B20. Дизайн, модель и текстуры – Максим Дрончак.",
+      "spans": [
+        {
+          "text": "Расширенная физико-химическая лаборатория, дополнительный квест B18/B20.Дизайн,  "
+        },
+        {
+          "text": "модель",
+          "href": "https://cosmatica.org/glossary/105-model.html"
+        },
+        {
+          "text": " и текстуры – Максим Дрончак."
+        }
+      ],
+      "links": [
+        {
+          "text": "модель",
+          "url": "https://cosmatica.org/glossary/105-model.html"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361870/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361871/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Набор скальных объектов. Моделирование: Владимир Мацаль, Алексей Борисов. Разработка в Unity: Валерий Дементьев.",
+      "spans": [
+        {
+          "text": "Набор скальных объектов.Моделирование: Владимир Мацаль, Алексей Борисов.Разработка в Unity: Валерий Дементьев."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361872/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361873/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Индикаторы заданий и полученного опыта. Разработка в Unity: Валерий Дементьев.",
+      "spans": [
+        {
+          "text": "Индикаторы заданий и полученного опыта.Разработка в Unity: Валерий Дементьев."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361874/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Эксклюзивные модели для настольной игры. Модули «ИНОКС». Моделирование: Алексей Борисов. 3D-печать: Дмитрий Логвинов.",
+      "spans": [
+        {
+          "text": "Эксклюзивные модели для настольной игры. Модули «ИНОКС».Моделирование: Алексей Борисов.3D-печать: Дмитрий Логвинов."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361875/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Дневник разработки",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Продолжаем проект , и на данном этапе мы в основном доделываем «Альфу 1/3», хотя, по некоторым направлениям уже перешли к «Альфе 2/3». Так и было задумано, тестируем сборки, обновляем раз в неделю и пересылаем для ознакомления тем, кто нас уже поддержал. Для ознакомления с процессом несколько слайдов и коротко описания к ним. Вид из кабины марсохода «Алтай». Моделирование: Алексей Борисов. Марсоход Spirit для бонусного квеста. Моделирование: Вадим Скосырев. Расширенная физико-химическая лаборатория, дополнительный квест B18/B20. Дизайн, модель и текстуры – Максим Дрончак. Набор скальных объектов. Моделирование: Владимир Мацаль, Алексей Борисов. Разработка в Unity: Валерий Дементьев. Индикаторы заданий и полученного опыта. Разработка в Unity: Валерий Дементьев. Эксклюзивные модели для настольной игры. Модули «ИНОКС». Моделирование: Алексей Борисов. 3D-печать: Дмитрий Логвинов.",
+      "links": [
+        {
+          "title": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "модель",
+          "url": "https://cosmatica.org/glossary/105-model.html"
+        }
+      ],
+      "image": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361864/embed_asset.png"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u64/e/0/proekt-nasha-vselennaja-oktjabr-2019-photo-normal.jpg",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361864/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361865/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361868/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361869/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361870/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361871/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361872/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361873/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361874/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/361875/embed_asset.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1090,
+    "storedTextCharacters": 909,
+    "sourceCardCount": 0,
+    "sourceImageCount": 11,
+    "paragraphCount": 18,
+    "sourceBytes": 49443
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 924,
+  "capturedBodyCharacters": 909,
+  "sourceTextSHA256": "39eb762aae8649f7b2a3301da750475ecefca94c195f0e2c6eedbe5f09c46abc",
+  "archiveSnapshotAt": "2026-10-08T09:12:38Z"
+}

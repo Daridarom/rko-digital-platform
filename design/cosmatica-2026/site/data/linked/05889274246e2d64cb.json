@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/417-zadachi-povyshennoi-trudnosti-v-kurse-algebry-7-9-klassov.html",
+  "title": "Задачи повышенной трудности в курсе алгебры 7-9 классов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/5/zadachi-povyshennoi-trudnosti-v-kurse-algebry-7-9-klassov-photo-no.png",
+      "alt": "Задачи повышенной трудности в курсе алгебры 7-9 классов"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Кострикина Н. П.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 45 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2423/477a68ebef0eeb172a48b5b5a56cdc7c"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/5/zadachi-povyshennoi-trudnosti-v-kurse-algebry-7-9-klassov-photo-no.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2423/477a68ebef0eeb172a48b5b5a56cdc7c"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 99,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39698
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 43,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "22c4307c16b31d3815aacce39d45b6aa66d097b040f21bb367f66fcdc5f233ba",
+  "archiveSnapshotAt": "2026-10-08T08:49:51Z"
+}

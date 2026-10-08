@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/29-tenzornyi-analiz-setei-g-krona-i-ego-rol-v-proektirovanii-sistem.html",
+  "title": "Тензорный анализ сетей Г. Крона и его роль в проектировании систем",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Предисловие редакторов перевода. С именем известного\r\nамериканского инженера и ученого Габриэля Крона связаны\r\nедва ли не самые острые научные споры и дискуссии нашего\r\nвека.",
+      "spans": [
+        {
+          "text": "Предисловие редакторов перевода. С именем известного\r\nамериканского инженера и ученого Габриэля Крона связаны\r\nедва ли не самые острые научные споры и дискуссии нашего\r\nвека."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Предисловие редакторов перевода. С именем известного американского инженера и ученого Габриэля Крона связаны едва ли не самые острые научные споры и дискуссии нашего века.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 187 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/45/bae2a33dd503483b78dd3c58d1c6859b"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/45/bae2a33dd503483b78dd3c58d1c6859b"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 259,
+    "storedTextCharacters": 174,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39502
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 192,
+  "capturedBodyCharacters": 174,
+  "sourceTextSHA256": "0883429dab14f5be989065169fbc1c67b76aa8b7d39d86e5f6cdc05175a581a2",
+  "archiveSnapshotAt": "2026-10-08T08:48:34Z"
+}

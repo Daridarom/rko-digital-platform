@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/248",
+  "title": "Роман Викторович Кнауб",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/7/3234ec88.jpg",
+      "alt": "Роман Викторович Кнауб"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/a/924244e0.jpg",
+      "alt": "Роман Викторович Кнауб"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Доцент кафедры природопользования геолого-географического факультете, Национальный исследовательский Томский государственный университет.",
+      "spans": [
+        {
+          "text": "Доцент кафедры природопользования геолого-географического факультете, Национальный исследовательский Томский государственный университет."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Член Русского географического общества",
+      "spans": [
+        {
+          "text": "Член Русского географического общества"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Томская область",
+      "links": [
+        {
+          "title": "Томская область",
+          "url": "https://cosmatica.org/departments/40-tomskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Доцент кафедры природопользования геолого-географического факультете, Национальный исследовательский Томский государственный университет. Член Русского географического общества",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/5/7/3234ec88.jpg",
+    "https://cosmatica.org/upload/000/u35/c/a/924244e0.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 261,
+    "storedTextCharacters": 208,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35327
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 213,
+  "capturedBodyCharacters": 208,
+  "sourceTextSHA256": "bdad3ad677f0fee18eb9e3cbef9dbe1bb4250faf3f1285704dcf7a4bebb35d4b",
+  "archiveSnapshotAt": "2026-10-08T09:18:49Z"
+}

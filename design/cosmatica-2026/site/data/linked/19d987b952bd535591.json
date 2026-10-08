@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/178-neobhodimoe-socialnoe-vremja.html",
+  "title": "Необходимое социальное время",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "такая часть полного бюджета социально­го времени, которую общество расходовало, расходует и будет расхо­довать на восстановление того, что астрономическое",
+      "spans": [
+        {
+          "text": "такая часть полного бюджета социально­го времени, которую общество расходовало, расходует и будет расхо­довать на восстановление того, что астрономическое"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "время",
+      "spans": [
+        {
+          "text": "время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "разрушает.",
+      "spans": [
+        {
+          "text": "разрушает."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "такая часть полного бюджета социально­го времени, которую общество расходовало, расходует и будет расхо­довать на восстановление того, что астрономическое время разрушает.",
+      "links": [
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 200,
+    "storedTextCharacters": 169,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32325
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 171,
+  "capturedBodyCharacters": 169,
+  "sourceTextSHA256": "013c062333b6310e90168afc9236e6d1bc8936ae620ef73c2db454891872286d",
+  "archiveSnapshotAt": "2026-10-08T08:46:42Z"
+}

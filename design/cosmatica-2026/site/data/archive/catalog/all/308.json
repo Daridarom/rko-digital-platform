@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 308,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Юрий Северинович Лекомцев",
+      "description": "Генеральный директор АНО «Спортклуб Роскосмос»",
+      "url": "https://cosmatica.org/users/139",
+      "image": "https://cosmatica.org/upload/000/u7/cf/df/4366c672.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=289890f321aaaf9512",
+      "type": "profile",
+      "sourceCharacters": 74,
+      "verified": false
+    },
+    {
+      "title": "Александр Иванович Субетто",
+      "description": "Руководитель Философского Совета Русского Космического Общества.",
+      "url": "https://cosmatica.org/users/14",
+      "image": "https://cosmatica.org/upload/000/u8/67/fe/563a718b.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=6028cd8edc9053b2fd",
+      "type": "profile",
+      "sourceCharacters": 8095,
+      "verified": false
+    },
+    {
+      "title": "Галина Владимировна Почукаева",
+      "description": "",
+      "url": "https://cosmatica.org/users/140",
+      "image": "https://cosmatica.org/upload/000/u7/0c/b3/59adbee0.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=8abd8ac932160209a4",
+      "type": "profile",
+      "sourceCharacters": 40,
+      "verified": false
+    },
+    {
+      "title": "Юрий Данилович Марцинишин",
+      "description": "Ученый-изобретатель, деятельность которого направлена на фундаментальные исследования квантовых (скачкообразных) переходов систем, их эмерджентных состояний и каналов информационной межсистемной связи, победитель конкурсов «Изобретение года 2007» и «Изобретение года 2008».",
+      "url": "https://cosmatica.org/users/142",
+      "image": "https://cosmatica.org/upload/000/u7/3c/ac/d0dd685d.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=d91c08a0616f324caa",
+      "type": "profile",
+      "sourceCharacters": 301,
+      "verified": false
+    },
+    {
+      "title": "Юрий Владимирович Шефер",
+      "description": "Томский политехнический университет. «Инженер химик-технолог». 2005г.",
+      "url": "https://cosmatica.org/users/14258",
+      "image": "https://cosmatica.org/upload/142/u14258/f/4/5e6909a4.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a019322337803cc27c",
+      "type": "profile",
+      "sourceCharacters": 962,
+      "verified": false
+    },
+    {
+      "title": "Владимир Юрьевич Колпаков",
+      "description": "Учитель физики и математики, популяризатор астрономии. Член Общественной палаты Псковской области 2018-2021 г.г., один из организаторов открытого регионального турнира Псковской области по робототехнике и астрономического форума «АстроПсков».",
+      "url": "https://cosmatica.org/users/143",
+      "image": "https://cosmatica.org/upload/000/u8/a9/10/18fc4e41.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=4ffc1831f935188f35",
+      "type": "profile",
+      "sourceCharacters": 320,
+      "verified": false
+    },
+    {
+      "title": "Максим Васильевич Евдокимов",
+      "description": "Фотограф, любитель астрономии. Член клуба любителей астрономии «АстроПсков»",
+      "url": "https://cosmatica.org/users/144",
+      "image": "https://cosmatica.org/upload/002/u218/2/2/510e9bca.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a12ad8410fd0d867ec",
+      "type": "profile",
+      "sourceCharacters": 114,
+      "verified": false
+    },
+    {
+      "title": "Захирджан Анварович Кучкаров",
+      "description": "Председатель Секции «Концептуального проектирования систем организационного управления» при Научно-техническом совете Русского Космического Общества.",
+      "url": "https://cosmatica.org/users/148",
+      "image": "https://cosmatica.org/upload/000/u8/05/1b/3e3915ef.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=f19cb244db6627d2f6",
+      "type": "profile",
+      "sourceCharacters": 892,
+      "verified": false
+    },
+    {
+      "title": "Кирилл Вадимович Федосеев",
+      "description": "Выпускник Московского физико-технического института (государственный университет), 2018. Специализация: Наукоёмкие технологии и экономика инноваций (магистратура), Концептуальный анализ и проектирование инноваций.",
+      "url": "https://cosmatica.org/users/149",
+      "image": "https://cosmatica.org/upload/000/u8/d0/09/ef0ad9ae.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=535f97e33ba7235b19",
+      "type": "profile",
+      "sourceCharacters": 616,
+      "verified": false
+    },
+    {
+      "title": "Краснодарское отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/152",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=c10bc1ddf17561bd2c",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Игорь Алексеевич Гундаров",
+      "description": "Руководитель Совета по биологии и медицине Русского Космического Общества.",
+      "url": "https://cosmatica.org/users/1525",
+      "image": "https://cosmatica.org/upload/000/u35/6/0/f44c25f9.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=89185b2ab367545e92",
+      "type": "profile",
+      "sourceCharacters": 517,
+      "verified": false
+    },
+    {
+      "title": "Алла",
+      "description": "Хочу работать в научной сфере и танцев на шесте. Я буду работать на вас бескорыстно без зарплаты. Платить мне не нужно. Меня нужно только обучать жизни с проживанием постоянным у вас. Ещё я доброволец покинуть планету Земля навсегда: c билетом в один конец и багажом! Вообщем пишите все условия обговорим.",
+      "url": "https://cosmatica.org/users/156",
+      "image": "https://cosmatica.org/upload/001/u156/3c/54/40d5c087.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=bb5a8227e4c67e0388",
+      "type": "profile",
+      "sourceCharacters": 384,
+      "verified": false
+    },
+    {
+      "title": "Алла Степановна Макарова",
+      "description": "Член Научно-образовательного совета РКО, кандидат психологических наук, доцент",
+      "url": "https://cosmatica.org/users/157",
+      "image": "https://cosmatica.org/upload/001/u157/bf/9e/78c91eb9.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=d15d508a7e67f42d8d",
+      "type": "profile",
+      "sourceCharacters": 115,
+      "verified": false
+    },
+    {
+      "title": "Козырев Владимир",
+      "description": "",
+      "url": "https://cosmatica.org/users/159",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=4d8cc469581bda8cb5",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Алексей Васильевич Щербенко",
+      "description": "",
+      "url": "https://cosmatica.org/users/1594",
+      "image": "https://cosmatica.org/upload/000/u35/4/1/d89b7435.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=fb0f332157a6cb18e4",
+      "type": "profile",
+      "sourceCharacters": 74,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

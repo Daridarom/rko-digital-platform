@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 120,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "РКО в эфире. Разговор о смыслах.",
+      "description": "28 августа, в преддверии открытия Донецкого отделения РКО, в студии телеканала Юнион (Донецк, ДНР) состоялась встреча с Президентом Русского Космического Общества Алексеем Алексеевичем Гапоновым и членом Правления РКО Степаном Андреевичем Зотовым. Говорили о смыслах, о том, что же такое Русское Космическое Общество, и почему - Донецк. Результатом беседы стала эта программа. Смотрим.",
+      "url": "https://cosmatica.org/articles/736-rko-v-efire-razgovor-o-smyslah.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=6de3aeb921b3739e80",
+      "type": "article",
+      "sourceCharacters": 487,
+      "verified": false
+    },
+    {
+      "title": "Литературный конкурс ждёт новых талантов",
+      "description": "С 1 марта 2020 года открыт приём работ на Международный конкурс литературного клуба «Просвет».",
+      "url": "https://cosmatica.org/news/736-literaturnyi-konkurs-zhdyot-novyh-talantov.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/f/3ba8851c.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a7253b054b404b96e5",
+      "type": "news-item",
+      "sourceCharacters": 4763,
+      "verified": false
+    },
+    {
+      "title": "Цели, задачи и развёртывание РКО",
+      "description": "Выступление Главы Русского Космического Общества на первой учредительной конференции Донецкого отделения РКО.",
+      "url": "https://cosmatica.org/articles/735-celi-zadachi-i-razvyortyvanie-rko.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=c943d7e8cb553e1297",
+      "type": "article",
+      "sourceCharacters": 380,
+      "verified": false
+    },
+    {
+      "title": "Прими участие с создании фильма \"Час быка\"!",
+      "description": "Русское Космическое Общество и инициативная группа поклонников творчества Ивана Антоновича Ефремова, в которую входят кинематографисты, писатели, учёные и художники объявляют о старте конкурса по созданию зарисовок, музыки и написанию сценария для производства фильма «Час Быка» по одноимённому роману Ивана Антоновича Ефремова.",
+      "url": "https://cosmatica.org/news/735-primi-uchastie-s-sozdanii-filma-chas-byka.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/0/46d73403.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=190dab9b8b862ea460",
+      "type": "news-item",
+      "sourceCharacters": 6279,
+      "verified": false
+    },
+    {
+      "title": "Жребий брошен. Новое время настало.",
+      "description": "Многим уже ясно, что мы живём в интересное, важное и чрезвычайно ответственное время . Время перехода в Новый мир. От нас всех вместе и от каждого в отдельности зависит то, каким он будет.",
+      "url": "https://cosmatica.org/news/734-zhrebii-broshen-novoe-vremja-nastalo.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/9/zhrebii-broshen-novoe-vremja-nastalo-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3ba95b65249f04ac15",
+      "type": "news-item",
+      "sourceCharacters": 5215,
+      "verified": false
+    },
+    {
+      "title": "Воздействие космической погоды на погоду и климат Земли",
+      "description": "Развитие направления геофизики о прямой зависимости погоды и климата Земли от параметров космической погоды испытывает значительные трудности по той причине, что геофизики не рассматривают Землю как излучающую автоколебательную систему дипольного типа, имеющей свою диаграмму направленности – поле направленных излучений в форме плазменного механизма Солнечно-Земных связей -плазменную чувствительную систему планетного ",
+      "url": "https://cosmatica.org/articles/733-vozdeistvie-kosmicheskoi-pogody-na-pogodu-i-klimat-zemli.html",
+      "image": "https://cosmatica.org/upload/000/u19/1/2/2august.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=94ebab284c19b33fa4",
+      "type": "article",
+      "sourceCharacters": 116971,
+      "verified": false
+    },
+    {
+      "title": "День памяти Гагарина",
+      "description": "В 1968 году неподалёку от деревни Новосёлово под Киржачом произошла авиационная катастрофа, которая унесла жизни двух героев: учебно-тренировочный самолёт-истребитель УТИ МиГ-15 с бортовым номером 18 пилотировали Герой Советского Союза, лётчик-космонавт СССР полковник Юрий Алексеевич Гагарин и Герой Советского Союза, лётчик-испытатель 1 класса полковник Владимир Сергеевич Серёгин.",
+      "url": "https://cosmatica.org/news/733-den-pamjati-gagarina.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/1/den-pamjati-gagarina-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=eb80271d9521a3b7b8",
+      "type": "news-item",
+      "sourceCharacters": 6918,
+      "verified": false
+    },
+    {
+      "title": "Методология управления новациями в проектировании региональных систем устойчивого развития",
+      "description": "В настоящее время Россия столкнулась с необходимостью перехода на устойчивый инновационный путь развития, опирающийся на эффективное управление новациями.",
+      "url": "https://cosmatica.org/articles/732-metodologija-upravlenija-novacijami-v-proektirovanii-regionalnyh-sistem-ustoichivogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/8/bezymjannyi.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=5aa70dc09770ebf921",
+      "type": "article",
+      "sourceCharacters": 28278,
+      "verified": false
+    },
+    {
+      "title": "Первое общее открытое собрание Калининградского отделения РКО",
+      "description": "В связи с этим в самой Западной точке России произошли сразу несколько знаковых событий.",
+      "url": "https://cosmatica.org/news/732-pervoe-obschee-otkrytoe-sobranie-kaliningradskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/1/pervoe-obschee-otkrytoe-sobranie-kaliningradskogo-otdelenija-rko-ph.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6b8fb66af9ccc674dd",
+      "type": "news-item",
+      "sourceCharacters": 2568,
+      "verified": false
+    },
+    {
+      "title": "Блеск и нищета технологий",
+      "description": "Без забот о насаждении великих основ Культуры, Живой Этики, без охраны культурных деятелей и их трудов новое поколение окажется поколением цивилизованных дикарей, и для такого нового типа дикаря атомная бомба явится верхом достижения для его практических целей.",
+      "url": "https://cosmatica.org/articles/731-blesk-i-nischeta-tehnologii.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=7f26e489f6801ee2ea",
+      "type": "article",
+      "sourceCharacters": 37164,
+      "verified": false
+    },
+    {
+      "title": "Космодесант-2020",
+      "description": "Главной целью лагеря является воспитание духа товарищества, ответственности и самостоятельности в детях. Космического масштаба мышления, настроя на победу, готовности создавать идеи и воплощать их в жизнь .",
+      "url": "https://cosmatica.org/news/731-kosmodesant-2020.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/5/3f5ebac8.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c65495150632b0db46",
+      "type": "news-item",
+      "sourceCharacters": 2776,
+      "verified": false
+    },
+    {
+      "title": "\"Тропа мужества\". Лето 2019 (дети)",
+      "description": "- 15 км до 1 КТ и обратно (детская); - ~45 км верхняя петля (начальная дистанция); - ~70 км две петли (базовая); - ~110 км две петли + верхняя (марафонская дистанция).",
+      "url": "https://cosmatica.org/articles/730-tropa-muzhestva-leto-2019-deti.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=d36613a114b1f2eca3",
+      "type": "article",
+      "sourceCharacters": 728,
+      "verified": false
+    },
+    {
+      "title": "Зеленоградский кедровый питомник готовиться к весенним посадкам деревьев",
+      "description": "Зеленоградский кедровый питомник готовиться к весенним посадкам деревьев.",
+      "url": "https://cosmatica.org/news/730-zelenogradskii-kedrovyi-pitomnik-gotovitsja-k-vesennim-posadkam-derevev.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/1/zelenogradskii-kedrovyi-pitomnik-gotovitsja-k-vesennim-posadkam.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e48c61db41004ed2bf",
+      "type": "news-item",
+      "sourceCharacters": 1660,
+      "verified": false
+    },
+    {
+      "title": "\"Тропа мужества\". Лето 2019",
+      "description": "- 15 км до 1 КТ и обратно (детская); - ~45 км верхняя петля (начальная дистанция); - ~70 км две петли (базовая); - ~110 км две петли + верхняя (марафонская дистанция).",
+      "url": "https://cosmatica.org/articles/729-tropa-muzhestva-leto-2019.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=2c59960bfb65f39e86",
+      "type": "article",
+      "sourceCharacters": 386,
+      "verified": false
+    },
+    {
+      "title": "\"Космический\" теннис по-Гагарински",
+      "description": "Первый в мире космонавт Юрий Алексеевич Гагарин родился 9 марта 1934 г. в Смоленской области в городе Гагарин. В этом городе в день рождения Ю.А.Гагарина ежегодно на протяжении уже 46 лет проходят Международные общественные и научные чтения, встречи с администрацией и общественностью города, посвященные его памяти. Одновременно в городе в этот день проходят Всероссийский традиционный турнир по борьбе Самбо и другие с",
+      "url": "https://cosmatica.org/news/729-kosmicheskii-tennis-po-gagarinski.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/9/bbaccd96.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=489f553b4a9bc77c48",
+      "type": "news-item",
+      "sourceCharacters": 6386,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

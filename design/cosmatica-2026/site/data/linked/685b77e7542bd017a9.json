@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/88-plan.html",
+  "title": "План",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "сеть",
+      "spans": [
+        {
+          "text": "сеть"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "работ по достижению цели, в которой не должно быть лишних или забытых работ. Эта сеть состоит из двух списков: списка работ и списка связей между работами. Если нет потребителя работы – данная",
+      "spans": [
+        {
+          "text": "работ по достижению цели, в которой не должно быть лишних или забытых работ. Эта сеть состоит из двух списков: списка работ и списка связей между работами. Если нет потребителя работы – данная"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "работа",
+      "spans": [
+        {
+          "text": "работа"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "является лишней. Если нет источника работы – дан­ная работа является забытой.",
+      "spans": [
+        {
+          "text": "является лишней. Если нет источника работы – дан­ная работа является забытой."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это сеть работ по достижению цели, в которой не должно быть лишних или забытых работ. Эта сеть состоит из двух списков: списка работ и списка связей между работами. Если нет потребителя работы – данная работа является лишней. Если нет источника работы – дан­ная работа является забытой.",
+      "links": [
+        {
+          "title": "сеть",
+          "url": "https://cosmatica.org/glossary/48-set.html"
+        },
+        {
+          "title": "работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 291,
+    "storedTextCharacters": 282,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32448
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 286,
+  "capturedBodyCharacters": 282,
+  "sourceTextSHA256": "57aa4dab327bef6191d8dadea4daf0edecd4153a203bbc4675421fc49bb10180",
+  "archiveSnapshotAt": "2026-10-08T08:47:19Z"
+}

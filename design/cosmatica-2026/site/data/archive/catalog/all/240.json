@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 240,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Мотоэкспедиция \"Звезды мира. От Колымы до Невы\"",
+      "description": "В рамках проекта «АстроГлобус» мы начинаем мотоэкспедицию «Звезды мира. От Колымы до Невы»",
+      "url": "https://cosmatica.org/news/126-motoekspedicija-zvezdy-mira-ot-kolymy-do-nevy.html",
+      "image": "https://cosmatica.org/upload/000/u21/f2/77/motoekspedicija-zvezdy-mira-ot-kolymy-do-nevy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=eeea2b159de7ff937a",
+      "type": "news-item",
+      "sourceCharacters": 1513,
+      "verified": false
+    },
+    {
+      "title": "\"РКО в Лицах: Субетто Александр Иванович\"",
+      "description": "Первый выпуск цикла передач Русского Космического Общества \"РКО в Лицах\".",
+      "url": "https://cosmatica.org/articles/125-rko-v-licah-subetto-aleksandr-ivanovich.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=d71d6dd00355838a49",
+      "type": "article",
+      "sourceCharacters": 701,
+      "verified": false
+    },
+    {
+      "title": "Инвариант",
+      "description": "это то, что не зависит от выбранной системы коорди­нат, сохраняется при всевозможных изменениях (преобразованиях) системы. Это",
+      "url": "https://cosmatica.org/glossary/125-invariant.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=807652d60880a2986a",
+      "type": "article",
+      "sourceCharacters": 615,
+      "verified": false
+    },
+    {
+      "title": "Астрономия для детей. В семье Солнышка \"танцуют\" все.",
+      "description": "Астрономией _ наукой, которая изучает Вселенную, Ефрем Павлович Левитан.- автор этой книги, заинтересо- вался, когда учился в школе. Там он создал астрономический кружок, который скоро стал филиалом из- вестного на всю страну Астро- номического кружка при Московском планетарии. Это было почти полвека назад, когда люди ещё не летали в космос. Те- перь же вокруг Земли движутся сотни искусственных спутников, космонавты ",
+      "url": "https://cosmatica.org/library/125-astronomija-dlja-detei-v-seme-solnyshka-tancuyut-vse.html",
+      "image": "https://cosmatica.org/upload/000/u1/fd/8b/7cfb447c.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=0a24e1bb3ddd00cb3a",
+      "type": "book",
+      "sourceCharacters": 788,
+      "verified": false
+    },
+    {
+      "title": "Русский космизм в Европе",
+      "description": "Актуальным проблемам изменения климата и глобального потепления на Земле была посвящена серия июньских международных научных конференций, в которых активное участие принял МНИИКА во главе с его Генеральным директором, доктором медицинских наук, профессором, Председателем Новосибирского отделения РКО, Трофимовым Александром Васильевичем .",
+      "url": "https://cosmatica.org/news/125-russkii-kosmizm-v-evrope.html",
+      "image": "https://cosmatica.org/upload/000/u30/d0/74/russkii-kosmizm-v-evrope-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=223445a1fd515ab2fe",
+      "type": "news-item",
+      "sourceCharacters": 2787,
+      "verified": false
+    },
+    {
+      "title": "Первое общее собрание членов Русского Космического Общества России в Москве",
+      "description": "Собрание Русского Космического Общества. прошло в Центральном Доме Ученых Российской Академии Наук по адресу: г. Москва, ул. Пречистенка, д. 16. Количество участников собрания составило 70 человек.",
+      "url": "https://cosmatica.org/articles/124-pervoe-obschee-sobranie-chlenov-russkogo-kosmicheskogo-obschestva-rossii-v-moskve.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=10ecabbe3424921622",
+      "type": "article",
+      "sourceCharacters": 6470,
+      "verified": false
+    },
+    {
+      "title": "Интуитивная теория",
+      "description": ", изложенная на естественном языке без указания меры и измерительной процедуры.",
+      "url": "https://cosmatica.org/glossary/124-intuitivnaja-teorija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=f8916e010cacded090",
+      "type": "article",
+      "sourceCharacters": 86,
+      "verified": false
+    },
+    {
+      "title": "Астрономия для детей. Ау, инопланетяне!",
+      "description": "Инопланетянам, якобы прилетавшим к нам на \"тарелоч- ках\", или разумным обитателям далёких миров, с кото- рыми могли встречаться земляне, посвящено много научно-фантас- тических книг и кинофильмов. Почему нас интересует это? Потому что нам хочется уз- нать, какими могут быть инопланетяне и что,будет, ес- ли. люди когда-нибудь встре- тятся с ними. Станут ли они на- шими друзьями? Или нас ждут встречи не с добрыми, а co",
+      "url": "https://cosmatica.org/library/124-astronomija-dlja-detei-au-inoplanetjane.html",
+      "image": "https://cosmatica.org/upload/000/u1/ce/fa/astronomija-dlja-detei-au-inoplanetjane-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ef7827a96369f4c8be",
+      "type": "book",
+      "sourceCharacters": 860,
+      "verified": false
+    },
+    {
+      "title": "Генерал \"Буран\" будет смотреть на восток.",
+      "description": "25 июня 2018 года, в селе Тюбук Челябинской области, в помещении сельской Управы (ул. Ленина,8) состоялась первая личная встреча Председателя Челябинского отделения Бессонова Антона Владимировича и участника РКО Благочиннова Д.В. с Главой сельского поселения Ситниковым Владимиром Александровичем.",
+      "url": "https://cosmatica.org/news/124-general-buran-budet-smotret-na-vostok.html",
+      "image": "https://cosmatica.org/upload/000/u37/fa/fe/general-buran-budet-smotret-na-vostok-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fc6b2f2b825dfb6f06",
+      "type": "news-item",
+      "sourceCharacters": 3589,
+      "verified": false
+    },
+    {
+      "title": "Приветствие участникам учредительной конференции Русского Космического Общества",
+      "description": "Российская инженерная академия наук приветствует участников Первого Собрания Русского Космического Общества — мощного двигателя интеграции научной мысли в России и за рубежом.",
+      "url": "https://cosmatica.org/articles/123-privetstvie-uchastnikam-uchreditelnoi-konferencii-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u9/2d/6b/bezymjannyi.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=0ef0ff38ccf5e773ef",
+      "type": "article",
+      "sourceCharacters": 3362,
+      "verified": false
+    },
+    {
+      "title": "Интуитивное мировоззрение",
+      "description": "законов, не имеющих естественной меры (законы религии, обыденной жизни, искусства).",
+      "url": "https://cosmatica.org/glossary/123-intuitivnoe-mirovozzrenie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=0b0fe2b568ba537e54",
+      "type": "article",
+      "sourceCharacters": 123,
+      "verified": false
+    },
+    {
+      "title": "Астрономия для детей. Длинноволосые звезды",
+      "description": "На обложке книги нарисован лихой наездник-мальчишка, ко- торый мчится на... комете. Это просто весёлая картинка: осед- лать хвост кометы так же невозможно, как сесть верхом на дым, выходящий из трубы. Из книги вы узнаете, что хвосты у комет очень-очень большие, но состоят они из лёгких частичек газа и пыли. Кометы часто называют \"хвостатыми звёзда- ми\", но и это шутка , потому что звёз- ды - далёкие солнца, а кометы ",
+      "url": "https://cosmatica.org/library/123-astronomija-dlja-detei-dlinnovolosye-zvezdy.html",
+      "image": "https://cosmatica.org/upload/000/u1/b2/4e/astronomija-dlja-detei-dlinnovolosye-zvezdy-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=4daa2763f2fdac878c",
+      "type": "book",
+      "sourceCharacters": 753,
+      "verified": false
+    },
+    {
+      "title": "Космический шатёр РКО принял первых гостей.",
+      "description": "22-23 июня 2018г. в Хакасии прошёл фестиваль «Сундуки - Храм Солнца» , на котором работала площадка РКО.",
+      "url": "https://cosmatica.org/news/123-kosmicheskii-shatyor-rko-prinjal-pervyh-gostei.html",
+      "image": "https://cosmatica.org/upload/000/u43/c8/d3/d178d71b.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=43fc23758ff36ddb43",
+      "type": "news-item",
+      "sourceCharacters": 3051,
+      "verified": false
+    },
+    {
+      "title": "«Человек и космос – три реалии» #Лекторий Русского Космического Общества",
+      "description": "13 марта в 18 час. 30 мин. в конференц-зале Института прикладной механики РАН по адресу: Москва, Ленинградский проспект дом 7/1 (метро Белорусская, 10 мин от метро) в рамках проекта Русского Космического Общества «Лекторий РКО» (https://cosmatica.org/projects/18 ) состоится встреча на тему: «Человек и космос – три реалии».",
+      "url": "https://cosmatica.org/poster/123-chelovek-i-kosmos-tri-realii.html",
+      "image": "https://cosmatica.org/upload/000/u26/d/6/chelovek-i-kosmos-tri-realii-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=7ec6964315f17b0335",
+      "type": "poster-item",
+      "sourceCharacters": 1298,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество стратегия становления – наше общее дело",
+      "description": "1. Преамбула и герб Русского Космического Общества (РКО).",
+      "url": "https://cosmatica.org/articles/122-russkoe-kosmicheskoe-obschestvo-strategija-stanovlenija-nashe-obschee-delo.html",
+      "image": "https://cosmatica.org/upload/000/u9/7a/05/bezymjannyi.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=a3b7ea8ad91dfe89cd",
+      "type": "article",
+      "sourceCharacters": 14038,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

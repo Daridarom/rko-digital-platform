@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/205-viii-studencheskii-blagotvoritelnyi-festival-ot-serdca-k-serdcu.html",
+  "title": "VIII студенческий благотворительный фестиваль \"От сердца к сердцу\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/b/viii-studencheskii-blagotvoritelnyi-festival-ot-serdca-k-serdc.jpeg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Среди многообразия площадок фестиваля рекомендуем обратить внимание на площадку \"Научную\" - там в 15:30 сопредседатель Молодежного Совета Русского Космического Общества Денис Олегович Прудник проведёт \"Космическую викторину\".",
+      "spans": [
+        {
+          "text": "Среди многообразия площадок фестиваля рекомендуем обратить внимание на площадку \"Научную\" - там в 15:30 сопредседатель Молодежного Совета Русского Космического Общества "
+        },
+        {
+          "text": "Денис Олегович Прудник",
+          "href": "https://cosmatica.org/users/120"
+        },
+        {
+          "text": " проведёт \"Космическую викторину\"."
+        }
+      ],
+      "links": [
+        {
+          "text": "Денис Олегович Прудник",
+          "url": "https://cosmatica.org/users/120"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/b/9september.jpg",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Восьмой студенческий фестиваль \"От сердца к сердцу\" пройдёт 29 сентября 2019 года в парке Коломенское. Среди многообразия площадок фестиваля рекомендуем обратить внимание на площадку \"Научную\" - там в 15:30 сопредседатель Молодежного Совета Русского Космического Общества Денис Олегович Прудник проведёт \"Космическую викторину\". Приходите и участвуйте! Это реальный шанс выиграть книги Якова Исидоровича Перельмана \"Межпланетные путешествия\" и Константина Эдуардовича Циолковского \"Земля космическая\". МОСКВА, 29 СЕНТЯБРЯ парк Коломенское м. Каширская Ждут всех знатоков космической тематики и всех, кто хочет побольше узнать о том, какими дорогами Человечество идёт к иным планетам и звёздам!",
+      "links": [
+        {
+          "title": "Денис Олегович Прудник",
+          "url": "https://cosmatica.org/users/120"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/002/u218/e/b/9september.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/0/b/viii-studencheskii-blagotvoritelnyi-festival-ot-serdca-k-serdc.jpeg",
+    "https://cosmatica.org/upload/002/u218/e/b/9september.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 858,
+    "storedTextCharacters": 225,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 2,
+    "sourceBytes": 39560
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 858,
+  "capturedBodyCharacters": 225,
+  "sourceTextSHA256": "c3e4c607c0bb68d1a4a3104e6d4055b709a18841ce70e8a40915054b81a865ca",
+  "archiveSnapshotAt": "2026-10-08T09:15:19Z"
+}

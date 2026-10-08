@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/80-princip-celesoobraznoi-dejatelnosti.html",
+  "title": "Принцип целесообразной деятельности",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "деятельность человека удо­влетворяет требованиям целесообразности тогда и только тогда, ког­да результат этой деятельности приводит к увеличению его полезной мощности, или к уменьшению необходимого времени на выполнение работы.",
+      "spans": [
+        {
+          "text": "деятельность человека удо­влетворяет требованиям целесообразности тогда и только тогда, ког­да результат этой деятельности приводит к увеличению его полезной мощности, или к уменьшению необходимого времени на выполнение работы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "деятельность человека удо­влетворяет требованиям целесообразности тогда и только тогда, ког­да результат этой деятельности приводит к увеличению его полезной мощности, или к уменьшению необходимого времени на выполнение работы.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 263,
+    "storedTextCharacters": 227,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32547
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 227,
+  "capturedBodyCharacters": 227,
+  "sourceTextSHA256": "b480feeef0837a45360b0b8af54355eb2b76f951fdf3da6ba50e51adf082f2a0",
+  "archiveSnapshotAt": "2026-10-08T08:47:17Z"
+}

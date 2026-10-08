@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1103-algoritm-reshenija-slozhnyh-zadach-shalevich-d-v.html",
+  "title": "Алгоритм решения сложных задач. Шалевич Д.В.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Шалевич Дмитрий Вячеславович, Генеральный директор ООО«Лаборатория «Барьер Неизвестности»",
+      "spans": [
+        {
+          "text": "Шалевич Дмитрий Вячеславович, Генеральный директор ООО«Лаборатория «Барьер Неизвестности»"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "Xc7-v4zc1As",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=Xc7-v4zc1As"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Шалевич Дмитрий Вячеславович, Генеральный директор ООО«Лаборатория «Барьер Неизвестности»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 244,
+    "storedTextCharacters": 89,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 74873
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 199,
+  "capturedBodyCharacters": 89,
+  "sourceTextSHA256": "e44579ee3d8f1bef7a6e5fb00bf60dc240f8e81e805f7732f36a6e2c605d17c0",
+  "archiveSnapshotAt": "2026-10-08T08:38:17Z",
+  "publicVideoCount": 1
+}

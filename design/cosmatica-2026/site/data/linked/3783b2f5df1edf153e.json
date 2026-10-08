@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/233-prirodnye-defekty-mnogomernogo-lt-prostranstva.html",
+  "title": "Природные дефекты многомерного LT-пространства",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/aba394dc5e0abb6e18c3dc.webp",
+      "alt": "Природные дефекты многомерного LT-пространства"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Беляев М.И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1619/aa5c4b28b2e9a2395252feda90769d64"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/aba394dc5e0abb6e18c3dc.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1619/aa5c4b28b2e9a2395252feda90769d64"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 84,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39204
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 37,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "59eeac795946f590f5a99c4402f6839ad25c1c488ef9d63cc77974efea888ccd",
+  "archiveSnapshotAt": "2026-10-08T08:48:10Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 4,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Этот разговор — о главном. О будущем и человечности.",
+      "description": "Руководитель проекта «О будущем» Виктор Александрович Меркулов и координатор «Битвы за будущее», ветеран СВО Алексей Алексеевич Гапонов об искусстве, которое должно стать орудием рождения смыслов, которые станут фундаментом развития нашей страны.",
+      "url": "https://cosmatica.org/news/2221-etot-razgovor-o-glavnom-o-buduschem-i-chelovechnosti.html",
+      "image": "https://cosmatica.org/upload/000/u7/d/9/etot-razgovor-o-glavnom-o-buduschem-i-chelovechnosti-photo-norm.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a868f1272638a322d4",
+      "type": "news-item",
+      "sourceCharacters": 3714,
+      "verified": false
+    },
+    {
+      "title": "О будущем социализма, России и человечества",
+      "description": "Тезисы выступления Субетто Александра Ивановича на «Круглом Столе» Петровской академии наук и искусств, посвященном 70-летию газеты «Советская Россия» 7 июля 2026 года, Санкт-Петербург.",
+      "url": "https://cosmatica.org/news/2220-o-buduschem-socializma-rossii-i-chelovechestva.html",
+      "image": "https://cosmatica.org/upload/000/u7/2/3/o-buduschem-socializma-rossii-i-chelovechestva-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=da494d672f48a5d770",
+      "type": "news-item",
+      "sourceCharacters": 13719,
+      "verified": false
+    },
+    {
+      "title": "О проекте \"Битва за будущее\"",
+      "description": "Руководитель проекта «О будущем» Виктор Александрович Меркулов и Координатор проекта «Битва за будущее», ветеран СВО Алексей Алексеевич Гапонов рассказывают о проекте «Битва за будущее».",
+      "url": "https://cosmatica.org/news/2219-o-proekte-bitva-za-buduschee.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/b/o-proekte-bitva-za-buduschee-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2630938161f68ce306",
+      "type": "news-item",
+      "sourceCharacters": 5383,
+      "verified": false
+    },
+    {
+      "title": "\"КосмоДрон\" собрал друзей",
+      "description": "Соревнования прошли в Региональном центре поддержки талантов детей и молодёжи «ОГМА» г. Брянска. Мероприятие проводится второй год, что говорит о востребованности тематики и наличии живого интереса.",
+      "url": "https://cosmatica.org/news/2217-kosmodron-sobral-druzei.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/f/kosmodron-sobral-druzei-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=31b70ff6d79c0b2190",
+      "type": "news-item",
+      "sourceCharacters": 3521,
+      "verified": false
+    },
+    {
+      "title": "Он навсегда среди людей, или тайны преображения души",
+      "description": "Два месяца прошло с момента объявления победителей и призёров Конкурса. С итогами можно ознакомиться на нашем сайте. За это время произошло ещё много событий, так как для Русского Космического Общества Конкурс не заканчивается объявлением победителей. Всегда есть продолжение. Недостаточно отправить диплом в эл.виде. Важно, чтобы ребята понимали значимость их результатов.",
+      "url": "https://cosmatica.org/news/2215-on-navsegda-sredi-lyudei-ili-tainy-preobrazhenija-dushi.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/3/on-navsegda-sredi-lyudei-ili-tainy-preobrazhenija-dushi-photo-norm.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=25e1559f753ee50ed2",
+      "type": "news-item",
+      "sourceCharacters": 21115,
+      "verified": false
+    },
+    {
+      "title": "Общим Делом объединила Тюмень",
+      "description": "Три часа напряженной и активной работы, в которую были включены десятки людей из Тюмени, Москвы, Санкт-Петербурга, других регионов.",
+      "url": "https://cosmatica.org/news/2214-obschim-delom-obedinila-tyumen.html",
+      "image": "https://cosmatica.org/upload/000/u35/c/6/obschim-delom-obedinila-tyumen-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f5fa691655da1df18b",
+      "type": "news-item",
+      "sourceCharacters": 6247,
+      "verified": false
+    },
+    {
+      "title": "Звездный гость в Лопатинской школе",
+      "description": "Возможность познакомиться с удивительным человеком, президентом Благотворительного фонда «Мир Сент-Экзюпери» в России, почётным членом Русского Космического Общества, заслуженным лётчиком-испытателем, почётным членом легендарной ассоциации пилотов «Нормандия-Неман», киносценаристом, Мстиславом Степановичем Листовым ребята заслужили по праву. Больше десятка учащихся школы приняли участие во Всероссийском конкурсе детс",
+      "url": "https://cosmatica.org/news/2213-zvezdnyi-gost-v-lopatinskoi-shkole.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/e/aca88a7c.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1e6b82f4c8abb40095",
+      "type": "news-item",
+      "sourceCharacters": 3003,
+      "verified": false
+    },
+    {
+      "title": "Новый литературный конкурс \"Империум: Первые\" стартовал!",
+      "description": "На Конкурс принимаются прозаические произведения любого объёма — рассказ, повесть, роман, сага во многих частях. Минимального и максимального числа знаков нет. Рекомендуемый объём от 5000 до 420 000 знаков. Размер не влияет на оценку жюри. Роман может уступить рассказу и наоборот. В первую очередь, мы оценивает автора (!), его идеи и талант их воплощать.",
+      "url": "https://cosmatica.org/news/2212-novyi-literaturnyi-konkurs-imperium-pervye-startoval.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/a/literaturnyi-konkurs-imperium-pervye-startoval-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1f3834263a961c72d2",
+      "type": "news-item",
+      "sourceCharacters": 3907,
+      "verified": false
+    },
+    {
+      "title": "Чистота в нашем доме",
+      "description": "Человек и природа — неразрывная связь , как дыхание и жизнь . Мы дышим свежим воздухом, пьём чистую воду, греемся у огня, принимаем щедрость земли, которая одаривает нас своим богатством. Всё это единое целое, частью которого мы являемся, и именно это единство наполняет нас силой.",
+      "url": "https://cosmatica.org/news/2211-chistota-v-nashem-dome.html",
+      "image": "https://cosmatica.org/upload/124/u12409/1/8/chistota-v-nashem-dome-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=807f59446427b6b6f6",
+      "type": "news-item",
+      "sourceCharacters": 4352,
+      "verified": false
+    },
+    {
+      "title": "Мы здесь, чтобы созидать",
+      "description": "С 13 по 15 мая 2026 года делегация Русского Космического Общества провела рабочие встречи на территории Донецкой Народной Республики. В состав делегации вошли:",
+      "url": "https://cosmatica.org/news/2210-my-zdes-chtoby-sozidat.html",
+      "image": "https://cosmatica.org/upload/124/u12409/2/3/my-zdes-chtoby-sozidat-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b56bc7a5494702446d",
+      "type": "news-item",
+      "sourceCharacters": 9136,
+      "verified": false
+    },
+    {
+      "title": "Звёздный мост между гагаринцами",
+      "description": "12 апреля состоялось знаменательное событие в жизни всенародного детско-юношеского движения \"Дружина Гагаринцев\" — звездариум «Слёт Гагаринских дружин».",
+      "url": "https://cosmatica.org/news/2209-zvyozdnyi-most-mezhdu-gagarincami.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/1/zvyozdnyi-most-mezhdu-gagarincami-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=197335995b504577bc",
+      "type": "news-item",
+      "sourceCharacters": 3922,
+      "verified": false
+    },
+    {
+      "title": "\"Создаём будущее\" в Курской области",
+      "description": "В Курской области, на базе МБОУ \"Гимназия №63 \"Академия успеха\", состоялся II региональный форум \"Создаём будущее\".",
+      "url": "https://cosmatica.org/news/2208-sozidaem-buduschee-v-kurskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/000/u7/d/f/sozidaem-buduschee-v-kurskoi-oblasti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1637c240df84aac774",
+      "type": "news-item",
+      "sourceCharacters": 6434,
+      "verified": false
+    },
+    {
+      "title": "РКО ДНР. Сверить часы. Обозначить вектор движения",
+      "description": "В период с 20 по 25 апреля в Донецкой Народной Республике работала делегация центрального штаба Русского Космического Общества. В состав делегации вошли:",
+      "url": "https://cosmatica.org/news/2205-rko-dnr-sverit-chasy-oboznachit-vektor-dvizhenija.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/7/rko-dnr-sverit-chasy-oboznachit-vektor-dvizhenija-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=81e0808cc573636a2e",
+      "type": "news-item",
+      "sourceCharacters": 4671,
+      "verified": false
+    },
+    {
+      "title": "Донбасс - неприветливый. Донбасс - родной и близкий",
+      "description": "В период с 20 по 25 апреля делегация центрального штаба Русского Космического Общества работала на территории Донбасса. В состав делегации вошли:",
+      "url": "https://cosmatica.org/news/2204-donbass-neprivetlivyi-donbass-rodnoi-i-blizkii.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/d/donbass-neprivetlivyi-donbass-rodnoi-i-blizkii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b00787861a6aa57a9d",
+      "type": "news-item",
+      "sourceCharacters": 9241,
+      "verified": false
+    },
+    {
+      "title": "С Днём Великой Победы прошлого во имя Великой Победы будущего",
+      "description": "9 мая 1945 года — для нас это не только день освобождения от фашистской чумы, который навечно вписан в мировую историю, но и символ величайшего мужества, стойкости и несгибаемой воли советского народа.",
+      "url": "https://cosmatica.org/news/2203-s-dnyom-velikoi-pobedy-proshlogo-vo-imja-velikoi-pobedy-buduschego.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/6/6308f8a7.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=588c6253317c3ee0e6",
+      "type": "news-item",
+      "sourceCharacters": 2777,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/32-trud.html",
+  "title": "Труд",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "целесообразная деятельность, мерой которой является произ­ведение рабочего времени на полезную",
+      "spans": [
+        {
+          "text": "целесообразная деятельность, мерой которой является произ­ведение рабочего времени на полезную"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мощность",
+      "spans": [
+        {
+          "text": "мощность"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", обеспеченную по­требителем, то есть",
+      "spans": [
+        {
+          "text": ", обеспеченную по­требителем, то есть"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "свободная энергия",
+      "spans": [
+        {
+          "text": "свободная энергия"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", обеспеченная потребителем. Выражается в единицах энергии.\r\nТруд есть огонь жизни. Горит огонь - живёт человек.",
+      "spans": [
+        {
+          "text": ", обеспеченная потребителем. Выражается в единицах энергии.\r\nТруд есть огонь жизни. Горит огонь - живёт человек."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "целесообразная деятельность, мерой которой является произ­ведение рабочего времени на полезную мощность , обеспеченную по­требителем, то есть свободная энергия , обеспеченная потребителем. Выражается в единицах энергии. Труд есть огонь жизни. Горит огонь - живёт человек.",
+      "links": [
+        {
+          "title": "мощность",
+          "url": "https://cosmatica.org/glossary/104-moschnost.html"
+        },
+        {
+          "title": "свободная энергия",
+          "url": "https://cosmatica.org/glossary/50-svobodnaja-energija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 276,
+    "storedTextCharacters": 268,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32538
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 271,
+  "capturedBodyCharacters": 268,
+  "sourceTextSHA256": "5e23ede1c9dafc11f80a425a9dfe87a73c9e9482a1837a280577f712a402d765",
+  "archiveSnapshotAt": "2026-10-08T08:46:47Z"
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/202",
+  "title": "Алексей Михайлович Пухович",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/6/40c30053.jpg",
+      "alt": "Алексей Михайлович Пухович"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/a/5/4306a9db.jpg",
+      "alt": "Алексей Михайлович Пухович"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Калужского отделения РКО",
+      "spans": [
+        {
+          "text": "Председатель Калужского отделения РКО"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Выпускник ГЦОЛИФК, тренер-преподаватель по Самбо, КМС по Самбо и Дзюдо.",
+      "spans": [
+        {
+          "text": "Выпускник ГЦОЛИФК, тренер-преподаватель по Самбо, КМС по Самбо и Дзюдо."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Вице-президент Федерации джиу-джитсу Калужской области.",
+      "spans": [
+        {
+          "text": "Вице-президент Федерации джиу-джитсу Калужской области."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Генеральный директор АНО «Тропа Мужества»",
+      "spans": [
+        {
+          "text": "Генеральный директор АНО «Тропа Мужества»"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Награды: «За отличие в Воинской службе II ст» от Совмина СССР, «Генерал Армии Маргелов В.Ф.» от Командующего ВДВ, медаль «За службу на страже мира в Южной Осетии»",
+      "spans": [
+        {
+          "text": "Награды: «За отличие в Воинской службе II ст» от Совмина СССР, «Генерал Армии Маргелов В.Ф.» от Командующего ВДВ, медаль «За службу на страже мира в Южной Осетии»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Калужская область",
+      "links": [
+        {
+          "title": "Калужская область",
+          "url": "https://cosmatica.org/departments/11-kaluzhskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Председатель Калужского отделения РКО Выпускник ГЦОЛИФК, тренер-преподаватель по Самбо, КМС по Самбо и Дзюдо. Вице-президент Федерации джиу-джитсу Калужской области. Генеральный директор АНО «Тропа Мужества» Награды: «За отличие в Воинской службе II ст» от Совмина СССР, «Генерал Армии Маргелов В.Ф.» от Командующего ВДВ, медаль «За службу на страже мира в Южной Осетии»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/b/6/40c30053.jpg",
+    "https://cosmatica.org/upload/000/u35/a/5/4306a9db.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 461,
+    "storedTextCharacters": 399,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35545
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 409,
+  "capturedBodyCharacters": 399,
+  "sourceTextSHA256": "3505d1d5bf8bde907c7f345507fee3522953bbd9fd207c8574624709d0e0754a",
+  "archiveSnapshotAt": "2026-10-08T09:18:29Z"
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/739-russkoe-kosmicheskoe-obschestvo-v-dnr.html",
+  "title": "Русское космическое общество в ДНР",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "29 августа 2019 года состоялось открытие Донецкого отделения Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "29 августа 2019 года состоялось открытие Донецкого отделения Русского Космического Общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Комментарии телеканалу дали Президент РКО Гапонов Алексей Алексеевич и Председатель Донецкого отделения, ректор ДонНТУ Аноприенко Александр Яковлевич",
+      "spans": [
+        {
+          "text": "Комментарии телеканалу дали Президент РКО  "
+        },
+        {
+          "text": "Гапонов Алексей Алексеевич",
+          "href": "https://cosmatica.org/users/7"
+        },
+        {
+          "text": " и Председатель Донецкого отделения, ректор ДонНТУ Аноприенко Александр Яковлевич"
+        }
+      ],
+      "links": [
+        {
+          "text": "Гапонов Алексей Алексеевич",
+          "url": "https://cosmatica.org/users/7"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "VFLNgf9pBp4",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=VFLNgf9pBp4"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "29 августа 2019 года состоялось открытие Донецкого отделения Русского Космического Общества. Комментарии телеканалу дали Президент РКО Гапонов Алексей Алексеевич и Председатель Донецкого отделения, ректор ДонНТУ Аноприенко Александр Яковлевич",
+      "links": [
+        {
+          "title": "Гапонов Алексей Алексеевич",
+          "url": "https://cosmatica.org/users/7"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 405,
+    "storedTextCharacters": 241,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 75434
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 370,
+  "capturedBodyCharacters": 241,
+  "sourceTextSHA256": "d837e9eee47563e396525edf12d61435a8319f0f48bb44ba28158f2e736031a1",
+  "archiveSnapshotAt": "2026-10-08T08:43:14Z",
+  "publicVideoCount": 1
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/c",
+  "title": "Ц",
+  "intro": "",
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Цивилизация",
+      "url": "https://cosmatica.org/glossary/210-civilizacija.html",
+      "description": ""
+    },
+    {
+      "title": "Цельность",
+      "url": "https://cosmatica.org/glossary/203-celnost.html",
+      "description": ""
+    },
+    {
+      "title": "Цель",
+      "url": "https://cosmatica.org/glossary/14-cel.html",
+      "description": ""
+    },
+    {
+      "title": "Цель проектирования",
+      "url": "https://cosmatica.org/glossary/67-cel-proektirovanija.html",
+      "description": ""
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 28,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 33298
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 28,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "dc4d32355df4306a720bfac62466749744c2e5c6bf606a482238d1d6b2af8d88",
+  "archiveSnapshotAt": "2026-10-08T08:47:23Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 4
+}

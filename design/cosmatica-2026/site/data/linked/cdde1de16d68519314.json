@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/503-vladimir-ivanovich-vernadskii-ja-pochuvstvoval-v-sebe-vestnika-novogo-mira.html",
+  "title": "Владимир Иванович Вернадский: \"Я почувствовал в себе вестника нового мира\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Красиво рассказанная история о нежном и хрупком совершенстве природных форм, цвета, ароматов и звуков цветущей крымской весны, о божественном единстве жизни во всех её проявлениях, об эволюционном, созидающем потоке, об источнике творческой мысли и душевных сил.",
+      "spans": [
+        {
+          "text": "Красиво рассказанная история о нежном и хрупком совершенстве природных форм, цвета, ароматов и звуков цветущей  крымской весны, о божественном единстве жизни во всех её проявлениях, об эволюционном, созидающем потоке,  об источнике творческой мысли и душевных сил."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сюжет фильма основан на личных дневниках Великого русского ученого В.И. Вернадского о крымской весне 1920 г., когда впервые было цельно сформулировано революционное учение о живом веществе и человечестве, когда зародились истоки ноосферной науки и началась новая эпоха в эволюции человеческого сознания.",
+      "spans": [
+        {
+          "text": "Сюжет фильма основан на личных дневниках Великого русского ученого  В.И. Вернадского о крымской весне 1920 г., когда впервые было цельно сформулировано революционное учение о живом веществе и человечестве, когда зародились истоки ноосферной науки и началась новая эпоха в эволюции человеческого сознания."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Видеофильм подготовлен Крымским отделением Русского Космического Общества на базе Института арома-фитопсихологии FIOLET ( http://fiolet.com.ru/institut-afp ).",
+      "spans": [
+        {
+          "text": "Видеофильм подготовлен Крымским отделением Русского Космического Общества на базе Института арома-фитопсихологии FIOLET ("
+        },
+        {
+          "text": "http://fiolet.com.ru/institut-afp",
+          "href": "https://www.youtube.com/redirect?v=0eXsjPiuC6Q&redir_token=pm5XdmMkNqhLmGivV5n-_bqoSwh8MTU1MjM5NTkyMkAxNTUyMzA5NTIy&event=video_description&q=http%3A%2F%2Ffiolet.com.ru%2Finstitut-afp"
+        },
+        {
+          "text": "). "
+        }
+      ],
+      "links": [
+        {
+          "text": "http://fiolet.com.ru/institut-afp",
+          "url": "https://www.youtube.com/redirect?v=0eXsjPiuC6Q&redir_token=pm5XdmMkNqhLmGivV5n-_bqoSwh8MTU1MjM5NTkyMkAxNTUyMzA5NTIy&event=video_description&q=http%3A%2F%2Ffiolet.com.ru%2Finstitut-afp"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Отделения РКО и научный руководитель института - Лариса Ивановна Брайко.",
+      "spans": [
+        {
+          "text": "Председатель Отделения РКО и научный руководитель института - Лариса Ивановна Брайко."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "0eXsjPiuC6Q",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=0eXsjPiuC6Q"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Красиво рассказанная история о нежном и хрупком совершенстве природных форм, цвета, ароматов и звуков цветущей крымской весны, о божественном единстве жизни во всех её проявлениях, об эволюционном, созидающем потоке, об источнике творческой мысли и душевных сил. Сюжет фильма основан на личных дневниках Великого русского ученого В.И. Вернадского о крымской весне 1920 г., когда впервые было цельно сформулировано революционное учение о живом веществе и человечестве, когда зародились истоки ноосферной науки и началась новая эпоха в эволюции человеческого сознания. Видеофильм подготовлен Крымским отделением Русского Космического Общества на базе Института арома-фитопсихологии FIOLET ( http://fiolet.com.ru/institut-afp ). Председатель Отделения РКО и научный руководитель института - Лариса Ивановна Брайко.",
+      "links": [
+        {
+          "title": "http://fiolet.com.ru/institut-afp",
+          "url": "https://www.youtube.com/redirect?v=0eXsjPiuC6Q&redir_token=pm5XdmMkNqhLmGivV5n-_bqoSwh8MTU1MjM5NTkyMkAxNTUyMzA5NTIy&event=video_description&q=http%3A%2F%2Ffiolet.com.ru%2Finstitut-afp"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 907,
+    "storedTextCharacters": 808,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 75973
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 832,
+  "capturedBodyCharacters": 808,
+  "sourceTextSHA256": "6934d630418f233d21fb377b6f4079ee0aa703277d8f33603c699afa784bb565",
+  "archiveSnapshotAt": "2026-10-08T08:42:00Z",
+  "publicVideoCount": 1
+}

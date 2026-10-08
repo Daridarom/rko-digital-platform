@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 87,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Чтобы космонавтом стать, надо очень много знать",
+      "description": "Ждут нас быстрые ракеты Для полетов на планеты. На какую захотим, На такую полетим. Если в космос мы хотим, Значит, скоро полетим! Самым дружным будет наш, Наш веселый экипаж.",
+      "url": "https://cosmatica.org/news/1034-chtoby-kosmonavtom-stat-nado-ochen-mnogo-znat.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/e/chtoby-kosmonavtom-stat-nado-ochen-mnogo-znat-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6c81dda00ae5c52c9f",
+      "type": "news-item",
+      "sourceCharacters": 3226,
+      "verified": false
+    },
+    {
+      "title": "Издательская деятельность РКО",
+      "description": "Идеи П.Г. Кузнецова и проблема устойчивого развития в системе природа—общество—человек.",
+      "url": "https://cosmatica.org/articles/1033-izdatelskaja-dejatelnost-rko.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/6/idei-kuznecova-obl.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=e4be0d17e95ed6ca04",
+      "type": "article",
+      "sourceCharacters": 11513,
+      "verified": false
+    },
+    {
+      "title": "Гагарин полетел",
+      "description": "Здравствуйте, дорогие наши соотечественники и соотечественницы!",
+      "url": "https://cosmatica.org/news/1033-gagarin-poletel.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/2/7edf2044.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e17ef2011bd10c5ad9",
+      "type": "news-item",
+      "sourceCharacters": 1453,
+      "verified": false
+    },
+    {
+      "title": "Научно-образовательная деятельность РКО",
+      "description": "\"Твой высший потенциал. Руководство к действию\"",
+      "url": "https://cosmatica.org/articles/1032-nauchno-obrazovatelnaja-dejatelnost-rko.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/b/kniga-masl.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=e70441883f55d4e235",
+      "type": "article",
+      "sourceCharacters": 14018,
+      "verified": false
+    },
+    {
+      "title": "Практические вопросы проектирования цифровых платформ и цифровых экосистем",
+      "description": "7 апреля 2021 года в Российском экономическом университете им. Г.В. Плеханова состоялось заседание круглого стола «Цифровая среда», в рамках которого генеральный конструктор космоноосферных пространств Русского Космического Общества, к.т.н. Меркулов Александр Алексеевич выступил с докладом \"Практические вопросы проектирования цифровых платформ и цифровых экосистем\".",
+      "url": "https://cosmatica.org/news/1032-prakticheskie-voprosy-proektirovanija-cifrovyh-platform-i-cifrovyh-ekosistem.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/3/prakticheskie-voprosy-proektirovanija-cifrovyh-platform-i-cifrovyh.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=18a333795af31c16b3",
+      "type": "news-item",
+      "sourceCharacters": 841,
+      "verified": false
+    },
+    {
+      "title": "Конференции и семинары",
+      "description": "Состоялся научно-практический семинар на тему «Введение в проблему проектного управления устойчивым развитием».",
+      "url": "https://cosmatica.org/articles/1031-konferencii-i-seminary.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=947983b9924a775562",
+      "type": "article",
+      "sourceCharacters": 10264,
+      "verified": false
+    },
+    {
+      "title": "Книга дня сегодня...",
+      "description": "Автор: Феоктистов Константин Петрович, Советский космонавт, лётчик-космонавт СССР, Герой Советского Союза, доктор технических наук, профессор. Инженер-разработчик большого числа советских космических кораблей и орбитальных станций.",
+      "url": "https://cosmatica.org/news/1031-kniga-dnja-segodnja.html",
+      "image": "https://cosmatica.org/upload/003/u395/5/9/kniga-dnja-segodnja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fb404488afc08cff42",
+      "type": "news-item",
+      "sourceCharacters": 2466,
+      "verified": false
+    },
+    {
+      "title": "Космос далёкий и близкий",
+      "description": "Космоземляне - жители планеты Земля, осознающие себя частью Жизни как космического явления, способствующие соэволюционному развитию разумной жизни человеческой цивилизации в космическом пространстве.",
+      "url": "https://cosmatica.org/articles/1030-kosmos-dalyokii-i-blizkii.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/f/snimok-ekrana-2020-06-03-v-20-16-36.png",
+      "kind": "article",
+      "href": "view.html?p=article&ref=8c7ee8705f868d7998",
+      "type": "article",
+      "sourceCharacters": 38307,
+      "verified": false
+    },
+    {
+      "title": "Он первым на планете подняться к звёздам смог!",
+      "description": "На выставке были представлены редкие фото с информацией о подготовке и полёте Ю.А. Гагарина в космос и о его жизни. Учащиеся школы рассмотрели Гагарина во время тренировок по парашютным прыжкам; прочувствовали вместе с ним волнующие последние минуты на площадке у лифта перед посадкой и перед стартом в космическом корабле.",
+      "url": "https://cosmatica.org/news/1030-on-pervym-na-planete-podnjatsja-k-zvyozdam-smog.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/5/on-pervym-na-planete-podnjatsja-k-zvyozdam-smog-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a1a975ea89507a4236",
+      "type": "news-item",
+      "sourceCharacters": 4631,
+      "verified": false
+    },
+    {
+      "title": "Сохраняя память: Гагарин и Серёгин",
+      "description": "27 марта памятные мероприятия прошли на месте гибели первого космонавта Земли.",
+      "url": "https://cosmatica.org/articles/1029-sohranjaja-pamjat-gagarin-i-seryogin.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/3/logo.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=b7b6f6aa48ee69a2cd",
+      "type": "article",
+      "sourceCharacters": 6940,
+      "verified": false
+    },
+    {
+      "title": "Послание воде",
+      "description": "Все мы знаем, какое огромное значение для жизни человека и всего живого на земле имеет вода. Каждый день, каждую секунду мы пользуемся её богатством, но не всегда мы относимся к ним бережно и с заботой. Чтобы напомнить всем о значении воды, без которой не было бы жизни на планете Земля, в городе Торезе в марте 2021г. был проведен городской литературный конкурс «Послание Воде». Учредителями выступило Донецкое отделени",
+      "url": "https://cosmatica.org/news/1029-poslanie-vode.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/f/e62c7c39.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a0b223d0113f32ad2a",
+      "type": "news-item",
+      "sourceCharacters": 4109,
+      "verified": false
+    },
+    {
+      "title": "75 лет со дня Великой Победы",
+      "description": "75 лет назад наш народ отстоял своё право на жизнь по собственной вере. Он отдал за это высокую плату. Он победил.",
+      "url": "https://cosmatica.org/articles/1028-75-let-so-dnja-velikoi-pobedy.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/7/lyudi-voennoi-aviacii.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=758e1148216b661dd5",
+      "type": "article",
+      "sourceCharacters": 8532,
+      "verified": false
+    },
+    {
+      "title": "\"Наш Гагарин\" продолжает полёт",
+      "description": "Первыми её приняли в макеевской МОУ \"ГИМНАЗИЯ\". Где она проходила под названием «Сто восемь минут и вся жизнь ». На основе экспозиции педагоги проводили с ребятами занятия, рассказывая о человеке, открывшем землянам дорогу в космос.",
+      "url": "https://cosmatica.org/news/1028-nash-gagarin-prodolzhaet-polyot.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/4/d455c993.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2e9025864cf14d964e",
+      "type": "news-item",
+      "sourceCharacters": 1831,
+      "verified": false
+    },
+    {
+      "title": "Советские военно-воздушные силы в ВОВ 1941-1945 гг.",
+      "description": "Советские военно-воздушные силы в Великой Отечественной войне 1941-1945 гг.",
+      "url": "https://cosmatica.org/articles/1027-sovetskie-voenno-vozdushnye-sily-v-vov-1941-1945-gg.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/7/letchik-maresev-a-p.png",
+      "kind": "article",
+      "href": "view.html?p=article&ref=703a56a01a7329c0f2",
+      "type": "article",
+      "sourceCharacters": 10557,
+      "verified": false
+    },
+    {
+      "title": "Книга дня сегодня...",
+      "description": "Автор: Гачева Анастасия Георгиевна, специалист по истории русской философии и русскому космизму, литературовед, доктор филологических наук.",
+      "url": "https://cosmatica.org/news/1027-kniga-dnja-segodnja.html",
+      "image": "https://cosmatica.org/upload/003/u395/9/3/kniga-dnja-segodnja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=66f0f969f70d5c0581",
+      "type": "news-item",
+      "sourceCharacters": 2021,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

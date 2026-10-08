@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/b",
+  "title": "Б",
+  "intro": "",
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Биотворческая система",
+      "url": "https://cosmatica.org/glossary/208-biotvorcheskaja-sistema.html",
+      "description": ""
+    },
+    {
+      "title": "База знаний",
+      "url": "https://cosmatica.org/glossary/161-baza-znanii.html",
+      "description": ""
+    },
+    {
+      "title": "База научных знаний",
+      "url": "https://cosmatica.org/glossary/160-baza-nauchnyh-znanii.html",
+      "description": ""
+    },
+    {
+      "title": "Базовый принцип устойчивого развития в единицах мощности",
+      "url": "https://cosmatica.org/glossary/159-bazovyi-princip-ustoichivogo-razvitija-v-edinicah-moschnosti.html",
+      "description": ""
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 112,
+    "storedTextCharacters": 107,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 34278
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 112,
+  "capturedBodyCharacters": 107,
+  "sourceTextSHA256": "6ed6f2bebed633b663b7710bd2c97a05be7356282383eb5a6acd9e4e742036d6",
+  "archiveSnapshotAt": "2026-10-08T08:47:23Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 4
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/115-koefficient-sovershenstva-tehnologii-kst.html",
+  "title": "Коэффициент совершенства технологии (КСТ)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это КПД открытой системы, который определяется отношением полезной мощности на выходе системы к полной мощности на ее входе.",
+      "spans": [
+        {
+          "text": "это КПД открытой системы, который определяется отношением полезной мощности на выходе системы к полной мощности на ее входе."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это КПД открытой системы, который определяется отношением полезной мощности на выходе системы к полной мощности на ее входе.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 166,
+    "storedTextCharacters": 124,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32102
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 124,
+  "capturedBodyCharacters": 124,
+  "sourceTextSHA256": "e4abc622cc232c031d2827eeaf25362d06ce7f9da73eef46c72562c4d5e27acd",
+  "archiveSnapshotAt": "2026-10-08T08:46:24Z"
+}

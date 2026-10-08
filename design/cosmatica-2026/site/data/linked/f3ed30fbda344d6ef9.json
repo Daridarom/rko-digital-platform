@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/509-metodologicheskie-osnovanija-noosferno-ori-entirovannogo-sinteza-nauk-v-xxi-veke.html",
+  "title": "Методологические основания ноосферно-ори-ентированного синтеза наук в XXI веке",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/6/7/metodologicheskie-osnovanija-noosferno-ori-entirovannogo-sinteza-n.jpg",
+      "alt": "Методологические основания ноосферно-ори-ентированного синтеза наук в XXI веке"
+    },
+    {
+      "type": "paragraph",
+      "text": "Работа",
+      "spans": [
+        {
+          "text": "Работа"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "А.И. Субетто «Методологические основания ноосферно-ориентированного синтеза наук в XXI веке» представляет собой научный доклад, с которым он выступил на заседании Московского отделения Ноосферной общественной академии наук 15 мая 2013 года во Всероссийском Центре уровня жизни. Книга адресована к каждому человеку, кто интересуется проблемой развития учения о ноосфере В.И. Вернадского",
+      "spans": [
+        {
+          "text": "А.И. Субетто «Методологические основания ноосферно-ориентированного синтеза наук в XXI веке» представляет собой научный доклад, с которым он выступил на заседании Московского отделения Ноосферной общественной академии наук 15 мая 2013 года во Всероссийском Центре уровня жизни. Книга адресована к каждому человеку, кто интересуется проблемой развития учения о ноосфере В.И. Вернадского"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Субетто А.И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Работа А.И. Субетто «Методологические основания ноосферно-ориентированного синтеза наук в XXI веке» представляет собой научный доклад, с которым он выступил на заседании Московского отделения Ноосферной общественной академии наук 15 мая 2013 года во Всероссийском Центре уровня жизни. Книга адресована к каждому человеку, кто интересуется проблемой развития учения о ноосфере В.И. Вернадского",
+      "links": [
+        {
+          "title": "Работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 3 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/4932/83742f06ba36061babf32d034ebf3707"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/6/7/metodologicheskie-osnovanija-noosferno-ori-entirovannogo-sinteza-n.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/4932/83742f06ba36061babf32d034ebf3707"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 510,
+    "storedTextCharacters": 391,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40730
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 431,
+  "capturedBodyCharacters": 391,
+  "sourceTextSHA256": "aaab6c1db722a46d392f21bf29c20f71fb3cb774e01796633ce39430b66871a7",
+  "archiveSnapshotAt": "2026-10-08T08:50:38Z"
+}

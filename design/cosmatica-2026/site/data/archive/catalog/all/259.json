@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 259,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Размерность математическая",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/61-razmernost-matematicheskaja.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=effffd714626dc0b36",
+      "type": "article",
+      "sourceCharacters": 38,
+      "verified": false
+    },
+    {
+      "title": "А.Е.Петров - Тензорный метод двойственных систем",
+      "description": "Изложены методологические, научные, математические основы тензорного метода двойственных сетей, который обеспечивает моделирование, расчет и анализ поведения сложных технических и социально-экономических систем с переменной структурой. Математической основой является",
+      "url": "https://cosmatica.org/library/61-a-e-petrov-tenzornyi-metod-dvoistvennyh-sistem.html",
+      "image": "https://cosmatica.org/upload/000/u1/22/04/a-e-petrov-tenzornyi-metod-dvoistvennyh-sistem-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=bccf7fb2e2479341ab",
+      "type": "book",
+      "sourceCharacters": 2472,
+      "verified": false
+    },
+    {
+      "title": "\"Песенное слово\" - новые голоса России",
+      "description": "На первый взгляд тема литературного конкурса никак не связана с целями и задачами РКО. Однако это далеко не так. Ведь цель нашей организации заключается не только в содействии и распространении идей о Русском космизме, космосе и космонавтике. В первую очередь, мы видим свою задачу в формировании в человеке творческого, созидательного начала. Ведь труд и творчество по своей природе космичны.",
+      "url": "https://cosmatica.org/news/61-pesennoe-slovo-novye-golosa-rossi.html",
+      "image": "https://cosmatica.org/upload/000/u1/3f/2c/pesennoe-slovo-novye-golosa-rossi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=38a74c8e1e5a3437e6",
+      "type": "news-item",
+      "sourceCharacters": 1351,
+      "verified": false
+    },
+    {
+      "title": "Выпуск № 14. 2018, октябрь",
+      "description": "Вы держите в руках 14-й, специальный выпуск газеты, посвящённый знаменательной для нашей страны дате. 15 ноября 1988 года свой легендарный полёт совершил многоразовый орбитальный корабль-ракетоплан «Буран», и в этом году мы отмечаем тридцатилетие данного события!",
+      "url": "https://cosmatica.org/newspaper/61-vypusk-14-2018-oktjabr.html",
+      "image": "https://cosmatica.org/upload/000/u26/18/17/123november.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=7b88fdac5fa9401f3c",
+      "type": "article",
+      "sourceCharacters": 7597,
+      "verified": false
+    },
+    {
+      "title": "Общественные Гудилинские слушания. #Сохраняя память: Генерал \"Буран\"",
+      "description": "Генерал-майор Владимир Евгеньевич Гудилин (08.04.1938 – 29.10.2015) — руководитель подготовки и пуска ракеты-носителя «Энергия», ракетно-космической транспортной системы «Энергия-Буран», доктор технических наук, почётный гражданин Байконура, академик Российской академии космонавтики им. К.Э.Циолковского. «Гудилинские общественные слушания» являются частью проекта «Генерал Буран» направленного на увековечивание памяти",
+      "url": "https://cosmatica.org/poster/61-obschestvennye-gudilinskie-slushanija.html",
+      "image": "https://cosmatica.org/upload/000/u37/07/10/obschestvennye-gudilinskie-slushanija-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=5713ea697322c4d38f",
+      "type": "poster-item",
+      "sourceCharacters": 2415,
+      "verified": false
+    },
+    {
+      "title": "Механизм ускорения Солнечного ветра раскрывает тайну строения Солнца и планетной системы",
+      "description": "A mechanism for accelerating the Solar wind reveals the secret structure of the Sun and the planetary system",
+      "url": "https://cosmatica.org/articles/60-mehanizm-uskorenija-solnechnogo-vetra-raskryvaet-tainu-stroenija-solnca-i-planetnoi-sistemy.html",
+      "image": "https://cosmatica.org/upload/000/u19/0c/98/01-1.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=2706eaf759a56ebe30",
+      "type": "article",
+      "sourceCharacters": 59105,
+      "verified": false
+    },
+    {
+      "title": "Размерность физическая",
+      "description": "-размерность – это степени длины и времени пространственно-временной величины. Для обозначения физической размерно­сти используются квадратные скобки [ ], введенные Дж.Максвеллом (1855), тем самым обращая внимание на качественнуюопределенность физической величины.",
+      "url": "https://cosmatica.org/glossary/60-razmernost-fizicheskaja.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=6c7c8610f0f67b6257",
+      "type": "article",
+      "sourceCharacters": 301,
+      "verified": false
+    },
+    {
+      "title": "Б.Е.Большаков - Проектное управление устойчивым инновационным развитием",
+      "description": "В учебном пособии излагаются основы теории, методологии и",
+      "url": "https://cosmatica.org/library/60-b-e-bolshakov-proektnoe-upravlenie-ustoichivym-innovacionnym-razvitiem.html",
+      "image": "https://cosmatica.org/upload/000/u1/21/b8/b-e-bolshakov-proektnoe-upravlenie-ustoichivym-innovacionnym-ra.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=cc31de325c3eec19fd",
+      "type": "book",
+      "sourceCharacters": 1824,
+      "verified": false
+    },
+    {
+      "title": "Выпуск № 13. 2018, сентябрь",
+      "description": "«Сорок шесть лет тому назад на окраине города Ржева я убил человека. Командуя взводом разведки, не сумев взять языка. Мы забрали документы убитого. У него был партийный билет члена Национал-Социалистической Немецкой Рабочей Партии. Имея 18 лет от роду, мне было очень трудно понять, кто и против кого воюет? Кто и что защищает? И мы, и немцы воюем за Социализм, и у нас, и у них Партия Рабочая? В этом случае уж совсем н",
+      "url": "https://cosmatica.org/newspaper/60-vypusk-13-2018-sentjabr.html",
+      "image": "https://cosmatica.org/upload/000/u26/5d/2f/bezymjannyi.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=faf86e406a324568cb",
+      "type": "article",
+      "sourceCharacters": 5900,
+      "verified": false
+    },
+    {
+      "title": "Пожелание Римскому клубу",
+      "description": "Разум должен управлять духовной действительностью людей новой эпохи",
+      "url": "https://cosmatica.org/articles/59-pozhelanie-rimskomu-klubu.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=ac5d2c187604c40b09",
+      "type": "article",
+      "sourceCharacters": 72849,
+      "verified": false
+    },
+    {
+      "title": "Реализованная или экономическая возможность",
+      "description": "это суммарный про­дукт, произведенный за определенное",
+      "url": "https://cosmatica.org/glossary/59-realizovannaja-ili-ekonomicheskaja-vozmozhnost.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=a2709cbe1a487f5a07",
+      "type": "article",
+      "sourceCharacters": 122,
+      "verified": false
+    },
+    {
+      "title": "Открытие выставки «Всё выше и выше!»",
+      "description": "Рад вам сообщить о благополучном завершении работы, к которому мы шли с 2017 года, когда общероссийский проект \"Россия - моя история\" начал обретать черты практического воплощения.",
+      "url": "https://cosmatica.org/news/59-otkrytie-vystavki-vsyo-vyshe-i-vyshe.html",
+      "image": "https://cosmatica.org/upload/000/u21/cf/88/otkrytie-vystavki-vsyo-vyshe-i-vyshe-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=02a6aea5ccd5878a90",
+      "type": "news-item",
+      "sourceCharacters": 1850,
+      "verified": false
+    },
+    {
+      "title": "Открытие Секции Методов синтеза междисциплинарных знаний при Научно-техническом совете РКО",
+      "description": "Уважаемые члены Русского Космического Общества и те, кто ещё не успел ими стать!",
+      "url": "https://cosmatica.org/poster/59-otkrytie-sekcii-metodov-sinteza-mezhdisciplinarnyh-znanii-pri-nauchno-tehnicheskom-sovete-rko.html",
+      "image": "https://cosmatica.org/upload/000/u8/12/7e/sekcii-metodov-sinteza-mezhdisciplinarnyh-znanii-pri-nauchno-tehni.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=0a2664710d3b53e752",
+      "type": "poster-item",
+      "sourceCharacters": 948,
+      "verified": false
+    },
+    {
+      "title": "Реальная возможность",
+      "description": "суммарное производство товаров и услуг за определенное",
+      "url": "https://cosmatica.org/glossary/58-realnaja-vozmozhnost.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=87e39c2ad5023519d4",
+      "type": "article",
+      "sourceCharacters": 81,
+      "verified": false
+    },
+    {
+      "title": "Выпуск № 12. 2018, август",
+      "description": "Научной базой Русского Космического Общества (РКО) является «Международная научная школа устойчивого развития им. П.Г.Кузнецова» и кафедра устойчивого инновационного развития Государственного Университета Дубна. Президентом РКО является заведующий кафедрой, академик РАЕН, доктор технических наук, профессор - Большаков Борис Евгеньевич.",
+      "url": "https://cosmatica.org/newspaper/58-vypusk-12-2018-avgust.html",
+      "image": "https://cosmatica.org/upload/000/u26/07/4b/bezymjannyi.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=9dd129bb408faed52d",
+      "type": "article",
+      "sourceCharacters": 7915,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/198-analiz-suschestvuyuschih-uslovii-formirovanija-processov-ustoichivogo-razvitija-v-rossiiskoi-fed.html",
+  "title": "Анализ существующих условий формирования процессов устойчивого развития в Российской Федерации и Республике Беларусь и возможности интеграции",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/7e45d075c8b20dbd33ef84.webp",
+      "alt": "Анализ существующих условий формирования процессов устойчивого развития в Российской Федерации и Республике Беларусь и возможности интеграции"
+    },
+    {
+      "type": "paragraph",
+      "text": "В работе выполняется анализ существующих условий формирования процессов устойчивого развития в Российской Федерации и Республике Беларусь, рассматривается возможность их интеграции. Исследование выполнено при финансовой поддержке РГНФ в рамках научно-исследовательского проекта РГНФ №07-03-90306а/Б.",
+      "spans": [
+        {
+          "text": "В работе выполняется анализ существующих условий формирования процессов устойчивого развития в Российской Федерации и Республике Беларусь, рассматривается возможность их интеграции. Исследование выполнено при финансовой поддержке РГНФ в рамках научно-исследовательского проекта РГНФ №07-03-90306а/Б."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Рябкова С.А., Волнистая М.Г.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В работе выполняется анализ существующих условий формирования процессов устойчивого развития в Российской Федерации и Республике Беларусь, рассматривается возможность их интеграции. Исследование выполнено при финансовой поддержке РГНФ в рамках научно-исследовательского проекта РГНФ №07-03-90306а/Б.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 119 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1466/aa12d63d9eb2a49f22fc4904a87f4994"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/7e45d075c8b20dbd33ef84.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1466/aa12d63d9eb2a49f22fc4904a87f4994"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 498,
+    "storedTextCharacters": 299,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 41394
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 356,
+  "capturedBodyCharacters": 299,
+  "sourceTextSHA256": "5b8dc61754084ef42e0788087b5509bea6d59989e1a68256a8ea6433aeb0d8cc",
+  "archiveSnapshotAt": "2026-10-08T08:47:59Z"
+}

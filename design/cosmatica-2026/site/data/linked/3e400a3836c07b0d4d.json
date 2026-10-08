@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/282",
+  "title": "Валерий Николаевич Седов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u282/0/f/f409b495.jpg",
+      "alt": "Валерий Николаевич Седов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u282/b/6/29922747.jpg",
+      "alt": "Валерий Николаевич Седов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Высшее медицинское образование. Несколько запатентованных изобретений. Заведующий лабораторией отдела экспериментальной техники АО НПП «РадиоСигнал». И.о. руководителя Совета по биологии и медицине РКО.",
+      "spans": [
+        {
+          "text": "Высшее медицинское образование. Несколько запатентованных изобретений. Заведующий лабораторией отдела экспериментальной техники АО НПП «РадиоСигнал». И.о. руководителя Совета по биологии и медицине РКО."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Высшее медицинское образование. Несколько запатентованных изобретений. Заведующий лабораторией отдела экспериментальной техники АО НПП «РадиоСигнал». И.о. руководителя Совета по биологии и медицине РКО.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u282/0/f/f409b495.jpg",
+    "https://cosmatica.org/upload/002/u282/b/6/29922747.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 262,
+    "storedTextCharacters": 235,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34379
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 212,
+  "capturedBodyCharacters": 235,
+  "sourceTextSHA256": "54169b457d46ef40becb14230f7a254f991e32809b4fc6073968a2bd77a34772",
+  "archiveSnapshotAt": "2026-10-08T09:19:00Z"
+}

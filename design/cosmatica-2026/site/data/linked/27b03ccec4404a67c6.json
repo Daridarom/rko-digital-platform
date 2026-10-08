@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/386",
+  "title": "Валерий Абрамович Шапиро",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/0/7/43d58ead.jpg",
+      "alt": "Валерий Абрамович Шапиро"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/f/918a84b3.jpg",
+      "alt": "Валерий Абрамович Шапиро"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 6"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Научный руководитель проекта «Технологии ХБО», член союза литераторов РФ, академик РАЕН, автор книг, открытий и изобретений. Более 20 патентов.",
+      "spans": [
+        {
+          "text": "Научный руководитель проекта «Технологии ХБО», член союза литераторов РФ, академик РАЕН, автор книг, открытий и изобретений. Более 20 патентов."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "www.homobiocycle.ru",
+      "spans": [
+        {
+          "text": "www.homobiocycle.ru"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Научный руководитель проекта «Технологии ХБО», член союза литераторов РФ, академик РАЕН, автор книг, открытий и изобретений. Более 20 патентов. www.homobiocycle.ru",
+      "links": [
+        {
+          "title": "www.homobiocycle.ru",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fwww.homobiocycle.ru"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/0/7/43d58ead.jpg",
+    "https://cosmatica.org/upload/000/u35/b/f/918a84b3.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 253,
+    "storedTextCharacters": 206,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35701
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 191,
+  "capturedBodyCharacters": 206,
+  "sourceTextSHA256": "63d63c62ef5aae24ccafcb1543a09b0c83fe55d64dd18891545e88e9825ebb1d",
+  "archiveSnapshotAt": "2026-10-08T09:19:29Z"
+}

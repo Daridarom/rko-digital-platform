@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1099-vstupitelnaja-chast-konferencii-glava-rko-gaponov-a-a-kosmonavt-tokarev-v-i.html",
+  "title": "Вступительная часть конференции. Глава РКО Гапонов А.А., космонавт Токарев В.И.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Ноосферный Союз 2117",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Приветствие Главы РКО Алексея Алексеевича Гапонова",
+      "spans": [
+        {
+          "text": "Приветствие Главы РКО Алексея Алексеевича Гапонова "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Приветствие лётчика-космонавта, Героя России, Валерия Ивановича Токарева",
+      "spans": [
+        {
+          "text": "Приветствие  лётчика-космонавта, Героя России, Валерия Ивановича Токарева "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Доклад Гапонова А.А. \"О целях и целесообразности развития системы Природа-Общество- Человек. Императив космического прорыва\"",
+      "spans": [
+        {
+          "text": "Доклад  Гапонова А.А. \"О целях и целесообразности развития системы  Природа-Общество- Человек. Императив космического прорыва\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+      "spans": [
+        {
+          "text": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+          "href": "https://cosmatica.org/news/890-molodyozh-rossii-v-kosmicheskom-buduschem-chelovechestva.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+          "url": "https://cosmatica.org/news/890-molodyozh-rossii-v-kosmicheskom-buduschem-chelovechestva.html"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "S0VXCCumriU",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=S0VXCCumriU"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Приветствие Главы РКО Алексея Алексеевича Гапонова Приветствие лётчика-космонавта, Героя России, Валерия Ивановича Токарева Доклад Гапонова А.А. \"О целях и целесообразности развития системы Природа-Общество- Человек. Императив космического прорыва\" https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+      "links": [
+        {
+          "title": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+          "url": "https://cosmatica.org/news/890-molodyozh-rossii-v-kosmicheskom-buduschem-chelovechestva.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 591,
+    "storedTextCharacters": 320,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 76647
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 489,
+  "capturedBodyCharacters": 320,
+  "sourceTextSHA256": "ebfee766f0a3b77a71d228ce538ac202c11d867179c1f2131adf981e75dbabb5",
+  "archiveSnapshotAt": "2026-10-08T08:38:15Z",
+  "publicVideoCount": 1
+}

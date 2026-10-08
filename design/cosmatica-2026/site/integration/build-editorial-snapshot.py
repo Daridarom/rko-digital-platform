@@ -151,7 +151,19 @@ def blocks(root,url):
  allowed={'h2','h3','h4','p','blockquote','ul','ol','img','table','hr'}
  output=[]
  for node in clone.descendants:
-  if not isinstance(node,Tag) or node.name not in allowed:continue
+  if not isinstance(node,Tag):continue
+  # Legacy CMS stores long biographies, descriptions and partner text as raw
+  # text in a .field.ft_text .value div with <br> breaks, not <p> tags.
+  # Do not silently lose thousands of characters when converting to blocks.
+  if node.name=='div' and 'value' in node.get('class',[]):
+   field=node.find_parent('div',class_=lambda c:c and ('ft_text' in c.split() or 'ft_html' in c.split() or 'f_bio' in c.split()))
+   if field and not node.select('p,h2,h3,h4,blockquote,ul,ol,table'):
+    raw=node.get_text('\\n',strip=True)
+    chunks=[re.sub(r'\\s+',' ',x).strip() for x in re.split(r'\\n+',raw)]
+    for chunk in chunks:
+     if chunk:output.append({'type':'paragraph','text':chunk,'spans':[{'text':chunk}]})
+    continue
+  if node.name not in allowed:continue
   if node.name!='img' and node.find_parent(list(allowed)) is not None:continue
   converted=convert_block(node,url)
   if converted:output.append(converted)
@@ -217,24 +229,56 @@ def fields(root,url):
    'image':image_of(el,url)})
  return out
 
+def video_blocks(root,source_url):
+ """Keep approved public video embeds as secure lazy references, never media copies."""
+ from urllib.parse import parse_qs
+ trusted={'cosmovid.ru','radovid.ru','bkvid.ru','rutube.ru',
+          'vkvideo.ru','vk.com','vk.ru','video.nikatv.ru'}
+ result=[];seen=set()
+ for frame in root.select('iframe[src]'):
+  uri=abs_url(frame.get('src'),source_url)
+  if not uri:continue
+  parts=urlparse(uri)
+  host=(parts.hostname or '').lower()
+  if parts.scheme!='https' or parts.username or parts.password or parts.port:continue
+  title=(frame.get('title') or 'Видео РКО').strip()[:160]
+  if host in ('youtube.com','www.youtube.com','www.youtube-nocookie.com'):
+   match=re.fullmatch(r'/embed/([a-zA-Z0-9_-]{11})/?',parts.path)
+   if not match:continue
+   vid=match.group(1);key='youtube:'+vid
+   record={'type':'video','platform':'youtube','videoId':vid,
+           'title':title,'sourceUrl':'https://www.youtube.com/watch?v='+vid}
+  elif host in trusted:
+   path=parts.path
+   if host in ('cosmovid.ru','radovid.ru','bkvid.ru'):
+    valid=re.fullmatch(r'/videos/embed/[a-f0-9-]{36}/?',path,re.I) is not None
+   elif host=='rutube.ru':
+    valid=re.fullmatch(r'/play/embed/[a-zA-Z0-9_-]{12,}/?',path) is not None
+   elif host in ('vkvideo.ru','vk.com','vk.ru'):
+    params=parse_qs(parts.query)
+    valid=(path=='/video_ext.php' and re.fullmatch(r'-?\d+',params.get('oid',[''])[0]) is not None and
+           re.fullmatch(r'\d+',params.get('id',[''])[0]) is not None)
+   else:
+    valid=re.fullmatch(r'/video/[a-zA-Z0-9_-]+/?',path) is not None
+   if not valid:continue
+   key=uri
+   record={'type':'video','platform':host.split('.')[0],'embedUrl':uri,
+           'title':title,'sourceUrl':uri}
+  else:continue
+  if key in seen:continue
+  seen.add(key);result.append(record)
+ return result
+
 def snapshot(url,kind):
  response=fetch(url)
- soup=strip_technical(BeautifulSoup(response.text,'html.parser'))
+ raw=BeautifulSoup(response.text,'html.parser')
+ videos=video_blocks(editorial_root(raw),response.url)
+ soup=strip_technical(raw)
  root=editorial_root(soup)
  title=(clean_text(soup.select_one('#controller_wrap h1')) or
         clean_text(root.select_one('h1')) or clean_text(soup.select_one('title')) or kind)
  body=direction_blocks(root,response.url) if kind=='direction' else blocks(root,response.url)
- # The homepage stores its editorial sections in separate widgets, not
- # paragraphs inside the normal controller. Preserve their visible text.
- home_widgets=[]
- if kind=='home':
-  home_widgets=[w for w in soup.select('#body .widget') if len(clean_text(w))>=100]
-  for widget in home_widgets:
-   text=clean_text(widget)
-   heading=widget.select_one('.widget_header,.widget_title,h2,h3')
-   label=clean_text(heading) if heading else text[:55]
-   body.append({'type':'heading','level':2,'text':label})
-   body.append({'type':'paragraph','text':text,'spans':[{'text':text}]})
+ body.extend(videos)
  gallery=[]
  for element in root.select('img[src],.photo,[style*="background-image"]'):
   ref=image_of(element,response.url)
@@ -248,7 +292,7 @@ def snapshot(url,kind):
    'editorialVerified':False}
  stored=sum(len(b.get('text',''))+sum(map(len,b.get('items',[]))) for b in body)
  content['sourceEvidence']={
-   'http':response.status_code,'sourceTextCharacters':(sum(len(clean_text(w)) for w in home_widgets) if kind=='home' else len(clean_text(root))),
+   'http':response.status_code,'sourceTextCharacters':len(clean_text(root)),
    'storedTextCharacters':stored,'sourceCardCount':len(content['cards']),
    'sourceImageCount':len(gallery),'paragraphCount':len(root.select('p')),
    'sourceBytes':len(response.content)}

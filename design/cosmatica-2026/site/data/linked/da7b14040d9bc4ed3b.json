@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/959-interaktivnye-igrovye-i-obrazovatelnye-proekty-rko.html",
+  "title": "Интерактивные, игровые и образовательные проекты РКО",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Гости студии радио АВРОРА члены Русского Космического Общества: Алексей Борисович Борисов, генеральный директор студии \"Планета людей\" и разработчик игры \"Наша вселенная\" - игра про освоение космоса и Дмитрий Викторович Назаров руководитель проекта Космикс.рус.",
+      "spans": [
+        {
+          "text": "Гости студии радио АВРОРА члены Русского Космического Общества: Алексей Борисович Борисов, генеральный директор студии \"Планета людей\" и разработчик игры "
+        },
+        {
+          "text": "\"Наша вселенная\"",
+          "href": "https://cosmatica.org/projects/nasha-vselennaya"
+        },
+        {
+          "text": " - игра про освоение космоса и Дмитрий Викторович Назаров руководитель проекта "
+        },
+        {
+          "text": "Космикс.рус.",
+          "href": "https://cosmatica.org/projects/139"
+        }
+      ],
+      "links": [
+        {
+          "text": "\"Наша вселенная\"",
+          "url": "https://cosmatica.org/projects/nasha-vselennaya"
+        },
+        {
+          "text": "Космикс.рус.",
+          "url": "https://cosmatica.org/projects/139"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Говорили о ситуации с развитием игровых компьютерных развивающих игр, о необходимости таких разработок и планах на будущее.",
+      "spans": [
+        {
+          "text": "Говорили о ситуации с развитием игровых компьютерных развивающих игр, о необходимости таких разработок и планах на будущее. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ведущий: Александр Сергеевич Марусев",
+      "spans": [
+        {
+          "text": "Ведущий: Александр Сергеевич Марусев"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "1EkB7wJ7udg",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=1EkB7wJ7udg"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Гости студии радио АВРОРА члены Русского Космического Общества: Алексей Борисович Борисов, генеральный директор студии \"Планета людей\" и разработчик игры \"Наша вселенная\" - игра про освоение космоса и Дмитрий Викторович Назаров руководитель проекта Космикс.рус. Говорили о ситуации с развитием игровых компьютерных развивающих игр, о необходимости таких разработок и планах на будущее. Ведущий: Александр Сергеевич Марусев",
+      "links": [
+        {
+          "title": "\"Наша вселенная\"",
+          "url": "https://cosmatica.org/projects/nasha-vselennaya"
+        },
+        {
+          "title": "Космикс.рус.",
+          "url": "https://cosmatica.org/projects/139"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 670,
+    "storedTextCharacters": 420,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 76544
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 617,
+  "capturedBodyCharacters": 420,
+  "sourceTextSHA256": "385463fe0477f7e455613d4e005a9865e83372d346b49e434a2b17bd0845b379",
+  "archiveSnapshotAt": "2026-10-08T08:44:48Z",
+  "publicVideoCount": 1
+}

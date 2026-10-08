@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/176-vernadskii-vladimir-ivanovich-biosfera-i-noosfera.html",
+  "title": "Вернадский Владимир Иванович - Биосфера и ноосфера",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/e1cb39c2a08cfe647c3c6e.webp",
+      "alt": "Вернадский Владимир Иванович - Биосфера и ноосфера"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Вернадский Владимир Иванович",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 13 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1275/ae51c0eb934f4711779c8f6bbf8b7d10"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/e1cb39c2a08cfe647c3c6e.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1275/ae51c0eb934f4711779c8f6bbf8b7d10"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 106,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39321
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 55,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "16b47250c9388c582efe9cb2b7c0d3952bdcff4cdd87432f0029f47ab840e2fb",
+  "archiveSnapshotAt": "2026-10-08T08:47:52Z"
+}

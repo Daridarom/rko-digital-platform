@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "slug": "article",
+  "slug": "articles-list",
   "sourceUrl": "https://cosmatica.org/articles/vladimir-ivanovich-vernadskii",
   "title": "Владимир Иванович Вернадский",
   "intro": "",
@@ -16,7 +16,36 @@
       "level": 2
     }
   ],
-  "cards": [],
+  "cards": [
+    {
+      "title": "Новый век Вернадского",
+      "description": "Новый век Вернадского",
+      "url": "https://cosmatica.org/articles/1356-novyi-vek-vernadskogo.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Новый век Вернадского",
+          "url": "https://cosmatica.org/articles/1356-novyi-vek-vernadskogo.html"
+        }
+      ]
+    },
+    {
+      "title": "Биография Вернадского Владимира Ивановича",
+      "description": "Биография Вернадского Владимира Ивановича Краткая биография выдающегося отечественного учёного Владимира Ивановича Вернадского (1863-1945) Подробнее",
+      "url": "https://cosmatica.org/articles/1355-biografija-vernadskogo-vladimira-ivanovicha.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Биография Вернадского Владимира Ивановича",
+          "url": "https://cosmatica.org/articles/1355-biografija-vernadskogo-vladimira-ivanovicha.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1355-biografija-vernadskogo-vladimira-ivanovicha.html"
+        }
+      ]
+    }
+  ],
   "fields": [],
   "images": [],
   "documents": [],
@@ -26,9 +55,15 @@
     "http": 200,
     "sourceTextCharacters": 199,
     "storedTextCharacters": 62,
-    "sourceCardCount": 0,
+    "sourceCardCount": 2,
     "sourceImageCount": 0,
     "paragraphCount": 0,
     "sourceBytes": 74994
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "articles-list",
+  "sourceTextCharacters": 199,
+  "capturedBodyCharacters": 62,
+  "sourceTextSHA256": "b7938baa53d229d40be5043c802c368d780447a866de5d7c653d20503a18cfc3",
+  "archiveSnapshotAt": "2026-10-08T08:45:07Z"
 }

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 229,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Семинар на тему «Как построить правильный электромобиль»",
+      "description": "Что необходимо для постройки правильного электромобиля? Правильный электромотор + правильный аккумулятор + правильный алгоритм управления – и катайся неделю, а может и поболее.",
+      "url": "https://cosmatica.org/poster/161-seminar-na-temu-kak-postroit-pravilnyi-elektromobil.html",
+      "image": "https://cosmatica.org/upload/000/u26/2/5/5f11dabc.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=c2920ea6f03e92d9ea",
+      "type": "poster-item",
+      "sourceCharacters": 699,
+      "verified": false
+    },
+    {
+      "title": "Успешно окончен 1 этап образовательной программы",
+      "description": "26 марта 2018 года прошла защита проектов в рамках курса «Взгляд в космос: события, технологии и люди российской космонавтики» на базе Института прикладной механики Российской академии наук.",
+      "url": "https://cosmatica.org/articles/160-uspeshno-okonchen-1-etap-obrazovatelnoi-programmy.html",
+      "image": "https://cosmatica.org/upload/000/u26/a8/1b/7may.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=6bbb1087600767276b",
+      "type": "article",
+      "sourceCharacters": 1843,
+      "verified": false
+    },
+    {
+      "title": "База научных знаний",
+      "description": "-матриц, преобразуемых по определенным правилам.",
+      "url": "https://cosmatica.org/glossary/160-baza-nauchnyh-znanii.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=d9782dd8ccf6418359",
+      "type": "article",
+      "sourceCharacters": 102,
+      "verified": false
+    },
+    {
+      "title": "Ноосферная апология",
+      "description": "Научный доклад Александра Ивановича Субетто, представленный на Х Всемирный Научный Конгресс, раскрывает сложную логику ноосферной апологии человечества, которая тесно связана со стратегией реализации императива экологического выживания человечества через осуществление Ноосферно-Социалистического Прорыва, перехода человечества к планетарной кооперации народов-этносов, к Миру без Войн и",
+      "url": "https://cosmatica.org/library/160-noosfernaja-apologija.html",
+      "image": "https://cosmatica.org/upload/000/u14/d3/d6/da8f1ecc.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=27c698f16879593b0e",
+      "type": "book",
+      "sourceCharacters": 636,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество на фестивале \"Золотой щит\"",
+      "description": "Своей целью фестиваль ставил воспитание молодежи и всего населения в духе патриотизма и любви к малой Родине, объединяющим символом, несущим в себе позитивный заряд созидания и чувства национальной гордости, возрождения, сохранения и развития традиционной культуры народов, проживающих на территории Волгоградской области, приобщение широких масс населения к богатейшим художественным ценностям, созданным многовековым о",
+      "url": "https://cosmatica.org/news/160-russkoe-kosmicheskoe-obschestvo-na-festivale-zolotoi-schit.html",
+      "image": "https://cosmatica.org/upload/000/u8/33/b3/russkoe-kosmicheskoe-obschestvo-na-festivale-zolotoi-schit-photo-no.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0d6de0f6eb63d2132e",
+      "type": "news-item",
+      "sourceCharacters": 3684,
+      "verified": false
+    },
+    {
+      "title": "Научно-просветительский фестиваль \"Космос - профессия Человечества\" #Космос - професссия Человечества.",
+      "description": "Космонавт - одна из немногих профессий, где надо знать всё. Действительно, находясь за пределами нашей колыбели жизни, человека ожидает множество трудных задач, поэтому надо быть готовым ко всему.",
+      "url": "https://cosmatica.org/poster/160-nauchno-prosvetitelskii-festival-kosmos-professija-chelovechestva.html",
+      "image": "https://cosmatica.org/upload/000/u26/1/7/kosmos-professija-chelovechestva-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=4e7ee57c166eef0289",
+      "type": "poster-item",
+      "sourceCharacters": 4712,
+      "verified": false
+    },
+    {
+      "title": "Второе собрание Санкт-Петербургского отделения РКО",
+      "description": "Полный отчет о втором общем собрании Санкт-Петербургского отделения РКО, прошедшем 07.04.2018 г.",
+      "url": "https://cosmatica.org/articles/159-vtoroe-sobranie-sankt-peterburgskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/000/u26/0f/c8/1may.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=b50650dbfa585ddc82",
+      "type": "article",
+      "sourceCharacters": 6929,
+      "verified": false
+    },
+    {
+      "title": "Базовый принцип устойчивого развития в единицах мощности",
+      "description": "есть хроноцелостный процесс, в котором имеет место неубывающий темп роста полезной мощности системы в дли­тельной перспективе.",
+      "url": "https://cosmatica.org/glossary/159-bazovyi-princip-ustoichivogo-razvitija-v-edinicah-moschnosti.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=0f28f6fa4403174b97",
+      "type": "article",
+      "sourceCharacters": 146,
+      "verified": false
+    },
+    {
+      "title": "Научная экспертиза проектов устойчивого развития сложных систем.",
+      "description": "В учебном пособии излагаются основные понятия и методические основы научной экспертизы проектов устойчивого развития сложных социально-экономических систем, позиция Научной школы устойчивого развития для проектирования в системе «природа—общество—человек».",
+      "url": "https://cosmatica.org/library/159-nauchnaja-ekspertiza-proektov-ustoichivogo-razvitija-slozhnyh-sistem.html",
+      "image": "https://cosmatica.org/upload/000/u10/b3/8d/nauchnaja-ekspertiza-proektov-ustoichivogo-razvitija-slozhnyh-sistem.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=bb204012159b15f8ab",
+      "type": "book",
+      "sourceCharacters": 1366,
+      "verified": false
+    },
+    {
+      "title": "В Русском Космическом Обществе создан Арктический Совет.",
+      "description": "В Русском Космическом Обществе создан Арктический Совет.",
+      "url": "https://cosmatica.org/news/159-v-russkom-kosmicheskom-obschestve-sozdan-arkticheskii-sovet.html",
+      "image": "https://cosmatica.org/upload/000/u7/48/48/dd72193b.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4d38dd389b69862562",
+      "type": "news-item",
+      "sourceCharacters": 1583,
+      "verified": false
+    },
+    {
+      "title": "Как поступить в ВУЗ на бюджет?",
+      "description": "Приглашаются школьники 7-10 классов и их родители, заинтересованные в поступлении в вуз на бюджет в 2020 г. и 2020+",
+      "url": "https://cosmatica.org/poster/159-kak-postupit-v-vuz-na-byudzhet.html",
+      "image": "https://cosmatica.org/upload/000/u44/2/a/kak-postupit-v-vuz-na-byudzhet-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=5028a828e05296135d",
+      "type": "poster-item",
+      "sourceCharacters": 1815,
+      "verified": false
+    },
+    {
+      "title": "\"Евразийское Междуречье: культ знаний, прагматизм и конкурентоспособность\"",
+      "description": "VIII Международная научно-практическая конференция состоялась 12 апреля 2018 года в День космонавтики и День работников науки Республики Казахстан в г. Уральск",
+      "url": "https://cosmatica.org/articles/158-evraziiskoe-mezhdureche-kult-znanii-pragmatizm-i-konkurentosposobnost.html",
+      "image": "https://cosmatica.org/upload/000/u26/21/b7/4may.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=e9d6fc6898ca0df994",
+      "type": "article",
+      "sourceCharacters": 5230,
+      "verified": false
+    },
+    {
+      "title": "Величина",
+      "description": "свойств системы, где качественные свой­ства определяются именем, размерностью и единицей измерения, а ко­личественные свойства – численным значением измеряемой величи­ны. Математическая величина – это величина с мерой пространственных единиц.",
+      "url": "https://cosmatica.org/glossary/158-velichina.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=22e0c4da0489658d41",
+      "type": "article",
+      "sourceCharacters": 334,
+      "verified": false
+    },
+    {
+      "title": "Трудные подвиги Солнца.",
+      "description": "«Стремитесь к Солнцу, друзья, чтобы скорее наступило спасение человеческого рода! Что из того, что нам мешают листья! Или ветви! Пробивайтесь к Солнцу, а если устанете, тоже хорошо! Тем приятней будет сон!», писал молодой (25 лет) Георг Вильгельм Фридрих Гегель. Устремить своё сознание к Солнцу – это значит понять саму суть работы Солнца, его трудные Подвиги в деле организации динамической жизни всех обитателей плане",
+      "url": "https://cosmatica.org/library/158-trudnye-podvigi-solnca.html",
+      "image": "https://cosmatica.org/upload/000/u19/97/10/trudnye-podvigi-solnca-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=893621d10f110cc88d",
+      "type": "book",
+      "sourceCharacters": 924,
+      "verified": false
+    },
+    {
+      "title": "Александр Иванович Шипков присоединился к Русскому Космическому Обществу",
+      "description": "Сегодня к Русскому Космическому Обществу присоединился уникальный человек – Александр Иванович Шипков.",
+      "url": "https://cosmatica.org/news/158-aleksandr-ivanovich-shipkov-prisoedinilsja-k-russkomu-kosmicheskomu-obschestvu.html",
+      "image": "https://cosmatica.org/upload/000/u7/59/58/aleksandr-ivanovich-shipkov-prisoedinilsja-k-russkomu-kosmicheskomu.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c4338363efce9cd22d",
+      "type": "news-item",
+      "sourceCharacters": 1803,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

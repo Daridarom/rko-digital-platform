@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/370-rodnaja-pesnja.html",
+  "title": "Родная песня",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/1/7/rodnaja-pesnja-photo-normal.png",
+      "alt": "Родная песня"
+    },
+    {
+      "type": "paragraph",
+      "text": "Букварь по пению. Учебное пособие для учащихся 2 класса. Тексты детских песен, ноты, множество цветных иллюстраций художников М. Н. Бутровой, И. В. Вальтер, П. М. Кондратьева, Л. И. Коростышевского, Н. А. Носкович, В.И. Чижкова. Обложка, титул и шмуцтитул художника И. А. Михранянц.",
+      "spans": [
+        {
+          "text": "Букварь по пению. Учебное пособие для учащихся 2 класса. Тексты детских песен, ноты, множество цветных иллюстраций художников М. Н. Бутровой, И. В. Вальтер, П. М. Кондратьева, Л. И. Коростышевского, Н. А. Носкович, В.И. Чижкова. Обложка, титул и шмуцтитул художника И. А. Михранянц."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Солоникова О. В.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Букварь по пению. Учебное пособие для учащихся 2 класса. Тексты детских песен, ноты, множество цветных иллюстраций художников М. Н. Бутровой, И. В. Вальтер, П. М. Кондратьева, Л. И. Коростышевского, Н. А. Носкович, В.И. Чижкова. Обложка, титул и шмуцтитул художника И. А. Михранянц.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 17 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2180/54b2588c6b8f8092cfbef754af193c7b"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/1/7/rodnaja-pesnja-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2180/54b2588c6b8f8092cfbef754af193c7b"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 339,
+    "storedTextCharacters": 282,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40339
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 326,
+  "capturedBodyCharacters": 282,
+  "sourceTextSHA256": "4877e92a93151b6a6af072d70b49bad6f0012646a859619bd83d5c0389803c6f",
+  "archiveSnapshotAt": "2026-10-08T08:49:32Z"
+}

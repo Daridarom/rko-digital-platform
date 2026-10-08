@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/obrazovanie/doshkolnoe-obrazovanie",
+  "title": "Дошкольное образование",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "Развитие у дошкольников конструктивного творчества",
+          "Давидчук А.Н.",
+          ""
+        ],
+        [
+          "",
+          "Астрономия для умненьких детей. В семье Солнышка \"танцуют \" все",
+          "Левитан Е. П.",
+          ""
+        ],
+        [
+          "",
+          "Астрономия для умненьких детей. Ау, инопланетяне!",
+          "Левитан Е. П.",
+          ""
+        ],
+        [
+          "",
+          "Астрономия для умненьких детей. Твой звёздный город - Галактика",
+          "Левитан Е. П.",
+          ""
+        ],
+        [
+          "",
+          "Астрономия для умненьких детей. Маленькие планетки",
+          "Левитан Е. П.",
+          ""
+        ],
+        [
+          "",
+          "Астрономия для умненьких детей. Камни, которые упали с неба",
+          "Левитан Е. П.",
+          ""
+        ],
+        [
+          "",
+          "Астрономия для умненьких детей. Звёзды - Солнышкины сестрички",
+          "Левитан Е. П.",
+          ""
+        ],
+        [
+          "",
+          "Английский для малышей (книга 2)",
+          "Скультэ В.",
+          ""
+        ],
+        [
+          "",
+          "Английский для малышей (книга 3)",
+          "Скультэ В.",
+          ""
+        ],
+        [
+          "",
+          "Как играть с ребёнком (1990)",
+          "Михайленко Н.Я., Короткова Н.А.",
+          ""
+        ],
+        [
+          "",
+          "Чудесные поделки из бумаги",
+          "Богатеева З.А.",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/4/c753bb4b.jpg",
+      "alt": "Развитие у дошкольников конструктивного творчества"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/6/astronomija-dlja-umnenkih-detei-v-seme-solnyshka-tancuyut-vse.png",
+      "alt": "Астрономия для умненьких детей. В семье Солнышка \"танцуют \" все"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/6/2/astronomija-dlja-umnenkih-detei-au-inoplanetjane-photo-small.png",
+      "alt": "Астрономия для умненьких детей. Ау, инопланетяне!"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/6/d/astronomija-dlja-umnenkih-detei-photo-small.png",
+      "alt": "Астрономия для умненьких детей. Твой звёздный город - Галактика"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/b/b/astronomija-dlja-umnenkih-detei-malenkie-planetki-photo-small.png",
+      "alt": "Астрономия для умненьких детей. Маленькие планетки"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/6/2/astronomija-dlja-umnenkih-detei-kamni-kotorye-upali-s-neba-phot.png",
+      "alt": "Астрономия для умненьких детей. Камни, которые упали с неба"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/5/astronomija-dlja-umnenkih-detei-zvyozdy-solnyshkiny-sestrichki-ph.png",
+      "alt": "Астрономия для умненьких детей. Звёзды - Солнышкины сестрички"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/a/3/angliiskii-dlja-malyshei-kniga-2-photo-small.png",
+      "alt": "Английский для малышей (книга 2)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/6/c/angliiskii-dlja-malyshei-kniga-3-photo-small.png",
+      "alt": "Английский для малышей (книга 3)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/7/f/kak-igrat-s-rebyonkom-1990-photo-small.png",
+      "alt": "Как играть с ребёнком (1990)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/6/b/chudesnye-podelki-iz-bumagi-photo-small.png",
+      "alt": "Чудесные поделки из бумаги"
+    }
+  ],
+  "cards": [
+    {
+      "title": "Развитие у дошкольников конструктивного творчества",
+      "description": "Развитие у дошкольников конструктивного творчества Давидчук А.Н.",
+      "url": "https://cosmatica.org/library/403-razvitie-u-doshkolnikov-konstruktivnogo-tvorchestva.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/4/c753bb4b.jpg",
+      "links": [
+        {
+          "title": "Развитие у дошкольников конструктивного творчества",
+          "url": "https://cosmatica.org/library/403-razvitie-u-doshkolnikov-konstruktivnogo-tvorchestva.html"
+        }
+      ]
+    },
+    {
+      "title": "Астрономия для умненьких детей. В семье Солнышка \"танцуют \" все",
+      "description": "Астрономия для умненьких детей. В семье Солнышка \"танцуют \" все Левитан Е. П.",
+      "url": "https://cosmatica.org/library/401-astronomija-dlja-umnenkih-detei-v-seme-solnyshka-tancuyut-vse.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/6/astronomija-dlja-umnenkih-detei-v-seme-solnyshka-tancuyut-vse.png",
+      "links": [
+        {
+          "title": "Астрономия для умненьких детей. В семье Солнышка \"танцуют \" все",
+          "url": "https://cosmatica.org/library/401-astronomija-dlja-umnenkih-detei-v-seme-solnyshka-tancuyut-vse.html"
+        }
+      ]
+    },
+    {
+      "title": "Астрономия для умненьких детей. Ау, инопланетяне!",
+      "description": "Астрономия для умненьких детей. Ау, инопланетяне! Левитан Е. П.",
+      "url": "https://cosmatica.org/library/400-astronomija-dlja-umnenkih-detei-au-inoplanetjane.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/2/astronomija-dlja-umnenkih-detei-au-inoplanetjane-photo-small.png",
+      "links": [
+        {
+          "title": "Астрономия для умненьких детей. Ау, инопланетяне!",
+          "url": "https://cosmatica.org/library/400-astronomija-dlja-umnenkih-detei-au-inoplanetjane.html"
+        }
+      ]
+    },
+    {
+      "title": "Астрономия для умненьких детей. Твой звёздный город - Галактика",
+      "description": "Астрономия для умненьких детей. Твой звёздный город - Галактика Левитан Е. П.",
+      "url": "https://cosmatica.org/library/399-astronomija-dlja-umnenkih-detei-tvoi-zvyozdnyi-gorod-galaktika.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/d/astronomija-dlja-umnenkih-detei-photo-small.png",
+      "links": [
+        {
+          "title": "Астрономия для умненьких детей. Твой звёздный город - Галактика",
+          "url": "https://cosmatica.org/library/399-astronomija-dlja-umnenkih-detei-tvoi-zvyozdnyi-gorod-galaktika.html"
+        }
+      ]
+    },
+    {
+      "title": "Астрономия для умненьких детей. Маленькие планетки",
+      "description": "Астрономия для умненьких детей. Маленькие планетки Левитан Е. П.",
+      "url": "https://cosmatica.org/library/398-astronomija-dlja-umnenkih-detei-malenkie-planetki.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/b/astronomija-dlja-umnenkih-detei-malenkie-planetki-photo-small.png",
+      "links": [
+        {
+          "title": "Астрономия для умненьких детей. Маленькие планетки",
+          "url": "https://cosmatica.org/library/398-astronomija-dlja-umnenkih-detei-malenkie-planetki.html"
+        }
+      ]
+    },
+    {
+      "title": "Астрономия для умненьких детей. Камни, которые упали с неба",
+      "description": "Астрономия для умненьких детей. Камни, которые упали с неба Левитан Е. П.",
+      "url": "https://cosmatica.org/library/397-astronomija-dlja-umnenkih-detei-kamni-kotorye-upali-s-neba.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/2/astronomija-dlja-umnenkih-detei-kamni-kotorye-upali-s-neba-phot.png",
+      "links": [
+        {
+          "title": "Астрономия для умненьких детей. Камни, которые упали с неба",
+          "url": "https://cosmatica.org/library/397-astronomija-dlja-umnenkih-detei-kamni-kotorye-upali-s-neba.html"
+        }
+      ]
+    },
+    {
+      "title": "Астрономия для умненьких детей. Звёзды - Солнышкины сестрички",
+      "description": "Астрономия для умненьких детей. Звёзды - Солнышкины сестрички Левитан Е. П.",
+      "url": "https://cosmatica.org/library/396-astronomija-dlja-umnenkih-detei-zvyozdy-solnyshkiny-sestrichki.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/5/astronomija-dlja-umnenkih-detei-zvyozdy-solnyshkiny-sestrichki-ph.png",
+      "links": [
+        {
+          "title": "Астрономия для умненьких детей. Звёзды - Солнышкины сестрички",
+          "url": "https://cosmatica.org/library/396-astronomija-dlja-umnenkih-detei-zvyozdy-solnyshkiny-sestrichki.html"
+        }
+      ]
+    },
+    {
+      "title": "Английский для малышей (книга 2)",
+      "description": "Английский для малышей (книга 2) Скультэ В.",
+      "url": "https://cosmatica.org/library/372-angliiskii-dlja-malyshei-kniga-2.html",
+      "image": "https://cosmatica.org/upload/000/u26/a/3/angliiskii-dlja-malyshei-kniga-2-photo-small.png",
+      "links": [
+        {
+          "title": "Английский для малышей (книга 2)",
+          "url": "https://cosmatica.org/library/372-angliiskii-dlja-malyshei-kniga-2.html"
+        }
+      ]
+    },
+    {
+      "title": "Английский для малышей (книга 3)",
+      "description": "Английский для малышей (книга 3) Скультэ В.",
+      "url": "https://cosmatica.org/library/371-angliiskii-dlja-malyshei-kniga-3.html",
+      "image": "https://cosmatica.org/upload/000/u26/6/c/angliiskii-dlja-malyshei-kniga-3-photo-small.png",
+      "links": [
+        {
+          "title": "Английский для малышей (книга 3)",
+          "url": "https://cosmatica.org/library/371-angliiskii-dlja-malyshei-kniga-3.html"
+        }
+      ]
+    },
+    {
+      "title": "Как играть с ребёнком (1990)",
+      "description": "Как играть с ребёнком (1990) Михайленко Н.Я., Короткова Н.А.",
+      "url": "https://cosmatica.org/library/357-kak-igrat-s-rebyonkom-1990.html",
+      "image": "https://cosmatica.org/upload/000/u26/7/f/kak-igrat-s-rebyonkom-1990-photo-small.png",
+      "links": [
+        {
+          "title": "Как играть с ребёнком (1990)",
+          "url": "https://cosmatica.org/library/357-kak-igrat-s-rebyonkom-1990.html"
+        }
+      ]
+    },
+    {
+      "title": "Чудесные поделки из бумаги",
+      "description": "Чудесные поделки из бумаги Богатеева З.А.",
+      "url": "https://cosmatica.org/library/356-chudesnye-podelki-iz-bumagi.html",
+      "image": "https://cosmatica.org/upload/000/u26/6/b/chudesnye-podelki-iz-bumagi-photo-small.png",
+      "links": [
+        {
+          "title": "Чудесные поделки из бумаги",
+          "url": "https://cosmatica.org/library/356-chudesnye-podelki-iz-bumagi.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/c/4/c753bb4b.jpg",
+    "https://cosmatica.org/upload/002/u218/9/6/astronomija-dlja-umnenkih-detei-v-seme-solnyshka-tancuyut-vse.png",
+    "https://cosmatica.org/upload/002/u218/6/2/astronomija-dlja-umnenkih-detei-au-inoplanetjane-photo-small.png",
+    "https://cosmatica.org/upload/002/u218/6/d/astronomija-dlja-umnenkih-detei-photo-small.png",
+    "https://cosmatica.org/upload/002/u218/b/b/astronomija-dlja-umnenkih-detei-malenkie-planetki-photo-small.png",
+    "https://cosmatica.org/upload/002/u218/6/2/astronomija-dlja-umnenkih-detei-kamni-kotorye-upali-s-neba-phot.png",
+    "https://cosmatica.org/upload/002/u218/0/5/astronomija-dlja-umnenkih-detei-zvyozdy-solnyshkiny-sestrichki-ph.png",
+    "https://cosmatica.org/upload/000/u26/a/3/angliiskii-dlja-malyshei-kniga-2-photo-small.png",
+    "https://cosmatica.org/upload/000/u26/6/c/angliiskii-dlja-malyshei-kniga-3-photo-small.png",
+    "https://cosmatica.org/upload/000/u26/7/f/kak-igrat-s-rebyonkom-1990-photo-small.png",
+    "https://cosmatica.org/upload/000/u26/6/b/chudesnye-podelki-iz-bumagi-photo-small.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 728,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 11,
+    "sourceImageCount": 11,
+    "paragraphCount": 0,
+    "sourceBytes": 57470
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 728,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "ecf8d01213ff189dea2a1f5bfca21009d1f4707f14999918407f17ea009730f3",
+  "archiveSnapshotAt": "2026-10-08T08:51:14Z"
+}

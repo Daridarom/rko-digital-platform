@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "library",
+  "title": "Библиотека",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 6,
+  "pageCount": 34,
+  "total": 510,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "История Героев",
+      "description": "Это не обычная книга. Её нельзя просто взять и прочесть от корки до корки. Это священное писание, живое слово бессмертных героев и со-творцов Вселенной. Каждая история требует благоговения. Прочитать и осмыслить, пропустить через себя. Отложить книгу, сделать паузу, впитать значение. Затем передать другим. Рассказать на занятиях в школе, на встрече друзей, курсантам, коллегам, товарищам. Чтобы передать историю во все",
+      "url": "https://cosmatica.org/library/475-istorija-geroev.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/b/istorija-geroev-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=32f31696af5a5093a5",
+      "type": "book",
+      "sourceCharacters": 945,
+      "verified": false
+    },
+    {
+      "title": "\"Хроники нового ковчега. Раскрывая матрицы будущего\".",
+      "description": "\"ХРОНИКИ НОВОГО КОВЧЕГА, Раскрывая матрицы будущего\" - сборник фантастических рассказов, где реальное переплетается с нереальным, где физика и метафизика играют на одном поле бытия. Книга \"Хроники нового ковчега\" актуальна на современном этапе эволюции человеческого сознания, и открывает пути комплексного восприятия Канонов Мироздания на языках науки и искусства. Книга оригинальна по форме и содержанию, и будет интер",
+      "url": "https://cosmatica.org/library/474-hroniki-novogo-kovchega-raskryvaja-matricy-buduschego.html",
+      "image": "assets/source/book-covers/471ee10da1e5f3b0cd72f2.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=9ee622d5e96121b8eb",
+      "type": "book",
+      "sourceCharacters": 772,
+      "verified": false
+    },
+    {
+      "title": "Диктатура кажимости на фоне рыночного экоцида основ жизни России и человечества на Земле",
+      "description": "Научно-философский очерк посвящён необычному аспекту переживаемой Россией и человечеством исторической эпохи – «диктатуре кажимости и симуляции», которая захватила всю систему рыночно-капиталистического бытия человечества на фоне развернувшегося рыночного экоцида основ жизни человека на Земле, в том числе и человека в России. В этой диктатуре кажимости проявлена «онтологическая ложь» рыночно-капиталистической системы",
+      "url": "https://cosmatica.org/library/472-diktatura-kazhimosti-na-fone-rynochnogo-ekocida-osnov-zhizni-rossii-i-chelovechestva-na-zemle.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/3/diktatura-kazhimosti-na-fone-rynochnogo-ekocida-osnov-zhizni-rossii.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=a1619f25040216b9d8",
+      "type": "book",
+      "sourceCharacters": 656,
+      "verified": false
+    },
+    {
+      "title": "Биогенная система земледелия – модель будущей агросферы зоны степи",
+      "description": "Рассмотрены различные источники органогенных ресурсов в исторически длительно существовавших системах земледелия. В будущем новым возобновляемым органогенным ресурсом станут массивы и полосы кустарников в качестве источников энергии, углерода и биофильных элементов, средством полного устранения водной и ветровой эрозии почв. Показано взаимодействие техногенных и технико-технологических факторов при формировании устой",
+      "url": "https://cosmatica.org/library/471-biogennaja-sistema-zemledelija-model-buduschei-agrosfery-zony-stepi.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=269429ca7fe3ef777c",
+      "type": "book",
+      "sourceCharacters": 700,
+      "verified": false
+    },
+    {
+      "title": "Гармония в новой жизни.",
+      "description": "Данную книгу трудно отнести к конкретному жанру литературы. Огромная надежда на то, что большинство читателей смогут найти здесь философский смысл мирового масштаба. Возможно, этот смысл будет отличаться в зависимости от социального и национального происхождения человека. Читатели привыкли к книгам с классическим построением. Завязка,",
+      "url": "https://cosmatica.org/library/470-garmonija-v-novoi-zhizni.html",
+      "image": "https://cosmatica.org/upload/002/u228/4/8/garmonija-v-novoi-zhizni-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=c895c4f95069da0985",
+      "type": "book",
+      "sourceCharacters": 1748,
+      "verified": false
+    },
+    {
+      "title": "Специальный курс: моделирование и прогноз международных конфликтных ситуации (прочитан в Дипломатической Академии МИД СССР в 1979-1980 г.г.)",
+      "description": "Специальный курс: моделирование и прогноз международных конфликтных ситуации (прочитан в Дипломатической Академии МИД СССР в 1979-1980 г.г.)",
+      "url": "https://cosmatica.org/library/469-specialnyi-kurs-modelirovanie-i-prognoz-mezhdunarodnyh-konfliktnyh-situacii-prochitan-v-diplomat.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/9/specialnyi-kurs-modelirovanie-i-prognoz-mezhdunarodnyh-konflikt.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=2291efede12d43433e",
+      "type": "book",
+      "sourceCharacters": 181,
+      "verified": false
+    },
+    {
+      "title": "Ноосферная парадигма россиеведения, евразийства и устойчивого развития. Том 2",
+      "description": "Ноосферная парадигма россиеведения, евразийства и устойчивого развития как основа становления ноосферного образования в России XXI веке : коллективная научная монография / X том серии «Ноосферное образование в евразийском пространстве» по материалам Х Международ-ной научной конференции «Ноосферное образование в евразийском про-странстве» (17–18 декабря 2020 г., СЗИУ РАНХиГС при Президенте РФ) : в 2-х кн. / Под науч. ",
+      "url": "https://cosmatica.org/library/468-noosfernaja-paradigma-rossievedenija-evraziistva-i-ustoichivogo-razvitija-tom-2.html",
+      "image": "https://cosmatica.org/upload/000/u7/8/e/noosfernaja-paradigma-rossievedenija-evraziistva-i-ustoichivogo-ra.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=edaad81c0576cce5f4",
+      "type": "book",
+      "sourceCharacters": 610,
+      "verified": false
+    },
+    {
+      "title": "Ноосферная парадигма россиеведения, евразийства и устойчивого развития. Том 1.",
+      "description": "Ноосферная парадигма россиеведения, евразийства и устойчивого развития как основа становления ноосферного образования в России XXI веке : коллективная научная монография / X том серии «Ноосферное образование в евразийском пространстве» по материалам Х Международ-ной научной конференции «Ноосферное образование в евразийском про-странстве» (17–18 декабря 2020 г., СЗИУ РАНХиГС при Президенте РФ) : в 2-х кн. / Под науч. ",
+      "url": "https://cosmatica.org/library/467-noosfernaja-paradigma-rossievedenija-evraziistva-i-ustoichivogo-razvitija-tom-1.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/6/noosfernaja-paradigma-rossievedenija-evraziistva-i-ustoichivogo-ra.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=bcb2ab146b947df168",
+      "type": "book",
+      "sourceCharacters": 610,
+      "verified": false
+    },
+    {
+      "title": "Мир свободного мышления",
+      "description": "Мир свободного мышления (МСМ) — бесконечно вечный мир образов, мысли, мышления, их энергочастотных фигуральных распределений, ракурсов, позиций, отражаемых и воспринимаемых чувствами, умом и разумом человека голографически, а в представлении — объёмносферически. Побуждением к мышлению являются постоянные интерес и необходимость к своей сущности, к окружающему и внутреннему Миру, к своему назначению в Творении, к мате",
+      "url": "https://cosmatica.org/library/465-mir-svobodnogo-myshlenija.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=cc90565d7359f84e9f",
+      "type": "book",
+      "sourceCharacters": 1491,
+      "verified": false
+    },
+    {
+      "title": "Инфоэнергетика. Шаг за образ",
+      "description": "посвящена ученому материального мира Михаилу Ивановичу Беляеву",
+      "url": "https://cosmatica.org/library/464-infoenergetika-shag-za-obraz.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=b22a881b65cc101937",
+      "type": "book",
+      "sourceCharacters": 138,
+      "verified": false
+    },
+    {
+      "title": "Ноосферизм: новая парадигма бытия человека и развития цивилизации на Земле и в Космосе",
+      "description": "В новой книге А.И. Субетто представлены научные работы автора, написанные в деревне Мелехово Псковской обасти с 12 апреля, с очередной годовщины Дня Космонавтики, и по конец июля 2020 года включительно, в форме очерков, интервью, докладов, открытых писем. Мелеховский цикл в научном творчестве автора состоялся в связи с коронавирусной инфекцией в России, требованием Правительства РФ о соблюдении режима самоизоляции, о",
+      "url": "https://cosmatica.org/library/463-noosferizm-novaja-paradigma-bytija-cheloveka-i-razvitija-civilizacii-na-zemle-i-v-kosmose.html",
+      "image": "https://cosmatica.org/upload/000/u14/1/f/noosferizm-novaja-paradigma-bytija-cheloveka-i-razvitija-civilizaci.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=fd3879deec96545e5a",
+      "type": "book",
+      "sourceCharacters": 920,
+      "verified": false
+    },
+    {
+      "title": "Математическое обеспечение управления. Меры развития общества",
+      "description": "Посвящается новым способам измерения социально-экономических процессов с целью перевода творческих задач управления в класс алгоритмически разрешимых. Является теоретической базой разработки алгоритмов системы математического обеспечения управления. Введены новые категории: социальное",
+      "url": "https://cosmatica.org/library/462-matematicheskoe-obespechenie-upravlenija-mery-razvitija-obschestva.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=6fca158dc04e10d239",
+      "type": "book",
+      "sourceCharacters": 1413,
+      "verified": false
+    },
+    {
+      "title": "Ситуационный центр. VSM СENOSE.",
+      "description": "моделирования организационных структур, опирающаяся на подходы тектологии, общей формальной технологии, техне-тики, организационной кибернетики, неогеографии и принципы аутопойезиса. Разработан инвариантный паттерн моделирования – VSM Cenose, реализованный в виде конструкта и платформы проектирования ситуационных центров, реализованной на его основе. Платформа «Ситуационный центр «VSM Cenose»» может использоваться дл",
+      "url": "https://cosmatica.org/library/461-situacionnyi-centr-vsm-senose.html",
+      "image": "https://cosmatica.org/upload/000/u7/7/7/5419ea47.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=91d47ad8755bd35a66",
+      "type": "book",
+      "sourceCharacters": 1020,
+      "verified": false
+    },
+    {
+      "title": "\"ПРОЦЕССЫ В КОСМОСЕ\"",
+      "description": "ПРОЦЕССЫ В КОСМОСЕ Монография « Процессы в Космосе» - второй том из новой авторской 10-томной Энциклопедии «Каноны Мироздания и",
+      "url": "https://cosmatica.org/library/460-processy-v-kosmose.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=65b975ce5700eb33dd",
+      "type": "book",
+      "sourceCharacters": 928,
+      "verified": false
+    },
+    {
+      "title": "Буду всё знать! Познавательный контакт детей и родителей.",
+      "description": "«БУДУ ВСЁ ЗНАТЬ» предназначен для самостоятельного домашнего семейного общения взрослых со своими детьми, от младшего - до среднего школьного возраста. На всех 100 карточках «ОТКРЫТИЯХ» - по 5 вопросов. Они охватывают широкий диапазон знаний: Вопрос №1 – Космос, звезды, планеты, исследования, наука. Вопрос №2 – География и",
+      "url": "https://cosmatica.org/library/459-budu-vsyo-znat-poznavatelnyi-kontakt-detei-i-roditelei.html",
+      "image": "https://cosmatica.org/upload/000/u7/8/5/8518c85f.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=aa39670260795556af",
+      "type": "book",
+      "sourceCharacters": 1603,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

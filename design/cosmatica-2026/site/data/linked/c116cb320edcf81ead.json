@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/302-nebosvod-2012-4.html",
+  "title": "Небосвод (2012 №4)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/99496b16082a2ea5620736.webp",
+      "alt": "Небосвод (2012 №4)"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Журнал",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 5 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2035/fb01b45ed3dc9f176154db7e360b8f94"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/99496b16082a2ea5620736.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2035/fb01b45ed3dc9f176154db7e360b8f94"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 51,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 38835
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 32,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "ef781cd19d3b844ac8e8e0faf67096896ced8f611d68d213457f621643cdc961",
+  "archiveSnapshotAt": "2026-10-08T08:49:11Z"
+}

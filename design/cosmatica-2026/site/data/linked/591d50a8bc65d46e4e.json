@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 2,
+  "slug": "project",
+  "sourceUrl": "https://cosmatica.org/projects/239",
+  "title": "ПАСКЕЯ - мониторинг и создание окружающей среды",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/9/4/paskeja-logo-normal.jpg",
+      "alt": "ПАСКЕЯ - мониторинг и создание окружающей среды"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О проекте"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ПАСКЕЯ — это био-социоцентричная сетевая платформа, которая помогает решить множество насущных проблем в сфере экологии.",
+      "spans": [
+        {
+          "text": "ПАСКЕЯ — это био-социоцентричная сетевая платформа, которая помогает решить множество насущных проблем в сфере экологии. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "П — Платформа, А — Активного, С - Сетения , К — комплексная, Е - Единая, АналитическаяЯ.",
+      "spans": [
+        {
+          "text": "П — Платформа, А — Активного, С - "
+        },
+        {
+          "text": "Сетения",
+          "href": "https://cosmatica.org/glossary/189-setenie.html"
+        },
+        {
+          "text": ", К — комплексная, Е - Единая,  АналитическаяЯ."
+        }
+      ],
+      "links": [
+        {
+          "text": "Сетения",
+          "url": "https://cosmatica.org/glossary/189-setenie.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Мы создаём карту мониторинга окружающей среды, эко-проблемных точек, питомников и объектов сельского и эко-туризма.",
+      "spans": [
+        {
+          "text": "Мы создаём карту мониторинга окружающей среды, эко-проблемных точек, питомников и объектов сельского и эко-туризма."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/9/2/tp-tb-tv-tb-tp-page-0001.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/8/3/tp-tb-tv-tb-tp-page-0003.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/f/8/tp-tb-tv-tb-tp-page-0004.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/d/2/tp-tb-tv-tb-tp-page-0005.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/9/6/tp-tb-tv-tb-tp-page-0009.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/a/1/tp-tb-tv-tb-tp-page-0011.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u318/a/0/tp-tb-tv-tb-tp-page-0017.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "text": "Стена проекта",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Нет записей.",
+      "spans": [
+        {
+          "text": "\n                                    Нет записей.                            "
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "ПАСКЕЯ — это био-социоцентричная сетевая платформа, которая помогает решить множество насущных проблем в сфере экологии. П — Платформа, А — Активного, С - Сетения , К — комплексная, Е - Единая, АналитическаяЯ. Мы создаём карту мониторинга окружающей среды, эко-проблемных точек, питомников и объектов сельского и эко-туризма.",
+      "links": [
+        {
+          "title": "Сетения",
+          "url": "https://cosmatica.org/glossary/189-setenie.html"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/003/u318/9/2/tp-tb-tv-tb-tp-page-0001.jpg"
+    },
+    {
+      "key": "Направление:",
+      "value": "Экология",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Статус:",
+      "value": "Действующий",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Сайт:",
+      "value": "paskea.cosmatica.org",
+      "links": [
+        {
+          "title": "paskea.cosmatica.org",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fpaskea.cosmatica.org"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/003/u318/9/4/paskeja-logo-normal.jpg",
+    "https://cosmatica.org/upload/003/u318/9/2/tp-tb-tv-tb-tp-page-0001.jpg",
+    "https://cosmatica.org/upload/003/u318/8/3/tp-tb-tv-tb-tp-page-0003.jpg",
+    "https://cosmatica.org/upload/003/u318/f/8/tp-tb-tv-tb-tp-page-0004.jpg",
+    "https://cosmatica.org/upload/003/u318/d/2/tp-tb-tv-tb-tp-page-0005.jpg",
+    "https://cosmatica.org/upload/003/u318/9/6/tp-tb-tv-tb-tp-page-0009.jpg",
+    "https://cosmatica.org/upload/003/u318/a/1/tp-tb-tv-tb-tp-page-0011.jpg",
+    "https://cosmatica.org/upload/003/u318/a/0/tp-tb-tv-tb-tp-page-0017.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 554,
+    "storedTextCharacters": 357,
+    "sourceCardCount": 0,
+    "sourceImageCount": 8,
+    "paragraphCount": 11,
+    "sourceBytes": 41273
+  },
+  "textFallbackRequired": false,
+  "originalKind": "project",
+  "sourceTextCharacters": 394,
+  "capturedBodyCharacters": 357,
+  "sourceTextSHA256": "eb7c19387af6fff5e4e7d8da7efdc2ceab7f65d31966365e16375ede6f5ade0e",
+  "archiveSnapshotAt": "2026-10-08T09:16:45Z"
+}

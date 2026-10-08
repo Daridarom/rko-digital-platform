@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/978-kiber-mir-lyudei-i-robotov-v-solnechnoi-sisteme-suhonos-s-i.html",
+  "title": "Кибер-мир людей и роботов в Солнечной системе - Сухонос С.И.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва ч",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Доклад на I Международной научно-практической конференции: «Космическая философия - Космическое право - Космическая деятельность: триединство космического прорыва человечества»",
+      "spans": [
+        {
+          "text": "Доклад на I Международной научно-практической конференции: «Космическая философия - Космическое право - Космическая деятельность: триединство космического прорыва человечества»"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Секция \"Космическая философия: прошлое-настоящее-будущее\"",
+      "spans": [
+        {
+          "text": "Секция \"Космическая философия: прошлое-настоящее-будущее\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Докладчик: Сухонос Сергей Иванович к.т.н., профессор, действительный член РКО",
+      "spans": [
+        {
+          "text": " Докладчик: Сухонос Сергей Иванович к.т.н., профессор, действительный член РКО"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "23.05.2020г. Россия, Москва Сайт конференции: создайбудущее.рф",
+      "spans": [
+        {
+          "text": "23.05.2020г. Россия, Москва Сайт конференции: создайбудущее.рф"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ПРЕЗЕНТАЦИЯ К ДОКЛАДУ",
+      "spans": [
+        {
+          "text": "ПРЕЗЕНТАЦИЯ К ДОКЛАДУ",
+          "href": "https://cosmatica.org/upload/redactorfiles/Сухонос Кибер-мир_.pdf"
+        }
+      ],
+      "links": [
+        {
+          "text": "ПРЕЗЕНТАЦИЯ К ДОКЛАДУ",
+          "url": "https://cosmatica.org/upload/redactorfiles/Сухонос Кибер-мир_.pdf"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "6UwLeUPq4es",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=6UwLeUPq4es"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Доклад на I Международной научно-практической конференции: «Космическая философия - Космическое право - Космическая деятельность: триединство космического прорыва человечества» Секция \"Космическая философия: прошлое-настоящее-будущее\" Докладчик: Сухонос Сергей Иванович к.т.н., профессор, действительный член РКО 23.05.2020г. Россия, Москва Сайт конференции: создайбудущее.рф ПРЕЗЕНТАЦИЯ К ДОКЛАДУ",
+      "links": [
+        {
+          "title": "ПРЕЗЕНТАЦИЯ К ДОКЛАДУ",
+          "url": "https://cosmatica.org/upload/redactorfiles/Сухонос Кибер-мир_.pdf"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 663,
+    "storedTextCharacters": 494,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 5,
+    "sourceBytes": 76454
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 500,
+  "capturedBodyCharacters": 494,
+  "sourceTextSHA256": "a707b132c91faa0f2baafc6f8cd4ed5ebd3aeef4b60f2d87a0b2258409a8c301",
+  "archiveSnapshotAt": "2026-10-08T08:44:54Z",
+  "publicVideoCount": 1
+}

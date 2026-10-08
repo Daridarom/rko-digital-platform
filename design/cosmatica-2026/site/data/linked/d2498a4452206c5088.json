@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/323-nauchno-populjarnaja-lekcija-garderob-za-milliard-kosmicheskie-skafandry-rossii.html",
+  "title": "Научно-популярная лекция \"Гардероб за миллиард: космические скафандры России\" #Профориентационно-образовательный проект \"МЫ ВЕРИМ В КОСМОС\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/d/2/nauchno-populjarnaja-lekcija-garderob-za-milliard-kosmicheskie-skaf.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "18 сентября (пт) в 19:00 в КЦ Зил пройдет лекция проекта мыверимвкосмос.рф.",
+      "spans": [
+        {
+          "text": "18 сентября (пт)",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " в 19:00 в "
+        },
+        {
+          "text": "КЦ Зил",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " пройдет лекция проекта "
+        },
+        {
+          "text": "мыверимвкосмос.рф.",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "18 сентября (пт) в 19:00 в КЦ Зил пройдет лекция проекта мыверимвкосмос.рф. Тема: \"Гардероб за миллиард: космические скафандры России\" Космические скафандры — вещь крайне интересная и необычная. Вопреки мнению многих, это не просто одежда для космонавтов, а, по сути, маленький космический корабль, который может спасти жизнь космонавту. На лекции вы узнаете об устройстве и функционировании современных отечественных скафандров, исторических аспектах их создания и проектирования, а также их реальную стоимость. Лектор: Прудник Денис Олегович, председатель Молодёжного совета Русского Космического Общества, аспирант МАИ, основатель проекта мыверимвкосмос.рф., участник отбора в отряд космонавтов. Популяризатор космонавтики. Вход свободный! Дата: 18.09.2020 Время : 19:00 Место: КЦ Зил (@zilcc), м. Автозаводская, Восточная ул., 4, корп. 1 Аудитория: лекторий, 3 этаж",
+      "links": [
+        {
+          "title": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "title": "Время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/d/2/nauchno-populjarnaja-lekcija-garderob-za-milliard-kosmicheskie-skaf.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1091,
+    "storedTextCharacters": 75,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 40695
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 1091,
+  "capturedBodyCharacters": 75,
+  "sourceTextSHA256": "87f03746e6111012ce89874ea884cc46778ee8610db37e4f49ee1bc3aaf47270",
+  "archiveSnapshotAt": "2026-10-08T09:15:53Z"
+}

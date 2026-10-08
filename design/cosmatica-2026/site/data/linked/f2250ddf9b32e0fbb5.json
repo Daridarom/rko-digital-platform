@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/newspaper/75-vypusk-25-2020-mart.html",
+  "title": "Выпуск №25, 2020, март",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Научно-образовательная и просветительская газета \"Природа-Общество-Человек: ноосферное устойчивое ра",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/1/glavnaja.jpg",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Файл:",
+      "value": "Скачать 8 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2680/f7d920ee2a75e418fa64ef942ad39bcd"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/0/1/glavnaja.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2680/f7d920ee2a75e418fa64ef942ad39bcd"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 143,
+    "storedTextCharacters": 101,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 32855
+  },
+  "textFallbackRequired": false,
+  "originalKind": "newspaper-item",
+  "sourceTextCharacters": 18,
+  "capturedBodyCharacters": 101,
+  "sourceTextSHA256": "5b0d906ccb25949900ab76b9ff3759a426005515fedc4b48f8153388507d7791",
+  "archiveSnapshotAt": "2026-10-08T09:14:46Z"
+}

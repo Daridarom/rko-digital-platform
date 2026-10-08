@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "users",
+  "title": "Участники РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 5,
+  "pageCount": 16,
+  "total": 235,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Татьяна Дмитриевна Жукова",
+      "description": "Президент РШБА (Ассоциация школьных библиотек России)",
+      "url": "https://cosmatica.org/users/123",
+      "image": "https://cosmatica.org/upload/000/u26/19/b4/8943e972.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=3bd6fc75b2b191ef7a",
+      "type": "profile",
+      "sourceCharacters": 177,
+      "verified": false
+    },
+    {
+      "title": "Салман Гамдуллаевич Мирзаи",
+      "description": "",
+      "url": "https://cosmatica.org/users/126",
+      "image": "https://cosmatica.org/upload/000/u8/6b/b2/746e2a39.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=9c0cd8fb9d6517f2a0",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Светлана Леонидовна Нестерова",
+      "description": "Президент Международной ассоциации Всеобщее Вселенское Содружество (Италия), художник, поэтесса, режиссер,",
+      "url": "https://cosmatica.org/users/127",
+      "image": "https://cosmatica.org/upload/000/u8/15/45/a32af98f.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=ced21fda81a4673225",
+      "type": "profile",
+      "sourceCharacters": 1865,
+      "verified": false
+    },
+    {
+      "title": "Юрий Александрович Галушкин",
+      "description": "Руководитель Совета «Первых» Русского Космического Общества.",
+      "url": "https://cosmatica.org/users/13",
+      "image": "https://cosmatica.org/upload/000/u8/c7/d0/7f390e93.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=3f69443f17fe31e6f4",
+      "type": "profile",
+      "sourceCharacters": 253,
+      "verified": false
+    },
+    {
+      "title": "Ольга Федоровна Афанасьева",
+      "description": "Автор проекта «Космическое Женское Послание». Вице-президент некоммерческой организации «Паруса Надежды», психолог.",
+      "url": "https://cosmatica.org/users/130",
+      "image": "https://cosmatica.org/upload/000/u8/b2/b0/859a386f.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=b4135d060650461283",
+      "type": "profile",
+      "sourceCharacters": 1623,
+      "verified": false
+    },
+    {
+      "title": "Валерий Иванович Токарев",
+      "description": "Член Президиума Русского Космического Общества.",
+      "url": "https://cosmatica.org/users/131",
+      "image": "https://cosmatica.org/upload/000/u8/40/e1/ffd8e063.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=9ad007a71595b55b03",
+      "type": "profile",
+      "sourceCharacters": 3535,
+      "verified": false
+    },
+    {
+      "title": "Псковское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/133",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=43b7c82712ad1ab3bd",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Иван Николаевич Стаценко",
+      "description": "Доцент кафедры энергосбережения и нетрадиционных источников энергии Севастопольского национального университета ядерной энергии и промышленности, сертифицированный энергоаудитор, эксперт международных проектов по энергосбережению.",
+      "url": "https://cosmatica.org/users/136",
+      "image": "https://cosmatica.org/upload/000/u7/69/ff/2b07e9e8.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=59a94131fde48b8c32",
+      "type": "profile",
+      "sourceCharacters": 3603,
+      "verified": false
+    },
+    {
+      "title": "Юрий Анатольевич Спасенников",
+      "description": "",
+      "url": "https://cosmatica.org/users/137",
+      "image": "https://cosmatica.org/upload/000/u7/02/c5/ca0d570a.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=b4531b9693252f5dd4",
+      "type": "profile",
+      "sourceCharacters": 36,
+      "verified": false
+    },
+    {
+      "title": "Евгений Фёдорович Долганов",
+      "description": "",
+      "url": "https://cosmatica.org/users/138",
+      "image": "https://cosmatica.org/upload/000/u7/2/6/e602848d.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=807ce67760d30556e9",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Юрий Северинович Лекомцев",
+      "description": "Генеральный директор АНО «Спортклуб Роскосмос»",
+      "url": "https://cosmatica.org/users/139",
+      "image": "https://cosmatica.org/upload/000/u7/cf/df/4366c672.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=289890f321aaaf9512",
+      "type": "profile",
+      "sourceCharacters": 74,
+      "verified": false
+    },
+    {
+      "title": "Александр Иванович Субетто",
+      "description": "Руководитель Философского Совета Русского Космического Общества.",
+      "url": "https://cosmatica.org/users/14",
+      "image": "https://cosmatica.org/upload/000/u8/67/fe/563a718b.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=6028cd8edc9053b2fd",
+      "type": "profile",
+      "sourceCharacters": 8095,
+      "verified": false
+    },
+    {
+      "title": "Галина Владимировна Почукаева",
+      "description": "",
+      "url": "https://cosmatica.org/users/140",
+      "image": "https://cosmatica.org/upload/000/u7/0c/b3/59adbee0.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=8abd8ac932160209a4",
+      "type": "profile",
+      "sourceCharacters": 40,
+      "verified": false
+    },
+    {
+      "title": "Юрий Данилович Марцинишин",
+      "description": "Ученый-изобретатель, деятельность которого направлена на фундаментальные исследования квантовых (скачкообразных) переходов систем, их эмерджентных состояний и каналов информационной межсистемной связи, победитель конкурсов «Изобретение года 2007» и «Изобретение года 2008».",
+      "url": "https://cosmatica.org/users/142",
+      "image": "https://cosmatica.org/upload/000/u7/3c/ac/d0dd685d.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=d91c08a0616f324caa",
+      "type": "profile",
+      "sourceCharacters": 301,
+      "verified": false
+    },
+    {
+      "title": "Владимир Юрьевич Колпаков",
+      "description": "Учитель физики и математики, популяризатор астрономии. Член Общественной палаты Псковской области 2018-2021 г.г., один из организаторов открытого регионального турнира Псковской области по робототехнике и астрономического форума «АстроПсков».",
+      "url": "https://cosmatica.org/users/143",
+      "image": "https://cosmatica.org/upload/000/u8/a9/10/18fc4e41.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=4ffc1831f935188f35",
+      "type": "profile",
+      "sourceCharacters": 320,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

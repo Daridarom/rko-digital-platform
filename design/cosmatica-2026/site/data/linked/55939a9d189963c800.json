@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/19-esche-raz-o-vtorom-zakone-termodinamiki-i-teplovoi-smerti-vselennoi.html",
+  "title": "Еще раз о втором законе термодинамики и \"тепловой смерти\" Вселенной",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "П.Г. Кузнецов, 1955 (рукопись)",
+      "spans": [
+        {
+          "text": "П.Г. Кузнецов, 1955 (рукопись)"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "П.Г. Кузнецов, 1955 (рукопись)",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 282 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/35/df38b636c3fe254fd1106df0d5bfb03e"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/35/df38b636c3fe254fd1106df0d5bfb03e"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 119,
+    "storedTextCharacters": 30,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 38841
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 51,
+  "capturedBodyCharacters": 30,
+  "sourceTextSHA256": "9b65bb4dad790fa8ddbf4d94c65b186d0a9aad71cba65683aa2adcb87d60785c",
+  "archiveSnapshotAt": "2026-10-08T08:47:55Z"
+}

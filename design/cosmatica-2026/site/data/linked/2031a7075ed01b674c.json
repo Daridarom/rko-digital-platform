@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/630-dnevnik-proekta-za-nojabr-2019.html",
+  "title": "Проект \"Наша Вселенная\", ноябрь 2019",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#«Наша Вселенная»",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u64/7/1/dnevnik-proekta-za-nojabr-2019-photo-normal.jpg",
+      "alt": "Проект \"Наша Вселенная\", ноябрь 2019"
+    },
+    {
+      "type": "paragraph",
+      "text": "Снова месяц «невидимой жизни». Это значит, происходит много работы с кодом. Несколько интересных экспериментов привели к выводу, что надо переделать основу квестового движка, в том числе из-за внедрения механики инвентаря. Не терпится показать вам, когда всё заработает, но работы ещё много, поэтому, пожалуйста, наберитесь терпения.",
+      "spans": [
+        {
+          "text": "Снова месяц «невидимой жизни». Это значит, происходит много работы с кодом. Несколько интересных экспериментов привели к выводу, что надо переделать основу квестового движка, в том числе из-за внедрения механики инвентаря. Не терпится показать вам, когда всё заработает, но работы ещё много, поэтому, пожалуйста, наберитесь терпения."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Впрочем, некоторые интересные обновления уже реализованы, например, подсветка квестовых предметов. И, конечно же, продолжается обновление старых моделей и создание новых. Особое внимание – рабочему столу в интерьере жилого модуля, так это будет зона брифинга и планирования сеансов ВКД.",
+      "spans": [
+        {
+          "text": "Впрочем, некоторые интересные обновления уже реализованы, например, подсветка квестовых предметов. И, конечно же, продолжается обновление старых моделей и создание новых. Особое внимание – рабочему столу в интерьере жилого модуля, так это будет зона брифинга и планирования сеансов ВКД."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Напоминаем о том, что до завершения кампании на площадке Boomstarter остаётся несколько дней, а значит, у вас есть возможность выбрать вознаграждение и поддержать наш проект . Заранее спасибо, мы от поддержки не отказываемся!",
+      "spans": [
+        {
+          "text": "Напоминаем о том, что до завершения кампании на площадке Boomstarter остаётся несколько дней, а значит, у вас есть возможность выбрать вознаграждение и поддержать наш  "
+        },
+        {
+          "text": "проект",
+          "href": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": ". Заранее спасибо, мы от поддержки не отказываемся!"
+        }
+      ],
+      "links": [
+        {
+          "text": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Подсветка квестовых предметов. Разработка в Unity: Валерий Дементьев.",
+      "spans": [
+        {
+          "text": "1. Подсветка квестовых предметов.Разработка в Unity: Валерий Дементьев."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363696/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Обновление инструментов гео-комплекта. Моделирование: Максим Дрончак.",
+      "spans": [
+        {
+          "text": "2. Обновление инструментов гео-комплекта.Моделирование: Максим Дрончак."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363698/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "3-4. Аварийные носилки для транспортировки космонавта. Моделирование: Максим Дрончак.",
+      "spans": [
+        {
+          "text": "3-4. Аварийные носилки для транспортировки космонавта.Моделирование: Максим Дрончак."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363697/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363699/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "5-10.Обновление интерьера жилого модуля. Моделирование: Вадим Скосырев.",
+      "spans": [
+        {
+          "text": "5-10.Обновление интерьера жилого модуля.Моделирование: Вадим Скосырев."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363700/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363701/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363702/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363703/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363704/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363705/embed_asset.png",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Дневник разработки за ноябрь 2019",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Снова месяц «невидимой жизни». Это значит, происходит много работы с кодом. Несколько интересных экспериментов привели к выводу, что надо переделать основу квестового движка, в том числе из-за внедрения механики инвентаря. Не терпится показать вам, когда всё заработает, но работы ещё много, поэтому, пожалуйста, наберитесь терпения. Впрочем, некоторые интересные обновления уже реализованы, например, подсветка квестовых предметов. И, конечно же, продолжается обновление старых моделей и создание новых. Особое внимание – рабочему столу в интерьере жилого модуля, так это будет зона брифинга и планирования сеансов ВКД. Напоминаем о том, что до завершения кампании на площадке Boomstarter остаётся несколько дней, а значит, у вас есть возможность выбрать вознаграждение и поддержать наш проект . Заранее спасибо, мы от поддержки не отказываемся! 1. Подсветка квестовых предметов. Разработка в Unity: Валерий Дементьев. 2. Обновление инструментов гео-комплекта. Моделирование: Максим Дрончак. 3-4. Аварийные носилки для транспортировки космонавта. Моделирование: Максим Дрончак. 5-10.Обновление интерьера жилого модуля. Моделирование: Вадим Скосырев.",
+      "links": [
+        {
+          "title": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ],
+      "image": "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363696/embed_asset.png"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u64/7/1/dnevnik-proekta-za-nojabr-2019-photo-normal.jpg",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363696/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363698/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363697/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363699/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363700/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363701/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363702/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363703/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363704/embed_asset.png",
+    "https://boomcdn.azureedge.net/boomstarter/uploads/asset/image/363705/embed_asset.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1491,
+    "storedTextCharacters": 1172,
+    "sourceCardCount": 0,
+    "sourceImageCount": 11,
+    "paragraphCount": 17,
+    "sourceBytes": 51202
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1326,
+  "capturedBodyCharacters": 1172,
+  "sourceTextSHA256": "8fc9f97298ab0ceb45d9fedbfd34811b314e56f4f3cfa1d390f9fbc05c1f4800",
+  "archiveSnapshotAt": "2026-10-08T09:12:47Z"
+}

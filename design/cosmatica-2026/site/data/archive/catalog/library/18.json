@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "library",
+  "title": "Библиотека",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 18,
+  "pageCount": 34,
+  "total": 510,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Теория движения ИСЗ (1977)",
+      "description": "В книге дается систематическое изложение аналитической теории движения искусственных спутников Земли. Подробно рассматриваются возмущения, вызываемые зональными, тессеральными и секториальными гармониками геопотенциала и возмущения, обусловленные притяжением Луны и Солнца, сопротивлением атмосферы и световым давлением. Рассмотрено также влияние других возмущающих факторов. Особое внимание уделяется выводу окончательн",
+      "url": "https://cosmatica.org/library/273-teorija-dvizhenija-isz-1977.html",
+      "image": "assets/source/book-covers/fe64029a38cc47dba19710.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=6e8b8ddba72e8cc341",
+      "type": "book",
+      "sourceCharacters": 833,
+      "verified": false
+    },
+    {
+      "title": "Точки либраций в небесной механике и космодинамике",
+      "description": "В книге излагаются аналитические и численные методы теории гамильтоновых систем и их приложения к исследованию движений, близких к точкам либрации ограниченной задачи трех тел. Основное внимание уделяется устойчивости положений равновесия и периодических движений нелинейных гамильтоновых систем в резонансных случаях, когда чисто мнимые характеристические показатели линеаризованной системы уравнений возмущенного движе",
+      "url": "https://cosmatica.org/library/272-tochki-libracii-v-nebesnoi-mehanike-i-kosmodinamike.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/2/tochki-libracii-v-nebesnoi-mehanike-i-kosmodinamike-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=c93f201e4bade7abb9",
+      "type": "book",
+      "sourceCharacters": 940,
+      "verified": false
+    },
+    {
+      "title": "Сам себе синоптик (1983)",
+      "description": "Какой ожидается погода? Что готовит природа на завтра и в ближайшие дни? Обычно об этом вы узнаете из сводок бюро погоды. Но в них нет сведений о погоде именно для нужных вам местности, села или района, времени суток. Уточнить сводку помогут местные признаки. Наблюдая и сопоставляя их, можно относительно точно предсказать погоду для своей местности на ближайшее",
+      "url": "https://cosmatica.org/library/271-sam-sebe-sinoptik-1983.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/3/sam-sebe-sinoptik-1983-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=dc30fcdaf28fbd9d48",
+      "type": "book",
+      "sourceCharacters": 572,
+      "verified": false
+    },
+    {
+      "title": "Самодельная астрономическая труба из очковых стёкол",
+      "description": "",
+      "url": "https://cosmatica.org/library/270-samodelnaja-astronomicheskaja-truba-iz-ochkovyh-styokol.html",
+      "image": "assets/source/book-covers/a7c65e9529d9c813ced2ff.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=966ef5ffe2380d5aa4",
+      "type": "book",
+      "sourceCharacters": 36,
+      "verified": false
+    },
+    {
+      "title": "Самодельные астрономические инструменты (1965)",
+      "description": "Астрономические инструменты заводского производства достаточно дороги, и для новичка, только постигающему астрономию они могут оказаться не доступными. Эта по настоящему уникальная книга поможет вам самостоятельно и из подручных материалов изготовить телескоп, гелиоскоп, штативы, оборудование для фотографирования звездного неба и многое, многое другое.",
+      "url": "https://cosmatica.org/library/269-samodelnye-astronomicheskie-instrumenty-1965.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/4/samodelnye-astronomicheskie-instrumenty-1965-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=1ea443a68a3283abab",
+      "type": "book",
+      "sourceCharacters": 407,
+      "verified": false
+    },
+    {
+      "title": "Самодельный телескоп - рефлектор (1965)",
+      "description": "умеющих и желающих делать самоделки своими руками. Купить хороший телескоп для наблюдений ночного неба, рефлектор или рефрактор, не всегда представляется возможным — не позволяет личный бюджет. Но как говорится — » охота пуще неволи «, при соответствующем желании и усердии в работе, вполне возможно телескоп сделать самостоятельно. В этой книге вы найдете описание всех этапов изготовления самодельного телескопа-рефлек",
+      "url": "https://cosmatica.org/library/268-samodelnyi-teleskop-reflektor-1965.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/7/samodelnyi-teleskop-reflektor-1965-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=dfe9bc1ada3ec56aed",
+      "type": "book",
+      "sourceCharacters": 677,
+      "verified": false
+    },
+    {
+      "title": "Семья солнца, планеты и спутники солнечной системы",
+      "description": "Кольца Юпитера и Урана, горы, вдвое выше Эвереста на Марсе, грозы и облака из капелек серной кислоты на Венере, действующие вулканы на Ио, океаны жидкого азота на Титане. С этими и другими удивительными открытиями, сделанными с помощью космических аппаратов и интенсивных наземных наблюдений, знакомит книга выдающегося американского астрофизика. Для широких кругов читателей со средним образованием, желающих познакомит",
+      "url": "https://cosmatica.org/library/267-semja-solnca-planety-i-sputniki-solnechnoi-sistemy.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/5/semja-solnca-planety-i-sputniki-solnechnoi-sistemy-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=008415bad14670c9cf",
+      "type": "book",
+      "sourceCharacters": 495,
+      "verified": false
+    },
+    {
+      "title": "Сколько звёзд на небе (1954)",
+      "description": "В ясную, безоблачную ночь внимание человека всегда привлекает небо, усыпанное звёздами. Множество ярких звезд, мерцая, блестит белым или чуть голубоватым светом. А сколько ещё на небе слабых, еле заметных звёздочек!.. Около многих из них существуют свиты планет, возможно даже обитаемых, населенных неведомыми существами... Перед глазами встаёт величественная картина неизмеримой бездны вселенной. 1954",
+      "url": "https://cosmatica.org/library/266-skolko-zvyozd-na-nebe-1954.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/5/skolko-zvyozd-na-nebe-1954-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=4e5752f6b4fb098278",
+      "type": "book",
+      "sourceCharacters": 445,
+      "verified": false
+    },
+    {
+      "title": "Современная астрономическая оптика (1988)",
+      "description": "",
+      "url": "https://cosmatica.org/library/265-sovremennaja-astronomicheskaja-optika-1988.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/1/sovremennaja-astronomicheskaja-optika-1988-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=1efa0d5593f8436fe4",
+      "type": "book",
+      "sourceCharacters": 36,
+      "verified": false
+    },
+    {
+      "title": "Современный телескоп (1968)",
+      "description": "Книга \"Современный телескоп\" написана коллективом ученых - сотрудников Главной астрономической обсерватории АН СССР в Пулкове и Государственного оптического института. Авторы попытались впервые изложить в одном монографическом издании широкий комплекс вопросов, касающихся истории телескопов и астрономических открытий, развития астрономической оптики, устройства и принципов действия современных оптических, радио-, эле",
+      "url": "https://cosmatica.org/library/264-sovremennyi-teleskop-1968.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/b/sovremennyi-teleskop-1968-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=599815210a99f5955e",
+      "type": "book",
+      "sourceCharacters": 808,
+      "verified": false
+    },
+    {
+      "title": "Созвездия, представленные на XXX таблицах (1829)",
+      "description": "Издавая сии звездные Чертежи, надеюсь я оказать, как любителям Астрогнозии (Звездоведения), так и всем высшим учебным Заведениям, не малую услугу; наипаче потому уважению, что доселе, в Российской Литературе, подобного произведения не было. При составлении сих чертежей, принял я за основание небесный Атлас Боде, сохранив весь порядок оного, выключая малых некоторых изменений. Малая объятность сих чертежей допущена с ",
+      "url": "https://cosmatica.org/library/263-sozvezdija-predstavlennye-na-xxx-tablicah-1829.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/c/sozvezdija-predstavlennye-na-xxx-tablicah-1829-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=3f15ae8492858e6a01",
+      "type": "book",
+      "sourceCharacters": 548,
+      "verified": false
+    },
+    {
+      "title": "Сокровища звёздного неба",
+      "description": "Популярный рассказ о звездном небе, о его делении на созвездия, о том, как находить созвездия в различные сезоны года — зимой, весной, летом и осенью. Читатель узнает о главных достопримечательностях каждого созвездия — двойных, переменных звездах, звездных скоплениях, туманностях и других объектах. Отдельные главы посвящены звездному небу Антарктиды. Млечному Пути и телам Солнечной системы. Особое внимание уделено Л",
+      "url": "https://cosmatica.org/library/262-sokrovischa-zvyozdnogo-neba.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/4/sokrovischa-zvyozdnogo-neba-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=1cde5cf557dc642a58",
+      "type": "book",
+      "sourceCharacters": 579,
+      "verified": false
+    },
+    {
+      "title": "Солнечные и лунные затмения (1978)",
+      "description": "Солнечные и лунные затмения принадлежат к интереснейшим явлениям природы и происходят сравнительно часто. Однако наблюдаются они далеко не из всех мест земной поверхности, и поэтому у лиц, недостаточно знакомых с астрономией, возникает суждение о редкости обоих явлений, в особенности солнечных затмений. Иногда даже можно услышать, что затмения Солнца и Луны наступают внезапно и предсказать их заранее невозможно. Тако",
+      "url": "https://cosmatica.org/library/261-solnechnye-i-lunnye-zatmenija-1978.html",
+      "image": "assets/source/book-covers/9d31b38544eb48ed8b7553.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=2d953fc967c514fc4a",
+      "type": "book",
+      "sourceCharacters": 917,
+      "verified": false
+    },
+    {
+      "title": "Солнце и его наблюдение (1948)",
+      "description": "Эта книга предназначена для наблюдателей Солнца - как любителей, так и работников тех обсерваторий, где ведутся регулярные наблюдения Солнца. Этим определяется",
+      "url": "https://cosmatica.org/library/260-solnce-i-ego-nablyudenie-1948.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/e/solnce-i-ego-nablyudenie-1948-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=3b61763bd1b570ebf1",
+      "type": "book",
+      "sourceCharacters": 1346,
+      "verified": false
+    },
+    {
+      "title": "Стандарт основных вычислений астрономии (1996)",
+      "description": "Книга содержит конспект курса лекций, читавшихся профессором В.В. Нестеровым студентам астрономического отделения физического факультета МГУ. Подробно рассмотрены системы постоянных и алгоритмы вычислений, рекомендованные на съездах Международного Астрономического союза. Книга может оказаться полезной профессиональным астрономам, инженерам-вычислителям, решающим навигационные задачи, студентам старших курсов и аспира",
+      "url": "https://cosmatica.org/library/259-standart-osnovnyh-vychislenii-astronomii-1996.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/0/standart-osnovnyh-vychislenii-astronomii-1996-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=2d1c3a4c6cb4c9f470",
+      "type": "book",
+      "sourceCharacters": 532,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

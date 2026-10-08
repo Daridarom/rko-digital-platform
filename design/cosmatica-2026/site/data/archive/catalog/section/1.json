@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "section",
+  "title": "Секции",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 1,
+  "pageCount": 1,
+  "total": 7,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Секция сохранения биосферного разнообразия",
+      "description": "Настало время изменить своё отношение к нашей планете. Признать в Природе не только великую союзницу, великую вдохновительницу и научиться жить в гармонии с ней. Пришло время осознать её нашей матерью, бережно вынашивавшей человечество миллиарды лет. Ведь именно сейчас, в наши дни, происходят роды единого био-социального организма - космического человечества.",
+      "url": "https://cosmatica.org/section/8-sekcija-sohranenija-biosfernogo-raznoobrazija.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/f/88ec0f9afde000a16b239c3793168a18.jpg",
+      "kind": "section-item",
+      "href": "view.html?p=article&ref=0218f830cc4377a3b3",
+      "type": "article",
+      "sourceCharacters": 738,
+      "verified": false
+    },
+    {
+      "title": "Электромагнитная основа возникновения Жизни в Космосе и на Земле.",
+      "description": "Программа работы Научно-образовательной секции Русского Космического Общества «Электромагнитная основа возникновения жизни в космосе и на Земле». Современный синтез науки и религии.",
+      "url": "https://cosmatica.org/section/7-elektromagnitnaja-osnova-vozniknovenija-zhizni-v-kosmose-i-na-zemle.html",
+      "image": null,
+      "kind": "section-item",
+      "href": "view.html?p=article&ref=784c408f8c9f4fd389",
+      "type": "article",
+      "sourceCharacters": 15417,
+      "verified": false
+    },
+    {
+      "title": "Авангардные исследования",
+      "description": "Современный этап развития земной цивилизации характеризуется как «ОСОБЫЙ ПЕРИОД».",
+      "url": "https://cosmatica.org/section/6-avangardnye-issledovanija.html",
+      "image": null,
+      "kind": "section-item",
+      "href": "view.html?p=article&ref=0e4ebf55612959ec94",
+      "type": "article",
+      "sourceCharacters": 4024,
+      "verified": false
+    },
+    {
+      "title": "Цифровая трансформация",
+      "description": "Деятельность Секции: направлена на всестороннее изучение, исследование и развитие нового технологического уклада, известного в обществе под названием “Цифровая экономика”.",
+      "url": "https://cosmatica.org/section/5-cifrovaja-transformacija.html",
+      "image": null,
+      "kind": "section-item",
+      "href": "view.html?p=article&ref=d9c5e680903a03cf94",
+      "type": "article",
+      "sourceCharacters": 1246,
+      "verified": false
+    },
+    {
+      "title": "Общество изобретателей",
+      "description": "Деятельность Секции направлена на представительство сообщества изобретателей в обществе и государстве.",
+      "url": "https://cosmatica.org/section/4-obschestvo-izobretatelei.html",
+      "image": null,
+      "kind": "section-item",
+      "href": "view.html?p=article&ref=67a563303155805a4d",
+      "type": "article",
+      "sourceCharacters": 1839,
+      "verified": false
+    },
+    {
+      "title": "Методы синтеза междисциплинарных знаний",
+      "description": "Цель Секции: определить суть природных законов и обосновать основные методы синтеза междисциплинарных знаний, используя язык многомерных пропорциональных отношений.",
+      "url": "https://cosmatica.org/section/3-metody-sinteza-mezhdisciplinarnyh-znanii.html",
+      "image": null,
+      "kind": "section-item",
+      "href": "view.html?p=article&ref=71b6d5835d87f13599",
+      "type": "article",
+      "sourceCharacters": 1302,
+      "verified": false
+    },
+    {
+      "title": "Концептуальное проектирование систем организационного управления (КП СОУ)",
+      "description": "Исключительность методологического аппарата «Концептуальное проектирование систем организационного управления» (КП СОУ) состоит в беспрецедентных возможностях создания моделей для конструирования решений конкретно тех разносторонних проблем, с которыми сталкиваются люди в действительности, проблем, которые неразрывно связаны друг с другом, но каждая из которых уникальна и постоянно меняется, трансформируется, как и м",
+      "url": "https://cosmatica.org/section/2-konceptualnoe-proektirovanie-sistem-organizacionnogo-upravlenija-kp-sou.html",
+      "image": null,
+      "kind": "section-item",
+      "href": "view.html?p=article&ref=2d86187927bcbbf8d5",
+      "type": "article",
+      "sourceCharacters": 4436,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

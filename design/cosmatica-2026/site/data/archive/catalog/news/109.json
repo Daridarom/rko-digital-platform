@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 109,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "78-летие Первого Президента РКО",
+      "description": "Первого Президента Русского Космического Общества, ученого всероссийского и международного масштаба, физика, математика, экономиста, геофизика, доктора технических наук, профессора, главы Международной научной школы устойчивого развития им. П.Г. Кузнецова.",
+      "url": "https://cosmatica.org/news/436-78-letie-pervogo-prezidenta-rko.html",
+      "image": "https://cosmatica.org/upload/000/u26/c/3/9efa3fbc.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=15cb8b306b48d96a3b",
+      "type": "news-item",
+      "sourceCharacters": 4213,
+      "verified": false
+    },
+    {
+      "title": "Добро пожаловать на Тропу!",
+      "description": "«Тропа Мужества» — пеший комплексный марафон, позволяющий проверить и изменить себя.",
+      "url": "https://cosmatica.org/news/435-dobro-pozhalovat-na-tropu.html",
+      "image": "https://cosmatica.org/upload/000/u26/0/d/dobro-pozhalovat-na-tropu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9f8cdbd42e5c99fd5c",
+      "type": "news-item",
+      "sourceCharacters": 814,
+      "verified": false
+    },
+    {
+      "title": "Создан Совет по гражданско-патриотическому и духовно-нравственному воспитанию детей и молодежи",
+      "description": "В созданный при Департаменте Труда и социальной защиты населения г. Москвы Совет по вопросам гражданско-патриотического и духовно-нравственного воспитания детей и молодёжи в государственных учреждениях социального обслуживания г. Москвы вошли представители Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/434-sozdan-sovet-po-grazhdansko-patrioticheskomu-i-duhovno-nravstvennomu-vospitaniyu-detei-i-molodez.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/a/sozdan-sovet-po-grazhdansko-patrioticheskomu-i-duhovno-nravstvenn.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=48a897c4200536939a",
+      "type": "news-item",
+      "sourceCharacters": 6014,
+      "verified": false
+    },
+    {
+      "title": "\"Птицы Сибири\" залетели в Звёздный городок",
+      "description": "Наверное, не случайно получилось так, что первыми зрителями фотовыставки стали герои-космонавты В.Г. Титов, Ю.И. Маленченко и О.В. Новицкий , которые в этот день встречали в Доме космонавтов французскую делегацию во главе с первым французским космонавтом Жан Лу Кретьеном .",
+      "url": "https://cosmatica.org/news/441-pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok.html",
+      "image": "https://cosmatica.org/upload/000/u26/4/c/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1a006743abd8d2e561",
+      "type": "news-item",
+      "sourceCharacters": 1571,
+      "verified": false
+    },
+    {
+      "title": "Под луной золотой",
+      "description": "Несмотря на ненастную дождливую погоду, в концертном зале дома-музея Льва Николаевича Толстого на Пречистинке, в рамках цикла программ вечера «Музыка в доме Толстого» и проекта ЭКТЛ «Волшебной музыки целительные звуки», прошёл концерт театра-лаборатории «Кантилена» с названием «Под луной золотой …» .",
+      "url": "https://cosmatica.org/news/433-pod-lunoi-zolotoi.html",
+      "image": "https://cosmatica.org/upload/000/u26/8/6/pod-lunoi-zolotoi-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a8134899b0c09f569b",
+      "type": "news-item",
+      "sourceCharacters": 4033,
+      "verified": false
+    },
+    {
+      "title": "95 лет Побиску Георгиевичу Кузнецову",
+      "description": "Русское Космическое Общество создано в логике развития идей Побиска Георгиевича Кузнецова . Оно базируется на фундаментальных научных основаниях, которые он заложил. На идеях русского космизма доведённых в его трудах до максимальной степени конструктивизма.",
+      "url": "https://cosmatica.org/news/432-95-let-pobisku-georgievichu-kuznecovu.html",
+      "image": "https://cosmatica.org/upload/000/u26/9/7/95-let-pobisku-georgievichu-kuznecovu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8572988101f65945d2",
+      "type": "news-item",
+      "sourceCharacters": 14581,
+      "verified": false
+    },
+    {
+      "title": "Нам будет чем заняться в ближайшие 500 лет.",
+      "description": "18 мая 2019 года в городе Кронштадт Ленинградской области состоялась высадка кедров, приуроченная к 75-летию полного снятия блокады Ленинграда и 315-й годовщине основания Кронштадта. На территории исторических укреплений Люнет “Ден” по адресу Кронштадтское шоссе дом 29, были высажены 75 саженцев кедра, символизирующих волю к жизни и веру в победу наших предков в самое сложное время для Отечества и родного города.",
+      "url": "https://cosmatica.org/news/431-nam-budet-chem-zanjatsja-v-blizhaishie-500-let.html",
+      "image": "https://cosmatica.org/upload/000/u21/5/8/nam-budet-chem-zanjatsja-v-blizhaishie-500-let-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1472380673d7bf8c3d",
+      "type": "news-item",
+      "sourceCharacters": 3519,
+      "verified": false
+    },
+    {
+      "title": "Стань причастным к созданию космического будущего!",
+      "description": "Космонавт — одна из немногих профессий, где надо знать всё. Действительно, находясь за пределами нашей колыбели жизни, человека ожидает множество трудных задач, поэтому надо быть готовым ко всему. Полеты в космос не ограничиваются астронавтами, которые работают на орбите. Огромное количество людей трудятся для того, чтобы те самые смелые люди отправились за пределы нашей родной Земли. Инженеры и программисты, роботот",
+      "url": "https://cosmatica.org/news/430-stan-prichastnym-k-sozdaniyu-kosmicheskogo-buduschego.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/7/06256e9d.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=241d27dad7a218c41b",
+      "type": "news-item",
+      "sourceCharacters": 5023,
+      "verified": false
+    },
+    {
+      "title": "Награждение в Калуге",
+      "description": "В замечательном городе Калуге 13 мая 2019 года на базе «Школы-интерната № 5 им. Ф.А. Рау» состоялось долгожданное награждение победителей Международного конкурса рисунка «Наше космическое завтра», посвященного 85-летию Ю.А. Гагарина.",
+      "url": "https://cosmatica.org/news/428-nagrazhdenie-v-kaluge.html",
+      "image": "https://cosmatica.org/upload/001/u172/9/5/106ceccf.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=390719b7d458e22376",
+      "type": "news-item",
+      "sourceCharacters": 1461,
+      "verified": false
+    },
+    {
+      "title": "Луна сияла в \"Сундуках\"",
+      "description": "В лучах Луны ты шлешь мне свои любовные письма, — сказала Ночь Солнцу. — Я оставлю свои ответы — слезами на траве.",
+      "url": "https://cosmatica.org/news/429-luna-sijala-v-sundukah.html",
+      "image": "https://cosmatica.org/upload/000/u43/1/d/21d0ff5e.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4c2914899020b6c6ed",
+      "type": "news-item",
+      "sourceCharacters": 1244,
+      "verified": false
+    },
+    {
+      "title": "В Петербурге обсуждали философские и методологические проблемы научно-технического творчества",
+      "description": "В конференции приняли участие и представители Петербургского отделения Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/427-v-peterburge-obsuzhdali-filosofskie-i-metodologicheskie-problemy-nauchno-tehnicheskogo-tvorchest.html",
+      "image": "https://cosmatica.org/upload/000/u21/e/2/bac8905b.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=dd5f12c1c968e845b6",
+      "type": "news-item",
+      "sourceCharacters": 3514,
+      "verified": false
+    },
+    {
+      "title": "В Сочи состоялась III Спортивно-патриотическая гонка НАША ПОБЕДА",
+      "description": "Организатором выступила Компания Реинфо. Мероприятие проходило при поддержке и участии Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/425-v-sochi-sostojalas-iii-sportivno-patrioticheskaja-gonka-nasha-pobeda.html",
+      "image": "https://cosmatica.org/upload/000/u26/3/1/v-sochi-sostojalas-iii-sportivno-patrioticheskaja-gonka-nasha-pobeda.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d6e2be775ed9044034",
+      "type": "news-item",
+      "sourceCharacters": 6673,
+      "verified": false
+    },
+    {
+      "title": "Жизнь и полёт Ю.А. Гагарина в отражении кинематографа.",
+      "description": "Дарья Павловна Хаблова, Полина Алексеевна Клочкова,",
+      "url": "https://cosmatica.org/news/426-zhizn-i-polyot-yu-a-gagarina-v-otrazhenii-kinematografa.html",
+      "image": "https://cosmatica.org/upload/000/u21/4/6/zhizn-i-polyot-yu-a-gagarina-v-otrazhenii-kinematografa-photo-no.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=28a520daa7da9c8f42",
+      "type": "news-item",
+      "sourceCharacters": 19943,
+      "verified": false
+    },
+    {
+      "title": "Прошлое и будущее в настоящем.",
+      "description": "Сегодня, в день традиционного праздника Жён-мироносиц, являющегося одним из главных \"женских\" праздников народной культуры, напоминаем, что Русским Космическим Обществом реализуется международный проект \"Женское космическое послание\"",
+      "url": "https://cosmatica.org/news/424-proshloe-i-buduschee-v-nastojaschem.html",
+      "image": "https://cosmatica.org/upload/000/u26/6/e/proshloe-i-buduschee-v-nastojaschem-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1da16fb01883688dca",
+      "type": "news-item",
+      "sourceCharacters": 1776,
+      "verified": false
+    },
+    {
+      "title": "Из малых достижений складываются большие Победы.",
+      "description": "7 мая 2019 года, накануне Дня Победы в г. Снежинск, завершился цикл проводимых Челябинским отделением РКО космических уроков для учащихся школ, колледжей, техникумов и ВУЗов Челябинской области.",
+      "url": "https://cosmatica.org/news/423-iz-malyh-dostizhenii-skladyvayutsja-bolshie-pobedy.html",
+      "image": "https://cosmatica.org/upload/000/u37/3/b/iz-malyh-dostizhenii-skladyvayutsja-bolshie-pobedy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d8a36ad261359394e6",
+      "type": "news-item",
+      "sourceCharacters": 1849,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

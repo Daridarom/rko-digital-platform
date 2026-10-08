@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/815-russkii-kosmos-7-iyul-2019.html",
+  "title": "Русский космос №7 (июль, 2019)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/a/snimok-ekrana-2019-10-16-v-18-46-16.png",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Русский космос №7 (июль, 2019)",
+      "links": [
+        {
+          "title": "Русский космос №7 (июль, 2019)",
+          "url": "https://cosmatica.org/upload/redactorfiles/"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/002/u218/7/a/snimok-ekrana-2019-10-16-v-18-46-16.png"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/a/snimok-ekrana-2019-10-16-v-18-46-16.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 99,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 73340
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 68,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "6b2806bc7c2c71defb686dc358a379244130858f837798cde43a7276ece87d3a",
+  "archiveSnapshotAt": "2026-10-08T08:44:05Z"
+}

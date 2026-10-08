@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/m",
+  "title": "М",
+  "intro": "",
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Могущество народа",
+      "url": "https://cosmatica.org/glossary/183-moguschestvo-naroda.html",
+      "description": ""
+    },
+    {
+      "title": "Материализованная форма знания",
+      "url": "https://cosmatica.org/glossary/112-materializovannaja-forma-znanija.html",
+      "description": ""
+    },
+    {
+      "title": "Маркетинг",
+      "url": "https://cosmatica.org/glossary/111-marketing.html",
+      "description": ""
+    },
+    {
+      "title": "Математический закон",
+      "url": "https://cosmatica.org/glossary/110-matematicheskii-zakon.html",
+      "description": ""
+    },
+    {
+      "title": "Меновая стоимость",
+      "url": "https://cosmatica.org/glossary/109-menovaja-stoimost.html",
+      "description": ""
+    },
+    {
+      "title": "Метод",
+      "url": "https://cosmatica.org/glossary/108-metod.html",
+      "description": ""
+    },
+    {
+      "title": "Мера",
+      "url": "https://cosmatica.org/glossary/107-mera.html",
+      "description": ""
+    },
+    {
+      "title": "Мировоззрение",
+      "url": "https://cosmatica.org/glossary/106-mirovozzrenie.html",
+      "description": ""
+    },
+    {
+      "title": "Модель",
+      "url": "https://cosmatica.org/glossary/105-model.html",
+      "description": ""
+    },
+    {
+      "title": "Мощность",
+      "url": "https://cosmatica.org/glossary/104-moschnost.html",
+      "description": ""
+    },
+    {
+      "title": "Мощность валюты",
+      "url": "https://cosmatica.org/glossary/103-moschnost-valyuty.html",
+      "description": ""
+    },
+    {
+      "title": "Методология",
+      "url": "https://cosmatica.org/glossary/102-metodologija.html",
+      "description": ""
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 168,
+    "storedTextCharacters": 155,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 40323
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 168,
+  "capturedBodyCharacters": 155,
+  "sourceTextSHA256": "68b5b4f69aaaf9c3ebc7edd2cca1c075a02e252c9b4779116f81879727b2c702",
+  "archiveSnapshotAt": "2026-10-08T08:47:27Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 12
+}

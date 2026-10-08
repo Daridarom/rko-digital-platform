@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/203-sbornik-dokladov-nauchnoi-konferencii-studentov-i-aspirantov-posvjaschyonnoi-15-letiyu-universit.html",
+  "title": "Сборник докладов научной конференции студентов и аспирантов, посвящённой 15-летию Университета «Дубна»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/cfd332e22f2476b08f7a80.webp",
+      "alt": "Сборник докладов научной конференции студентов и аспирантов, посвящённой 15-летию Университета «Дубна»"
+    },
+    {
+      "type": "paragraph",
+      "text": "В сборнике представлены результаты научных исследований студентов и аспирантов Университета «Дубна» в области проектирования и управления устойчивым развитием, доложенные на Конференции. Конференция состоялась 30 мая 2009 года на заседании конкурсной комиссии в Международном университете природы, общества и человека «Дубна».",
+      "spans": [
+        {
+          "text": "В сборнике представлены результаты научных исследований студентов и аспирантов Университета «Дубна» в области проектирования и управления устойчивым развитием, доложенные на Конференции. Конференция состоялась 30 мая 2009 года на заседании конкурсной комиссии в Международном университете природы, общества и человека «Дубна»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Работа",
+      "spans": [
+        {
+          "text": "Работа"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "выполнена по гранту Президента №НШ-1269.2008.9",
+      "spans": [
+        {
+          "text": "выполнена по гранту Президента №НШ-1269.2008.9"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Студенты и аспиранты. Науч. ред. Большакова Б.Е",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В сборнике представлены результаты научных исследований студентов и аспирантов Университета «Дубна» в области проектирования и управления устойчивым развитием, доложенные на Конференции. Конференция состоялась 30 мая 2009 года на заседании конкурсной комиссии в Международном университете природы, общества и человека «Дубна». Работа выполнена по гранту Президента №НШ-1269.2008.9",
+      "links": [
+        {
+          "title": "Работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 1 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1471/abe50cf96613ef36b74d56a9d2a2f1dc"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/cfd332e22f2476b08f7a80.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1471/abe50cf96613ef36b74d56a9d2a2f1dc"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 557,
+    "storedTextCharacters": 378,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 41317
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 454,
+  "capturedBodyCharacters": 378,
+  "sourceTextSHA256": "26535b2162e94b284a2fd0ebdd1b40ce885e982132ce2b3a3a7900320897c514",
+  "archiveSnapshotAt": "2026-10-08T08:48:01Z"
+}

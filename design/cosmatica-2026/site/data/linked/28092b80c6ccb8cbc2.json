@@ -7,8 +7,35 @@
   "blocks": [
     {
       "type": "image",
-      "src": "assets/source/e484896bd7793acedd344faf.webp",
+      "src": "https://cosmatica.org/upload/002/u218/d/1/10797634.jpg",
       "alt": "Новая парадигма теории, истории и будущего мира цивилизаций"
+    },
+    {
+      "type": "paragraph",
+      "text": "Мир цивилизаций — вершина эволюции, природы, биосферы и человека. Мир цивилизаций возник около 10 тысячелетий назад в период неолитической революции. Локальные цивилизации еще моложе: они возникли чуть более 5 тысячелетий назад. Однако за 5 тысячелетий мир цивилизаций получил столь бурное",
+      "spans": [
+        {
+          "text": "Мир цивилизаций — вершина эволюции, природы, биосферы и человека. Мир цивилизаций возник около 10 тысячелетий назад в период неолитической революции. Локальные цивилизации еще моложе: они возникли чуть более 5 тысячелетий назад. Однако за 5 тысячелетий мир цивилизаций получил столь бурное"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "развитие",
+      "spans": [
+        {
+          "text": "развитие"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "и распространение, что это требует глубокого научного исследования.",
+      "spans": [
+        {
+          "text": "и распространение, что это требует глубокого научного исследования."
+        }
+      ]
     }
   ],
   "cards": [],
@@ -36,19 +63,19 @@
       "links": [
         {
           "title": "Скачать",
-          "url": "https://cosmatica.org/files/download/6083/4d5c93d9e58e86efb88a0dec35657b93"
+          "url": "https://cosmatica.org/files/download/6083/c7473b99d8440dac2e54500365d4d004"
         }
       ],
       "image": null
     }
   ],
   "images": [
-    "assets/source/e484896bd7793acedd344faf.webp"
+    "https://cosmatica.org/upload/002/u218/d/1/10797634.jpg"
   ],
   "documents": [
     {
       "label": "Скачать",
-      "url": "https://cosmatica.org/files/download/6083/4d5c93d9e58e86efb88a0dec35657b93"
+      "url": "https://cosmatica.org/files/download/6083/c7473b99d8440dac2e54500365d4d004"
     }
   ],
   "categories": [],
@@ -56,10 +83,16 @@
   "sourceEvidence": {
     "http": 200,
     "sourceTextCharacters": 464,
-    "storedTextCharacters": 0,
+    "storedTextCharacters": 364,
     "sourceCardCount": 0,
     "sourceImageCount": 1,
     "paragraphCount": 0,
     "sourceBytes": 40388
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 404,
+  "capturedBodyCharacters": 364,
+  "sourceTextSHA256": "1128884a3fad27c1745f0735fb9c4cb461b3d5e0c1fd61cd4c860dcc583f22bf",
+  "archiveSnapshotAt": "2026-10-08T08:51:03Z"
 }

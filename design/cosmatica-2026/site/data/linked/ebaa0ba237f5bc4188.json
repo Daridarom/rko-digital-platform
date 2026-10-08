@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/866-vypusk-1-v-nachale-bylo.html",
+  "title": "Выпуск №1 – «В начале было…»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Выпуск №1 – «В начале было…»",
+      "spans": [
+        {
+          "text": "Выпуск №1 – «В начале было…»"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Мысль дня: «Империя – религия и государство» Главная проблема сегодня – не материя. Век господства духа.",
+      "spans": [
+        {
+          "text": "Мысль дня: «Империя – религия и государство» Главная  "
+        },
+        {
+          "text": "проблема",
+          "href": "https://cosmatica.org/glossary/63-problema.html"
+        },
+        {
+          "text": " сегодня – не материя. Век господства духа. "
+        }
+      ],
+      "links": [
+        {
+          "text": "проблема",
+          "url": "https://cosmatica.org/glossary/63-problema.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Главный вопрос: Выживание и победа – навсегда. Всё иное прах.",
+      "spans": [
+        {
+          "text": "Главный вопрос: Выживание и победа – навсегда. Всё иное прах."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "И главное средство – испытания и борьба. Развитие в преодолении всё большего.",
+      "spans": [
+        {
+          "text": "И главное средство – испытания и борьба.  "
+        },
+        {
+          "text": "Развитие",
+          "href": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "text": " в преодолении всё большего."
+        }
+      ],
+      "links": [
+        {
+          "text": "Развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Тайная Империя, где она, кто она, как она?",
+      "spans": [
+        {
+          "text": "Тайная Империя, где она, кто она, как она?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Итог: Империя Добра – пусть, истина и цель. Каждый поступок каждого бесконечно важен.",
+      "spans": [
+        {
+          "text": "Итог: Империя Добра – пусть, истина и цель. Каждый поступок каждого бесконечно важен."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "GTey5H-_KaE",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=GTey5H-_KaE"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Выпуск №1 – «В начале было…» Мысль дня: «Империя – религия и государство» Главная проблема сегодня – не материя. Век господства духа. Главный вопрос: Выживание и победа – навсегда. Всё иное прах. И главное средство – испытания и борьба. Развитие в преодолении всё большего. Тайная Империя, где она, кто она, как она? Итог: Империя Добра – пусть, истина и цель. Каждый поступок каждого бесконечно важен.",
+      "links": [
+        {
+          "title": "проблема",
+          "url": "https://cosmatica.org/glossary/63-problema.html"
+        },
+        {
+          "title": "Развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 483,
+    "storedTextCharacters": 397,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 6,
+    "sourceBytes": 75108
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 454,
+  "capturedBodyCharacters": 397,
+  "sourceTextSHA256": "27c6aac28f3b0ca6a39246d901a30f299845de9bf54b0d1786be164e0cada0f6",
+  "archiveSnapshotAt": "2026-10-08T08:44:22Z",
+  "publicVideoCount": 1
+}

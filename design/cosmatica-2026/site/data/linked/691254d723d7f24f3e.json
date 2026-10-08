@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/509-russkii-kosmos-1-janvar-2019.html",
+  "title": "Русский космос №1 (январь, 2019)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/7/3/123123123123123123123march.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Скачать выпуск: rk-2019-01.pdf",
+      "spans": [
+        {
+          "text": "Скачать выпуск: ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "rk-2019-01.pdf",
+          "href": "https://cosmatica.org/upload/redactorfiles/rk-2019-01.pdf"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": " ",
+          "marks": [
+            "bold"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "rk-2019-01.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/rk-2019-01.pdf"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Скачать выпуск: rk-2019-01.pdf",
+      "links": [
+        {
+          "title": "rk-2019-01.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/rk-2019-01.pdf"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u26/7/3/123123123123123123123march.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/7/3/123123123123123123123march.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 84,
+    "storedTextCharacters": 30,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 73518
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 51,
+  "capturedBodyCharacters": 30,
+  "sourceTextSHA256": "3aca797cbb0703b07adfd1d6790f543aaf83e991fcc10e3e3d37408852d0529d",
+  "archiveSnapshotAt": "2026-10-08T08:42:01Z"
+}

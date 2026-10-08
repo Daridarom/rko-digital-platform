@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "glossary",
+  "title": "Глоссарий",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 5,
+  "pageCount": 16,
+  "total": 236,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "База научных знаний",
+      "description": "-матриц, преобразуемых по определенным правилам.",
+      "url": "https://cosmatica.org/glossary/160-baza-nauchnyh-znanii.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=d9782dd8ccf6418359",
+      "type": "article",
+      "sourceCharacters": 102,
+      "verified": false
+    },
+    {
+      "title": "Базовый принцип устойчивого развития в единицах мощности",
+      "description": "есть хроноцелостный процесс, в котором имеет место неубывающий темп роста полезной мощности системы в дли­тельной перспективе.",
+      "url": "https://cosmatica.org/glossary/159-bazovyi-princip-ustoichivogo-razvitija-v-edinicah-moschnosti.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=0f28f6fa4403174b97",
+      "type": "article",
+      "sourceCharacters": 146,
+      "verified": false
+    },
+    {
+      "title": "Величина",
+      "description": "свойств системы, где качественные свой­ства определяются именем, размерностью и единицей измерения, а ко­личественные свойства – численным значением измеряемой величи­ны. Математическая величина – это величина с мерой пространственных единиц.",
+      "url": "https://cosmatica.org/glossary/158-velichina.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=22e0c4da0489658d41",
+      "type": "article",
+      "sourceCharacters": 334,
+      "verified": false
+    },
+    {
+      "title": "Время",
+      "description": "многомерная длительность, обладающая приникающей способ­ностью в",
+      "url": "https://cosmatica.org/glossary/157-vremja.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=5c754d4711d849bbc1",
+      "type": "article",
+      "sourceCharacters": 79,
+      "verified": false
+    },
+    {
+      "title": "Возросшая мощность",
+      "description": "есть указание на удовлетворенную потреб­ность, реализованный интерес, намерение.",
+      "url": "https://cosmatica.org/glossary/155-vozrosshaja-moschnost.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=4b507e735d7144e0a4",
+      "type": "article",
+      "sourceCharacters": 80,
+      "verified": false
+    },
+    {
+      "title": "Воля",
+      "description": "это способность совершать действие с нужной скоростью в определенное",
+      "url": "https://cosmatica.org/glossary/154-volja.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=641890b6b8429675a6",
+      "type": "article",
+      "sourceCharacters": 132,
+      "verified": false
+    },
+    {
+      "title": "Высшая форма знания",
+      "description": "Высшей формой знания, дающего возможность целенаправленного из­менения системы, является",
+      "url": "https://cosmatica.org/glossary/153-vysshaja-forma-znanija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=f6dd1b0f90e6c1b595",
+      "type": "article",
+      "sourceCharacters": 138,
+      "verified": false
+    },
+    {
+      "title": "Вычисление",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/152-vychislenie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=78caa983846739a8b2",
+      "type": "article",
+      "sourceCharacters": 18,
+      "verified": false
+    },
+    {
+      "title": "Группа преобразований",
+      "description": "правил преобразования, связанных с од­ним и тем же инвариантом.",
+      "url": "https://cosmatica.org/glossary/151-gruppa-preobrazovanii.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=f4c93727c2fde3e114",
+      "type": "article",
+      "sourceCharacters": 68,
+      "verified": false
+    },
+    {
+      "title": "Данные",
+      "description": "это не подвергшиеся обработке факты (отдельные символы), имеющие отношение к определенному событию; являются материалом для последующих преобразований.",
+      "url": "https://cosmatica.org/glossary/150-dannye.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=c2a1aceec3984723af",
+      "type": "article",
+      "sourceCharacters": 151,
+      "verified": false
+    },
+    {
+      "title": "Основные виды обра­ботки данных",
+      "description": "это их анализ и синтез с последующим преобразова­нием в информацию.",
+      "url": "https://cosmatica.org/glossary/149-osnovnye-vidy-obra-botki-dannyh.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=10717570eefbfc0d65",
+      "type": "article",
+      "sourceCharacters": 67,
+      "verified": false
+    },
+    {
+      "title": "Диссипативные процессы",
+      "description": "процессы рассеивания энергии; способ­ность системы совершать внешнюю работу убывает во времени, а мощ­ность потерь растет.",
+      "url": "https://cosmatica.org/glossary/148-dissipativnye-processy.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=07852b7152ee25cf48",
+      "type": "article",
+      "sourceCharacters": 122,
+      "verified": false
+    },
+    {
+      "title": "Димензиальность",
+      "description": "в смысле измерения пространства (например, third dimension – третье измерение).",
+      "url": "https://cosmatica.org/glossary/147-dimenzialnost.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=9087b58245f525af1d",
+      "type": "article",
+      "sourceCharacters": 93,
+      "verified": false
+    },
+    {
+      "title": "Доказательство для диалектики",
+      "description": "принятие с необходимостью того, что в математике будет называться аксиомой.",
+      "url": "https://cosmatica.org/glossary/146-dokazatelstvo-dlja-dialektiki.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=8cda5adf961be43b78",
+      "type": "article",
+      "sourceCharacters": 75,
+      "verified": false
+    },
+    {
+      "title": "Доказательство для математики",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/145-dokazatelstvo-dlja-matematiki.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=83b337d5e5837f1df7",
+      "type": "article",
+      "sourceCharacters": 26,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/109-menovaja-stoimost.html",
+  "title": "Меновая стоимость",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "количественное отношение, в котором потре­бительная стоимость одного рода обменивается на потребительную стоимость другого рода.",
+      "spans": [
+        {
+          "text": "количественное отношение, в котором потре­бительная стоимость одного рода обменивается на потребительную стоимость другого рода."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "количественное отношение, в котором потре­бительная стоимость одного рода обменивается на потребительную стоимость другого рода.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 146,
+    "storedTextCharacters": 128,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32009
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 128,
+  "capturedBodyCharacters": 128,
+  "sourceTextSHA256": "3ed64d38867a07f3d4afdced0177e3c3db6396710518225b9a79e899e4c71cab",
+  "archiveSnapshotAt": "2026-10-08T08:46:22Z"
+}

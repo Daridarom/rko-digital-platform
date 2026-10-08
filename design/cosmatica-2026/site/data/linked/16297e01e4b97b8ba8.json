@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/110-sistemogeneticheskaja-paradigma-teorii-vremeni-i-prostranstva.html",
+  "title": "Системогенетическая парадигма теории времени и пространства",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u14/14/f8/subetto-a-i-sistemogeneticheskaja-paradigma-teorii-vremeni-i-pr.jpg",
+      "alt": "Системогенетическая парадигма теории времени и пространства"
+    },
+    {
+      "type": "paragraph",
+      "text": "В этом научном труде  излагается системогенетическая парадигма теории времени и пространства. Книга адресована к ученым, философам, педагогам, деятелям культуры, тем мыслящим людям, кого занимают вопросы сущности времени и пространства.",
+      "spans": [
+        {
+          "text": "В этом научном труде  излагается системогенетическая парадигма теории времени и пространства. Книга адресована к ученым, философам, педагогам, деятелям культуры, тем мыслящим людям, кого занимают вопросы сущности времени и пространства."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Субетто А.И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В этом научном труде излагается системогенетическая парадигма теории времени и пространства. Книга адресована к ученым, философам, педагогам, деятелям культуры, тем мыслящим людям, кого занимают вопросы сущности времени и пространства.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/257/f101d5ba84a1f44ae3e9712dbf41142e"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u14/14/f8/subetto-a-i-sistemogeneticheskaja-paradigma-teorii-vremeni-i-pr.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/257/f101d5ba84a1f44ae3e9712dbf41142e"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 334,
+    "storedTextCharacters": 236,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40495
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 274,
+  "capturedBodyCharacters": 236,
+  "sourceTextSHA256": "0b2a248b158a6f248bd5b4f2589ea7c558e301a98c3a5811957ae1696bd994c2",
+  "archiveSnapshotAt": "2026-10-08T08:47:33Z"
+}

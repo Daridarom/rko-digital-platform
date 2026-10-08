@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/170-invariant-processa-istoricheskogo-razvitija.html",
+  "title": "Инвариант процесса исторического развития",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "рост",
+      "spans": [
+        {
+          "text": "рост"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "возможностей Че­ловечества.",
+      "spans": [
+        {
+          "text": "возможностей Че­ловечества."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "рост возможностей Че­ловечества.",
+      "links": [
+        {
+          "title": "рост",
+          "url": "https://cosmatica.org/glossary/56-rost.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 74,
+    "storedTextCharacters": 31,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31733
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 32,
+  "capturedBodyCharacters": 31,
+  "sourceTextSHA256": "a8b436b71c7c1f5fa1d10e1f612f56f4b78ccb7ef4991a3057db43fc124d2770",
+  "archiveSnapshotAt": "2026-10-08T08:46:40Z"
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/94-a-e-petrov-setevye-metody-planirovanija-proizvodstva.html",
+  "title": "А.Е. Петров - Сетевые методы планирования производства",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/14/c1/a-e-petrov-setevye-metody-planirovanija-proizvodstva-photo-nor.png",
+      "alt": "А.Е. Петров - Сетевые методы планирования производства"
+    },
+    {
+      "type": "paragraph",
+      "text": "Учебно-методическое пособие по дисциплине\r\n«Организация и планирование производства»\r\nдля инженеров техники и технологий по специальности\r\n230104 – «Системы автоматизированного проектирования»\r\nдля бакалавров и магистров техники и технологий по специальности\r\n552800 – «Информатика и вычислительная техника»",
+      "spans": [
+        {
+          "text": "Учебно-методическое пособие по дисциплине\r\n«Организация и планирование производства»\r\nдля инженеров техники и технологий по специальности\r\n230104 – «Системы автоматизированного проектирования»\r\nдля бакалавров и магистров техники и технологий по специальности\r\n552800 – «Информатика и вычислительная техника»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Учебно-методическое пособие по дисциплине «Организация и планирование производства» для инженеров техники и технологий по специальности 230104 – «Системы автоматизированного проектирования» для бакалавров и магистров техники и технологий по специальности 552800 – «Информатика и вычислительная техника»",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/98/4f8636265757cbc088975d507a0c6066"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/14/c1/a-e-petrov-setevye-metody-planirovanija-proizvodstva-photo-nor.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/98/4f8636265757cbc088975d507a0c6066"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 376,
+    "storedTextCharacters": 307,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40376
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 321,
+  "capturedBodyCharacters": 307,
+  "sourceTextSHA256": "3bbe669df1816a597099fc837b26515f3299dab8cc32447c68730f80b723323d",
+  "archiveSnapshotAt": "2026-10-08T08:51:10Z"
+}

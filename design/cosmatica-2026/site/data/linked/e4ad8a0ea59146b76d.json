@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1257-vypusk-0.html",
+  "title": "Выпуск №0",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/0/2/bez-imeni-1.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "БЛИЖЕ К КОСМОСУ - выпуск 0 (лёгкий).pdf",
+      "spans": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "БЛИЖЕ К КОСМОСУ - выпуск 0 (лёгкий).pdf",
+          "href": "https://cosmatica.org/upload/redactorfiles/%D0%91%D0%9B%D0%98%D0%96%D0%95%20%D0%9A%20%D0%9A%D0%9E%D0%A1%D0%9C%D0%9E%D0%A1%D0%A3%20-%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%200%20(%D0%BB%D1%91%D0%B3%D0%BA%D0%B8%D0%B9).pdf"
+        }
+      ],
+      "links": [
+        {
+          "text": "БЛИЖЕ К КОСМОСУ - выпуск 0 (лёгкий).pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/%D0%91%D0%9B%D0%98%D0%96%D0%95%20%D0%9A%20%D0%9A%D0%9E%D0%A1%D0%9C%D0%9E%D0%A1%D0%A3%20-%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%200%20(%D0%BB%D1%91%D0%B3%D0%BA%D0%B8%D0%B9).pdf"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "БКК 0 - высокое качество.pdf",
+      "spans": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "БКК 0 - высокое качество.pdf",
+          "href": "https://cosmatica.org/upload/redactorfiles/%D0%91%D0%9B%D0%98%D0%96%D0%95%20%D0%9A%20%D0%9A%D0%9E%D0%A1%D0%9C%D0%9E%D0%A1%D0%A3%20-%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%200.pdf"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "БКК 0 - высокое качество.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/%D0%91%D0%9B%D0%98%D0%96%D0%95%20%D0%9A%20%D0%9A%D0%9E%D0%A1%D0%9C%D0%9E%D0%A1%D0%A3%20-%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%200.pdf"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронный журнал представляет из себя ежемесячный сборник для читателей разных возрастных групп: материалы будут познавательны как школьникам среднего звена и старше, так и молодым людям, интересующимся темой космоса. Несмотря на оговоренные возрастные категории, мы уверены, что читатели всех возрастов смогут почерпнуть для себя много полезной информации.",
+      "spans": [
+        {
+          "text": "\r\n\tЭлектронный журнал представляет из себя "
+        },
+        {
+          "text": "ежемесячный сборник",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " для читателей разных возрастных групп: материалы будут познавательны как школьникам среднего звена и старше, так и молодым людям, интересующимся темой космоса. Несмотря на оговоренные возрастные категории, мы уверены, что "
+        },
+        {
+          "text": "читатели всех возрастов смогут почерпнуть для себя много полезной информации.",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "БЛИЖЕ К КОСМОСУ - выпуск 0 (лёгкий).pdf БКК 0 - высокое качество.pdf Электронный журнал представляет из себя ежемесячный сборник для читателей разных возрастных групп: материалы будут познавательны как школьникам среднего звена и старше, так и молодым людям, интересующимся темой космоса. Несмотря на оговоренные возрастные категории, мы уверены, что читатели всех возрастов смогут почерпнуть для себя много полезной информации.",
+      "links": [
+        {
+          "title": "БЛИЖЕ К КОСМОСУ - выпуск 0 (лёгкий).pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/%D0%91%D0%9B%D0%98%D0%96%D0%95%20%D0%9A%20%D0%9A%D0%9E%D0%A1%D0%9C%D0%9E%D0%A1%D0%A3%20-%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%200%20(%D0%BB%D1%91%D0%B3%D0%BA%D0%B8%D0%B9).pdf"
+        },
+        {
+          "title": "БКК 0 - высокое качество.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/%D0%91%D0%9B%D0%98%D0%96%D0%95%20%D0%9A%20%D0%9A%D0%9E%D0%A1%D0%9C%D0%9E%D0%A1%D0%A3%20-%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%200.pdf"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u8/0/2/bez-imeni-1.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/0/2/bez-imeni-1.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 625,
+    "storedTextCharacters": 483,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 76219
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 557,
+  "capturedBodyCharacters": 483,
+  "sourceTextSHA256": "df3bf088e3535cca796e7dce3b7bccd47d1427de6c43c5dcb9bb40faf65eca84",
+  "archiveSnapshotAt": "2026-10-08T10:53:07Z"
+}

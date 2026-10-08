@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/181-pervoe-uchreditelnoe-sobranie-vladimirskogo-otdelenija-rko.html",
+  "title": "Первое учредительное собрание Владимирского отделения РКО",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u240/8/4/pervoe-uchreditelnoe-sobranie-vladimirskogo-otdelenija-rko-photo.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Состоится круглый стол «Планы и задачи Владимирского отделения РКО»",
+      "spans": [
+        {
+          "text": "Состоится круглый стол «Планы и задачи Владимирского отделения РКО»"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На собрании выступят",
+      "spans": [
+        {
+          "text": "На собрании выступят"
+        },
+        {
+          "text": " ",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Гапонов Алексей Алексеевич , Президент Русского Космического Общества: «О целях, задачах и развёртывании РКО»",
+      "spans": [
+        {
+          "text": "-  ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "Гапонов Алексей Алексеевич",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/users/7"
+        },
+        {
+          "text": ", Президент Русского Космического Общества: «О целях, задачах и развёртывании РКО»"
+        }
+      ],
+      "links": [
+        {
+          "text": "Гапонов Алексей Алексеевич",
+          "url": "https://cosmatica.org/users/7"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Сиротинский Андрей Валерьевич, Руководитель Редакционного совета РКО.",
+      "spans": [
+        {
+          "text": "- Сиротинский Андрей Валерьевич, Руководитель Редакционного совета РКО."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Состоится круглый стол «Планы и задачи Владимирского отделения РКО» На собрании выступят - Гапонов Алексей Алексеевич , Президент Русского Космического Общества: «О целях, задачах и развёртывании РКО» - Сиротинский Андрей Валерьевич, Руководитель Редакционного совета РКО.",
+      "links": [
+        {
+          "title": "Гапонов Алексей Алексеевич",
+          "url": "https://cosmatica.org/users/7"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u240/8/4/pervoe-uchreditelnoe-sobranie-vladimirskogo-otdelenija-rko-photo.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 422,
+    "storedTextCharacters": 269,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 38474
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 422,
+  "capturedBodyCharacters": 269,
+  "sourceTextSHA256": "32ec03129a6f718a45edadf93e7bf649bcd81a3e0b428dacc491b7268de21114",
+  "archiveSnapshotAt": "2026-10-08T09:15:12Z"
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/104-moschnost.html",
+  "title": "Мощность",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это энергия в единицу времени, работоспособность в единицу времени, возможность действовать во времени.",
+      "spans": [
+        {
+          "text": "это энергия в единицу времени, работоспособность в единицу времени, возможность действовать во времени."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это энергия в единицу времени, работоспособность в единицу времени, возможность действовать во времени.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 112,
+    "storedTextCharacters": 103,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31770
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 103,
+  "capturedBodyCharacters": 103,
+  "sourceTextSHA256": "06a0e386c1545695cb6f7113241226f6ad8dde34cae4f6eae4d4afa8a7d5d010",
+  "archiveSnapshotAt": "2026-10-08T08:46:21Z"
+}

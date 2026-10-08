@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/354-kniga-dlja-chtenija-po-anatomii-fiziologii-i-gigiene-cheloveka.html",
+  "title": "Книга для чтения по анатомии, физиологии и гигиене человека",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/1/9/kniga-dlja-chtenija-po-anatomii-fiziologii-i-gigiene-cheloveka-phot.png",
+      "alt": "Книга для чтения по анатомии, физиологии и гигиене человека"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга содержит краткие очерки, в которых освещены наиболее интересные вопросы строения и функционирования человеческого организма, раскрыты вопросы личной и общественной гигиены труда и отдыха. Популярно изложены элементы физиологии труда. Все практические советы даны как логические выводы из знаний по физиологии человека.",
+      "spans": [
+        {
+          "text": "Книга содержит краткие очерки, в которых освещены наиболее интересные вопросы строения и функционирования человеческого организма, раскрыты вопросы личной и общественной гигиены труда и отдыха. Популярно изложены элементы физиологии труда. Все практические советы даны как логические выводы из знаний по физиологии человека."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Зверев И.Д.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга содержит краткие очерки, в которых освещены наиболее интересные вопросы строения и функционирования человеческого организма, раскрыты вопросы личной и общественной гигиены труда и отдыха. Популярно изложены элементы физиологии труда. Все практические советы даны как логические выводы из знаний по физиологии человека.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 11 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2138/6194ac565e2d3485670c80233d8caab1"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/1/9/kniga-dlja-chtenija-po-anatomii-fiziologii-i-gigiene-cheloveka-phot.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2138/6194ac565e2d3485670c80233d8caab1"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 423,
+    "storedTextCharacters": 324,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 41050
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 363,
+  "capturedBodyCharacters": 324,
+  "sourceTextSHA256": "73b8f5c0db13aac10c2ea5dc95180e4767c12a56c8bc100bdcba3770fdd6e446",
+  "archiveSnapshotAt": "2026-10-08T08:49:28Z"
+}

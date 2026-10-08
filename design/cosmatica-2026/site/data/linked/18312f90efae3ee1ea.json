@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/95-novoe-znanie.html",
+  "title": "Новое знание",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это новый результат в фундаментальных и прикладных исследованиях, дающий дополнительный (по сравнению со «старым» знанием) эффект.",
+      "spans": [
+        {
+          "text": "это новый результат в фундаментальных и прикладных исследованиях, дающий дополнительный (по сравнению со «старым» знанием) эффект."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это новый результат в фундаментальных и прикладных исследованиях, дающий дополнительный (по сравнению со «старым» знанием) эффект.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 143,
+    "storedTextCharacters": 130,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32003
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 130,
+  "capturedBodyCharacters": 130,
+  "sourceTextSHA256": "7c04557724bd704ca541ceed3a1b3e210fa03cdd1cfc2134b550b9305705c055",
+  "archiveSnapshotAt": "2026-10-08T08:47:21Z"
+}

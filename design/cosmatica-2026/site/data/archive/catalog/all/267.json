@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 267,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Диалектический метод К. Маркса — теоретическая основа разработки и применения систем «СПУТНИК-СКАЛАР",
+      "description": "Рассматриваются теоретические предпосылки, лежащие в основе разработки и применения систем «СПУТНИК-СКАЛАР».",
+      "url": "https://cosmatica.org/library/33-dialekticheskii-metod-k-marksa-teoreticheskaja-osnova-razrabotki-i-primenenija-sistem-sputnik-ska.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=100b65778052ccaeba",
+      "type": "book",
+      "sourceCharacters": 129,
+      "verified": false
+    },
+    {
+      "title": "Космос - это наше будущее!",
+      "description": "О том, что такое Косматика, кому принадлежит космос, какие проекты в ближайших перспективах РКО и подробнее об одном из них - компьютерной игре \"Наша Вселенная\".",
+      "url": "https://cosmatica.org/news/33-osobyi-rakurs-o-russkom-kosmicheskom-obschestve.html",
+      "image": "https://cosmatica.org/upload/000/u1/b3/59/osobyi-rakurs-o-russkom-kosmicheskom-obschestve-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2f4a6b22d1918048f0",
+      "type": "news-item",
+      "sourceCharacters": 9853,
+      "verified": false
+    },
+    {
+      "title": "«Будущее российского космоса в фантастике и в жизни»",
+      "description": "25 августа 2018 года на базе спортивного комплекса «Искра» в г. Москва состоится круглый стол «Будущее российского космоса в фантастике и в жизни», на котором писатели, издатели, космонавты и специалисты космической отрасли обсудят популяризацию космоса в обществе.",
+      "url": "https://cosmatica.org/poster/33-buduschee-rossiiskogo-kosmosa-v-fantastike-i-v-zhizni.html",
+      "image": "https://cosmatica.org/upload/000/u26/ab/89/9315d27a.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=39a4bb674dd408da08",
+      "type": "poster-item",
+      "sourceCharacters": 2915,
+      "verified": false
+    },
+    {
+      "title": "Первая мировая выставка межпланетных аппаратов и механизмов (1927 г.)",
+      "description": "Автор: Председатель Секции истории авиации и космонавтики СПбФ ИИЕТ РАН Руководитель Комиссии воздухоплавания РГО, Член Экспертного Совета Русского Космического Общества В.В. Лебедев",
+      "url": "https://cosmatica.org/articles/32-pervaja-mirovaja-vystavka-mezhplanetnyh-apparatov-i-mehanizmov-1927-g.html",
+      "image": "https://pp.userapi.com/c840235/v840235792/785f9/s5NUzCQACfA.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=dad3d36f157d776741",
+      "type": "article",
+      "sourceCharacters": 34693,
+      "verified": false
+    },
+    {
+      "title": "Представительство в Канаде",
+      "description": "Адрес: 2323 Bloor Street West, Unit 216, Toronto, ON M6S 4W1",
+      "url": "https://cosmatica.org/departments/32-predstavitelstvo-v-kanade.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=a6859e84a882b5f712",
+      "type": "department",
+      "sourceCharacters": 138,
+      "verified": false
+    },
+    {
+      "title": "Труд",
+      "description": "целесообразная деятельность, мерой которой является произ­ведение рабочего времени на полезную",
+      "url": "https://cosmatica.org/glossary/32-trud.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=417a92aa1db5395ccf",
+      "type": "article",
+      "sourceCharacters": 271,
+      "verified": false
+    },
+    {
+      "title": "Спинорный метод решения систем нелинейных алгебраических уравнений",
+      "description": "решения систем нелинейных алгебраических уравнений состоит из двух этапов: предварительного, дающего расположение корней, и дальнейшего уточнения корней.",
+      "url": "https://cosmatica.org/library/32-spinornyi-metod-reshenija-sistem-nelineinyh-algebraicheskih-uravnenii.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=ffba89e33fcaf8cbfd",
+      "type": "book",
+      "sourceCharacters": 186,
+      "verified": false
+    },
+    {
+      "title": "21 декабря 2017 года Русское Космическое Общество провело первое общее собрание членов",
+      "description": "Собрание прошло в Центральном доме учёных по адресу: г. Москва, ул. Пречистенка, д. 16.",
+      "url": "https://cosmatica.org/news/32-21-dekabrja-2017-goda-russkoe-kosmicheskoe-obschestvo-provelo-pervoe-obschee-sobranie-chlenov-ono.html",
+      "image": "https://cosmatica.org/upload/000/u1/93/09/21-dekabrja-2017-goda-russkoe-kosmicheskoe-obschestvo-provelo-pervo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8b7f247ece144eb00e",
+      "type": "news-item",
+      "sourceCharacters": 6168,
+      "verified": false
+    },
+    {
+      "title": "Награждение лауреатов и дипломантов премии «Песенное слово» #Всероссийская премия детского литературного творчества им. С.А. Есенина «Песенное слово»",
+      "description": "Лауреаты всероссийской премии детского литературного творчества им. С.А. Есенина «Песенное слово» будут награждены на Родине С.А. Есенина - в городе Рязани.",
+      "url": "https://cosmatica.org/poster/32-nagrazhdenie-laureatov-i-diplomantov-premii-pesennoe-slovo.html",
+      "image": "https://cosmatica.org/upload/000/u26/80/5d/nagrazhdenie-laureatov-i-diplomantov-premii-pesennoe-slovo-pho.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=5543f476062c2c91a0",
+      "type": "poster-item",
+      "sourceCharacters": 942,
+      "verified": false
+    },
+    {
+      "title": "Универсальная мера",
+      "description": "это единство качественных и количествен­ных свойств системы, выраженное в терминах пространственно-временных величин.",
+      "url": "https://cosmatica.org/glossary/31-universalnaja-mera.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=8a72c8a5e0d05736d3",
+      "type": "article",
+      "sourceCharacters": 117,
+      "verified": false
+    },
+    {
+      "title": "Происхождение жизни и второй закон термодинамики",
+      "description": "происхождения органической жизни из неживой природы относится к числу тех научных проблем, которые требуют нового научного вооружения.",
+      "url": "https://cosmatica.org/library/31-proishozhdenie-zhizni-i-vtoroi-zakon-termodinamiki.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=09e240ca8ff9f23bbf",
+      "type": "book",
+      "sourceCharacters": 164,
+      "verified": false
+    },
+    {
+      "title": "Наша газета - лауреат Международной премии \"EcoWorld\" 2017 года",
+      "description": "Премия «EcoWorld» присуждается с 2004 года. Ее учредители - Межрегиональная общественная организация «Фонд благотворительных инициатив» и Российская академия естественных наук. Ежегодный контекст для определения лауреатов премии определяется наиболее эффективными проектами в деле защиты окружающей среды и общественного здоровья. Проект охватывает 76 регионов РФ, а также Армению, Украину, Беларусь, Францию и Чили.",
+      "url": "https://cosmatica.org/news/31-nasha-gazeta-laureat-mezhdunarodnoi-premii-ecoworld-2017-goda.html",
+      "image": "https://cosmatica.org/upload/000/u1/19/4f/nasha-gazeta-laureat-mezhdunarodnoi-premii-ecoworld-2017-goda.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7356fcb841499dc3fa",
+      "type": "news-item",
+      "sourceCharacters": 801,
+      "verified": false
+    },
+    {
+      "title": "Выпуск № 8. 2018, февраль",
+      "description": "Мы рады представить вашему вниманию новый номер нашей газеты.",
+      "url": "https://cosmatica.org/newspaper/31-vypusk-8-2018-fevral.html",
+      "image": null,
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=ab5d5dd2eefe884da3",
+      "type": "article",
+      "sourceCharacters": 4303,
+      "verified": false
+    },
+    {
+      "title": "Астрономический форум \"АстроПсков\"",
+      "description": "Дата мероприятия обусловлена сразу двумя астрономическими событиями: полное лунное затмение (редкое явление, которое повторяется всего несколько раз в столетие) и Великое противостояние Марса (повторяется не чаще, чем один раз в 15-17 лет).",
+      "url": "https://cosmatica.org/poster/31-astronomicheskii-forum-astropskov.html",
+      "image": "https://cosmatica.org/upload/000/u21/bd/d2/ea945bc9.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=86b74f8c7956f3de28",
+      "type": "poster-item",
+      "sourceCharacters": 2614,
+      "verified": false
+    },
+    {
+      "title": "Представительство в Латвии",
+      "description": "Руководитель Представительства: Линёв Глеб Михайлович",
+      "url": "https://cosmatica.org/departments/30-predstavitelstvo-v-latvii.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=309a5950765db11066",
+      "type": "department",
+      "sourceCharacters": 53,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/123",
+  "title": "Татьяна Дмитриевна Жукова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/19/b4/8943e972.jpg",
+      "alt": "Татьяна Дмитриевна Жукова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 1"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/b4/b8/9d57a3dc.jpg",
+      "alt": "Татьяна Дмитриевна Жукова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Президент РШБА (Ассоциация школьных библиотек России)",
+      "spans": [
+        {
+          "text": "Президент РШБА (Ассоциация школьных библиотек России)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Кандидат педагогических наук",
+      "spans": [
+        {
+          "text": "Кандидат педагогических наук"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Издатель общероссийских журналов «Школьная библиотека» и «Читайка»",
+      "spans": [
+        {
+          "text": "Издатель общероссийских журналов «Школьная библиотека» и «Читайка»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Президент РШБА (Ассоциация школьных библиотек России) Кандидат педагогических наук Издатель общероссийских журналов «Школьная библиотека» и «Читайка»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/19/b4/8943e972.jpg",
+    "https://cosmatica.org/upload/000/u26/b4/b8/9d57a3dc.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 246,
+    "storedTextCharacters": 196,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36172
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 177,
+  "capturedBodyCharacters": 196,
+  "sourceTextSHA256": "5ee89a456ee6a2103b69e3d36aefe6c34c2025ab4e88f1e2c4e620cab76565d2",
+  "archiveSnapshotAt": "2026-10-08T09:17:57Z"
+}

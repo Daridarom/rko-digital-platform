@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1778-frederik-zholio-kyuri-ob-otvetstvennosti-nauki-i-uchyonyh-v-xx-stoletii.html",
+  "title": "Фредерик Жолио-Кюри об ответственности науки и учёных в XX столетии",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Лекторий Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/d/e/648735b9.png",
+      "alt": "Фредерик Жолио-Кюри об ответственности науки и учёных в XX столетии"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "JaJJVIDz5CE",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=JaJJVIDz5CE"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Достойные примеры для подражания как никогда нужны молодому поколению сегодня. Вот один из них.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "7 декабря в Лаборатории экофилософских исследований Донецкого национального университета экономики и торговли им. Михаила Туган-Барановского состоялось заседание, посвящённое встрече 300-летнего юбилея Российской Академии Наук. Почётный член Русского Космического Общества, д. филос.н., проф Э.В.Баркова - руководитель Лаборатории - выступила перед педагогами и студентами с лекцией \"Фредерик Жолио-Кюри об ответственности науки и учёных в XX столетии\" о выдающемся учёном, общественном деятеле, борце за Мир во всем Мире и только мирное использование достижений Науки. Человек, о котором не много говорят, но, о котором стоит знать. Человек Мира.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/d/e/648735b9.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 999,
+    "storedTextCharacters": 51,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 47864
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 780,
+  "capturedBodyCharacters": 51,
+  "sourceTextSHA256": "20f9d07bbac708259654df9453f8c980c564ada6058b179f2a63266227ef2b96",
+  "archiveSnapshotAt": "2026-10-08T09:08:40Z",
+  "publicVideoCount": 1
+}

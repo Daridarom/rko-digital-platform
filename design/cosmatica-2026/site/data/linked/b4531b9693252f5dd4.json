@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/137",
+  "title": "Юрий Анатольевич Спасенников",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/02/c5/ca0d570a.png",
+      "alt": "Юрий Анатольевич Спасенников"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/7d/17/5a140c5b.png",
+      "alt": "Юрий Анатольевич Спасенников"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Фотограф",
+      "spans": [
+        {
+          "text": "Фотограф"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Фотограф",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/02/c5/ca0d570a.png",
+    "https://cosmatica.org/upload/000/u7/7d/17/5a140c5b.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 90,
+    "storedTextCharacters": 41,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34855
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 36,
+  "capturedBodyCharacters": 41,
+  "sourceTextSHA256": "e542aa5afa158d2bfc6d8e12db282e90f004d5e18eb329fc5310474f10e1c2f9",
+  "archiveSnapshotAt": "2026-10-08T09:18:03Z"
+}

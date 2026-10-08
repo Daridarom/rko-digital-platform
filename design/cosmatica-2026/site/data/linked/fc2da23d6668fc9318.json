@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/191",
+  "title": "Юрий Анатольевич Харкевич",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/7/7/0aeead91.jpg",
+      "alt": "Юрий Анатольевич Харкевич"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/c/1/4ad439d7.jpg",
+      "alt": "Юрий Анатольевич Харкевич"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель клуба славяно-горицкой борьбы, Республика Беларусь",
+      "spans": [
+        {
+          "text": "Руководитель клуба славяно-горицкой борьбы, Республика Беларусь"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Представительство в Беларуси",
+      "links": [
+        {
+          "title": "Представительство в Беларуси",
+          "url": "https://cosmatica.org/departments/16-predstavitelstvo-v-belarusi.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Руководитель клуба славяно-горицкой борьбы, Республика Беларусь",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/7/7/0aeead91.jpg",
+    "https://cosmatica.org/upload/000/u26/c/1/4ad439d7.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 164,
+    "storedTextCharacters": 96,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35020
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 113,
+  "capturedBodyCharacters": 96,
+  "sourceTextSHA256": "a671d29a34e4dc8164081eb45d5c46416f088d8723dd2490b374ece04cc4d579",
+  "archiveSnapshotAt": "2026-10-08T09:18:23Z"
+}

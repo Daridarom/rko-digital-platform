@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/124-intuitivnaja-teorija.html",
+  "title": "Интуитивная теория",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "теория",
+      "spans": [
+        {
+          "text": "теория"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", изложенная на естественном языке без указания меры и измерительной процедуры.",
+      "spans": [
+        {
+          "text": ", изложенная на естественном языке без указания меры и измерительной процедуры."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "теория , изложенная на естественном языке без указания меры и измерительной процедуры.",
+      "links": [
+        {
+          "title": "теория",
+          "url": "https://cosmatica.org/glossary/35-teorija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 105,
+    "storedTextCharacters": 85,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31855
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 86,
+  "capturedBodyCharacters": 85,
+  "sourceTextSHA256": "06952f19f0905a1108bca394b81dd4df433c05fe5420270752bed6f0b584ad68",
+  "archiveSnapshotAt": "2026-10-08T08:46:27Z"
+}

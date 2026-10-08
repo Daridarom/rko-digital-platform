@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/139",
+  "title": "Юрий Северинович Лекомцев",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/cf/df/4366c672.png",
+      "alt": "Юрий Северинович Лекомцев"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 1"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/7b/a1/d1012205.png",
+      "alt": "Юрий Северинович Лекомцев"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Генеральный директор АНО «Спортклуб Роскосмос»",
+      "spans": [
+        {
+          "text": "Генеральный директор АНО «Спортклуб Роскосмос»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Генеральный директор АНО «Спортклуб Роскосмос»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/cf/df/4366c672.png",
+    "https://cosmatica.org/upload/000/u7/7b/a1/d1012205.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 143,
+    "storedTextCharacters": 95,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35965
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 74,
+  "capturedBodyCharacters": 95,
+  "sourceTextSHA256": "cc2ddc17da6db0038cc7d01ac0ffd6d862846594698ef63785125b0353901d0c",
+  "archiveSnapshotAt": "2026-10-08T09:18:03Z"
+}

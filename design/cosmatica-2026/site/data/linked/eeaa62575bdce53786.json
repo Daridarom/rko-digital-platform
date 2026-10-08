@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/214-zvezdnyi-gorodok.html",
+  "title": "Звездный городок",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/a/e/zvezdnyi-gorodok-photo-normal.jpg",
+      "alt": "Звездный городок"
+    },
+    {
+      "type": "paragraph",
+      "text": "Машиностроение, Москва, 1977г.",
+      "spans": [
+        {
+          "text": "Машиностроение, Москва, 1977г."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Сборник",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Машиностроение, Москва, 1977г.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 28 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1552/6ddde8fa85fd861f7a0bdd74a521bcac"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/a/e/zvezdnyi-gorodok-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1552/6ddde8fa85fd861f7a0bdd74a521bcac"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 82,
+    "storedTextCharacters": 30,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39088
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 65,
+  "capturedBodyCharacters": 30,
+  "sourceTextSHA256": "def0daeb4b1204130ee565a31393cd436536fc000cd982eff1c28b0d5470973e",
+  "archiveSnapshotAt": "2026-10-08T08:48:04Z"
+}

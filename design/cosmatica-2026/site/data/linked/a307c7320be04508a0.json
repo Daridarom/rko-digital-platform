@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/27-universalnyi-jazyk-dlja-formalnogo-opisanija-fizicheskih-zakonov.html",
+  "title": "Универсальный язык для формального описания физических законов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Эффективность средств массовой коммуникации тем\r\nвыше, чем более унифицированы и чем более однозначно\r\nинтерпретируемы понятия, которые представлены знаками\r\nсистем массовой коммуникации»",
+      "spans": [
+        {
+          "text": "Эффективность средств массовой коммуникации тем\r\nвыше, чем более унифицированы и чем более однозначно\r\nинтерпретируемы понятия, которые представлены знаками\r\nсистем массовой коммуникации»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Эффективность средств массовой коммуникации тем выше, чем более унифицированы и чем более однозначно интерпретируемы понятия, которые представлены знаками систем массовой коммуникации»",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 190 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/43/9bca549b5640a89a19521d740caff50d"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/43/9bca549b5640a89a19521d740caff50d"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 268,
+    "storedTextCharacters": 187,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39597
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 205,
+  "capturedBodyCharacters": 187,
+  "sourceTextSHA256": "f5390ad7270e0ff6f82d1ee6a55636fe4cfb29e5852cd8207daa8ba2c0cd8616",
+  "archiveSnapshotAt": "2026-10-08T08:48:23Z"
+}

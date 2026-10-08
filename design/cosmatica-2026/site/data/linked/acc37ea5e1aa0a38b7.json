@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/725-tropa-muzhestva-osen-2018-dlja-detei.html",
+  "title": "\"Тропа мужества\". Осень 2018 (для детей)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Тропа Мужества",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Благодаря усилиям Организаторов, Администрации Калужской области и Боровского района, мероприятие посетили ученики шести районных школ в количестве более 150 человек.",
+      "spans": [
+        {
+          "text": "Благодаря усилиям Организаторов, Администрации Калужской области и Боровского района, мероприятие посетили ученики шести районных школ в количестве более 150 человек. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ребята не только прошли 15 км трассы, но и поучаствовали в специально для них организованных мастер-классах по джиу-джитсу, рукопашному бою, метанию ножей, преодолению полосы препятствий, стрельбе из стрелкового оружия и т.д.",
+      "spans": [
+        {
+          "text": "Ребята не только прошли 15 км трассы, но и поучаствовали в специально для них организованных мастер-классах по джиу-джитсу, рукопашному бою, метанию ножей, преодолению полосы препятствий, стрельбе из стрелкового оружия и т.д."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Официальный сайт",
+      "spans": [
+        {
+          "text": "Официальный сайт"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа ВКонтакте",
+      "spans": [
+        {
+          "text": "Группа ВКонтакте",
+          "href": "https://vk.com/natropu"
+        }
+      ],
+      "links": [
+        {
+          "text": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ссылка на Youtube",
+      "spans": [
+        {
+          "text": "Ссылка на Youtube ",
+          "href": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "links": [
+        {
+          "text": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "cq4im3BuWRY",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=cq4im3BuWRY"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Благодаря усилиям Организаторов, Администрации Калужской области и Боровского района, мероприятие посетили ученики шести районных школ в количестве более 150 человек. Ребята не только прошли 15 км трассы, но и поучаствовали в специально для них организованных мастер-классах по джиу-джитсу, рукопашному бою, метанию ножей, преодолению полосы препятствий, стрельбе из стрелкового оружия и т.д. Официальный сайт Группа ВКонтакте Ссылка на Youtube",
+      "links": [
+        {
+          "title": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        },
+        {
+          "title": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 522,
+    "storedTextCharacters": 455,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 5,
+    "sourceBytes": 74780
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 465,
+  "capturedBodyCharacters": 455,
+  "sourceTextSHA256": "f26ccbb1fad2ba6521e1b647227544d4fd4559cc7f122f7fe3355e27b21d00b6",
+  "archiveSnapshotAt": "2026-10-08T08:43:09Z",
+  "publicVideoCount": 1
+}

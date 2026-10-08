@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/130-ekonomika-dvoistvennost-mery-nauka-ustoichivogo-razvitija-kniga-i-vvedenie.html",
+  "title": "Экономика — двойственность меры // Наука устойчивого развития. Книга I. Введение",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/401cf05710de0824caadff.webp",
+      "alt": "Экономика — двойственность меры // Наука устойчивого развития. Книга I. Введение"
+    },
+    {
+      "type": "paragraph",
+      "text": "Выше было показано, что первым принципом науки является принцип измерения.\r\nЭто означает, что понятие приобретает статус научного в том и только в том\r\nслучае, если оно имеет меру. Понятие без меры является интуитивным. Если",
+      "spans": [
+        {
+          "text": "Выше было показано, что первым принципом науки является принцип измерения.\r\nЭто означает, что понятие приобретает статус научного в том и только в том\r\nслучае, если оно имеет меру. Понятие без меры является интуитивным. Если"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мера",
+      "spans": [
+        {
+          "text": "мера"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ложная, то и понятие ложное. По этой причине обоснование меры является фунда-\r\nментальной задачей любой науки и, в том числе, – экономической науки.",
+      "spans": [
+        {
+          "text": "ложная, то и понятие ложное. По этой причине обоснование меры является фунда-\r\nментальной задачей любой науки и, в том числе, – экономической науки."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Б.Е. Большаков",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Выше было показано, что первым принципом науки является принцип измерения. Это означает, что понятие приобретает статус научного в том и только в том случае, если оно имеет меру. Понятие без меры является интуитивным. Если мера ложная, то и понятие ложное. По этой причине обоснование меры является фунда- ментальной задачей любой науки и, в том числе, – экономической науки.",
+      "links": [
+        {
+          "title": "мера",
+          "url": "https://cosmatica.org/glossary/107-mera.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 435 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/527/eb29e951600804b378f3b032e35bb226"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/401cf05710de0824caadff.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/527/eb29e951600804b378f3b032e35bb226"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 499,
+    "storedTextCharacters": 376,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40893
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 418,
+  "capturedBodyCharacters": 376,
+  "sourceTextSHA256": "f208bb8e36956afae42845e7b7af1c2306492ab23b3d4bfad409172c955d4015",
+  "archiveSnapshotAt": "2026-10-08T08:47:39Z"
+}

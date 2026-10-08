@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/38-tvorchestvo.html",
+  "title": "Творчество",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "процесс превращения невозможного в возможное.",
+      "spans": [
+        {
+          "text": "процесс превращения невозможного в возможное."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "процесс превращения невозможного в возможное.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 56,
+    "storedTextCharacters": 45,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31541
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 45,
+  "capturedBodyCharacters": 45,
+  "sourceTextSHA256": "158f99ff0f6ccaa1b10a26dffb1c2d84d9e0244b071cc669c6669d81b7310d93",
+  "archiveSnapshotAt": "2026-10-08T08:46:49Z"
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/33-tovar-usluga.html",
+  "title": "Товар (услуга)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "продукт",
+      "spans": [
+        {
+          "text": "продукт"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "с установленной меновой стоимостью (ры­ночной ценой).",
+      "spans": [
+        {
+          "text": "с установленной меновой стоимостью (ры­ночной ценой)."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "продукт с установленной меновой стоимостью (ры­ночной ценой).",
+      "links": [
+        {
+          "title": "продукт",
+          "url": "https://cosmatica.org/glossary/74-produkt.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 76,
+    "storedTextCharacters": 60,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31706
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 61,
+  "capturedBodyCharacters": 60,
+  "sourceTextSHA256": "50dc9a14581094019f7edf9712eedb39813143786a9bb67543c62669a731f0b5",
+  "archiveSnapshotAt": "2026-10-08T08:46:47Z"
+}

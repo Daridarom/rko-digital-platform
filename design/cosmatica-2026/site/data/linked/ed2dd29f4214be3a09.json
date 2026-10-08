@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/1996",
+  "title": "Денис Викторович Шевцов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/f/b312bed4.jpg",
+      "alt": "Денис Викторович Шевцов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/7/6e6c6167.jpg",
+      "alt": "Денис Викторович Шевцов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 4 года назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель Совета Отцов Семьи Отечества Брянской области",
+      "spans": [
+        {
+          "text": "Руководитель Совета Отцов Семьи Отечества Брянской области"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Брянская область",
+      "links": [
+        {
+          "title": "Брянская область",
+          "url": "https://cosmatica.org/departments/33-brjanskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Руководитель Совета Отцов Семьи Отечества Брянской области",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/f/f/b312bed4.jpg",
+    "https://cosmatica.org/upload/002/u218/e/7/6e6c6167.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 146,
+    "storedTextCharacters": 92,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34929
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 96,
+  "capturedBodyCharacters": 92,
+  "sourceTextSHA256": "c7d550d67108c224327260beba9a018c2bd8dc928c570271f68f1d8cca1de3d2",
+  "archiveSnapshotAt": "2026-10-08T09:18:26Z"
+}

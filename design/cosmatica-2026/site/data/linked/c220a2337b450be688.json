@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/77-princip-garmonii-sostojanija.html",
+  "title": "Принцип гармонии состояния",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "требование соразмерности, соизме­римости и золотого сечения как гармонии между целым и частью.",
+      "spans": [
+        {
+          "text": "требование соразмерности, соизме­римости и золотого сечения как гармонии между целым и частью."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "требование соразмерности, соизме­римости и золотого сечения как гармонии между целым и частью.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 121,
+    "storedTextCharacters": 94,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31906
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 94,
+  "capturedBodyCharacters": 94,
+  "sourceTextSHA256": "14bc81b54dd3b3eb4cd5bc8bc9168eea05771b7117ccd7fed27c3846e5ca5d94",
+  "archiveSnapshotAt": "2026-10-08T08:47:15Z"
+}

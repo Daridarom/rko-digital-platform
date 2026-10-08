@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/83-praktika.html",
+  "title": "Практика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "то, что существовало и существует в реальном мире. «Сухим остатком» практики является общий",
+      "spans": [
+        {
+          "text": "то, что существовало и существует в реальном мире. «Сухим остатком» практики является общий"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "закон",
+      "spans": [
+        {
+          "text": "закон"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Природы.",
+      "spans": [
+        {
+          "text": "Природы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "то, что существовало и существует в реальном мире. «Сухим остатком» практики является общий закон Природы.",
+      "links": [
+        {
+          "title": "закон",
+          "url": "https://cosmatica.org/glossary/139-zakon.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 115,
+    "storedTextCharacters": 104,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31914
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 106,
+  "capturedBodyCharacters": 104,
+  "sourceTextSHA256": "6a7766448958f5ec90c067fe337c1c1443c29ff6acb85cb9a8e56020b362892a",
+  "archiveSnapshotAt": "2026-10-08T08:47:18Z"
+}

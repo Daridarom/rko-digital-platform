@@ -1,0 +1,86 @@
+[
+  {
+    "key": "all",
+    "title": "Весь публичный архив РКО",
+    "count": 4812,
+    "pages": 321
+  },
+  {
+    "key": "news",
+    "title": "Новости",
+    "count": 2019,
+    "pages": 135
+  },
+  {
+    "key": "library",
+    "title": "Библиотека",
+    "count": 510,
+    "pages": 34
+  },
+  {
+    "key": "articles",
+    "title": "Публикации и материалы",
+    "count": 1074,
+    "pages": 72
+  },
+  {
+    "key": "projects",
+    "title": "Проекты",
+    "count": 290,
+    "pages": 20
+  },
+  {
+    "key": "poster",
+    "title": "Мероприятия",
+    "count": 316,
+    "pages": 22
+  },
+  {
+    "key": "users",
+    "title": "Участники РКО",
+    "count": 235,
+    "pages": 16
+  },
+  {
+    "key": "glossary",
+    "title": "Глоссарий",
+    "count": 236,
+    "pages": 16
+  },
+  {
+    "key": "newspaper",
+    "title": "Газета РКО",
+    "count": 30,
+    "pages": 2
+  },
+  {
+    "key": "departments",
+    "title": "Отделения",
+    "count": 31,
+    "pages": 3
+  },
+  {
+    "key": "partners",
+    "title": "Партнёры",
+    "count": 13,
+    "pages": 1
+  },
+  {
+    "key": "collegium",
+    "title": "Советы",
+    "count": 19,
+    "pages": 2
+  },
+  {
+    "key": "about",
+    "title": "Об РКО",
+    "count": 19,
+    "pages": 2
+  },
+  {
+    "key": "section",
+    "title": "Секции",
+    "count": 7,
+    "pages": 1
+  }
+]

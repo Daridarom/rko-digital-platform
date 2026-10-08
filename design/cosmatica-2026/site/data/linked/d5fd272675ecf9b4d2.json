@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/177-kontekstno-svjaznaja-ili-fizicheskaja-svjaz-s-realnym-mirom.html",
+  "title": "Контекстно связная или физическая связь с реальным миром",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "связь",
+      "spans": [
+        {
+          "text": "связь"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", которая устанавливает математическую зависимость между параме­трами системы, имеющими физическую интерпретацию, выраженную определенной математической формулой в терминах универсальных устойчивых величин.",
+      "spans": [
+        {
+          "text": ", которая устанавливает математическую зависимость между параме­трами системы, имеющими физическую интерпретацию, выраженную определенной математической формулой в терминах универсальных устойчивых величин."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это связь , которая устанавливает математическую зависимость между параме­трами системы, имеющими физическую интерпретацию, выраженную определенной математической формулой в терминах универсальных устойчивых величин.",
+      "links": [
+        {
+          "title": "связь",
+          "url": "https://cosmatica.org/glossary/55-svjaz.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 273,
+    "storedTextCharacters": 214,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32690
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 216,
+  "capturedBodyCharacters": 214,
+  "sourceTextSHA256": "d58dbe70b80564bdcd565d4e99ee569b581ca2452da91af82c7652fed839aac7",
+  "archiveSnapshotAt": "2026-10-08T08:46:42Z"
+}

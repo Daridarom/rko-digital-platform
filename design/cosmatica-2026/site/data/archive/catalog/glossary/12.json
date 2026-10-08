@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "glossary",
+  "title": "Глоссарий",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 12,
+  "pageCount": 16,
+  "total": 236,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Свойство равновесных систем",
+      "description": "не эволюционировать во времени, то есть неспособность совершать внешнюю работу (все внешние потоки уравновешены внутренними).",
+      "url": "https://cosmatica.org/glossary/52-svoistvo-ravnovesnyh-sistem.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=67ceab6f6c0eb03119",
+      "type": "article",
+      "sourceCharacters": 125,
+      "verified": false
+    },
+    {
+      "title": "Социальное время",
+      "description": ", которое общество расходует на удо­влетворение той или иной общественной потребности.",
+      "url": "https://cosmatica.org/glossary/51-socialnoe-vremja.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=ef41f901c7f3fcc07c",
+      "type": "article",
+      "sourceCharacters": 299,
+      "verified": false
+    },
+    {
+      "title": "Свободная энергия",
+      "description": "энергия, которая способна совершать работу.",
+      "url": "https://cosmatica.org/glossary/50-svobodnaja-energija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=0d90734edeb2b851e1",
+      "type": "article",
+      "sourceCharacters": 43,
+      "verified": false
+    },
+    {
+      "title": "Связная энергия",
+      "description": "энергии, не способная к дальнейшим преобразова­ниям, интеграл от мощности потерь, «отработанная» энергия.",
+      "url": "https://cosmatica.org/glossary/49-svjaznaja-energija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=b4957fc8a59d05db4d",
+      "type": "article",
+      "sourceCharacters": 105,
+      "verified": false
+    },
+    {
+      "title": "Сеть",
+      "description": ", в которой протекают процессы – потоки, соеди­няющие ее элементы.",
+      "url": "https://cosmatica.org/glossary/48-set.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=d06cd0bbbfe3e5fc2b",
+      "type": "article",
+      "sourceCharacters": 78,
+      "verified": false
+    },
+    {
+      "title": "Система",
+      "description": "с инвариантом, где в качестве ин­вариантов выступают устойчивые универсальные меры-законы, опре­деляющие пространственно-временные границы системы в окружа­ющей ее среде. Выделить систему – это, прежде всего, установить ее пространственно-временные границы, то есть определить ее «каче­ство», внутри которого изменения только количественные. Система – это часть целого (мира) с выделенными пространственно- временными гр",
+      "url": "https://cosmatica.org/glossary/47-sistema.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=07c007cf074d7d041c",
+      "type": "article",
+      "sourceCharacters": 600,
+      "verified": false
+    },
+    {
+      "title": "Система «природа – общество – человек»",
+      "description": "это взаимодействие естественных, общественных и духовных процессов, протекающих во Времени–Пространстве.",
+      "url": "https://cosmatica.org/glossary/46-sistema-priroda-obschestvo-chelovek.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=37a694893921415e39",
+      "type": "article",
+      "sourceCharacters": 104,
+      "verified": false
+    },
+    {
+      "title": "Сохранение развития в системе «природа – общество – человек»",
+      "description": "это творческий процесс как процесс сохранения неубывающего роста эффективности использования возможностей (полной мощности) си­стемы во Времени–Пространстве.",
+      "url": "https://cosmatica.org/glossary/45-sohranenie-razvitija-v-sisteme-priroda-obschestvo-chelovek.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=d00802e68aa24b744d",
+      "type": "article",
+      "sourceCharacters": 157,
+      "verified": false
+    },
+    {
+      "title": "Состояние",
+      "description": "значений показателей системы на фик­сированное",
+      "url": "https://cosmatica.org/glossary/44-sostojanie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=27947d4fd76e7d07f8",
+      "type": "article",
+      "sourceCharacters": 283,
+      "verified": false
+    },
+    {
+      "title": "Стоимость",
+      "description": "это совокупная ценность продукта, мерой которой яв­ляется общественный труд. Субстанцией стоимости является труд, мерой которого является энергия, а мерой производительности труда является",
+      "url": "https://cosmatica.org/glossary/42-stoimost.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=ebd5662853d21e56ec",
+      "type": "article",
+      "sourceCharacters": 199,
+      "verified": false
+    },
+    {
+      "title": "Стратегия",
+      "description": "целенаправ­ленных работ, методов (технологий), средств и ресурсов, необходи­мых для ее достижения, развернутые по направлениям и этапам в про­странстве и времени на долгосрочную перспективу.",
+      "url": "https://cosmatica.org/glossary/41-strategija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=d002ed2fd40280e47d",
+      "type": "article",
+      "sourceCharacters": 231,
+      "verified": false
+    },
+    {
+      "title": "Стратегия развития",
+      "description": ", ориентированная на сохране­ние роста производимой полезной мощности преимущественно за счет использования инновационных технологий, удовлетворяющих требованиям к качеству результатов.",
+      "url": "https://cosmatica.org/glossary/40-strategija-razvitija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=9424290f3c3ec4de08",
+      "type": "article",
+      "sourceCharacters": 199,
+      "verified": false
+    },
+    {
+      "title": "Стратегия устойчивого развития",
+      "description": ", ориентирован­ная на сохранение неубывающих темпов роста полезной мощности при не увеличении темпов потребляемой мощности, сокращении по­терь мощности за счет воспроизводимых прорывных технологий и по­вышения качества управления. Из определения следует, что стратегия устойчивого развития – это стратегия, согласованная с законом раз­вития Жизни.",
+      "url": "https://cosmatica.org/glossary/39-strategija-ustoichivogo-razvitija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=239e8001d6c232044d",
+      "type": "article",
+      "sourceCharacters": 361,
+      "verified": false
+    },
+    {
+      "title": "Творчество",
+      "description": "процесс превращения невозможного в возможное.",
+      "url": "https://cosmatica.org/glossary/38-tvorchestvo.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=8fba5d192680b14dc0",
+      "type": "article",
+      "sourceCharacters": 45,
+      "verified": false
+    },
+    {
+      "title": "Тензор",
+      "description": "это специальное понятие, вводимое для обозначения сущно­сти (инварианта) проектируемой системы, представляемой сетью ве­личины «",
+      "url": "https://cosmatica.org/glossary/37-tenzor.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=1d9fca82ed2adb2511",
+      "type": "article",
+      "sourceCharacters": 233,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

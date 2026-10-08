@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/32-spinornyi-metod-reshenija-sistem-nelineinyh-algebraicheskih-uravnenii.html",
+  "title": "Спинорный метод решения систем нелинейных алгебраических уравнений",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Общий",
+      "spans": [
+        {
+          "text": "Общий"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "метод",
+      "spans": [
+        {
+          "text": "метод"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "решения систем нелинейных\r\nалгебраических уравнений состоит из двух этапов:\r\nпредварительного, дающего расположение корней, и\r\nдальнейшего уточнения корней.",
+      "spans": [
+        {
+          "text": "решения систем нелинейных\r\nалгебраических уравнений состоит из двух этапов:\r\nпредварительного, дающего расположение корней, и\r\nдальнейшего уточнения корней."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Общий метод решения систем нелинейных алгебраических уравнений состоит из двух этапов: предварительного, дающего расположение корней, и дальнейшего уточнения корней.",
+      "links": [
+        {
+          "title": "метод",
+          "url": "https://cosmatica.org/glossary/108-metod.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 249 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/48/0b316b3a1f6cd0bf3aa8b8d31bd7ad5d"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/48/0b316b3a1f6cd0bf3aa8b8d31bd7ad5d"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 253,
+    "storedTextCharacters": 166,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39550
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 186,
+  "capturedBodyCharacters": 166,
+  "sourceTextSHA256": "628ffc58f7823c0fe39e5e46299af60906f5531cec3d5e6a117261c593d382a1",
+  "archiveSnapshotAt": "2026-10-08T08:49:16Z"
+}

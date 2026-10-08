@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/172-subbotnik-po-uborke-rusla-i-beregov-reki-lobnja.html",
+  "title": "Субботник по уборке русла и берегов реки Лобня #Экопроект «Действуем разумно живя на Земле»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/a/8/subbotnik-po-uborke-rusla-i-beregov-reki-lobnja-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "В рамках проекта \"Действуем разумно, живя на Земле\" состоится субботник по очистке реки Лобня (Подмосковье). Организаторы проекта будут рады видеть всех желающих.",
+      "spans": [
+        {
+          "text": "В рамках проекта "
+        },
+        {
+          "text": "\"Действуем разумно, живя на Земле\" ",
+          "href": "https://cosmatica.org/projects/117"
+        },
+        {
+          "text": "состоится субботник по очистке реки Лобня (Подмосковье). Организаторы проекта будут рады видеть всех желающих. "
+        }
+      ],
+      "links": [
+        {
+          "text": "\"Действуем разумно, живя на Земле\"",
+          "url": "https://cosmatica.org/projects/117"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Чистые реки Подмосковья - здоровье для всех жителей нашего региона!",
+      "spans": [
+        {
+          "text": "Чистые реки Подмосковья - здоровье для всех жителей нашего региона!"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/5/zhivaja-reka1.png",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В рамках проекта \"Действуем разумно, живя на Земле\" состоится субботник по очистке реки Лобня (Подмосковье). Организаторы проекта будут рады видеть всех желающих. Чистые реки Подмосковья - здоровье для всех жителей нашего региона! Субботник проводится в г. Лобня, ул. Борисова, д.14 (на мостике через речку). 27.07.19 г. в 10-00 час. Организатор: Мазурина Любовь Викторовна Контакты: +7 963 990 21 74, mazurinalubov@mail.ru Встреча: г. Лобня (30 мин. На электричке от МЦК или м. Окружная), магазина «Спар» 9-30 час. (Елена) Самостоятельно: см. карту.",
+      "links": [
+        {
+          "title": "\"Действуем разумно, живя на Земле\"",
+          "url": "https://cosmatica.org/projects/117"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/002/u218/f/5/zhivaja-reka1.png"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/a/8/subbotnik-po-uborke-rusla-i-beregov-reki-lobnja-photo-big.jpg",
+    "https://cosmatica.org/upload/002/u218/f/5/zhivaja-reka1.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 751,
+    "storedTextCharacters": 229,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 3,
+    "sourceBytes": 39894
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 751,
+  "capturedBodyCharacters": 229,
+  "sourceTextSHA256": "610cfee09e50fb1393cbfe09b9ad55d36fbf144b8f565d907a526d69dee6ce4b",
+  "archiveSnapshotAt": "2026-10-08T09:15:10Z"
+}

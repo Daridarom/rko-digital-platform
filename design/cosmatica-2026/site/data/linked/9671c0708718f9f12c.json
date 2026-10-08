@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1429-5-kakimi-dolzhny-byt-obrazovanie-i-nauka-v-xxi-veke.html",
+  "title": "5. Какими должны быть образование и наука в XXI веке?",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке»",
+      "spans": [
+        {
+          "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и  "
+        },
+        {
+          "text": "стратегия",
+          "href": "https://cosmatica.org/glossary/41-strategija.html"
+        },
+        {
+          "text": " эволю-ционного прорыва России и человечества в XXI веке» "
+        }
+      ],
+      "links": [
+        {
+          "text": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "5: Какими должны быть образование и наука в XXI веке? – Становление Научно-образовательного общества как целевая установка образовательной политики и политики в сфере науки.",
+      "spans": [
+        {
+          "text": "5: Какими должны быть образование и наука в XXI веке? – Становление Научно-образовательного общества как целевая установка образовательной политики и политики в сфере науки."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "l4FORkrzxPA",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=l4FORkrzxPA"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке» 5: Какими должны быть образование и наука в XXI веке? – Становление Научно-образовательного общества как целевая установка образовательной политики и политики в сфере науки.",
+      "links": [
+        {
+          "title": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 461,
+    "storedTextCharacters": 321,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 75333
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 407,
+  "capturedBodyCharacters": 321,
+  "sourceTextSHA256": "172d410eef17e85e8ead4c21e95dd2053809560ac139e47889a2481986ccde03",
+  "archiveSnapshotAt": "2026-10-08T10:53:08Z"
+}

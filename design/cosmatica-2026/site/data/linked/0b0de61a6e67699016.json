@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/93-itogi-i-plany-rko-spb.html",
+  "title": "Итоги и планы РКО СПб",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/d7/5d/itogi-i-plany-rko-spb-photo-normal.png",
+      "alt": "Итоги и планы РКО СПб"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "5rEoGfpt8wc",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=5rEoGfpt8wc"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Представляем вашему вниманию видеоотчет по второму собранию Санкт-Петербургского отделения РКО, прошедшему 07.04.2018 г.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u21/d7/5d/itogi-i-plany-rko-spb-photo-normal.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 269,
+    "storedTextCharacters": 11,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 44347
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 137,
+  "capturedBodyCharacters": 11,
+  "sourceTextSHA256": "3d23e89fa91b5c7101d261f00b35308f2ff869fddc01c7c09d99db416f8ee14f",
+  "archiveSnapshotAt": "2026-10-08T09:14:18Z",
+  "publicVideoCount": 1
+}

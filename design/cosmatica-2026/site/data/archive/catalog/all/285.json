@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 285,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Начальное образование",
+      "description": "",
+      "url": "https://cosmatica.org/library/obrazovanie/nachalnoe-obrazovanie",
+      "image": "https://cosmatica.org/upload/002/u218/9/e/zanimatelnaja-arifmetika-photo-small.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=502450588d5c14d2b7",
+      "type": "library",
+      "sourceCharacters": 782,
+      "verified": false
+    },
+    {
+      "title": "Среднее образование",
+      "description": "",
+      "url": "https://cosmatica.org/library/obrazovanie/srednee-obrazovanie",
+      "image": "https://cosmatica.org/upload/000/u35/d/9/drevneslovenskaja-bukvica-photo-small.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=25209b78b937babf95",
+      "type": "library",
+      "sourceCharacters": 941,
+      "verified": false
+    },
+    {
+      "title": "Основания русского космизма",
+      "description": "",
+      "url": "https://cosmatica.org/library/osnovanija-russkogo-kosmizma",
+      "image": "https://cosmatica.org/upload/000/u7/3/6/2c7ceec8.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=b70acce698ac96be40",
+      "type": "library",
+      "sourceCharacters": 1290,
+      "verified": false
+    },
+    {
+      "title": "Синтез междисциплинарных знаний",
+      "description": "",
+      "url": "https://cosmatica.org/library/sintez-mezhdisciplinarnyh-znanii",
+      "image": "https://cosmatica.org/upload/001/u113/8/c/84ff73d5.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=3e2065f63ff4387c52",
+      "type": "library",
+      "sourceCharacters": 1030,
+      "verified": false
+    },
+    {
+      "title": "Учебно-методические пособия",
+      "description": "",
+      "url": "https://cosmatica.org/library/uchebno-metodicheskie-posobija",
+      "image": "https://cosmatica.org/upload/000/u35/c/c/osnovy-teorii-psihologicheskogo-programmirovanija-photo-small.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=76e613d61b48cee501",
+      "type": "library",
+      "sourceCharacters": 1460,
+      "verified": false
+    },
+    {
+      "title": "Устойчивое развитие",
+      "description": "",
+      "url": "https://cosmatica.org/library/ustoichivoe-razvitie",
+      "image": "https://cosmatica.org/upload/000/u7/3/a/filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-u.jpg",
+      "kind": "library-category",
+      "href": "view.html?p=library&ref=b8e7450b3deee80f84",
+      "type": "library",
+      "sourceCharacters": 1987,
+      "verified": false
+    },
+    {
+      "title": "Новости",
+      "description": "",
+      "url": "https://cosmatica.org/news",
+      "image": "assets/source/5ff6fe3456cc4e654c4ba045.webp",
+      "kind": "news",
+      "href": "view.html?p=news",
+      "type": "news",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "О вступлении в ряды РКО",
+      "description": "На основании Положения о членстве и участии в РКО",
+      "url": "https://cosmatica.org/o-vstuplenii-v-rjady-rko.html",
+      "image": null,
+      "kind": "o-vstuplenii-v-rjady-rko.html",
+      "href": "view.html?p=article&ref=11ddb233b77e1e2426",
+      "type": "article",
+      "sourceCharacters": 6244,
+      "verified": false
+    },
+    {
+      "title": "Партнеры",
+      "description": "",
+      "url": "https://cosmatica.org/partners",
+      "image": "assets/source/7056da72a1c1127b0160e031.webp",
+      "kind": "partners",
+      "href": "view.html?p=partners",
+      "type": "partners",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Мероприятия",
+      "description": "",
+      "url": "https://cosmatica.org/poster",
+      "image": "assets/source/80130a9f80362d7fc12d90a0.webp",
+      "kind": "poster",
+      "href": "view.html?p=poster",
+      "type": "poster",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Календарь",
+      "description": "",
+      "url": "https://cosmatica.org/poster/calendar",
+      "image": "assets/source/4a36fb3c1e866406713ac1f1.webp",
+      "kind": "poster-item",
+      "href": "view.html?p=calendar",
+      "type": "calendar",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Фестивали",
+      "description": "",
+      "url": "https://cosmatica.org/poster/festivali",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=7f056fc3f59a3139cc",
+      "type": "poster-item",
+      "sourceCharacters": 52,
+      "verified": false
+    },
+    {
+      "title": "Концерты",
+      "description": "",
+      "url": "https://cosmatica.org/poster/koncerty",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=d041fe7163b1758da2",
+      "type": "poster-item",
+      "sourceCharacters": 51,
+      "verified": false
+    },
+    {
+      "title": "Конференции",
+      "description": "Конференции Грядущие Все 8 октября Конференции Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\" #Международная научная школа устойчивого развития имени П.Г.Кузнецова 08.10.2026 18 мая Конференции Триединство космического прорыва 18.05.2027",
+      "url": "https://cosmatica.org/poster/konferencii",
+      "image": "https://cosmatica.org/upload/000/u7/4/5/mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-s.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=934d4dec247ec8f056",
+      "type": "poster-item",
+      "sourceCharacters": 289,
+      "verified": false
+    },
+    {
+      "title": "Конкурсы",
+      "description": "",
+      "url": "https://cosmatica.org/poster/konkursy",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=0240b1074ea0542af8",
+      "type": "poster-item",
+      "sourceCharacters": 51,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

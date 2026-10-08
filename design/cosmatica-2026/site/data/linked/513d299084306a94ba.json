@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/263-prezentacija-knig-stepana-andreevicha-zotova.html",
+  "title": "Презентация книг Степана Андреевича Зотова #Издание Книги \"История Героев\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/e/prezentacija-knig-stepana-andreevicha-zotova-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Приглашаем на презентацию книг Степана Андреевича Зотова \"Империум Человека: Эра косматики\" и \"История Героев\".",
+      "spans": [
+        {
+          "text": "Приглашаем на презентацию книг Степана Андреевича Зотова \"Империум Человека: Эра косматики\" и \"История Героев\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Кому принадлежит будущее в истории?",
+      "spans": [
+        {
+          "text": "- Кому принадлежит будущее в истории?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Что такое Русское Космическое Общество?",
+      "spans": [
+        {
+          "text": "- Что такое Русское Космическое Общество?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- На каком звёздном корабле мы уже летим?",
+      "spans": [
+        {
+          "text": "- На каком звёздном корабле мы уже летим?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Об этом и многом другом мы предлагаем узнать в необычном формате вечернего приёма.",
+      "spans": [
+        {
+          "text": "Об этом и многом другом мы предлагаем узнать в необычном формате вечернего приёма."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сбор гостей с 16600 до 16:30",
+      "spans": [
+        {
+          "text": "Сбор гостей с 16600 до 16:30"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Приём и фуршет с 16:30 до 18:00",
+      "spans": [
+        {
+          "text": "Приём и фуршет с 16:30 до 18:00"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес: 4-й Вешняковский проезд, д1, к1, м. Рязанский проспект",
+      "spans": [
+        {
+          "text": "Адрес: 4-й Вешняковский проезд, д1, к1, м. Рязанский проспект"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Контактное лицо: Зотов Степан Андреевич",
+      "spans": [
+        {
+          "text": "Контактное лицо: Зотов Степан Андреевич "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "stepanzotov@yandex.ru",
+      "spans": [
+        {
+          "text": "stepanzotov@yandex.ru"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Приглашаем на презентацию книг Степана Андреевича Зотова \"Империум Человека: Эра косматики\" и \"История Героев\". - Кому принадлежит будущее в истории? - Что такое Русское Космическое Общество? - На каком звёздном корабле мы уже летим? Об этом и многом другом мы предлагаем узнать в необычном формате вечернего приёма. Сбор гостей с 16600 до 16:30 Приём и фуршет с 16:30 до 18:00 Адрес: 4-й Вешняковский проезд, д1, к1, м. Рязанский проспект Контактное лицо: Зотов Степан Андреевич stepanzotov@yandex.ru",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/e/prezentacija-knig-stepana-andreevicha-zotova-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 685,
+    "storedTextCharacters": 492,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 10,
+    "sourceBytes": 39206
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 685,
+  "capturedBodyCharacters": 492,
+  "sourceTextSHA256": "7cdc5bda036a14459ab48bf32e36338b721cd914356e5441365ad414ee0aaf7b",
+  "archiveSnapshotAt": "2026-10-08T09:15:36Z"
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/408-matematicheskii-analiz-dlja-shkolnikov.html",
+  "title": "Математический анализ для школьников",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/5/matematicheskii-analiz-dlja-shkolnikov-photo-normal.jpg",
+      "alt": "Математический анализ для школьников"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Понтрягин Л. С.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 14 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2414/d6d18e5277873dfc26c227e47ab17da1"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/5/matematicheskii-analiz-dlja-shkolnikov-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2414/d6d18e5277873dfc26c227e47ab17da1"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 79,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39476
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 42,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "6116b845eb4730d69189836a7139821e8fb0cfbfa09e8641c20d1d3c420e44d3",
+  "archiveSnapshotAt": "2026-10-08T08:49:48Z"
+}

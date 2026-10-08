@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/291",
+  "title": "Елена Лиунгартовна Холодцева",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/5/c44f917e.jpg",
+      "alt": "Елена Лиунгартовна Холодцева"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/b/4/289287d3.jpg",
+      "alt": "Елена Лиунгартовна Холодцева"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Кемеровская область",
+      "links": [
+        {
+          "title": "Кемеровская область",
+          "url": "https://cosmatica.org/departments/18-kemerovskaja-oblast.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/e/5/c44f917e.jpg",
+    "https://cosmatica.org/upload/002/u218/b/4/289287d3.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 84,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34131
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 30,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "ce87910fea07f339c703f3ead1dd90d39830e2c6b3886afa8322a4d0c729493c",
+  "archiveSnapshotAt": "2026-10-08T09:19:02Z"
+}

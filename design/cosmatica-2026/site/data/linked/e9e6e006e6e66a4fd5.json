@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/365-dnevnik-nablyudenii-nad-prirodoi-i-dejatelnostyu-cheloveka.html",
+  "title": "Дневник наблюдений над природой и деятельностью человека",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/8e06e4a947bd9bfd96a3fa.webp",
+      "alt": "Дневник наблюдений над природой и деятельностью человека"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Валерьяновая Е. А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 17 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2175/0ec253e1286059e05305588c5e03e80d"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/8e06e4a947bd9bfd96a3fa.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2175/0ec253e1286059e05305588c5e03e80d"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 102,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39717
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 45,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "18dc860673765a91f8796b3bc779d748731d048b8e2fc72dc8de13af39f2a2cd",
+  "archiveSnapshotAt": "2026-10-08T08:49:31Z"
+}

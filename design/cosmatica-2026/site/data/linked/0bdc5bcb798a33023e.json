@@ -1,0 +1,531 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/103-nachalo-priyoma-rabot-na-otkrytyi-konkurs-esse-im-r-bartini-mnogomernost-vselennoi.html",
+  "title": "Начало приёма работ на Открытый конкурс эссе им. Р. Бартини «Многомерность Вселенной» #Открытый конкурс эссе им. Р. Бартини «Многомерность Вселенной»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/b/e/nachalo-priyoma-rabot-na-otkrytyi-konkurs-esse-im-r-bartini-mno.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Организаторы Конкурса:",
+      "spans": [
+        {
+          "text": "Организаторы Конкурса:",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— ФГБОУ ВО «Брянский государственный инженерно-технологический университет» (далее – университет, вуз, БГИТУ);",
+      "spans": [
+        {
+          "text": "— ФГБОУ ВО «Брянский государственный инженерно-технологический университет» (далее – университет, вуз, БГИТУ);"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— Государственный фонд развития Северо-Запада;",
+      "spans": [
+        {
+          "text": "— Государственный фонд развития Северо-Запада;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— МОО «Русское космическое общество».",
+      "spans": [
+        {
+          "text": "— МОО «Русское космическое общество»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Конкурс проводится с 15 февраля по 1 апреля 2019 г.",
+      "spans": [
+        {
+          "text": "Конкурс проводится "
+        },
+        {
+          "text": "с 15 февраля по 1 апреля 2019 г. ",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Цель Конкурса: популяризация философского знания.",
+      "spans": [
+        {
+          "text": "Цель Конкурса:",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " популяризация философского знания."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Задачи Конкурса:",
+      "spans": [
+        {
+          "text": "Задачи Конкурса:",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— развитие философского мировоззрения молодежи;",
+      "spans": [
+        {
+          "text": "—  "
+        },
+        {
+          "text": "развитие",
+          "href": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "text": " философского мировоззрения молодежи;"
+        }
+      ],
+      "links": [
+        {
+          "text": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— стимулирование развития творческой инициативы у молодых исследователей;",
+      "spans": [
+        {
+          "text": "— стимулирование развития творческой инициативы у молодых исследователей;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— поддержка одаренных студентов и молодых ученых;",
+      "spans": [
+        {
+          "text": "— поддержка одаренных студентов и молодых ученых;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— повышение интереса у молодежи к исследовательской работе и профессиональному занятию наукой.",
+      "spans": [
+        {
+          "text": "— повышение интереса у молодежи к исследовательской работе и профессиональному занятию наукой."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В конкурсе могут принимать участие обучающиеся среднеобразовательных учреждений, высших учебных заведений и молодые ученые.",
+      "spans": [
+        {
+          "text": "В конкурсе могут принимать участие обучающиеся среднеобразовательных учреждений, высших учебных заведений и молодые ученые."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Конкурс проводится по следующим номинациям :",
+      "spans": [
+        {
+          "text": "Конкурс проводится по следующим"
+        },
+        {
+          "text": "номинациям",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": ":"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Конкурс эссе школьников (старшие классы);",
+      "spans": [
+        {
+          "text": "1. Конкурс эссе школьников (старшие классы);"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Конкурс эссе студентов (уровни бакалавриата и специалитета);",
+      "spans": [
+        {
+          "text": "2. Конкурс эссе студентов (уровни бакалавриата и специалитета);"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Конкурс эссе магистрантов и аспирантов;",
+      "spans": [
+        {
+          "text": "3. Конкурс эссе магистрантов и аспирантов;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Конкурс эссе молодых ученых.",
+      "spans": [
+        {
+          "text": "4. Конкурс эссе молодых ученых."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Темы эссе конкурса:",
+      "spans": [
+        {
+          "text": "Темы эссе конкурса:",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— Космос – спасение человечества: proetcontra.",
+      "spans": [
+        {
+          "text": "— Космос – спасение человечества: proetcontra."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— Взаимоотношение человечества и космоса: пути развития.",
+      "spans": [
+        {
+          "text": "— Взаимоотношение человечества и космоса: пути развития."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— Русский космизм – основа и перспектива развития общества.",
+      "spans": [
+        {
+          "text": "— Русский космизм – основа и перспектива развития общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— « Планета есть колыбель разума, но нельзя вечно жить в колыбели» К.Э. Циолковский.",
+      "spans": [
+        {
+          "text": "— "
+        },
+        {
+          "text": "«Планета есть колыбель разума, но нельзя вечно жить в колыбели»",
+          "marks": [
+            "italic"
+          ]
+        },
+        {
+          "text": " К.Э. Циолковский."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— Русский космизм и глобальные проблемы XXI века.",
+      "spans": [
+        {
+          "text": "— Русский космизм и глобальные проблемы XXI века."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— Образ человека в русском космизме.",
+      "spans": [
+        {
+          "text": "— Образ человека в русском космизме."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— Ноосферное мировоззрение XXI века.",
+      "spans": [
+        {
+          "text": "— Ноосферное  "
+        },
+        {
+          "text": "мировоззрение",
+          "href": "https://cosmatica.org/glossary/106-mirovozzrenie.html"
+        },
+        {
+          "text": " XXI века."
+        }
+      ],
+      "links": [
+        {
+          "text": "мировоззрение",
+          "url": "https://cosmatica.org/glossary/106-mirovozzrenie.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "— Роль русского космизма в искусстве XX-XXI веков.",
+      "spans": [
+        {
+          "text": "— Роль русского космизма в искусстве XX-XXI веков."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Для регистрации в конкурсе заполните форму .",
+      "spans": [
+        {
+          "text": "Для регистрации в конкурсе ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "заполните форму",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/redirect?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1dA2u3JKORY_xTDY1LWrbx5Ji5DkniFQ4_zHA6Mn0HcI%2Fviewform%3Fedit_requested%3Dtrue"
+        },
+        {
+          "text": ".",
+          "marks": [
+            "bold"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "заполните форму",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1dA2u3JKORY_xTDY1LWrbx5Ji5DkniFQ4_zHA6Mn0HcI%2Fviewform%3Fedit_requested%3Dtrue"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Приём конкурсных заявок осуществляется только в электронной форме через информационную систему на сайте университета ( www.bgitu.ru) .",
+      "spans": [
+        {
+          "text": "Приём конкурсных заявок осуществляется "
+        },
+        {
+          "text": "только в электронной форме",
+          "marks": [
+            "underline"
+          ]
+        },
+        {
+          "text": " через информационную систему на сайте университета ("
+        },
+        {
+          "text": "www.bgitu.ru)",
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fwww.bgitu.ru%29"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "links": [
+        {
+          "text": "www.bgitu.ru)",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fwww.bgitu.ru%29"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Контактная информация по вопросам участия в Конкурсе:",
+      "spans": [
+        {
+          "text": "Контактная  ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "информация",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/glossary/119-informacija.html"
+        },
+        {
+          "text": " по вопросам участия в Конкурсе:",
+          "marks": [
+            "bold"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "информация",
+          "url": "https://cosmatica.org/glossary/119-informacija.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "8-960-564-84-75, ruso.iren@gmail.com , Рудакова Ирина Викторовна.",
+      "spans": [
+        {
+          "text": "8-960-564-84-75, "
+        },
+        {
+          "text": "ruso.iren@gmail.com",
+          "href": "https://cosmatica.org/redirect?url=https%3A%2F%2Fmail.yandex.ru%2F%3Fmsid%3D1548689064.01598.140276.4343%26amp%3Bamp%3Bm_pssp%3Ddomik%26amp%3Bamp%3Buid%3D39925097%26amp%3Bamp%3Blogin%3Dhelga131081%23compose%3Fto%3Druso.iren%2540gmail.com"
+        },
+        {
+          "text": ", Рудакова Ирина Викторовна."
+        }
+      ],
+      "links": [
+        {
+          "text": "ruso.iren@gmail.com",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fmail.yandex.ru%2F%3Fmsid%3D1548689064.01598.140276.4343%26amp%3Bamp%3Bm_pssp%3Ddomik%26amp%3Bamp%3Buid%3D39925097%26amp%3Bamp%3Blogin%3Dhelga131081%23compose%3Fto%3Druso.iren%2540gmail.com"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Дата начала регистрации участников: «15» февраля 2019 г .",
+      "spans": [
+        {
+          "text": "Дата начала",
+          "marks": [
+            "underline"
+          ]
+        },
+        {
+          "text": " регистрации участников: "
+        },
+        {
+          "text": "«15» февраля 2019 г",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Дата окончания регистрации участников: « 28» февраля 2019 г .",
+      "spans": [
+        {
+          "text": "Дата окончания",
+          "marks": [
+            "underline"
+          ]
+        },
+        {
+          "text": " регистрации участников: «"
+        },
+        {
+          "text": "28» февраля 2019 г",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Организаторы Конкурса: — ФГБОУ ВО «Брянский государственный инженерно-технологический университет» (далее – университет, вуз, БГИТУ); — Государственный фонд развития Северо-Запада; — МОО «Русское космическое общество». Конкурс проводится с 15 февраля по 1 апреля 2019 г. Цель Конкурса: популяризация философского знания. Задачи Конкурса: — развитие философского мировоззрения молодежи; — стимулирование развития творческой инициативы у молодых исследователей; — поддержка одаренных студентов и молодых ученых; — повышение интереса у молодежи к исследовательской работе и профессиональному занятию наукой. В конкурсе могут принимать участие обучающиеся среднеобразовательных учреждений, высших учебных заведений и молодые ученые. Конкурс проводится по следующим номинациям : 1. Конкурс эссе школьников (старшие классы); 2. Конкурс эссе студентов (уровни бакалавриата и специалитета); 3. Конкурс эссе магистрантов и аспирантов; 4. Конкурс эссе молодых ученых. Темы эссе конкурса: — Космос – спасение человечества: proetcontra. — Взаимоотношение человечества и космоса: пути развития. — Русский космизм – основа и перспектива развития общества. — « Планета есть колыбель разума, но нельзя вечно жить в колыбели» К.Э. Циолковский. — Русский космизм и глобальные проблемы XXI века. — Образ человека в русском космизме. — Ноосферное мировоззрение XXI века. — Роль русского космизма в искусстве XX-XXI веков. Для регистрации в конкурсе заполните форму . Приём конкурсных заявок осуществляется только в электронной форме через информационную систему на сайте университета ( www.bgitu.ru) . Контактная информация по вопросам участия в Конкурсе: 8-960-564-84-75, ruso.iren@gmail.com , Рудакова Ирина Викторовна. Дата начала регистрации участников: «15» февраля 2019 г . Дата окончания регистрации участников: « 28» февраля 2019 г .",
+      "links": [
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "title": "мировоззрение",
+          "url": "https://cosmatica.org/glossary/106-mirovozzrenie.html"
+        },
+        {
+          "title": "заполните форму",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1dA2u3JKORY_xTDY1LWrbx5Ji5DkniFQ4_zHA6Mn0HcI%2Fviewform%3Fedit_requested%3Dtrue"
+        },
+        {
+          "title": "www.bgitu.ru)",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fwww.bgitu.ru%29"
+        },
+        {
+          "title": "информация",
+          "url": "https://cosmatica.org/glossary/119-informacija.html"
+        },
+        {
+          "title": "ruso.iren@gmail.com",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fmail.yandex.ru%2F%3Fmsid%3D1548689064.01598.140276.4343%26amp%3Bamp%3Bm_pssp%3Ddomik%26amp%3Bamp%3Buid%3D39925097%26amp%3Bamp%3Blogin%3Dhelga131081%23compose%3Fto%3Druso.iren%2540gmail.com"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/b/e/nachalo-priyoma-rabot-na-otkrytyi-konkurs-esse-im-r-bartini-mno.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 2055,
+    "storedTextCharacters": 1790,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 35,
+    "sourceBytes": 44310
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 2055,
+  "capturedBodyCharacters": 1790,
+  "sourceTextSHA256": "de6063d3753b8816251abed7832e09cd650240e488df40a11e27c1cd853f88a8",
+  "archiveSnapshotAt": "2026-10-08T09:14:50Z"
+}

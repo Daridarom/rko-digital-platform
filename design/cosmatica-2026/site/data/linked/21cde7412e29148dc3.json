@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/216-homobioticheskii-oborot.html",
+  "title": "Хомобиотический оборот",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Хомобиотический оборот – это оборот биогенных веществ, энергии и информации, направленный «человеческим разумом».",
+      "spans": [
+        {
+          "text": "Хомобиотический оборот – это оборот биогенных веществ, энергии и информации, направленный «человеческим разумом»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Хомобиотический оборот – это оборот биогенных веществ, энергии и информации, направленный «человеческим разумом».",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 136,
+    "storedTextCharacters": 113,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32007
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 113,
+  "capturedBodyCharacters": 113,
+  "sourceTextSHA256": "b1d68fabecf1323f94a27b2ee3652dfe1f433a3f8c9cc1aaf7a997ad451a55db",
+  "archiveSnapshotAt": "2026-10-08T10:36:26Z"
+}

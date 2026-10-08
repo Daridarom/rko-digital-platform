@@ -1,0 +1,397 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/ustoichivoe-razvitie",
+  "title": "Устойчивое развитие",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "Философские вопросы современного естествознания, синергетики и устойчивого развития",
+          "Кузнецов О.Л., Шамаева Е.Ф.",
+          ""
+        ],
+        [
+          "",
+          "Специальный курс: моделирование и прогноз международных конфликтных ситуации (прочитан в Дипломатической Академии МИД СССР в 1979-1980 г.г.)",
+          "Большаков Б.Е.",
+          ""
+        ],
+        [
+          "",
+          "Индикаторы устойчивого развития региона (на примере Томской области)",
+          "Кнауб Р.В.",
+          ""
+        ],
+        [
+          "",
+          "Энергоэкологическая безопасность от чрезвычайных ситуаций различного генезиса как основа устойчивого развития региона",
+          "Кнауб Р.В.",
+          ""
+        ],
+        [
+          "",
+          "Природные опасности и риски. Учебное пособие",
+          "Кнауб Р. В.",
+          ""
+        ],
+        [
+          "",
+          "Проектное управление устойчивым инновационным развитием теория, методология, технология",
+          "Большаков Б.Е.",
+          ""
+        ],
+        [
+          "",
+          "Делократия, или самосовершенствующиеся производственные системы",
+          "Протопопов А.И.",
+          ""
+        ],
+        [
+          "",
+          "Сборник докладов научной конференции студентов и аспирантов, посвящённой 15-летию Университета «Дубна»",
+          "Студенты и аспиранты. Науч. ред. Большакова Б.Е",
+          ""
+        ],
+        [
+          "",
+          "П.Г. Кузнецов и проблема устойчивого развития Человечества в системе «природа – общество – человек»",
+          "Большаков Б.Е., О.Л. Кузнецов",
+          ""
+        ],
+        [
+          "",
+          "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития» НШ-1269.2008.9",
+          "Коллектив авторов",
+          ""
+        ],
+        [
+          "",
+          "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития»",
+          "Кузнецов О.Л.",
+          ""
+        ],
+        [
+          "",
+          "К вопросу о значении и ключевой роли открытия новых альтернативных источников энергии для устойчивого развития общества",
+          "Галушкин Ю.А., Егорова М.Ю., Сидорова М.И.",
+          ""
+        ],
+        [
+          "",
+          "Анализ существующих условий формирования процессов устойчивого развития в Российской Федерации и Республике Беларусь и возможности интеграции",
+          "Рябкова С.А., Волнистая М.Г.",
+          ""
+        ],
+        [
+          "",
+          "Цена американского доллара и ее стоимость: опыт использования в управлении экономикой региональных союзов",
+          "Байзаков С.Б.",
+          ""
+        ],
+        [
+          "",
+          "Прорывные идеи и технологии XXI века как условие и стимул интеграции стран Евразийского континента в условиях глобального кризиса",
+          "Большаков Б.Е.",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/3/a/filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-u.jpg",
+      "alt": "Философские вопросы современного естествознания, синергетики и устойчивого развития"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/b/2/specialnyi-kurs-modelirovanie-i-prognoz-mezhdunarodnyh-konflikt.png",
+      "alt": "Специальный курс: моделирование и прогноз международных конфликтных ситуации (прочитан в Дипломатической Академии МИД СССР в 1979-1980 г.г.)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/e/d/energoekologicheskaja-bezopasnost-ot-chrezvychainyh-situacii-razlich.jpeg",
+      "alt": "Энергоэкологическая безопасность от чрезвычайных ситуаций различного генезиса как основа устойчивого развития региона"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/a/d/prirodnye-opasnosti-i-riski-uchebnoe-posobie-photo-small.jpeg",
+      "alt": "Природные опасности и риски. Учебное пособие"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/8/proektnoe-upravlenie-ustoichivym-innovacionnym-razvitiem-teorija.jpg",
+      "alt": "Проектное управление устойчивым инновационным развитием теория, методология, технология"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/1/a/delokratija-ili-samosovershenstvuyuschiesja-proizvodstvennye-sistemy.jpg",
+      "alt": "Делократия, или самосовершенствующиеся производственные системы"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/1/f/sbornik-dokladov-nauchnoi-konferencii-studentov-i-aspirantov-pos.jpg",
+      "alt": "Сборник докладов научной конференции студентов и аспирантов, посвящённой 15-летию Университета «Дубна»"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/b/8/p-g-kuznecov-i-problema-ustoichivogo-razvitija-chelovechestva-v-sis.jpg",
+      "alt": "П.Г. Кузнецов и проблема устойчивого развития Человечества в системе «природа – общество – человек»"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/3/4/razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunika.jpg",
+      "alt": "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития» НШ-1269.2008.9"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/e/4/razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunika.jpg",
+      "alt": "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития»"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/9/f/k-voprosu-o-znachenii-i-klyuchevoi-roli-otkrytija-novyh-alternativn.jpg",
+      "alt": "К вопросу о значении и ключевой роли открытия новых альтернативных источников энергии для устойчивого развития общества"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/1/7/analiz-suschestvuyuschih-uslovii-formirovanija-processov-ustoichivogo-r.jpg",
+      "alt": "Анализ существующих условий формирования процессов устойчивого развития в Российской Федерации и Республике Беларусь и возможности интеграции"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/e/5/cena-amerikanskogo-dollara-i-ee-stoimost-opyt-ispolzovanija-v.jpg",
+      "alt": "Цена американского доллара и ее стоимость: опыт использования в управлении экономикой региональных союзов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/1/d/proryvnye-idei-i-tehnologii-xxi-veka-kak-uslovie-i-stimul-integr.jpg",
+      "alt": "Прорывные идеи и технологии XXI века как условие и стимул интеграции стран Евразийского континента в условиях глобального кризиса"
+    }
+  ],
+  "cards": [
+    {
+      "title": "Философские вопросы современного естествознания, синергетики и устойчивого развития",
+      "description": "Философские вопросы современного естествознания, синергетики и устойчивого развития Кузнецов О.Л., Шамаева Е.Ф.",
+      "url": "https://cosmatica.org/library/498-filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-ustoichivogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/a/filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-u.jpg",
+      "links": [
+        {
+          "title": "Философские вопросы современного естествознания, синергетики и устойчивого развития",
+          "url": "https://cosmatica.org/library/498-filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-ustoichivogo-razvitija.html"
+        }
+      ]
+    },
+    {
+      "title": "Специальный курс: моделирование и прогноз международных конфликтных ситуации (прочитан в Дипломатической Академии МИД СССР в 1979-1980 г.г.)",
+      "description": "Специальный курс: моделирование и прогноз международных конфликтных ситуации (прочитан в Дипломатической Академии МИД СССР в 1979-1980 г.г.) Большаков Б.Е.",
+      "url": "https://cosmatica.org/library/469-specialnyi-kurs-modelirovanie-i-prognoz-mezhdunarodnyh-konfliktnyh-situacii-prochitan-v-diplomat.html",
+      "image": "https://cosmatica.org/upload/000/u7/b/2/specialnyi-kurs-modelirovanie-i-prognoz-mezhdunarodnyh-konflikt.png",
+      "links": [
+        {
+          "title": "Специальный курс: моделирование и прогноз международных конфликтных ситуации (прочитан в Дипломатической Академии МИД СССР в 1979-1980 г.г.)",
+          "url": "https://cosmatica.org/library/469-specialnyi-kurs-modelirovanie-i-prognoz-mezhdunarodnyh-konfliktnyh-situacii-prochitan-v-diplomat.html"
+        }
+      ]
+    },
+    {
+      "title": "Индикаторы устойчивого развития региона (на примере Томской области)",
+      "description": "Индикаторы устойчивого развития региона (на примере Томской области) Кнауб Р.В.",
+      "url": "https://cosmatica.org/library/379-indikatory-ustoichivogo-razvitija-regiona-na-primere-tomskoi-oblasti.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Индикаторы устойчивого развития региона (на примере Томской области)",
+          "url": "https://cosmatica.org/library/379-indikatory-ustoichivogo-razvitija-regiona-na-primere-tomskoi-oblasti.html"
+        }
+      ]
+    },
+    {
+      "title": "Энергоэкологическая безопасность от чрезвычайных ситуаций различного генезиса как основа устойчивого развития региона",
+      "description": "Энергоэкологическая безопасность от чрезвычайных ситуаций различного генезиса как основа устойчивого развития региона Кнауб Р.В.",
+      "url": "https://cosmatica.org/library/378-energoekologicheskaja-bezopasnost-ot-chrezvychainyh-situacii-razlichnogo-genezisa-kak-osnova-ust.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/d/energoekologicheskaja-bezopasnost-ot-chrezvychainyh-situacii-razlich.jpeg",
+      "links": [
+        {
+          "title": "Энергоэкологическая безопасность от чрезвычайных ситуаций различного генезиса как основа устойчивого развития региона",
+          "url": "https://cosmatica.org/library/378-energoekologicheskaja-bezopasnost-ot-chrezvychainyh-situacii-razlichnogo-genezisa-kak-osnova-ust.html"
+        }
+      ]
+    },
+    {
+      "title": "Природные опасности и риски. Учебное пособие",
+      "description": "Природные опасности и риски. Учебное пособие Кнауб Р. В.",
+      "url": "https://cosmatica.org/library/374-prirodnye-opasnosti-i-riski-uchebnoe-posobie.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/d/prirodnye-opasnosti-i-riski-uchebnoe-posobie-photo-small.jpeg",
+      "links": [
+        {
+          "title": "Природные опасности и риски. Учебное пособие",
+          "url": "https://cosmatica.org/library/374-prirodnye-opasnosti-i-riski-uchebnoe-posobie.html"
+        }
+      ]
+    },
+    {
+      "title": "Проектное управление устойчивым инновационным развитием теория, методология, технология",
+      "description": "Проектное управление устойчивым инновационным развитием теория, методология, технология Большаков Б.Е.",
+      "url": "https://cosmatica.org/library/244-proektnoe-upravlenie-ustoichivym-innovacionnym-razvitiem-teorija-metodologija-tehnologija.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/8/proektnoe-upravlenie-ustoichivym-innovacionnym-razvitiem-teorija.jpg",
+      "links": [
+        {
+          "title": "Проектное управление устойчивым инновационным развитием теория, методология, технология",
+          "url": "https://cosmatica.org/library/244-proektnoe-upravlenie-ustoichivym-innovacionnym-razvitiem-teorija-metodologija-tehnologija.html"
+        }
+      ]
+    },
+    {
+      "title": "Делократия, или самосовершенствующиеся производственные системы",
+      "description": "Делократия, или самосовершенствующиеся производственные системы Протопопов А.И.",
+      "url": "https://cosmatica.org/library/204-delokratija-ili-samosovershenstvuyuschiesja-proizvodstvennye-sistemy.html",
+      "image": "https://cosmatica.org/upload/000/u26/1/a/delokratija-ili-samosovershenstvuyuschiesja-proizvodstvennye-sistemy.jpg",
+      "links": [
+        {
+          "title": "Делократия, или самосовершенствующиеся производственные системы",
+          "url": "https://cosmatica.org/library/204-delokratija-ili-samosovershenstvuyuschiesja-proizvodstvennye-sistemy.html"
+        }
+      ]
+    },
+    {
+      "title": "Сборник докладов научной конференции студентов и аспирантов, посвящённой 15-летию Университета «Дубна»",
+      "description": "Сборник докладов научной конференции студентов и аспирантов, посвящённой 15-летию Университета «Дубна» Студенты и аспиранты. Науч. ред. Большакова Б.Е",
+      "url": "https://cosmatica.org/library/203-sbornik-dokladov-nauchnoi-konferencii-studentov-i-aspirantov-posvjaschyonnoi-15-letiyu-universit.html",
+      "image": "https://cosmatica.org/upload/000/u10/1/f/sbornik-dokladov-nauchnoi-konferencii-studentov-i-aspirantov-pos.jpg",
+      "links": [
+        {
+          "title": "Сборник докладов научной конференции студентов и аспирантов, посвящённой 15-летию Университета «Дубна»",
+          "url": "https://cosmatica.org/library/203-sbornik-dokladov-nauchnoi-konferencii-studentov-i-aspirantov-posvjaschyonnoi-15-letiyu-universit.html"
+        }
+      ]
+    },
+    {
+      "title": "П.Г. Кузнецов и проблема устойчивого развития Человечества в системе «природа – общество – человек»",
+      "description": "П.Г. Кузнецов и проблема устойчивого развития Человечества в системе «природа – общество – человек» Большаков Б.Е., О.Л. Кузнецов",
+      "url": "https://cosmatica.org/library/202-p-g-kuznecov-i-problema-ustoichivogo-razvitija-chelovechestva-v-sisteme-priroda-obschestvo-chelo.html",
+      "image": "https://cosmatica.org/upload/000/u10/b/8/p-g-kuznecov-i-problema-ustoichivogo-razvitija-chelovechestva-v-sis.jpg",
+      "links": [
+        {
+          "title": "П.Г. Кузнецов и проблема устойчивого развития Человечества в системе «природа – общество – человек»",
+          "url": "https://cosmatica.org/library/202-p-g-kuznecov-i-problema-ustoichivogo-razvitija-chelovechestva-v-sisteme-priroda-obschestvo-chelo.html"
+        }
+      ]
+    },
+    {
+      "title": "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития» НШ-1269.2008.9",
+      "description": "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития» НШ-1269.2008.9 Коллектив авторов",
+      "url": "https://cosmatica.org/library/201-razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunikacionnoi-sistemy-mezhdunarodnaja-.html",
+      "image": "https://cosmatica.org/upload/000/u26/3/4/razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunika.jpg",
+      "links": [
+        {
+          "title": "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития» НШ-1269.2008.9",
+          "url": "https://cosmatica.org/library/201-razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunikacionnoi-sistemy-mezhdunarodnaja-.html"
+        }
+      ]
+    },
+    {
+      "title": "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития»",
+      "description": "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития» Кузнецов О.Л.",
+      "url": "https://cosmatica.org/library/200-razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunikacionnoi-sistemy-mezhdunarodnaja-.html",
+      "image": "https://cosmatica.org/upload/000/u26/e/4/razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunika.jpg",
+      "links": [
+        {
+          "title": "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития»",
+          "url": "https://cosmatica.org/library/200-razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunikacionnoi-sistemy-mezhdunarodnaja-.html"
+        }
+      ]
+    },
+    {
+      "title": "К вопросу о значении и ключевой роли открытия новых альтернативных источников энергии для устойчивого развития общества",
+      "description": "К вопросу о значении и ключевой роли открытия новых альтернативных источников энергии для устойчивого развития общества Галушкин Ю.А., Егорова М.Ю., Сидорова М.И.",
+      "url": "https://cosmatica.org/library/199-k-voprosu-o-znachenii-i-klyuchevoi-roli-otkrytija-novyh-alternativnyh-istochnikov-energii-dlja-u.html",
+      "image": "https://cosmatica.org/upload/000/u26/9/f/k-voprosu-o-znachenii-i-klyuchevoi-roli-otkrytija-novyh-alternativn.jpg",
+      "links": [
+        {
+          "title": "К вопросу о значении и ключевой роли открытия новых альтернативных источников энергии для устойчивого развития общества",
+          "url": "https://cosmatica.org/library/199-k-voprosu-o-znachenii-i-klyuchevoi-roli-otkrytija-novyh-alternativnyh-istochnikov-energii-dlja-u.html"
+        }
+      ]
+    },
+    {
+      "title": "Анализ существующих условий формирования процессов устойчивого развития в Российской Федерации и Республике Беларусь и возможности интеграции",
+      "description": "Анализ существующих условий формирования процессов устойчивого развития в Российской Федерации и Республике Беларусь и возможности интеграции Рябкова С.А., Волнистая М.Г.",
+      "url": "https://cosmatica.org/library/198-analiz-suschestvuyuschih-uslovii-formirovanija-processov-ustoichivogo-razvitija-v-rossiiskoi-fed.html",
+      "image": "https://cosmatica.org/upload/000/u26/1/7/analiz-suschestvuyuschih-uslovii-formirovanija-processov-ustoichivogo-r.jpg",
+      "links": [
+        {
+          "title": "Анализ существующих условий формирования процессов устойчивого развития в Российской Федерации и Республике Беларусь и возможности интеграции",
+          "url": "https://cosmatica.org/library/198-analiz-suschestvuyuschih-uslovii-formirovanija-processov-ustoichivogo-razvitija-v-rossiiskoi-fed.html"
+        }
+      ]
+    },
+    {
+      "title": "Цена американского доллара и ее стоимость: опыт использования в управлении экономикой региональных союзов",
+      "description": "Цена американского доллара и ее стоимость: опыт использования в управлении экономикой региональных союзов Байзаков С.Б.",
+      "url": "https://cosmatica.org/library/197-cena-amerikanskogo-dollara-i-ee-stoimost-opyt-ispolzovanija-v-upravlenii-ekonomikoi-regionalnyh-.html",
+      "image": "https://cosmatica.org/upload/000/u26/e/5/cena-amerikanskogo-dollara-i-ee-stoimost-opyt-ispolzovanija-v.jpg",
+      "links": [
+        {
+          "title": "Цена американского доллара и ее стоимость: опыт использования в управлении экономикой региональных союзов",
+          "url": "https://cosmatica.org/library/197-cena-amerikanskogo-dollara-i-ee-stoimost-opyt-ispolzovanija-v-upravlenii-ekonomikoi-regionalnyh-.html"
+        }
+      ]
+    },
+    {
+      "title": "Прорывные идеи и технологии XXI века как условие и стимул интеграции стран Евразийского континента в условиях глобального кризиса",
+      "description": "Прорывные идеи и технологии XXI века как условие и стимул интеграции стран Евразийского континента в условиях глобального кризиса Большаков Б.Е.",
+      "url": "https://cosmatica.org/library/196-proryvnye-idei-i-tehnologii-xxi-veka-kak-uslovie-i-stimul-integracii-stran-evraziiskogo-kontinen.html",
+      "image": "https://cosmatica.org/upload/000/u10/1/d/proryvnye-idei-i-tehnologii-xxi-veka-kak-uslovie-i-stimul-integr.jpg",
+      "links": [
+        {
+          "title": "Прорывные идеи и технологии XXI века как условие и стимул интеграции стран Евразийского континента в условиях глобального кризиса",
+          "url": "https://cosmatica.org/library/196-proryvnye-idei-i-tehnologii-xxi-veka-kak-uslovie-i-stimul-integracii-stran-evraziiskogo-kontinen.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/3/a/filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-u.jpg",
+    "https://cosmatica.org/upload/000/u7/b/2/specialnyi-kurs-modelirovanie-i-prognoz-mezhdunarodnyh-konflikt.png",
+    "https://cosmatica.org/upload/000/u35/e/d/energoekologicheskaja-bezopasnost-ot-chrezvychainyh-situacii-razlich.jpeg",
+    "https://cosmatica.org/upload/000/u35/a/d/prirodnye-opasnosti-i-riski-uchebnoe-posobie-photo-small.jpeg",
+    "https://cosmatica.org/upload/000/u7/c/8/proektnoe-upravlenie-ustoichivym-innovacionnym-razvitiem-teorija.jpg",
+    "https://cosmatica.org/upload/000/u26/1/a/delokratija-ili-samosovershenstvuyuschiesja-proizvodstvennye-sistemy.jpg",
+    "https://cosmatica.org/upload/000/u10/1/f/sbornik-dokladov-nauchnoi-konferencii-studentov-i-aspirantov-pos.jpg",
+    "https://cosmatica.org/upload/000/u10/b/8/p-g-kuznecov-i-problema-ustoichivogo-razvitija-chelovechestva-v-sis.jpg",
+    "https://cosmatica.org/upload/000/u26/3/4/razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunika.jpg",
+    "https://cosmatica.org/upload/000/u26/e/4/razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunika.jpg",
+    "https://cosmatica.org/upload/000/u26/9/f/k-voprosu-o-znachenii-i-klyuchevoi-roli-otkrytija-novyh-alternativn.jpg",
+    "https://cosmatica.org/upload/000/u26/1/7/analiz-suschestvuyuschih-uslovii-formirovanija-processov-ustoichivogo-r.jpg",
+    "https://cosmatica.org/upload/000/u26/e/5/cena-amerikanskogo-dollara-i-ee-stoimost-opyt-ispolzovanija-v.jpg",
+    "https://cosmatica.org/upload/000/u10/1/d/proryvnye-idei-i-tehnologii-xxi-veka-kak-uslovie-i-stimul-integr.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1987,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 15,
+    "sourceImageCount": 14,
+    "paragraphCount": 0,
+    "sourceBytes": 70511
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 1987,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "811953a19828025526358a19020618c2a5c23c0d0d8f817ded6af043473180e3",
+  "archiveSnapshotAt": "2026-10-08T08:51:16Z"
+}

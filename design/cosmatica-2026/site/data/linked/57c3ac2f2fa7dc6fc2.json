@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/121-izmerenie.html",
+  "title": "Измерение",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "операции с величиной.",
+      "spans": [
+        {
+          "text": "операции с величиной."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "операции с величиной.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 31,
+    "storedTextCharacters": 21,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31394
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 21,
+  "capturedBodyCharacters": 21,
+  "sourceTextSHA256": "93c8808f251d6110bdf8076e73228c86b0c1beca0a5827da0a2c87ce11ae3e0f",
+  "archiveSnapshotAt": "2026-10-08T08:46:26Z"
+}

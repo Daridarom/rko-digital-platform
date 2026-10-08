@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1292-1-noosferizm-kak-nauchno-mirovozzrencheskaja-sistema-osnovanija-struk-tura-i-bazovye-principy.html",
+  "title": "1. Ноосферизм – как научно-мировоззренческая система; основания, струк-тура и базовые принципы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке» Лекция 1: Ноосферизм – как научно-мировоззренческая система ; основания, структура и базовые принципы",
+      "spans": [
+        {
+          "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и  "
+        },
+        {
+          "text": "стратегия",
+          "href": "https://cosmatica.org/glossary/41-strategija.html"
+        },
+        {
+          "text": " эволю-ционного прорыва России и человечества в XXI веке» Лекция 1: Ноосферизм – как научно-мировоззренческая  "
+        },
+        {
+          "text": "система",
+          "href": "https://cosmatica.org/glossary/47-sistema.html"
+        },
+        {
+          "text": "; основания, структура и базовые принципы"
+        }
+      ],
+      "links": [
+        {
+          "text": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        },
+        {
+          "text": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "Xep1usvU2XA",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=Xep1usvU2XA"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке» Лекция 1: Ноосферизм – как научно-мировоззренческая система ; основания, структура и базовые принципы",
+      "links": [
+        {
+          "title": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        },
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 372,
+    "storedTextCharacters": 250,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 74977
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 277,
+  "capturedBodyCharacters": 250,
+  "sourceTextSHA256": "f393d443549c42970a0a6fe05657f1acf143e8d2ef9b189828593339f2e5fbfb",
+  "archiveSnapshotAt": "2026-10-08T10:53:07Z"
+}

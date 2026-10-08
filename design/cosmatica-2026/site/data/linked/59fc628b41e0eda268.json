@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/207-kompressionnyi-motor-f-10.html",
+  "title": "Компрессионный мотор Ф-10",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/0319f750953138eaeec09b.webp",
+      "alt": "Компрессионный мотор Ф-10"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга, из которой вы узнаете: как создать действующую",
+      "spans": [
+        {
+          "text": "Книга, из которой вы узнаете: как создать действующую"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "модель",
+      "spans": [
+        {
+          "text": "модель"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "самолета с бензиновым мотором тип Ф-10.\r\nФилиппычев, Александр Васильевич.\r\nКомпрессионный мотор. Ф-10 [Текст] / А. В. Филиппычев. - Москва : изд. и тип. Изд-во ДОСАРМ в Тушине, 1949. - 36 с. : ил.; 21 см. - (Б-ка юного конструктора; № 17). (Б-ка юного конструктора; № 17)",
+      "spans": [
+        {
+          "text": "самолета с бензиновым мотором тип Ф-10.\r\nФилиппычев, Александр Васильевич.\r\nКомпрессионный мотор. Ф-10 [Текст] / А. В. Филиппычев. - Москва : изд. и тип. Изд-во ДОСАРМ в Тушине, 1949. - 36 с. : ил.; 21 см. - (Б-ка юного конструктора; № 17). (Б-ка юного конструктора; № 17)"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "А.В. Филиппычев",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга, из которой вы узнаете: как создать действующую модель самолета с бензиновым мотором тип Ф-10. Филиппычев, Александр Васильевич. Компрессионный мотор. Ф-10 [Текст] / А. В. Филиппычев. - Москва : изд. и тип. Изд-во ДОСАРМ в Тушине, 1949. - 36 с. : ил.; 21 см. - (Б-ка юного конструктора; № 17). (Б-ка юного конструктора; № 17)",
+      "links": [
+        {
+          "title": "модель",
+          "url": "https://cosmatica.org/glossary/105-model.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 45 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1495/eb46f414407a87b6adddc543d3e7c31b"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/0319f750953138eaeec09b.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1495/eb46f414407a87b6adddc543d3e7c31b"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 400,
+    "storedTextCharacters": 331,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40279
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 374,
+  "capturedBodyCharacters": 331,
+  "sourceTextSHA256": "41ada465344efd92a5854bf1a7a57518f7824d219e67e18b25907d9286cf6a3f",
+  "archiveSnapshotAt": "2026-10-08T08:48:02Z"
+}

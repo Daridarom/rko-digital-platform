@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/68",
+  "title": "Алевтина Валерьевна Лещенко",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 5"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/77/f4/c095a261.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Член «СПАГО» (Санкт-Петербургское астрономо-геодезическое объединение)",
+      "spans": [
+        {
+          "text": "Член «СПАГО» (Санкт-Петербургское астрономо-геодезическое объединение)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Популяризатор астрономии и космонавтики. Лектор РКО",
+      "spans": [
+        {
+          "text": "Популяризатор астрономии и космонавтики. Лектор РКО"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Санкт-Петербург",
+      "links": [
+        {
+          "title": "Санкт-Петербург",
+          "url": "https://cosmatica.org/departments/9-sankt-peterburg.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Член «СПАГО» (Санкт-Петербургское астрономо-геодезическое объединение) Популяризатор астрономии и космонавтики. Лектор РКО",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+    "https://cosmatica.org/upload/000/u68/77/f4/c095a261.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 230,
+    "storedTextCharacters": 170,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35997
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 159,
+  "capturedBodyCharacters": 170,
+  "sourceTextSHA256": "fe3808d41c54d2d9ad1a195e35000ea74fbf7e897781be5b85afcdda732b1f3f",
+  "archiveSnapshotAt": "2026-10-08T09:21:45Z"
+}

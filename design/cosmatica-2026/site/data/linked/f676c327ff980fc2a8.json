@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/kruglye-stoly",
+  "title": "Круглые столы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Грядущие",
+        "Все"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [
+    "Грядущие",
+    "Все"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 56,
+    "storedTextCharacters": 11,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 46015
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 56,
+  "capturedBodyCharacters": 11,
+  "sourceTextSHA256": "7da77d71ca275b2e9f433f2883e7be0b1581f926a4efe579627f8bab6ac67b70",
+  "archiveSnapshotAt": "2026-10-08T09:16:18Z"
+}

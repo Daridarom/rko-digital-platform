@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/35-zakony-istorii-i-socialnoe-konstruirovanie-xxi-veka.html",
+  "title": "Законы истории и социальное конструирование XXI века",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "В настоящее",
+      "spans": [
+        {
+          "text": "В настоящее"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "время",
+      "spans": [
+        {
+          "text": "время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", когда хотят привести наиболее\r\nвесомые аргументы, принято ссылаться на «научные\r\nрекомендации».",
+      "spans": [
+        {
+          "text": ", когда хотят привести наиболее\r\nвесомые аргументы, принято ссылаться на «научные\r\nрекомендации»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В настоящее время , когда хотят привести наиболее весомые аргументы, принято ссылаться на «научные рекомендации».",
+      "links": [
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 129 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/51/8fbc90b15060795fc778921cfefffd57"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/51/8fbc90b15060795fc778921cfefffd57"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 187,
+    "storedTextCharacters": 113,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39246
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 134,
+  "capturedBodyCharacters": 113,
+  "sourceTextSHA256": "b43d50bc4750cf5b46931585a64cc3459f6bc90d66e833fb6460dac74d3ae854",
+  "archiveSnapshotAt": "2026-10-08T08:49:27Z"
+}

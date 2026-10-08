@@ -1,0 +1,40 @@
+{
+  "startedFrom": 4756,
+  "results": {
+    "existing": 4692,
+    "skipped": 7,
+    "failed": 7,
+    "ready": 50
+  },
+  "failures": [
+    {
+      "url": "https://cosmatica.org/about/11-polozhenie-o-strukture-rko.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/about/11-polozhenie-o-strukture-rko.html"
+    },
+    {
+      "url": "https://cosmatica.org/about/15-otkrytoe-pismo-prezidentu.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/about/15-otkrytoe-pismo-prezidentu.html"
+    },
+    {
+      "url": "https://cosmatica.org/about/8-ustav-russkogo-kosmicheskogo-obschestva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/about/8-ustav-russkogo-kosmicheskogo-obschestva.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/895-tokarev-valerii-ivanovich-intervyu-na-syomkah-filma-era.html",
+      "error": "RuntimeError: Text lost during extraction"
+    },
+    {
+      "url": "https://cosmatica.org/about/pismoprezidentu.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/about/pismoprezidentu.html"
+    },
+    {
+      "url": "https://cosmatica.org/articles/100-noosferno-kosmicheskaja-ustoichivost-razvitija-i-noo-konstitucija-chelovechestva.html",
+      "error": "RuntimeError: 404 Client Error: Not Found for url: https://cosmatica.org/articles/100-noosferno-kosmicheskaja-ustoichivost-razvitija-i-noo-konstitucija-chelove"
+    },
+    {
+      "url": "https://cosmatica.org/library/38-rol-rabot-e-v-ilenkova-v-razrabotke-sistem-zhizneobespechenija.html",
+      "error": "RuntimeError: 403 Client Error: Forbidden for url: https://cosmatica.org/library/38-rol-rabot-e-v-ilenkova-v-razrabotke-sistem-zhizneobespechenija.html"
+    }
+  ],
+  "timestamp": "2026-10-08T09:23:48Z"
+}

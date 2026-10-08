@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/332",
+  "title": "Александр Иванович Протопопов Профиль удалён",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/8/7/4520b5c4.jpg",
+      "alt": "Александр Иванович Протопопов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/d/1e5b61db.jpg",
+      "alt": "Александр Иванович Протопопов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 6"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Международной научной школы устойчивого развития имени П.Г. Кузнецова, руководитель",
+      "spans": [
+        {
+          "text": "Международной научной школы устойчивого развития имени П.Г. Кузнецова, руководитель"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "проекта «Делократизация производственных систем», предприниматель в сфере производства, торговли, медицинских и образовательных услуг (Новосибирск, Россия).",
+      "spans": [
+        {
+          "text": "проекта «Делократизация производственных систем», предприниматель в сфере производства, торговли, медицинских и образовательных услуг (Новосибирск, Россия)."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Новосибирская область",
+      "links": [
+        {
+          "title": "Новосибирская область",
+          "url": "https://cosmatica.org/departments/8-novosibirskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Международной научной школы устойчивого развития имени П.Г. Кузнецова, руководитель проекта «Делократизация производственных систем», предприниматель в сфере производства, торговли, медицинских и образовательных услуг (Новосибирск, Россия).",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/8/7/4520b5c4.jpg",
+    "https://cosmatica.org/upload/000/u35/b/d/1e5b61db.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 365,
+    "storedTextCharacters": 283,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35375
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 283,
+  "capturedBodyCharacters": 283,
+  "sourceTextSHA256": "874fb475b1ab702eb573ff6471306cac5346e6686298df1f5d2392ba091e8c89",
+  "archiveSnapshotAt": "2026-10-08T09:19:14Z"
+}

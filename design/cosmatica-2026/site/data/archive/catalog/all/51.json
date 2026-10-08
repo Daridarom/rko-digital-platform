@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 51,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "О выходе России из эпохи рыночного геноцида и стратегии её развития в XXI веке",
+      "description": "«Живи на то, что скажешь только ты, А не на то, что о тебе сказали!»",
+      "url": "https://cosmatica.org/articles/1439-o-vyhode-rossii-iz-epohi-rynochnogo-genocida-i-strategii-eyo-razvitija-v-xxi-veke.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=2e4ff77898c72ffd0a",
+      "type": "article",
+      "sourceCharacters": 51420,
+      "verified": false
+    },
+    {
+      "title": "\"Звёздная\" смена в детском лагере (Кузбасс)",
+      "description": "Лето для ребят – это время новых чувств и эмоций, приключений и незабываемых встреч. Каждому хочется провести долгожданные каникулы так, чтобы случилось нечто необыкновенное, не похожее на школьные будни, о чём будешь вспоминать, вновь и вновь делясь с друзьями историями и впечатлениями.",
+      "url": "https://cosmatica.org/news/1439-zvyozdnaja-smena-v-detskom-lagere-kuzbass.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/3/zvyozdnaja-smena-v-detskom-lagere-kuzbass-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5481d1f510e879ad5d",
+      "type": "news-item",
+      "sourceCharacters": 2610,
+      "verified": false
+    },
+    {
+      "title": "Смена научный парадигм - цикл лекций О.Л.Кузнецова",
+      "description": "Лекции \"Смена научных парадигм\", прочитанные Президентом РАЕН, и Почётным Председателем Высшего Совета Русского Космического Общества Олегом Леонидовичем Кузнецовым , адресованы в основном аспирантам, но необходимы каждому, кто желает сформировать целостное, научное мировоззрение .",
+      "url": "https://cosmatica.org/news/1437-smena-nauchnyi-paradigm-cikl-lekcii-o-l-kuznecova.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/e/smena-nauchnyi-paradigm-cikl-lekcii-o-l-kuznecova-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=88a4ad79d70ddeb94e",
+      "type": "news-item",
+      "sourceCharacters": 2891,
+      "verified": false
+    },
+    {
+      "title": "Эколагерь «Утриш» начал свою деятельность",
+      "description": "Эколагерь «Утриш» - это лагерь ноосферного развития на добровольческой основе. Это палаточный лагерь, на берегу Черного моря, в поселке Малый Утриш.",
+      "url": "https://cosmatica.org/news/1436-ekolager-utrish-nachal-svoyu-dejatelnost.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/6/ekolager-utrish-nachal-svoyu-dejatelnost-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a09e60cda196b04ffb",
+      "type": "news-item",
+      "sourceCharacters": 9036,
+      "verified": false
+    },
+    {
+      "title": "Каждый идёт свою Тропу",
+      "description": "В поселке Дугна Ферзиковского района прошёл очередной этап «Тропы мужества». Один из главных пеших марафонов России собрал более 300 участников. Можно было выбрать одну из 4 дистанций от 15 до 150 километров.",
+      "url": "https://cosmatica.org/news/1435-kazhdyi-idyot-svoyu-tropu.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/8/kazhdyi-idyot-svoyu-tropu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=28409459ac3c74a7e5",
+      "type": "news-item",
+      "sourceCharacters": 5663,
+      "verified": false
+    },
+    {
+      "title": "Россия, не бойся, мы с тобой...",
+      "description": "Литературно-музыкальная композиция для чтецов, сопрано, баритона, фортепиано, гуслей и оркестра построена по текстам поэтов, творивших в годы Великой Отечественной войны и переживших Блокаду Ленинграда, и современных поэтов, живущих в городах Донбасса.",
+      "url": "https://cosmatica.org/news/1434-rossija-ne-boisja-my-s-toboi.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/3/f8eec937.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=acbf6567d463249d8b",
+      "type": "news-item",
+      "sourceCharacters": 5436,
+      "verified": false
+    },
+    {
+      "title": "\"Двигатели прогресса\" сезон 2022 открыт",
+      "description": "Семейные просветительские смены выходного дня \"Двигатели прогресса\" базируются на территории Учебно-производственного подразделения \"Авиабаза МАИ\" Алферьево и проходят под руководством действительного члена Русского Космического Общества, руководителя проекта \"Пойдём с нами\" Юлии Леонидовны Юртовой .",
+      "url": "https://cosmatica.org/news/1433-dvigateli-progressa-sezon-2022-otkryt.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/d/29db89fd.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=dc94ef30e2f6938b55",
+      "type": "news-item",
+      "sourceCharacters": 2237,
+      "verified": false
+    },
+    {
+      "title": "Ноосферизм – новая идеология и стратегия эволюционного прорыва России и человечества в XXI веке",
+      "description": "Цикл лекций директора Центра Ноосферного Развития Северо-Западного института управления РАНХиГС при Президенте РФ, профессора РГПУ им. А.И.Герцена, почётного профессора Новгородского государственного университета им. Ярослава Мудрого, председателя Философского Совета РКО, первого вице-президента Петровской академии наук и искусств, почетного президента Ноосферной общественной академии наук, члена Президиума Междунаро",
+      "url": "https://cosmatica.org/news/1432-noosferizm-novaja-ideologija-i-strategija-evolyucionnogo-proryva-rossii-i-chelovechestva-v-xxi-.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/c/ede44afa.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=933cfef2d0fc617678",
+      "type": "news-item",
+      "sourceCharacters": 8949,
+      "verified": false
+    },
+    {
+      "title": "Учение об общественном интеллекте как системе управления будущим со стороны общества как целого",
+      "description": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке»",
+      "url": "https://cosmatica.org/articles/1431-uchenie-ob-obschestvennom-intellekte-kak-sisteme-upravlenija-buduschim-so-storony-obschestva-ka.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=be2fe3b690e52a2616",
+      "type": "article",
+      "sourceCharacters": 339,
+      "verified": false
+    },
+    {
+      "title": "Дела гуманитарные, значит человечные",
+      "description": "Штаб вклада в Победу Русского Космического Общества в ДНР оказал помощь хирургическому отделению № 1 Коммунального учреждения «Центральная городская клиническая больница № 16 г. Донецка», передав 30 кг постельного белья, подушки и 8 мебельных панелей щитов для оборудования ровных горизонтальных поверхностей кроватей для раненых.",
+      "url": "https://cosmatica.org/news/1431-dela-gumanitarnye-znachit-chelovechnye.html",
+      "image": "https://cosmatica.org/upload/003/u380/4/5/dela-gumanitarnye-znachit-chelovechnye-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=eb8fd38d862181aa5b",
+      "type": "news-item",
+      "sourceCharacters": 3045,
+      "verified": false
+    },
+    {
+      "title": "6. О «природе» интеллекта человека с позиции ноосферной парадигмы универсального эволюционизма",
+      "description": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке»",
+      "url": "https://cosmatica.org/articles/1430-6-o-prirode-intellekta-cheloveka-s-pozicii-noosfernoi-paradigmy-universalnogo-evolyucionizma.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=43e44ce0980f95762b",
+      "type": "article",
+      "sourceCharacters": 336,
+      "verified": false
+    },
+    {
+      "title": "Делократия - власть пользы",
+      "description": "Приглашаем к просмотру семинара предпринимателя, участника Русского Космического Общества, организатора онлайн-школы \"Власть пользы\" и автора курса \"Альтернативные методы организации и управления производством\" Протопопова Александра Ивановича - \"Делократия - власть пользы\"",
+      "url": "https://cosmatica.org/news/1430-delokratija-vlast-polzy.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/7/delokratija-vlast-polzy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b7a55153253d31ca52",
+      "type": "news-item",
+      "sourceCharacters": 1189,
+      "verified": false
+    },
+    {
+      "title": "5. Какими должны быть образование и наука в XXI веке?",
+      "description": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке»",
+      "url": "https://cosmatica.org/articles/1429-5-kakimi-dolzhny-byt-obrazovanie-i-nauka-v-xxi-veke.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=9671c0708718f9f12c",
+      "type": "article",
+      "sourceCharacters": 407,
+      "verified": false
+    },
+    {
+      "title": "Встреча Брянского регионального отделения с учёным Волосатовым В.И.",
+      "description": "11 июня состоялась встреча с лекцией по теме: \" Теория полой планеты. Законы Вселенной\". Наш соотечественник - уникальный учёный, исследователь эфира и Космоса, многогранный Человек и талантливый физик - Волосатов В.И. расширяет границы непознанного в науке.",
+      "url": "https://cosmatica.org/news/1429-vstrecha-brjanskogo-regionalnogo-otdelenija-s-uchyonym-volosatovym-v-i.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/0/vstrecha-brjanskogo-regionalnogo-otdelenija-s-uchyonym-volosatovym-v.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d666d0849fe2560eed",
+      "type": "news-item",
+      "sourceCharacters": 4179,
+      "verified": false
+    },
+    {
+      "title": "Доброделы Макеевки в деле",
+      "description": "Война закончится, а настраивать мирную, совместную и экологичную жизнь необходимо уже сейчас. Движение «Народное сплочение» ради чистого будущего и мирного коллективного труда. Именно на эти утверждения опирается Русское Космическое Общество в своих инициативах. В конце мая действительный член РКО Горшков Алексей Андреевич, находящийся с рабочим визитом в ДНР и его инициативная жена Светлана Жуковская подали прекрасн",
+      "url": "https://cosmatica.org/news/1428-dobrodely-makeevki-v-dele.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/9/dobrodely-makeevki-v-dele-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=35b2d021a088895675",
+      "type": "news-item",
+      "sourceCharacters": 3661,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

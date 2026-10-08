@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/158-velichina.html",
+  "title": "Величина",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "измеритель",
+      "spans": [
+        {
+          "text": "измеритель"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "свойств системы, где качественные свой­ства определяются именем, размерностью и единицей измерения, а ко­личественные свойства – численным значением измеряемой величи­ны.\r\n\r\nМатематическая величина – это величина с мерой пространственных единиц.",
+      "spans": [
+        {
+          "text": "свойств системы, где качественные свой­ства определяются именем, размерностью и единицей измерения, а ко­личественные свойства – численным значением измеряемой величи­ны.\r\n\r\nМатематическая величина – это величина с мерой пространственных единиц."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Физическая величина",
+      "spans": [
+        {
+          "text": "Физическая величина"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "– это величина с мерой пространственно-временных единиц.",
+      "spans": [
+        {
+          "text": "– это величина с мерой пространственно-временных единиц."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это измеритель свойств системы, где качественные свой­ства определяются именем, размерностью и единицей измерения, а ко­личественные свойства – численным значением измеряемой величи­ны. Математическая величина – это величина с мерой пространственных единиц. Физическая величина – это величина с мерой пространственно-временных единиц.",
+      "links": [
+        {
+          "title": "измеритель",
+          "url": "https://cosmatica.org/glossary/120-izmeritel.html"
+        },
+        {
+          "title": "Физическая величина",
+          "url": "https://cosmatica.org/glossary/17-fizicheskaja-velichina.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 343,
+    "storedTextCharacters": 333,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32624
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 334,
+  "capturedBodyCharacters": 333,
+  "sourceTextSHA256": "7df03b561f8da2c0f5b3600368d6f8536ac7a11029ab8ebdbdc61499687d8a5b",
+  "archiveSnapshotAt": "2026-10-08T08:46:36Z"
+}

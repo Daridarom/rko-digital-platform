@@ -2,9 +2,16 @@ import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import {chromium} from 'playwright';
 const base=process.env.SITE_URL||'http://127.0.0.1:8768/design/cosmatica-2026/site/';
-const links=Object.values(JSON.parse(readFileSync('data/linked-index.json','utf8')))
+const all=Object.values(JSON.parse(readFileSync('data/linked-index.json','utf8')))
  .filter(x=>x.status==='ready'&&!x.alias);
-assert.equal(links.length,156,'The approved 156 linked records must remain present');
+assert(all.length>=156,'The previously approved linked records must remain present');
+const extras=new Map();
+for(const item of all.slice(156)){
+ const n=extras.get(item.type)||[];
+ if(n.length<12){n.push(item);extras.set(item.type,n);}
+}
+const links=[...all.slice(0,156),...[...extras.values()].flat()];
+assert(links.length>=156,'Cross-section browser sample unexpectedly small');
 const browser=await chromium.launch({headless:true,
  ...(process.env.CHROME_BIN?{executablePath:process.env.CHROME_BIN}:{}),
  args:['--no-sandbox','--disable-dev-shm-usage']});
@@ -30,6 +37,8 @@ async function worker(){
     external:[...document.querySelectorAll('a[href]')].filter(a=>new URL(a.href).origin!==location.origin)
       .filter(a=>!(a.dataset.originalDownload==='cosmatica'&&
        /^https:\/\/cosmatica\.org\/files\/download\/\d+\/[a-f0-9]+$/i.test(a.href)))
+      .filter(a=>!(a.dataset.contentExternal==='true'&&a.href.startsWith('https://')&&
+        a.target==='_blank'&&a.rel.includes('noopener')))
       .map(a=>a.href)
    }));
    assert(view.overflow<=3,'overflow '+id+': '+view.overflow);

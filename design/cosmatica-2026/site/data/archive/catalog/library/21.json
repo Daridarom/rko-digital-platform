@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "library",
+  "title": "Библиотека",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 21,
+  "pageCount": 34,
+  "total": 510,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "С думой о Земле",
+      "description": "Три раздела книги объединяет общий замысел — показ отечественной космонавтики с позиций того участка, где довелось трудиться авторам: летчикам-космонавтам СССР А. Березовому, Л. Кизиму и научному работнику и журналисту В. Горькову. Это размышление о жизни и работе в космосе, о взаимосвязях космонавтики с различными областями деятельности людей, об истории и месте космонавтики в нашей земной жизни.",
+      "url": "https://cosmatica.org/library/228-s-dumoi-o-zemle.html",
+      "image": "https://cosmatica.org/upload/000/u7/a/5/s-dumoi-o-zemle-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=3531f26611d4de77a4",
+      "type": "book",
+      "sourceCharacters": 471,
+      "verified": false
+    },
+    {
+      "title": "Советская космонавтика",
+      "description": "Альбом-выставка (комплект плакатов на 108 листах), состоящая из 9 разделов, рекомендуется для экспозиции в учебных организациях и авиационных подразделениях ДОСААФ, ВВС, Аэрофлота, в Домах культуры, клубах, фойе кинотеатров, читальных залах библиотек, ленинских комнатах, красных уголках, школьных музеях авиации и космонавтики и других культурно-просветительных учреждениях. В материалах выставки показываются история р",
+      "url": "https://cosmatica.org/library/227-sovetskaja-kosmonavtika.html",
+      "image": "assets/source/book-covers/7d20c3ed781090c199bc9b.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=884aa1974eba298fc4",
+      "type": "book",
+      "sourceCharacters": 1420,
+      "verified": false
+    },
+    {
+      "title": "Звёздные пути человечества",
+      "description": "Посвящается 25-летию космической эры. Сборник статей от Б. Покровского (начальник КИК), космонавтов Волынова Б., Шаталова В., Берегового Г., Титова Г., Коваленка В., вездесущего советского журналиста Реброва М. и ученых Денисова В., Гришина С. и Коваля А.",
+      "url": "https://cosmatica.org/library/226-zvyozdnye-puti-chelovechestva.html",
+      "image": "assets/source/book-covers/677d616882c2e3f3d91718.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=f9b1b144c60a4abe1c",
+      "type": "book",
+      "sourceCharacters": 290,
+      "verified": false
+    },
+    {
+      "title": "Космос - человеку",
+      "description": "Книга в популярной форме рассказывает о значении космических исследований для настоящего и будущего человечества. Читатель узнает об исторических предпосылках зарождения современной космонавтики, о принципах устройства различных средств космической техники, о полетах автоматических станций и пилотируемых космических кораблей. Специальные разделы книги посвящены вопросам использования космоса и космических аппаратов в",
+      "url": "https://cosmatica.org/library/225-kosmos-cheloveku.html",
+      "image": "assets/source/book-covers/a5140dc6f0af3f06e27594.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=79022d280fc428b5c6",
+      "type": "book",
+      "sourceCharacters": 975,
+      "verified": false
+    },
+    {
+      "title": "Выход человечества в космос",
+      "description": "Г. А. Скуридин, В. И. Севастьянов, Г. А. Назаров",
+      "url": "https://cosmatica.org/library/224-vyhod-chelovechestva-v-kosmos.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/f/vyhod-chelovechestva-v-kosmos-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ecef314c5a9bb72ba6",
+      "type": "book",
+      "sourceCharacters": 74,
+      "verified": false
+    },
+    {
+      "title": "Вижу Землю....",
+      "description": "",
+      "url": "https://cosmatica.org/library/223-vizhu-zemlyu.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/e/vizhu-zemlyu-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=5860de21241b013f2e",
+      "type": "book",
+      "sourceCharacters": 38,
+      "verified": false
+    },
+    {
+      "title": "Космическая академия",
+      "description": "В книге овещена малоизвестная область космонавтики, связанная с отбором,обучением, психологической и лётной подготовкой космонавтов. В Советском Союзе отбор, обучение и воспитание космонавтов осуществляется в Центре подготовки космонавтов имени Ю.А.Гагарина. Это весьма необычное учебное заведение, сродни академии, в котором последовательно и динамично решается целый комплекс проблем, возникающих при подготовке к очер",
+      "url": "https://cosmatica.org/library/222-kosmicheskaja-akademija.html",
+      "image": "https://cosmatica.org/upload/000/u7/d/3/kosmicheskaja-akademija-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=f0eaa479eacde35438",
+      "type": "book",
+      "sourceCharacters": 1800,
+      "verified": false
+    },
+    {
+      "title": "Записки космического контрразведчика",
+      "description": "Книгу он посвятил космонавтам и специалистам, работающим рядом с ними, а также проблемам, которые вставали перед этими людьми и которые ему приходилось решать",
+      "url": "https://cosmatica.org/library/221-zapiski-kosmicheskogo-kontrrazvedchika.html",
+      "image": "assets/source/book-covers/2e3fe3b4a7998515223ea1.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=26f790cc3b6d231382",
+      "type": "book",
+      "sourceCharacters": 196,
+      "verified": false
+    },
+    {
+      "title": "Герои звездных трасс",
+      "description": "Блестящим успехом завершилась еще одна грандиозная космическая эпопея, Героические советские космонавты тт. Быковский Валерий Федорович и Терешкова Валентина Владимировна на замечательных кораблях-спутниках «Восток-5» и «Восток-6» совершили многодневный совместный космический полет и благополучно приземлились на территории нашей Родины — Союза Советских Социалистических Республик.",
+      "url": "https://cosmatica.org/library/220-geroi-zvezdnyh-trass.html",
+      "image": "https://cosmatica.org/upload/000/u7/7/c/geroi-zvezdnyh-trass-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=b78b7e9c6f53c159e2",
+      "type": "book",
+      "sourceCharacters": 421,
+      "verified": false
+    },
+    {
+      "title": "Первые в мире",
+      "description": "оставители и авторы текста: В. Ф. НЕСТЕРОВА (руководитель), В. И. ИСАЕВА, В. В. КАЗАНСКИЙ, Н. А. КУЗЬМИЧЕВ, О. А. МИХАЙЛОВ, Т. Н. МУСАТОВА, Т. И. РЕЗНИКОВА, А. В. СЕРЕГИН, В. Н. УСПЕНСКАЯ, Л. В. УСПЕНСКАЯ Художники: А. П. БИРЮКОВ, Ю. В. КЕРШИН",
+      "url": "https://cosmatica.org/library/219-pervye-v-mire.html",
+      "image": "assets/source/book-covers/f26f1e7e5aae425e169450.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=d2d1a9fde788b0d953",
+      "type": "book",
+      "sourceCharacters": 318,
+      "verified": false
+    },
+    {
+      "title": "На звездных и земных орбитах",
+      "description": "Автор, Герой Советского Союза, летчик-космонавт СССР (второй космонавт мира), генерал-лейтенант авиации, кандидат военных наук, рассказывает о своем пути к звездам, об интересных людях, с которыми сводила его судьба, о наиболее ярких событиях в истории отечественной космонавтики, свидетелем и участником которых ему довелось быть. В переработанном виде использованы отрывки из книг Г. С. Титова \"Семнадцать космических ",
+      "url": "https://cosmatica.org/library/218-na-zvezdnyh-i-zemnyh-orbitah.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/9/na-zvezdnyh-i-zemnyh-orbitah-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ef46203ae8095288c4",
+      "type": "book",
+      "sourceCharacters": 705,
+      "verified": false
+    },
+    {
+      "title": "СТАТЬ КОСМОНАВТОМ",
+      "description": "Книга посвящена самобытной российской школе подготовки космонавтов, тем, кто готовится к полетам в космос, и их наставникам ' инженерам, врачам, научным работникам, летчикам, тренерам, испытателям, методистам и другим профессионалам ЦПК имени Ю.А. Гагарина и смежных организаций. Автор, космонавт'испытатель и литератор, пишет «изнутри», опираясь на свой опыт и дневники разных лет. Текст дополнен короткими статьями спе",
+      "url": "https://cosmatica.org/library/217-stat-kosmonavtom.html",
+      "image": "https://cosmatica.org/upload/000/u7/b/1/stat-kosmonavtom-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=a6b05ac3a8e6316725",
+      "type": "book",
+      "sourceCharacters": 575,
+      "verified": false
+    },
+    {
+      "title": "Память сердца",
+      "description": "В последние годы жизни Анна Тимофеевна Гагарина работала над большой книгой воспоминаний о Юрии. В работе над этой книгой помогали многие люди, знавшие ее сына, но только сама она могла рассказать, сколько тепла и любви отдано материнским сердцем любимому всей планетой человеку. Многие поколения людей будут с интересом и теплотой вспоминать и перечитывать все, что связано с жизнью замечательной семьи Гагариных, с жиз",
+      "url": "https://cosmatica.org/library/216-pamjat-serdca.html",
+      "image": "https://cosmatica.org/upload/000/u7/7/f/pamjat-serdca-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=fdd0bc0198b10aa1e1",
+      "type": "book",
+      "sourceCharacters": 576,
+      "verified": false
+    },
+    {
+      "title": "Над планетой людей",
+      "description": "Эта книга о дважды Герое Советского Союза А. А. Леонове, космонавте, который первым из землян вышел в открытый космос, был командиром советского корабля во",
+      "url": "https://cosmatica.org/library/215-nad-planetoi-lyudei.html",
+      "image": "assets/source/book-covers/d883e45a5d8ac9444b96ec.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=9cbc595865c8b5cb83",
+      "type": "book",
+      "sourceCharacters": 401,
+      "verified": false
+    },
+    {
+      "title": "Звездный городок",
+      "description": "",
+      "url": "https://cosmatica.org/library/214-zvezdnyi-gorodok.html",
+      "image": "https://cosmatica.org/upload/000/u7/a/e/zvezdnyi-gorodok-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=eeaa62575bdce53786",
+      "type": "book",
+      "sourceCharacters": 65,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

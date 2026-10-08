@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "slug": "article",
+  "slug": "articles-list",
   "sourceUrl": "https://cosmatica.org/articles/konkurs-esse-otechestvennaja-kosmonavtika-vchera-segodnja-zavtra",
   "title": "Конкурс эссе \"Отечественная космонавтика:вчера-сегодня-завтра\"",
   "intro": "",
@@ -48,7 +48,68 @@
       "level": 2
     }
   ],
-  "cards": [],
+  "cards": [
+    {
+      "title": "Навстречу Новой Жизни #Отечественная космонавтика: вчера-сегодня-завтра",
+      "description": "Навстречу Новой Жизни #Отечественная космонавтика: вчера-сегодня-завтра Высочанская Мария, 15 лет, учащаяся 10 класса ДМО «Лицей-предуниверсарий» и секции «Редактирование интернет-сайта (копирайтер, корректор, рерайтер, инфостилист)» Учреждения дополнительного образования «Донецкая Республиканская Малая Академия Наук учащейся молодежи», ДНР , г.Донецк. Подробнее",
+      "url": "https://cosmatica.org/articles/859-navstrechu-novoi-zhizni.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Навстречу Новой Жизни",
+          "url": "https://cosmatica.org/articles/859-navstrechu-novoi-zhizni.html"
+        },
+        {
+          "title": "#Отечественная космонавтика: вчера-сегодня-завтра",
+          "url": "https://cosmatica.org/projects/163/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/859-navstrechu-novoi-zhizni.html"
+        }
+      ]
+    },
+    {
+      "title": "Очарованные звёздами #Отечественная космонавтика: вчера-сегодня-завтра",
+      "description": "Очарованные звёздами #Отечественная космонавтика: вчера-сегодня-завтра Мартыненко Богдан Александрович, 16 лет, 11-2 класс Донецкого Медицинского Общеобразовательного Лицея-предуниверсария ГОО ВПО ДОННМУ ИМ. М. ГОРЬКОГО, ДНР, Донецк. Второе место в республиканском конкурсе эссе \"Отечественная космонавтика: вчера-сегодня-завтра\". Подробнее",
+      "url": "https://cosmatica.org/articles/858-ocharovannye-zvyozdami.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Очарованные звёздами",
+          "url": "https://cosmatica.org/articles/858-ocharovannye-zvyozdami.html"
+        },
+        {
+          "title": "#Отечественная космонавтика: вчера-сегодня-завтра",
+          "url": "https://cosmatica.org/projects/163/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/858-ocharovannye-zvyozdami.html"
+        }
+      ]
+    },
+    {
+      "title": "Моя мечта #Отечественная космонавтика: вчера-сегодня-завтра",
+      "description": "Моя мечта #Отечественная космонавтика: вчера-сегодня-завтра Автор: Качанова Анна, учащаяся 10 класса МОО «ОШ № 11 города Енакиево», ДНР. Первое место в республиканском конкурсе эссе \"Отечественная космонавтика: вчера-сегодня-завтра\". Подробнее",
+      "url": "https://cosmatica.org/articles/855-moja-mechta.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Моя мечта",
+          "url": "https://cosmatica.org/articles/855-moja-mechta.html"
+        },
+        {
+          "title": "#Отечественная космонавтика: вчера-сегодня-завтра",
+          "url": "https://cosmatica.org/projects/163/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/855-moja-mechta.html"
+        }
+      ]
+    }
+  ],
   "fields": [],
   "images": [],
   "documents": [],
@@ -58,9 +119,15 @@
     "http": 200,
     "sourceTextCharacters": 1206,
     "storedTextCharacters": 391,
-    "sourceCardCount": 0,
+    "sourceCardCount": 3,
     "sourceImageCount": 0,
     "paragraphCount": 3,
     "sourceBytes": 79250
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "articles-list",
+  "sourceTextCharacters": 1206,
+  "capturedBodyCharacters": 391,
+  "sourceTextSHA256": "d3542e170e3bb2895b2fd9bc443e171cefaa9c9090e9ccc0ffcd1500d3f6733d",
+  "archiveSnapshotAt": "2026-10-08T08:45:04Z"
 }

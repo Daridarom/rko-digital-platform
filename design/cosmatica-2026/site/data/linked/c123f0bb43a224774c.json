@@ -7,8 +7,26 @@
   "blocks": [
     {
       "type": "image",
-      "src": "assets/source/d6795d14f312df14ae4bf58c.webp",
+      "src": "https://cosmatica.org/upload/000/u7/3/1/zhivoi-kosmos-photo-normal.jpg",
       "alt": "Живой космос"
+    },
+    {
+      "type": "paragraph",
+      "text": "Целью проекта является популяризация исследований, связанных с темами астробиологии, появления жизни на Земле и экспансии человечества в глубины древнего Космоса.",
+      "spans": [
+        {
+          "text": "Целью проекта является популяризация исследований, связанных с темами астробиологии, появления жизни на Земле и экспансии человечества в глубины древнего Космоса."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://alivespace.ru",
+      "spans": [
+        {
+          "text": "https://alivespace.ru"
+        }
+      ]
     }
   ],
   "cards": [],
@@ -21,7 +39,7 @@
     }
   ],
   "images": [
-    "assets/source/d6795d14f312df14ae4bf58c.webp"
+    "https://cosmatica.org/upload/000/u7/3/1/zhivoi-kosmos-photo-normal.jpg"
   ],
   "documents": [],
   "categories": [],
@@ -29,10 +47,16 @@
   "sourceEvidence": {
     "http": 200,
     "sourceTextCharacters": 197,
-    "storedTextCharacters": 0,
+    "storedTextCharacters": 183,
     "sourceCardCount": 0,
     "sourceImageCount": 1,
     "paragraphCount": 0,
     "sourceBytes": 32149
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "partner",
+  "sourceTextCharacters": 184,
+  "capturedBodyCharacters": 183,
+  "sourceTextSHA256": "f0e0a962282f65681cb491197baf65b827a83ad9842498905f5e26706a2b6b90",
+  "archiveSnapshotAt": "2026-10-08T08:35:57Z"
 }

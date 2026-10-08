@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/about/9-registracionnye-dokumenty.html",
+  "title": "Регистрационные документы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/e6/a9/ilovepdf-com.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/18/34/svidetelstvo-nalogovaja-001.jpg",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/e6/a9/ilovepdf-com.jpg",
+    "https://cosmatica.org/upload/000/u26/18/34/svidetelstvo-nalogovaja-001.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 25,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 2,
+    "sourceBytes": 33215
+  },
+  "textFallbackRequired": false,
+  "originalKind": "about-page",
+  "sourceTextCharacters": 0,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "archiveSnapshotAt": "2026-10-08T08:36:39Z"
+}

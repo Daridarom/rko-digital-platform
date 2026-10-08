@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 99,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "О земном и небесном через творчество",
+      "description": "В этом году акция была посвящена Году театра, поэтому посетителей музея ждали яркие театрализации, увлекательные мастер-классы, тематические экскурсии и лекции.",
+      "url": "https://cosmatica.org/news/600-o-zemnom-i-nebesnom-cherez-tvorchestvo.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/f/o-zemnom-i-nebesnom-cherez-tvorchestvo-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f9ad58f19b63529f41",
+      "type": "news-item",
+      "sourceCharacters": 4276,
+      "verified": false
+    },
+    {
+      "title": "Проект \"Наша Вселенная\", октябрь 2019",
+      "description": "Продолжаем проект , и на данном этапе мы в основном доделываем «Альфу 1/3», хотя, по некоторым направлениям уже перешли к «Альфе 2/3». Так и было задумано, тестируем сборки, обновляем раз в неделю и пересылаем для ознакомления тем, кто нас уже поддержал.",
+      "url": "https://cosmatica.org/news/598-proekt-nasha-vselennaja-oktjabr-2019.html",
+      "image": "https://cosmatica.org/upload/000/u64/e/0/proekt-nasha-vselennaja-oktjabr-2019-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f91d9d4e7284c07efe",
+      "type": "news-item",
+      "sourceCharacters": 924,
+      "verified": false
+    },
+    {
+      "title": "Новости \"Гагаринского сада\"",
+      "description": "29 октября в Москву прибыли 1500 саженцев кедра корейского из Зеленоградского кедрового питомника (г. Калининград).",
+      "url": "https://cosmatica.org/news/597-novosti-gagarinskogo-sada.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/2/novosti-gagarinskogo-sada-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3ae39ba140cf17d317",
+      "type": "news-item",
+      "sourceCharacters": 1685,
+      "verified": false
+    },
+    {
+      "title": "Молодёжь РКО приняла участие в мероприятии \"Роскосмоса\"",
+      "description": "В мероприятии приняли участие представители руководства МГТУ им. Н.Э. Баумана, Московского завода электромеханического оборудования, эксперты Государственной Думы, представители молодёжного крыла Русского космического общества, а также Центра проектных и образовательных инициатив, Общественного движения «Молодёжь и развитие », Фонда реализации социальных программ, студенты - члены Молодёжного космического центра МГТУ",
+      "url": "https://cosmatica.org/news/595-molodyozh-rko-prinjala-uchastie-v-meroprijatii-roskosmosa.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/f/molodyozh-rko-prinjala-uchastie-v-meroprijatii-roskosmosa-photo-no.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9f09bc49c19b2d5a04",
+      "type": "news-item",
+      "sourceCharacters": 3535,
+      "verified": false
+    },
+    {
+      "title": "\"Моя большая КосмоСемья\" путешествует по городам России",
+      "description": "Весной этого года в честь юбилея первого космонавта Земли Юрия Алексеевича Гагарина проводилось много мероприятий. Яркой звездой в созвездии этих юбилейных событий стал Всероссийский конкурс художественного рисунка «Моя большая КосмоСемья», организованный и с успехом проведённый Фондом поддержки и развития семей «Родная Семья », при поддержке Русского Космического общества.",
+      "url": "https://cosmatica.org/news/594-moja-bolshaja-kosmosemja-puteshestvuet-po-gorodam-rossii.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/6/moja-bolshaja-kosmosemja-nachala-puteshestvie-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5f0f373f39c736efed",
+      "type": "news-item",
+      "sourceCharacters": 4312,
+      "verified": false
+    },
+    {
+      "title": "Высокие идеалы и забота о природе",
+      "description": "\"Гагаринский сад\" прорастает на Селигере.",
+      "url": "https://cosmatica.org/news/596-vysokie-idealy-i-zabota-o-prirode.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/9/vysokie-idealy-i-zabota-o-prirode-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=339f41d36de76f5ae7",
+      "type": "news-item",
+      "sourceCharacters": 3006,
+      "verified": false
+    },
+    {
+      "title": "Побисковские чтения состоялись на площадке Президиума РАН",
+      "description": "Организаторами конференции выступили: Русское Космическое Общество, Международная Научная школа устойчивого развития им. П.Г.Кузнецова и Научный совет РАН по проблемам евразийской экономической интеграции, модернизации, конкурентоспособности и устойчивому развитию.",
+      "url": "https://cosmatica.org/news/593-pobiskovskie-chtenija-proshli-na-ploschadke-prezidiuma-ran.html",
+      "image": "https://cosmatica.org/upload/000/u7/a/b/9b7a040a.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=75598093461a5bd88c",
+      "type": "news-item",
+      "sourceCharacters": 7939,
+      "verified": false
+    },
+    {
+      "title": "Русский мир: динамика научного познания",
+      "description": "Организатором конференции выступил Арзамасский филиал ННГУ. Конференция состоялась при поддержке Фонда «Русский мир».",
+      "url": "https://cosmatica.org/news/592-russkii-mir-dinamika-nauchnogo-poznanija.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/d/accd205c.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e8251fb362479d86d0",
+      "type": "news-item",
+      "sourceCharacters": 3373,
+      "verified": false
+    },
+    {
+      "title": "Звёзды над Лугой.",
+      "description": "28 сентября в Луге прошла первая тематическая встреча, инициатором которой выступил Георгий Александрович Хохлов , руководитель проекта \"Астродача в Низовской\", лектор Русского космического общества, член Санкт-Петербургского Астрономо-геодезического общества (СПАГО), сотрудник Пулковской обсерватории (с 2007 по 2017 гг.). Мы уже писали об этом ранее .",
+      "url": "https://cosmatica.org/news/591-zvyozdy-nad-lugoi.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/9/zvyozdy-nad-lugoi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=751b68d10273fe2a5f",
+      "type": "news-item",
+      "sourceCharacters": 2098,
+      "verified": false
+    },
+    {
+      "title": "Выходя на новый виток",
+      "description": "25 октября 2017 года Русское Космическое Общество было создано. Минюст России зарегистрировал его в день символической даты - столетия со дня Великой Октябрьской Социалистической Революции. Началась история становления Организации, не похожей ни на какую другую. С высокими целями и ответственностью за их достижение. С замечательными людьми, стремящимися внести свой посильный вклад в Общее Дело. С открытой структурой,",
+      "url": "https://cosmatica.org/news/590-vyhodja-na-novyi-vitok.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/7/vyhodja-na-novyi-vitok-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f548986c183ecb4fd3",
+      "type": "news-item",
+      "sourceCharacters": 8238,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество запускает процесс сетения",
+      "description": "Мир стремительно меняется. Бурные потоки событий в мире технологий стремительно несут человечество к сингулярности. Информация непрерывно захлестывает наше сознание. Вся мощность вычислительного комплекса по управлению высадки человека на Луну умещается сегодня в смартфоне школьника. Не все могут адаптироваться к такой стремительной цифровизации бытия. Необходима выработка новых подходов и навыков для счастливой жизн",
+      "url": "https://cosmatica.org/news/589-russkoe-kosmicheskoe-obschestvo-zapuskaet-process-setenija.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/4/russkoe-kosmicheskoe-obschestvo-zapuskaet-process-setenija-photo-nor.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1982856c78a3b4b9fb",
+      "type": "news-item",
+      "sourceCharacters": 2126,
+      "verified": false
+    },
+    {
+      "title": "Общая цель развития человечества и биосферы. Научные основания проектирования будущего",
+      "description": "Уважаемые друзья и соратники, представляем вашему вниманию результат совместного труда двух руководителей Русского Космического Общества. Первым и ключевым итогом их совместной деятельности стало создание Русского Космического Общества. Этот результат навсегда останется основным показателем их успешного и плодотворного сотворчества. Последние годы жизни первого Президента РКО Бориса Евгеньевича Большакова разделил с ",
+      "url": "https://cosmatica.org/news/588-obschaja-cel-razvitija-chelovechestva-i-biosfery-nauchnye-osnovanija-proektirovanija-buduschego.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/a/obschaja-cel-razvitija-chelovechestva-i-biosfery-nauchnye-osnovanija-p.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c144373ec90d7a5dfc",
+      "type": "news-item",
+      "sourceCharacters": 4124,
+      "verified": false
+    },
+    {
+      "title": "Хроники международных отношений",
+      "description": "18 октября в посольстве республики Сербия в Москве состоялось Торжественное мероприятие, посвящённое 75-ой годовщине освобождения Белграда.",
+      "url": "https://cosmatica.org/news/587-hroniki-mezhdunarodnyh-otnoshenii.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/d/94ed0111.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f194fe28d5893d5a5e",
+      "type": "news-item",
+      "sourceCharacters": 1069,
+      "verified": false
+    },
+    {
+      "title": "Возобновил свою работу семинар по устойчивому развитию жизни",
+      "description": "С октября 2019 года Международная научная школа устойчивого развития, Русское Космическое Общество возобновили постоянно действующие научно-образовательные семинары по фундаментальным и прикладным проблемам устойчивого развития жизни (семинар имени Б.Е.Большакова).",
+      "url": "https://cosmatica.org/news/586-vozobnovil-svoyu-rabotu-seminar-po-ustoichivomu-razvitiyu-zhizni.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/9/photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0441f55c4a6eb598dd",
+      "type": "news-item",
+      "sourceCharacters": 3391,
+      "verified": false
+    },
+    {
+      "title": "Крутим АстроГлобус. Остановка: Таллин!",
+      "description": "- Где провести космические выходные? - В Таллине! В прошлое воскресенье Владимир Гоман руководитель Балтийского астрономического клуба организовал встречу в Народной обсерватории, проект создания которой он возглавляет!",
+      "url": "https://cosmatica.org/news/585-krutim-astroglobus-ostanovka-tallin.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/3/krutim-astroglobus-ostanovka-tallin-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1cbe9a2720f2217f06",
+      "type": "news-item",
+      "sourceCharacters": 3292,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

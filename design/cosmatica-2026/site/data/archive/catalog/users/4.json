@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "users",
+  "title": "Участники РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 4,
+  "pageCount": 16,
+  "total": 235,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Виктория Владимировна Вылегжанина",
+      "description": "Выпускница первого Императорского университета за Уралом — НИ ТГУ, Экономист ВЭД (2000г.); НИ ТПУ, Инновационный менеджмент (2011г.); РГУП им.В.М.Лебедева, Юрист (2014г.); ТУСУР, Преподаватель Высшей Школы (2020г.).",
+      "url": "https://cosmatica.org/users/12396",
+      "image": "https://cosmatica.org/upload/002/u218/7/b/9d5f815a.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=c6cf4cd223cf4599c8",
+      "type": "profile",
+      "sourceCharacters": 2103,
+      "verified": false
+    },
+    {
+      "title": "Олег Васильевич Казарский",
+      "description": "Координатор движения «Народное Славянское Единство»",
+      "url": "https://cosmatica.org/users/12398",
+      "image": "https://cosmatica.org/upload/123/u12398/3/d/65be4aa6.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=95126dd9fe2065b399",
+      "type": "profile",
+      "sourceCharacters": 219,
+      "verified": false
+    },
+    {
+      "title": "Юрий Владимирович Шефер",
+      "description": "Томский политехнический университет. «Инженер химик-технолог». 2005г.",
+      "url": "https://cosmatica.org/users/14258",
+      "image": "https://cosmatica.org/upload/142/u14258/f/4/5e6909a4.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a019322337803cc27c",
+      "type": "profile",
+      "sourceCharacters": 962,
+      "verified": false
+    },
+    {
+      "title": "Шабанов Павел Алексеевич",
+      "description": "Инженер по специальности «Информационные системы и технологии» (МГГУ 2011)",
+      "url": "https://cosmatica.org/users/1",
+      "image": "https://cosmatica.org/upload/000/u1/e/8/c0b183a1.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=47758ad06bb413ce8b",
+      "type": "profile",
+      "sourceCharacters": 298,
+      "verified": false
+    },
+    {
+      "title": "Борис Евгеньевич Большаков",
+      "description": "Первый Президент Русского Космического Общества (2017-2018 гг.).",
+      "url": "https://cosmatica.org/users/10",
+      "image": "https://cosmatica.org/upload/000/u8/7f/5d/9d5913b3.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=8226c71f1c95506f55",
+      "type": "profile",
+      "sourceCharacters": 3339,
+      "verified": false
+    },
+    {
+      "title": "Виталий Алексеевич Трошин",
+      "description": "Архитектор, художник, педагог и общественный деятель.",
+      "url": "https://cosmatica.org/users/101",
+      "image": "https://cosmatica.org/upload/001/u101/f0/02/3823b00f.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=bfbfe3902c417d630b",
+      "type": "profile",
+      "sourceCharacters": 7242,
+      "verified": false
+    },
+    {
+      "title": "chrome",
+      "description": "",
+      "url": "https://cosmatica.org/users/106",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=ab325d65ad21f2072e",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Алексей Николаевич Петров",
+      "description": "Председатель организационного комитета «Зенит»",
+      "url": "https://cosmatica.org/users/107",
+      "image": "https://cosmatica.org/upload/000/u8/58/14/d2c3db74.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=517f4ad209ac006211",
+      "type": "profile",
+      "sourceCharacters": 475,
+      "verified": false
+    },
+    {
+      "title": "Самоцупов Илья Сергеевич",
+      "description": "",
+      "url": "https://cosmatica.org/users/108",
+      "image": "https://cosmatica.org/upload/000/u35/9/d/ff2a25b8.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=84eef24bba7704390c",
+      "type": "profile",
+      "sourceCharacters": 84,
+      "verified": false
+    },
+    {
+      "title": "Олег Леонидович Кузнецов",
+      "description": "Председатель Коллегии Русского Космического Общества.",
+      "url": "https://cosmatica.org/users/11",
+      "image": "https://cosmatica.org/upload/000/u8/8a/ff/bf4fd5f5.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=37ed4b3c62fbb1c98b",
+      "type": "profile",
+      "sourceCharacters": 2495,
+      "verified": false
+    },
+    {
+      "title": "Михаил Иванович Беляев",
+      "description": "Председатель секции Методов синтеза междисциплинарных знаний при Научно-техническом совете.",
+      "url": "https://cosmatica.org/users/113",
+      "image": "https://cosmatica.org/upload/000/u26/1d/d0/73798e79.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=1d1046413dbcc7c4ef",
+      "type": "profile",
+      "sourceCharacters": 7030,
+      "verified": false
+    },
+    {
+      "title": "Леонид Викторович Тимошенко. Звездный Маэстро",
+      "description": "За 25 лет творчества провел более 3000 концертов в России (1995-2019)",
+      "url": "https://cosmatica.org/users/114",
+      "image": "https://cosmatica.org/upload/000/u26/eb/97/fcdd201a.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=f57548f20b75c24049",
+      "type": "profile",
+      "sourceCharacters": 1415,
+      "verified": false
+    },
+    {
+      "title": "Борис Георгиевич Режабек",
+      "description": "Биофизик, кандидат биологических наук, зав. кафедрой нанобионики в Международном универстите междисциплинарных знаний, воспитавший более 150 специалистов по биофизике и биокибернетике, автор ряда интересных экспериментов, статей в журналах и учебника «Биологическая кибернетика» Эколог, председатель Северо-Кавказского межрегионального отделения Международного экологического фонда, академик Международной Академии наук ",
+      "url": "https://cosmatica.org/users/115",
+      "image": "https://cosmatica.org/upload/000/u26/ff/78/e95d1514.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=82af9d77d3f460662e",
+      "type": "profile",
+      "sourceCharacters": 1427,
+      "verified": false
+    },
+    {
+      "title": "Денис Олегович Прудник Профиль удалён",
+      "description": "Председатель Молодёжного Совета Русского Космического Общества.",
+      "url": "https://cosmatica.org/users/120",
+      "image": "https://cosmatica.org/upload/001/u120/0/6/9fb954a2.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=095666bf62483e1e85",
+      "type": "profile",
+      "sourceCharacters": 1601,
+      "verified": false
+    },
+    {
+      "title": "Александр Михайлович Димов",
+      "description": "Заместитель Председателя Новосибирского отделения РКО",
+      "url": "https://cosmatica.org/users/122",
+      "image": "https://cosmatica.org/upload/001/u122/2/0/03ca6467.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=7b1a6187f6a21bb7c7",
+      "type": "profile",
+      "sourceCharacters": 2644,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

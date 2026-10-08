@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1869-otkrytaja-studija-s-annoi-klyopovoi.html",
+  "title": "Открытая студия с Анной Клёповой",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/4/7/otkrytaja-studija-s-annoi-klyopovoi-photo-normal.jpg",
+      "alt": "Открытая студия с Анной Клёповой"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 апреля Глава Русского Космического Общества Алексей Алексеевич Гапонов и почётный член РКО, космонавт-испытатель Надежда Васильевна Кужельная посетили музей Г.Т. Берегового в Енакиево (ДНР).",
+      "spans": [
+        {
+          "text": "6 апреля Глава Русского Космического Общества  "
+        },
+        {
+          "text": "Алексей Алексеевич Гапонов",
+          "href": "https://cosmatica.org/users/7"
+        },
+        {
+          "text": " и почётный член РКО, космонавт-испытатель Надежда Васильевна Кужельная посетили музей Г.Т. Берегового в Енакиево (ДНР)."
+        }
+      ],
+      "links": [
+        {
+          "text": "Алексей Алексеевич Гапонов",
+          "url": "https://cosmatica.org/users/7"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Там состоялись съёмки передачи Первого Республиканского телеканала \"Открытая студия\".",
+      "spans": [
+        {
+          "text": "Там состоялись съёмки передачи Первого Республиканского телеканала \"Открытая студия\". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Анна Клёпова уже не первый раз общается с Главой и представителями РКО.",
+      "spans": [
+        {
+          "text": "Анна Клёпова уже не первый раз общается с Главой и представителями РКО. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В преддверии Дня космонавтики говорили:",
+      "spans": [
+        {
+          "text": "В преддверии Дня космонавтики говорили:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- о цели очередного приезда РКО на Донбасс и работе, которая проводится в Донецкой Народной Республике;",
+      "spans": [
+        {
+          "text": "- о цели очередного приезда РКО на Донбасс и работе, которая проводится в Донецкой Народной Республике;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- о \"Дружине Гагаринцев\" Донецкой Народной Республики;",
+      "spans": [
+        {
+          "text": "- о \"Дружине Гагаринцев\" Донецкой Народной Республики;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- об участии в СВО и создании нового боевого подразделения.",
+      "spans": [
+        {
+          "text": "- об участии в СВО и создании нового боевого подразделения."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Надежда Васильевна поделилась подробностями своего пути в небо.",
+      "spans": [
+        {
+          "text": "Надежда Васильевна поделилась подробностями своего пути в небо."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Визит состоялся в рамках реализации культурно-гуманитарной миссии РКО на Донбассе, с целью развития Всенародного детско-юношеского общественного движения Русского Космического Общества – «Дружина Гагаринцев», а также приурочен к грядущему Дню космонавтики.",
+      "spans": [
+        {
+          "text": "Визит состоялся в рамках реализации  культурно-гуманитарной миссии РКО на Донбассе, с целью развития  Всенародного детско-юношеского общественного движения Русского  Космического Общества – «Дружина Гагаринцев», а также приурочен к  грядущему Дню космонавтики."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "С подробностями о данной поездке можно ознакомиться на сайте РКО :",
+      "spans": [
+        {
+          "text": "С подробностями о данной поездке можно ознакомиться на сайте РКО"
+        },
+        {
+          "text": ":",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://cosmatica.org/news/1862-kosmicheskii-prazdnik-dlja-gagarincev-doneckoi-respubliki.html",
+      "spans": [
+        {
+          "text": "https://cosmatica.org/news/1862-kosmicheskii-prazdnik-dlja-gagarincev-doneckoi-respubliki.html",
+          "href": "https://cosmatica.org/news/1862-kosmicheskii-prazdnik-dlja-gagarincev-doneckoi-respubliki.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/news/1862-kosmicheskii-prazdnik-dlja-gagarincev-doneckoi-respubliki.html",
+          "url": "https://cosmatica.org/news/1862-kosmicheskii-prazdnik-dlja-gagarincev-doneckoi-respubliki.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://cosmatica.org/news/1865-mechty-o-nebe-detjam-donbassa.html",
+      "spans": [
+        {
+          "text": "https://cosmatica.org/news/1865-mechty-o-nebe-detjam-donbassa.html",
+          "href": "https://cosmatica.org/news/1865-mechty-o-nebe-detjam-donbassa.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/news/1865-mechty-o-nebe-detjam-donbassa.html",
+          "url": "https://cosmatica.org/news/1865-mechty-o-nebe-detjam-donbassa.html"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "cosmovid",
+      "embedUrl": "https://cosmovid.ru/videos/embed/794e8705-0528-4555-a3d8-8b1a0e103e9b",
+      "title": "Русское космическое общество. Открытая студия. 12.04.2024",
+      "sourceUrl": "https://cosmovid.ru/videos/embed/794e8705-0528-4555-a3d8-8b1a0e103e9b"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Гапонов А.А и Кужельная Н.В. в эфире программы \"Откурытая студия\".",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "6 апреля Глава Русского Космического Общества Алексей Алексеевич Гапонов и почётный член РКО, космонавт-испытатель Надежда Васильевна Кужельная посетили музей Г.Т. Берегового в Енакиево (ДНР). Там состоялись съёмки передачи Первого Республиканского телеканала \"Открытая студия\". Анна Клёпова уже не первый раз общается с Главой и представителями РКО. В преддверии Дня космонавтики говорили: - о цели очередного приезда РКО на Донбасс и работе, которая проводится в Донецкой Народной Республике; - о \"Дружине Гагаринцев\" Донецкой Народной Республики; - об участии в СВО и создании нового боевого подразделения. Надежда Васильевна поделилась подробностями своего пути в небо. Визит состоялся в рамках реализации культурно-гуманитарной миссии РКО на Донбассе, с целью развития Всенародного детско-юношеского общественного движения Русского Космического Общества – «Дружина Гагаринцев», а также приурочен к грядущему Дню космонавтики. С подробностями о данной поездке можно ознакомиться на сайте РКО : https://cosmatica.org/news/1862-kosmicheskii-prazdnik-dlja-gagarincev-doneckoi-respubliki.html https://cosmatica.org/news/1865-mechty-o-nebe-detjam-donbassa.html",
+      "links": [
+        {
+          "title": "Алексей Алексеевич Гапонов",
+          "url": "https://cosmatica.org/users/7"
+        },
+        {
+          "title": "https://cosmatica.org/news/1862-kosmicheskii-prazdnik-dlja-gagarincev-doneckoi-respubliki.html",
+          "url": "https://cosmatica.org/news/1862-kosmicheskii-prazdnik-dlja-gagarincev-doneckoi-respubliki.html"
+        },
+        {
+          "title": "https://cosmatica.org/news/1865-mechty-o-nebe-detjam-donbassa.html",
+          "url": "https://cosmatica.org/news/1865-mechty-o-nebe-detjam-donbassa.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/4/7/otkrytaja-studija-s-annoi-klyopovoi-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1493,
+    "storedTextCharacters": 1159,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 12,
+    "sourceBytes": 48727
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1350,
+  "capturedBodyCharacters": 1159,
+  "sourceTextSHA256": "52366b1d070bc7393f409aa34e9a8613eecec7a75befa052697cea0bcad5b624",
+  "archiveSnapshotAt": "2026-10-08T09:09:09Z",
+  "publicVideoCount": 1
+}

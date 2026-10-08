@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/87-politologija.html",
+  "title": "Политология",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "предметная область, изучающая различные формы де­ятельности по обеспечению власти.",
+      "spans": [
+        {
+          "text": "предметная область, изучающая различные формы де­ятельности по обеспечению власти."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "предметная область, изучающая различные формы де­ятельности по обеспечению власти.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 94,
+    "storedTextCharacters": 82,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31762
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 82,
+  "capturedBodyCharacters": 82,
+  "sourceTextSHA256": "827244152691509b01694692fcf19683efd2b0d99fbd9be2e08bd64a05e3dc23",
+  "archiveSnapshotAt": "2026-10-08T08:47:19Z"
+}

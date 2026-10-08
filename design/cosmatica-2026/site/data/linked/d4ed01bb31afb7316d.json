@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/50-mniika-na-konferencii-v-italii.html",
+  "title": "МНИИКА на конференции в Италии",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u30/3e/6a/mniika-na-konferencii-v-italii-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "19-21 октября 2018 г. в Италии, в Умбрии состоится Международная научная конференция \"Учёные за мир - планетарное сознание и этика\", на которой с докладом \"Знамя мира\" в эпоху авангардной постклассической науки\" выступит генеральный директор Международного научно-исследовательского института космопланетарной антропоэкологии имени академика В.П.Казначеева , председатель Новосибирского отделения Русского Космического Общества, д.м.н. Александр Васильевич Трофимов.",
+      "spans": [
+        {
+          "text": "19-21 октября 2018 г. в Италии, в Умбрии состоится Международная научная конференция \"Учёные за мир - планетарное сознание и этика\", на которой с докладом \"Знамя мира\" в эпоху авангардной постклассической науки\" выступит генеральный директор "
+        },
+        {
+          "text": "Международного научно-исследовательского института космопланетарной антропоэкологии имени академика В.П.Казначеева",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": ", председатель Новосибирского отделения Русского Космического Общества, д.м.н. Александр Васильевич Трофимов."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Организатор конференции: Общество живой этики.",
+      "spans": [
+        {
+          "text": "Организатор конференции: Общество живой этики."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Программа конференции",
+      "spans": [
+        {
+          "text": "Программа конференции"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "SCIETISTS FOR PEACE- PLANETARY CONSCIOUSNESS AND ETHICS",
+      "spans": [
+        {
+          "text": "SCIETISTS FOR PEACE- PLANETARY CONSCIOUSNESS AND ETHICS",
+          "href": "https://www.comunitadieticavivente.org/index.php/scientists-for-peace/"
+        }
+      ],
+      "links": [
+        {
+          "text": "SCIETISTS FOR PEACE- PLANETARY CONSCIOUSNESS AND ETHICS",
+          "url": "https://www.comunitadieticavivente.org/index.php/scientists-for-peace/"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "19-21 октября 2018 г. в Италии, в Умбрии состоится Международная научная конференция \"Учёные за мир - планетарное сознание и этика\", на которой с докладом \"Знамя мира\" в эпоху авангардной постклассической науки\" выступит генеральный директор Международного научно-исследовательского института космопланетарной антропоэкологии имени академика В.П.Казначеева , председатель Новосибирского отделения Русского Космического Общества, д.м.н. Александр Васильевич Трофимов. Организатор конференции: Общество живой этики. Программа конференции SCIETISTS FOR PEACE- PLANETARY CONSCIOUSNESS AND ETHICS",
+      "links": [
+        {
+          "title": "SCIETISTS FOR PEACE- PLANETARY CONSCIOUSNESS AND ETHICS",
+          "url": "https://www.comunitadieticavivente.org/index.php/scientists-for-peace/"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u30/3e/6a/mniika-na-konferencii-v-italii-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 718,
+    "storedTextCharacters": 588,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 38574
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 718,
+  "capturedBodyCharacters": 588,
+  "sourceTextSHA256": "1a84491dde6a99beb98c2b7f6a84611f2aa6998f045bb817a4eb3bb94700ca0e",
+  "archiveSnapshotAt": "2026-10-08T09:16:03Z"
+}

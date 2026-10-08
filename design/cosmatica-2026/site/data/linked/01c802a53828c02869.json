@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/530-ja-zemlja-ja-svoih-provozhayu-pitomcev.html",
+  "title": "РКО в эфире. Разговор о смыслах",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u237/1/c/ja-zemlja-ja-svoih-provozhayu-pitomcev-photo-normal.jpg",
+      "alt": "РКО в эфире. Разговор о смыслах"
+    },
+    {
+      "type": "paragraph",
+      "text": "28 августа, в преддверии открытия Донецкого отделения РКО, в студии телеканала Юнион (Донецк, ДНР) состоялась встреча с Президентом Русского Космического Общества Алексеем Алексеевичем Гапоновым и членом Президиума РКО Степаном Андреевичем Зотовым. Говорили о смыслах, о том, что же такое Русское Космическое Общество, и почему - Донецк. Результатом беседы стала эта программа. Смотрим.",
+      "spans": [
+        {
+          "text": "28 августа, в преддверии открытия Донецкого отделения РКО, в студии  телеканала Юнион (Донецк, ДНР) состоялась встреча с Президентом Русского  Космического Общества Алексеем Алексеевичем Гапоновым и членом  Президиума РКО Степаном Андреевичем Зотовым. Говорили о смыслах, о том, что же такое Русское Космическое Общество, и почему - Донецк. Результатом беседы стала эта программа. Смотрим."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "ICupqE4k0m8",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=ICupqE4k0m8"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Передача на донецком ТВ с участием Главы РКО Гапонова А.А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "28 августа, в преддверии открытия Донецкого отделения РКО, в студии телеканала Юнион (Донецк, ДНР) состоялась встреча с Президентом Русского Космического Общества Алексеем Алексеевичем Гапоновым и членом Президиума РКО Степаном Андреевичем Зотовым. Говорили о смыслах, о том, что же такое Русское Космическое Общество, и почему - Донецк. Результатом беседы стала эта программа. Смотрим.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u237/1/c/ja-zemlja-ja-svoih-provozhayu-pitomcev-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 718,
+    "storedTextCharacters": 397,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 46678
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 576,
+  "capturedBodyCharacters": 397,
+  "sourceTextSHA256": "0637a28af586da03c8e4d88c0ff9cea181a31b531336a66e5b37ac1e8694da95",
+  "archiveSnapshotAt": "2026-10-08T09:12:17Z",
+  "publicVideoCount": 1
+}

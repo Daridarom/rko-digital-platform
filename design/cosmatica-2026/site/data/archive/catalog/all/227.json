@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 227,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Первое учредительное собрание Калининградского отделения РКО",
+      "description": "Первое учредительное собрание Калининградского отделения Русского космического общества",
+      "url": "https://cosmatica.org/poster/168-pervoe-uchreditelnoe-sobranie-kaliningradskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/002/u209/7/4/pervoe-uchreditelnoe-sobranie-kaliningradskogo-otdelenija-rko-pho.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=372b003f914ff15fac",
+      "type": "poster-item",
+      "sourceCharacters": 1407,
+      "verified": false
+    },
+    {
+      "title": "Заповедник \"Сундуки\" - база РКО Хакасии.",
+      "description": "Русское космическое общество Хакасии сформировано на базе музея-заповедника «Сундуки» , который является центром полевых работ команды ученых - астроархеологов, работавших более тридцати лет под руководством доктора исторических наук, сотрудника института археологии и этнографии СО Российской Академии Наук, академика РАЕН В.Е.Ларичева.",
+      "url": "https://cosmatica.org/articles/167-zapovednik-sunduki-baza-rko-hakasii.html",
+      "image": "https://cosmatica.org/upload/000/u43/6b/57/1may.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=e9ed639c1e2495d09d",
+      "type": "article",
+      "sourceCharacters": 3058,
+      "verified": false
+    },
+    {
+      "title": "Временные (переменные) аксиомы",
+      "description": "неявные аксиомы или условия, границы применения, ограничения теории.",
+      "url": "https://cosmatica.org/glossary/167-vremennye-peremennye-aksiomy.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=ac2630b25c3bd48553",
+      "type": "article",
+      "sourceCharacters": 68,
+      "verified": false
+    },
+    {
+      "title": "Гидрокомплекс орбитального корабля «Буран»",
+      "description": "В книге приведены: конструктивное описание гидрокомплекса ОК «Буран»; общие принципы построения моделирующих алгоритмов его систем и элементов; расчетные схемы; математические модели; алгоритмы их реализации на ЭВМ и общие направления перспективных теоретических разработок Представлены инженерные методики расчета, синтеза и оцен-ки основных параметров гидрокомплекса, характеризующие работу его систем при различных ко",
+      "url": "https://cosmatica.org/library/167-gidrokompleks-orbitalnogo-korablja-buran.html",
+      "image": "https://cosmatica.org/upload/000/u15/af/54/gidrokompleks-orbitalnogo-korablja-buran-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7030c1cf3f7c2cf336",
+      "type": "book",
+      "sourceCharacters": 893,
+      "verified": false
+    },
+    {
+      "title": "Завершил свою работу семинар \"Целостное мышление для устойчивого развития\"",
+      "description": "Он состоялся в Подмосковье с 1 по 6 августа 2018г. Участники семинара прибыли из Набережных Челнов, Подольска, Москвы, Домодедово. Нынешний отчет мы составили на основе отзывов наших слушателей.",
+      "url": "https://cosmatica.org/news/167-zavershil-svoyu-rabotu-seminar-celostnoe-myshlenie-dlja-ustoichivogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u42/7d/8e/zavershil-svoyu-rabotu-seminar-celostnoe-myshlenie-dlja-ustoichivogo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3a89cdc6cb2b47ee56",
+      "type": "news-item",
+      "sourceCharacters": 5682,
+      "verified": false
+    },
+    {
+      "title": "Первые \"Гагаринские сборы\" на планете Земля #Первые \"Гагаринские сборы\" на планете Земля",
+      "description": "Первые «Гагаринские сборы» на планете Земля состоятся в период с 25 по 27 июня 2019 года на базе Мемориального комплекса Ю. А. Гагарина , в городе Гагарин, Смоленской области",
+      "url": "https://cosmatica.org/poster/167-pervye-gagarinskie-sbory-na-planete-zemlja.html",
+      "image": "https://cosmatica.org/upload/002/u212/7/a/pervye-gagarinskie-sbory-na-planete-zemlja-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=c6318711faad85e7e5",
+      "type": "poster-item",
+      "sourceCharacters": 3084,
+      "verified": false
+    },
+    {
+      "title": "ОБРАЗ- ДВИГАТЕЛЬ ТВОРЧЕСТВА.",
+      "description": "В повседневных школьных буднях приходится постоянно сталкиваться с традиционным культурно-информативным способом изучения нового материала. Обидно видеть это, ведь такой подход абсолютно бессмысленнен.",
+      "url": "https://cosmatica.org/articles/166-obraz-dvigatel-tvorchestva.html",
+      "image": "https://cosmatica.org/upload/000/u56/04/ff/2june.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=31f401adb7dc3e636e",
+      "type": "article",
+      "sourceCharacters": 10302,
+      "verified": false
+    },
+    {
+      "title": "Тенденция",
+      "description": "приобретает статус закономерности, если установлена ее",
+      "url": "https://cosmatica.org/glossary/166-tendencija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=3539e046649c9fd045",
+      "type": "article",
+      "sourceCharacters": 71,
+      "verified": false
+    },
+    {
+      "title": "Высотные и космические скафандры",
+      "description": "В книге обобщен отечественный и зарубежный опыт проектирования скафандров для высотных и космических полетов человека. Приведены свойства среды, в которой происходит полет, физические факторы полета, их действие на организм человека. Кратко изложены основы теории и методы расчета систем и агрегатов скафандра. Книга предназначена для специалистов, работающих в области проектирования, производства и испытания снаряжени",
+      "url": "https://cosmatica.org/library/166-vysotnye-i-kosmicheskie-skafandry.html",
+      "image": "assets/source/book-covers/2968374c4017bd5ec36169.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=5f85ad5793d914aec1",
+      "type": "book",
+      "sourceCharacters": 502,
+      "verified": false
+    },
+    {
+      "title": "Вышел новый выпуск газеты (июль, 2018)",
+      "description": "Рады сообщить о том, что выпуск газеты \"Природа - Общество - Человек: Ноосферное устойчивое развитие \" №11 с понедельника будет распространяться в офисе Русского Космического Общества по адресу: г. Москва, Ленинградский проспект, д. 7/1, оф. 20 и по подписке на территории России.",
+      "url": "https://cosmatica.org/news/166-vyshel-novyi-vypusk-gazety-iyul-2018.html",
+      "image": "https://cosmatica.org/upload/000/u26/05/c6/vyshel-novyi-vypusk-gazety-iyul-2018-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e0d5ee7b31a1eb37b7",
+      "type": "news-item",
+      "sourceCharacters": 824,
+      "verified": false
+    },
+    {
+      "title": "Лекция об истории развития отечественного ракетостроения.",
+      "description": "Лето – это не только солнце и свежий воздух, но и интересные мероприятия для того, чтобы узнать что-то новое! Всех, кто ещё не совсем расплавился от жары, приглашаем на просветительскую лекцию-беседу на тему \"300-летняя история развития отечественного ракетостроения\".",
+      "url": "https://cosmatica.org/poster/166-lekcija-ob-istorii-razvitija-otechestvennogo-raketostroenija.html",
+      "image": "https://cosmatica.org/upload/001/u133/7/2/lekcija-ob-istorii-razvitija-otechestvennogo-raketostroenija-photo.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=67c97cecf7a572e934",
+      "type": "poster-item",
+      "sourceCharacters": 1493,
+      "verified": false
+    },
+    {
+      "title": "Платформа rko.nbics.net",
+      "description": "Первая в мире платформа , которая представляет собой процесс конвергентного сетевого взаимодействия различных субъектов, объектов и ресурсов , объединённых единой целью.",
+      "url": "https://cosmatica.org/glossary/165-platforma-rko-nbics-net.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=0f2ef7dd12f65608dd",
+      "type": "article",
+      "sourceCharacters": 169,
+      "verified": false
+    },
+    {
+      "title": "Синтез междисциплинарных знаний и устойчивое развитие в системе Пространство – Время",
+      "description": "Монография является вторым, дополненным и переработанным изданием авторов (первое издание было опубликовано в 2001 году). В работе рассмотрены различные аспекты интеграции естественных и гуманитарных наук: философские, математические, физические, химические, биологические, экологические, экономические, финансовые, правовые, политические. За прошедшие 17 лет",
+      "url": "https://cosmatica.org/library/165-sintez-mezhdisciplinarnyh-znanii-i-ustoichivoe-razvitie-v-sisteme-prostranstvo-vremja.html",
+      "image": "https://cosmatica.org/upload/000/u26/c4/a8/sintez-mezhdisciplinarnyh-znanii-i-ustoichivoe-razvitie-v-sisteme.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=51ee4341135fc7c505",
+      "type": "book",
+      "sourceCharacters": 1419,
+      "verified": false
+    },
+    {
+      "title": "Синтез междисциплинарных знаний и устойчивое развитие в системе Пространство – Время",
+      "description": "Труд издан под эгидой Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/165-sintez-mezhdisciplinarnyh-znanii-i-ustoichivoe-razvitie-v-sisteme-prostranstvo-vremja.html",
+      "image": "https://cosmatica.org/upload/000/u26/42/2f/sintez-mezhdisciplinarnyh-znanii-i-ustoichivoe-razvitie-v-sisteme.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=045aa2602f16108ee3",
+      "type": "news-item",
+      "sourceCharacters": 1841,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль \"Золотой щит\". Казачий спас. #Фестиваль \"Золотой щит - казачий Спас\"",
+      "description": "С 23 июля на фестивале будет работать площадка Русского Космического общества.",
+      "url": "https://cosmatica.org/poster/165-festival-zolotoi-schit-kazachii-spas.html",
+      "image": "https://cosmatica.org/upload/002/u211/b/4/festival-zolotoi-schit-kazachii-spas-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=1abc5bb10244dce69a",
+      "type": "poster-item",
+      "sourceCharacters": 1398,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

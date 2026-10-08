@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 94,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Зачем создано Русское Космическое Общество?",
+      "description": "Впервые в истории Человечества в 1957 – 1961 годах СССР осуществил технологический прорыв в Космос, а за 80 лет до этого в России был осуществлен ноосферно-космический прорыв в сознании одного человека.",
+      "url": "https://cosmatica.org/news/678-zachem-sozdano-russkoe-kosmicheskoe-obschestvo.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/8/zachem-sozdano-russkoe-kosmicheskoe-obschestvo-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1e59e4ba15c4af9b0b",
+      "type": "news-item",
+      "sourceCharacters": 13160,
+      "verified": false
+    },
+    {
+      "title": "Итоги четвёртого семинара по устойчивому развитию жизни",
+      "description": "Слушали доклад Беляева М.И. Председателя секции Методов синтеза междисциплинарных знаний при Научно-техническом совете РКО, академика Международной Академии экологической безопасности и природопользования (МОАЭБП), академика Общественной академии национальной безопасности (ОАНБ) на тему «Основы теории корпускулярной кварковой физики».",
+      "url": "https://cosmatica.org/news/677-itogi-chetvyortogo-seminara-po-ustoichivomu-razvitiyu-zhizni.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/c/itogi-chetvyortogo-seminara-po-ustoichivomu-razvitiyu-zhizni-photo-no.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7e84ebe9763b655183",
+      "type": "news-item",
+      "sourceCharacters": 6428,
+      "verified": false
+    },
+    {
+      "title": "Введение в философию Русского космизма",
+      "description": "Уникальный проект реализован Екатериной Евгеньевной Звоновой по заказу и при поддержке Финансового университета. Проект, безусловно, достойный внимания и изучения.",
+      "url": "https://cosmatica.org/news/676-vvedenie-v-filosofiyu-russkogo-kosmizma.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/8/vvedenie-v-filosofiyu-russkogo-kosmizma-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=01ebc6e946853c84ff",
+      "type": "news-item",
+      "sourceCharacters": 4099,
+      "verified": false
+    },
+    {
+      "title": "Звёздам навстречу!",
+      "description": "В рамках литературно-образовательного проекта «Книга на орбите», который реализуется совместно с Русским Космическим Обществом при поддержке Министерства культуры Донецкой Народной Республики, состоялось занятие кружка «Колумбы Вселенной».",
+      "url": "https://cosmatica.org/news/675-zvyozdam-navstrechu.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/c/zvyozdam-navstrechu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9f3e8238971028716a",
+      "type": "news-item",
+      "sourceCharacters": 1338,
+      "verified": false
+    },
+    {
+      "title": "Подведены итоги межрегиональной инженерно-технической Интернет-олимпиады школьников 8-11 клаcсов!",
+      "description": "Завершилась Межрегиональная инженерно-техническая Интернет-олимпиада школьников 8-11 классов. Она проходила в два тура: отборочный заочный и очный финал.",
+      "url": "https://cosmatica.org/news/674-itogi-mezhregionalnoi-inzhenerno-tehnicheskoi-internet-olimpiady-shkolnikov-8-9-10-i-11-klacsov.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/1/podvedeny-itogi-mezhregionalnoi-inzhenerno-tehnicheskoi-internet-o.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=88703e391339e9dd58",
+      "type": "news-item",
+      "sourceCharacters": 4630,
+      "verified": false
+    },
+    {
+      "title": "Рождение международного космического права",
+      "description": "27 января 1967 года подписан важный для истории космической эры человечества межправительственный документ «Договор о принципах деятельности государств по исследованию и использованию космического пространства, включая Луну и другие небесные тела», ставший основой международного космического права.",
+      "url": "https://cosmatica.org/news/673-rozhdenie-mezhdunarodnogo-kosmicheskogo-prava.html",
+      "image": "https://cosmatica.org/upload/000/u8/7/d/rozhdenie-mezhdunarodnogo-kosmicheskogo-prava-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=adb593d878520ca808",
+      "type": "news-item",
+      "sourceCharacters": 1884,
+      "verified": false
+    },
+    {
+      "title": "Киноуроки. Новости Кузбасса",
+      "description": "4 школы Кемеровской области уже стали участниками проекта.",
+      "url": "https://cosmatica.org/news/672-kinouroki-novosti-kuzbassa.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/e/kinouroki-novosti-kuzbassa-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5c7d9a58d796123825",
+      "type": "news-item",
+      "sourceCharacters": 1860,
+      "verified": false
+    },
+    {
+      "title": "Мыверимвкосмос! А Вы?",
+      "description": "24 и 25 января 2020 года лекторы проекта мыверимвкосмос.рф Денис Олегович Прудник и Ольга Леонидовна Рябухина провели свои научно-популярные лекции в Российской государственной библиотеке для молодёжи.",
+      "url": "https://cosmatica.org/news/671-myverimvkosmos-a-vy.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/8/a69476fc.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ac6c825d1e0a9faae8",
+      "type": "news-item",
+      "sourceCharacters": 978,
+      "verified": false
+    },
+    {
+      "title": "Пресс-конференция по теме киноуроков",
+      "description": "22 января в пресс-центре ИА «Общественная служба новостей» состоялась пресс-конференция в ходе которой обсуждались следующие темы:",
+      "url": "https://cosmatica.org/news/670-press-konferencija-po-teme-kinourokov.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/6/press-konferencija-po-teme-kinourokov-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5ef24fa0fa3b9d9552",
+      "type": "news-item",
+      "sourceCharacters": 795,
+      "verified": false
+    },
+    {
+      "title": "Новый уровень джиу-джитсу Калужской области",
+      "description": "9 января, ровно через год после проведения первого в истории Калужской области Кубка по джиу-джитсу, состоялось ещё одно знаковое событие - первые Чемпионат и Первенство Калужской области. Соревнования проводились в МБУ \"Боровская спортивная школа \"Звезда\" города Боровска. Открыли соревнования глава Администрации Боровского района Николай Александрович Калиничев, глава Администрации города Боровска Анжелика Якубовна ",
+      "url": "https://cosmatica.org/news/669-novyi-uroven-dzhiu-dzhitsu-kaluzhskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/9/novyi-uroven-dzhiu-dzhitsu-kaluzhskoi-oblasti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ac4fbc154b948626f7",
+      "type": "news-item",
+      "sourceCharacters": 1958,
+      "verified": false
+    },
+    {
+      "title": "Ленинградский прорыв",
+      "description": "Крайне символично, что мероприятие проходило в священный день для горожан и всех наших соотечественников – день прорыва блокады Ленинграда.",
+      "url": "https://cosmatica.org/news/668-leningradskii-proryv.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/2/leningradskii-proryv-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6b905444be930e042a",
+      "type": "news-item",
+      "sourceCharacters": 3477,
+      "verified": false
+    },
+    {
+      "title": "Поддержите издание книги \"История Героев\"",
+      "description": "Суть проекта — возродить легенды о героях. Об истинных творцах всего, что мы имеем. Пояснить молодежи суть подвига. Выбор, который стоит перед каждым. Величие или низость. Борьба или «обычность». Так и создается будущее.",
+      "url": "https://cosmatica.org/news/667-podderzhite-izdanie-knigi-istorija-geroev.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/b/podderzhite-izdanie-knigi-istorija-geroev-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3b9bf1e1488e8cb602",
+      "type": "news-item",
+      "sourceCharacters": 3380,
+      "verified": false
+    },
+    {
+      "title": "Россия - это все мы вместе",
+      "description": "\"Сильную, благополучную, современную Россию мы можем построить только с опорой на мнение народа. Важен вклад каждого. Вместе мы обязательно изменим жизнь к лучшему. Часто говорю слово \"вместе\". Потому что Россия - это все мы вместе. Мы должны вместе работать ради величия России и благополучия граждан. Считаю необходимым провести голосование граждан по всему пакету поправок в Конституцию. И только по его результатам п",
+      "url": "https://cosmatica.org/news/666-rossija-eto-vse-my-vmeste.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/2/rossija-eto-vse-my-vmeste-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=27470f6ec4aff94a0d",
+      "type": "news-item",
+      "sourceCharacters": 2352,
+      "verified": false
+    },
+    {
+      "title": "Космические каникулы - миссия завершена",
+      "description": "В воскресенье, 12 января настало время прощания с гостеприимным \"Юнармейцем\". Пора возвращаться домой. Но прежде чем расстаться, организаторы преподнесли ребятам ещё приятные сюрпризы.",
+      "url": "https://cosmatica.org/news/661-kosmicheskie-kanikuly-missija-zavershena.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/e/kosmicheskie-kanikuly-missija-zavershena-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a772b1bce736e71630",
+      "type": "news-item",
+      "sourceCharacters": 5598,
+      "verified": false
+    },
+    {
+      "title": "Киноэкология в Курганской области",
+      "description": "Курганское отделение Русского Космического Общества активно взялось за работу по проекту Киноэкология.",
+      "url": "https://cosmatica.org/news/664-kinoekologija-v-kurganskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/4/kinoekologija-v-kurganskoi-oblasti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6aba2efc58beaac3ae",
+      "type": "news-item",
+      "sourceCharacters": 1191,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

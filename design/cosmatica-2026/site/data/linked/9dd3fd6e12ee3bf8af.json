@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/10-ekonomika.html",
+  "title": "Экономика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "предметная область, изучающая потребление, произ­водство, обмен и распределение продуктов в системе «человек – об­щество – природа».",
+      "spans": [
+        {
+          "text": "предметная область, изучающая потребление, произ­водство, обмен и распределение продуктов в системе «человек – об­щество – природа»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "предметная область, изучающая потребление, произ­водство, обмен и распределение продуктов в системе «человек – об­щество – природа».",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 142,
+    "storedTextCharacters": 132,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32017
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 132,
+  "capturedBodyCharacters": 132,
+  "sourceTextSHA256": "6a35e30f3fab91b24238451cc134c59198b3d20835d4406e750a2f582b0f6e38",
+  "archiveSnapshotAt": "2026-10-08T08:46:19Z"
+}

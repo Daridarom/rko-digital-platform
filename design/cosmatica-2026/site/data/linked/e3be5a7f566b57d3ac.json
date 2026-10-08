@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/53-svoistvo-neravnovesnyh-sistem.html",
+  "title": "Свойство неравновесных систем",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "эволюция во времени, то есть спо­собность с течением времени совершать внешнюю работу (внешние потоки не уравновешены внутренними).",
+      "spans": [
+        {
+          "text": "эволюция во времени, то есть спо­собность с течением времени совершать внешнюю работу (внешние потоки не уравновешены внутренними)."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "эволюция во времени, то есть спо­собность с течением времени совершать внешнюю работу (внешние потоки не уравновешены внутренними).",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 161,
+    "storedTextCharacters": 131,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32093
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 131,
+  "capturedBodyCharacters": 131,
+  "sourceTextSHA256": "8bdaf48a2968324e25158c9a5091dbc4257afcdae2461733e788bb648efbe076",
+  "archiveSnapshotAt": "2026-10-08T08:46:53Z"
+}

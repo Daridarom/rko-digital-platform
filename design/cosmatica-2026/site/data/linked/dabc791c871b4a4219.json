@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/90-obobschayuschaja-forma-very-i-znanija.html",
+  "title": "Обобщающая форма веры и знания",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Обобщающей формой веры и знания является",
+      "spans": [
+        {
+          "text": "Обобщающей формой веры и знания является"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мировоззрение",
+      "spans": [
+        {
+          "text": "мировоззрение"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "как отно­шение к окружающему миру.",
+      "spans": [
+        {
+          "text": "как отно­шение к окружающему миру."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Обобщающей формой веры и знания является мировоззрение как отно­шение к окружающему миру.",
+      "links": [
+        {
+          "title": "мировоззрение",
+          "url": "https://cosmatica.org/glossary/106-mirovozzrenie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 120,
+    "storedTextCharacters": 87,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31965
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 89,
+  "capturedBodyCharacters": 87,
+  "sourceTextSHA256": "5d2f76ebdc09b54dc45c9fe87099967ab0ec87180fbe80e4717d8739a45eb7e8",
+  "archiveSnapshotAt": "2026-10-08T08:47:20Z"
+}

@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1510-vremja-splochenija-vo-imja-buduschego.html",
+  "title": "Время сплочения во имя будущего",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#РОД Семья Отечества",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/f/3/vremja-splochenija-vo-imja-buduschego-photo-normal.jpg",
+      "alt": "Время сплочения во имя будущего"
+    },
+    {
+      "type": "paragraph",
+      "text": "Обновлённая идеология клуба \" Аретократия \", который возглавляет наш содей, Руководитель Совета по физической культуре и спорту Романов Сергей Николаевич , заключается в том, что Клуб есть объединение представителей великих родов, которые своей фамилией, пронесённой их предками через века, гордятся, передавая её честь по эстафете своим потомкам.",
+      "spans": [
+        {
+          "text": "Обновлённая идеология клуба \""
+        },
+        {
+          "text": "Аретократия",
+          "href": "https://aretocracy.club/"
+        },
+        {
+          "text": "\", который возглавляет наш содей, Руководитель Совета по физической культуре и спорту "
+        },
+        {
+          "text": "Романов Сергей Николаевич",
+          "href": "https://cosmatica.org/users/5015"
+        },
+        {
+          "text": ", заключается в том, что Клуб есть объединение представителей великих родов, которые своей фамилией, пронесённой их предками через века, гордятся, передавая её честь по эстафете своим потомкам."
+        }
+      ],
+      "links": [
+        {
+          "text": "Аретократия",
+          "url": "https://aretocracy.club/"
+        },
+        {
+          "text": "Романов Сергей Николаевич",
+          "url": "https://cosmatica.org/users/5015"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Основные принципы Клуба:",
+      "spans": [
+        {
+          "text": "Основные принципы Клуба:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Объединение соратников в реализации пожизненного дела, служения своему Роду — Народу – Отечеству;",
+      "spans": [
+        {
+          "text": "- Объединение соратников в реализации пожизненного дела, служения своему Роду — Народу – Отечеству;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Беспрерывная душевная ответственность за свой Род – Народ – Отечество;",
+      "spans": [
+        {
+          "text": "- Беспрерывная душевная ответственность за свой Род –  "
+        },
+        {
+          "text": "Народ",
+          "href": "https://cosmatica.org/glossary/184-narod.html"
+        },
+        {
+          "text": " – Отечество;"
+        }
+      ],
+      "links": [
+        {
+          "text": "Народ",
+          "url": "https://cosmatica.org/glossary/184-narod.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Справедливое взаимопонимание и взаимодействие с соратниками в формировании материального благополучия своего Рода – Народа – Отечества.",
+      "spans": [
+        {
+          "text": "- Справедливое взаимопонимание и взаимодействие с соратниками в формировании материального благополучия своего Рода – Народа – Отечества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ценности Клуба:",
+      "spans": [
+        {
+          "text": "Ценности Клуба: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ответственность; Добродетель; Созидание; Развитие ; Общение; Поддержка; Мужество; Уважение; Эмпатия.",
+      "spans": [
+        {
+          "text": "Ответственность; Добродетель; Созидание;  "
+        },
+        {
+          "text": "Развитие",
+          "href": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "text": "; Общение; Поддержка; Мужество; Уважение; Эмпатия."
+        }
+      ],
+      "links": [
+        {
+          "text": "Развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/d/7/bezymjannyi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/4/1/bezymjannyi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/0/bezymjannyi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/9/d/bezymjannyi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/e/bezymjannyi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/1/9/bezymjannyi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "SOQldPMsgjo",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=SOQldPMsgjo"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Сергей Николаевич Романов о преображении клуба Аретократов на принципах отеческой ответственности за будущее",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Обновлённая идеология клуба \" Аретократия \", который возглавляет наш содей, Руководитель Совета по физической культуре и спорту Романов Сергей Николаевич , заключается в том, что Клуб есть объединение представителей великих родов, которые своей фамилией, пронесённой их предками через века, гордятся, передавая её честь по эстафете своим потомкам. Основные принципы Клуба: - Объединение соратников в реализации пожизненного дела, служения своему Роду — Народу – Отечеству; - Беспрерывная душевная ответственность за свой Род – Народ – Отечество; - Справедливое взаимопонимание и взаимодействие с соратниками в формировании материального благополучия своего Рода – Народа – Отечества. Ценности Клуба: Ответственность; Добродетель; Созидание; Развитие ; Общение; Поддержка; Мужество; Уважение; Эмпатия.",
+      "links": [
+        {
+          "title": "Аретократия",
+          "url": "https://aretocracy.club/"
+        },
+        {
+          "title": "Романов Сергей Николаевич",
+          "url": "https://cosmatica.org/users/5015"
+        },
+        {
+          "title": "Народ",
+          "url": "https://cosmatica.org/glossary/184-narod.html"
+        },
+        {
+          "title": "Развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u7/d/7/bezymjannyi.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/f/3/vremja-splochenija-vo-imja-buduschego-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/d/7/bezymjannyi.jpg",
+    "https://cosmatica.org/upload/000/u7/4/1/bezymjannyi.jpg",
+    "https://cosmatica.org/upload/000/u7/c/0/bezymjannyi.jpg",
+    "https://cosmatica.org/upload/000/u7/9/d/bezymjannyi.jpg",
+    "https://cosmatica.org/upload/000/u7/c/e/bezymjannyi.jpg",
+    "https://cosmatica.org/upload/000/u7/1/9/bezymjannyi.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1181,
+    "storedTextCharacters": 825,
+    "sourceCardCount": 0,
+    "sourceImageCount": 7,
+    "paragraphCount": 13,
+    "sourceBytes": 49514
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1018,
+  "capturedBodyCharacters": 825,
+  "sourceTextSHA256": "7e2ba044da5dbfc3f272d2c484c6b967418fa1dbdf55ddf89298efe3669abb0a",
+  "archiveSnapshotAt": "2026-10-08T09:07:27Z",
+  "publicVideoCount": 1
+}

@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/264-kosmicheskoe-zhenskoe-poslanie-v-zvyozdnom-gorodke.html",
+  "title": "Космическое Женское Послание в Звёздном городке",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Члены Русского Космического Общества и руководители проекта \"Космическое Женское Послание\" ( http://cosmatica.org/projects/coswom ) - Афанасьева Ольга Фёдоровна и Афанасьев Сергей Глебович - посетили Звёздный городок и рассказали об истоках Космического Женского Послания и его перспективах, а также подарили музею Звёздного городка ценные экспонаты.",
+      "spans": [
+        {
+          "text": "Члены Русского Космического Общества и руководители проекта \"Космическое Женское Послание\" ("
+        },
+        {
+          "text": "http://cosmatica.org/projects/coswom",
+          "href": "https://www.youtube.com/redirect?redir_token=C3KmsTpLdZXu8PQNFtktCVoTXUd8MTUzNTc5OTM4MkAxNTM1NzEyOTgy&event=video_description&v=6f8fshUyMtE&q=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fcoswom"
+        },
+        {
+          "text": ") - Афанасьева Ольга Фёдоровна и Афанасьев Сергей Глебович - посетили Звёздный городок и рассказали об истоках Космического Женского Послания и его перспективах, а также подарили музею Звёздного городка ценные экспонаты."
+        }
+      ],
+      "links": [
+        {
+          "text": "http://cosmatica.org/projects/coswom",
+          "url": "https://www.youtube.com/redirect?redir_token=C3KmsTpLdZXu8PQNFtktCVoTXUd8MTUzNTc5OTM4MkAxNTM1NzEyOTgy&event=video_description&v=6f8fshUyMtE&q=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fcoswom"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "6f8fshUyMtE",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=6f8fshUyMtE"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Члены Русского Космического Общества и руководители проекта \"Космическое Женское Послание\" ( http://cosmatica.org/projects/coswom ) - Афанасьева Ольга Фёдоровна и Афанасьев Сергей Глебович - посетили Звёздный городок и рассказали об истоках Космического Женского Послания и его перспективах, а также подарили музею Звёздного городка ценные экспонаты.",
+      "links": [
+        {
+          "title": "http://cosmatica.org/projects/coswom",
+          "url": "https://www.youtube.com/redirect?redir_token=C3KmsTpLdZXu8PQNFtktCVoTXUd8MTUzNTc5OTM4MkAxNTM1NzEyOTgy&event=video_description&v=6f8fshUyMtE&q=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fcoswom"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 531,
+    "storedTextCharacters": 350,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 75510
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 483,
+  "capturedBodyCharacters": 350,
+  "sourceTextSHA256": "674a3723d5e0eb26ca908d239ed69c5ea30ba1e0372176f28a746ac0da9cae28",
+  "archiveSnapshotAt": "2026-10-08T08:39:58Z",
+  "publicVideoCount": 1
+}

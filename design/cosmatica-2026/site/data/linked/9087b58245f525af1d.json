@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/147-dimenzialnost.html",
+  "title": "Димензиальность",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "измерение",
+      "spans": [
+        {
+          "text": "измерение"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "в смысле измерения пространства (например, third dimension – третье измерение).",
+      "spans": [
+        {
+          "text": "в смысле измерения пространства (например, third dimension – третье измерение)."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это измерение в смысле измерения пространства (например, third dimension – третье измерение).",
+      "links": [
+        {
+          "title": "измерение",
+          "url": "https://cosmatica.org/glossary/121-izmerenie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 109,
+    "storedTextCharacters": 91,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31830
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 93,
+  "capturedBodyCharacters": 91,
+  "sourceTextSHA256": "eb839ee206f4af58e6f3b026f9136545761b4e33625ed2044a1e68540dec2df2",
+  "archiveSnapshotAt": "2026-10-08T08:46:34Z"
+}

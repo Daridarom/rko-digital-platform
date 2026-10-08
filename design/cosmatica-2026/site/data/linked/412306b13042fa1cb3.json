@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/349-eksperiment-po-polimeram-v-srednei-shkole.html",
+  "title": "Эксперимент по полимерам в средней школе",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/8/6/eksperiment-po-polimeram-v-srednei-shkole-photo-normal.png",
+      "alt": "Эксперимент по полимерам в средней школе"
+    },
+    {
+      "type": "paragraph",
+      "text": "В книге описаны лабораторные и демонстрационные опыты, выполняемые как в процессе изложения нового материала, так и опыты, которые проводят учащиеся на практических занятиях. В ней также дан химический эксперимент по полимерам, рекомендуемый для внеклассных занятий.",
+      "spans": [
+        {
+          "text": "В книге описаны лабораторные и демонстрационные опыты, выполняемые как в процессе изложения нового материала, так и опыты, которые проводят учащиеся на практических занятиях. В ней также дан химический эксперимент по полимерам, рекомендуемый для внеклассных занятий."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Чертков И.Н.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В книге описаны лабораторные и демонстрационные опыты, выполняемые как в процессе изложения нового материала, так и опыты, которые проводят учащиеся на практических занятиях. В ней также дан химический эксперимент по полимерам, рекомендуемый для внеклассных занятий.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 25 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2133/8f3a76aef0736a191faccbf0ae7045b8"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/8/6/eksperiment-po-polimeram-v-srednei-shkole-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2133/8f3a76aef0736a191faccbf0ae7045b8"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 347,
+    "storedTextCharacters": 266,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40603
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 306,
+  "capturedBodyCharacters": 266,
+  "sourceTextSHA256": "c59b12722322771be43a901cb0d2cf53eb7049bcaa2c41262410561764b72979",
+  "archiveSnapshotAt": "2026-10-08T08:49:27Z"
+}

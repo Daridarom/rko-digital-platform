@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/1824",
+  "title": "Наталья Викторовна Лёвкина",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/4/a/a68d4361.jpg",
+      "alt": "Наталья Викторовна Лёвкина"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/f/8/c702716e.jpg",
+      "alt": "Наталья Викторовна Лёвкина"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 4 года назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Санкт-Петербург",
+      "links": [
+        {
+          "title": "Санкт-Петербург",
+          "url": "https://cosmatica.org/departments/9-sankt-peterburg.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/4/a/a68d4361.jpg",
+    "https://cosmatica.org/upload/000/u35/f/8/c702716e.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 79,
+    "storedTextCharacters": 25,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34114
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 26,
+  "capturedBodyCharacters": 25,
+  "sourceTextSHA256": "7fc38663ccc8a78aae0bcf41d62c1b1798e910256214e8d0f02f4506adc13ea8",
+  "archiveSnapshotAt": "2026-10-08T09:18:19Z"
+}

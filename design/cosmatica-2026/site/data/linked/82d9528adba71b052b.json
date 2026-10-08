@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1041-vospitanie-geroev-i-tvorcov-buduschego-zotov-stepan-andreevich.html",
+  "title": "Воспитание Героев и Творцов будущего. Зотов Степан Андреевич",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Военно-космические сборы «Космодесант»",
+      "level": 2
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "aKT23t3iVvY",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=aKT23t3iVvY"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Детский военно-космический лагерь \"Космодесант\". http://космодесант.рф/ Тематические занятия и профориентация для поступления в высшие учебные заведения по специальностям, связанным с Космосом.... Инженер, военный лётчик, космонавт-исследователь и другие. Программа лагеря – победитель городских конкурсов и включает в себя: 1) Занятия с опытными инструкторами по тактике и маскировке, топографии и ориентированию. 2) Военно-тактические игры с использованием лазерного оборудования и макетов вооружения. 3) Спортивные игры и соревнования, элементы рукопашного боя. 4) Навыки выживания на природе, обустройство лагеря, питание, растения, разведение костров и многое другое. 5) Астрономические наблюдения, ориентирование по звёздам, космические легенды и встречи с учёными и космонавтами. 6) Беседы об Истории Отечества, о героях, песни у костра. 7) Как финал — особая программа «Ракетное Выживание» на несколько дней в лесу под контролем инструкторов. Гость студии Юность Авроры - Зотов Степан Андреевич, член Президиума и Первого отряда РКО, основатель проекта \"Космодесант\", руководитель проекта «Наша Армия». Ведущие: Евгения Фёдоровна Кабацкая директор ИА \"Аврора\" и Олег Александрович Чагин директор НИИ Антропогенеза, действительный член РКО. Проект на сайте РКО: https://cosmatica.org/projects/cosmodesant Канал Юность Авроры: https://www.youtube.com/channel/UCgel... Канал НИИ Антропогенеза: https://www.youtube.com/channel/UCEow...",
+      "links": [
+        {
+          "title": "http://космодесант.рф/",
+          "url": "https://www.youtube.com/redirect?v=aKT23t3iVvY&event=video_description&q=http%3A%2F%2F%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%B4%D0%B5%D1%81%D0%B0%D0%BD%D1%82.%D1%80%D1%84%2F&redir_token=HI5kReOeF--5-hIxjKY0ALfoL8p8MTU5MjY0NzQ1OUAxNTkyNTYxMDU5"
+        },
+        {
+          "title": "Проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "https://cosmatica.org/projects/cosmodesant",
+          "url": "https://cosmatica.org/projects/cosmodesant"
+        },
+        {
+          "title": "https://www.youtube.com/channel/UCgel...",
+          "url": "https://www.youtube.com/channel/UCgelhV6iH6V7hsM7HZkJ_9g"
+        },
+        {
+          "title": "https://www.youtube.com/channel/UCEow...",
+          "url": "https://www.youtube.com/channel/UCEowc_vw7nW8ECwubFHMERQ"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1709,
+    "storedTextCharacters": 39,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 79487
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 1608,
+  "capturedBodyCharacters": 39,
+  "sourceTextSHA256": "620a1b25cbf72e766d34131bb962b40a78d812cdc4bdd4156be1e51952ee6bcb",
+  "archiveSnapshotAt": "2026-10-08T08:37:52Z",
+  "publicVideoCount": 1
+}

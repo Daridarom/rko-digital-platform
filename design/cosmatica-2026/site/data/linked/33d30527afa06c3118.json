@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/21",
+  "title": "Санкт-Петербургское отделение",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 32"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/c6/43/60903aa0.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 14"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+    "https://cosmatica.org/upload/000/u21/c6/43/60903aa0.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 97,
+    "storedTextCharacters": 53,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35356
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 10,
+  "capturedBodyCharacters": 53,
+  "sourceTextSHA256": "0843745e11113f5b0b0e25f23e794d9d9fe5d81bfdfea46464e167e39aa665d8",
+  "archiveSnapshotAt": "2026-10-08T09:18:35Z"
+}

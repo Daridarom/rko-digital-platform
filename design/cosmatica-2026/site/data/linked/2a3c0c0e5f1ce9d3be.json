@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1293-2-nastupivshaja-istoricheskaja-epoha-kak-epoha-velikogo-evolyucionnogo-pereloma.html",
+  "title": "2. Наступившая историческая эпоха как Эпоха Великого Эволюционного Перелома",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке» Лекция 2: Наступившая историческая эпоха как Эпоха Великого Эволюционного Перелома",
+      "spans": [
+        {
+          "text": "Цикл лекций Субетто Александра Ивановичана тему: «Ноосферизм – новая идеология и  "
+        },
+        {
+          "text": "стратегия",
+          "href": "https://cosmatica.org/glossary/41-strategija.html"
+        },
+        {
+          "text": " эволю-ционного прорыва России и человечества в XXI веке»Лекция 2: Наступившая историческая эпоха как Эпоха Великого Эволюционного Перелома"
+        }
+      ],
+      "links": [
+        {
+          "text": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "rTDg4YH_3X4",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=rTDg4YH_3X4"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке» Лекция 2: Наступившая историческая эпоха как Эпоха Великого Эволюционного Перелома",
+      "links": [
+        {
+          "title": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 334,
+    "storedTextCharacters": 231,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 74729
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 258,
+  "capturedBodyCharacters": 231,
+  "sourceTextSHA256": "8bae096655c508ef1e573dfa77c2dd0c4eff8a324f8c22ce93d31c6a673673b3",
+  "archiveSnapshotAt": "2026-10-08T10:53:07Z"
+}

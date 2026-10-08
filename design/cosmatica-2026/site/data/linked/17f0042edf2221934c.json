@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/181-zhiznerodnost-naroda.html",
+  "title": "​Жизнеродность народа",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "способность народа к гармоничному развитию.\r\nГармоничное",
+      "spans": [
+        {
+          "text": "способность народа к гармоничному развитию.\r\nГармоничное"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "развитие",
+      "spans": [
+        {
+          "text": "развитие"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "народа -",
+      "spans": [
+        {
+          "text": "народа -"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "рост",
+      "spans": [
+        {
+          "text": "рост"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "могущества народа во времени и пространстве, за счёт создания семей, рождения и воспитания здоровых детей в количестве, превосходящем смертность.",
+      "spans": [
+        {
+          "text": "могущества народа во времени и пространстве, за счёт создания семей, рождения и воспитания здоровых детей в количестве, превосходящем смертность."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "способность народа к гармоничному развитию. Гармоничное развитие народа - рост могущества народа во времени и пространстве, за счёт создания семей, рождения и воспитания здоровых детей в количестве, превосходящем смертность.",
+      "links": [
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "title": "рост",
+          "url": "https://cosmatica.org/glossary/56-rost.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 246,
+    "storedTextCharacters": 221,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32510
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 224,
+  "capturedBodyCharacters": 221,
+  "sourceTextSHA256": "4613f6b1b5b2867fbc525d864f820737076c9bfc911974fe4434e3cd4d76756a",
+  "archiveSnapshotAt": "2026-10-08T10:39:58Z"
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/344-po-sledam-pifagora-1961.html",
+  "title": "По следам Пифагора (1961)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/4/9/po-sledam-pifagora-1961-photo-normal.png",
+      "alt": "По следам Пифагора (1961)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга известного польского математика и популяризатора науки Щепана Еленьского представляет собой сборник нестандартных задач, математических анекдотов и головоломок.",
+      "spans": [
+        {
+          "text": "Книга известного польского математика и популяризатора науки Щепана Еленьского представляет собой сборник нестандартных задач, математических анекдотов и головоломок."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Щ. Еленьский",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга известного польского математика и популяризатора науки Щепана Еленьского представляет собой сборник нестандартных задач, математических анекдотов и головоломок.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 7 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2119/472e53dd39b0612332feafb0337f2f7d"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/4/9/po-sledam-pifagora-1961-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2119/472e53dd39b0612332feafb0337f2f7d"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 231,
+    "storedTextCharacters": 166,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40212
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 205,
+  "capturedBodyCharacters": 166,
+  "sourceTextSHA256": "aecbec6ce125f7bb8e989f522989c0d9be6c5562fc0173e851ad32cb5fe92b4e",
+  "archiveSnapshotAt": "2026-10-08T08:49:25Z"
+}

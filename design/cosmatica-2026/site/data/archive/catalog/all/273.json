@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 273,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Финансы",
+      "description": "предметная область, изучающая движение потоков, выра­женных в денежной форме.",
+      "url": "https://cosmatica.org/glossary/18-finansy.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=2a1751e2cd8098eac7",
+      "type": "article",
+      "sourceCharacters": 77,
+      "verified": false
+    },
+    {
+      "title": "Книга \"Империум человека\" и презентация РКО в Иваново",
+      "description": "Эта книга в оригинальной художественной форме раскрывает ряд мировоззренческих положений, которые близки Русскому Космическому Обществу. Ключевая идея книги – формирование нового человека, новых элит - принципиально нового общества. Тема раскрывается в частностях, начиная от необходимости стремиться к тому, что кажется невозможным, и заканчивая сравнением мировоззрения разных цивилизаций. Успеха в этом соревновании д",
+      "url": "https://cosmatica.org/news/18-kniga-imperium-cheloveka-i-prezentacija-rko-v-ivanovo.html",
+      "image": "https://cosmatica.org/upload/000/u1/47/07/kniga-imperium-cheloveka-i-prezentacija-rko-v-ivanovo-photo-norm.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=39db19bffb3da7f23b",
+      "type": "news-item",
+      "sourceCharacters": 922,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество в вопросах и ответах команды инициаторов его создания",
+      "description": "Как мы пришли к идее Русского Космического Общества?",
+      "url": "https://cosmatica.org/about/17-russkoe-kosmicheskoe-obschestvo-v-voprosah-i-otvetah-komandy-iniciatorov-sozdanija-rko.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=7034b4f3d430a715eb",
+      "type": "article",
+      "sourceCharacters": 16156,
+      "verified": false
+    },
+    {
+      "title": "Школа Русского Космизма как мировоззренческая основа Русского Космического общества",
+      "description": "Возникновение школы Русского Космизма было своеобразным ответом русской научной мысли на вызов «о неизбежности тепловой смерти (конце) Вселенной», который был брошен мировому сообществу после рассмотрения Клаузиусом принципов сохранения энергии и роста энтропии. По существу, в поиске ответа на этот глобальный вызов и лежат работы Русского Космизма.",
+      "url": "https://cosmatica.org/articles/17-shkola-russkogo-kosmizma-kak-mirovozzrencheskaja-osnova-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u1/fe/52/shkola-russkogo-kosmizma-kak-mirovozzrencheskaja-osnova-russkogo-k.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=6d701883fc12008bce",
+      "type": "article",
+      "sourceCharacters": 15428,
+      "verified": false
+    },
+    {
+      "title": "Совет по культуре",
+      "description": "Деятельность Совета: направлена на создание среды для развития и роста мощности человека, общества, государства и Жизни в целом посредством Культуры, отвечающей целям космической эволюции Жизни как космопланетарного явления.",
+      "url": "https://cosmatica.org/collegium/17-sovet-po-kulture.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=9fefdac744090e62b5",
+      "type": "collegium-item",
+      "sourceCharacters": 2139,
+      "verified": false
+    },
+    {
+      "title": "Физическая величина",
+      "description": "это величина с мерой пространственно- временных единиц.",
+      "url": "https://cosmatica.org/glossary/17-fizicheskaja-velichina.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=39af0ffe81ea50379f",
+      "type": "article",
+      "sourceCharacters": 55,
+      "verified": false
+    },
+    {
+      "title": "Моисеев Никита Николаевич - Судьба цивилизации, путь разума",
+      "description": "Книга несомненно будет полезна не только учащимся и профессионалам в области экологического образования, но и широким слоям читателей, задумывающихся о том, что ждет нас и грядущие поколения в ближайшей и отдаленной перспективе эволюции жизни на планете Земля.",
+      "url": "https://cosmatica.org/library/17-moiseev-nikita-nikolaevich-sudba-civilizacii-put-razuma.html",
+      "image": "https://cosmatica.org/upload/000/u1/bc/6e/moiseev-nikita-nikolaevich-sudba-civilizacii-put-razuma-phot.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=d83e1ade6c2e195979",
+      "type": "book",
+      "sourceCharacters": 312,
+      "verified": false
+    },
+    {
+      "title": "Состоялось заседание бюро президиума РАЕН",
+      "description": "Доклад на тему «Научное наследие Н.Н. Моисеева и будущее науки», был сделан Ю.В.Яковцом – д.э.н., проф., заслуженным деятелем науки РФ, членом",
+      "url": "https://cosmatica.org/news/17-sostojalos-zasedanie-byuro-prezidiuma-raen.html",
+      "image": "https://cosmatica.org/upload/000/u1/dd/1c/sostojalos-zasedanie-byuro-prezidiuma-raen-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=944e6d6dcbeb611177",
+      "type": "news-item",
+      "sourceCharacters": 1213,
+      "verified": false
+    },
+    {
+      "title": "Открытие лагерной смены \"Космодесант-2018\" #Военно-космические сборы «Космодесант»",
+      "description": "Главной целью лагеря является воспитание духа товарищества, ответственности и самостоятельности в детях. Космического масштаба мышления, настроя на победу, готовности создавать идеи и воплощать их в жизнь .",
+      "url": "https://cosmatica.org/poster/17-otkrytie-lagernoi-smeny-kosmodesant-2018.html",
+      "image": "https://cosmatica.org/upload/000/u26/7c/65/otkrytie-lagernoi-smeny-kosmodesant-2018-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=a55f21937d036093b7",
+      "type": "poster-item",
+      "sourceCharacters": 1499,
+      "verified": false
+    },
+    {
+      "title": "Историческая справка о духовных и материальных корнях Русского Космического Общества",
+      "description": "Создание Русского Космического Общества есть естественный логический шаг в развитии современной России – шаг, обусловленный как ноосферно-космическим прорывом, выражающим становление космической эры Человечества, так и тем фактом, что именно Россия в лице СССР в середине ХХ века стала первой в мире космической державой Человечества. За этим прорывом России – СССР в ХХ веке стоят достижения как русской космической нау",
+      "url": "https://cosmatica.org/about/16-istoricheskaja-spravka-o-duhovnyh-i-materialnyh-kornjah-russkogo-kosmicheskogo-obschestva.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=7e40974842f9a994ff",
+      "type": "article",
+      "sourceCharacters": 29928,
+      "verified": false
+    },
+    {
+      "title": "Совет физической культуры и спорта",
+      "description": "Деятельность Совета: направлена на формирование в обществе культуры трезвой, здоровой жизни, где спорт и физическое развитие тела являются такой же неотъемлемой частью, как и интеллектуальное и духовное развитие личности.",
+      "url": "https://cosmatica.org/collegium/16-sovet-fizicheskoi-kultury-i-sporta.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=d51df16dafdb6e078e",
+      "type": "collegium-item",
+      "sourceCharacters": 1712,
+      "verified": false
+    },
+    {
+      "title": "Представительство в Беларуси",
+      "description": "Представительство в Республике Беларусь создано 16 марта 2019г.",
+      "url": "https://cosmatica.org/departments/16-predstavitelstvo-v-belarusi.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=4d0d629d0141772ffe",
+      "type": "department",
+      "sourceCharacters": 263,
+      "verified": false
+    },
+    {
+      "title": "Физический закон",
+      "description": "формульное выражение инвариантности физиче­ской величины в определенном классе явлений материального мира.",
+      "url": "https://cosmatica.org/glossary/16-fizicheskii-zakon.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=9fc8d69a2861a7a50b",
+      "type": "article",
+      "sourceCharacters": 106,
+      "verified": false
+    },
+    {
+      "title": "Циолковский Константин Эдуардович - Вне Земли",
+      "description": "",
+      "url": "https://cosmatica.org/library/16-ciolkovskii-konstantin-eduardovich-vne-zemli.html",
+      "image": "https://cosmatica.org/upload/000/u1/06/de/ciolkovskii-konstantin-eduardovich-vne-zemli-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=f98ae2f2d6ca043eba",
+      "type": "book",
+      "sourceCharacters": 89,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество стало лауреатом конкурса достижений молодёжи \"Славим Отечество\"",
+      "description": "В конкурсе было пять номинаций, одна из них: \"Славные традиции российской науки\". В этой номинации, Шпотя Денис Александрович с проектом \"Русское космическое общество\" стал победителем конкурса. Каждая номинация была с небольшой предысторией в виде видео сюжета. Отрадно, что сюжет к научной номинации был основан на достижениях Русского космического общества и его аэрокосмической проблематике! Спасибо большое организа",
+      "url": "https://cosmatica.org/news/16-russkoe-kosmicheskoe-obschestvo-stalo-laureatom-konkursa-dostizhenii-molodyozhi-slavim-otechestvo.html",
+      "image": "https://cosmatica.org/upload/000/u1/02/06/russkoe-kosmicheskoe-obschestvo-stalo-laureatom-konkursa-dostizhenii.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b5fb98a17a6830d6bb",
+      "type": "news-item",
+      "sourceCharacters": 1987,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

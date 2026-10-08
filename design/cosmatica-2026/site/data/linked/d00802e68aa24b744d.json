@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/45-sohranenie-razvitija-v-sisteme-priroda-obschestvo-chelovek.html",
+  "title": "Сохранение развития в системе «природа – общество – человек»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это творческий процесс как процесс сохранения неубывающего роста эффективности использования возможностей (полной мощности) си­стемы во Времени–Пространстве.",
+      "spans": [
+        {
+          "text": "это творческий процесс как процесс сохранения неубывающего роста эффективности использования возможностей (полной мощности) си­стемы во Времени–Пространстве."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это творческий процесс как процесс сохранения неубывающего роста эффективности использования возможностей (полной мощности) си­стемы во Времени–Пространстве.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 218,
+    "storedTextCharacters": 157,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32509
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 157,
+  "capturedBodyCharacters": 157,
+  "sourceTextSHA256": "88b9d6ce7864595a3c4b62577f78106c43385c1bc48a94a6e05edf74bb265700",
+  "archiveSnapshotAt": "2026-10-08T08:46:50Z"
+}

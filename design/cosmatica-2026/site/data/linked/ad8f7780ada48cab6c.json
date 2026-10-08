@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 2,
+  "slug": "project",
+  "sourceUrl": "https://cosmatica.org/projects/aerocosmicheskie-dostizheniya",
+  "title": "Краудфандинг проект по сбору средств на издание книги про аэрокосмические достижения Отечества",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/24/e5/kraudfanding-proekt-po-sboru-sredstv-na-izdanie-knigi-pro-aeroko.jpg",
+      "alt": "Краудфандинг проект по сбору средств на издание книги про аэрокосмические достижения Отечества"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О проекте"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Проект успешно реализован",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u3/83/09/knigi-polucheny.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u3/91/d3/tozhestvennoe-vruchenie.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/18/5f/44444march.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "text": "Стена проекта",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Нет записей.",
+      "spans": [
+        {
+          "text": "\n                                    Нет записей.                            "
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Проект успешно реализован",
+      "links": [],
+      "image": "https://cosmatica.org/upload/000/u3/83/09/knigi-polucheny.jpg"
+    },
+    {
+      "key": "Направление:",
+      "value": "Издательство",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Статус:",
+      "value": "Завершенный",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/24/e5/kraudfanding-proekt-po-sboru-sredstv-na-izdanie-knigi-pro-aeroko.jpg",
+    "https://cosmatica.org/upload/000/u3/83/09/knigi-polucheny.jpg",
+    "https://cosmatica.org/upload/000/u3/91/d3/tozhestvennoe-vruchenie.jpg",
+    "https://cosmatica.org/upload/000/u1/18/5f/44444march.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 215,
+    "storedTextCharacters": 59,
+    "sourceCardCount": 0,
+    "sourceImageCount": 4,
+    "paragraphCount": 4,
+    "sourceBytes": 37617
+  },
+  "textFallbackRequired": false,
+  "originalKind": "project",
+  "sourceTextCharacters": 71,
+  "capturedBodyCharacters": 59,
+  "sourceTextSHA256": "6e53bdad386d354d77e72355c737c64c8363cab0c5caac26835e3d6d159f87e2",
+  "archiveSnapshotAt": "2026-10-08T09:16:58Z"
+}

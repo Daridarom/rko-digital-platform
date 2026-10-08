@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 131,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "XX Международные научные чтения имени Игоря Ивановича Сикорского",
+      "description": "Русское Космическое Общество ПРИГЛАШАЕТ и рекомендует XX Международные научные чтения имени Игоря Ивановича Сикорского, которые пройдут с 23 по 28 апреля 2018 г. в Санкт-Петербургском государственном университете гражданской авиации.",
+      "url": "https://cosmatica.org/news/87-xx-mezhdunarodnye-nauchnye-chtenija-imeni-igorja-ivanovicha-sikorskogo.html",
+      "image": "https://cosmatica.org/upload/000/u21/04/a8/6b21729e.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=094df2ed6bda1b34ed",
+      "type": "news-item",
+      "sourceCharacters": 3403,
+      "verified": false
+    },
+    {
+      "title": "Состоялась лекция в рамках Лектория РКО",
+      "description": "Лекция была посвящена 57-летию полёта в космос первого космонавта Земли и рассказала о подвиге инженеров и учёных, приложивших руку к этому прорыву, создав космический корабль «Восток».",
+      "url": "https://cosmatica.org/news/88-sostojalas-lekcija-v-ramkah-lektorija-rko.html",
+      "image": "https://cosmatica.org/upload/000/u8/a7/5a/98b7272d.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ff35ecaafcdc268775",
+      "type": "news-item",
+      "sourceCharacters": 899,
+      "verified": false
+    },
+    {
+      "title": "«Евразийское междуречье: культ знаний, прагматизм и конкурентоспособность»",
+      "description": "Она посвящена 25-летию учебного центра «Андас», Дню Космонавтики, Дню работников науки Республики Казахстан и проводится в рамках реализации положений программной статьи Президента Республики Казахстан Н.А.Назарбаева: «Взгляд в будущее: модернизация общественного сознания», его Послания «Новые возможности развития в условиях четвёртой промышленной революции» и обращения «Пять социальных инициатив Президента».",
+      "url": "https://cosmatica.org/news/86-nauchno-prakticheskaja-konferencija-evraziiskoe-mezhdureche-kult-znanii-pragmatizm-i-konkurentosp.html",
+      "image": "https://cosmatica.org/upload/000/u26/76/a5/nauchno-prakticheskaja-konferencija-evraziiskoe-mezhdureche-kult-z.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b346cf21466ddd1b1b",
+      "type": "news-item",
+      "sourceCharacters": 5366,
+      "verified": false
+    },
+    {
+      "title": "Поздравление с Днём космонавтики",
+      "description": "Русское Космическое Общество сердечно поздравляет Вас со знаковым для всех нас праздником - Днём космонавтики!",
+      "url": "https://cosmatica.org/news/85-pozdravlenie-s-dnyom-kosmonivtiki.html",
+      "image": "https://cosmatica.org/upload/000/u21/4e/8b/25b43c18.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=615ad89de604fd6e56",
+      "type": "news-item",
+      "sourceCharacters": 1553,
+      "verified": false
+    },
+    {
+      "title": "\"Космический урок\" в Снежинске.",
+      "description": "В преддверии Дня космонавтики, 07 апреля 2018 года, Председателем Челябинского отделения РКО, Бессоновым Антоном Владимировичем был проведен «Космический урок» для учащихся Снежинской детской художественной школы.",
+      "url": "https://cosmatica.org/news/84-kosmicheskii-urok-v-snezhinske.html",
+      "image": "https://cosmatica.org/upload/000/u39/15/70/kosmicheskii-urok-v-snezhinske-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4f82c2b94afd32324e",
+      "type": "news-item",
+      "sourceCharacters": 2328,
+      "verified": false
+    },
+    {
+      "title": "Второе собрание Санкт-Петербургского отделения РКО",
+      "description": "07 апреля 2018 года в Санкт-Петербурге состоялось второе общее собрание Санкт-Петербургского отделения Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/83-vtoroe-sobranie-sankt-peterburgskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/000/u21/ad/a2/vtoroe-sobranie-sankt-peterburgskogo-otdelenija-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9e676f6581699a6934",
+      "type": "news-item",
+      "sourceCharacters": 6922,
+      "verified": false
+    },
+    {
+      "title": "Открытие литературного клуба РКО",
+      "description": "30-го марта в офисе Московского отделения прошло первое собрание клуба РКО. Литературный клуб ставит себе задачу по повышению творческого потенциала среди членов РКО. В рамках встреч будут разбираться основы стихосложения, рецензироваться стихи участников клуба, зачитываться доклады о творчестве русских классиков и не только.",
+      "url": "https://cosmatica.org/news/81-otkrytie-literaturnogo-kluba-rko.html",
+      "image": "https://cosmatica.org/upload/000/u1/6e/f7/otkrytie-literaturnogo-kluba-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5479a62a9caeb5c981",
+      "type": "news-item",
+      "sourceCharacters": 580,
+      "verified": false
+    },
+    {
+      "title": "В поисках детства генерал-майора Гудилина.",
+      "description": "06 апреля 2018г., в преддверии 80-ти летнего юбилея генерал-майора Владимира Евгеньевича Гудилина (08.04.1938 – 29.10.2015), руководителя подготовки и пуска в 1987-1988 годах ракеты-носителя «Энергия» и ракетно-космической транспортной системы «Энергия-Буран», председатель Челябинского отделения Антон Владимирович Бессонов и журналист из г. Екатеринбург Андрей Гусельников совершили поездку в село Тюбук, Челябинской о",
+      "url": "https://cosmatica.org/news/80-v-poiskah-detstva-general-maiora-gudilina.html",
+      "image": "https://cosmatica.org/upload/000/u37/c8/70/9a04d4b2.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c51ca1bac475126dc7",
+      "type": "news-item",
+      "sourceCharacters": 2206,
+      "verified": false
+    },
+    {
+      "title": "Мы запускаем новый цикл передач: \"РКО в Лицах\"",
+      "description": "Они очень разные. Мужчины и женщины. Юные и люди Главного возраста. Учёные и учащиеся. Люди творческих профессий и предприниматели. Служащие и трудящиеся. Общественные деятели и политики.",
+      "url": "https://cosmatica.org/news/78-my-zapuskaem-novyi-cikl-peredach-rko-v-licah.html",
+      "image": "https://cosmatica.org/upload/000/u21/2f/70/my-zapuskaem-novyi-cikl-peredach-rko-v-licah-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=32fbb88194473449a2",
+      "type": "news-item",
+      "sourceCharacters": 1563,
+      "verified": false
+    },
+    {
+      "title": "Обзор космических мероприятий апреля 2018 года в С.-Петербурге",
+      "description": "По традиции Апрель у нас самый космический месяц года. Ведь именно 12 апреля празднуется День космонавтики . Мы встречаем этот праздник нашими трудовыми свершениями и торжественными мероприятиями. Предлагаем Вам познакомиться с самыми интересными событиями, которые мы подготовили для Вас:",
+      "url": "https://cosmatica.org/news/77-obzor-kosmicheskih-meroprijatii-aprelja-2018-goda-v-s-peterburge.html",
+      "image": "https://cosmatica.org/upload/000/u21/5b/83/obzor-kosmicheskih-meroprijatii-aprelja-2018-goda-v-s-peterburge-p.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7bb7f93001142e369e",
+      "type": "news-item",
+      "sourceCharacters": 8063,
+      "verified": false
+    },
+    {
+      "title": "График мероприятий «Веги» на выставке «Эра фантастики» в Манеже",
+      "description": "4 апреля, 11-00 - лекция «Как астрономы изучают Вселенную». Лектор -Силантьев М.В., АШ «Вега»;",
+      "url": "https://cosmatica.org/news/79-grafik-meroprijatii-vegi-na-vystavke-era-fantastiki-v-manezhe.html",
+      "image": "https://cosmatica.org/upload/000/u8/13/fa/grafik-meroprijatii-vegi-na-vystavke-era-fantastiki-v-manezhe.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=23ec2f5df59f986bf9",
+      "type": "news-item",
+      "sourceCharacters": 2062,
+      "verified": false
+    },
+    {
+      "title": "Спешите увидеть будущее наших детей",
+      "description": "Федеральная выставка состоится в ЦВЗ «Манеж», г. Москве с 4 по 21 апреля 2018 г.",
+      "url": "https://cosmatica.org/news/75-speshite-uvidet-buduschee-nashih-detei.html",
+      "image": "https://cosmatica.org/upload/000/u26/6a/57/3d029981.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=88d29ddbe003b8a942",
+      "type": "news-item",
+      "sourceCharacters": 1547,
+      "verified": false
+    },
+    {
+      "title": "Диксон - научная площадка будущего России",
+      "description": "100-летний юбилей поселка Диксон, ставшего научной судьбой десятков ученых Института клинической и экспериментальной медицины Сибирского отделения Академии медицинских наук нашей страны, созданного академиком В.П. Казначеевым, наразрывно связан с 40-летием 1-й научно-медицинской экспедиции на Крайний Север, на Диксон большой группы новосибирских ученых. Это был своеобразный интеллектуальный десант, который дал творче",
+      "url": "https://cosmatica.org/news/76-dikson-nauchnaja-ploschadka-buduschego-rossii.html",
+      "image": "https://cosmatica.org/upload/000/u30/c2/68/dikson-nauchnaja-ploschadka-buduschego-rossii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ee86a8d604772c1a8f",
+      "type": "news-item",
+      "sourceCharacters": 9011,
+      "verified": false
+    },
+    {
+      "title": "Новый выпуск цикла передач \"Прорыв!\"",
+      "description": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/96-novyi-vypusk-cikla-peredach-proryv.html",
+      "image": "https://cosmatica.org/upload/000/u26/e7/a1/9f93e9cd.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=79ee3312d7ee100e59",
+      "type": "news-item",
+      "sourceCharacters": 828,
+      "verified": false
+    },
+    {
+      "title": "Дети - косможители",
+      "description": "Они вышли на свет и осмотрелись. Где Земля? Где Млечный путь? Где иные миры, на которых пульсирует в общем Вселенском потоке жизнь ? Им надо помочь это вспомнить.",
+      "url": "https://cosmatica.org/news/73-deti-kosmozhiteli.html",
+      "image": "https://cosmatica.org/upload/000/u8/cd/df/deti-kosmozhiteli-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=327d7b5fd23b43324f",
+      "type": "news-item",
+      "sourceCharacters": 766,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

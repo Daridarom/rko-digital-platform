@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/951-kosmos-i-civilizacija-proshloe-nastojaschee-i-buduschee-doklad-anoprienko-a-ja.html",
+  "title": "Космос и цивилизация: прошлое, настоящее и будущее. Доклад Аноприенко А.Я.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Научно-практическая конференция \"Космос и цивилизация: прошлое, настоящее, будущее...\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Доклад ректора ДонНТУ (Донецк, ДНР), Председателя Донецкого отделения РКО, Александра Яковлевича Аноприенко",
+      "spans": [
+        {
+          "text": "Доклад ректора ДонНТУ (Донецк, ДНР), Председателя Донецкого отделения РКО, Александра Яковлевича Аноприенко"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "I Международная научно-практическая online-конференция «Космос и цивилизация: прошлое, настоящее, будущее» Первый этап. 11 апреля 2020г.",
+      "spans": [
+        {
+          "text": "I Международная научно-практическая online-конференция «Космос и цивилизация: прошлое, настоящее, будущее» Первый этап. 11 апреля 2020г."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "570c7JKWaTc",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=570c7JKWaTc"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Доклад ректора ДонНТУ (Донецк, ДНР), Председателя Донецкого отделения РКО, Александра Яковлевича Аноприенко I Международная научно-практическая online-конференция «Космос и цивилизация: прошлое, настоящее, будущее» Первый этап. 11 апреля 2020г.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 535,
+    "storedTextCharacters": 330,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 76065
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 372,
+  "capturedBodyCharacters": 330,
+  "sourceTextSHA256": "4d6a49a60f92c078a7794bdd99211b93673e676718d8bc3e0d9685f2d6823a9c",
+  "archiveSnapshotAt": "2026-10-08T08:44:45Z",
+  "publicVideoCount": 1
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/69-novyi-vypusk-cikla-peredach-proryv.html",
+  "title": "Новый выпуск цикла передач \"Прорыв!\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Цикл передач \"Прорыв!\"",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/fd/87/novyi-vypusk-cikla-peredach-proryv-photo-normal.jpg",
+      "alt": "Новый выпуск цикла передач \"Прорыв!\""
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "\"Прорыв!\" - серия передач Русского Космического Общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Об идеях нашего Общества. О нашей миссии. О новых проектах Прорыва. О том будущем, которое мы должны и будем создавать своими руками.",
+      "spans": [
+        {
+          "text": "Об идеях нашего Общества. О нашей миссии. О новых проектах Прорыва. О том будущем, которое мы должны и будем создавать своими руками."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Герой выпуска - Тищенко Геннадий Иванович, Член Русского Космического Общества, режиссёр-мультипликатор, кинорежиссёр, художник и сценарист, автор и преподаватель курса космонавтики для детей школьного возраста.",
+      "spans": [
+        {
+          "text": "Герой выпуска - Тищенко Геннадий Иванович, Член Русского Космического Общества, режиссёр-мультипликатор, кинорежиссёр, художник и сценарист, автор и преподаватель курса космонавтики для детей школьного возраста."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "О взаимосвязи искусства и космонавтики.",
+      "spans": [
+        {
+          "text": "О взаимосвязи искусства и космонавтики."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сайт Геннадия Ивановича Тищенко: http://tishhenko.ru",
+      "spans": [
+        {
+          "text": "Сайт Геннадия Ивановича Тищенко: "
+        },
+        {
+          "text": "http://tishhenko.ru",
+          "href": "https://vk.com/away.php?to=http%3A%2F%2Ftishhenko.ru&post=-146842769_758&cc_key="
+        }
+      ],
+      "links": [
+        {
+          "text": "http://tishhenko.ru",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Ftishhenko.ru&post=-146842769_758&cc_key="
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "IN34muXw6a8",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=IN34muXw6a8"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "​Приглашаем к просмотру второго выпуска.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "\"Прорыв!\" - серия передач Русского Космического Общества. Об идеях нашего Общества. О нашей миссии. О новых проектах Прорыва. О том будущем, которое мы должны и будем создавать своими руками. Герой выпуска - Тищенко Геннадий Иванович, Член Русского Космического Общества, режиссёр-мультипликатор, кинорежиссёр, художник и сценарист, автор и преподаватель курса космонавтики для детей школьного возраста. О взаимосвязи искусства и космонавтики. Сайт Геннадия Ивановича Тищенко: http://tishhenko.ru",
+      "links": [
+        {
+          "title": "http://tishhenko.ru",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Ftishhenko.ru&post=-146842769_758&cc_key="
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/fd/87/novyi-vypusk-cikla-peredach-proryv-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 725,
+    "storedTextCharacters": 526,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 5,
+    "sourceBytes": 46734
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 554,
+  "capturedBodyCharacters": 526,
+  "sourceTextSHA256": "e9e3e1b861d32289dd17f31e3974f1a487ea6920acb0aae25bd334fd555e3e3e",
+  "archiveSnapshotAt": "2026-10-08T09:13:05Z",
+  "publicVideoCount": 1
+}

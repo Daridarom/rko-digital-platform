@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/966-kosmizm-i-obschestvo-buduschego.html",
+  "title": "Космизм и общество будущего",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/e/6/kosmizm-i-obschestvo-buduschego-photo-normal.jpg",
+      "alt": "Космизм и общество будущего"
+    },
+    {
+      "type": "paragraph",
+      "text": "Беседу проводит Черёмина Эвелина Михайловна, руководитель сектора проектной деятельности Центральной библиотечной системы СЗАО г.Москвы",
+      "spans": [
+        {
+          "text": "Беседу проводит Черёмина Эвелина Михайловна, руководитель сектора проектной деятельности Центральной библиотечной системы СЗАО г.Москвы"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Глава Русского Космического Общества рассказал Библиотекам СЗАО о выставке \" Соэволюция \", которая сейчас проходит в Библиотеке № 234 \"ФантазиУм\" по адресу: ул. Габричевского, д. 8, к. 1, о космизме и возможном будущем нашего общества.",
+      "spans": [
+        {
+          "text": "Глава Русского Космического Общества рассказал Библиотекам СЗАО о  выставке \" "
+        },
+        {
+          "text": "Соэволюция",
+          "href": "https://cosmatica.org/glossary/199-soevolyucija.html"
+        },
+        {
+          "text": "\", которая сейчас проходит в Библиотеке № 234 \"ФантазиУм\" по адресу: ул. Габричевского, д. 8, к. 1, о космизме и возможном будущем нашего общества."
+        }
+      ],
+      "links": [
+        {
+          "text": "Соэволюция",
+          "url": "https://cosmatica.org/glossary/199-soevolyucija.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Смотрим!",
+      "spans": [
+        {
+          "text": "Смотрим!"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "5bk82gpNCP0",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=5bk82gpNCP0"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "​Беседа с Главой Русского Космического Общества Алексеем Алексеевичем Гапоновым",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Беседу проводит Черёмина Эвелина Михайловна, руководитель сектора проектной деятельности Центральной библиотечной системы СЗАО г.Москвы Глава Русского Космического Общества рассказал Библиотекам СЗАО о выставке \" Соэволюция \", которая сейчас проходит в Библиотеке № 234 \"ФантазиУм\" по адресу: ул. Габричевского, д. 8, к. 1, о космизме и возможном будущем нашего общества. Смотрим!",
+      "links": [
+        {
+          "title": "Соэволюция",
+          "url": "https://cosmatica.org/glossary/199-soevolyucija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/e/6/kosmizm-i-obschestvo-buduschego-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 691,
+    "storedTextCharacters": 389,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 3,
+    "sourceBytes": 46267
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 553,
+  "capturedBodyCharacters": 389,
+  "sourceTextSHA256": "ad5e70b03b3a85ed86924b41bb109a869fd3c01d6e992f12d088b36de003caad",
+  "archiveSnapshotAt": "2026-10-08T09:14:28Z",
+  "publicVideoCount": 1
+}

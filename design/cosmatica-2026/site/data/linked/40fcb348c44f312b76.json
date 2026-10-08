@@ -1,0 +1,1088 @@
+{
+  "schemaVersion": 2,
+  "slug": "project",
+  "sourceUrl": "https://cosmatica.org/projects/astroputeshestvie-v-paris",
+  "title": "Астропутешествие в Париж",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2d/48/astroputeshestvie-v-parizh-logo-normal.jpg",
+      "alt": "Астропутешествие в Париж"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О проекте",
+        "Новости 1"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В рамках проекта «АстроГлобус» мы начинаем Астропутешествие в Париж.",
+      "spans": [
+        {
+          "text": "В рамках проекта ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "«АстроГлобус»",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fastroglobus"
+        },
+        {
+          "text": " мы начинаем Астропутешествие в Париж.",
+          "marks": [
+            "bold"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "«АстроГлобус»",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fastroglobus"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "С 26 мая по 02 июня мы будем путешествовать вместе с Алевтиной Лещенко , членом РКО и Астроклуба «СПАГО»",
+      "spans": [
+        {
+          "text": "С 26 мая по 02 июня мы будем путешествовать вместе с "
+        },
+        {
+          "text": "Алевтиной Лещенко",
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F68"
+        },
+        {
+          "text": ", членом РКО и Астроклуба «СПАГО» "
+        }
+      ],
+      "links": [
+        {
+          "text": "Алевтиной Лещенко",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F68"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "План поездки: Обсерватория, по меридиану на север — сад Обсерватории, фонтан; Башня Монпарнас; Латинский квартал, Сорбонна (астробашня) Нотр-Дам, Дворец правосудия, д'Орсе Ле-Бурже; Дворец открытий. Монмартр, Сакре-Кре, галерея Лафайет, панорама.",
+      "spans": [
+        {
+          "text": "\r\nПлан поездки:\r\nОбсерватория, по меридиану на север — сад Обсерватории, фонтан;\r\nБашня Монпарнас;\r\nЛатинский квартал, Сорбонна (астробашня)\r\nНотр-Дам, Дворец правосудия,\r\nд'Орсе\r\nЛе-Бурже;\r\nДворец открытий.\r\nМонмартр, Сакре-Кре, галерея Лафайет, панорама."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Нас ждут впечатления, интересные открытия, новые знакомства, много фотографий и обзор космо-астрономических достопримечательностей на заданном маршруте.",
+      "spans": [
+        {
+          "text": "\r\nНас ждут впечатления, интересные открытия, новые знакомства, много фотографий и обзор космо-астрономических достопримечательностей на заданном маршруте."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Стена проекта",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "quote",
+      "text": "«У путешествий есть свои преимущества. Если путешественник посещает лучшие страны, то он может узнать, как улучшить свою. Если же судьба заносит его в худшие страны – он может научиться любить свою страну.» (Самюэль Джонсон).",
+      "spans": [
+        {
+          "text": "«У путешествий есть свои преимущества. Если путешественник посещает лучшие страны, то он может узнать, как улучшить свою. Если же судьба заносит его в худшие страны – он может научиться любить свою страну.» (Самюэль Джонсон)."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/93/c7/2uob9scd14i.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/e9/b9/uqf3yvmukjy.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/e4/24/7uv5sjlfdnq.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/08/ed/c22ajhhxt7m.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/37/91/adrniyclpmo.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/0f/4c/ytj1gmbuozs.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/dd/de/4srk4tjsety.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/ab/45/qgtpcdithpy.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/31/73/6-itaeqdbdu.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/b7/26/588gddkfofe.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/00/37/nheiw-6qrj0.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/f2/8b/ilhskse32qw.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/11/0b/u-q9idf5gkc.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/72/59/ucbk1ftwtws.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "quote",
+      "text": "«Это единственное место во всём огромном Париже, откуда её не видно.» (Ги де Мопассан о ресторане на первом уровне Эйфелевой башни, позже названном «Жюль Верн»).",
+      "spans": [
+        {
+          "text": "«Это единственное место во всём огромном Париже, откуда её не видно.» (Ги де Мопассан о ресторане на первом уровне Эйфелевой башни, позже названном «Жюль Верн»)."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/15/45/s6xs5ifyrw8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/91/74/6pudzrvn5zo.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/e3/a0/s3slhrxzmp8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/1d/f7/9r5qykvavke.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/84/3d/hyvshhne9tg.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/94/4e/jg-wxaqwgsw.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/65/ac/oeby4eyxlzq.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/36/24/jrtv4mupetm.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/2d/a4/wvj3w-zy-w4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/85/96/zo5ks1j210m.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "quote",
+      "text": "«Лунный свет был первым лучом в познании мира. Это была заря, возвещающая собой возникновение науки, которая с течением веков покорила своей власти все звёзды, всю необъятную Вселенную.» (Камилл Фламмарион).",
+      "spans": [
+        {
+          "text": "«Лунный свет был первым лучом в познании мира. Это была заря, возвещающая собой возникновение науки, которая с течением веков покорила своей власти все звёзды, всю необъятную Вселенную.» (Камилл Фламмарион)."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/dc/f4/h1i-l7mixhq.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/ad/a7/fq227glazee.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/04/5a/hwpp7opkcvo.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/01/6f/scwbrsgpmko.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/19/e4/lfgi3yx5qmm.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/7f/02/muo7dhgwcdq.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/ef/47/ggylk3oiftm.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/40/bc/hmcclrje2uy.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/10/75/hq4umiohv7k.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/a1/00/he-phpt6fay.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/63/37/19o-ib8yjby.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/fc/64/bviwudd-e78.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/21/a9/sdd6gjqhuqq.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/a7/d5/vemba2c1yxu.jpg",
+      "alt": ""
+    },
+    {
+      "type": "quote",
+      "text": "«Да, конечно, самолет — машина, но притом какое орудие познания! Это он открыл нам истинное лицо Земли. Самолет научил нас двигаться по прямой. Отныне мы свободны от милого нам рабства, не зависим больше от родников и берем курс на дальние цели. И вот мы становимся физиками, биологами, мы рассматриваем поросль цивилизаций — они украшают собою долины и кое-где чудом расцветают. Мы смотрим в иллюминатор, как ученый в микроскоп, и судим человека по его месту во Вселенной. За орудием и через него мы вновь обретаем все ту же вечную природу, которую издавна знают садовники, мореходы и поэты.» ( Антуан де-Сент Экзюпери «Планета людей»)",
+      "spans": [
+        {
+          "text": "«Да, конечно, самолет — машина, но притом какое орудие познания! Это он открыл нам истинное лицо Земли. Самолет научил нас двигаться по прямой. Отныне мы свободны от милого нам рабства, не зависим больше от родников и берем курс на дальние цели. И вот мы становимся физиками, биологами, мы рассматриваем поросль цивилизаций — они украшают собою долины и кое-где чудом расцветают. Мы смотрим в иллюминатор, как ученый в микроскоп, и судим человека по его месту во Вселенной. За орудием и через него мы вновь обретаем все ту же вечную природу, которую издавна знают садовники, мореходы и поэты.» ( Антуан де-Сент Экзюпери «Планета людей»)"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "quote",
+      "text": "«Хотел бы я знать, зачем звезды светятся. Наверно, затем, чтобы рано или поздно каждый мог вновь отыскать свою.» (Антуан де Сент-Экзюпери, «Маленький принц»)",
+      "spans": [
+        {
+          "text": "«Хотел бы я знать, зачем звезды светятся. Наверно, затем, чтобы рано или поздно каждый мог вновь отыскать свою.» \r\n(Антуан де Сент-Экзюпери, «Маленький принц»)"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cf/8f/burzh.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/f7/b3/vsofjqhkuyk.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/8d/f8/bcsg6zu-vd8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/5f/86/9ujklwrs8ca.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/34/b6/wxbl0xdohfa.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/07/2b/q0uigrrksa4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/bc/d1/vrzsm0nv-84.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/f9/aa/led9mho6di0.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/fc/99/3h1bfsmvh3g.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "quote",
+      "text": "«Изобрести самолет просто. Построить его — уже кое-что. Летать — это всё.» (Отто Лилиенталь)",
+      "spans": [
+        {
+          "text": "«Изобрести самолет просто. Построить его — уже кое-что. Летать — это всё.» (Отто Лилиенталь)"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/8b/1e/leb.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/3f/e0/ouovyq0mv7e.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/2f/66/39bcfpnhgis.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/ce/26/hp32a5min5g.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/fb/16/leb7.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/ca/6c/leb10.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/9c/4d/leb11.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/20/f1/leb12.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/4e/b6/leb2.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/52/35/j-cexwhkvt8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/9b/b2/leb5.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/e5/48/leb4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/18/c7/konkordy.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/b4/f1/konkordy1.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/e5/b4/teleskopy.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/f4/6f/teleskopy1.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/39/04/ar6.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/68/90/ar4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/65/a7/k5mh58eutzs.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/f4/d9/wzthlgjrwgc.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/6f/77/ar7.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/d7/69/ar8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/7a/f0/ar.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/3c/92/t6jpa2rmuqc-1.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/d8/1e/ar3.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/7f/b5/peet-3hteqy.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/ee/55/eazl4sc4kqm.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/76/80/drg2w1hwhmo.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/1e/f1/9fo6k-hdokk.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/04/17/8cslinyaoo.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/81/71/teleskop.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/c7/94/p-rfxq-tkua.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/eb/b8/qakhg-oxoc.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/e9/20/nulevaja.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/04/df/xufwzpjlnv4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "quote",
+      "text": "«Понедельник начинается в субботу» (А. и Б. Стругацкие).",
+      "spans": [
+        {
+          "text": "«Понедельник начинается в субботу» (А. и Б. Стругацкие)."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/64/67/sgx4rwvyddy.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/a3/9c/h7klyyr-qjq.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/d4/5b/okeqpd6lywk.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/f8/4d/7doayltawbg.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/a0/54/vebgyn9tape.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/39/4a/t7wb5cgocpa.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/00/30/osopf4mlnes.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/57/1b/8kttod2ip1w.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/6f/98/lnf0kd1ee40.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/6a/7e/84bj-z3w30u.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/d9/50/dx4wqmacypu.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/8d/ef/5gcxxb0let4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/9f/d4/7bg6lgzbmt8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/9a/6a/4wcxzgjekgk.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/33/57/4kbj-n0z2zq.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/85/6c/xqkqfjnqcn0.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/af/33/aokx74kuc8w.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/30/02/y5htm7vn66u.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/92/d3/9k1nratcsg.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/60/76/cw8-op7kfre.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/09/16/laeae3uqpxg.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "quote",
+      "text": "«Во французской стороне, на чужой планете Предстоит учиться мне в университете...»",
+      "spans": [
+        {
+          "text": "«Во французской стороне, на чужой планете Предстоит учиться мне в университете...»"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/2c/c1/yklgvttse14.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/f6/bb/osnftu1n0yy.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/d3/cc/rto0u-fcnsm.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/7a/7d/wyrlbtwcatg.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/bc/b6/hqrijdszioy.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/82/d5/xuypwyovgew.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/54/f2/hpv5djacbra.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/dd/30/keskyjnsuwe.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/43/20/llmfkezaugs.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/b3/9b/ftxddh7aivg.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/04/42/krq1rc0-ibg.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/54/78/br5qtqmvuak.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/f6/f8/bswzimlrt9k.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/6a/f7/pxtzx1raum.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/f1/cd/4qbz2d2mpgw.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/ea/9f/cjinef8-ww.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/94/e5/gkmf08la9ze.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/02/20/qesjm069bx8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/fd/a4/rngp-283ue.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/65/a9/gnb0kgktawq.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/5a/e6/2w91wlepqhe.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "quote",
+      "text": "«Для тех, кто только что вышел за дверь, самая трудная часть осталась позади.» © Голландская пословица",
+      "spans": [
+        {
+          "text": "«Для тех, кто только что вышел за дверь, самая трудная часть осталась позади.» © Голландская пословица"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/4b/17/ew9wepgtoxw.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/96/d0/fd5-j82ahts.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/53/2e/tmswh8ttbci.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/45/1c/3-fxn-c-un4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/ea/ff/axmpq84vfe.jpg",
+      "alt": ""
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "RAwSnmjQ2fc",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=RAwSnmjQ2fc"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В рамках проекта «АстроГлобус» мы начинаем Астропутешествие в Париж. С 26 мая по 02 июня мы будем путешествовать вместе с Алевтиной Лещенко , членом РКО и Астроклуба «СПАГО» План поездки: Обсерватория, по меридиану на север — сад Обсерватории, фонтан; Башня Монпарнас; Латинский квартал, Сорбонна (астробашня) Нотр-Дам, Дворец правосудия, д'Орсе Ле-Бурже; Дворец открытий. Монмартр, Сакре-Кре, галерея Лафайет, панорама. Нас ждут впечатления, интересные открытия, новые знакомства, много фотографий и обзор космо-астрономических достопримечательностей на заданном маршруте.",
+      "links": [
+        {
+          "title": "«АстроГлобус»",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fastroglobus"
+        },
+        {
+          "title": "Алевтиной Лещенко",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F68"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Направление:",
+      "value": "Образование",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Статус:",
+      "value": "Завершенный",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u21/2d/48/astroputeshestvie-v-parizh-logo-normal.jpg",
+    "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+    "https://cosmatica.org/upload/000/u68/93/c7/2uob9scd14i.jpg",
+    "https://cosmatica.org/upload/000/u68/e9/b9/uqf3yvmukjy.jpg",
+    "https://cosmatica.org/upload/000/u68/e4/24/7uv5sjlfdnq.jpg",
+    "https://cosmatica.org/upload/000/u68/08/ed/c22ajhhxt7m.jpg",
+    "https://cosmatica.org/upload/000/u68/37/91/adrniyclpmo.jpg",
+    "https://cosmatica.org/upload/000/u68/0f/4c/ytj1gmbuozs.jpg",
+    "https://cosmatica.org/upload/000/u68/dd/de/4srk4tjsety.jpg",
+    "https://cosmatica.org/upload/000/u68/ab/45/qgtpcdithpy.jpg",
+    "https://cosmatica.org/upload/000/u68/31/73/6-itaeqdbdu.jpg",
+    "https://cosmatica.org/upload/000/u68/b7/26/588gddkfofe.jpg",
+    "https://cosmatica.org/upload/000/u68/00/37/nheiw-6qrj0.jpg",
+    "https://cosmatica.org/upload/000/u68/f2/8b/ilhskse32qw.jpg",
+    "https://cosmatica.org/upload/000/u68/11/0b/u-q9idf5gkc.jpg",
+    "https://cosmatica.org/upload/000/u68/72/59/ucbk1ftwtws.jpg",
+    "https://cosmatica.org/upload/000/u68/15/45/s6xs5ifyrw8.jpg",
+    "https://cosmatica.org/upload/000/u68/91/74/6pudzrvn5zo.jpg",
+    "https://cosmatica.org/upload/000/u68/e3/a0/s3slhrxzmp8.jpg",
+    "https://cosmatica.org/upload/000/u68/1d/f7/9r5qykvavke.jpg",
+    "https://cosmatica.org/upload/000/u68/84/3d/hyvshhne9tg.jpg",
+    "https://cosmatica.org/upload/000/u68/94/4e/jg-wxaqwgsw.jpg",
+    "https://cosmatica.org/upload/000/u68/65/ac/oeby4eyxlzq.jpg",
+    "https://cosmatica.org/upload/000/u68/36/24/jrtv4mupetm.jpg",
+    "https://cosmatica.org/upload/000/u68/2d/a4/wvj3w-zy-w4.jpg",
+    "https://cosmatica.org/upload/000/u68/85/96/zo5ks1j210m.jpg",
+    "https://cosmatica.org/upload/000/u68/dc/f4/h1i-l7mixhq.jpg",
+    "https://cosmatica.org/upload/000/u68/ad/a7/fq227glazee.jpg",
+    "https://cosmatica.org/upload/000/u68/04/5a/hwpp7opkcvo.jpg",
+    "https://cosmatica.org/upload/000/u68/01/6f/scwbrsgpmko.jpg",
+    "https://cosmatica.org/upload/000/u68/19/e4/lfgi3yx5qmm.jpg",
+    "https://cosmatica.org/upload/000/u68/7f/02/muo7dhgwcdq.jpg",
+    "https://cosmatica.org/upload/000/u68/ef/47/ggylk3oiftm.jpg",
+    "https://cosmatica.org/upload/000/u68/40/bc/hmcclrje2uy.jpg",
+    "https://cosmatica.org/upload/000/u68/10/75/hq4umiohv7k.jpg",
+    "https://cosmatica.org/upload/000/u68/a1/00/he-phpt6fay.jpg",
+    "https://cosmatica.org/upload/000/u21/63/37/19o-ib8yjby.jpg",
+    "https://cosmatica.org/upload/000/u68/fc/64/bviwudd-e78.jpg",
+    "https://cosmatica.org/upload/000/u68/21/a9/sdd6gjqhuqq.jpg",
+    "https://cosmatica.org/upload/000/u68/a7/d5/vemba2c1yxu.jpg",
+    "https://cosmatica.org/upload/000/u68/cf/8f/burzh.jpg",
+    "https://cosmatica.org/upload/000/u68/f7/b3/vsofjqhkuyk.jpg",
+    "https://cosmatica.org/upload/000/u68/8d/f8/bcsg6zu-vd8.jpg",
+    "https://cosmatica.org/upload/000/u68/5f/86/9ujklwrs8ca.jpg",
+    "https://cosmatica.org/upload/000/u68/34/b6/wxbl0xdohfa.jpg",
+    "https://cosmatica.org/upload/000/u68/07/2b/q0uigrrksa4.jpg",
+    "https://cosmatica.org/upload/000/u68/bc/d1/vrzsm0nv-84.jpg",
+    "https://cosmatica.org/upload/000/u68/f9/aa/led9mho6di0.jpg",
+    "https://cosmatica.org/upload/000/u68/fc/99/3h1bfsmvh3g.jpg",
+    "https://cosmatica.org/upload/000/u68/8b/1e/leb.jpg",
+    "https://cosmatica.org/upload/000/u68/3f/e0/ouovyq0mv7e.jpg",
+    "https://cosmatica.org/upload/000/u68/2f/66/39bcfpnhgis.jpg",
+    "https://cosmatica.org/upload/000/u68/ce/26/hp32a5min5g.jpg",
+    "https://cosmatica.org/upload/000/u68/fb/16/leb7.jpg",
+    "https://cosmatica.org/upload/000/u68/ca/6c/leb10.jpg",
+    "https://cosmatica.org/upload/000/u68/9c/4d/leb11.jpg",
+    "https://cosmatica.org/upload/000/u68/20/f1/leb12.jpg",
+    "https://cosmatica.org/upload/000/u68/4e/b6/leb2.jpg",
+    "https://cosmatica.org/upload/000/u68/52/35/j-cexwhkvt8.jpg",
+    "https://cosmatica.org/upload/000/u68/9b/b2/leb5.jpg",
+    "https://cosmatica.org/upload/000/u68/e5/48/leb4.jpg",
+    "https://cosmatica.org/upload/000/u68/18/c7/konkordy.jpg",
+    "https://cosmatica.org/upload/000/u68/b4/f1/konkordy1.jpg",
+    "https://cosmatica.org/upload/000/u68/e5/b4/teleskopy.jpg",
+    "https://cosmatica.org/upload/000/u68/f4/6f/teleskopy1.jpg",
+    "https://cosmatica.org/upload/000/u68/39/04/ar6.jpg",
+    "https://cosmatica.org/upload/000/u68/68/90/ar4.jpg",
+    "https://cosmatica.org/upload/000/u68/65/a7/k5mh58eutzs.jpg",
+    "https://cosmatica.org/upload/000/u68/f4/d9/wzthlgjrwgc.jpg",
+    "https://cosmatica.org/upload/000/u68/6f/77/ar7.jpg",
+    "https://cosmatica.org/upload/000/u68/d7/69/ar8.jpg",
+    "https://cosmatica.org/upload/000/u68/7a/f0/ar.jpg",
+    "https://cosmatica.org/upload/000/u68/3c/92/t6jpa2rmuqc-1.jpg",
+    "https://cosmatica.org/upload/000/u68/d8/1e/ar3.jpg",
+    "https://cosmatica.org/upload/000/u68/7f/b5/peet-3hteqy.jpg",
+    "https://cosmatica.org/upload/000/u68/ee/55/eazl4sc4kqm.jpg",
+    "https://cosmatica.org/upload/000/u68/76/80/drg2w1hwhmo.jpg",
+    "https://cosmatica.org/upload/000/u68/1e/f1/9fo6k-hdokk.jpg",
+    "https://cosmatica.org/upload/000/u68/04/17/8cslinyaoo.jpg",
+    "https://cosmatica.org/upload/000/u68/81/71/teleskop.jpg",
+    "https://cosmatica.org/upload/000/u68/c7/94/p-rfxq-tkua.jpg",
+    "https://cosmatica.org/upload/000/u68/eb/b8/qakhg-oxoc.jpg",
+    "https://cosmatica.org/upload/000/u68/e9/20/nulevaja.jpg",
+    "https://cosmatica.org/upload/000/u68/04/df/xufwzpjlnv4.jpg",
+    "https://cosmatica.org/upload/000/u68/64/67/sgx4rwvyddy.jpg",
+    "https://cosmatica.org/upload/000/u68/a3/9c/h7klyyr-qjq.jpg",
+    "https://cosmatica.org/upload/000/u68/d4/5b/okeqpd6lywk.jpg",
+    "https://cosmatica.org/upload/000/u68/f8/4d/7doayltawbg.jpg",
+    "https://cosmatica.org/upload/000/u68/a0/54/vebgyn9tape.jpg",
+    "https://cosmatica.org/upload/000/u68/39/4a/t7wb5cgocpa.jpg",
+    "https://cosmatica.org/upload/000/u68/00/30/osopf4mlnes.jpg",
+    "https://cosmatica.org/upload/000/u68/57/1b/8kttod2ip1w.jpg",
+    "https://cosmatica.org/upload/000/u68/6f/98/lnf0kd1ee40.jpg",
+    "https://cosmatica.org/upload/000/u68/6a/7e/84bj-z3w30u.jpg",
+    "https://cosmatica.org/upload/000/u68/d9/50/dx4wqmacypu.jpg",
+    "https://cosmatica.org/upload/000/u68/8d/ef/5gcxxb0let4.jpg",
+    "https://cosmatica.org/upload/000/u68/9f/d4/7bg6lgzbmt8.jpg",
+    "https://cosmatica.org/upload/000/u68/9a/6a/4wcxzgjekgk.jpg",
+    "https://cosmatica.org/upload/000/u68/33/57/4kbj-n0z2zq.jpg",
+    "https://cosmatica.org/upload/000/u68/85/6c/xqkqfjnqcn0.jpg",
+    "https://cosmatica.org/upload/000/u68/af/33/aokx74kuc8w.jpg",
+    "https://cosmatica.org/upload/000/u68/30/02/y5htm7vn66u.jpg",
+    "https://cosmatica.org/upload/000/u68/92/d3/9k1nratcsg.jpg",
+    "https://cosmatica.org/upload/000/u68/60/76/cw8-op7kfre.jpg",
+    "https://cosmatica.org/upload/000/u68/09/16/laeae3uqpxg.jpg",
+    "https://cosmatica.org/upload/000/u68/2c/c1/yklgvttse14.jpg",
+    "https://cosmatica.org/upload/000/u68/f6/bb/osnftu1n0yy.jpg",
+    "https://cosmatica.org/upload/000/u68/d3/cc/rto0u-fcnsm.jpg",
+    "https://cosmatica.org/upload/000/u68/7a/7d/wyrlbtwcatg.jpg",
+    "https://cosmatica.org/upload/000/u68/bc/b6/hqrijdszioy.jpg",
+    "https://cosmatica.org/upload/000/u68/82/d5/xuypwyovgew.jpg",
+    "https://cosmatica.org/upload/000/u68/54/f2/hpv5djacbra.jpg",
+    "https://cosmatica.org/upload/000/u68/dd/30/keskyjnsuwe.jpg",
+    "https://cosmatica.org/upload/000/u68/43/20/llmfkezaugs.jpg",
+    "https://cosmatica.org/upload/000/u68/b3/9b/ftxddh7aivg.jpg",
+    "https://cosmatica.org/upload/000/u68/04/42/krq1rc0-ibg.jpg",
+    "https://cosmatica.org/upload/000/u68/54/78/br5qtqmvuak.jpg",
+    "https://cosmatica.org/upload/000/u68/f6/f8/bswzimlrt9k.jpg",
+    "https://cosmatica.org/upload/000/u68/6a/f7/pxtzx1raum.jpg",
+    "https://cosmatica.org/upload/000/u68/f1/cd/4qbz2d2mpgw.jpg",
+    "https://cosmatica.org/upload/000/u68/ea/9f/cjinef8-ww.jpg",
+    "https://cosmatica.org/upload/000/u68/94/e5/gkmf08la9ze.jpg",
+    "https://cosmatica.org/upload/000/u68/02/20/qesjm069bx8.jpg",
+    "https://cosmatica.org/upload/000/u68/fd/a4/rngp-283ue.jpg",
+    "https://cosmatica.org/upload/000/u68/65/a9/gnb0kgktawq.jpg",
+    "https://cosmatica.org/upload/000/u68/5a/e6/2w91wlepqhe.jpg",
+    "https://cosmatica.org/upload/000/u68/4b/17/ew9wepgtoxw.jpg",
+    "https://cosmatica.org/upload/000/u68/96/d0/fd5-j82ahts.jpg",
+    "https://cosmatica.org/upload/000/u68/53/2e/tmswh8ttbci.jpg",
+    "https://cosmatica.org/upload/000/u68/45/1c/3-fxn-c-un4.jpg",
+    "https://cosmatica.org/upload/000/u68/ea/ff/axmpq84vfe.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 34184,
+    "storedTextCharacters": 2319,
+    "sourceCardCount": 0,
+    "sourceImageCount": 131,
+    "paragraphCount": 4,
+    "sourceBytes": 126803
+  },
+  "textFallbackRequired": false,
+  "originalKind": "project",
+  "sourceTextCharacters": 618,
+  "capturedBodyCharacters": 2319,
+  "sourceTextSHA256": "cf82f182173c8e174946dcd130923a08977a5ee58a70ceb000efafacd3815449",
+  "archiveSnapshotAt": "2026-10-08T09:16:59Z",
+  "publicVideoCount": 1
+}

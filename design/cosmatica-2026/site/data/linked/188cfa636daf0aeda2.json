@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/23-nekotorye-problemy-kvantovoi-biologii-i-voprosy-peredachi-informacii-v-biologicheskih-sistemah.html",
+  "title": "Некоторые проблемы квантовой биологии и вопросы передачи информации в биологических системах",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Приведены теоретические предпосылки возможной\r\nпередачи информации в биологических системах с помощью\r\nквантовых потоков. С помощью счетчика фотонов\r\nзарегистрировано сверхслабое свечение крови и нерва. Показано\r\nвлияние одной тканевой культуры на",
+      "spans": [
+        {
+          "text": "Приведены теоретические предпосылки возможной\r\nпередачи информации в биологических системах с помощью\r\nквантовых потоков. С помощью счетчика фотонов\r\nзарегистрировано сверхслабое свечение крови и нерва. Показано\r\nвлияние одной тканевой культуры на"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "рост",
+      "spans": [
+        {
+          "text": "рост"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "другой через\r\nкварцевое стекло. Указаны возможные пути использования\r\nмеханизма квантовой информации в технических устройствах",
+      "spans": [
+        {
+          "text": "другой через\r\nкварцевое стекло. Указаны возможные пути использования\r\nмеханизма квантовой информации в технических устройствах"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Приведены теоретические предпосылки возможной передачи информации в биологических системах с помощью квантовых потоков. С помощью счетчика фотонов зарегистрировано сверхслабое свечение крови и нерва. Показано влияние одной тканевой культуры на рост другой через кварцевое стекло. Указаны возможные пути использования механизма квантовой информации в технических устройствах",
+      "links": [
+        {
+          "title": "рост",
+          "url": "https://cosmatica.org/glossary/56-rost.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 157 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/39/a18ea60a382044b4021cb0f5400c60cd"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/39/a18ea60a382044b4021cb0f5400c60cd"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 487,
+    "storedTextCharacters": 377,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 40208
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 394,
+  "capturedBodyCharacters": 377,
+  "sourceTextSHA256": "c43f3b4cc5698276095de025bff7b2b3fa77da334007583a40b2eba2ea8966ea",
+  "archiveSnapshotAt": "2026-10-08T08:48:09Z"
+}

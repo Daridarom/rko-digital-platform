@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/134-zakon-ustoichivoi-neravnovesnosti.html",
+  "title": "Закон устойчивой неравновесности",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "ускорение роста свободной энер­гии за счет повышения эффективности использования полной мощно­сти системы, то есть повышения скорости ее оборачиваемости с умень­шением мощности потерь на каждом цикле процесса.",
+      "spans": [
+        {
+          "text": "ускорение роста свободной энер­гии за счет повышения эффективности использования полной мощно­сти системы, то есть повышения скорости ее оборачиваемости с умень­шением мощности потерь на каждом цикле процесса."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "ускорение роста свободной энер­гии за счет повышения эффективности использования полной мощно­сти системы, то есть повышения скорости ее оборачиваемости с умень­шением мощности потерь на каждом цикле процесса.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 242,
+    "storedTextCharacters": 209,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32427
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 209,
+  "capturedBodyCharacters": 209,
+  "sourceTextSHA256": "6c193002519a334f4322e28fe5f963ea2149f4496afd317b63abbd2a1af42db4",
+  "archiveSnapshotAt": "2026-10-08T08:46:30Z"
+}

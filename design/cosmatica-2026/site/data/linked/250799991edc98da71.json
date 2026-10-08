@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/about/simvolika",
+  "title": "Символика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Марш Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "О гербе Русского Космического Общества - ПРОРЫВ!",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Знамя Русского Космического Общества",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 131,
+    "storedTextCharacters": 119,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 35090
+  },
+  "textFallbackRequired": false,
+  "originalKind": "about-page",
+  "sourceTextCharacters": 131,
+  "capturedBodyCharacters": 119,
+  "sourceTextSHA256": "31441c716a8d57dbb5fb17e134bae602a46f2da22913dfbbedceeee036e64053",
+  "archiveSnapshotAt": "2026-10-08T08:36:42Z"
+}

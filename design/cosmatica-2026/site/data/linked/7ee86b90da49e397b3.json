@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/487-uchenie-vsemir.html",
+  "title": "Учение Всемир",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/f/1/43503a75.jpg",
+      "alt": "Учение Всемир"
+    },
+    {
+      "type": "paragraph",
+      "text": "Инженерно-философские озарения.",
+      "spans": [
+        {
+          "text": "Инженерно-философские озарения."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "А.В.Сухово-Кобылин",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Инженерно-философские озарения.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 36 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/4105/003e7e59a559ce9e69ed92035bc435be"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/f/1/43503a75.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/4105/003e7e59a559ce9e69ed92035bc435be"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 91,
+    "storedTextCharacters": 31,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39088
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 77,
+  "capturedBodyCharacters": 31,
+  "sourceTextSHA256": "6fd1c405cabbd1244562b5d66fbc88a0161449d3ca10b7cf197b2f3d0ebe2304",
+  "archiveSnapshotAt": "2026-10-08T08:50:32Z"
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/181",
+  "title": "Елена Алексеевна Тимошенкова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/8/9/e463a15d.jpg",
+      "alt": "Елена Алексеевна Тимошенкова"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/b/9/55c18226.jpg",
+      "alt": "Елена Алексеевна Тимошенкова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Заведующая научно-мемориальным отделом Государственного музея истории космонавтики им. К.Э. Циолковского.",
+      "spans": [
+        {
+          "text": "Заведующая научно-мемориальным отделом Государственного музея истории космонавтики им. К.Э. Циолковского."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Заслуженный работник культуры России.",
+      "spans": [
+        {
+          "text": "Заслуженный работник культуры России."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Заслуженный работник культуры Калужской области.",
+      "spans": [
+        {
+          "text": "Заслуженный работник культуры Калужской области."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Правнучка К.Э. Циолковского.",
+      "spans": [
+        {
+          "text": "Правнучка К.Э. Циолковского."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Калужская область",
+      "links": [
+        {
+          "title": "Калужская область",
+          "url": "https://cosmatica.org/departments/11-kaluzhskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Заведующая научно-мемориальным отделом Государственного музея истории космонавтики им. К.Э. Циолковского. Заслуженный работник культуры России. Заслуженный работник культуры Калужской области. Правнучка К.Э. Циолковского.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/8/9/e463a15d.jpg",
+    "https://cosmatica.org/upload/000/u26/b/9/55c18226.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 314,
+    "storedTextCharacters": 251,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35299
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 260,
+  "capturedBodyCharacters": 251,
+  "sourceTextSHA256": "f8f2e3a4913e389ef05751b978c15897cd1a45cfb2f8a9e79da956724134a1a5",
+  "archiveSnapshotAt": "2026-10-08T09:18:19Z"
+}

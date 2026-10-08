@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/416-vneklassnaja-rabota-po-matematike-v-4-5-klassah.html",
+  "title": "Внеклассная работа по математике в 4-5 классах",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/5/vneklassnaja-rabota-po-matematike-v-4-5-klassah-photo-normal.jpg",
+      "alt": "Внеклассная работа по математике в 4-5 классах"
+    },
+    {
+      "type": "paragraph",
+      "text": "В книге отражен материал кружковых занятий по математике, олимпиад и математических вечеров.",
+      "spans": [
+        {
+          "text": "В книге отражен материал кружковых занятий по математике, олимпиад и математических вечеров."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Чесноков А. С., Шварцбурд С. И., Головина В. Д.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В книге отражен материал кружковых занятий по математике, олимпиад и математических вечеров.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 11 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2422/8cfa5bdced886dc6ee46e8e70329f597"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/9/5/vneklassnaja-rabota-po-matematike-v-4-5-klassah-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2422/8cfa5bdced886dc6ee46e8e70329f597"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 214,
+    "storedTextCharacters": 92,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40130
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 167,
+  "capturedBodyCharacters": 92,
+  "sourceTextSHA256": "48fbc3bb85f4149a38ef182ac1a899c83f1822f6dec569ecccee922362739d3d",
+  "archiveSnapshotAt": "2026-10-08T08:49:51Z"
+}

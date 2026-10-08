@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/972-russkii-kosmizm-globalnyi-krizis-i-ustoichivoe-razvitie.html",
+  "title": "Русский космизм, глобальный кризис и устойчивое развитие",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва ч",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Доклад на I Международной научно-практической конференции: «Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва человечества»",
+      "spans": [
+        {
+          "text": "Доклад на I Международной научно-практической конференции: «Космическая  философия-Космическое право-Космическая деятельность: триединство  космического прорыва человечества» "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Докладчик: Кузнецов Олег Леонидович, д.т.н., профессор, Президент РАЕН, Председатель Коллегии Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "Докладчик: Кузнецов Олег Леонидович, д.т.н., профессор, Президент РАЕН,  Председатель Коллегии Русского Космического Общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "23.05.2020г. Россия, Москва",
+      "spans": [
+        {
+          "text": "23.05.2020г. Россия, Москва "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сайт конференции: создайбудущее.рф",
+      "spans": [
+        {
+          "text": "Сайт конференции: "
+        },
+        {
+          "text": "создайбудущее.рф",
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2F%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B9%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5.%D1%80%D1%84"
+        }
+      ],
+      "links": [
+        {
+          "text": "создайбудущее.рф",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2F%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B9%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5.%D1%80%D1%84"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "B2zsSnNvKgw",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=B2zsSnNvKgw"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Доклад на I Международной научно-практической конференции: «Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва человечества» Докладчик: Кузнецов Олег Леонидович, д.т.н., профессор, Президент РАЕН, Председатель Коллегии Русского Космического Общества. 23.05.2020г. Россия, Москва Сайт конференции: создайбудущее.рф",
+      "links": [
+        {
+          "title": "создайбудущее.рф",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2F%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B9%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5.%D1%80%D1%84"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 673,
+    "storedTextCharacters": 459,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 76818
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 514,
+  "capturedBodyCharacters": 459,
+  "sourceTextSHA256": "c4719b5ea03c7f2399306c0b6926047811be48a6cd72fbf9304ce0847eb0d4b7",
+  "archiveSnapshotAt": "2026-10-08T08:44:52Z",
+  "publicVideoCount": 1
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/989-permakultura-bogini-zemli.html",
+  "title": "Пермакультура Богини Земли",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Структура жизни",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "История женщины из Ирландии, которая полагаясь только на собственные усилия, создала пермакультурное разнообразие на месте поля с монокультурой за 13 лет.",
+      "spans": [
+        {
+          "text": "История женщины из Ирландии, которая полагаясь только на собственные усилия, создала пермакультурное разнообразие на месте поля с монокультурой за 13 лет."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Как каждый из нас может преобразить Землю.",
+      "spans": [
+        {
+          "text": "Как каждый из нас может преобразить Землю."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "_WjV5G3mlz8",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=_WjV5G3mlz8"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "История женщины из Ирландии, которая полагаясь только на собственные усилия, создала пермакультурное разнообразие на месте поля с монокультурой за 13 лет. Как каждый из нас может преобразить Землю.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 343,
+    "storedTextCharacters": 212,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 75474
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 299,
+  "capturedBodyCharacters": 212,
+  "sourceTextSHA256": "53b3942912fc008b80061649ea35c5b49e3a8f2b157851478c310654db9ea20a",
+  "archiveSnapshotAt": "2026-10-08T08:44:58Z",
+  "publicVideoCount": 1
+}

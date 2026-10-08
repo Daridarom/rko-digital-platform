@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/522-delokratija-vlast-polzy-chast-2-prirodopodobnye-samorazvivayuschiesja-samosovershenstvuyuschiesj.html",
+  "title": "Делократия. Власть пользы. Часть 2. Природоподобные саморазвивающиеся самосовершенствующиеся (делократизируемые) производственные системы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/45a43190ad760b8e51d497.webp",
+      "alt": "Делократия. Власть пользы. Часть 2.  Природоподобные саморазвивающиеся самосовершенствующиеся (делократизируемые) производственные системы"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Автор: Протопопов А.И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 6 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/5129/fb730f52c5df8763b53381bbcac79ad6"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/45a43190ad760b8e51d497.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/5129/fb730f52c5df8763b53381bbcac79ad6"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 186,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40271
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 48,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "03d5e6e2a015f2816f07cb16b19eb16fc13565dab70938a8e0095eb6b35d8295",
+  "archiveSnapshotAt": "2026-10-08T08:50:54Z"
+}

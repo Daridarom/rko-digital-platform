@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/438-bez-neba-mne-ne-zhit.html",
+  "title": "Без неба мне не жить",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/5/1/4a575169.jpg",
+      "alt": "Без неба мне не жить"
+    },
+    {
+      "type": "paragraph",
+      "text": "Член Русского Космического Общества, Президент Международной ассоциации Всеобщее Вселенское Содружество (Италия), художник, поэтесса, режиссер Светлана Леонидовна Нестерова сотворила вдохновенное произведение о жизни и личности Первого космонавта Земли.",
+      "spans": [
+        {
+          "text": "\r\n\tЧлен Русского Космического Общества, Президент Международной ассоциации  Всеобщее Вселенское Содружество (Италия), художник, поэтесса, режиссер  "
+        },
+        {
+          "text": "Светлана Леонидовна Нестерова",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " сотворила вдохновенное произведение о  жизни и личности Первого космонавта Земли. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Лучше всяких слов станет личное знакомство с поэмой в исполнении автора.",
+      "spans": [
+        {
+          "text": "\r\n\tЛучше всяких слов станет "
+        },
+        {
+          "text": "личное знакомство ",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/articles/571-bez-neba-mne-ne-zhit.html"
+        },
+        {
+          "text": "с поэмой в исполнении автора."
+        }
+      ],
+      "links": [
+        {
+          "text": "личное знакомство",
+          "url": "https://cosmatica.org/articles/571-bez-neba-mne-ne-zhit.html"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Новая поэма о Гагарине подарена миру.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Член Русского Космического Общества, Президент Международной ассоциации Всеобщее Вселенское Содружество (Италия), художник, поэтесса, режиссер Светлана Леонидовна Нестерова сотворила вдохновенное произведение о жизни и личности Первого космонавта Земли. Лучше всяких слов станет личное знакомство с поэмой в исполнении автора.",
+      "links": [
+        {
+          "title": "личное знакомство",
+          "url": "https://cosmatica.org/articles/571-bez-neba-mne-ne-zhit.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u21/5/1/4a575169.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 584,
+    "storedTextCharacters": 336,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 3,
+    "sourceBytes": 46145
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 453,
+  "capturedBodyCharacters": 336,
+  "sourceTextSHA256": "4c974884e3da5a4c0d44fec88026c9bb5a81d51c9909ae4a2498f0cd2fcf126e",
+  "archiveSnapshotAt": "2026-10-08T09:11:50Z"
+}

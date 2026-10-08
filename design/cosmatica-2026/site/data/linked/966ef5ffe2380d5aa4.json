@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/270-samodelnaja-astronomicheskaja-truba-iz-ochkovyh-styokol.html",
+  "title": "Самодельная астрономическая труба из очковых стёкол",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/a7c65e9529d9c813ced2ff.webp",
+      "alt": "Самодельная астрономическая труба из очковых стёкол"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Чикин А.А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 6 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2003/9b4a8447e669f93de7d7537250703334"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/a7c65e9529d9c813ced2ff.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2003/9b4a8447e669f93de7d7537250703334"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 88,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39265
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 36,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "f6606a99140ef47e01b7a734fdc94a4f92fa458d3cc6b273b6babe31e43aa8d2",
+  "archiveSnapshotAt": "2026-10-08T08:48:23Z"
+}

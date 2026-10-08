@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/z",
+  "title": "З",
+  "intro": "",
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Закон",
+      "url": "https://cosmatica.org/glossary/139-zakon.html",
+      "description": ""
+    },
+    {
+      "title": "Закон Природы",
+      "url": "https://cosmatica.org/glossary/138-zakon-prirody.html",
+      "description": ""
+    },
+    {
+      "title": "Закон сохранения мощности",
+      "url": "https://cosmatica.org/glossary/137-zakon-sohranenija-moschnosti.html",
+      "description": ""
+    },
+    {
+      "title": "Закон технологического развития",
+      "url": "https://cosmatica.org/glossary/136-zakon-tehnologicheskogo-razvitija.html",
+      "description": ""
+    },
+    {
+      "title": "Закон научно-технического прогресса",
+      "url": "https://cosmatica.org/glossary/135-zakon-nauchno-tehnicheskogo-progressa.html",
+      "description": ""
+    },
+    {
+      "title": "Закон устойчивой неравновесности",
+      "url": "https://cosmatica.org/glossary/134-zakon-ustoichivoi-neravnovesnosti.html",
+      "description": ""
+    },
+    {
+      "title": "Закон возвышения потребностей",
+      "url": "https://cosmatica.org/glossary/133-zakon-vozvyshenija-potrebnostei.html",
+      "description": ""
+    },
+    {
+      "title": "Закон сохранения Жизни",
+      "url": "https://cosmatica.org/glossary/132-zakon-sohranenija-zhizni.html",
+      "description": ""
+    },
+    {
+      "title": "Закон развития Жизни",
+      "url": "https://cosmatica.org/glossary/131-zakon-razvitija-zhizni.html",
+      "description": ""
+    },
+    {
+      "title": "Закон той или иной предметной области",
+      "url": "https://cosmatica.org/glossary/130-zakon-toi-ili-inoi-predmetnoi-oblasti.html",
+      "description": ""
+    },
+    {
+      "title": "Замкнутая система",
+      "url": "https://cosmatica.org/glossary/129-zamknutaja-sistema.html",
+      "description": ""
+    },
+    {
+      "title": "Знание",
+      "url": "https://cosmatica.org/glossary/128-znanie.html",
+      "description": ""
+    },
+    {
+      "title": "Задача",
+      "url": "https://cosmatica.org/glossary/127-zadacha.html",
+      "description": ""
+    },
+    {
+      "title": "Земля",
+      "url": "https://cosmatica.org/glossary/126-zemlja.html",
+      "description": ""
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 298,
+    "storedTextCharacters": 283,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 42174
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 298,
+  "capturedBodyCharacters": 283,
+  "sourceTextSHA256": "96b1f5d77773f76862f9715e6d95562d62fcfcc566af803745363707d1c5b764",
+  "archiveSnapshotAt": "2026-10-08T08:47:29Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 14
+}

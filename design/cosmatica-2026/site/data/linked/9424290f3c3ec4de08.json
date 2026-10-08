@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/40-strategija-razvitija.html",
+  "title": "Стратегия развития",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "стратегия",
+      "spans": [
+        {
+          "text": "стратегия"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", ориентированная на сохране­ние роста производимой полезной мощности преимущественно за счет использования инновационных технологий, удовлетворяющих требованиям к качеству результатов.",
+      "spans": [
+        {
+          "text": ", ориентированная на сохране­ние роста производимой полезной мощности преимущественно за счет использования инновационных технологий, удовлетворяющих требованиям к качеству результатов."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это стратегия , ориентированная на сохране­ние роста производимой полезной мощности преимущественно за счет использования инновационных технологий, удовлетворяющих требованиям к качеству результатов.",
+      "links": [
+        {
+          "title": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 218,
+    "storedTextCharacters": 197,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32383
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 199,
+  "capturedBodyCharacters": 197,
+  "sourceTextSHA256": "2c7714727e1380c8e05191f6fcc30d6df8ee109e9ec2a3d4447e74394fc32078",
+  "archiveSnapshotAt": "2026-10-08T08:46:49Z"
+}

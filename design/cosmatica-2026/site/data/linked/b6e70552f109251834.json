@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/444-probuzhdenie.html",
+  "title": "Пробуждение",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u38/0/1/probuzhdenie-photo-normal.jpg",
+      "alt": "Пробуждение"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга доступна для чтения по адресу:\r\n\r\nhttps://ridero.ru/books/probuzhdenie_15/\r\n\r\nБудем рады Вашей поддержке, отзывам и комментариям.",
+      "spans": [
+        {
+          "text": "Книга доступна для чтения по адресу:\r\n\r\nhttps://ridero.ru/books/probuzhdenie_15/\r\n\r\nБудем рады Вашей поддержке, отзывам и комментариям."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Степан Андреевич Зотов",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга доступна для чтения по адресу: https://ridero.ru/books/probuzhdenie_15/ Будем рады Вашей поддержке, отзывам и комментариям.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u38/0/1/probuzhdenie-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 171,
+    "storedTextCharacters": 135,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 38903
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 159,
+  "capturedBodyCharacters": 135,
+  "sourceTextSHA256": "28279049c9e4450dc8637bf8f5b7e331498e5222ef330475a0c188fc98f4500b",
+  "archiveSnapshotAt": "2026-10-08T08:50:03Z"
+}

@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/654-kosmicheskie-kanikuly-den-pervyi.html",
+  "title": "Космические каникулы - день первый",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Космические каникулы",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/7/kosmicheskie-kanikuly-den-pervyi-photo-normal.jpg",
+      "alt": "Космические каникулы - день первый"
+    },
+    {
+      "type": "paragraph",
+      "text": "После завтрака, несмотря на то, что в лагерь ребята из ДНР приехали ночью, отдыхать не захотели многие: кого манила возможность покататься по ледяной дорожке на \"ватрушке\",",
+      "spans": [
+        {
+          "text": "После завтрака, несмотря на то, что в лагерь ребята из ДНР приехали ночью, отдыхать не захотели многие: кого манила возможность покататься по ледяной дорожке на \"ватрушке\", "
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/4/8/imj9oaxjdiu.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "а кто-то пошел на кружок по изготовлению мягкой игрушки. И даже успел сшить вот такое розовое сердечко.",
+      "spans": [
+        {
+          "text": "а кто-то пошел на кружок по изготовлению мягкой игрушки. И даже успел сшить вот такое розовое сердечко."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/8/4/zcaaah4vzki.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "А ещё всех впечатлил \"Урок мужества\", который провели ветераны войны в Афганистане. Урок был посвящён 30-летию вывода советских войск из Афганистана.",
+      "spans": [
+        {
+          "text": "А ещё всех впечатлил \"Урок мужества\", который провели ветераны войны в Афганистане. Урок был посвящён 30-летию вывода советских войск из Афганистана."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/c/4/whatsapp-image-2020-01-07-at-09-31-48.jpeg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Первый день для детей из ДНР, которые прибыли в Москву в рамках проекта \"Космические каникулы\" увенчался поездкой в Балашиху, в ледовый дворец \"Авангард\", где ребята посмотрели матч Континентальной хоккейной лиги.",
+      "spans": [
+        {
+          "text": "Первый день для детей из ДНР, которые прибыли в Москву в рамках проекта \"Космические каникулы\" увенчался поездкой в Балашиху, в ледовый дворец \"Авангард\", где ребята посмотрели матч Континентальной хоккейной лиги."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/3/f/ajvmxchtths.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "А на площади возле городской ёлки их ждал сюрприз - подарки от \"Ночных волков\", которые прибыли на нескольких празднично украшенных мотоциклах. Помимо подарков, детей пригласили на ёлку в байкерский парк.",
+      "spans": [
+        {
+          "text": " А на площади возле городской ёлки их ждал сюрприз - подарки от \"Ночных волков\", которые прибыли на нескольких празднично украшенных мотоциклах. Помимо подарков, детей пригласили на ёлку в байкерский парк."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/f/e/beajvfceddm.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Первый день \"космических каникул\" удался на славу! Усталые, но довольные ребята отправились отдыхать и готовиться к новым увлекательным и познавательным приключениям следующего дня.",
+      "spans": [
+        {
+          "text": "Первый день \"космических каникул\" удался на славу! Усталые, но довольные ребята отправились отдыхать и готовиться к новым увлекательным и познавательным приключениям следующего дня."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/5/9/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+      "alt": "Космические каникулы - день первый 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/e/3/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+      "alt": "Космические каникулы - день первый 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/4/c/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+      "alt": "Космические каникулы - день первый 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/8/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+      "alt": "Космические каникулы - день первый 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/5/f/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+      "alt": "Космические каникулы - день первый 4"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/7/1/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+      "alt": "Космические каникулы - день первый 5"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/6/7/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+      "alt": "Космические каникулы - день первый 6"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/6/e/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+      "alt": "Космические каникулы - день первый 7"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/d/5/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+      "alt": "Космические каникулы - день первый 8"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/e/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+      "alt": "Космические каникулы - день первый 9"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Первый день познавательно-развлекательного мероприятия для детей и подростков из ДНР.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "После завтрака, несмотря на то, что в лагерь ребята из ДНР приехали ночью, отдыхать не захотели многие: кого манила возможность покататься по ледяной дорожке на \"ватрушке\", а кто-то пошел на кружок по изготовлению мягкой игрушки. И даже успел сшить вот такое розовое сердечко. А ещё всех впечатлил \"Урок мужества\", который провели ветераны войны в Афганистане. Урок был посвящён 30-летию вывода советских войск из Афганистана. Первый день для детей из ДНР, которые прибыли в Москву в рамках проекта \"Космические каникулы\" увенчался поездкой в Балашиху, в ледовый дворец \"Авангард\", где ребята посмотрели матч Континентальной хоккейной лиги. А на площади возле городской ёлки их ждал сюрприз - подарки от \"Ночных волков\", которые прибыли на нескольких празднично украшенных мотоциклах. Помимо подарков, детей пригласили на ёлку в байкерский парк. Первый день \"космических каникул\" удался на славу! Усталые, но довольные ребята отправились отдыхать и готовиться к новым увлекательным и познавательным приключениям следующего дня.",
+      "links": [],
+      "image": "https://cosmatica.org/upload/000/u7/4/8/imj9oaxjdiu.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/c/7/kosmicheskie-kanikuly-den-pervyi-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/4/8/imj9oaxjdiu.jpg",
+    "https://cosmatica.org/upload/000/u7/8/4/zcaaah4vzki.jpg",
+    "https://cosmatica.org/upload/002/u218/c/4/whatsapp-image-2020-01-07-at-09-31-48.jpeg",
+    "https://cosmatica.org/upload/000/u7/3/f/ajvmxchtths.jpg",
+    "https://cosmatica.org/upload/000/u7/f/e/beajvfceddm.jpg",
+    "https://cosmatica.org/upload/000/u7/5/9/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/e/3/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/4/c/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/c/8/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/5/f/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/7/1/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/6/7/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/6/e/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/d/5/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/c/e/kosmicheskie-kanikuly-den-pervyi-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1377,
+    "storedTextCharacters": 1054,
+    "sourceCardCount": 0,
+    "sourceImageCount": 16,
+    "paragraphCount": 11,
+    "sourceBytes": 53630
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1210,
+  "capturedBodyCharacters": 1054,
+  "sourceTextSHA256": "0565110bb4f2b513d980db84056e89ddf40d88ab1fc9e01e3398f87beabb8fb5",
+  "archiveSnapshotAt": "2026-10-08T09:12:54Z"
+}

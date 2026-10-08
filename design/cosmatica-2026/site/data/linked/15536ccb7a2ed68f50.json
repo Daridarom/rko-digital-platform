@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/419",
+  "title": "Татьяна Михайловна Дмитриева",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/7/d/bc918a79.jpg",
+      "alt": "Татьяна Михайловна Дмитриева"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/7/6/aeabe844.jpg",
+      "alt": "Татьяна Михайловна Дмитриева"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Директор МАУДО ДЮЦ «На Комсомольской», г. Калининград.",
+      "spans": [
+        {
+          "text": "Директор МАУДО ДЮЦ «На Комсомольской», г. Калининград."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Калининградская область",
+      "links": [
+        {
+          "title": "Калининградская область",
+          "url": "https://cosmatica.org/departments/20-kaliningradskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Директор МАУДО ДЮЦ «На Комсомольской», г. Калининград.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/7/d/bc918a79.jpg",
+    "https://cosmatica.org/upload/000/u35/7/6/aeabe844.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 153,
+    "storedTextCharacters": 87,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35035
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 99,
+  "capturedBodyCharacters": 87,
+  "sourceTextSHA256": "05434f96fa849aa1210371815d1dc1d182f30119aa0d2093ec72b3aeb6216157",
+  "archiveSnapshotAt": "2026-10-08T09:19:37Z"
+}

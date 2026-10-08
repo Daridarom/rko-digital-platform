@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/757",
+  "title": "Новак Юрий Гафарович",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/a/abb8eac7.jpg",
+      "alt": "Новак Юрий Гафарович"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/6/0/fb733a98.jpg",
+      "alt": "Новак Юрий Гафарович"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 5 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Директор Макеевского учреждения дополнительного образования «Станция юных техников» г.Макеевки\"",
+      "spans": [
+        {
+          "text": "Директор Макеевского учреждения дополнительного образования «Станция юных техников» г.Макеевки\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель судомодельного клуба «Нептун»",
+      "spans": [
+        {
+          "text": "Председатель судомодельного клуба «Нептун»"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Судья международной категории, Отличник физической культуры и спорта Донецкой Народной Республики",
+      "spans": [
+        {
+          "text": "Судья международной категории, Отличник физической культуры и спорта Донецкой Народной Республики"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Как тренер подготовил Мастеров спорта международного класса – 20 чел., Мастеров спорта – 15 чел., много разрядников.",
+      "spans": [
+        {
+          "text": "Как тренер подготовил Мастеров спорта международного класса – 20 чел., Мастеров спорта – 15 чел., много разрядников."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Женат, четверо детей",
+      "spans": [
+        {
+          "text": "Женат, четверо детей"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Донецкая республика",
+      "links": [
+        {
+          "title": "Донецкая республика",
+          "url": "https://cosmatica.org/departments/23-doneckaja-respublika.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Многодетность:",
+      "value": "Да",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Директор Макеевского учреждения дополнительного образования «Станция юных техников» г.Макеевки\" Председатель судомодельного клуба «Нептун» Судья международной категории, Отличник физической культуры и спорта Донецкой Народной Республики Как тренер подготовил Мастеров спорта международного класса – 20 чел., Мастеров спорта – 15 чел., много разрядников. Женат, четверо детей",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/a/abb8eac7.jpg",
+    "https://cosmatica.org/upload/002/u218/6/0/fb733a98.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 479,
+    "storedTextCharacters": 403,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35950
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 433,
+  "capturedBodyCharacters": 403,
+  "sourceTextSHA256": "458d936145ec8ebe4f64c2dca015d0507e0c0c5a1636f27aa1004251f6ed8a3a",
+  "archiveSnapshotAt": "2026-10-08T09:22:04Z"
+}

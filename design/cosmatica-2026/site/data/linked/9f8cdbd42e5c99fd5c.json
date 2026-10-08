@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/435-dobro-pozhalovat-na-tropu.html",
+  "title": "Добро пожаловать на Тропу!",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Тропа Мужества",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/0/d/dobro-pozhalovat-na-tropu-photo-normal.jpg",
+      "alt": "Добро пожаловать на Тропу!"
+    },
+    {
+      "type": "paragraph",
+      "text": "«Тропа Мужества» — пеший комплексный марафон, позволяющий проверить и изменить себя.",
+      "spans": [
+        {
+          "text": "«Тропа Мужества» ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "— пеший комплексный марафон, позволяющий проверить и изменить себя.\r\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "22 июня 2019 года соревнования будут проводиться в районе с. Ворсино Боровского района на границе Московской и Калужской областей.",
+      "spans": [
+        {
+          "text": "\r\n\t\t22 июня 2019 года соревнования будут проводиться в районе с. Ворсино Боровского района на границе Московской и Калужской областей. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Дистанции:",
+      "spans": [
+        {
+          "text": "\r\n\t\tДистанции: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- 15 км до 1 КТ и обратно (детская);",
+      "spans": [
+        {
+          "text": "\r\n\t\t- 15 км до 1 КТ и обратно (детская); "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- ~45 км верхняя петля (начальная дистанция);",
+      "spans": [
+        {
+          "text": "\r\n\t\t- ~45 км верхняя петля (начальная дистанция); "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- ~70 км две петли (базовая);",
+      "spans": [
+        {
+          "text": "\r\n\t\t- ~70 км две петли (базовая); "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- ~110 км две петли + верхняя (марафонская дистанция).",
+      "spans": [
+        {
+          "text": "\r\n\t\t- ~110 км две петли + верхняя (марафонская дистанция). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Масс-старт для дистанций 110 км, 70 км и 45 км в 4:00.",
+      "spans": [
+        {
+          "text": "\r\n\t\tМасс-старт для дистанций 110 км, 70 км и 45 км в 4:00. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Старт детской дистанции в 09:00.",
+      "spans": [
+        {
+          "text": "\r\n\t\tСтарт детской дистанции в 09:00. \r\n\t"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сайт: www.natrope.com",
+      "spans": [
+        {
+          "text": "\r\n\t\t\tСайт: www.natrope.com"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Положение о соревнованиях: www.natrope.com/rules.html",
+      "spans": [
+        {
+          "text": "\r\n\t\t\tПоложение о соревнованиях: www.natrope.com/rules.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Контакты: www.natrope.com/contacts.html",
+      "spans": [
+        {
+          "text": "\r\n\t\t\tКонтакты: www.natrope.com/contacts.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ЗАРЕГИСТРИРОВАТЬСЯ НА МЕРОПРИЯТИЕ",
+      "spans": [
+        {
+          "text": "ЗАРЕГИСТРИРОВАТЬСЯ НА МЕРОПРИЯТИЕ ",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Открыта предварительная электронная регистрация на \"Тропу мужества\" Лето 2019.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "«Тропа Мужества» — пеший комплексный марафон, позволяющий проверить и изменить себя. 22 июня 2019 года соревнования будут проводиться в районе с. Ворсино Боровского района на границе Московской и Калужской областей. Дистанции: - 15 км до 1 КТ и обратно (детская); - ~45 км верхняя петля (начальная дистанция); - ~70 км две петли (базовая); - ~110 км две петли + верхняя (марафонская дистанция). Масс-старт для дистанций 110 км, 70 км и 45 км в 4:00. Старт детской дистанции в 09:00. Сайт: www.natrope.com Положение о соревнованиях: www.natrope.com/rules.html Контакты: www.natrope.com/contacts.html ЗАРЕГИСТРИРОВАТЬСЯ НА МЕРОПРИЯТИЕ",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/0/d/dobro-pozhalovat-na-tropu-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 967,
+    "storedTextCharacters": 646,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 13,
+    "sourceBytes": 47895
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 814,
+  "capturedBodyCharacters": 646,
+  "sourceTextSHA256": "5989838d2fe50f2e7690438733b246e882f8f91f5dae48e8562c0946fb70d6fc",
+  "archiveSnapshotAt": "2026-10-08T09:11:49Z"
+}

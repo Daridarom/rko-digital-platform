@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/10-sobranie-literaturnogo-kluba.html",
+  "title": "Собрание Литературного клуба #Поэзия Русского Космизма",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/28/f1/sobranie-literaturnogo-kluba-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Очередное собрание литературного клуба РКО состоится 23-го мая в 19-00. Зявки для участия оставлять здесь https://vk.com/cosmaticapoetryclub",
+      "spans": [
+        {
+          "text": "Очередное собрание литературного клуба РКО состоится 23-го мая в 19-00. Зявки для участия оставлять здесь https://vk.com/cosmaticapoetryclub"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Очередное собрание литературного клуба РКО состоится 23-го мая в 19-00. Зявки для участия оставлять здесь https://vk.com/cosmaticapoetryclub",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/28/f1/sobranie-literaturnogo-kluba-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 279,
+    "storedTextCharacters": 140,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 38100
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 279,
+  "capturedBodyCharacters": 140,
+  "sourceTextSHA256": "8d1a241acf1488d9c84f3bbeb6f309c20581ceb5c61e54325e3e1212afdc15aa",
+  "archiveSnapshotAt": "2026-10-08T09:14:49Z"
+}

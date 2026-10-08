@@ -1,23 +1,30 @@
-import {createRichBlocks,createArticle,createEvent,createProject} from './rich-renderer.mjs';
+import {createRichBlocks,createArticle,createEvent,createProject} from './rich-renderer.mjs?v=archive86';
 
 /* The content is static, reviewed separately, and contains no executable HTML. */
 const qs=new URLSearchParams(location.search);
 const slug=qs.get('p')||'home';
 const ref=qs.get('ref')||'';
-const blocked=new Set(['login','register','restore','search','search-results','donate']);
+const blocked=new Set(['login','register','restore','search','search-results']);
 const body=document.querySelector('#main');
 const el=(tag,cls='',value=null)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(value!=null)n.textContent=String(value);return n;};
 const localImage=value=>{
  if(typeof value!=='string')return null;
- if(value.startsWith('assets/source/'))return value;
- // Original public images may remain on the RKO server. Never proxy files or private URLs.
- try{const uri=new URL(value);return uri.protocol==='https:'&&uri.hostname==='cosmatica.org'&&/^\/(upload|images)\//.test(uri.pathname)?uri.href:null;}catch{return null;}
+ if(/^assets\/source\/[a-z0-9._-]+\.(?:webp|png|jpe?g|gif|svg)$/i.test(value))return value;
+ // Preserve the exact public image source, including externally hosted images
+ // on the original RKO pages. Reject private networks, credentials and scripts.
+ try{
+  const uri=new URL(value);
+  if(uri.protocol!=='https:'||uri.username||uri.password||uri.port)return null;
+  if(!uri.hostname.includes('.')||/^(?:localhost|127\.|10\.|192\.168\.|169\.254\.|172\.(?:1[6-9]|2[0-9]|3[01])\.)/i.test(uri.hostname))return null;
+  return uri.href;
+ }catch{return null;}
 };
 const originalDownload=value=>{
  if(typeof value!=='string')return null;
  try{const uri=new URL(value);return uri.protocol==='https:'&&uri.hostname==='cosmatica.org'&&/^\/files\/download\/\d+\/[a-z0-9]+$/i.test(uri.pathname)?uri.href:null;}catch{return null;}
 };
 function listingHref(item,index){
+ if(item?.href&&/^view\.html\?p=[a-z0-9-]+(?:&(?:ref=[a-f0-9]{18}|id=[a-z0-9_-]+))?$/.test(item.href))return item.href;
  const info=index[item?.url];if(!info||info.status!=='ready')return null;
  if(info.alias){
   const slug=info.file?.split('/').pop()?.replace('.json','');
@@ -53,24 +60,46 @@ function facts(data){
 function listView(data,index){
  if(!data.cards?.length)return null;
  const sec=el('section','source-listing source-listing--'+(data.slug||'section'));
- const top=el('div','source-filterbar');
- const lab=el('label','source-filterlabel','Поиск в разделе');
+ const across=data.slug==='archive';
+ const top=el(across?'form':'div','source-filterbar'+(across?' source-filterbar-global':''));
+ const lab=el('label','source-filterlabel',across?'Поиск по всему разделу':'Фильтр карточек на этой странице');
  const input=el('input','source-filter-input');
- input.type='search';input.placeholder='Название, тема или город';input.setAttribute('aria-label','Поиск по материалам раздела');
+ input.type='search';input.placeholder=across?'Слово или фраза во всех материалах':'Название или тема';
+ input.setAttribute('aria-label',across?'Поиск по всем материалам раздела':'Фильтр карточек на текущей странице');
  lab.append(input);
- const count=el('output','source-filter-count','Материалов: '+data.cards.length);count.setAttribute('aria-live','polite');
- top.append(lab,count);sec.append(top);
+ const count=el('output','source-filter-count',across?'На странице: '+data.cards.length:'Показано: '+data.cards.length);count.setAttribute('aria-live','polite');
+ top.append(lab);
+ if(across){
+  const btn=el('button','source-filter-submit','Найти');
+  btn.type='submit';top.append(btn);
+  top.addEventListener('submit',event=>{
+   event.preventDefault();
+   const q=input.value.trim();
+   if(!q){input.focus();return;}
+   location.href='view.html?p=search-results&q='+encodeURIComponent(q)+'&section='+encodeURIComponent(data.archiveSection||'all');
+  });
+ }else top.append(count);
+ sec.append(top);
  const grid=el('div','source-grid');const rows=[];
  for(const card of data.cards){
   const href=listingHref(card,index);
-  const item=el(href?'a':'article','source-card'+(localImage(card.image)?' source-card--media':''));
+  const missingCover=!localImage(card.image)&&(data.slug==='library'||(data.slug==='archive'&&data.archiveSection==='library'&&card.kind==='book'));
+  const item=el(href?'a':'article','source-card'+((localImage(card.image)||missingCover)?' source-card--media':'')+(missingCover?' source-card--missing-cover':''));
   if(href)item.href=href;
   const media=localImage(card.image);
   if(media){
    const wrap=el('div','source-card-media'),image=el('img');
    image.src=media;image.loading='lazy';image.alt=card.title||'';
-   image.addEventListener('error',()=>wrap.remove());
+   image.addEventListener('error',()=>{
+    if(missingCover||data.slug==='library'||(data.slug==='archive'&&data.archiveSection==='library'&&card.kind==='book')){
+     wrap.replaceChildren(el('span','book-cover-placeholder','Обложка временно недоступна'));
+    }else wrap.remove();
+   });
    wrap.append(image);item.append(wrap);
+  }else if(missingCover){
+   const wrap=el('div','source-card-media');
+   wrap.append(el('span','book-cover-placeholder','Обложка не представлена'));
+   item.append(wrap);
   }
   const inner=el('div','source-card-copy');
   // Source card text sometimes combines title, #project, date and a comment counter.
@@ -99,23 +128,56 @@ function listView(data,index){
   item.append(inner);grid.append(item);
   rows.push([item,(card.title+' '+(card.description||'')).toLocaleLowerCase('ru')]);
  }
- input.addEventListener('input',()=>{
+ if(!across)input.addEventListener('input',()=>{
   let visible=0;const q=input.value.trim().toLocaleLowerCase('ru');
   rows.forEach(([item,text])=>{item.hidden=!!q&&!text.includes(q);if(!item.hidden)visible++;});
-  count.textContent='Найдено: '+visible;
+  count.textContent=(data.slug==='archive'?'Найдено на странице: ':'Найдено: ')+visible;
  });
  sec.append(grid);return sec;
+}
+function listingIntroduction(data){
+ // CMS listing templates embed copies of the same cards below their own list.
+ // Render only genuinely introductory prose before the first repeated listing item.
+ // All source blocks remain intact in JSON; detail pages supply full content.
+ const cards=data.cards||[];
+ if(!cards.length)return data.blocks||[];
+ const headings=new Set(cards.map(c=>String(c.title||'').normalize('NFKC').trim().toLocaleLowerCase('ru')));
+ const images=new Set(cards.map(c=>c.image).filter(Boolean));
+ const lead=[];
+ for(const block of data.blocks||[]){
+  if(block.type==='image'){
+   if(images.has(block.src)||lead.length===0)break;
+   break;
+  }
+  if(block.type==='heading'){
+   const value=String(block.text||'').normalize('NFKC').trim().toLocaleLowerCase('ru');
+   if(headings.has(value)||lead.length>0)break;
+   continue;
+  }
+  if(!['paragraph','quote','list'].includes(block.type))break;
+  if(block.type==='list')break; // Legacy filter/pagination navigation, not editorial text.
+  if(String(block.text||'').trim().length<25)continue;
+  lead.push(block);
+ }
+ return lead;
 }
 function getRich(data,type,index){
  // Reconnect approved legacy hyperlinks to local records; never send users
  // back to the old CMS or make an unsupported destination clickable.
  const blocks=(data.blocks||[])
-  .filter(x=>x.type!=='image'||localImage(x.src))
+  .filter(x=>(x.type!=='image'||localImage(x.src))&&!(type==='book'&&x.type==='image'&&x.src===(data.images||[])[0]))
   .map(block=>!Array.isArray(block.spans)?block:{
    ...block,spans:block.spans.map(span=>{
     if(!span.href)return span;
     const href=listingHref({url:span.href.split('#')[0]},index);
-    return {...span,href:href||null};
+    if(href)return {...span,href};
+    // Keep intentional HTTPS references to independent public websites.
+    // Links back to the old RKO CMS must resolve locally or stay plain text.
+    try{const uri=new URL(span.href);
+     if(uri.protocol==='https:'&&uri.hostname!=='cosmatica.org'&&uri.hostname!=='www.cosmatica.org')
+      return {...span,href:uri.href};
+    }catch{}
+    return {...span,href:null};
    })
   });
  data={...data,blocks};
@@ -151,17 +213,21 @@ function gallery(data){
  const images=[...new Set((data.images||[]).filter(localImage))];
  const inText=new Set([...(data.blocks||[]).filter(b=>b.type==='image').map(b=>b.src),...(data.cards||[]).map(c=>c.image)]);
  const additional=images.filter(x=>!inText.has(x));
- if(!additional.length)return null;
+ // One unrelated image is not a gallery. Listings already have cover art.
+ if(additional.length<2)return null;
  const view=el('details','source-gallery-disclosure');
- view.append(el('summary','','Дополнительные фотографии ('+additional.length+')'));
+ view.append(el('summary','','Фотоматериалы к публикации · '+additional.length));
+ const explanation=el('p','source-gallery-hint','Дополнительные изображения исходной публикации. Выберите изображение, чтобы открыть его полностью.');
  const grid=el('div','source-gallery');
- for(const path of additional){
-  const figure=el('figure','source-gallery-item'),image=el('img');
-  image.src=path;image.loading='lazy';image.alt='Иллюстрация раздела';
+ additional.forEach((path,i)=>{
+  const figure=el('figure','source-gallery-item'),link=el('a','source-gallery-link'),image=el('img');
+  link.href=path;link.target='_blank';link.rel='noopener noreferrer';
+  link.setAttribute('aria-label','Открыть изображение '+(i+1)+' полностью');
+  image.src=path;image.loading='lazy';image.alt='Иллюстрация '+(i+1)+' к материалу '+String(data.title||'РКО');
   image.addEventListener('error',()=>figure.remove());
-  figure.append(image);grid.append(figure);
- }
- view.append(grid);return view;
+  link.append(image);figure.append(link,el('figcaption','source-gallery-caption','Изображение '+(i+1)+' из '+additional.length));grid.append(figure);
+ });
+ view.append(explanation,grid);return view;
 }
 function documents(data){
  if(!data.documents?.length)return null;
@@ -174,6 +240,62 @@ function documents(data){
  }
  return section;
 }
+async function renderArchive(){
+ const sectionName=(qs.get('section')||'all').trim();
+ const sectionsResponse=await fetch('data/archive/sections.json?v=archive75');
+ if(!sectionsResponse.ok){notFound();return;}
+ const sections=await sectionsResponse.json();
+ const selected=sections.find(x=>x.key===sectionName);
+ if(!selected){notFound();return;}
+ const requested=Number(qs.get('page')||1);
+ if(!Number.isSafeInteger(requested)||requested<1||requested>selected.pages){notFound();return;}
+ const pageResponse=await fetch('data/archive/catalog/'+sectionName+'/'+requested+'.json?v=archive86');
+ if(!pageResponse.ok){notFound();return;}
+ const data=await pageResponse.json();
+ if(data.slug!=='archive'||data.archiveSection!==sectionName||!Array.isArray(data.cards)){notFound();return;}
+ const link=(key,n=1)=>'view.html?p=archive&section='+encodeURIComponent(key)+'&page='+n;
+ const wrapper=el('section','section source-page source-page--archive source-page--archive-'+sectionName);
+ const container=el('div','shell');
+ container.append(heading(data));
+ const categories=el('nav','source-archive-categories');
+ categories.setAttribute('aria-label','Разделы публичного архива');
+ for(const cat of sections){
+  if(!cat.count)continue;
+  const a=el('a','source-archive-category'+(sectionName===cat.key?' active':''),
+   cat.title+' ('+cat.count.toLocaleString('ru')+')');
+  a.href=link(cat.key);
+  if(sectionName===cat.key)a.setAttribute('aria-current','page');
+  categories.append(a);
+ }
+ container.append(categories);
+ const summary=el('p','source-archive-summary','Материалов в текущей версии архива: '+data.total.toLocaleString('ru')+
+   ' · Страница '+requested+' из '+data.pageCount);
+ container.append(summary);
+ const grid=listView(data,{});
+ if(grid)container.append(grid);
+ else container.append(el('p','source-archive-empty',
+   'В этой версии каталога пока нет сохранённых публичных материалов.'));
+ if(data.pageCount>1){
+  const pages=el('nav','source-search-pages source-archive-pages');
+  pages.setAttribute('aria-label','Страницы архива');
+  const add=(label,num,current=false)=>{
+   const a=el('a',current?'active':'',label);a.href=link(sectionName,num);
+   if(current)a.setAttribute('aria-current','page');
+   pages.append(a);
+  };
+  if(requested>1){add('« Первая',1);add('‹',requested-1);}
+  for(let n=Math.max(1,requested-2);n<=Math.min(data.pageCount,requested+2);n++)add(String(n),n,n===requested);
+  if(requested<data.pageCount){add('›',requested+1);add('Последняя »',data.pageCount);}
+  container.append(pages);
+ }
+ wrapper.append(container);
+ const breadcrumb=el('nav','crumbs');
+ breadcrumb.setAttribute('aria-label','Путь по сайту');
+ const home=el('a','','Главная');home.href='index.html';
+ breadcrumb.append(home,document.createTextNode(' → '),el('span','',data.title));
+ body.replaceChildren(breadcrumb,wrapper);
+ document.title=data.title+' — Архив РКО';
+}
 function notFound(){
  const section=el('section','section source-page source-not-found');
  const content=el('div','shell');
@@ -185,6 +307,18 @@ function notFound(){
 }
 async function run(){
  if(!body||blocked.has(slug)||qs.get('layout')==='full')return;
+ if(slug==='donate'){
+  const source=await fetch('data/source/donate.json?v=fullarchive67');
+  if(source.ok){
+   const content=await source.json();
+   const intro=body.querySelector('.donate-intro');
+   if(intro&&Array.isArray(content.blocks)&&content.blocks.length){
+    intro.replaceChildren(createRichBlocks(content.blocks));
+   }
+  }
+  return;
+ }
+ if(slug==='archive'){await renderArchive();return;}
  if(ref&&!/^[a-f0-9]{18}$/.test(ref)){notFound();return;}
  let file=ref?'linked/'+ref+'.json':'source/'+slug+'.json';
  const indexResult=await fetch('data/linked-index.json');
@@ -226,19 +360,66 @@ async function run(){
  if(['about','direction'].includes(slug)&&!data.blocks.length&&!data.cards.length){notFound();return;}
  const section=el('section','section source-page source-page--'+(data.slug||slug)),inner=el('div','shell');
  inner.append(heading(data));
- const info=facts(data);if(info)inner.append(info);
- const cards=listView(data,index);if(cards)inner.append(cards);
- if(data.blocks.length){
-  if(cards)inner.append(el('h2','source-section-title','Содержание раздела'));
-  inner.append(getRich(data,data.slug||slug,index));
+ const info=facts(data);
+ const cover=(data.slug==='book'&&(!data.cards||!data.cards.length))?localImage((data.images||[])[0]):null;
+ if(data.slug==='book'){
+  const overview=el('section','book-detail-overview');
+  const visual=el('figure','book-detail-cover'),img=el('img');
+  if(cover){
+   img.src=cover;img.loading='eager';img.alt='Обложка книги «'+String(data.title||'РКО')+'»';
+   img.addEventListener('error',()=>{img.remove();visual.prepend(el('span','book-cover-placeholder','Обложка временно недоступна'));});
+   visual.append(img,el('figcaption','','Обложка издания'));
+  }else visual.append(el('span','book-cover-placeholder','Обложка не представлена'));
+  const details=el('div','book-detail-metadata');
+  if(info)details.append(info);
+  details.append(el('p','book-detail-note','Файл книги хранится на сервере Русского космического общества.'));
+  overview.append(visual,details);inner.append(overview);
+ }else if(info)inner.append(info);
+ const hasListing=Array.isArray(data.cards)&&data.cards.length>0;
+ if(hasListing){
+  const intro=listingIntroduction(data);
+  if(intro.length){
+   const about=el('section','source-listing-intro');
+   about.append(createRichBlocks(intro));
+   inner.append(about);
+  }
  }
- const photos=gallery(data);if(photos)inner.append(photos);
+ const cards=listView(data,index);if(cards)inner.append(cards);
+ if(!ref&&!qs.has('item')){
+  const archiveSections={news:'news',poster:'poster',projects:'projects',library:'library',users:'users',
+   'articles-list':'articles',articles:'articles',departments:'departments',partners:'partners',
+   collegium:'collegium','about-info':'about'};
+  const name=archiveSections[slug];
+  if(name){const a=el('a','source-document source-archive-all-link','Все материалы раздела →');
+   a.href='view.html?p=archive&section='+name;inner.append(a);}
+ }
+ // A listing is already the public archive representation. Do not render its
+ // repeated headings, previews, thumbnails and expansion blocks a second time.
+ if(!hasListing&&data.blocks.length){
+  const content=getRich(data,data.slug||slug,index);
+  const headings=[...content.querySelectorAll('h2,h3')].filter(h=>h.textContent.trim().length>3);
+  if(headings.length>=5){
+   const nav=el('nav','source-article-toc');
+   nav.setAttribute('aria-label','Разделы материала');
+   nav.append(el('p','source-article-toc-title','В этом материале'));
+   const links=el('div','source-article-toc-links');
+   headings.slice(0,24).forEach((h,i)=>{
+    const id='content-heading-'+(i+1);h.id=id;
+    const link=el('a','',''+h.textContent.trim());link.href='#'+id;
+    links.append(link);
+   });
+   nav.append(links);inner.append(nav);
+  }
+  inner.append(content);
+ }
+ const photos=(!hasListing&&slug!=='home'&&!ref?gallery(data):!hasListing&&ref?gallery(data):null);if(photos)inner.append(photos);
  const docs=documents(data);if(docs)inner.append(docs);
  section.append(inner);
  if(slug==='home'&&!ref){
-  const more=el('details','source-home-archive');
-  more.append(el('summary','','Дополнительные материалы главной страницы'),section);
-  body.append(more);
+  // The historical homepage snapshot contains duplicate navigation, hundreds of
+  // repeated listing titles and uncaptained images. Keep full source JSON for CMS
+  // handoff but never append it as an unrelated giant accordion to the homepage.
+  return;
  }else if(slug==='calendar'&&!ref)body.append(section);
  else{
   const crumbs=el('nav','crumbs');crumbs.setAttribute('aria-label','Путь по сайту');

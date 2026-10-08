@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "glossary",
+  "title": "Глоссарий",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 4,
+  "pageCount": 16,
+  "total": 236,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Логическая связь",
+      "description": ", существующая между исходными и выводимы­ми утверждениями, в форме умозаключений: дедукция, индукция и аналогия. Такая связь соединяет только рядом стоящие объекты.",
+      "url": "https://cosmatica.org/glossary/175-logicheskaja-svjaz.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=4912c05f0167c6a943",
+      "type": "article",
+      "sourceCharacters": 171,
+      "verified": false
+    },
+    {
+      "title": "Словесно-вербальная связь",
+      "description": "словесно сформулированное утверждение, которое устанавливает",
+      "url": "https://cosmatica.org/glossary/174-slovesno-verbalnaja-svjaz.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=2c1e20e16bb0fb2385",
+      "type": "article",
+      "sourceCharacters": 167,
+      "verified": false
+    },
+    {
+      "title": "Следствия",
+      "description": "предсказания: выводы, полученные по правилам теории. Этапы создания прикладной научной теории: Обоснование системы мер. Формирование языка. Обоснование исходных предположений – постулатов. Формирование аксиоматики. Обоснование правил – критериев вывода следствий. Разработка алгоритмов получения следствий. Получение следствий – предсказаний.",
+      "url": "https://cosmatica.org/glossary/173-sledstvija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=6c0807e42b9b6d2f86",
+      "type": "article",
+      "sourceCharacters": 342,
+      "verified": false
+    },
+    {
+      "title": "Правила вывода",
+      "description": "методы (модели, алгоритмы) получения следствий – предсказаний теории, не противоречащих исходным принципам тео­рии.",
+      "url": "https://cosmatica.org/glossary/172-pravila-vyvoda.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=07ce31b57acce31bd6",
+      "type": "article",
+      "sourceCharacters": 115,
+      "verified": false
+    },
+    {
+      "title": "Обобщающая форма знания",
+      "description": "Обобщающей формой знания, дающего понимание, является",
+      "url": "https://cosmatica.org/glossary/171-obobschayuschaja-forma-znanija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=60ecebce021c43096e",
+      "type": "article",
+      "sourceCharacters": 173,
+      "verified": false
+    },
+    {
+      "title": "Инвариант процесса исторического развития",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/170-invariant-processa-istoricheskogo-razvitija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=53162af36d19741d8c",
+      "type": "article",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Инвариант в математике",
+      "description": "функция от координат преобразуемой ве­личины, не изменяющая своего значения при данной совокупности преобразования этой величины.",
+      "url": "https://cosmatica.org/glossary/169-invariant-v-matematike.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=1c16fcc1a2502b53f5",
+      "type": "article",
+      "sourceCharacters": 129,
+      "verified": false
+    },
+    {
+      "title": "Инвариант в физике",
+      "description": ", принцип, не меняющийся при перехо­де от одного объекта к другому в определенном классе объектов. В",
+      "url": "https://cosmatica.org/glossary/168-invariant-v-fizike.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=f84d4209528c0c819b",
+      "type": "article",
+      "sourceCharacters": 178,
+      "verified": false
+    },
+    {
+      "title": "Временные (переменные) аксиомы",
+      "description": "неявные аксиомы или условия, границы применения, ограничения теории.",
+      "url": "https://cosmatica.org/glossary/167-vremennye-peremennye-aksiomy.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=ac2630b25c3bd48553",
+      "type": "article",
+      "sourceCharacters": 68,
+      "verified": false
+    },
+    {
+      "title": "Тенденция",
+      "description": "приобретает статус закономерности, если установлена ее",
+      "url": "https://cosmatica.org/glossary/166-tendencija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=3539e046649c9fd045",
+      "type": "article",
+      "sourceCharacters": 71,
+      "verified": false
+    },
+    {
+      "title": "Платформа rko.nbics.net",
+      "description": "Первая в мире платформа , которая представляет собой процесс конвергентного сетевого взаимодействия различных субъектов, объектов и ресурсов , объединённых единой целью.",
+      "url": "https://cosmatica.org/glossary/165-platforma-rko-nbics-net.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=0f2ef7dd12f65608dd",
+      "type": "article",
+      "sourceCharacters": 169,
+      "verified": false
+    },
+    {
+      "title": "Антидиссипативные процессы",
+      "description": "процессы накопления, доминируют процессы удаления от равновесия и накопления свободной энергии; способность системы совершать внешнюю работу растет во времени, а",
+      "url": "https://cosmatica.org/glossary/164-antidissipativnye-processy.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=a6ae3f44885f876bf6",
+      "type": "article",
+      "sourceCharacters": 186,
+      "verified": false
+    },
+    {
+      "title": "Алгоритм",
+      "description": "работ и связей между ними, соединяющая исхо­дную, конечную и требуемую системы координат, записанная на логи­ческом языке.",
+      "url": "https://cosmatica.org/glossary/163-algoritm.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=edf2e07efbe9295443",
+      "type": "article",
+      "sourceCharacters": 131,
+      "verified": false
+    },
+    {
+      "title": "Алфавит теории",
+      "description": "упорядоченный список символов (букв и знаков), которые будут использоваться для написания текстов теории.",
+      "url": "https://cosmatica.org/glossary/162-alfavit-teorii.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=e22a611a79da1a7a51",
+      "type": "article",
+      "sourceCharacters": 105,
+      "verified": false
+    },
+    {
+      "title": "База знаний",
+      "description": "понятий, логически увязанных между собой и допускающих преобразования по опреде­ленным правилам.",
+      "url": "https://cosmatica.org/glossary/161-baza-znanii.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=974a6927a32859ba36",
+      "type": "article",
+      "sourceCharacters": 125,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

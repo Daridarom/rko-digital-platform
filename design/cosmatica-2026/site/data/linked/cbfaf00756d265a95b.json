@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/48-3-e-rabochee-sobranie-sankt-peterburgskogo-otdelenija-rko.html",
+  "title": "3-е рабочее собрание Санкт-Петербургского отделения РКО",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/05/56/3-e-rabochee-sobranie-sankt-peterburgskogo-otdelenija-rko-photo-bi.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "3-е открытое рабочее собрание СПбО РКО",
+      "spans": [
+        {
+          "text": "3-е открытое рабочее собрание СПбО РКО "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Подведение итогов за полгода. Обсуждение планов и перспективных проектов.",
+      "spans": [
+        {
+          "text": "Подведение итогов за полгода. Обсуждение планов и перспективных проектов."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "3-е открытое рабочее собрание СПбО РКО Подведение итогов за полгода. Обсуждение планов и перспективных проектов.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u21/05/56/3-e-rabochee-sobranie-sankt-peterburgskogo-otdelenija-rko-photo-bi.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 257,
+    "storedTextCharacters": 111,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 37769
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 257,
+  "capturedBodyCharacters": 111,
+  "sourceTextSHA256": "5c273a6db9e269287d7c717a4a9a5dc153eef75acfdbcd2ebd7fec7fedaee4b9",
+  "archiveSnapshotAt": "2026-10-08T09:16:03Z"
+}

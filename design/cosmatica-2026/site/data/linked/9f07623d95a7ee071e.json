@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/obrazovanie",
+  "title": "Образование",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "Древлесловенская буквица",
+          "Щербаков А.В.",
+          ""
+        ],
+        [
+          "",
+          "Будь мужчиной",
+          "Среднеуральское книжное издательство",
+          ""
+        ],
+        [
+          "",
+          "Занимательная арифметика",
+          "Перельман. Я. И.",
+          ""
+        ],
+        [
+          "",
+          "Занимательная алгебра",
+          "Перельман Я. И.",
+          ""
+        ],
+        [
+          "",
+          "Занимательная физиология",
+          "Проф. Никольский А. М.",
+          ""
+        ],
+        [
+          "",
+          "Занимательная зоология",
+          "Проф. Никольский А. М",
+          ""
+        ],
+        [
+          "",
+          "Занимательная техника в прошлом",
+          "Лебедев В. И.",
+          ""
+        ],
+        [
+          "",
+          "Занимательная авиация",
+          "Вейгелин К. Е.",
+          ""
+        ],
+        [
+          "",
+          "Занимательная география",
+          "Проф. Аржанов С. П.",
+          ""
+        ],
+        [
+          "",
+          "Книга юного техника",
+          "Л.Киселёв, Э.Микиртумов, П.Хлебников, Ф.Честнов",
+          ""
+        ],
+        [
+          "",
+          "Задачи повышенной трудности в курсе алгебры 7-9 классов",
+          "Кострикина Н. П.",
+          ""
+        ],
+        [
+          "",
+          "Внеклассная работа по математике в 4-5 классах",
+          "Чесноков А. С., Шварцбурд С. И., Головина В. Д.",
+          ""
+        ],
+        [
+          "",
+          "Учебное пособие для углубленного изучения математики в 7-м классе",
+          "Пыжова Т. А., Лупенко Г. В., Масленникова И. А.",
+          ""
+        ],
+        [
+          "",
+          "Удивительная физика",
+          "Асламазов Л. Г., Варламов А.А.",
+          ""
+        ],
+        [
+          "",
+          "Популярная логика и занимательные задачи",
+          "Гусев Д. А.",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/d/9/drevneslovenskaja-bukvica-photo-small.jpg",
+      "alt": "Древлесловенская буквица"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/2/3/bud-muzhchinoi-photo-small.jpg",
+      "alt": "Будь мужчиной"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/e/zanimatelnaja-arifmetika-photo-small.jpg",
+      "alt": "Занимательная арифметика"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/4/zanimatelnaja-algebra-photo-small.jpg",
+      "alt": "Занимательная алгебра"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/b/zanimatelnaja-fiziologija-photo-small.jpg",
+      "alt": "Занимательная физиология"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/9/zanimatelnaja-zoologija-photo-small.jpg",
+      "alt": "Занимательная зоология"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/a/a/zanimatelnaja-tehnika-v-proshlom-photo-small.jpg",
+      "alt": "Занимательная техника в прошлом"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/5/zanimatelnaja-aviacija-photo-small.jpg",
+      "alt": "Занимательная авиация"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/a/zanimatelnaja-geografija-photo-small.jpg",
+      "alt": "Занимательная география"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/a/8/kniga-yunogo-tehnika-photo-small.jpg",
+      "alt": "Книга юного техника"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/8/7/zadachi-povyshennoi-trudnosti-v-kurse-algebry-7-9-klassov-photo-sm.png",
+      "alt": "Задачи повышенной трудности в курсе алгебры 7-9 классов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/6/7/vneklassnaja-rabota-po-matematike-v-4-5-klassah-photo-small.jpg",
+      "alt": "Внеклассная работа по математике в 4-5 классах"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/3/f/uchebnoe-posobie-dlja-uglublennogo-izuchenija-matematiki-v-7-m-klass.jpg",
+      "alt": "Учебное пособие для углубленного изучения математики в 7-м классе"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/c/2/udivitelnaja-fizika-photo-small.jpg",
+      "alt": "Удивительная физика"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/b/2/populjarnaja-logika-i-zanimatelnye-zadachi-photo-small.jpg",
+      "alt": "Популярная логика и занимательные задачи"
+    }
+  ],
+  "cards": [
+    {
+      "title": "Древлесловенская буквица",
+      "description": "Древлесловенская буквица Щербаков А.В.",
+      "url": "https://cosmatica.org/library/526-drevleslovenskaja-bukvica.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/9/drevneslovenskaja-bukvica-photo-small.jpg",
+      "links": [
+        {
+          "title": "Древлесловенская буквица",
+          "url": "https://cosmatica.org/library/526-drevleslovenskaja-bukvica.html"
+        }
+      ]
+    },
+    {
+      "title": "Будь мужчиной",
+      "description": "Будь мужчиной Среднеуральское книжное издательство",
+      "url": "https://cosmatica.org/library/439-bud-muzhchinoi.html",
+      "image": "https://cosmatica.org/upload/000/u7/2/3/bud-muzhchinoi-photo-small.jpg",
+      "links": [
+        {
+          "title": "Будь мужчиной",
+          "url": "https://cosmatica.org/library/439-bud-muzhchinoi.html"
+        }
+      ]
+    },
+    {
+      "title": "Занимательная арифметика",
+      "description": "Занимательная арифметика Перельман. Я. И.",
+      "url": "https://cosmatica.org/library/432-zanimatelnaja-arifmetika.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/e/zanimatelnaja-arifmetika-photo-small.jpg",
+      "links": [
+        {
+          "title": "Занимательная арифметика",
+          "url": "https://cosmatica.org/library/432-zanimatelnaja-arifmetika.html"
+        }
+      ]
+    },
+    {
+      "title": "Занимательная алгебра",
+      "description": "Занимательная алгебра Перельман Я. И.",
+      "url": "https://cosmatica.org/library/431-zanimatelnaja-algebra.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/4/zanimatelnaja-algebra-photo-small.jpg",
+      "links": [
+        {
+          "title": "Занимательная алгебра",
+          "url": "https://cosmatica.org/library/431-zanimatelnaja-algebra.html"
+        }
+      ]
+    },
+    {
+      "title": "Занимательная физиология",
+      "description": "Занимательная физиология Проф. Никольский А. М.",
+      "url": "https://cosmatica.org/library/430-zanimatelnaja-fiziologija.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/b/zanimatelnaja-fiziologija-photo-small.jpg",
+      "links": [
+        {
+          "title": "Занимательная физиология",
+          "url": "https://cosmatica.org/library/430-zanimatelnaja-fiziologija.html"
+        }
+      ]
+    },
+    {
+      "title": "Занимательная зоология",
+      "description": "Занимательная зоология Проф. Никольский А. М",
+      "url": "https://cosmatica.org/library/429-zanimatelnaja-zoologija.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/9/zanimatelnaja-zoologija-photo-small.jpg",
+      "links": [
+        {
+          "title": "Занимательная зоология",
+          "url": "https://cosmatica.org/library/429-zanimatelnaja-zoologija.html"
+        }
+      ]
+    },
+    {
+      "title": "Занимательная техника в прошлом",
+      "description": "Занимательная техника в прошлом Лебедев В. И.",
+      "url": "https://cosmatica.org/library/428-zanimatelnaja-tehnika-v-proshlom.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/a/zanimatelnaja-tehnika-v-proshlom-photo-small.jpg",
+      "links": [
+        {
+          "title": "Занимательная техника в прошлом",
+          "url": "https://cosmatica.org/library/428-zanimatelnaja-tehnika-v-proshlom.html"
+        }
+      ]
+    },
+    {
+      "title": "Занимательная авиация",
+      "description": "Занимательная авиация Вейгелин К. Е.",
+      "url": "https://cosmatica.org/library/427-zanimatelnaja-aviacija.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/5/zanimatelnaja-aviacija-photo-small.jpg",
+      "links": [
+        {
+          "title": "Занимательная авиация",
+          "url": "https://cosmatica.org/library/427-zanimatelnaja-aviacija.html"
+        }
+      ]
+    },
+    {
+      "title": "Занимательная география",
+      "description": "Занимательная география Проф. Аржанов С. П.",
+      "url": "https://cosmatica.org/library/426-zanimatelnaja-geografija.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/a/zanimatelnaja-geografija-photo-small.jpg",
+      "links": [
+        {
+          "title": "Занимательная география",
+          "url": "https://cosmatica.org/library/426-zanimatelnaja-geografija.html"
+        }
+      ]
+    },
+    {
+      "title": "Книга юного техника",
+      "description": "Книга юного техника Л.Киселёв, Э.Микиртумов, П.Хлебников, Ф.Честнов",
+      "url": "https://cosmatica.org/library/425-kniga-yunogo-tehnika.html",
+      "image": "https://cosmatica.org/upload/000/u7/a/8/kniga-yunogo-tehnika-photo-small.jpg",
+      "links": [
+        {
+          "title": "Книга юного техника",
+          "url": "https://cosmatica.org/library/425-kniga-yunogo-tehnika.html"
+        }
+      ]
+    },
+    {
+      "title": "Задачи повышенной трудности в курсе алгебры 7-9 классов",
+      "description": "Задачи повышенной трудности в курсе алгебры 7-9 классов Кострикина Н. П.",
+      "url": "https://cosmatica.org/library/417-zadachi-povyshennoi-trudnosti-v-kurse-algebry-7-9-klassov.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/7/zadachi-povyshennoi-trudnosti-v-kurse-algebry-7-9-klassov-photo-sm.png",
+      "links": [
+        {
+          "title": "Задачи повышенной трудности в курсе алгебры 7-9 классов",
+          "url": "https://cosmatica.org/library/417-zadachi-povyshennoi-trudnosti-v-kurse-algebry-7-9-klassov.html"
+        }
+      ]
+    },
+    {
+      "title": "Внеклассная работа по математике в 4-5 классах",
+      "description": "Внеклассная работа по математике в 4-5 классах Чесноков А. С., Шварцбурд С. И., Головина В. Д.",
+      "url": "https://cosmatica.org/library/416-vneklassnaja-rabota-po-matematike-v-4-5-klassah.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/7/vneklassnaja-rabota-po-matematike-v-4-5-klassah-photo-small.jpg",
+      "links": [
+        {
+          "title": "Внеклассная работа по математике в 4-5 классах",
+          "url": "https://cosmatica.org/library/416-vneklassnaja-rabota-po-matematike-v-4-5-klassah.html"
+        }
+      ]
+    },
+    {
+      "title": "Учебное пособие для углубленного изучения математики в 7-м классе",
+      "description": "Учебное пособие для углубленного изучения математики в 7-м классе Пыжова Т. А., Лупенко Г. В., Масленникова И. А.",
+      "url": "https://cosmatica.org/library/415-uchebnoe-posobie-dlja-uglublennogo-izuchenija-matematiki-v-7-m-klasse.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/f/uchebnoe-posobie-dlja-uglublennogo-izuchenija-matematiki-v-7-m-klass.jpg",
+      "links": [
+        {
+          "title": "Учебное пособие для углубленного изучения математики в 7-м классе",
+          "url": "https://cosmatica.org/library/415-uchebnoe-posobie-dlja-uglublennogo-izuchenija-matematiki-v-7-m-klasse.html"
+        }
+      ]
+    },
+    {
+      "title": "Удивительная физика",
+      "description": "Удивительная физика Асламазов Л. Г., Варламов А.А.",
+      "url": "https://cosmatica.org/library/414-udivitelnaja-fizika.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/2/udivitelnaja-fizika-photo-small.jpg",
+      "links": [
+        {
+          "title": "Удивительная физика",
+          "url": "https://cosmatica.org/library/414-udivitelnaja-fizika.html"
+        }
+      ]
+    },
+    {
+      "title": "Популярная логика и занимательные задачи",
+      "description": "Популярная логика и занимательные задачи Гусев Д. А.",
+      "url": "https://cosmatica.org/library/413-populjarnaja-logika-i-zanimatelnye-zadachi.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/2/populjarnaja-logika-i-zanimatelnye-zadachi-photo-small.jpg",
+      "links": [
+        {
+          "title": "Популярная логика и занимательные задачи",
+          "url": "https://cosmatica.org/library/413-populjarnaja-logika-i-zanimatelnye-zadachi.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/d/9/drevneslovenskaja-bukvica-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u7/2/3/bud-muzhchinoi-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/9/e/zanimatelnaja-arifmetika-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/0/4/zanimatelnaja-algebra-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/0/b/zanimatelnaja-fiziologija-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/e/9/zanimatelnaja-zoologija-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/a/a/zanimatelnaja-tehnika-v-proshlom-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/5/5/zanimatelnaja-aviacija-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/7/a/zanimatelnaja-geografija-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u7/a/8/kniga-yunogo-tehnika-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/8/7/zadachi-povyshennoi-trudnosti-v-kurse-algebry-7-9-klassov-photo-sm.png",
+    "https://cosmatica.org/upload/002/u218/6/7/vneklassnaja-rabota-po-matematike-v-4-5-klassah-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/3/f/uchebnoe-posobie-dlja-uglublennogo-izuchenija-matematiki-v-7-m-klass.jpg",
+    "https://cosmatica.org/upload/002/u218/c/2/udivitelnaja-fizika-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/b/2/populjarnaja-logika-i-zanimatelnye-zadachi-photo-small.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 919,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 15,
+    "sourceImageCount": 15,
+    "paragraphCount": 1,
+    "sourceBytes": 62755
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 919,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "5acc00ccf98410a56bee554ed7258ba24b478867a467c0bea5956d9f98a3a377",
+  "archiveSnapshotAt": "2026-10-08T08:51:14Z"
+}

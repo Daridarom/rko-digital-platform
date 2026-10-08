@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 226,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Спортклуб «Роскосмоса» и Русское Космическое Общество проведут турнир по мини-футболу",
+      "description": "В прошлом году также в августе прошёл турнир, организованный спортклубом «Роскосмоса», в котором приняла участие и команда Русского Космического Общества, заняв пятое место из четырнадцати команд-участниц.",
+      "url": "https://cosmatica.org/poster/171-sportklub-roskosmosa-i-russkoe-kosmicheskoe-obschestvo-provedut-turnir-po-mini-futbolu.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/4/sportklub-roskosmosa-i-russkoe-kosmicheskoe-obschestvo-provedut-t.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=b5eaedbeebe115fc69",
+      "type": "poster-item",
+      "sourceCharacters": 1435,
+      "verified": false
+    },
+    {
+      "title": "Синергетическая концепция устойчивого развития предпринимательских структур.",
+      "description": "«Устойчивое развитие предусматривает удовлетворение потребностей нынешнего времени, при этом, не подвергая угрозе возможность последующих поколений удовлетворять свои нужды».",
+      "url": "https://cosmatica.org/articles/170-sinergeticheskaja-koncepcija-ustoichivogo-razvitija-predprinimatelskih-struktur.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=a0d9afcdde1047e4b9",
+      "type": "article",
+      "sourceCharacters": 17612,
+      "verified": false
+    },
+    {
+      "title": "Инвариант процесса исторического развития",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/170-invariant-processa-istoricheskogo-razvitija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=53162af36d19741d8c",
+      "type": "article",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Жизнь и работа в космосе",
+      "description": "Восемнадцать лет назад, в знаменательный октябрьский день 1957 г., прозвучавшее из Москвы сообщение о запуске первого искусственного спутника Земли возвестило начало освоения космоса человеком.",
+      "url": "https://cosmatica.org/library/170-zhizn-i-rabota-v-kosmose.html",
+      "image": "assets/source/book-covers/0a9c7b591928cacec46c2d.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=2dfb1ea7207d2b1faa",
+      "type": "book",
+      "sourceCharacters": 234,
+      "verified": false
+    },
+    {
+      "title": "Турнир по мини-футболу среди команд ракетно-космической отрасли",
+      "description": "Организатор соревнований: Автономная некоммерческая организация «Спортивный клуб Федерального космического агентства» («Спортклуб Роскосмоса»).",
+      "url": "https://cosmatica.org/news/170-debyut-komandy-rko-na-sportivnoi-arene.html",
+      "image": "https://cosmatica.org/upload/000/u8/3f/b9/29e5537a.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b246e6bf33dfceab93",
+      "type": "news-item",
+      "sourceCharacters": 3274,
+      "verified": false
+    },
+    {
+      "title": "Первое учредительное собрание Волгоградского отделения РКО",
+      "description": "Место проведения: Актовый зал администрации Кумылженского муниципального района Волгоградской области (станица Кумылженская, ул. Мира 18).",
+      "url": "https://cosmatica.org/poster/170-pervoe-uchreditelnoe-sobranie-volgogradskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/4/pervoe-uchreditelnoe-sobranie-volgogradskogo-otdelenija-rko-photo.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=10c338648661a163ee",
+      "type": "poster-item",
+      "sourceCharacters": 2766,
+      "verified": false
+    },
+    {
+      "title": "Контроль подлинности и качества продукции с помощью информационных технологий",
+      "description": "Контроль подлинности и качества продукции в процессе производства и реализации с помощью информационных технологий – залог устойчивого развития",
+      "url": "https://cosmatica.org/articles/169-kontrol-podlinnosti-i-kachestva-produkcii-s-pomoschyu-informacionnyh-tehnologii.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=e641a2260a153e8ec1",
+      "type": "article",
+      "sourceCharacters": 20856,
+      "verified": false
+    },
+    {
+      "title": "Инвариант в математике",
+      "description": "функция от координат преобразуемой ве­личины, не изменяющая своего значения при данной совокупности преобразования этой величины.",
+      "url": "https://cosmatica.org/glossary/169-invariant-v-matematike.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=1c16fcc1a2502b53f5",
+      "type": "article",
+      "sourceCharacters": 129,
+      "verified": false
+    },
+    {
+      "title": "Жизнеобеспечение экипажей летательных аппаратов после вынужденного приземления или приводнения",
+      "description": "Книга посвящена актуальной проблеме выживания человека, оказавшегося в результате аварии самолета, корабля или других обстоятельств в условиях автономного существования в безлюдной местности или в океане. Давая описание различных физико-географических зон земного шара, автор анализирует особенности неблагоприятного воздействия факторов внешней среды на организм человека и существующие методы защиты и профилактики. В ",
+      "url": "https://cosmatica.org/library/169-zhizneobespechenie-ekipazhei-letatelnyh-apparatov-posle-vynuzhdennogo-prizemlenija-ili-privodnen.html",
+      "image": "https://cosmatica.org/upload/000/u15/c8/37/zhizneobespechenie-ekipazhei-letatelnyh-apparatov-posle-vynuzhdenno.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=8d6666cfcf85dc2467",
+      "type": "book",
+      "sourceCharacters": 693,
+      "verified": false
+    },
+    {
+      "title": "Благотворительная поездка в детские дома Тверской области",
+      "description": "Член Русского Космического Общества, Чепига Владимир Григорьевич , совместно с Фондом «Светославъ» ( http://www.fond-svetoslav.ru/) посетил СРНЦ Оленино, который находится в Тверской области.",
+      "url": "https://cosmatica.org/news/169-blagotvoritelnaja-poezdka-v-detskie-doma-tverskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/000/u8/e1/97/blagotvoritelnaja-poezdka-v-detskie-doma-tverskoi-oblasti-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4698b307d088b287e1",
+      "type": "news-item",
+      "sourceCharacters": 1652,
+      "verified": false
+    },
+    {
+      "title": "Подведение итогов конкурса «Звёздное перо – 2018»",
+      "description": "\"Звёздное перо 2018\" проводился Литературное объединение \"Зодиак\", г. Кашира с 1 сентября по 1 декабря 2018 года.",
+      "url": "https://cosmatica.org/poster/169-podvedenie-itogov-konkursa-zvyozdnoe-pero-2018.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/c/podvedenie-itogov-konkursa-zvyozdnoe-pero-2018-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=a7556f2a12de46e38a",
+      "type": "poster-item",
+      "sourceCharacters": 830,
+      "verified": false
+    },
+    {
+      "title": "Роль личностей в устойчивом развитии территорий",
+      "description": "В течение человеческой истории личность и непосредственно развитие территорий были естественным образом связаны. Правители стран закладывали новые города, выдающиеся деятели эпох изменяли целые районы. Сегодня же принять участие, например, в формировании своего города таким, каким хотелось бы его видеть в будущем, может каждый. В условиях обращения к концепции устойчивого развития все большее значение для успешного в",
+      "url": "https://cosmatica.org/articles/168-rol-lichnostei-v-ustoichivom-razvitii-territorii.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=752ac88da1e74df0ae",
+      "type": "article",
+      "sourceCharacters": 4475,
+      "verified": false
+    },
+    {
+      "title": "Инвариант в физике",
+      "description": ", принцип, не меняющийся при перехо­де от одного объекта к другому в определенном классе объектов. В",
+      "url": "https://cosmatica.org/glossary/168-invariant-v-fizike.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=f84d4209528c0c819b",
+      "type": "article",
+      "sourceCharacters": 178,
+      "verified": false
+    },
+    {
+      "title": "Год в \"Звездолёте\"",
+      "description": "Эксперимент начался 5.11.1967 и длился ровно 365 дней. Три человека целый год провели в герметическом помещении, имитирующем кабину космического корабля. Они испытывали не только работу систем жизнеобеспечения экипажей кораблей, но и возможности человеческого организма переносить длительные космические полеты. Об этом эксперименте и рассказывают А. Божко – биолог, один из непосредственных участников эксперимента, и В",
+      "url": "https://cosmatica.org/library/168-god-v-zvezdolyote.html",
+      "image": "https://cosmatica.org/upload/000/u15/6a/e3/god-v-zvezdolyote-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=1283a7b529e7906684",
+      "type": "book",
+      "sourceCharacters": 541,
+      "verified": false
+    },
+    {
+      "title": "\"РКО в Лицах: Фурсей Георгий Николаевич\"",
+      "description": "\"РКО в Лицах\" - это Проект Русского Космического Общества, в котором рассказывается о людях, объединившихся вместе для того, чтобы Словом и Делом внести свой вклад в построение ноосферно-космического будущего России.",
+      "url": "https://cosmatica.org/news/168-rko-v-licah-fursei-georgii-nikolaevich.html",
+      "image": "https://cosmatica.org/upload/000/u26/2c/b9/2819cb41.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=22cdfc760554022703",
+      "type": "news-item",
+      "sourceCharacters": 1866,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

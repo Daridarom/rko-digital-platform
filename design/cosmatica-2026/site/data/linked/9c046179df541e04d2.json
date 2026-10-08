@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/100-nauchnoe-znanie.html",
+  "title": "Научное знание",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "знание",
+      "spans": [
+        {
+          "text": "знание"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "с мерой, дающее возможность осуще­ствить независимую экспериментальную проверку знания.",
+      "spans": [
+        {
+          "text": "с мерой, дающее возможность осуще­ствить независимую экспериментальную проверку знания."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это знание с мерой, дающее возможность осуще­ствить независимую экспериментальную проверку знания.",
+      "links": [
+        {
+          "title": "знание",
+          "url": "https://cosmatica.org/glossary/128-znanie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 113,
+    "storedTextCharacters": 96,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31926
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 98,
+  "capturedBodyCharacters": 96,
+  "sourceTextSHA256": "37f3b5120295a66c0b508c2f6b928be0cc86bc78be6b927bd82abc3aea2f48b6",
+  "archiveSnapshotAt": "2026-10-08T08:46:20Z"
+}

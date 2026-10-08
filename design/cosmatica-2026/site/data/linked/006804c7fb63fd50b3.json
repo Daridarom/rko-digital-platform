@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/63-proschanie-s-bolshakovym-borisom-evgenevichem.html",
+  "title": "Прощание с Большаковым Борисом Евгеньевичем",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/48/ea/eecb2b51.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Прощание с Большаковым Борисом Евгеньевичем пройдёт 20.11.2018 г. в 12:00 в Ритуальном зале Центральной клинической больницы.",
+      "spans": [
+        {
+          "text": "Прощание с Большаковым Борисом Евгеньевичем пройдёт 20.11.2018 г. в 12:00 в Ритуальном зале Центральной клинической больницы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Прощание с Большаковым Борисом Евгеньевичем пройдёт 20.11.2018 г. в 12:00 в Ритуальном зале Центральной клинической больницы. Адрес: г. Москва, ул. Маршала Тимошенко, д. 25 (ст.м. Крылатское)",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/48/ea/eecb2b51.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 314,
+    "storedTextCharacters": 125,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 37976
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 314,
+  "capturedBodyCharacters": 125,
+  "sourceTextSHA256": "78d883bfd1ea94f81be0fedec7bb93c939f7277e247f93865c2fee2ff0ccf426",
+  "archiveSnapshotAt": "2026-10-08T09:16:07Z"
+}

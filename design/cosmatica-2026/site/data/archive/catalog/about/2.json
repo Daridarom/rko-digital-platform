@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "about",
+  "title": "Об РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 2,
+  "pageCount": 2,
+  "total": 19,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Марш Русского Космического Общества",
+      "description": "Россия вечно молодая идёт, идёт вперёд, Руками небо обнимая, нас всех зовёт в поход. Мы с тобой всех соберём, мы с тобою всем расскажем, Мы с тобою всё споём через века, через века!",
+      "url": "https://cosmatica.org/about/marchrko.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=e86ccde4a4bd1728fb",
+      "type": "article",
+      "sourceCharacters": 1005,
+      "verified": false
+    },
+    {
+      "title": "Школа Русского Космизма как мировоззренческая основа Русского Космического Общества",
+      "description": "Возникновение школы Русского Космизма было своеобразным ответом русской научной мысли на вызов «о неизбежности тепловой смерти (конце) Вселенной», который был брошен мировому сообществу после рассмотрения Клаузиусом принципов сохранения энергии и роста энтропии. По существу, в поиске ответа на этот глобальный вызов и лежат работы Русского Космизма.",
+      "url": "https://cosmatica.org/about/ruscosmizm.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/9/iqvtee-irdi.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=330e2f86698836f6ca",
+      "type": "article",
+      "sourceCharacters": 16375,
+      "verified": false
+    },
+    {
+      "title": "Символика",
+      "description": "",
+      "url": "https://cosmatica.org/about/simvolika",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=250799991edc98da71",
+      "type": "article",
+      "sourceCharacters": 131,
+      "verified": false
+    },
+    {
+      "title": "Знамя Русского Космического Общества",
+      "description": "Знамя Русского Космического Общества символизирует собой прорыв России в космическое будущее. Оно называется - \"Красный Поход\".",
+      "url": "https://cosmatica.org/about/znamjarko.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/5/iqvtee-irdi.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=9f12e1b13273e53ad2",
+      "type": "article",
+      "sourceCharacters": 1026,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

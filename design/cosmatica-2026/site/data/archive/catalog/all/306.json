@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 306,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Поддержка проектов",
+      "description": "В скором времени на нашем сайте появится возможность финансово поддержать проекты, которые реализует Русское Космическое Общество. Все средства, полученные от благотворителей, будут направлены на усиление наших начинаний и стремлений.",
+      "url": "https://cosmatica.org/support.html",
+      "image": "https://www.moneta.ru/info/public/requirements/bank.png",
+      "kind": "support.html",
+      "href": "view.html?p=article&ref=6e48fc667f7e89769a",
+      "type": "article",
+      "sourceCharacters": 2446,
+      "verified": false
+    },
+    {
+      "title": "Состав РКО",
+      "description": "",
+      "url": "https://cosmatica.org/users",
+      "image": "assets/source/a972af3a12b46dd93971f952.webp",
+      "kind": "users",
+      "href": "view.html?p=users",
+      "type": "users",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Шабанов Павел Алексеевич",
+      "description": "Инженер по специальности «Информационные системы и технологии» (МГГУ 2011)",
+      "url": "https://cosmatica.org/users/1",
+      "image": "https://cosmatica.org/upload/000/u1/e/8/c0b183a1.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=47758ad06bb413ce8b",
+      "type": "profile",
+      "sourceCharacters": 298,
+      "verified": false
+    },
+    {
+      "title": "Борис Евгеньевич Большаков",
+      "description": "Первый Президент Русского Космического Общества (2017-2018 гг.).",
+      "url": "https://cosmatica.org/users/10",
+      "image": "https://cosmatica.org/upload/000/u8/7f/5d/9d5913b3.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=8226c71f1c95506f55",
+      "type": "profile",
+      "sourceCharacters": 3339,
+      "verified": false
+    },
+    {
+      "title": "Виталий Алексеевич Трошин",
+      "description": "Архитектор, художник, педагог и общественный деятель.",
+      "url": "https://cosmatica.org/users/101",
+      "image": "https://cosmatica.org/upload/001/u101/f0/02/3823b00f.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=bfbfe3902c417d630b",
+      "type": "profile",
+      "sourceCharacters": 7242,
+      "verified": false
+    },
+    {
+      "title": "chrome",
+      "description": "",
+      "url": "https://cosmatica.org/users/106",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=ab325d65ad21f2072e",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Алексей Николаевич Петров",
+      "description": "Председатель организационного комитета «Зенит»",
+      "url": "https://cosmatica.org/users/107",
+      "image": "https://cosmatica.org/upload/000/u8/58/14/d2c3db74.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=517f4ad209ac006211",
+      "type": "profile",
+      "sourceCharacters": 475,
+      "verified": false
+    },
+    {
+      "title": "Самоцупов Илья Сергеевич",
+      "description": "",
+      "url": "https://cosmatica.org/users/108",
+      "image": "https://cosmatica.org/upload/000/u35/9/d/ff2a25b8.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=84eef24bba7704390c",
+      "type": "profile",
+      "sourceCharacters": 84,
+      "verified": false
+    },
+    {
+      "title": "Олег Леонидович Кузнецов",
+      "description": "Председатель Коллегии Русского Космического Общества.",
+      "url": "https://cosmatica.org/users/11",
+      "image": "https://cosmatica.org/upload/000/u8/8a/ff/bf4fd5f5.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=37ed4b3c62fbb1c98b",
+      "type": "profile",
+      "sourceCharacters": 2495,
+      "verified": false
+    },
+    {
+      "title": "Владимир Витальевич Макаров",
+      "description": "Член Первого отряда, председатель Санкт-Петербургского отделения РКО, заместитель председателя Философского Совета РКО, к.ф.н., член РФО, доцент кафедры гуманитарных наук НМИЦ им. В.А. Алмазова Минздрава России",
+      "url": "https://cosmatica.org/users/110",
+      "image": "assets/source/c9090888d15a042d13d94921.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=080d7ec87d46f09a09",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Мелёхина Людмила Владимировна",
+      "description": "Методист Муниципального бюджетного учреждения «Методический центр управления образования администрации города Макеевки»",
+      "url": "https://cosmatica.org/users/1123",
+      "image": "assets/source/9adf9c59f411a27cedf01fd4.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=86b9c0d52b5babdd96",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Михаил Иванович Беляев",
+      "description": "Председатель секции Методов синтеза междисциплинарных знаний при Научно-техническом совете.",
+      "url": "https://cosmatica.org/users/113",
+      "image": "https://cosmatica.org/upload/000/u26/1d/d0/73798e79.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=1d1046413dbcc7c4ef",
+      "type": "profile",
+      "sourceCharacters": 7030,
+      "verified": false
+    },
+    {
+      "title": "Леонид Викторович Тимошенко. Звездный Маэстро",
+      "description": "За 25 лет творчества провел более 3000 концертов в России (1995-2019)",
+      "url": "https://cosmatica.org/users/114",
+      "image": "https://cosmatica.org/upload/000/u26/eb/97/fcdd201a.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=f57548f20b75c24049",
+      "type": "profile",
+      "sourceCharacters": 1415,
+      "verified": false
+    },
+    {
+      "title": "Борис Георгиевич Режабек",
+      "description": "Биофизик, кандидат биологических наук, зав. кафедрой нанобионики в Международном универстите междисциплинарных знаний, воспитавший более 150 специалистов по биофизике и биокибернетике, автор ряда интересных экспериментов, статей в журналах и учебника «Биологическая кибернетика» Эколог, председатель Северо-Кавказского межрегионального отделения Международного экологического фонда, академик Международной Академии наук ",
+      "url": "https://cosmatica.org/users/115",
+      "image": "https://cosmatica.org/upload/000/u26/ff/78/e95d1514.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=82af9d77d3f460662e",
+      "type": "profile",
+      "sourceCharacters": 1427,
+      "verified": false
+    },
+    {
+      "title": "Екатерина Фёдоровна Шамаева",
+      "description": "Кандидат технических наук. Член-корреспондент РАЕН. Заместитель главного редактора научно-образовательных электронных журналов «Устойчивое инновационное развитие: проектирование и управление», «Устойчивое развитие: наука и практика»",
+      "url": "https://cosmatica.org/users/12",
+      "image": "assets/source/cc56e2a19a79898f4406957c.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=cbdf4602df338bda03",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

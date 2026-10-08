@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/185-soyuz-semei.html",
+  "title": "Союз семей",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "добровольное объединение семей вокруг общей цели – сохранения уверенного развития жизни народа.",
+      "spans": [
+        {
+          "text": "добровольное объединение семей вокруг общей цели – сохранения уверенного развития жизни народа."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "добровольное объединение семей вокруг общей цели – сохранения уверенного развития жизни народа.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 106,
+    "storedTextCharacters": 95,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31807
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 95,
+  "capturedBodyCharacters": 95,
+  "sourceTextSHA256": "fbb15593985f66cc4f01c064de7961e5e1c58fca1128ca09d1e79cea9e528dc0",
+  "archiveSnapshotAt": "2026-10-08T10:37:46Z"
+}

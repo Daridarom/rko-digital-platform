@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/43-chelovek-vselennaja-akademik-v-p-kaznacheev.html",
+  "title": "Человек - Вселенная - академик В.П. Казначеев",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u30/ba/e0/chelovek-vselennaja-akademik-v-p-kaznacheev-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Человек - Вселенная - академик В.П. Казначеев\"",
+      "spans": [
+        {
+          "text": "Человек - Вселенная - академик В.П. Казначеев\" "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "2-я Научная конференция, посвященная памяти В.П. Казначеев.",
+      "spans": [
+        {
+          "text": "2-я Научная конференция, посвященная памяти В.П. Казначеев. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На конференции будут подведены итоги научных проектов 2017-2018гг. и обозначены перспективы дальнейших иследований \"Голографической Вселенной Козырева-Казначеева\".",
+      "spans": [
+        {
+          "text": "На конференции будут подведены итоги научных проектов 2017-2018гг. и обозначены перспективы дальнейших иследований \"Голографической Вселенной Козырева-Казначеева\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Речь пойдёт и о совместных проектах МНИИКА и Русского Космического Общества",
+      "spans": [
+        {
+          "text": "Речь пойдёт и о совместных проектах МНИИКА и Русского Космического Общества"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Один из совместных проектов Мониторинг будущего в пространстве Козырева был реализован в июле этого года.",
+      "spans": [
+        {
+          "text": "Один из совместных проектов Мониторинг будущего в пространстве Козырева был реализован в июле этого года. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сайт МНИИКА",
+      "spans": [
+        {
+          "text": "Сайт МНИИКА"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ПРОГРАММА МЕРОПРИЯТИЯ",
+      "spans": [
+        {
+          "text": "ПРОГРАММА МЕРОПРИЯТИЯ",
+          "href": "https://cosmatica.org/upload/redactorfiles/Программа конференция 13 октября (коррект) 11.10.18.docx"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "ПРОГРАММА МЕРОПРИЯТИЯ",
+          "url": "https://cosmatica.org/upload/redactorfiles/Программа конференция 13 октября (коррект) 11.10.18.docx"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u30/12/fa/programma-konf-13-oktjabrja.jpg",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Человек - Вселенная - академик В.П. Казначеев\" 2-я Научная конференция, посвященная памяти В.П. Казначеев. На конференции будут подведены итоги научных проектов 2017-2018гг. и обозначены перспективы дальнейших иследований \"Голографической Вселенной Козырева-Казначеева\". Речь пойдёт и о совместных проектах МНИИКА и Русского Космического Общества Один из совместных проектов Мониторинг будущего в пространстве Козырева был реализован в июле этого года. Сайт МНИИКА ПРОГРАММА МЕРОПРИЯТИЯ",
+      "links": [
+        {
+          "title": "ПРОГРАММА МЕРОПРИЯТИЯ",
+          "url": "https://cosmatica.org/upload/redactorfiles/Программа конференция 13 октября (коррект) 11.10.18.docx"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u30/12/fa/programma-konf-13-oktjabrja.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u30/ba/e0/chelovek-vselennaja-akademik-v-p-kaznacheev-photo-big.jpg",
+    "https://cosmatica.org/upload/000/u30/12/fa/programma-konf-13-oktjabrja.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 629,
+    "storedTextCharacters": 480,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 8,
+    "sourceBytes": 38814
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 629,
+  "capturedBodyCharacters": 480,
+  "sourceTextSHA256": "0825c126a5948b9059d9041bf912dd112cc0e16c7faea2e0eda3aea8b75b8c56",
+  "archiveSnapshotAt": "2026-10-08T09:16:01Z"
+}

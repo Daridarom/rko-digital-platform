@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/220-nauka-sozidat.html",
+  "title": "Наука созидать",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это наука жить в согласии с собой и миром, осознавая и правильно применяя законы развития Жизни.",
+      "spans": [
+        {
+          "text": "это наука жить в согласии с собой и миром, осознавая и правильно применяя законы развития Жизни."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это наука жить в согласии с собой и миром, осознавая и правильно применяя законы развития Жизни.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 111,
+    "storedTextCharacters": 96,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31803
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 96,
+  "capturedBodyCharacters": 96,
+  "sourceTextSHA256": "e3534088cc52f58317846fe1c55443f0eba2168ba8234573d1f542dad9845b5d",
+  "archiveSnapshotAt": "2026-10-08T10:36:26Z"
+}

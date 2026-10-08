@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/27-ustoichivoe-razvitie.html",
+  "title": "Устойчивое развитие",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это сбалансированное взаимодействие есте­ственных, общественных и духовных процессов, сохраняющее разви­тие системы во Времени–Пространстве.",
+      "spans": [
+        {
+          "text": "это сбалансированное взаимодействие есте­ственных, общественных и духовных процессов, сохраняющее разви­тие системы во Времени–Пространстве."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это сбалансированное взаимодействие есте­ственных, общественных и духовных процессов, сохраняющее разви­тие системы во Времени–Пространстве.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 160,
+    "storedTextCharacters": 140,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32156
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 140,
+  "capturedBodyCharacters": 140,
+  "sourceTextSHA256": "2c410ddd95cc77904caa1041cb9c8f28cc2106bd69375a5e654817518f1d3f7b",
+  "archiveSnapshotAt": "2026-10-08T08:46:46Z"
+}

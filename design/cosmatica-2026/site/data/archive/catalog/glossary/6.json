@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "glossary",
+  "title": "Глоссарий",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 6,
+  "pageCount": 16,
+  "total": 236,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Единый язык",
+      "description": "язык,построенный на инвариантах системы «приро­да – общество – человек».",
+      "url": "https://cosmatica.org/glossary/144-edinyi-jazyk.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=ae6fff975a2ec9ec72",
+      "type": "article",
+      "sourceCharacters": 72,
+      "verified": false
+    },
+    {
+      "title": "Естественная мера",
+      "description": "мера , выраженная в терминах физических вели­чин.",
+      "url": "https://cosmatica.org/glossary/143-estestvennaja-mera.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=b1f8ed8e85670c3839",
+      "type": "article",
+      "sourceCharacters": 49,
+      "verified": false
+    },
+    {
+      "title": "Живое вещество",
+      "description": "космического процесса – циклический, волновой, динамический, геологически веч­ный процесс, протекающий на поверхности Земли около 4 миллиар­дов лет. Живое вещество охватывает все формы жизни на протяжении всей истории, живое вещество – не столько тело, сколько – антидис­сипативный процесс. Природные процессы живого вещества в их отражении в биосфере уве­личивают свободную энергию биосферы – первый биогеохимический пр",
+      "url": "https://cosmatica.org/glossary/142-zhivoe-veschestvo.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=f113c68de4332e6859",
+      "type": "article",
+      "sourceCharacters": 477,
+      "verified": false
+    },
+    {
+      "title": "Жизнь",
+      "description": "это космопланетарный процесс с доминированием потоков концентрации над процессами рассеяния потоков энергии во времени и пространстве.",
+      "url": "https://cosmatica.org/glossary/141-zhizn.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=97b2ed802cee9d4954",
+      "type": "article",
+      "sourceCharacters": 134,
+      "verified": false
+    },
+    {
+      "title": "Живая система",
+      "description": ", способная совершать внешнюю работу во времени и пространстве. Система, неспособная совершать внешнюю работу, является косной (мертвой) системой.",
+      "url": "https://cosmatica.org/glossary/140-zhivaja-sistema.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=290c5df783cb9fee25",
+      "type": "article",
+      "sourceCharacters": 163,
+      "verified": false
+    },
+    {
+      "title": "Закон",
+      "description": "это категория для обозначения общности в связях разноо­бразных явлений, того, что сохраняется в глубине наблюдаемой смены явлений, инвариантный объект тождественный сам себе. В основе за­кона лежит",
+      "url": "https://cosmatica.org/glossary/139-zakon.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=5b9e3243e07079d6f1",
+      "type": "article",
+      "sourceCharacters": 306,
+      "verified": false
+    },
+    {
+      "title": "Закон Природы",
+      "description": "эмпирическое обобщение – правило, на которое не действует",
+      "url": "https://cosmatica.org/glossary/138-zakon-prirody.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=4fd208aab3945737a4",
+      "type": "article",
+      "sourceCharacters": 356,
+      "verified": false
+    },
+    {
+      "title": "Закон сохранения мощности",
+      "description": "равна сумме полез­ной мощности и мощности потерь. (Дж. Максвелл, Г. Крон, П.Г. Куз­нецов)",
+      "url": "https://cosmatica.org/glossary/137-zakon-sohranenija-moschnosti.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=ead6adbbe1f759681e",
+      "type": "article",
+      "sourceCharacters": 105,
+      "verified": false
+    },
+    {
+      "title": "Закон технологического развития",
+      "description": "приходит на смену старой, если она обеспечивает выполнение заданной функции с меньшими потерями мощности, то есть с большим обобщенным коэф­фициентом совершенства технологии.",
+      "url": "https://cosmatica.org/glossary/136-zakon-tehnologicheskogo-razvitija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=b7309573211cf28a7e",
+      "type": "article",
+      "sourceCharacters": 191,
+      "verified": false
+    },
+    {
+      "title": "Закон научно-технического прогресса",
+      "description": "новое средство приходит на смену старому, если оно обеспечивает выполнение заданной функции более экономично – с меньшими потерями мощности, то есть с мень­шим риском для устойчивого развития.",
+      "url": "https://cosmatica.org/glossary/135-zakon-nauchno-tehnicheskogo-progressa.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=12134e0df187ac5e10",
+      "type": "article",
+      "sourceCharacters": 192,
+      "verified": false
+    },
+    {
+      "title": "Закон устойчивой неравновесности",
+      "description": "ускорение роста свободной энер­гии за счет повышения эффективности использования полной мощно­сти системы, то есть повышения скорости ее оборачиваемости с умень­шением мощности потерь на каждом цикле процесса.",
+      "url": "https://cosmatica.org/glossary/134-zakon-ustoichivoi-neravnovesnosti.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=11d052cfbc8e2b7bfa",
+      "type": "article",
+      "sourceCharacters": 209,
+      "verified": false
+    },
+    {
+      "title": "Закон возвышения потребностей",
+      "description": "чем меньше рабочего времени тре­буется обществу для удовлетворения неисчезающих потребностей, тем большим свободным временем оно будет располагать для удовлетворе­ния новых потребностей – как текущих, так и будущих.",
+      "url": "https://cosmatica.org/glossary/133-zakon-vozvyshenija-potrebnostei.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=062f8393e2982a4dcd",
+      "type": "article",
+      "sourceCharacters": 215,
+      "verified": false
+    },
+    {
+      "title": "Закон сохранения Жизни",
+      "description": "это хроноцелостный процесс сохранения доминирования потоков концентрации над процессами рассеяния по­токов энергии во времени и пространстве.",
+      "url": "https://cosmatica.org/glossary/132-zakon-sohranenija-zhizni.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=92358a308980b994ea",
+      "type": "article",
+      "sourceCharacters": 141,
+      "verified": false
+    },
+    {
+      "title": "Закон развития Жизни",
+      "description": "это хроноцелостный процесс сохранения неубывающих темпов роста полезной мощности системы «",
+      "url": "https://cosmatica.org/glossary/131-zakon-razvitija-zhizni.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=fde003b80fde0e66b3",
+      "type": "article",
+      "sourceCharacters": 122,
+      "verified": false
+    },
+    {
+      "title": "Закон той или иной предметной области",
+      "description": ", является инвариантом количественной определенности",
+      "url": "https://cosmatica.org/glossary/130-zakon-toi-ili-inoi-predmetnoi-oblasti.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=7b743d34ea38ae84e9",
+      "type": "article",
+      "sourceCharacters": 707,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

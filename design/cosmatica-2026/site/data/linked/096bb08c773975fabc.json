@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "slug": "article",
+  "slug": "articles-list",
   "sourceUrl": "https://cosmatica.org/articles/prezentacii-russkogo-kosmicheskogo-obschestva",
   "title": "Презентации Русского Космического Общества",
   "intro": "",
@@ -25,7 +25,40 @@
       "level": 2
     }
   ],
-  "cards": [],
+  "cards": [
+    {
+      "title": "Русское Космическое Общество. Общая.",
+      "description": "Русское Космическое Общество. Общая. Презентация даёт общее представление о Русском Космическом Обществе и его проектно-целевой деятельности. Подробнее",
+      "url": "https://cosmatica.org/articles/1168-russkoe-kosmicheskoe-obschestvo-obschaja.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Русское Космическое Общество. Общая.",
+          "url": "https://cosmatica.org/articles/1168-russkoe-kosmicheskoe-obschestvo-obschaja.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1168-russkoe-kosmicheskoe-obschestvo-obschaja.html"
+        }
+      ]
+    },
+    {
+      "title": "Национальные космические общества, как центры космопланетарной социальной педагогики.",
+      "description": "Национальные космические общества, как центры космопланетарной социальной педагогики. Презентация раскрывает принципы и цель создания национальных космических обществ, а так же предлагает некоторые проектные решения в этой области. Подробнее",
+      "url": "https://cosmatica.org/articles/1167-nacionalnye-kosmicheskie-obschestva-kak-centry-kosmoplanetarnoi-socialnoi-pedagogiki.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Национальные космические общества, как центры космопланетарной социальной педагогики.",
+          "url": "https://cosmatica.org/articles/1167-nacionalnye-kosmicheskie-obschestva-kak-centry-kosmoplanetarnoi-socialnoi-pedagogiki.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1167-nacionalnye-kosmicheskie-obschestva-kak-centry-kosmoplanetarnoi-socialnoi-pedagogiki.html"
+        }
+      ]
+    }
+  ],
   "fields": [],
   "images": [],
   "documents": [],
@@ -35,9 +68,15 @@
     "http": 200,
     "sourceTextCharacters": 541,
     "storedTextCharacters": 225,
-    "sourceCardCount": 0,
+    "sourceCardCount": 2,
     "sourceImageCount": 0,
     "paragraphCount": 1,
     "sourceBytes": 76381
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "articles-list",
+  "sourceTextCharacters": 541,
+  "capturedBodyCharacters": 225,
+  "sourceTextSHA256": "b07532923b66f34cc24782794689659b48a16c2e259b3a5d22dd1dcb3e864ec7",
+  "archiveSnapshotAt": "2026-10-08T08:45:06Z"
 }

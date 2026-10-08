@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 166,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Между Стоунхенджем и Аркаимом",
+      "description": "Книга «Между Стоунхенджем и Аркаимом» Звездного Маэстро Леонида Викторовича Тимошенко – ученого, писателя, композитора трудно отнести к какому-либо конкретному литературному жанру. Она художественная и документальная одновременно – с элементами, гипотез, научных трактатов, фантастики, и описания интересных событий из жизни автора, невероятных по логики вещей. Книга – о космическом творчестве, о музыке и философии, о ",
+      "url": "https://cosmatica.org/library/419-mezhdu-stounhendzhem-i-arkaimom.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=cd61f4a052194ed966",
+      "type": "book",
+      "sourceCharacters": 1448,
+      "verified": false
+    },
+    {
+      "title": "\"Союз - Наследники Победы\"",
+      "description": "Сборы проводятся с 2007 года и являются уникальным проектом современной России, реализуются без федеральной государственной поддержки, на воле и энергии человека творца и победителя - Олега Васильевича Баканача . Даты Сборов в 2019 году: 28 апреля - 9 мая.",
+      "url": "https://cosmatica.org/news/419-soyuz-nasledniki-pobedy.html",
+      "image": "https://cosmatica.org/upload/000/u26/8/8/soyuz-nasledniki-pobedy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=115ddf6e3e3c75f8b8",
+      "type": "news-item",
+      "sourceCharacters": 1581,
+      "verified": false
+    },
+    {
+      "title": "Описание методик, используемых в проекте ЭКТЛ «Кантилена»",
+      "description": "Методики, которые были применены для экспертной оценки влияния живой музыки на организм человека позволяют оценить различные функциональные уровни. Важно то, что эти методы дают возможность понять слушателям, не выходя из концертного зала, что произошло с ними здесь и сейчас.",
+      "url": "https://cosmatica.org/articles/418-opisanie-metodik-ispolzuemyh-v-proekte-ektl-kantilena.html",
+      "image": "https://cosmatica.org/upload/001/u125/2d/e9/1january.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=6eaab41fe5cbc3dc7c",
+      "type": "article",
+      "sourceCharacters": 6998,
+      "verified": false
+    },
+    {
+      "title": "Империум человека. Эра косматики",
+      "description": "«Победителей не судят» – утверждает старая поговорка. «Судят победители!» – восклицают авторы «Империума Человека». Их книга необычна и парадоксальна, здесь мировой дух и любовь к Родине. Она – инструмент, вскрывающий мозг нашего молодого современника, она – перепрошивка человеческого сознания. Амбициозный",
+      "url": "https://cosmatica.org/library/418-imperium-cheloveka-era-kosmatiki.html",
+      "image": "assets/source/book-covers/a1e9530e66693206b90a89.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=406536299868028e9b",
+      "type": "book",
+      "sourceCharacters": 825,
+      "verified": false
+    },
+    {
+      "title": "\"Рубежи веков\" пройдены.",
+      "description": "Инициаторами мероприятия стали Общественное молодежное движение «Казачий Дозор» и Оренбургское войсковое казачье общество, собравшие для совместного проведения фестиваля огромное количество различных организаций и учреждений Урала.",
+      "url": "https://cosmatica.org/news/418-rubezhi-vekov-proideny.html",
+      "image": "https://cosmatica.org/upload/000/u44/1/a/rubezhi-vekov-proideny-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=792d223bd22698732d",
+      "type": "news-item",
+      "sourceCharacters": 7540,
+      "verified": false
+    },
+    {
+      "title": "Эффективность биоэнергетического воздействия на слушателей выступлений артистов театра “Кантилена”",
+      "description": "Правильной музыкой можно управлять государством",
+      "url": "https://cosmatica.org/articles/417-effektivnost-bioenergeticheskogo-vozdeistvija-na-slushatelei-vystuplenii-artistov-teatra-kantile.html",
+      "image": "https://cosmatica.org/upload/001/u125/27/d0/1january.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=700aa5f60603f59335",
+      "type": "article",
+      "sourceCharacters": 26164,
+      "verified": false
+    },
+    {
+      "title": "Задачи повышенной трудности в курсе алгебры 7-9 классов",
+      "description": "",
+      "url": "https://cosmatica.org/library/417-zadachi-povyshennoi-trudnosti-v-kurse-algebry-7-9-klassov.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/5/zadachi-povyshennoi-trudnosti-v-kurse-algebry-7-9-klassov-photo-no.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=05889274246e2d64cb",
+      "type": "book",
+      "sourceCharacters": 43,
+      "verified": false
+    },
+    {
+      "title": "Ю.А. Гагарин и его наследие в истории страны и всего мира",
+      "description": "В рамках работы Общественно-государственного комитета празднования 85-летия Ю.А. Гагарина в период с 1 февраля по 12 апреля 2019 г. кафедра всеобщей истории ВлГУ им. А.Г. и Н.Г. Столетовых совместно с Русским Космическим Обществом провела конкурс на лучший исследовательский и практико-ориентированный проект на тему «Ю.А. Гагарин и его наследие в истории страны и всего мира».",
+      "url": "https://cosmatica.org/news/417-yu-a-gagarin-i-ego-nasledie-v-istorii-strany-i-vsego-mira.html",
+      "image": "https://cosmatica.org/upload/000/u26/c/c/af953344.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=371eab1960ceb71a27",
+      "type": "news-item",
+      "sourceCharacters": 6117,
+      "verified": false
+    },
+    {
+      "title": "Как звуки способны исцелять организм?",
+      "description": "Зададимся вопросом: «Как звуки исцеляют организм?». Мы это чувствуем, когда включаем радио, а из него доносится наша любимая песня или когда спокойно сидим и слушаем шум дождя. Но как именно он работает, каким образом звук нас исцеляет? В данном сообщении приведем некоторые сведения из известных источников.",
+      "url": "https://cosmatica.org/articles/416-kak-zvuki-sposobny-isceljat-organizm.html",
+      "image": "https://cosmatica.org/upload/001/u125/8b/db/kpck.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=2f80135203a5c804a0",
+      "type": "article",
+      "sourceCharacters": 4424,
+      "verified": false
+    },
+    {
+      "title": "Внеклассная работа по математике в 4-5 классах",
+      "description": "В книге отражен материал кружковых занятий по математике, олимпиад и математических вечеров.",
+      "url": "https://cosmatica.org/library/416-vneklassnaja-rabota-po-matematike-v-4-5-klassah.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/5/vneklassnaja-rabota-po-matematike-v-4-5-klassah-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7aa32b41f1db45e554",
+      "type": "book",
+      "sourceCharacters": 167,
+      "verified": false
+    },
+    {
+      "title": "Преемственность космической мечты",
+      "description": "Воспитанникам Центра развития творчества детей и юношества \"Созвездие\" (г. Калуга) посчастливилось посетить Федеральное государственное бюджетное учреждение «Научно-исследовательский испытательный центр подготовки космонавтов имени Ю. А. Гагарина» (ЦПК им. Ю.А. Гагарина) — главное советское и российское учреждение по подготовке космонавтов.",
+      "url": "https://cosmatica.org/news/416-preemstvennost-kosmicheskoi-mechty.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/4/preemstvennost-kosmicheskoi-mechty-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b78c8a871d944d23a5",
+      "type": "news-item",
+      "sourceCharacters": 3248,
+      "verified": false
+    },
+    {
+      "title": "Культура трезвости и здоровья в молодёжной среде.",
+      "description": "Рекомендовано для использования специалистам некоммерческого сектора и институтов гражданского общества",
+      "url": "https://cosmatica.org/articles/415-kultura-trezvosti-i-zdorovja-v-molodyozhnoi-srede.html",
+      "image": "https://cosmatica.org/upload/000/u26/72/b8/bezymjannyi121221.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=a38e17e90e7b0a9a84",
+      "type": "article",
+      "sourceCharacters": 782,
+      "verified": false
+    },
+    {
+      "title": "Учебное пособие для углубленного изучения математики в 7-м классе",
+      "description": "Пыжова Т. А., Лупенко Г. В., Масленникова И. А.",
+      "url": "https://cosmatica.org/library/415-uchebnoe-posobie-dlja-uglublennogo-izuchenija-matematiki-v-7-m-klasse.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/e/uchebnoe-posobie-dlja-uglublennogo-izuchenija-matematiki-v-7-m-klass.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=778147eb397dbfae0c",
+      "type": "book",
+      "sourceCharacters": 75,
+      "verified": false
+    },
+    {
+      "title": "Кто летит на Байконур!?",
+      "description": "«Семихатовские чтения» проводятся ежегодно в канун празднования Дня космонавтики и посвящаются памяти конструктора и ученого – академика Н.А. Семихатова.",
+      "url": "https://cosmatica.org/news/415-kto-letit-na-baikonur.html",
+      "image": "https://cosmatica.org/upload/000/u44/1/2/0b58d204.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a022dfefe2c6eb81cf",
+      "type": "news-item",
+      "sourceCharacters": 4761,
+      "verified": false
+    },
+    {
+      "title": "Запрет на продажу алкогольных изделий лицам до 21 года.",
+      "description": "Трезвость - основа устойчивого развития жизни. Только трезвый, здоровый человек может быть адекватен той космической эпохе, в которую вошла земная цивилизация. Ни о какой сильной, мощной, устремлённой в будущее России говорить нельзя без осознания проблемы отрезвления народа и, в первую очередь, молодёжи. Тема: Запрет на продажу алкогольных изделий лицам до 21 года. В студии «Доброе Утро» на канале «Звезда» Андрей Ар",
+      "url": "https://cosmatica.org/articles/414-zapret-na-prodazhu-alkogolnyh-izdelii-licam-do-21-goda.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=45b7a884d4c21f0c7f",
+      "type": "article",
+      "sourceCharacters": 1284,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

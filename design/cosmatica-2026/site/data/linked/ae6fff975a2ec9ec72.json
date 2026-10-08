@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/144-edinyi-jazyk.html",
+  "title": "Единый язык",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "язык,построенный на инвариантах системы «приро­да – общество – человек».",
+      "spans": [
+        {
+          "text": "язык,построенный на инвариантах системы «приро­да – общество – человек»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "язык,построенный на инвариантах системы «приро­да – общество – человек».",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 84,
+    "storedTextCharacters": 72,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31724
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 72,
+  "capturedBodyCharacters": 72,
+  "sourceTextSHA256": "f2f8cd3a3348e62eef85bc49c0db893f451a15687b74d9e55e039bd4c74dcf9d",
+  "archiveSnapshotAt": "2026-10-08T08:46:33Z"
+}

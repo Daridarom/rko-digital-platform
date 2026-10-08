@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/189",
+  "title": "Глеб Аркадьевич Бахарев",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/e/a/fa8c2b63.jpg",
+      "alt": "Глеб Аркадьевич Бахарев"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/4/3/b1d766cd.jpg",
+      "alt": "Глеб Аркадьевич Бахарев"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Правления АНО «Институт развития Цифровой Экономики»",
+      "spans": [
+        {
+          "text": "Председатель Правления АНО «Институт развития Цифровой Экономики»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Председатель Правления АНО «Институт развития Цифровой Экономики»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/e/a/fa8c2b63.jpg",
+    "https://cosmatica.org/upload/000/u26/4/3/b1d766cd.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 142,
+    "storedTextCharacters": 98,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34881
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 93,
+  "capturedBodyCharacters": 98,
+  "sourceTextSHA256": "69f9eecae081e9bd144f1d79ff45c8252f37fe15b624da0dc973db442712fc7b",
+  "archiveSnapshotAt": "2026-10-08T09:18:22Z"
+}

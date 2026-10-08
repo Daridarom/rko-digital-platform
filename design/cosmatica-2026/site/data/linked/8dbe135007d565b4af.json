@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/129-internet-platforma-dlja-distancionnogo-obuchenija-rko.html",
+  "title": "Интернет-платформа для дистанционного обучения РКО",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/9/9/internet-platforma-dlja-distancionnogo-obuchenija-rko-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Научно-практический семинар состоится 6 апреля 2019 г. в 15:00 в центральном офисе Русского Космического Общества по адресу: г. Москва, Ленинградский проспект, д. 7/1, офис 20.",
+      "spans": [
+        {
+          "text": "Научно-практический семинар состоится 6 апреля 2019 г. в 15:00 в центральном офисе Русского Космического Общества по адресу: г. Москва, Ленинградский проспект, д. 7/1, офис 20."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Научно-практический семинар состоится 6 апреля 2019 г. в 15:00 в центральном офисе Русского Космического Общества по адресу: г. Москва, Ленинградский проспект, д. 7/1, офис 20. Выступающие: Кондрашов Александр Дмитриевич, Сенько Екатерина Владиславовна Тема: \" Интернет-платформа для дистанционного обучения Русского космического общества \" Модераторы: Кибальников Сергей Владимирович, д.т.н, ведущий научный сотрудник МГУ им. М.В.Ломоносова. Шамаева Екатерина Фёдоровна, к.т.н., член Президиума РКО. ВНИМАНИЕ! Вход строго по спискам. Для регистрации необходимо написать письмо на эл. адрес: info@cosmatica.org с темой семинара и указанием: ФИО, эл. почты, цели посещения мероприятия.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/9/9/internet-platforma-dlja-distancionnogo-obuchenija-rko-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 823,
+    "storedTextCharacters": 176,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 39422
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 823,
+  "capturedBodyCharacters": 176,
+  "sourceTextSHA256": "bd04412345ab97bed0fac3657419f9aaefbeca91e674fd0a12ebf9fbc2cb72c1",
+  "archiveSnapshotAt": "2026-10-08T09:14:55Z"
+}

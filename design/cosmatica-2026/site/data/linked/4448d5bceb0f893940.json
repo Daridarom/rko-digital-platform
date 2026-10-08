@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/10-moskva.html",
+  "title": "Москва",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 356",
+        "Материалы 56",
+        "Мероприятия 210",
+        "Состав 125"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Московское региональное отделение создано 21 декабря 2017 года .",
+      "spans": [
+        {
+          "text": "\r\n\tМосковское региональное отделение создано "
+        },
+        {
+          "text": "21 декабря 2017 года",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель -",
+      "spans": [
+        {
+          "text": "Председатель - "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес: 107023, г. Москва, площадь Журавлёва, 10с1, этаж 1, комната 134.",
+      "spans": [
+        {
+          "text": "\r\nАдрес: 107023, г. Москва, площадь Журавлёва, 10с1, этаж 1, комната 134."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Телефон: +79219967296",
+      "spans": [
+        {
+          "text": "\r\nТелефон: +79219967296"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта: info-msk@cosmatica.org",
+      "spans": [
+        {
+          "text": "\r\nЭлектронная почта: info-msk@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Московское региональное отделение создано 21 декабря 2017 года . Председатель - Адрес: 107023, г. Москва, площадь Журавлёва, 10с1, этаж 1, комната 134. Телефон: +79219967296 Электронная почта: info-msk@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 307,
+    "storedTextCharacters": 268,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 5,
+    "sourceBytes": 36174
+  },
+  "textFallbackRequired": false,
+  "originalKind": "department",
+  "sourceTextCharacters": 238,
+  "capturedBodyCharacters": 268,
+  "sourceTextSHA256": "0d1cd49d157864c2a000e00de1dbe41e755ed2f4c33872657de5ad631c15509e",
+  "archiveSnapshotAt": "2026-10-08T09:06:50Z"
+}

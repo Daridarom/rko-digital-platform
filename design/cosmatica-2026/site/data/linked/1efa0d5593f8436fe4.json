@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/265-sovremennaja-astronomicheskaja-optika-1988.html",
+  "title": "Современная астрономическая оптика (1988)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/d/1/sovremennaja-astronomicheskaja-optika-1988-photo-normal.jpg",
+      "alt": "Современная астрономическая оптика (1988)"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Попов Г.М.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 5 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1998/eb16b96adcb6fcff5adab28a47022366"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/d/1/sovremennaja-astronomicheskaja-optika-1988-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1998/eb16b96adcb6fcff5adab28a47022366"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 78,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39119
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 36,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "6b108e0cbbbb74ebc7decced27c576900d01aafdd3e722d184dedc0b940cdc86",
+  "archiveSnapshotAt": "2026-10-08T08:48:22Z"
+}

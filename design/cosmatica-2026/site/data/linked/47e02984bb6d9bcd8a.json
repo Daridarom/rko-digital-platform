@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/56-rost.html",
+  "title": "Рост",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "увеличение возможностей социально-экономической систе­мы в основном за счет роста потребления ресурсов из внешней среды (социальной и природной), а не за счет увеличения эффективности ис­пользования имеющихся внутренних ресурсов системы.",
+      "spans": [
+        {
+          "text": "увеличение возможностей социально-экономической систе­мы в основном за счет роста потребления ресурсов из внешней среды (социальной и природной), а не за счет увеличения эффективности ис­пользования имеющихся внутренних ресурсов системы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "увеличение возможностей социально-экономической систе­мы в основном за счет роста потребления ресурсов из внешней среды (социальной и природной), а не за счет увеличения эффективности ис­пользования имеющихся внутренних ресурсов системы.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 242,
+    "storedTextCharacters": 237,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32347
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 237,
+  "capturedBodyCharacters": 237,
+  "sourceTextSHA256": "1e5b87c9a897b6d742528bb73a114322c4803502b911aca626d0a94bfe8f9ae5",
+  "archiveSnapshotAt": "2026-10-08T08:46:53Z"
+}

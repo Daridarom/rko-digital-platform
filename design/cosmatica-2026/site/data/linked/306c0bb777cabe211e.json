@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1135-druzhina-gagarincev-razvivaetsja-na-marshe.html",
+  "title": "Дружина Гагаринцев развивается на марше",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Всенародное детско-юношеское общественное движение Русского Космического Общества - \"Дружина Гагарин",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/3/3/druzhina-gagarincev-razvivaetsja-photo-normal.jpg",
+      "alt": "Дружина Гагаринцев развивается на марше"
+    },
+    {
+      "type": "paragraph",
+      "text": "Дружина Гагаринцев развивается. Изначально она планировалась как школьное Движение. Однако, со временем возникла потребность в формировании Дружинок Гагаринцев в детских садах. И вот теперь назрела потребность Гагаринцам идти и в ВУЗы.",
+      "spans": [
+        {
+          "text": "Дружина Гагаринцев развивается. Изначально она планировалась как школьное Движение. Однако, со временем возникла  "
+        },
+        {
+          "text": "потребность",
+          "href": "https://cosmatica.org/glossary/85-potrebnost.html"
+        },
+        {
+          "text": " в формировании Дружинок Гагаринцев в детских садах. И вот теперь назрела потребность Гагаринцам идти и в ВУЗы."
+        }
+      ],
+      "links": [
+        {
+          "text": "потребность",
+          "url": "https://cosmatica.org/glossary/85-potrebnost.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Мы внесли изменения в Устав Движения и предлагаем с ними ознакомиться.",
+      "spans": [
+        {
+          "text": "Мы внесли изменения в Устав Движения и предлагаем с ними ознакомиться. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Устав всероссийского детско-юношеского движения Дружина Гагаринцев.pdf",
+      "spans": [
+        {
+          "text": "Устав всероссийского детско-юношеского движения Дружина Гагаринцев.pdf",
+          "href": "https://cosmatica.org/upload/redactorfiles/%D0%A3%D1%81%D1%82%D0%B0%D0%B2%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%94%D1%80%D1%83%D0%B6%D0%B8%D0%BD%D0%B0%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%86%D0%B5%D0%B2.pdf"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://cosmatica.org/upload/redactorfiles/Устав всероссийского детско-юношеского движения Дружина Гагаринцев.pdf"
+        },
+        {
+          "text": "Устав всероссийского детско-юношеского движения Дружина Гагаринцев.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/%D0%A3%D1%81%D1%82%D0%B0%D0%B2%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%94%D1%80%D1%83%D0%B6%D0%B8%D0%BD%D0%B0%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%86%D0%B5%D0%B2.pdf"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Теперь все желающие развернуть Дружину на базе своего учебного заведения, от детского сада до ВУЗа, могут сделать это.",
+      "spans": [
+        {
+          "text": "Теперь все желающие развернуть Дружину на базе своего учебного заведения, от детского сада до ВУЗа, могут сделать это."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Также повышен максимальный возраст студентов, которые могут стать участниками Дружины. Он поднят с 18 до 150 лет. Ведь, как говорил академик Павлов: \" Смерть до 150 лет считается насильственной \". А учиться, как известно, никому не поздно и никогда не вредно.",
+      "spans": [
+        {
+          "text": "Также повышен максимальный возраст студентов, которые могут стать участниками Дружины. Он поднят с 18 до 150 лет. Ведь, как говорил академик Павлов: \""
+        },
+        {
+          "text": "Смерть до 150 лет считается насильственной",
+          "marks": [
+            "italic"
+          ]
+        },
+        {
+          "text": "\". А учиться, как известно, никому не поздно и никогда не вредно. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "С деятельность Дружины можно познакомиться на сайте РКО: https://cosmatica.org/projects/gagarincy/content/n...",
+      "spans": [
+        {
+          "text": "С деятельность Дружины можно познакомиться на сайте РКО: "
+        },
+        {
+          "text": "https://cosmatica.org/projects/gagarincy/content/n...",
+          "href": "https://cosmatica.org/projects/gagarincy/content/news"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/projects/gagarincy/content/n...",
+          "url": "https://cosmatica.org/projects/gagarincy/content/news"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Но отметим, что это лишь малая, видимая часть повседневной, системной и последовательной работы, ведущейся десятками педагогов и наставников по этому направлению.",
+      "spans": [
+        {
+          "text": "Но отметим, что это лишь малая, видимая часть повседневной, системной и последовательной работы, ведущейся десятками педагогов и наставников по этому направлению. "
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/a/e/druzhina-gagarincev-razvivaetsja-gallery-normal.jpg",
+      "alt": "Дружина Гагаринцев развивается на марше 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/4/5/druzhina-gagarincev-razvivaetsja-gallery-normal.jpg",
+      "alt": "Дружина Гагаринцев развивается на марше 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/c/b/druzhina-gagarincev-razvivaetsja-gallery-normal.jpg",
+      "alt": "Дружина Гагаринцев развивается на марше 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/e/druzhina-gagarincev-razvivaetsja-gallery-normal.jpg",
+      "alt": "Дружина Гагаринцев развивается на марше 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/8/druzhina-gagarincev-razvivaetsja-gallery-normal.jpeg",
+      "alt": "Дружина Гагаринцев развивается на марше 4"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/4/5/druzhina-gagarincev-razvivaetsja-na-marshe-gallery-normal.jpeg",
+      "alt": "Дружина Гагаринцев развивается на марше 5"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В Устав Дружины Гагаринцев внесены изменения.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Дружина Гагаринцев развивается. Изначально она планировалась как школьное Движение. Однако, со временем возникла потребность в формировании Дружинок Гагаринцев в детских садах. И вот теперь назрела потребность Гагаринцам идти и в ВУЗы. Мы внесли изменения в Устав Движения и предлагаем с ними ознакомиться. Устав всероссийского детско-юношеского движения Дружина Гагаринцев.pdf Теперь все желающие развернуть Дружину на базе своего учебного заведения, от детского сада до ВУЗа, могут сделать это. Также повышен максимальный возраст студентов, которые могут стать участниками Дружины. Он поднят с 18 до 150 лет. Ведь, как говорил академик Павлов: \" Смерть до 150 лет считается насильственной \". А учиться, как известно, никому не поздно и никогда не вредно. С деятельность Дружины можно познакомиться на сайте РКО: https://cosmatica.org/projects/gagarincy/content/n... Но отметим, что это лишь малая, видимая часть повседневной, системной и последовательной работы, ведущейся десятками педагогов и наставников по этому направлению.",
+      "links": [
+        {
+          "title": "потребность",
+          "url": "https://cosmatica.org/glossary/85-potrebnost.html"
+        },
+        {
+          "title": "",
+          "url": "https://cosmatica.org/upload/redactorfiles/Устав всероссийского детско-юношеского движения Дружина Гагаринцев.pdf"
+        },
+        {
+          "title": "Устав всероссийского детско-юношеского движения Дружина Гагаринцев.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/%D0%A3%D1%81%D1%82%D0%B0%D0%B2%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%94%D1%80%D1%83%D0%B6%D0%B8%D0%BD%D0%B0%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%86%D0%B5%D0%B2.pdf"
+        },
+        {
+          "title": "https://cosmatica.org/projects/gagarincy/content/n...",
+          "url": "https://cosmatica.org/projects/gagarincy/content/news"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/3/3/druzhina-gagarincev-razvivaetsja-photo-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/a/e/druzhina-gagarincev-razvivaetsja-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/4/5/druzhina-gagarincev-razvivaetsja-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/c/b/druzhina-gagarincev-razvivaetsja-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/7/e/druzhina-gagarincev-razvivaetsja-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/f/8/druzhina-gagarincev-razvivaetsja-gallery-normal.jpeg",
+    "https://cosmatica.org/upload/000/u35/4/5/druzhina-gagarincev-razvivaetsja-na-marshe-gallery-normal.jpeg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1450,
+    "storedTextCharacters": 1136,
+    "sourceCardCount": 0,
+    "sourceImageCount": 7,
+    "paragraphCount": 8,
+    "sourceBytes": 52892
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1198,
+  "capturedBodyCharacters": 1136,
+  "sourceTextSHA256": "40b033796a735d2cebfd6d9cf05404b920bba67c5dc340ab568464e2658fcf1a",
+  "archiveSnapshotAt": "2026-10-08T08:52:29Z"
+}

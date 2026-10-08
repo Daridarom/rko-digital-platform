@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/240-processy-obrazovanija-zvyozd-i-zvyozdnaja-evolyucija.html",
+  "title": "Процессы образования звёзд и звёздная эволюция. #Профориентационно-образовательный проект \"МЫ ВЕРИМ В КОСМОС\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/1/8/processy-obrazovanija-zvyozd-i-zvyozdnaja-evolyucija-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Приглашаем на лекцию \"Процессы образования звёзд и звёздная эволюция\".",
+      "spans": [
+        {
+          "text": "Приглашаем на лекцию \"Процессы образования звёзд и звёздная эволюция\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Космос не статичен: прямо в этот момент в нашей и других галактиках происходит термоядерный синтез в звездах, взрываются сверхновые, а холодное и разреженное межзвездное вещество сжимается настолько плотно, что температура в нем повышается до миллиардов градусов. На лекции будет рассказано об этих процессах, о круговороте вещества во Вселенной и о том, какое значение это имеет для человека",
+      "spans": [
+        {
+          "text": "Космос не статичен: прямо в этот момент в нашей и других галактиках  происходит термоядерный синтез в звездах, взрываются сверхновые, а  холодное и разреженное межзвездное вещество сжимается настолько плотно,  что температура в нем повышается до миллиардов градусов. На лекции будет  рассказано об этих процессах, о круговороте вещества во Вселенной и о  том, какое значение это имеет для человека"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Лектор: Ольга Леонидовна Рябухина - сотрудник института астрофизики РАН, аспирант института астрономии РАН",
+      "spans": [
+        {
+          "text": "Лектор: Ольга Леонидовна Рябухина - сотрудник института астрофизики РАН, аспирант института астрономии РАН"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Мероприятие проходит в рамках проекта #МЫВЕРИМВКОСМОС",
+      "spans": [
+        {
+          "text": "Мероприятие проходит в рамках проекта "
+        },
+        {
+          "text": "#МЫВЕРИМВКОСМОС",
+          "href": "https://cosmatica.org/projects/116"
+        }
+      ],
+      "links": [
+        {
+          "text": "#МЫВЕРИМВКОСМОС",
+          "url": "https://cosmatica.org/projects/116"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Вход свободный .",
+      "spans": [
+        {
+          "text": "Вход свободный",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес: просп. Вернадского, 109, Москва, метро Юго-Западная Библиотека № 214 им. Ю. А. Гагарина",
+      "spans": [
+        {
+          "text": "Адрес: "
+        },
+        {
+          "text": "просп. Вернадского, 109, Москва, метро Юго-Западная",
+          "href": "https://yandex.ru/maps/?text=%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%E2%84%962014%20%D0%B8%D0%BC.%20%D0%AE.%D0%90.%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0.%20%D0%B3.%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&source=wizbiz_new_map_single&z=14&ll=37.483513%2C55.662202&sctx=ZAAAAAgBEAAaKAoSCRR5knTNUD5AEfTF3osv%2BE1AEhIJmQ0yychZ9T8RD9WUZB2O4z8iBQABAgQFKAAwATiFjJT1nbepymtAAkgBVc3MzD5YAGIiZXhwX2lkPWNvbnRyb2xfd29yc2VfbWV0cmljXzFfc2VycGIkbWlkZGxlX2Fza19kaXJlY3RfcXVlcnlfdHlwZXM9cnVicmljYi1taWRkbGVfeWFuZGV4X3RyYXZlbF9DYXRSb29tRGF0YVNvdXJjZUlkPTQ3MDBiKG1pZGRsZV9pbmZsYXRlX2RpcmVjdF9maWx0ZXJfd2luZG93PTUwMDBiEnJlbGV2X2RydWdfYm9vc3Q9MWJEbWlkZGxlX2RpcmVjdF9zbmlwcGV0cz1waG90b3MvMi54LGJ1c2luZXNzcmF0aW5nLzIueCxtYXNzdHJhbnNpdC8xLnhiNW1pZGRsZV93aXpleHRyYT10cmF2ZWxfY2xhc3NpZmllcl92YWx1ZT0wLjAyODU2NDUzNTA4YidtaWRkbGVfd2l6ZXh0cmE9YXBwbHlfZmVhdHVyZV9maWx0ZXJzPTFiKG1pZGRsZV93aXpleHRyYT1vcmdtbl93YW5kX3RocmVzaG9sZD0wLjliKW1pZGRsZV93aXpleHRyYT1yZXF1ZXN0X3NvZnRfdGltZW91dD0wLjA1YiNtaWRkbGVfd2l6ZXh0cmE9dHJhbnNpdF9hbGxvd19nZW89MWI%2FbWlkZGxlX3dpemV4dHJhPXRyYXZlbF9jbGFzc2lmaWVyX29yZ21hbnlfdmFsdWU9MC4wMDAyMzQxOTE4NzM1YiptaWRkbGVfaW5mbGF0ZV9kaXJlY3RfcmVxdWVzdF93aW5kb3c9MTAwMDBiHm1pZGRsZV9hc2tfZGlyZWN0X3Blcm1hbGlua3M9MWIdcmVsZXZfZmlsdGVyX2d3a2luZHM9MC4zLDAuNDViNHJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vUmVhcnJhbmdlUnVicmljQnkvUGVuYWx0eT0wLjFiKXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vVXNlR2VvVHJhdmVsUnVsZT0xYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0N1dEFmaXNoYVNuaXBwZXQ9MWIwcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9SZWFycmFuZ2VSdWJyaWNCeS9FYXJseT0xYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0FsbG93VHJhdmVsQm9vc3Q9MWIvcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Qb3N0ZmlsdGVyL0Fic1RocmVzaD0wLjJiMXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW91cHBlci9mZWF0dXJlc0Zyb21PYmplY3RzPTFiNXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vSG90ZWxCb29zdD1tZWFuX2NvbnZlcnNpb25fMTJ3YkByZWFycj1zY2hlbWVfTG9jYWwvR2VvL1JlYXJyYW5nZVJ1YnJpY0J5L1R5cGU9UGVuYWx0eVJ1YnJpY0NvdW50agJydXABlQEAAAAAnQHNzEw%2BoAEBqAEAvQE6ry17wgEFn7G0nQY%3D&ol=biz&oid=1672288415"
+        },
+        {
+          "text": " Библиотека № 214 им. Ю. А. Гагарина"
+        }
+      ],
+      "links": [
+        {
+          "text": "просп. Вернадского, 109, Москва, метро Юго-Западная",
+          "url": "https://yandex.ru/maps/?text=%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%E2%84%962014%20%D0%B8%D0%BC.%20%D0%AE.%D0%90.%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0.%20%D0%B3.%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&source=wizbiz_new_map_single&z=14&ll=37.483513%2C55.662202&sctx=ZAAAAAgBEAAaKAoSCRR5knTNUD5AEfTF3osv%2BE1AEhIJmQ0yychZ9T8RD9WUZB2O4z8iBQABAgQFKAAwATiFjJT1nbepymtAAkgBVc3MzD5YAGIiZXhwX2lkPWNvbnRyb2xfd29yc2VfbWV0cmljXzFfc2VycGIkbWlkZGxlX2Fza19kaXJlY3RfcXVlcnlfdHlwZXM9cnVicmljYi1taWRkbGVfeWFuZGV4X3RyYXZlbF9DYXRSb29tRGF0YVNvdXJjZUlkPTQ3MDBiKG1pZGRsZV9pbmZsYXRlX2RpcmVjdF9maWx0ZXJfd2luZG93PTUwMDBiEnJlbGV2X2RydWdfYm9vc3Q9MWJEbWlkZGxlX2RpcmVjdF9zbmlwcGV0cz1waG90b3MvMi54LGJ1c2luZXNzcmF0aW5nLzIueCxtYXNzdHJhbnNpdC8xLnhiNW1pZGRsZV93aXpleHRyYT10cmF2ZWxfY2xhc3NpZmllcl92YWx1ZT0wLjAyODU2NDUzNTA4YidtaWRkbGVfd2l6ZXh0cmE9YXBwbHlfZmVhdHVyZV9maWx0ZXJzPTFiKG1pZGRsZV93aXpleHRyYT1vcmdtbl93YW5kX3RocmVzaG9sZD0wLjliKW1pZGRsZV93aXpleHRyYT1yZXF1ZXN0X3NvZnRfdGltZW91dD0wLjA1YiNtaWRkbGVfd2l6ZXh0cmE9dHJhbnNpdF9hbGxvd19nZW89MWI%2FbWlkZGxlX3dpemV4dHJhPXRyYXZlbF9jbGFzc2lmaWVyX29yZ21hbnlfdmFsdWU9MC4wMDAyMzQxOTE4NzM1YiptaWRkbGVfaW5mbGF0ZV9kaXJlY3RfcmVxdWVzdF93aW5kb3c9MTAwMDBiHm1pZGRsZV9hc2tfZGlyZWN0X3Blcm1hbGlua3M9MWIdcmVsZXZfZmlsdGVyX2d3a2luZHM9MC4zLDAuNDViNHJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vUmVhcnJhbmdlUnVicmljQnkvUGVuYWx0eT0wLjFiKXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vVXNlR2VvVHJhdmVsUnVsZT0xYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0N1dEFmaXNoYVNuaXBwZXQ9MWIwcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9SZWFycmFuZ2VSdWJyaWNCeS9FYXJseT0xYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0FsbG93VHJhdmVsQm9vc3Q9MWIvcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Qb3N0ZmlsdGVyL0Fic1RocmVzaD0wLjJiMXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW91cHBlci9mZWF0dXJlc0Zyb21PYmplY3RzPTFiNXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vSG90ZWxCb29zdD1tZWFuX2NvbnZlcnNpb25fMTJ3YkByZWFycj1zY2hlbWVfTG9jYWwvR2VvL1JlYXJyYW5nZVJ1YnJpY0J5L1R5cGU9UGVuYWx0eVJ1YnJpY0NvdW50agJydXABlQEAAAAAnQHNzEw%2BoAEBqAEAvQE6ry17wgEFn7G0nQY%3D&ol=biz&oid=1672288415"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Приглашаем на лекцию \"Процессы образования звёзд и звёздная эволюция\". Космос не статичен: прямо в этот момент в нашей и других галактиках происходит термоядерный синтез в звездах, взрываются сверхновые, а холодное и разреженное межзвездное вещество сжимается настолько плотно, что температура в нем повышается до миллиардов градусов. На лекции будет рассказано об этих процессах, о круговороте вещества во Вселенной и о том, какое значение это имеет для человека Лектор: Ольга Леонидовна Рябухина - сотрудник института астрофизики РАН, аспирант института астрономии РАН Мероприятие проходит в рамках проекта #МЫВЕРИМВКОСМОС Вход свободный . Адрес: просп. Вернадского, 109, Москва, метро Юго-Западная Библиотека № 214 им. Ю. А. Гагарина",
+      "links": [
+        {
+          "title": "#МЫВЕРИМВКОСМОС",
+          "url": "https://cosmatica.org/projects/116"
+        },
+        {
+          "title": "просп. Вернадского, 109, Москва, метро Юго-Западная",
+          "url": "https://yandex.ru/maps/?text=%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%E2%84%962014%20%D0%B8%D0%BC.%20%D0%AE.%D0%90.%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0.%20%D0%B3.%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&source=wizbiz_new_map_single&z=14&ll=37.483513%2C55.662202&sctx=ZAAAAAgBEAAaKAoSCRR5knTNUD5AEfTF3osv%2BE1AEhIJmQ0yychZ9T8RD9WUZB2O4z8iBQABAgQFKAAwATiFjJT1nbepymtAAkgBVc3MzD5YAGIiZXhwX2lkPWNvbnRyb2xfd29yc2VfbWV0cmljXzFfc2VycGIkbWlkZGxlX2Fza19kaXJlY3RfcXVlcnlfdHlwZXM9cnVicmljYi1taWRkbGVfeWFuZGV4X3RyYXZlbF9DYXRSb29tRGF0YVNvdXJjZUlkPTQ3MDBiKG1pZGRsZV9pbmZsYXRlX2RpcmVjdF9maWx0ZXJfd2luZG93PTUwMDBiEnJlbGV2X2RydWdfYm9vc3Q9MWJEbWlkZGxlX2RpcmVjdF9zbmlwcGV0cz1waG90b3MvMi54LGJ1c2luZXNzcmF0aW5nLzIueCxtYXNzdHJhbnNpdC8xLnhiNW1pZGRsZV93aXpleHRyYT10cmF2ZWxfY2xhc3NpZmllcl92YWx1ZT0wLjAyODU2NDUzNTA4YidtaWRkbGVfd2l6ZXh0cmE9YXBwbHlfZmVhdHVyZV9maWx0ZXJzPTFiKG1pZGRsZV93aXpleHRyYT1vcmdtbl93YW5kX3RocmVzaG9sZD0wLjliKW1pZGRsZV93aXpleHRyYT1yZXF1ZXN0X3NvZnRfdGltZW91dD0wLjA1YiNtaWRkbGVfd2l6ZXh0cmE9dHJhbnNpdF9hbGxvd19nZW89MWI%2FbWlkZGxlX3dpemV4dHJhPXRyYXZlbF9jbGFzc2lmaWVyX29yZ21hbnlfdmFsdWU9MC4wMDAyMzQxOTE4NzM1YiptaWRkbGVfaW5mbGF0ZV9kaXJlY3RfcmVxdWVzdF93aW5kb3c9MTAwMDBiHm1pZGRsZV9hc2tfZGlyZWN0X3Blcm1hbGlua3M9MWIdcmVsZXZfZmlsdGVyX2d3a2luZHM9MC4zLDAuNDViNHJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vUmVhcnJhbmdlUnVicmljQnkvUGVuYWx0eT0wLjFiKXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vVXNlR2VvVHJhdmVsUnVsZT0xYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0N1dEFmaXNoYVNuaXBwZXQ9MWIwcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9SZWFycmFuZ2VSdWJyaWNCeS9FYXJseT0xYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0FsbG93VHJhdmVsQm9vc3Q9MWIvcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Qb3N0ZmlsdGVyL0Fic1RocmVzaD0wLjJiMXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW91cHBlci9mZWF0dXJlc0Zyb21PYmplY3RzPTFiNXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vSG90ZWxCb29zdD1tZWFuX2NvbnZlcnNpb25fMTJ3YkByZWFycj1zY2hlbWVfTG9jYWwvR2VvL1JlYXJyYW5nZVJ1YnJpY0J5L1R5cGU9UGVuYWx0eVJ1YnJpY0NvdW50agJydXABlQEAAAAAnQHNzEw%2BoAEBqAEAvQE6ry17wgEFn7G0nQY%3D&ol=biz&oid=1672288415"
+        },
+        {
+          "title": "",
+          "url": "https://yandex.ru/maps/?text=%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%E2%84%962014%20%D0%B8%D0%BC.%20%D0%AE.%D0%90.%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0.%20%D0%B3.%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&source=wizbiz_new_map_single&z=14&ll=37.483513%2C55.662202&sctx=ZAAAAAgBEAAaKAoSCRR5knTNUD5AEfTF3osv%2BE1AEhIJmQ0yychZ9T8RD9WUZB2O4z8iBQABAgQFKAAwATiFjJT1nbepymtAAkgBVc3MzD5YAGIiZXhwX2lkPWNvbnRyb2xfd29yc2VfbWV0cmljXzFfc2VycGIkbWlkZGxlX2Fza19kaXJlY3RfcXVlcnlfdHlwZXM9cnVicmljYi1taWRkbGVfeWFuZGV4X3RyYXZlbF9DYXRSb29tRGF0YVNvdXJjZUlkPTQ3MDBiKG1pZGRsZV9pbmZsYXRlX2RpcmVjdF9maWx0ZXJfd2luZG93PTUwMDBiEnJlbGV2X2RydWdfYm9vc3Q9MWJEbWlkZGxlX2RpcmVjdF9zbmlwcGV0cz1waG90b3MvMi54LGJ1c2luZXNzcmF0aW5nLzIueCxtYXNzdHJhbnNpdC8xLnhiNW1pZGRsZV93aXpleHRyYT10cmF2ZWxfY2xhc3NpZmllcl92YWx1ZT0wLjAyODU2NDUzNTA4YidtaWRkbGVfd2l6ZXh0cmE9YXBwbHlfZmVhdHVyZV9maWx0ZXJzPTFiKG1pZGRsZV93aXpleHRyYT1vcmdtbl93YW5kX3RocmVzaG9sZD0wLjliKW1pZGRsZV93aXpleHRyYT1yZXF1ZXN0X3NvZnRfdGltZW91dD0wLjA1YiNtaWRkbGVfd2l6ZXh0cmE9dHJhbnNpdF9hbGxvd19nZW89MWI%2FbWlkZGxlX3dpemV4dHJhPXRyYXZlbF9jbGFzc2lmaWVyX29yZ21hbnlfdmFsdWU9MC4wMDAyMzQxOTE4NzM1YiptaWRkbGVfaW5mbGF0ZV9kaXJlY3RfcmVxdWVzdF93aW5kb3c9MTAwMDBiHm1pZGRsZV9hc2tfZGlyZWN0X3Blcm1hbGlua3M9MWIdcmVsZXZfZmlsdGVyX2d3a2luZHM9MC4zLDAuNDViNHJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vUmVhcnJhbmdlUnVicmljQnkvUGVuYWx0eT0wLjFiKXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vVXNlR2VvVHJhdmVsUnVsZT0xYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0N1dEFmaXNoYVNuaXBwZXQ9MWIwcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9SZWFycmFuZ2VSdWJyaWNCeS9FYXJseT0xYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0FsbG93VHJhdmVsQm9vc3Q9MWIvcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Qb3N0ZmlsdGVyL0Fic1RocmVzaD0wLjJiMXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW91cHBlci9mZWF0dXJlc0Zyb21PYmplY3RzPTFiNXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vSG90ZWxCb29zdD1tZWFuX2NvbnZlcnNpb25fMTJ3YkByZWFycj1zY2hlbWVfTG9jYWwvR2VvL1JlYXJyYW5nZVJ1YnJpY0J5L1R5cGU9UGVuYWx0eVJ1YnJpY0NvdW50agJydXABlQEAAAAAnQHNzEw%2BoAEBqAEAvQE6ry17wgEFn7G0nQY%3D&ol=biz&oid=1672288415"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/1/8/processy-obrazovanija-zvyozd-i-zvyozdnaja-evolyucija-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 955,
+    "storedTextCharacters": 731,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 7,
+    "sourceBytes": 43752
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 955,
+  "capturedBodyCharacters": 731,
+  "sourceTextSHA256": "a030c13018ed32ad36f593172e2464bd319592e49ad35474a406a663950d66bf",
+  "archiveSnapshotAt": "2026-10-08T09:15:29Z"
+}

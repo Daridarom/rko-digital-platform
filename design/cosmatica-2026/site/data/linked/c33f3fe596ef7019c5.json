@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/255",
+  "title": "Валентин Константинович Чебанов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/d/9ae3d941.jpg",
+      "alt": "Валентин Константинович Чебанов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/b/40cac090.jpg",
+      "alt": "Валентин Константинович Чебанов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/5/d/9ae3d941.jpg",
+    "https://cosmatica.org/upload/000/u35/b/b/40cac090.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 67,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34060
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 10,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "0843745e11113f5b0b0e25f23e794d9d9fe5d81bfdfea46464e167e39aa665d8",
+  "archiveSnapshotAt": "2026-10-08T09:18:52Z"
+}

@@ -92,5 +92,11 @@
     "sourceImageCount": 0,
     "paragraphCount": 1,
     "sourceBytes": 77088
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "articles-list",
+  "sourceTextCharacters": 433,
+  "capturedBodyCharacters": 398,
+  "sourceTextSHA256": "a54a9ead64701ceb0a64a0fc20196cc29c540819a5d540acb72c6b510afdf8a1",
+  "archiveSnapshotAt": "2026-10-08T08:45:03Z"
 }

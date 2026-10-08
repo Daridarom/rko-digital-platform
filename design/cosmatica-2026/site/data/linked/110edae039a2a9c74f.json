@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/15-ciolkovskii-konstantin-eduardovich-promyshlennoe-osvoenie-kosmosa.html",
+  "title": "Циолковский Константин Эдуардович - Промышленное освоение космоса",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/0006cef720fc84e4946fdd.webp",
+      "alt": "Циолковский Константин Эдуардович -  Промышленное освоение космоса"
+    },
+    {
+      "type": "paragraph",
+      "text": "Впервые собраны основные работы К. Э. Циолковского, в том числе и ранее не\r\nпубликовавшиеся, в которых рассмотрены вопросы промышленного освоения космоса.\r\nКнига позволяет составить полное и целостное представление об этом направлении\r\nработы Циолковского. Многие из результатов, полученные великим ученым, имеют\r\nприоритетное значение для советской науки.",
+      "spans": [
+        {
+          "text": "Впервые собраны основные работы К. Э. Циолковского, в том числе и ранее не\r\nпубликовавшиеся, в которых рассмотрены вопросы промышленного освоения космоса.\r\nКнига позволяет составить полное и целостное представление об этом направлении\r\nработы Циолковского. Многие из результатов, полученные великим ученым, имеют\r\nприоритетное значение для советской науки."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Циолковский Константин Эдуардович",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Впервые собраны основные работы К. Э. Циолковского, в том числе и ранее не публиковавшиеся, в которых рассмотрены вопросы промышленного освоения космоса. Книга позволяет составить полное и целостное представление об этом направлении работы Циолковского. Многие из результатов, полученные великим ученым, имеют приоритетное значение для советской науки.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 4 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/15/afbdf81d314db4dc818ca7696ecd8004"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/0006cef720fc84e4946fdd.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/15/afbdf81d314db4dc818ca7696ecd8004"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 478,
+    "storedTextCharacters": 356,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40697
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 412,
+  "capturedBodyCharacters": 356,
+  "sourceTextSHA256": "fc8aaf65ff97fe70b0047bf78bce8b60632f4cf140e1821cc7116c210e7b5714",
+  "archiveSnapshotAt": "2026-10-08T08:47:44Z"
+}

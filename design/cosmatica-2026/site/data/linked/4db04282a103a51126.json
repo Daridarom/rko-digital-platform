@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/37-princip-polnoi-redukcii-kak-dvoinik-principa-polnoi-indukcii-o-dokazatelstve-poslednei-teoremy-f.html",
+  "title": "Принцип полной редукции как «двойник» принципа полной индукции (о доказательстве последней теоремы Ф",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Обнаружение «двойника» ЕДИНСТВЕННОМУ принципу\r\nматематического доказательства вряд ли может пройти\r\nнезамеченным среди математиков.",
+      "spans": [
+        {
+          "text": "Обнаружение «двойника» ЕДИНСТВЕННОМУ принципу\r\nматематического доказательства вряд ли может пройти\r\nнезамеченным среди математиков."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Обнаружение «двойника» ЕДИНСТВЕННОМУ принципу математического доказательства вряд ли может пройти незамеченным среди математиков.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 123 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/53/fb70bbe4858515a15953f086ddc37540"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/53/fb70bbe4858515a15953f086ddc37540"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 251,
+    "storedTextCharacters": 131,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39674
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 150,
+  "capturedBodyCharacters": 131,
+  "sourceTextSHA256": "4fcab774313d4bdec3e1b742a8049ddb6c96d3a80708f6e6ea0d783a69074437",
+  "archiveSnapshotAt": "2026-10-08T08:49:32Z"
+}

@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/astronomija",
+  "title": "Астрономия",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "Элементарная астрономия",
+          "Климишин Иван Антонович",
+          ""
+        ],
+        [
+          "",
+          "Этюды о свете (2000)",
+          "Королькевич Ф.И.",
+          ""
+        ],
+        [
+          "",
+          "Элементы космологии (2001)",
+          "Нагирнер Д.И.",
+          ""
+        ],
+        [
+          "",
+          "Шестьдесят лет у телескопа (1959)",
+          "Тихов Г.А.",
+          ""
+        ],
+        [
+          "",
+          "Что и как наблюдать на небе (1984)",
+          "Цесевич В.П.",
+          ""
+        ],
+        [
+          "",
+          "Русский астрономический календарь (1930)",
+          "Борчев М.А., Горянинов Г.Г.",
+          ""
+        ],
+        [
+          "",
+          "Рождение Вселенной (2000)",
+          "Линде А.",
+          ""
+        ],
+        [
+          "",
+          "Революция в астрономии (1972)",
+          "Ходж П.",
+          ""
+        ],
+        [
+          "",
+          "Лунные горизонты (1976)",
+          "Зигель Ф.Ю.",
+          ""
+        ],
+        [
+          "",
+          "Луна (1912)",
+          "Фламмарион К.",
+          ""
+        ],
+        [
+          "",
+          "Жемчужины звёздного неба (1988)",
+          "Климишин И.А.",
+          ""
+        ],
+        [
+          "",
+          "Звёздные вечера (1922)",
+          "Чижов Е.",
+          ""
+        ],
+        [
+          "",
+          "Геологи изучают планеты (1984)",
+          "Кац Я.Г., Козлов В.В.",
+          ""
+        ],
+        [
+          "",
+          "Галилеева комета (1909)",
+          "Блажко С.Н., Морозов Н.",
+          ""
+        ],
+        [
+          "",
+          "Гравитация и вселенная (1972)",
+          "Дикке Р.",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/2/4/elementarnaja-astronomija-photo-small.jpg",
+      "alt": "Элементарная астрономия"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/7/etyudy-o-svete-2000-photo-small.png",
+      "alt": "Этюды о свете (2000)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/6/elementy-kosmologii-2001-photo-small.png",
+      "alt": "Элементы космологии (2001)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/4/7/shestdesjat-let-u-teleskopa-1959-photo-small.jpg",
+      "alt": "Шестьдесят лет у телескопа (1959)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/2/3/chto-i-kak-nablyudat-na-nebe-1984-photo-small.jpeg",
+      "alt": "Что и как наблюдать на небе (1984)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/0/russkii-astronomicheskii-kalendar-1930-photo-small.png",
+      "alt": "Русский астрономический календарь (1930)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/8/rozhdenie-vselennoi-2000-photo-small.png",
+      "alt": "Рождение Вселенной (2000)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/b/revolyucija-v-astronomii-1972-photo-small.png",
+      "alt": "Революция в астрономии (1972)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/2/4/lunnye-gorizonty-1976-photo-small.png",
+      "alt": "Лунные горизонты (1976)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/8/4/luna-1912-photo-small.png",
+      "alt": "Луна (1912)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/1/zhemchuzhiny-zvyozdnogo-neba-1988-photo-small.png",
+      "alt": "Жемчужины звёздного неба (1988)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/6/1/zvyozdnye-vechera-1922-photo-small.jpg",
+      "alt": "Звёздные вечера (1922)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/5/geologi-izuchayut-planety-1984-photo-small.png",
+      "alt": "Геологи изучают планеты (1984)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/d/galileeva-kometa-1909-photo-small.png",
+      "alt": "Галилеева комета (1909)"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/8/gravitacija-i-vselennaja-1972-photo-small.jpg",
+      "alt": "Гравитация и вселенная (1972)"
+    }
+  ],
+  "cards": [
+    {
+      "title": "Элементарная астрономия",
+      "description": "Элементарная астрономия Климишин Иван Антонович",
+      "url": "https://cosmatica.org/library/424-elementarnaja-astronomija.html",
+      "image": "https://cosmatica.org/upload/000/u7/2/4/elementarnaja-astronomija-photo-small.jpg",
+      "links": [
+        {
+          "title": "Элементарная астрономия",
+          "url": "https://cosmatica.org/library/424-elementarnaja-astronomija.html"
+        }
+      ]
+    },
+    {
+      "title": "Этюды о свете (2000)",
+      "description": "Этюды о свете (2000) Королькевич Ф.И.",
+      "url": "https://cosmatica.org/library/342-etyudy-o-svete-2000.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/7/etyudy-o-svete-2000-photo-small.png",
+      "links": [
+        {
+          "title": "Этюды о свете (2000)",
+          "url": "https://cosmatica.org/library/342-etyudy-o-svete-2000.html"
+        }
+      ]
+    },
+    {
+      "title": "Элементы космологии (2001)",
+      "description": "Элементы космологии (2001) Нагирнер Д.И.",
+      "url": "https://cosmatica.org/library/341-elementy-kosmologii-2001.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/6/elementy-kosmologii-2001-photo-small.png",
+      "links": [
+        {
+          "title": "Элементы космологии (2001)",
+          "url": "https://cosmatica.org/library/341-elementy-kosmologii-2001.html"
+        }
+      ]
+    },
+    {
+      "title": "Шестьдесят лет у телескопа (1959)",
+      "description": "Шестьдесят лет у телескопа (1959) Тихов Г.А.",
+      "url": "https://cosmatica.org/library/340-shestdesjat-let-u-teleskopa-1959.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/7/shestdesjat-let-u-teleskopa-1959-photo-small.jpg",
+      "links": [
+        {
+          "title": "Шестьдесят лет у телескопа (1959)",
+          "url": "https://cosmatica.org/library/340-shestdesjat-let-u-teleskopa-1959.html"
+        }
+      ]
+    },
+    {
+      "title": "Что и как наблюдать на небе (1984)",
+      "description": "Что и как наблюдать на небе (1984) Цесевич В.П.",
+      "url": "https://cosmatica.org/library/339-chto-i-kak-nablyudat-na-nebe-1984.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/3/chto-i-kak-nablyudat-na-nebe-1984-photo-small.jpeg",
+      "links": [
+        {
+          "title": "Что и как наблюдать на небе (1984)",
+          "url": "https://cosmatica.org/library/339-chto-i-kak-nablyudat-na-nebe-1984.html"
+        }
+      ]
+    },
+    {
+      "title": "Русский астрономический календарь (1930)",
+      "description": "Русский астрономический календарь (1930) Борчев М.А., Горянинов Г.Г.",
+      "url": "https://cosmatica.org/library/338-russkii-astronomicheskii-kalendar-1930.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/0/russkii-astronomicheskii-kalendar-1930-photo-small.png",
+      "links": [
+        {
+          "title": "Русский астрономический календарь (1930)",
+          "url": "https://cosmatica.org/library/338-russkii-astronomicheskii-kalendar-1930.html"
+        }
+      ]
+    },
+    {
+      "title": "Рождение Вселенной (2000)",
+      "description": "Рождение Вселенной (2000) Линде А.",
+      "url": "https://cosmatica.org/library/337-rozhdenie-vselennoi-2000.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/8/rozhdenie-vselennoi-2000-photo-small.png",
+      "links": [
+        {
+          "title": "Рождение Вселенной (2000)",
+          "url": "https://cosmatica.org/library/337-rozhdenie-vselennoi-2000.html"
+        }
+      ]
+    },
+    {
+      "title": "Революция в астрономии (1972)",
+      "description": "Революция в астрономии (1972) Ходж П.",
+      "url": "https://cosmatica.org/library/336-revolyucija-v-astronomii-1972.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/b/revolyucija-v-astronomii-1972-photo-small.png",
+      "links": [
+        {
+          "title": "Революция в астрономии (1972)",
+          "url": "https://cosmatica.org/library/336-revolyucija-v-astronomii-1972.html"
+        }
+      ]
+    },
+    {
+      "title": "Лунные горизонты (1976)",
+      "description": "Лунные горизонты (1976) Зигель Ф.Ю.",
+      "url": "https://cosmatica.org/library/335-lunnye-gorizonty-1976.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/4/lunnye-gorizonty-1976-photo-small.png",
+      "links": [
+        {
+          "title": "Лунные горизонты (1976)",
+          "url": "https://cosmatica.org/library/335-lunnye-gorizonty-1976.html"
+        }
+      ]
+    },
+    {
+      "title": "Луна (1912)",
+      "description": "Луна (1912) Фламмарион К.",
+      "url": "https://cosmatica.org/library/334-luna-1912.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/4/luna-1912-photo-small.png",
+      "links": [
+        {
+          "title": "Луна (1912)",
+          "url": "https://cosmatica.org/library/334-luna-1912.html"
+        }
+      ]
+    },
+    {
+      "title": "Жемчужины звёздного неба (1988)",
+      "description": "Жемчужины звёздного неба (1988) Климишин И.А.",
+      "url": "https://cosmatica.org/library/333-zhemchuzhiny-zvyozdnogo-neba-1988.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/1/zhemchuzhiny-zvyozdnogo-neba-1988-photo-small.png",
+      "links": [
+        {
+          "title": "Жемчужины звёздного неба (1988)",
+          "url": "https://cosmatica.org/library/333-zhemchuzhiny-zvyozdnogo-neba-1988.html"
+        }
+      ]
+    },
+    {
+      "title": "Звёздные вечера (1922)",
+      "description": "Звёздные вечера (1922) Чижов Е.",
+      "url": "https://cosmatica.org/library/332-zvyozdnye-vechera-1922.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/1/zvyozdnye-vechera-1922-photo-small.jpg",
+      "links": [
+        {
+          "title": "Звёздные вечера (1922)",
+          "url": "https://cosmatica.org/library/332-zvyozdnye-vechera-1922.html"
+        }
+      ]
+    },
+    {
+      "title": "Геологи изучают планеты (1984)",
+      "description": "Геологи изучают планеты (1984) Кац Я.Г., Козлов В.В.",
+      "url": "https://cosmatica.org/library/331-geologi-izuchayut-planety-1984.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/5/geologi-izuchayut-planety-1984-photo-small.png",
+      "links": [
+        {
+          "title": "Геологи изучают планеты (1984)",
+          "url": "https://cosmatica.org/library/331-geologi-izuchayut-planety-1984.html"
+        }
+      ]
+    },
+    {
+      "title": "Галилеева комета (1909)",
+      "description": "Галилеева комета (1909) Блажко С.Н., Морозов Н.",
+      "url": "https://cosmatica.org/library/330-galileeva-kometa-1909.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/d/galileeva-kometa-1909-photo-small.png",
+      "links": [
+        {
+          "title": "Галилеева комета (1909)",
+          "url": "https://cosmatica.org/library/330-galileeva-kometa-1909.html"
+        }
+      ]
+    },
+    {
+      "title": "Гравитация и вселенная (1972)",
+      "description": "Гравитация и вселенная (1972) Дикке Р.",
+      "url": "https://cosmatica.org/library/327-gravitacija-i-vselennaja-1972.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/8/gravitacija-i-vselennaja-1972-photo-small.jpg",
+      "links": [
+        {
+          "title": "Гравитация и вселенная (1972)",
+          "url": "https://cosmatica.org/library/327-gravitacija-i-vselennaja-1972.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/2/4/elementarnaja-astronomija-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/f/7/etyudy-o-svete-2000-photo-small.png",
+    "https://cosmatica.org/upload/002/u218/0/6/elementy-kosmologii-2001-photo-small.png",
+    "https://cosmatica.org/upload/002/u218/4/7/shestdesjat-let-u-teleskopa-1959-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/2/3/chto-i-kak-nablyudat-na-nebe-1984-photo-small.jpeg",
+    "https://cosmatica.org/upload/002/u218/0/0/russkii-astronomicheskii-kalendar-1930-photo-small.png",
+    "https://cosmatica.org/upload/002/u218/f/8/rozhdenie-vselennoi-2000-photo-small.png",
+    "https://cosmatica.org/upload/002/u218/0/b/revolyucija-v-astronomii-1972-photo-small.png",
+    "https://cosmatica.org/upload/002/u218/2/4/lunnye-gorizonty-1976-photo-small.png",
+    "https://cosmatica.org/upload/002/u218/8/4/luna-1912-photo-small.png",
+    "https://cosmatica.org/upload/002/u218/7/1/zhemchuzhiny-zvyozdnogo-neba-1988-photo-small.png",
+    "https://cosmatica.org/upload/002/u218/6/1/zvyozdnye-vechera-1922-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/5/5/geologi-izuchayut-planety-1984-photo-small.png",
+    "https://cosmatica.org/upload/002/u218/9/d/galileeva-kometa-1909-photo-small.png",
+    "https://cosmatica.org/upload/002/u218/f/8/gravitacija-i-vselennaja-1972-photo-small.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 726,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 15,
+    "sourceImageCount": 15,
+    "paragraphCount": 0,
+    "sourceBytes": 61795
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 726,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "c76c29f73554d7c40b92328402b68957a90af20b3e856ace606ad4f345e71901",
+  "archiveSnapshotAt": "2026-10-08T08:51:12Z"
+}

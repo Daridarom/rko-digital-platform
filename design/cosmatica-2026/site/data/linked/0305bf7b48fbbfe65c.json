@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/236",
+  "title": "Константин Николаевич Шадров",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/4/0/4a397ca3.jpg",
+      "alt": "Константин Николаевич Шадров"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 2"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/7/e/fd2856b3.jpg",
+      "alt": "Константин Николаевич Шадров"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 3"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Старший преподаватель кафедры устойчивого инновационного развития Государственный университета «Дубна»",
+      "spans": [
+        {
+          "text": "Старший преподаватель кафедры устойчивого инновационного развития Государственный университета «Дубна»"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Член Международной научной школы устойчивого развития им. П.Г.Кузнецова",
+      "spans": [
+        {
+          "text": "Член Международной научной школы устойчивого развития им. П.Г.Кузнецова"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Старший преподаватель кафедры устойчивого инновационного развития Государственный университета «Дубна» Член Международной научной школы устойчивого развития им. П.Г.Кузнецова",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/4/0/4a397ca3.jpg",
+    "https://cosmatica.org/upload/000/u35/7/e/fd2856b3.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 286,
+    "storedTextCharacters": 233,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36599
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 202,
+  "capturedBodyCharacters": 233,
+  "sourceTextSHA256": "14c0d275aa54eb13e14c515250651d9ba27c76460d1810b2a8dade5eb9f48f90",
+  "archiveSnapshotAt": "2026-10-08T09:18:43Z"
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1107-kljatva-momenta-i-usilenie-obschei-moschnosti-sistemy.html",
+  "title": "Клятва Момента и усиление общей мощности системы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Зотов Степан Андреевич, Член Президиума Русского Космического Общества. Руководитель проекта «Космодесант»",
+      "spans": [
+        {
+          "text": "Зотов Степан Андреевич, Член Президиума Русского Космического Общества. Руководитель проекта «Космодесант»"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+      "spans": [
+        {
+          "text": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+          "href": "https://cosmatica.org/news/890-molodyozh-rossii-v-kosmicheskom-buduschem-chelovechestva.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+          "url": "https://cosmatica.org/news/890-molodyozh-rossii-v-kosmicheskom-buduschem-chelovechestva.html"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "H_E22TjQLvw",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=H_E22TjQLvw"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Зотов Степан Андреевич, Член Президиума Русского Космического Общества. Руководитель проекта «Космодесант» https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+      "links": [
+        {
+          "title": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+          "url": "https://cosmatica.org/news/890-molodyozh-rossii-v-kosmicheskom-buduschem-chelovechestva.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 232,
+    "storedTextCharacters": 159,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 74481
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 183,
+  "capturedBodyCharacters": 159,
+  "sourceTextSHA256": "759fe6faeb608b6297a8ef3c3ea3b3a5d0d77b66f73d365c84e41a7beea8210f",
+  "archiveSnapshotAt": "2026-10-08T08:38:18Z",
+  "publicVideoCount": 1
+}

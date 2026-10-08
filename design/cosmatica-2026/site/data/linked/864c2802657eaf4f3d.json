@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/857",
+  "title": "Любовь Юрьевна Волчкова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/0/f/ebe08afb.jpeg",
+      "alt": "Любовь Юрьевна Волчкова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 2"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/8/a37d375f.jpeg",
+      "alt": "Любовь Юрьевна Волчкова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 5 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Помощница руководителя Попечительского совета РКО",
+      "spans": [
+        {
+          "text": "Помощница руководителя Попечительского совета РКО"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Помощница руководителя Попечительского совета РКО",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/0/f/ebe08afb.jpeg",
+    "https://cosmatica.org/upload/000/u35/1/8/a37d375f.jpeg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 144,
+    "storedTextCharacters": 98,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36013
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 77,
+  "capturedBodyCharacters": 98,
+  "sourceTextSHA256": "79f61087582b37f5031bfc31afc1ec582151cd75b17e1b57e523507d2bc13e86",
+  "archiveSnapshotAt": "2026-10-08T09:22:21Z"
+}

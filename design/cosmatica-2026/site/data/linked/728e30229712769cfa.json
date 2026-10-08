@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/498-doklad-prezidenta-rko-bolshakova-borisa-evgenevicha.html",
+  "title": "Доклад Президента РКО - Большакова Бориса Евгеньевича",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#IX Международная научная конференция «Устойчивое развитие как условие сохранения и развития жизни ро",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Прорывные разработки и современные практики в проектировании ноосферного устойчивого развития гражданского общества\".",
+      "spans": [
+        {
+          "text": "\"Прорывные разработки и современные практики в проектировании ноосферного устойчивого развития гражданского общества\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Межрегиональная научно-практическая конференция Русского Космического Общества: \"Устойчивое развитие , как условие сохранения и развития жизни Российского общества\"",
+      "spans": [
+        {
+          "text": "Межрегиональная научно-практическая конференция Русского Космического  Общества: \"Устойчивое  "
+        },
+        {
+          "text": "развитие",
+          "href": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "text": ", как условие сохранения и развития жизни  Российского общества\""
+        }
+      ],
+      "links": [
+        {
+          "text": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Дата проведения 25 мая 2018 года.",
+      "spans": [
+        {
+          "text": "Дата проведения 25 мая 2018 года."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Место проведения: Музей космонавтики, г. Москва.",
+      "spans": [
+        {
+          "text": "Место проведения: Музей космонавтики, г. Москва."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "www.большаков.рус",
+      "spans": [
+        {
+          "text": "www.большаков.рус"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "o_cCZHmNev8",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=o_cCZHmNev8"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "\"Прорывные разработки и современные практики в проектировании ноосферного устойчивого развития гражданского общества\". Межрегиональная научно-практическая конференция Русского Космического Общества: \"Устойчивое развитие , как условие сохранения и развития жизни Российского общества\" Дата проведения 25 мая 2018 года. Место проведения: Музей космонавтики, г. Москва. www.большаков.рус",
+      "links": [
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 665,
+    "storedTextCharacters": 481,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 5,
+    "sourceBytes": 76204
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 509,
+  "capturedBodyCharacters": 481,
+  "sourceTextSHA256": "12830b4ec08821d45dd9f36db765078ec4fcc4b243f8b4057b879ecb00a1216a",
+  "archiveSnapshotAt": "2026-10-08T08:41:59Z",
+  "publicVideoCount": 1
+}

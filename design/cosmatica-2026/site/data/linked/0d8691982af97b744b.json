@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/134-russkoe-kosmicheskoe-obschestvo-obrelo-status-mezhregionalnoi-obschestvennoi-organizacii.html",
+  "title": "​Русское Космическое Общество обрело статус Межрегиональной общественной организации",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/89/8f/russkoe-kosmicheskoe-obschestvo-obrelo-status-mezhregionalnoi-obsche.jpg",
+      "alt": "​Русское Космическое Общество обрело статус Межрегиональной общественной организации"
+    },
+    {
+      "type": "paragraph",
+      "text": "Следующая цель - Всероссийский статус.",
+      "spans": [
+        {
+          "text": "Следующая цель - Всероссийский статус."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Это произошло 19 июня 2018 г. Событие открывает новые возможности для действий.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Следующая цель - Всероссийский статус. Её достижение не за горами! В состав РКО теперь официально входит 10 отделений: - Москва - Московская область - Санкт-Петербург - Ленинградская область - Свердловская область - Новосибирская область - Челябинская область - Республика Крым - Республика Хакасия - Курская область Некоторые Отделения активно проявляют себя уже многие месяцы, другие же только начинают показывать себя и свой потенциал. Но все они одинаковы в главном: в их состав входят энтузиасты, способные словом и делом возрождать смелую мечту об освоении космоса. Крепнут наши ряды, а вместе с тем и наши возможности. Благодарим всех причастных и приглашаем к взаимосодействию тех, кто ещё не решился вступить на путь устойчивого развития жизни на Земле и в космосе! Устав РКО: http://cosmatica.org/about/8-ustav-russkogo-kosmic... Регистрационные документы: http://cosmatica.org/about/9-registracionnye-dokum... Обновлённая карточка организации: http://cosmatica.org/about/kartochka-organizacii.h...",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/89/8f/russkoe-kosmicheskoe-obschestvo-obrelo-status-mezhregionalnoi-obsche.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1359,
+    "storedTextCharacters": 49,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 48966
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1164,
+  "capturedBodyCharacters": 49,
+  "sourceTextSHA256": "584bb63ddb09dd29d50f8c25f6a2c07cec28eac67097b224e21095ecdcc7c600",
+  "archiveSnapshotAt": "2026-10-08T09:07:13Z"
+}

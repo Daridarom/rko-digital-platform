@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/161-baza-znanii.html",
+  "title": "База знаний",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это проективное",
+      "spans": [
+        {
+          "text": "это проективное"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "пространство",
+      "spans": [
+        {
+          "text": "пространство"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "понятий, логически увязанных между собой и допускающих преобразования по опреде­ленным правилам.",
+      "spans": [
+        {
+          "text": "понятий, логически увязанных между собой и допускающих преобразования по опреде­ленным правилам."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это проективное пространство понятий, логически увязанных между собой и допускающих преобразования по опреде­ленным правилам.",
+      "links": [
+        {
+          "title": "пространство",
+          "url": "https://cosmatica.org/glossary/64-prostranstvo.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 137,
+    "storedTextCharacters": 123,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32035
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 125,
+  "capturedBodyCharacters": 123,
+  "sourceTextSHA256": "e092520cf9b99082853ddb2dc2939a8f56ba0860441172a1ab6e69c6cd0f7dcd",
+  "archiveSnapshotAt": "2026-10-08T08:46:37Z"
+}

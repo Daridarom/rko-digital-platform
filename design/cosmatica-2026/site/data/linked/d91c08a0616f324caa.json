@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/142",
+  "title": "Юрий Данилович Марцинишин",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/3c/ac/d0dd685d.png",
+      "alt": "Юрий Данилович Марцинишин"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/19/91/8cc46ec3.png",
+      "alt": "Юрий Данилович Марцинишин"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Ученый-изобретатель, деятельность которого направлена на фундаментальные исследования квантовых (скачкообразных) переходов систем, их эмерджентных состояний и каналов информационной межсистемной связи, победитель конкурсов «Изобретение года 2007» и «Изобретение года 2008».",
+      "spans": [
+        {
+          "text": "Ученый-изобретатель, деятельность которого направлена на фундаментальные исследования квантовых (скачкообразных) переходов систем, их эмерджентных состояний и каналов информационной межсистемной связи, победитель конкурсов «Изобретение года 2007» и «Изобретение года 2008»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Ученый-изобретатель, деятельность которого направлена на фундаментальные исследования квантовых (скачкообразных) переходов систем, их эмерджентных состояний и каналов информационной межсистемной связи, победитель конкурсов «Изобретение года 2007» и «Изобретение года 2008».",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/3c/ac/d0dd685d.png",
+    "https://cosmatica.org/upload/000/u7/19/91/8cc46ec3.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 352,
+    "storedTextCharacters": 306,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35295
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 301,
+  "capturedBodyCharacters": 306,
+  "sourceTextSHA256": "3eb5ea7648d266f132ce307ca54c04b78e9ed8b5b09cc4143ab5c6fdbd133e4d",
+  "archiveSnapshotAt": "2026-10-08T09:18:05Z"
+}

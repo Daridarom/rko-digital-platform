@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/353-zanimatelnye-zadachi-paradoksy-i-sofizmy-po-fizike.html",
+  "title": "Занимательные задачи-парадоксы и софизмы по физике",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/c/zanimatelnye-zadachi-paradoksy-i-sofizmy-po-fizike-photo-normal.png",
+      "alt": "Занимательные задачи-парадоксы и софизмы по физике"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга содержит занимательные задачи-парадоксы и софизмы, подобранные в соответствии с программой курса физики средней школы.",
+      "spans": [
+        {
+          "text": "Книга содержит занимательные задачи-парадоксы и софизмы, подобранные в соответствии с программой курса физики средней школы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Тульчинский М.Е.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга содержит занимательные задачи-парадоксы и софизмы, подобранные в соответствии с программой курса физики средней школы.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 4 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2137/795ea0978df004d60f4752759eedf31f"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/9/c/zanimatelnye-zadachi-paradoksy-i-sofizmy-po-fizike-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2137/795ea0978df004d60f4752759eedf31f"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 218,
+    "storedTextCharacters": 124,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40373
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 167,
+  "capturedBodyCharacters": 124,
+  "sourceTextSHA256": "7921f5326e7e7d38b23cf1152e3cf250d53ffd2bd8935f96fadb44585d0d1eb0",
+  "archiveSnapshotAt": "2026-10-08T08:49:28Z"
+}

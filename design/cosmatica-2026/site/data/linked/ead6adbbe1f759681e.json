@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/137-zakon-sohranenija-moschnosti.html",
+  "title": "Закон сохранения мощности",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "полная",
+      "spans": [
+        {
+          "text": "полная"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мощность",
+      "spans": [
+        {
+          "text": "мощность"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "равна сумме полез­ной мощности и мощности потерь.\r\n(Дж. Максвелл, Г. Крон, П.Г. Куз­нецов)",
+      "spans": [
+        {
+          "text": "равна сумме полез­ной мощности и мощности потерь.\r\n(Дж. Максвелл, Г. Крон, П.Г. Куз­нецов)"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "полная мощность равна сумме полез­ной мощности и мощности потерь. (Дж. Максвелл, Г. Крон, П.Г. Куз­нецов)",
+      "links": [
+        {
+          "title": "мощность",
+          "url": "https://cosmatica.org/glossary/104-moschnost.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 131,
+    "storedTextCharacters": 104,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31983
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 105,
+  "capturedBodyCharacters": 104,
+  "sourceTextSHA256": "0421adf99d1cc86f2c3935a5afa2787157134bd5405ed1af0cf7850eb07e780e",
+  "archiveSnapshotAt": "2026-10-08T08:46:30Z"
+}

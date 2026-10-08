@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/132-zakon-sohranenija-zhizni.html",
+  "title": "Закон сохранения Жизни",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это хроноцелостный процесс сохранения доминирования потоков концентрации над процессами рассеяния по­токов энергии во времени и пространстве.",
+      "spans": [
+        {
+          "text": "это хроноцелостный процесс сохранения доминирования потоков концентрации над процессами рассеяния по­токов энергии во времени и пространстве."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это хроноцелостный процесс сохранения доминирования потоков концентрации над процессами рассеяния по­токов энергии во времени и пространстве.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 164,
+    "storedTextCharacters": 141,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32123
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 141,
+  "capturedBodyCharacters": 141,
+  "sourceTextSHA256": "47d9dca445efcd1759f0bcb90466a6311659ef9ef310cee9f085564be149d714",
+  "archiveSnapshotAt": "2026-10-08T08:46:29Z"
+}

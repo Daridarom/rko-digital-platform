@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/11-ekologija.html",
+  "title": "Экология",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "предметная область, изучающая взаимные связи и вза­имодействия между Человеком (Человечеством) и окружающей его социально-природной средой.",
+      "spans": [
+        {
+          "text": "предметная область, изучающая взаимные связи и вза­имодействия между Человеком (Человечеством) и окружающей его социально-природной средой."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "предметная область, изучающая взаимные связи и вза­имодействия между Человеком (Человечеством) и окружающей его социально-природной средой.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 148,
+    "storedTextCharacters": 139,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32009
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 139,
+  "capturedBodyCharacters": 139,
+  "sourceTextSHA256": "b4dc152d2968fe571fb717869121bfb2afa46ca64216abedc9fb0ce54e78bb47",
+  "archiveSnapshotAt": "2026-10-08T08:46:22Z"
+}

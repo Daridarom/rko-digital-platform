@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 49,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Детский театр «Благородное дело»",
+      "description": "Москва, Санкт-Петербург, Тверь, Екатеринбург и Сибирь были представлены профессионалами театра, руководителями детских коллективов и школьных театров.",
+      "url": "https://cosmatica.org/news/1460-detskii-teatr-blagorodnoe-delo.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/c/5a50a5db.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=dcbf7788dd4a2e9519",
+      "type": "news-item",
+      "sourceCharacters": 4523,
+      "verified": false
+    },
+    {
+      "title": "Цивилизационный проект \"ЭРА\"",
+      "description": "К вопросу о необходимости ускорения перехода к новой общественно-экономической формации",
+      "url": "https://cosmatica.org/articles/1459-civilizacionnyi-proekt-era.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=890d829f5c91b278c8",
+      "type": "article",
+      "sourceCharacters": 65489,
+      "verified": false
+    },
+    {
+      "title": "Народная премия в области воспитания - инструмент созидания будущего!",
+      "description": "Сегодня у нас с вами есть уникальная возможность напрямую выстраивать региональную политику воспитания на территории своего муниципального образования, своего региона, своей страны, а возможно и мира. Воспитание наших детей – это, прежде всего, наша обязанность, наша необходимость и наша забота о будущем.",
+      "url": "https://cosmatica.org/news/1459-narordnaja-premija-v-oblasti-vospitanija-instrument-sozidanija-buduschego.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/c/narordnaja-premija-v-oblasti-vospitanija-instrument-sozidanija-bud.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=aecc13a0f2e7381dee",
+      "type": "news-item",
+      "sourceCharacters": 7787,
+      "verified": false
+    },
+    {
+      "title": "Сплочение по-русски - есть солидаризация по-российски",
+      "description": "В них принял участие сопредседатель-координатор Организационного комитета ФНС, д-р юрид. наук, академик РАЕН И.В. Бабичев , член президиума Оргкомитета ФНС, Глава Русского Космического Общества А.А. Гапонов , ответственный секретарь Оргкомитета ФНС, директор Центра цифровой трансформации регионов и муниципалитетов Финансового университета при Правительстве РФ А.В. Войтенок - руководитель Общественно-государственного ",
+      "url": "https://cosmatica.org/news/1458-splochenie-po-russki-est-solidarizacija-po-rossiiski.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/4/splochenie-po-russki-est-solidarizacija-po-rossiiski-photo-norm.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7f934c2294154eed3a",
+      "type": "news-item",
+      "sourceCharacters": 6869,
+      "verified": false
+    },
+    {
+      "title": "Команда: \"На Взлёт!\"",
+      "description": "Международный Фестиваль творческих работ «ВЗЛЁТ», посвящённый 65-летию первого искусственного спутника Земли, началу Космической эры, ждёт участников.",
+      "url": "https://cosmatica.org/news/1457-komanda-na-vzlyot.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/3/komanda-na-vzlyot-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3c494bb6b908c6b8ef",
+      "type": "news-item",
+      "sourceCharacters": 6094,
+      "verified": false
+    },
+    {
+      "title": "Звёзды из колодца детям Земли",
+      "description": "Фильм для младшей школы, раскрывающий понятие \"смелость\" и популяризирующий борьбу самбо, станет новой доброй историей, которая украсит фильмотеку проекта.",
+      "url": "https://cosmatica.org/news/1456-zvyozdy-iz-kolodca-detjam-zemli.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/7/zvyozdy-iz-kolodca-detjam-zemli-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ace8a01ba1a0f7aa73",
+      "type": "news-item",
+      "sourceCharacters": 3813,
+      "verified": false
+    },
+    {
+      "title": "Золотые страницы Народной Памяти: Ласточки и Соколы Орловщины",
+      "description": "16 апреля 2024 года состоялась Межрегиональная конференция «Золотые страницы Народной Памяти: Ласточки и Соколы Орловщины», посвящённая 102-й годовщине со дня рождения летчика-пилота героического экипажа самолета У-2 Александры Павловны Поляковой , а также сфокусировавшая внимание на славных лётных традициях уроженцев Орловщины и героизме лётчиков Красной Армии в небе над Орловщиной в годы ВОВ.",
+      "url": "https://cosmatica.org/articles/1455-zolotye-stranicy-narodnoi-pamjati-lastochki-i-sokoly-orlovschiny.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/2/0-zastavka-konferencii-16-04-24.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=3da69d49932fbb2919",
+      "type": "article",
+      "sourceCharacters": 32478,
+      "verified": false
+    },
+    {
+      "title": "Отчёт Молодёжного совета РКО за июнь",
+      "description": "За прошедший месяц было проведено большое количество продуктивных встреч, которые всё более серьёзно систематизируют подход к ведению космического образования.",
+      "url": "https://cosmatica.org/news/1455-otchet-molodyozhnogo-soveta-rko-za-iyun.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/f/otchet-molodyozhnogo-soveta-rko-za-iyun-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1747cd871e6e915304",
+      "type": "news-item",
+      "sourceCharacters": 3343,
+      "verified": false
+    },
+    {
+      "title": "РКО и УФСИН Хакасии. Общее Дело",
+      "description": "Ещё в РКО есть замечательный проект «Каждая жизнь для Жизни бесценна». Ориентирован проект на детей, попавших в трудную жизненную ситуацию. А Антон Владимирович, разделяя мировоззрение РКО, глубоко убежден, что, как не бывает чужих детей, так и плохих детей тоже не бывает. Потому, стал Антон Владимирович узнавать о возможности встречи и общения с несовершеннолетними лицами, волею судьбы, оказавшимися в поле зрения ре",
+      "url": "https://cosmatica.org/news/1454-rko-i-ufsin-hakasii-obschee-delo.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/3/748681f7.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=397ef5872761a6dd9e",
+      "type": "news-item",
+      "sourceCharacters": 4592,
+      "verified": false
+    },
+    {
+      "title": "Ноосферная мировоззренческая революция как основа новой парадигмы образования в XXI веке",
+      "description": "Тезисы выступления 20 марта 2024 года на «Круглом Столе» «Мировоззренческие основы ноосферного образования как",
+      "url": "https://cosmatica.org/articles/1453-noosfernaja-mirovozzrencheskaja-revolyucija-kak-osnova-novoi-paradigmy-obrazovanija-v-xxi-veke.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=1808c0266694d0e464",
+      "type": "article",
+      "sourceCharacters": 34983,
+      "verified": false
+    },
+    {
+      "title": "Война войной, а ноосферно-космическое будущее никто не отменял",
+      "description": "В состав делегации вошли Глава РКО Алексей Алексеевич Гапонов , член Президиума РКО, руководитель Правового управления Михаил Викторович Зюзьков и председатель Санкт-Петербургского отделения, зам. председателя Философского совета РКО Владимир Витальевич Макаров.",
+      "url": "https://cosmatica.org/news/1453-voina-voinoi-a-noosferno-kosmicheskoe-buduschee-nikto-ne-otmenjal.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/a/voina-voinoi-a-noosferno-kosmicheskoe-buduschee-nikto-ne-otmenjal-p.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a9b39c2674dcbfec1a",
+      "type": "news-item",
+      "sourceCharacters": 14276,
+      "verified": false
+    },
+    {
+      "title": "Пути достижения Победы Державной Руси в тотальной гибридной войне",
+      "description": "Доклад Задерея Валерия Александровича , начальника штаба Союза Народного Сплочения, подполковника СВР в отставке на 23-ей Международной научно-практическая конференция «Русь Союзная и Державная!» , посвящённой 79-летию Победы в Великой Отечественной войне и 24-й годовщине образования Союзного государства России и Беларуси",
+      "url": "https://cosmatica.org/articles/1452-puti-dostizhenija-pobedy-derzhavnoi-rusi-v-totalnoi-gibridnoi-voine.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=c0584ff7156fc74fd6",
+      "type": "article",
+      "sourceCharacters": 20273,
+      "verified": false
+    },
+    {
+      "title": "Июльские смены \"Двигателей прогресса\" увлекают и вдохновляют",
+      "description": "На третью смену с 1 по 3 июля \"Двигатели прогресса\" приехали многодетные семьи, чтобы познакомиться не только друг с другом, но и с некоторыми областями науки и техники.",
+      "url": "https://cosmatica.org/news/1452-iyulskie-smeny-dvigatelei-progressa.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/5/20f45cbc.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5f27bea18616eeb468",
+      "type": "news-item",
+      "sourceCharacters": 3173,
+      "verified": false
+    },
+    {
+      "title": "Всемирный союз человечества - будущее которое созидается сегодня",
+      "description": "12.07.2022 года делегация Русского Космического Общества приняла участие в поистине знаковом событии, прошедшем в самом уникальном этнографическом парке мира \" ЭТНОМИР\" , в Боровском районе Калужской области.",
+      "url": "https://cosmatica.org/news/1451-vsemirnyi-soyuz-chelovechestva-buduschee-kotoroe-sozidaetsja-segodnja.html",
+      "image": "https://cosmatica.org/upload/000/u7/7/3/vsemirnyi-soyuz-chelovechestva-buduschee-kotoroe-sozidaetsja-segodnja.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=80ce1f340e26baf306",
+      "type": "news-item",
+      "sourceCharacters": 2602,
+      "verified": false
+    },
+    {
+      "title": "Жизненный путь великого героя - Юрия Алексеевича Гагарина.",
+      "description": "Юрий Алексеевич Гагарин родился 9 марта 1934 года в деревне Клушино Смоленской области. Его детство прошло здесь же, в селе Клушино Гжатского (ныне — Гагаринского) района Смоленской области, РСФСР. Родители — Алексей Иванович и Анна Тимофеевна Гагарины — потомственные смоленские крестьяне, колхозники.",
+      "url": "https://cosmatica.org/articles/1450-zhiznennyi-put-velikogo-geroja-yurija-alekseevicha-gagarina.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=6c9799325b96bf6fa4",
+      "type": "article",
+      "sourceCharacters": 14269,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

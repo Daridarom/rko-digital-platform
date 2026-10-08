@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/106-mirovozzrenie.html",
+  "title": "Мировоззрение",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это отношение к миру, основанное на знании общеобязательных истин, идеалов и ценностей, многократно проверенных временем и подтвержденных практикой. \r\n\r\nМировоззрение,",
+      "spans": [
+        {
+          "text": "это отношение к миру, основанное на знании общеобязательных истин, идеалов и ценностей, многократно проверенных временем и подтвержденных практикой. \r\n\r\nМировоззрение,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "теория",
+      "spans": [
+        {
+          "text": "теория"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "и",
+      "spans": [
+        {
+          "text": "и"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "технология",
+      "spans": [
+        {
+          "text": "технология"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "есть стороны единого творческого процесса проектирования или организации будущего системы «при­рода – общество – человек».",
+      "spans": [
+        {
+          "text": "есть стороны единого творческого процесса проектирования или организации будущего системы «при­рода – общество – человек»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это отношение к миру, основанное на знании общеобязательных истин, идеалов и ценностей, многократно проверенных временем и подтвержденных практикой. Мировоззрение, теория и технология есть стороны единого творческого процесса проектирования или организации будущего системы «при­рода – общество – человек».",
+      "links": [
+        {
+          "title": "теория",
+          "url": "https://cosmatica.org/glossary/35-teorija.html"
+        },
+        {
+          "title": "технология",
+          "url": "https://cosmatica.org/glossary/34-tehnologija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 320,
+    "storedTextCharacters": 306,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32505
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 306,
+  "capturedBodyCharacters": 306,
+  "sourceTextSHA256": "14846d5b839e85628b84bb29e99b7781a0b9c5ec41818dcc88f85ed242c161e9",
+  "archiveSnapshotAt": "2026-10-08T08:46:21Z"
+}

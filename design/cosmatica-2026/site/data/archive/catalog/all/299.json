@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 299,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Школа конструкторов будущего",
+      "description": "«Невозможное сегодня станет возможным завтра».",
+      "url": "https://cosmatica.org/projects/klubkb",
+      "image": "https://cosmatica.org/upload/002/u218/e/9/klub-konstruktorov-buduschego-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=ce6d08c52563ef754b",
+      "type": "project",
+      "sourceCharacters": 9289,
+      "verified": false
+    },
+    {
+      "title": "Клуб ПОБИСК",
+      "description": "Клуб ПОБИСК – это экспертное, научно-общественное, неполитическое, информационное, интеллектуальное пространство людей, заинтересованных в устойчивом природосообразном будущем России и мира, организованном на принципах научного управления.",
+      "url": "https://cosmatica.org/projects/klubpobisk",
+      "image": "https://cosmatica.org/upload/000/u35/2/3/klub-pobisk-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=ab3eaf349390c51375",
+      "type": "project",
+      "sourceCharacters": 25132,
+      "verified": false
+    },
+    {
+      "title": "\"Космическое творчество Г.И. Тищенко\"",
+      "description": "Геннадий Иванович Тищенко — советский и российский мультипликатор, режиссёр, художник и сценарист.",
+      "url": "https://cosmatica.org/projects/kocmicheckoe-tvorchestvo-tishchekno",
+      "image": "https://cosmatica.org/upload/000/u1/10/cb/kosmicheskoe-tvorchestvo-g-i-tischenko-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=1f5d3626d53360ef89",
+      "type": "project",
+      "sourceCharacters": 1577,
+      "verified": false
+    },
+    {
+      "title": "Московский футурологический конгресс им. Б.Е. Большакова",
+      "description": "Московский футурологический конгресс — это съезд авторов и представителей социально значимых проектов России.",
+      "url": "https://cosmatica.org/projects/kongress-im-bolshakova",
+      "image": "https://cosmatica.org/upload/000/u26/b/3/a4088150.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=f2883024bbae69ca6f",
+      "type": "project",
+      "sourceCharacters": 1646,
+      "verified": false
+    },
+    {
+      "title": "Открытый конкурс эссе им. Р. Бартини «Многомерность Вселенной»",
+      "description": "— ФГБОУ ВО «Брянский государственный инженерно-технологический университет» (далее – университет, вуз, БГИТУ);",
+      "url": "https://cosmatica.org/projects/konkurs-bartiny",
+      "image": "https://cosmatica.org/upload/000/u26/4/6/otkrytyi-konkurs-esse-im-r-bartini-mnogomernost-vselennoi-l.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=f8d167effe2482ddbd",
+      "type": "project",
+      "sourceCharacters": 2001,
+      "verified": false
+    },
+    {
+      "title": "Конкурс \"Час быка\"",
+      "description": "Международный конкурс рисунка, музыки и сценария",
+      "url": "https://cosmatica.org/projects/konkurs-chas-byka",
+      "image": "https://cosmatica.org/upload/000/u35/b/7/konkurs-chas-byka-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=07fd1a81fe2281f86e",
+      "type": "project",
+      "sourceCharacters": 7706,
+      "verified": false
+    },
+    {
+      "title": "Международный конкурс исследовательских проектов",
+      "description": "«Ю.А. Гагарин и его наследие в истории страны и всего мира».",
+      "url": "https://cosmatica.org/projects/konkurs-issledovateley",
+      "image": "https://cosmatica.org/upload/000/u26/49/b5/mezhdunarodnyi-konkurs-issledovatelskih-proektov-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=523f4091583056ab7c",
+      "type": "project",
+      "sourceCharacters": 6103,
+      "verified": false
+    },
+    {
+      "title": "Календарь космических событий",
+      "description": "Наша страна по праву считается основательницей практической космонавтики.",
+      "url": "https://cosmatica.org/projects/kosmokalendar",
+      "image": "https://cosmatica.org/upload/000/u26/b9/12/kalendar-kosmicheskih-sobytii-logo-normal.png",
+      "kind": "project",
+      "href": "view.html?p=project&ref=484cadb0d7814e499c",
+      "type": "project",
+      "sourceCharacters": 1339,
+      "verified": false
+    },
+    {
+      "title": "«Космос, меняющий нас...»",
+      "description": "Инициаторами проекта являются: «Галерея на чистых прудах» Делового центра Торгово-промышленной палаты Российской Федерации (дир. Новиков В.П.), Творческое объединение «Созвездие видений» (рук. Ярошевский Д.В.), Редакция журнала «Наука и религия» (гл. ред. Антоненко С.Г.) при поддержке Русского Космического Общества (РКО) и Ассоциации музеев космонавтики России.",
+      "url": "https://cosmatica.org/projects/kosmos-menyaushiy-nas",
+      "image": "https://cosmatica.org/upload/000/u26/75/7e/kosmos-menjayuschii-nas-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=ff6b4be9f85bdb0ecf",
+      "type": "project",
+      "sourceCharacters": 2616,
+      "verified": false
+    },
+    {
+      "title": "\"Космос вчера, сегодня, завтра...\"",
+      "description": "Псковское отделение Русского Космического Общества (ПО РКО) объявляет о старте областного конкурса эссе «Космос вчера, сегодня, завтра…» , проводимого для обучающихся образовательных организаций Псковской области.",
+      "url": "https://cosmatica.org/projects/kosmos-vchera-segodnya-zavtra",
+      "image": "https://cosmatica.org/upload/001/u133/d2/0e/kosmos-vchera-segodnja-zavtra-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e88b0ce1b31c7f4d33",
+      "type": "project",
+      "sourceCharacters": 1671,
+      "verified": false
+    },
+    {
+      "title": "Ковчег Сплочения",
+      "description": "Сегодня как никогда важно выработать единые цивилизационно-ценностные основания, которые позволят сплотить распадающееся население России в единую, историческую общность, живущую в стране-цивилизации, устремлённой в светлое, счастливое будущее.",
+      "url": "https://cosmatica.org/projects/kovcheg-splochenija",
+      "image": "https://cosmatica.org/upload/002/u218/b/d/kovcheg-splochenija-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=55e5e1a30cc16f2438",
+      "type": "project",
+      "sourceCharacters": 1835,
+      "verified": false
+    },
+    {
+      "title": "Сквозная технология Концептуального проектирования систем организационного управления",
+      "description": "Руководитель проекта: Кучкаров Захирджан Анварович",
+      "url": "https://cosmatica.org/projects/kp-sou",
+      "image": "https://cosmatica.org/upload/000/u26/31/5a/skvoznaja-tehnologija-konceptualnogo-proektirovanija-sistem-organi.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=9e03cb7982d292b1dc",
+      "type": "project",
+      "sourceCharacters": 4892,
+      "verified": false
+    },
+    {
+      "title": "Спец проект КТОЧТОГДЕ и Русского Космического Общества \"Величие России\"",
+      "description": "12 апреля 1961 года человек впервые поднялся в космос, положив начало эре освоения неведомого доселе пространства.",
+      "url": "https://cosmatica.org/projects/ktochtogde",
+      "image": "https://cosmatica.org/upload/000/u8/51/3a/spec-proekt-ktochtogde-i-russkogo-kosmicheskogo-obschestva-velichie.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=02d285b1d3e2b3ad55",
+      "type": "project",
+      "sourceCharacters": 848,
+      "verified": false
+    },
+    {
+      "title": "Курская битва за будущее",
+      "description": "6 августа 2024 года враг вторгся на территорию Курской области. Множество разрушений, горя и потерь принесло это вторжение. Наши войска героически бьются за родную землю. Но против нас стоит не только и не столько ВСУ. Против нас воюет НАТО. Силы и средства, которыми располагает противник на данном участке театра военных действий серьёзен. Несмотря на успехи нашей армии, момент, когда враг будет полностью выбит из Ку",
+      "url": "https://cosmatica.org/projects/kurskaya-bitva-za-budushchee",
+      "image": "https://cosmatica.org/upload/002/u218/b/e/kurskaja-bitva-za-buduschee-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=9df5b76991a8dd063b",
+      "type": "project",
+      "sourceCharacters": 5270,
+      "verified": false
+    },
+    {
+      "title": "Лекторий Русского Космического Общества",
+      "description": "Современный человек ежедневно потребляет больше информации, чем его предок из докосмической эры за всю жизнь. Но чем больше информации, тем сложнее заметить среди её нескончаемого потока ценные и важные идеи. Какие же идеи можно назвать ценными и важными?",
+      "url": "https://cosmatica.org/projects/lectoriy-rko",
+      "image": "https://cosmatica.org/upload/000/u21/b9/a8/lektorii-russkogo-kosmicheskogo-obschestva-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=18942a256fec46e292",
+      "type": "project",
+      "sourceCharacters": 2264,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

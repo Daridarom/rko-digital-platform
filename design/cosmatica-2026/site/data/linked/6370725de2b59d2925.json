@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/128-znanie.html",
+  "title": "Знание",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "результат творческой деятельности человека, единство фор­мы (вопроса) и содержания (ответа). \r\n\r\nЗнание – отображение реальности и ее законов в понятиях, принципах, закономерностях, образующих систему знаниевых инструментов, где инструментами знания являются",
+      "spans": [
+        {
+          "text": "результат творческой деятельности человека, единство фор­мы (вопроса) и содержания (ответа). \r\n\r\nЗнание – отображение реальности и ее законов в понятиях, принципах, закономерностях, образующих систему знаниевых инструментов, где инструментами знания являются"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мировоззрение",
+      "spans": [
+        {
+          "text": "мировоззрение"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "–",
+      "spans": [
+        {
+          "text": "–"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "теория",
+      "spans": [
+        {
+          "text": "теория"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "– техно­логия –",
+      "spans": [
+        {
+          "text": "– техно­логия –"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "проект",
+      "spans": [
+        {
+          "text": "проект"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "–",
+      "spans": [
+        {
+          "text": "–"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "система",
+      "spans": [
+        {
+          "text": "система"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ".",
+      "spans": [
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "результат творческой деятельности человека, единство фор­мы (вопроса) и содержания (ответа). Знание – отображение реальности и ее законов в понятиях, принципах, закономерностях, образующих систему знаниевых инструментов, где инструментами знания являются мировоззрение – теория – техно­логия – проект – система .",
+      "links": [
+        {
+          "title": "мировоззрение",
+          "url": "https://cosmatica.org/glossary/106-mirovozzrenie.html"
+        },
+        {
+          "title": "теория",
+          "url": "https://cosmatica.org/glossary/35-teorija.html"
+        },
+        {
+          "title": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 319,
+    "storedTextCharacters": 308,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32450
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 312,
+  "capturedBodyCharacters": 308,
+  "sourceTextSHA256": "f18a123af934cb43a37c63b7c63e037c53cc252354e4390b60d069c54697078c",
+  "archiveSnapshotAt": "2026-10-08T08:46:28Z"
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/59-realizovannaja-ili-ekonomicheskaja-vozmozhnost.html",
+  "title": "Реализованная или экономическая возможность",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это суммарный про­дукт, произведенный за определенное",
+      "spans": [
+        {
+          "text": "это суммарный про­дукт, произведенный за определенное"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "время",
+      "spans": [
+        {
+          "text": "время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", обеспеченный потреби­телем и выраженный в единицах мощности.",
+      "spans": [
+        {
+          "text": ", обеспеченный потреби­телем и выраженный в единицах мощности."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это суммарный про­дукт, произведенный за определенное время , обеспеченный потреби­телем и выраженный в единицах мощности.",
+      "links": [
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 166,
+    "storedTextCharacters": 120,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32236
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 122,
+  "capturedBodyCharacters": 120,
+  "sourceTextSHA256": "9e28d5068c087d261ce01fb1f110d9476d875c00327e83d15b786711539d16e9",
+  "archiveSnapshotAt": "2026-10-08T08:46:54Z"
+}

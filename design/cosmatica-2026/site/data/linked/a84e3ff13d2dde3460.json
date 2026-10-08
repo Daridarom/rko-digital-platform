@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/417",
+  "title": "Валентин Яковлевич Дедов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/0/1/5e066156.jpg",
+      "alt": "Валентин Яковлевич Дедов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/2/80d477f0.jpg",
+      "alt": "Валентин Яковлевич Дедов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Основатель «Народного музея» в Малой Пурге",
+      "spans": [
+        {
+          "text": "Основатель «Народного музея» в Малой Пурге"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Удмуртская республика",
+      "links": [
+        {
+          "title": "Удмуртская республика",
+          "url": "https://cosmatica.org/departments/22-udmurtskaja-respublika.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Основатель «Народного музея» в Малой Пурге",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/0/1/5e066156.jpg",
+    "https://cosmatica.org/upload/000/u35/b/2/80d477f0.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 135,
+    "storedTextCharacters": 75,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34897
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 85,
+  "capturedBodyCharacters": 75,
+  "sourceTextSHA256": "7495458e69e7edae91dce095267b8442a220c415f8acdf1dee6f0545e03cc804",
+  "archiveSnapshotAt": "2026-10-08T09:19:37Z"
+}

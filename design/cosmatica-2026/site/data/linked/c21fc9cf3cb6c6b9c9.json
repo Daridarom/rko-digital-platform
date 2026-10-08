@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/56-i-i-gvai-o-maloizvestnoi-gipoteze-ciolkovskogo.html",
+  "title": "И.И.Гвай - О малоизвестной гипотезе Циолковского",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/44/b0/i-i-gvai-o-maloizvestnoi-gipoteze-ciolkovskogo-photo-normal.png",
+      "alt": "И.И.Гвай - О малоизвестной гипотезе Циолковского"
+    },
+    {
+      "type": "paragraph",
+      "text": "Константин Эдуардович Циолковский, основоположник многих\r\nработ в ракетостроении и авиации, оставил наследие и в такой\r\nтруднодоступной области познаний, как всеобщий круговорот энергии.\r\nЗначительная часть этих работ до сего времени не опубликована.\r\nДанная книга имеет цель восполнить этот пробел. Автор её\r\nкандидат технических наук И.И. Гвай взял на себя труд привлечь\r\nвнимание общественности к малоизвестной гипотезе Циолковского.",
+      "spans": [
+        {
+          "text": "Константин Эдуардович Циолковский, основоположник многих\r\nработ в ракетостроении и авиации, оставил наследие и в такой\r\nтруднодоступной области познаний, как всеобщий круговорот энергии.\r\nЗначительная часть этих работ до сего времени не опубликована.\r\nДанная книга имеет цель восполнить этот пробел. Автор её\r\nкандидат технических наук И.И. Гвай взял на себя труд привлечь\r\nвнимание общественности к малоизвестной гипотезе Циолковского."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Константин Эдуардович Циолковский, основоположник многих работ в ракетостроении и авиации, оставил наследие и в такой труднодоступной области познаний, как всеобщий круговорот энергии. Значительная часть этих работ до сего времени не опубликована. Данная книга имеет цель восполнить этот пробел. Автор её кандидат технических наук И.И. Гвай взял на себя труд привлечь внимание общественности к малоизвестной гипотезе Циолковского.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/68/7074ceefe323eb54163430c31e71a1c3"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/44/b0/i-i-gvai-o-maloizvestnoi-gipoteze-ciolkovskogo-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/68/7074ceefe323eb54163430c31e71a1c3"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 498,
+    "storedTextCharacters": 436,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40427
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 449,
+  "capturedBodyCharacters": 436,
+  "sourceTextSHA256": "0bf5a4a04252f3528ec43fd358cec316bdd6c23a9c19418cebe2806b29b2889e",
+  "archiveSnapshotAt": "2026-10-08T08:51:03Z"
+}

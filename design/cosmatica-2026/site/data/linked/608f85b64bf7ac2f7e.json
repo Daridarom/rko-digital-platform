@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/200-razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunikacionnoi-sistemy-mezhdunarodnaja-.html",
+  "title": "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/7/e/razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunika.jpg",
+      "alt": "Разработка, развитие и сопровождение информационно-телекоммуникационной системы «Международная научная школа устойчивого развития»"
+    },
+    {
+      "type": "paragraph",
+      "text": "Научный отчёт по гранту Президента РФ НШ-1269.2008.9\r\nСодержит:",
+      "spans": [
+        {
+          "text": "Научный отчёт по гранту Президента РФ НШ-1269.2008.9\r\nСодержит:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Методология",
+      "spans": [
+        {
+          "text": "Методология"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "управления интеллектуальными потребностями с использованием универсальных",
+      "spans": [
+        {
+          "text": "управления интеллектуальными потребностями с использованием универсальных"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "LT",
+      "spans": [
+        {
+          "text": "LT"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "-измерителей, которая лежит в основе создания информационной технологии как инструмента повышения эффективности управления в области науки и образования.\r\nИнформационная база «Образование для устойчивого развития», повышающая эффективность подготовки и квалификацию кадров компетентных в области устойчивого развития, размещена на Интернет-портале «Международная научная школа устойчивого развития»",
+      "spans": [
+        {
+          "text": "-измерителей, которая лежит в основе создания информационной технологии как инструмента повышения эффективности управления в области науки и образования.\r\nИнформационная база «Образование для устойчивого развития», повышающая эффективность подготовки и квалификацию кадров компетентных в области устойчивого развития, размещена на Интернет-портале «Международная научная школа устойчивого развития»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Кузнецов О.Л.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Научный отчёт по гранту Президента РФ НШ-1269.2008.9 Содержит: Методология управления интеллектуальными потребностями с использованием универсальных LT -измерителей, которая лежит в основе создания информационной технологии как инструмента повышения эффективности управления в области науки и образования. Информационная база «Образование для устойчивого развития», повышающая эффективность подготовки и квалификацию кадров компетентных в области устойчивого развития, размещена на Интернет-портале «Международная научная школа устойчивого развития»",
+      "links": [
+        {
+          "title": "Методология",
+          "url": "https://cosmatica.org/glossary/102-metodologija.html"
+        },
+        {
+          "title": "LT",
+          "url": "https://cosmatica.org/glossary/30-universalnyi-prostranstvenno-vremennoi-jazyk-lt-jazyk.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 139 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1468/fa524c380c15f633e8ff51b791fd027c"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/7/e/razrabotka-razvitie-i-soprovozhdenie-informacionno-telekommunika.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1468/fa524c380c15f633e8ff51b791fd027c"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 722,
+    "storedTextCharacters": 547,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 41701
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 591,
+  "capturedBodyCharacters": 547,
+  "sourceTextSHA256": "e6d6ce322247a449da32a4e088d9d54605abb9e006f4ef525248d6461d2b1f27",
+  "archiveSnapshotAt": "2026-10-08T08:48:00Z"
+}

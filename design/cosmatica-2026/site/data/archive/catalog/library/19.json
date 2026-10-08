@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "library",
+  "title": "Библиотека",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 19,
+  "pageCount": 34,
+  "total": 510,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Как познавалась Вселенная (1955)",
+      "description": "В этой небольшой познавательной книжке из серии «Научно-просветительная библиотека» рассказывается о том, как люди на протяжении многих веков познавали вселенную и что мы знаем о вселенной в настоящее",
+      "url": "https://cosmatica.org/library/258-kak-poznavalas-vselennaja-1955.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/0/kak-poznavalas-vselennaja-1955-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=8e4bf9a5d88931b844",
+      "type": "book",
+      "sourceCharacters": 253,
+      "verified": false
+    },
+    {
+      "title": "Как построить телескоп (2001)",
+      "description": "",
+      "url": "https://cosmatica.org/library/257-kak-postroit-teleskop-2001.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/8/kak-postroit-teleskop-2001-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7586490f49b5c1c08b",
+      "type": "book",
+      "sourceCharacters": 36,
+      "verified": false
+    },
+    {
+      "title": "Комета Галлея (1910)",
+      "description": "Предстоящее в 1910 году возвращение кометы Галлея в поле зрения Земли начинает занимать не только специалистов, но и все более широкие круги. Протекло больше человеческой жизни с того момента, как её видел последний глаз наблюдателя, - и полных 50 лет с тех пор, как на нашем звёздном небе красовалось действительно большая и яркая комета - блестящая осеняя комета 1858 года, носящая имя астронома Donati. Если бы речь ш",
+      "url": "https://cosmatica.org/library/256-kometa-galleja-1910.html",
+      "image": "assets/source/book-covers/76c9cfe8de130031c2e959.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=0b29b3d0847d7de4da",
+      "type": "book",
+      "sourceCharacters": 653,
+      "verified": false
+    },
+    {
+      "title": "Кометы и методы их наблюдений (2005)",
+      "description": "В книге описывается методика наблюдений и поисков комет. Для наблюдателей комет, членов астрономических кружков, любителей астрономии, школьников, студентов.",
+      "url": "https://cosmatica.org/library/255-komety-i-metody-ih-nablyudenii-2005.html",
+      "image": "assets/source/book-covers/bef45b0acc5053cfb0530c.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=17712098307afadd97",
+      "type": "book",
+      "sourceCharacters": 197,
+      "verified": false
+    },
+    {
+      "title": "Краткая история времени (2001)",
+      "description": "Научно-популярная книга, написанная известным физиком Стивеном Хокингом, впервые изданная в 1988 году американским издательским домом «Bantam Books». В книге рассказывается о появлении Вселенной, о природе пространства и времени, чёрных дырах, теории суперструн и о некоторых математических проблемах, однако на страницах издания можно встретить лишь одну формулу E=mc². Книга с момента выхода стала бестселлером, так ка",
+      "url": "https://cosmatica.org/library/254-kratkaja-istorija-vremeni-2001.html",
+      "image": "assets/source/book-covers/936314b9f1a6a7ee74fea7.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=776de2a21e5124f06a",
+      "type": "book",
+      "sourceCharacters": 520,
+      "verified": false
+    },
+    {
+      "title": "Крупномасштабная структура пространства - времени",
+      "description": "Книга посвящена новому подходу к теории относительности и её астрономическим приложениям, основанному на использовании методов современной дифференциальной геометрии. Применение их оказалось исключительно плодотворным при исследовании свойств пространства-времени в особых условиях, а именно проблем сингулярности в космологии, черных дыр и т. п. Авторы рассмотрели роль гравитации, методы дифференциальной геометрии",
+      "url": "https://cosmatica.org/library/253-krupnomasshtabnaja-struktura-prostranstva-vremeni.html",
+      "image": "assets/source/book-covers/32c69801d275ecab36ad5a.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7e75ee2bf283a9f68e",
+      "type": "book",
+      "sourceCharacters": 872,
+      "verified": false
+    },
+    {
+      "title": "Краткий учебник Космографии (1924)",
+      "description": "",
+      "url": "https://cosmatica.org/library/252-kratkii-uchebnik-kosmografii-1924.html",
+      "image": "https://cosmatica.org/upload/000/u7/b/5/kratkii-uchebnik-kosmografii-1924-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=9973af6f83f4822430",
+      "type": "book",
+      "sourceCharacters": 42,
+      "verified": false
+    },
+    {
+      "title": "Ориентация по звёздам",
+      "description": "Блестящие достижения советской науки и техники в области космических полетов — первый в мире спутник Земли, первая ракета на Луне, первая ракета на пути к Венере, первый космический корабль-спутник и первый человек на борту космического корабля, совершившего полет во Вселенную, — привлекают все больше людей к изучению практической астрономии. В предлагаемой вниманию читателей книге рассказывается о том, какое большое",
+      "url": "https://cosmatica.org/library/251-orientacija-po-zvyozdam.html",
+      "image": "https://cosmatica.org/upload/000/u7/b/7/orientacija-po-zvyozdam-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=d849a2d6b6d02ac32f",
+      "type": "book",
+      "sourceCharacters": 987,
+      "verified": false
+    },
+    {
+      "title": "Как определить направление и время по Солнцу и звёздам",
+      "description": "боевых операций часто бывает необходимо определять направления и время. Определение направлений называется ориентировкой. Для ориентировки пользуются компасом. При обучении бойцов и командиров указывается, как пользоваться компасом. Однако, может случиться, что одиночный боец или группа бойцов окажется без компаса. Для определения времени служат часы. Однако, боец может оказаться без часов. В этой книжке как раз для ",
+      "url": "https://cosmatica.org/library/250-kak-opredelit-napravlenie-i-vremja-po-solncu-i-zvyozdam.html",
+      "image": "https://cosmatica.org/upload/000/u7/2/1/13e55ab0.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=de472993b3f6eb7ab5",
+      "type": "book",
+      "sourceCharacters": 748,
+      "verified": false
+    },
+    {
+      "title": "Стратегическое планирование и управление организацией",
+      "description": "Основу этой книги составляет теоретический и практический материал, накопленный группой авторов под руководством 3. А. Кучкарова во",
+      "url": "https://cosmatica.org/library/249-strategicheskoe-planirovanie-i-upravlenie-organizaciei.html",
+      "image": "assets/source/book-covers/ab6ebe2ad64dedb62af268.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ef08264685b79bf218",
+      "type": "book",
+      "sourceCharacters": 911,
+      "verified": false
+    },
+    {
+      "title": "Экономический колониализм и крах рыночных реформ в России.",
+      "description": "Экономический колониализм и крах рыночных реформ в России. Наступление эпохи великих ноосферно-социалистических преобразований: научно-философский очерк. Посвящен обоснованию основ теории экономического колониализма, как важной формы проявления глобального империализма мировой финансовой капиталократии. Показывается, что с самого начала «рыночных реформ» Россия оказалась в «плену» системы экономического колониализма,",
+      "url": "https://cosmatica.org/library/248-ekonomicheskii-kolonializm-i-krah-rynochnyh-reform-v-rossii.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/7/0ef7a6b6.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=8b4f88da4d178a11c3",
+      "type": "book",
+      "sourceCharacters": 861,
+      "verified": false
+    },
+    {
+      "title": "Наука развития Жизни. Том 1.",
+      "description": "Сборник в 3-х томах включает часть научного наследия П.Г. Кузнецова (1924 – 2000) и охватывает период 1955-2000 гг. Все работы Побиска Георгиевича — это энциклопедически целостная картина научных знаний о законах развития Жизни как космопланетарного процесса. По этой причине сборник трудов назван «Наука развития Жизни». Он состоит из трёх томов: • Том 1. Введение. • Том 2. Постижение закона. • Том 3. Правильное приме",
+      "url": "https://cosmatica.org/library/247-nauka-razvitija-zhizni-tom-1.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/5/nauka-razvitija-zhizni-tom-1-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=53bf6caed072e12eab",
+      "type": "book",
+      "sourceCharacters": 1307,
+      "verified": false
+    },
+    {
+      "title": "Наука развития Жизни. Том 2.",
+      "description": "Сборник в 3-х томах включает часть научного наследия П.Г. Кузнецова (1924 – 2000) и охватывает период 1955-2000 гг. Все работы Побиска Георгиевича — это энциклопедически целостная картина научных знаний о законах развития Жизни как космопланетарного процесса. По этой причине сборник трудов назван «Наука развития Жизни». Он состоит из трёх томов: • Том 1. Введение. • Том 2. Постижение закона. • Том 3. Правильное приме",
+      "url": "https://cosmatica.org/library/246-nauka-razvitija-zhizni-tom-2.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/7/nauka-razvitija-zhizni-tom-2-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=637443c2e5dd6c171e",
+      "type": "book",
+      "sourceCharacters": 1307,
+      "verified": false
+    },
+    {
+      "title": "Наука развития Жизни. Том 3.",
+      "description": "Сборник в 3-х томах включает часть научного наследия П.Г. Кузнецова (1924 – 2000) и охватывает период 1955-2000 гг. Все работы Побиска Георгиевича — это энциклопедически целостная картина научных знаний о законах развития Жизни как космопланетарного процесса. По этой причине сборник трудов назван «Наука развития Жизни». Он состоит из трёх томов: • Том 1. Введение. • Том 2. Постижение закона. • Том 3. Правильное приме",
+      "url": "https://cosmatica.org/library/245-nauka-razvitija-zhizni-tom-3.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/1/ed22585c.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=3452adac1ac99a554c",
+      "type": "book",
+      "sourceCharacters": 1307,
+      "verified": false
+    },
+    {
+      "title": "Проектное управление устойчивым инновационным развитием теория, методология, технология",
+      "description": "Большаков Б.Е. первый Президент Русского Космического Общества, д.т.н., профессор, академик РАЕН В учебном пособии излагаются основы теории, методологии и",
+      "url": "https://cosmatica.org/library/244-proektnoe-upravlenie-ustoichivym-innovacionnym-razvitiem-teorija-metodologija-tehnologija.html",
+      "image": "assets/source/book-covers/01ba6df69364045ed66516.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=3878154bb2333acd6a",
+      "type": "book",
+      "sourceCharacters": 1839,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

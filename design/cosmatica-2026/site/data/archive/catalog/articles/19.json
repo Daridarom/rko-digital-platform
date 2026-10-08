@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "articles",
+  "title": "Публикации и материалы",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 19,
+  "pageCount": 72,
+  "total": 1074,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Основы электромагнитной природы Солнечной системы",
+      "description": "Academician of the International Academy of Sciences of ecology and safety of man and nature, the scientific adviser of OOO \"Ecoprobe\", Omsk, St. Petersburg.",
+      "url": "https://cosmatica.org/articles/61-osnovy-elektromagnitnoi-prirody-solnechnoi-sistemy.html",
+      "image": "https://cosmatica.org/upload/000/u19/f8/bc/02-1.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=35732f6e521bc3160b",
+      "type": "article",
+      "sourceCharacters": 50728,
+      "verified": false
+    },
+    {
+      "title": "Механизм ускорения Солнечного ветра раскрывает тайну строения Солнца и планетной системы",
+      "description": "A mechanism for accelerating the Solar wind reveals the secret structure of the Sun and the planetary system",
+      "url": "https://cosmatica.org/articles/60-mehanizm-uskorenija-solnechnogo-vetra-raskryvaet-tainu-stroenija-solnca-i-planetnoi-sistemy.html",
+      "image": "https://cosmatica.org/upload/000/u19/0c/98/01-1.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=2706eaf759a56ebe30",
+      "type": "article",
+      "sourceCharacters": 59105,
+      "verified": false
+    },
+    {
+      "title": "Пожелание Римскому клубу",
+      "description": "Разум должен управлять духовной действительностью людей новой эпохи",
+      "url": "https://cosmatica.org/articles/59-pozhelanie-rimskomu-klubu.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=ac5d2c187604c40b09",
+      "type": "article",
+      "sourceCharacters": 72849,
+      "verified": false
+    },
+    {
+      "title": "\"Взгляд в космос: события, технологии и люди российской космонавтики\"",
+      "description": "В 2016 Шпотя Д.А., глава Молодежного Совета РКО, был приглашен на должность «Главного методолога курса» в команду Исполнителя заказа для нужд ГК «Роскомос» проекта по созданию образовательного онлайн курса по космонавтике.",
+      "url": "https://cosmatica.org/articles/53-vzgljad-v-kosmos-sobytija-tehnologii-i-lyudi-rossiiskoi-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/000/u3/f3/e2/02-2017-roskosmos-onlai-n-kurs.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=732390ea899336ba5d",
+      "type": "article",
+      "sourceCharacters": 4134,
+      "verified": false
+    },
+    {
+      "title": "«Повестка дня на XXI век» - ноосферно-социолистическое преобразование глобальной экономики",
+      "description": "1. Экологическое (Великое) Отрицание сложившихся основ и механизмов социально-экономического развития человечества.",
+      "url": "https://cosmatica.org/articles/52-povestka-dnja-na-xxi-vek-noosferno-sociolisticheskoe-preobrazovanie-globalnoi-ekonomiki.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=771a301c5e48fd9666",
+      "type": "article",
+      "sourceCharacters": 23185,
+      "verified": false
+    },
+    {
+      "title": "Пространство и Время: электромагнитная природа происхождения",
+      "description": "Electromagnetic nature of origin of Space and Time",
+      "url": "https://cosmatica.org/articles/51-prostranstvo-i-vremja-elektromagnitnaja-priroda-proishozhdenija.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=b9c69ae3465aae578d",
+      "type": "article",
+      "sourceCharacters": 33868,
+      "verified": false
+    },
+    {
+      "title": "На крыльях в Москву",
+      "description": "Более 100 лет назад, в 1908 г., Россия официально вступила на путь развития авиации. В воздух поднялись первые русские пилоты. Правда, они, как и лётчики других стран, пока не покидают своих гнёзд, если так можно назвать их первые места взлёта и посадок. Как правило, наиболее подготовленными такими местами для них служили ипподромы, обладающие ровной площадкой и трибуной для зрителей – неизменных спутников первых пол",
+      "url": "https://cosmatica.org/articles/41-na-kryljah-v-moskvu.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=2576d75f203eda04a8",
+      "type": "article",
+      "sourceCharacters": 14200,
+      "verified": false
+    },
+    {
+      "title": "Горячее небо Комендантского аэродрома",
+      "description": "« Никто не забыт и ничто не забыто » – эти слова из стихотворения ленинградской поэтессы Ольги Берггольц, вбитые в гранит мемориальной стелы на Пискарёвском кладбище, на всю жизнь вошли в сердца многих ветеранов Великой Отечественной войны и жителей нашего города. И нет такого места в Петербурге, которое не несёт в себе память этой великой войны.",
+      "url": "https://cosmatica.org/articles/40-gorjachee-nebo-komendantskogo-aerodroma.html",
+      "image": "https://cosmatica.org/upload/000/u22/cd/0a/komend.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=a21d6cb4951d43f77d",
+      "type": "article",
+      "sourceCharacters": 6780,
+      "verified": false
+    },
+    {
+      "title": "Инженерный гений Гаккеля",
+      "description": "Вот и сегодня мне хочется поведать вам о человеке, который не просто стоял у истоков нашей авиации, а творил эту историю своим каждодневным и самоотверженным трудом и талантом – Якове Модестовиче Гаккеле. Во многом, благодаря его деятельности, как инженера, авиаконструктора и промышленника Петербург стал родиной отечественного воздушного флота. А нам, жителям Приморского района, приятно сознавать, что многие его деян",
+      "url": "https://cosmatica.org/articles/38-inzhenernyi-genii-gakkelja.html",
+      "image": "https://cosmatica.org/upload/000/u22/d6/ce/gakkel.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=77ea7062051f452f34",
+      "type": "article",
+      "sourceCharacters": 7882,
+      "verified": false
+    },
+    {
+      "title": "Ноосферный императив развития арктического хозяйства в XXI веке",
+      "description": "Автор: Субетто Александр Иванович, президент Ноосферной общественной академии наук, вице-президент Петровской академии наук и искусств, председатель Санкт-Петербургского отделения и Философского Совета Русского Космического общества, доктор экономических наук, доктор философских наук, кандидат технических наук, профессор, Заслуженный деятель науки РФ, Лауреат Премии правительства РФ, Лауреат Премии серебряной медали ",
+      "url": "https://cosmatica.org/articles/34-noosfernyi-imperativ-razvitija-arkticheskogo-hozjaistva-v-xxi-veke.html",
+      "image": "https://cosmatica.org/upload/000/u21/77/f0/subetto.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=92c79cca09c1867bcc",
+      "type": "article",
+      "sourceCharacters": 43640,
+      "verified": false
+    },
+    {
+      "title": "Роль следственных органов Санкт-Петербурга в противодействии экстремизму.",
+      "description": "Выступление Председателя Санкт-Петербургского Отделения и Философского Совета Русского Космического Общества, вице-президента Петровской академии наук и искусств 2018 г. Субетто Александра Ивановича 14 февраля 2018г. в Голубом зале РГПУ им. Герцена после Публичной лекции руководителя Главного следственного управления Следственного комитета Российской Федерации по г.Санкт-Петербургу генерал-майора юстиции Клауса Алекс",
+      "url": "https://cosmatica.org/articles/33-rol-sledstvennyh-organov-sankt-peterburga-v-protivodeistvii-ekstremizmu.html",
+      "image": "https://cosmatica.org/upload/000/u21/ea/77/xwlejja6lea.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=15e733f8311d007c8b",
+      "type": "article",
+      "sourceCharacters": 7658,
+      "verified": false
+    },
+    {
+      "title": "Первая мировая выставка межпланетных аппаратов и механизмов (1927 г.)",
+      "description": "Автор: Председатель Секции истории авиации и космонавтики СПбФ ИИЕТ РАН Руководитель Комиссии воздухоплавания РГО, Член Экспертного Совета Русского Космического Общества В.В. Лебедев",
+      "url": "https://cosmatica.org/articles/32-pervaja-mirovaja-vystavka-mezhplanetnyh-apparatov-i-mehanizmov-1927-g.html",
+      "image": "https://pp.userapi.com/c840235/v840235792/785f9/s5NUzCQACfA.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=dad3d36f157d776741",
+      "type": "article",
+      "sourceCharacters": 34693,
+      "verified": false
+    },
+    {
+      "title": "Космическое будущее в мировой системе «планетарная жизнь - человек - человечество - космос»",
+      "description": "Научно понять – значит установить явление в рамки научной реальности Космоса.",
+      "url": "https://cosmatica.org/articles/22-kosmicheskoe-buduschee-v-mirovoi-sisteme-planetarnaja-zhizn-chelovek-chelovechestvo-kosmos.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=f9bb0f6a2564d006b1",
+      "type": "article",
+      "sourceCharacters": 31569,
+      "verified": false
+    },
+    {
+      "title": "Школа Русского Космизма как мировоззренческая основа Русского Космического общества",
+      "description": "Возникновение школы Русского Космизма было своеобразным ответом русской научной мысли на вызов «о неизбежности тепловой смерти (конце) Вселенной», который был брошен мировому сообществу после рассмотрения Клаузиусом принципов сохранения энергии и роста энтропии. По существу, в поиске ответа на этот глобальный вызов и лежат работы Русского Космизма.",
+      "url": "https://cosmatica.org/articles/17-shkola-russkogo-kosmizma-kak-mirovozzrencheskaja-osnova-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u1/fe/52/shkola-russkogo-kosmizma-kak-mirovozzrencheskaja-osnova-russkogo-k.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=6d701883fc12008bce",
+      "type": "article",
+      "sourceCharacters": 15428,
+      "verified": false
+    },
+    {
+      "title": "Историческая справка о духовных и материальных источниках РКО",
+      "description": "Создание Русского космического общества есть естественный логический шаг в развитии современной России – шаг, обусловленный как ноосферно-космическим прорывом, выражающим становление космической эры Человечества, так и тем фактом, что именно Россия в лице СССР в середине ХХ века стала первой в мире космической державой Человечества.",
+      "url": "https://cosmatica.org/articles/14-istoricheskaja-spravka-o-duhovnyh-i-materialnyh-istochnikah-rko.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=39b03060ba31ecdce2",
+      "type": "article",
+      "sourceCharacters": 29732,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/70",
+  "title": "Андрей Дмитриевич Косюра",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u70/75/05/31be0ccc.jpg",
+      "alt": "Андрей Дмитриевич Косюра"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 1"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u70/81/4a/67b5d7bb.jpg",
+      "alt": "Андрей Дмитриевич Косюра"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "ООО «Йело», руководитель проектов",
+      "spans": [
+        {
+          "text": "ООО «Йело», руководитель проектов"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Республика Хакасия",
+      "links": [
+        {
+          "title": "Республика Хакасия",
+          "url": "https://cosmatica.org/departments/5-respublika-hakasija.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "ООО «Йело», руководитель проектов",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u70/75/05/31be0ccc.jpg",
+    "https://cosmatica.org/upload/000/u70/81/4a/67b5d7bb.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 141,
+    "storedTextCharacters": 82,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35786
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 73,
+  "capturedBodyCharacters": 82,
+  "sourceTextSHA256": "41ad821e46a7b5f1d14941f1f376a2d93d7ef8bd7cbd2fcf812394b28a89f0bc",
+  "archiveSnapshotAt": "2026-10-08T09:21:51Z"
+}

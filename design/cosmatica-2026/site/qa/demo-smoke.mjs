@@ -16,7 +16,7 @@ async function inspect(page,slug,device){
   const w=document.documentElement.clientWidth;
   return {bodyW:document.documentElement.scrollWidth,w,h1:document.querySelector('h1')?.textContent.trim(),
    broken:[...document.images].filter(x=>x.complete&&!x.naturalWidth).map(x=>x.src),
-   external:[...document.querySelectorAll('a[href]')].filter(a=>{const u=new URL(a.href);return /^https?:/.test(u.protocol)&&u.origin!==location.origin}).filter(a=>!(a.dataset.originalDownload==='cosmatica'&&/^https:\/\/cosmatica\.org\/files\/download\/\d+\/[a-f0-9]+$/i.test(a.href))).map(x=>x.href),
+   external:[...document.querySelectorAll('a[href]')].filter(a=>{const u=new URL(a.href);return /^https?:/.test(u.protocol)&&u.origin!==location.origin}).filter(a=>!(a.dataset.originalDownload==='cosmatica'&&/^https:\/\/cosmatica\.org\/files\/download\/\d+\/[a-f0-9]+$/i.test(a.href))).filter(a=>!(a.dataset.contentExternal==='true'&&a.href.startsWith('https://')&&a.target==='_blank'&&a.rel.includes('noopener'))).map(x=>x.href),
    fake:[...document.querySelectorAll('main a[href="#"]')].map(x=>x.textContent.trim())};
  });
  assert(stats.h1,'H1 is empty on '+slug);
@@ -45,15 +45,26 @@ async function test(name,route,fn){
  }catch(e){errors.push(name+': '+e.message);console.error('FAIL',name,e.message.slice(0,500))}
  finally{await page.close()}
 }
-await test('compact search','search-results&q=Гагарин',async page=>{
- const coords=await page.evaluate(()=>{
-  const a=document.querySelector('#searchInput').getBoundingClientRect();
-  const b=document.querySelector('#searchForm button').getBoundingClientRect();
-  return {sameRow:Math.abs(a.y-b.y)<12,width:a.width,hero:document.querySelector('.page-hero h1')?.textContent,lede:document.querySelector('.page-hero .lede')?.textContent}
+await test('accessible mobile search','search-results&q=Гагарин',async page=>{
+ await page.locator('#searchSection').waitFor();
+ const layout=await page.evaluate(()=>{
+  const search=document.querySelector('#searchInput').getBoundingClientRect();
+  const button=document.querySelector('#searchForm button').getBoundingClientRect();
+  return {inputWidth:search.width,buttonWidth:button.width,
+    inputVisible:search.width>0&&search.height>=40,
+    buttonVisible:button.width>=44&&button.height>=40,
+    overflow:document.documentElement.scrollWidth-document.documentElement.clientWidth,
+    lede:document.querySelector('.page-hero .lede')?.textContent}
  });
- assert(coords.sameRow,'search submit button not inline');
- assert(coords.width<290,'search field is too wide');
- assert(coords.lede.includes('Гагарин'),'search description does not reflect query');
+ assert(layout.inputVisible&&layout.buttonVisible,'search input or submit inaccessible');
+ assert(layout.inputWidth<=390&&layout.buttonWidth<=390,'search controls overflow viewport');
+ assert(layout.overflow<=3,'mobile search horizontal overflow');
+ assert(layout.lede.includes('Гагарин'),'search description does not reflect query');
+ await page.locator('#searchSection').selectOption('news');
+ await page.locator('#searchInput').fill('космос');
+ await page.locator('#searchForm button').click();
+ assert.equal(new URL(page.url()).searchParams.get('section'),'news','search category not preserved on submit');
+ assert.equal(new URL(page.url()).searchParams.get('q'),'космос','search query not preserved on submit');
 });
 await test('mobile menu overlay','projects',async page=>{
  const initial=await page.locator('main').evaluate(x=>x.getBoundingClientRect().top);
@@ -79,7 +90,7 @@ await test('donation demo, no payment','donate',async page=>{
 for(const id of ['gagarincy','rusleo','sns','chotv','slovo','books_reprint','sport']){
  await test('project '+id,'project&id='+id,async page=>{
   assert((await page.locator('main').innerText()).length>400,'project lacks content');
-  assert.equal(await page.locator('a[href^="https://cosmatica.org"]').count(),0,'source link retained');
+  assert.equal(await page.locator('a[href^="https://cosmatica.org"]:not([data-original-download="cosmatica"])').count(),0,'unapproved source link retained');
  });
 }
 await browser.close();
@@ -87,3 +98,5 @@ console.log('RESULT',checks,'checks',errors.length,'errors');
 if(errors.length){console.error(errors.join('\n'));process.exit(1)}
 // Extended 5-width mobile header, cards and search regression suite.
 await import('./mobile-refinement.mjs');
+// Real videos stay on public source platforms: verify lazy playback and safe origins.
+await import('./public-video-embeds.mjs');

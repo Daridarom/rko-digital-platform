@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/108-metod.html",
+  "title": "Метод",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "правила вывода",
+      "spans": [
+        {
+          "text": "правила вывода"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "в процессе решения задачи.",
+      "spans": [
+        {
+          "text": "в процессе решения задачи."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "правила вывода в процессе решения задачи.",
+      "links": [
+        {
+          "title": "правила вывода",
+          "url": "https://cosmatica.org/glossary/172-pravila-vyvoda.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 47,
+    "storedTextCharacters": 40,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31547
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 41,
+  "capturedBodyCharacters": 40,
+  "sourceTextSHA256": "7b109a9bc9888c78771fd3beefbb32eea0521e085a241ca762c10afefe5a3739",
+  "archiveSnapshotAt": "2026-10-08T08:46:22Z"
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/6-javlenija-zemnoi-zhizni.html",
+  "title": "Явления Земной Жизни",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "одна из многочисленных форм антидисси­пативных процессов.",
+      "spans": [
+        {
+          "text": "одна из многочисленных форм антидисси­пативных процессов."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "одна из многочисленных форм антидисси­пативных процессов.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 78,
+    "storedTextCharacters": 57,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31661
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 57,
+  "capturedBodyCharacters": 57,
+  "sourceTextSHA256": "18705958d7813c851d69669114ab74c0d1aa0c6f972acc37ab3f5486aba1ba75",
+  "archiveSnapshotAt": "2026-10-08T08:46:54Z"
+}

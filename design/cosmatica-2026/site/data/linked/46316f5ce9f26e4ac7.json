@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1078-komandir-o-geroe-sovetskogo-soyuza-ile-pavloviche-mazuruke-filippov-vjacheslav-viktorovich.html",
+  "title": "«Командир. О Герое Советского Союза Илье Павловиче Мазуруке» - Филиппов Вячеслав Викторович",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Сохраняя память: Люди военной авиации",
+      "level": 2
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "Ha6Qzvm63bs",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ha6Qzvm63bs"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Итоговая конференция проекта \"Сохраняя память: Люди военной авиации\". «Командир. О Герое Советского Союза Илье Павловиче Мазуруке» Докладчик: Филиппов Вячеслав Викторович, подполковник запаса ВВС Северного флота и один из инициаторов Всероссийской программы увековечения памяти лётчиков, погибших при исполнении служебных обязанностей в тыловых округах во время Великой Отечественной войны 1941-1945 гг. 9 мая 2020г. Сетевая платформа Русского Космического Общества https://rko.nbics.net Проект на сайте РКО: https://cosmatica.org/projects/138",
+      "links": [
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        },
+        {
+          "title": "https://rko.nbics.net",
+          "url": "https://rko.nbics.net"
+        },
+        {
+          "title": "Проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "https://cosmatica.org/projects/138",
+          "url": "https://cosmatica.org/projects/138"
+        },
+        {
+          "title": "",
+          "url": "https://cosmatica.org/projects/138"
+        },
+        {
+          "title": "",
+          "url": "https://www.youtube.com/redirect?redir_token=QUFFLUhqazhWSW54S2ItWkRqYnhuQXE5SlRFdnMyTHJfUXxBQ3Jtc0tsQ0pOVmwybzFKbTl4NU9oWEt4SDBrREFKaWJ2ZHI5X040a0QwQWRmQzNaajI5UnBKOUZ4WHJWbkZrZk1UZ0pZWUVZZ1FYZ1F5OFFnQkVWOHBPMTh3Z2kzWGVBVFUwcGRJSU94aHR4ai1zS0l4SEhBYw%3D%3D&event=video_description&v=Ha6Qzvm63bs&q=https%3A%2F%2Fcosmatica.org%2Fprojects%2F138"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 831,
+    "storedTextCharacters": 38,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 77421
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 700,
+  "capturedBodyCharacters": 38,
+  "sourceTextSHA256": "bd6dbcfe97c18abe3aa5599a83fbf7556ece49a813ae3aaacb7ca4b479122b6d",
+  "archiveSnapshotAt": "2026-10-08T08:38:06Z",
+  "publicVideoCount": 1
+}

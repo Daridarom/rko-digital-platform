@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 89,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Международный онлайн марафон приуроченный к Дню Земли",
+      "description": "20 марта 2021 года состоится международный марафон приуроченный к Дню Земли - старт марафона в 12:00 мск.вр.",
+      "url": "https://cosmatica.org/news/1019-mezhdunarodnyi-onlain-marafon-priurochennyi-k-dnyu-zemli.html",
+      "image": "https://cosmatica.org/upload/003/u318/b/b/mezhdunarodnyi-onlain-marafon-priurochennyi-k-dnyu-zemli-photo-norm.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f4eb323cc8dc372359",
+      "type": "news-item",
+      "sourceCharacters": 1314,
+      "verified": false
+    },
+    {
+      "title": "Космическое право требует космического государства! Зотов С.А.",
+      "description": "I Международная научно-практическая конференция: «Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва человечества»",
+      "url": "https://cosmatica.org/articles/1018-kosmicheskoe-pravo-trebuet-kosmicheskogo-gosudarstva-zotov-s-a.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=686dee2eca5724ed37",
+      "type": "article",
+      "sourceCharacters": 723,
+      "verified": false
+    },
+    {
+      "title": "Космическое право в Ноосферной этико-экологической Конституции человечества - Гордина Л.С.",
+      "description": "I Международная научно-практическая конференция: «Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва человечества»",
+      "url": "https://cosmatica.org/articles/1017-kosmicheskoe-pravo-v-noosfernoi-etiko-ekologicheskoi-konstitucii-chelovechestva-gordina-l-s.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=6fb1ceff891dba2e15",
+      "type": "article",
+      "sourceCharacters": 805,
+      "verified": false
+    },
+    {
+      "title": "Нескучный досуг: инженерно-техническому творчеству обучаются псковские школьники",
+      "description": "В центре активно проводятся занятия для детей по физике, астрономии и робототехнике. Как зародился центр, чем живёт и чему могут научиться дети, посещая «Юный техник», рассказал один из руководителей досугового центра Владимир Юрьевич Колпаков - Председатель Псковского отделения Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/1017-neskuchnyi-dosug-inzhenerno-tehnicheskomu-tvorchestvu-obuchayutsja-pskovskie-shkolniki.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/a/neskuchnyi-dosug-inzhenerno-tehnicheskomu-tvorchestvu-obuchayutsja-psk.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f4734ac1c769b6bfcf",
+      "type": "news-item",
+      "sourceCharacters": 5202,
+      "verified": false
+    },
+    {
+      "title": "Космические профессии будущего (Прудник, Рябухина)",
+      "description": "В гостях у Юности Авроры аспирант института астрономии Ольга Леонидовна Рябухина и Денис Олегович Прудник, председатель Молодёжного совета Русского Космического Общества. Продолжаем беседу об интересных космических профессиях.",
+      "url": "https://cosmatica.org/articles/1016-kosmicheskie-professii-buduschego-prudnik-rjabuhina.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=0706aeec065d90a2bf",
+      "type": "article",
+      "sourceCharacters": 402,
+      "verified": false
+    },
+    {
+      "title": "Книга дня сегодня...",
+      "description": "Автор: Березовой Анатолий Николаевич, лётчик-космонавт, Герой Советского Союза, полковник. Кизим Леонид Денисович, советский космонавт, дважды Герой Советского Союза, генерал-полковник. Горьков Владислав Леонидович, писатель.",
+      "url": "https://cosmatica.org/news/1016-kniga-dnja-segodnja.html",
+      "image": "https://cosmatica.org/upload/003/u395/3/6/kniga-dnja-segodnja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f0a9b176f4474949e6",
+      "type": "news-item",
+      "sourceCharacters": 1814,
+      "verified": false
+    },
+    {
+      "title": "Право как важнейший фактор, определяющий перспективное развитие космонавтики» - Ражнов Г.А.",
+      "description": "I Международная научно-практическая конференция: «Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва человечества»",
+      "url": "https://cosmatica.org/articles/1015-pravo-kak-vazhneishii-faktor-opredeljayuschii-perspektivnoe-razvitie-kosmonavtiki-razhnov-g-a.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=7383d134db7826e59e",
+      "type": "article",
+      "sourceCharacters": 21079,
+      "verified": false
+    },
+    {
+      "title": "Каким был первый космонавт Земли. Рассказывает племянница Ю.А.Гагарина",
+      "description": "В этом году мир отмечает 60-летие полёта в космос Юрия Алексеевича Гагарина.",
+      "url": "https://cosmatica.org/news/1015-kakim-byl-pervyi-kosmonavt-zemli-rasskazyvaet-plemjannica-yu-a-gagarina.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/e/c89987e1.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=66b11da3f8f238bc65",
+      "type": "news-item",
+      "sourceCharacters": 718,
+      "verified": false
+    },
+    {
+      "title": "Современные проекты отечественной космонавтики - Денис Олегович Прудник",
+      "description": "Эфир на канале \"Юность Авроры\" радио \"Аврора\" с Прудником Денисом Олеговичем, Председателем Молодёжного совета Русского Космического Общества, основателем проекта «мыверимвкосмос.рф», дважды стипендиатом Президента РФ, популяризатором космонавтики.",
+      "url": "https://cosmatica.org/articles/1014-sovremennye-proekty-otechestvennoi-kosmonavtiki-denis-olegovich-prudnik.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=eee824eb835b2f6404",
+      "type": "article",
+      "sourceCharacters": 496,
+      "verified": false
+    },
+    {
+      "title": "Здравствуй, Книжкина неделя!",
+      "description": "Это настоящий праздник для любознательных школьников, работников библиотек, издателей, писателей. Стойкость праздника, рождённого в военное лихолетье, поражает. Неделя детской книги сохранила верность традициям и уже 78 лет любима детьми.",
+      "url": "https://cosmatica.org/news/1014-zdravstvui-knizhkina-nedelja.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/8/zdravstvui-knizhkina-nedelja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2ce94dff4599fc9c33",
+      "type": "news-item",
+      "sourceCharacters": 5076,
+      "verified": false
+    },
+    {
+      "title": "Кадровый вопрос в отечественной ракетно-космической отрасли. Прудник Денис Олегович на радио Аврора",
+      "description": "Эфир на канале \"Юность Авроры\" радио \"Аврора\" с Прудником Денисом Олеговичем, Председателем Молодёжного совета Русского Космического Общества, основателем проекта «мыверимвкосмос.рф», дважды стипендиатом Президента РФ, популяризатором космонавтики.",
+      "url": "https://cosmatica.org/articles/1013-kadrovyi-vopros-v-otechestvennoi-raketno-kosmicheskoi-otrasli-prudnik-denis-olegovich-na-radio-.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=048a4efeba5e28b4e6",
+      "type": "article",
+      "sourceCharacters": 873,
+      "verified": false
+    },
+    {
+      "title": "Час Русского Космического Общества: как стать космонавтом? Прудник",
+      "description": "Гость студии Денис Олегович Прудник, председатель Молодёжного совета Русского Космического Общества, основатель проекта Мыверимвкосмос, популяризатор космонавтики.",
+      "url": "https://cosmatica.org/articles/1012-chas-russkogo-kosmicheskogo-obschestva-kak-stat-kosmonavtom-prudnik.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=6b8246de93ba1729c9",
+      "type": "article",
+      "sourceCharacters": 775,
+      "verified": false
+    },
+    {
+      "title": "Гагаринский букет к 8 марта",
+      "description": "Святославская СОШ провели акцию к 8 марта - вручили женщинам изготовленные своими руками открытки.",
+      "url": "https://cosmatica.org/news/1012-gagarinskii-buket-v-8-marta.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/f/gagarinskii-buket-v-8-marta-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=48dcd939f0bb8384ee",
+      "type": "news-item",
+      "sourceCharacters": 1513,
+      "verified": false
+    },
+    {
+      "title": "Час Русского Космического Общества: популяризация. Что это такое и зачем? (Прудник, Рябухина)",
+      "description": "Денис Олегович Прудник, председатель Молодёжного совета Русского Космического Общества и Ольга Леонидовна Рябухина рассказали что такое популяризация.",
+      "url": "https://cosmatica.org/articles/1011-chas-russkogo-kosmicheskogo-obschestva-populjarizacija-chto-eto-takoe-i-zachem-prudnik-rjabuhin.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=bb5e05d46855ccb872",
+      "type": "article",
+      "sourceCharacters": 798,
+      "verified": false
+    },
+    {
+      "title": "Кастинг на новый фильм Киноуроков - Чистодей",
+      "description": "Мы рады сообщить, что мы приступили к подготовке нового фильма \"Чистодей\" !",
+      "url": "https://cosmatica.org/news/1011-kasting-na-novyi-film-kinourokov-chistodei.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/d/kasting-na-novyi-film-kinourokov-chistodei-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b5b1639504393acee3",
+      "type": "news-item",
+      "sourceCharacters": 4333,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

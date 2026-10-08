@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/139-zakon.html",
+  "title": "Закон",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это категория для обозначения общности в связях разноо­бразных явлений, того, что сохраняется в глубине наблюдаемой смены явлений, инвариантный объект тождественный сам себе. В основе за­кона лежит",
+      "spans": [
+        {
+          "text": "это категория для обозначения общности в связях разноо­бразных явлений, того, что сохраняется в глубине наблюдаемой смены явлений, инвариантный объект тождественный сам себе. В основе за­кона лежит"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "знание",
+      "spans": [
+        {
+          "text": "знание"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", не зависящее от хода времени и частных точек зре­ния, общеобязательное для всех и каждого человека.",
+      "spans": [
+        {
+          "text": ", не зависящее от хода времени и частных точек зре­ния, общеобязательное для всех и каждого человека."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это категория для обозначения общности в связях разноо­бразных явлений, того, что сохраняется в глубине наблюдаемой смены явлений, инвариантный объект тождественный сам себе. В основе за­кона лежит знание , не зависящее от хода времени и частных точек зре­ния, общеобязательное для всех и каждого человека.",
+      "links": [
+        {
+          "title": "знание",
+          "url": "https://cosmatica.org/glossary/128-znanie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 312,
+    "storedTextCharacters": 304,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32391
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 306,
+  "capturedBodyCharacters": 304,
+  "sourceTextSHA256": "a1d8f704cd9f22c00ff3d919b7355bb3022aea0e1fd359557ea2ca955cfe5488",
+  "archiveSnapshotAt": "2026-10-08T08:46:31Z"
+}

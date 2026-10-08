@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/77",
+  "title": "Татьяна Степановна Гвоздюк",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/da/ec/06fba6f5.jpg",
+      "alt": "Татьяна Степановна Гвоздюк"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/ec/72/2fd49a3b.jpg",
+      "alt": "Татьяна Степановна Гвоздюк"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Советник РАЕН (Российская академия естественных наук).",
+      "spans": [
+        {
+          "text": "Советник РАЕН (Российская академия естественных наук)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ноосферная академия науки и образования.",
+      "spans": [
+        {
+          "text": "Ноосферная академия науки и образования."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель программ развития НАНО.",
+      "spans": [
+        {
+          "text": "Руководитель программ развития НАНО."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Генеральный директор ООО «Панацея-Рассея».",
+      "spans": [
+        {
+          "text": "Генеральный директор ООО «Панацея-Рассея»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Советник РАЕН (Российская академия естественных наук). Ноосферная академия науки и образования. Руководитель программ развития НАНО. Генеральный директор ООО «Панацея-Рассея».",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/da/ec/06fba6f5.jpg",
+    "https://cosmatica.org/upload/000/u8/ec/72/2fd49a3b.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 255,
+    "storedTextCharacters": 205,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35196
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 203,
+  "capturedBodyCharacters": 205,
+  "sourceTextSHA256": "d20e5941ef57b6a615f125a358b06d6c4f28ea15198d0ea64747a7b5f06cfd7b",
+  "archiveSnapshotAt": "2026-10-08T09:22:10Z"
+}

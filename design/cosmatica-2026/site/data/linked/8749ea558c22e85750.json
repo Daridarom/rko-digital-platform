@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/412-neznaika-v-strane-grafov.html",
+  "title": "Незнайка в стране графов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/66f9b1a6e9ad1390a2e59f.webp",
+      "alt": "Незнайка в стране графов"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Мельников О. И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 14 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2418/081f7c3660b507ef7661a22aaa9f8d4b"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/66f9b1a6e9ad1390a2e59f.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2418/081f7c3660b507ef7661a22aaa9f8d4b"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 67,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39310
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 42,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "c807e0ef753a0b45d5f4ba65c5a3e3087592ecb2c58cbbc86071c689532d090b",
+  "archiveSnapshotAt": "2026-10-08T08:49:50Z"
+}

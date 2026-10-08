@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "poster",
+  "title": "Мероприятия",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 21,
+  "pageCount": 22,
+  "total": 316,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Классическая музыка в музее В.И. Вернадского",
+      "description": "Приглашаем Вас в музей В.И.Вернадского (напротив Кремля), адрес которого ул. Моховая д.11, строение 11, м. \"Охотный ряд\", \"Библиотека им.Ленина\" на удивительное событие.",
+      "url": "https://cosmatica.org/poster/2-klassicheskaja-muzyka-v-muzee-v-i-vernadskogo.html",
+      "image": "https://cosmatica.org/upload/000/u26/07/99/6dfc00f8.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=438c7500ba402ea8a3",
+      "type": "poster-item",
+      "sourceCharacters": 1593,
+      "verified": false
+    },
+    {
+      "title": "Второе собрание отделения РКО СПб",
+      "description": "Приглашаем Вас принять участие во втором собрании Санкт-Петербургского отделения Русского Космического Общества, которое состоится 7 апреля 2018 года.",
+      "url": "https://cosmatica.org/poster/1-vtoroe-sobranie-otdelenija-rko-spb.html",
+      "image": "https://cosmatica.org/upload/000/u21/f9/09/vtoroe-sobranie-otdelenija-rko-spb-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=92328e6d80aa81ca26",
+      "type": "poster-item",
+      "sourceCharacters": 1298,
+      "verified": false
+    },
+    {
+      "title": "Календарь",
+      "description": "",
+      "url": "https://cosmatica.org/poster/calendar",
+      "image": "assets/source/4a36fb3c1e866406713ac1f1.webp",
+      "kind": "poster-item",
+      "href": "view.html?p=calendar",
+      "type": "calendar",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Фестивали",
+      "description": "",
+      "url": "https://cosmatica.org/poster/festivali",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=7f056fc3f59a3139cc",
+      "type": "poster-item",
+      "sourceCharacters": 52,
+      "verified": false
+    },
+    {
+      "title": "Концерты",
+      "description": "",
+      "url": "https://cosmatica.org/poster/koncerty",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=d041fe7163b1758da2",
+      "type": "poster-item",
+      "sourceCharacters": 51,
+      "verified": false
+    },
+    {
+      "title": "Конференции",
+      "description": "Конференции Грядущие Все 8 октября Конференции Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\" #Международная научная школа устойчивого развития имени П.Г.Кузнецова 08.10.2026 18 мая Конференции Триединство космического прорыва 18.05.2027",
+      "url": "https://cosmatica.org/poster/konferencii",
+      "image": "https://cosmatica.org/upload/000/u7/4/5/mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-s.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=934d4dec247ec8f056",
+      "type": "poster-item",
+      "sourceCharacters": 289,
+      "verified": false
+    },
+    {
+      "title": "Конкурсы",
+      "description": "",
+      "url": "https://cosmatica.org/poster/konkursy",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=0240b1074ea0542af8",
+      "type": "poster-item",
+      "sourceCharacters": 51,
+      "verified": false
+    },
+    {
+      "title": "Круглые столы",
+      "description": "",
+      "url": "https://cosmatica.org/poster/kruglye-stoly",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=f676c327ff980fc2a8",
+      "type": "poster-item",
+      "sourceCharacters": 56,
+      "verified": false
+    },
+    {
+      "title": "Лагеря",
+      "description": "",
+      "url": "https://cosmatica.org/poster/lagerja",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=d9f6ad76cae7fac398",
+      "type": "poster-item",
+      "sourceCharacters": 49,
+      "verified": false
+    },
+    {
+      "title": "Лектории",
+      "description": "",
+      "url": "https://cosmatica.org/poster/lektorii",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=06fd8b42ca445c1f0a",
+      "type": "poster-item",
+      "sourceCharacters": 51,
+      "verified": false
+    },
+    {
+      "title": "Семинары и курсы",
+      "description": "",
+      "url": "https://cosmatica.org/poster/seminary-i-kursy",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=1916ddf7fa25919534",
+      "type": "poster-item",
+      "sourceCharacters": 59,
+      "verified": false
+    },
+    {
+      "title": "Собрания",
+      "description": "",
+      "url": "https://cosmatica.org/poster/sobranija",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=eb2e4256da2247ad5b",
+      "type": "poster-item",
+      "sourceCharacters": 51,
+      "verified": false
+    },
+    {
+      "title": "Событие",
+      "description": "",
+      "url": "https://cosmatica.org/poster/sobytie",
+      "image": "https://cosmatica.org/upload/000/u7/d/e/fc174b5a.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=656712d46a73091d3d",
+      "type": "poster-item",
+      "sourceCharacters": 94,
+      "verified": false
+    },
+    {
+      "title": "Соревнования",
+      "description": "",
+      "url": "https://cosmatica.org/poster/sorevnovanija",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=59fbd6ec4578670501",
+      "type": "poster-item",
+      "sourceCharacters": 55,
+      "verified": false
+    },
+    {
+      "title": "Тематические встречи",
+      "description": "",
+      "url": "https://cosmatica.org/poster/tematicheskie-vstrechi",
+      "image": null,
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=76832e1f5d26905d6e",
+      "type": "poster-item",
+      "sourceCharacters": 63,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/194-sodeja.html",
+  "title": "Содея",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Содея - женщина, соединённая с другими общей целью и общим делом, во имя сохранения развития Жизни.",
+      "spans": [
+        {
+          "text": "Содея - женщина, соединённая с другими общей целью и общим делом, во имя сохранения развития Жизни."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Содея - женщина, соединённая с другими общей целью и общим делом, во имя сохранения развития Жизни.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 105,
+    "storedTextCharacters": 99,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31765
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 99,
+  "capturedBodyCharacters": 99,
+  "sourceTextSHA256": "1189906405148ca3821463ea77840ed3a1896bb7de912af21332496d6d65e10a",
+  "archiveSnapshotAt": "2026-10-08T10:37:47Z"
+}

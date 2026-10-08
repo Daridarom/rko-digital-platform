@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/719-novosti-proekta-kosmiks-rus-na-konec-fevralja-2020.html",
+  "title": "Новости проекта космикс.рус на конец февраля 2020",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#КОСМИКС.РУС",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u183/2/3/novosti-proekta-kosmiks-rus-na-konec-fevralja-2020-photo-normal.jpg",
+      "alt": "Новости проекта космикс.рус на конец февраля 2020"
+    },
+    {
+      "type": "paragraph",
+      "text": "Новые игры:",
+      "spans": [
+        {
+          "text": "Новые игры: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Первый полет к Луне",
+      "spans": [
+        {
+          "text": "3 Первый полет к Луне"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Первый луноход СССР",
+      "spans": [
+        {
+          "text": "4 Первый луноход СССР"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "5 МКС",
+      "spans": [
+        {
+          "text": "5 МКС"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Созвездия",
+      "spans": [
+        {
+          "text": "6 Созвездия"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Солнечная система",
+      "spans": [
+        {
+          "text": "7 Солнечная  "
+        },
+        {
+          "text": "система",
+          "href": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Подготовлена первая версия программы распространения и защиты от копирования. Кто хочет протестировать игры, может обращаться.",
+      "spans": [
+        {
+          "text": "Подготовлена первая версия программы распространения и защиты от копирования. Кто хочет протестировать игры, может обращаться."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель проекта: Назаров Дмитрий Викторович Эл.почта: nazarov@cosmatica.org",
+      "spans": [
+        {
+          "text": "Руководитель проекта: Назаров Дмитрий Викторович Эл.почта: nazarov@cosmatica.org"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сайт проекта: http://космикс.рус",
+      "spans": [
+        {
+          "text": "Сайт проекта: ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "http://космикс.рус",
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fhttp%3A%2F%2F%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D0%BA%D1%81.%D1%80%D1%83%D1%81"
+        }
+      ],
+      "links": [
+        {
+          "text": "http://космикс.рус",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fhttp%3A%2F%2F%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D0%BA%D1%81.%D1%80%D1%83%D1%81"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В данный момент ведем переговоры с поставщиками оборудования и центрами установки оборудования для запуска первых космоцентров до 12 апреля.",
+      "spans": [
+        {
+          "text": "В данный момент ведем переговоры с поставщиками оборудования и центрами установки оборудования для запуска первых космоцентров до 12 апреля. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Первый полет к Луне",
+      "spans": [
+        {
+          "text": "3 Первый полет к Луне"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Первый луноход СССР",
+      "spans": [
+        {
+          "text": "4 Первый луноход СССР"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "5. МКС",
+      "spans": [
+        {
+          "text": "5. МКС"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Созвездия",
+      "spans": [
+        {
+          "text": "6 Созвездия"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Игра почти готова. Видео готовится.",
+      "spans": [
+        {
+          "text": "Игра почти готова. Видео готовится."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Солнечная система",
+      "spans": [
+        {
+          "text": "7 Солнечная система"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "V7704qqWlkQ",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=V7704qqWlkQ"
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "dGlwMHEmJLk",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=dGlwMHEmJLk"
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "lvXzdoDP0Mc",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=lvXzdoDP0Mc"
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "EpVJsmKxLo4",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=EpVJsmKxLo4"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Проект космикс.рус продолжает уверенный поёт. На данный момент готов первый пакет состоящий из 7 игр общей продолжительностью 30-40 минут.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Новые игры: 3 Первый полет к Луне 4 Первый луноход СССР 5 МКС 6 Созвездия 7 Солнечная система Подготовлена первая версия программы распространения и защиты от копирования. Кто хочет протестировать игры, может обращаться. Руководитель проекта: Назаров Дмитрий Викторович Эл.почта: nazarov@cosmatica.org Сайт проекта: http://космикс.рус В данный момент ведем переговоры с поставщиками оборудования и центрами установки оборудования для запуска первых космоцентров до 12 апреля. 3 Первый полет к Луне 4 Первый луноход СССР 5. МКС 6 Созвездия Игра почти готова. Видео готовится. 7 Солнечная система",
+      "links": [
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        },
+        {
+          "title": "http://космикс.рус",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fhttp%3A%2F%2F%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D0%BA%D1%81.%D1%80%D1%83%D1%81"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/001/u183/2/3/novosti-proekta-kosmiks-rus-na-konec-fevralja-2020-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 945,
+    "storedTextCharacters": 602,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 16,
+    "sourceBytes": 48093
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 772,
+  "capturedBodyCharacters": 602,
+  "sourceTextSHA256": "bdad112dc6417b23cc5ea09cff98ad30d33d6ae97e7733abe94ab793fa964202",
+  "archiveSnapshotAt": "2026-10-08T09:13:14Z",
+  "publicVideoCount": 4
+}

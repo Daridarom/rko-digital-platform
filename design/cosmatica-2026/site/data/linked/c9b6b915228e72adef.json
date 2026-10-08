@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/992-artilleriiskie-sistemy-dlja-vyvoda-tvyordyh-tel-na-kosmicheskie-orbity.html",
+  "title": "Артиллерийские системы для вывода твёрдых тел на космические орбиты",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Научно-практическая конференция \"Космос и цивилизация: прошлое, настоящее, будущее...\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Международная научно-практическая online-конференция «Космос и цивилизация: прошлое, настоящее, будущее»",
+      "spans": [
+        {
+          "text": "Международная научно-практическая online-конференция «Космос и  цивилизация: прошлое, настоящее, будущее» "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Доклад профессора Пермского государственного национального исследовательского университета, кафедры «Информационных технологий», д.т.н., Пенского Олега Геннадьевича \"Артиллерийские системы для вывода твёрдых тел на космические орбиты\"",
+      "spans": [
+        {
+          "text": "Доклад профессора Пермского государственного национального  исследовательского университета, кафедры «Информационных технологий»,  д.т.н., Пенского Олега Геннадьевича \"Артиллерийские системы для вывода твёрдых тел на космические орбиты\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "15 мая 2020г. Донецк, ДНР",
+      "spans": [
+        {
+          "text": "15 мая 2020г. Донецк, ДНР "
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://cosmatica.org/projects/183"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://cosmatica.org/projects/183",
+      "spans": [
+        {
+          "text": "https://cosmatica.org/projects/183",
+          "href": "https://cosmatica.org/projects/183"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/projects/183",
+          "url": "https://cosmatica.org/projects/183"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "gzFWNjVsV7A",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=gzFWNjVsV7A"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Международная научно-практическая online-конференция «Космос и цивилизация: прошлое, настоящее, будущее» Доклад профессора Пермского государственного национального исследовательского университета, кафедры «Информационных технологий», д.т.н., Пенского Олега Геннадьевича \"Артиллерийские системы для вывода твёрдых тел на космические орбиты\" 15 мая 2020г. Донецк, ДНР https://cosmatica.org/projects/183",
+      "links": [
+        {
+          "title": "",
+          "url": "https://cosmatica.org/projects/183"
+        },
+        {
+          "title": "https://cosmatica.org/projects/183",
+          "url": "https://cosmatica.org/projects/183"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 667,
+    "storedTextCharacters": 484,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 76465
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 511,
+  "capturedBodyCharacters": 484,
+  "sourceTextSHA256": "a768f601d77d29ca1d98dd66178806278d040ada866a2954c80a32a5dc5af2ac",
+  "archiveSnapshotAt": "2026-10-08T08:45:00Z",
+  "publicVideoCount": 1
+}

@@ -7,8 +7,17 @@
   "blocks": [
     {
       "type": "image",
-      "src": "assets/source/2325200ebb13bdaa8db085e0.webp",
+      "src": "https://cosmatica.org/upload/002/u218/4/c/822a7266.jpg",
       "alt": "Преступник не найден"
+    },
+    {
+      "type": "paragraph",
+      "text": "Литературный конкурс \"Империум: Победа!\" - 2026г. 2 место",
+      "spans": [
+        {
+          "text": "Литературный конкурс \"Империум: Победа!\" - 2026г. 2 место"
+        }
+      ]
     }
   ],
   "cards": [],
@@ -31,19 +40,19 @@
       "links": [
         {
           "title": "Скачать",
-          "url": "https://cosmatica.org/files/download/5977/f6a58ec1a3607f986da5ea2a547f22a1"
+          "url": "https://cosmatica.org/files/download/5977/f67e83a6098e761a07f0455353f8cc7e"
         }
       ],
       "image": null
     }
   ],
   "images": [
-    "assets/source/2325200ebb13bdaa8db085e0.webp"
+    "https://cosmatica.org/upload/002/u218/4/c/822a7266.jpg"
   ],
   "documents": [
     {
       "label": "Скачать",
-      "url": "https://cosmatica.org/files/download/5977/f6a58ec1a3607f986da5ea2a547f22a1"
+      "url": "https://cosmatica.org/files/download/5977/f67e83a6098e761a07f0455353f8cc7e"
     }
   ],
   "categories": [],
@@ -51,10 +60,16 @@
   "sourceEvidence": {
     "http": 200,
     "sourceTextCharacters": 122,
-    "storedTextCharacters": 0,
+    "storedTextCharacters": 57,
     "sourceCardCount": 0,
     "sourceImageCount": 1,
     "paragraphCount": 0,
     "sourceBytes": 39644
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 101,
+  "capturedBodyCharacters": 57,
+  "sourceTextSHA256": "47b011b855b8cb55a55d450d3520498b611a0f06149be289390421ce2439edb8",
+  "archiveSnapshotAt": "2026-10-08T08:51:00Z"
 }

@@ -543,5 +543,11 @@
     "sourceImageCount": 0,
     "paragraphCount": 39,
     "sourceBytes": 42390
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "collegium-item",
+  "sourceTextCharacters": 3314,
+  "capturedBodyCharacters": 3353,
+  "sourceTextSHA256": "f3d9aa5905da14ff6d176413e15aca902e602bb447890146c5767cf4e2f0a0bb",
+  "archiveSnapshotAt": "2026-10-08T08:45:08Z"
 }

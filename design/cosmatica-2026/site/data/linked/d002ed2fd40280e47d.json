@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/41-strategija.html",
+  "title": "Стратегия",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "план",
+      "spans": [
+        {
+          "text": "план"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "управления, включая: цель,",
+      "spans": [
+        {
+          "text": "управления, включая: цель,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "сеть",
+      "spans": [
+        {
+          "text": "сеть"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "целенаправ­ленных работ, методов (технологий), средств и ресурсов, необходи­мых для ее достижения, развернутые по направлениям и этапам в про­странстве и времени на долгосрочную перспективу.",
+      "spans": [
+        {
+          "text": "целенаправ­ленных работ, методов (технологий), средств и ресурсов, необходи­мых для ее достижения, развернутые по направлениям и этапам в про­странстве и времени на долгосрочную перспективу."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это план управления, включая: цель, сеть целенаправ­ленных работ, методов (технологий), средств и ресурсов, необходи­мых для ее достижения, развернутые по направлениям и этапам в про­странстве и времени на долгосрочную перспективу.",
+      "links": [
+        {
+          "title": "план",
+          "url": "https://cosmatica.org/glossary/88-plan.html"
+        },
+        {
+          "title": "сеть",
+          "url": "https://cosmatica.org/glossary/48-set.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 241,
+    "storedTextCharacters": 227,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32462
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 231,
+  "capturedBodyCharacters": 227,
+  "sourceTextSHA256": "805a18125d82f76f923104eb302ba6ed27721bdd7a21b17c40ce81c8622f09bf",
+  "archiveSnapshotAt": "2026-10-08T08:46:50Z"
+}

@@ -16,6 +16,29 @@ const safeSource=s=>{
   return (u.origin===location.origin || u.protocol==='https:') ? u.href : null;
  }catch{return null;}
 };
+const approvedVideo=(b)=>{
+ if(!b||b.type!=='video')return null;
+ if(b.platform==='youtube'&&/^[a-zA-Z0-9_-]{11}$/.test(b.videoId||'')){
+  return {embed:'https://www.youtube-nocookie.com/embed/'+b.videoId,
+          source:'https://www.youtube.com/watch?v='+b.videoId,provider:'YouTube'};
+ }
+ try{
+  const u=new URL(b.embedUrl),h=u.hostname.toLowerCase(),p=u.pathname;
+  if(u.protocol!=='https:'||u.username||u.password||u.port)return null;
+  let allowed=false;
+  if(['cosmovid.ru','radovid.ru','bkvid.ru'].includes(h)){
+   allowed=/^\/videos\/embed\/[a-f0-9-]{36}\/?$/i.test(p);
+  }else if(h==='rutube.ru'){
+   allowed=/^\/play\/embed\/[a-zA-Z0-9_-]{12,}\/?$/.test(p);
+  }else if(['vkvideo.ru','vk.com','vk.ru'].includes(h)){
+   allowed=p==='/video_ext.php'&&/^-?\d+$/.test(u.searchParams.get('oid')||'')&&
+    /^\d+$/.test(u.searchParams.get('id')||'');
+  }else if(h==='video.nikatv.ru'){
+   allowed=/^\/video\/[a-zA-Z0-9_-]+\/?$/.test(p);
+  }
+  return allowed?{embed:u.href,source:u.href,provider:h}:null;
+ }catch{return null;}
+};
 export function createRichBlocks(blocks=[], options={}){
  const wrap=node('div','rich-blocks');
  for(const b of blocks){
@@ -36,9 +59,13 @@ export function createRichBlocks(blocks=[], options={}){
       const outer=node(tag);outer.append(child);child=outer;
      }
      const destination=part.href&&safeSource(part.href);
-     // Preview never sends readers away from the approved demo.
-     if(destination && new URL(destination).origin===location.origin){
-      const a=node('a');a.href=destination;a.append(child);element.append(a);
+     if(destination){
+      const a=node('a');a.href=destination;
+      if(new URL(destination).origin!==location.origin){
+       a.target='_blank';a.rel='noopener noreferrer';a.referrerPolicy='no-referrer';
+       a.dataset.contentExternal='true';
+      }
+      a.append(child);element.append(a);
      }else element.append(child);
     }
    }else element.textContent=String(b.text||'');
@@ -59,8 +86,31 @@ export function createRichBlocks(blocks=[], options={}){
    if(!src)continue;
    element=node('figure','rich-figure');
    const img=node('img');img.src=src;img.alt=String(b.alt||'');img.loading='lazy';
+   img.addEventListener('error',()=>element.replaceChildren(node('figcaption','rich-image-unavailable','Исходное изображение временно недоступно')));
    element.append(img);
    if(b.caption)element.append(node('figcaption','',b.caption));
+  }else if(b.type==='video'&&approvedVideo(b)){
+   // Nothing is downloaded, and no external player is requested until opened.
+   const video=approvedVideo(b);
+   element=node('details','rich-video');
+   const summary=node('summary','',b.title||'Смотреть видео');
+   const frameWrap=node('div','rich-video-frame');
+   const source=node('a','rich-video-source','Открыть исходное видео ↗');
+   source.href=video.source;
+   source.target='_blank';source.rel='noopener noreferrer';
+   source.referrerPolicy='no-referrer';source.dataset.contentExternal='true';
+   element.append(summary,frameWrap,source);
+   element.addEventListener('toggle',()=>{
+    if(element.open&&!frameWrap.firstChild){
+     const frame=node('iframe');
+     frame.src=video.embed;
+     frame.title=b.title||'Видео РКО';
+     frame.loading='lazy';frame.referrerPolicy='no-referrer';
+     frame.setAttribute('allow','encrypted-media; picture-in-picture; fullscreen');
+     frame.setAttribute('allowfullscreen','');
+     frameWrap.append(frame);
+    }else if(!element.open)frameWrap.replaceChildren();
+   });
   }else if(b.type==='file'){
    element=node('div','rich-file');
    element.append(node('span','',b.name||'Документ'));

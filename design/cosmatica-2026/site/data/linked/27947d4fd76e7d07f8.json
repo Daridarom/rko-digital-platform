@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/44-sostojanie.html",
+  "title": "Состояние",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "пространство",
+      "spans": [
+        {
+          "text": "пространство"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "значений показателей системы на фик­сированное",
+      "spans": [
+        {
+          "text": "значений показателей системы на фик­сированное"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "время",
+      "spans": [
+        {
+          "text": "время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ".",
+      "spans": [
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Существующее состояние",
+      "spans": [
+        {
+          "text": "Существующее состояние"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "– это состояние системы на текущее время. Не­обходимое (требуемое) состояние – это состояние системы, удовлетво­ряющее заданным граничным условиям, определяемым на основе за­кона развития.",
+      "spans": [
+        {
+          "text": "– это состояние системы на текущее время. Не­обходимое (требуемое) состояние – это состояние системы, удовлетво­ряющее заданным граничным условиям, определяемым на основе за­кона развития."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это пространство значений показателей системы на фик­сированное время . Существующее состояние – это состояние системы на текущее время. Не­обходимое (требуемое) состояние – это состояние системы, удовлетво­ряющее заданным граничным условиям, определяемым на основе за­кона развития.",
+      "links": [
+        {
+          "title": "пространство",
+          "url": "https://cosmatica.org/glossary/64-prostranstvo.html"
+        },
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        },
+        {
+          "title": "Существующее состояние",
+          "url": "https://cosmatica.org/glossary/180-suschestvuyuschee-sostojanie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 293,
+    "storedTextCharacters": 277,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32503
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 283,
+  "capturedBodyCharacters": 277,
+  "sourceTextSHA256": "3464529aed2b9cd49086faa7a5ad8f29e441eac39e29edc449de115bae717a25",
+  "archiveSnapshotAt": "2026-10-08T08:46:50Z"
+}

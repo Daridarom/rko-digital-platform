@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/255-komety-i-metody-ih-nablyudenii-2005.html",
+  "title": "Кометы и методы их наблюдений (2005)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/bef45b0acc5053cfb0530c.webp",
+      "alt": "Кометы и методы их наблюдений (2005)"
+    },
+    {
+      "type": "paragraph",
+      "text": "В книге описывается методика наблюдений и поисков комет.\r\nДля наблюдателей комет, членов астрономических кружков, любителей астрономии, школьников, студентов.",
+      "spans": [
+        {
+          "text": "В книге описывается методика наблюдений и поисков комет.\r\nДля наблюдателей комет, членов астрономических кружков, любителей астрономии, школьников, студентов."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Шурпаков С.Э.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В книге описывается методика наблюдений и поисков комет. Для наблюдателей комет, членов астрономических кружков, любителей астрономии, школьников, студентов.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1977/eabcb9f1b88e19517b1d8c153b2cf0c2"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/bef45b0acc5053cfb0530c.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1977/eabcb9f1b88e19517b1d8c153b2cf0c2"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 234,
+    "storedTextCharacters": 158,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39897
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 197,
+  "capturedBodyCharacters": 158,
+  "sourceTextSHA256": "fbfa1e6ee17599efe4187b3c678d9c81d2c62bf38d191e3f2a557bdf351dcd39",
+  "archiveSnapshotAt": "2026-10-08T08:48:18Z"
+}

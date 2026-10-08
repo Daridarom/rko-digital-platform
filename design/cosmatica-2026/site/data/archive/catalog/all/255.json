@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 255,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Молодежный Футурологический Конгресс 2018",
+      "description": "Русское Космическое Общество поддерживает инициативу проведения съезда авторов и представителей социально значимых проектов России – «Молодежный футурологический конгресс 2018», который пройдёт 20 апреля 2018г.",
+      "url": "https://cosmatica.org/news/74-molodezhnyi-futurologicheskii-kongress-2018.html",
+      "image": "https://cosmatica.org/upload/000/u8/71/bc/molodezhnyi-futurologicheskii-kongress-2018-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=72b3d09e010ded1ffc",
+      "type": "news-item",
+      "sourceCharacters": 823,
+      "verified": false
+    },
+    {
+      "title": "ВЫПУСК № 24. 2019, ДЕКАБРЬ",
+      "description": "",
+      "url": "https://cosmatica.org/newspaper/74-vypusk-24-2019-dekabr.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/7/bezymjannyi.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=54c0568640d3acb47d",
+      "type": "article",
+      "sourceCharacters": 18,
+      "verified": false
+    },
+    {
+      "title": "Проект",
+      "description": "это идеальный образ будущих изменений проектируемо­го объекта в ограниченном времени и пространстве с установленны­ми требованиями к качеству результатов, возможными рамками расхо­да ресурсов и специальной организацией. Проект содержит обоснование и описание конструкции будущей систе­мы в форме ответов на восемь взаимосвязанных вопросов: · Зачем нужна проектируемая",
+      "url": "https://cosmatica.org/glossary/73-proekt.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=e46c11775065a46c05",
+      "type": "article",
+      "sourceCharacters": 752,
+      "verified": false
+    },
+    {
+      "title": "Дети - косможители",
+      "description": "Они вышли на свет и осмотрелись. Где Земля? Где Млечный путь? Где иные миры, на которых пульсирует в общем Вселенском потоке жизнь ? Им надо помочь это вспомнить.",
+      "url": "https://cosmatica.org/news/73-deti-kosmozhiteli.html",
+      "image": "https://cosmatica.org/upload/000/u8/cd/df/deti-kosmozhiteli-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=327d7b5fd23b43324f",
+      "type": "news-item",
+      "sourceCharacters": 766,
+      "verified": false
+    },
+    {
+      "title": "ВЫПУСК № 23. 2019, СЕНТЯБРЬ",
+      "description": "",
+      "url": "https://cosmatica.org/newspaper/73-vypusk-23-2019-sentjabr.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/7/rko-interaktivnaya-versia-1.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=c2b1c7cf396601b348",
+      "type": "article",
+      "sourceCharacters": 19,
+      "verified": false
+    },
+    {
+      "title": "Проект устойчивого развития",
+      "description": "это идеальный образ будущего изме­нения проектируемого объекта в ограниченном времени и простран­стве с установленными требованиями устойчивого развития к каче­ству результатов и используемым технологиям, возможными рамками расхода ресурсов и специальной организацией.",
+      "url": "https://cosmatica.org/glossary/72-proekt-ustoichivogo-razvitija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=f286758083d4fa99eb",
+      "type": "article",
+      "sourceCharacters": 268,
+      "verified": false
+    },
+    {
+      "title": "С.А. Подолинский - Труд человека и его отношение к распределению энергии",
+      "description": "Труд человека и тех животных, к действиям которых приложимо понятие о труде, есть один из многочисленных видов проявления общей мировой энергии. Как ни разнообразны и сбивчивы в настоящее",
+      "url": "https://cosmatica.org/library/72-s-a-podolinskii-trud-cheloveka-i-ego-otnoshenie-k-raspredeleniyu-energii.html",
+      "image": "https://cosmatica.org/upload/000/u1/d9/b0/s-a-podolinskii-trud-cheloveka-i-ego-otnoshenie-k-raspredeleniyu.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=dcba7155a0be168496",
+      "type": "book",
+      "sourceCharacters": 746,
+      "verified": false
+    },
+    {
+      "title": "Успешно окончен I этап образовательной программы",
+      "description": "Выпускники подготовились к заключительному испытанию: командной презентации Лунной программы, которая была разработана на основании полученных в ходе обучения знаний.",
+      "url": "https://cosmatica.org/news/72-uspeshno-okonchen-i-etap-obrazovatelnoi-programmy.html",
+      "image": "https://cosmatica.org/upload/000/u8/9e/ab/uspeshno-okonchen-i-etap-obrazovatelnoi-programmy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0b4665669c7b8525fb",
+      "type": "news-item",
+      "sourceCharacters": 1839,
+      "verified": false
+    },
+    {
+      "title": "XXI Международная научная конференция «ИЛЬЕНКОВСКИЕ ЧТЕНИЯ» #Международная научная конференция «Ильенковские чтения»",
+      "description": "Э.В. Ильенков: проблема единства и целостности философско-мировоззренческих взглядов 26-27 апреля 2019",
+      "url": "https://cosmatica.org/poster/72-xxi-mezhdunarodnaja-nauchnaja-konferencija-ilenkovskie-chtenija.html",
+      "image": "https://cosmatica.org/upload/000/u21/87/11/xxi-mezhdunarodnaja-nauchnaja-konferencija-ilenkovskie-chtenija-phot.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=6b60d9569b1182ad45",
+      "type": "poster-item",
+      "sourceCharacters": 2606,
+      "verified": false
+    },
+    {
+      "title": "Проектирование",
+      "description": "прежде всего творческий процесс создания и реа­лизации систем, обеспечивающих возможность удовлетворять ту или иную",
+      "url": "https://cosmatica.org/glossary/71-proektirovanie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=482807706c5c89d111",
+      "type": "article",
+      "sourceCharacters": 217,
+      "verified": false
+    },
+    {
+      "title": "А.Д. Нечволодов - От разорения к достатку",
+      "description": "Предлагаемый труд основан на ряде общеизве- стных цифр. Сказанные вместе, цифры эти проливают яркий свет на главнейшую причину наших современных бедствий. Они показывают также, в чем заключается тай- на могущества всемирных ростовщиков, как ис- куссно опутавших своими невидимыми сетями все трудящееся человечество. Наконец, цифры же эти указывают нам и путь для перехода от современного общего разорения к достатку в бу",
+      "url": "https://cosmatica.org/library/71-a-d-nechvolodov-ot-razorenija-k-dostatku.html",
+      "image": "https://cosmatica.org/upload/000/u1/94/02/a-d-nechvolodov-ot-razorenija-k-dostatku-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=1607574106cb4c3be0",
+      "type": "book",
+      "sourceCharacters": 445,
+      "verified": false
+    },
+    {
+      "title": "РКО СПб приглашает на второе собрание отделения.",
+      "description": "Приглашаем Вас принять участие во втором собрании Санкт-Петербургского отделения Русского Космического Общества, которое состоится 7 апреля 2018 года.",
+      "url": "https://cosmatica.org/news/71-rko-spb-priglashaet-na-vtoroe-sobranie-otdelenija.html",
+      "image": "https://cosmatica.org/upload/000/u21/49/83/43b5c0dd.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a6fffd89681d485fa9",
+      "type": "news-item",
+      "sourceCharacters": 1523,
+      "verified": false
+    },
+    {
+      "title": "ВЫПУСК № 22. 2019, ИЮНЬ",
+      "description": "Русское Космическое Общество развивается. Очень, очень отрадно нам, его членам и участникам, родственным частям этого живого, единого организма наблюдать за тем, как естественно, органично и устойчиво развивается наше общее социально-биологическое тело.",
+      "url": "https://cosmatica.org/newspaper/71-vypusk-22-2019-iyun.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/1/snimok-ekrana-2019-07-11-v-21-16-19.png",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=69681fe1b1e362ceb6",
+      "type": "article",
+      "sourceCharacters": 5756,
+      "verified": false
+    },
+    {
+      "title": "Первое учредительное собрание Анапского отделения РКО",
+      "description": "Первое учредительное собрание пройдет на базе Анапского археологического музея\"\"Горгиппия\"",
+      "url": "https://cosmatica.org/poster/71-pervoe-uchreditelnoe-sobranie-anapskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/001/u152/2f/2d/pervoe-uchreditelnoe-sobranie-anapskogo-otdelenija-rko-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=ebe3c116815610e28c",
+      "type": "poster-item",
+      "sourceCharacters": 638,
+      "verified": false
+    },
+    {
+      "title": "Выпуск 3: Карпачёв Александр Александрович",
+      "description": "Герой выпуска - Карпачёв Александр Александрович, Член Совета безопасности Русского Космического Общества, Председатель правления Региональной общественной организации по пропаганде здорового образа жизни «Союз борьбы за народную трезвость» (РОО «СБНТ»), эксперт секции «Совет по законодательству о борьбе с наркоманией, алкоголизмом и табакокурением».",
+      "url": "https://cosmatica.org/articles/70-vypusk-3-karpachyov-aleksandr-aleksandrovich.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=cd905ecdc4da0824cb",
+      "type": "article",
+      "sourceCharacters": 555,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

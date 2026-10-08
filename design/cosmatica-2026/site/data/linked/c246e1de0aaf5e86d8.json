@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/198-vsemir.html",
+  "title": "Всемир",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "есть тотальность всех миров и сфер и мышления и бытия. Всё, т.е. комплекс и видимых и невидимых, и бытия и мышления, и Природы и Духа.\r\n\r\nВселенная есть всё, что существует, видимый, пространственно бесконечный мир, видимая протяжённость миров.",
+      "spans": [
+        {
+          "text": "есть тотальность всех миров и сфер и мышления и бытия. Всё, т.е. комплекс и видимых и невидимых, и бытия и мышления, и Природы и Духа.\r\n\r\nВселенная есть всё, что существует, видимый, пространственно бесконечный мир, видимая протяжённость миров."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "есть тотальность всех миров и сфер и мышления и бытия. Всё, т.е. комплекс и видимых и невидимых, и бытия и мышления, и Природы и Духа. Вселенная есть всё, что существует, видимый, пространственно бесконечный мир, видимая протяжённость миров.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 248,
+    "storedTextCharacters": 244,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32303
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 241,
+  "capturedBodyCharacters": 244,
+  "sourceTextSHA256": "940f36b89196f034a57e7836d6861356600e6f2b0786a40c1ef78ce0a13007b0",
+  "archiveSnapshotAt": "2026-10-08T10:36:26Z"
+}

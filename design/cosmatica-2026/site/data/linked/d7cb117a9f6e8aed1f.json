@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/277-tashkentskaja-astronomicheskaja-observatorija-1958.html",
+  "title": "Ташкентская астрономическая обсерватория (1958)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/7/tashkentskaja-astronomicheskaja-observatorija-1958-photo-normal.png",
+      "alt": "Ташкентская астрономическая обсерватория (1958)"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Щеглов В.П.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 4 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2010/e7314d5d09c06423f6029acfc7224d0a"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/e/7/tashkentskaja-astronomicheskaja-observatorija-1958-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2010/e7314d5d09c06423f6029acfc7224d0a"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 85,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39197
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 37,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "1c8f46167b8dded298ca528e36677bea28d3471a52c5d9145b9aec0bb973bcf1",
+  "archiveSnapshotAt": "2026-10-08T08:48:27Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 64,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Непонятный гений? Загадки одного из самых непонятных кинорежиссёров",
+      "description": "В этом году исполняется полвека знаменитому фильму «Солярис». Тяга Человека к чему-то ещё Непознанному является, на мой взгляд, его отличительной чертой, как биологического вида. Есть такая замечательная сказка Ганса Христиана Андерсена «Голый король». В которой… Впрочем, что уж об этом говорить, а тем более писать?! Если вы не знаете эту сказку, или не понимаете её смысл, то этот рассказ об одном из гениальных, а дл",
+      "url": "https://cosmatica.org/articles/1271-neponjatnyi-genii-zagadki-odnogo-iz-samyh-neponjatnyh-kinorezhissyorov.html",
+      "image": "https://cosmatica.org/upload/000/u36/8/f/001-yusov-i-tarkovskii-na-syomkah-filma-soljaris.png",
+      "kind": "article",
+      "href": "view.html?p=article&ref=66bb3bbc3e547aab1b",
+      "type": "article",
+      "sourceCharacters": 16990,
+      "verified": false
+    },
+    {
+      "title": "Ближе к космосу",
+      "description": "Электронный журнал будет представлять из себя ежемесячный сборник для читателей разных возрастных групп: материалы будут познавательны как школьникам среднего звена и старше, так и молодым людям, интересующимся темой космоса. Несмотря на оговоренные возрастные категории, мы уверены, что читатели всех возрастов смогут почерпнуть для себя много полезной информации.",
+      "url": "https://cosmatica.org/news/1271-blizhe-k-kosmosu.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/9/blizhe-k-kosmosu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0bfd3ec9efbf1d8f0a",
+      "type": "news-item",
+      "sourceCharacters": 2094,
+      "verified": false
+    },
+    {
+      "title": "Мы - Русские, какой восторг!",
+      "description": "1. Русский народ – созидатель российской цивилизации, народ – правдоискатель",
+      "url": "https://cosmatica.org/articles/1270-my-russkie-kakoi-vostorg.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=2cf4587b432ba145ad",
+      "type": "article",
+      "sourceCharacters": 71113,
+      "verified": false
+    },
+    {
+      "title": "«О науке будущего» устами Молодёжного Совета РКО",
+      "description": "Не осталось в стороне и Русское Космическое Общество в лице просветительского проекта «Мы верим в космос».",
+      "url": "https://cosmatica.org/news/1270-o-nauke-buduschego-ustami-molodyozhnogo-soveta-rko.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/5/57ece4d9.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=115ee423b5d5de1ffa",
+      "type": "news-item",
+      "sourceCharacters": 1511,
+      "verified": false
+    },
+    {
+      "title": "От мечты к целям и достижениям",
+      "description": "Круглый стол состоялся в рамках культурно-деловой программы \"17 мгновений весны человечества\" на площадке культурно-исторического проекта \"Сто лет СССР. Лучший опыт\", которую организовали Фонд \"Сто лет СССР\" совместно с Союзом коллекционеров России на выставке-форуме \"Уникальная Россия\".",
+      "url": "https://cosmatica.org/news/1268-ot-mechty-k-celjam-i-dostizhenijam.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/0/35d732d8.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=169784cb33e8c5a5de",
+      "type": "news-item",
+      "sourceCharacters": 4061,
+      "verified": false
+    },
+    {
+      "title": "Вот оно - счастье в гармонии!",
+      "description": "Доброе начинание Ларисы Шиберт проводить концерты высоковибрационной музыки, поддержанное Русским Космическим Обществом, было продолжено в Донецке. Местный музыкальный самородок-гусляр, гитарист, певец, автор исцеляющей душу музыки - Роман Сухоненко-Светодар 5 февраля 2022 года поведал в своих песнях слушателям о светлой реальности духовного возрождения Руси, о Новом Мире, Новом Человеке.",
+      "url": "https://cosmatica.org/news/1267-vot-ono-schaste-v-garmonii.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/b/vot-ono-schaste-v-garmonii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=035d4da81af947efc7",
+      "type": "news-item",
+      "sourceCharacters": 1730,
+      "verified": false
+    },
+    {
+      "title": "Космос на Байкале",
+      "description": "31 января и 1 февраля 2022 года на базе общеобразовательной школы №19 города Иркутска прошёл научно-популярный форум \"Космос и Космические события\" Российского общества \" Знание \".",
+      "url": "https://cosmatica.org/news/1266-pro-kosmos-na-baikale.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/d/4c71f30c.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=060c1f5a51e7c2803b",
+      "type": "news-item",
+      "sourceCharacters": 2622,
+      "verified": false
+    },
+    {
+      "title": "Процессы познания мира",
+      "description": "Природу можно сравнить с увлекательной книгой.",
+      "url": "https://cosmatica.org/news/1265-noosfernoe-vospitanie-v-detskom-sadu.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/6/noosfernoe-vospitanie-v-detskom-sadu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7d5293ed936d166595",
+      "type": "news-item",
+      "sourceCharacters": 2960,
+      "verified": false
+    },
+    {
+      "title": "Юные гагаринцы участвуют в III Открытом конкурсе юных блогеров и начинающих журналистов",
+      "description": "Ребята из \"Дружины Гагаринцев\" (Божескова Анастасия, Болдинова Анна, Пугач Диана), первосозданной на Волгоградской земле в МОУ СОШ п. Куйбышев Среднеахтубинского района под патронатом Русского Космического Общества, совместно с кураторами Филипповой Т. А. и Кудряшовой Т. В. для участия в III Открытом конкурсе юных блогеров и начинающих журналистов создали фильм о Героях Великой Отечественной Войны своего региона.",
+      "url": "https://cosmatica.org/news/1264-yunye-gagarincy-uchastvuyut-v-ii-otkrytom-konkurse-yunyh-blogerov-i-nachinayuschih-zhurnalistov.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/c/yunye-gagarincy-uchastvuyut-v-i-ii-otkrytom-konkurse-yunyh-blogerov.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b86bc58b8725fb6059",
+      "type": "news-item",
+      "sourceCharacters": 2993,
+      "verified": false
+    },
+    {
+      "title": "Космонавтика в России: итоги 2021 года и планы на 2022 год",
+      "description": "На официальном сайте Государственной корпорации по космической деятельности \"Роскосмос\" ( www.roscosmos.ru) опубликованы результаты заседания оперативного штаба, которое состоялось 13 января 2022 года, где генеральный директор Госкорпорации «Роскосмос» Дмитрий Олегович Рогозин подвел итоги работы отрасли в 2021 году и рассказал о планах на 2022 год.",
+      "url": "https://cosmatica.org/news/1263-kosmonavtika-v-rossii-itogi-2021-goda-i-plany-na-2022-god.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/9/kosmonavtika-v-rossii-itogi-2021-goda-i-plany-na-2022-god-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=278a197bf1eda359a8",
+      "type": "news-item",
+      "sourceCharacters": 1221,
+      "verified": false
+    },
+    {
+      "title": "Духовно-нравственные ценности - основа Российской государственности",
+      "description": "Без малого три месяца прошло со дня, когда 11.11.2021 года мы провели в Санкт-Петербурге конференцию о влиянии традиционной культуры на нравственное состояние нашего народа в прошлом и настоящем.",
+      "url": "https://cosmatica.org/news/1261-duhovno-nravstvennye-cennosti-osnova-rossiiskoi-gosudarstvennosti.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/b/duhovno-nravstvennye-cennosti-osnova-rossiiskoi-gosudarstvenno.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=467adfc6c0cac09bb0",
+      "type": "news-item",
+      "sourceCharacters": 10416,
+      "verified": false
+    },
+    {
+      "title": "«Ура! Поем мы силам Света»",
+      "description": "30 января при поддержке Донецкого отделения РКО в коммунальном учреждении Дом Культуры им. С.М. Кирова г. Донецка состоялся концерт семейной пары Татьяны и Артура Салаткиных из г. Тореза. Дуэтом под гитару были исполнены авторские песни, песни бардов и известных композиторов. Все произведения объединяла мысль о предназначении человека - светить любовью, дарить радость, раскрывать душевные таланты. Многие песни были п",
+      "url": "https://cosmatica.org/news/1259-ura-poem-my-silam-sveta.html",
+      "image": "https://cosmatica.org/upload/003/u380/4/9/ura-poem-my-silam-sveta-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=664d59d2127f4420fc",
+      "type": "news-item",
+      "sourceCharacters": 1497,
+      "verified": false
+    },
+    {
+      "title": "Экологическое воспитание",
+      "description": "Всё чаще в новостях Русского Космического Общества об экологической деятельности встречается г. о. Лобня (МО), ведь там разворачиваются и вовсю работают замечательные инициативы в сфере экологического воспитания и образования.",
+      "url": "https://cosmatica.org/news/1258-ekologicheskoe-vospitanie.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/1/ekologicheskoe-vospitanie-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7f5ccb36229719f961",
+      "type": "news-item",
+      "sourceCharacters": 2567,
+      "verified": false
+    },
+    {
+      "title": "Выпуск №0",
+      "description": "Электронный журнал представляет из себя ежемесячный сборник для читателей разных возрастных групп: материалы будут познавательны как школьникам среднего звена и старше, так и молодым людям, интересующимся темой космоса. Несмотря на оговоренные возрастные категории, мы уверены, что читатели всех возрастов смогут почерпнуть для себя много полезной информации.",
+      "url": "https://cosmatica.org/articles/1257-vypusk-0.html",
+      "image": "https://cosmatica.org/upload/000/u8/0/2/bez-imeni-1.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=e4ad8a0ea59146b76d",
+      "type": "article",
+      "sourceCharacters": 557,
+      "verified": false
+    },
+    {
+      "title": "Поля и их состав",
+      "description": "Пришло время поговорить о строении Вселенной. Почему я утверждаю, что все идет по спирали, и нет в природе круга, дискретности.",
+      "url": "https://cosmatica.org/articles/1256-polja-i-ih-sostav.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=8999c83061ad8577f4",
+      "type": "article",
+      "sourceCharacters": 8848,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

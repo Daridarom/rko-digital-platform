@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/37-tenzor.html",
+  "title": "Тензор",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это специальное понятие, вводимое для обозначения сущно­сти (инварианта) проектируемой системы, представляемой сетью ве­личины «",
+      "spans": [
+        {
+          "text": "это специальное понятие, вводимое для обозначения сущно­сти (инварианта) проектируемой системы, представляемой сетью ве­личины «"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мощность",
+      "spans": [
+        {
+          "text": "мощность"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "», проекциями которой являются n-матрицы, до­пускающие преобразования по определенным правилам.",
+      "spans": [
+        {
+          "text": "», проекциями которой являются n-матрицы, до­пускающие преобразования по определенным правилам."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это специальное понятие, вводимое для обозначения сущно­сти (инварианта) проектируемой системы, представляемой сетью ве­личины « мощность », проекциями которой являются n-матрицы, до­пускающие преобразования по определенным правилам.",
+      "links": [
+        {
+          "title": "мощность",
+          "url": "https://cosmatica.org/glossary/104-moschnost.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 240,
+    "storedTextCharacters": 231,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32412
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 233,
+  "capturedBodyCharacters": 231,
+  "sourceTextSHA256": "e2d8bc396396bbf9ae90ad7c784a2c12a4fae07423e41c909609d2b9ab5e7c10",
+  "archiveSnapshotAt": "2026-10-08T08:46:48Z"
+}

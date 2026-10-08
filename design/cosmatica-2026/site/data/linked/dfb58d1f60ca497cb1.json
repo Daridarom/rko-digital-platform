@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/221-zamysel.html",
+  "title": "Замысел",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/2/4/zamysel-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Закрытый показ первого художественного фильма Донбасса.",
+      "spans": [
+        {
+          "text": "Закрытый показ первого художественного фильма Донбасса."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Киностудия \"ДОНФИЛЬМ\".",
+      "spans": [
+        {
+          "text": "Киностудия \"ДОНФИЛЬМ\"."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Полный текст исходного материала"
+    },
+    {
+      "type": "paragraph",
+      "text": "Замысел Тематические встречи Место и время: Событие уже прошло Информационно-аналитический центр РКО Кто пойдет: 921 Закрытый показ первого художественного фильма Донбасса. Киностудия \"ДОНФИЛЬМ\".",
+      "spans": [
+        {
+          "text": "Замысел Тематические встречи Место и время: Событие уже прошло Информационно-аналитический центр РКО Кто пойдет: 921 Закрытый показ первого художественного фильма Донбасса. Киностудия \"ДОНФИЛЬМ\"."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "F7c7DGJyEjQ",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=F7c7DGJyEjQ"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Закрытый показ первого художественного фильма Донбасса. Киностудия \"ДОНФИЛЬМ\".",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/2/4/zamysel-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 195,
+    "storedTextCharacters": 77,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 37370
+  },
+  "textFallbackRequired": true,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 195,
+  "capturedBodyCharacters": 304,
+  "sourceTextSHA256": "1d9e9765aa6ee7641843e77af93e00a1119bcfbc096cce93a229c567444382ab",
+  "archiveSnapshotAt": "2026-10-08T09:15:23Z",
+  "publicVideoCount": 1
+}

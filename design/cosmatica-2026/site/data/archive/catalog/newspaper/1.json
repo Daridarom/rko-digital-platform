@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "newspaper",
+  "title": "Газета РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 1,
+  "pageCount": 2,
+  "total": 30,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Выпуск №27, 2020, сентябрь",
+      "description": "",
+      "url": "https://cosmatica.org/newspaper/77-vypusk-27-2020-sentjabr.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/2/ehvzwwzmgew.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=f2107cd267d1bb72de",
+      "type": "article",
+      "sourceCharacters": 19,
+      "verified": false
+    },
+    {
+      "title": "Выпуск №26, 2020, ИЮНЬ",
+      "description": "",
+      "url": "https://cosmatica.org/newspaper/76-vypusk-26-2020-iyun.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/a/bezymjannyi.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=36985d428cebaa53f4",
+      "type": "article",
+      "sourceCharacters": 19,
+      "verified": false
+    },
+    {
+      "title": "Выпуск №25, 2020, март",
+      "description": "",
+      "url": "https://cosmatica.org/newspaper/75-vypusk-25-2020-mart.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/1/glavnaja.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=f2250ddf9b32e0fbb5",
+      "type": "article",
+      "sourceCharacters": 18,
+      "verified": false
+    },
+    {
+      "title": "ВЫПУСК № 24. 2019, ДЕКАБРЬ",
+      "description": "",
+      "url": "https://cosmatica.org/newspaper/74-vypusk-24-2019-dekabr.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/7/bezymjannyi.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=54c0568640d3acb47d",
+      "type": "article",
+      "sourceCharacters": 18,
+      "verified": false
+    },
+    {
+      "title": "ВЫПУСК № 23. 2019, СЕНТЯБРЬ",
+      "description": "",
+      "url": "https://cosmatica.org/newspaper/73-vypusk-23-2019-sentjabr.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/7/rko-interaktivnaya-versia-1.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=c2b1c7cf396601b348",
+      "type": "article",
+      "sourceCharacters": 19,
+      "verified": false
+    },
+    {
+      "title": "ВЫПУСК № 22. 2019, ИЮНЬ",
+      "description": "Русское Космическое Общество развивается. Очень, очень отрадно нам, его членам и участникам, родственным частям этого живого, единого организма наблюдать за тем, как естественно, органично и устойчиво развивается наше общее социально-биологическое тело.",
+      "url": "https://cosmatica.org/newspaper/71-vypusk-22-2019-iyun.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/1/snimok-ekrana-2019-07-11-v-21-16-19.png",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=69681fe1b1e362ceb6",
+      "type": "article",
+      "sourceCharacters": 5756,
+      "verified": false
+    },
+    {
+      "title": "ВЫПУСК № 21. 2019, МАЙ",
+      "description": "Майский выпуск газеты. В нём представлены результаты нашей деятельности за апрель. Их много. А ведь это только часть. Малая часть, которую мы выделили, чтобы отразить на страницах ограниченного объёмом издания. Ежедневно десятки людей трудятся на своих участках нашего общего фронта. Их труд, на первый взгляд, не заметен. Он не находит отражения в СМИ. Он не является предметом пафосного многословия. Это труд людей, ор",
+      "url": "https://cosmatica.org/newspaper/70-vypusk-21-2019-mai.html",
+      "image": "https://cosmatica.org/upload/000/u26/c/6/bez-imeni-1.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=5e0662f1a27c4a39a6",
+      "type": "article",
+      "sourceCharacters": 7112,
+      "verified": false
+    },
+    {
+      "title": "ВЫПУСК № 20. 2019, АПРЕЛЬ",
+      "description": "Выпуск, который вы держите в руках, апрельский. Это космический месяц. 12 апреля – есть День космонавтики. И об этом в нашей стране знают многие. Поэтому принято с этим днём соотносить всевозможные мероприятия на космическую тему. Принято поздравлять людей, связанных с аэрокосмической сферой деятельности. Принято проводить форумы, фестивали, выставки, лекции, экскурсии. Принято высаживать деревья и вообще вспоминать ",
+      "url": "https://cosmatica.org/newspaper/69-vypusk-20-2019-aprel.html",
+      "image": "https://cosmatica.org/upload/000/u26/0/3/bez-imeni-2.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=87920284b09b4eb1cd",
+      "type": "article",
+      "sourceCharacters": 4555,
+      "verified": false
+    },
+    {
+      "title": "ВЫПУСК № 19. 2019, МАРТ",
+      "description": "Это порог, за которым открывается эпоха ноосферно-космической истории человечества Земли.",
+      "url": "https://cosmatica.org/newspaper/68-vypusk-19-2019-mart.html",
+      "image": "https://cosmatica.org/upload/000/u26/6/2/bez-imeni-1.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=7e8f507a03b3d0943f",
+      "type": "article",
+      "sourceCharacters": 5152,
+      "verified": false
+    },
+    {
+      "title": "ВЫПУСК № 18. 2019, ФЕВРАЛЬ",
+      "description": "«Наш народ своим гением, своим героическим трудом создал самый прекрасный в мире космический корабль «Восток» и его очень умное, очень надёжное оборудование. От старта и до самого приземления у меня не было никакого сомнения в успешном исходе космического полёта. Мне хочется от души поблагодарить наших учёных, инженеров, техников, всех советских рабочих, создавших такой корабль, на котором можно уверенно постигать та",
+      "url": "https://cosmatica.org/newspaper/67-vypusk-18-2019-fevral.html",
+      "image": "https://cosmatica.org/upload/000/u26/0/c/bezymjannyi.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=812a0efc5671120813",
+      "type": "article",
+      "sourceCharacters": 6069,
+      "verified": false
+    },
+    {
+      "title": "ВЫПУСК № 17. 2019, ЯНВАРЬ",
+      "description": "В Ваших руках первый выпуск газеты Русского Космического Общества в 2019 году. Он открывает новый этап свершений, достижений и побед.",
+      "url": "https://cosmatica.org/newspaper/66-vypusk-17-2019-janvar.html",
+      "image": "https://cosmatica.org/upload/000/u26/2/9/1february.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=6f07d6920e5e591a9d",
+      "type": "article",
+      "sourceCharacters": 4366,
+      "verified": false
+    },
+    {
+      "title": "Выпуск № 16. 2018, декабрь",
+      "description": "В преддверии Нового года принято вспоминать о событиях года минувшего, подводить итоги, строить планы.",
+      "url": "https://cosmatica.org/newspaper/65-vypusk-16-2018-dekabr.html",
+      "image": "https://cosmatica.org/upload/000/u26/e9/5f/bezymjannyi.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=344c635656a651bf47",
+      "type": "article",
+      "sourceCharacters": 7544,
+      "verified": false
+    },
+    {
+      "title": "Выпуск № 17. 2019, январь",
+      "description": "В Ваших руках первый выпуск газеты Русского Космического Общества в 2019 году. Он открывает новый этап свершений, достижений и побед.",
+      "url": "https://cosmatica.org/newspaper/64-vypusk-17-2019-janvar.html",
+      "image": "https://cosmatica.org/upload/000/u8/7d/2b/bezymjannyi.png",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=7e480b75cd2fe8e9a1",
+      "type": "article",
+      "sourceCharacters": 4320,
+      "verified": false
+    },
+    {
+      "title": "Выпуск № 16. 2018, декабрь",
+      "description": "В преддверии Нового года принято вспоминать о событиях года минувшего, подводить итоги, строить планы.",
+      "url": "https://cosmatica.org/newspaper/63-vypusk-16-2018-dekabr.html",
+      "image": "https://cosmatica.org/upload/000/u26/e9/5f/bezymjannyi.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=d336189a28a7a27a69",
+      "type": "article",
+      "sourceCharacters": 7544,
+      "verified": false
+    },
+    {
+      "title": "Выпуск № 15. 2018, ноябрь",
+      "description": "17 ноября 2018 года покинул этот мир Большаков Борис Евгеньевич.",
+      "url": "https://cosmatica.org/newspaper/62-vypusk-15-2018-nojabr.html",
+      "image": "https://cosmatica.org/upload/000/u26/20/1e/bezymjannyi.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=5e678a3849b6fb4f72",
+      "type": "article",
+      "sourceCharacters": 3978,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

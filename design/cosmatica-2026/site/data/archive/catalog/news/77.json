@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 77,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "С Новым 2021 годом!",
+      "description": "Уходит в прошлое 2020 год. Трудный, суровый и трагичный високосный год. В душе он оставляет боль, в сердце мудрость, а за плечами опыт.",
+      "url": "https://cosmatica.org/news/950-s-novym-2021-godom.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/2/0e55bd6d.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d858d88bc16bc459ff",
+      "type": "news-item",
+      "sourceCharacters": 3218,
+      "verified": false
+    },
+    {
+      "title": "Открытое годовое отчётное собрание Русского Космического Общества",
+      "description": "Началось собрание с приветствия и доклада Гапонова Алексея Алексеевича Главы Русского Космического Общества Тема доклада: О ключевых принципах и задачах развёртывания Русского Космического Общества. Оценка прошедшего года. Постановка задач на новый год.",
+      "url": "https://cosmatica.org/news/949-otkrytoe-godovoe-otchyotnoe-sobranie-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/d/otkrytoe-godovoe-otchyotnoe-sobranie-russkogo-kosmicheskogo-obschestv.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fa2a935e6963ad611c",
+      "type": "news-item",
+      "sourceCharacters": 3369,
+      "verified": false
+    },
+    {
+      "title": "Книга дня сегодня...",
+      "description": "Автор: Сергей Константинович Всехсвятский, Советский астроном. О чём книга: Что представляет собой окружающий нас мир? Как он устроен? Что такое небо, звёзды? Над этими вопросами с незапамятных времён задумывались люди. Наивными, совершенно неправильными были первые представления о Земле и небе. Люди думали, что наша Земля — это самое большое тело во вселенной, что она плоская и что где-то находится «край света». Не",
+      "url": "https://cosmatica.org/news/948-kniga-dnja-segodnja.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/f/kniga-dnja-segodnja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=82bc2c9e9f032160e0",
+      "type": "news-item",
+      "sourceCharacters": 1155,
+      "verified": false
+    },
+    {
+      "title": "Ноосферное образование в евразийском пространстве 2020",
+      "description": "«Ноосферная парадигма россиеведения, евразийства и устойчивого развития как основа становления ноосферного образования и воспитания в России XXI века»",
+      "url": "https://cosmatica.org/news/944-noosfernoe-obrazovanie-v-evraziiskom-prostranstve-2020.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/f/noosfernoe-obrazovanie-v-evraziiskom-prostranstve-2020-photo-nor.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b3091298f311e924f5",
+      "type": "news-item",
+      "sourceCharacters": 23668,
+      "verified": false
+    },
+    {
+      "title": "Движение \"Дружина Гагаринцев\" стартовало в Кузбассе",
+      "description": "Празднично одетые, красивые и настроенные впустить в свою жизнь что-то новое, собрались в этот день ребята из разных уголков Кузбасса в своих классах. Вместе с педагогами, наставниками Гагаринских отрядов, родителями они делали свой первый осознанный, ответственный шаг к формированию космического будущего Человечества.",
+      "url": "https://cosmatica.org/news/946-dvizhenie-druzhina-gagarincev-startovalo-v-kuzbasse.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/e/dvizhenie-druzhina-gagarincev-startovalo-v-kuzbasse-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=178961e3a3317ac430",
+      "type": "news-item",
+      "sourceCharacters": 3731,
+      "verified": false
+    },
+    {
+      "title": "Электричество: взгляд со стороны",
+      "description": "Докладчик: Руководитель Секции Авангардных исследований РКО, инженер-исследователь Александр Михайлович Анищенко .",
+      "url": "https://cosmatica.org/news/947-elektrichestvo-vzgljad-so-storony.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/d/elektrichestvo-vzgljad-so-storony-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2f47e4e8c070d016b0",
+      "type": "news-item",
+      "sourceCharacters": 1430,
+      "verified": false
+    },
+    {
+      "title": "Отчёт о работе Донецкого отделения РКО в 2020г.",
+      "description": "В настоящее время отделение РКО на Донбассе возглавляет ректор ДонНТУ Аноприенко Александр Яковлевич . Уже формируется местный актив организации. Всего в составе отделения 14 человек. Проведён ряд важных мероприятий.",
+      "url": "https://cosmatica.org/news/945-otchyot-o-rabote-doneckogo-otdelenija-rko-v-2020g.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/4/otchyot-o-rabote-doneckogo-otdelenija-rko-v-2020g-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d0dfbe417ef44bd3d8",
+      "type": "news-item",
+      "sourceCharacters": 10372,
+      "verified": false
+    },
+    {
+      "title": "Книга дня сегодня...",
+      "description": "Автор: Гавриил Адрианович Тихов, Русский астроном, член-корреспондент Академии наук СССР и академик АН Казахской ССР.",
+      "url": "https://cosmatica.org/news/942-kniga-dnja-segodnja.html",
+      "image": "https://cosmatica.org/upload/003/u395/1/c/kniga-dnja-segodnja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5796b9ccb6dddb0861",
+      "type": "news-item",
+      "sourceCharacters": 1722,
+      "verified": false
+    },
+    {
+      "title": "Банк семян",
+      "description": "Интенсивное хозяйствование человека на планете Земля постепенно приводит к исчезновению многих видов и сортов растений. В угоду получения больших урожаев, отбирается и распространяется лишь малое количество видов и сортов культурных растений. Это, в свою очередь, приводит к снижению биоразнообразия. Земля не терпит монотонности. Нетронутая человеком природа пестрит яркими красками, множественными формами, узорами, со",
+      "url": "https://cosmatica.org/news/943-bank-semjan.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/a/bank-semjan-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=87a815736b5e99cef3",
+      "type": "news-item",
+      "sourceCharacters": 1938,
+      "verified": false
+    },
+    {
+      "title": "Отчёт о деятельности Русского Космического Общества за 2020 год",
+      "description": "Три года позади. 2020 год принёс перемены. Перемены произошли и в Русском Космическом Обществе.",
+      "url": "https://cosmatica.org/news/941-otchyot-o-dejatelnosti-russkogo-kosmicheskogo-obschestva-za-2020-god.html",
+      "image": "https://cosmatica.org/upload/000/u7/d/6/otchyot-o-dejatelnosti-russkogo-kosmicheskogo-obschestva-za-2020-god.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1ecde8c0ac9257401f",
+      "type": "news-item",
+      "sourceCharacters": 37080,
+      "verified": false
+    },
+    {
+      "title": "Книга дня сегодня...",
+      "description": "Автор: Артемов Владислав Владимирович, русский поэт, прозаик и публицист. Главный редактор журнала «Москва».",
+      "url": "https://cosmatica.org/news/940-kniga-dnja-segodnja.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/c/kniga-dnja-segodnja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9f9947164108319fbb",
+      "type": "news-item",
+      "sourceCharacters": 2715,
+      "verified": false
+    },
+    {
+      "title": "История о «космической» мечте",
+      "description": "В рубрике «Герой нашего времени» — Денис Прудник , основатель проекта «Мы верим в космос» . Денис настолько горит темой космоса, что дважды пробовал поступить в отряд космонавтов. После неудачных попыток герой не отказался от своей «космической» мечты. Он стал аспирантом МАИ, сопредседателем молодежного совета Русского Космического Общества и основал проект , который способен раскрыть всем желающим удивительный мир г",
+      "url": "https://cosmatica.org/news/938-istorija-o-kosmicheskoi-mechte.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/2/istorija-o-kosmicheskoi-mechte-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c5bb179c4cf79772dd",
+      "type": "news-item",
+      "sourceCharacters": 4874,
+      "verified": false
+    },
+    {
+      "title": "Киноуроки в школах России - инструмент созидания будущего",
+      "description": "11 декабря в Санкт-Петербурге состоялась Всероссийская научно-практическая конференция \"Киноуроки в школах России\" - инструмент созидания будущего\".",
+      "url": "https://cosmatica.org/news/937-kinouroki-v-shkolah-rossii-instrument-sozidanija-buduschego.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/f/kinouroki-v-shkolah-rossii-instrument-sozidanija-buduschego-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4ec99626f217b73ece",
+      "type": "news-item",
+      "sourceCharacters": 2003,
+      "verified": false
+    },
+    {
+      "title": "За Родину, Отечество, за Жизнь и Справедливость!",
+      "description": "29 октября 2018 года в Русском Космическом Обществе было принято решение о создании Всероссийского молодёжного общественного движения Русского Космического Общества - \"Дружина Гагаринцев\" .",
+      "url": "https://cosmatica.org/news/935-za-rodinu-otechestvo-za-zhizn-i-spravedlivost.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/4/za-rodinu-otechestvo-za-zhizn-i-spravedlivost-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0d887b64526684e068",
+      "type": "news-item",
+      "sourceCharacters": 3858,
+      "verified": false
+    },
+    {
+      "title": "РКО теперь в Телеграм",
+      "description": "Информируем о том, что у РКО создан канал в Телеграм: https://t.me/RKO_cosmatica",
+      "url": "https://cosmatica.org/news/936-rko-teper-v-telegram.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/9/6e6828ab.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=65fbb381881d95d84b",
+      "type": "news-item",
+      "sourceCharacters": 475,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/399-astronomija-dlja-umnenkih-detei-tvoi-zvyozdnyi-gorod-galaktika.html",
+  "title": "Астрономия для умненьких детей. Твой звёздный город - Галактика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/c/7/astronomija-dlja-umnenkih-detei-photo-normal.png",
+      "alt": "Астрономия для умненьких детей. Твой звёздный город - Галактика"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Левитан Е. П.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 35 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2400/bc07e78a6041dd3485d2bb7ae3ab4818"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/c/7/astronomija-dlja-umnenkih-detei-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2400/bc07e78a6041dd3485d2bb7ae3ab4818"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 104,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39780
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 40,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "26d2521a5dd2516d2070caf2407bd28b4dc00fa3410b1e9f3b81ddca383f9bf7",
+  "archiveSnapshotAt": "2026-10-08T08:49:45Z"
+}

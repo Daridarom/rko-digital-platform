@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/577-skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.html",
+  "title": "Ушёл в вечность легендарный лётчик-космонавт Алексей Архипович Леонов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/4/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+      "alt": "Ушёл в вечность легендарный лётчик-космонавт Алексей Архипович Леонов"
+    },
+    {
+      "type": "paragraph",
+      "text": "Леонов был одиннадцатым советским космонавтом и первым человеком, вышедшим в открытый космос.",
+      "spans": [
+        {
+          "text": "Леонов был одиннадцатым советским космонавтом и первым человеком, вышедшим в открытый космос. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Его первый в истории человечества выход в открытый космос состоялся в марте 1965 года. В июле 1975 года он участвовал в первом в истории совместном космическом полете советского корабля \"Союз-19\" и американского Apollo со стыковкой кораблей и переходом космонавтов и астронавтов на соседние корабли.",
+      "spans": [
+        {
+          "text": "Его первый в истории человечества выход в открытый космос состоялся в марте 1965 года.  В июле 1975 года он участвовал в первом в истории  совместном космическом полете советского корабля \"Союз-19\" и  американского Apollo со стыковкой кораблей и переходом космонавтов и  астронавтов на соседние корабли.",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Великолепный лётчик, а также художник, общественный деятель, разносторонний и увлечённый космонавтикой до последних своих минут, Алексей Архипович был живым примером для многих - в 2019 году кемеровские ребятишки, земляки космонавта, участвуя в конкурсе Русского Космического Общества \"Письмо Леонову\" , писали:",
+      "spans": [
+        {
+          "text": "Великолепный лётчик, а также художник, общественный деятель, разносторонний и увлечённый космонавтикой до последних своих минут, Алексей Архипович был живым примером для многих - в 2019 году кемеровские ребятишки, земляки космонавта, участвуя в конкурсе Русского Космического Общества "
+        },
+        {
+          "text": "\"Письмо Леонову\"",
+          "href": "https://cosmatica.org/news/455-zdravstvuite-aleksei-arhipovich.html"
+        },
+        {
+          "text": ", писали: "
+        }
+      ],
+      "links": [
+        {
+          "text": "\"Письмо Леонову\"",
+          "url": "https://cosmatica.org/news/455-zdravstvuite-aleksei-arhipovich.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Если долго смотреть в небо, то начинает казаться, что ты летишь среди звёзд, удаляясь от Земли... Наверное и Вы также, тринадцатилетним сидели на крыльце своего дома и смотрели в таинственное небо... Вы разглядывали небо и мечтали... 18 марта 1965 года мечта сбылась! Алексей Архипович, Вы смелый, мужественный человек! Решиться на такое: первым в истории человечества совершили выход в открытый космос.\" - обращался с такими словами к Леонову тринадцатилетний Руслан Гилёв из села Ягуново Кемеровской области.",
+      "spans": [
+        {
+          "text": "\"Если долго смотреть в небо, то начинает казаться, что ты летишь среди звёзд, удаляясь от Земли... Наверное и Вы также, тринадцатилетним сидели на крыльце своего дома и смотрели в таинственное небо... Вы разглядывали небо и мечтали... 18 марта 1965 года мечта сбылась! Алексей Архипович, Вы смелый, мужественный человек! Решиться на такое: первым в истории человечества совершили выход в открытый космос.\"",
+          "marks": [
+            "italic",
+            "bold"
+          ]
+        },
+        {
+          "text": " - обращался с такими словами к Леонову тринадцатилетний Руслан Гилёв из села Ягуново Кемеровской области. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сегодня Алексей Архипович навсегда ушёл в огромное звёздное небо, но остались мальчишки и девчонки, для которых его жизнь - образец для подражания.",
+      "spans": [
+        {
+          "text": "Сегодня Алексей Архипович навсегда ушёл в огромное звёздное небо, но остались мальчишки и девчонки, для которых его  "
+        },
+        {
+          "text": "жизнь",
+          "href": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "text": " - образец для подражания."
+        }
+      ],
+      "links": [
+        {
+          "text": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Русское Космическое Общество скорбит вместе со всеми, для кого дорого имя Алексея Архиповича Леонова, кто готов помнить о нём, его подвигах, его жизни, посвящённой космическим дорогам Человечества, первопроходцем которых он стал.",
+      "spans": [
+        {
+          "text": "Русское Космическое Общество скорбит вместе со всеми, для кого дорого имя Алексея Архиповича Леонова, кто готов помнить о нём, его подвигах, его жизни, посвящённой космическим дорогам Человечества, первопроходцем которых он стал. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Похороны Алексея Архиповича пройдут 15 октября в Мытищах на Федеральном военном мемориальном кладбище .",
+      "spans": [
+        {
+          "text": "Похороны Алексея Архиповича пройдут 15 октября  в "
+        },
+        {
+          "text": "Мытищах",
+          "href": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8"
+        },
+        {
+          "text": " на "
+        },
+        {
+          "text": "Федеральном военном мемориальном кладбище",
+          "href": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "links": [
+        {
+          "text": "Мытищах",
+          "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8"
+        },
+        {
+          "text": "Федеральном военном мемориальном кладбище",
+          "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/b/0/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+      "alt": "Ушёл в вечность легендарный лётчик-космонавт Алексей Архипович Леонов 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/0/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+      "alt": "Ушёл в вечность легендарный лётчик-космонавт Алексей Архипович Леонов 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/8/8/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+      "alt": "Ушёл в вечность легендарный лётчик-космонавт Алексей Архипович Леонов 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/f/6/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+      "alt": "Ушёл в вечность легендарный лётчик-космонавт Алексей Архипович Леонов 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/0/1/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+      "alt": "Ушёл в вечность легендарный лётчик-космонавт Алексей Архипович Леонов 4"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/5/2/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+      "alt": "Ушёл в вечность легендарный лётчик-космонавт Алексей Архипович Леонов 5"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/6/7/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+      "alt": "Ушёл в вечность легендарный лётчик-космонавт Алексей Архипович Леонов 6"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/a/5/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+      "alt": "Ушёл в вечность легендарный лётчик-космонавт Алексей Архипович Леонов 7"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/b/f/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+      "alt": "Ушёл в вечность легендарный лётчик-космонавт Алексей Архипович Леонов 8"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Сегодня, 11 октября 2019 года, на 86-м году жизни скончался Первый в истории космонавт, вышедший в открытый космос, дважды Герой Советского Союза Алексей Архипович Леонов.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Леонов был одиннадцатым советским космонавтом и первым человеком, вышедшим в открытый космос. Его первый в истории человечества выход в открытый космос состоялся в марте 1965 года. В июле 1975 года он участвовал в первом в истории совместном космическом полете советского корабля \"Союз-19\" и американского Apollo со стыковкой кораблей и переходом космонавтов и астронавтов на соседние корабли. Великолепный лётчик, а также художник, общественный деятель, разносторонний и увлечённый космонавтикой до последних своих минут, Алексей Архипович был живым примером для многих - в 2019 году кемеровские ребятишки, земляки космонавта, участвуя в конкурсе Русского Космического Общества \"Письмо Леонову\" , писали: \"Если долго смотреть в небо, то начинает казаться, что ты летишь среди звёзд, удаляясь от Земли... Наверное и Вы также, тринадцатилетним сидели на крыльце своего дома и смотрели в таинственное небо... Вы разглядывали небо и мечтали... 18 марта 1965 года мечта сбылась! Алексей Архипович, Вы смелый, мужественный человек! Решиться на такое: первым в истории человечества совершили выход в открытый космос.\" - обращался с такими словами к Леонову тринадцатилетний Руслан Гилёв из села Ягуново Кемеровской области. Сегодня Алексей Архипович навсегда ушёл в огромное звёздное небо, но остались мальчишки и девчонки, для которых его жизнь - образец для подражания. Русское Космическое Общество скорбит вместе со всеми, для кого дорого имя Алексея Архиповича Леонова, кто готов помнить о нём, его подвигах, его жизни, посвящённой космическим дорогам Человечества, первопроходцем которых он стал. Похороны Алексея Архиповича пройдут 15 октября в Мытищах на Федеральном военном мемориальном кладбище .",
+      "links": [
+        {
+          "title": "\"Письмо Леонову\"",
+          "url": "https://cosmatica.org/news/455-zdravstvuite-aleksei-arhipovich.html"
+        },
+        {
+          "title": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "title": "Мытищах",
+          "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8"
+        },
+        {
+          "title": "Федеральном военном мемориальном кладбище",
+          "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/4/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+    "https://cosmatica.org/upload/000/u7/b/0/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+    "https://cosmatica.org/upload/000/u7/c/0/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+    "https://cosmatica.org/upload/000/u7/8/8/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+    "https://cosmatica.org/upload/000/u7/f/6/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+    "https://cosmatica.org/upload/000/u7/0/1/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+    "https://cosmatica.org/upload/000/u7/5/2/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+    "https://cosmatica.org/upload/000/u7/6/7/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+    "https://cosmatica.org/upload/000/u7/a/5/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+    "https://cosmatica.org/upload/000/u7/b/f/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 2144,
+    "storedTextCharacters": 1704,
+    "sourceCardCount": 0,
+    "sourceImageCount": 10,
+    "paragraphCount": 7,
+    "sourceBytes": 56282
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1964,
+  "capturedBodyCharacters": 1704,
+  "sourceTextSHA256": "11457e0afc1b6518e9186d71b3443d094efd4af8d57fd929c3e33f324f42105f",
+  "archiveSnapshotAt": "2026-10-08T09:12:32Z"
+}

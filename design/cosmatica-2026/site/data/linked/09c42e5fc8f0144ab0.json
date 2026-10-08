@@ -1,0 +1,389 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/2244-konkurs-kosmicheskih-proektov-v-pskove.html",
+  "title": "Конкурс космических проектов в Пскове",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/d/konkurs-kosmicheskih-proektov-v-pskove-photo-normal.jpg",
+      "alt": "Конкурс космических проектов в Пскове"
+    },
+    {
+      "type": "paragraph",
+      "text": "Отличные новости, друзья!",
+      "spans": [
+        {
+          "text": "Отличные новости, друзья! "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Наше жюри, в состав которого входили популяризаторы науки и настоящие творческие педагоги из разных городов, выставило все оценки и мы готовы подвести итоги нашего конкурса творческих проектов.",
+      "spans": [
+        {
+          "text": "Наше жюри, в состав которого входили популяризаторы науки и настоящие творческие педагоги из разных городов, выставило все оценки и мы готовы подвести итоги нашего конкурса творческих проектов."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Напоминаем, что всего в конкурсе приняло участие 139 работ из 27 населённых пунктов нашей страны!",
+      "spans": [
+        {
+          "text": "Напоминаем, что всего в конкурсе приняло участие 139 работ из 27 населённых пунктов нашей страны! "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В этот раз большинство работ поступило в младшей возрастной категории:",
+      "spans": [
+        {
+          "text": "В этот раз большинство работ поступило в младшей возрастной категории:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "младшая - 70 работ средняя - 57 работ старшая - 12 работ",
+      "spans": [
+        {
+          "text": "младшая - 70 работсредняя - 57 работстаршая - 12 работ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Оценка работ проводилась по следующим критериям:",
+      "spans": [
+        {
+          "text": "Оценка работ проводилась по следующим критериям:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Оригинальность идеи Сложность модели Творческий подход Соответствие возрасту автора Качество исполнения",
+      "spans": [
+        {
+          "text": "Оригинальность идеиСложность моделиТворческий подходСоответствие возрасту автора "
+        },
+        {
+          "text": "Качество",
+          "href": "https://cosmatica.org/glossary/117-kachestvo.html"
+        },
+        {
+          "text": " исполнения"
+        }
+      ],
+      "links": [
+        {
+          "text": "Качество",
+          "url": "https://cosmatica.org/glossary/117-kachestvo.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Результаты получились следующими:",
+      "spans": [
+        {
+          "text": "Результаты получились следующими:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Младшая категория",
+      "spans": [
+        {
+          "text": "Младшая категория"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1 место - Самко Денис, Псков 2 место - Ситин Роман, Псков 3 место - Матюхин Владислав, Макеевка ДНР",
+      "spans": [
+        {
+          "text": "1 место - Самко Денис, Псков2 место - Ситин Роман, Псков3 место - Матюхин Владислав, Макеевка ДНР"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Средняя категория",
+      "spans": [
+        {
+          "text": "Средняя категория"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1 место - Первак Матвей, Макеевка ДНР 2 место - Бондаренко София, Макеевка ДНР 3 место - Ковбас Георгий, Макеевка ДНР",
+      "spans": [
+        {
+          "text": "1 место - Первак Матвей, Макеевка ДНР2 место - Бондаренко София, Макеевка ДНР3 место - Ковбас Георгий, Макеевка ДНР"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Старшая категория",
+      "spans": [
+        {
+          "text": "Старшая категория"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1 место - Назаров Максим, Новая Вилга 2 место - Хлынова Мария, Омск 3 место - Никифоров Никита, Великие Луки",
+      "spans": [
+        {
+          "text": "1 место - Назаров Максим, Новая Вилга2 место - Хлынова Мария, Омск3 место - Никифоров Никита, Великие Луки"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Большое спасибо всем за участие!",
+      "spans": [
+        {
+          "text": "Большое спасибо всем за участие! "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "До конца месяца мы подготовим дипломы участников (в электронном виде), которые все участники смогут скачать.",
+      "spans": [
+        {
+          "text": "До конца месяца мы подготовим дипломы участников (в электронном виде), которые все участники смогут скачать. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Также до конца месяца мы свяжемся с победителями для уточнения адресов доставки и разошлём им призы и дипломы (пост про призы будет чуть позже).",
+      "spans": [
+        {
+          "text": "Также до конца месяца мы свяжемся с победителями для уточнения адресов доставки и разошлём им призы и дипломы (пост про призы будет чуть позже)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "С вечера пятницы, 10 апреля, и по 12 апреля включительно фотографии победителей будут транслироваться в режиме SSTV с МКА УмКА-1 RS40S!",
+      "spans": [
+        {
+          "text": "С вечера пятницы, 10 апреля, и по 12 апреля включительно фотографии победителей будут транслироваться в режиме SSTV с МКА УмКА-1 RS40S!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Посмотреть ещё раз все работы можно в нашем альбоме: vk.com/album-219484512_3101...",
+      "spans": [
+        {
+          "text": "Посмотреть ещё раз все работы можно в нашем альбоме: "
+        },
+        {
+          "text": "vk.com/album-219484512_3101...",
+          "href": "https://vk.ru/away.php?to=https%3A%2F%2Fvk.com%2Falbum-219484512_310125347&utf=1"
+        }
+      ],
+      "links": [
+        {
+          "text": "vk.com/album-219484512_3101...",
+          "url": "https://vk.ru/away.php?to=https%3A%2F%2Fvk.com%2Falbum-219484512_310125347&utf=1"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Конкурс проводится в рамках научно-просветительского проекта «Поехали!».",
+      "spans": [
+        {
+          "text": "Конкурс проводится в рамках научно-просветительского проекта «Поехали!». "
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://vk.ru/away.php?to=https%3A%2F%2Fvk.com%2Falbum-219484512_310125347&utf=1"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Организатор конкурса: АНО ЦНТТ \"Юный Техник\" , при поддержке Псковского планетария и команды ЦУП ШКТ миссии УмКА-1 RS40S .",
+      "spans": [
+        {
+          "text": "Организатор конкурса: "
+        },
+        {
+          "text": "АНО ЦНТТ \"Юный Техник\"",
+          "href": "https://vk.ru/club97838745"
+        },
+        {
+          "text": ", при поддержке "
+        },
+        {
+          "text": "Псковского планетария",
+          "href": "https://vk.ru/club48768488"
+        },
+        {
+          "text": " и команды "
+        },
+        {
+          "text": "ЦУП ШКТ миссии УмКА-1 RS40S",
+          "href": "https://vk.ru/club197484104"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "links": [
+        {
+          "text": "АНО ЦНТТ \"Юный Техник\"",
+          "url": "https://vk.ru/club97838745"
+        },
+        {
+          "text": "Псковского планетария",
+          "url": "https://vk.ru/club48768488"
+        },
+        {
+          "text": "ЦУП ШКТ миссии УмКА-1 RS40S",
+          "url": "https://vk.ru/club197484104"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/2/e/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+      "alt": "Конкурс космических проектов в Пскове 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/2/d/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+      "alt": "Конкурс космических проектов в Пскове 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/6/4/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+      "alt": "Конкурс космических проектов в Пскове 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/d/d/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+      "alt": "Конкурс космических проектов в Пскове 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/2/7/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+      "alt": "Конкурс космических проектов в Пскове 4"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/3/2/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+      "alt": "Конкурс космических проектов в Пскове 5"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/4/a/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+      "alt": "Конкурс космических проектов в Пскове 6"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/e/2/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+      "alt": "Конкурс космических проектов в Пскове 7"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/7/5/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+      "alt": "Конкурс космических проектов в Пскове 8"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Итоги конкурса, в проведённого а рамках научно-просветительского проекта \"Поехали!\"",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Отличные новости, друзья! Наше жюри, в состав которого входили популяризаторы науки и настоящие творческие педагоги из разных городов, выставило все оценки и мы готовы подвести итоги нашего конкурса творческих проектов. Напоминаем, что всего в конкурсе приняло участие 139 работ из 27 населённых пунктов нашей страны! В этот раз большинство работ поступило в младшей возрастной категории: младшая - 70 работ средняя - 57 работ старшая - 12 работ Оценка работ проводилась по следующим критериям: Оригинальность идеи Сложность модели Творческий подход Соответствие возрасту автора Качество исполнения Результаты получились следующими: Младшая категория 1 место - Самко Денис, Псков 2 место - Ситин Роман, Псков 3 место - Матюхин Владислав, Макеевка ДНР Средняя категория 1 место - Первак Матвей, Макеевка ДНР 2 место - Бондаренко София, Макеевка ДНР 3 место - Ковбас Георгий, Макеевка ДНР Старшая категория 1 место - Назаров Максим, Новая Вилга 2 место - Хлынова Мария, Омск 3 место - Никифоров Никита, Великие Луки Большое спасибо всем за участие! До конца месяца мы подготовим дипломы участников (в электронном виде), которые все участники смогут скачать. Также до конца месяца мы свяжемся с победителями для уточнения адресов доставки и разошлём им призы и дипломы (пост про призы будет чуть позже). С вечера пятницы, 10 апреля, и по 12 апреля включительно фотографии победителей будут транслироваться в режиме SSTV с МКА УмКА-1 RS40S! Посмотреть ещё раз все работы можно в нашем альбоме: vk.com/album-219484512_3101... Конкурс проводится в рамках научно-просветительского проекта «Поехали!». Организатор конкурса: АНО ЦНТТ \"Юный Техник\" , при поддержке Псковского планетария и команды ЦУП ШКТ миссии УмКА-1 RS40S .",
+      "links": [
+        {
+          "title": "Качество",
+          "url": "https://cosmatica.org/glossary/117-kachestvo.html"
+        },
+        {
+          "title": "vk.com/album-219484512_3101...",
+          "url": "https://vk.ru/away.php?to=https%3A%2F%2Fvk.com%2Falbum-219484512_310125347&utf=1"
+        },
+        {
+          "title": "",
+          "url": "https://vk.ru/away.php?to=https%3A%2F%2Fvk.com%2Falbum-219484512_310125347&utf=1"
+        },
+        {
+          "title": "АНО ЦНТТ \"Юный Техник\"",
+          "url": "https://vk.ru/club97838745"
+        },
+        {
+          "title": "Псковского планетария",
+          "url": "https://vk.ru/club48768488"
+        },
+        {
+          "title": "ЦУП ШКТ миссии УмКА-1 RS40S",
+          "url": "https://vk.ru/club197484104"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/c/d/konkurs-kosmicheskih-proektov-v-pskove-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/2/e/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/2/d/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/6/4/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/d/d/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/2/7/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/3/2/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/4/a/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/e/2/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u7/7/5/konkurs-kosmicheskih-proektov-v-pskove-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1986,
+    "storedTextCharacters": 1707,
+    "sourceCardCount": 0,
+    "sourceImageCount": 10,
+    "paragraphCount": 21,
+    "sourceBytes": 53687
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1838,
+  "capturedBodyCharacters": 1707,
+  "sourceTextSHA256": "24b6cea34299fd7ae2d33b6899d21d5295acd812a5bfd0311c433231e6e2a60d",
+  "archiveSnapshotAt": "2026-10-08T09:10:43Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 110,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Русское Космическое Общество в \"Бессмертном полку\"",
+      "description": "В столице в этом году колонна растянулась по центральным улицам на четыре с половиной километра. На этот раз в акции приняли участие около 700 тысяч человек.",
+      "url": "https://cosmatica.org/news/422-russkoe-kosmicheskoe-obschestvo-v-bessmertnom-polku.html",
+      "image": "https://cosmatica.org/upload/000/u26/7/4/e85b7664.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ae7058604d3112064f",
+      "type": "news-item",
+      "sourceCharacters": 1103,
+      "verified": false
+    },
+    {
+      "title": "\"Тропа Мужества: Лето 2019\" - обновлённый регламент",
+      "description": "22 июня 2019 года соревнования будут проводиться в районе с. Ворсино Боровского района на границе Московской и Калужской областей.",
+      "url": "https://cosmatica.org/news/421-tropa-muzhestva-leto-2019-obnovlyonnyi-reglament.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/b/1277d0a8.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b179177fd575ebebc8",
+      "type": "news-item",
+      "sourceCharacters": 869,
+      "verified": false
+    },
+    {
+      "title": "Они сражались за мечту",
+      "description": "Они сражались за мечту. За справедливость и свободу, За идеалы коммунизма, За власть советского народа!",
+      "url": "https://cosmatica.org/news/420-oni-srazhalis-za-mechtu.html",
+      "image": "https://cosmatica.org/upload/000/u26/d/2/oni-srazhalis-za-mechtu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b6d062a56ca77c4001",
+      "type": "news-item",
+      "sourceCharacters": 885,
+      "verified": false
+    },
+    {
+      "title": "\"Союз - Наследники Победы\"",
+      "description": "Сборы проводятся с 2007 года и являются уникальным проектом современной России, реализуются без федеральной государственной поддержки, на воле и энергии человека творца и победителя - Олега Васильевича Баканача . Даты Сборов в 2019 году: 28 апреля - 9 мая.",
+      "url": "https://cosmatica.org/news/419-soyuz-nasledniki-pobedy.html",
+      "image": "https://cosmatica.org/upload/000/u26/8/8/soyuz-nasledniki-pobedy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=115ddf6e3e3c75f8b8",
+      "type": "news-item",
+      "sourceCharacters": 1581,
+      "verified": false
+    },
+    {
+      "title": "\"Рубежи веков\" пройдены.",
+      "description": "Инициаторами мероприятия стали Общественное молодежное движение «Казачий Дозор» и Оренбургское войсковое казачье общество, собравшие для совместного проведения фестиваля огромное количество различных организаций и учреждений Урала.",
+      "url": "https://cosmatica.org/news/418-rubezhi-vekov-proideny.html",
+      "image": "https://cosmatica.org/upload/000/u44/1/a/rubezhi-vekov-proideny-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=792d223bd22698732d",
+      "type": "news-item",
+      "sourceCharacters": 7540,
+      "verified": false
+    },
+    {
+      "title": "Ю.А. Гагарин и его наследие в истории страны и всего мира",
+      "description": "В рамках работы Общественно-государственного комитета празднования 85-летия Ю.А. Гагарина в период с 1 февраля по 12 апреля 2019 г. кафедра всеобщей истории ВлГУ им. А.Г. и Н.Г. Столетовых совместно с Русским Космическим Обществом провела конкурс на лучший исследовательский и практико-ориентированный проект на тему «Ю.А. Гагарин и его наследие в истории страны и всего мира».",
+      "url": "https://cosmatica.org/news/417-yu-a-gagarin-i-ego-nasledie-v-istorii-strany-i-vsego-mira.html",
+      "image": "https://cosmatica.org/upload/000/u26/c/c/af953344.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=371eab1960ceb71a27",
+      "type": "news-item",
+      "sourceCharacters": 6117,
+      "verified": false
+    },
+    {
+      "title": "Преемственность космической мечты",
+      "description": "Воспитанникам Центра развития творчества детей и юношества \"Созвездие\" (г. Калуга) посчастливилось посетить Федеральное государственное бюджетное учреждение «Научно-исследовательский испытательный центр подготовки космонавтов имени Ю. А. Гагарина» (ЦПК им. Ю.А. Гагарина) — главное советское и российское учреждение по подготовке космонавтов.",
+      "url": "https://cosmatica.org/news/416-preemstvennost-kosmicheskoi-mechty.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/4/preemstvennost-kosmicheskoi-mechty-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b78c8a871d944d23a5",
+      "type": "news-item",
+      "sourceCharacters": 3248,
+      "verified": false
+    },
+    {
+      "title": "\"Космология духа\" Ильенкова и традиция Русского Космизма",
+      "description": "В 2019 году Чтения прошли под девизом: «Э.В. Ильенков: проблема единства и целостности философско-мировоззренческих взглядов». Организаторы конференции: Российское Философское общество «Диалектика и культура», Русское Космическое Общество, Общероссийское общественное движение «Альтернативы», Восточное Отделение Казахстанского Философского Конгресса, Кафедра философии Московского авиационного института.",
+      "url": "https://cosmatica.org/news/413-kosmologija-duha-ilenkova-i-tradicija-russkogo-kosmizma.html",
+      "image": "https://cosmatica.org/upload/000/u26/b/c/kosmologija-duha-ilenkova-i-tradicija-russkogo-kosmizma-photo-n.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8e4b5424e92ed032bd",
+      "type": "news-item",
+      "sourceCharacters": 6621,
+      "verified": false
+    },
+    {
+      "title": "Кто летит на Байконур!?",
+      "description": "«Семихатовские чтения» проводятся ежегодно в канун празднования Дня космонавтики и посвящаются памяти конструктора и ученого – академика Н.А. Семихатова.",
+      "url": "https://cosmatica.org/news/415-kto-letit-na-baikonur.html",
+      "image": "https://cosmatica.org/upload/000/u44/1/2/0b58d204.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a022dfefe2c6eb81cf",
+      "type": "news-item",
+      "sourceCharacters": 4761,
+      "verified": false
+    },
+    {
+      "title": "Иван Антонович Ефремов - писатель, учёный, идеолог",
+      "description": "Неизменным местом проведения Чтений является Вырицкая поселковая библиотека им. И.А. Ефремова, которая находится на родине писателя в посёлке Вырица Царскосельского уезда Санкт-Петербургской губернии, а ныне - Гатчинский район Ленинградской области. Каждый год на этом мероприятии собираются люди, любящие и знающие творчество Ефремова. Были среди них и представители Русского Космического Общества. Иван Антонович - вел",
+      "url": "https://cosmatica.org/news/411-ivan-antonovich-efremov-pisatel-uchyonyi-ideolog.html",
+      "image": "https://cosmatica.org/upload/000/u21/e/2/e3fba4d1.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1c49f891258be330f1",
+      "type": "news-item",
+      "sourceCharacters": 3198,
+      "verified": false
+    },
+    {
+      "title": "Стремительный старт РКО в Нижнем Новгороде",
+      "description": "19 апреля прошло первое общее открытое (по совместительству учредительное) собрание Нижегородского отделения Русского Космического Общества. Одновременно был проведён первый гуманитарный, естественнонаучный и технический симпозиум в сфере космоса «Волские чтения» , название которому дано в честь нижегородского профессора, доктора технических и биологических наук, создавшего основы для обеспечения жизни в космосе Миха",
+      "url": "https://cosmatica.org/news/410-rko-na-rodine-chkalova.html",
+      "image": "https://cosmatica.org/upload/001/u176/e/e/rko-na-rodine-chkalova-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4c246c2a0d55b81886",
+      "type": "news-item",
+      "sourceCharacters": 12360,
+      "verified": false
+    },
+    {
+      "title": "Путь к знаниям - путь к звёздам.",
+      "description": "Базовой площадкой Олимпиады стал Баранчинский электромеханический техникум. Организацию процесса, методическую и ИТ-поддержку осуществляли Свердловское отделение Русского Космического Общества (РКО) и Сетевая инженерно-техническая школа (СИТШ).",
+      "url": "https://cosmatica.org/news/414-put-k-znanijam-put-k-zvyozdam.html",
+      "image": "https://cosmatica.org/upload/000/u44/1/d/6a5d0ca7.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3c0b16c3d93ba333c7",
+      "type": "news-item",
+      "sourceCharacters": 2362,
+      "verified": false
+    },
+    {
+      "title": "Космическая конвергенция БРИКС",
+      "description": "25.04.2019 в центральном офисе Русского Космического Общества в Москве на мероприятии присутствовали гости, в числе которых был герой России, космонавт-испытатель Центра подготовки космонавтов им. Ю. А. Гагарина Токарев Валерий Иванович .",
+      "url": "https://cosmatica.org/news/408-kosmicheskaja-konvergencija-briks.html",
+      "image": "https://cosmatica.org/upload/000/u26/e/5/kosmicheskaja-konvergencija-briks-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3987f27d372c570c33",
+      "type": "news-item",
+      "sourceCharacters": 4943,
+      "verified": false
+    },
+    {
+      "title": "Магницкий — XXI век",
+      "description": "Тема научного мероприятия: «Государство – флот — навигацкая школа – Магницкий — XXI век. 350 Магницкому Леонтию Филипповичу и Петру I: религия-наука-политика» .",
+      "url": "https://cosmatica.org/news/412-magnickii-xxi-vek.html",
+      "image": "https://cosmatica.org/upload/000/u26/1/8/magnickii-xxi-vek-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1daaf6d553f3b5dec3",
+      "type": "news-item",
+      "sourceCharacters": 2283,
+      "verified": false
+    },
+    {
+      "title": "Всенародный день Матери-Земли в Мемориальном Музее Космонавтики",
+      "description": "День Матери-Земли — это день ответственности перед нашей планетой, ответственности перед людьми, которые её населяют, перед самой природой, частью которой мы являемся».",
+      "url": "https://cosmatica.org/news/405-vsenarodnyi-den-materi-zemli-v-memorialnom-muzee-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/e/vsenarodnyi-den-materi-zemli-v-memorialnom-muzee-kosmonavtiki.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=24734216d125c6248b",
+      "type": "news-item",
+      "sourceCharacters": 7050,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

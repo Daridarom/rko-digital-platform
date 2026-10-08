@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/262-glavnaja-cel-poznanija-i-deistvii-chelovechestva.html",
+  "title": "Главная цель познания и действий человечества",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Сегодня главной целью познания и действий человечества становится УСТОЙЧИВОЕ РАЗВИТИЕ ЖИЗНИ, где каждый член космического корабля \"Земля\" отождествляет себя с системой природа-общество-человек в единой связке, без отрыва от реальности. А старые мыслительные формулы \"это моё - это не моё\", \"это меня касается - это меня не касается\" уходят в прошлое.",
+      "spans": [
+        {
+          "text": "Сегодня главной целью познания и действий человечества становится УСТОЙЧИВОЕ  "
+        },
+        {
+          "text": "РАЗВИТИЕ",
+          "href": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "text": " ЖИЗНИ, где каждый член космического корабля \"Земля\" отождествляет себя с системой природа-общество-человек в единой связке, без отрыва от реальности. А старые мыслительные формулы \"это моё - это не моё\", \"это меня касается - это меня не касается\" уходят в прошлое. "
+        }
+      ],
+      "links": [
+        {
+          "text": "РАЗВИТИЕ",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Когда ты на одном корабле, здесь нет дел, которые тебя не касаются, здесь не мусорят где кто хочет - здесь каждый работает как единый механизм. И это право и обязанность каждого человека, которое ещё нужно заслужить. А перед тем как заслужить, это нужно начать осознавать.",
+      "spans": [
+        {
+          "text": "Когда ты на одном корабле, здесь нет дел, которые тебя не касаются, здесь не мусорят где кто хочет - здесь каждый работает как единый механизм. И это право и обязанность каждого человека, которое ещё нужно заслужить. А перед тем как заслужить, это нужно начать осознавать. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Для чего сей пост и написан...",
+      "spans": [
+        {
+          "text": "Для чего сей пост и написан... "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "http://cosmatica.org/about/cosmatica.html",
+      "spans": [
+        {
+          "text": "http://cosmatica.org/about/cosmatica.html",
+          "href": "https://vk.com/away.php?to=http%3A%2F%2Fcosmatica.org%2Fabout%2Fcosmatica.html&post=72528_5676&cc_key="
+        }
+      ],
+      "links": [
+        {
+          "text": "http://cosmatica.org/about/cosmatica.html",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fcosmatica.org%2Fabout%2Fcosmatica.html&post=72528_5676&cc_key="
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u46/7d/f0/jj5ggobbmac.jpg",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Сегодня главной целью познания и действий человечества становится УСТОЙЧИВОЕ РАЗВИТИЕ ЖИЗНИ, где каждый член космического корабля \"Земля\" отождествляет себя с системой природа-общество-человек в единой связке, без отрыва от реальности. А старые мыслительные формулы \"это моё - это не моё\", \"это меня касается - это меня не касается\" уходят в прошлое. Когда ты на одном корабле, здесь нет дел, которые тебя не касаются, здесь не мусорят где кто хочет - здесь каждый работает как единый механизм. И это право и обязанность каждого человека, которое ещё нужно заслужить. А перед тем как заслужить, это нужно начать осознавать. Для чего сей пост и написан... http://cosmatica.org/about/cosmatica.html",
+      "links": [
+        {
+          "title": "РАЗВИТИЕ",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "title": "http://cosmatica.org/about/cosmatica.html",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fcosmatica.org%2Fabout%2Fcosmatica.html&post=72528_5676&cc_key="
+        }
+      ],
+      "image": "https://cosmatica.org/upload/000/u46/7d/f0/jj5ggobbmac.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u46/7d/f0/jj5ggobbmac.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 908,
+    "storedTextCharacters": 693,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 5,
+    "sourceBytes": 76377
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 862,
+  "capturedBodyCharacters": 693,
+  "sourceTextSHA256": "7edb8f0587b5bb12fa58847d29cb963f00795dfa77bf3c4bd0f3ecbd7656ce61",
+  "archiveSnapshotAt": "2026-10-08T08:39:57Z"
+}

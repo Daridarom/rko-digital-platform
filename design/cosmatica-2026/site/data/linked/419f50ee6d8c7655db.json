@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/63-kron-g-tenzornyi-analiz-setei-chast-2.html",
+  "title": "Крон Г. - Тензорный анализ сетей часть 2",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/27/c7/kron-g-tenzornyi-analiz-setei-chast-2-photo-normal.png",
+      "alt": "Крон Г. - Тензорный анализ сетей часть 2"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Файл:",
+      "value": "Скачать 10 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/74/90fc890aae7977c4b8d34c8741df2308"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/27/c7/kron-g-tenzornyi-analiz-setei-chast-2-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/74/90fc890aae7977c4b8d34c8741df2308"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 60,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 38790
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 19,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "e402eb5cf53c1fc2fd3cbfdf3e3f9ce4f4678950dc0a614d0b81de6f7628dae3",
+  "archiveSnapshotAt": "2026-10-08T08:51:04Z"
+}

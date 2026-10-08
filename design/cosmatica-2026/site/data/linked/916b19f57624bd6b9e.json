@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/228",
+  "title": "Алексей Анатольевич Тройченко",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u228/8/c/3fb8d80d.jpg",
+      "alt": "Алексей Анатольевич Тройченко"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 1",
+        "Комментарии 2"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u228/f/1/b5760fb3.jpg",
+      "alt": "Алексей Анатольевич Тройченко"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Общественный экологический инспектор, член партии «Великое Отечество», руководитель избирательного штаба.",
+      "spans": [
+        {
+          "text": "Общественный экологический инспектор, член партии «Великое Отечество», руководитель избирательного штаба."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Индивидуальный предприниматель.",
+      "spans": [
+        {
+          "text": "Индивидуальный предприниматель."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Общественный экологический инспектор, член партии «Великое Отечество», руководитель избирательного штаба. Индивидуальный предприниматель.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u228/8/c/3fb8d80d.jpg",
+    "https://cosmatica.org/upload/002/u228/f/1/b5760fb3.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 252,
+    "storedTextCharacters": 198,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36710
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 165,
+  "capturedBodyCharacters": 198,
+  "sourceTextSHA256": "db76e5b4965e95a03bd807bdc069a7ab77bfb993d4181636947bcada923f222d",
+  "archiveSnapshotAt": "2026-10-08T09:18:41Z"
+}

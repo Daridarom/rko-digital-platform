@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/231",
+  "title": "Владимир Александрович Полосухин",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/9/388bef07.jpg",
+      "alt": "Владимир Александрович Полосухин"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/d/19f5fc95.jpg",
+      "alt": "Владимир Александрович Полосухин"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Совета Регионального отделения в Волгоградской области Российской экологической партии «Зеленые»,",
+      "spans": [
+        {
+          "text": "Председатель Совета Регионального отделения в Волгоградской области Российской экологической партии «Зеленые»,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Совета Регионального отделения в Волгоградской области Конструктивно-экологичского движения России «КЕДР»",
+      "spans": [
+        {
+          "text": "Председатель Совета Регионального отделения в Волгоградской области Конструктивно-экологичского движения России «КЕДР»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Волгоградская область",
+      "links": [
+        {
+          "title": "Волгоградская область",
+          "url": "https://cosmatica.org/departments/19-volgogradskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Председатель Совета Регионального отделения в Волгоградской области Российской экологической партии «Зеленые», Председатель Совета Регионального отделения в Волгоградской области Конструктивно-экологичского движения России «КЕДР»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/1/9/388bef07.jpg",
+    "https://cosmatica.org/upload/000/u35/5/d/19f5fc95.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 330,
+    "storedTextCharacters": 261,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35605
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 272,
+  "capturedBodyCharacters": 261,
+  "sourceTextSHA256": "29319d29f8517c2b2a57f6466a5f5e478ed1cc45d1f52ca83dca553163aa2ff5",
+  "archiveSnapshotAt": "2026-10-08T09:18:42Z"
+}

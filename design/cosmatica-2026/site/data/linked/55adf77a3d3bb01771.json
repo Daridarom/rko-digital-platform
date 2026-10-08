@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/44-tozhdestvo-i-protivopolozhnost-grammaticheskih-i-logicheskih-form.html",
+  "title": "Тождество и противоположность грамматических и логических форм",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Работы Канта привели к ясному осознанию\r\nАНТИНОМИЙ. Кант пытался построить «аксиоматическую\r\nтеорию Вселенной», частными случаями которой были бы все\r\nизвестные и будущие научные дисциплины.",
+      "spans": [
+        {
+          "text": "Работы Канта привели к ясному осознанию\r\nАНТИНОМИЙ. Кант пытался построить «аксиоматическую\r\nтеорию Вселенной», частными случаями которой были бы все\r\nизвестные и будущие научные дисциплины."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Работы Канта привели к ясному осознанию АНТИНОМИЙ. Кант пытался построить «аксиоматическую теорию Вселенной», частными случаями которой были бы все известные и будущие научные дисциплины.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 128 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/60/afc2d4c08eb3af1e203213f15f4f1ab2"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/60/afc2d4c08eb3af1e203213f15f4f1ab2"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 271,
+    "storedTextCharacters": 190,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39559
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 208,
+  "capturedBodyCharacters": 190,
+  "sourceTextSHA256": "245d5f45efb993193d79333153cda708f0f38b768ce3f96bd51527175c454d21",
+  "archiveSnapshotAt": "2026-10-08T08:50:00Z"
+}

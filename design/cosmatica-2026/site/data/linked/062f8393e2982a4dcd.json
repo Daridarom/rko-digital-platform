@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/133-zakon-vozvyshenija-potrebnostei.html",
+  "title": "Закон возвышения потребностей",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "чем меньше рабочего времени тре­буется обществу для удовлетворения неисчезающих потребностей, тем большим свободным временем оно будет располагать для удовлетворе­ния новых потребностей – как текущих, так и будущих.",
+      "spans": [
+        {
+          "text": "чем меньше рабочего времени тре­буется обществу для удовлетворения неисчезающих потребностей, тем большим свободным временем оно будет располагать для удовлетворе­ния новых потребностей – как текущих, так и будущих."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "чем меньше рабочего времени тре­буется обществу для удовлетворения неисчезающих потребностей, тем большим свободным временем оно будет располагать для удовлетворе­ния новых потребностей – как текущих, так и будущих.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 245,
+    "storedTextCharacters": 215,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32439
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 215,
+  "capturedBodyCharacters": 215,
+  "sourceTextSHA256": "3a8640ff69e2d923617a25caf095fc3477ee14341e13502e1abbc124d4b89b17",
+  "archiveSnapshotAt": "2026-10-08T08:46:29Z"
+}

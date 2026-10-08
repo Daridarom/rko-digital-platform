@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 87,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Герой и Враг Империума - кто он?",
+      "description": "На Конкурс принимаются прозаические произведения любого объема — рассказ, повесть, роман, сага во многих частях. Минимального и максимального числа знаков нет.",
+      "url": "https://cosmatica.org/news/791-geroi-i-vrag-imperiuma-kto-on.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/5/geroi-i-vrag-imperiuma-kto-on-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d2fbd186522f349fd1",
+      "type": "news-item",
+      "sourceCharacters": 2662,
+      "verified": false
+    },
+    {
+      "title": "Империум Человека - в развитии!",
+      "description": "9 марта 2020, в годовщину рождения Юрия Алексеевича Гагарина, были подведены итоги первого литературного конкурса РКО \"Империум Человека - Эра Косматики\".",
+      "url": "https://cosmatica.org/news/788-imperium-cheloveka-v-razvitii.html",
+      "image": "https://cosmatica.org/upload/000/u35/c/c/imperium-cheloveka-v-razvitii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=032b6dcac1fe5d5091",
+      "type": "news-item",
+      "sourceCharacters": 1527,
+      "verified": false
+    },
+    {
+      "title": "Создавать ли нам технопарк?",
+      "description": "На круглом столе обсуждалась возможность создания Молодёжного креативного технопарка на территории АО «МЗЭМА» совместно с проектом «Е-Технопарк» и обмен опытом с уже действующими технопарками России и стран СНГ.",
+      "url": "https://cosmatica.org/news/787-11-iyunja-2020-goda-sostojalsja-kruglyi-stol-molodezh-i-biznes-opyt-sozdanija-tehnoparkov-na-pro.html",
+      "image": "https://cosmatica.org/upload/002/u252/9/8/11-iyunja-2020-goda-sostojalsja-kruglyi-stol-molodezh-i-biznes-op.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0fced0818e5499920f",
+      "type": "news-item",
+      "sourceCharacters": 7006,
+      "verified": false
+    },
+    {
+      "title": "Первый Школьный космический музей от РКО появился в Лопатинской школе",
+      "description": "Примечательно, что монтаж удалось осуществить задолго до начала учебного года. Оставшееся до сентября время будет потрачено на доработку методических материалов, благодаря которым учителя смогу сами проводить дополнительные занятия, экскурсии и мастер-классы с детьми, не прибегая к помощи создателей проекта.",
+      "url": "https://cosmatica.org/news/783-pervyi-shkolnyi-kosmicheskii-muzei-smontirovan-v-lopatinskoi-shkole.html",
+      "image": "https://cosmatica.org/upload/001/u120/b/d/pervyi-shkolnyi-kosmicheskii-muzei-smontirovan-v-lopatinskoi-shkol.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3b532152bea5948bff",
+      "type": "news-item",
+      "sourceCharacters": 1813,
+      "verified": false
+    },
+    {
+      "title": "Час РКО на канале Юность Авроры",
+      "description": "Родилось это сотрудничество благодаря члену РКО, директору НИИ Анропогенеза, Чагину Олегу Александровичу . Именно в тесном сотрудничестве с НИИ Антропогенеза ИА \"Аврора\" принимает решение создать отдельный канал \"Юность Авроры\" , который будет посвящён воспитанию и образовательным технологиям, который будет ориентирован на подрастающее поколение и их родителей и наполнит эфир правильными смыслами.",
+      "url": "https://cosmatica.org/news/786-chas-rko-na-kanale-yunost-avrory.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/4/chas-rko-na-kanale-yunost-avrory-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ebf8ce4bc24c52f5a0",
+      "type": "news-item",
+      "sourceCharacters": 2348,
+      "verified": false
+    },
+    {
+      "title": "Новые результаты. Новые планы. Новые горизонты. Новое время!",
+      "description": "В новом выпуске представлены результаты деятельности Русского Космического Общества за март, апрель и май 2020 года.",
+      "url": "https://cosmatica.org/news/785-novye-rezultaty-novye-plany-novye-gorizonty.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/f/5393f638.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f322e5ee9ef957620c",
+      "type": "news-item",
+      "sourceCharacters": 1531,
+      "verified": false
+    },
+    {
+      "title": "Молодёжь и бизнес: Опыт создания технопарков на промышленных предприятиях России",
+      "description": "Организаторы: РОО «Челябинцы», АО «Московский завод электромеханической аппаратуры», МОО «Русское Космическое Общество», Конфедерация промышленников и предпринимателей г. Москвы, при участии Клуба « Развитие » и МДОО «Молодёжь и развитие»",
+      "url": "https://cosmatica.org/news/784-molodyozh-i-biznes-opyt-sozdanija-tehnoparkov-na-promyshlennyh-predprijatijah-rossii.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/5/molodyozh-i-biznes-opyt-sozdanija-tehnoparkov-na-promyshlennyh-pre.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=702e1ef7c809a52f25",
+      "type": "news-item",
+      "sourceCharacters": 5983,
+      "verified": false
+    },
+    {
+      "title": "Тропа мужества. Лето 2020. Регистрация началась",
+      "description": "«Тропа Мужества» — пеший комплексный марафон, позволяющий проверить и изменить себя.",
+      "url": "https://cosmatica.org/news/781-tropa-muzhestva-leto-2020.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/b/tropa-muzhestva-leto-2020-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b4fc46f031baf84bbf",
+      "type": "news-item",
+      "sourceCharacters": 2850,
+      "verified": false
+    },
+    {
+      "title": "Пилотный курс института \"Системономии и целостного мышления\"",
+      "description": "Курс разработан на платформе NBICS.NET и будет реализован на площадке РКО rko.nbics.net",
+      "url": "https://cosmatica.org/news/782-pilotnyi-kurs-instituta-sistemonomii-i-celostnogo-myshlenija.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/b/pilotnyi-kurs-instituta-sistemonomii-i-celostnogo-myshlenija-pho.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1166bbea411100a339",
+      "type": "news-item",
+      "sourceCharacters": 2071,
+      "verified": false
+    },
+    {
+      "title": "Победили \"Юные звёзды\"",
+      "description": "Международный детский шахматный фестиваль «Юные звёзды», организованный СК Роскосмоса, в этом году прошел уже в пятый раз. До этого по доброй традиции гостеприимный Звездный городок принимал юных шахматистов, родителей, бабушек и дедушек в Доме космонавтов. В этом году формат проведения фестиваля был изменен на онлайн, но традиции остались.",
+      "url": "https://cosmatica.org/news/780-pobedili-yunye-zvyozdy.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/0/pobedili-yunye-zvyozdy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=76c9e0a6faeca74db4",
+      "type": "news-item",
+      "sourceCharacters": 8178,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество приняло к исполнению решение Конференции",
+      "description": "Участников I Международной научно-практической конференции:",
+      "url": "https://cosmatica.org/news/779-russkoe-kosmicheskoe-obschestvo-prinjalo-k-ispolneniyu-reshenie-konferencii.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/8/5f14366a.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4d2fc50eb98879f251",
+      "type": "news-item",
+      "sourceCharacters": 12252,
+      "verified": false
+    },
+    {
+      "title": "С Юбилеем , Байконур!",
+      "description": "В истории космодрома были светлые и чёрные страницы, были периоды взлета и нищета 90-х. Байконур видел миллионы жизней и судеб, стал безмолвным свидетелем удач и катастроф, свидетелем гибели людей при авариях и слёз счастья, когда мы были ПЕРВЫМИ!",
+      "url": "https://cosmatica.org/news/776-s-yubileem-baikonur.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/f/9ed59508.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a93fee8602235e5d5a",
+      "type": "news-item",
+      "sourceCharacters": 1950,
+      "verified": false
+    },
+    {
+      "title": "Диалог с \"Нашей Вселенной\". Есть контакт!",
+      "description": "Космические аппараты с ядерными двигателями и ядерными энергоустановками. Dedalus, Orion, межзвёздный корабль из фильма «Аватар» и новейшие российские патенты по технологиям ядерного буксира - обо всём этом и не только говорили в режиме реального времени разработчики проекта \"Наша Вселенная\" с экспертами космической отрасли. Экспертами он-лайн дискуссии стали: - Сергей Викторович Александров, руководитель программы «",
+      "url": "https://cosmatica.org/news/777-dialog-s-nashei-vselennoi-est-kontakt.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/4/dialog-s-nashei-vselennoi-est-kontakt-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4d00d017572494c369",
+      "type": "news-item",
+      "sourceCharacters": 3198,
+      "verified": false
+    },
+    {
+      "title": "Подвигу военного лётчика, героя Советского Союза Михаила Петровича Девятаева посвящается",
+      "description": "Приглашаем посмотреть репортаж Снежинского телевидения о фотовыставке, посвящённой жизни и подвигу военного лётчика, героя Советского Союза Михаила Петровича Девятаева, который стал организатором успешного побега на бомбардировщике «Хенкель-111» из секретного концлагеря.",
+      "url": "https://cosmatica.org/news/774-podvigu-voennogo-lyotchika-geroja-sovetskogo-soyuza-mihaila-petrovicha-devjataeva-posvjaschaetsj.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/8/podvigu-voennogo-lyotchika-geroja-sovetskogo-soyuza-mihaila-devjatae.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=85cdd8d9a88bb35d2e",
+      "type": "news-item",
+      "sourceCharacters": 958,
+      "verified": false
+    },
+    {
+      "title": "Совершён ещё один шаг к космическому прорыву человечества",
+      "description": "Мероприятие прошло в режиме реального времени на цифровой платформе Русского Космического Общества rko.nbics.net , которую оно разрабатывает и внедряет совместно с ассоциацией инновационных предприятий NBICS . Все решения разработаны отечественными учёными, инженерами и программистами.",
+      "url": "https://cosmatica.org/news/773-sovershyon-eschyo-odin-shag-k-kosmicheskomu-proryvu-chelovechestva.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/8/0a163cb1.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ebf649f9352c7009c5",
+      "type": "news-item",
+      "sourceCharacters": 16573,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

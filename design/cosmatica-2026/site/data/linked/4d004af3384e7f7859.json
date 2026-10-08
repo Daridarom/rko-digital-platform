@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/kosmonavtika",
+  "title": "Космонавтика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "Дневник космонавта",
+          "Лебедев В.В.",
+          ""
+        ],
+        [
+          "",
+          "Самые первые",
+          "Шонин Г.С.",
+          ""
+        ],
+        [
+          "",
+          "Космос - Земле",
+          "Штерн М.И.",
+          ""
+        ],
+        [
+          "",
+          "Бураном сожжённые",
+          "Мельников Николай Степанович",
+          ""
+        ],
+        [
+          "",
+          "Юрий Гагарин - человек-легенда",
+          "Артемов Владислав Владимирович",
+          ""
+        ],
+        [
+          "",
+          "Экскурсия в Звездный",
+          "Шаталова В.А.",
+          ""
+        ],
+        [
+          "",
+          "Космодром. Космонавты. Космос",
+          "Романов Александр",
+          ""
+        ],
+        [
+          "",
+          "СССР - Индия на космических орбитах",
+          "Ю. В. Малышев, М. Ф. Ребров, Г. М. Стрекалов.",
+          ""
+        ],
+        [
+          "",
+          "Первый космонавт",
+          "Борзенко С.А., Денисов Н.Н.",
+          ""
+        ],
+        [
+          "",
+          "Испытатель космических кораблей",
+          "Лазарев, В.Г.; Ребров, М.Ф.",
+          ""
+        ],
+        [
+          "",
+          "Первый гражданин вселенной",
+          "Каманин Николай Петрович",
+          ""
+        ],
+        [
+          "",
+          "С думой о Земле",
+          "Березовой А. Н., Горь­ков В. Л., Кизим Л. Д.",
+          ""
+        ],
+        [
+          "",
+          "Советская космонавтика",
+          "Петухов И.Д., Башкиров В.Ф.",
+          ""
+        ],
+        [
+          "",
+          "Звёздные пути человечества",
+          "Хорев А.",
+          ""
+        ],
+        [
+          "",
+          "Космос - человеку",
+          "Коваль А.Д., Успенский Г.Р., Яснов В.",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/c/dnevnik-kosmonavta-photo-small.jpg",
+      "alt": "Дневник космонавта"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/9/0/samye-pervye-photo-small.jpg",
+      "alt": "Самые первые"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/8/c/kosmos-zemle-photo-small.jpg",
+      "alt": "Космос - Земле"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/2/5/buranom-sozhzhyonnye-photo-small.png",
+      "alt": "Бураном сожжённые"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/4/6/a054fc36.jpg",
+      "alt": "Юрий Гагарин - человек-легенда"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/4/a/54a0d143.jpg",
+      "alt": "Экскурсия в Звездный"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/a/d/fde903ef.jpg",
+      "alt": "Космодром. Космонавты. Космос"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/1/4/c265f2a6.jpg",
+      "alt": "СССР - Индия на космических орбитах"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/6/8/81401ad5.jpg",
+      "alt": "Первый космонавт"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/7/a/ispytatel-kosmicheskih-korablei-photo-small.jpg",
+      "alt": "Испытатель космических кораблей"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/0/1/1375e1cf.jpg",
+      "alt": "Первый гражданин вселенной"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/7/s-dumoi-o-zemle-photo-small.jpg",
+      "alt": "С думой о Земле"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/1/d/sovetskaja-kosmonavtika-photo-small.jpg",
+      "alt": "Советская космонавтика"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/2/f/zvyozdnye-puti-chelovechestva-photo-small.jpg",
+      "alt": "Звёздные пути человечества"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/9/a/kosmos-cheloveku-photo-small.jpg",
+      "alt": "Космос - человеку"
+    }
+  ],
+  "cards": [
+    {
+      "title": "Дневник космонавта",
+      "description": "Дневник космонавта Лебедев В.В.",
+      "url": "https://cosmatica.org/library/454-dnevnik-kosmonavta.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/c/dnevnik-kosmonavta-photo-small.jpg",
+      "links": [
+        {
+          "title": "Дневник космонавта",
+          "url": "https://cosmatica.org/library/454-dnevnik-kosmonavta.html"
+        }
+      ]
+    },
+    {
+      "title": "Самые первые",
+      "description": "Самые первые Шонин Г.С.",
+      "url": "https://cosmatica.org/library/436-samye-pervye.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/0/samye-pervye-photo-small.jpg",
+      "links": [
+        {
+          "title": "Самые первые",
+          "url": "https://cosmatica.org/library/436-samye-pervye.html"
+        }
+      ]
+    },
+    {
+      "title": "Космос - Земле",
+      "description": "Космос - Земле Штерн М.И.",
+      "url": "https://cosmatica.org/library/422-kosmos-zemle.html",
+      "image": "https://cosmatica.org/upload/000/u7/8/c/kosmos-zemle-photo-small.jpg",
+      "links": [
+        {
+          "title": "Космос - Земле",
+          "url": "https://cosmatica.org/library/422-kosmos-zemle.html"
+        }
+      ]
+    },
+    {
+      "title": "Бураном сожжённые",
+      "description": "Бураном сожжённые Мельников Николай Степанович",
+      "url": "https://cosmatica.org/library/243-buranom-sozhzhyonnye.html",
+      "image": "https://cosmatica.org/upload/000/u7/2/5/buranom-sozhzhyonnye-photo-small.png",
+      "links": [
+        {
+          "title": "Бураном сожжённые",
+          "url": "https://cosmatica.org/library/243-buranom-sozhzhyonnye.html"
+        }
+      ]
+    },
+    {
+      "title": "Юрий Гагарин - человек-легенда",
+      "description": "Юрий Гагарин - человек-легенда Артемов Владислав Владимирович",
+      "url": "https://cosmatica.org/library/241-yurii-gagarin-chelovek-legenda.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/6/a054fc36.jpg",
+      "links": [
+        {
+          "title": "Юрий Гагарин - человек-легенда",
+          "url": "https://cosmatica.org/library/241-yurii-gagarin-chelovek-legenda.html"
+        }
+      ]
+    },
+    {
+      "title": "Экскурсия в Звездный",
+      "description": "Экскурсия в Звездный Шаталова В.А.",
+      "url": "https://cosmatica.org/library/240-ekskursija-v-zvezdnyi.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/a/54a0d143.jpg",
+      "links": [
+        {
+          "title": "Экскурсия в Звездный",
+          "url": "https://cosmatica.org/library/240-ekskursija-v-zvezdnyi.html"
+        }
+      ]
+    },
+    {
+      "title": "Космодром. Космонавты. Космос",
+      "description": "Космодром. Космонавты. Космос Романов Александр",
+      "url": "https://cosmatica.org/library/239-kosmodrom-kosmonavty-kosmos.html",
+      "image": "https://cosmatica.org/upload/000/u7/a/d/fde903ef.jpg",
+      "links": [
+        {
+          "title": "Космодром. Космонавты. Космос",
+          "url": "https://cosmatica.org/library/239-kosmodrom-kosmonavty-kosmos.html"
+        }
+      ]
+    },
+    {
+      "title": "СССР - Индия на космических орбитах",
+      "description": "СССР - Индия на космических орбитах Ю. В. Малышев, М. Ф. Ребров, Г. М. Стрекалов.",
+      "url": "https://cosmatica.org/library/238-sssr-indija-na-kosmicheskih-orbitah.html",
+      "image": "https://cosmatica.org/upload/000/u7/1/4/c265f2a6.jpg",
+      "links": [
+        {
+          "title": "СССР - Индия на космических орбитах",
+          "url": "https://cosmatica.org/library/238-sssr-indija-na-kosmicheskih-orbitah.html"
+        }
+      ]
+    },
+    {
+      "title": "Первый космонавт",
+      "description": "Первый космонавт Борзенко С.А., Денисов Н.Н.",
+      "url": "https://cosmatica.org/library/237-pervyi-kosmonavt.html",
+      "image": "https://cosmatica.org/upload/000/u7/6/8/81401ad5.jpg",
+      "links": [
+        {
+          "title": "Первый космонавт",
+          "url": "https://cosmatica.org/library/237-pervyi-kosmonavt.html"
+        }
+      ]
+    },
+    {
+      "title": "Испытатель космических кораблей",
+      "description": "Испытатель космических кораблей Лазарев, В.Г.; Ребров, М.Ф.",
+      "url": "https://cosmatica.org/library/236-ispytatel-kosmicheskih-korablei.html",
+      "image": "https://cosmatica.org/upload/000/u7/7/a/ispytatel-kosmicheskih-korablei-photo-small.jpg",
+      "links": [
+        {
+          "title": "Испытатель космических кораблей",
+          "url": "https://cosmatica.org/library/236-ispytatel-kosmicheskih-korablei.html"
+        }
+      ]
+    },
+    {
+      "title": "Первый гражданин вселенной",
+      "description": "Первый гражданин вселенной Каманин Николай Петрович",
+      "url": "https://cosmatica.org/library/235-pervyi-grazhdanin-vselennoi.html",
+      "image": "https://cosmatica.org/upload/000/u7/0/1/1375e1cf.jpg",
+      "links": [
+        {
+          "title": "Первый гражданин вселенной",
+          "url": "https://cosmatica.org/library/235-pervyi-grazhdanin-vselennoi.html"
+        }
+      ]
+    },
+    {
+      "title": "С думой о Земле",
+      "description": "С думой о Земле Березовой А. Н., Горь­ков В. Л., Кизим Л. Д.",
+      "url": "https://cosmatica.org/library/228-s-dumoi-o-zemle.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/7/s-dumoi-o-zemle-photo-small.jpg",
+      "links": [
+        {
+          "title": "С думой о Земле",
+          "url": "https://cosmatica.org/library/228-s-dumoi-o-zemle.html"
+        }
+      ]
+    },
+    {
+      "title": "Советская космонавтика",
+      "description": "Советская космонавтика Петухов И.Д., Башкиров В.Ф.",
+      "url": "https://cosmatica.org/library/227-sovetskaja-kosmonavtika.html",
+      "image": "https://cosmatica.org/upload/000/u7/1/d/sovetskaja-kosmonavtika-photo-small.jpg",
+      "links": [
+        {
+          "title": "Советская космонавтика",
+          "url": "https://cosmatica.org/library/227-sovetskaja-kosmonavtika.html"
+        }
+      ]
+    },
+    {
+      "title": "Звёздные пути человечества",
+      "description": "Звёздные пути человечества Хорев А.",
+      "url": "https://cosmatica.org/library/226-zvyozdnye-puti-chelovechestva.html",
+      "image": "https://cosmatica.org/upload/000/u7/2/f/zvyozdnye-puti-chelovechestva-photo-small.jpg",
+      "links": [
+        {
+          "title": "Звёздные пути человечества",
+          "url": "https://cosmatica.org/library/226-zvyozdnye-puti-chelovechestva.html"
+        }
+      ]
+    },
+    {
+      "title": "Космос - человеку",
+      "description": "Космос - человеку Коваль А.Д., Успенский Г.Р., Яснов В.",
+      "url": "https://cosmatica.org/library/225-kosmos-cheloveku.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/a/kosmos-cheloveku-photo-small.jpg",
+      "links": [
+        {
+          "title": "Космос - человеку",
+          "url": "https://cosmatica.org/library/225-kosmos-cheloveku.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/5/c/dnevnik-kosmonavta-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u35/9/0/samye-pervye-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u7/8/c/kosmos-zemle-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u7/2/5/buranom-sozhzhyonnye-photo-small.png",
+    "https://cosmatica.org/upload/000/u7/4/6/a054fc36.jpg",
+    "https://cosmatica.org/upload/000/u7/4/a/54a0d143.jpg",
+    "https://cosmatica.org/upload/000/u7/a/d/fde903ef.jpg",
+    "https://cosmatica.org/upload/000/u7/1/4/c265f2a6.jpg",
+    "https://cosmatica.org/upload/000/u7/6/8/81401ad5.jpg",
+    "https://cosmatica.org/upload/000/u7/7/a/ispytatel-kosmicheskih-korablei-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u7/0/1/1375e1cf.jpg",
+    "https://cosmatica.org/upload/000/u7/c/7/s-dumoi-o-zemle-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u7/1/d/sovetskaja-kosmonavtika-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u7/2/f/zvyozdnye-puti-chelovechestva-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u7/9/a/kosmos-cheloveku-photo-small.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 791,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 15,
+    "sourceImageCount": 15,
+    "paragraphCount": 0,
+    "sourceBytes": 61358
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 791,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "3fb457691219a1c34b9699424f16983e3c2516801159603219092d1c8de50a09",
+  "archiveSnapshotAt": "2026-10-08T08:51:13Z"
+}

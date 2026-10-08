@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/26",
+  "title": "Московское отделение",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/68/60/1271b1fb.jpg",
+      "alt": "Московское отделение"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 67"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/c4/9c/eddb9a0a.jpg",
+      "alt": "Московское отделение"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 413"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/68/60/1271b1fb.jpg",
+    "https://cosmatica.org/upload/000/u26/c4/9c/eddb9a0a.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 89,
+    "storedTextCharacters": 54,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35341
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 10,
+  "capturedBodyCharacters": 54,
+  "sourceTextSHA256": "0843745e11113f5b0b0e25f23e794d9d9fe5d81bfdfea46464e167e39aa665d8",
+  "archiveSnapshotAt": "2026-10-08T09:18:53Z"
+}

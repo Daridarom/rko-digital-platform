@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/491-azy-prirodnyh-otnoshenii-teorii-vsego-edinaja-teorija-polja-prirodnyh-otnoshenii-tom-3.html",
+  "title": "Азы природных отношений Теории Всего. Единая Теория Поля Природных Отношений, том 3",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/5/ebaa4b7a.jpg",
+      "alt": "Азы природных отношений Теории Всего. Единая Теория Поля Природных  Отношений, том 3"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Беляев М.И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 7 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/4266/3e80b44810ad4b135ad295d5d18221be"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/b/5/ebaa4b7a.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/4266/3e80b44810ad4b135ad295d5d18221be"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 121,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39652
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 37,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "8bafc570d6dd18587150283a07a5d91503adcccb40dcb1aebe93e93459c4950a",
+  "archiveSnapshotAt": "2026-10-08T08:50:33Z"
+}

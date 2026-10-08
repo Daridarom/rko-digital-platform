@@ -1,0 +1,391 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/monografii",
+  "title": "Монографии",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "Новая парадигма теории, истории и будущего мира цивилизаций",
+          "Яковец Ю.В.",
+          ""
+        ],
+        [
+          "",
+          "Экофилософия - развитию культуры и мира",
+          "Баркова Э.В.",
+          ""
+        ],
+        [
+          "",
+          "Ноосферный разум как разум, научно-управляющий социо-биосферной эволюцией",
+          "Субетто А.И.",
+          ""
+        ],
+        [
+          "",
+          "Путь в ноосферу",
+          "Протопопов А.И.",
+          ""
+        ],
+        [
+          "",
+          "Рынок как механизм гибели человека и природы на Земле в XXI веке",
+          "Субетто А.И.",
+          ""
+        ],
+        [
+          "",
+          "Пока Земля ещё живёт",
+          "Субетто А.И.",
+          ""
+        ],
+        [
+          "",
+          "Мироздание и жизнь человека. Книги Ведагора.",
+          "Звездный Маэстро Леонид Тимошенко",
+          ""
+        ],
+        [
+          "",
+          "​Ноосферно-парадигмальная революция в системе научного мировоззрения как основа новой миссии науки",
+          "Под науч. ред. А.И. Субетто и В.А. Шамахова",
+          ""
+        ],
+        [
+          "",
+          "Философская осень: От возрождения традиций к возрождению России",
+          "Баркова Э.В.",
+          ""
+        ],
+        [
+          "",
+          "Экофилософия — развитию культуры мира",
+          "Баркова Э.В.",
+          ""
+        ],
+        [
+          "",
+          "Природа против капитала и рынка",
+          "Субетто А.И.",
+          ""
+        ],
+        [
+          "",
+          "Ноосферизм как мироустройство – альтернатива «мировому правительству» мировой финансовой капиталократии",
+          "Субетто А.И.",
+          ""
+        ],
+        [
+          "",
+          "Ноосферизм как целостное учение и базис теории и практики перехода к управляемой истории человечества",
+          "Субетто А.И.",
+          ""
+        ],
+        [
+          "",
+          "Методологические основания ноосферно-ори-ентированного синтеза наук в XXI веке",
+          "Субетто А.И.",
+          ""
+        ],
+        [
+          "",
+          "«Миссия ноосферного образования в евразийском прорыве России к новому качеству бытия человека на земле в XXI веке».",
+          "Субетто А.И.",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/b/5/19041030.jpg",
+      "alt": "Новая парадигма теории, истории и будущего мира цивилизаций"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/4/85a9e747.jpg",
+      "alt": "Экофилософия - развитию культуры и мира"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/6/0/1f9f848d.jpg",
+      "alt": "Ноосферный разум как разум, научно-управляющий социо-биосферной эволюцией"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/f/a/rynok-kak-mehanizm-gibeli-cheloveka-i-prirody-na-zemle-v-xxi-veke.jpg",
+      "alt": "Рынок как механизм гибели человека и природы на Земле в XXI веке"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/f/5/poka-zemlja-eschyo-zhivyot-photo-small.jpg",
+      "alt": "Пока Земля ещё живёт"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/3/3/noosferno-paradigmalnaja-revolyucija-v-sisteme-nauchnogo-mirovozzr.jpg",
+      "alt": "​Ноосферно-парадигмальная революция в системе научного мировоззрения как основа новой миссии науки"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/b/00426fbf.jpg",
+      "alt": "Философская осень: От возрождения традиций к возрождению России"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/7/1/6880a26f.jpg",
+      "alt": "Экофилософия — развитию культуры мира"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/2/3/88d0a32a.jpg",
+      "alt": "Природа против капитала и рынка"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/7/0/noosferizm-kak-miroustroistvo-alternativa-mirovomu-pravitel.png",
+      "alt": "Ноосферизм как мироустройство – альтернатива «мировому правительству» мировой финансовой капиталократии"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/0/4/noosferizm-kak-celostnoe-uchenie-i-bazis-teorii-i-praktiki-pereho.jpg",
+      "alt": "Ноосферизм как целостное учение и базис теории и практики перехода к управляемой истории человечества"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/e/8/metodologicheskie-osnovanija-noosferno-ori-entirovannogo-sinteza-n.jpg",
+      "alt": "Методологические основания ноосферно-ори-ентированного синтеза наук в XXI веке"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/8/2/5e2fea55.jpg",
+      "alt": "«Миссия ноосферного образования в евразийском прорыве России к новому качеству бытия человека на земле в XXI веке»."
+    }
+  ],
+  "cards": [
+    {
+      "title": "Новая парадигма теории, истории и будущего мира цивилизаций",
+      "description": "Новая парадигма теории, истории и будущего мира цивилизаций Яковец Ю.В.",
+      "url": "https://cosmatica.org/library/556-novaja-paradigma-teorii-istorii-i-buduschego-mira-civilizacii.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/5/19041030.jpg",
+      "links": [
+        {
+          "title": "Новая парадигма теории, истории и будущего мира цивилизаций",
+          "url": "https://cosmatica.org/library/556-novaja-paradigma-teorii-istorii-i-buduschego-mira-civilizacii.html"
+        }
+      ]
+    },
+    {
+      "title": "Экофилософия - развитию культуры и мира",
+      "description": "Экофилософия - развитию культуры и мира Баркова Э.В.",
+      "url": "https://cosmatica.org/library/555-ekofilosofija-razvitiyu-kultury-i-mira.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/4/85a9e747.jpg",
+      "links": [
+        {
+          "title": "Экофилософия - развитию культуры и мира",
+          "url": "https://cosmatica.org/library/555-ekofilosofija-razvitiyu-kultury-i-mira.html"
+        }
+      ]
+    },
+    {
+      "title": "Ноосферный разум как разум, научно-управляющий социо-биосферной эволюцией",
+      "description": "Ноосферный разум как разум, научно-управляющий социо-биосферной эволюцией Субетто А.И.",
+      "url": "https://cosmatica.org/library/553-noosfernyi-razum-kak-razum-nauchno-upravljayuschii-socio-biosfernoi-evolyuciei.html",
+      "image": "https://cosmatica.org/upload/000/u7/6/0/1f9f848d.jpg",
+      "links": [
+        {
+          "title": "Ноосферный разум как разум, научно-управляющий социо-биосферной эволюцией",
+          "url": "https://cosmatica.org/library/553-noosfernyi-razum-kak-razum-nauchno-upravljayuschii-socio-biosfernoi-evolyuciei.html"
+        }
+      ]
+    },
+    {
+      "title": "Путь в ноосферу",
+      "description": "Путь в ноосферу Протопопов А.И.",
+      "url": "https://cosmatica.org/library/544-put-v-noosferu.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Путь в ноосферу",
+          "url": "https://cosmatica.org/library/544-put-v-noosferu.html"
+        }
+      ]
+    },
+    {
+      "title": "Рынок как механизм гибели человека и природы на Земле в XXI веке",
+      "description": "Рынок как механизм гибели человека и природы на Земле в XXI веке Субетто А.И.",
+      "url": "https://cosmatica.org/library/540-rynok-kak-mehanizm-gibeli-cheloveka-i-prirody-na-zemle-v-xxi-veke.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/a/rynok-kak-mehanizm-gibeli-cheloveka-i-prirody-na-zemle-v-xxi-veke.jpg",
+      "links": [
+        {
+          "title": "Рынок как механизм гибели человека и природы на Земле в XXI веке",
+          "url": "https://cosmatica.org/library/540-rynok-kak-mehanizm-gibeli-cheloveka-i-prirody-na-zemle-v-xxi-veke.html"
+        }
+      ]
+    },
+    {
+      "title": "Пока Земля ещё живёт",
+      "description": "Пока Земля ещё живёт Субетто А.И.",
+      "url": "https://cosmatica.org/library/531-poka-zemlja-eschyo-zhivyot.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/5/poka-zemlja-eschyo-zhivyot-photo-small.jpg",
+      "links": [
+        {
+          "title": "Пока Земля ещё живёт",
+          "url": "https://cosmatica.org/library/531-poka-zemlja-eschyo-zhivyot.html"
+        }
+      ]
+    },
+    {
+      "title": "Мироздание и жизнь человека. Книги Ведагора.",
+      "description": "Мироздание и жизнь человека. Книги Ведагора. Звездный Маэстро Леонид Тимошенко",
+      "url": "https://cosmatica.org/library/529-mirozdanie-i-zhizn-cheloveka-knigi-vedagora.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Мироздание и жизнь человека. Книги Ведагора.",
+          "url": "https://cosmatica.org/library/529-mirozdanie-i-zhizn-cheloveka-knigi-vedagora.html"
+        }
+      ]
+    },
+    {
+      "title": "​Ноосферно-парадигмальная революция в системе научного мировоззрения как основа новой миссии науки",
+      "description": "​Ноосферно-парадигмальная революция в системе научного мировоззрения как основа новой миссии науки Под науч. ред. А.И. Субетто и В.А. Шамахова",
+      "url": "https://cosmatica.org/library/525-noosferno-paradigmalnaja-revolyucija-v-sisteme-nauchnogo-mirovozzrenija-kak-osnova-novoi-missii-.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/3/noosferno-paradigmalnaja-revolyucija-v-sisteme-nauchnogo-mirovozzr.jpg",
+      "links": [
+        {
+          "title": "​Ноосферно-парадигмальная революция в системе научного мировоззрения как основа новой миссии науки",
+          "url": "https://cosmatica.org/library/525-noosferno-paradigmalnaja-revolyucija-v-sisteme-nauchnogo-mirovozzrenija-kak-osnova-novoi-missii-.html"
+        }
+      ]
+    },
+    {
+      "title": "Философская осень: От возрождения традиций к возрождению России",
+      "description": "Философская осень: От возрождения традиций к возрождению России Баркова Э.В.",
+      "url": "https://cosmatica.org/library/520-filosofskaja-osen-ot-vozrozhdenija-tradicii-k-vozrozhdeniyu-rossii.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/b/00426fbf.jpg",
+      "links": [
+        {
+          "title": "Философская осень: От возрождения традиций к возрождению России",
+          "url": "https://cosmatica.org/library/520-filosofskaja-osen-ot-vozrozhdenija-tradicii-k-vozrozhdeniyu-rossii.html"
+        }
+      ]
+    },
+    {
+      "title": "Экофилософия — развитию культуры мира",
+      "description": "Экофилософия — развитию культуры мира Баркова Э.В.",
+      "url": "https://cosmatica.org/library/516-ekofilosofija-razvitiyu-kultury-mira.html",
+      "image": "https://cosmatica.org/upload/000/u7/7/1/6880a26f.jpg",
+      "links": [
+        {
+          "title": "Экофилософия — развитию культуры мира",
+          "url": "https://cosmatica.org/library/516-ekofilosofija-razvitiyu-kultury-mira.html"
+        }
+      ]
+    },
+    {
+      "title": "Природа против капитала и рынка",
+      "description": "Природа против капитала и рынка Субетто А.И.",
+      "url": "https://cosmatica.org/library/513-priroda-protiv-kapitala-i-rynka.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/3/88d0a32a.jpg",
+      "links": [
+        {
+          "title": "Природа против капитала и рынка",
+          "url": "https://cosmatica.org/library/513-priroda-protiv-kapitala-i-rynka.html"
+        }
+      ]
+    },
+    {
+      "title": "Ноосферизм как мироустройство – альтернатива «мировому правительству» мировой финансовой капиталократии",
+      "description": "Ноосферизм как мироустройство – альтернатива «мировому правительству» мировой финансовой капиталократии Субетто А.И.",
+      "url": "https://cosmatica.org/library/512-noosferizm-kak-miroustroistvo-alternativa-mirovomu-pravitelstvu-mirovoi-finansovoi-kapitalokrati.html",
+      "image": "https://cosmatica.org/upload/000/u7/7/0/noosferizm-kak-miroustroistvo-alternativa-mirovomu-pravitel.png",
+      "links": [
+        {
+          "title": "Ноосферизм как мироустройство – альтернатива «мировому правительству» мировой финансовой капиталократии",
+          "url": "https://cosmatica.org/library/512-noosferizm-kak-miroustroistvo-alternativa-mirovomu-pravitelstvu-mirovoi-finansovoi-kapitalokrati.html"
+        }
+      ]
+    },
+    {
+      "title": "Ноосферизм как целостное учение и базис теории и практики перехода к управляемой истории человечества",
+      "description": "Ноосферизм как целостное учение и базис теории и практики перехода к управляемой истории человечества Субетто А.И.",
+      "url": "https://cosmatica.org/library/510-noosferizm-kak-celostnoe-uchenie-i-bazis-teorii-i-praktiki-perehoda-k-upravljaemoi-istorii-chelo.html",
+      "image": "https://cosmatica.org/upload/000/u7/0/4/noosferizm-kak-celostnoe-uchenie-i-bazis-teorii-i-praktiki-pereho.jpg",
+      "links": [
+        {
+          "title": "Ноосферизм как целостное учение и базис теории и практики перехода к управляемой истории человечества",
+          "url": "https://cosmatica.org/library/510-noosferizm-kak-celostnoe-uchenie-i-bazis-teorii-i-praktiki-perehoda-k-upravljaemoi-istorii-chelo.html"
+        }
+      ]
+    },
+    {
+      "title": "Методологические основания ноосферно-ори-ентированного синтеза наук в XXI веке",
+      "description": "Методологические основания ноосферно-ори-ентированного синтеза наук в XXI веке Субетто А.И.",
+      "url": "https://cosmatica.org/library/509-metodologicheskie-osnovanija-noosferno-ori-entirovannogo-sinteza-nauk-v-xxi-veke.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/8/metodologicheskie-osnovanija-noosferno-ori-entirovannogo-sinteza-n.jpg",
+      "links": [
+        {
+          "title": "Методологические основания ноосферно-ори-ентированного синтеза наук в XXI веке",
+          "url": "https://cosmatica.org/library/509-metodologicheskie-osnovanija-noosferno-ori-entirovannogo-sinteza-nauk-v-xxi-veke.html"
+        }
+      ]
+    },
+    {
+      "title": "«Миссия ноосферного образования в евразийском прорыве России к новому качеству бытия человека на земле в XXI веке».",
+      "description": "«Миссия ноосферного образования в евразийском прорыве России к новому качеству бытия человека на земле в XXI веке». Субетто А.И.",
+      "url": "https://cosmatica.org/library/508-missija-noosfernogo-obrazovanija-v-evraziiskom-proryve-rossii-k-novomu-kachestvu-bytija-chelovek.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/2/5e2fea55.jpg",
+      "links": [
+        {
+          "title": "«Миссия ноосферного образования в евразийском прорыве России к новому качеству бытия человека на земле в XXI веке».",
+          "url": "https://cosmatica.org/library/508-missija-noosfernogo-obrazovanija-v-evraziiskom-proryve-rossii-k-novomu-kachestvu-bytija-chelovek.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/b/5/19041030.jpg",
+    "https://cosmatica.org/upload/000/u7/c/4/85a9e747.jpg",
+    "https://cosmatica.org/upload/000/u7/6/0/1f9f848d.jpg",
+    "https://cosmatica.org/upload/000/u7/f/a/rynok-kak-mehanizm-gibeli-cheloveka-i-prirody-na-zemle-v-xxi-veke.jpg",
+    "https://cosmatica.org/upload/000/u7/f/5/poka-zemlja-eschyo-zhivyot-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u35/3/3/noosferno-paradigmalnaja-revolyucija-v-sisteme-nauchnogo-mirovozzr.jpg",
+    "https://cosmatica.org/upload/000/u7/c/b/00426fbf.jpg",
+    "https://cosmatica.org/upload/000/u7/7/1/6880a26f.jpg",
+    "https://cosmatica.org/upload/000/u35/2/3/88d0a32a.jpg",
+    "https://cosmatica.org/upload/000/u7/7/0/noosferizm-kak-miroustroistvo-alternativa-mirovomu-pravitel.png",
+    "https://cosmatica.org/upload/000/u7/0/4/noosferizm-kak-celostnoe-uchenie-i-bazis-teorii-i-praktiki-pereho.jpg",
+    "https://cosmatica.org/upload/000/u35/e/8/metodologicheskie-osnovanija-noosferno-ori-entirovannogo-sinteza-n.jpg",
+    "https://cosmatica.org/upload/000/u35/8/2/5e2fea55.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1289,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 15,
+    "sourceImageCount": 13,
+    "paragraphCount": 0,
+    "sourceBytes": 65454
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 1289,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "eb685da95b6fdf802c8cbc44f0a4d5b07b310d7acc0eba106c89a98b887dd077",
+  "archiveSnapshotAt": "2026-10-08T08:51:14Z"
+}

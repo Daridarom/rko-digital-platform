@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 69,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Вечный строй принял в свои ряды Александра Ивановича Шипкова",
+      "description": "Александр Иванович Шипков родился 21 апреля 1936 в Коломне Московской области. В 1959 году окончил Московский архитектурный институт с оценкой «отлично». Защитил кандидатскую диссертацию в 1971 году на тему: «Поляр — жилой комплекс заполярных районов СССР».",
+      "url": "https://cosmatica.org/news/1078-vechnyi-stroi-prinjal-v-svoi-rjady-aleksandra-ivanovicha-shipkova.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/3/8c0a24b5.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=90e2dd6ad64b4b0979",
+      "type": "news-item",
+      "sourceCharacters": 5104,
+      "verified": false
+    },
+    {
+      "title": "Друзья России объединились",
+      "description": "В международном мероприятии приняло участие офлайн более 70 около 200 делегатов онлайн.",
+      "url": "https://cosmatica.org/news/1074-druzja-rossii-obedinilis.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/b/ee6c36a6.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b47962bf5a7e6343eb",
+      "type": "news-item",
+      "sourceCharacters": 13722,
+      "verified": false
+    },
+    {
+      "title": "Ноосферизм – новая парадигма выживания человечества на Земле",
+      "description": "Очередная книга нашего выдающегося современника, председателя Философского Совета Русского Космического Общества Александра Ивановича Субетто, написанная им в соавторстве с Махатмой Шанти и Лукояновым В.В. представляет собой научный доклад, который авторы представили на XIII Всемирный Научный Конгресс, проходящий в 2021 году на трех «площадках» – в Санкт-Петербурге, Женеве и Париже, посвящен раскрытию новой парадигмы",
+      "url": "https://cosmatica.org/news/1073-noosferizm-novaja-paradigma-vyzhivanija-chelovechestva-na-zemle.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/9/23433afc.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5899c33e79c8bce7d5",
+      "type": "news-item",
+      "sourceCharacters": 1970,
+      "verified": false
+    },
+    {
+      "title": "Город будущего глазами детей",
+      "description": "Незабываемые эмоции, переживания, впечатления, радость и гордость за современных детей, педагогов-профессионалов, благодарность за поддержку детских инициатив, испытывали участники торжественной церемонии награждения финалистов, призёров и победителей городского конкурса креативных проектов и идей по созданию социальной инфраструктуры \"Город Калининград - город будущего глазами детей\".",
+      "url": "https://cosmatica.org/news/1072-gorod-buduschego-glazami-detei.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/e/e083ecd5.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=41e84940486c2a4f22",
+      "type": "news-item",
+      "sourceCharacters": 2206,
+      "verified": false
+    },
+    {
+      "title": "Весенние сборы \"Космонавтом Готов Быть!\" 2021",
+      "description": "Благодарность за предоставление площадки и территории Андрею Никитину.",
+      "url": "https://cosmatica.org/news/1071-sbory.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/7/12a2d5de.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=22a04ed4cc5bef9ca6",
+      "type": "news-item",
+      "sourceCharacters": 1652,
+      "verified": false
+    },
+    {
+      "title": "Пополнил Вечный строй Чепига Владимир Григорьевич",
+      "description": "Заслуженный педагог и активный общественный деятель, известный подвижник казачьих традиций, этнограф, фольклорист, любимец детей и взрослых, добрейшей души человек, посвятивший всего себя воспитанию подрастающего поколения, покинул этот мир на 81-м году жизни.",
+      "url": "https://cosmatica.org/news/1070-popolnil-vechnyi-stroi-chepiga-vladimir-grigorevich.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/1/popolnil-vechnyi-stroi-chepiga-vladimir-grigorevich-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fdd2bb81fe7f85241a",
+      "type": "news-item",
+      "sourceCharacters": 2796,
+      "verified": false
+    },
+    {
+      "title": "Сила Слова",
+      "description": "Если хотя бы один человек услышит, и поверит, значит всё было не напрасно.",
+      "url": "https://cosmatica.org/news/1059-sila-slova.html",
+      "image": "https://cosmatica.org/upload/003/u395/4/7/sila-slova-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=44011130376e008308",
+      "type": "news-item",
+      "sourceCharacters": 1896,
+      "verified": false
+    },
+    {
+      "title": "Гагаринские кедры Нижнего Новгорода",
+      "description": "01 мая 2021 года состоялась торжественная посадка шестидесяти саженцев кедра, знаменующих собою первые шестьдесят лет космической эпохи развития человечества, шестьдесят лет гордости за Космические Победы нашего народа и нашего Отечества, и памяти о Великом Подвиге - первом полёте Человека в космос, которым стал наш соотечественник Юрий Алексеевич Гагарин.",
+      "url": "https://cosmatica.org/news/1069-gagarinskie-kedry-nizhnego-novgoroda.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/9/gagarinskie-kedry-nizhnego-novgoroda-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=344fde6643d811a7c4",
+      "type": "news-item",
+      "sourceCharacters": 2980,
+      "verified": false
+    },
+    {
+      "title": "Три космических дня на Донбассе",
+      "description": "Более полутора лет продолжается дружба Русского Космического Общества (РКО) с энтузиастами космоса на Донбассе. В августе 2019 года на базе Донецкого национального технического университета создано Донецкое отделение. Цель деятельности РКО – способствовать возрождению научно - технического потенциала общества и молодёжи, возрождение нравственности и духа прорывных свершений во всех областях жизни. И задуманная деятел",
+      "url": "https://cosmatica.org/news/1067-tri-kosmicheskih-dnja-na-donbasse.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/0/efcb4a47.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bafacdf18b891f2d58",
+      "type": "news-item",
+      "sourceCharacters": 14632,
+      "verified": false
+    },
+    {
+      "title": "Подведены итоги регионального творческого конкурса «Космические зарисовки» в Кузбассе",
+      "description": "С 31 марта по 10 апреля 2021 года Кузбасское отделение МОО «Русское Космическое общество» совместно с кафедрой проблем воспитания и дополнительного образования Кузбасского регионального института повышения квалификации и переподготовки работников образования в ознаменования 60-летнего юбилея полёта Ю.А, Гагарина и 300 – летнего юбилея родного региона провели региональный конкурс детского и молодежного творчества «Кос",
+      "url": "https://cosmatica.org/news/1066-podvedeny-itogi-regionalnogo-tvorcheskogo-konkursa-kosmicheskie-zarisovki-v-kuzbasse.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/7/podvedeny-itogi-regionalnogo-tvorcheskogo-konkursa-kosmicheskie.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=89bd8e5d139c4c6e1b",
+      "type": "news-item",
+      "sourceCharacters": 2933,
+      "verified": false
+    },
+    {
+      "title": "Наше космическое будущее глазами детей",
+      "description": "Конкурс был инициирован Русским Космическим Обществом в Донецкой Народной Республике и проведён при поддержке министерства образования и науки Донецкой Народной Республики.",
+      "url": "https://cosmatica.org/news/1064-nashe-kosmicheskoe-buduschee-glazami-detei.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/d/nashe-kosmicheskoe-buduschee-glazami-detei-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e053e885a31435666c",
+      "type": "news-item",
+      "sourceCharacters": 5933,
+      "verified": false
+    },
+    {
+      "title": "Гармоничная созидательная личность: постановка вопроса",
+      "description": "Во всероссийском семинаре с учётом приняло участие офлайн около 30-ти и онлайн более 400 государственных и муниципальных служащих, учёных, преподавателей, учителей, депутатов, врачей, культурных деятелей, библиотекарей, сотрудников военно-патриотических клубов и движений, НКО, казачеств, а также религиозных организаций.",
+      "url": "https://cosmatica.org/news/1063-garmonichnaja-sozidatelnaja-lichnost-postanovka-voprosa.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/d/4b05bc72.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8c09a19622c7f844dd",
+      "type": "news-item",
+      "sourceCharacters": 4555,
+      "verified": false
+    },
+    {
+      "title": "Гравитация – что это такое и как возникает",
+      "description": "Доклад руководителя Секции Авангардных исследований при Совете труда и творчества РКО, естествоиспытателя, инженера-механика Александра Михайловича Анищенко",
+      "url": "https://cosmatica.org/news/1062-gravitacija-chto-eto-takoe-i-kak-voznikaet.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/9/gravitacija-chto-eto-takoe-i-kak-voznikaet-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8fcd95aa97defa6c4b",
+      "type": "news-item",
+      "sourceCharacters": 1557,
+      "verified": false
+    },
+    {
+      "title": "Гагаринский сад в Москве!",
+      "description": "27 апреля 2021 года Русским Космическим Обществом совместно с библиотеками Северо-Запада Москвы в районе Щукино были посажены красные дубы в рамках всемирного движения \"Гагаринский сад\" и проекта библиотек Северо-Запада Москвы \"Я люблю тебя, Юрий Гагарин!\"",
+      "url": "https://cosmatica.org/news/1060-gagarinskii-sad-v-moskve.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/4/gagarinskii-sad-v-moskve-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7d9e32bbc6e620beb4",
+      "type": "news-item",
+      "sourceCharacters": 2040,
+      "verified": false
+    },
+    {
+      "title": "Молодёжный совет РКО на Красноярском экономическом форуме в числе молодёжных лидеров страны",
+      "description": "Председатель Молодёжного совета и член Первого Отряда Русского Космического Общества Денис Олегович Прудник и участник Молодёжного совета РКО Никита Александрович Матасов приняли участие в крупнейшем социально-политическом событии года - Красноярском экономическом форуме 2021.",
+      "url": "https://cosmatica.org/news/1061-molodezhnyi-sovet-rko-na-krasnojarskom-ekonomicheskom-forume-v-chisle-molodezhnyh-liderov-stran.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/1/molodezhnyi-sovet-rko-na-krasnojarskom-ekonomicheskom-forume-v-chisl.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d79bc280f3bf1dde24",
+      "type": "news-item",
+      "sourceCharacters": 5822,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

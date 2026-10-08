@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/207-proekt-poidyom-s-nami-organizuet-tropu-volokolamsk-dubosekovo.html",
+  "title": "Проект «Пойдём с нами» организует Тропу Волоколамск-Дубосеково #Просветительская Общественная инициатива «Пойдем с нами»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/5/proekt-poidyom-s-nami-organizuet-tropu-volokolamsk-dubosekovo-p_f9b7761e6b80043c74ad50868bf752fe.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "19 октября (суббота) Проект «Пойдём с нами» организует Тропу Волоколамск-Дубосеково, к месту великих сражений и исторических событий, связанных с обороной Москвы и Панфиловской дивизией, остановившей врага на подступах к столице нашей Родины. Любовь Гавриловна Митина - дочь одного из героев-Панфиловцев специально для Проекта «Пойдём с нами» расскажет историю своей семьи.",
+      "spans": [
+        {
+          "text": "19 октября (суббота)  "
+        },
+        {
+          "text": "Проект",
+          "href": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": " «Пойдём с нами» организует Тропу Волоколамск-Дубосеково, к месту великих сражений и исторических событий, связанных с обороной Москвы и Панфиловской дивизией, остановившей врага на подступах к столице нашей Родины. Любовь Гавриловна Митина - дочь одного из героев-Панфиловцев специально для Проекта «Пойдём с нами» расскажет историю своей семьи."
+        }
+      ],
+      "links": [
+        {
+          "text": "Проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Мы считаем, что такие маршруты лучше учебников могут окунуть путешественника в события тех лет, научить уважать память о прошлом, обдумать и полюбить Родину ещё сильнее.",
+      "spans": [
+        {
+          "text": " Мы считаем, что такие маршруты лучше учебников могут окунуть путешественника в события тех лет, научить уважать память о прошлом, обдумать и полюбить Родину ещё сильнее. "
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/1/cwi2ahjhzgy.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/8/mz0sdx5o1zy.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Каждый из вас тоже может принять участие в Тропе, оставив заявку, написав в Вотсапп 89850362747",
+      "spans": [
+        {
+          "text": "Каждый из вас тоже может принять участие в Тропе, оставив заявку, написав в Вотсапп 89850362747 "
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "FwbhwGZAJmM",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=FwbhwGZAJmM"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "19 октября (суббота) Проект «Пойдём с нами» организует Тропу Волоколамск-Дубосеково, к месту великих сражений и исторических событий, связанных с обороной Москвы и Панфиловской дивизией, остановившей врага на подступах к столице нашей Родины. Любовь Гавриловна Митина - дочь одного из героев-Панфиловцев специально для Проекта «Пойдём с нами» расскажет историю своей семьи. Мы считаем, что такие маршруты лучше учебников могут окунуть путешественника в события тех лет, научить уважать память о прошлом, обдумать и полюбить Родину ещё сильнее. Каждый из вас тоже может принять участие в Тропе, оставив заявку, написав в Вотсапп 89850362747",
+      "links": [
+        {
+          "title": "Проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/002/u218/0/1/cwi2ahjhzgy.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/0/5/proekt-poidyom-s-nami-organizuet-tropu-volokolamsk-dubosekovo-p_f9b7761e6b80043c74ad50868bf752fe.jpg",
+    "https://cosmatica.org/upload/002/u218/0/1/cwi2ahjhzgy.jpg",
+    "https://cosmatica.org/upload/002/u218/f/8/mz0sdx5o1zy.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 856,
+    "storedTextCharacters": 637,
+    "sourceCardCount": 0,
+    "sourceImageCount": 3,
+    "paragraphCount": 5,
+    "sourceBytes": 40160
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 856,
+  "capturedBodyCharacters": 637,
+  "sourceTextSHA256": "14cec70509513d049bc74f257d2472bc23f313bd034fe403db739ad5d6a7934d",
+  "archiveSnapshotAt": "2026-10-08T09:15:20Z",
+  "publicVideoCount": 1
+}

@@ -7,8 +7,89 @@
   "blocks": [
     {
       "type": "image",
-      "src": "assets/source/93d3513e748ff49ad4ed0b89.webp",
+      "src": "https://cosmatica.org/upload/000/u7/33/04/international-organization-club-of-sofia-photo-normal.png",
       "alt": "International Organization - Club of Sofia"
+    },
+    {
+      "type": "paragraph",
+      "text": "«Клуб София» проводит симпозиумы, конференции, встречи и доклады. Работает над научно-образовательными программами, направленными на воспитание и формирование общественного мнения по экономическим, социальным и экологическим вопросам.",
+      "spans": [
+        {
+          "text": "«Клуб София» проводит симпозиумы, конференции, встречи и доклады. Работает над научно-образовательными программами, направленными на воспитание и формирование общественного мнения по экономическим, социальным и экологическим вопросам."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Направлениями деятельности \"Софийского клуба\" являются:",
+      "spans": [
+        {
+          "text": "Направлениями деятельности \"Софийского клуба\" являются:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "• Общая философская стратегия для людей и стран в современном мире;",
+      "spans": [
+        {
+          "text": "• Общая философская стратегия для людей и стран в современном мире;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "• Глобальные моделирующие проекты, направленные на создание инфраструктуры искусственного интеллекта с открытым исходным кодом (такой как OpenCog);",
+      "spans": [
+        {
+          "text": "• Глобальные моделирующие проекты, направленные на создание инфраструктуры искусственного интеллекта с открытым исходным кодом (такой как OpenCog);"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "• Культурная стратегия устойчивого развития общества;",
+      "spans": [
+        {
+          "text": "• Культурная стратегия устойчивого развития общества;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "• Глобальные проблемы;",
+      "spans": [
+        {
+          "text": "• Глобальные проблемы;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "• Гармонизация человека и природы;",
+      "spans": [
+        {
+          "text": "• Гармонизация человека и природы;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "• Алгоритмы решения нерешенных проблем в начале 3-го тысячелетия.",
+      "spans": [
+        {
+          "text": "• Алгоритмы решения нерешенных проблем в начале 3-го тысячелетия."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "http://clubofsofia.org",
+      "spans": [
+        {
+          "text": "http://clubofsofia.org"
+        }
+      ]
     }
   ],
   "cards": [],
@@ -21,7 +102,7 @@
     }
   ],
   "images": [
-    "assets/source/93d3513e748ff49ad4ed0b89.webp"
+    "https://cosmatica.org/upload/000/u7/33/04/international-organization-club-of-sofia-photo-normal.png"
   ],
   "documents": [],
   "categories": [],
@@ -29,10 +110,16 @@
   "sourceEvidence": {
     "http": 200,
     "sourceTextCharacters": 750,
-    "storedTextCharacters": 0,
+    "storedTextCharacters": 699,
     "sourceCardCount": 0,
     "sourceImageCount": 1,
     "paragraphCount": 0,
     "sourceBytes": 33502
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "partner",
+  "sourceTextCharacters": 707,
+  "capturedBodyCharacters": 699,
+  "sourceTextSHA256": "cc476fb00bbca506989f3789614e69a88f851edc36ce90af24cf4b8268805f8a",
+  "archiveSnapshotAt": "2026-10-08T08:35:57Z"
 }

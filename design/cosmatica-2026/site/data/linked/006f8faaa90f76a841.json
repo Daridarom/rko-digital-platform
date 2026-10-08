@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1009-geroi-i-vrag-imperiuma-kto-on.html",
+  "title": "Герой и Враг Империума кто он?",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Герой и Враг Империума",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/e/2/geroi-i-vrag-imperiuma-kto-on-photo-normal.jpg",
+      "alt": "Герой и Враг Империума кто он?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Участникам конкурса надо было сначала познакомиться с основными работами литературного проекта \"Империум Человека\": https://xn----jtbibgaqccjqifi2aj.xn--p1ai/legenda",
+      "spans": [
+        {
+          "text": "Участникам конкурса надо было сначала познакомиться с основными работами литературного проекта \"Империум Человека\": https://xn----jtbibgaqccjqifi2aj.xn--p1ai/legenda"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/0/5/geroi-i-vrag-imperiuma-kto-on-gallery-normal.jpg",
+      "alt": "Герой и Враг Империума кто он? 0"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "QeRrVxO-DL4",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=QeRrVxO-DL4"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "9 марта 2021, в день рождения Юрия Алексеевича Гагарина, Русское Космическое Общество подвело итоги масштабного литературного конкурса \"Герой и Враг Империума\".",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Участникам конкурса надо было сначала познакомиться с основными работами литературного проекта \"Империум Человека\": https://xn----jtbibgaqccjqifi2aj.xn--p1ai/legenda Осознать идею управления будущим через художественное слово. Проникнуться. Оставить свои отзывы и пожелания. Во Втором Конкурсе, организаторы гораздо строже подходили к отбору. Сразу отсеивая тех, кто хочет брать, а не создавать. В итоге победителями стали: 1) Стрельников Владимир Николаевич, Оренбург, рома н\"Солдаты Сумерек\" 2) Чернышова Екатерина Александровна, Москва, рассказ \"Алиса против предательства\" 3) Яиков Виктор Николаевич, Ставрополь, рассказ \"Костыли\" Почетным финалистом является Липунова Наталья Арифовна, Москва, с романом \"У времени на краю\". Который продолжает лучшие традиции фантастики Стругацких, но не вполе соответствует теме конкурса. Лауреатами в особых номинациях стали: Ермолова Ксения Владимировна, Москва, рассказ \"Я знаю 5 имен\", \"За смелость\". Алексенко Сергей Сергеевич, Липецк, рассказ \"Энтропия\", \"За верность Империуму\". Все финалисты выразили желание присоединиться к проекту, к общему делу РКО, и уже готовят свои работы к публикации. Новый конкурс и новый призыв в строй прозвучит в ближайшее время ! https://конкурс-империум.рф/legenda",
+      "links": [
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/e/2/geroi-i-vrag-imperiuma-kto-on-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/0/5/geroi-i-vrag-imperiuma-kto-on-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1675,
+    "storedTextCharacters": 199,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 1,
+    "sourceBytes": 50381
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1510,
+  "capturedBodyCharacters": 199,
+  "sourceTextSHA256": "fe146ac5244f2f4325720a7580035cb6aef34cf7051f80664abfd1cce8d71432",
+  "archiveSnapshotAt": "2026-10-08T08:51:27Z",
+  "publicVideoCount": 1
+}

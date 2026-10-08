@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/167",
+  "title": "Анна Михайловна Буйная",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/fb/b9/d1862a57.jpg",
+      "alt": "Анна Михайловна Буйная"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/85/67/5837dbed.jpg",
+      "alt": "Анна Михайловна Буйная"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 1"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Научный сотрудник Анапского археологического музея «Горгиппия»",
+      "spans": [
+        {
+          "text": "Научный сотрудник Анапского археологического музея «Горгиппия»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Краснодарский край",
+      "links": [
+        {
+          "title": "Краснодарский край",
+          "url": "https://cosmatica.org/departments/1-krasnodarskii-krai.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Научный сотрудник Анапского археологического музея «Горгиппия»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/fb/b9/d1862a57.jpg",
+    "https://cosmatica.org/upload/000/u8/85/67/5837dbed.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 162,
+    "storedTextCharacters": 106,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35357
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 102,
+  "capturedBodyCharacters": 106,
+  "sourceTextSHA256": "05af906702ff5d7116f2b83af69f7ef8c99c01e00903a98f301c3c30ce818b2b",
+  "archiveSnapshotAt": "2026-10-08T09:18:14Z"
+}

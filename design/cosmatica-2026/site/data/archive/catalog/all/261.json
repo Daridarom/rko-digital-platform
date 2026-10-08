@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 261,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Бесплатный образовательный курс по космонавтике!",
+      "description": "С 26 февраля по 26 марта 2018 года приглашаем всех, кто увлечен космонавтикой и мечтает её продвигать в массы, пройти бесплатный междисциплинарный образовательный курс «Взгляд в космос: события, технологии и люди российской космонавтики».",
+      "url": "https://cosmatica.org/news/54-besplatnyi-obrazovatelnyi-kurs-po-kosmonavtike.html",
+      "image": "https://cosmatica.org/upload/000/u8/1d/2b/cb6a50f0.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8ff455f9ba19bed3b7",
+      "type": "news-item",
+      "sourceCharacters": 1897,
+      "verified": false
+    },
+    {
+      "title": "«Электрическая энергия – основа устойчивого развития». #Лекторий Русского Космического Общества",
+      "description": "Русское Космическое Общество приглашает посетить семинар на тему: «Электрическая энергия – основа устойчивого развития».",
+      "url": "https://cosmatica.org/poster/54-elektricheskaja-energija-osnova-ustoichivogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u26/28/fc/elektricheskaja-energija-osnova-ustoichivogo-razvitija-photo-bi.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=7e8a6650093cbbe1d4",
+      "type": "poster-item",
+      "sourceCharacters": 895,
+      "verified": false
+    },
+    {
+      "title": "\"Взгляд в космос: события, технологии и люди российской космонавтики\"",
+      "description": "В 2016 Шпотя Д.А., глава Молодежного Совета РКО, был приглашен на должность «Главного методолога курса» в команду Исполнителя заказа для нужд ГК «Роскомос» проекта по созданию образовательного онлайн курса по космонавтике.",
+      "url": "https://cosmatica.org/articles/53-vzgljad-v-kosmos-sobytija-tehnologii-i-lyudi-rossiiskoi-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/000/u3/f3/e2/02-2017-roskosmos-onlai-n-kurs.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=732390ea899336ba5d",
+      "type": "article",
+      "sourceCharacters": 4134,
+      "verified": false
+    },
+    {
+      "title": "Свойство неравновесных систем",
+      "description": "эволюция во времени, то есть спо­собность с течением времени совершать внешнюю работу (внешние потоки не уравновешены внутренними).",
+      "url": "https://cosmatica.org/glossary/53-svoistvo-neravnovesnyh-sistem.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=e3be5a7f566b57d3ac",
+      "type": "article",
+      "sourceCharacters": 131,
+      "verified": false
+    },
+    {
+      "title": "Электронный архив П.Г.Кузнецова",
+      "description": "http://www.pobisk-memory.narod.ru/library.htm",
+      "url": "https://cosmatica.org/library/53-elektronnyi-arhiv-p-g-kuznecova.html",
+      "image": "https://cosmatica.org/upload/000/u1/2f/3d/elektronnyi-arhiv-p-g-kuznecova-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7dbc333dadc02329af",
+      "type": "book",
+      "sourceCharacters": 66,
+      "verified": false
+    },
+    {
+      "title": "«Космос и молодежь: точки, которые нас сближают»",
+      "description": "Круглый стол на тему «Космос и молодежь: точки, которые нас сближают» состоится 7 ноября в Москве.",
+      "url": "https://cosmatica.org/poster/53-kosmos-i-molodezh-tochki-kotorye-nas-sblizhayut.html",
+      "image": "https://cosmatica.org/upload/000/u8/5c/28/kosmos-i-molodezh-tochki-kotorye-nas-sblizhayut-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=d744f9070a9b8d46a2",
+      "type": "poster-item",
+      "sourceCharacters": 1850,
+      "verified": false
+    },
+    {
+      "title": "«Повестка дня на XXI век» - ноосферно-социолистическое преобразование глобальной экономики",
+      "description": "1. Экологическое (Великое) Отрицание сложившихся основ и механизмов социально-экономического развития человечества.",
+      "url": "https://cosmatica.org/articles/52-povestka-dnja-na-xxi-vek-noosferno-sociolisticheskoe-preobrazovanie-globalnoi-ekonomiki.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=771a301c5e48fd9666",
+      "type": "article",
+      "sourceCharacters": 23185,
+      "verified": false
+    },
+    {
+      "title": "Свойство равновесных систем",
+      "description": "не эволюционировать во времени, то есть неспособность совершать внешнюю работу (все внешние потоки уравновешены внутренними).",
+      "url": "https://cosmatica.org/glossary/52-svoistvo-ravnovesnyh-sistem.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=67ceab6f6c0eb03119",
+      "type": "article",
+      "sourceCharacters": 125,
+      "verified": false
+    },
+    {
+      "title": "Первое учредительное собрание Псковского отделения РКО",
+      "description": "— выступление Главы Администрации Пыталовского района;",
+      "url": "https://cosmatica.org/poster/52-pervoe-uchreditelnoe-sobranie-pskovskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/001/u133/8e/22/d8208274.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=4e7491473bc8463f30",
+      "type": "poster-item",
+      "sourceCharacters": 1003,
+      "verified": false
+    },
+    {
+      "title": "Пространство и Время: электромагнитная природа происхождения",
+      "description": "Electromagnetic nature of origin of Space and Time",
+      "url": "https://cosmatica.org/articles/51-prostranstvo-i-vremja-elektromagnitnaja-priroda-proishozhdenija.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=b9c69ae3465aae578d",
+      "type": "article",
+      "sourceCharacters": 33868,
+      "verified": false
+    },
+    {
+      "title": "Социальное время",
+      "description": ", которое общество расходует на удо­влетворение той или иной общественной потребности.",
+      "url": "https://cosmatica.org/glossary/51-socialnoe-vremja.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=ef41f901c7f3fcc07c",
+      "type": "article",
+      "sourceCharacters": 299,
+      "verified": false
+    },
+    {
+      "title": "Эмблема корабля «Союз МС-08»",
+      "description": "В центре мы видим силуэт трех членов экипажа – это Олег Артемьев, Эндрю Фойстел и Ричард Арнольд направляются к ракете-носителю «Союз-ФГ», чтобы отправиться в долгожданную «космическую командировку».",
+      "url": "https://cosmatica.org/news/51-emblema-korablja-soyuz-ms-08.html",
+      "image": "https://cosmatica.org/upload/000/u1/78/27/emblema-korablja-soyuz-ms-08-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e5898ce6d41a517db0",
+      "type": "news-item",
+      "sourceCharacters": 1402,
+      "verified": false
+    },
+    {
+      "title": "Свободная энергия",
+      "description": "энергия, которая способна совершать работу.",
+      "url": "https://cosmatica.org/glossary/50-svobodnaja-energija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=0d90734edeb2b851e1",
+      "type": "article",
+      "sourceCharacters": 43,
+      "verified": false
+    },
+    {
+      "title": "Внимание: невероятная вакансия!",
+      "description": "АО «Научно-производственная корпорация «Космические системы мониторинга, информационно-управляющие и электромеханические комплексы» имени А. Г. Иосифьяна» ( АО «Корпорация «ВНИИЭМ» ) примет 4 талантливых инженеров в отдел комплексного проектирования и электрических испытаний космических аппаратов.",
+      "url": "https://cosmatica.org/news/50-vnimanie-neverojatnaja-vakansija.html",
+      "image": "https://cosmatica.org/upload/000/u1/3d/23/vnimanie-neverojatnaja-vakansija-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f1ccc4745c1d06f8e5",
+      "type": "news-item",
+      "sourceCharacters": 2080,
+      "verified": false
+    },
+    {
+      "title": "МНИИКА на конференции в Италии",
+      "description": "19-21 октября 2018 г. в Италии, в Умбрии состоится Международная научная конференция \"Учёные за мир - планетарное сознание и этика\", на которой с докладом \"Знамя мира\" в эпоху авангардной постклассической науки\" выступит генеральный директор Международного научно-исследовательского института космопланетарной антропоэкологии имени академика В.П.Казначеева , председатель Новосибирского отделения Русского Космического О",
+      "url": "https://cosmatica.org/poster/50-mniika-na-konferencii-v-italii.html",
+      "image": "https://cosmatica.org/upload/000/u30/3e/6a/mniika-na-konferencii-v-italii-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=d4ed01bb31afb7316d",
+      "type": "poster-item",
+      "sourceCharacters": 718,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

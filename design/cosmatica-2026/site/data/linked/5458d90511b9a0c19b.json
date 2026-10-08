@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/96-a-e-petrov-logistika-v-sapr-chast-ii-informacionnaja-logistika.html",
+  "title": "А.Е. Петров - Логистика в САПР. Часть II: информационная логистика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/99e081243796fb5d4604dc.webp",
+      "alt": "А.Е. Петров - Логистика в САПР. Часть II: информационная логистика"
+    },
+    {
+      "type": "paragraph",
+      "text": "Учебно-методическое пособие по дисциплине\r\n«Информационная логистика»\r\nдля инженеров техники и технологий по специальности\r\n230104 – «Системы автоматизированного проектирования»\r\nдля бакалавров и магистров техники и технологий по специальности\r\n552800 – «Информатика и вычислительная техника»",
+      "spans": [
+        {
+          "text": "Учебно-методическое пособие по дисциплине\r\n«Информационная логистика»\r\nдля инженеров техники и технологий по специальности\r\n230104 – «Системы автоматизированного проектирования»\r\nдля бакалавров и магистров техники и технологий по специальности\r\n552800 – «Информатика и вычислительная техника»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Учебно-методическое пособие по дисциплине «Информационная логистика» для инженеров техники и технологий по специальности 230104 – «Системы автоматизированного проектирования» для бакалавров и магистров техники и технологий по специальности 552800 – «Информатика и вычислительная техника»",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 3 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/100/c775395f4dd9872a67fc1b66fc085518"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/99e081243796fb5d4604dc.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/100/c775395f4dd9872a67fc1b66fc085518"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 373,
+    "storedTextCharacters": 292,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40434
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 306,
+  "capturedBodyCharacters": 292,
+  "sourceTextSHA256": "667047f426bebd15857763dce4bebfda6ce447348327be3c23cda9eddfe392a8",
+  "archiveSnapshotAt": "2026-10-08T08:51:11Z"
+}

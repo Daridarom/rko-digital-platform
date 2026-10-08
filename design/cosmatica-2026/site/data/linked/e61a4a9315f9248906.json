@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 2,
+  "slug": "project",
+  "sourceUrl": "https://cosmatica.org/projects/biblioteka",
+  "title": "Библиотека Русского Космического Общества",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/d3/3c/bibliotek-russkogo-kosmizma-logo-normal.jpg",
+      "alt": "Библиотека Русского Космического Общества"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О проекте"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сохранение Слова для развития Жизни.",
+      "spans": [
+        {
+          "text": "Сохранение Слова для развития Жизни.",
+          "marks": [
+            "bold",
+            "italic"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Наши предки накопили огромный опыт Жизни и аккумулировали свои знания в книгах. Эти знания позволили им покорить водную и небесные стихии, вырваться в космическое пространство. И всё это благодаря к стремлению к знаниям, которые нашли своё отражение в книгах.",
+      "spans": [
+        {
+          "text": "Наши предки накопили огромный опыт Жизни и аккумулировали свои знания в книгах. Эти знания позволили им покорить водную и небесные стихии, вырваться в космическое пространство. И всё это благодаря к стремлению к знаниям, которые нашли своё отражение в книгах."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Стена проекта",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Нет записей.",
+      "spans": [
+        {
+          "text": "\n                                    Нет записей.                            "
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Сохранение Слова для развития Жизни. Наши предки накопили огромный опыт Жизни и аккумулировали свои знания в книгах. Эти знания позволили им покорить водную и небесные стихии, вырваться в космическое пространство. И всё это благодаря к стремлению к знаниям, которые нашли своё отражение в книгах. Русское Космическое Общество ставит перед собой цель собрать, сохранить и приумножить Великие Труды, которые легли в основу формирования мышления освоителей Земного, околоземного и космического пространства.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Направление:",
+      "value": "Издательство",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Статус:",
+      "value": "Действующий",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/d3/3c/bibliotek-russkogo-kosmizma-logo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 678,
+    "storedTextCharacters": 329,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 3,
+    "sourceBytes": 39851
+  },
+  "textFallbackRequired": false,
+  "originalKind": "project",
+  "sourceTextCharacters": 550,
+  "capturedBodyCharacters": 329,
+  "sourceTextSHA256": "546a6ba517ea44fd1a280e4303c4a6372ca1bc79ba9301272484e06fd9ce46b9",
+  "archiveSnapshotAt": "2026-10-08T09:17:00Z"
+}

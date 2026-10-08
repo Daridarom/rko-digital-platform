@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/455-zdravstvuite-aleksei-arhipovich.html",
+  "title": "Здравствуйте, Алексей Архипович!",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Областной конкурс \"Письмо Леонову\"",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u210/6/7/zdravstvuite-aleksei-arhipovich-photo-normal.jpg",
+      "alt": "Здравствуйте, Алексей Архипович!"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u210/4/9/kuzbass-45-1406s-11.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Кузбасс от 14.06.19.pdf",
+      "spans": [
+        {
+          "text": "Кузбасс от 14.06.19.pdf",
+          "href": "https://cosmatica.org/upload/redactorfiles/Кузбасс от 14.06.19.pdf"
+        }
+      ],
+      "links": [
+        {
+          "text": "Кузбасс от 14.06.19.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/Кузбасс от 14.06.19.pdf"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Вышла статья в областной газете \"Кузбасс\" о конкурсе \"Письмо Леонову\"",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Кузбасс от 14.06.19.pdf",
+      "links": [
+        {
+          "title": "Кузбасс от 14.06.19.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/Кузбасс от 14.06.19.pdf"
+        }
+      ],
+      "image": "https://cosmatica.org/upload/002/u210/4/9/kuzbass-45-1406s-11.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u210/6/7/zdravstvuite-aleksei-arhipovich-photo-normal.jpg",
+    "https://cosmatica.org/upload/002/u210/4/9/kuzbass-45-1406s-11.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 333,
+    "storedTextCharacters": 69,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 2,
+    "sourceBytes": 45842
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 154,
+  "capturedBodyCharacters": 69,
+  "sourceTextSHA256": "d8848eaabfc0813aac7a3df8af1fcdbb7bd1a8b8f09194c2948c50d67373d209",
+  "archiveSnapshotAt": "2026-10-08T09:11:55Z"
+}

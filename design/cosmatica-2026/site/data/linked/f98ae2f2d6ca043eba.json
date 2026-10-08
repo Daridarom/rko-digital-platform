@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/16-ciolkovskii-konstantin-eduardovich-vne-zemli.html",
+  "title": "Циолковский Константин Эдуардович - Вне Земли",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/06/de/ciolkovskii-konstantin-eduardovich-vne-zemli-photo-normal.png",
+      "alt": "Циолковский Константин Эдуардович - Вне Земли"
+    },
+    {
+      "type": "paragraph",
+      "text": "Научно-фантастическая повесть",
+      "spans": [
+        {
+          "text": "Научно-фантастическая повесть"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Циолковский Константин Эдуардович",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Научно-фантастическая повесть",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/16/74e796205a8da26dbb6263d61a18bf7c"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/06/de/ciolkovskii-konstantin-eduardovich-vne-zemli-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/16/74e796205a8da26dbb6263d61a18bf7c"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 135,
+    "storedTextCharacters": 29,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39517
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 89,
+  "capturedBodyCharacters": 29,
+  "sourceTextSHA256": "712aa3e5e8d538348a58805ba19aafca9f63a7d6bb6395accf8fd7a0fc442423",
+  "archiveSnapshotAt": "2026-10-08T08:47:47Z"
+}

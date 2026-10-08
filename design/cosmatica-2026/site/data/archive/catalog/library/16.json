@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "library",
+  "title": "Библиотека",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 16,
+  "pageCount": 34,
+  "total": 510,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Небосвод (2012 №3)",
+      "description": "",
+      "url": "https://cosmatica.org/library/303-nebosvod-2012-3.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/5/nebosvod-2012-3-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=a645ec5ea03de60681",
+      "type": "book",
+      "sourceCharacters": 33,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2012 №4)",
+      "description": "",
+      "url": "https://cosmatica.org/library/302-nebosvod-2012-4.html",
+      "image": "assets/source/book-covers/99496b16082a2ea5620736.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=c116cb320edcf81ead",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2012 №5)",
+      "description": "",
+      "url": "https://cosmatica.org/library/301-nebosvod-2012-5.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/0/nebosvod-2012-5-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=2e16b2114905720c6a",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2012 №6)",
+      "description": "",
+      "url": "https://cosmatica.org/library/300-nebosvod-2012-6.html",
+      "image": "assets/source/book-covers/906e41b5df29c2c346e9ea.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=f10ebcfb9914332d96",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2012 №7)",
+      "description": "",
+      "url": "https://cosmatica.org/library/299-nebosvod-2012-7.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/9/nebosvod-2012-7-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=f9f3457df05299e966",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2012 №8)",
+      "description": "",
+      "url": "https://cosmatica.org/library/298-nebosvod-2012-8.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/c/nebosvod-2012-8-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=cc15c062c6c579fb24",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2012 №9)",
+      "description": "",
+      "url": "https://cosmatica.org/library/297-nebosvod-2012-9.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/d/nebosvod-2012-9-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=48fc69defd116dd746",
+      "type": "book",
+      "sourceCharacters": 33,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2012 №10)",
+      "description": "",
+      "url": "https://cosmatica.org/library/296-nebosvod-2012-10.html",
+      "image": "assets/source/book-covers/37fc0a1d8d36f05ad2216b.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=47be25c2671f0131b2",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2012 №11)",
+      "description": "",
+      "url": "https://cosmatica.org/library/295-nebosvod-2012-11.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/1/nebosvod-2012-11-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=2ac376c007b144b57a",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2012 №12)",
+      "description": "",
+      "url": "https://cosmatica.org/library/294-nebosvod-2012-12.html",
+      "image": "assets/source/book-covers/c0c8d2e4f544ee45bd2b95.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=e92ef6502e7d48027e",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2013 №1)",
+      "description": "",
+      "url": "https://cosmatica.org/library/293-nebosvod-2013-1.html",
+      "image": "assets/source/book-covers/ab6dd4931912cabc356c26.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=34a925d3d5e2d0e4a3",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2013 №2)",
+      "description": "",
+      "url": "https://cosmatica.org/library/292-nebosvod-2013-2.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/5/nebosvod-2013-2-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=9e3569ea8dcd6d5651",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2013 №3)",
+      "description": "",
+      "url": "https://cosmatica.org/library/291-nebosvod-2013-3.html",
+      "image": "assets/source/book-covers/5f4a769ef8550cf5c861e8.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=80478b2aa1bad1d5c9",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2013 №4)",
+      "description": "",
+      "url": "https://cosmatica.org/library/290-nebosvod-2013-4.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/3/nebosvod-2013-4-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7a1d661d388ddc8402",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2013 №5)",
+      "description": "",
+      "url": "https://cosmatica.org/library/289-nebosvod-2013-5.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/a/nebosvod-2013-5-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=a731655d28ec8481b3",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

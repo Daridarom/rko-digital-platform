@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/v",
+  "title": "В",
+  "intro": "",
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Всемир",
+      "url": "https://cosmatica.org/glossary/198-vsemir.html",
+      "description": ""
+    },
+    {
+      "title": "Временные (переменные) аксиомы",
+      "url": "https://cosmatica.org/glossary/167-vremennye-peremennye-aksiomy.html",
+      "description": ""
+    },
+    {
+      "title": "Величина",
+      "url": "https://cosmatica.org/glossary/158-velichina.html",
+      "description": ""
+    },
+    {
+      "title": "Время",
+      "url": "https://cosmatica.org/glossary/157-vremja.html",
+      "description": ""
+    },
+    {
+      "title": "Возросшая мощность",
+      "url": "https://cosmatica.org/glossary/155-vozrosshaja-moschnost.html",
+      "description": ""
+    },
+    {
+      "title": "Воля",
+      "url": "https://cosmatica.org/glossary/154-volja.html",
+      "description": ""
+    },
+    {
+      "title": "Высшая форма знания",
+      "url": "https://cosmatica.org/glossary/153-vysshaja-forma-znanija.html",
+      "description": ""
+    },
+    {
+      "title": "Вычисление",
+      "url": "https://cosmatica.org/glossary/152-vychislenie.html",
+      "description": ""
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 109,
+    "storedTextCharacters": 100,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 37209
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 109,
+  "capturedBodyCharacters": 100,
+  "sourceTextSHA256": "7cb2f2d9a20dbc9c9ddf7cce8a90ff8794856e9ddd31747376be9eb605d00a99",
+  "archiveSnapshotAt": "2026-10-08T08:47:29Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 8
+}

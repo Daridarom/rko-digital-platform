@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/13-zato-my-delali-rakety.html",
+  "title": "Зато мы делали ракеты",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/8b/09/feoktistov-konstantin-petrovich-zato-my-delali-rakety-photo-no.jpg",
+      "alt": "Зато мы делали ракеты"
+    },
+    {
+      "type": "paragraph",
+      "text": "Константин Петрович Феоктистов — инженер, конструктор космических кораблей, один\r\nиз первых космонавтов.Его новая книга — увлекательный рассказ о становлении\r\nкосмонавтики и о людях, чьи имена вписаны в историю освоения космоса. Но главная \r\nозабоченность К. П. Феоктистова — насущные проблемы человечества. Своими\r\nразмышлениями о подходах к решению глобальных задач настоящего и ближайшего\r\nбудущего делится с читателями автор.",
+      "spans": [
+        {
+          "text": "Константин Петрович Феоктистов — инженер, конструктор космических кораблей, один\r\nиз первых космонавтов.Его новая книга — увлекательный рассказ о становлении\r\nкосмонавтики и о людях, чьи имена вписаны в историю освоения космоса. Но главная \r\nозабоченность К. П. Феоктистова — насущные проблемы человечества. Своими\r\nразмышлениями о подходах к решению глобальных задач настоящего и ближайшего\r\nбудущего делится с читателями автор."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Феоктистов Константин Петрович",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Константин Петрович Феоктистов — инженер, конструктор космических кораблей, один из первых космонавтов.Его новая книга — увлекательный рассказ о становлении космонавтики и о людях, чьи имена вписаны в историю освоения космоса. Но главная озабоченность К. П. Феоктистова — насущные проблемы человечества. Своими размышлениями о подходах к решению глобальных задач настоящего и ближайшего будущего делится с читателями автор.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 4 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/14/01b37ff2e2bd0fe757dc93136ec367d8"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/8b/09/feoktistov-konstantin-petrovich-zato-my-delali-rakety-photo-no.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/14/01b37ff2e2bd0fe757dc93136ec367d8"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 502,
+    "storedTextCharacters": 429,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40459
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 480,
+  "capturedBodyCharacters": 429,
+  "sourceTextSHA256": "909ab7a653a5db8d1fdfb7acf834fc79b2f88deb7400a5b4ace708d3480894af",
+  "archiveSnapshotAt": "2026-10-08T08:47:38Z"
+}

@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 2,
+  "slug": "project",
+  "sourceUrl": "https://cosmatica.org/projects/astroglobus",
+  "title": "АстроГлобус",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/86/1e/astroglobus-logo-normal.jpg",
+      "alt": "АстроГлобус"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О проекте",
+        "Новости 3"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "«АстроГлобус» — рубрика впечатлений о путешествиях по астрономическим достопримечательностям и интересным местам.",
+      "spans": [
+        {
+          "text": "«АстроГлобус» ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " — рубрика впечатлений о путешествиях по астрономическим достопримечательностям и интересным местам. "
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Путешествия помогают понять красоту пространства и бесценность времени. (Г. Александров)",
+      "spans": [
+        {
+          "text": "Путешествия помогают понять красоту пространства и бесценность времени.\r\n(Г. Александров)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Чем отличается небо Амстердама от неба Владивостока? Где находится нулевой меридиан и как он выглядит? Как связаны астрономия и посёлок Монды в Бурятии? Что общего между мотоциклом и звёздами?",
+      "spans": [
+        {
+          "text": "Чем отличается небо Амстердама от неба Владивостока? Где находится нулевой меридиан и как он выглядит? Как связаны астрономия и посёлок Монды в Бурятии? Что общего между мотоциклом и звёздами?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ответы на эти и другие вопросы мы будем находить вместе, путешествуя по нашему АстроГлобусу.",
+      "spans": [
+        {
+          "text": "Ответы на эти и другие вопросы мы будем находить вместе, путешествуя по нашему АстроГлобусу."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Цель проекта — показать, что астрономия не только наука, но и увлекательная, удивительная и многогранная с своих проявлениях ЖИЗНЬ",
+      "spans": [
+        {
+          "text": "Цель проекта — показать, что астрономия не только наука, но и увлекательная, удивительная и многогранная с своих проявлениях  ЖИЗНЬ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ПОЕХАЛИ!",
+      "spans": [
+        {
+          "text": "ПОЕХАЛИ!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Стена проекта",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/78/70/mars.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/5b/88/mars4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/f2/30/2july.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/d3/9b/izh2.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/ae/e3/izh.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/d9/78/izh1.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/a7/33/large.png",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "«АстроГлобус» — рубрика впечатлений о путешествиях по астрономическим достопримечательностям и интересным местам. Путешествия помогают понять красоту пространства и бесценность времени. (Г. Александров) Чем отличается небо Амстердама от неба Владивостока? Где находится нулевой меридиан и как он выглядит? Как связаны астрономия и посёлок Монды в Бурятии? Что общего между мотоциклом и звёздами? Ответы на эти и другие вопросы мы будем находить вместе, путешествуя по нашему АстроГлобусу. Цель проекта — показать, что астрономия не только наука, но и увлекательная, удивительная и многогранная с своих проявлениях ЖИЗНЬ ПОЕХАЛИ!",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Направление:",
+      "value": "Образование",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Статус:",
+      "value": "Завершенный",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u21/86/1e/astroglobus-logo-normal.jpg",
+    "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+    "https://cosmatica.org/upload/000/u21/78/70/mars.jpg",
+    "https://cosmatica.org/upload/000/u21/5b/88/mars4.jpg",
+    "https://cosmatica.org/upload/000/u21/f2/30/2july.jpg",
+    "https://cosmatica.org/upload/000/u21/d3/9b/izh2.jpg",
+    "https://cosmatica.org/upload/000/u21/ae/e3/izh.jpg",
+    "https://cosmatica.org/upload/000/u21/d9/78/izh1.jpg",
+    "https://cosmatica.org/upload/000/u21/a7/33/large.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 2422,
+    "storedTextCharacters": 654,
+    "sourceCardCount": 0,
+    "sourceImageCount": 9,
+    "paragraphCount": 5,
+    "sourceBytes": 48747
+  },
+  "textFallbackRequired": false,
+  "originalKind": "project",
+  "sourceTextCharacters": 673,
+  "capturedBodyCharacters": 654,
+  "sourceTextSHA256": "62626fce355ab14d38be7b511cb7a54a1b3f4d2fdfce2c12fa132c65389c9ab1",
+  "archiveSnapshotAt": "2026-10-08T09:16:58Z"
+}

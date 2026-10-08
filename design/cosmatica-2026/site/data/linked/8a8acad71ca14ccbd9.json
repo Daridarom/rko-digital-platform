@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1207-glava-rko-v-shkole-zdravogo-smysla.html",
+  "title": "Глава РКО в Школе здравого смысла",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/2/5/glava-rko-v-shkole-zdravogo-smysla-photo-normal.png",
+      "alt": "Глава РКО в Школе здравого смысла"
+    },
+    {
+      "type": "paragraph",
+      "text": "Русское Космическое Общество – это духовный прорыв сознания в космическое будущее и осуществляют его, прежде всего люди, осознавшие себя ответственными за то, каким это будущее будет. Знающие, умеющие и делающие всё то, что вытекает из требований Нового времени. Времени перехода биосферы Земли в её новое качество - ноосферу.",
+      "spans": [
+        {
+          "text": "Русское Космическое Общество – это духовный прорыв сознания в космическое будущее и осуществляют его, прежде всего люди, осознавшие себя ответственными за то, каким это будущее будет. Знающие, умеющие и делающие всё то, что вытекает из требований Нового времени. Времени перехода биосферы Земли в её новое  "
+        },
+        {
+          "text": "качество",
+          "href": "https://cosmatica.org/glossary/117-kachestvo.html"
+        },
+        {
+          "text": " - ноосферу. "
+        }
+      ],
+      "links": [
+        {
+          "text": "качество",
+          "url": "https://cosmatica.org/glossary/117-kachestvo.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Это люди, объединённые общностью Цели и Смысла, общностью Образа Будущего, согласованного с ритмоциклическим законом развития Жизни, как космопланетарным явлением.",
+      "spans": [
+        {
+          "text": "Это люди, объединённые общностью Цели и Смысла, общностью Образа Будущего, согласованного с ритмоциклическим законом развития Жизни, как космопланетарным явлением."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "aGqbfYuuijU",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=aGqbfYuuijU"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В гостях у Школы здравого смысла Глава Русского Космического Общества Алексей Алексеевич Гапонов",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Русское Космическое Общество – это духовный прорыв сознания в космическое будущее и осуществляют его, прежде всего люди, осознавшие себя ответственными за то, каким это будущее будет. Знающие, умеющие и делающие всё то, что вытекает из требований Нового времени. Времени перехода биосферы Земли в её новое качество - ноосферу. Это люди, объединённые общностью Цели и Смысла, общностью Образа Будущего, согласованного с ритмоциклическим законом развития Жизни, как космопланетарным явлением.",
+      "links": [
+        {
+          "title": "качество",
+          "url": "https://cosmatica.org/glossary/117-kachestvo.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/2/5/glava-rko-v-shkole-zdravogo-smysla-photo-normal.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 830,
+    "storedTextCharacters": 500,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 3,
+    "sourceBytes": 46700
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 686,
+  "capturedBodyCharacters": 500,
+  "sourceTextSHA256": "939be96dc0066ad589eb2156e6b199c11c7df50b3957060855f6d9a5f2b9e341",
+  "archiveSnapshotAt": "2026-10-08T08:52:49Z",
+  "publicVideoCount": 1
+}

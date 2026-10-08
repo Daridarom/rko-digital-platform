@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/u",
+  "title": "У",
+  "intro": "",
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Уверенное развитие народа",
+      "url": "https://cosmatica.org/glossary/182-uverennoe-razvitie-naroda.html",
+      "description": ""
+    },
+    {
+      "title": "Универсальная мера",
+      "url": "https://cosmatica.org/glossary/31-universalnaja-mera.html",
+      "description": ""
+    },
+    {
+      "title": "Универсальный пространственно-временной язык (LT-язык)",
+      "url": "https://cosmatica.org/glossary/30-universalnyi-prostranstvenno-vremennoi-jazyk-lt-jazyk.html",
+      "description": ""
+    },
+    {
+      "title": "Универсум",
+      "url": "https://cosmatica.org/glossary/29-universum.html",
+      "description": ""
+    },
+    {
+      "title": "Управление",
+      "url": "https://cosmatica.org/glossary/28-upravlenie.html",
+      "description": ""
+    },
+    {
+      "title": "Устойчивое развитие",
+      "url": "https://cosmatica.org/glossary/27-ustoichivoe-razvitie.html",
+      "description": ""
+    },
+    {
+      "title": "Устойчивое развитие страны (общества)",
+      "url": "https://cosmatica.org/glossary/26-ustoichivoe-razvitie-strany-obschestva.html",
+      "description": ""
+    },
+    {
+      "title": "Устойчивое социальное развитие",
+      "url": "https://cosmatica.org/glossary/25-ustoichivoe-socialnoe-razvitie.html",
+      "description": ""
+    },
+    {
+      "title": "Устойчивое экологическое развитие",
+      "url": "https://cosmatica.org/glossary/24-ustoichivoe-ekologicheskoe-razvitie.html",
+      "description": ""
+    },
+    {
+      "title": "Устойчивое экономическое развитие",
+      "url": "https://cosmatica.org/glossary/23-ustoichivoe-ekonomicheskoe-razvitie.html",
+      "description": ""
+    },
+    {
+      "title": "Устойчивое инновационное развитие",
+      "url": "https://cosmatica.org/glossary/22-ustoichivoe-innovacionnoe-razvitie.html",
+      "description": ""
+    },
+    {
+      "title": "Устойчивое развитие Жизни",
+      "url": "https://cosmatica.org/glossary/21-ustoichivoe-razvitie-zhizni.html",
+      "description": ""
+    },
+    {
+      "title": "Ускоренное социально-экономическое развитие",
+      "url": "https://cosmatica.org/glossary/20-uskorennoe-socialno-ekonomicheskoe-razvitie.html",
+      "description": ""
+    },
+    {
+      "title": "Управление устойчивым инновационным развитием",
+      "url": "https://cosmatica.org/glossary/19-upravlenie-ustoichivym-innovacionnym-razvitiem.html",
+      "description": ""
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 429,
+    "storedTextCharacters": 414,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 42534
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 429,
+  "capturedBodyCharacters": 414,
+  "sourceTextSHA256": "5be4b4043ff578bc20d36debe907878d28c1bce8b0f88d2ebd858487837f6af6",
+  "archiveSnapshotAt": "2026-10-08T08:47:29Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 14
+}

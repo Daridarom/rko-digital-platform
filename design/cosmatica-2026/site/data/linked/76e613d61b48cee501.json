@@ -1,0 +1,397 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/uchebno-metodicheskie-posobija",
+  "title": "Учебно-методические пособия",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "Основы теории психологического программирования",
+          "Головин А.А.",
+          ""
+        ],
+        [
+          "",
+          "Семейный подарок - общий комплект из 4 настольных игр для разного возраста",
+          "Леонид и Лучезар Ведагоровы (Звездный Маэстро Леонид Тимошенко и Лучезар Тимошенко)",
+          ""
+        ],
+        [
+          "",
+          "Систематическое исследование чувствительности поверхностных сдвигов пикселей на спутниковых снимках высокого пространственного разрешения",
+          "Шахулов Н.Р",
+          ""
+        ],
+        [
+          "",
+          "Буду всё знать! Познавательный контакт детей и родителей.",
+          "Тимошенко Леонид Викторович",
+          ""
+        ],
+        [
+          "",
+          "Космическая школа композитора",
+          "Звездный Маэстро Леонид Тимошенко",
+          ""
+        ],
+        [
+          "",
+          "Природно – техносферная безопасность",
+          "Кнауб Р.В.",
+          ""
+        ],
+        [
+          "",
+          "Технологические основы управления региональным и отраслевым устойчивым инновационным развитием с использованием измеримых величин",
+          "Б.Е. Большаков",
+          ""
+        ],
+        [
+          "",
+          "История и методология науки",
+          "Б.Е. Большаков",
+          ""
+        ],
+        [
+          "",
+          "Механизмы проектного финансирования устойчивого развития социально-экономических систем",
+          "Б.Е. Большаков",
+          ""
+        ],
+        [
+          "",
+          "Научная экспертиза проектов устойчивого развития социо-природных систем",
+          "Б.Е. Большаков",
+          ""
+        ],
+        [
+          "",
+          "Современные проблемы науки",
+          "Б.Е. Большаков",
+          ""
+        ],
+        [
+          "",
+          "Теория и методология проектирования устойчивого развития социо-природных систем",
+          "Б.Е. Большаков",
+          ""
+        ],
+        [
+          "",
+          "Технология проектирования устойчивого развития социально-экономических систем",
+          "Б.Е. Большаков",
+          ""
+        ],
+        [
+          "",
+          "Возникновение и основные проблемы вхождения понятия «устойчивое развитие» в мировую политику и науку",
+          "Б.Е. Большаков, С.А. Рябкова",
+          ""
+        ],
+        [
+          "",
+          "А.Е. Петров - Логистика в САПР. Часть II: информационная логистика",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/c/osnovy-teorii-psihologicheskogo-programmirovanija-photo-small.jpg",
+      "alt": "Основы теории психологического программирования"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/001/u114/4/4/semeinyi-podarok-komplekt-iz-4-nastolnyh-igr-dlja-raznogo-vozr.jpg",
+      "alt": "Семейный подарок - общий комплект из 4 настольных игр для разного возраста"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/004/u474/6/a/sistematicheskoe-issledovanie-chuvstvitelnosti-poverhnostnyh-sdvi.png",
+      "alt": "Систематическое исследование чувствительности поверхностных сдвигов пикселей на спутниковых снимках высокого пространственного разрешения"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/5/0/924a894e.jpg",
+      "alt": "Буду всё знать! Познавательный контакт детей и родителей."
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/d/e/prirodno-tehnosfernaja-bezopasnost-photo-small.jpg",
+      "alt": "Природно – техносферная безопасность"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/9c/82/42695716.png",
+      "alt": "Технологические основы управления региональным и отраслевым устойчивым инновационным развитием с использованием измеримых величин"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/00/39/istorija-i-metodologija-nauki-photo-small.png",
+      "alt": "История и методология науки"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/7b/8d/mehanizmy-proektnogo-finansirovanija-ustoichivogo-razvitija-social.png",
+      "alt": "Механизмы проектного финансирования устойчивого развития социально-экономических систем"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/24/e4/nauchnaja-ekspertiza-proektov-ustoichivogo-razvitija-socio-prirodnyh.png",
+      "alt": "Научная экспертиза проектов устойчивого развития социо-природных систем"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/c0/e8/sovremennye-problemy-nauki-photo-small.png",
+      "alt": "Современные проблемы науки"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/fe/42/teorija-i-metodologija-proektirovanija-ustoichivogo-razvitija-socio.png",
+      "alt": "Теория и методология проектирования устойчивого развития  социо-природных систем"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/71/af/tehnologija-proektirovanija-ustoichivogo-razvitija-socialno-ekonomi.png",
+      "alt": "Технология проектирования устойчивого развития социально-экономических систем"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/1d/06/vozniknovenie-i-osnovnye-problemy-vhozhdenija-ponjatija-ustoichivoe.png",
+      "alt": "Возникновение и основные проблемы вхождения понятия «устойчивое развитие» в мировую политику и науку"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/de/af/a-e-petrov-logistika-v-sapr-chast-ii-informacionnaja-logisti.png",
+      "alt": "А.Е. Петров - Логистика в САПР. Часть II: информационная логистика"
+    }
+  ],
+  "cards": [
+    {
+      "title": "Основы теории психологического программирования",
+      "description": "Основы теории психологического программирования Головин А.А.",
+      "url": "https://cosmatica.org/library/524-osnovy-teorii-psihologicheskogo-programmirovanija.html",
+      "image": "https://cosmatica.org/upload/000/u35/c/c/osnovy-teorii-psihologicheskogo-programmirovanija-photo-small.jpg",
+      "links": [
+        {
+          "title": "Основы теории психологического программирования",
+          "url": "https://cosmatica.org/library/524-osnovy-teorii-psihologicheskogo-programmirovanija.html"
+        }
+      ]
+    },
+    {
+      "title": "Семейный подарок - общий комплект из 4 настольных игр для разного возраста",
+      "description": "Семейный подарок - общий комплект из 4 настольных игр для разного возраста Леонид и Лучезар Ведагоровы (Звездный Маэстро Леонид Тимошенко и Лучезар Тимошенко)",
+      "url": "https://cosmatica.org/library/511-semeinyi-podarok-obschii-komplekt-iz-4-nastolnyh-igr-dlja-raznogo-vozrasta.html",
+      "image": "https://cosmatica.org/upload/001/u114/4/4/semeinyi-podarok-komplekt-iz-4-nastolnyh-igr-dlja-raznogo-vozr.jpg",
+      "links": [
+        {
+          "title": "Семейный подарок - общий комплект из 4 настольных игр для разного возраста",
+          "url": "https://cosmatica.org/library/511-semeinyi-podarok-obschii-komplekt-iz-4-nastolnyh-igr-dlja-raznogo-vozrasta.html"
+        }
+      ]
+    },
+    {
+      "title": "Систематическое исследование чувствительности поверхностных сдвигов пикселей на спутниковых снимках высокого пространственного разрешения",
+      "description": "Систематическое исследование чувствительности поверхностных сдвигов пикселей на спутниковых снимках высокого пространственного разрешения Шахулов Н.Р",
+      "url": "https://cosmatica.org/library/476-sistematicheskoe-issledovanie-chuvstvitelnosti-poverhnostnyh-sdvigov-pikselei-na-sputnikovyh-sni.html",
+      "image": "https://cosmatica.org/upload/004/u474/6/a/sistematicheskoe-issledovanie-chuvstvitelnosti-poverhnostnyh-sdvi.png",
+      "links": [
+        {
+          "title": "Систематическое исследование чувствительности поверхностных сдвигов пикселей на спутниковых снимках высокого пространственного разрешения",
+          "url": "https://cosmatica.org/library/476-sistematicheskoe-issledovanie-chuvstvitelnosti-poverhnostnyh-sdvigov-pikselei-na-sputnikovyh-sni.html"
+        }
+      ]
+    },
+    {
+      "title": "Буду всё знать! Познавательный контакт детей и родителей.",
+      "description": "Буду всё знать! Познавательный контакт детей и родителей. Тимошенко Леонид Викторович",
+      "url": "https://cosmatica.org/library/459-budu-vsyo-znat-poznavatelnyi-kontakt-detei-i-roditelei.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/0/924a894e.jpg",
+      "links": [
+        {
+          "title": "Буду всё знать! Познавательный контакт детей и родителей.",
+          "url": "https://cosmatica.org/library/459-budu-vsyo-znat-poznavatelnyi-kontakt-detei-i-roditelei.html"
+        }
+      ]
+    },
+    {
+      "title": "Космическая школа композитора",
+      "description": "Космическая школа композитора Звездный Маэстро Леонид Тимошенко",
+      "url": "https://cosmatica.org/library/395-kosmicheskaja-shkola-kompozitora.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Космическая школа композитора",
+          "url": "https://cosmatica.org/library/395-kosmicheskaja-shkola-kompozitora.html"
+        }
+      ]
+    },
+    {
+      "title": "Природно – техносферная безопасность",
+      "description": "Природно – техносферная безопасность Кнауб Р.В.",
+      "url": "https://cosmatica.org/library/377-prirodno-tehnosfernaja-bezopasnost.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/e/prirodno-tehnosfernaja-bezopasnost-photo-small.jpg",
+      "links": [
+        {
+          "title": "Природно – техносферная безопасность",
+          "url": "https://cosmatica.org/library/377-prirodno-tehnosfernaja-bezopasnost.html"
+        }
+      ]
+    },
+    {
+      "title": "Технологические основы управления региональным и отраслевым устойчивым инновационным развитием с использованием измеримых величин",
+      "description": "Технологические основы управления региональным и отраслевым устойчивым инновационным развитием с использованием измеримых величин Б.Е. Большаков",
+      "url": "https://cosmatica.org/library/156-tehnologicheskie-osnovy-upravlenija-regionalnym-i-otraslevym-ustoichivym-innovacionnym-razvitiem.html",
+      "image": "https://cosmatica.org/upload/000/u10/9c/82/42695716.png",
+      "links": [
+        {
+          "title": "Технологические основы управления региональным и отраслевым устойчивым инновационным развитием с использованием измеримых величин",
+          "url": "https://cosmatica.org/library/156-tehnologicheskie-osnovy-upravlenija-regionalnym-i-otraslevym-ustoichivym-innovacionnym-razvitiem.html"
+        }
+      ]
+    },
+    {
+      "title": "История и методология науки",
+      "description": "История и методология науки Б.Е. Большаков",
+      "url": "https://cosmatica.org/library/155-istorija-i-metodologija-nauki.html",
+      "image": "https://cosmatica.org/upload/000/u10/00/39/istorija-i-metodologija-nauki-photo-small.png",
+      "links": [
+        {
+          "title": "История и методология науки",
+          "url": "https://cosmatica.org/library/155-istorija-i-metodologija-nauki.html"
+        }
+      ]
+    },
+    {
+      "title": "Механизмы проектного финансирования устойчивого развития социально-экономических систем",
+      "description": "Механизмы проектного финансирования устойчивого развития социально-экономических систем Б.Е. Большаков",
+      "url": "https://cosmatica.org/library/154-mehanizmy-proektnogo-finansirovanija-ustoichivogo-razvitija-socialno-ekonomicheskih-sistem.html",
+      "image": "https://cosmatica.org/upload/000/u10/7b/8d/mehanizmy-proektnogo-finansirovanija-ustoichivogo-razvitija-social.png",
+      "links": [
+        {
+          "title": "Механизмы проектного финансирования устойчивого развития социально-экономических систем",
+          "url": "https://cosmatica.org/library/154-mehanizmy-proektnogo-finansirovanija-ustoichivogo-razvitija-socialno-ekonomicheskih-sistem.html"
+        }
+      ]
+    },
+    {
+      "title": "Научная экспертиза проектов устойчивого развития социо-природных систем",
+      "description": "Научная экспертиза проектов устойчивого развития социо-природных систем Б.Е. Большаков",
+      "url": "https://cosmatica.org/library/153-nauchnaja-ekspertiza-proektov-ustoichivogo-razvitija-socio-prirodnyh-sistem.html",
+      "image": "https://cosmatica.org/upload/000/u10/24/e4/nauchnaja-ekspertiza-proektov-ustoichivogo-razvitija-socio-prirodnyh.png",
+      "links": [
+        {
+          "title": "Научная экспертиза проектов устойчивого развития социо-природных систем",
+          "url": "https://cosmatica.org/library/153-nauchnaja-ekspertiza-proektov-ustoichivogo-razvitija-socio-prirodnyh-sistem.html"
+        }
+      ]
+    },
+    {
+      "title": "Современные проблемы науки",
+      "description": "Современные проблемы науки Б.Е. Большаков",
+      "url": "https://cosmatica.org/library/152-sovremennye-problemy-nauki.html",
+      "image": "https://cosmatica.org/upload/000/u10/c0/e8/sovremennye-problemy-nauki-photo-small.png",
+      "links": [
+        {
+          "title": "Современные проблемы науки",
+          "url": "https://cosmatica.org/library/152-sovremennye-problemy-nauki.html"
+        }
+      ]
+    },
+    {
+      "title": "Теория и методология проектирования устойчивого развития социо-природных систем",
+      "description": "Теория и методология проектирования устойчивого развития социо-природных систем Б.Е. Большаков",
+      "url": "https://cosmatica.org/library/151-teorija-i-metodologija-proektirovanija-ustoichivogo-razvitija-socio-prirodnyh-sistem.html",
+      "image": "https://cosmatica.org/upload/000/u10/fe/42/teorija-i-metodologija-proektirovanija-ustoichivogo-razvitija-socio.png",
+      "links": [
+        {
+          "title": "Теория и методология проектирования устойчивого развития социо-природных систем",
+          "url": "https://cosmatica.org/library/151-teorija-i-metodologija-proektirovanija-ustoichivogo-razvitija-socio-prirodnyh-sistem.html"
+        }
+      ]
+    },
+    {
+      "title": "Технология проектирования устойчивого развития социально-экономических систем",
+      "description": "Технология проектирования устойчивого развития социально-экономических систем Б.Е. Большаков",
+      "url": "https://cosmatica.org/library/150-tehnologija-proektirovanija-ustoichivogo-razvitija-socialno-ekonomicheskih-sistem.html",
+      "image": "https://cosmatica.org/upload/000/u10/71/af/tehnologija-proektirovanija-ustoichivogo-razvitija-socialno-ekonomi.png",
+      "links": [
+        {
+          "title": "Технология проектирования устойчивого развития социально-экономических систем",
+          "url": "https://cosmatica.org/library/150-tehnologija-proektirovanija-ustoichivogo-razvitija-socialno-ekonomicheskih-sistem.html"
+        }
+      ]
+    },
+    {
+      "title": "Возникновение и основные проблемы вхождения понятия «устойчивое развитие» в мировую политику и науку",
+      "description": "Возникновение и основные проблемы вхождения понятия «устойчивое развитие» в мировую политику и науку Б.Е. Большаков, С.А. Рябкова",
+      "url": "https://cosmatica.org/library/149-vozniknovenie-i-osnovnye-problemy-vhozhdenija-ponjatija-ustoichivoe-razvitie-v-mirovuyu-politiku.html",
+      "image": "https://cosmatica.org/upload/000/u10/1d/06/vozniknovenie-i-osnovnye-problemy-vhozhdenija-ponjatija-ustoichivoe.png",
+      "links": [
+        {
+          "title": "Возникновение и основные проблемы вхождения понятия «устойчивое развитие» в мировую политику и науку",
+          "url": "https://cosmatica.org/library/149-vozniknovenie-i-osnovnye-problemy-vhozhdenija-ponjatija-ustoichivoe-razvitie-v-mirovuyu-politiku.html"
+        }
+      ]
+    },
+    {
+      "title": "А.Е. Петров - Логистика в САПР. Часть II: информационная логистика",
+      "description": "А.Е. Петров - Логистика в САПР. Часть II: информационная логистика",
+      "url": "https://cosmatica.org/library/96-a-e-petrov-logistika-v-sapr-chast-ii-informacionnaja-logistika.html",
+      "image": "https://cosmatica.org/upload/000/u1/de/af/a-e-petrov-logistika-v-sapr-chast-ii-informacionnaja-logisti.png",
+      "links": [
+        {
+          "title": "А.Е. Петров - Логистика в САПР. Часть II: информационная логистика",
+          "url": "https://cosmatica.org/library/96-a-e-petrov-logistika-v-sapr-chast-ii-informacionnaja-logistika.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/c/c/osnovy-teorii-psihologicheskogo-programmirovanija-photo-small.jpg",
+    "https://cosmatica.org/upload/001/u114/4/4/semeinyi-podarok-komplekt-iz-4-nastolnyh-igr-dlja-raznogo-vozr.jpg",
+    "https://cosmatica.org/upload/004/u474/6/a/sistematicheskoe-issledovanie-chuvstvitelnosti-poverhnostnyh-sdvi.png",
+    "https://cosmatica.org/upload/000/u7/5/0/924a894e.jpg",
+    "https://cosmatica.org/upload/000/u35/d/e/prirodno-tehnosfernaja-bezopasnost-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u10/9c/82/42695716.png",
+    "https://cosmatica.org/upload/000/u10/00/39/istorija-i-metodologija-nauki-photo-small.png",
+    "https://cosmatica.org/upload/000/u10/7b/8d/mehanizmy-proektnogo-finansirovanija-ustoichivogo-razvitija-social.png",
+    "https://cosmatica.org/upload/000/u10/24/e4/nauchnaja-ekspertiza-proektov-ustoichivogo-razvitija-socio-prirodnyh.png",
+    "https://cosmatica.org/upload/000/u10/c0/e8/sovremennye-problemy-nauki-photo-small.png",
+    "https://cosmatica.org/upload/000/u10/fe/42/teorija-i-metodologija-proektirovanija-ustoichivogo-razvitija-socio.png",
+    "https://cosmatica.org/upload/000/u10/71/af/tehnologija-proektirovanija-ustoichivogo-razvitija-socialno-ekonomi.png",
+    "https://cosmatica.org/upload/000/u10/1d/06/vozniknovenie-i-osnovnye-problemy-vhozhdenija-ponjatija-ustoichivoe.png",
+    "https://cosmatica.org/upload/000/u1/de/af/a-e-petrov-logistika-v-sapr-chast-ii-informacionnaja-logisti.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1460,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 15,
+    "sourceImageCount": 14,
+    "paragraphCount": 0,
+    "sourceBytes": 66659
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 1460,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "4921c4da290c9532a61fad4185ce324526e246aa62f51254f7cb23a9f11f9701",
+  "archiveSnapshotAt": "2026-10-08T08:51:16Z"
+}

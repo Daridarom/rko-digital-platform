@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/159-bazovyi-princip-ustoichivogo-razvitija-v-edinicah-moschnosti.html",
+  "title": "Базовый принцип устойчивого развития в единицах мощности",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "устойчивое",
+      "spans": [
+        {
+          "text": "устойчивое"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "развитие",
+      "spans": [
+        {
+          "text": "развитие"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "есть хроноцелостный процесс, в котором имеет место неубывающий темп роста полезной мощности системы в дли­тельной перспективе.",
+      "spans": [
+        {
+          "text": "есть хроноцелостный процесс, в котором имеет место неубывающий темп роста полезной мощности системы в дли­тельной перспективе."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "устойчивое развитие есть хроноцелостный процесс, в котором имеет место неубывающий темп роста полезной мощности системы в дли­тельной перспективе.",
+      "links": [
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 203,
+    "storedTextCharacters": 144,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32403
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 146,
+  "capturedBodyCharacters": 144,
+  "sourceTextSHA256": "1f47fdcaf9c5e61b5f1cb62527ed57603ed28121bfa2e2e9d10f58d98a28a215",
+  "archiveSnapshotAt": "2026-10-08T08:46:37Z"
+}

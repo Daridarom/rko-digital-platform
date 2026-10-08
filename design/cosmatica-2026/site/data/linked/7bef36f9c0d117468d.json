@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/1298",
+  "title": "Ирина Константиновна Мухина",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/0/24d3d12e.jpg",
+      "alt": "Ирина Константиновна Мухина"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/0/9/4f4817e6.jpg",
+      "alt": "Ирина Константиновна Мухина"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 3"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 5 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель представительства РКО в Канаде.",
+      "spans": [
+        {
+          "text": "Председатель представительства РКО в Канаде."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "К.ф-м.наук, специалист в финтехе и в цифровых технологиях, учредитель и президент «Инновационного центра познания и творчества» и частной школы ЭРУДИТ, приглашенный преподаватель НГУ и РАНХиГС, автор и ведущая видео-блога и виртуального клуба-горницы «Искусственный Интеллект для домохозяек»",
+      "spans": [
+        {
+          "text": "К.ф-м.наук, специалист в финтехе и в цифровых технологиях, учредитель и президент «Инновационного центра познания и творчества» и частной школы ЭРУДИТ, приглашенный преподаватель НГУ и РАНХиГС, автор и ведущая видео-блога и виртуального клуба-горницы «Искусственный Интеллект для домохозяек»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Представительство в Канаде",
+      "links": [
+        {
+          "title": "Представительство в Канаде",
+          "url": "https://cosmatica.org/departments/32-predstavitelstvo-v-kanade.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Председатель представительства РКО в Канаде. К.ф-м.наук, специалист в финтехе и в цифровых технологиях, учредитель и президент «Инновационного центра познания и творчества» и частной школы ЭРУДИТ, приглашенный преподаватель НГУ и РАНХиГС, автор и ведущая видео-блога и виртуального клуба-горницы «Искусственный Интеллект для домохозяек»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/c/0/24d3d12e.jpg",
+    "https://cosmatica.org/upload/000/u35/0/9/4f4817e6.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 449,
+    "storedTextCharacters": 379,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36027
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 384,
+  "capturedBodyCharacters": 379,
+  "sourceTextSHA256": "971fd3e66f7b78b88ebb39d5bdf63ffddf93f179a67cccaafad51d1158a81895",
+  "archiveSnapshotAt": "2026-10-08T09:18:01Z"
+}

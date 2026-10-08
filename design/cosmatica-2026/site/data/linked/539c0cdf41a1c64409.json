@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/24-ustoichivoe-ekologicheskoe-razvitie.html",
+  "title": "Устойчивое экологическое развитие",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это хроноцелостный процесс управления уменьшением потерь мощности за счет увеличения КПД используемых технологий на основе закона сохранения мощности.",
+      "spans": [
+        {
+          "text": "это хроноцелостный процесс управления уменьшением потерь мощности за счет увеличения КПД используемых технологий на основе закона сохранения мощности."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это хроноцелостный процесс управления уменьшением потерь мощности за счет увеличения КПД используемых технологий на основе закона сохранения мощности.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 184,
+    "storedTextCharacters": 150,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32201
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 150,
+  "capturedBodyCharacters": 150,
+  "sourceTextSHA256": "f46b39554d91a0ab26ad063361b899fac945a35bcf9fd6ed8606821928defb3a",
+  "archiveSnapshotAt": "2026-10-08T08:46:45Z"
+}

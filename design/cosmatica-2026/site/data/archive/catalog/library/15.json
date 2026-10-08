@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "library",
+  "title": "Библиотека",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 15,
+  "pageCount": 34,
+  "total": 510,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Инструкция по звёздной фотографии (1966)",
+      "description": "",
+      "url": "https://cosmatica.org/library/318-instrukcija-po-zvyozdnoi-fotografii-1966.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/8/instrukcija-po-zvyozdnoi-fotografii-1966-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=274019e92c9f7db277",
+      "type": "book",
+      "sourceCharacters": 37,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2011 №1)",
+      "description": "",
+      "url": "https://cosmatica.org/library/317-nebosvod-2011-1.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/a/nebosvod-2011-1-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=0264b57bfe44bd033d",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2011 №2)",
+      "description": "",
+      "url": "https://cosmatica.org/library/316-nebosvod-2011-2.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/1/nebosvod-2011-2-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=24706ee00b997dbac3",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2011 №3)",
+      "description": "",
+      "url": "https://cosmatica.org/library/315-nebosvod-2011-3.html",
+      "image": "assets/source/book-covers/1a605b2525ba29afd125a6.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7864d7fbe42ad4c0f0",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2011 №4)",
+      "description": "",
+      "url": "https://cosmatica.org/library/314-nebosvod-2011-4.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/e/nebosvod-2011-4-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ff109311b4c5a152e5",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2011 №5)",
+      "description": "",
+      "url": "https://cosmatica.org/library/313-nebosvod-2011-5.html",
+      "image": "assets/source/book-covers/4d68a4b87e279822d6caae.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ae15dc3a592f04de15",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2011 №6)",
+      "description": "",
+      "url": "https://cosmatica.org/library/312-nebosvod-2011-6.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/6/nebosvod-2011-6-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ec3710d31aa572a319",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2011 №7)",
+      "description": "",
+      "url": "https://cosmatica.org/library/311-nebosvod-2011-7.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/b/nebosvod-2011-7-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=24186ef08f55b35e82",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2011 №8)",
+      "description": "",
+      "url": "https://cosmatica.org/library/310-nebosvod-2011-8.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/9/nebosvod-2011-8-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=fc1401bdd091df87ab",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2011 №9)",
+      "description": "",
+      "url": "https://cosmatica.org/library/309-nebosvod-2011-9.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/1/nebosvod-2011-9-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=559128070a710f244c",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2011 №10)",
+      "description": "",
+      "url": "https://cosmatica.org/library/308-nebosvod-2011-10.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/3/nebosvod-2011-10-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=f80174dd469a0381d2",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2011 №11)",
+      "description": "",
+      "url": "https://cosmatica.org/library/307-nebosvod-2011-11.html",
+      "image": "assets/source/book-covers/24841f46835dc615335f05.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=e3789f7eeda61d677b",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2011 №12)",
+      "description": "",
+      "url": "https://cosmatica.org/library/306-nebosvod-2011-12.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/6/nebosvod-2011-12-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=72027b7b6503042c70",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2012 №1)",
+      "description": "",
+      "url": "https://cosmatica.org/library/305-nebosvod-2012-1.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/8/nebosvod-2012-1-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=15cc7ee78f3c0800da",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2012 №2)",
+      "description": "",
+      "url": "https://cosmatica.org/library/304-nebosvod-2012-2.html",
+      "image": "assets/source/book-covers/94bc065ee5bd30e4403650.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=1449884542b98ed033",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

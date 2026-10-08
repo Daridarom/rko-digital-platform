@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/257-kak-postroit-teleskop-2001.html",
+  "title": "Как построить телескоп (2001)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/8/kak-postroit-teleskop-2001-photo-normal.png",
+      "alt": "Как построить телескоп (2001)"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Добсон Дж.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 7 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1990/5d1243a7487205207750333aa5b7859d"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/8/kak-postroit-teleskop-2001-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1990/5d1243a7487205207750333aa5b7859d"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 66,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 38968
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 36,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "03ba50057e0209c06a9afedc854feded02ebe8044376d4928cd79679cc5f3946",
+  "archiveSnapshotAt": "2026-10-08T08:48:17Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 119,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Величие России",
+      "description": "12 апреля 1961 года человек впервые поднялся в космос, положив начало эре освоения неведомого доселе пространства.",
+      "url": "https://cosmatica.org/news/277-velichie-rossii.html",
+      "image": "https://cosmatica.org/upload/000/u7/fb/44/velichie-rossii-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5050b67a28bb0e50ec",
+      "type": "news-item",
+      "sourceCharacters": 993,
+      "verified": false
+    },
+    {
+      "title": "Международная конференция \"Космос и будущее. Философские аспекты\"",
+      "description": "По замыслу инициаторов, она продлится 3 месяца и в итоге будет представлять из себя совокупность тематических материалов, объединённых в рамках единого Интернет-пространства - специально создаваемого для этих целей сайта.",
+      "url": "https://cosmatica.org/news/275-mezhdunarodnaja-konferencija-kosmos-i-buduschee-filosofskie-aspekty.html",
+      "image": "https://cosmatica.org/upload/000/u7/e8/68/mezhdunarodnaja-konferencija-kosmos-i-buduschee-filosofskie-aspekty.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4290f82bcab61e43c5",
+      "type": "news-item",
+      "sourceCharacters": 3926,
+      "verified": false
+    },
+    {
+      "title": "Гагаринские уроки для школьников",
+      "description": "19 декабря 2018г. сводный отряд \"Космического десанта\" Русского Космического Общества совершил первую высадку в рамках работы Гагаринского комитета.",
+      "url": "https://cosmatica.org/news/278-gagarinskie-uroki-dlja-shkolnikov.html",
+      "image": "https://cosmatica.org/upload/000/u21/ee/46/gagarinskie-uroki-dlja-shkolnikov-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=44f7c3960ccd64a563",
+      "type": "news-item",
+      "sourceCharacters": 2263,
+      "verified": false
+    },
+    {
+      "title": "Заседание орг комитета в Звёздном городке",
+      "description": "На собрании участники рассказали о предстоящей серии мероприятий, посвященных празднованию 85-летия Ю.А. Гагарина, которое состоится 9 марта 2019 года.",
+      "url": "https://cosmatica.org/news/274-zasedanie-org-komiteta-v-zvyozdnom-gorodke.html",
+      "image": "https://cosmatica.org/upload/000/u7/3f/b4/zasedanie-org-komiteta-v-zvyozdnom-gorodke-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=63f16069f13d0829bb",
+      "type": "news-item",
+      "sourceCharacters": 3803,
+      "verified": false
+    },
+    {
+      "title": "Выявлен \"Талант, согревающий добром\" мечту о Космосе",
+      "description": "Продолжается обсуждение развития творческого потенциала молодёжи России в рамках реализации государственной программы Десятилетия детства. На эту тему 11 декабря 2018 года в Доме общественных организаций города Москвы состоялся круглый стол, участником которого стал член Президиума Русского Космического Общества Степан Андреевич Зотов.",
+      "url": "https://cosmatica.org/news/273-proshyol-kruglyi-stol-po-razvitiyu-tvorcheskogo-potenciala-molodyozhi.html",
+      "image": "https://cosmatica.org/upload/000/u8/9e/7a/0cca4bcf.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3cdc3f3ff181e503ad",
+      "type": "news-item",
+      "sourceCharacters": 5121,
+      "verified": false
+    },
+    {
+      "title": "\"Я почувствовал в себе вестника нового мира\"",
+      "description": "Представляем вашему вниманию красиво рассказанную историю о нежном и хрупком совершенстве природных форм, цвета, ароматов и звуков цветущей крымской весны, о божественном единстве жизни во всех её проявлениях, об эволюционном, созидающем потоке, об источнике творческой мысли и душевных сил.",
+      "url": "https://cosmatica.org/news/272-ja-pochuvstvoval-v-sebe-vestnika-novogo-mira.html",
+      "image": "https://cosmatica.org/upload/000/u42/53/92/ja-pochuvstvoval-v-sebe-vestnika-novogo-mira-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=21f5823654f6745b33",
+      "type": "news-item",
+      "sourceCharacters": 978,
+      "verified": false
+    },
+    {
+      "title": "Избран новый Президент МОО \"Русское космическое общество\"",
+      "description": "В голосовании приняло участие: 74 человека – 61% от общего числа членов Общества, имеющих право голоса (минимальный порог, установленный Уставом , п. 4.1. – 50%).",
+      "url": "https://cosmatica.org/news/303-izbran-novyi-prezident-moo-russkoe-kosmicheskoe-obschestvo.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/b/izbran-novyi-prezident-moo-russkoe-kosmicheskoe-obschestvo-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5102fd816cfbc2042c",
+      "type": "news-item",
+      "sourceCharacters": 719,
+      "verified": false
+    },
+    {
+      "title": "Новый выпуск цикла передач \"Прорыв!\", герой программы: Маслова Наталия Владимировна",
+      "description": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/270-novyi-vypusk-cikla-peredach-proryv-geroi-programmy-maslova-natalija-vladimirovna.html",
+      "image": "https://cosmatica.org/upload/000/u8/cf/5f/06dbc9a9.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=80e5d4b58528dc62cd",
+      "type": "news-item",
+      "sourceCharacters": 781,
+      "verified": false
+    },
+    {
+      "title": "Гудилинские слушания в Касли",
+      "description": "7 декабря 2018 года, в средней образовательной школе № 24, города Касли Челябинской области, при поддержке Управления образования Администрации Каслинского муниципального района прошло пятое по счету мероприятие по программе «Гудилинских слушаний».",
+      "url": "https://cosmatica.org/news/269-gudilinskie-slushanija-v-kasli.html",
+      "image": "https://cosmatica.org/upload/000/u37/09/1d/gudilinskie-slushanija-v-kasli-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a87c3e6df35dde1632",
+      "type": "news-item",
+      "sourceCharacters": 6058,
+      "verified": false
+    },
+    {
+      "title": "Новый рывок в Ноосферное будущее!",
+      "description": "«Ноосферное образование как механизм становления Ноосферной России в XXI веке»",
+      "url": "https://cosmatica.org/news/271-novyi-ryvok-v-noosfernoe-buduschee.html",
+      "image": "https://cosmatica.org/upload/000/u21/5a/77/novyi-ryvok-v-noosfernoe-buduschee-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bf1a9d75d46f38600c",
+      "type": "news-item",
+      "sourceCharacters": 3775,
+      "verified": false
+    },
+    {
+      "title": "Мастер-класс от Звездного маэстро",
+      "description": "Дорогие друзья! Представляем вашему вниманию мастер-класс Звездного маэстро Леонида Тимошенко.",
+      "url": "https://cosmatica.org/news/268-master-klass-ot-zvezdnogo-maestro.html",
+      "image": "https://cosmatica.org/upload/000/u21/58/ad/master-klass-ot-zvezdnogo-maestro-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=23c58b361e5a2f5d2e",
+      "type": "news-item",
+      "sourceCharacters": 1907,
+      "verified": false
+    },
+    {
+      "title": "Вторая ежегодная всероссийская встреча международного института космического права",
+      "description": "07.12.2018 на базе Российского университета дружбы народов прошла вторая ежегодная всероссийская встреча международного института космического права.",
+      "url": "https://cosmatica.org/news/267-vtoraja-ezhegodnaja-vserossiiskaja-vstrecha-mezhdunarodnogo-instituta-kosmicheskogo-prava.html",
+      "image": "https://cosmatica.org/upload/000/u7/c3/21/vtoraja-ezhegodnaja-vserossiiskaja-vstrecha-mezhdunarodnogo-instituta.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4f356bf83a16f3216c",
+      "type": "news-item",
+      "sourceCharacters": 3712,
+      "verified": false
+    },
+    {
+      "title": "Дневник разработки пополнился новой записью",
+      "description": "Сейчас наибольшие усилия сосредоточены на квестовом движке, и мы постепенно продвигаемся к цели – созданию первой сборки с полноценным геймплеем. Над квестовым движком работают все программисты проекта. Так что постепенно мы приближаемся к запуску новой кампании на Boomstarter. Те, кто поддержал нас в прошлом, получат доступ к тестированию.",
+      "url": "https://cosmatica.org/news/266-dnevnik-razrabotok-popolnilsja-novoi-zapisyu.html",
+      "image": "https://cosmatica.org/upload/000/u8/61/e1/8f982aad.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=28e36f4c3ef7a70c6b",
+      "type": "news-item",
+      "sourceCharacters": 1256,
+      "verified": false
+    },
+    {
+      "title": "Памяти Бориса Евгеньевича Большакова: \"На бессмертие учителя\"",
+      "description": "17 ноября 2018 года ушёл в вечность не только Президент Русского Космического Общества, доктор технических наук, профессор, действительный член Российской академии естественных наук (РАЕН), руководитель Международной научной школы устойчивого развития имени П.Г. Кузнецова, заведующий кафедрой устойчивого инновационного развития Государственного университета «Дубна», не только блестящий учёный, творец, учитель, друг, ",
+      "url": "https://cosmatica.org/news/264-pamjati-borisa-evgenevicha-bolshakova-na-bessmertie-uchitelja.html",
+      "image": "https://cosmatica.org/upload/000/u26/76/9b/12ff27a8.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=815d090d6555a72c7e",
+      "type": "news-item",
+      "sourceCharacters": 943,
+      "verified": false
+    },
+    {
+      "title": "\"Энергия-Буран\" в Верхнем Уфалее",
+      "description": "По приглашению руководителя Головного Сетевого Координационного центра программы «Шаг в будущее» Эдуарда Михайловича Красавина, Председатель Челябинского отделения «Русского Космического Общества» Антон Владимирович Бессонов 1 декабря 2018 года приехал в административный центр Верхнеуфалейского городского округа – старинный уральский город Верхний Уфалей.",
+      "url": "https://cosmatica.org/news/263-energija-buran-v-verhnem-ufalee.html",
+      "image": "https://cosmatica.org/upload/000/u37/22/94/energija-buran-v-verhnem-ufalee-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6936cecafcb57354e7",
+      "type": "news-item",
+      "sourceCharacters": 7672,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

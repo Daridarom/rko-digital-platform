@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/450-kosmos-i-civilizacija-proshloe-nastojaschee-buduschee.html",
+  "title": "Космос и цивилизация: прошлое, настоящее, будущее",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/d/7/kosmos-i-civilizacija-proshloe-nastojaschee-buduschee-photo-normal.jpg",
+      "alt": "Космос и цивилизация: прошлое, настоящее, будущее"
+    },
+    {
+      "type": "paragraph",
+      "text": "Материалы I международной научно-практической on-line конференции \"Космос и цивилизация: прошлое, настоящее, будущее\"\r\nДонецк: ГОУВПО «ДОННТУ», 10 апреля и 11 и 15 мая 2020 г.",
+      "spans": [
+        {
+          "text": "Материалы I международной научно-практической on-line конференции \"Космос и цивилизация: прошлое, настоящее, будущее\"\r\nДонецк: ГОУВПО «ДОННТУ», 10 апреля и 11 и 15 мая 2020 г."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Коллективная монография",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Материалы I международной научно-практической on-line конференции \"Космос и цивилизация: прошлое, настоящее, будущее\" Донецк: ГОУВПО «ДОННТУ», 10 апреля и 11 и 15 мая 2020 г.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 10 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2873/a573557079d86f256e92d2cb1562385c"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/d/7/kosmos-i-civilizacija-proshloe-nastojaschee-buduschee-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2873/a573557079d86f256e92d2cb1562385c"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 275,
+    "storedTextCharacters": 175,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39932
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 225,
+  "capturedBodyCharacters": 175,
+  "sourceTextSHA256": "ccc978917f056dbecb3408a7872ea3848bd9fbb4c807f057811a916927100ab7",
+  "archiveSnapshotAt": "2026-10-08T08:50:22Z"
+}

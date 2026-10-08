@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "library",
+  "title": "Библиотека",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 32,
+  "pageCount": 34,
+  "total": 510,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Диалектический метод К. Маркса — теоретическая основа разработки и применения систем «СПУТНИК-СКАЛАР",
+      "description": "Рассматриваются теоретические предпосылки, лежащие в основе разработки и применения систем «СПУТНИК-СКАЛАР».",
+      "url": "https://cosmatica.org/library/33-dialekticheskii-metod-k-marksa-teoreticheskaja-osnova-razrabotki-i-primenenija-sistem-sputnik-ska.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=100b65778052ccaeba",
+      "type": "book",
+      "sourceCharacters": 129,
+      "verified": false
+    },
+    {
+      "title": "Спинорный метод решения систем нелинейных алгебраических уравнений",
+      "description": "решения систем нелинейных алгебраических уравнений состоит из двух этапов: предварительного, дающего расположение корней, и дальнейшего уточнения корней.",
+      "url": "https://cosmatica.org/library/32-spinornyi-metod-reshenija-sistem-nelineinyh-algebraicheskih-uravnenii.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=ffba89e33fcaf8cbfd",
+      "type": "book",
+      "sourceCharacters": 186,
+      "verified": false
+    },
+    {
+      "title": "Происхождение жизни и второй закон термодинамики",
+      "description": "происхождения органической жизни из неживой природы относится к числу тех научных проблем, которые требуют нового научного вооружения.",
+      "url": "https://cosmatica.org/library/31-proishozhdenie-zhizni-i-vtoroi-zakon-termodinamiki.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=09e240ca8ff9f23bbf",
+      "type": "book",
+      "sourceCharacters": 164,
+      "verified": false
+    },
+    {
+      "title": "О множественности геометрий и множественности физик",
+      "description": "Современная наука, включая физику, представляет собой «развивающийся организм», в рамках которого все",
+      "url": "https://cosmatica.org/library/30-o-mnozhestvennosti-geometrii-i-mnozhestvennosti-fizik.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=f2624369254aed3e1a",
+      "type": "book",
+      "sourceCharacters": 203,
+      "verified": false
+    },
+    {
+      "title": "Тензорный анализ сетей Г. Крона и его роль в проектировании систем",
+      "description": "Предисловие редакторов перевода. С именем известного американского инженера и ученого Габриэля Крона связаны едва ли не самые острые научные споры и дискуссии нашего века.",
+      "url": "https://cosmatica.org/library/29-tenzornyi-analiz-setei-g-krona-i-ego-rol-v-proektirovanii-sistem.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=58608e0bc51107625b",
+      "type": "book",
+      "sourceCharacters": 192,
+      "verified": false
+    },
+    {
+      "title": "Искусственный интеллект и разум человеческой популяции",
+      "description": "Эвристическое программирование, эвристические решения, машинное распознавание образов, машинное моделирование интеллектуальной деятельности, программа общего решателя проблем, общая",
+      "url": "https://cosmatica.org/library/28-iskusstvennyi-intellekt-i-razum-chelovecheskoi-populjacii.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=72ee5034d547f735d2",
+      "type": "book",
+      "sourceCharacters": 308,
+      "verified": false
+    },
+    {
+      "title": "Универсальный язык для формального описания физических законов",
+      "description": "Эффективность средств массовой коммуникации тем выше, чем более унифицированы и чем более однозначно интерпретируемы понятия, которые представлены знаками систем массовой коммуникации»",
+      "url": "https://cosmatica.org/library/27-universalnyi-jazyk-dlja-formalnogo-opisanija-fizicheskih-zakonov.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=a307c7320be04508a0",
+      "type": "book",
+      "sourceCharacters": 205,
+      "verified": false
+    },
+    {
+      "title": "Некоторые вопросы управления научно-техническим прогрессом",
+      "description": "Об оптимальном использовании научно-технических средств путем совершенствования системы управления.",
+      "url": "https://cosmatica.org/library/26-nekotorye-voprosy-upravlenija-nauchno-tehnicheskim-progressom.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=637e3ea65a5327b333",
+      "type": "book",
+      "sourceCharacters": 120,
+      "verified": false
+    },
+    {
+      "title": "Сила в механике и обобщенные силы термодинамики необратимых процессов",
+      "description": "На основании опыта повседневной жизни человек обнаружил, что причина, обуславливающая изменения положения тел в пространстве или их формы, связана с деятельностью самого человека.",
+      "url": "https://cosmatica.org/library/25-sila-v-mehanike-i-obobschennye-sily-termodinamiki-neobratimyh-processov.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=c24a79f4f4ba2ae933",
+      "type": "book",
+      "sourceCharacters": 200,
+      "verified": false
+    },
+    {
+      "title": "Термодинамические аспекты труда как отношения человека к природе",
+      "description": "Целью данной статьи является энергетический анализ трудовой деятельности людей и роли этой деятельности во взаимодействии человека с природой.",
+      "url": "https://cosmatica.org/library/24-termodinamicheskie-aspekty-truda-kak-otnoshenija-cheloveka-k-prirode.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=10ae1b62952eec7651",
+      "type": "book",
+      "sourceCharacters": 163,
+      "verified": false
+    },
+    {
+      "title": "Некоторые проблемы квантовой биологии и вопросы передачи информации в биологических системах",
+      "description": "Приведены теоретические предпосылки возможной передачи информации в биологических системах с помощью квантовых потоков. С помощью счетчика фотонов зарегистрировано сверхслабое свечение крови и нерва. Показано влияние одной тканевой культуры на",
+      "url": "https://cosmatica.org/library/23-nekotorye-problemy-kvantovoi-biologii-i-voprosy-peredachi-informacii-v-biologicheskih-sistemah.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=188cfa636daf0aeda2",
+      "type": "book",
+      "sourceCharacters": 394,
+      "verified": false
+    },
+    {
+      "title": "Мировая экономика как большая система, поддающаяся управлению",
+      "description": "Предметом изучения мировой экономики является производство. Эта",
+      "url": "https://cosmatica.org/library/22-mirovaja-ekonomika-kak-bolshaja-sistema-poddayuschajasja-upravleniyu.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=0e1d42b3c48f4521e4",
+      "type": "book",
+      "sourceCharacters": 410,
+      "verified": false
+    },
+    {
+      "title": "Проблема жизни и второй закон термодинамики",
+      "description": "Многочисленные попытки перечислить отличия живого от неживого приводят к указанию свойств, наблюдаемых в живой природе, но не к выделению существ, различия, проявляющегося как противоположность",
+      "url": "https://cosmatica.org/library/21-problema-zhizni-i-vtoroi-zakon-termodinamiki.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=3b37fcb4a9ff4c4d28",
+      "type": "book",
+      "sourceCharacters": 213,
+      "verified": false
+    },
+    {
+      "title": "Противоречие между первым и вторым законами термодинамики",
+      "description": "Неудачные попытки изобретения вечного двигателя привели к установлению одного из фундаментальных законов природы — закона сохранения энергии.",
+      "url": "https://cosmatica.org/library/20-protivorechie-mezhdu-pervym-i-vtorym-zakonami-termodinamiki.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=8456de8c2413093b44",
+      "type": "book",
+      "sourceCharacters": 162,
+      "verified": false
+    },
+    {
+      "title": "Еще раз о втором законе термодинамики и \"тепловой смерти\" Вселенной",
+      "description": "",
+      "url": "https://cosmatica.org/library/19-esche-raz-o-vtorom-zakone-termodinamiki-i-teplovoi-smerti-vselennoi.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=55939a9d189963c800",
+      "type": "book",
+      "sourceCharacters": 51,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

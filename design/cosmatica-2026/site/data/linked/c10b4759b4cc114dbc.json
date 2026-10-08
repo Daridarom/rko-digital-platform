@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1068-innovacionnyi-kurs-vvedenie-v-iskusstvennyi-intellekt-sostojanie-i-perspektivy-razvitija.html",
+  "title": "Инновационный курс: \"Введение в искусственный интеллект: состояние и перспективы развития\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Этический вектор ГРВ-технологий",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "В работе показаны состояние и перспективы развития ИИ и его место в Пути восхождения человечества в Космос.",
+      "spans": [
+        {
+          "text": "В работе показаны  "
+        },
+        {
+          "text": "состояние",
+          "href": "https://cosmatica.org/glossary/44-sostojanie.html"
+        },
+        {
+          "text": " и перспективы развития ИИ и его место в Пути восхождения человечества в Космос. "
+        }
+      ],
+      "links": [
+        {
+          "text": "состояние",
+          "url": "https://cosmatica.org/glossary/44-sostojanie.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Разделы:",
+      "spans": [
+        {
+          "text": "Разделы:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Что общего и что отличает интеллект человека от интеллекта компьютера.",
+      "spans": [
+        {
+          "text": "Что общего и что отличает интеллект человека от интеллекта компьютера."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Как функционирует мозг?",
+      "spans": [
+        {
+          "text": "Как функционирует мозг?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Структура знания. Исторический и онтологический аспект знания.",
+      "spans": [
+        {
+          "text": "Структура знания. Исторический и онтологический аспект знания."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Классификация ИИ.",
+      "spans": [
+        {
+          "text": "Классификация ИИ."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Лабораторные работы по нейронным сетям.",
+      "spans": [
+        {
+          "text": "Лабораторные работы по нейронным сетям."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Состояние и перспективы развития ИИ.",
+      "spans": [
+        {
+          "text": "Состояние и перспективы развития ИИ."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Циклы ИИ.",
+      "spans": [
+        {
+          "text": "Циклы ИИ."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Тупики ИИ и военные приложения.",
+      "spans": [
+        {
+          "text": "Тупики ИИ и военные приложения."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Научные революции и место ИИ в эволюционном процессе.",
+      "spans": [
+        {
+          "text": "Научные революции и место ИИ в эволюционном процессе."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "От цифрового бессмертия до заповеданного.",
+      "spans": [
+        {
+          "text": "От цифрового бессмертия до заповеданного."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "omtOZHKeotk",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=omtOZHKeotk"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В работе показаны состояние и перспективы развития ИИ и его место в Пути восхождения человечества в Космос. Разделы: Что общего и что отличает интеллект человека от интеллекта компьютера. Как функционирует мозг? Структура знания. Исторический и онтологический аспект знания. Классификация ИИ. Лабораторные работы по нейронным сетям. Состояние и перспективы развития ИИ. Циклы ИИ. Тупики ИИ и военные приложения. Научные революции и место ИИ в эволюционном процессе. От цифрового бессмертия до заповеданного.",
+      "links": [
+        {
+          "title": "состояние",
+          "url": "https://cosmatica.org/glossary/44-sostojanie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 726,
+    "storedTextCharacters": 528,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 12,
+    "sourceBytes": 76347
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 602,
+  "capturedBodyCharacters": 528,
+  "sourceTextSHA256": "356e80b3985dbed6496bb369cdbaa87419d461a8012448a443a7fa7d27c0a110",
+  "archiveSnapshotAt": "2026-10-08T08:38:03Z",
+  "publicVideoCount": 1
+}

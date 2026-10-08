@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/250-sorevnovannija-po-bystrym-shahmatam-vii-spartakiady-raketno-kosmicheskoi-otrasli.html",
+  "title": "Соревнованния по быстрым шахматам VII Спартакиады ракетно-космической отрасли #Прорыв к здоровой Жизни",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/6/sorevnovannija-po-bystrym-shahmatam-vii-spartakiady-raketno-kosmich.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Соревнования по быстрым шахматам VII Спартакиады ракетно-космической отрасли в честь дня \"Защитников Отечества\"",
+      "spans": [
+        {
+          "text": "Соревнования по быстрым шахматам VII Спартакиады ракетно-космической отрасли в честь дня \"Защитников Отечества\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ПОЛОЖЕНИЕ",
+      "spans": [
+        {
+          "text": "ПОЛОЖЕНИЕ",
+          "href": "https://cosmatica.org/upload/redactorfiles/14 01 20 Положение по шахматам АНО СК РК.pdf"
+        }
+      ],
+      "links": [
+        {
+          "text": "ПОЛОЖЕНИЕ",
+          "url": "https://cosmatica.org/upload/redactorfiles/14 01 20 Положение по шахматам АНО СК РК.pdf"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "http://anosportcosmos.ru/",
+      "spans": [
+        {
+          "text": "http://anosportcosmos.ru/"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Соревнования по быстрым шахматам VII Спартакиады ракетно-космической отрасли в честь дня \"Защитников Отечества\" ПОЛОЖЕНИЕ http://anosportcosmos.ru/",
+      "links": [
+        {
+          "title": "",
+          "url": "https://cosmatica.org/upload/redactorfiles/14 01 20 Положение по шахматам АНО СК РК.pdf"
+        },
+        {
+          "title": "ПОЛОЖЕНИЕ",
+          "url": "https://cosmatica.org/upload/redactorfiles/14 01 20 Положение по шахматам АНО СК РК.pdf"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/9/6/sorevnovannija-po-bystrym-shahmatam-vii-spartakiady-raketno-kosmich.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 351,
+    "storedTextCharacters": 145,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 38901
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 351,
+  "capturedBodyCharacters": 145,
+  "sourceTextSHA256": "89b288fda2ff88660f7143861f7184f64b5224fcf6fd7ea614c84f9de53e1e79",
+  "archiveSnapshotAt": "2026-10-08T09:15:32Z"
+}

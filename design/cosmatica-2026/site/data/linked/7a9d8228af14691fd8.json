@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/r",
+  "title": "Р",
+  "intro": "",
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Развитие обусловленное эволюционно",
+      "url": "https://cosmatica.org/glossary/195-razvitie-obuslovlennoe-evolyucionno.html",
+      "description": ""
+    },
+    {
+      "title": "Работа",
+      "url": "https://cosmatica.org/glossary/62-rabota.html",
+      "description": ""
+    },
+    {
+      "title": "Размерность математическая",
+      "url": "https://cosmatica.org/glossary/61-razmernost-matematicheskaja.html",
+      "description": ""
+    },
+    {
+      "title": "Размерность физическая",
+      "url": "https://cosmatica.org/glossary/60-razmernost-fizicheskaja.html",
+      "description": ""
+    },
+    {
+      "title": "Реализованная или экономическая возможность",
+      "url": "https://cosmatica.org/glossary/59-realizovannaja-ili-ekonomicheskaja-vozmozhnost.html",
+      "description": ""
+    },
+    {
+      "title": "Реальная возможность",
+      "url": "https://cosmatica.org/glossary/58-realnaja-vozmozhnost.html",
+      "description": ""
+    },
+    {
+      "title": "Развитие",
+      "url": "https://cosmatica.org/glossary/57-razvitie.html",
+      "description": ""
+    },
+    {
+      "title": "Рост",
+      "url": "https://cosmatica.org/glossary/56-rost.html",
+      "description": ""
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 172,
+    "storedTextCharacters": 163,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 37388
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 172,
+  "capturedBodyCharacters": 163,
+  "sourceTextSHA256": "65ad63d12a3a6361062f1275b383cc5f117e897be1e95da045e5421f15607043",
+  "archiveSnapshotAt": "2026-10-08T08:47:28Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 8
+}

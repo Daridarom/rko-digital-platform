@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 292,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Журналист - созидатель будущего",
+      "description": "Запуск широкого движения в журналистике, направленного на освещение событий, явлений, процессов, деятельности и ее результатов, несущих в себе созидательное начало.",
+      "url": "https://cosmatica.org/projects/264",
+      "image": "https://cosmatica.org/upload/000/u35/c/4/zhurnalist-sozidatel-buduschego-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=f903c2d046c5644e74",
+      "type": "project",
+      "sourceCharacters": 14592,
+      "verified": false
+    },
+    {
+      "title": "Международная научная школа устойчивого развития имени П.Г.Кузнецова",
+      "description": "В рамках Международной научной школы устойчивого развития имени П.Г. Кузнецова ( http://побиск.рф ) предложен системный подход к решению ряда важнейших вопросов моделирования развития социально-экономических систем отдельных стран, а также всей глобальной системы экономических отношений.",
+      "url": "https://cosmatica.org/projects/267",
+      "image": "https://cosmatica.org/upload/000/u7/2/e/mezhdunarodnaja-nauchnaja-shkola-ustoichivogo-razvitija-imeni-p-g-kuzn.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=1fd2fa0fc570021ff1",
+      "type": "project",
+      "sourceCharacters": 9368,
+      "verified": false
+    },
+    {
+      "title": "Экореалити \"Соэволюция\"",
+      "description": "В основе квеста лежит концепция целостного развития человека, а в основе концепции лежат законы природы и общие принципы гармоничных взаимоотношений. В разработке концепции участвовали представители научного мира: экологи, психологи, педагоги и т.д. Цель квеста это гармонизация всех системы взаимоотношений в которых участвует человек.",
+      "url": "https://cosmatica.org/projects/269",
+      "image": "https://cosmatica.org/upload/017/u1749/9/2/ekorealiti-soevolyucija-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=a18e226a97182abee8",
+      "type": "project",
+      "sourceCharacters": 4248,
+      "verified": false
+    },
+    {
+      "title": "Сохраняя память: юные Герои Брянщины",
+      "description": "Стихи А. В. Сафронова на музыку С. А. Каца яркий пример того, как ёмко передать образ Партизанской войны из поколения в поколение.",
+      "url": "https://cosmatica.org/projects/273",
+      "image": "https://cosmatica.org/upload/000/u35/4/b/sohranjaja-pamjat-yunye-geroi-brjanschiny-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=c9cd1c024e8dd48fcb",
+      "type": "project",
+      "sourceCharacters": 4833,
+      "verified": false
+    },
+    {
+      "title": "Открытие космической эры. Конкурс",
+      "description": "КОНКУРС ТВОРЧЕСКИХ ИССЛЕДОВАТЕЛЬСКИХ И ПРАКТИКО-ОРИЕНТИРОВАННЫХ ПРОЕКТОВ",
+      "url": "https://cosmatica.org/projects/275",
+      "image": "https://cosmatica.org/upload/000/u35/f/2/047603bd.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=65a88c27441e1edbd4",
+      "type": "project",
+      "sourceCharacters": 9490,
+      "verified": false
+    },
+    {
+      "title": "Империум для детей",
+      "description": "Приглашаем русскоязычных авторов к созданию произведений в рамках конкурса «Империум человека» на тему: «Империум для детей»",
+      "url": "https://cosmatica.org/projects/276",
+      "image": "https://cosmatica.org/upload/002/u218/8/7/imperium-dlja-detei-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=137c131104d5a111da",
+      "type": "project",
+      "sourceCharacters": 3574,
+      "verified": false
+    },
+    {
+      "title": "Школьные ботаны – будущие Ломоносовы",
+      "description": "Творческая концепция проекта «Школьные ботаны – будущие Ломоносовы» заключается в популяризации интеллектуально одаренных школьников, которых зачастую пренебрежительно называют «ботаны», на повышение их социального статуса среди сверстников и педагогов через специально разработанную образовательную систему, основанную на использовании кино. Реализует проект уникальный тандем: Общероссийская Малая академия наук «Интел",
+      "url": "https://cosmatica.org/projects/278",
+      "image": "https://cosmatica.org/upload/002/u218/b/b/shkolnye-botany-buduschie-lomonosovy-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=8228ade45ed88d09b7",
+      "type": "project",
+      "sourceCharacters": 17750,
+      "verified": false
+    },
+    {
+      "title": "Космос - пространство будущего",
+      "description": "Представляем проект создания познавательно-образовательной компьютерной игры — стратегии «Космос –пространство будущего».",
+      "url": "https://cosmatica.org/projects/279",
+      "image": "https://cosmatica.org/upload/000/u35/9/f/kosmos-prostranstvo-buduschego-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=555ad7fcc5abf08a8f",
+      "type": "project",
+      "sourceCharacters": 2508,
+      "verified": false
+    },
+    {
+      "title": "Издание \"Новой книги о воде и почве\"",
+      "description": "Открываем сбор средств на издание «Новой книги о воде и почве» Александра Зверева и приглашаем Вас принять участие в решении актуальной проблемы, стоящей перед жителями нашей страны и всего мира в целом. Речь о глобальной проблеме – нехватке пресной воды, о том, как прекратить её исчезновение и восстановить разрушенные эродированные территории.",
+      "url": "https://cosmatica.org/projects/280",
+      "image": "https://cosmatica.org/upload/000/u35/f/6/izdanie-novoi-knigi-o-vode-i-pochve-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b52c1ed30286b014c4",
+      "type": "project",
+      "sourceCharacters": 5230,
+      "verified": false
+    },
+    {
+      "title": "Миссия Нирма",
+      "description": "",
+      "url": "https://cosmatica.org/projects/286",
+      "image": "https://cosmatica.org/upload/002/u218/a/d/missija-nirma-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b98b37babbb021ee20",
+      "type": "project",
+      "sourceCharacters": 71,
+      "verified": false
+    },
+    {
+      "title": "Всероссийский детский конкурс рисунка «Навстречу звёздам»",
+      "description": "Выставка-конкурс работ учащихся художественных школ, изостудий, кружков, юных художников.",
+      "url": "https://cosmatica.org/projects/288",
+      "image": "https://cosmatica.org/upload/000/u35/d/b/vserossiiskii-detskii-konkurs-risunka-navstrechu-zvyozdam-logo-n.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=cc2aed20b3a4d81b39",
+      "type": "project",
+      "sourceCharacters": 3944,
+      "verified": false
+    },
+    {
+      "title": "Империум: война и мир",
+      "description": "Приглашаем русскоязычных авторов к созданию произведений в рамках конкурса на тему: «Империум: Война и Мир»",
+      "url": "https://cosmatica.org/projects/294",
+      "image": "https://cosmatica.org/upload/000/u35/a/2/00ead258.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=960bf138d7ffe35d76",
+      "type": "project",
+      "sourceCharacters": 1577,
+      "verified": false
+    },
+    {
+      "title": "Межгалактический экотурнир «Звездолёт»",
+      "description": "Межгалактический экотурнир «Звездолёт» приглашает участников!",
+      "url": "https://cosmatica.org/projects/296",
+      "image": "https://cosmatica.org/upload/002/u218/2/5/mezhgalakticheskii-ekoturnir-zvezdolyot-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=51396f7bd8eddec834",
+      "type": "project",
+      "sourceCharacters": 3286,
+      "verified": false
+    },
+    {
+      "title": "Мультсоюз ТриДевятое царство",
+      "description": "Мультсоюз ТриДевятое царство — это команда единомышленников, неравнодушных к воспитанию и образованию наших детей, целеустремлённых, компетентных, требовательных к высокому качеству и уровню своего дела. Взялись с любовью за создание мультфильмов в добрых Советских традициях.",
+      "url": "https://cosmatica.org/projects/297",
+      "image": "https://cosmatica.org/upload/002/u218/8/9/multsoyuz-tridevjatoe-carstvo-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=473204bd96bdfeb33a",
+      "type": "project",
+      "sourceCharacters": 7896,
+      "verified": false
+    },
+    {
+      "title": "Дубрава памяти",
+      "description": "Традиция высаживать деревья в память о выдающихся людях или исторических событиях существует уже очень давно. Эта традиция помогает сохранить культурное наследие.",
+      "url": "https://cosmatica.org/projects/299",
+      "image": "https://cosmatica.org/upload/000/u35/8/6/db38153b.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=6730a40ec763da1f61",
+      "type": "project",
+      "sourceCharacters": 2911,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

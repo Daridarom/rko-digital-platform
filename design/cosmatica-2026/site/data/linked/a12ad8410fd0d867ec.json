@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/144",
+  "title": "Максим Васильевич Евдокимов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/2/2/510e9bca.jpg",
+      "alt": "Максим Васильевич Евдокимов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/c/a/99eeffdb.jpg",
+      "alt": "Максим Васильевич Евдокимов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Фотограф, любитель астрономии.",
+      "spans": [
+        {
+          "text": "Фотограф, любитель астрономии."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Член клуба любителей астрономии «АстроПсков»",
+      "spans": [
+        {
+          "text": "Член клуба любителей астрономии «АстроПсков»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Псковская область",
+      "links": [
+        {
+          "title": "Псковская область",
+          "url": "https://cosmatica.org/departments/2-pskovskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Фотограф, любитель астрономии. Член клуба любителей астрономии «АстроПсков»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/2/2/510e9bca.jpg",
+    "https://cosmatica.org/upload/002/u218/c/a/99eeffdb.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 167,
+    "storedTextCharacters": 107,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35050
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 114,
+  "capturedBodyCharacters": 107,
+  "sourceTextSHA256": "bcd8a5f1f851d6c41f327ec5fc92c8a746af5dd06e05a132e72fc7ddc59819cb",
+  "archiveSnapshotAt": "2026-10-08T09:18:06Z"
+}

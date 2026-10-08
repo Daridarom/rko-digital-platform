@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 127,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Марс отраженный в водах Хопра",
+      "description": "С 22 по 28 июля в Волгоградской области станице Кумылженская проводится 10 юбилейный семинар по рукопашному бою, Казачьему Спасу и военно-прикладной подготовке «ЗОЛОТОЙ ЩИТ».",
+      "url": "https://cosmatica.org/news/153-mars-otrazhennyi-v-vodah-hopra.html",
+      "image": "https://cosmatica.org/upload/000/u26/62/d8/mars-otrazhennyi-v-vodah-hopra-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=837d792565060d2e7c",
+      "type": "news-item",
+      "sourceCharacters": 1840,
+      "verified": false
+    },
+    {
+      "title": "Астрономический форум \"АстроПсков\"",
+      "description": "27 июля при поддержке Русского Космического Общества состоится астрономический форум \"АстроПсков\"",
+      "url": "https://cosmatica.org/news/152-astronomicheskii-forum-astropskov.html",
+      "image": "https://cosmatica.org/upload/000/u21/70/ed/75a80b6b.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=35692f3caf8ee07554",
+      "type": "news-item",
+      "sourceCharacters": 2712,
+      "verified": false
+    },
+    {
+      "title": "От северных морей до просторов Вселенной",
+      "description": "Выпуск доработанной книги о жизни, служебной и творческой деятельности выдающегося военаначальника, испытателя боевой и ракетно-космической техники, учёного, наставника молодых специалистов Гудилина Владимира Евгеньевича приурочен к 80-летию со дня его рождения.",
+      "url": "https://cosmatica.org/news/151-ot-severnyh-morei-do-prostorov-vselennoi.html",
+      "image": "https://cosmatica.org/upload/000/u37/a5/92/b0e845ac.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fd86104230691c5987",
+      "type": "news-item",
+      "sourceCharacters": 1037,
+      "verified": false
+    },
+    {
+      "title": "Встреча Президента России с руководством ГК «Роскосмос»",
+      "description": "Президент России обсудил с руководством Государственной корпорации по космической деятельности «Роскосмос» планы развития ра­кетно-космической отрасли и меры, нап­равленные на повышение эффективности госкорпорации.",
+      "url": "https://cosmatica.org/news/150-vstrecha-prezidenta-rossii-s-rukovodstvom-gk-roskosmos.html",
+      "image": "https://cosmatica.org/upload/000/u7/39/72/vstrecha-prezidenta-rossii-s-rukovodstvom-gk-roskosmos-photo-no.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9036e8574b5ddda060",
+      "type": "news-item",
+      "sourceCharacters": 1114,
+      "verified": false
+    },
+    {
+      "title": "Член Русского Космического Общества, автор уникальных книг - Александр Александрович Пецко",
+      "description": "Александр Александрович - автор и составитель нескольких уникальных книг. Среди них «Календарь русской славы и памяти», где в календарно-хронологическом порядке представлены известные, малоизвестные и практически неизвестные сведения о русской истории, географии, культуре, славных деятелях, быте, нравах. Основная часть содержит в календарном порядке 3650 статей.",
+      "url": "https://cosmatica.org/news/149-chlen-russkogo-kosmicheskogo-obschestvo-avtor-i-sostavitel-unikalnyh-knig-aleksandr-aleksandrovi.html",
+      "image": "https://cosmatica.org/upload/000/u8/3a/19/d410dbe5.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1ef02392b50beb12d0",
+      "type": "news-item",
+      "sourceCharacters": 1863,
+      "verified": false
+    },
+    {
+      "title": "\"Человек - Вселенная\". Космическая антропоэкология в МНИИКА",
+      "description": "\"MAN - UNIVERSE\" CONSTITUENT CONFERENCE OF SECTION COSMIC ANTHROPOECOLOGY OF RUSSIAN COSMIC SOCIETY ON THE BASE OF ISRICA IN NOVOSIBIRSK ON JULY,17 - DAY OF 94 th ANNIVERSARY OF ACADEMICIAN VLAIL P,KAZNACHEEV",
+      "url": "https://cosmatica.org/news/147-chelovek-vselennaja-kosmicheskaja-antropoekologija-v-mniika.html",
+      "image": "https://cosmatica.org/upload/000/u30/ef/ef/38e3cfcb.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bc56a32c0ec0181288",
+      "type": "news-item",
+      "sourceCharacters": 1134,
+      "verified": false
+    },
+    {
+      "title": "Орешек по зубам опытным Звездочётам",
+      "description": "14 и 15 июля в крепости Орешек состоялся фестиваль «Страж в истоке Невы».",
+      "url": "https://cosmatica.org/news/146-oreshek-po-zubam-opytnym-zvezdochyotam.html",
+      "image": "https://cosmatica.org/upload/000/u21/6b/5b/oreshek-okazalsja-po-zubam-opytnym-zvezdochyotam-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=51751231eb4c081886",
+      "type": "news-item",
+      "sourceCharacters": 1184,
+      "verified": false
+    },
+    {
+      "title": "Юный инженер, мы ищем тебя!",
+      "description": "Лето – отличное время для реализации мечты. Отправиться в космос – дело небыстрое, но есть шанс принять участие в НАСТОЯЩИХ космических разработках. Вы слышали про «Сириус», про всевозможные астрофизические школы и кружки. Они есть и отлично работают, но не всем удаётся туда попасть.",
+      "url": "https://cosmatica.org/news/145-yunyi-inzhener-my-ischem-tebja.html",
+      "image": "https://cosmatica.org/upload/000/u26/47/5a/7b505986.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6faa0882d43f2964c5",
+      "type": "news-item",
+      "sourceCharacters": 990,
+      "verified": false
+    },
+    {
+      "title": "Накануне противостояния Марса",
+      "description": "22-28 июля состоится 10 ЮБИЛЕЙНЫЙ семинар по рукопашному бою, Казачьему Спасу и военно-прикладной подготовке «ЗОЛОТОЙ ЩИТ»",
+      "url": "https://cosmatica.org/news/144-nakanune-protivostojanija-marsa.html",
+      "image": "https://cosmatica.org/upload/000/u26/c6/db/f902687f.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=21da4f78487bf96e36",
+      "type": "news-item",
+      "sourceCharacters": 1852,
+      "verified": false
+    },
+    {
+      "title": "Поздравляем с юбилеем Геннадия Ивановича Тищенко!",
+      "description": "Геннадий Иванович Тищенко — советский и российский мультипликатор, режиссёр, художник и сценарист. Родился в Баку в 1948 году. В юности на него оказали большое влияние книги Константина Циолковского и Ивана Ефремова: «Именно книги Циолковского и Ефремова сформировали во мне веру в то, что лишь исследование и освоение Вселенной гарантирует гармоничное развитие земного общества и бессмертие человечества». В шестидесяты",
+      "url": "https://cosmatica.org/news/148-pozdravljaem-s-yubileem.html",
+      "image": "https://cosmatica.org/upload/000/u8/f5/22/pozdravljaem-s-yubileem-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=93f2093a384b965958",
+      "type": "news-item",
+      "sourceCharacters": 2775,
+      "verified": false
+    },
+    {
+      "title": "Высадка прошла успешно!",
+      "description": "Программа была реализована полностью. Ребята познакомились с новейшими теориями космических путешествий, и даже с практикой ракетостроения и запусков.",
+      "url": "https://cosmatica.org/news/143-vysadka-proshla-uspeshno.html",
+      "image": "https://cosmatica.org/upload/000/u26/31/c4/vysadka-proshla-uspeshno-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=74268e72ad10037e2a",
+      "type": "news-item",
+      "sourceCharacters": 805,
+      "verified": false
+    },
+    {
+      "title": "Вышел новый выпуск газеты (июнь, 2018)",
+      "description": "Рады сообщить, что долгожданный июньский выпуск газеты \"Природа - Общество - Человек: Ноосферное устойчивое развитие \" №10 покинул типографию и распространяется в головном офисе Русского Космического Общества по адресу: г. Москва, Ленинградский проспект, д. 7/1, оф. 20 и по подписке на территории России.",
+      "url": "https://cosmatica.org/news/141-vyshel-novyi-vypusk-gazety-iyun-2018.html",
+      "image": "https://cosmatica.org/upload/000/u26/15/b4/ab1e810f.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1dd5345bcd3960db1a",
+      "type": "news-item",
+      "sourceCharacters": 1278,
+      "verified": false
+    },
+    {
+      "title": "О Космическом Женском Послании",
+      "description": "Планета Земля – источник жизни для всех живых существ, проживающих на ней. Она их мать и хранительница. Она — надёжная защита биосферы и человечества от угроз и опасностей, которые таит в себе бескрайний Космос.",
+      "url": "https://cosmatica.org/news/140-o-kosmicheskom-zhenskom-poslanii.html",
+      "image": "https://cosmatica.org/upload/000/u8/58/f4/af659952.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8a5fa5987ba62554e0",
+      "type": "news-item",
+      "sourceCharacters": 2594,
+      "verified": false
+    },
+    {
+      "title": "Проблема безопасного развития жизни на основе общих законов природы",
+      "description": "Закон развития, выраженный в понятиях той или иной предметной области, является проекцией общего закона в частную систему координат. Если в качестве системы координат рассматривается исторический процесс развития Человечества, то закон этого процесса является проекцией общего закона развития Жизнь как космопланетарного процесса.",
+      "url": "https://cosmatica.org/news/138-problema-bezopasnogo-razvitija-zhizni-na-osnove-obschih-zakonov-prirody.html",
+      "image": "https://cosmatica.org/upload/000/u8/73/cd/problema-bezopasnogo-razvitija-zhizni-na-osnove-obschih-zakonov-prir.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=825f8415874554b97f",
+      "type": "news-item",
+      "sourceCharacters": 1234,
+      "verified": false
+    },
+    {
+      "title": "Член Русского Космического Общества — человек-легенда Чуков Владимир Семёнович",
+      "description": "Перечесть все свершения Владимира Семёновича практически невозможно. За свои 72 года, он сделал немало. Вот лишь некоторые, основные вехи его жизненного пути.",
+      "url": "https://cosmatica.org/news/137-chlen-russkogo-kosmicheskogo-obschestva-chelovek-legenda-chukov-vladimir-semyonovich.html",
+      "image": "https://cosmatica.org/upload/000/u8/51/f9/chlen-russkogo-kosmicheskogo-obschestva-chelovek-legenda-chukov-vlad.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5719ad803e172d3e67",
+      "type": "news-item",
+      "sourceCharacters": 5152,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

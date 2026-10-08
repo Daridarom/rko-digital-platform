@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "projects",
+  "title": "Проекты",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 2,
+  "pageCount": 20,
+  "total": 290,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Русские спарринги",
+      "description": "Социальный проект по оздоровлению нации «Русские спарринги» направлен на развитие массового спорта, формирование трезвого образа жизни и традиционных семейных ценностей, военно‑патриотическое воспитание и поддержку ветеранов СВО на базе регулярных тренировок, культурно‑просветительских мероприятий и оздоровительных программ.",
+      "url": "https://cosmatica.org/projects/335",
+      "image": "https://cosmatica.org/upload/003/u318/4/f/russkie-sparringi-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=8ea5ea99f3c2434f1b",
+      "type": "project",
+      "sourceCharacters": 3959,
+      "verified": false
+    },
+    {
+      "title": "Конкурс \"Тайна маленького принца\"",
+      "description": "Посвящается 125-летию Антуана де Сент-Экзюпери",
+      "url": "https://cosmatica.org/projects/334",
+      "image": "https://cosmatica.org/upload/002/u218/f/8/konkurs-taina-malenkogo-princa-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=f8f36ea581066d3ffa",
+      "type": "project",
+      "sourceCharacters": 4849,
+      "verified": false
+    },
+    {
+      "title": "\"Живая Буквица\" онлайн-конкурс",
+      "description": "Просвещение в области культурных взаимосвязей славянских народов",
+      "url": "https://cosmatica.org/projects/333",
+      "image": "https://cosmatica.org/upload/017/u1749/8/4/zhivaja-bukvica-onlain-konkurs-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=f3c8ea452cf9ff20ed",
+      "type": "project",
+      "sourceCharacters": 3106,
+      "verified": false
+    },
+    {
+      "title": "Космоноосфера",
+      "description": "Миссия: Космоноосферное развитие Жизни путём формирования КосмоНооосфер NBICS.NET во всех пространственно — временных масштабах Вселенной.",
+      "url": "https://cosmatica.org/projects/332",
+      "image": "https://cosmatica.org/upload/002/u218/2/6/kosmonoosfera-nbics-net-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=bb9a903a11784e12c8",
+      "type": "project",
+      "sourceCharacters": 1982,
+      "verified": false
+    },
+    {
+      "title": "ИСКРА",
+      "description": "Научно-исследовательская смена «Искра» в формате палаточных сборов на природной территории.",
+      "url": "https://cosmatica.org/projects/331",
+      "image": "https://cosmatica.org/upload/017/u1749/8/2/iskra-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=dc9b29584ce521c653",
+      "type": "project",
+      "sourceCharacters": 5134,
+      "verified": false
+    },
+    {
+      "title": "Курская битва за будущее",
+      "description": "6 августа 2024 года враг вторгся на территорию Курской области. Множество разрушений, горя и потерь принесло это вторжение. Наши войска героически бьются за родную землю. Но против нас стоит не только и не столько ВСУ. Против нас воюет НАТО. Силы и средства, которыми располагает противник на данном участке театра военных действий серьёзен. Несмотря на успехи нашей армии, момент, когда враг будет полностью выбит из Ку",
+      "url": "https://cosmatica.org/projects/kurskaya-bitva-za-budushchee",
+      "image": "https://cosmatica.org/upload/002/u218/b/e/kurskaja-bitva-za-buduschee-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=9df5b76991a8dd063b",
+      "type": "project",
+      "sourceCharacters": 5270,
+      "verified": false
+    },
+    {
+      "title": "Школа вожатского мастерства",
+      "description": "Вожатый — это тот, кто становится для детей другом, наставником и проводником в мир открытий. Он создаёт атмосферу доверия и дружбы, где каждый ребенок чувствует себя важным и ценным.",
+      "url": "https://cosmatica.org/projects/329",
+      "image": "https://cosmatica.org/upload/092/u9295/5/3/shkola-vozhatskogo-masterstva-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=3c6ebb427d3449986e",
+      "type": "project",
+      "sourceCharacters": 1818,
+      "verified": false
+    },
+    {
+      "title": "Первенство по прохождению игры-симулятора космической отрасли «Космос – пространство будущего»",
+      "description": "Первенство по прохождению познавательно-образовательной компьютерной игры-симулятора космической отрасли",
+      "url": "https://cosmatica.org/projects/328",
+      "image": "https://cosmatica.org/upload/002/u218/9/3/5308f1e7.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=259f4748821bfdf4c1",
+      "type": "project",
+      "sourceCharacters": 6580,
+      "verified": false
+    },
+    {
+      "title": "Зачем Человеку Космос – Зачем Космосу Человек",
+      "description": "Региональный научно-исследовательский конкурс и итоговая конференция",
+      "url": "https://cosmatica.org/projects/327",
+      "image": "https://cosmatica.org/upload/002/u218/6/5/zachem-cheloveku-kosmos-zachem-kosmosu-chelovek-logo-normal.jpeg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=901739bfe522aaf7fd",
+      "type": "project",
+      "sourceCharacters": 4822,
+      "verified": false
+    },
+    {
+      "title": "Звёздный журнал",
+      "description": "Школьно-подростковый «Звёздный журнал» — это площадка в социальных сетях (ВК, ТГ-канал), где публикуются познавательные и информационные материалы, проводятся различные активности.",
+      "url": "https://cosmatica.org/projects/326",
+      "image": "https://cosmatica.org/upload/017/u1749/9/8/zvyozdnyi-zhurnal-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=a50e87d6a157d6a1d3",
+      "type": "project",
+      "sourceCharacters": 6377,
+      "verified": false
+    },
+    {
+      "title": "Дядя Яша поможет",
+      "description": "В основе сильной и процветающей России лежит крепкая семья, способная воспитать здоровое и ответственное поколение.",
+      "url": "https://cosmatica.org/projects/324",
+      "image": "https://cosmatica.org/upload/002/u218/7/1/djadja-jasha-pomozhet-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=45192e3019be1298df",
+      "type": "project",
+      "sourceCharacters": 3667,
+      "verified": false
+    },
+    {
+      "title": "Переиздание Ключевых книг РКО",
+      "description": "Приглашаем проявить Целеустремлённость и Волю и внести часть своей жизненной энергии в очередное издание книг Русского Космического Общества.",
+      "url": "https://cosmatica.org/projects/323",
+      "image": "https://cosmatica.org/upload/002/u218/6/c/pereizdanie-knig-zotova-s-a-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=90b9b87dd573e3c887",
+      "type": "project",
+      "sourceCharacters": 3112,
+      "verified": false
+    },
+    {
+      "title": "III международная конференция «Природоподобные / природосообразные технологии и наше будущее»",
+      "description": "В соответствии со вступившим в действие Указом Президента РФ об утверждении «Стратегии научно-технологического развития Российской Федерации» № 145 от 28 февраля 2024 г. мы разрабатываем программу этой конференции.",
+      "url": "https://cosmatica.org/projects/322",
+      "image": "https://cosmatica.org/upload/000/u7/0/b/eb52eac4.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=36133a7dcd999256ab",
+      "type": "project",
+      "sourceCharacters": 3908,
+      "verified": false
+    },
+    {
+      "title": "Сталинград - символ Победы! Конкурс рисунка",
+      "description": "В преддверии 80-летнего юбилея Великой Победы над немецко-фашистским захватчиком Союз Народного Сплочения проводит всероссийский конкурс детского рисунка «Сталинград – символ Победы!» (далее Конкурс).",
+      "url": "https://cosmatica.org/projects/321",
+      "image": "https://cosmatica.org/upload/002/u218/e/6/stalingrad-simvol-pobedy-logo-normal.png",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b693219f2874d63481",
+      "type": "project",
+      "sourceCharacters": 7501,
+      "verified": false
+    },
+    {
+      "title": "Ноосферное образование — педагогическая система XXI века",
+      "description": "Термин «ноосфера» привнёс в русский язык и науку В.И. Вернадский в 30-е гг. XX века. Он понимал под ним сферу взаимодействия общества и природы, где разумная человеческая деятельность становится определяющим фактором. Само название произошло от др.-греч. νοῦς «разум» и σφαῖρα «шар», что в дословном переводе означает «сфера разума». На протяжении более 60 лет идеи о ноосфере не принимались и фактически были забыты. В ",
+      "url": "https://cosmatica.org/projects/nooobraz",
+      "image": "https://cosmatica.org/upload/000/u7/5/f/noosfernoe-obrazovanie-pedagogicheskaja-sistema-xxi-veka-logo-n.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=62253f14a0e7c47c98",
+      "type": "project",
+      "sourceCharacters": 10881,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

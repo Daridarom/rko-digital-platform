@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/227-shema-kosmodroma.html",
+  "title": "Схема космодрома",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/19/bd/scheme.jpg",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/19/bd/scheme.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 105,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 74442
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 88,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "185e249ed26c00956dc6f40cddcefb58ce3175c5647b7c566de235b1fffbc096",
+  "archiveSnapshotAt": "2026-10-08T08:39:46Z"
+}

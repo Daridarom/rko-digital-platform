@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 189,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Анапское отделение РКО передаёт память юным соотечественникам",
+      "description": "Надежда Алексеевна Карпенко и А нна Михайловна Буйная в детском саду №34 провели тематическое мероприятие \"Война глазами детей\", а учащимся школы №23 прочитали лекцию \"Партизанское движение в Анапе. Подвиг Кати Соловьяновой\".",
+      "url": "https://cosmatica.org/news/307-anapskoe-otdelenie-russkogo-kosmicheskogo-obschestvo-peredayot-pamjat-yunym-sootechestvennikam.html",
+      "image": "https://cosmatica.org/upload/001/u152/da/89/anapskoe-otdelenie-russkogo-kosmicheskogo-obschestvo-peredayot-pamjat.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e8fa9199b85176aa50",
+      "type": "news-item",
+      "sourceCharacters": 2015,
+      "verified": false
+    },
+    {
+      "title": "Научно-космический лагерь ВКО #Великая Космическая Одиссея",
+      "description": "Научно-космический детский лагерь \"Храброе сердце\" отправляется в Великую Космическую Одиссею!",
+      "url": "https://cosmatica.org/poster/307-nauchno-kosmicheskii-lager-vko.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/8/nauchno-kosmicheskii-lager-vko-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=2d8fb48ead938e7b06",
+      "type": "poster-item",
+      "sourceCharacters": 3182,
+      "verified": false
+    },
+    {
+      "title": "Выход на \"Орбиту молодежи\"",
+      "description": "В городе Красноярске, 24- 28 сентября 2018 года, проводится важное событие для молодёжной среды аэроокосмической отрасли.",
+      "url": "https://cosmatica.org/articles/306-vyhod-na-orbitu-molodezhi.html",
+      "image": "https://cosmatica.org/upload/000/u26/bd/4c/14october.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=487258b52dd9114f37",
+      "type": "article",
+      "sourceCharacters": 1154,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2011 №12)",
+      "description": "",
+      "url": "https://cosmatica.org/library/306-nebosvod-2011-12.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/6/nebosvod-2011-12-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=72027b7b6503042c70",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Прорыв Русского Космического Общества на благо мира",
+      "description": "Сегодня, в условиях информационной замусоренности и навязывания нам чуждых ценностей и идеалов, мы с полной ответственностью должны сказать своё веское слово. Тем более, нам есть, что сказать.",
+      "url": "https://cosmatica.org/news/306-proryv-russkogo-kosmicheskogo-obschestva-na-blago-mira.html",
+      "image": "https://cosmatica.org/upload/000/u35/c5/12/proryv-russkogo-kosmicheskogo-obschestva-na-blago-mira-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=765785297cc167022f",
+      "type": "news-item",
+      "sourceCharacters": 2695,
+      "verified": false
+    },
+    {
+      "title": "Презентация платформы rko.nbics.net #Космоноосферная платформа rko.nbics.net",
+      "description": "Презентацию проводит Меркулов Александр Алексеевич , руководитель ассоциации инновационных предприятий NBICS, председатель Калининградского отделения РКО, кандидат технических наук, директор технопарка КГТУ. Он расскажет о платформе и её наполнении и функционале. Вы узнаете каким образом её можно использовать в вашей повседневной работе, в управлении, образовании и коммуникации. Мы уже неоднократно сообщали, что Русс",
+      "url": "https://cosmatica.org/poster/306-prezentacija-platformy-rko-nbics-net.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/c/prezentacija-platformy-rko-nbics-net-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=ceaf01312284bc10a6",
+      "type": "poster-item",
+      "sourceCharacters": 1571,
+      "verified": false
+    },
+    {
+      "title": "Право руля: рожденные летать",
+      "description": "22 сентября в Санкт-Петербурге началась фестивальная неделя Всероссийского молодежного Форсайт-Фестиваля «Право руля!: Рожденные летать».",
+      "url": "https://cosmatica.org/articles/305-pravo-rulja-rozhdennye-letat.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=8b7651656e22cc1b2a",
+      "type": "article",
+      "sourceCharacters": 8943,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2012 №1)",
+      "description": "",
+      "url": "https://cosmatica.org/library/305-nebosvod-2012-1.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/8/nebosvod-2012-1-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=15cc7ee78f3c0800da",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Первые шаги к постройке Мечталёта сделаны!",
+      "description": "#ПОСТРОЙ_МЕЧТАЛЁТ - конкурс, концепция которого возникла на базе реализуемого в настоящее время проекта компьютерной игры про космос \"Наша Вселенная\" .",
+      "url": "https://cosmatica.org/news/305-pervye-shagi-k-postroike-mechtalyota-sdelany.html",
+      "image": "https://cosmatica.org/upload/000/u26/9e/89/pervye-shagi-k-postroike-mechtalyota-sdelany-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=52f0bdd0b62a9e35c5",
+      "type": "news-item",
+      "sourceCharacters": 3361,
+      "verified": false
+    },
+    {
+      "title": "Снеговские чтения 2020 #Сохраняя память: С.А.Снегов",
+      "description": "«...мы стоим в переломном пункте развития человечества и любой неосторожный шаг может оказаться непоправимым. Но и бездействовать тоже нельзя. Осторожность и смелость - вот что сегодня требуется от всех ».",
+      "url": "https://cosmatica.org/poster/305-snegovskie-chtenija-2020.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/6/snegovskie-chtenija-2020-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=e24caf8c21024d3fd7",
+      "type": "poster-item",
+      "sourceCharacters": 6210,
+      "verified": false
+    },
+    {
+      "title": "Проблемы психологического здоровья",
+      "description": "Коллективная монография Федерального государственного автоном- ного образовательного учреждения высшего образования «Крымский федеральный университет им. В.И. Вернадского» в г. Ялте. 2018г.",
+      "url": "https://cosmatica.org/articles/304-problemy-psihologicheskogo-zdorovja.html",
+      "image": "https://cosmatica.org/upload/000/u26/ab/b8/13october.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=5fa291c0a0f6be7aa9",
+      "type": "article",
+      "sourceCharacters": 3425,
+      "verified": false
+    },
+    {
+      "title": "Небосвод (2012 №2)",
+      "description": "",
+      "url": "https://cosmatica.org/library/304-nebosvod-2012-2.html",
+      "image": "assets/source/book-covers/94bc065ee5bd30e4403650.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=1449884542b98ed033",
+      "type": "book",
+      "sourceCharacters": 32,
+      "verified": false
+    },
+    {
+      "title": "Санкт-Петербург за Жизнь и мир на платене",
+      "description": "29 января в Санкт-Петербург с деловым визитом прибыли Члены Русского Космического Общества и руководители проекта \"Космическое Женское Послание\" - Афанасьева Ольга Фёдоровна и Афанасьев Сергей Глебович.",
+      "url": "https://cosmatica.org/news/304-kosmicheskoe-zhenskoe-poslanie-v-sankt-peterburge.html",
+      "image": "https://cosmatica.org/upload/000/u35/e3/e5/sankt-peterburg-za-zhizn-i-mir-na-platene-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6c682c5689e1492741",
+      "type": "news-item",
+      "sourceCharacters": 6126,
+      "verified": false
+    },
+    {
+      "title": "Гардероб за миллиард: космические скафандры России #Профориентационно-образовательный проект \"МЫ ВЕРИМ В КОСМОС\"",
+      "description": "Космические скафандры — вещь крайне интересная и необычная. Вопреки мнению многих, это не просто одежда для космонавтов, а, по сути, маленький космический корабль, который может спасти жизнь хозяину.",
+      "url": "https://cosmatica.org/poster/304-garderob-za-milliard-kosmicheskie-skafandry-rossii.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/6/0565e589.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=c04167b6afa297d1bd",
+      "type": "poster-item",
+      "sourceCharacters": 1438,
+      "verified": false
+    },
+    {
+      "title": "\"Герои космоса в образах и линиях\"",
+      "description": "Русское Космическое Общество, Арт-объединение «Созвездие видений» Творческого союза профессиональных художников, Выставочный зал «Тушино», Ассоциация музеев космонавтики России(АМКОС) и Фонд поддержки детского технического творчества им Героя Советского Союза летчика-космонавта СССР А.А. Сереброва приглашают вас на открытие персональной художественной выставки художника-графика Иветты Ки (г. Сочи) «ГЕОМЕТРИЯ ОБРАЗА».",
+      "url": "https://cosmatica.org/articles/303-geroi-kosmosa-v-obrazah-i-linijah.html",
+      "image": "https://cosmatica.org/upload/000/u26/de/23/11october.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=3eed0c3d781dc759e9",
+      "type": "article",
+      "sourceCharacters": 3471,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

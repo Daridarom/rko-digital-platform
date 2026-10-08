@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 45,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Время читать: открытый космос",
+      "description": "На фестивале выступили полсотни известных музыкантов, писателей, литературных деятелей, представителей космической отрасли и популяризаторов науки. За выходные фестиваль посетили более 12 тысяч жителей Самары и области.",
+      "url": "https://cosmatica.org/news/1503-vremja-chiat-otkrytyi-kosmos.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/d/vremja-chiat-otkrytyi-kosmos-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4fc5880f1290180ae7",
+      "type": "news-item",
+      "sourceCharacters": 11643,
+      "verified": false
+    },
+    {
+      "title": "Циолковский не вчера - Циолковский завтра",
+      "description": "\"Жить нужно не для себя и не для других, а со всеми и для всех\".",
+      "url": "https://cosmatica.org/news/1502-ciolkovskii-ne-vchera-ciolkovskii-zavtra.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/b/ciolkovskii-ne-vchera-ciolkovskii-zavtra-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3dc5bd279ae5f0f65c",
+      "type": "news-item",
+      "sourceCharacters": 12443,
+      "verified": false
+    },
+    {
+      "title": "Гагаринскому саду быть!",
+      "description": "5 сентября 2022 года члены гагаринского отряда \"Созвездие\" (руководитель Тесёлкина Г.С.) МБОУ \"Троицкая СОШ\" Ижморский МО (Кузбасс) присоединились к Всемирному движению Русского Космического Общества \"Гагаринский сад\" .",
+      "url": "https://cosmatica.org/news/1501-gagarinskomu-sadu-byt.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/f/gagarinskomu-sadu-byt-na-kuzbasskoi-zemle-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=653d32c99d390338f9",
+      "type": "news-item",
+      "sourceCharacters": 1700,
+      "verified": false
+    },
+    {
+      "title": "Сад Победы в г. Лобня",
+      "description": "В начале учебного года отряд юных гагаринцев 3\"А\" класса МБОУ СОШ №9 г. Лобня со своим классным руководителем Мячиной Ларисой Владимировной приняли активное участие в городской акции \"Сад Победы\". Вместе с родителями и младшими братишками и сестрёнками школьники посадили яблоню \"Роялти\" в честь Никиты Перфилова - соотечественника и выпускника своей школы, старшего лейтенанта Воздушно-Космических Сил России, погибшего",
+      "url": "https://cosmatica.org/news/1500-sad-pobedy-v-g-lobnja.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/f/8efe503c.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=26ddce56583d452d67",
+      "type": "news-item",
+      "sourceCharacters": 1706,
+      "verified": false
+    },
+    {
+      "title": "Осенняя Тропа Мужества проведена успешно!",
+      "description": "Целью мероприятия является утверждение здоровой жизни, как нормы бытия. Кроме того, он объединяет близких по духу людей с общими целями и интересами в жизни.",
+      "url": "https://cosmatica.org/news/1499-osennjaja-tropa-muzhestva-uspeshno-sostojalas.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/f/osennjaja-tropa-muzhestva-uspeshno-sostojalas-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fdbf840d5d0277f2f1",
+      "type": "news-item",
+      "sourceCharacters": 6250,
+      "verified": false
+    },
+    {
+      "title": "Письмо солдату согреет душу и укрепит в духе",
+      "description": "Всем вам, друзья, давно известно, что Русское Космическое Общество в рамках движения Народного сплочения несёт культурно-гуманитарную службу на Донбассе.",
+      "url": "https://cosmatica.org/news/1497-pismo-soldatu.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/2/pismo-soldatu-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e449b5b20e0f340d81",
+      "type": "news-item",
+      "sourceCharacters": 3268,
+      "verified": false
+    },
+    {
+      "title": "Устойчивое развитие по русски в Президиуме РАЕН",
+      "description": "6 сентября 2022 года, соруководитель Международной научной школы устойчивого развития им. П.Г.Кузнецова , член Президиума Русского Космического Общества Шамаева Екатерина Фёдоровна , приняла участие в заседании Президиума Российской Академии Естественных Наук (РАЕН) в Центральном доме ученых РАН.",
+      "url": "https://cosmatica.org/news/1496-ustoichivoe-razvitie-po-russki-v-prezidiume-raen.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/a/ustoichivoe-razvitie-po-russki-v-prezidiume-raen-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8dbfdbe3046def5923",
+      "type": "news-item",
+      "sourceCharacters": 2899,
+      "verified": false
+    },
+    {
+      "title": "«Маяки дружбы. Башни Кавказа» – 2022",
+      "description": "В проекте приняли участие 45 добровольцев-представителей регионов России, ДНР и ЛНР. Все участники были разделены на три группы, каждая из которых на протяжении недели успела поработать в своих регионах.",
+      "url": "https://cosmatica.org/news/1495-majaki-druzhby-bashni-kavkaza-2022.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/3/majaki-druzhby-bashni-kavkaza-2022-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7671c235b4d1743b4b",
+      "type": "news-item",
+      "sourceCharacters": 14188,
+      "verified": false
+    },
+    {
+      "title": "Авиамоделирование, ракетостроение, основы безопасности и наука графология",
+      "description": "Семейные смены проходят в рамках проекта \"Пойдём с нами\" . Руководитель и организатор, действительный член Русского Космического Общества Юлия Леонидовна Юртова .",
+      "url": "https://cosmatica.org/news/1494-aviamodelirovanie-raketostroenie-osnovy-bezopasnosti-i-nauka-grafologija.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/0/fde1d94f.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e99af1bf55fc8cf0f5",
+      "type": "news-item",
+      "sourceCharacters": 2945,
+      "verified": false
+    },
+    {
+      "title": "Ветераны Байконура о начале космической эры",
+      "description": "Участниками съёмок, которые проводит калужская телерадиокомпания «Ника», стали члены Владимирской областной общественной организации ветеранов космодрома Байконур.",
+      "url": "https://cosmatica.org/news/1493-veterany-baikonura-o-nachale-kosmicheskoi-ery.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/b/b2a076d2.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=21ef0d764d9f57dfe3",
+      "type": "news-item",
+      "sourceCharacters": 2770,
+      "verified": false
+    },
+    {
+      "title": "Знания порвут оковы рабства духа, мысли и тела",
+      "description": "Лучший способ сохранить свою Землю для будущих поколений заключается в формировании Человека, способного и реализующего свою способность к творчеству во имя развития Жизни на Земле и в Космосе. На этой аксиоме построена вся научная школа устойчивого развития им. П.Г.Кузнецова, являющаяся фундаментом и научным основанием Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/1492-s-dnyom-znanii.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/a/s-dnyom-znanii-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3a2a4693ccb148e470",
+      "type": "news-item",
+      "sourceCharacters": 7539,
+      "verified": false
+    },
+    {
+      "title": "Детям Мариуполя - будущему России",
+      "description": "При взаимодействии с представителями культурно-гуманитарного проекта \"Киноуроки в школах России и Мира\" и Общественного движения \"Донецкая Республика\" (ОД\"ДР\") в этот день были выполнены важные гуманитарные задачи.",
+      "url": "https://cosmatica.org/news/1491-detjam-mariupolja.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/7/detjam-mariupolja-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5e54e25555037d5a7c",
+      "type": "news-item",
+      "sourceCharacters": 3878,
+      "verified": false
+    },
+    {
+      "title": "Отцы Владимирской области в Деле",
+      "description": "01 сентября 2016 года была зарегистрирована Региональная Общественная Организация \"Совет Отцов\" Владимирской области.",
+      "url": "https://cosmatica.org/news/1490-otcy-vladimirskoi-oblasti-v-dele.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/6/e79c7701.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=afbf267dbb49b9a8d3",
+      "type": "news-item",
+      "sourceCharacters": 6765,
+      "verified": false
+    },
+    {
+      "title": "Лекция «Скорость света, дефект масс, параметры среды нахождения»",
+      "description": "Лектор: Анищенко Александр Михайлович , инженер-исследователь, руководитель Секции Авангардных исследований при Совете труда и творчества",
+      "url": "https://cosmatica.org/news/1488-lekcija-skorost-sveta-defekt-mass-parametry-sredy-nahozhdenija.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/d/lekcija-skorost-sveta-defekt-mass-parametry-sredy-nahozhdenija.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6732ee7513e91d09f2",
+      "type": "news-item",
+      "sourceCharacters": 1129,
+      "verified": false
+    },
+    {
+      "title": "Донбасс рождает русскую Россию",
+      "description": "« Величайшее из величайших назначений, уже созданных русскими в своём будущем, есть назначение общечеловеческое, есть общеслужение человечеству, – не России только, не общеславянству только, но всечеловечеству»",
+      "url": "https://cosmatica.org/news/1487-donbass-obedinjaet.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/6/donbass-rozhdaet-russkuyu-rossiyu-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ee3047977cbf280186",
+      "type": "news-item",
+      "sourceCharacters": 9822,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

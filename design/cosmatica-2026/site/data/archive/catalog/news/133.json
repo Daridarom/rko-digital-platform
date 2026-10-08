@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 133,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Эмблема корабля «Союз МС-08»",
+      "description": "В центре мы видим силуэт трех членов экипажа – это Олег Артемьев, Эндрю Фойстел и Ричард Арнольд направляются к ракете-носителю «Союз-ФГ», чтобы отправиться в долгожданную «космическую командировку».",
+      "url": "https://cosmatica.org/news/51-emblema-korablja-soyuz-ms-08.html",
+      "image": "https://cosmatica.org/upload/000/u1/78/27/emblema-korablja-soyuz-ms-08-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e5898ce6d41a517db0",
+      "type": "news-item",
+      "sourceCharacters": 1402,
+      "verified": false
+    },
+    {
+      "title": "Внимание: невероятная вакансия!",
+      "description": "АО «Научно-производственная корпорация «Космические системы мониторинга, информационно-управляющие и электромеханические комплексы» имени А. Г. Иосифьяна» ( АО «Корпорация «ВНИИЭМ» ) примет 4 талантливых инженеров в отдел комплексного проектирования и электрических испытаний космических аппаратов.",
+      "url": "https://cosmatica.org/news/50-vnimanie-neverojatnaja-vakansija.html",
+      "image": "https://cosmatica.org/upload/000/u1/3d/23/vnimanie-neverojatnaja-vakansija-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f1ccc4745c1d06f8e5",
+      "type": "news-item",
+      "sourceCharacters": 2080,
+      "verified": false
+    },
+    {
+      "title": "Юное будущее космоса",
+      "description": "Сегодня, 18 февраля 2018 года, в ГБПОУ \"Воробьевы горы\" города Москвы (также известном как \"Московский Дворец пионеров\") состоялась конференция по космонавтике среди воспитанников учреждения, собравшая десятки девчонок и мальчишек, мечтающих о космосе: его изучении, освоении и покорении. Конференция была организована в рамках образовательной программы, главным преподавателем которой является Геннадий Иванович Тищенко",
+      "url": "https://cosmatica.org/news/49-yunoe-buduschee-kosmosa.html",
+      "image": "https://cosmatica.org/upload/000/u1/e9/d6/yunoe-buduschee-kosmosa-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=455bbc36da233eab97",
+      "type": "news-item",
+      "sourceCharacters": 1097,
+      "verified": false
+    },
+    {
+      "title": "«Что поёт наша молодёжь?»",
+      "description": "Выступление Председателя Санкт-Петербургского Отделения и Философского Совета Русского Космического Общества, вице-президента Петровской академии наук и искусств 2018 г. Субетто Александра Ивановича 14 февраля 2018г. в Голубом зале РГПУ им. Герцена после Публичной лекции руководителя Главного следственного управления Следственного комитета Российской Федерации по г.Санкт-Петербургу генерал-майора юстиции Клауса Алекс",
+      "url": "https://cosmatica.org/news/47-chto-poyot-nasha-molodezh.html",
+      "image": "https://cosmatica.org/upload/000/u1/2e/f3/chto-poyot-nasha-molodezh-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=29d01dcc29fd932b06",
+      "type": "news-item",
+      "sourceCharacters": 7737,
+      "verified": false
+    },
+    {
+      "title": "Наша Вселенная!",
+      "description": "В современном мире существует бесчисленное множество компьютерных игр и программ, заточенных исключительно на развлекательный характер. Только малая часть их несёт в себе истинную, полезную информацию, которая развивает не только дедукцию и мелкую моторику, но и расширяет сознание и понимание в определенных направлениях, таких как астрономия и космонавтика. В связи с этим сформировалась небольшая, но деятельная коман",
+      "url": "https://cosmatica.org/news/48-nasha-vselennaja.html",
+      "image": "https://cosmatica.org/upload/000/u1/06/0c/nasha-vselennaja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=654e96ed97f0f67edb",
+      "type": "news-item",
+      "sourceCharacters": 2662,
+      "verified": false
+    },
+    {
+      "title": "Учредительное собрание Санкт-Петербургского отделения РКО",
+      "description": "В День воинской славы России - День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве, в Санкт-Петербурге прошло первое общее (по совместительству учредительное) собрание Санкт-Петербургского отделения Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/46-uchreditelnoe-sobranie-sankt-peterburgskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/000/u1/e7/ba/uchreditelnoe-sobranie-sankt-peterburgskogo-otdelenija-rko-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6761e239c678cb2b11",
+      "type": "news-item",
+      "sourceCharacters": 30365,
+      "verified": false
+    },
+    {
+      "title": "Запуск цикла передач \"Прорыв!\"",
+      "description": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/45-zapusk-cikla-peredach-proryv.html",
+      "image": "https://cosmatica.org/upload/000/u8/95/de/zapusk-cikla-peredach-proryv-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2a8bd6a7b13ffe6aaf",
+      "type": "news-item",
+      "sourceCharacters": 566,
+      "verified": false
+    },
+    {
+      "title": "О Русском Космизме, который касается каждого",
+      "description": "«Дело в том, что Русский Космизм – это не идея о том, чтобы завтра сесть на ракету и улететь с Земли. Идея совершенно другая, что человек осознает себя частью вселенной, частью большого мира. Что мы на Земле – команда одного корабля, который находится в космическом пространстве. И мы за всё отвечаем, всё в наших руках. И главная цель – выживание рода и победа навсегда. Во веки веков, в будущем.",
+      "url": "https://cosmatica.org/news/44-o-russkom-kosmizme-kotoryi-kasaetsja-kazhdogo.html",
+      "image": "https://cosmatica.org/upload/000/u1/6a/6b/95c425e4.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=930afd4289cc6b2e99",
+      "type": "news-item",
+      "sourceCharacters": 2360,
+      "verified": false
+    },
+    {
+      "title": "Слава Российской науке!",
+      "description": "От всей души поздравляем всех, кто пропускает удар сердца при взгляде на звёзды, всех, у кого душа раскрывается бездне пространства, наполненной тайнами и знаниями, а ум и разум толкают к новым открытиям, свершениям и достижениям на пути восхождения чистого разума к вершинам мироздания!",
+      "url": "https://cosmatica.org/news/43-slava-rossiiskoi-nauke.html",
+      "image": "https://cosmatica.org/upload/000/u1/73/03/99ff7303.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b44bda68f9d491b97b",
+      "type": "news-item",
+      "sourceCharacters": 6260,
+      "verified": false
+    },
+    {
+      "title": "В Общественной палате РФ обсудят перспективы развития космической отрасли",
+      "description": "22 февраля 2018 года в Общественной палате Российской Федерации состоится круглый стол на тему «Космические рубежи России. Молодежь и энергия прорыва».",
+      "url": "https://cosmatica.org/news/42-v-obschestvennoi-palate-rf-obsudjat-perspektivy-razvitija-kosmicheskoi-otrasli.html",
+      "image": "https://cosmatica.org/upload/000/u1/6d/5d/v-obschestvennoi-palate-rf-obsudjat-perspektivy-razvitija-kosmichesko.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b87754ef0fce9639a3",
+      "type": "news-item",
+      "sourceCharacters": 1691,
+      "verified": false
+    },
+    {
+      "title": "Дан старт деятельности РКО в Северной столице!",
+      "description": "Сегодня, в День воинской славы России - День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве, в Санкт-Петербурге прошло первое общее (по совместительству учредительное) собрание Санкт-Петербургского отделения Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/41-dan-start-dejatelnosti-rko-v-severnoi-stolice.html",
+      "image": "https://cosmatica.org/upload/000/u1/2f/8b/dan-start-dejatelnosti-rko-v-severnoi-stolice-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=60a1f7abe101f9e38f",
+      "type": "news-item",
+      "sourceCharacters": 4334,
+      "verified": false
+    },
+    {
+      "title": "Первые шаги к прорыву в космическое будущее",
+      "description": "Собрание прошло в Центральном доме учёных по адресу: г. Москва, ул. Пречистенка, д. 16.",
+      "url": "https://cosmatica.org/news/40-pervye-shagi-k-proryvu-v-kosmicheskoe-buduschee.html",
+      "image": "https://cosmatica.org/upload/000/u1/03/98/pervye-shagi-k-proryvu-v-kosmicheskoe-buduschee-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c393138d38df91bb5d",
+      "type": "news-item",
+      "sourceCharacters": 2512,
+      "verified": false
+    },
+    {
+      "title": "Приглашаем на первое собрание Санкт-Петербургского отделения РКО",
+      "description": "Мероприятие будет проходить по адресу: г. Санкт-Петербург, Полюстровский пр. д.59, «Смольный Институт Российской Академии Образования». Начало в 14:00.",
+      "url": "https://cosmatica.org/news/39-priglashaem-na-pervoe-sobranie-sankt-peterburgskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/000/u8/bc/bc/priglashaem-na-pervoe-sobranie-sankt-peterburgskogo-otdelenija-rko.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=992dc040cc7799ad14",
+      "type": "news-item",
+      "sourceCharacters": 2067,
+      "verified": false
+    },
+    {
+      "title": "От души поздравляем вас с Новым 2018 годом!",
+      "description": "Уходящий 2017 год был непростым, но он подарил нам мечту. Мечту в то, что мы снова будем первыми! Первыми в науке, первыми в жизни на Земле и в Космосе!",
+      "url": "https://cosmatica.org/news/38-ot-dushi-pozdravljaem-vas-s-novym-2018-godom.html",
+      "image": "https://cosmatica.org/upload/000/u1/ad/83/b85655a0.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d131f7bec157f58d02",
+      "type": "news-item",
+      "sourceCharacters": 2023,
+      "verified": false
+    },
+    {
+      "title": "Прошедшее 21 декабря 2017 года первое общее собрание Русского Космического Общества",
+      "description": "Фотографии с прошедшего 21 декабря 2017 года первого общего собрания Русского Космического Общества, которое прошло в Центральном доме учёных по адресу: г. Москва, ул. Пречистенка, д. 16.",
+      "url": "https://cosmatica.org/news/37-proshedshee-21-dekabrja-2017-goda-pervoe-obschee-sobranie-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u1/42/e2/proshedshee-21-dekabrja-2017-goda-pervoe-obschee-sobranie-russkogo-ko.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c6b5f8fe8a707638b0",
+      "type": "news-item",
+      "sourceCharacters": 204,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

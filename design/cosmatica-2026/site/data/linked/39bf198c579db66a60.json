@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/t",
+  "title": "Т",
+  "intro": "",
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Тенденция",
+      "url": "https://cosmatica.org/glossary/166-tendencija.html",
+      "description": ""
+    },
+    {
+      "title": "Творчество",
+      "url": "https://cosmatica.org/glossary/38-tvorchestvo.html",
+      "description": ""
+    },
+    {
+      "title": "Тензор",
+      "url": "https://cosmatica.org/glossary/37-tenzor.html",
+      "description": ""
+    },
+    {
+      "title": "Тензорный анализ",
+      "url": "https://cosmatica.org/glossary/36-tenzornyi-analiz.html",
+      "description": ""
+    },
+    {
+      "title": "Теория",
+      "url": "https://cosmatica.org/glossary/35-teorija.html",
+      "description": ""
+    },
+    {
+      "title": "Технология",
+      "url": "https://cosmatica.org/glossary/34-tehnologija.html",
+      "description": ""
+    },
+    {
+      "title": "Товар (услуга)",
+      "url": "https://cosmatica.org/glossary/33-tovar-usluga.html",
+      "description": ""
+    },
+    {
+      "title": "Труд",
+      "url": "https://cosmatica.org/glossary/32-trud.html",
+      "description": ""
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 84,
+    "storedTextCharacters": 75,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 37124
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 84,
+  "capturedBodyCharacters": 75,
+  "sourceTextSHA256": "6a073c630df882c319da112b267c360c9dd4d5850c3074b24fda8f358ebb68e3",
+  "archiveSnapshotAt": "2026-10-08T08:47:29Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 8
+}

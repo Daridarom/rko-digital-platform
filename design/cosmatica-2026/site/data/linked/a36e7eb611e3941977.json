@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/78-princip-sorazmernosti.html",
+  "title": "Принцип соразмерности",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "принцип сохранения",
+      "spans": [
+        {
+          "text": "принцип сохранения"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "LT",
+      "spans": [
+        {
+          "text": "LT"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "-размерности в процессе преобразований установленной системой координат.",
+      "spans": [
+        {
+          "text": "-размерности в процессе преобразований установленной системой координат."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "принцип сохранения LT -размерности в процессе преобразований установленной системой координат.",
+      "links": [
+        {
+          "title": "LT",
+          "url": "https://cosmatica.org/glossary/30-universalnyi-prostranstvenno-vremennoi-jazyk-lt-jazyk.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 116,
+    "storedTextCharacters": 92,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31989
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 94,
+  "capturedBodyCharacters": 92,
+  "sourceTextSHA256": "0ed18bce01216ae36ba2d922cfafc5bdc6cb9edf79398fb5d111e50cb7e6d0a7",
+  "archiveSnapshotAt": "2026-10-08T08:47:16Z"
+}

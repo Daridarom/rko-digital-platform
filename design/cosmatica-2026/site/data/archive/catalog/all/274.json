@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 274,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Издано новое учебное пособие: «Научная экспертиза проектов устойчивого развития сложных систем». #Учебное пособие: \"Научная экспертиза проектов устойчивого развития сложных систем\"",
+      "description": "В учебном пособии излагаются основные понятия и методические основы научной экспертизы проектов устойчивого развития сложных социально-экономических систем, позиция Научной школы устойчивого развития для проектирования в системе «природа — общество — человек». Работа структурирована по разделам: введение, основные понятия и критерии научной экспертизы проектов устойчивого развития, методические основы научной эксперт",
+      "url": "https://cosmatica.org/poster/16-izdano-novoe-uchebnoe-posobie-nauchnaja-ekspertiza-proektov-ustoichivogo-razvitija-slozhnyh-siste.html",
+      "image": "https://cosmatica.org/upload/000/u26/db/cf/izdano-novoe-uchebnoe-posobie-nauchnaja-ekspertiza-proektov-ustoi.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=a267df37f6f83f86ff",
+      "type": "poster-item",
+      "sourceCharacters": 2369,
+      "verified": false
+    },
+    {
+      "title": "Совет труда и творчества",
+      "description": "Деятельность Совета: направлена на формирование в обществе культуры «Человека – Творца», способного и реализующего свою способность к творчеству во имя сохранения и развития жизни как космопланетарного явления.",
+      "url": "https://cosmatica.org/collegium/15-sovet-truda-i-tvorchestva.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=16098b9f933685b224",
+      "type": "collegium-item",
+      "sourceCharacters": 2842,
+      "verified": false
+    },
+    {
+      "title": "Хроноцелостность процесса",
+      "description": "естественноисторическая закономер­ность процесса, где прошлое, настоящее и будущее связаны единой це­пью, сохраняющей процессы развития в пространстве–времени.",
+      "url": "https://cosmatica.org/glossary/15-hronocelostnost-processa.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=d519008826d17365ce",
+      "type": "article",
+      "sourceCharacters": 159,
+      "verified": false
+    },
+    {
+      "title": "Циолковский Константин Эдуардович - Промышленное освоение космоса",
+      "description": "Впервые собраны основные работы К. Э. Циолковского, в том числе и ранее не публиковавшиеся, в которых рассмотрены вопросы промышленного освоения космоса. Книга позволяет составить полное и целостное представление об этом направлении работы Циолковского. Многие из результатов, полученные великим ученым, имеют приоритетное значение для советской науки.",
+      "url": "https://cosmatica.org/library/15-ciolkovskii-konstantin-eduardovich-promyshlennoe-osvoenie-kosmosa.html",
+      "image": "assets/source/book-covers/0006cef720fc84e4946fdd.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=110edae039a2a9c74f",
+      "type": "book",
+      "sourceCharacters": 412,
+      "verified": false
+    },
+    {
+      "title": "Образовательные семинары РКО в детских домах",
+      "description": "В результате нашей поездки, было получено огромное количество непередаваемых эмоций! Несмотря на разный возраст детей, всё прошло отлично. Программа поездки состояла из нескольких видов активностей. Первыми были подвижные игры. В них принимали участие, как говорится, от мала до велика: и дети, и подростки, и даже администрация в лице директора и воспитателей. Далее девочки и мальчики разделились на две группы. Девушк",
+      "url": "https://cosmatica.org/news/15-russkoe-kosmicheskoe-obschestvo-v-detskih-domah-tverskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/000/u1/51/d4/806e2b18.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ee6390a2c29f9202e8",
+      "type": "news-item",
+      "sourceCharacters": 2277,
+      "verified": false
+    },
+    {
+      "title": "Федеральный экспертный совет",
+      "description": "Федеральный экспертный совет по местному и общественному самоуправлению и местным сообществами при Общенациональной ассоциации территориального общественного самоуправления - Координационный центр местных сообществ. https://www.fesrus.ru",
+      "url": "https://cosmatica.org/partners/15-federalnyi-ekspertnyi-sovet.html",
+      "image": "assets/source/b60ab98dd7ceb65539c42c33.webp",
+      "kind": "partner",
+      "href": "view.html?p=partner",
+      "type": "partner",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Создан сайт Президента РКО Большакова Бориса Евгеньевича",
+      "description": "Русским Космическим Обществом создан сайт Президента РКО, учёного в области науки устойчивого развития - Большакова Бориса Евгеньевича.",
+      "url": "https://cosmatica.org/poster/15-sozdan-sait-prezidenta-rko-bolshakova-borisa-evgenevicha.html",
+      "image": "https://cosmatica.org/upload/000/u26/56/d3/sozdan-sait-prezidenta-rko-bolshakova-borisa-evgenevicha-uchyono.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=7831a7e68928680bf3",
+      "type": "poster-item",
+      "sourceCharacters": 3508,
+      "verified": false
+    },
+    {
+      "title": "Положение о защите прав субъектов персональных данных",
+      "description": "",
+      "url": "https://cosmatica.org/about/14-polozhenie-o-zaschite-prav-subektov-personalnyh-dannyh.html",
+      "image": "https://cosmatica.org/upload/000/u26/e7/da/ilovepdf-com.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=616acfadc20943c07c",
+      "type": "article",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Историческая справка о духовных и материальных источниках РКО",
+      "description": "Создание Русского космического общества есть естественный логический шаг в развитии современной России – шаг, обусловленный как ноосферно-космическим прорывом, выражающим становление космической эры Человечества, так и тем фактом, что именно Россия в лице СССР в середине ХХ века стала первой в мире космической державой Человечества.",
+      "url": "https://cosmatica.org/articles/14-istoricheskaja-spravka-o-duhovnyh-i-materialnyh-istochnikah-rko.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=39b03060ba31ecdce2",
+      "type": "article",
+      "sourceCharacters": 29732,
+      "verified": false
+    },
+    {
+      "title": "Арктический Совет",
+      "description": "Деятельность Совета: направлена на всестороннее изучение, исследование и развитие Арктической зоны России. Арктика – это особый регион Земли, принципиально отличающийся от любого другого региона нашей планеты не только тем, что здесь сконцентрированы в огромном объеме Северного Ледовитого океана (который по праву следует рассматривать «внутреннем морем Человечества») запасы полезных ископаемых, но, в первую очередь т",
+      "url": "https://cosmatica.org/collegium/14-arkticheskii-sovet.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=b99bfdcd423c9fe84e",
+      "type": "collegium-item",
+      "sourceCharacters": 1337,
+      "verified": false
+    },
+    {
+      "title": "Цель",
+      "description": "это результат деятельности в пределах установленного пери­ода времени, выделенного пространства. Необходимо рассматривать цель как средство для достижения более удаленной цели. Цель кон­кретизирована лишь тогда, когда перечислены все необходимые и до­статочные условия, которые обеспечивают проектирования «будущей системы». Необходимое условие – цель как средство. Достаточное условие – цель как удовлетворенная",
+      "url": "https://cosmatica.org/glossary/14-cel.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=0261cf6f965856981e",
+      "type": "article",
+      "sourceCharacters": 426,
+      "verified": false
+    },
+    {
+      "title": "Путь к звездам: из истории советской космонавтики",
+      "description": "являлись символом прогресса, предметом законной гордости. А.А. Александров, многие годы проработавший в ракетной отрасли, рассказывает о создателях уникальных космических аппаратов, героях-космонавтах и рядовых тружениках ракетных войск, участвовавших в освоении космоса и создании ракетного щита Родины.",
+      "url": "https://cosmatica.org/library/14-put-k-zvezdam-iz-istorii-sovetskoi-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/000/u1/90/5b/aleksandrov-anatolii-andreevich-put-k-zvezdam-iz-istorii-sove.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=49f65e87dfa31874b5",
+      "type": "book",
+      "sourceCharacters": 412,
+      "verified": false
+    },
+    {
+      "title": "Собрание актива Русского Космического Общества",
+      "description": "Основной повесткой дня стали итоги участия Русского космического общества на Всемирном фестивале молодёжи и студентов, который проходил с 14 по 21 октября в городе Сочи.",
+      "url": "https://cosmatica.org/news/14-sobranie-aktiva-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u1/29/66/sobranie-aktiva-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d6149a46e81bd6e21f",
+      "type": "news-item",
+      "sourceCharacters": 1277,
+      "verified": false
+    },
+    {
+      "title": "Федеральный народный совет",
+      "description": "Федеральный народный совет — это институт гражданского соборного общества, который стремится к созданию и развитию гармоничного и крепкого государства и здорового человека. https://fednarsovet.ru",
+      "url": "https://cosmatica.org/partners/14-federalnyi-narodnyi-sovet.html",
+      "image": "assets/source/19db4f9a49f452a1dd21d943.webp",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=d7bace1c41c3dbdf2c",
+      "type": "partner",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Заседание Национальной технологической палаты",
+      "description": "Представители Русского Космического Общества принимают участие в заседании Национальной технологической палаты.",
+      "url": "https://cosmatica.org/poster/14-zasedanie-nacionalnoi-tehnologicheskoi-palaty.html",
+      "image": "https://cosmatica.org/upload/000/u26/c6/83/zasedanii-nacionalnoi-tehnologicheskoi-palaty-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=d942512d9d4c91d6c4",
+      "type": "poster-item",
+      "sourceCharacters": 1502,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

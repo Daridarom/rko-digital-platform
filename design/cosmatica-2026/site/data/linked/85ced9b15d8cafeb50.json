@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "slug": "article",
+  "slug": "articles-list",
   "sourceUrl": "https://cosmatica.org/articles/sekcija-sohranenija-biosfernogo-raznoobrazija",
   "title": "Секция сохранения биосферного разнообразия",
   "intro": "",
@@ -68,7 +68,164 @@
       "level": 2
     }
   ],
-  "cards": [],
+  "cards": [
+    {
+      "title": "Семена свободы #Банк семян",
+      "description": "Семена свободы #Банк семян Фильм о важности сохранения биоразнообразия. Подробнее",
+      "url": "https://cosmatica.org/articles/1124-semena-svobody.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Семена свободы",
+          "url": "https://cosmatica.org/articles/1124-semena-svobody.html"
+        },
+        {
+          "title": "#Банк семян",
+          "url": "https://cosmatica.org/projects/213/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1124-semena-svobody.html"
+        }
+      ]
+    },
+    {
+      "title": "Удивительные грибы. 2 серия. #Структура жизни",
+      "description": "Удивительные грибы. 2 серия. #Структура жизни Вторая серия нашего фильма об удивительном царстве грибов. Подробнее",
+      "url": "https://cosmatica.org/articles/1123-udivitelnye-griby-2-serija.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Удивительные грибы. 2 серия.",
+          "url": "https://cosmatica.org/articles/1123-udivitelnye-griby-2-serija.html"
+        },
+        {
+          "title": "#Структура жизни",
+          "url": "https://cosmatica.org/projects/jivas/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1123-udivitelnye-griby-2-serija.html"
+        }
+      ]
+    },
+    {
+      "title": "Мудрость пчёл #Структура жизни",
+      "description": "Мудрость пчёл #Структура жизни О том, как мы можем помочь пчёлам. Подробнее",
+      "url": "https://cosmatica.org/articles/990-mudrost-pchyol.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Мудрость пчёл",
+          "url": "https://cosmatica.org/articles/990-mudrost-pchyol.html"
+        },
+        {
+          "title": "#Структура жизни",
+          "url": "https://cosmatica.org/projects/jivas/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/990-mudrost-pchyol.html"
+        }
+      ]
+    },
+    {
+      "title": "Пермакультура Богини Земли #Структура жизни",
+      "description": "Пермакультура Богини Земли #Структура жизни Как всего один человек смог превратить безжизненное поле в настоящий оазис жизни. Подробнее",
+      "url": "https://cosmatica.org/articles/989-permakultura-bogini-zemli.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Пермакультура Богини Земли",
+          "url": "https://cosmatica.org/articles/989-permakultura-bogini-zemli.html"
+        },
+        {
+          "title": "#Структура жизни",
+          "url": "https://cosmatica.org/projects/jivas/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/989-permakultura-bogini-zemli.html"
+        }
+      ]
+    },
+    {
+      "title": "Из пустыни в оазис! #Структура жизни",
+      "description": "Из пустыни в оазис! #Структура жизни Как в Китае борются с опустыниванием. Невероятный труд местных жителей на благо Природы! Подробнее",
+      "url": "https://cosmatica.org/articles/988-iz-pustyni-v-oazis.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Из пустыни в оазис!",
+          "url": "https://cosmatica.org/articles/988-iz-pustyni-v-oazis.html"
+        },
+        {
+          "title": "#Структура жизни",
+          "url": "https://cosmatica.org/projects/jivas/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/988-iz-pustyni-v-oazis.html"
+        }
+      ]
+    },
+    {
+      "title": "Удивительные грибы. 2 серия.",
+      "description": "Удивительные грибы. 2 серия. Невероятные факты о грибах. Подробнее",
+      "url": "https://cosmatica.org/articles/987-udivitelnye-griby-2-serija.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Удивительные грибы. 2 серия.",
+          "url": "https://cosmatica.org/articles/987-udivitelnye-griby-2-serija.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/987-udivitelnye-griby-2-serija.html"
+        }
+      ]
+    },
+    {
+      "title": "Удивительные грибы 1 серия #Структура жизни",
+      "description": "Удивительные грибы 1 серия #Структура жизни О нашем сходстве с грибами и о способах использования грибов, которые могут помочь нашему миру. Подробнее",
+      "url": "https://cosmatica.org/articles/986-udivitelnye-griby-1-serija.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Удивительные грибы 1 серия",
+          "url": "https://cosmatica.org/articles/986-udivitelnye-griby-1-serija.html"
+        },
+        {
+          "title": "#Структура жизни",
+          "url": "https://cosmatica.org/projects/jivas/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/986-udivitelnye-griby-1-serija.html"
+        }
+      ]
+    },
+    {
+      "title": "Проект ПчелоВек #Структура жизни",
+      "description": "Проект ПчелоВек #Структура жизни Стань пчеловертом! Подробнее",
+      "url": "https://cosmatica.org/articles/985-proekt-pchelovek.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Проект ПчелоВек",
+          "url": "https://cosmatica.org/articles/985-proekt-pchelovek.html"
+        },
+        {
+          "title": "#Структура жизни",
+          "url": "https://cosmatica.org/projects/jivas/content/articles"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/985-proekt-pchelovek.html"
+        }
+      ]
+    }
+  ],
   "fields": [],
   "images": [],
   "documents": [],
@@ -78,9 +235,15 @@
     "http": 200,
     "sourceTextCharacters": 986,
     "storedTextCharacters": 402,
-    "sourceCardCount": 0,
+    "sourceCardCount": 8,
     "sourceImageCount": 0,
     "paragraphCount": 1,
     "sourceBytes": 85696
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "articles-list",
+  "sourceTextCharacters": 986,
+  "capturedBodyCharacters": 402,
+  "sourceTextSHA256": "8de73b9273f18b4f13994d2c7ecc61a4dc0365dff49540964300a974a7070d68",
+  "archiveSnapshotAt": "2026-10-08T08:45:07Z"
 }

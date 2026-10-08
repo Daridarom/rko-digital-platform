@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/103-moschnost-valyuty.html",
+  "title": "Мощность валюты",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "энергообеспеченность денежной единицы, определяемая отношением годового валового продукта, выраженного в единицах мощности к годовому валовому продукту, выраженному в номинальных денежных единицах и очищенному от инфляции.",
+      "spans": [
+        {
+          "text": "энергообеспеченность денежной единицы, определяемая отношением годового валового продукта, выраженного в единицах мощности к годовому валовому продукту, выраженному в номинальных денежных единицах и очищенному от инфляции."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "энергообеспеченность денежной единицы, определяемая отношением годового валового продукта, выраженного в единицах мощности к годовому валовому продукту, выраженному в номинальных денежных единицах и очищенному от инфляции.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 238,
+    "storedTextCharacters": 222,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32347
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 222,
+  "capturedBodyCharacters": 222,
+  "sourceTextSHA256": "443f1e729760b22672901c966ce210a66f6768596266350f4c80dadf90fbd116",
+  "archiveSnapshotAt": "2026-10-08T08:46:21Z"
+}

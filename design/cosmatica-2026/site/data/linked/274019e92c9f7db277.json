@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/318-instrukcija-po-zvyozdnoi-fotografii-1966.html",
+  "title": "Инструкция по звёздной фотографии (1966)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/8/instrukcija-po-zvyozdnoi-fotografii-1966-photo-normal.png",
+      "alt": "Инструкция по звёздной фотографии (1966)"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Палей А.Б.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 20 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2051/5f3465ac27724a3e27d032be28aaab25"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/f/8/instrukcija-po-zvyozdnoi-fotografii-1966-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2051/5f3465ac27724a3e27d032be28aaab25"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 78,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39101
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 37,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "10ae08b168cfb15a2e22396df3bce2e462fe341693e980432c78391e57db834c",
+  "archiveSnapshotAt": "2026-10-08T08:49:16Z"
+}

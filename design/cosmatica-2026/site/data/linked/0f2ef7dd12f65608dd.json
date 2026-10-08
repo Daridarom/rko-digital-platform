@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/165-platforma-rko-nbics-net.html",
+  "title": "Платформа rko.nbics.net",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Первая в мире платформа , которая представляет собой процесс конвергентного сетевого взаимодействия различных субъектов, объектов и ресурсов , объединённых единой целью.",
+      "spans": [
+        {
+          "text": "Первая в мире платформа , которая представляет собой процесс конвергентного сетевого взаимодействия различных субъектов, объектов и ресурсов , объединённых единой целью."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Первая в мире платформа , которая представляет собой процесс конвергентного сетевого взаимодействия различных субъектов, объектов и ресурсов , объединённых единой целью.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 193,
+    "storedTextCharacters": 169,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32162
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 169,
+  "capturedBodyCharacters": 169,
+  "sourceTextSHA256": "46cb95bb19fe4a0c4a0e4710d3077f3abbc74fdcd751e33a5f0bd0fd699f1c1c",
+  "archiveSnapshotAt": "2026-10-08T08:46:39Z"
+}

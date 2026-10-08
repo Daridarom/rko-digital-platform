@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/110-matematicheskii-zakon.html",
+  "title": "Математический закон",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "утверждение об инвариантности математи­ческой величины, описываемый некоторой функцией.",
+      "spans": [
+        {
+          "text": "утверждение об инвариантности математи­ческой величины, описываемый некоторой функцией."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "утверждение об инвариантности математи­ческой величины, описываемый некоторой функцией.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 108,
+    "storedTextCharacters": 87,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31855
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 87,
+  "capturedBodyCharacters": 87,
+  "sourceTextSHA256": "434885b275faa201663bfc5d8a80be581995e8113a0543e52556dfff6bb6fbd6",
+  "archiveSnapshotAt": "2026-10-08T08:46:23Z"
+}

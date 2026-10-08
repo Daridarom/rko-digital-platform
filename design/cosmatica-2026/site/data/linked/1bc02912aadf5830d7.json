@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1106-organizacija-vzaimodeistvija-molodyozhi-v-ramkah-proektnoi-dejatelnosti-cheljabinskogo-otdeleni.html",
+  "title": "Организация взаимодействия молодёжи в рамках проектной деятельности Челябинского отделения РКО",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Докладчик: Бессонов Антон Владимирович, Председатель Челябинского отделения Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "Докладчик: Бессонов Антон Владимирович, Председатель Челябинского отделения Русского Космического Общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+      "spans": [
+        {
+          "text": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+          "href": "https://cosmatica.org/news/890-molodyozh-rossii-v-kosmicheskom-buduschem-chelovechestva.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+          "url": "https://cosmatica.org/news/890-molodyozh-rossii-v-kosmicheskom-buduschem-chelovechestva.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Проект \"Сохраняя память: люди военной авиации\"",
+      "spans": [
+        {
+          "text": " "
+        },
+        {
+          "text": "Проект",
+          "href": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "\"Сохраняя память: люди военной авиации\"",
+          "href": "https://cosmatica.org/projects/138"
+        }
+      ],
+      "links": [
+        {
+          "text": "Проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": "\"Сохраняя память: люди военной авиации\"",
+          "url": "https://cosmatica.org/projects/138"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Проект \"Сохраняя память: Щёлкин К.И.\"",
+      "spans": [
+        {
+          "text": "Проект "
+        },
+        {
+          "text": "\"Сохраняя память: Щёлкин К.И.\"",
+          "href": "https://cosmatica.org/projects/schelkin"
+        }
+      ],
+      "links": [
+        {
+          "text": "\"Сохраняя память: Щёлкин К.И.\"",
+          "url": "https://cosmatica.org/projects/schelkin"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "jRFABQBHz1g",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=jRFABQBHz1g"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Докладчик: Бессонов Антон Владимирович, Председатель Челябинского отделения Русского Космического Общества. https://cosmatica.org/news/890-molodyozh-rossii-v-... Проект \"Сохраняя память: люди военной авиации\" Проект \"Сохраняя память: Щёлкин К.И.\"",
+      "links": [
+        {
+          "title": "https://cosmatica.org/news/890-molodyozh-rossii-v-...",
+          "url": "https://cosmatica.org/news/890-molodyozh-rossii-v-kosmicheskom-buduschem-chelovechestva.html"
+        },
+        {
+          "title": "Проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "\"Сохраняя память: люди военной авиации\"",
+          "url": "https://cosmatica.org/projects/138"
+        },
+        {
+          "title": "\"Сохраняя память: Щёлкин К.И.\"",
+          "url": "https://cosmatica.org/projects/schelkin"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 457,
+    "storedTextCharacters": 243,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 75964
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 362,
+  "capturedBodyCharacters": 243,
+  "sourceTextSHA256": "e3db01cf5f93d661b7f989531fad46834facbb6916136aa6de49def1e9e7ef46",
+  "archiveSnapshotAt": "2026-10-08T08:38:18Z",
+  "publicVideoCount": 1
+}

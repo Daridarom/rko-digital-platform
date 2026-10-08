@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1020-o-protestah-informacionnoi-voine-i-kosmicheskom-buduschem-s-glavoi-russkogo-kosmicheskogo-obsch.html",
+  "title": "О протестах, информационной войне и космическом будущем с Главой Русского Космического Общества",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/0/e/o-protestah-informacionnoi-voine-i-kosmicheskom-buduschem-s-glavoi.jpg",
+      "alt": "О протестах, информационной войне и космическом будущем с Главой Русского Космического Общества"
+    },
+    {
+      "type": "paragraph",
+      "text": "Беседует белорусский блогер Уваров Юрий Константинович",
+      "spans": [
+        {
+          "text": "Беседует белорусский блогер Уваров Юрий Константинович"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "11.03.2021г., Брест, Беларусь",
+      "spans": [
+        {
+          "text": "11.03.2021г., Брест, Беларусь"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Алексей Алексеевич рассказывает о Русском Космическом Обществе, о причине поездки в Беларусь.",
+      "spans": [
+        {
+          "text": "Алексей Алексеевич рассказывает о Русском Космическом Обществе, о причине поездки в Беларусь."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Отвечает на вопросы собеседника: Что мы можем противопоставить \"Западу\" в информационной войне? Как на практике может быть реализована эта стратегия ? Как выстраиватся отношения на уровне Государства?",
+      "spans": [
+        {
+          "text": "Отвечает на вопросы собеседника: Что мы можем противопоставить \"Западу\" в информационной войне? Как на практике может быть реализована эта  "
+        },
+        {
+          "text": "стратегия",
+          "href": "https://cosmatica.org/glossary/41-strategija.html"
+        },
+        {
+          "text": "? Как выстраиватся отношения на уровне Государства?"
+        }
+      ],
+      "links": [
+        {
+          "text": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "2gsNr2PSsrE",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=2gsNr2PSsrE"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Интервью с Гапоновым Алексеем Алексеевичем.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Беседует белорусский блогер Уваров Юрий Константинович 11.03.2021г., Брест, Беларусь Алексей Алексеевич рассказывает о Русском Космическом Обществе, о причине поездки в Беларусь. Отвечает на вопросы собеседника: Что мы можем противопоставить \"Западу\" в информационной войне? Как на практике может быть реализована эта стратегия ? Как выстраиватся отношения на уровне Государства?",
+      "links": [
+        {
+          "title": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/0/e/o-protestah-informacionnoi-voine-i-kosmicheskom-buduschem-s-glavoi.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 717,
+    "storedTextCharacters": 387,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 47125
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 511,
+  "capturedBodyCharacters": 387,
+  "sourceTextSHA256": "ab5564a092a96ed4a06001bbfe04f98287c6b0987453c8f817e229d0a7f70d9a",
+  "archiveSnapshotAt": "2026-10-08T09:23:36Z",
+  "publicVideoCount": 1
+}

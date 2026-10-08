@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 115,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Колыбель космонавтики в надёжных руках",
+      "description": "Состоялось событие, ознаменовавшее наш очередной прорыв. Обрести действующую и трудоспособную команду людей на родине одного из столпов космонавтики - Константина Эдуардовича Циолковского - это поистине бесценно.",
+      "url": "https://cosmatica.org/news/338-kolybel-kosmonavtiki-v-nadyozhnyh-rukah.html",
+      "image": "https://cosmatica.org/upload/000/u26/b/e/kolybel-kosmonavtiki-v-nadyozhnyh-rukah-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=58265fb9dcddb7775b",
+      "type": "news-item",
+      "sourceCharacters": 5756,
+      "verified": false
+    },
+    {
+      "title": "Возвышенно о высоком",
+      "description": "Мероприятие было проведено на высшем уровне, главными организаторами были Зотов Степан Андреевич - член Президиума Русского Космического Общества и Янковская Ольга Николаевна - cоздатель и руководитель компании \"Бизнес и Культура\". Приглашены были гости, среди которых оказались как члены РКО, так и представители других организаций: Спортивный клуб \"Роскосмос\" , ВПК \"Авангард\" и другие. Все они стали участниками уроко",
+      "url": "https://cosmatica.org/news/352-vysoko-o-vysokom.html",
+      "image": "https://cosmatica.org/upload/000/u26/4/b/420314fb.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3470f28575d784e97d",
+      "type": "news-item",
+      "sourceCharacters": 2079,
+      "verified": false
+    },
+    {
+      "title": "\"Наше космическое завтра\" в Санкт-Петербурге",
+      "description": "В Санкт-Петербурге завершился региональный этап Международного конкурса рисунка «Наще космическое завтра»",
+      "url": "https://cosmatica.org/news/348-nashe-kosmicheskoe-zavtra-v-sankt-peterburge.html",
+      "image": "https://cosmatica.org/upload/000/u21/5/c/nashe-kosmicheskoe-zavtra-v-sankt-peterburge-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1f524f94df008cb0d5",
+      "type": "news-item",
+      "sourceCharacters": 996,
+      "verified": false
+    },
+    {
+      "title": "\"Наше космическое завтра\" в Нижегородской области",
+      "description": "Сообщаем итоги завершившегося регионального этапа Международного конкурса рисунка «Наще космическое завтра» по Нижегородской области.",
+      "url": "https://cosmatica.org/news/337-nashe-kosmicheskoe-zavtra-v-nizhegorodskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/001/u176/d/8/215ca702.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=46d79f6a33837e2c23",
+      "type": "news-item",
+      "sourceCharacters": 2329,
+      "verified": false
+    },
+    {
+      "title": "Открытие выставки \"PROКОСМОС\"",
+      "description": "28 февраля 2019 года в Санкт-Петербурге состоялось открытие выставки \"PROКОСМОС . Межпланетные путешествия\".",
+      "url": "https://cosmatica.org/news/336-otkrytie-vystavki-prokosmos.html",
+      "image": "https://cosmatica.org/upload/000/u21/d/3/868d7f83.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ab252682be31b17516",
+      "type": "news-item",
+      "sourceCharacters": 2536,
+      "verified": false
+    },
+    {
+      "title": "\"Наше космическое завтра\" в Свердловской области",
+      "description": "Завершился региональный этап Международного конкурса рисунка «Наще космическое завтра» в Свердловской области.",
+      "url": "https://cosmatica.org/news/335-nashe-kosmicheskoe-zavtra-v-sverdlovskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/000/u44/3/8/nashe-kosmicheskoe-zavtra-v-sverdlovskoi-oblasti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fb33e86bed5112b60c",
+      "type": "news-item",
+      "sourceCharacters": 5964,
+      "verified": false
+    },
+    {
+      "title": "\"Наше космическое завтра\" в Калужской области",
+      "description": "В Калужской области завершился региональный этап Международного конкурса рисунка «Наще космическое завтра»",
+      "url": "https://cosmatica.org/news/334-nashe-kosmicheskoe-zavtra-v-kaluzhskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/001/u172/a/e/nashe-kosmicheskoe-zavtra-v-kaluzhskoi-oblasti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3ef1137630a5aa20cd",
+      "type": "news-item",
+      "sourceCharacters": 1348,
+      "verified": false
+    },
+    {
+      "title": "Гагаринская эстафета марширует по стране.",
+      "description": "Тема Гагаринских уроков, предложенная Русским Космическим Обществом в рамках работы Общественно-государственного комитета празднования 85-летия Юрия Алексеевича Гагарина , оказалась востребована и реализуется в самых разных уголках нашей Родины.",
+      "url": "https://cosmatica.org/news/333-gagarinskaja-estafeta-marshiruet-po-strane.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/c/gagarinskaja-estafeta-marshiruet-po-strane-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2969be6dcb66d33fe8",
+      "type": "news-item",
+      "sourceCharacters": 2740,
+      "verified": false
+    },
+    {
+      "title": "\"Наше космическое завтра\" в Кемеровской области",
+      "description": "В Кемеровской области завершился региональный этап Международного конкурса рисунка «Наше космическое завтра»",
+      "url": "https://cosmatica.org/news/332-nashe-kosmicheskoe-zavtra-v-kemerovskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/5/nashe-kosmicheskoe-zavtra-v-kemerovskoi-oblasti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d1d9cbb02dc81176af",
+      "type": "news-item",
+      "sourceCharacters": 1308,
+      "verified": false
+    },
+    {
+      "title": "Осуществлены первые договорённости в Италии",
+      "description": "Мэр Боргосезии Паоло Тирамани принял Председателя Представительства Русского Космического Общества в Италии Ивана Венеруччи и одобрил два уникальных проекта, направленных на укрепление братских отношений между Боргосезией и Россией.",
+      "url": "https://cosmatica.org/news/331-osuschestvleny-pervye-dogovoryonnosti-v-italii.html",
+      "image": "https://cosmatica.org/upload/000/u26/f/d/6ffb21fb.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=35297d1ac9e7d726f7",
+      "type": "news-item",
+      "sourceCharacters": 5048,
+      "verified": false
+    },
+    {
+      "title": "\"Наше космическое завтра\" в Челябинской области",
+      "description": "В Челябинской области завершился региональный этап Международного конкурса рисунка «Наще космическое завтра»",
+      "url": "https://cosmatica.org/news/330-nashe-kosmicheskoe-zavtra-v-cheljabinskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/000/u37/c/5/nashe-kosmicheskoe-zavtra-v-cheljabinskoi-oblasti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fc13953c3b4595dd21",
+      "type": "news-item",
+      "sourceCharacters": 1285,
+      "verified": false
+    },
+    {
+      "title": "Чужих детей не бывает",
+      "description": "Целью поездки было налаживание долгосрочного сотрудничества с детским домом по направлениям образования, популяризации знаний о космосе, космонавтике и астрономии. Делегацией РКО было предложено участие в ряде конкурсов, проводимых Организацией в настоящее время , в том числе в рамках работы Общественно-государственного комитета празднования 85-летия Юрия Алексеевича Гагарина .",
+      "url": "https://cosmatica.org/news/328-chuzhih-detei-ne-byvaet.html",
+      "image": "https://cosmatica.org/upload/000/u8/1/1/35aceb92.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=686eb70a47385f6c4b",
+      "type": "news-item",
+      "sourceCharacters": 1462,
+      "verified": false
+    },
+    {
+      "title": "Новые познания об истории освоения космоса",
+      "description": "Участники I Международного конкурса рисунков \" Наше космическое завтра \" - воспитанники детской художественной школы в Нижегородской области. Помимо непосредственного участия в вышеназванном событии, сотрудники учреждения также провели для ребят Гагаринский урок , который проходит по всей стране в рамках работы Общественно-государственного комитета празднования 85-летия Юрия Алексеевича Гагарина , активно набирающего",
+      "url": "https://cosmatica.org/news/329-novye-poznanija-v-istorii-osvoenija-kosmosa.html",
+      "image": "https://cosmatica.org/upload/000/u26/9/a/d283a928.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ef3711f1ab28cd4ad1",
+      "type": "news-item",
+      "sourceCharacters": 910,
+      "verified": false
+    },
+    {
+      "title": "Расширяя границы познания",
+      "description": "— ФГБОУ ВО «Брянский государственный инженерно-технологический университет» (далее – университет, вуз, БГИТУ); — Государственный фонд развития Северо-Запада; — МОО «Русское космическое общество».",
+      "url": "https://cosmatica.org/news/327-rasshirjaja-granicy-poznanija.html",
+      "image": "https://cosmatica.org/upload/000/u8/9/8/299efb3e.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=defecf71648eaabeb1",
+      "type": "news-item",
+      "sourceCharacters": 2076,
+      "verified": false
+    },
+    {
+      "title": "Космические баталии земных шахмат",
+      "description": "Мероприятие было организовано « Спорклубом Роскосмоса ». Проведено совместно с Клубом Героев СССР, Героев России и полных кавалеров Ордена Славы , при поддержке Русского Космического Общества и Союза национальных и неолимпийских видов спорта .",
+      "url": "https://cosmatica.org/news/326-kosmicheskie-batalii-zemnyh-shahmat.html",
+      "image": "https://cosmatica.org/upload/000/u8/4/2/kosmicheskie-batalii-zemnyh-shahmat-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fa830954974c6d8b5e",
+      "type": "news-item",
+      "sourceCharacters": 5777,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

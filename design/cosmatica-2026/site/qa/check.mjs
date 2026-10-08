@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import vm from 'node:vm';
 import {fileURLToPath} from 'node:url';
+import {spawnSync} from 'node:child_process';
 
 const dir=path.dirname(fileURLToPath(import.meta.url));
 const root=path.resolve(dir,'..');
@@ -45,6 +46,11 @@ for(const file of ['index.html','view.html']){
  const h=read(file);
  assert(h.includes('content.js'),'Missing content model in '+file);
  assert(h.includes('routes.js')&&h.includes('site.js'),'Missing scripts in '+file);
+}
+if(fs.existsSync(path.join(root,'data/archive/inventory.json'))){
+ const p=spawnSync('python3',['qa/archive-integrity.py'],{cwd:root,encoding:'utf8',timeout:120000});
+ if(p.stdout)console.log(p.stdout.trim());
+ if(p.status!==0)errors.push('Full public archive integrity check failed: '+(p.stderr||p.stdout||p.error?.message||p.status).slice(-900));
 }
 const result={routes:routes.length,contentModels:Object.keys(data).length,projectVariants:Object.keys(variants).length,errors};
 console.log(JSON.stringify(result,null,2));

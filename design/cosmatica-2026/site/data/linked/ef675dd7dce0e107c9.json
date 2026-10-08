@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/746-intervyu-s-glavoi-russkogo-kosmicheskogo-obschestva-alekseem-alekseevichem-gaponovym.html",
+  "title": "Интервью с Главой Русского Космического Общества Алексеем Алексеевичем Гапоновым",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/9/intervyu-s-glavoi-russkogo-kosmicheskogo-obschestva-alekseem-alekse.jpg",
+      "alt": "Интервью с Главой Русского Космического Общества Алексеем Алексеевичем Гапоновым"
+    },
+    {
+      "type": "paragraph",
+      "text": "Беседу проводит Гирш Ирина Николаевна для информационного портала \"Реальная Россия\"",
+      "spans": [
+        {
+          "text": "Беседу проводит Гирш Ирина Николаевна для информационного портала \"Реальная Россия\" "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "http://rusnewsday.ru/index.php/obshchestvo/item/6104-aleksej-alekseevich-gaponov-o-kosmose-i-o-zemle",
+      "spans": [
+        {
+          "text": "http://rusnewsday.ru/index.php/obshchestvo/item/6104-aleksej-alekseevich-gaponov-o-kosmose-i-o-zemle"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Говорили о космосе и о земле, о детских проектах реализуемых РКО, об отделениях Общества в разных регионах нашей страны и других актуальных на сегодняшний день вопросах.",
+      "spans": [
+        {
+          "text": "Говорили  о космосе и о земле, о детских проектах реализуемых РКО, об отделениях Общества в разных регионах нашей страны и других актуальных на  сегодняшний день вопросах."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Москва, апрель 2020г.",
+      "spans": [
+        {
+          "text": "Москва, апрель 2020г."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "7S1DdbFojOc",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=7S1DdbFojOc"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Родные наши соотечественники и соотечественницы, представляем вашему вниманию беседу с Главой Русского Космического Общества Алексеем Алексеевичем Гапоновым.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Беседу проводит Гирш Ирина Николаевна для информационного портала \"Реальная Россия\" http://rusnewsday.ru/index.php/obshchestvo/item/6104-aleksej-alekseevich-gaponov-o-kosmose-i-o-zemle Говорили о космосе и о земле, о детских проектах реализуемых РКО, об отделениях Общества в разных регионах нашей страны и других актуальных на сегодняшний день вопросах. Москва, апрель 2020г.",
+      "links": [
+        {
+          "title": "",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Frusnewsday.ru%2Findex.php%2Fobshchestvo%2Fitem%2F6104-aleksej-alekseevich-gaponov-o-kosmose-i-o-zemle&post=-146842769_6993&cc_key="
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/c/9/intervyu-s-glavoi-russkogo-kosmicheskogo-obschestva-alekseem-alekse.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 853,
+    "storedTextCharacters": 384,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 6,
+    "sourceBytes": 47672
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 662,
+  "capturedBodyCharacters": 384,
+  "sourceTextSHA256": "9f9496d6ebf8463f9b8dc6ef8da18000cd58699e29e44e1b0c7e1f6d840a75d5",
+  "archiveSnapshotAt": "2026-10-08T09:13:22Z",
+  "publicVideoCount": 1
+}

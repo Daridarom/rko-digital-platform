@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "articles",
+  "title": "Публикации и материалы",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 71,
+  "pageCount": 72,
+  "total": 1074,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Обусловленность будущего качества жизни институтами науки, образования и воспитания",
+      "description": "Выступление на Учредительном собрании Санкт-Петербургского отделения «Русского Космического Общества».",
+      "url": "https://cosmatica.org/articles/27-obuslovlennost-buduschego-kachestva-zhizni-institutami-nauki-obrazovanija-i-vospitanija.html",
+      "image": "https://pp.userapi.com/c824603/v824603691/a8981/pFrsa-ovSzY.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=6141345055f6bd4a37",
+      "type": "article",
+      "sourceCharacters": 6787,
+      "verified": false
+    },
+    {
+      "title": "Энерго-информационная составляющая народного текстильного узора и её влияние на человека",
+      "description": "Выступление на Учредительном собрании Санкт-Петербургского отделения «Русского Космического Общества».",
+      "url": "https://cosmatica.org/articles/26-energo-informacionnaja-sostavljayuschaja-narodnogo-tekstilnogo-uzora-i-eyo-vlijanie-na-cheloveka.html",
+      "image": "https://pp.userapi.com/c841020/v841020298/6b5e5/mGZeN240Q68.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=ba59592cd064d7a346",
+      "type": "article",
+      "sourceCharacters": 7519,
+      "verified": false
+    },
+    {
+      "title": "Аэрокосмическая история Санкт-Петербурга",
+      "description": "Выступление на Учредительном собрании Санкт-Петербургского отделения «Русского Космического Общества».",
+      "url": "https://cosmatica.org/articles/25-aerokosmicheskaja-istorija-sankt-peterburga.html",
+      "image": "https://pp.userapi.com/c841422/v841422685/66ebe/VsFwyh7Hb5c.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=b0db1e9ffc351590a6",
+      "type": "article",
+      "sourceCharacters": 27170,
+      "verified": false
+    },
+    {
+      "title": "Стратегия становления Русского Космического Общества – наше общее дело",
+      "description": "Выступление на Учредительном собрании Санкт-Петербургского отделения «Русского Космического Общества».",
+      "url": "https://cosmatica.org/articles/24-strategija-stanovlenija-russkogo-kosmicheskogo-obschestva-nashe-obschee-delo.html",
+      "image": "https://pp.userapi.com/c834201/v834201313/ad079/1XhLxvhEabs.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=70bf7f49102a9a40c4",
+      "type": "article",
+      "sourceCharacters": 30716,
+      "verified": false
+    },
+    {
+      "title": "Наука и образование как определяющие факторы устойчивого развития России",
+      "description": "Выступление на Учредительном собрании Санкт-Петербургского отделения «Русского Космического Общества».",
+      "url": "https://cosmatica.org/articles/23-nauka-i-obrazovanie-kak-opredeljayuschie-faktory-ustoichivogo-razvitija-rossii.html",
+      "image": "https://pp.userapi.com/c834102/v834102389/b3ae4/KmsLHU4aixc.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=88c6d27f8caa656e96",
+      "type": "article",
+      "sourceCharacters": 23013,
+      "verified": false
+    },
+    {
+      "title": "Материалы",
+      "description": "",
+      "url": "https://cosmatica.org/articles",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles",
+      "type": "articles",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Ближе к космосу",
+      "description": "",
+      "url": "https://cosmatica.org/articles/blizhe-k-kosmosu",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=3a354cf8b1878c1874",
+      "type": "articles-list",
+      "sourceCharacters": 951,
+      "verified": false
+    },
+    {
+      "title": "Фантастика РКО",
+      "description": "Русское Космическое Общество призывает к строительству общества будущего, воспитанию нового - космического человека.",
+      "url": "https://cosmatica.org/articles/fantastika-rko",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=a7c5e7c370403ffb6d",
+      "type": "articles-list",
+      "sourceCharacters": 2457,
+      "verified": false
+    },
+    {
+      "title": "Газета",
+      "description": "Рубрика содержит архивы всех выпусков газеты \"Природа-Общество-Человек\"",
+      "url": "https://cosmatica.org/articles/gazeta",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=0ccf2e8bed57b0926e",
+      "type": "articles-list",
+      "sourceCharacters": 433,
+      "verified": false
+    },
+    {
+      "title": "Издания",
+      "description": "Научные и научно-популярные издания: газеты, журналы, вестники.",
+      "url": "https://cosmatica.org/articles/izdanija",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=b2245d7b62bbf848d6",
+      "type": "articles-list",
+      "sourceCharacters": 168,
+      "verified": false
+    },
+    {
+      "title": "Конференции",
+      "description": "Русское Космическое Общество является организатором конференций, конгрессов, симпозиумов.",
+      "url": "https://cosmatica.org/articles/konferencii",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=a74099aa7c8657d2fa",
+      "type": "articles-list",
+      "sourceCharacters": 845,
+      "verified": false
+    },
+    {
+      "title": "Конкурс эссе \"Отечественная космонавтика:вчера-сегодня-завтра\"",
+      "description": "Республиканский конкурс литературного эссе «Отечественная космонавтика: вчера-сегодня-завтра».",
+      "url": "https://cosmatica.org/articles/konkurs-esse-otechestvennaja-kosmonavtika-vchera-segodnja-zavtra",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=67370481e447323646",
+      "type": "articles-list",
+      "sourceCharacters": 1206,
+      "verified": false
+    },
+    {
+      "title": "Конкурсные работы",
+      "description": "В своей работе Русское Космическое Общество уделяет значительное внимание работе с детьми и молодёжью. Одним из аспектов этой работы является проведение конкурсов, направленных на раскрытие и развитие творческого потенциала.",
+      "url": "https://cosmatica.org/articles/konkursnye-raboty",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=26c706e8db4321121a",
+      "type": "articles-list",
+      "sourceCharacters": 2871,
+      "verified": false
+    },
+    {
+      "title": "Космонавтика",
+      "description": "Материалы, связанные с историей, развитием космонавтики и современной деятельностью в космической отрасли.",
+      "url": "https://cosmatica.org/articles/kosmonavtika",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=43c10b825a7352ac6d",
+      "type": "articles-list",
+      "sourceCharacters": 147,
+      "verified": false
+    },
+    {
+      "title": "Курс лекций Субетто Александра Ивановича",
+      "description": "Цикл лекций директора Центра Ноосферного Развития Северо-Западного института управления РАНХиГС при Президенте РФ, профессора РГПУ им. А.И.Герцена, почётного профессора Новгородского государственного университета им. Ярослава Мудрого, председателя Философского Совета РКО, первого вице-президента Петровской академии наук и искусств, почетного президента Ноосферной общественной академии наук, члена Президиума Междунаро",
+      "url": "https://cosmatica.org/articles/kurs-lekcii-subetto-aleksandra-ivanovicha",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=4dde896dd70dd7d15f",
+      "type": "articles-list",
+      "sourceCharacters": 6871,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

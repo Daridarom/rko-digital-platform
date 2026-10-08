@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/774-podvigu-voennogo-lyotchika-geroja-sovetskogo-soyuza-mihaila-petrovicha-devjataeva-posvjaschaetsj.html",
+  "title": "Подвигу военного лётчика, героя Советского Союза Михаила Петровича Девятаева посвящается",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Сохраняя память: Люди военной авиации",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/6/8/podvigu-voennogo-lyotchika-geroja-sovetskogo-soyuza-mihaila-devjatae.jpg",
+      "alt": "Подвигу военного лётчика, героя Советского Союза Михаила Петровича Девятаева посвящается"
+    },
+    {
+      "type": "paragraph",
+      "text": "Приглашаем посмотреть репортаж Снежинского телевидения о фотовыставке, посвящённой жизни и подвигу военного лётчика, героя Советского Союза Михаила Петровича Девятаева, который стал организатором успешного побега на бомбардировщике «Хенкель-111» из секретного концлагеря.",
+      "spans": [
+        {
+          "text": "Приглашаем посмотреть репортаж Снежинского телевидения о фотовыставке, посвящённой жизни и подвигу военного лётчика, героя Советского Союза Михаила Петровича Девятаева, который стал организатором успешного побега на бомбардировщике «Хенкель-111» из секретного концлагеря. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Фотовыставка была организована Председателем Челябинского отделения Русского Космического Общества, Бессоновым Антоном Владимировичем совместно с Красногорским филиалом Музея Победы, предоставившим материалы к 75-й годовщине Великой Победы.",
+      "spans": [
+        {
+          "text": "Фотовыставка была организована Председателем Челябинского отделения Русского Космического Общества, Бессоновым Антоном Владимировичем совместно с Красногорским филиалом Музея Победы, предоставившим материалы к 75-й годовщине Великой Победы."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Выставка проходила в рамках проекта Русского Космического Общества \"Сохраняя память: люди военной авиации\" https://cosmatica.org/projects/138",
+      "spans": [
+        {
+          "text": "Выставка проходила в рамках проекта Русского Космического Общества \"Сохраняя память: люди военной авиации\" https://cosmatica.org/projects/138"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/c/1/podvigu-voennogo-lyotchika-geroja-sovetskogo-soyuza-mihaila-devjatae.jpg",
+      "alt": "Подвигу военного лётчика, героя Советского Союза Михаила Петровича Девятаева посвящается 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/3/podvigu-voennogo-lyotchika-geroja-sovetskogo-soyuza-mihaila-devjatae.jpg",
+      "alt": "Подвигу военного лётчика, героя Советского Союза Михаила Петровича Девятаева посвящается 1"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "LiOfAMPcg4U",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=LiOfAMPcg4U"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Ещё одна страница памяти записана в историю проектом \"Сохраняя память: люди военной авиации\"",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Приглашаем посмотреть репортаж Снежинского телевидения о фотовыставке, посвящённой жизни и подвигу военного лётчика, героя Советского Союза Михаила Петровича Девятаева, который стал организатором успешного побега на бомбардировщике «Хенкель-111» из секретного концлагеря. Фотовыставка была организована Председателем Челябинского отделения Русского Космического Общества, Бессоновым Антоном Владимировичем совместно с Красногорским филиалом Музея Победы, предоставившим материалы к 75-й годовщине Великой Победы. Выставка проходила в рамках проекта Русского Космического Общества \"Сохраняя память: люди военной авиации\" https://cosmatica.org/projects/138",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/6/8/podvigu-voennogo-lyotchika-geroja-sovetskogo-soyuza-mihaila-devjatae.jpg",
+    "https://cosmatica.org/upload/000/u35/c/1/podvigu-voennogo-lyotchika-geroja-sovetskogo-soyuza-mihaila-devjatae.jpg",
+    "https://cosmatica.org/upload/000/u35/5/3/podvigu-voennogo-lyotchika-geroja-sovetskogo-soyuza-mihaila-devjatae.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1196,
+    "storedTextCharacters": 701,
+    "sourceCardCount": 0,
+    "sourceImageCount": 3,
+    "paragraphCount": 4,
+    "sourceBytes": 51725
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 958,
+  "capturedBodyCharacters": 701,
+  "sourceTextSHA256": "2a52a7d6e0816d272c2d8734464ab40f00f7976e780955cd9daef85c3d84fef4",
+  "archiveSnapshotAt": "2026-10-08T09:13:31Z",
+  "publicVideoCount": 1
+}

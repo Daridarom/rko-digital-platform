@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/410-verojatnost-i-statistika.html",
+  "title": "Вероятность и статистика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/8/d/verojatnost-i-statistika-photo-normal.jpg",
+      "alt": "Вероятность и статистика"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Бунимович Е. А., Булычев В. А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 6 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2416/2a09c908d13b27f6344a06ef9b320545"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/8/d/verojatnost-i-statistika-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2416/2a09c908d13b27f6344a06ef9b320545"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 81,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39333
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 56,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "004fb2f1be69b91bbac679e659bf11a8ee6776259b0fa6b56de0dc1cccf69517",
+  "archiveSnapshotAt": "2026-10-08T08:49:49Z"
+}

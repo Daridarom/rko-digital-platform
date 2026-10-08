@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/269-samodelnye-astronomicheskie-instrumenty-1965.html",
+  "title": "Самодельные астрономические инструменты (1965)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/4/samodelnye-astronomicheskie-instrumenty-1965-photo-normal.png",
+      "alt": "Самодельные астрономические инструменты (1965)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Астрономические инструменты заводского производства достаточно дороги, и для новичка, только постигающему астрономию они могут оказаться не доступными. Эта по настоящему уникальная книга поможет вам самостоятельно и из подручных материалов изготовить телескоп, гелиоскоп, штативы, оборудование для фотографирования звездного неба и многое, многое другое.",
+      "spans": [
+        {
+          "text": "Астрономические инструменты заводского производства достаточно дороги, и для новичка, только постигающему астрономию они могут оказаться не доступными. Эта по настоящему уникальная книга поможет вам самостоятельно и из подручных материалов изготовить телескоп, гелиоскоп, штативы, оборудование для фотографирования звездного неба и многое, многое другое."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Новиков И.Д., Шишаков В.А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Астрономические инструменты заводского производства достаточно дороги, и для новичка, только постигающему астрономию они могут оказаться не доступными. Эта по настоящему уникальная книга поможет вам самостоятельно и из подручных материалов изготовить телескоп, гелиоскоп, штативы, оборудование для фотографирования звездного неба и многое, многое другое.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 9 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2002/097703e70ceb49507c9a42e35b14f06f"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/9/4/samodelnye-astronomicheskie-instrumenty-1965-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2002/097703e70ceb49507c9a42e35b14f06f"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 454,
+    "storedTextCharacters": 354,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40438
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 407,
+  "capturedBodyCharacters": 354,
+  "sourceTextSHA256": "00f4791ef47410244edc93167d76858631c20ec6c8dda190629cee71c66b431b",
+  "archiveSnapshotAt": "2026-10-08T08:48:23Z"
+}

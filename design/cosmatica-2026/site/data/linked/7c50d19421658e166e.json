@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/725",
+  "title": "Валерий Анатольевич Левшунов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/3/b4135c8e.jpg",
+      "alt": "Валерий Анатольевич Левшунов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/4/c/4b79766e.jpg",
+      "alt": "Валерий Анатольевич Левшунов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Педагог, психолог, мастер русского рукопашного боя, инструктор ВСЕДРУГА по системе комплексного развития дружинника «СКРАДА»; автор познавательно-развивающих игр и программ для взрослых и детей «Концепция», «Звёздный десант».",
+      "spans": [
+        {
+          "text": "Педагог, психолог, мастер русского рукопашного боя, инструктор ВСЕДРУГА по системе комплексного развития дружинника «СКРАДА»; автор познавательно-развивающих игр и программ для взрослых и детей «Концепция», «Звёздный десант»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Педагог, психолог, мастер русского рукопашного боя, инструктор ВСЕДРУГА по системе комплексного развития дружинника «СКРАДА»; автор познавательно-развивающих игр и программ для взрослых и детей «Концепция», «Звёздный десант».",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/f/3/b4135c8e.jpg",
+    "https://cosmatica.org/upload/002/u218/4/c/4b79766e.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 307,
+    "storedTextCharacters": 258,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35306
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 253,
+  "capturedBodyCharacters": 258,
+  "sourceTextSHA256": "d1f9d8067ab24f06cca3814b556e2ab0a63cd4292b015a55000febaffc70476d",
+  "archiveSnapshotAt": "2026-10-08T09:21:54Z"
+}

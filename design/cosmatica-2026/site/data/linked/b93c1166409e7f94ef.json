@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/220-shokiruyuschie-teorii-kosmicheskih-ciklov-v-drevnih-uchenijah.html",
+  "title": "Шокирующие теории космических циклов в древних учениях #Методы синтеза междисциплинарных знаний",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/c/2/shokiruyuschie-teorii-kosmicheskih-ciklov-v-drevnih-uchenijah-photo-big.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Состоится собрание секции «Методов синтеза междисциплинарных знаний»",
+      "spans": [
+        {
+          "text": "Состоится собрание секции «Методов синтеза междисциплинарных знаний» "
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Состоится собрание секции «Методов синтеза междисциплинарных знаний» Тема: «Шокирующие теории космических циклов в древних учениях» В докладе древние учения и современные теории будут рассмотрены с позиций теории многомерных пропорциональных отношений. Лектор: Руководитель Секции М.И. Беляев, академик Международной Академии экологической безопасности и природопользования (МОАЭБП), академик Общественной академии национальной безопасности (ОАНБ) — Обсуждение — Организационные вопросы Секции Место проведения: Ленинградский проспект до 7/1, офис РКО Просьба ко всем желающим принять участие в собрании и обсуждении доклада сообщить о своем желании по по e-mail borisovarko@mail.ru",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/c/2/shokiruyuschie-teorii-kosmicheskih-ciklov-v-drevnih-uchenijah-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 870,
+    "storedTextCharacters": 68,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 40143
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 870,
+  "capturedBodyCharacters": 68,
+  "sourceTextSHA256": "5818850466efb20febd950c09f1bdd95080f5f906d07b8d3a78148bc88bc54db",
+  "archiveSnapshotAt": "2026-10-08T09:15:23Z"
+}

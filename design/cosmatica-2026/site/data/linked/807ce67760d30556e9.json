@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/138",
+  "title": "Евгений Фёдорович Долганов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/2/6/e602848d.png",
+      "alt": "Евгений Фёдорович Долганов"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/7/5/40eb74b0.png",
+      "alt": "Евгений Фёдорович Долганов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/2/6/e602848d.png",
+    "https://cosmatica.org/upload/000/u7/7/5/40eb74b0.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 69,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34008
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 17,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "f2558d486f365b8f13aeed963aa319273b8050fae2b2a88b55d7ab151c64dd70",
+  "archiveSnapshotAt": "2026-10-08T09:18:03Z"
+}

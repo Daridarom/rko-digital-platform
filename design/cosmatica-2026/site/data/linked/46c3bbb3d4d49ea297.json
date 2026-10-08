@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/285",
+  "title": "Паслён Владимир Владимирович",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/0/5823597a.jpg",
+      "alt": "Паслён Владимир Владимирович"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/3/f/57304db7.jpg",
+      "alt": "Паслён Владимир Владимирович"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Кандидат технических наук, доцент, заведующий кафедрой радиотехники и защиты информации ДонНТУ",
+      "spans": [
+        {
+          "text": "Кандидат технических наук, доцент, заведующий кафедрой радиотехники и защиты информации ДонНТУ"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Донецкая республика",
+      "links": [
+        {
+          "title": "Донецкая республика",
+          "url": "https://cosmatica.org/departments/23-doneckaja-respublika.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Кандидат технических наук, доцент, заведующий кафедрой радиотехники и защиты информации ДонНТУ",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/e/0/5823597a.jpg",
+    "https://cosmatica.org/upload/002/u218/3/f/57304db7.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 189,
+    "storedTextCharacters": 127,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35103
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 135,
+  "capturedBodyCharacters": 127,
+  "sourceTextSHA256": "ce93124f7c9bc9ab6d8a9aff121ef87640522eeeac20390354540f9877cf6a4f",
+  "archiveSnapshotAt": "2026-10-08T09:19:01Z"
+}

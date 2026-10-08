@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/about/documents",
+  "title": "Документы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Положение о территориальных филиалах",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Карточка организации",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Положение о защите прав субъектов персональных данных",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Положение о членстве и участии в РКО",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Регистрационные документы",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Устав Русского Космического Общества",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 221,
+    "storedTextCharacters": 206,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 37623
+  },
+  "textFallbackRequired": false,
+  "originalKind": "about-page",
+  "sourceTextCharacters": 221,
+  "capturedBodyCharacters": 206,
+  "sourceTextSHA256": "2d805bc676a639fe6dccafc484ae0250639be40c4b99c0cbb14e1950ac25089a",
+  "archiveSnapshotAt": "2026-10-08T08:36:40Z"
+}

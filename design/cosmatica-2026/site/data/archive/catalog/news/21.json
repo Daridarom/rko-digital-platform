@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 21,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Золотые страницы Народной Памяти: Ласточки и Соколы Орловщины",
+      "description": "Посвящалась конференция 102-й годовщине со дня рождения летчика-пилота героического экипажа самолета У-2 Александры Павловны Поляковой, а также сфокусировавшая внимание на славных лётных традициях уроженцев Орловщины и героизме лётчиков Красной Армии в небе над Орловщиной в годы ВОВ.",
+      "url": "https://cosmatica.org/news/1891-zolotye-stranicy-narodnoi-pamjati-lastochki-i-sokoly-orlovschiny.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/4/zolotye-stranicy-narodnoi-pamjati-lastochki-i-sokoly-orlovschiny-ph.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fab361cd14454e0081",
+      "type": "news-item",
+      "sourceCharacters": 32500,
+      "verified": false
+    },
+    {
+      "title": "Фонд \"Светославъ\" - шаги к победе",
+      "description": "Содеи! С удовлетворением от проделанной работы сообщаем, что по итогам грантовой деятельности Фонда Русской цивилизации \"Светославъ\", на сегодняшний день издано уже четыре книги:",
+      "url": "https://cosmatica.org/news/1877-fond-svetoslav-shagi-k-pobede.html",
+      "image": "https://cosmatica.org/upload/000/u7/8/a/175e5215.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3e4b00f70ef59fedd4",
+      "type": "news-item",
+      "sourceCharacters": 1435,
+      "verified": false
+    },
+    {
+      "title": "Путеводная звезда Мечты и Победы",
+      "description": "Звезда, с которой на Небесах, на Знамени, на погонах и в сердце жили, творили и созидали, защищали и обороняли свою Родину, служа своему Отечеству, наши предки - есть Символ, выражающий Смысл. Красный Смысл.",
+      "url": "https://cosmatica.org/news/1876-putevodnaja-zvezda-mechty-i-pobedy.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/d/putevodnaja-zvezda-mechty-i-pobedy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d4dff83ff4d3d8ea0d",
+      "type": "news-item",
+      "sourceCharacters": 3977,
+      "verified": false
+    },
+    {
+      "title": "Продолжаем помогать",
+      "description": "В рабочую группу вошли: Глава РКО Алексей Алексеевич Гапонов ; руководитель Попечительского совета РКО Михаил Юрьевич Волчков ; космонавт-испытатель, профессиональный пилот гражданской авиации, певица, почётным членом РКО Надежда Васильевна Кужельная , член Первого Отряда РКО Любовь Юрьевна Волчкова .",
+      "url": "https://cosmatica.org/news/1875-prodolzhaem-pomogat.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/7/prodolzhaem-pomogat-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3f7b29b48b406e3923",
+      "type": "news-item",
+      "sourceCharacters": 4948,
+      "verified": false
+    },
+    {
+      "title": "Юные звёзды сияли над Москвой",
+      "description": "Фестиваль проходил в стенах Олимпийского комитета в Москве.",
+      "url": "https://cosmatica.org/news/1874-yunye-zvyozdy-sijali-nad-moskvoi.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/4/9d94abb9.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8d821a34526bd2b3c4",
+      "type": "news-item",
+      "sourceCharacters": 5442,
+      "verified": false
+    },
+    {
+      "title": "Сборы КГБ - весна 2024",
+      "description": "Взлетная полоса еще не высохла и на этот раз прыжки с парашютом не проводились, но мы верим в будущее и лето.",
+      "url": "https://cosmatica.org/news/1873-sbory-kgb-vesna-2024.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/0/170588f4.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4c9d151a7b47d3ad16",
+      "type": "news-item",
+      "sourceCharacters": 1811,
+      "verified": false
+    },
+    {
+      "title": "Ура! Наш Звездолёт вернулся на Землю!",
+      "description": "Рады сообщить, что 14 апреля экипаж благополучно совершил посадку.",
+      "url": "https://cosmatica.org/news/1871-ura-nash-zvezdolyot-vernulsja-na-zemlyu.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/d/zvezdolyot-blagopoluchno-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ca6318da6831f23f05",
+      "type": "news-item",
+      "sourceCharacters": 8861,
+      "verified": false
+    },
+    {
+      "title": "От фантастики к реальности",
+      "description": "Апрель - космический месяц - месяц первого полёта человека в космос. Мы завершили апрель подписанием в пространстве \"Ловцы слов\" в Санкт-Петербурге соглашения о сотрудничестве с Государственным литературным музеем \"ХХ век\"",
+      "url": "https://cosmatica.org/news/1872-ot-fantastiki-k-realnosti.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/0/cf9cadae.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9d3168fca28af539dc",
+      "type": "news-item",
+      "sourceCharacters": 1278,
+      "verified": false
+    },
+    {
+      "title": "Экомир глазами молодёжи",
+      "description": "Под таким названием 26 апреля 2024 г. в Донецком национальном университете экономики и торговли им. Михаила Туган-Барановского состоялась II Всероссийская студенческая научно-практическая конференция, организованная Лабораторией экофилософских исследований кафедры философии.",
+      "url": "https://cosmatica.org/news/1879-ekomir-glazami-molodyozhi.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/4/ekomir-glazami-molodyozhi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f99e0b597f6e3e0126",
+      "type": "news-item",
+      "sourceCharacters": 2263,
+      "verified": false
+    },
+    {
+      "title": "Книга Жизни для жизни. Встреча с авторами.",
+      "description": "\"Эта Книга – орудие борьбы и будущей Победы\" - утверждаем мы!",
+      "url": "https://cosmatica.org/news/1870-kniga-zhizni-dlja-zhizni-vstrecha-s-avtorami.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/e/51cc59df.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b83bd20be503763e91",
+      "type": "news-item",
+      "sourceCharacters": 1618,
+      "verified": false
+    },
+    {
+      "title": "Открытая студия с Анной Клёповой",
+      "description": "6 апреля Глава Русского Космического Общества Алексей Алексеевич Гапонов и почётный член РКО, космонавт-испытатель Надежда Васильевна Кужельная посетили музей Г.Т. Берегового в Енакиево (ДНР).",
+      "url": "https://cosmatica.org/news/1869-otkrytaja-studija-s-annoi-klyopovoi.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/7/otkrytaja-studija-s-annoi-klyopovoi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=aca7da12a26865ae3c",
+      "type": "news-item",
+      "sourceCharacters": 1350,
+      "verified": false
+    },
+    {
+      "title": "Замысел по организации Конгресса Сплочения для запуска движения Сплочения в России",
+      "description": "04 марта 2024 года, координаторы и представители пяти интеллектуальных клубов - Евразийского, Сретенского, Изборского, Зиновьевского, Клуба политологов «Сфера», а также Русского Космического Общества и АНО «Наследие Нации», завершили пилотную стадию проекта \"Ковчег сплочения\" (https://t.me/kpsfera/1796) записью Манифеста сплочения на платформе медиахолдинга \"День\" в г. Александров.",
+      "url": "https://cosmatica.org/news/1868-zamysel-po-organizacii-kongressa-splochenija-dlja-zapuska-dvizhenija-splochenija-v-rossii.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/d/zamysel-po-organizacii-kongressa-splochenija-dlja-zapuska-dvizhenija.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8b2a85f8a6db80c311",
+      "type": "news-item",
+      "sourceCharacters": 6331,
+      "verified": false
+    },
+    {
+      "title": "Освоение космоса и проблемы эко-ориентированного развития человека, природы и цивилизации",
+      "description": "Традиционно она проходила в Российском экономическом университете им. Г.В.Плеханова.",
+      "url": "https://cosmatica.org/news/1867-osvoenie-kosmosa-i-problemy-eko-orientirovannogo-razvitija-cheloveka-prirody-i-mnogopoljarnoi-c.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/a/d70f7fa1.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fb59956aedbf66d62d",
+      "type": "news-item",
+      "sourceCharacters": 2821,
+      "verified": false
+    },
+    {
+      "title": "Дружина Гагаринцев Боровской ноосферной школы приняла новобранцев",
+      "description": "Высокую ответственность носить имя Юрия Алексеевича Гагарина взяли на себя ученики 5 класса.",
+      "url": "https://cosmatica.org/news/1866-druzhina-gagarincev-borovskoi-noosfernoi-shkoly-prinjala-novobrancev.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/8/druzhina-gagarincev-borovskoi-noosfernoi-shkoly-prinjala-novobrance.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=02891d69e959bd0fde",
+      "type": "news-item",
+      "sourceCharacters": 1124,
+      "verified": false
+    },
+    {
+      "title": "Мечты о небе детям Донбасса",
+      "description": "В период с 4 по 6 апреля с очередной рабочей поездкой Донбасс посетили представители центрального штаба Русского Космического Общества:",
+      "url": "https://cosmatica.org/news/1865-mechty-o-nebe-detjam-donbassa.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/3/mechty-o-nebe-detjam-donbassa-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=98d94ffba4f45d763f",
+      "type": "news-item",
+      "sourceCharacters": 4964,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

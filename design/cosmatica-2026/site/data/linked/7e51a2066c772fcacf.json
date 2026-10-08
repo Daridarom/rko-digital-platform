@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/260",
+  "title": "Андрей Валерьевич Сиротинский",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/2/d/4ed484a5.jpg",
+      "alt": "Андрей Валерьевич Сиротинский"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/a/d/b90aa32f.jpg",
+      "alt": "Андрей Валерьевич Сиротинский"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Образование высшее. Закончил Владимирский Политехнический Институт",
+      "spans": [
+        {
+          "text": "Образование высшее. Закончил Владимирский Политехнический Институт"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Генеральный директор Александровской городской типографии (ООО «Графика»)",
+      "spans": [
+        {
+          "text": "Генеральный директор Александровской городской типографии (ООО «Графика»)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Исполнительный директор Александровского ОСГО",
+      "spans": [
+        {
+          "text": "Исполнительный директор Александровского ОСГО"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Владимирская область",
+      "links": [
+        {
+          "title": "Владимирская область",
+          "url": "https://cosmatica.org/departments/24-vladimirskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Образование высшее. Закончил Владимирский Политехнический Институт Генеральный директор Александровской городской типографии (ООО «Графика») Исполнительный директор Александровского ОСГО",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/2/d/4ed484a5.jpg",
+    "https://cosmatica.org/upload/000/u35/a/d/b90aa32f.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 283,
+    "storedTextCharacters": 217,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35259
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 228,
+  "capturedBodyCharacters": 217,
+  "sourceTextSHA256": "2e52350ba3815f4bf87669b7fe5b1d8db6e6cfc67f2c8bee8b33ccce49468ea7",
+  "archiveSnapshotAt": "2026-10-08T09:18:53Z"
+}

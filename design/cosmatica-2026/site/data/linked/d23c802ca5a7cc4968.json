@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 2,
+  "slug": "project",
+  "sourceUrl": "https://cosmatica.org/projects/obrazovatelnie-shkoli-s-cosmicheskim-uklonom",
+  "title": "Образовательные школы с космическим уклоном",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/25/d6/obrazovatelnye-shkoly-s-kosmicheskim-uklonom-logo-normal.jpg",
+      "alt": "Образовательные школы с космическим уклоном"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О проекте"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Физико-техническая школа с космическим и православным уклоном — лето 2016",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u3/82/73/2016-dushonovo-letnjaja-kosmicheskaja-shkola.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "text": "Инженерный практикум в ходе аэрокосмической школы МФТИ — осень 2016",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u3/9b/e2/2016-aerokosmicheskaja-shkola-mfti.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "text": "Инженерно-космическая смена в православном лагере «Богослово» — лето 2017",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u3/e6/27/2017-vystuplenija-v-lagere-22bogoslovo-22-08-2017.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "text": "Стена проекта",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Нет записей.",
+      "spans": [
+        {
+          "text": "\n                                    Нет записей.                            "
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Физико-техническая школа с космическим и православным уклоном — лето 2016 Инженерный практикум в ходе аэрокосмической школы МФТИ — осень 2016 Инженерно-космическая смена в православном лагере «Богослово» — лето 2017",
+      "links": [],
+      "image": "https://cosmatica.org/upload/000/u3/82/73/2016-dushonovo-letnjaja-kosmicheskaja-shkola.jpg"
+    },
+    {
+      "key": "Направление:",
+      "value": "Образование",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Статус:",
+      "value": "Завершенный",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/25/d6/obrazovatelnye-shkoly-s-kosmicheskim-uklonom-logo-normal.jpg",
+    "https://cosmatica.org/upload/000/u3/82/73/2016-dushonovo-letnjaja-kosmicheskaja-shkola.jpg",
+    "https://cosmatica.org/upload/000/u3/9b/e2/2016-aerokosmicheskaja-shkola-mfti.jpg",
+    "https://cosmatica.org/upload/000/u3/e6/27/2017-vystuplenija-v-lagere-22bogoslovo-22-08-2017.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 353,
+    "storedTextCharacters": 247,
+    "sourceCardCount": 0,
+    "sourceImageCount": 4,
+    "paragraphCount": 4,
+    "sourceBytes": 37894
+  },
+  "textFallbackRequired": false,
+  "originalKind": "project",
+  "sourceTextCharacters": 260,
+  "capturedBodyCharacters": 247,
+  "sourceTextSHA256": "8f43a8335aa8a0f7562432ab45901c125237cf2f07054f03f5518ec97fa20616",
+  "archiveSnapshotAt": "2026-10-08T09:17:27Z"
+}

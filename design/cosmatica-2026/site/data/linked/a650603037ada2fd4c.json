@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/497-soevolyucija.html",
+  "title": "Соэволюция",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/a/b/soevolyucija-photo-normal.jpg",
+      "alt": "Соэволюция"
+    },
+    {
+      "type": "paragraph",
+      "text": "Соэволюция",
+      "spans": [
+        {
+          "text": "Соэволюция"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "привела Божий мир на Земле к Гармонии.\r\nЭгоцентризм человека эту Гармонию разрушил.\r\nСоТворчество человека и Природы вернет на Землю Гармонию.\r\nГармония вернет красоту, Красота спасет Мир!",
+      "spans": [
+        {
+          "text": "привела Божий мир на Земле к Гармонии.\r\nЭгоцентризм человека эту Гармонию разрушил.\r\nСоТворчество человека и Природы вернет на Землю Гармонию.\r\nГармония вернет красоту, Красота спасет Мир!"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Шапиро В.А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Соэволюция привела Божий мир на Земле к Гармонии. Эгоцентризм человека эту Гармонию разрушил. СоТворчество человека и Природы вернет на Землю Гармонию. Гармония вернет красоту, Красота спасет Мир!",
+      "links": [
+        {
+          "title": "Соэволюция",
+          "url": "https://cosmatica.org/glossary/199-soevolyucija.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 1 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/4578/ed4439bd6fe0a6715450611c0d8d5ed9"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/a/b/soevolyucija-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/4578/ed4439bd6fe0a6715450611c0d8d5ed9"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 245,
+    "storedTextCharacters": 198,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39507
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 234,
+  "capturedBodyCharacters": 198,
+  "sourceTextSHA256": "05c7759f52951835831cd77b1974d520f0588ab59d662bd17f9e4e0c9b7f66fe",
+  "archiveSnapshotAt": "2026-10-08T08:50:35Z"
+}

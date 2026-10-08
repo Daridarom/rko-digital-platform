@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1202-o-knige-mir-geroev-ot-avtora.html",
+  "title": "О книге \"Мир Героев\" от автора",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/5/o-knige-mir-geroev-ot-avtora-photo-normal.png",
+      "alt": "О книге \"Мир Героев\" от автора"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "t8aR6qEx2Js",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=t8aR6qEx2Js"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Книга \"Мир Героев\" - это живое руководство к действию всем, кто хочет изменить мир. Создавать будущее, а не претерпевать его.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Степан Андреевич Зотов о книге \"Мир Героев\". Книга впитала в себя лучшие методики РКО и Киноуроков. Проверенные опытом. Закаленные наукой и жаром сердец. Никогда еще задача по воспитанию благородных качеств человека, по созданию истинной меры развития не решалась с такой ясностью. \"Киноуроки в школах России\", \"Великая Космическая Одиссея\", лагерь \"Космодесант\", и нормативы \"КГБ\", - все объединяются одной категорией Космоплана. Система Благородных Качеств является важнейшей частью Космоплана. Постоянным напоминанием о необходимости Меры во всём. В развитии, особенно. 99 Благородных Качеств развёрнуты Проектом «Киноуроки» в живых историях, с которыми необходимо познакомиться. Кинокартины снабжены методическим воспитательным комментарием для верного их разбора и преподавания. Затем каждому качеству поставлен в соответствие один или несколько настоящих Героев. Возможно, даже героев художественного произведения, но оказавших влияние на наш с вами Мир и Историю. В первое издание Книги включены 28 Качеств, по которым сняты картины к моменту её издания. Каждый Герой для примера и подражания будет развёрнут в пяти основных качествах (« Воля », «Ответственность» и пр.) по степени их проявления и важности в его подвиге, жизненном пути. Это поможет детям получить верное представление о настоящем человеке и выбрать свой путь. Поддержать издание книги: https://planeta.ru/campaigns/mir_geroev",
+      "links": [
+        {
+          "title": "Степан Андреевич Зотов",
+          "url": "https://cosmatica.org/users/38"
+        },
+        {
+          "title": "задача",
+          "url": "https://cosmatica.org/glossary/127-zadacha.html"
+        },
+        {
+          "title": "Система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        },
+        {
+          "title": "Воля",
+          "url": "https://cosmatica.org/glossary/154-volja.html"
+        },
+        {
+          "title": "https://planeta.ru/campaigns/mir_geroev",
+          "url": "https://vk.com/away.php?to=https%3A%2F%2Fplaneta.ru%2Fcampaigns%2Fmir_geroev&post=-69614724_5065&cc_key="
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/b/5/o-knige-mir-geroev-ot-avtora-photo-normal.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1803,
+    "storedTextCharacters": 11,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 49097
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1662,
+  "capturedBodyCharacters": 11,
+  "sourceTextSHA256": "6abd2cfe809813f66c8fb4fea5f864eca1b114528a50668277bf30169397aeeb",
+  "archiveSnapshotAt": "2026-10-08T08:52:48Z",
+  "publicVideoCount": 1
+}

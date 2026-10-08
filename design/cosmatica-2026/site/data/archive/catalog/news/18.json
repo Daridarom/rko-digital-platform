@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 18,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "На фронтах культурно-просветительских",
+      "description": "- Глава Русского Космического Общества, участник СВО Алексей Алексеевич Гапонов ;",
+      "url": "https://cosmatica.org/news/1926-na-frontah-kulturno-prosvetitelskih.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/e/02b268c4.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1ddf4519811f8f2a74",
+      "type": "news-item",
+      "sourceCharacters": 6744,
+      "verified": false
+    },
+    {
+      "title": "Научный Совет РАН заслушал доклад Главы РКО",
+      "description": "29 августа 2024 года в помещении Российской академии наук состоялось заседание Научного Совета РАН по комплексным проблемам евразийской экономической интеграции, модернизации, конкурентоспособности и устойчивому развитию. Тема заседания: «О современных подходах к достижению целей устойчивого развития». Заседание вёл руководитель Совета, академик РАН, член Коллегии (Министра) по интеграции и макроэкономике ЕЭК Сергей ",
+      "url": "https://cosmatica.org/news/1925-nauchnyi-sovet-ran-zaslushal-doklad-glavy-rko.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/8/17f4ab88.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ca20d2ee42de036969",
+      "type": "news-item",
+      "sourceCharacters": 3338,
+      "verified": false
+    },
+    {
+      "title": "Воспитаем поколение космодесантников вместе!",
+      "description": "с 1 по 12 августа 2024г. 33 будущих космодесантника проходили очередные испытания.",
+      "url": "https://cosmatica.org/news/1924-vospitaem-pokolenie-kosmodesantnikov-vmeste.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/6/vospitaem-pokolenie-kosmodesantnikov-vmeste-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2ed05974fcdcbf5176",
+      "type": "news-item",
+      "sourceCharacters": 15161,
+      "verified": false
+    },
+    {
+      "title": "Выходные на море с пользой для дела",
+      "description": "Вечером 6 августа пять машин выдвинулись из Москвы в южном направлении. Дорога лежала к морю.",
+      "url": "https://cosmatica.org/news/1923-vyhodnye-na-more-s-polzoi-dlja-dela.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/b/vyhodnye-na-more-s-polzoi-dlja-dela-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0c514cb3ae5af5e40e",
+      "type": "news-item",
+      "sourceCharacters": 3233,
+      "verified": false
+    },
+    {
+      "title": "Нирма \"Поселенец\" - высадка на планету УМО",
+      "description": "Второй этап летних сборов \"Миссия Нирма - Поселенец\" успешно завершён!",
+      "url": "https://cosmatica.org/news/1922-nirma-poselenec-vysadka-na-planetu-umo.html",
+      "image": "https://cosmatica.org/upload/003/u318/d/e/nirma-poselenec-vysadka-na-planetu-umo-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a68e6c7a284f3898d4",
+      "type": "news-item",
+      "sourceCharacters": 11003,
+      "verified": false
+    },
+    {
+      "title": "75 лет пути в труде и борьбе",
+      "description": "Сегодня 75 лет жизненного пути выдающегося нашего соотечественника, соратника и содея - Вячеслава Васильевича Обрежи.",
+      "url": "https://cosmatica.org/news/1921-75-let-puti-v-trude-i-borbe.html",
+      "image": "https://cosmatica.org/upload/000/u7/6/7/e660dfed.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=41a179b08b106d4c28",
+      "type": "news-item",
+      "sourceCharacters": 6099,
+      "verified": false
+    },
+    {
+      "title": "Экономика по-русски",
+      "description": "В рамках выработки цивилизационного проекта \"ЭРА\" одним из центральных вопросов является, на каких принципах в обществе будущего должна строиться новая экономическая модель производства? Какая система экономических отношений должна быть построена? Как заметил генеральный секретарь Юрий Андропов «мы не знаем страны, в которой живём» .",
+      "url": "https://cosmatica.org/news/1920-ekonomika-po-russki.html",
+      "image": "https://cosmatica.org/upload/000/u46/0/5/ekonomika-po-russki-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f1371110483f865ea9",
+      "type": "news-item",
+      "sourceCharacters": 3432,
+      "verified": false
+    },
+    {
+      "title": "В России появилась первая Улица трезвости",
+      "description": "04 августа 2024 года члены РКО приняли участие в торжественной установке адресной таблички на дом на улице Трезвости в Тарусском районе Калужской области.",
+      "url": "https://cosmatica.org/news/1919-v-rossii-pojavilas-pervaja-ulica-trezvosti.html",
+      "image": "https://cosmatica.org/upload/000/u46/2/7/v-rossii-pojavilas-pervaja-ulica-trezvosti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=203ebd23700f7e905f",
+      "type": "news-item",
+      "sourceCharacters": 3365,
+      "verified": false
+    },
+    {
+      "title": "Беларусь космическая",
+      "description": "1 и 2 августа представители Русского Космического Общества в лице Главы - Гапонова Алексея Алексеевича и Действительного члена РКО, координатора Евразийского клуба Михайлова Анатолия Феликсовича посетили Республику Беларусь.",
+      "url": "https://cosmatica.org/news/1918-belarus-kosmicheskaja.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/1/belarus-kosmicheskaja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=519f5dc74a52bdb7ef",
+      "type": "news-item",
+      "sourceCharacters": 4437,
+      "verified": false
+    },
+    {
+      "title": "Новые выпуски научных журналов по устойчивому развитию",
+      "description": "Опубликованы научные статьи по результатам Международного форума «Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва человечества», состоявшегося с 18 по 24 мая 2024 года.",
+      "url": "https://cosmatica.org/news/1917-novye-vypuski-nauchnyh-zhurnalov-po-ustoichivomu-razvitiyu.html",
+      "image": "https://cosmatica.org/upload/000/u46/8/d/novye-vypuski-nauchnyh-zhurnalov-po-ustoichivomu-razvitiyu-photo-nor.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=acdb3364e03d97ed81",
+      "type": "news-item",
+      "sourceCharacters": 3546,
+      "verified": false
+    },
+    {
+      "title": "Вклад в детей - вклад в Победу!",
+      "description": "Брянский фонд «Вместе за Будущее!» при поддержке Фонда президентских грантов, приступил к реализации гуманитарно-просветительского проекта для детей Донбасса — «Штаб вклада в Победу — 2».",
+      "url": "https://cosmatica.org/news/1916-vklad-v-detei-vklad-v-pobedu.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/e/v-pomosch-detjam-donbassa-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c10bc01679163a62df",
+      "type": "news-item",
+      "sourceCharacters": 6248,
+      "verified": false
+    },
+    {
+      "title": "Ноосферно-парадигмальная революция в системе научного мировоззрения как основа новой миссии науки",
+      "description": "\"Ноосферно-парадигмальная революция в системе научного мировоззрения как основа новой миссии науки, образования и воспитания\" под таким названием вышла коллективная монография по материалам XIII Международной научной конференции «Ноосферное образования в евразийском пространстве».",
+      "url": "https://cosmatica.org/news/1915-noosferno-paradigmalnaja-revolyucija-v-sisteme-nauchnogo-mirovozzrenija-kak-osnova-novoi-missii.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/7/b627cbfc.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=661769b8c790957f26",
+      "type": "news-item",
+      "sourceCharacters": 1326,
+      "verified": false
+    },
+    {
+      "title": "Встал в Вечный Строй Геннадий Иванович Тищенко",
+      "description": "20 июля 2024г, только отметив свой 76-й День рождения, покинул этот мир человек-эпоха.",
+      "url": "https://cosmatica.org/news/1914-vstal-v-vechnyi-stroi-gennadii-ivanovich-tischenko.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/5/vstal-v-vechnyi-stroi-gennadii-ivanovich-tischenko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0bd1589ab1e75e02ab",
+      "type": "news-item",
+      "sourceCharacters": 3595,
+      "verified": false
+    },
+    {
+      "title": "Сформирован штаб Союза Народного Сплочения Брянской области",
+      "description": "Основным инициатором собрания стало Региональное отделение Русского Космического Общества Брянской области под руководством Щербенко Алексея Васильевича .",
+      "url": "https://cosmatica.org/news/1913-sformirovan-shtab-soyuza-narodnogo-splochenija-brjanskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/9/f235ed53.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9e4c8670e9260946f3",
+      "type": "news-item",
+      "sourceCharacters": 3889,
+      "verified": false
+    },
+    {
+      "title": "Счастливые люди Новороссии",
+      "description": "Счастье нельзя найти снаружи, оно внутри нас, в нашем сердце. И живет там, когда мы что-то делаем для других людей, для своей Родины.",
+      "url": "https://cosmatica.org/news/1912-schastlivye-lyudi-novorossii.html",
+      "image": "https://cosmatica.org/upload/000/u7/6/6/schastlivye-lyudi-novorossii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=24de41ba4283fae39b",
+      "type": "news-item",
+      "sourceCharacters": 1751,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

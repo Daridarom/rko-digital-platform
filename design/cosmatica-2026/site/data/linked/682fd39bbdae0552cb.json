@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/366-specialnyi-vypusk-1-2008.html",
+  "title": "Специальный выпуск (1) (2008)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Сетевое научное издание \"Устойчивое развитие: наука и практика\"",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Содержание:",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Слово об учителе Страницы биографии Побиск Георгиевич Кузнецова",
+      "spans": [
+        {
+          "text": "Слово об учителе",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "Страницы биографии Побиск Георгиевич Кузнецова"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Кузнецов Побиск Георгиевич Искусственный интеллект и разум человеческой популяции Большаков Борис Евгеньевич, Кузнецов Олег Леонидович Побиск Георгиевич Кузнецов и проблема устойчивого развития Человечества Никаноров Спартак Петрович Концептуальные методы и проектирование",
+      "spans": [
+        {
+          "text": "Кузнецов Побиск Георгиевич",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " Искусственный интеллект и разум человеческой популяции"
+        },
+        {
+          "text": "Большаков Борис Евгеньевич, Кузнецов Олег Леонидович",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " Побиск Георгиевич Кузнецов и  "
+        },
+        {
+          "text": "проблема",
+          "href": "https://cosmatica.org/glossary/63-problema.html"
+        },
+        {
+          "text": " устойчивого развития Человечества"
+        },
+        {
+          "text": "Никаноров Спартак Петрович",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " Концептуальные методы и  "
+        },
+        {
+          "text": "проектирование",
+          "href": "https://cosmatica.org/glossary/71-proektirovanie.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "проблема",
+          "url": "https://cosmatica.org/glossary/63-problema.html"
+        },
+        {
+          "text": "проектирование",
+          "url": "https://cosmatica.org/glossary/71-proektirovanie.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Приложение к журналу",
+      "spans": [
+        {
+          "text": "Приложение к журналу",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Большаков Борис Евгеньевич Теория и методология проектирования устойчивого развития социо-природных систем (учебно-методический комплекс)",
+      "spans": [
+        {
+          "text": "Большаков Борис Евгеньевич",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Теория",
+          "href": "https://cosmatica.org/glossary/35-teorija.html"
+        },
+        {
+          "text": " и  "
+        },
+        {
+          "text": "методология",
+          "href": "https://cosmatica.org/glossary/102-metodologija.html"
+        },
+        {
+          "text": " проектирования устойчивого развития социо-природных систем (учебно-методический комплекс)"
+        }
+      ],
+      "links": [
+        {
+          "text": "Теория",
+          "url": "https://cosmatica.org/glossary/35-teorija.html"
+        },
+        {
+          "text": "методология",
+          "url": "https://cosmatica.org/glossary/102-metodologija.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Скачать: spec_vipysk.pdf",
+      "spans": [
+        {
+          "text": "Скачать: ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "spec_vipysk.pdf",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/upload/redactorfiles/spec_vipysk.pdf"
+        },
+        {
+          "text": " ",
+          "marks": [
+            "bold"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "spec_vipysk.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/spec_vipysk.pdf"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Содержание: Слово об учителе Страницы биографии Побиск Георгиевич Кузнецова Кузнецов Побиск Георгиевич Искусственный интеллект и разум человеческой популяции Большаков Борис Евгеньевич, Кузнецов Олег Леонидович Побиск Георгиевич Кузнецов и проблема устойчивого развития Человечества Никаноров Спартак Петрович Концептуальные методы и проектирование Приложение к журналу Большаков Борис Евгеньевич Теория и методология проектирования устойчивого развития социо-природных систем (учебно-методический комплекс) Скачать: spec_vipysk.pdf",
+      "links": [
+        {
+          "title": "проблема",
+          "url": "https://cosmatica.org/glossary/63-problema.html"
+        },
+        {
+          "title": "проектирование",
+          "url": "https://cosmatica.org/glossary/71-proektirovanie.html"
+        },
+        {
+          "title": "Теория",
+          "url": "https://cosmatica.org/glossary/35-teorija.html"
+        },
+        {
+          "title": "методология",
+          "url": "https://cosmatica.org/glossary/102-metodologija.html"
+        },
+        {
+          "title": "spec_vipysk.pdf",
+          "url": "https://cosmatica.org/upload/redactorfiles/spec_vipysk.pdf"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 648,
+    "storedTextCharacters": 591,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 5,
+    "sourceBytes": 75637
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 553,
+  "capturedBodyCharacters": 591,
+  "sourceTextSHA256": "afe998dc6c1c2efa1dfa47b11b6513d7c4fbcd58e09e736ecab018790c8621e5",
+  "archiveSnapshotAt": "2026-10-08T08:41:20Z"
+}

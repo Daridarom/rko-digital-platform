@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 15,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Встала Дружина Гагаринцев Запорожья",
+      "description": "Дружина Гагаринцев Запорожья символично начала свой путь в стенах мелитопольской школы №9, носящей имя первого космонавта планеты Земля Ю.А. Гагарина.",
+      "url": "https://cosmatica.org/news/1976-vstala-druzhina-gagarincev-zaporozhja.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/8/vstala-druzhina-gagarincev-zaporozhja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=956ae3af738f331e76",
+      "type": "news-item",
+      "sourceCharacters": 3612,
+      "verified": false
+    },
+    {
+      "title": "Школа конструкторов будущего в деле",
+      "description": "- Волчков Михаил Юрьевич , член Президиума и руководитель Попечительского совета РКО;",
+      "url": "https://cosmatica.org/news/1975-shkola-konstruktorov-buduschego-v-dele.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/8/shkola-konstruktorov-buduschego-v-dele-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=402a2c42dabc3ff9a9",
+      "type": "news-item",
+      "sourceCharacters": 6919,
+      "verified": false
+    },
+    {
+      "title": "Флаг Русского Космического Общества взвился на горе Митридат",
+      "description": "Крымское отделение Русского Космического Общества было создано давно, в первый год основания самой Организации. Увы, долгое время там не велась активная и системная работа . Как мы знаем, всё зависит от готовности людей на местах имея заинтересованность в успехе Общего дела брать на себя ответственность и действовать.",
+      "url": "https://cosmatica.org/news/1974-flag-russkogo-kosmicheskogo-obschestva-vzvilsja-na-gore-mitridat.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/a/flag-russkogo-kosmicheskogo-obschestva-vzvilsja-na-gore-mitridat-ph.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=74173e3187bc881073",
+      "type": "news-item",
+      "sourceCharacters": 5147,
+      "verified": false
+    },
+    {
+      "title": "\"Космоноосферная среда\" для всех желающих. Встреча пятая",
+      "description": "Обсуждалось развитие технического и программного обеспечения",
+      "url": "https://cosmatica.org/news/1973-kosmonoosfernaja-sreda-dlja-vseh-zhelayuschih-vstrecha-pjataja.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/e/kosmonoosfernaja-sreda-dlja-vseh-zhelayuschih-vstrecha-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=85a672d2419fafea01",
+      "type": "news-item",
+      "sourceCharacters": 2373,
+      "verified": false
+    },
+    {
+      "title": "Шесть лет в Вечном строю с нами стоит Большаков Борис Евгеньевич",
+      "description": "Он Жизнь любил и отдавал себя всего Ей без остатка,",
+      "url": "https://cosmatica.org/news/1972-shest-let-v-vechnom-stroyu-s-nami-stoit-bolshakov-boris-evgenevich.html",
+      "image": "https://cosmatica.org/upload/000/u7/0/6/a2dd271f.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4ec2b9d226d6963fc7",
+      "type": "news-item",
+      "sourceCharacters": 4988,
+      "verified": false
+    },
+    {
+      "title": "Быть гагаринцем",
+      "description": "4 года в школе № 9 существует дружина юных последователей первого космонавта Юрия Алексеевича Гагарина. Под руководством талантливого учителя, замечательного человека Ларисы Владимировна Мячиной ребята изучают жизнь и подвиг героя, ведут большую экологическую работу, участвуют в различных конкурсах, имеют огромное количество призов и наград за свою деятельность, а главное, они всегда готовы к доброму делу и поступку.",
+      "url": "https://cosmatica.org/news/1971-byt-gagarincem.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/c/3d5440dd.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=181b04e3d3541c010f",
+      "type": "news-item",
+      "sourceCharacters": 2518,
+      "verified": false
+    },
+    {
+      "title": "А что нас ждёт в 2084-м?",
+      "description": "В музейном пространстве \"Ловцы слов\" прошла форсайт-мастерская от Литературного музея \"ХХ век\" и Русского Космического Общества, на которой студенческие команды, используя позитивное и творческое мышление, проектировали наше будущее 2084 года!",
+      "url": "https://cosmatica.org/news/1970-a-chto-nas-zhdyot-v-2084-m.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/9/ecd6c22f.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=de9654d16cd3e67bae",
+      "type": "news-item",
+      "sourceCharacters": 1717,
+      "verified": false
+    },
+    {
+      "title": "Пройдя по \"Звёздному пути\"",
+      "description": "В кемеровском аэропорту 8 ноября 2024г состоялась церемония награждения участников международного конкурса изобразительного искусства имени дважды Героя Советского Союза летчика – космонавта А.А. Леонова «Звездный путь Алексея Леонова».",
+      "url": "https://cosmatica.org/news/1969-proidja-po-zvyozdnomu-puti.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/a/proidja-po-zvyozdnomu-puti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cb7cc03ce612cd6774",
+      "type": "news-item",
+      "sourceCharacters": 1271,
+      "verified": false
+    },
+    {
+      "title": "Россия и мир, взгляд на тысячу лет вперёд",
+      "description": "Для всех станет очевиден конец капиталистического проекта. Теряющие власть владельцы ТНК («хозяева денег») будут разжигать по всему миру локальные конфликты с попыткой втянуть человечество в глобальный ядерный конфликт в Северном полушарии. Многие регионы мира, включая Европу и США, охватят гражданские и межконфессиональные войны. Между тем, в России будет сформулирован и озвучен на самом высоком уровне новый проект ",
+      "url": "https://cosmatica.org/news/1968-rossija-i-mir-vzgljad-na-tysjachu-let-vperyod.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/2/rossija-i-mir-vzgljad-na-tysjachu-let-vperyod-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bfe66dab7d0816dd83",
+      "type": "news-item",
+      "sourceCharacters": 13712,
+      "verified": false
+    },
+    {
+      "title": "Книги для Новороссии",
+      "description": "2 ноября в библиотечную сеть Волновахского муниципального округа ДНР приехала самая крупная партия литературы за всю историю нашей совместной работы. На двух машинах в Волноваху было доставлено 4 тонны книг различной направленности.",
+      "url": "https://cosmatica.org/news/1966-knigi-dlja-novorossii.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/c/knigi-dlja-novorossii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d7417db147a0351fe8",
+      "type": "news-item",
+      "sourceCharacters": 2357,
+      "verified": false
+    },
+    {
+      "title": "В «Космоноосферной среде» завершили обсуждение научных оснований «Космоноосферы NBICS.NET»",
+      "description": "Генетическое проектирование организационных структур",
+      "url": "https://cosmatica.org/news/1965-v-kosmonoosfernoi-srede-zavershili-obsuzhdenie-nauchnyh-osnovanii-kosmonoosfery-nbics-net.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/4/d8525580.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f703cc1b3eb40ecd3c",
+      "type": "news-item",
+      "sourceCharacters": 2556,
+      "verified": false
+    },
+    {
+      "title": "Пока Земля ещё живёт... Разбуди свой разум человек",
+      "description": "Предлагаемая вниманию читателя новая книга А.И.Субетто представляет собой сборник избранных работ автора.",
+      "url": "https://cosmatica.org/news/1964-poka-zemlja-eschyo-zhivyot.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/1/poka-zemlja-eschyo-zhivyot-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c21cf2c8ff6a820ef0",
+      "type": "news-item",
+      "sourceCharacters": 9394,
+      "verified": false
+    },
+    {
+      "title": "Фонд \"Светославъ\". Десять лет в Пути",
+      "description": "Прославляя легендарного князя Святослава, мы, прежде всего, отдаем дань Руси. Пока жива Русь, будут актуальны её наследие, стратегия и перспективы на будущее.",
+      "url": "https://cosmatica.org/news/1963-fond-svetoslav-desjat-let-v-puti.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/f/a9fdfd22.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=dafb795f8e404947bc",
+      "type": "news-item",
+      "sourceCharacters": 12367,
+      "verified": false
+    },
+    {
+      "title": "В «Космоноосферной среде» обсудили научные основания «Космоноосферы NBICS.NET»",
+      "description": "1) Наличие глубокой связи между абстрактной теорией ступеней множеств и таких наук, как математика, общая теория систем, аутопойезис, технетику, организационную кибернетику, общую формальную технологий и т.д. В целом они рассматривают разнообразия и отношения на различных системных уровнях.",
+      "url": "https://cosmatica.org/news/1962-kosmicheskaja-sreda-dlja-vseh-zhelayuschih-vstrecha-3.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/1/kosmicheskaja-sreda-dlja-vseh-zhelayuschih-vstrecha-3-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5c3aa3c5e82bc83230",
+      "type": "news-item",
+      "sourceCharacters": 2899,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество пришло в Тюмень",
+      "description": "31 октября 2024 года в пространстве коллективной работы «Точка Кипения-Тюмень» было проведено первое открытое заседание Тюменского регионального отделения Русского Космического Общества. Первая официальная встреча тюменских космистов вызвала интерес общественности и собрала несколько десятков гостей, среди которых были лидеры тюменского некоммерческого сектора, молодёжные активисты и волонтёры, представители организа",
+      "url": "https://cosmatica.org/news/1961-russkoe-kosmicheskoe-obschestvo-prishlo-v-tyumen.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/6/russkoe-kosmicheskoe-obschestvo-prishlo-v-tyumen-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=48628fb1b7ee6d6da0",
+      "type": "news-item",
+      "sourceCharacters": 4020,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

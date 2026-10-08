@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/17-moiseev-nikita-nikolaevich-sudba-civilizacii-put-razuma.html",
+  "title": "Моисеев Никита Николаевич - Судьба цивилизации, путь разума",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/bc/6e/moiseev-nikita-nikolaevich-sudba-civilizacii-put-razuma-phot.jpg",
+      "alt": "Моисеев Никита Николаевич - Судьба цивилизации, путь разума"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга несомненно будет полезна не только учащимся и профессионалам в области экологического образования, но и широким слоям читателей, задумывающихся о том, что ждет нас и грядущие поколения в ближайшей и отдаленной перспективе эволюции жизни на планете Земля.",
+      "spans": [
+        {
+          "text": "Книга несомненно будет полезна не только учащимся и профессионалам в области экологического образования, но и широким слоям читателей, задумывающихся о том, что ждет нас и грядущие поколения в ближайшей и отдаленной перспективе эволюции жизни на планете Земля."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Моисеев Никита Николаевич",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга несомненно будет полезна не только учащимся и профессионалам в области экологического образования, но и широким слоям читателей, задумывающихся о том, что ждет нас и грядущие поколения в ближайшей и отдаленной перспективе эволюции жизни на планете Земля.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 1 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/28/a626936dcb6206c3bbee11821da25c5c"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/bc/6e/moiseev-nikita-nikolaevich-sudba-civilizacii-put-razuma-phot.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/28/a626936dcb6206c3bbee11821da25c5c"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 372,
+    "storedTextCharacters": 260,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40585
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 312,
+  "capturedBodyCharacters": 260,
+  "sourceTextSHA256": "b43e53d0584d4e12f8a838b4f19d1e4edcd8eaa98874dcd954820b4f319d24c4",
+  "archiveSnapshotAt": "2026-10-08T08:47:50Z"
+}

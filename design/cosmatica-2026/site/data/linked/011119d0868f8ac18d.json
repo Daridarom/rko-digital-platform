@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/fantastika",
+  "title": "Фантастика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "Покер с Богом",
+          "Майя Сиволобова",
+          ""
+        ],
+        [
+          "",
+          "Кто первый",
+          "Андрей Гореликов",
+          ""
+        ],
+        [
+          "",
+          "День, когда меня внесли в протокол",
+          "Давид Гадималиев",
+          ""
+        ],
+        [
+          "",
+          "Преступник не найден",
+          "Олег Лаврентьев",
+          ""
+        ],
+        [
+          "",
+          "Весёлый водный мир",
+          "Андрей Мансуров",
+          ""
+        ],
+        [
+          "",
+          "Время Энджи",
+          "Алексей Жарков",
+          ""
+        ],
+        [
+          "",
+          "Чистый Мир. Интуитивно-научный взгляд",
+          "Тимошенко Леонид Викторович",
+          ""
+        ],
+        [
+          "",
+          "Русский синдром",
+          "Тимошенко Леонид Викторович",
+          ""
+        ],
+        [
+          "",
+          "\"Воспитание чувств-почти по Флоберу\"",
+          "Тимошенко Леонид Викторович",
+          ""
+        ],
+        [
+          "",
+          "Летопись - 5 книга. Каноны Мироздания и жизнь Человека",
+          "Тимошенко Леонид Викторович",
+          ""
+        ],
+        [
+          "",
+          "Планета",
+          "Тимошенко Леонид Викторович",
+          ""
+        ],
+        [
+          "",
+          "Жизнь",
+          "Тимошенко Леонид Викторович",
+          ""
+        ],
+        [
+          "",
+          "\"Хроники нового ковчега. Раскрывая матрицы будущего\".",
+          "Тимошенко Леонид Викторович",
+          ""
+        ],
+        [
+          "",
+          "Жажда",
+          "Степан Андреевич Зотов",
+          ""
+        ],
+        [
+          "",
+          "Велосипед",
+          "Степан Андреевич Зотов",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/9/bb5beb82.jpg",
+      "alt": "Покер с Богом"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/c/f/04a59e83.jpg",
+      "alt": "Кто первый"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/4/den-kogda-menja-vnesli-v-protokol-photo-small.jpg",
+      "alt": "День, когда меня внесли в протокол"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/5/a1914e30.jpg",
+      "alt": "Преступник не найден"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/d/e/e43a5d0a.jpg",
+      "alt": "Весёлый водный мир"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/a/d/cf1489a9.jpg",
+      "alt": "Время Энджи"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/0/a/hroniki-novogo-kovchega-raskryvaja-matricy-buduschego-photo-smal.jpg",
+      "alt": "\"Хроники нового ковчега. Раскрывая матрицы будущего\"."
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u38/f/4/zhazhda-photo-small.png",
+      "alt": "Жажда"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u38/e/f/velosiped-photo-small.jpg",
+      "alt": "Велосипед"
+    }
+  ],
+  "cards": [
+    {
+      "title": "Покер с Богом",
+      "description": "Покер с Богом Майя Сиволобова",
+      "url": "https://cosmatica.org/library/552-poker-s-bogom.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/9/bb5beb82.jpg",
+      "links": [
+        {
+          "title": "Покер с Богом",
+          "url": "https://cosmatica.org/library/552-poker-s-bogom.html"
+        }
+      ]
+    },
+    {
+      "title": "Кто первый",
+      "description": "Кто первый Андрей Гореликов",
+      "url": "https://cosmatica.org/library/551-kto-pervyi.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/f/04a59e83.jpg",
+      "links": [
+        {
+          "title": "Кто первый",
+          "url": "https://cosmatica.org/library/551-kto-pervyi.html"
+        }
+      ]
+    },
+    {
+      "title": "День, когда меня внесли в протокол",
+      "description": "День, когда меня внесли в протокол Давид Гадималиев",
+      "url": "https://cosmatica.org/library/550-den-kogda-menja-vnesli-v-protokol.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/4/den-kogda-menja-vnesli-v-protokol-photo-small.jpg",
+      "links": [
+        {
+          "title": "День, когда меня внесли в протокол",
+          "url": "https://cosmatica.org/library/550-den-kogda-menja-vnesli-v-protokol.html"
+        }
+      ]
+    },
+    {
+      "title": "Преступник не найден",
+      "description": "Преступник не найден Олег Лаврентьев",
+      "url": "https://cosmatica.org/library/547-prestupnik-ne-naiden.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/5/a1914e30.jpg",
+      "links": [
+        {
+          "title": "Преступник не найден",
+          "url": "https://cosmatica.org/library/547-prestupnik-ne-naiden.html"
+        }
+      ]
+    },
+    {
+      "title": "Весёлый водный мир",
+      "description": "Весёлый водный мир Андрей Мансуров",
+      "url": "https://cosmatica.org/library/546-vesyolyi-vodnyi-mir.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/e/e43a5d0a.jpg",
+      "links": [
+        {
+          "title": "Весёлый водный мир",
+          "url": "https://cosmatica.org/library/546-vesyolyi-vodnyi-mir.html"
+        }
+      ]
+    },
+    {
+      "title": "Время Энджи",
+      "description": "Время Энджи Алексей Жарков",
+      "url": "https://cosmatica.org/library/545-vremja-endzhi.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/d/cf1489a9.jpg",
+      "links": [
+        {
+          "title": "Время Энджи",
+          "url": "https://cosmatica.org/library/545-vremja-endzhi.html"
+        }
+      ]
+    },
+    {
+      "title": "Чистый Мир. Интуитивно-научный взгляд",
+      "description": "Чистый Мир. Интуитивно-научный взгляд Тимошенко Леонид Викторович",
+      "url": "https://cosmatica.org/library/542-chistyi-mir-intuitivno-nauchnyi-vzgljad.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Чистый Мир. Интуитивно-научный взгляд",
+          "url": "https://cosmatica.org/library/542-chistyi-mir-intuitivno-nauchnyi-vzgljad.html"
+        }
+      ]
+    },
+    {
+      "title": "Русский синдром",
+      "description": "Русский синдром Тимошенко Леонид Викторович",
+      "url": "https://cosmatica.org/library/530-russkii-sindrom.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Русский синдром",
+          "url": "https://cosmatica.org/library/530-russkii-sindrom.html"
+        }
+      ]
+    },
+    {
+      "title": "\"Воспитание чувств-почти по Флоберу\"",
+      "description": "\"Воспитание чувств-почти по Флоберу\" Тимошенко Леонид Викторович",
+      "url": "https://cosmatica.org/library/517-vospitanie-chuvstv-pochti-po-floberu.html",
+      "image": null,
+      "links": [
+        {
+          "title": "\"Воспитание чувств-почти по Флоберу\"",
+          "url": "https://cosmatica.org/library/517-vospitanie-chuvstv-pochti-po-floberu.html"
+        }
+      ]
+    },
+    {
+      "title": "Летопись - 5 книга. Каноны Мироздания и жизнь Человека",
+      "description": "Летопись - 5 книга. Каноны Мироздания и жизнь Человека Тимошенко Леонид Викторович",
+      "url": "https://cosmatica.org/library/514-letopis-5-kniga-kanony-mirozdanija-i-zhizn-cheloveka.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Летопись - 5 книга. Каноны Мироздания и жизнь Человека",
+          "url": "https://cosmatica.org/library/514-letopis-5-kniga-kanony-mirozdanija-i-zhizn-cheloveka.html"
+        }
+      ]
+    },
+    {
+      "title": "Планета",
+      "description": "Планета Тимошенко Леонид Викторович",
+      "url": "https://cosmatica.org/library/496-planeta.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Планета",
+          "url": "https://cosmatica.org/library/496-planeta.html"
+        }
+      ]
+    },
+    {
+      "title": "Жизнь",
+      "description": "Жизнь Тимошенко Леонид Викторович",
+      "url": "https://cosmatica.org/library/495-zhizn.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Жизнь",
+          "url": "https://cosmatica.org/library/495-zhizn.html"
+        }
+      ]
+    },
+    {
+      "title": "\"Хроники нового ковчега. Раскрывая матрицы будущего\".",
+      "description": "\"Хроники нового ковчега. Раскрывая матрицы будущего\". Тимошенко Леонид Викторович",
+      "url": "https://cosmatica.org/library/474-hroniki-novogo-kovchega-raskryvaja-matricy-buduschego.html",
+      "image": "https://cosmatica.org/upload/000/u7/0/a/hroniki-novogo-kovchega-raskryvaja-matricy-buduschego-photo-smal.jpg",
+      "links": [
+        {
+          "title": "\"Хроники нового ковчега. Раскрывая матрицы будущего\".",
+          "url": "https://cosmatica.org/library/474-hroniki-novogo-kovchega-raskryvaja-matricy-buduschego.html"
+        }
+      ]
+    },
+    {
+      "title": "Жажда",
+      "description": "Жажда Степан Андреевич Зотов",
+      "url": "https://cosmatica.org/library/448-zhazhda.html",
+      "image": "https://cosmatica.org/upload/000/u38/f/4/zhazhda-photo-small.png",
+      "links": [
+        {
+          "title": "Жажда",
+          "url": "https://cosmatica.org/library/448-zhazhda.html"
+        }
+      ]
+    },
+    {
+      "title": "Велосипед",
+      "description": "Велосипед Степан Андреевич Зотов",
+      "url": "https://cosmatica.org/library/447-velosiped.html",
+      "image": "https://cosmatica.org/upload/000/u38/e/f/velosiped-photo-small.jpg",
+      "links": [
+        {
+          "title": "Велосипед",
+          "url": "https://cosmatica.org/library/447-velosiped.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/e/9/bb5beb82.jpg",
+    "https://cosmatica.org/upload/002/u218/c/f/04a59e83.jpg",
+    "https://cosmatica.org/upload/002/u218/7/4/den-kogda-menja-vnesli-v-protokol-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/f/5/a1914e30.jpg",
+    "https://cosmatica.org/upload/002/u218/d/e/e43a5d0a.jpg",
+    "https://cosmatica.org/upload/002/u218/a/d/cf1489a9.jpg",
+    "https://cosmatica.org/upload/000/u7/0/a/hroniki-novogo-kovchega-raskryvaja-matricy-buduschego-photo-smal.jpg",
+    "https://cosmatica.org/upload/000/u38/f/4/zhazhda-photo-small.png",
+    "https://cosmatica.org/upload/000/u38/e/f/velosiped-photo-small.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 751,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 15,
+    "sourceImageCount": 9,
+    "paragraphCount": 0,
+    "sourceBytes": 59538
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 751,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "6ef170763fc44d1ee7a4cfe8af427ad13ddc196ab93df07ec1e2aa8413245f98",
+  "archiveSnapshotAt": "2026-10-08T08:51:12Z"
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/998-tropa-muzhestva-leto-2020-anons.html",
+  "title": "Тропа мужества. Лето 2020. Анонс",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Тропа Мужества",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "«Тропа Мужества» — пеший комплексный марафон, позволяющий проверить и изменить себя на одной из четырёх дистанций: 15, 35, 70, и .... 210 км !!!",
+      "spans": [
+        {
+          "text": "«Тропа Мужества» — пеший комплексный марафон, позволяющий проверить и изменить себя на одной из четырёх дистанций: 15, 35, 70, и .... 210 км !!!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Девиз мероприятия – «Проверь себя!»",
+      "spans": [
+        {
+          "text": "Девиз мероприятия – «Проверь себя!» "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Смотрим! Заряжаемся! Готовимся!",
+      "spans": [
+        {
+          "text": "Смотрим! Заряжаемся! Готовимся! "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Официальный сайт: http://www.natrope.com",
+      "spans": [
+        {
+          "text": "Официальный сайт: http://www.natrope.com "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа в вконтакте: https://vk.com/natropu",
+      "spans": [
+        {
+          "text": " Группа в вконтакте: "
+        },
+        {
+          "text": "https://vk.com/natropu",
+          "href": "https://vk.com/natropu"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "https://vk.com/natropu",
+          "url": "https://vk.com/natropu"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Проект на сайте РКО: https://cosmatica.org/projects/tropa-muzhestva",
+      "spans": [
+        {
+          "text": " "
+        },
+        {
+          "text": "Проект",
+          "href": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": " на сайте РКО: "
+        },
+        {
+          "text": "https://cosmatica.org/projects/tropa-muzhestva",
+          "href": "https://cosmatica.org/projects/tropa-muzhestva"
+        }
+      ],
+      "links": [
+        {
+          "text": "Проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": "https://cosmatica.org/projects/tropa-muzhestva",
+          "url": "https://cosmatica.org/projects/tropa-muzhestva"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "PBV7yMeudUo",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=PBV7yMeudUo"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "«Тропа Мужества» — пеший комплексный марафон, позволяющий проверить и изменить себя на одной из четырёх дистанций: 15, 35, 70, и .... 210 км !!! Девиз мероприятия – «Проверь себя!» Смотрим! Заряжаемся! Готовимся! Официальный сайт: http://www.natrope.com Группа в вконтакте: https://vk.com/natropu Проект на сайте РКО: https://cosmatica.org/projects/tropa-muzhestva",
+      "links": [
+        {
+          "title": "https://vk.com/natropu",
+          "url": "https://vk.com/natropu"
+        },
+        {
+          "title": "Проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "https://cosmatica.org/projects/tropa-muzhestva",
+          "url": "https://cosmatica.org/projects/tropa-muzhestva"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 565,
+    "storedTextCharacters": 374,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 6,
+    "sourceBytes": 75985
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 516,
+  "capturedBodyCharacters": 374,
+  "sourceTextSHA256": "5750e7bd2d962c42ac3527734e40cc66ac8c8999e7629ae2c5cbb79779f5d18b",
+  "archiveSnapshotAt": "2026-10-08T08:45:02Z",
+  "publicVideoCount": 1
+}

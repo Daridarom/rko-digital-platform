@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/21-problema-zhizni-i-vtoroi-zakon-termodinamiki.html",
+  "title": "Проблема жизни и второй закон термодинамики",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Многочисленные попытки перечислить отличия живого\r\nот неживого приводят к указанию свойств, наблюдаемых в\r\nживой природе, но не к выделению существ, различия,\r\nпроявляющегося как противоположность",
+      "spans": [
+        {
+          "text": "Многочисленные попытки перечислить отличия живого\r\nот неживого приводят к указанию свойств, наблюдаемых в\r\nживой природе, но не к выделению существ, различия,\r\nпроявляющегося как противоположность"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Многочисленные попытки перечислить отличия живого от неживого приводят к указанию свойств, наблюдаемых в живой природе, но не к выделению существ, различия, проявляющегося как противоположность",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 90 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/37/86ca3f3e9755b0bb14195af8e8a48627"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/37/86ca3f3e9755b0bb14195af8e8a48627"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 257,
+    "storedTextCharacters": 196,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39447
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 213,
+  "capturedBodyCharacters": 196,
+  "sourceTextSHA256": "ab78295c2072ae0974f584989e0e87e39931ee64c9d93c2b593615b56caf40d5",
+  "archiveSnapshotAt": "2026-10-08T08:48:02Z"
+}

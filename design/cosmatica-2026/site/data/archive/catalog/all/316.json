@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 316,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Борис Петрович Жданов",
+      "description": "",
+      "url": "https://cosmatica.org/users/362",
+      "image": "https://cosmatica.org/upload/000/u35/0/1/7ecaaefc.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=df79765c09efcd3fd7",
+      "type": "profile",
+      "sourceCharacters": 29,
+      "verified": false
+    },
+    {
+      "title": "Александр Филиппович Бугаёв",
+      "description": "",
+      "url": "https://cosmatica.org/users/363",
+      "image": "https://cosmatica.org/upload/000/u35/e/4/5069d46e.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=6afa5d2db1bcb5196c",
+      "type": "profile",
+      "sourceCharacters": 26,
+      "verified": false
+    },
+    {
+      "title": "Глеб Михайлович Линёв",
+      "description": "Учредитель Представительства РКО в Латвии Руководитель детского лагеря «Система»",
+      "url": "https://cosmatica.org/users/365",
+      "image": "https://cosmatica.org/upload/000/u35/1/f/035369c3.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=120da9efcf6538d68d",
+      "type": "profile",
+      "sourceCharacters": 128,
+      "verified": false
+    },
+    {
+      "title": "Челябинское областное отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/37",
+      "image": "https://cosmatica.org/upload/000/u37/4a/82/2975be20.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=e5d171c2e7e3046011",
+      "type": "profile",
+      "sourceCharacters": 10,
+      "verified": false
+    },
+    {
+      "title": "Борис Борисович Паутов",
+      "description": "«Новгородский государственный педагогический институт» (1995 г.) — технология и предпринимательство;",
+      "url": "https://cosmatica.org/users/371",
+      "image": "https://cosmatica.org/upload/000/u35/1/9/d9a25ba8.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=7c9b6527a1b00aa700",
+      "type": "profile",
+      "sourceCharacters": 333,
+      "verified": false
+    },
+    {
+      "title": "Сергей Викторович Палагин",
+      "description": "(Саратовский политехнический институт, 1977 год.)",
+      "url": "https://cosmatica.org/users/378",
+      "image": "https://cosmatica.org/upload/000/u35/8/9/04bc67ad.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=82ec96ff923dce80a9",
+      "type": "profile",
+      "sourceCharacters": 289,
+      "verified": false
+    },
+    {
+      "title": "Степан Андреевич Зотов",
+      "description": "Член Президиума Русского Космического Общества. Президент РОО «Патриот», член Высшего Совета межрегионального патриотического молодежного движения «Новый Рубеж», координатор юридической службы Национально-Освободительного Движения, руководитель проекта «Наша Армия», федерального направления «Космос и Добровольцы» в Союзе Добровольцев России. Работает в патриотическом воспитании детей и молодежи свыше 10 лет. Руководи",
+      "url": "https://cosmatica.org/users/38",
+      "image": "assets/source/985903cfc0d3bc9081e69e40.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=97789c8c42bc118e21",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Андрей Витальевич Йосу",
+      "description": "",
+      "url": "https://cosmatica.org/users/385",
+      "image": "https://cosmatica.org/upload/000/u35/4/c/7d9b0638.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=5585344e16cc60bbb1",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Валерий Абрамович Шапиро",
+      "description": "Научный руководитель проекта «Технологии ХБО», член союза литераторов РФ, академик РАЕН, автор книг, открытий и изобретений. Более 20 патентов.",
+      "url": "https://cosmatica.org/users/386",
+      "image": "https://cosmatica.org/upload/000/u35/0/7/43d58ead.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=27b03ccec4404a67c6",
+      "type": "profile",
+      "sourceCharacters": 191,
+      "verified": false
+    },
+    {
+      "title": "Антон Владимирович Бессонов",
+      "description": "Председатель Челябинского отделения Русского Космического Общества. Инженер- механик, рядовой запаса Вооруженных сил СССР, исследователь истории создания ракетно-ядерного щита СССР.",
+      "url": "https://cosmatica.org/users/39",
+      "image": "assets/source/dceee7ce4a9a1cca0db02e43.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a10fd99d1494191650",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Станислав Александрович Райковский",
+      "description": "Станочник широкого профиля оператор станков ЧПУ, ВПУ г.Комсомольск-на-Амуре.",
+      "url": "https://cosmatica.org/users/393",
+      "image": "https://cosmatica.org/upload/000/u35/f/f/c3009e2c.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=c463e1ae63ff7b4457",
+      "type": "profile",
+      "sourceCharacters": 935,
+      "verified": false
+    },
+    {
+      "title": "Ксения Владимировна Ермолова",
+      "description": "",
+      "url": "https://cosmatica.org/users/395",
+      "image": "assets/source/b81b28875fee12d8407f9c19.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=de1a4fd2bd14b1b9bd",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Мария Александровна Фонякова (Иванова)",
+      "description": "",
+      "url": "https://cosmatica.org/users/396",
+      "image": "https://cosmatica.org/upload/000/u35/6/f/4690e889.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=67d67e6dbc1276dd12",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Александр Александрович Карпачёв",
+      "description": "С 1984 года активный участник, пропагандист и организатор общественных движений СССР и России за Трезвый здоровый образ жизни (ТЗОЖ): Союз борьбы за народную трезвость (СБНТ).",
+      "url": "https://cosmatica.org/users/40",
+      "image": "https://cosmatica.org/upload/000/u26/10/95/ad31ba9e.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=f585006429cd5ce6ee",
+      "type": "profile",
+      "sourceCharacters": 2802,
+      "verified": false
+    },
+    {
+      "title": "Артём Викторович Тайструк",
+      "description": "",
+      "url": "https://cosmatica.org/users/401",
+      "image": "assets/source/ce9cf8efddc2392a74d3df9b.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=804b646598a29e000c",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

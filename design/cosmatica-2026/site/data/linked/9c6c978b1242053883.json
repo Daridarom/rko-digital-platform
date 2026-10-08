@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/62-rabota.html",
+  "title": "Работа",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "деятельность, мерой которой является произведение рабочего времени на полную",
+      "spans": [
+        {
+          "text": "деятельность, мерой которой является произведение рабочего времени на полную"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мощность",
+      "spans": [
+        {
+          "text": "мощность"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "и КПД техноло­гий.",
+      "spans": [
+        {
+          "text": "и КПД техноло­гий."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "деятельность, мерой которой является произведение рабочего времени на полную мощность и КПД техноло­гий.",
+      "links": [
+        {
+          "title": "мощность",
+          "url": "https://cosmatica.org/glossary/104-moschnost.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 111,
+    "storedTextCharacters": 102,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31868
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 104,
+  "capturedBodyCharacters": 102,
+  "sourceTextSHA256": "081cd7c024155cefefdb4a394cb8033ccfc9a4103ce45a1a5424bfbf215ffdec",
+  "archiveSnapshotAt": "2026-10-08T08:46:55Z"
+}

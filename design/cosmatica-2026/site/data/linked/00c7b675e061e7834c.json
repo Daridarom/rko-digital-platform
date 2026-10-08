@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/22-ustoichivoe-innovacionnoe-razvitie.html",
+  "title": "Устойчивое инновационное развитие",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это инновационное",
+      "spans": [
+        {
+          "text": "это инновационное"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "развитие",
+      "spans": [
+        {
+          "text": "развитие"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "за счет повышения качества управления, уменьшения потерь при не увеличении темпов потребления ресурсов с сохранением развития в условиях негативных внешних и внутренних воздействий.",
+      "spans": [
+        {
+          "text": "за счет повышения качества управления, уменьшения потерь при не увеличении темпов потребления ресурсов с сохранением развития в условиях негативных внешних и внутренних воздействий."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это инновационное развитие за счет повышения качества управления, уменьшения потерь при не увеличении темпов потребления ресурсов с сохранением развития в условиях негативных внешних и внутренних воздействий.",
+      "links": [
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 242,
+    "storedTextCharacters": 206,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32480
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 208,
+  "capturedBodyCharacters": 206,
+  "sourceTextSHA256": "0fae5f59e0c7155ba315dfe01d86fc413697fbe0f5f8157ef4833145623be3c7",
+  "archiveSnapshotAt": "2026-10-08T08:46:44Z"
+}

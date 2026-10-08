@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/a",
+  "title": "А",
+  "intro": "",
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Антидиссипативные процессы",
+      "url": "https://cosmatica.org/glossary/164-antidissipativnye-processy.html",
+      "description": ""
+    },
+    {
+      "title": "Алгоритм",
+      "url": "https://cosmatica.org/glossary/163-algoritm.html",
+      "description": ""
+    },
+    {
+      "title": "Алфавит теории",
+      "url": "https://cosmatica.org/glossary/162-alfavit-teorii.html",
+      "description": ""
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 52,
+    "storedTextCharacters": 48,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 33365
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 52,
+  "capturedBodyCharacters": 48,
+  "sourceTextSHA256": "47bfca4a90b49e1157dbc3645a30f9e6b05e1ddd399b29383606fbd14895e7c0",
+  "archiveSnapshotAt": "2026-10-08T08:47:22Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 3
+}

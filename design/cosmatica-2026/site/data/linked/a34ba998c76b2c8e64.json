@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/372-vsenarodnaja-radost-vne-vremeni-i-granic.html",
+  "title": "Всенародная радость вне времени и границ",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Международная акция 12/04",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/9/f/vsenarodnaja-radost-vne-vremeni-i-granic-photo-normal.jpg",
+      "alt": "Всенародная радость вне времени и границ"
+    },
+    {
+      "type": "quote",
+      "text": "Человек создан для счастья, как птица для полета.",
+      "spans": [
+        {
+          "text": "Человек создан для счастья, как птица для полета.",
+          "marks": [
+            "italic",
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "В.Г. Короленко, «Парадокс»",
+      "spans": [
+        {
+          "text": "В.Г. Короленко, «Парадокс»"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ключевыми словами в воспоминаниях людей по всему Миру о 12 апреля 1961 года являются «радость», «счастье», «восторг», «ликование».",
+      "spans": [
+        {
+          "text": "Ключевыми словами в воспоминаниях людей по всему Миру о 12 апреля 1961 года являются «радость», «счастье», «восторг», «ликование»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Задача нынешнего и грядущих поколений осознанно перенести эти чувства в настоящее и сделать их фундаментом Светлого будущего Человечества.",
+      "spans": [
+        {
+          "text": " "
+        },
+        {
+          "text": "Задача",
+          "href": "https://cosmatica.org/glossary/127-zadacha.html"
+        },
+        {
+          "text": " нынешнего и грядущих поколений осознанно перенести эти чувства в настоящее и сделать их фундаментом Светлого будущего Человечества."
+        }
+      ],
+      "links": [
+        {
+          "text": "Задача",
+          "url": "https://cosmatica.org/glossary/127-zadacha.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Русское Космическое Общество в рамках Всероссийского движения «Сохраняя память» совместно с Общественно-государственным комитетом празднования 85-летия Ю.А. Гагарина продолжает акцию, начатую ПО «Восток.Один».",
+      "spans": [
+        {
+          "text": "Русское Космическое Общество в рамках Всероссийского движения "
+        },
+        {
+          "text": "«Сохраняя память»",
+          "href": "https://cosmatica.org/projects/24"
+        },
+        {
+          "text": " совместно с Общественно-государственным комитетом празднования 85-летия Ю.А. Гагарина продолжает акцию, начатую ПО «Восток.Один»."
+        }
+      ],
+      "links": [
+        {
+          "text": "«Сохраняя память»",
+          "url": "https://cosmatica.org/projects/24"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Задача проекта 12/04 — собирать видео-интервью людей, которые были живыми свидетелями первого полета человека в космическое пространство . О том, как люди встретили известие о полете Гагарина, узнаем от них самих.",
+      "spans": [
+        {
+          "text": "Задача проекта 12/04 — собирать видео-интервью людей, которые были живыми свидетелями первого полета человека в космическое  "
+        },
+        {
+          "text": "пространство",
+          "href": "https://cosmatica.org/glossary/64-prostranstvo.html"
+        },
+        {
+          "text": ". О том, как люди встретили известие о полете Гагарина, узнаем от них самих."
+        }
+      ],
+      "links": [
+        {
+          "text": "пространство",
+          "url": "https://cosmatica.org/glossary/64-prostranstvo.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Если у Вас есть возможность расспросить человека, который помнит тот день, запишите, пожалуйста, на видео его короткое интервью, выложите видео на YouTube или в любое облако, и пришлите ссылку на адрес: gagarin@gagarinday.ru",
+      "spans": [
+        {
+          "text": "Если у Вас есть возможность расспросить человека, который помнит тот день, запишите, пожалуйста, на видео его короткое интервью, выложите видео на YouTube или в любое облако, и пришлите ссылку на адрес: "
+        },
+        {
+          "text": "gagarin@gagarinday.ru",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "С материалами акции можно ознакомиться на сайте Гагаринского комитета в разделе ВИДЕО: Международная акция 12/04",
+      "spans": [
+        {
+          "text": "С материалами акции можно ознакомиться на сайте Гагаринского комитета в разделе "
+        },
+        {
+          "text": "ВИДЕО: Международная акция 12/04",
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fgagarinday.ru%2Fvideo%2Fmezhdunarodnaja-akcija-1204"
+        }
+      ],
+      "links": [
+        {
+          "text": "ВИДЕО: Международная акция 12/04",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fgagarinday.ru%2Fvideo%2Fmezhdunarodnaja-akcija-1204"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На сайте РКО в разделе МЕДИА: https://cosmatica.org/articles/media/mezhdunarodnaja-akcija-1204",
+      "spans": [
+        {
+          "text": "На сайте РКО в разделе МЕДИА: "
+        },
+        {
+          "text": "https://cosmatica.org/articles/media/mezhdunarodnaja-akcija-1204",
+          "href": "https://cosmatica.org/articles/media/mezhdunarodnaja-akcija-1204"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/articles/media/mezhdunarodnaja-akcija-1204",
+          "url": "https://cosmatica.org/articles/media/mezhdunarodnaja-akcija-1204"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Присоединяйтесь!",
+      "spans": [
+        {
+          "text": "Присоединяйтесь!"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "BlonQb6l1Z4",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=BlonQb6l1Z4"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Международная акция 12/04 продолжается.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Человек создан для счастья, как птица для полета. В.Г. Короленко, «Парадокс» Ключевыми словами в воспоминаниях людей по всему Миру о 12 апреля 1961 года являются «радость», «счастье», «восторг», «ликование». Задача нынешнего и грядущих поколений осознанно перенести эти чувства в настоящее и сделать их фундаментом Светлого будущего Человечества. Русское Космическое Общество в рамках Всероссийского движения «Сохраняя память» совместно с Общественно-государственным комитетом празднования 85-летия Ю.А. Гагарина продолжает акцию, начатую ПО «Восток.Один». Задача проекта 12/04 — собирать видео-интервью людей, которые были живыми свидетелями первого полета человека в космическое пространство . О том, как люди встретили известие о полете Гагарина, узнаем от них самих. Если у Вас есть возможность расспросить человека, который помнит тот день, запишите, пожалуйста, на видео его короткое интервью, выложите видео на YouTube или в любое облако, и пришлите ссылку на адрес: gagarin@gagarinday.ru С материалами акции можно ознакомиться на сайте Гагаринского комитета в разделе ВИДЕО: Международная акция 12/04 На сайте РКО в разделе МЕДИА: https://cosmatica.org/articles/media/mezhdunarodnaja-akcija-1204 Присоединяйтесь!",
+      "links": [
+        {
+          "title": "Задача",
+          "url": "https://cosmatica.org/glossary/127-zadacha.html"
+        },
+        {
+          "title": "«Сохраняя память»",
+          "url": "https://cosmatica.org/projects/24"
+        },
+        {
+          "title": "пространство",
+          "url": "https://cosmatica.org/glossary/64-prostranstvo.html"
+        },
+        {
+          "title": "ВИДЕО: Международная акция 12/04",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fgagarinday.ru%2Fvideo%2Fmezhdunarodnaja-akcija-1204"
+        },
+        {
+          "title": "https://cosmatica.org/articles/media/mezhdunarodnaja-akcija-1204",
+          "url": "https://cosmatica.org/articles/media/mezhdunarodnaja-akcija-1204"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/9/f/vsenarodnaja-radost-vne-vremeni-i-granic-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1554,
+    "storedTextCharacters": 1248,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 8,
+    "sourceBytes": 49855
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1376,
+  "capturedBodyCharacters": 1248,
+  "sourceTextSHA256": "e3b57e5765d4b6a641f028b814925c90176241d7a88f11fe8edfd97803504a36",
+  "archiveSnapshotAt": "2026-10-08T09:11:30Z",
+  "publicVideoCount": 1
+}

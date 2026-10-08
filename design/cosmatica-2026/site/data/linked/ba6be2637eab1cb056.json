@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/99-nauchnoe-mirovozzrenie.html",
+  "title": "Научное мировоззрение",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это отношение к миру, опирающееся на зна­ние законов (истин), выраженных в естественных мерах, проверенных временем и подтвержденных практикой.",
+      "spans": [
+        {
+          "text": "это отношение к миру, опирающееся на зна­ние законов (истин), выраженных в естественных мерах, проверенных временем и подтвержденных практикой."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это отношение к миру, опирающееся на зна­ние законов (истин), выраженных в естественных мерах, проверенных временем и подтвержденных практикой.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 165,
+    "storedTextCharacters": 143,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32095
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 143,
+  "capturedBodyCharacters": 143,
+  "sourceTextSHA256": "0f0f548e046b9708c3a859228bdfe7e47b4635d478f454faf47fd72d28340be8",
+  "archiveSnapshotAt": "2026-10-08T08:47:22Z"
+}

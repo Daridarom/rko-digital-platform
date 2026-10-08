@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 95,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Космическое утро в Мультицентре «Скрепка»",
+      "description": "В ответ на письмо Председателя Челябинского отделения РКО от 15 ноября 2019, руководством Департамента образования и науки правительства Курганской области, был направлен письменный ответ, в котором сообщалось о принятом решении провести 10 декабря 2020 года, в Курганском мультицентре «Скрепка», расположенном на улице Максима Горького,129 просветительской лекции-беседы на космическую тематику.",
+      "url": "https://cosmatica.org/news/662-kosmicheskoe-utro-v-multicentre-skrepka.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/8/kosmicheskoe-utro-v-multicentre-skrepka-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1d9968300e14ff7939",
+      "type": "news-item",
+      "sourceCharacters": 2576,
+      "verified": false
+    },
+    {
+      "title": "Завершение Космических каникул",
+      "description": "Несколько дней юные гости столичного региона нашей Родины наполнялись новыми знаниями, вдохновлялись достижениями прошлого и перспективными проектами будущего Отечественной космонавтики.",
+      "url": "https://cosmatica.org/news/660-zavershenie-kosmicheskih-kanikul.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/5/zavershenie-kosmicheskih-kanikul-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=59a5ce84ebbd9b6ac3",
+      "type": "news-item",
+      "sourceCharacters": 1036,
+      "verified": false
+    },
+    {
+      "title": "О фильме \"ЭРА\"",
+      "description": "Это первый фильм проекта \"Киноуроки в школах России\", когда киноурок создаётся не от конкретного субъекта РФ, а совместными усилиями школьников России.",
+      "url": "https://cosmatica.org/news/663-o-filme-era.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/2/o-filme-era-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1a08881f56f74d83a9",
+      "type": "news-item",
+      "sourceCharacters": 975,
+      "verified": false
+    },
+    {
+      "title": "Пятый день Космических каникул - на одном дыхании с космосом",
+      "description": "Музеи НПО имени Лавочкина и НПО имени Хруничева встретили ребят обилием экспонатов, на которые можно было не только смотреть, но и потрогать руками. Причём, если экспонаты музея НПО имени Лавочкина относились к уже достаточно отдалённому для ребят прошлому, в том числе и легендарный луноход, то экспонат музея НПО имени Хруничева - робот Фёдор (его прототип), оказался хорошо знаком детям по репортажам телевидения. Всё",
+      "url": "https://cosmatica.org/news/659-pjatyi-den-kosmicheskih-kanikul-na-odnom-dyhanii-s-kosmosom.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/4/pjatyi-den-kosmicheskih-kanikul-na-odnom-dyhanii-s-kosmosom-pho.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d17b44792df7f9bf51",
+      "type": "news-item",
+      "sourceCharacters": 1516,
+      "verified": false
+    },
+    {
+      "title": "Четвёртый день Космических каникул - прикоснуться к сердцу космонавтики...",
+      "description": "9 января ребята из ДНР посетили целый ряд ключевых предприятий космической отрасли.",
+      "url": "https://cosmatica.org/news/658-chetvyortyi-den-kosmicheskih-kanikul-prikosnutsja-k-serdcu-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/9/chetvyortyi-den-kosmicheskih-kanikul-prikosnutsja-k-serdcu-kosmo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bbf619ee08e66155b3",
+      "type": "news-item",
+      "sourceCharacters": 2028,
+      "verified": false
+    },
+    {
+      "title": "Третий день Космических каникул - полёт нормальный!",
+      "description": "После завтрака юных косможителей из ДНР ждала встреча с Председателем Молодёжного совета Русского Космического Общества Денисом Александровичем Шпотя . Он выступил с научно-популярной лекцией \"Вселенная Бога, космонавтика человека\".",
+      "url": "https://cosmatica.org/news/657-tretii-den-kosmicheskih-kanikul-polyot-normalnyi.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/8/tretii-den-kosmicheskih-kanikul-polyot-normalnyi-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=40341b96598a340dcf",
+      "type": "news-item",
+      "sourceCharacters": 3250,
+      "verified": false
+    },
+    {
+      "title": "Второй день Космических каникул - ключ на старт!",
+      "description": "Второй день \"космических каникул\" совпал с светлым праздником Рождества. В это замечательный день ребята из Донбасса приблизились к космосу, поскольку сразу после завтрака все дружно отправились на ВДНХ - в павильон Космос.",
+      "url": "https://cosmatica.org/news/656-vtoroi-den-kosmicheskih-kanikul-klyuch-na-start.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/8/vtoroi-den-kosmicheskih-kanikul-klyuch-na-start-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=753e115b74fdd8c612",
+      "type": "news-item",
+      "sourceCharacters": 3907,
+      "verified": false
+    },
+    {
+      "title": "Представление проекта \"Киноуроки в школах России\"",
+      "description": "21 декабря, на Годовом отчётном собрании Русского Космического Общества (РКО) был представлен совместный проект создания нового фильма общероссийского формата, приуроченного к 60-летию первого полёта человека в космос.",
+      "url": "https://cosmatica.org/news/655-predstavlenie-proekta-kinouroki-v-shkolah-rossii.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/5/f0e03ab9.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=791a99617438e300f7",
+      "type": "news-item",
+      "sourceCharacters": 1082,
+      "verified": false
+    },
+    {
+      "title": "Космические каникулы - день первый",
+      "description": "После завтрака, несмотря на то, что в лагерь ребята из ДНР приехали ночью, отдыхать не захотели многие: кого манила возможность покататься по ледяной дорожке на \"ватрушке\",",
+      "url": "https://cosmatica.org/news/654-kosmicheskie-kanikuly-den-pervyi.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/7/kosmicheskie-kanikuly-den-pervyi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=94a5bc6a307950bb75",
+      "type": "news-item",
+      "sourceCharacters": 1210,
+      "verified": false
+    },
+    {
+      "title": "Долгожданные \"Космические каникулы\" начались!",
+      "description": "В программе мероприятий - хоккейный матч и встреча со спортсменами, экскурсии на ВДНХ, в павильон Космос и встреча с космонавтом Лазуткиным Александром Ивановичем, новогодняя ёлка в Байк-Центре, экскурсии на аэрокосмические предприятия ГК \"Роскосмос\" - РКК Энергия, ЦНИИМАШ и НПО им. Лавочкин, встреча с лекторами Русского Космического Общества и ещё множество интересных событий.",
+      "url": "https://cosmatica.org/news/653-dolgozhdannye-kosmicheskie-kanikuly-nachalis.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/2/dolgozhdannye-kosmicheskie-kanikuly-nachalis-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e7e67174c3ed9be7c9",
+      "type": "news-item",
+      "sourceCharacters": 1419,
+      "verified": false
+    },
+    {
+      "title": "Новогоднее обращение Главы Русского Космического Общества",
+      "description": "Здравствуйте, дорогие товарищи, соратники и единомышленники. Здравствуйте, родные наши соотечественники и соотечественницы!",
+      "url": "https://cosmatica.org/news/650-novogodnee-obraschenie-glavy-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/e/a9ae5cd0.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6cca4ef54adbe9b4e4",
+      "type": "news-item",
+      "sourceCharacters": 7897,
+      "verified": false
+    },
+    {
+      "title": "Открыто Кузбасское отделение Русского Космического Общества",
+      "description": "Ярким финальным аккордом уходящего года стало открытие отделения РКО в Кемеровской области.",
+      "url": "https://cosmatica.org/news/652-otkryto-kuzbasskoe-otdelenie-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/d/otkryto-kuzbasskoe-otdelenie-russkogo-kosmicheskogo-obschestva-phot.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9a11286e419d779232",
+      "type": "news-item",
+      "sourceCharacters": 8006,
+      "verified": false
+    },
+    {
+      "title": "Мы - дети Космоса",
+      "description": "Председатель Челябинского отделения РКО встретился со школьниками Новосибирска.",
+      "url": "https://cosmatica.org/news/651-my-deti-kosmosa.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/2/917fbeb3.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a3093b8957e91a20bc",
+      "type": "news-item",
+      "sourceCharacters": 2367,
+      "verified": false
+    },
+    {
+      "title": "Финальный \"Рокот\" прозвучал, с успехом завершив этот год",
+      "description": "Стартовавшая сегодня с космодрома Плесецк ракета-носитель \"Рокот\" успешно вывела на орбиту космические аппараты связи \"ГонецМ\".",
+      "url": "https://cosmatica.org/news/649-finalnyi-rokot-prozvuchal-s-uspehom-zavershiv-etot-god.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/1/rokot-progremel-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fe3fa6736bc93ff257",
+      "type": "news-item",
+      "sourceCharacters": 1402,
+      "verified": false
+    },
+    {
+      "title": "Когда приходят чудеса",
+      "description": "Новый год – яркий, загадочный, неповторимый, шумный, удивительный праздник. Праздник сказочных чудес и волшебства, с подарками, сюрпризами и исполнениями желаний.",
+      "url": "https://cosmatica.org/news/648-kogda-prihodjat-chudesa.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/4/kogda-prihodjat-chudesa-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=65bd3142a3be01838b",
+      "type": "news-item",
+      "sourceCharacters": 1814,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

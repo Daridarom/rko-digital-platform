@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/45-zapusk-cikla-peredach-proryv.html",
+  "title": "Запуск цикла передач \"Прорыв!\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/95/de/zapusk-cikla-peredach-proryv-photo-normal.jpg",
+      "alt": "Запуск цикла передач \"Прорыв!\""
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Прорыв!\" - серия передач Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "\"Прорыв!\" - серия передач Русского Космического Общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Об идеях нашего Общества. О нашей миссии. О новых проектах Прорыва. О том будущем, которое мы должны и будем создавать своими руками.",
+      "spans": [
+        {
+          "text": "Об идеях нашего Общества. О нашей миссии. О новых проектах Прорыва. О том будущем, которое мы должны и будем создавать своими руками."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Герой выпуска - Галушкин Юрий Александрович, почётный академик РАЕН, профессор, ученик академика С.П. Королёва, первый выпуск МФТИ, председатель Совета «Первых» РКО",
+      "spans": [
+        {
+          "text": "Герой выпуска - Галушкин Юрий Александрович, почётный академик РАЕН, профессор, ученик академика С.П. Королёва, первый выпуск МФТИ, председатель Совета «Первых» РКО"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Об основаниях, истоках и истории Русского Космизма.",
+      "spans": [
+        {
+          "text": "Об основаниях, истоках и истории Русского Космизма."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сайт Русского Космического Общества: http://cosmatica.org",
+      "spans": [
+        {
+          "text": "Сайт Русского Космического Общества: "
+        },
+        {
+          "text": "http://cosmatica.org",
+          "href": "https://vk.com/away.php?to=http%3A%2F%2Fcosmatica.org&post=-146842769_472&cc_key="
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "http://cosmatica.org",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fcosmatica.org&post=-146842769_472&cc_key="
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа Вконтакте: https://vk.com/cosmatica",
+      "spans": [
+        {
+          "text": "Группа Вконтакте: "
+        },
+        {
+          "text": "https://vk.com/cosmatica",
+          "href": "https://vk.com/cosmatica"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://vk.com/cosmatica",
+          "url": "https://vk.com/cosmatica"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "pbdsXkk67Ig",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=pbdsXkk67Ig"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Приглашаем к просмотру первого выпуска.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "\"Прорыв!\" - серия передач Русского Космического Общества. Об идеях нашего Общества. О нашей миссии. О новых проектах Прорыва. О том будущем, которое мы должны и будем создавать своими руками. Герой выпуска - Галушкин Юрий Александрович, почётный академик РАЕН, профессор, ученик академика С.П. Королёва, первый выпуск МФТИ, председатель Совета «Первых» РКО Об основаниях, истоках и истории Русского Космизма. Сайт Русского Космического Общества: http://cosmatica.org Группа Вконтакте: https://vk.com/cosmatica",
+      "links": [
+        {
+          "title": "http://cosmatica.org",
+          "url": "https://vk.com/away.php?to=http%3A%2F%2Fcosmatica.org&post=-146842769_472&cc_key="
+        },
+        {
+          "title": "https://vk.com/cosmatica",
+          "url": "https://vk.com/cosmatica"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/95/de/zapusk-cikla-peredach-proryv-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 707,
+    "storedTextCharacters": 515,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 7,
+    "sourceBytes": 45839
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 566,
+  "capturedBodyCharacters": 515,
+  "sourceTextSHA256": "b8f4cec940697614b0bf7d8615271c44962135d9af17115f408f5293519058c8",
+  "archiveSnapshotAt": "2026-10-08T09:11:53Z",
+  "publicVideoCount": 1
+}

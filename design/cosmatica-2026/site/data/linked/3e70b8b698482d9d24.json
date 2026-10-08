@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/264",
+  "title": "Хоменко Яна Владимировна",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/a/3/725c607e.jpg",
+      "alt": "Хоменко Яна Владимировна"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/6/8/243960cc.jpg",
+      "alt": "Хоменко Яна Владимировна"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Донецкая республика",
+      "links": [
+        {
+          "title": "Донецкая республика",
+          "url": "https://cosmatica.org/departments/23-doneckaja-respublika.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/a/3/725c607e.jpg",
+    "https://cosmatica.org/upload/000/u35/6/8/243960cc.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 80,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34066
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 30,
+  "capturedBodyCharacters": 24,
+  "sourceTextSHA256": "59c2714496556c3aa9be24122377cd4513a840ea1e4d8f33b3d00ea799433c5b",
+  "archiveSnapshotAt": "2026-10-08T09:18:55Z"
+}

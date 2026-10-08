@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "articles",
+  "title": "Публикации и материалы",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 63,
+  "pageCount": 72,
+  "total": 1074,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Космодромы",
+      "description": "Владивосток и Уссурийск. Географическая широта данного района (в диапазоне 43-44°с.ш.) является для Российской Федерации одной из самых южных. Для сравнения можно заметить, что это даже южнее района космодрома Байконур на 2-3°. Но возможные азимуты пусков для данного района ограничиваются всего лишь 46-59°. При запусках на более высокие наклонения трассы, и соответственно районы падения отделяющихся частей ракет-носи",
+      "url": "https://cosmatica.org/articles/232-kosmodromy.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=436fea7f52ebaa55f0",
+      "type": "article",
+      "sourceCharacters": 18795,
+      "verified": false
+    },
+    {
+      "title": "История создания космодромов",
+      "description": "«...С берега Вселенной, которым стала свя­щенная земля нашей Родины, — писал Главный конструктор ракетно-космических систем С. П. Королев, — не раз уйдут в еще не известные дали космические корабли. Каждый их полет и возвращение будут великим праздником нашего народа, всего передового человечества, победой Разума и Прогресса».",
+      "url": "https://cosmatica.org/articles/231-istorija-sozdanija-kosmodromov.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=8739916af64d1cde02",
+      "type": "article",
+      "sourceCharacters": 18323,
+      "verified": false
+    },
+    {
+      "title": "Подвиг строителей космодрома",
+      "description": "Не будет преувеличением сказать, что строители полигона и его специалисты совершили настоящий подвиг. Уже в начале 1957 г. были построены основные сооружения, позволявшие начать летные испытания первой в мире боевой межконтинентальной ракеты Р-7, ставшей впоследствии мирной ракетой-носителем и обеспечившей во многом успех мировой космонавтики - запуск первого в мире искусственного спутника Земли 4 октября 1957 г., пе",
+      "url": "https://cosmatica.org/articles/230-podvig-stroitelei-kosmodroma.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=bca7e76d5a86ae2173",
+      "type": "article",
+      "sourceCharacters": 2404,
+      "verified": false
+    },
+    {
+      "title": "\"Жизнь\" космодрома Байконур",
+      "description": "В различные годы число основных технических сооружений достигало максимально: 52 стартовых сооружения, 34 технических комплекса, 3 вычислительных центра, 16 стационарных измерительных пунктов, 2 подвижных автомобильных, 1 железно­дорожный, 4 самолетных измерительных пункта, 4 базы падения, кислородно-азотный завод, 2 механо­сборочных завода, 2 аэродрома и 5 посадочных площадок, ТЭЦ мощностью 80 МВт, 2 энергопоезда, м",
+      "url": "https://cosmatica.org/articles/229-zhizn-kosmodroma-baikonur.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=05820eee5ae6927dcd",
+      "type": "article",
+      "sourceCharacters": 2961,
+      "verified": false
+    },
+    {
+      "title": "Создание космодрома Байконур",
+      "description": "«...С берега Вселенной, которым стала свя­щенная земля нашей Родины, — писал Главный конструктор ракетно-космических систем С. П. Королев, — не раз уйдут в еще не известные дали космические корабли. Каждый их полет и возвращение будут великим праздником нашего народа, всего передового человечества, победой Разума и Прогресса».",
+      "url": "https://cosmatica.org/articles/228-sozdanie-kosmodroma-baikonur.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=cdf0ff884c71ba6f42",
+      "type": "article",
+      "sourceCharacters": 16787,
+      "verified": false
+    },
+    {
+      "title": "Схема космодрома",
+      "description": "",
+      "url": "https://cosmatica.org/articles/227-shema-kosmodroma.html",
+      "image": "https://cosmatica.org/upload/000/u26/19/bd/scheme.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=3a8bbef7970f4b19a5",
+      "type": "article",
+      "sourceCharacters": 88,
+      "verified": false
+    },
+    {
+      "title": "Измерительный комплекс",
+      "description": "Большой вклад в обеспечение успешного функционирования космодрома вносит измерительный комплекс. Его программно-аппаратные средства в реальном масштабе времени контролируют работу основных систем ракет-носителей и космических аппаратов на активном участке выведения. Сейчас без полномасштабного использования средств измерительного комплекса не проводится ни один пуск ракет-носителей.",
+      "url": "https://cosmatica.org/articles/226-izmeritelnyi-kompleks.html",
+      "image": "https://cosmatica.org/upload/000/u26/66/5e/izmerit-logo.png",
+      "kind": "article",
+      "href": "view.html?p=article&ref=b99ef5105e6f8412bb",
+      "type": "article",
+      "sourceCharacters": 2344,
+      "verified": false
+    },
+    {
+      "title": "Боевые ракетные комплексы",
+      "description": "Первым боевым ракетным комплексом, испытанным на Байконуре, стал комплекс межконтинентальной баллистической ракеты Р-7 на низкокипящих компонентах топлива Главного конструктора СП. Королёва. 15 мая 1957 года с пусковой установки № 1 произведен пуск первой ракеты. На вооружение Ракетных войск комплекс принят в январе 1960 года.",
+      "url": "https://cosmatica.org/articles/225-boevye-raketnye-kompleksy.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=b2647e19f50a5194c0",
+      "type": "article",
+      "sourceCharacters": 4211,
+      "verified": false
+    },
+    {
+      "title": "Ракетно-космические комплексы",
+      "description": "Ракетно-космический комплекс «Союз» - старейший на космодроме Байконур. Самые яркие события в истории мировой космонавтики связаны с функционированием этого комплекса. Наиболее значимыми среди них являются запуск 4 октября 1957 г. первого в мире искусственного спутника Земли и полет 12 апреля 1961 г. первого космонавта планеты Юрия Алексеевича Гагарина.",
+      "url": "https://cosmatica.org/articles/224-raketno-kosmicheskie-kompleksy.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=c20dff33d55e68f4bb",
+      "type": "article",
+      "sourceCharacters": 13396,
+      "verified": false
+    },
+    {
+      "title": "Штаб космодрома",
+      "description": "Основным органом управления космодрома является штаб. В начальный период создания полигона штаб решал в основном организационные вопросы, такие как: разработка и утверждение штатов на управление полигона и входящих в его состав частей и подразделений; подбор кадров, формирование и укомплектование управления полигона, научно-испытательных отделов, контроль за ходом комплектования личным составом частей и подразделений",
+      "url": "https://cosmatica.org/articles/223-shtab-kosmodroma.html",
+      "image": "https://cosmatica.org/upload/000/u26/2b/51/fyvfy.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=719b9f25a5f4db28be",
+      "type": "article",
+      "sourceCharacters": 1851,
+      "verified": false
+    },
+    {
+      "title": "Начальники космодрома",
+      "description": "Организационно-штатная структура управления полигона утверждена директивой ГШ СА от 2 июня 1955 года. Первым начальником НИИП-5 МО приказом МО СССР от 19.03.1955 года назначен генерал-лейтенант артиллерии Нестеренко Алексей Иванович, участник Великой Отечественной войны, командовавший на различных фронтах многими соединениями гвардейских минометных частей. Он в кратчайшие сроки формирует командование, штаб, политотде",
+      "url": "https://cosmatica.org/articles/222-nachalniki-kosmodroma.html",
+      "image": "https://cosmatica.org/upload/000/u26/33/4d/bezymjannyi.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=34eaa7117952a18249",
+      "type": "article",
+      "sourceCharacters": 716,
+      "verified": false
+    },
+    {
+      "title": "Награды космодрома",
+      "description": "За успешное проведение лётной отработки специальных изделий НИИП-5 МО награжден орденом Красной Звезды .",
+      "url": "https://cosmatica.org/articles/221-nagrady-kosmodroma.html",
+      "image": "https://cosmatica.org/upload/000/u26/a0/d8/ussr-shlp4.gif",
+      "kind": "article",
+      "href": "view.html?p=article&ref=ba2468f42b59dbdddc",
+      "type": "article",
+      "sourceCharacters": 5214,
+      "verified": false
+    },
+    {
+      "title": "Боевое знамя",
+      "description": "Боевое Знамя НИИП-5 МО СССР вручено 12 апреля 1961 года после запуска боевым расчётом полигона лётчика-космонавта СССР Ю.А. Гагарина. Вручение произвёл Главнокомандующий Ракетными войсками стратегического назначения Маршал Советского Союза Москаленко Константин Семёнович в присутствии первого секретаря Кзыл-Ординского областного комитета Компартии Казахстана. Знамя принял исполняющий должность начальника полигона гва",
+      "url": "https://cosmatica.org/articles/220-boevoe-znamja.html",
+      "image": "https://cosmatica.org/upload/000/u26/37/51/znamya.gif",
+      "kind": "article",
+      "href": "view.html?p=article&ref=4957e932553fbeaa31",
+      "type": "article",
+      "sourceCharacters": 647,
+      "verified": false
+    },
+    {
+      "title": "Историческая справка",
+      "description": "Первым причалом берега Вселенной стал космодром «Байконур».",
+      "url": "https://cosmatica.org/articles/218-istoricheskaja-spravka.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=21f6a9e742bc0f444c",
+      "type": "article",
+      "sourceCharacters": 29612,
+      "verified": false
+    },
+    {
+      "title": "Вступительное слово",
+      "description": "Здравствуйте те, кто впервые держит газету Русского Космического Общества в руках. Здравствуйте те, кто читает её регулярно. Здравствуйте, наши соратники, здравствуйте, единомышленники, здравствуйте, равнодушные, здравствуйте, недоброжелатели. Все здравствуйте!",
+      "url": "https://cosmatica.org/articles/210-vstupitelnoe-slovo.html",
+      "image": "https://cosmatica.org/upload/000/u26/c1/95/u4l6wu58cse.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=d7eaac13f264e33b34",
+      "type": "article",
+      "sourceCharacters": 4643,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

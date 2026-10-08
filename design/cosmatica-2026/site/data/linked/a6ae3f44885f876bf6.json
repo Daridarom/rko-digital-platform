@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/164-antidissipativnye-processy.html",
+  "title": "Антидиссипативные процессы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "процессы накопления, доминируют процессы удаления от равновесия и накопления свободной энергии; способность системы совершать внешнюю работу растет во времени, а",
+      "spans": [
+        {
+          "text": "процессы накопления, доминируют процессы удаления от равновесия и накопления свободной энергии; способность системы совершать внешнюю работу растет во времени, а"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мощность",
+      "spans": [
+        {
+          "text": "мощность"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "потерь убывает.",
+      "spans": [
+        {
+          "text": "потерь убывает."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "процессы накопления, доминируют процессы удаления от равновесия и накопления свободной энергии; способность системы совершать внешнюю работу растет во времени, а мощность потерь убывает.",
+      "links": [
+        {
+          "title": "мощность",
+          "url": "https://cosmatica.org/glossary/104-moschnost.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 213,
+    "storedTextCharacters": 184,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32341
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 186,
+  "capturedBodyCharacters": 184,
+  "sourceTextSHA256": "bcb12d583d8689b186be94648ec2cfdfa36d2554dd39d68aec9453a00a052ea5",
+  "archiveSnapshotAt": "2026-10-08T08:46:38Z"
+}

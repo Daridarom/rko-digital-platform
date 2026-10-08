@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/800-elektrichestvo-prosto-o-prostom-chast-2-rasshirennaja-i-dopolnennaja.html",
+  "title": "«Электричество. Просто о простом. Часть 2. Расширенная и дополненная»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Лекторий Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/a/7/elektrichestvo-prosto-o-prostom-chast-2-rasshirennaja-i-dopolne.jpg",
+      "alt": "«Электричество. Просто о простом. Часть 2. Расширенная и дополненная»"
+    },
+    {
+      "type": "paragraph",
+      "text": "Доклад руководителя Секции Авангардных исследований при Совете труда и творчества РКО, естествоиспытателя, инженера-механика Александра Михайловича Анищенко",
+      "spans": [
+        {
+          "text": "Доклад руководителя "
+        },
+        {
+          "text": "Секции Авангардных исследований",
+          "href": "https://cosmatica.org/section/6-avangardnye-issledovanija.html"
+        },
+        {
+          "text": " при Совете труда и творчества РКО, естествоиспытателя, инженера-механика Александра Михайловича Анищенко"
+        }
+      ],
+      "links": [
+        {
+          "text": "Секции Авангардных исследований",
+          "url": "https://cosmatica.org/section/6-avangardnye-issledovanija.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Представлено более глубокое физическое понимание явления электрического тока на основании экспериментальных данных. Практические приложения новой модели электричества.",
+      "spans": [
+        {
+          "text": "Представлено более глубокое физическое понимание явления электрического тока на основании экспериментальных данных. Практические приложения новой модели электричества. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "С другими лекциями и работами Александра Михайловича можно ознакомиться на его странице: https://cosmatica.org/users/164/content/articles",
+      "spans": [
+        {
+          "text": "С другими лекциями и работами Александра Михайловича можно ознакомиться на его странице: "
+        },
+        {
+          "text": "https://cosmatica.org/users/164/content/articles",
+          "href": "https://cosmatica.org/users/164/content/articles"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/users/164/content/articles",
+          "url": "https://cosmatica.org/users/164/content/articles"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "jc5skrji-dM",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=jc5skrji-dM"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Приглашаем к просмотру новой лекции об электричестве.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Доклад руководителя Секции Авангардных исследований при Совете труда и творчества РКО, естествоиспытателя, инженера-механика Александра Михайловича Анищенко Представлено более глубокое физическое понимание явления электрического тока на основании экспериментальных данных. Практические приложения новой модели электричества. С другими лекциями и работами Александра Михайловича можно ознакомиться на его странице: https://cosmatica.org/users/164/content/articles",
+      "links": [
+        {
+          "title": "Секции Авангардных исследований",
+          "url": "https://cosmatica.org/section/6-avangardnye-issledovanija.html"
+        },
+        {
+          "title": "https://cosmatica.org/users/164/content/articles",
+          "url": "https://cosmatica.org/users/164/content/articles"
+        },
+        {
+          "title": "",
+          "url": "https://cosmatica.org/users/164/content/articles"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/a/7/elektrichestvo-prosto-o-prostom-chast-2-rasshirennaja-i-dopolne.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 846,
+    "storedTextCharacters": 511,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 5,
+    "sourceBytes": 48535
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 625,
+  "capturedBodyCharacters": 511,
+  "sourceTextSHA256": "6080c9804d71ecf4038e9090846a6028577efe924af5feeccd92e5bb92a8eb55",
+  "archiveSnapshotAt": "2026-10-08T09:13:39Z",
+  "publicVideoCount": 1
+}

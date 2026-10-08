@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/977-privetstvija-i-vystuplenie-glavy-russkogo-kosmicheskogo-obschestva-a-a-gaponova.html",
+  "title": "Приветствия и выступление Главы Русского Космического Общества А.А. Гапонова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва ч",
+      "level": 2
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "bVSuRNLHpT0",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=bVSuRNLHpT0"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "I Международная научно-практическая конференция: «Космическая философия-Космическое право-Космическая деятельность: триединство космического прорыва человечества» Пленарная часть, приветствия и доклад Главы Русского Космического Общества Алексея Алексеевича Гапонова \"Русское Космическое Общество: космология, космономия, русский космизм, косматика и наше Общее Дело\". Конференция проходила в режиме реального времени на цифровой платформе Русского Космического Общества rko.nbics.net 23.05.2020г. Россия, Москва Сайт: создайбудущее.рф Страница проекта на сайте РКО: https://cosmatica.org/projects/188",
+      "links": [
+        {
+          "title": "https://cosmatica.org/projects/188",
+          "url": "https://www.youtube.com/redirect?v=bVSuRNLHpT0&event=video_description&redir_token=JdpoTKBU4D_eZKdEMWY6kGmVquJ8MTU5MDcwMzg5NkAxNTkwNjE3NDk2&q=https%3A%2F%2Fcosmatica.org%2Fprojects%2F188"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1014,
+    "storedTextCharacters": 101,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 78229
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 835,
+  "capturedBodyCharacters": 101,
+  "sourceTextSHA256": "a0dd02ecee532d89120d24a05fdf131f53ec32cd8b7dff3f92f9f91bb6e8998a",
+  "archiveSnapshotAt": "2026-10-08T08:44:54Z",
+  "publicVideoCount": 1
+}

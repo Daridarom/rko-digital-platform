@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/964-ja-v-gagarinskoi-druzhine-eto-ogromnaja-otvetstvennost.html",
+  "title": "Я в Гагаринской дружине - это огромная ответственность",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Всенародное детско-юношеское общественное движение Русского Космического Общества - \"Дружина Гагарин",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/3/3/ja-v-gagarinskom-otrjade-eto-bolshaja-otvetstvennost-photo-normal.jpg",
+      "alt": "Я в Гагаринской дружине - это огромная ответственность"
+    },
+    {
+      "type": "paragraph",
+      "text": "Там пятеро смелых второклассников произнесли свою первую в жизни Торжественную клятву Гагаринского отряда. Ребята уже понимают, что это огромная ответственность и готовы трудиться и вести других за собой навстречу мечте.",
+      "spans": [
+        {
+          "text": "Там пятеро смелых второклассников произнесли свою первую в жизни Торжественную клятву  Гагаринского  отряда. Ребята уже понимают, что это огромная  ответственность и готовы  трудиться и вести других за собой навстречу мечте."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Особенно символично, что произошло замечательное событие в юбилейный год 60-летия первого полёта человека в космос.",
+      "spans": [
+        {
+          "text": "Особенно символично, что произошло замечательное событие в юбилейный год 60-летия первого полёта человека в космос."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Местный телеканал выпустил замечательный репортаж о торжественном событии в школе № 28.",
+      "spans": [
+        {
+          "text": "Местный  телеканал выпустил замечательный репортаж о торжественном событии в  школе № 28. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Смотрим!",
+      "spans": [
+        {
+          "text": "Смотрим!"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/2/7/ja-v-gagarinskoi-druzhine-eto-ogromnaja-otvetstvennost-gallery-n.jpg",
+      "alt": "Я в Гагаринской дружине - это огромная ответственность 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/8/2/ja-v-gagarinskoi-druzhine-eto-ogromnaja-otvetstvennost-gallery-n.jpg",
+      "alt": "Я в Гагаринской дружине - это огромная ответственность 1"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "wWJ37ZLlGQ0",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=wWJ37ZLlGQ0"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В городе Киселёвске Кемеровской области созданию Гагаринского отряда было уделено особое внимание.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Там пятеро смелых второклассников произнесли свою первую в жизни Торжественную клятву Гагаринского отряда. Ребята уже понимают, что это огромная ответственность и готовы трудиться и вести других за собой навстречу мечте. Особенно символично, что произошло замечательное событие в юбилейный год 60-летия первого полёта человека в космос. Местный телеканал выпустил замечательный репортаж о торжественном событии в школе № 28. Смотрим!",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/3/3/ja-v-gagarinskom-otrjade-eto-bolshaja-otvetstvennost-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/2/7/ja-v-gagarinskoi-druzhine-eto-ogromnaja-otvetstvennost-gallery-n.jpg",
+    "https://cosmatica.org/upload/000/u35/8/2/ja-v-gagarinskoi-druzhine-eto-ogromnaja-otvetstvennost-gallery-n.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 951,
+    "storedTextCharacters": 542,
+    "sourceCardCount": 0,
+    "sourceImageCount": 3,
+    "paragraphCount": 5,
+    "sourceBytes": 50108
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 684,
+  "capturedBodyCharacters": 542,
+  "sourceTextSHA256": "5b2dea6656630b7a3f6e1cab6d6199c941bf10bbb3c54f6e7d0dd8c988c1efd3",
+  "archiveSnapshotAt": "2026-10-08T09:14:28Z",
+  "publicVideoCount": 1
+}

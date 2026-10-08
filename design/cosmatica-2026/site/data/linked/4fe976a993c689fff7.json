@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/about/informacija",
+  "title": "Информация",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "​Школа Русского Космизма как мировоззренческая основа Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Стратегия становления – наше Общее Дело",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "​Русское Космическое Общество в вопросах и ответах команды инициаторов его создания",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "КОСМАТИКА",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Косматика есть сключение Человека с Природой с целью одухотворения.",
+      "spans": [
+        {
+          "text": "Косматика есть сключение Человека с Природой с целью одухотворения."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Направления деятельности Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Зачем создано Русское Космическое Общество?",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Устои Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Историческая справка о духовных и материальных корнях Русского Космического Общества",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 519,
+    "storedTextCharacters": 500,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 40153
+  },
+  "textFallbackRequired": false,
+  "originalKind": "about-page",
+  "sourceTextCharacters": 519,
+  "capturedBodyCharacters": 500,
+  "sourceTextSHA256": "69849d7eeb849dd47df2aa771a7e3945464ab192cf5c60357c0a3ac40e1e4de9",
+  "archiveSnapshotAt": "2026-10-08T08:36:40Z"
+}

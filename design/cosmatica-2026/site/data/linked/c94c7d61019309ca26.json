@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/854-ponjatie-otvetstvennosti.html",
+  "title": "Понятие ответственности",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Культура развития Жизни",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/7/0/ponjatie-otvetstvennosti-photo-normal.jpg",
+      "alt": "Понятие ответственности"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "-5XwtLjhLbI",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=-5XwtLjhLbI"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "О воспитании настоящего Человека и мужчины говорили молодёжью в Санкт-Петербурге",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Совсем скоро в школы, подключившиеся к проекту \"Киноуроки в школах России\" , будет передан новый сборник киноуроков (фильмы и методические пособия). А пока новый фильм «Александр», раскрывающий понятие ответственности, стал поводом для беседы кавалеров ордена Александра Невского с подрастающим поколением новых героев, состоявшейся в день святого князя Александра Невского. О торжественном мероприятии, организованном в Историческом парке «Россия - моя история», наш новый видеоролик. Автор видео: Динар Нургалиев",
+      "links": [
+        {
+          "title": "\"Киноуроки в школах России\"",
+          "url": "https://cosmatica.org/projects/kinouroki"
+        },
+        {
+          "title": "Динар Нургалиев",
+          "url": "https://vk.com/dinar_nurg"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/7/0/ponjatie-otvetstvennosti-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 841,
+    "storedTextCharacters": 35,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 47413
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 682,
+  "capturedBodyCharacters": 35,
+  "sourceTextSHA256": "5859d9e5ae0940a2e981d32fc1b862bd9014b56389a49bc750d38e86ecc0e27a",
+  "archiveSnapshotAt": "2026-10-08T09:13:55Z",
+  "publicVideoCount": 1
+}

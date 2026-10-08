@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/218-russkaja-nauka-a-italii.html",
+  "title": "Русская наука в Италии",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u30/f8/ad/mniika-photo-normal.jpg",
+      "alt": "Русская наука в Италии"
+    },
+    {
+      "type": "paragraph",
+      "text": "19-21 октября 2018 г. в Италии, в Умбрии состоится Международная научная конференция \"Учёные за мир - планетарное сознание и этика\", на которой с докладом \"Знамя мира\" в эпоху авангардной постклассической науки\" выступит генеральный директор Международного научно-исследовательского института космопланетарной антропоэкологии имени академика В.П.Казначеева , председатель Новосибирского отделения Русского Космического Общества, д.м.н. Александр Васильевич Трофимов.",
+      "spans": [
+        {
+          "text": "19-21 октября 2018 г. в Италии, в Умбрии состоится Международная научная конференция \"Учёные за мир - планетарное сознание и этика\", на которой с докладом \"Знамя мира\" в эпоху авангардной постклассической науки\" выступит генеральный директор "
+        },
+        {
+          "text": "Международного научно-исследовательского института космопланетарной антропоэкологии имени академика В.П.Казначеева",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": ", председатель Новосибирского отделения Русского Космического Общества, д.м.н. Александр Васильевич Трофимов."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Организатор конференции: Общество живой этики.",
+      "spans": [
+        {
+          "text": "Организатор конференции: Общество живой этики."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Программа конференции",
+      "spans": [
+        {
+          "text": "Программа конференции",
+          "href": "https://cosmatica.org/upload/redactorfiles/PROGRAM Scientist for Peace 2018-C.pdf"
+        },
+        {
+          "text": " "
+        }
+      ],
+      "links": [
+        {
+          "text": "Программа конференции",
+          "url": "https://cosmatica.org/upload/redactorfiles/PROGRAM Scientist for Peace 2018-C.pdf"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "SCIETISTS FOR PEACE- PLANETARY CONSCIOUSNESS AND ETHICS",
+      "spans": [
+        {
+          "text": "SCIETISTS FOR PEACE- PLANETARY CONSCIOUSNESS AND ETHICS",
+          "href": "https://www.comunitadieticavivente.org/index.php/scientists-for-peace/"
+        }
+      ],
+      "links": [
+        {
+          "text": "SCIETISTS FOR PEACE- PLANETARY CONSCIOUSNESS AND ETHICS",
+          "url": "https://www.comunitadieticavivente.org/index.php/scientists-for-peace/"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "МНИИКА - носитель авангардной научной мысли.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "19-21 октября 2018 г. в Италии, в Умбрии состоится Международная научная конференция \"Учёные за мир - планетарное сознание и этика\", на которой с докладом \"Знамя мира\" в эпоху авангардной постклассической науки\" выступит генеральный директор Международного научно-исследовательского института космопланетарной антропоэкологии имени академика В.П.Казначеева , председатель Новосибирского отделения Русского Космического Общества, д.м.н. Александр Васильевич Трофимов. Организатор конференции: Общество живой этики. Программа конференции SCIETISTS FOR PEACE- PLANETARY CONSCIOUSNESS AND ETHICS",
+      "links": [
+        {
+          "title": "Программа конференции",
+          "url": "https://cosmatica.org/upload/redactorfiles/PROGRAM Scientist for Peace 2018-C.pdf"
+        },
+        {
+          "title": "SCIETISTS FOR PEACE- PLANETARY CONSCIOUSNESS AND ETHICS",
+          "url": "https://www.comunitadieticavivente.org/index.php/scientists-for-peace/"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u30/f8/ad/mniika-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 874,
+    "storedTextCharacters": 599,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 46574
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 741,
+  "capturedBodyCharacters": 599,
+  "sourceTextSHA256": "d7aa865386813c958ee9865d20b489522dbfd4eb724f5c3d004db215c62c279c",
+  "archiveSnapshotAt": "2026-10-08T09:10:25Z"
+}

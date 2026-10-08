@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 107,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Первое учредительное собрание Калининградского отделения РКО",
+      "description": "Самая западная точка России обрела собственное отделение РКО, это один из важнейших российских регионов, в том числе и для Русского Космического Общества. И открытие отделения, объединившего сегодня тех, кто стал ядром РКО в Калининграде, важная веха в деле строительства нашего общего космического будущего.",
+      "url": "https://cosmatica.org/news/468-pervoe-uchreditelnoe-sobranie-kaliningradskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/3/650f7f28.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f835c1b370795ac2d6",
+      "type": "news-item",
+      "sourceCharacters": 5831,
+      "verified": false
+    },
+    {
+      "title": "Экскурсия в Музей Космонавтики для президента форума БРИКС",
+      "description": "4 июля 2019 года силами Русского Космического Общества была организована экскурсия для Президента Форума БРИКС (BRICS International Forum) г-жи Пурнимы Ананд (Purnima Anand) в Музей Космонавтики.",
+      "url": "https://cosmatica.org/news/467-ekskursija-v-muzei-kosmonavtiki-dlja-prezidenta-foruma-briks.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/d/ekskursija-v-muzei-kosmonavtiki-dlja-prezidenta-foruma-briks-phot.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c03d81f09ffdbb7e1c",
+      "type": "news-item",
+      "sourceCharacters": 1906,
+      "verified": false
+    },
+    {
+      "title": "«Звездное перо» взлетело над Каширой",
+      "description": "Областной конкурс финишировал в Кашире уже в четвёртый раз. Его завершающим этапом стало подведение итогов и награждение победителей. В городской детской библиотеке-музее кукол городского округа Кашира собрались творческие люди со всего Подмосковья.",
+      "url": "https://cosmatica.org/news/465-zvezdnoe-pero-vzletelo-nad-kashiroi.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/e/zvezdnoe-pero-vzletelo-nad-kashiroi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=526cb6d1e13ea09828",
+      "type": "news-item",
+      "sourceCharacters": 3333,
+      "verified": false
+    },
+    {
+      "title": "\"Тропа Мужества: Лето 2019\"",
+      "description": "В районе села Ворсино Боровского района на границе Московской и Калужской областей прошли соревнования на пересечённой местности. Традиционно в числе организаторов этого мероприятия - Русское Космическое Общество.",
+      "url": "https://cosmatica.org/news/464-tropa-muzhestva-leto-2019.html",
+      "image": "https://cosmatica.org/upload/000/u26/4/3/tropa-muzhestva-leto-2019-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2cb57fc516f5b69b0a",
+      "type": "news-item",
+      "sourceCharacters": 3927,
+      "verified": false
+    },
+    {
+      "title": "Валерий Иванович Токарев выступил на фестивале \"Старкон\"",
+      "description": "Этот фестиваль - крупнейший в Восточной Европе и на территории СНГ, он посвящен фантастике, науке, космонавтике, технологиям. Более 20 000 человек приняли участие в фестивале.",
+      "url": "https://cosmatica.org/news/466-valerii-ivanovich-tokarev-vystupil-na-festivale-starkon.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/1/valerii-ivanovich-tokarev-vystupil-na-festivale-starkon-photo-n.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f9126f457cb6b3b670",
+      "type": "news-item",
+      "sourceCharacters": 1215,
+      "verified": false
+    },
+    {
+      "title": "Будущее Человечества в ваших руках!",
+      "description": "Вот и завершились первые на планете Земля \"Гагаринские сборы\" на Родине космонавта № 1 в городе Гагарин Смоленской области.",
+      "url": "https://cosmatica.org/news/463-buduschee-chelovechestva-v-vashih-rukah.html",
+      "image": "https://cosmatica.org/upload/002/u212/f/f/buduschee-chelovechestva-v-vashih-rukah-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=dcb9705077d12bd9b2",
+      "type": "news-item",
+      "sourceCharacters": 3303,
+      "verified": false
+    },
+    {
+      "title": "Ориентируемся по звёздам. Ставим стратегические цели.",
+      "description": "26 июня участники первых на планете Земля \"Гагаринских сборов\", организованных Русским Космическим Обществом на Родине космонавта № 1 в городе Гагарин Смоленской области, общались с профессионалами аэрокосмического образования, членами РКО, отложившими все свои дела, чтобы приехать на малую родину первопроходца космоса, прикоснуться к истокам космического подвига Ю.А. Гагарина и, конечно, встретиться с ребятами.",
+      "url": "https://cosmatica.org/news/462-orientiruemsja-po-zvyozdam-stavim-strategicheskie-celi.html",
+      "image": "https://cosmatica.org/upload/002/u212/0/f/gagarinskie-sbory-den-vtoroi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=501d3465293290ec55",
+      "type": "news-item",
+      "sourceCharacters": 2778,
+      "verified": false
+    },
+    {
+      "title": "Поехали!",
+      "description": "Гагарин. Это имя есть символ. Символ и идеал. Идеал человека, для которого нет внештатных ситуаций. Человека, для которого каждая ситуация штатная. Как таким человеком стать? Трудно. Но возможно. Главное, что для этого нужно — захотеть им стать. А затем… Затем годы учёбы, тренировок, специальной подготовки. Она будет разная: физическая, интеллектуальная, духовная.",
+      "url": "https://cosmatica.org/news/461-poehali.html",
+      "image": "https://cosmatica.org/upload/002/u212/f/9/poehali-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=67e6ab45b27916355f",
+      "type": "news-item",
+      "sourceCharacters": 3925,
+      "verified": false
+    },
+    {
+      "title": "Приходите в гости к нам.",
+      "description": "21 июня в офис Санкт-Петербургского отделения Русского Космического Общества заглянул жданный уральский гость.",
+      "url": "https://cosmatica.org/news/460-prihodite-v-gosti-k-nam.html",
+      "image": "https://cosmatica.org/upload/000/u21/6/b/prihodite-v-gosti-k-nam-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d08cd3674b4a2412eb",
+      "type": "news-item",
+      "sourceCharacters": 2538,
+      "verified": false
+    },
+    {
+      "title": "\"Тропа Мужества\" - 2019: первые результаты",
+      "description": "Более 300 участников собрались в Боровском районе Калужской области, где жил и работал известный учёный-космист Николай Фёдорович Фёдоров.",
+      "url": "https://cosmatica.org/news/459-tropa-muzhestva-2019-pervye-rezultaty.html",
+      "image": "https://cosmatica.org/upload/000/u21/d/0/tropa-muzhestva-2019-pervye-rezultaty-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=027e86b7abda09f532",
+      "type": "news-item",
+      "sourceCharacters": 3060,
+      "verified": false
+    },
+    {
+      "title": "Делай что дóлжно – и будет что дóлжно",
+      "description": "Майский выпуск газеты. В нём представлены результаты нашей деятельности за апрель. Их много. А ведь это только часть. Малая часть, которую мы выделили, чтобы отразить на страницах ограниченного объёмом издания. Ежедневно десятки людей трудятся на своих участках нашего общего фронта. Их труд, на первый взгляд, не заметен. Он не находит отражения в СМИ. Он не является предметом пафосного многословия. Это труд людей, ор",
+      "url": "https://cosmatica.org/news/458-delai-chto-d-lzhno-i-budet-chto-d-lzhno.html",
+      "image": "https://cosmatica.org/upload/000/u26/c/c/6dde5c95.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b6ff628d62c9642cdb",
+      "type": "news-item",
+      "sourceCharacters": 1883,
+      "verified": false
+    },
+    {
+      "title": "200-летию начала Первой антарктической экспедиции 1819 – 1821",
+      "description": "200 лет назад в июле 1819 г. из Кронштадтского порта вышла Первая русская антарктическая экспедиция в составе шлюпов «Восток» и «Мирный» под командованием Ф. Беллинсгаузена и М. Лазарева. Главной целью экспедиции было пройти как можно ближе к Южному полюсу, отыскивая неизвестные земли, и подтвердить гипотезу М.В.Ломоносова о наличии Южной земли - Антарктиды.",
+      "url": "https://cosmatica.org/news/457-200-letiyu-nachala-pervoi-antarkticheskoi-ekspedicii-1819-1821.html",
+      "image": "https://cosmatica.org/upload/000/u21/c/8/200-letiyu-nachala-pervoi-antarkticheskoi-ekspedicii-1819-1821-ph.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1f4c687c1f794674a0",
+      "type": "news-item",
+      "sourceCharacters": 2341,
+      "verified": false
+    },
+    {
+      "title": "Дневник разработки компьютерной игры \"Наша вселенная\" за май",
+      "description": "Главные события последних недель – обновление в Unity до версий 2019 и всё, что за этим произошло. Проект тряхнуло так, что потряхивает до сих пор.",
+      "url": "https://cosmatica.org/news/456-dnevnik-razrabotki-kompyuternoi-igry-nasha-vselennaja-za-mai.html",
+      "image": "https://cosmatica.org/upload/000/u26/6/f/dnevnik-razrabotki-za-mai-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7e7b04f319c17748d4",
+      "type": "news-item",
+      "sourceCharacters": 2258,
+      "verified": false
+    },
+    {
+      "title": "Здравствуйте, Алексей Архипович!",
+      "description": "Вышла статья в областной газете \"Кузбасс\" о конкурсе \"Письмо Леонову\"",
+      "url": "https://cosmatica.org/news/455-zdravstvuite-aleksei-arhipovich.html",
+      "image": "https://cosmatica.org/upload/002/u210/6/7/zdravstvuite-aleksei-arhipovich-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=30b01c5050c74b76c7",
+      "type": "news-item",
+      "sourceCharacters": 154,
+      "verified": false
+    },
+    {
+      "title": "Юные космоконструкторы представили свои творения.",
+      "description": "Завершился конкурс создания моделей достижений отечественной космонавтики сделанных с помощью детских конструкторов «космоконструктор .рф», проводимый в рамках работы Общественно-государственного комитета празднования 85-летия Ю.А. Гагарина (Гагаринский Комитет)",
+      "url": "https://cosmatica.org/news/454-yunye-kosmokonstruka-predstavili-svoi-tvorenija.html",
+      "image": "https://cosmatica.org/upload/000/u26/1/d/yunye-kosmokonstruka-predstavili-svoi-tvorenija-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9c817a602b7dd8a5a9",
+      "type": "news-item",
+      "sourceCharacters": 3787,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

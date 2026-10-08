@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/258-kak-poznavalas-vselennaja-1955.html",
+  "title": "Как познавалась Вселенная (1955)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/0/kak-poznavalas-vselennaja-1955-photo-normal.png",
+      "alt": "Как познавалась Вселенная (1955)"
+    },
+    {
+      "type": "paragraph",
+      "text": "В этой небольшой познавательной книжке из серии «Научно-просветительная библиотека» рассказывается о том, как люди на протяжении многих веков познавали вселенную и что мы знаем о вселенной в настоящее",
+      "spans": [
+        {
+          "text": "В этой небольшой познавательной книжке из серии «Научно-просветительная библиотека» рассказывается о том, как люди на протяжении многих веков познавали вселенную и что мы знаем о вселенной в настоящее"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "время",
+      "spans": [
+        {
+          "text": "время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ".",
+      "spans": [
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Всехсвятский С.К.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В этой небольшой познавательной книжке из серии «Научно-просветительная библиотека» рассказывается о том, как люди на протяжении многих веков познавали вселенную и что мы знаем о вселенной в настоящее время .",
+      "links": [
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 24 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1991/21172c58b8f798afc4a759792140ac7b"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/7/0/kak-poznavalas-vselennaja-1955-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1991/21172c58b8f798afc4a759792140ac7b"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 286,
+    "storedTextCharacters": 206,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40173
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 253,
+  "capturedBodyCharacters": 206,
+  "sourceTextSHA256": "50069a54e105496a5b8fe711c6162e1ce39b1a8e8be17c405a5c0c41f5df41d9",
+  "archiveSnapshotAt": "2026-10-08T08:48:18Z"
+}

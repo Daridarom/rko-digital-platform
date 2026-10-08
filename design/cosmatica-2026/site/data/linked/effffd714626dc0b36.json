@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/61-razmernost-matematicheskaja.html",
+  "title": "Размерность математическая",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "степень меры математической вели­чины.",
+      "spans": [
+        {
+          "text": "степень меры математической вели­чины."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "степень меры математической вели­чины.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 65,
+    "storedTextCharacters": 38,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31610
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 38,
+  "capturedBodyCharacters": 38,
+  "sourceTextSHA256": "3cdeb9ad46ee016f78b7cc8c4279c0690df7824a023771dd817114edc07f3203",
+  "archiveSnapshotAt": "2026-10-08T08:46:55Z"
+}

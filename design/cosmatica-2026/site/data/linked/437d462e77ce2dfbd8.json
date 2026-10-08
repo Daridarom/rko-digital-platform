@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/411-olimpiadnye-zadachi-po-fizike.html",
+  "title": "Олимпиадные задачи по физике",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/3/9/olimpiadnye-zadachi-po-fizike-photo-normal.jpg",
+      "alt": "Олимпиадные задачи по физике"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Кузнецов А. П., Кузнецов С. П., Мельников Л. А., Шевцов В. Н.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 3 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2417/edcdbc39ec1f7d9e368aad7413aa99b2"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/3/9/olimpiadnye-zadachi-po-fizike-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2417/edcdbc39ec1f7d9e368aad7413aa99b2"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 116,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39435
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 87,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "98d05e6f96c4a8778bebc4961684622792428e2a0d6e45debcc39156434cbfe3",
+  "archiveSnapshotAt": "2026-10-08T08:49:50Z"
+}

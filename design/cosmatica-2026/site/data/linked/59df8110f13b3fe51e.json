@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "slug": "article",
+  "slug": "articles-list",
   "sourceUrl": "https://cosmatica.org/articles/sekcija-ekofilosofii",
   "title": "Секция Экофилософии",
   "intro": "",
@@ -11,7 +11,24 @@
       "level": 2
     }
   ],
-  "cards": [],
+  "cards": [
+    {
+      "title": "Экофилософская детерминация пространства культуры ноосферного города",
+      "description": "Экофилософская детерминация пространства культуры ноосферного города Автор: Баркова Э.В. Раскрыто онтологическое измерение современной городской культуры как важнейшего неисчерпаемого ресурса развития субъекта современной России и всей мировой цивилизации Подробнее",
+      "url": "https://cosmatica.org/articles/1330-ekofilosofskaja-determinacija-prostranstva-kultury-noosfernogo-goroda.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Экофилософская детерминация пространства культуры ноосферного города",
+          "url": "https://cosmatica.org/articles/1330-ekofilosofskaja-determinacija-prostranstva-kultury-noosfernogo-goroda.html"
+        },
+        {
+          "title": "Подробнее",
+          "url": "https://cosmatica.org/articles/1330-ekofilosofskaja-determinacija-prostranstva-kultury-noosfernogo-goroda.html"
+        }
+      ]
+    }
+  ],
   "fields": [],
   "images": [],
   "documents": [],
@@ -21,9 +38,15 @@
     "http": 200,
     "sourceTextCharacters": 285,
     "storedTextCharacters": 68,
-    "sourceCardCount": 0,
+    "sourceCardCount": 1,
     "sourceImageCount": 0,
     "paragraphCount": 0,
     "sourceBytes": 74375
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "articles-list",
+  "sourceTextCharacters": 285,
+  "capturedBodyCharacters": 68,
+  "sourceTextSHA256": "03eef354e035761e7028a18e292e55f24d6432c1bb185785d58377f9dd72fa34",
+  "archiveSnapshotAt": "2026-10-08T08:45:07Z"
 }

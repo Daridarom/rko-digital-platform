@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/52-svoistvo-ravnovesnyh-sistem.html",
+  "title": "Свойство равновесных систем",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "не эволюционировать во времени, то есть неспособность совершать внешнюю работу (все внешние потоки уравновешены внутренними).",
+      "spans": [
+        {
+          "text": "не эволюционировать во времени, то есть неспособность совершать внешнюю работу (все внешние потоки уравновешены внутренними)."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "не эволюционировать во времени, то есть неспособность совершать внешнюю работу (все внешние потоки уравновешены внутренними).",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 153,
+    "storedTextCharacters": 125,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32053
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 125,
+  "capturedBodyCharacters": 125,
+  "sourceTextSHA256": "d19ab2ef729391efd440ede8e6de83984468f1a959b3a59c714c954b36d8aa49",
+  "archiveSnapshotAt": "2026-10-08T08:46:53Z"
+}

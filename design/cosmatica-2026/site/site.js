@@ -39,6 +39,7 @@ function header() {
         <a href="${href('articles')}">Материалы</a>
         <a href="${href('partners')}">Партнёры</a>
         <a href="${href('library')}">Библиотека</a>
+        <a href="view.html?p=archive">Архив</a>
       </nav>
       <div class="mobile-drawer shell">
         <a href="${href('about')}">Об обществе</a>
@@ -48,6 +49,7 @@ function header() {
         <a href="${href('articles')}">Материалы</a>
         <a href="${href('partners')}">Партнёры</a>
         <a href="${href('library')}">Библиотека</a>
+        <a href="view.html?p=archive">Полный архив</a>
         <a href="${href('poster')}">Мероприятия</a>
         <a href="${href('login')}">Войти</a>
         <a href="${href('register')}">Присоединиться</a>
@@ -158,6 +160,7 @@ function renderHome() {
             <a class="card" href="${href('articles')}"><span class="tag">Материалы</span><h3>Публикации и исследования</h3><p>Научные, общественные и образовательные направления.</p></a>
             <a class="card" href="${href('library')}"><span class="tag">Библиотека</span><h3>Книги и наследие</h3><p>Русский космизм, космонавтика, методические материалы.</p></a>
           </div>
+          <div class="home-archive-link"><a href="view.html?p=archive">Открыть весь публичный архив РКО →</a><p>Новости, публикации, книги, проекты и события в едином каталоге.</p></div>
         </div>
       </section>
     </main>
@@ -575,21 +578,24 @@ function renderAuth(){
  const sourceUrl='https://cosmatica.org/auth/'+(route.slug==='register'?'register':route.slug==='restore'?'restore':'login');
  return `<main id="main"><div class="auth-wrap shell">
    <section class="auth-card">
-     <p class="eyebrow">ЛИЧНЫЙ КАБИНЕТ</p>
+     <p class="eyebrow">ЛИЧНЫЙ КАБИНЕТ РКО</p>
+     <nav class="auth-mode-nav" aria-label="Выбор действия с учётной записью">
+       <a class="${route.slug==='login'?'current':''}" href="${href('login')}" ${route.slug==='login'?'aria-current="page"':''}>Вход</a>
+       <a class="${route.slug==='register'?'current':''}" href="${href('register')}" ${route.slug==='register'?'aria-current="page"':''}>Регистрация</a>
+     </nav>
      <h1 class="auth-title">${esc(route.title)}</h1>
      <p class="lede auth-lede">${esc(route.intro)}</p>
-     <div class="form" aria-label="Поля для входа в личный кабинет">
+     <p class="auth-explainer">Для безопасности учётные данные вводятся только на официальном сайте РКО. Здесь представлен макет интерфейса.</p>
+     <div class="form" aria-label="Образец формы личного кабинета">
        ${labels.map(label=>`<div class="field">
          <label>${esc(label)}</label>
          <input type="${/парол/i.test(label)?'password':'text'}" disabled placeholder="${esc(label)}">
        </div>`).join('')}
        <a class="primary" href="${esc(sourceUrl)}" target="_blank" rel="noopener noreferrer">${esc(action)} на сайте РКО ↗</a>
      </div>
-     <p class="form-note">Вход, восстановление доступа и регистрация выполняются на действующем сайте РКО. </p>
+     <p class="form-note">Формы подключения, входа и восстановления доступа после передачи будут связаны с действующей CMS Павлом.</p>
      <div class="auth-links">
-       <a href="${href('login')}">Вход</a>
-       <a href="${href('restore')}">Восстановление пароля</a>
-       <a href="${href('register')}">Регистрация</a>
+       ${route.slug!=='restore'?'<a href="'+href('restore')+'">Забыли пароль?</a>':'<a href="'+href('login')+'">Вернуться ко входу</a>'}
      </div>
    </section>
  </div></main>`;
@@ -701,5 +707,6 @@ document.querySelector('.menu-btn')?.addEventListener('click', () => document.qu
 document.querySelector('#searchForm')?.addEventListener('submit', (event) => {
   event.preventDefault();
   const value = document.querySelector('#searchInput')?.value.trim();
-  location.href = value ? href('search-results') + '&q=' + encodeURIComponent(value) : href('search');
+  const section=document.querySelector('#searchSection')?.value||'all';
+  location.href = value ? href('search-results') + '&q=' + encodeURIComponent(value) + '&section=' + encodeURIComponent(section) : href('search');
 });

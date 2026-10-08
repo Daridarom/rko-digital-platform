@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/711",
+  "title": "Елена Владимировна Дубровская Профиль удалён",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/7/a/bb1c9481.jpg",
+      "alt": "Елена Владимировна Дубровская"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/f/0/f35e30de.jpg",
+      "alt": "Елена Владимировна Дубровская"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Директор АНО Центр развития интеллектуальных и творческих способностей «ИНТЕЛРОСТ».",
+      "spans": [
+        {
+          "text": "Директор АНО Центр развития интеллектуальных и творческих способностей «ИНТЕЛРОСТ»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сценарист, режиссёр проекта «Киноуроки в школах России».",
+      "spans": [
+        {
+          "text": "Сценарист, режиссёр проекта «Киноуроки в школах России»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Санкт-Петербург",
+      "links": [
+        {
+          "title": "Санкт-Петербург",
+          "url": "https://cosmatica.org/departments/9-sankt-peterburg.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Директор АНО Центр развития интеллектуальных и творческих способностей «ИНТЕЛРОСТ». Сценарист, режиссёр проекта «Киноуроки в школах России».",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/7/a/bb1c9481.jpg",
+    "https://cosmatica.org/upload/000/u35/f/0/f35e30de.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 247,
+    "storedTextCharacters": 172,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34880
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 177,
+  "capturedBodyCharacters": 172,
+  "sourceTextSHA256": "a9d48a4158bb2a839d8644a5c7eed8e36bcedca0023e2abac26324d493fd6517",
+  "archiveSnapshotAt": "2026-10-08T09:21:53Z"
+}

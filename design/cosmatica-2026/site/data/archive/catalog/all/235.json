@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 235,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Космогония Н.Ф.Федорова, неоуфундаментализм и философия вселенной XXI века",
+      "description": "НЕОФУНДАМЕНТАЛИЗМ И ФИЛОСОФИЯ ВСЕЛЕННОЙ XXI ВЕКА",
+      "url": "https://cosmatica.org/articles/141-kosmogonija-n-f-fedorova-neoufundamentalizm-i-filosofija-vselennoi-xxi-veka.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=d70f618ecc8f05ad6b",
+      "type": "article",
+      "sourceCharacters": 22049,
+      "verified": false
+    },
+    {
+      "title": "Жизнь",
+      "description": "это космопланетарный процесс с доминированием потоков концентрации над процессами рассеяния потоков энергии во времени и пространстве.",
+      "url": "https://cosmatica.org/glossary/141-zhizn.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=97b2ed802cee9d4954",
+      "type": "article",
+      "sourceCharacters": 134,
+      "verified": false
+    },
+    {
+      "title": "Региональное устойчивое инновационное развитие: технология проектирования и управления",
+      "description": "Рекомендовано учебно-методическим советом университета «Дубна» в качестве учебного пособия для студентов, обучающихся по направлениям подготовки «Системный анализ и управление», «Менеджмент», «",
+      "url": "https://cosmatica.org/library/141-regionalnoe-ustoichivoe-innovacionnoe-razvitie-tehnologija-proektirovanija-i-upravlenija.html",
+      "image": "https://cosmatica.org/upload/000/u10/18/c8/regionalnoe-ustoichivoe-innovacionnoe-razvitie-tehnologija-proek.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=4bff8cc9b415cd1088",
+      "type": "book",
+      "sourceCharacters": 294,
+      "verified": false
+    },
+    {
+      "title": "Вышел новый выпуск газеты (июнь, 2018)",
+      "description": "Рады сообщить, что долгожданный июньский выпуск газеты \"Природа - Общество - Человек: Ноосферное устойчивое развитие \" №10 покинул типографию и распространяется в головном офисе Русского Космического Общества по адресу: г. Москва, Ленинградский проспект, д. 7/1, оф. 20 и по подписке на территории России.",
+      "url": "https://cosmatica.org/news/141-vyshel-novyi-vypusk-gazety-iyun-2018.html",
+      "image": "https://cosmatica.org/upload/000/u26/15/b4/ab1e810f.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1dd5345bcd3960db1a",
+      "type": "news-item",
+      "sourceCharacters": 1278,
+      "verified": false
+    },
+    {
+      "title": "Встреча с космонавтом Токаревым Валерием Ивановичем #Общественно-государственный комитет празднования 85-летия Ю.А. Гагарина",
+      "description": "Космонавт-испытатель Центра подготовки космонавтов им. Ю. А. Гагарина, полковник ВВС РФ, Герой России.",
+      "url": "https://cosmatica.org/poster/141-vstrecha-s-kosmonavtom-tokarevym-valeriem-ivanovichem.html",
+      "image": "https://cosmatica.org/upload/001/u176/9/1/ab01159a.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=2677a9ab3e836e56af",
+      "type": "poster-item",
+      "sourceCharacters": 949,
+      "verified": false
+    },
+    {
+      "title": "Космическая антропоэкология - новое поле науки XXI века",
+      "description": "Научный Центр Клинической и Экспериментальной Медицины СО РАМН",
+      "url": "https://cosmatica.org/articles/140-kosmicheskaja-antropoekologija-novoe-pole-nauki-xxi-veka.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=94ecb608545cb8f4b3",
+      "type": "article",
+      "sourceCharacters": 5836,
+      "verified": false
+    },
+    {
+      "title": "Живая система",
+      "description": ", способная совершать внешнюю работу во времени и пространстве. Система, неспособная совершать внешнюю работу, является косной (мертвой) системой.",
+      "url": "https://cosmatica.org/glossary/140-zhivaja-sistema.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=290c5df783cb9fee25",
+      "type": "article",
+      "sourceCharacters": 163,
+      "verified": false
+    },
+    {
+      "title": "Закон природы или как работает Пространство-Время.",
+      "description": "В книге излагаются пространственно-временные основы законов физики, химии, биологии с использованием",
+      "url": "https://cosmatica.org/library/140-zakon-prirody-ili-kak-rabotaet-prostranstvo-vremja.html",
+      "image": "https://cosmatica.org/upload/000/u10/de/82/zakon-prirody-ili-kak-rabotaet-prostranstvo-vremja-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7c10dc357ee55ec0bf",
+      "type": "book",
+      "sourceCharacters": 831,
+      "verified": false
+    },
+    {
+      "title": "О Космическом Женском Послании",
+      "description": "Планета Земля – источник жизни для всех живых существ, проживающих на ней. Она их мать и хранительница. Она — надёжная защита биосферы и человечества от угроз и опасностей, которые таит в себе бескрайний Космос.",
+      "url": "https://cosmatica.org/news/140-o-kosmicheskom-zhenskom-poslanii.html",
+      "image": "https://cosmatica.org/upload/000/u8/58/f4/af659952.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8a5fa5987ba62554e0",
+      "type": "news-item",
+      "sourceCharacters": 2594,
+      "verified": false
+    },
+    {
+      "title": "Гагаринский урок в Планетарии №1 #Общественно-государственный комитет празднования 85-летия Ю.А. Гагарина",
+      "description": "12 апреля весь мир отмечает День авиации и космонавтики — памятную дату, посвященную первому полету человека в космос. И, конечно же, Планетарий № 1 присоединяется к этому грандиозному празднику!",
+      "url": "https://cosmatica.org/poster/140-gagarinskii-urok-v-planetarii-1.html",
+      "image": "https://cosmatica.org/upload/000/u21/d/8/gagarinskii-urok-v-planetarii-1-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=e8ae7c1038093b2e05",
+      "type": "poster-item",
+      "sourceCharacters": 1106,
+      "verified": false
+    },
+    {
+      "title": "Гелиобиология в Сибири истоки и перспективы",
+      "description": "Научный центр Клинической и экспериментальной медицины СО РАМН",
+      "url": "https://cosmatica.org/articles/139-geliobiologija-v-sibiri-istoki-i-perspektivy.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=26fdd73f3b9202e85b",
+      "type": "article",
+      "sourceCharacters": 13721,
+      "verified": false
+    },
+    {
+      "title": "Закон",
+      "description": "это категория для обозначения общности в связях разноо­бразных явлений, того, что сохраняется в глубине наблюдаемой смены явлений, инвариантный объект тождественный сам себе. В основе за­кона лежит",
+      "url": "https://cosmatica.org/glossary/139-zakon.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=5b9e3243e07079d6f1",
+      "type": "article",
+      "sourceCharacters": 306,
+      "verified": false
+    },
+    {
+      "title": "Наука устойчивого развития",
+      "description": "Монография посвящена актуальным проблемам формирования науки устойчи- вого развития как процесса постижения законов-мер Реального мира и их правиль- ного применения в различных сферах жизнедеятельности с целью развития Жизни как космопланетарного явления. Впервые на едином и универсальном языке излагаются законы и методы науки устойчивого развития. Показываются возможности ее применения для решения ак- туальных пробл",
+      "url": "https://cosmatica.org/library/139-nauka-ustoichivogo-razvitija.html",
+      "image": "https://cosmatica.org/upload/000/u10/59/2c/nauka-ustoichivogo-razvitija-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=64ec2206fb7e8e81d9",
+      "type": "book",
+      "sourceCharacters": 933,
+      "verified": false
+    },
+    {
+      "title": "Гагаринский урок в Витебске",
+      "description": "6 апреля на базе Витебского областного дворца детей и молодёжи состоится Гагаринский урок в честь 85-ти летия со дня рождения Ю.А.Гагарина и приуроченный ко Всемирному дню космонавтики.",
+      "url": "https://cosmatica.org/poster/139-gagarinskii-urok-v-vitebske.html",
+      "image": "https://cosmatica.org/upload/001/u186/1/a/gagarinskii-urok-v-vitebske-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=d6bfa133cceb386015",
+      "type": "poster-item",
+      "sourceCharacters": 662,
+      "verified": false
+    },
+    {
+      "title": "Чижевский-новое видение природы живого вещества планеты Земля",
+      "description": "\"Мы находим нужным ... здесь остановиться на рассмотрении одной",
+      "url": "https://cosmatica.org/articles/138-chizhevskii-novoe-videnie-prirody-zhivogo-veschestva-planety-zemlja.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=06195429113cdcfc2d",
+      "type": "article",
+      "sourceCharacters": 7951,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

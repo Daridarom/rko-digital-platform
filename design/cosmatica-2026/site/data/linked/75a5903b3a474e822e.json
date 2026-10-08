@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1417-kinourok-zhivoi-gorod.html",
+  "title": "​Киноурок \"Живой город\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Культура развития Жизни",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/9/kinourok-zhivoi-gorod-photo-normal.jpg",
+      "alt": "​Киноурок \"Живой город\""
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Эта история могла произойти в любом городе, на любой улице, в любой обычной школе. Но произошло все именно здесь, в одном из старейших городов на юге России, небольшом, но очень примечательном – Таганроге,\" - так начинается новая история о том, где живет счастье.",
+      "spans": [
+        {
+          "text": "\"Эта история могла произойти в любом городе, на любой улице, в любой обычной школе. Но произошло все именно здесь, в одном из старейших городов на юге России, небольшом, но очень примечательном – Таганроге,\" - так начинается новая история о том, где живет счастье."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Зимой этого года Таганрог присоединился к проекту \"Киноуроки в школах России и Мира\". А уже 27 мая начались съёмки 42-го фильма и продлились несколько дней. Выпуск киноурока намечен на сентябрь.",
+      "spans": [
+        {
+          "text": "Зимой этого года Таганрог присоединился к проекту "
+        },
+        {
+          "text": "\"Киноуроки в школах России и Мира\". ",
+          "href": "https://cosmatica.org/projects/kinouroki"
+        },
+        {
+          "text": " А уже 27 мая начались съёмки 42-го фильма и продлились несколько дней. Выпуск киноурока намечен на сентябрь."
+        }
+      ],
+      "links": [
+        {
+          "text": "\"Киноуроки в школах России и Мира\".",
+          "url": "https://cosmatica.org/projects/kinouroki"
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "\"Счастье - это быть полезным обществу\" - Антон Павлович Чехов",
+      "spans": [
+        {
+          "text": "\"Счастье - это быть полезным обществу\" - Антон Павлович Чехов"
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Мы меняем потребительский мир на мир созидания. Это наша задача . - говорит Елена Владимировна Дубровская , сценарист, режиссёр проекта",
+      "spans": [
+        {
+          "text": "Мы меняем потребительский мир на мир созидания. Это наша  "
+        },
+        {
+          "text": "задача",
+          "href": "https://cosmatica.org/glossary/127-zadacha.html"
+        },
+        {
+          "text": ". - говорит "
+        },
+        {
+          "text": "Елена Владимировна Дубровская",
+          "href": "https://cosmatica.org/users/711"
+        },
+        {
+          "text": ", сценарист, режиссёр проекта "
+        }
+      ],
+      "links": [
+        {
+          "text": "задача",
+          "url": "https://cosmatica.org/glossary/127-zadacha.html"
+        },
+        {
+          "text": "Елена Владимировна Дубровская",
+          "url": "https://cosmatica.org/users/711"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Благодарим от всего сердца:",
+      "spans": [
+        {
+          "text": "Благодарим от всего сердца:"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/d/kinourok-zhivoi-gorod-gallery-normal.jpg",
+      "alt": "​Киноурок \"Живой город\" 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/4/kinourok-zhivoi-gorod-gallery-normal.jpg",
+      "alt": "​Киноурок \"Живой город\" 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/8/c/kinourok-zhivoi-gorod-gallery-normal.jpg",
+      "alt": "​Киноурок \"Живой город\" 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/4/b/kinourok-zhivoi-gorod-gallery-normal.jpg",
+      "alt": "​Киноурок \"Живой город\" 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/0/8/kinourok-zhivoi-gorod-gallery-normal.jpg",
+      "alt": "​Киноурок \"Живой город\" 4"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/2/2/kinourok-zhivoi-gorod-gallery-normal.jpg",
+      "alt": "​Киноурок \"Живой город\" 5"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240294&hash=c850e2d227e2f41b&hd=2",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-146842769&id=456240294&hash=c850e2d227e2f41b&hd=2"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Для детей средней школы, раскрывает понятие \"счастье\".",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "\"Эта история могла произойти в любом городе, на любой улице, в любой обычной школе. Но произошло все именно здесь, в одном из старейших городов на юге России, небольшом, но очень примечательном – Таганроге,\" - так начинается новая история о том, где живет счастье. Зимой этого года Таганрог присоединился к проекту \"Киноуроки в школах России и Мира\". А уже 27 мая начались съёмки 42-го фильма и продлились несколько дней. Выпуск киноурока намечен на сентябрь. Актёры будущего фильма прожили на съёмочной площадке сложный, но важный момент преображения, чтобы искренне рассказать о том, что место жительства счастья зависит от каждого, кто несёт его миру в поступках и делах, продиктованных сердцем. \"Счастье - это быть полезным обществу\" - Антон Павлович Чехов Нет ничего важнее жизни на благо других. Так считал А.П. Чехов. Так считает система воспитания Киноуроков. Именно поэтому этот фильм важен для всех, кто понимает значение воспитания в построении будущего. Мы меняем потребительский мир на мир созидания. Это наша задача . - говорит Елена Владимировна Дубровская , сценарист, режиссёр проекта Подробности - в сюжете канала \"Таганрог TV\" Благодарим от всего сердца: Администрацию города. Главу города Михаила Владимировича Солоницина - за приглашение и выбор темы. Его заместителя Санина Алексея Сергеевича - за помощь в организации. Елену Борисовну Поляниченко за неоценимую помощь в администрировании и организации съёмок. Директора Таганрогского института имени А. П. Чехова Андрея Юрьевича Голобородько и Ирину Викториновну Челышеву за чудесный приём и поддержку. Директора Школы №35 Третьякову Наталью Владимировну, весь педагогический коллектив и учеников школы за то, что помогали от всего сердца! Сотрудника детской комнаты милиции Драгунова Павла Олеговича. Прекрасное кафе \"Встреча\". Нельзя было снять фильм о помощи, не проявив её в полной мере. Вы и есть прекрасный город Таганрог!",
+      "links": [
+        {
+          "title": "\"Киноуроки в школах России и Мира\".",
+          "url": "https://cosmatica.org/projects/kinouroki"
+        },
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        },
+        {
+          "title": "задача",
+          "url": "https://cosmatica.org/glossary/127-zadacha.html"
+        },
+        {
+          "title": "Елена Владимировна Дубровская",
+          "url": "https://cosmatica.org/users/711"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/9/9/kinourok-zhivoi-gorod-photo-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/0/d/kinourok-zhivoi-gorod-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/e/4/kinourok-zhivoi-gorod-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/8/c/kinourok-zhivoi-gorod-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/4/b/kinourok-zhivoi-gorod-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/0/8/kinourok-zhivoi-gorod-gallery-normal.jpg",
+    "https://cosmatica.org/upload/002/u218/2/2/kinourok-zhivoi-gorod-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 2254,
+    "storedTextCharacters": 716,
+    "sourceCardCount": 0,
+    "sourceImageCount": 7,
+    "paragraphCount": 3,
+    "sourceBytes": 53675
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 2095,
+  "capturedBodyCharacters": 716,
+  "sourceTextSHA256": "b5d086837d1d1f44123c7fe4a612c5a984d64b7161edf3522d75590410770cb6",
+  "archiveSnapshotAt": "2026-10-08T08:58:14Z",
+  "publicVideoCount": 1
+}

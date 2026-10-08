@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/401-astronomija-dlja-umnenkih-detei-v-seme-solnyshka-tancuyut-vse.html",
+  "title": "Астрономия для умненьких детей. В семье Солнышка \"танцуют \" все",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/3/astronomija-dlja-umnenkih-detei-v-seme-solnyshka-tancuyut-vse.png",
+      "alt": "Астрономия для умненьких детей. В семье Солнышка \"танцуют \" все"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Левитан Е. П.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 33 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2402/6e08c22293d4768f5e97bd28cd370d04"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/f/3/astronomija-dlja-umnenkih-detei-v-seme-solnyshka-tancuyut-vse.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2402/6e08c22293d4768f5e97bd28cd370d04"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 104,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39844
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 40,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "a4d6ce3c310523fbc3f87c9316ec80fe984cc78222db17654cbfc3aafcb45759",
+  "archiveSnapshotAt": "2026-10-08T08:49:46Z"
+}

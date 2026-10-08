@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/1639",
+  "title": "Махаев Дмитрий Николаевич",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/7/6/3905425f.jpg",
+      "alt": "Махаев Дмитрий Николаевич"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/0/1/16d7c75a.jpg",
+      "alt": "Махаев Дмитрий Николаевич"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 4 года назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Луганского отделения РКО",
+      "spans": [
+        {
+          "text": "Председатель Луганского отделения РКО"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Общественный деятель",
+      "spans": [
+        {
+          "text": "Общественный деятель"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ветеран СВО",
+      "spans": [
+        {
+          "text": "Ветеран СВО"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Санкт-Петербург",
+      "links": [
+        {
+          "title": "Санкт-Петербург",
+          "url": "https://cosmatica.org/departments/9-sankt-peterburg.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Председатель Луганского отделения РКО Общественный деятель Ветеран СВО",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/7/6/3905425f.jpg",
+    "https://cosmatica.org/upload/000/u35/0/1/16d7c75a.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 159,
+    "storedTextCharacters": 102,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35038
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 107,
+  "capturedBodyCharacters": 102,
+  "sourceTextSHA256": "5fc3525d777148c73cda26bb07c03f34858feb330e92ebf1cdf91c5dc2049eb5",
+  "archiveSnapshotAt": "2026-10-08T09:18:13Z"
+}

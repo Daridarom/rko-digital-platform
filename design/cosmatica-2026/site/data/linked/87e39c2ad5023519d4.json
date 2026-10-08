@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/58-realnaja-vozmozhnost.html",
+  "title": "Реальная возможность",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "суммарное производство товаров и услуг за определенное",
+      "spans": [
+        {
+          "text": "суммарное производство товаров и услуг за определенное"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "время",
+      "spans": [
+        {
+          "text": "время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "в единицах мощности.",
+      "spans": [
+        {
+          "text": "в единицах мощности."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "суммарное производство товаров и услуг за определенное время в единицах мощности.",
+      "links": [
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 102,
+    "storedTextCharacters": 79,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31848
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 81,
+  "capturedBodyCharacters": 79,
+  "sourceTextSHA256": "2532f7e6eedba0a0a40459c02ea37aa0c93cc36fe5a62b29fcb61f2afe9120f7",
+  "archiveSnapshotAt": "2026-10-08T08:46:54Z"
+}

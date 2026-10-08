@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/162-alfavit-teorii.html",
+  "title": "Алфавит теории",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "упорядоченный список символов (букв и знаков), которые будут использоваться для написания текстов теории.",
+      "spans": [
+        {
+          "text": "упорядоченный список символов (букв и знаков), которые будут использоваться для написания текстов теории."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "упорядоченный список символов (букв и знаков), которые будут использоваться для написания текстов теории.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 120,
+    "storedTextCharacters": 105,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31852
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 105,
+  "capturedBodyCharacters": 105,
+  "sourceTextSHA256": "7519e51a9337ff6d78455aef63dcb7a5da55f1fb83ba0d311ace4591190730aa",
+  "archiveSnapshotAt": "2026-10-08T08:46:38Z"
+}

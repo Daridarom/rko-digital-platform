@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/339-chto-i-kak-nablyudat-na-nebe-1984.html",
+  "title": "Что и как наблюдать на небе (1984)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/2/chto-i-kak-nablyudat-na-nebe-1984-photo-normal.jpeg",
+      "alt": "Что и как наблюдать на небе (1984)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга повествует об астрономии, одной из самых увлекательных наук. В ней рассказывается о закономерностях движения небесных тел, о том как человек научился наблюдать и изучать Космос.",
+      "spans": [
+        {
+          "text": "Книга повествует об астрономии, одной из самых увлекательных наук. В ней рассказывается о закономерностях движения небесных тел, о том как человек научился наблюдать и изучать Космос."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Цесевич В.П.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга повествует об астрономии, одной из самых увлекательных наук. В ней рассказывается о закономерностях движения небесных тел, о том как человек научился наблюдать и изучать Космос.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 7 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2075/69dd42a0d23357db323bf773b06851dc"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/9/2/chto-i-kak-nablyudat-na-nebe-1984-photo-normal.jpeg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2075/69dd42a0d23357db323bf773b06851dc"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 257,
+    "storedTextCharacters": 183,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39977
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 222,
+  "capturedBodyCharacters": 183,
+  "sourceTextSHA256": "997d45a09092ec72e1515e3d02936578bed8a4ce089e962e0eda3c6a0d6ef472",
+  "archiveSnapshotAt": "2026-10-08T08:49:23Z"
+}

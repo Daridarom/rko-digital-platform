@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 100,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Кампания народного финансирования проекта \"Наша Вселенная\"",
+      "description": "Компьютерная игра про освоение космоса «Наша Вселенная» - это история космического агентства «КОРОНА» от наших дней до XXIII века. Отечественная космонавтика, мирное освоение космоса, поиски ответов на загадки Вселенной и образовательный контент в игровой форме составляют то, что мы назвали жанром S.A.N.E. - Scientific Adventure And Exploration (научное приключение и исследование).",
+      "url": "https://cosmatica.org/news/584-kampanija-narodnogo-finansirovanija-proekta-nasha-vselennaja.html",
+      "image": "https://cosmatica.org/upload/000/u64/5/9/kampanija-narodnogo-finansirovanija-proekta-nasha-vselennaja-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9a7595042711223da6",
+      "type": "news-item",
+      "sourceCharacters": 1879,
+      "verified": false
+    },
+    {
+      "title": "Прорастать в Донецке «Гагаринскому саду». Шелестеть листвою по весне",
+      "description": "Светился ликом белоснежным Совсем земной и свойский даже. Про Космос рассказал безбрежный И вспомнил Рериха пейзажи",
+      "url": "https://cosmatica.org/news/583-prorastat-v-donecke-gagarinskomu-sadu-shelestet-listvoyu-po-vesne.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/4/prorastat-v-donecke-gagarinskomu-sadu-shelestet-listvoyu-po-v.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3da4855d7e6998ae6d",
+      "type": "news-item",
+      "sourceCharacters": 5084,
+      "verified": false
+    },
+    {
+      "title": "Великое открытие Семёна Давидовича Кирлиана",
+      "description": "С лекцией «Великое открытие Семёна Давидовича Кирлиана» выступил доцент ДонНТУ, к.т.н., член Донецкого отделения РКО, Джура Сергей Георгиевич.",
+      "url": "https://cosmatica.org/news/581-velikoe-otkrytie-semyona-davidovicha-kirliana.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/1/95858f7c.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=aaebf270c828a94eb8",
+      "type": "news-item",
+      "sourceCharacters": 1527,
+      "verified": false
+    },
+    {
+      "title": "Космоплан Гагарина",
+      "description": "12 октября в Центральной библиотеке города Луги Ленинградской области состоялась встреча с Председателем Секции истории авиации и космонавтики СПбФ ИИЕТ РАН, Заместителем председателя СПбО Русского Космического Общества Лебедевым Виталием Владиславовичем.",
+      "url": "https://cosmatica.org/news/580-kosmoplan-gagarina.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/a/kosmoplan-gagarina-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d903efc44b4d01122f",
+      "type": "news-item",
+      "sourceCharacters": 2047,
+      "verified": false
+    },
+    {
+      "title": "Кедры у Шенфлиза",
+      "description": "Инициатором акции выступил член Калининградского отделения РКО Черных Иван Викторович .",
+      "url": "https://cosmatica.org/news/579-kedry-u-shenfliza.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/8/kedry-u-shenfliza-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8bdedd06af3223a79e",
+      "type": "news-item",
+      "sourceCharacters": 1439,
+      "verified": false
+    },
+    {
+      "title": "Ушёл в вечность легендарный лётчик-космонавт Алексей Архипович Леонов",
+      "description": "Леонов был одиннадцатым советским космонавтом и первым человеком, вышедшим в открытый космос.",
+      "url": "https://cosmatica.org/news/577-skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/4/skonchalsja-legendarnyi-lyotchik-kosmonavt-aleksei-arhipovich-leonov.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9b6b365cfbd20f23b7",
+      "type": "news-item",
+      "sourceCharacters": 1964,
+      "verified": false
+    },
+    {
+      "title": "Идя \"Дорогою в космос\"",
+      "description": "С 1 по 4 октября 2019г. в Москве в Институте космических исследований Российской академии наук (ИКИ РАН) прошла Первая всероссийская конференция по космическому образованию «Дорога в космос».",
+      "url": "https://cosmatica.org/news/576-idja-dorogoyu-v-kosmos.html",
+      "image": "https://cosmatica.org/upload/000/u7/1/8/68c044ae.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=55b21ee11bb54b466f",
+      "type": "news-item",
+      "sourceCharacters": 9857,
+      "verified": false
+    },
+    {
+      "title": "Музей легендарной лётчицы В.С. Гризодубовой открылся в Санкт-Петербурге",
+      "description": "С её биографией связаны не только многие первые страницы отечественной истории покорения воздушного пространства, но и годы ратной службы по защите нашей Родины в годы войны с немецко-фашистскими захватчиками.",
+      "url": "https://cosmatica.org/news/574-muzei-legendarnoi-lyotchicy-v-s-grizodubovoi-otkrylsja-v-sankt-peterburge.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/a/muzei-legendarnoi-lyotchicy-v-s-grizodubovoi-otkrylsja-v-sankt-pet.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a5c2714f0cb341f41b",
+      "type": "news-item",
+      "sourceCharacters": 5447,
+      "verified": false
+    },
+    {
+      "title": "\"Великие тайны космоса\" открылись донецкой молодёжи",
+      "description": "В рамках Всемирной недели космоса 7 октября в читальном зале Научно-технической библиотеки Донецкого национального технического университета состоялась престиж-встреча «Великие тайны космоса» под эгидой Русского Космического Общества.",
+      "url": "https://cosmatica.org/news/573-velikie-tainy-kosmosa-otkrylis-doneckoi-molodyozhi.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/c/velikie-tainy-kosmosa-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ec08ca37fc4a096246",
+      "type": "news-item",
+      "sourceCharacters": 1950,
+      "verified": false
+    },
+    {
+      "title": "Совещание в РАН",
+      "description": "Мероприятие было посвящено расширению взаимодействия с молодежными сообществами, занимающимися научными исследованиями, прикладными разработками и старт-апами различных проектов в различных отраслях. В мероприятии принял участие руководитель департамента молодежных проектов и инициатив Русского Космического Общества Бохонов Глеб Юрьевич . На совещании обсуждались вопросы поддержки молодежных проектов и инициатив, тал",
+      "url": "https://cosmatica.org/news/572-soveschanie-v-ran.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/7/soveschanie-v-ran-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d9085365b7eb9af8ab",
+      "type": "news-item",
+      "sourceCharacters": 2470,
+      "verified": false
+    },
+    {
+      "title": "Калужский прорыв осуществлён!",
+      "description": "Соревнования проводились среди юниоров и юниорок 1999-2001 годов рождения (до 21 года), а также мужчин и женщин 2001 года рождения и старше и были посвящены памяти полковника Ивана Георгиевича Старчака, командира разведывательно-диверсионного отряда в годы Великой Отечественной войны, человека вместе со своим отрядом явившего пример стойкости и мужества, и тем самым, в октябре 1941 года, сорвавшего генеральное наступ",
+      "url": "https://cosmatica.org/news/571-kaluzhskii-proryv-osuschestvlyon.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/9/ee3d3e98.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=dfb583c72197759292",
+      "type": "news-item",
+      "sourceCharacters": 2387,
+      "verified": false
+    },
+    {
+      "title": "Дневник разработки за сентябрь 2019",
+      "description": "Позади напряжённый месяц разработки. Мы приняли участие в Конференции от Gamedev.House и ВШБИ 22 сентября. Отклик посетителей на прототип настольной игры позволил нам определиться с доработками и оперативно их выполнить. Тестовый тираж настолки (20 экземпляров) уже в печати. Весь коллектив разработки настольной игры приложил значительные усилия для доведения прототипа до финала. Отдельное спасибо Марине Борисовой и Е",
+      "url": "https://cosmatica.org/news/570-dnevnik-razrabotki-za-sentjabr-2019.html",
+      "image": "https://cosmatica.org/upload/000/u64/b/7/dnevnik-razrabotki-za-sentjabr-2019-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2483cff9688d8ec6cd",
+      "type": "news-item",
+      "sourceCharacters": 3529,
+      "verified": false
+    },
+    {
+      "title": "Выставка \"Наш Гагарин\" в Луге",
+      "description": "4 октября в Центральной городской библиотеке города Луга Ленинградской области открылась фотовыставка «Наш Гагарин», приуроченная к 85-летию со дня рождения первого космонавта планеты Земля.",
+      "url": "https://cosmatica.org/news/569-vystavka-nash-gagarin-v-luge.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/c/vystavka-nash-gagarin-v-luge-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=407113c343ce8f986a",
+      "type": "news-item",
+      "sourceCharacters": 2101,
+      "verified": false
+    },
+    {
+      "title": "Заседание Президиума РАЕН",
+      "description": "На заседании были заслушаны следующие выступления:",
+      "url": "https://cosmatica.org/news/568-zasedanie-prezidiuma-raen.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/5/zasedanie-prezidiuma-raen-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5e03fadcd1eaecc0b3",
+      "type": "news-item",
+      "sourceCharacters": 991,
+      "verified": false
+    },
+    {
+      "title": "Кедры во имя Жизни",
+      "description": "В своих многочисленных поездках Юрий Алексеевич Гагарин украшал Землю посадкой саженцев деревьев — на тот момент совсем юных и неокрепших — в последствии ставших живыми памятниками Человеку, приложившем руку к их появлению.",
+      "url": "https://cosmatica.org/news/567-kedry-vo-imja-zhizni.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/a/kedry-radi-zhizni-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=68122f0ebb8bb4237b",
+      "type": "news-item",
+      "sourceCharacters": 2854,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

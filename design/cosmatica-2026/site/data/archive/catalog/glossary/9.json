@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "glossary",
+  "title": "Глоссарий",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 9,
+  "pageCount": 16,
+  "total": 236,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Научное мировоззрение",
+      "description": "это отношение к миру, опирающееся на зна­ние законов (истин), выраженных в естественных мерах, проверенных временем и подтвержденных практикой.",
+      "url": "https://cosmatica.org/glossary/99-nauchnoe-mirovozzrenie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=ba6be2637eab1cb056",
+      "type": "article",
+      "sourceCharacters": 143,
+      "verified": false
+    },
+    {
+      "title": "Неустойчивое развитие",
+      "description": ", если оно не является историче­ски хроноцелостным: имеет место выполнение условий развития в те­кущее",
+      "url": "https://cosmatica.org/glossary/98-neustoichivoe-razvitie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=3fff8d535280895d7f",
+      "type": "article",
+      "sourceCharacters": 177,
+      "verified": false
+    },
+    {
+      "title": "Ноосфера",
+      "description": "сфера разума. Разум – это развитый ум. Ум – это",
+      "url": "https://cosmatica.org/glossary/97-noosfera.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=41c349a2332502aec4",
+      "type": "article",
+      "sourceCharacters": 478,
+      "verified": false
+    },
+    {
+      "title": "Нормативная база ускоренного социально-экономического развития",
+      "description": "стандартов (норм-мер), удовлетворяющих требованиям устой­чивого инновационного развития, на основе которых разрабатывают­ся социально-экономические нормативы, включая: показатели, критерии, законы и правила оценки результатов работ.",
+      "url": "https://cosmatica.org/glossary/96-normativnaja-baza-uskorennogo-socialno-ekonomicheskogo-razvitija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=1ab73c23f2ea4bb62f",
+      "type": "article",
+      "sourceCharacters": 240,
+      "verified": false
+    },
+    {
+      "title": "Новое знание",
+      "description": "это новый результат в фундаментальных и прикладных исследованиях, дающий дополнительный (по сравнению со «старым» знанием) эффект.",
+      "url": "https://cosmatica.org/glossary/95-novoe-znanie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=18312f90efae3ee1ea",
+      "type": "article",
+      "sourceCharacters": 130,
+      "verified": false
+    },
+    {
+      "title": "Новация",
+      "description": ", приво­дящие к новому, более высокому результату – эффекту. Новация фиксирует сам факт нового: novus – новый, то есть «впер­вые или недавно появившийся», «до сих пор не бывший», «неведо­мый», «относящийся к данному времени как к исходному моменту» – то есть раннее неизвестный или забытый (утерянный). В словаре С.И. Ожегова есть термин «новация» – нечто новое или",
+      "url": "https://cosmatica.org/glossary/94-novacija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=0c5d89fcbbe6aaea13",
+      "type": "article",
+      "sourceCharacters": 624,
+      "verified": false
+    },
+    {
+      "title": "Новшество",
+      "description": "оформленный результат фундаментальных, приклад­ных исследований, разработок или экспериментальных работ в какой-либо сфере деятельности по повышению ее эффективности. Новше­ства могут оформляться в виде открытий, изобретений патентов, товарных знаков, рационализаторских предложений, научных подходов или принципов, документа (стандарта, рекомендаций, методики).",
+      "url": "https://cosmatica.org/glossary/93-novshestvo.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=33235517521209c3a6",
+      "type": "article",
+      "sourceCharacters": 362,
+      "verified": false
+    },
+    {
+      "title": "Неопределенность",
+      "description": "это имя показателя(лей), значение которого(ых) отсутствует, но необходимо для определения состояния системы.",
+      "url": "https://cosmatica.org/glossary/92-neopredelennost.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=4b455a1ab0456d9027",
+      "type": "article",
+      "sourceCharacters": 108,
+      "verified": false
+    },
+    {
+      "title": "Непредвиденная ситуация",
+      "description": "это ситуация, параметры которой выхо­дят за рамки принятых граничных условий, предусмотренных альтер­нативами возможных решений проблемы.",
+      "url": "https://cosmatica.org/glossary/91-nepredvidennaja-situacija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=27eb5d48ff8de79c04",
+      "type": "article",
+      "sourceCharacters": 137,
+      "verified": false
+    },
+    {
+      "title": "Обобщающая форма веры и знания",
+      "description": "Обобщающей формой веры и знания является мировоззрение как отно­шение к окружающему миру.",
+      "url": "https://cosmatica.org/glossary/90-obobschayuschaja-forma-very-i-znanija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=dabc791c871b4a4219",
+      "type": "article",
+      "sourceCharacters": 89,
+      "verified": false
+    },
+    {
+      "title": "Общий закон Природы",
+      "description": "это не просто сложение известных в мире за­конов естественных наук. Это то общее, что объединяет научные зна­ния о законах реального мира. Сущностью «общего» является поня­тие",
+      "url": "https://cosmatica.org/glossary/89-obschii-zakon-prirody.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=774a03249f7fbe87c1",
+      "type": "article",
+      "sourceCharacters": 1951,
+      "verified": false
+    },
+    {
+      "title": "План",
+      "description": "работ по достижению цели, в которой не должно быть лишних или забытых работ. Эта сеть состоит из двух списков: списка работ и списка связей между работами. Если нет потребителя работы – данная",
+      "url": "https://cosmatica.org/glossary/88-plan.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=685b77e7542bd017a9",
+      "type": "article",
+      "sourceCharacters": 286,
+      "verified": false
+    },
+    {
+      "title": "Политология",
+      "description": "предметная область, изучающая различные формы де­ятельности по обеспечению власти.",
+      "url": "https://cosmatica.org/glossary/87-politologija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=3b7619312e8c788a0e",
+      "type": "article",
+      "sourceCharacters": 82,
+      "verified": false
+    },
+    {
+      "title": "Показатель",
+      "description": "с именем и мерой, выражающая опреде­ленное свойство управляемой системы.",
+      "url": "https://cosmatica.org/glossary/86-pokazatel.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=62d737c558b3cc1533",
+      "type": "article",
+      "sourceCharacters": 85,
+      "verified": false
+    },
+    {
+      "title": "Потребность",
+      "description": "это необходимая потенциальная или реальная воз­можность (",
+      "url": "https://cosmatica.org/glossary/85-potrebnost.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=f2c9a6259185707839",
+      "type": "article",
+      "sourceCharacters": 154,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

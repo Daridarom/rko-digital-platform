@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/24-termodinamicheskie-aspekty-truda-kak-otnoshenija-cheloveka-k-prirode.html",
+  "title": "Термодинамические аспекты труда как отношения человека к природе",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Целью данной статьи является энергетический анализ\r\nтрудовой деятельности людей и роли этой деятельности во\r\nвзаимодействии человека с природой.",
+      "spans": [
+        {
+          "text": "Целью данной статьи является энергетический анализ\r\nтрудовой деятельности людей и роли этой деятельности во\r\nвзаимодействии человека с природой."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Целью данной статьи является энергетический анализ трудовой деятельности людей и роли этой деятельности во взаимодействии человека с природой.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 466 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/40/18e30ae3b7f2156cc374b309c71a1960"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/40/18e30ae3b7f2156cc374b309c71a1960"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 228,
+    "storedTextCharacters": 144,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39392
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 163,
+  "capturedBodyCharacters": 144,
+  "sourceTextSHA256": "124590e8566e58a2fb25fe9efff456d5d98135bb90bc9e05afcda556e7b01cb3",
+  "archiveSnapshotAt": "2026-10-08T08:48:12Z"
+}

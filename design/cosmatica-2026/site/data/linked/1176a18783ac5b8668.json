@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/69-proektirovanie-sistemy.html",
+  "title": "Проектирование системы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "есть создание прикладной теории, которая будет реализована в «железе» (П.Г.Кузнецов). Конструктор, созда­ющий ту или иную систему, думает, что он конструирует технологи­ческое средство, на самом деле он создает новую теорию, технологию,",
+      "spans": [
+        {
+          "text": "есть создание прикладной теории, которая будет реализована в «железе» (П.Г.Кузнецов). Конструктор, созда­ющий ту или иную систему, думает, что он конструирует технологи­ческое средство, на самом деле он создает новую теорию, технологию,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "проект",
+      "spans": [
+        {
+          "text": "проект"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", систему, которые на заданные входы дают заданные выходы.",
+      "spans": [
+        {
+          "text": ", систему, которые на заданные входы дают заданные выходы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "есть создание прикладной теории, которая будет реализована в «железе» (П.Г.Кузнецов). Конструктор, созда­ющий ту или иную систему, думает, что он конструирует технологи­ческое средство, на самом деле он создает новую теорию, технологию, проект , систему, которые на заданные входы дают заданные выходы.",
+      "links": [
+        {
+          "title": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 325,
+    "storedTextCharacters": 300,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32344
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 302,
+  "capturedBodyCharacters": 300,
+  "sourceTextSHA256": "2813df6f64d5dde24c63228024e5e15c257b9972ffb632fe1979bddd662752a9",
+  "archiveSnapshotAt": "2026-10-08T08:46:57Z"
+}

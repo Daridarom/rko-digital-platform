@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/453-uchites-myslit-smolodu-izdatelstvo-znanie-1977.html",
+  "title": "Учитесь мыслить смолоду. Издательство «Знание», 1977",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/0/uchites-myslit-smolodu-izdatelstvo-znanie-1977-photo-norma.jpg",
+      "alt": "Учитесь мыслить смолоду. Издательство «Знание», 1977"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Новое в жизни, науке, технике. Серия «Мо­лодежная», 4. Издается ежемесячно с 1959 г.)\r\nУсвоение готовых знаний и воспитание ума — в каком отношении эти два процесса находятся? Как соединить их в одном процессе?\r\nНа основе опыта некоторых ученых и педагогов автор показывает, как решается эта основная",
+      "spans": [
+        {
+          "text": "(Новое в жизни, науке, технике. Серия «Мо­лодежная», 4. Издается ежемесячно с 1959 г.)\r\nУсвоение готовых знаний и воспитание ума — в каком отношении эти два процесса находятся? Как соединить их в одном процессе?\r\nНа основе опыта некоторых ученых и педагогов автор показывает, как решается эта основная"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "проблема",
+      "spans": [
+        {
+          "text": "проблема"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "интеллектуального воспитания молодежи.",
+      "spans": [
+        {
+          "text": "интеллектуального воспитания молодежи."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Ильенков Э.В.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "(Новое в жизни, науке, технике. Серия «Мо­лодежная», 4. Издается ежемесячно с 1959 г.) Усвоение готовых знаний и воспитание ума — в каком отношении эти два процесса находятся? Как соединить их в одном процессе? На основе опыта некоторых ученых и педагогов автор показывает, как решается эта основная проблема интеллектуального воспитания молодежи.",
+      "links": [
+        {
+          "title": "проблема",
+          "url": "https://cosmatica.org/glossary/63-problema.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 5 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2909/b2807a502d10db161f6510134e5e6320"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/e/0/uchites-myslit-smolodu-izdatelstvo-znanie-1977-photo-norma.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2909/b2807a502d10db161f6510134e5e6320"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 440,
+    "storedTextCharacters": 347,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40315
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 387,
+  "capturedBodyCharacters": 347,
+  "sourceTextSHA256": "18c91cb63f56bb2ec5c6e83753050c426cfd2efd4ec7e217040fa41842c16afa",
+  "archiveSnapshotAt": "2026-10-08T08:50:23Z"
+}

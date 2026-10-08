@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/100-zabelin-igor-mihailovich-chelovechestvo-dlja-chego-ono.html",
+  "title": "Забелин Игорь Михайлович - Человечество - для чего оно?",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/6d/4f/igor-mihailovich-zabelin-chelovechestvo-dlja-chego-ono-photo-no.png",
+      "alt": "Забелин Игорь Михайлович - Человечество - для чего оно?"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Забелин Игорь Михайлович",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 301 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/152/7ecb8c330b0c09133319ba2a30124bb2"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/6d/4f/igor-mihailovich-zabelin-chelovechestvo-dlja-chego-ono-photo-no.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/152/7ecb8c330b0c09133319ba2a30124bb2"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 108,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39348
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 52,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "7c899390540bb5fb7ba1daa651fb18741b31ea8b6ab341e1bf84c8815f7821f0",
+  "archiveSnapshotAt": "2026-10-08T08:47:31Z"
+}

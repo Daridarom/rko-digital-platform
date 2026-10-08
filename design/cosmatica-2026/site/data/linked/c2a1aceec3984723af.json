@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/150-dannye.html",
+  "title": "Данные",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это не подвергшиеся обработке факты (отдельные символы), имеющие отношение к определенному событию; являются материалом для последующих преобразований.",
+      "spans": [
+        {
+          "text": "это не подвергшиеся обработке факты (отдельные символы), имеющие отношение к определенному событию; являются материалом для последующих преобразований."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это не подвергшиеся обработке факты (отдельные символы), имеющие отношение к определенному событию; являются материалом для последующих преобразований.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 158,
+    "storedTextCharacters": 151,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32031
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 151,
+  "capturedBodyCharacters": 151,
+  "sourceTextSHA256": "113cc233423de6773ca7dc2f53840e91fcd45642cb07533fde46cbff8ee8fd0a",
+  "archiveSnapshotAt": "2026-10-08T08:46:35Z"
+}

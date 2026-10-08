@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 17,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Презентация проектов Экологического совета РКО в ГУУ",
+      "description": "27 сентября 2024 года руководитель Экологического совета РКО Мария Владимировна Губенко выступила с презентацией проектов перед студентами Государственного университета управления по направлению подготовки \" Экология и природопользование\".",
+      "url": "https://cosmatica.org/news/1942-prezentacija-proektov-ekologicheskogo-soveta-rko.html",
+      "image": "https://cosmatica.org/upload/000/u46/3/7/prezentacija-proektov-ekologicheskogo-soveta-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a87fe7f19ce4f302ac",
+      "type": "news-item",
+      "sourceCharacters": 1352,
+      "verified": false
+    },
+    {
+      "title": "Итоги всероссийской конференции по трезвости и здоровьесбережению",
+      "description": "Организаторами выступили экспертное сообщество Международной академии трезвости (МАТр) при поддержке Русского Космического Общества и соратнических организаций.",
+      "url": "https://cosmatica.org/news/1941-itogi-vserossiiskoi-konferencii-po-trezvosti-i-zdorovesberezheniyu.html",
+      "image": "https://cosmatica.org/upload/000/u46/f/4/itogi-vserossiiskoi-konferencii-po-trezvosti-i-zdorovesberezheni.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fef56d44774afa7e07",
+      "type": "news-item",
+      "sourceCharacters": 13464,
+      "verified": false
+    },
+    {
+      "title": "Астрономы - фильм про то, что победит Войну",
+      "description": "В космосе войны нет. В космосе есть гармония. Космос и есть сама гармония, где всё есть части целого, а целое проявлено всем и во всём законами природы и мерою.",
+      "url": "https://cosmatica.org/news/1940-astronomy-film-pro-to-chto-pobedit-voinu.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/7/astronomy-film-pro-to-chto-pobedit-voinu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=53c533b2c873348371",
+      "type": "news-item",
+      "sourceCharacters": 2673,
+      "verified": false
+    },
+    {
+      "title": "Встал в Вечный строй Волосатов Валерий Иванович",
+      "description": "Волосатов В.И. – уникальный человек и целая эпоха. Валерий Иванович - исследователь Космоса и эфира, карачевский гений с энциклопедическим масштабом и глубиной охвата знаний о Человеке и Вселенной.",
+      "url": "https://cosmatica.org/news/1939-vstal-v-vechnyi-stroi-volosatov-valerii-ivanovich.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/7/69950b3d.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cdb21f8d2222efa286",
+      "type": "news-item",
+      "sourceCharacters": 3930,
+      "verified": false
+    },
+    {
+      "title": "Космодесант высадится на берегах Ладожского озера. Спешите быть в команде!",
+      "description": "Сборы пройдут в живописном месте на берегу Ладожского озера, на базе эколагеря \"Стихия\".",
+      "url": "https://cosmatica.org/news/1938-kosmodesant-vysaditsja-na-beregah-ladozhskogo-ozera-speshite-byt-v-komande.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/1/kosmodesant-vysaditsja-na-beregah-ladozhskogo-ozera-speshite-byt.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=12a0b8483f9b720c8c",
+      "type": "news-item",
+      "sourceCharacters": 4300,
+      "verified": false
+    },
+    {
+      "title": "Добротворцы едут помогать!",
+      "description": "На этот раз в рамках гуманитарной работы Союза Народного Сплочения с Главой Русского Космического Общества Алексеем Алексеевичем Гапоновым, сопровождать собранный ими же груз поехали наши добротворцы Горожанкин Владимир Викторович и Смирнов Владимир Владимирович.",
+      "url": "https://cosmatica.org/news/1937-dobrotvorcy-edut-pomogat.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/8/dobrotvorcy-edut-pomogat-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ef66f9f4d7388bde1e",
+      "type": "news-item",
+      "sourceCharacters": 4074,
+      "verified": false
+    },
+    {
+      "title": "Кудеярова тропа - осень 2024",
+      "description": "В этот раз проверить себя на прочность, на старт вышли 190 участников.",
+      "url": "https://cosmatica.org/news/1935-kudejarova-torpa-osen-2024.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/7/kudejarova-torpa-osen-2024-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8b41ea83b1648c2a20",
+      "type": "news-item",
+      "sourceCharacters": 1670,
+      "verified": false
+    },
+    {
+      "title": "Наш человек с Байконура",
+      "description": "Яшуков Михаил Адамович, полковник ракетных войск, председатель Владимирской общественной организации ветеранов космодрома Байконур, почетный гражданин города Байконур, почетный член Русского Космического Общества всегда желанный гость музея. Давнее случайное знакомство переросло в большую дружбу с Михаилом Адамовичем. И, теперь, приезжая на Родину в гости, он всегда находит время для встречи с жителями не только села",
+      "url": "https://cosmatica.org/news/1934-nash-chelovek-s-baikonura.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/3/nash-chelovek-s-baikonura-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=acbdaa2c9ba69c1863",
+      "type": "news-item",
+      "sourceCharacters": 5534,
+      "verified": false
+    },
+    {
+      "title": "Русский стяг: Дети войны",
+      "description": "Русский воин духа, лидер группы \"Русский стяг\" , участник Русского Космического Общества Евгений Фёдорович Долганов в битве за Жизнь большую часть своего земного пути.",
+      "url": "https://cosmatica.org/news/1933-russkii-stjag-deti-voiny.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/7/russkii-stjag-deti-voiny-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5b60b1a00dec63e917",
+      "type": "news-item",
+      "sourceCharacters": 2377,
+      "verified": false
+    },
+    {
+      "title": "Нирма - учёный. Полёт нормальный!",
+      "description": "С 15 по 25 августа прошла очередная смена детских сборов Нирма , этап – учёный.",
+      "url": "https://cosmatica.org/news/1932-nirma-uchyonyi-polyot-normalnyi.html",
+      "image": "https://cosmatica.org/upload/003/u318/1/f/nirma-uchyonyi-polyot-normalnyi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=78b918cf828763f9f2",
+      "type": "news-item",
+      "sourceCharacters": 11809,
+      "verified": false
+    },
+    {
+      "title": "Три месяца с ЭРА. Вперёд и вверх!",
+      "description": "Пятого августа в стенах ИА \"АВРОРА\" состоялось подведение итогов трёх месяцев сотрудничества и сотворчества коллектива проекта ЭРА. В Проекте участвуют представители актива ИА \"АВРОРА\", члены и участники Русского Космического Общества, эксперты и специалисты, разделяющие цели, задачи и способы достижения проекта ЭРА . Проекта направленного на создание условий для ускоренного перехода России к новой социально-экономич",
+      "url": "https://cosmatica.org/news/1931-tri-mesjaca-s-era-vperyod-i-vverh.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/d/tri-mesjaca-s-era-vperyod-i-vverh-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1f562e6ef5909e594e",
+      "type": "news-item",
+      "sourceCharacters": 7261,
+      "verified": false
+    },
+    {
+      "title": "ДНР. Сводки с полей",
+      "description": "25 августа в Мариупольском государственном университете состоялась встреча главы Русского Космического Общества Алексея Алексеевича Гапонова и члена Президиума РКО, руководителя проекта «Космодесант», педагога, писателя, основатель литературного проекта «Империум Человека» Степана Андреевича Зотова со студентами и педагогами университета.",
+      "url": "https://cosmatica.org/news/1930-dnr-svodki-s-polei.html",
+      "image": "https://cosmatica.org/upload/002/u218/e/0/dnr-svodki-s-polei-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=57c723df39a540a069",
+      "type": "news-item",
+      "sourceCharacters": 5018,
+      "verified": false
+    },
+    {
+      "title": "Пополнение в строю Первого Отряда РКО",
+      "description": "Прекрасно, что это видели юные наши участницы. Для них это блестящий пример убежденности в правильности принятого ими решения о вступлении в наши ряды.",
+      "url": "https://cosmatica.org/news/1929-popolnenie-v-stroyu-pervogo-otrjada-rko.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/6/popolnenie-v-stroyu-pervogo-otrjada-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a22c1c2f32c0c88f48",
+      "type": "news-item",
+      "sourceCharacters": 6626,
+      "verified": false
+    },
+    {
+      "title": "В гости к \"Бурану\"",
+      "description": "Тимур и Дарья Лещевы – члены гагаринского отряда лицея №17 города Берёзовский в последние дни каникул посетили крупнейший в России Технический музей, который располагается в городе Верхняя Пышма (близ Екатеринбурга). Основная цель поездки – увидеть орбитальный корабль, который недавно доставили в музей в качестве постоянного экспоната.",
+      "url": "https://cosmatica.org/news/1928-v-gosti-k-buranu.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/c/3b262f64.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=da07385a704a513e9b",
+      "type": "news-item",
+      "sourceCharacters": 3317,
+      "verified": false
+    },
+    {
+      "title": "Идём в Запорожские земли",
+      "description": "8 августа представители центрального штаба РКО впервые посетили с рабочим визитом Запорожскую область",
+      "url": "https://cosmatica.org/news/1927-idyom-v-zaporozhe.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/3/idyom-v-zaporozhe-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f59eadb3e7c3dfeaa3",
+      "type": "news-item",
+      "sourceCharacters": 6127,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

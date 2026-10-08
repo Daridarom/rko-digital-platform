@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/131-sustainable-development-natural-and-scientific-principles.html",
+  "title": "Sustainable development: natural and scientific principles",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/03/ce/o-l-kuznecov-b-e-bolshakov-sustainable-development-natural.png",
+      "alt": "Sustainable development: natural and scientific principles"
+    },
+    {
+      "type": "paragraph",
+      "text": "В статье обсуждаются мировоззренческие и теоретические основания синтеза естественных,\r\nтехнических и социальных знаний на основе",
+      "spans": [
+        {
+          "text": "В статье обсуждаются мировоззренческие и теоретические основания синтеза естественных,\r\nтехнических и социальных знаний на основе"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "общих законов природы",
+      "spans": [
+        {
+          "text": "общих законов природы"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ". Излагается суть системы общих\r\nзаконов природы. Впервые формулируется универсальный принцип синтеза разнородных естественных,\r\nтехнических и социальных понятий на основе системы",
+      "spans": [
+        {
+          "text": ". Излагается суть системы общих\r\nзаконов природы. Впервые формулируется универсальный принцип синтеза разнородных естественных,\r\nтехнических и социальных понятий на основе системы"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "LT",
+      "spans": [
+        {
+          "text": "LT"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "-величин (принцип LT-синтез).\r\nРассматриваются его проявления в физике, химии, биологии,",
+      "spans": [
+        {
+          "text": "-величин (принцип LT-синтез).\r\nРассматриваются его проявления в физике, химии, биологии,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "экологии",
+      "spans": [
+        {
+          "text": "экологии"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", технологии, экономике, науке о\r\nчеловеке.",
+      "spans": [
+        {
+          "text": ", технологии, экономике, науке о\r\nчеловеке."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Работа",
+      "spans": [
+        {
+          "text": "Работа"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "выполнена по гранту Российского фонда фундаментальных исследований №07-06-00209-а.",
+      "spans": [
+        {
+          "text": "выполнена по гранту Российского фонда фундаментальных исследований №07-06-00209-а."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "О.Л Кузнецов.,Б.Е. Большаков",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В статье обсуждаются мировоззренческие и теоретические основания синтеза естественных, технических и социальных знаний на основе общих законов природы . Излагается суть системы общих законов природы. Впервые формулируется универсальный принцип синтеза разнородных естественных, технических и социальных понятий на основе системы LT -величин (принцип LT-синтез). Рассматриваются его проявления в физике, химии, биологии, экологии , технологии, экономике, науке о человеке. Работа выполнена по гранту Российского фонда фундаментальных исследований №07-06-00209-а.",
+      "links": [
+        {
+          "title": "общих законов природы",
+          "url": "https://cosmatica.org/glossary/89-obschii-zakon-prirody.html"
+        },
+        {
+          "title": "LT",
+          "url": "https://cosmatica.org/glossary/30-universalnyi-prostranstvenno-vremennoi-jazyk-lt-jazyk.html"
+        },
+        {
+          "title": "экологии",
+          "url": "https://cosmatica.org/glossary/200-ekologija.html"
+        },
+        {
+          "title": "Работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/528/a646caf8762287f6e873e484db6e0225"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u10/03/ce/o-l-kuznecov-b-e-bolshakov-sustainable-development-natural.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/528/a646caf8762287f6e873e484db6e0225"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 675,
+    "storedTextCharacters": 558,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 41044
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 616,
+  "capturedBodyCharacters": 558,
+  "sourceTextSHA256": "b3edb245243c6bcf68600d2681c1d86e8d247a8e9b23e1274611365bcc9c9f7c",
+  "archiveSnapshotAt": "2026-10-08T08:47:39Z"
+}

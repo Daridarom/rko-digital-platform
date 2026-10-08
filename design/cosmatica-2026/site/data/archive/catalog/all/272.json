@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 272,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Совет здоровья",
+      "description": "Популяризация передовых научно-практических достижений космомедицины, космобиологии и экологичного взаимодействия человека с биоценозом и техносферой.",
+      "url": "https://cosmatica.org/collegium/20-sovet-zdorovja.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=466d00e0c5c837c3a9",
+      "type": "collegium-item",
+      "sourceCharacters": 3970,
+      "verified": false
+    },
+    {
+      "title": "Калининградская область",
+      "description": "Официальное открытие отделения состоялось 5 июля 2019г.",
+      "url": "https://cosmatica.org/departments/20-kaliningradskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=fbee202a16693dae6f",
+      "type": "department",
+      "sourceCharacters": 259,
+      "verified": false
+    },
+    {
+      "title": "Ускоренное социально-экономическое развитие",
+      "description": "качества жизни за счет опережающих темпов совокупной производи­тельности труда, обеспеченных технологией управления устойчивым инновационным развитием.",
+      "url": "https://cosmatica.org/glossary/20-uskorennoe-socialno-ekonomicheskoe-razvitie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=8cc77670a7d683b25c",
+      "type": "article",
+      "sourceCharacters": 171,
+      "verified": false
+    },
+    {
+      "title": "Противоречие между первым и вторым законами термодинамики",
+      "description": "Неудачные попытки изобретения вечного двигателя привели к установлению одного из фундаментальных законов природы — закона сохранения энергии.",
+      "url": "https://cosmatica.org/library/20-protivorechie-mezhdu-pervym-i-vtorym-zakonami-termodinamiki.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=8456de8c2413093b44",
+      "type": "book",
+      "sourceCharacters": 162,
+      "verified": false
+    },
+    {
+      "title": "Энтузиаст из Долгопрудного предлагает познавать тайны вселенной",
+      "description": "Издание книги о достижениях отечественной космонавтики, разработка «космического» онлайн-курса и организация летних физико-технических школ для подростков. Эти и многие другие проекты реализуют активисты региональной общественной организации «Русское космическое общество». Подробности корреспондент «Подмосковье сегодня» узнал у идейного вдохновителя и одного из главных соорганизаторов РКО Дениса Шпотя из Долгопрудног",
+      "url": "https://cosmatica.org/news/20-entuziast-iz-dolgoprudnogo-predlagaet-poznavat-tainy-vselennoi.html",
+      "image": "https://cosmatica.org/upload/000/u1/da/64/entuziast-iz-dolgoprudnogo-predlagaet-poznavat-tainy-vselennoi.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=81803c5f8e848417d4",
+      "type": "news-item",
+      "sourceCharacters": 4748,
+      "verified": false
+    },
+    {
+      "title": "Научный семинар «Космическое Женское Послание» #Женское Космическое Послание Земли",
+      "description": "18 июня 2018 года в Доме космонавтов Звёздного городка состоится Научный семинар, посвящённый обсуждению \"Космического Женского Послания\".",
+      "url": "https://cosmatica.org/poster/20-nauchnyi-seminar-kosmicheskoe-zhenskoe-poslanie.html",
+      "image": "https://cosmatica.org/upload/000/u26/f8/a9/nauchnyi-seminar-kosmicheskoe-zhenskoe-poslanie-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=32bdac8b46777a49f1",
+      "type": "poster-item",
+      "sourceCharacters": 1745,
+      "verified": false
+    },
+    {
+      "title": "Совет по развитию космических инициатив",
+      "description": "Деятельность Совета по развитию космических инициатив: нацелена на продвижение созидательных инициатив людей, идущих по пути своего предназначения и создающих новую среду жизнедеятельности, наполненную космическими смыслами и земной человечностью. Общие задачи Совета: - Формирование, отбор, поддержка, развитие и продвижение масштабных, прорывных, социально-инвестиционных, созидательных инициатив дуального значения - ",
+      "url": "https://cosmatica.org/collegium/19-sovet-po-razvitiyu-kosmicheskih-iniciativ.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=7b0d87397b0afd1196",
+      "type": "collegium-item",
+      "sourceCharacters": 2105,
+      "verified": false
+    },
+    {
+      "title": "Волгоградская область",
+      "description": "Председатель отделения - Баркова Элеонора Владиленовна",
+      "url": "https://cosmatica.org/departments/19-volgogradskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=b0f6bd412eff3aeabb",
+      "type": "department",
+      "sourceCharacters": 134,
+      "verified": false
+    },
+    {
+      "title": "Управление устойчивым инновационным развитием",
+      "description": "это целенаправ­ленное изменение объекта управления, обеспечивающее",
+      "url": "https://cosmatica.org/glossary/19-upravlenie-ustoichivym-innovacionnym-razvitiem.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=a7b265e54f287e6c5a",
+      "type": "article",
+      "sourceCharacters": 392,
+      "verified": false
+    },
+    {
+      "title": "Еще раз о втором законе термодинамики и \"тепловой смерти\" Вселенной",
+      "description": "",
+      "url": "https://cosmatica.org/library/19-esche-raz-o-vtorom-zakone-termodinamiki-i-teplovoi-smerti-vselennoi.html",
+      "image": null,
+      "kind": "book",
+      "href": "view.html?p=book&ref=55939a9d189963c800",
+      "type": "book",
+      "sourceCharacters": 51,
+      "verified": false
+    },
+    {
+      "title": "Регистрация РКО",
+      "description": "Символично, что это событие произошло именно 25 октября 2017 года, ровно через 100 лет после Великой Октябрьской Социалистической революции. Это событие, юбилей которого отметило всё прогрессивное человечество, повлияло на ход не только Российской, но и всепланетарной истории.",
+      "url": "https://cosmatica.org/news/19-registracija-rko.html",
+      "image": "https://cosmatica.org/upload/000/u1/69/dd/registracija-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=acb354c54aed380db2",
+      "type": "news-item",
+      "sourceCharacters": 1020,
+      "verified": false
+    },
+    {
+      "title": "Закрытие лагерной смены \"Космодесант-2018\" #Военно-космические сборы «Космодесант»",
+      "description": "Главной целью лагеря является воспитание духа товарищества, ответственности и самостоятельности в детях. Космического масштаба мышления, настроя на победу, готовности создавать идеи и воплощать их в жизнь .",
+      "url": "https://cosmatica.org/poster/19-zakrytie-lagernoi-smeny-kosmodesant-2018.html",
+      "image": "https://cosmatica.org/upload/000/u26/6d/f2/zakrytie-lagernoi-smeny-kosmodesant-2018-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=3c73063adb03259673",
+      "type": "poster-item",
+      "sourceCharacters": 1516,
+      "verified": false
+    },
+    {
+      "title": "Стратегия становления – наше Общее Дело",
+      "description": "Стратегия становления Русского Космического Общества – наше Общее Дело",
+      "url": "https://cosmatica.org/about/18-strategija-stanovlenija-nashe-obschee-delo.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/d/bezymjannyi.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=a654f9881ecb1bb234",
+      "type": "article",
+      "sourceCharacters": 20383,
+      "verified": false
+    },
+    {
+      "title": "Экологический Совет",
+      "description": "Деятельность Совета: направлена на обеспечение решения задач «Русского Космического Общества» по изучению и популяризации космонавтики, содействие сохранению научного, исторического и культурного наследия русского космизма, содействие сохранению и приумножению общечеловеческих ценностей, выработанных мировым экологическим движением, создание в России общества сбалансированного устойчивого развития, общества высокой к",
+      "url": "https://cosmatica.org/collegium/18-ekologicheskii-sovet.html",
+      "image": null,
+      "kind": "collegium-item",
+      "href": "view.html?p=collegium-item&ref=88d158f1b1ff959b3f",
+      "type": "collegium-item",
+      "sourceCharacters": 4475,
+      "verified": false
+    },
+    {
+      "title": "Кемеровская область",
+      "description": "Председатель отделения - Грицкевич Татьяна Игоревна",
+      "url": "https://cosmatica.org/departments/18-kemerovskaja-oblast.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=40374b638e97dbb153",
+      "type": "department",
+      "sourceCharacters": 97,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

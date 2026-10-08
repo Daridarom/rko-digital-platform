@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/660-zavershenie-kosmicheskih-kanikul.html",
+  "title": "Завершение Космических каникул",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Космические каникулы",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/0/5/zavershenie-kosmicheskih-kanikul-photo-normal.jpeg",
+      "alt": "Завершение Космических каникул"
+    },
+    {
+      "type": "paragraph",
+      "text": "Несколько дней юные гости столичного региона нашей Родины наполнялись новыми знаниями, вдохновлялись достижениями прошлого и перспективными проектами будущего Отечественной космонавтики.",
+      "spans": [
+        {
+          "text": "Несколько дней юные гости столичного региона нашей Родины наполнялись новыми знаниями, вдохновлялись достижениями прошлого и перспективными проектами будущего Отечественной космонавтики. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Финальный же день подарил ребятам яркие впечатления от развлекательной программы. Утром они посетили аквапарк. Удивительное сочетание заснеженных деревьев за окнами и жаркого лета и весёлых водных забав - чудесный отдых!",
+      "spans": [
+        {
+          "text": "Финальный же день подарил ребятам яркие впечатления от развлекательной программы. Утром они посетили аквапарк. Удивительное сочетание заснеженных деревьев за окнами и жаркого лета и весёлых водных забав - чудесный отдых!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "А вечером вся группа отправилась в Москву, погулять по Красной площади. Праздничная иллюминация потрясла не только детей, но и взрослых. Было сделано множество фотографий на фоне Кремля, ГУМа, парка Зарядье, храма Василия Блаженного. А также реализовали главную задачу путешественника - покупку сувениров для себя и своих близких.",
+      "spans": [
+        {
+          "text": "А вечером вся группа отправилась в Москву, погулять по Красной площади. Праздничная иллюминация потрясла не только детей, но и взрослых. Было сделано множество фотографий на фоне Кремля, ГУМа, парка Зарядье, храма Василия Блаженного. А также реализовали главную задачу путешественника - покупку сувениров для себя и своих близких."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Завершился последний день космических приключений. На утро остались прощальные мероприятия и в путь...",
+      "spans": [
+        {
+          "text": "Завершился последний день космических приключений. На утро остались прощальные мероприятия и в путь...  "
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/e/a/zavershenie-kosmicheskih-kanikul-gallery-normal.jpeg",
+      "alt": "Завершение Космических каникул 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/1/zavershenie-kosmicheskih-kanikul-gallery-normal.jpeg",
+      "alt": "Завершение Космических каникул 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/a/e/zavershenie-kosmicheskih-kanikul-gallery-normal.jpeg",
+      "alt": "Завершение Космических каникул 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/7/8/zavershenie-kosmicheskih-kanikul-gallery-normal.jpeg",
+      "alt": "Завершение Космических каникул 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/9/zavershenie-kosmicheskih-kanikul-gallery-normal.jpeg",
+      "alt": "Завершение Космических каникул 4"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "11 января, в субботу, как и полагается после плодотворного труда, детей из ДНР ждали развлечения.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Несколько дней юные гости столичного региона нашей Родины наполнялись новыми знаниями, вдохновлялись достижениями прошлого и перспективными проектами будущего Отечественной космонавтики. Финальный же день подарил ребятам яркие впечатления от развлекательной программы. Утром они посетили аквапарк. Удивительное сочетание заснеженных деревьев за окнами и жаркого лета и весёлых водных забав - чудесный отдых! А вечером вся группа отправилась в Москву, погулять по Красной площади. Праздничная иллюминация потрясла не только детей, но и взрослых. Было сделано множество фотографий на фоне Кремля, ГУМа, парка Зарядье, храма Василия Блаженного. А также реализовали главную задачу путешественника - покупку сувениров для себя и своих близких. Завершился последний день космических приключений. На утро остались прощальные мероприятия и в путь...",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/0/5/zavershenie-kosmicheskih-kanikul-photo-normal.jpeg",
+    "https://cosmatica.org/upload/000/u35/e/a/zavershenie-kosmicheskih-kanikul-gallery-normal.jpeg",
+    "https://cosmatica.org/upload/000/u35/1/1/zavershenie-kosmicheskih-kanikul-gallery-normal.jpeg",
+    "https://cosmatica.org/upload/000/u35/a/e/zavershenie-kosmicheskih-kanikul-gallery-normal.jpeg",
+    "https://cosmatica.org/upload/000/u35/7/8/zavershenie-kosmicheskih-kanikul-gallery-normal.jpeg",
+    "https://cosmatica.org/upload/000/u35/1/9/zavershenie-kosmicheskih-kanikul-gallery-normal.jpeg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1199,
+    "storedTextCharacters": 870,
+    "sourceCardCount": 0,
+    "sourceImageCount": 6,
+    "paragraphCount": 4,
+    "sourceBytes": 50432
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1036,
+  "capturedBodyCharacters": 870,
+  "sourceTextSHA256": "1a7410f7f6b9c0873c29ef86ed066aeebd535885a093284d4f457ac9b3959b0a",
+  "archiveSnapshotAt": "2026-10-08T09:12:56Z"
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/63-russkoe-kosmicheskoe-obschestvo-ukrepilo-pozicii-v-sankt-peterburge.html",
+  "title": "Русское Космическое Общество укрепило позиции в Санкт-Петербурге",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/76/d3/russkoe-kosmicheskoe-obschestvo-ukrepilo-pozicii-v-sankt-peterburge.jpg",
+      "alt": "Русское Космическое Общество укрепило позиции в Санкт-Петербурге"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "z5EXdZu0DwE",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=z5EXdZu0DwE"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Предлагаем вашему вниманию отчётный видеосюжет с прошедшего 2 февраля 2018 года общего (учредительного) собрания Санкт-Петербургского отделения РКО.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u21/76/d3/russkoe-kosmicheskoe-obschestvo-ukrepilo-pozicii-v-sankt-peterburge.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 340,
+    "storedTextCharacters": 11,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 45016
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 165,
+  "capturedBodyCharacters": 11,
+  "sourceTextSHA256": "5c0d5ee43578b6ddc57ab95b3a0b4dda6208338f2c042834dcbb91080e1528be",
+  "archiveSnapshotAt": "2026-10-08T09:12:47Z",
+  "publicVideoCount": 1
+}

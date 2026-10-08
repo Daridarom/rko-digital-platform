@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 83,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Понятие ответственности",
+      "description": "О воспитании настоящего Человека и мужчины говорили молодёжью в Санкт-Петербурге",
+      "url": "https://cosmatica.org/news/854-ponjatie-otvetstvennosti.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/0/ponjatie-otvetstvennosti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c94c7d61019309ca26",
+      "type": "news-item",
+      "sourceCharacters": 682,
+      "verified": false
+    },
+    {
+      "title": "Несколько часов до Марса",
+      "description": "На этот раз состоялась встреча Председателя Челябинского отделения Русского Космического Общества Бессонова Антона Владимировича с учащимися лицея № 31 г. Челябинска. Именно там и была проведена заранее анонсированная просветительская лекция на тему: \"Деятельность И.В. Курчатова и К.И. Щёлкина по овладению ядерной и термоядерной энергиями. Перспективы использования этих энергий для дальних пилотируемых космических эк",
+      "url": "https://cosmatica.org/news/851-neskolko-chasov-do-marsa.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/8/6f42b900.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5c51df11f8c6752986",
+      "type": "news-item",
+      "sourceCharacters": 3425,
+      "verified": false
+    },
+    {
+      "title": "\"Пойдём с нами\" в небо!",
+      "description": "12 −13 сентября на территории аэродрома «Алферьево» Московского авиационного института в Волоколамском районе Московской области состоялся старт направления «Моя профессия пилот», организатором которого стало просветительское движение с элементами профориентации «Пойдём с нами» в рамках направления «Секреты ремесла». Цель — популяризация авиационных и технических профессий, формирование у детей обобщённых знаний о во",
+      "url": "https://cosmatica.org/news/850-poidyom-s-nami-v-nebo.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/4/2d9fcffa.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f3051854c0bf3c71a1",
+      "type": "news-item",
+      "sourceCharacters": 2813,
+      "verified": false
+    },
+    {
+      "title": "Международная конференция «Инновационные разработки в аэрокосмической области»",
+      "description": "Аэрокосмическая отрасль по праву считается научно-техническим флагманом экономики Российской Федерации.",
+      "url": "https://cosmatica.org/news/849-mezhdunarodnaja-konferencija-innovacionnye-razrabotki-v-aerokosmicheskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/002/u252/2/9/8f8b0d92.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0b6cdde6d7d0cd02e4",
+      "type": "news-item",
+      "sourceCharacters": 2950,
+      "verified": false
+    },
+    {
+      "title": "Один год Донецкому отделению Русского Космического Общества",
+      "description": "29 августа 2019 года было учреждено Донецкое отделение Русского Космического Общества. Многое было сделано, многое обрели за это время . Увы, не обошлось без потерь.",
+      "url": "https://cosmatica.org/news/848-odin-god-doneckomu-otdeleniyu-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/3/odin-god-doneckomu-otdeleniyu-russkogo-kosmicheskogo-obschestva-phot.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b1dcb10221da411af7",
+      "type": "news-item",
+      "sourceCharacters": 12769,
+      "verified": false
+    },
+    {
+      "title": "Книга как зеркало цивилизации",
+      "description": "2-6 сентября, в центральном выставочном зале «Манеж», прошла 33-я Московская Международная Книжная Ярмарка. Многочисленные площадки известных и малых издательств, сотни авторов и тысячи читателей собрались здесь, чтобы прикоснуться к древнейшему инструменту насаждения мудрости - книге.",
+      "url": "https://cosmatica.org/news/847-kniga-kak-zerkalo-civilizacii.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/8/kniga-kak-zerkalo-civilizacii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f466772316d4da89d1",
+      "type": "news-item",
+      "sourceCharacters": 1253,
+      "verified": false
+    },
+    {
+      "title": "Изменив будущее изменим настоящее",
+      "description": "Здравствуйте, родные наши соотечественники и соотечественницы!",
+      "url": "https://cosmatica.org/news/846-izmeniv-buduschee-izmenim-nastojaschee.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/7/1947cd6a.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=499a2b845e378d6c96",
+      "type": "news-item",
+      "sourceCharacters": 3723,
+      "verified": false
+    },
+    {
+      "title": "В Арктику к медведям",
+      "description": "11 маршрутов с вылетом из аэропорта Амдерма, 3 из них – длиной более полутора тысяч километров, с дозаправкой в посёлке Сабетта. Более 50 часов полётов и почти 11 тысяч воздушных километров. Всё это - экологический проект по тестовому авиаучёту белых медведей в Арктической зоне Российской Федерации \"Хозяин Арктики\"",
+      "url": "https://cosmatica.org/news/845-v-arktiku-k-medvedjam.html",
+      "image": "https://cosmatica.org/upload/000/u35/1/1/v-arktiku-k-medvedjam-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=15e5e74af883b38b02",
+      "type": "news-item",
+      "sourceCharacters": 4572,
+      "verified": false
+    },
+    {
+      "title": "Новая эра культуры развития Жизни",
+      "description": "5 сентября в Санкт-Петербурге состоялось важное для Русского Космического Общества, проекта \"Киноуроки в школах России\" и для космического будущего Человечества мероприятие.",
+      "url": "https://cosmatica.org/news/844-novaja-era-kultury-razvitija-zhizni.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/c/novaja-era-kultury-razvitija-zhizni-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8e337f971da9a821b1",
+      "type": "news-item",
+      "sourceCharacters": 5406,
+      "verified": false
+    },
+    {
+      "title": "Киноуроки на форуме АСИ. Поддержи!",
+      "description": "Наши соратники Всероссийский проект «Киноуроки в школах России» подали проект на форум Агентства стратегических инициатив «Сильные идеи для нового времени».",
+      "url": "https://cosmatica.org/news/843-kinouroki-na-forume-asi-podderzhi.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/1/129c3177.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3cba0d4d7738b58117",
+      "type": "news-item",
+      "sourceCharacters": 1687,
+      "verified": false
+    },
+    {
+      "title": "Пополнил Вечный Строй Джура Сергей Георгиевич",
+      "description": "Немного об этимологии слова 'Джура'. Оно уходит корнями в седую старину: Согласно энциклопедическому словарю, 'джура' - это 'оруженосец' у казацкого старшины XVI—XVIII ст. Так у Богдана Хмельницкого были 'джуры' - 'оруженосцы'. В иранской группе языков оно обозначает 'друг'.",
+      "url": "https://cosmatica.org/news/842-popolnil-vechnyi-stroi-dzhura-sergei-georgievich.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/5/6bfc73a6.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d7ad476e8615b2d89b",
+      "type": "news-item",
+      "sourceCharacters": 3766,
+      "verified": false
+    },
+    {
+      "title": "Сильные идеи для нового времени!",
+      "description": "Члены Русского Космического Общества Меркулов А.А., Колодкин М.С., Шамаева Е.Ф., Соловьёв В.А. и Кибальников С.В. подали проекты на форум Агентства стратегических инициатив «Сильные идеи для нового времени».",
+      "url": "https://cosmatica.org/news/841-silnye-idei-dlja-novogo-vremeni.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/8/c40c93d3.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c118f1e0ca29af8249",
+      "type": "news-item",
+      "sourceCharacters": 2200,
+      "verified": false
+    },
+    {
+      "title": "День знаний в Снежинске",
+      "description": "Для учеников 10 класса МБОУ СОШ № 125 с углублённым изучением математики в г. Снежинск председатель Челябинского отделения Русского Космического Общества Бессонов Антон Владимирович провёл беседу об истории создания и первых годах деятельности НИИ-1011. Приказ об организации Научно-Исследовательского Института был подписан 5 апреля 1955 года, а научным руководителем и главным конструктором стал Кирилл Иванович Щёлкин",
+      "url": "https://cosmatica.org/news/840-den-znanii-v-snezhinske.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/3/den-znanii-v-snezhinske-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=21e0022bfb1248133e",
+      "type": "news-item",
+      "sourceCharacters": 3399,
+      "verified": false
+    },
+    {
+      "title": "Буду всё знать! Познавательный контакт детей и родителей.",
+      "description": "Уникальное обучающий проект «БУДУ ВСЁ ЗНАТЬ» предназначен для самостоятельного домашнего семейного общения взрослых со своими детьми, от младшего - до среднего школьного возраста.",
+      "url": "https://cosmatica.org/news/839-budu-vsyo-znat-poznavatelnyi-kontakt-detei-i-roditelei.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/8/budu-vsyo-znat-poznavatelnyi-kontakt-detei-i-roditelei-photo.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8f7857105c31be6fed",
+      "type": "news-item",
+      "sourceCharacters": 1987,
+      "verified": false
+    },
+    {
+      "title": "Съезд семей \"Национальное достояние\"",
+      "description": "Дорогие друзья! Много препятствий на пути, но главное - идти! Изменились даты и место проведения Съезда. Мы же активно готовимся к его проведению, с уверенностью в победе!",
+      "url": "https://cosmatica.org/news/838-sezd-semei-nacionalnoe-dostojanie.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/1/sezd-semei-nacionalnoe-dostojanie-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7850a27a5f0e09f0f6",
+      "type": "news-item",
+      "sourceCharacters": 4723,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

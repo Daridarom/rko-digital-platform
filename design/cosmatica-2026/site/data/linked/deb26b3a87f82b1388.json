@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/about/12-polozhenie-o-chlenstve-i-uchastii-v-rko.html",
+  "title": "Положение о членстве и участии в РКО",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/6/f/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-01.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/4/c/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-02.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/2/0/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-03.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/3/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-05.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/8/d/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-06.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/f/e/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-07.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/2/1/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-08.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/1/9/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-09.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/5/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-10.jpg",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/6/f/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-01.jpg",
+    "https://cosmatica.org/upload/002/u218/4/c/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-02.jpg",
+    "https://cosmatica.org/upload/002/u218/2/0/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-03.jpg",
+    "https://cosmatica.org/upload/002/u218/f/3/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-05.jpg",
+    "https://cosmatica.org/upload/002/u218/8/d/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-06.jpg",
+    "https://cosmatica.org/upload/002/u218/f/e/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-07.jpg",
+    "https://cosmatica.org/upload/002/u218/2/1/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-08.jpg",
+    "https://cosmatica.org/upload/002/u218/1/9/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-09.jpg",
+    "https://cosmatica.org/upload/002/u218/5/5/polozhenie-o-chlenstve-i-uchastii-moo-rko-stranica-10.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 36,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 9,
+    "paragraphCount": 9,
+    "sourceBytes": 34025
+  },
+  "textFallbackRequired": false,
+  "originalKind": "about-page",
+  "sourceTextCharacters": 0,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "archiveSnapshotAt": "2026-10-08T08:36:35Z"
+}

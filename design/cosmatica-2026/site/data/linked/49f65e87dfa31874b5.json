@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/14-put-k-zvezdam-iz-istorii-sovetskoi-kosmonavtiki.html",
+  "title": "Путь к звездам: из истории советской космонавтики",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/90/5b/aleksandrov-anatolii-andreevich-put-k-zvezdam-iz-istorii-sove.jpg",
+      "alt": "Путь к звездам: из истории советской космонавтики"
+    },
+    {
+      "type": "paragraph",
+      "text": "Космические достижения в нашей стране долгое",
+      "spans": [
+        {
+          "text": "Космические достижения в нашей стране долгое"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "время",
+      "spans": [
+        {
+          "text": "время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "являлись символом прогресса,\r\nпредметом законной гордости. А.А. Александров, многие годы проработавший в\r\nракетной отрасли, рассказывает о создателях уникальных космических аппаратов,\r\nгероях-космонавтах и рядовых тружениках ракетных войск, участвовавших в освоении\r\nкосмоса и создании ракетного щита Родины.",
+      "spans": [
+        {
+          "text": "являлись символом прогресса,\r\nпредметом законной гордости. А.А. Александров, многие годы проработавший в\r\nракетной отрасли, рассказывает о создателях уникальных космических аппаратов,\r\nгероях-космонавтах и рядовых тружениках ракетных войск, участвовавших в освоении\r\nкосмоса и создании ракетного щита Родины."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Александров Анатолий Андреевич",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Космические достижения в нашей стране долгое время являлись символом прогресса, предметом законной гордости. А.А. Александров, многие годы проработавший в ракетной отрасли, рассказывает о создателях уникальных космических аппаратов, героях-космонавтах и рядовых тружениках ракетных войск, участвовавших в освоении космоса и создании ракетного щита Родины.",
+      "links": [
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 4 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/17/40c798c696a290fdc66988850dbbb37c"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/90/5b/aleksandrov-anatolii-andreevich-put-k-zvezdam-iz-istorii-sove.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/17/40c798c696a290fdc66988850dbbb37c"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 462,
+    "storedTextCharacters": 357,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40467
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 412,
+  "capturedBodyCharacters": 357,
+  "sourceTextSHA256": "64219b707720abd69d866f5a67aacc7e329d17dc924a1b7a044ffea96a97edff",
+  "archiveSnapshotAt": "2026-10-08T08:47:41Z"
+}

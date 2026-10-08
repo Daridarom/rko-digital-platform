@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/191-sociogumanika.html",
+  "title": "Социогуманика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Социогуманика – социально-экономический уклад, соединяющий Природу, Общество и Человека в единую, гармоничную, целенаправленно и соэволюционно развивающуюся систему.",
+      "spans": [
+        {
+          "text": "Социогуманика – социально-экономический уклад, соединяющий Природу, Общество и Человека в единую, гармоничную, целенаправленно и соэволюционно развивающуюся систему."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Социогуманика – социально-экономический уклад, соединяющий Природу, Общество и Человека в единую, гармоничную, целенаправленно и соэволюционно развивающуюся систему.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 179,
+    "storedTextCharacters": 165,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32148
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 165,
+  "capturedBodyCharacters": 165,
+  "sourceTextSHA256": "40f4a8528bdf7de1833aa855df922e088572989013b4263ac982ae0f14efcd2b",
+  "archiveSnapshotAt": "2026-10-08T10:37:46Z"
+}

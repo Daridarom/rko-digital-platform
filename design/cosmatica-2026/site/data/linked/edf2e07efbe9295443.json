@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/163-algoritm.html",
+  "title": "Алгоритм",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "сеть",
+      "spans": [
+        {
+          "text": "сеть"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "работ и связей между ними, соединяющая исхо­дную, конечную и требуемую системы координат, записанная на логи­ческом языке.",
+      "spans": [
+        {
+          "text": "работ и связей между ними, соединяющая исхо­дную, конечную и требуемую системы координат, записанная на логи­ческом языке."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это сеть работ и связей между ними, соединяющая исхо­дную, конечную и требуемую системы координат, записанная на логи­ческом языке.",
+      "links": [
+        {
+          "title": "сеть",
+          "url": "https://cosmatica.org/glossary/48-set.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 140,
+    "storedTextCharacters": 129,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32002
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 131,
+  "capturedBodyCharacters": 129,
+  "sourceTextSHA256": "656582ed5c8bf8b0bf14f6f1dc57b59e8e1d1d4ec2fd7369d944b98aa38da0fb",
+  "archiveSnapshotAt": "2026-10-08T08:46:38Z"
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/521-1204-penin-gennadii-nikolaevich-sankt-peterburg.html",
+  "title": "12/04, Пенин Геннадий Николаевич, Санкт-Петербург",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Международная акция 12/04",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Пенин Геннадий Николаевич, д.пед.н., профессора кафедры сурдопедагогики ИДОиР РГПУ им. А.И. Герцена.",
+      "spans": [
+        {
+          "text": "Пенин Геннадий Николаевич, д.пед.н., профессора кафедры сурдопедагогики ИДОиР РГПУ им. А.И. Герцена. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Если у Вас есть возможность расспросить человека, который помнит тот день, запишите, пожалуйста, на видео его короткое интервью, выложите видео на YouTube или в любое облако, и пришлите ссылку на адрес: gagarin@gagarinday.ru",
+      "spans": [
+        {
+          "text": "Если у Вас есть возможность расспросить человека, который помнит тот день, запишите, пожалуйста, на видео его короткое интервью, выложите видео на YouTube или в любое облако, и пришлите ссылку на адрес: gagarin@gagarinday.ru"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "WbI0RNaGESE",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=WbI0RNaGESE"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Пенин Геннадий Николаевич, д.пед.н., профессора кафедры сурдопедагогики ИДОиР РГПУ им. А.И. Герцена. Если у Вас есть возможность расспросить человека, который помнит тот день, запишите, пожалуйста, на видео его короткое интервью, выложите видео на YouTube или в любое облако, и пришлите ссылку на адрес: gagarin@gagarinday.ru",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 526,
+    "storedTextCharacters": 350,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 75570
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 449,
+  "capturedBodyCharacters": 350,
+  "sourceTextSHA256": "d15244289ad8ace253e662314fcf95266f31bee18d680a039be8181ef655bc4d",
+  "archiveSnapshotAt": "2026-10-08T08:42:04Z",
+  "publicVideoCount": 1
+}

@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library/izdatelstvo-rko",
+  "title": "Издательство РКО",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "The Book of Life",
+          "Gaponov A.A., Zotov.S.A.",
+          ""
+        ],
+        [
+          "",
+          "Доктрина Победы",
+          "Разумные от Русского народа",
+          ""
+        ],
+        [
+          "",
+          "Русский Воин Будущего",
+          "Разумные от Русского народа",
+          ""
+        ],
+        [
+          "",
+          "Космология Имперского Духа",
+          "Зотов С.А., Гапонов А.А.",
+          ""
+        ],
+        [
+          "",
+          "Системно-энергетический подход Побиска Кузнецова и его следствия",
+          "Кузнецов П.Г.",
+          ""
+        ],
+        [
+          "",
+          "ЗОВ вечный",
+          "Разумные от русского народа",
+          ""
+        ],
+        [
+          "",
+          "Цель создания органического разума",
+          "Шапиро В.А.",
+          ""
+        ],
+        [
+          "",
+          "Мирный космос военного времени",
+          "Коллективная монография",
+          ""
+        ],
+        [
+          "",
+          "Наука развития жизни. 6-й том",
+          "Побиск Георгиевич Кузнецов",
+          ""
+        ],
+        [
+          "",
+          "Делократия. Власть пользы. Часть 2. Природоподобные саморазвивающиеся самосовершенствующиеся (делократизируемые) производственные системы",
+          "Автор: Протопопов А.И.",
+          ""
+        ],
+        [
+          "",
+          "Отраслевое управление: избранные работы",
+          "Кузнецов Побиск Георгиевич",
+          ""
+        ],
+        [
+          "",
+          "От Соэволюции к Сотворчеству",
+          "Шапиро Валерий Абрамович",
+          ""
+        ],
+        [
+          "",
+          "Личная книга развития - Космоплан",
+          "Зотов Степан Андреевич",
+          ""
+        ],
+        [
+          "",
+          "Соэволюция",
+          "Шапиро В.А.",
+          ""
+        ],
+        [
+          "",
+          "Общая цель развития человечества и биосферы. Научные основания проектирования будущего.",
+          "Большаков Б.Е. Гапонов А.А.",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/3/8/73869559.jpg",
+      "alt": "The Book of Life"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/7/a/doktrina-pobedy-photo-small.jpg",
+      "alt": "Доктрина Победы"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/2/7/russkii-voin-buduschego-photo-small.jpg",
+      "alt": "Русский Воин Будущего"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/6/0/57a32716.jpg",
+      "alt": "Космология Имперского Духа"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/a/f/sistemno-energeticheskii-podhod-pobiska-kuznecova-i-ego-sledstvija.jpg",
+      "alt": "Системно-энергетический подход Побиска Кузнецова и его следствия"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/7/0/28e9da8c.jpg",
+      "alt": "ЗОВ вечный"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/8/a/cel-sozdanija-organicheskogo-razuma-photo-small.jpg",
+      "alt": "Цель создания органического разума"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/d/7/eddcba4d.jpg",
+      "alt": "Мирный космос военного времени"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/f/7/nauka-razvitija-zhizni-6-i-tom-photo-small.jpg",
+      "alt": "Наука развития жизни. 6-й том"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/a/0/1b51a40e.jpg",
+      "alt": "Делократия. Власть пользы. Часть 2.  Природоподобные саморазвивающиеся самосовершенствующиеся (делократизируемые) производственные системы"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/f/91497e5d.jpg",
+      "alt": "Отраслевое управление: избранные работы"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/8/2/ot-soevolyucii-k-sotvorchestvu-photo-small.jpg",
+      "alt": "От Соэволюции к Сотворчеству"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/008/u806/f/1/lichnaja-kniga-razvitija-kosmoplan-photo-small.jpg",
+      "alt": "Личная книга развития - Космоплан"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/3/d/soevolyucija-photo-small.jpg",
+      "alt": "Соэволюция"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/9/0/ea4997ce.jpg",
+      "alt": "Общая цель развития человечества и биосферы. Научные основания проектирования будущего."
+    }
+  ],
+  "cards": [
+    {
+      "title": "The Book of Life",
+      "description": "The Book of Life Gaponov A.A., Zotov.S.A.",
+      "url": "https://cosmatica.org/library/554-the-book-of-life.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/8/73869559.jpg",
+      "links": [
+        {
+          "title": "The Book of Life",
+          "url": "https://cosmatica.org/library/554-the-book-of-life.html"
+        }
+      ]
+    },
+    {
+      "title": "Доктрина Победы",
+      "description": "Доктрина Победы Разумные от Русского народа",
+      "url": "https://cosmatica.org/library/549-doktrina-pobedy.html",
+      "image": "https://cosmatica.org/upload/000/u7/7/a/doktrina-pobedy-photo-small.jpg",
+      "links": [
+        {
+          "title": "Доктрина Победы",
+          "url": "https://cosmatica.org/library/549-doktrina-pobedy.html"
+        }
+      ]
+    },
+    {
+      "title": "Русский Воин Будущего",
+      "description": "Русский Воин Будущего Разумные от Русского народа",
+      "url": "https://cosmatica.org/library/548-russkii-voin-buduschego.html",
+      "image": "https://cosmatica.org/upload/000/u7/2/7/russkii-voin-buduschego-photo-small.jpg",
+      "links": [
+        {
+          "title": "Русский Воин Будущего",
+          "url": "https://cosmatica.org/library/548-russkii-voin-buduschego.html"
+        }
+      ]
+    },
+    {
+      "title": "Космология Имперского Духа",
+      "description": "Космология Имперского Духа Зотов С.А., Гапонов А.А.",
+      "url": "https://cosmatica.org/library/536-kosmologija-imperskogo-duha.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/0/57a32716.jpg",
+      "links": [
+        {
+          "title": "Космология Имперского Духа",
+          "url": "https://cosmatica.org/library/536-kosmologija-imperskogo-duha.html"
+        }
+      ]
+    },
+    {
+      "title": "Системно-энергетический подход Побиска Кузнецова и его следствия",
+      "description": "Системно-энергетический подход Побиска Кузнецова и его следствия Кузнецов П.Г.",
+      "url": "https://cosmatica.org/library/535-sistemno-energeticheskii-podhod-pobiska-kuznecova-i-ego-sledstvija.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/f/sistemno-energeticheskii-podhod-pobiska-kuznecova-i-ego-sledstvija.jpg",
+      "links": [
+        {
+          "title": "Системно-энергетический подход Побиска Кузнецова и его следствия",
+          "url": "https://cosmatica.org/library/535-sistemno-energeticheskii-podhod-pobiska-kuznecova-i-ego-sledstvija.html"
+        }
+      ]
+    },
+    {
+      "title": "ЗОВ вечный",
+      "description": "ЗОВ вечный Разумные от русского народа",
+      "url": "https://cosmatica.org/library/534-zov-vechnyi.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/0/28e9da8c.jpg",
+      "links": [
+        {
+          "title": "ЗОВ вечный",
+          "url": "https://cosmatica.org/library/534-zov-vechnyi.html"
+        }
+      ]
+    },
+    {
+      "title": "Цель создания органического разума",
+      "description": "Цель создания органического разума Шапиро В.А.",
+      "url": "https://cosmatica.org/library/533-cel-sozdanija-organicheskogo-razuma.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/a/cel-sozdanija-organicheskogo-razuma-photo-small.jpg",
+      "links": [
+        {
+          "title": "Цель создания органического разума",
+          "url": "https://cosmatica.org/library/533-cel-sozdanija-organicheskogo-razuma.html"
+        }
+      ]
+    },
+    {
+      "title": "Мирный космос военного времени",
+      "description": "Мирный космос военного времени Коллективная монография",
+      "url": "https://cosmatica.org/library/532-mirnyi-kosmos-voennogo-vremeni.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/7/eddcba4d.jpg",
+      "links": [
+        {
+          "title": "Мирный космос военного времени",
+          "url": "https://cosmatica.org/library/532-mirnyi-kosmos-voennogo-vremeni.html"
+        }
+      ]
+    },
+    {
+      "title": "Наука развития жизни. 6-й том",
+      "description": "Наука развития жизни. 6-й том Побиск Георгиевич Кузнецов",
+      "url": "https://cosmatica.org/library/523-nauka-razvitija-zhizni-6-i-tom.html",
+      "image": "https://cosmatica.org/upload/000/u35/f/7/nauka-razvitija-zhizni-6-i-tom-photo-small.jpg",
+      "links": [
+        {
+          "title": "Наука развития жизни. 6-й том",
+          "url": "https://cosmatica.org/library/523-nauka-razvitija-zhizni-6-i-tom.html"
+        }
+      ]
+    },
+    {
+      "title": "Делократия. Власть пользы. Часть 2. Природоподобные саморазвивающиеся самосовершенствующиеся (делократизируемые) производственные системы",
+      "description": "Делократия. Власть пользы. Часть 2. Природоподобные саморазвивающиеся самосовершенствующиеся (делократизируемые) производственные системы Автор: Протопопов А.И.",
+      "url": "https://cosmatica.org/library/522-delokratija-vlast-polzy-chast-2-prirodopodobnye-samorazvivayuschiesja-samosovershenstvuyuschiesj.html",
+      "image": "https://cosmatica.org/upload/000/u7/a/0/1b51a40e.jpg",
+      "links": [
+        {
+          "title": "Делократия. Власть пользы. Часть 2. Природоподобные саморазвивающиеся самосовершенствующиеся (делократизируемые) производственные системы",
+          "url": "https://cosmatica.org/library/522-delokratija-vlast-polzy-chast-2-prirodopodobnye-samorazvivayuschiesja-samosovershenstvuyuschiesj.html"
+        }
+      ]
+    },
+    {
+      "title": "Отраслевое управление: избранные работы",
+      "description": "Отраслевое управление: избранные работы Кузнецов Побиск Георгиевич",
+      "url": "https://cosmatica.org/library/519-otraslevoe-upravlenie-izbrannye-raboty.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/f/91497e5d.jpg",
+      "links": [
+        {
+          "title": "Отраслевое управление: избранные работы",
+          "url": "https://cosmatica.org/library/519-otraslevoe-upravlenie-izbrannye-raboty.html"
+        }
+      ]
+    },
+    {
+      "title": "От Соэволюции к Сотворчеству",
+      "description": "От Соэволюции к Сотворчеству Шапиро Валерий Абрамович",
+      "url": "https://cosmatica.org/library/507-ot-soevolyucii-k-sotvorchestvu.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/2/ot-soevolyucii-k-sotvorchestvu-photo-small.jpg",
+      "links": [
+        {
+          "title": "От Соэволюции к Сотворчеству",
+          "url": "https://cosmatica.org/library/507-ot-soevolyucii-k-sotvorchestvu.html"
+        }
+      ]
+    },
+    {
+      "title": "Личная книга развития - Космоплан",
+      "description": "Личная книга развития - Космоплан Зотов Степан Андреевич",
+      "url": "https://cosmatica.org/library/499-lichnaja-kniga-razvitija-kosmoplan.html",
+      "image": "https://cosmatica.org/upload/008/u806/f/1/lichnaja-kniga-razvitija-kosmoplan-photo-small.jpg",
+      "links": [
+        {
+          "title": "Личная книга развития - Космоплан",
+          "url": "https://cosmatica.org/library/499-lichnaja-kniga-razvitija-kosmoplan.html"
+        }
+      ]
+    },
+    {
+      "title": "Соэволюция",
+      "description": "Соэволюция Шапиро В.А.",
+      "url": "https://cosmatica.org/library/497-soevolyucija.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/d/soevolyucija-photo-small.jpg",
+      "links": [
+        {
+          "title": "Соэволюция",
+          "url": "https://cosmatica.org/library/497-soevolyucija.html"
+        }
+      ]
+    },
+    {
+      "title": "Общая цель развития человечества и биосферы. Научные основания проектирования будущего.",
+      "description": "Общая цель развития человечества и биосферы. Научные основания проектирования будущего. Большаков Б.Е. Гапонов А.А.",
+      "url": "https://cosmatica.org/library/494-obschaja-cel-razvitija-chelovechestva-i-biosfery-nauchnye-osnovanija-proektirovanija-buduschego.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/0/ea4997ce.jpg",
+      "links": [
+        {
+          "title": "Общая цель развития человечества и биосферы. Научные основания проектирования будущего.",
+          "url": "https://cosmatica.org/library/494-obschaja-cel-razvitija-chelovechestva-i-biosfery-nauchnye-osnovanija-proektirovanija-buduschego.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/3/8/73869559.jpg",
+    "https://cosmatica.org/upload/000/u7/7/a/doktrina-pobedy-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u7/2/7/russkii-voin-buduschego-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/6/0/57a32716.jpg",
+    "https://cosmatica.org/upload/002/u218/a/f/sistemno-energeticheskii-podhod-pobiska-kuznecova-i-ego-sledstvija.jpg",
+    "https://cosmatica.org/upload/002/u218/7/0/28e9da8c.jpg",
+    "https://cosmatica.org/upload/002/u218/8/a/cel-sozdanija-organicheskogo-razuma-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/d/7/eddcba4d.jpg",
+    "https://cosmatica.org/upload/000/u35/f/7/nauka-razvitija-zhizni-6-i-tom-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u7/a/0/1b51a40e.jpg",
+    "https://cosmatica.org/upload/002/u218/9/f/91497e5d.jpg",
+    "https://cosmatica.org/upload/000/u35/8/2/ot-soevolyucii-k-sotvorchestvu-photo-small.jpg",
+    "https://cosmatica.org/upload/008/u806/f/1/lichnaja-kniga-razvitija-kosmoplan-photo-small.jpg",
+    "https://cosmatica.org/upload/000/u35/3/d/soevolyucija-photo-small.jpg",
+    "https://cosmatica.org/upload/002/u218/9/0/ea4997ce.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1021,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 15,
+    "sourceImageCount": 15,
+    "paragraphCount": 0,
+    "sourceBytes": 63257
+  },
+  "textFallbackRequired": false,
+  "originalKind": "library-category",
+  "sourceTextCharacters": 1021,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "c2fc1b2563d69aaa0735c23c8f4c4ce99a3f881e4e0868903acbc3787d2d6cfa",
+  "archiveSnapshotAt": "2026-10-08T08:51:13Z"
+}

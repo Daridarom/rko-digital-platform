@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/84-postojannye-aksiomy-teorii.html",
+  "title": "Постоянные аксиомы теории",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "истинные высказывания данной тео­рии (законы сохранения).",
+      "spans": [
+        {
+          "text": "истинные высказывания данной тео­рии (законы сохранения)."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "истинные высказывания данной тео­рии (законы сохранения).",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 83,
+    "storedTextCharacters": 57,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31712
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 57,
+  "capturedBodyCharacters": 57,
+  "sourceTextSHA256": "a2358c30649c32ba7ec0352397bef1458fdc865ecfcd5bce7bde9158176c5cd1",
+  "archiveSnapshotAt": "2026-10-08T08:47:18Z"
+}

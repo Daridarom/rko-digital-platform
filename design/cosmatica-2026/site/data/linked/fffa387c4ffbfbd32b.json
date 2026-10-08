@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/117-kachestvo.html",
+  "title": "Качество",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это то, внутри чего различия только количественные.",
+      "spans": [
+        {
+          "text": "это то, внутри чего различия только количественные."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это то, внутри чего различия только количественные.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 60,
+    "storedTextCharacters": 51,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31522
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 51,
+  "capturedBodyCharacters": 51,
+  "sourceTextSHA256": "b4e29a7ee2399424c768c87e7b099e34ff1bd0a893ce118b064a7272208827c7",
+  "archiveSnapshotAt": "2026-10-08T08:46:25Z"
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/182-uverennoe-razvitie-naroda.html",
+  "title": "Уверенное развитие народа",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "рост",
+      "spans": [
+        {
+          "text": "рост"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "могущества народа во времени и пространстве, за счёт создания семей, рождения и воспитания здоровых детей в количестве, превосходящем смертность",
+      "spans": [
+        {
+          "text": "могущества народа во времени и пространстве, за счёт создания семей, рождения и воспитания здоровых детей в количестве, превосходящем смертность"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "рост могущества народа во времени и пространстве, за счёт создания семей, рождения и воспитания здоровых детей в количестве, превосходящем смертность",
+      "links": [
+        {
+          "title": "рост",
+          "url": "https://cosmatica.org/glossary/56-rost.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 175,
+    "storedTextCharacters": 148,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32196
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 149,
+  "capturedBodyCharacters": 148,
+  "sourceTextSHA256": "d53c22fbdf03087e8485f2f8fc59f6b0b4bd6b9b3155ed1681f6d2cdcae370c1",
+  "archiveSnapshotAt": "2026-10-08T10:37:46Z"
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/700-gagarinskii-muzei-v-lopatinskoi-shkole.html",
+  "title": "Гагаринский музей в Лопатинской школе",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Гагаринский отряд МБОУ \"Лопатинская средняя общеобразовательная школа\"",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/3/d/gagarinskii-muzei-v-lopatinskoi-shkole-photo-normal.jpg",
+      "alt": "Гагаринский музей в Лопатинской школе"
+    },
+    {
+      "type": "paragraph",
+      "text": "Все на каникулах отдыхали, а наши гагаринцы провели трудовой десант в будущем школьном музее. Отмыли полки, расставили мебель, разместили плакаты. Потрудились на славу!",
+      "spans": [
+        {
+          "text": "Все на каникулах отдыхали, а наши гагаринцы провели трудовой десант в будущем школьном музее. Отмыли полки, расставили мебель, разместили плакаты. Потрудились на славу!"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/1/9/gagarinskii-muzei-v-lopatinskoi-shkole-gallery-normal.jpg",
+      "alt": "Гагаринский музей в Лопатинской школе 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/c/6/gagarinskii-muzei-v-lopatinskoi-shkole-gallery-normal.jpg",
+      "alt": "Гагаринский музей в Лопатинской школе 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/9/f/gagarinskii-muzei-v-lopatinskoi-shkole-gallery-normal.jpg",
+      "alt": "Гагаринский музей в Лопатинской школе 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u72/d/9/gagarinskii-muzei-v-lopatinskoi-shkole-gallery-normal.jpg",
+      "alt": "Гагаринский музей в Лопатинской школе 3"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Юные гагаринцы готовятся к открытию школьного музея",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Все на каникулах отдыхали, а наши гагаринцы провели трудовой десант в будущем школьном музее. Отмыли полки, расставили мебель, разместили плакаты. Потрудились на славу!",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u72/3/d/gagarinskii-muzei-v-lopatinskoi-shkole-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/1/9/gagarinskii-muzei-v-lopatinskoi-shkole-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/c/6/gagarinskii-muzei-v-lopatinskoi-shkole-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/9/f/gagarinskii-muzei-v-lopatinskoi-shkole-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u72/d/9/gagarinskii-muzei-v-lopatinskoi-shkole-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 457,
+    "storedTextCharacters": 250,
+    "sourceCardCount": 0,
+    "sourceImageCount": 5,
+    "paragraphCount": 1,
+    "sourceBytes": 48167
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 237,
+  "capturedBodyCharacters": 250,
+  "sourceTextSHA256": "8a31189178ae203a7e41ad52b10a01e79b44914d2d94b9f8a241e8611116dbac",
+  "archiveSnapshotAt": "2026-10-08T09:13:08Z"
+}

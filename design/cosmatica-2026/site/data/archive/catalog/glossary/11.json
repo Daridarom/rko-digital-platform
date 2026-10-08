@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "glossary",
+  "title": "Глоссарий",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 11,
+  "pageCount": 16,
+  "total": 236,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Проектирование системы",
+      "description": "есть создание прикладной теории, которая будет реализована в «железе» (П.Г.Кузнецов). Конструктор, созда­ющий ту или иную систему, думает, что он конструирует технологи­ческое средство, на самом деле он создает новую теорию, технологию,",
+      "url": "https://cosmatica.org/glossary/69-proektirovanie-sistemy.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=1176a18783ac5b8668",
+      "type": "article",
+      "sourceCharacters": 302,
+      "verified": false
+    },
+    {
+      "title": "Прорывная технология",
+      "description": ", которая обеспечивает повышение безопасности, качества жизни, конкурентоспособности и переход страны в группу мировых лидеров по определенному продукту (услуге), удовлетворяющему следующим критериям: востребован каждым человеком; доступен каждому человеку; имеет КПД не менее 0,62; никто в мире не производит или производит с КПД меньше 0,62.",
+      "url": "https://cosmatica.org/glossary/68-proryvnaja-tehnologija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=35180e711936d60c15",
+      "type": "article",
+      "sourceCharacters": 364,
+      "verified": false
+    },
+    {
+      "title": "Цель проектирования",
+      "description": "внести определенные изменения в окружающий нас мир так, чтобы мир сохранил свое",
+      "url": "https://cosmatica.org/glossary/67-cel-proektirovanija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=326352a83fdf5206c5",
+      "type": "article",
+      "sourceCharacters": 90,
+      "verified": false
+    },
+    {
+      "title": "Проектное управление устойчивым развитием",
+      "description": "это профессиональ­ное управление изменениями, удовлетворяющими требованиям устой­чивого развития с применением технологий устойчивого развития.",
+      "url": "https://cosmatica.org/glossary/66-proektnoe-upravlenie-ustoichivym-razvitiem.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=00b3e0aadc2620f7bd",
+      "type": "article",
+      "sourceCharacters": 143,
+      "verified": false
+    },
+    {
+      "title": "Пространство",
+      "description": "многомерная протяженность, обладающая проника­ющей способностью во",
+      "url": "https://cosmatica.org/glossary/64-prostranstvo.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=33a56a1834e806f95e",
+      "type": "article",
+      "sourceCharacters": 74,
+      "verified": false
+    },
+    {
+      "title": "Проблема",
+      "description": "это разница между необходимым и фактическим (текущим) состоянием системы.",
+      "url": "https://cosmatica.org/glossary/63-problema.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=b971968298b1600966",
+      "type": "article",
+      "sourceCharacters": 73,
+      "verified": false
+    },
+    {
+      "title": "Работа",
+      "description": "деятельность, мерой которой является произведение рабочего времени на полную",
+      "url": "https://cosmatica.org/glossary/62-rabota.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=9c6c978b1242053883",
+      "type": "article",
+      "sourceCharacters": 104,
+      "verified": false
+    },
+    {
+      "title": "Размерность математическая",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/61-razmernost-matematicheskaja.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=effffd714626dc0b36",
+      "type": "article",
+      "sourceCharacters": 38,
+      "verified": false
+    },
+    {
+      "title": "Размерность физическая",
+      "description": "-размерность – это степени длины и времени пространственно-временной величины. Для обозначения физической размерно­сти используются квадратные скобки [ ], введенные Дж.Максвеллом (1855), тем самым обращая внимание на качественнуюопределенность физической величины.",
+      "url": "https://cosmatica.org/glossary/60-razmernost-fizicheskaja.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=6c7c8610f0f67b6257",
+      "type": "article",
+      "sourceCharacters": 301,
+      "verified": false
+    },
+    {
+      "title": "Реализованная или экономическая возможность",
+      "description": "это суммарный про­дукт, произведенный за определенное",
+      "url": "https://cosmatica.org/glossary/59-realizovannaja-ili-ekonomicheskaja-vozmozhnost.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=a2709cbe1a487f5a07",
+      "type": "article",
+      "sourceCharacters": 122,
+      "verified": false
+    },
+    {
+      "title": "Реальная возможность",
+      "description": "суммарное производство товаров и услуг за определенное",
+      "url": "https://cosmatica.org/glossary/58-realnaja-vozmozhnost.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=87e39c2ad5023519d4",
+      "type": "article",
+      "sourceCharacters": 81,
+      "verified": false
+    },
+    {
+      "title": "Развитие",
+      "description": "возможностей системы в основном за счет повыше­ния эффективности использования внутренних ресурсов, а не за счет увеличения потребления ресурсов из внешней среды.",
+      "url": "https://cosmatica.org/glossary/57-razvitie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=1d8b027452f4526128",
+      "type": "article",
+      "sourceCharacters": 167,
+      "verified": false
+    },
+    {
+      "title": "Рост",
+      "description": "увеличение возможностей социально-экономической систе­мы в основном за счет роста потребления ресурсов из внешней среды (социальной и природной), а не за счет увеличения эффективности ис­пользования имеющихся внутренних ресурсов системы.",
+      "url": "https://cosmatica.org/glossary/56-rost.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=47e02984bb6d9bcd8a",
+      "type": "article",
+      "sourceCharacters": 237,
+      "verified": false
+    },
+    {
+      "title": "Связь",
+      "description": "это понятие, которое обеспечивает суще­ствование системы.",
+      "url": "https://cosmatica.org/glossary/55-svjaz.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=28afdbf2c7f6782396",
+      "type": "article",
+      "sourceCharacters": 1118,
+      "verified": false
+    },
+    {
+      "title": "Свойство неравновесных систем",
+      "description": "эволюция во времени, то есть спо­собность с течением времени совершать внешнюю работу (внешние потоки не уравновешены внутренними).",
+      "url": "https://cosmatica.org/glossary/53-svoistvo-neravnovesnyh-sistem.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=e3be5a7f566b57d3ac",
+      "type": "article",
+      "sourceCharacters": 131,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/122-innovacionnoe-razvitie.html",
+  "title": "Инновационное развитие",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "развитие",
+      "spans": [
+        {
+          "text": "развитие"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "за счет повышения эффективно­сти использования ресурсов посредством реализации более совершен­ных технологий, дающих больший эффект.",
+      "spans": [
+        {
+          "text": "за счет повышения эффективно­сти использования ресурсов посредством реализации более совершен­ных технологий, дающих больший эффект."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "развитие за счет повышения эффективно­сти использования ресурсов посредством реализации более совершен­ных технологий, дающих больший эффект.",
+      "links": [
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 164,
+    "storedTextCharacters": 140,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32171
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 141,
+  "capturedBodyCharacters": 140,
+  "sourceTextSHA256": "b2588bb34bc6141818224b4444ac6088456bec68d7c20a5350cb339177e1c680",
+  "archiveSnapshotAt": "2026-10-08T08:46:26Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 224,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Тензорный метод двойственных систем",
+      "description": "",
+      "url": "https://cosmatica.org/library/178-tenzornyi-metod-dvoistvennyh-sistem.html",
+      "image": "https://cosmatica.org/upload/000/u20/bf/42/3c606c05.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=fd6513f293929efc1f",
+      "type": "book",
+      "sourceCharacters": 37,
+      "verified": false
+    },
+    {
+      "title": "Напутствие в День знаний",
+      "description": "1 сентября Председатель Челябинского отделения Русского Космического Общества, Бессонов Антон Владимирович выступил с напутствием ученикам на торжественной линейке в средней школе села Тюбук Челябинской области.",
+      "url": "https://cosmatica.org/news/178-naputstvie-v-den-znanii.html",
+      "image": "https://cosmatica.org/upload/000/u37/cf/48/naputstvie-v-den-znanii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e830172bd0b10bacd5",
+      "type": "news-item",
+      "sourceCharacters": 3573,
+      "verified": false
+    },
+    {
+      "title": "Дни РКО в Беларуси",
+      "description": "В рамках проводимого членом РКО Беларуси Харкевичем Юрием Анатольевичем военно-спортивного лагеря, на берегу Велейского водохранилища, Русское Космическое Общество представит специальную программу.",
+      "url": "https://cosmatica.org/poster/178-dni-rko-v-belarusi.html",
+      "image": "https://cosmatica.org/upload/001/u186/9/e/1da0b25f.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=7783731026e4e2a043",
+      "type": "poster-item",
+      "sourceCharacters": 852,
+      "verified": false
+    },
+    {
+      "title": "Контекстно связная или физическая связь с реальным миром",
+      "description": ", которая устанавливает математическую зависимость между параме­трами системы, имеющими физическую интерпретацию, выраженную определенной математической формулой в терминах универсальных устойчивых величин.",
+      "url": "https://cosmatica.org/glossary/177-kontekstno-svjaznaja-ili-fizicheskaja-svjaz-s-realnym-mirom.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=d5fd272675ecf9b4d2",
+      "type": "article",
+      "sourceCharacters": 216,
+      "verified": false
+    },
+    {
+      "title": "Вернадский Владимир Иванович - Филосовские мысли натуралиста",
+      "description": "В книге по сохранившимся в Архиве АН СССР рукописям В. И. Вернадского публикуются его последние работы «Научная мысль как планетное явление» и серия очерков, объединенных под заглавием «",
+      "url": "https://cosmatica.org/library/177-vernadskii-vladimir-ivanovich-filosovskie-mysli-naturalista.html",
+      "image": "https://cosmatica.org/upload/000/u26/4c/5c/vladimir-ivanovich-vernadskii-filosovskie-mysli-naturalista-pho.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=1a7fbba91b86fe162e",
+      "type": "book",
+      "sourceCharacters": 760,
+      "verified": false
+    },
+    {
+      "title": "Создан Совет физической культуры и спорта",
+      "description": "Так говорит народная мудрость. Действительно, максимальная мощность человека, общества и страны как живых неравновесных систем достигается лишь тогда, когда эти системы здоровы и предельно эффективны. Когда имеет место отсутствие потерь мощности в виде недугов, слабостей, вредящих здоровью привычек, пагубных увлечений. Эти потери возникают в связи с рассогласованностью цели и деятельности живых систем с целями и зако",
+      "url": "https://cosmatica.org/news/177-sozdan-sovet-fizicheskoi-kultury-i-sporta.html",
+      "image": "https://cosmatica.org/upload/000/u26/63/bf/ad96e381.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6d096f6436028d30a0",
+      "type": "news-item",
+      "sourceCharacters": 2026,
+      "verified": false
+    },
+    {
+      "title": "Контекстно свободная или математическая связь",
+      "description": ", устанав­ливающая зависимость одного параметра (элемента) системы от дру­гого посредством правила соответствия – преобразования. Устанав­ливается на основе статистики о поведении исследуемых параметров системы. Выражается в виде математической формулы или функции одной или нескольких переменных, независящих от физически изме­римых величин.",
+      "url": "https://cosmatica.org/glossary/176-kontekstno-svobodnaja-ili-matematicheskaja-svjaz.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=e32e08b0faa9be0e15",
+      "type": "article",
+      "sourceCharacters": 352,
+      "verified": false
+    },
+    {
+      "title": "Вернадский Владимир Иванович - Биосфера и ноосфера",
+      "description": "",
+      "url": "https://cosmatica.org/library/176-vernadskii-vladimir-ivanovich-biosfera-i-noosfera.html",
+      "image": "assets/source/book-covers/e1cb39c2a08cfe647c3c6e.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=474b5b25203ed913c1",
+      "type": "book",
+      "sourceCharacters": 55,
+      "verified": false
+    },
+    {
+      "title": "Подарите книге новую жизнь!",
+      "description": "Русское Космическое Общество объявляет Всероссийскую акцию «Космос. Время читать!»",
+      "url": "https://cosmatica.org/news/176-podarite-knige-novuyu-zhizn.html",
+      "image": "https://cosmatica.org/upload/000/u21/42/3b/podarite-knige-novuyu-zhizn-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=8b74978bf3b358fd3f",
+      "type": "news-item",
+      "sourceCharacters": 3144,
+      "verified": false
+    },
+    {
+      "title": "Союз ноосферной медицины и ноосферного образования",
+      "description": "Идея объединения медицины и педагогики – не нова. В существующем мироустройстве два этих направления сотрудничают друг с другом. Так на бытовом житейском уровне педагоги обучают будущих врачей, а врачи лечат педагогов. На таком обывательском процессуальном предметно-конкретном уровне между медициной и педагогикой давно налажено крепкое сотрудничество. Однако на уровне научном между ними нет не просто сотрудничества, ",
+      "url": "https://cosmatica.org/articles/175-soyuz-noosfernoi-mediciny-i-noosfernogo-obrazovanija.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=6682d85b32ebcb97e4",
+      "type": "article",
+      "sourceCharacters": 11294,
+      "verified": false
+    },
+    {
+      "title": "Логическая связь",
+      "description": ", существующая между исходными и выводимы­ми утверждениями, в форме умозаключений: дедукция, индукция и аналогия. Такая связь соединяет только рядом стоящие объекты.",
+      "url": "https://cosmatica.org/glossary/175-logicheskaja-svjaz.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=4912c05f0167c6a943",
+      "type": "article",
+      "sourceCharacters": 171,
+      "verified": false
+    },
+    {
+      "title": "Чижевский Александр Леонидович - Земное эхо солнечных бурь",
+      "description": "",
+      "url": "https://cosmatica.org/library/175-chizhevskii-aleksandr-leonidovich-zemnoe-eho-solnechnyh-bur.html",
+      "image": "assets/source/book-covers/0ff8a08fed37ee0efbb3d1.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=59e1ee8d773cea3984",
+      "type": "book",
+      "sourceCharacters": 57,
+      "verified": false
+    },
+    {
+      "title": "Вечер памяти Антуана де Сент-Экзюпери",
+      "description": "Вечер, посвящённый памяти великого писателя, гуманиста, легенды Франции - военного лётчика Антуана де Сент-Экзюпери, пройдёт в Культурном центре библиотеки им. А. де Сент-Экзюпери.",
+      "url": "https://cosmatica.org/poster/175-vecher-pamjati-antuana-de-sent-ekzyuperi.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/0/vecher-pamjati-antuana-de-sent-ekzyuperi-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=60ff201f76f37064a6",
+      "type": "poster-item",
+      "sourceCharacters": 701,
+      "verified": false
+    },
+    {
+      "title": "Опыт и география ноосферного образования",
+      "description": "Ноосферная парадигма мышления, активно разрабатываемая последние два десятилетия целой плеядой учёных, сегодня ярко демонстрирует технологическую готовность общества к переходу на новый уровень эволюционного развития. Платформой и одновременно важнейшим рычагом такого перехода становится ноосферное образование как «фундаментальная форма постижения бытия» (Ю.А. Урманцев), сопрягающая непрерывное развитие всех секторов",
+      "url": "https://cosmatica.org/articles/174-opyt-i-geografija-noosfernogo-obrazovanija.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=44a458b4f904c42c6c",
+      "type": "article",
+      "sourceCharacters": 15841,
+      "verified": false
+    },
+    {
+      "title": "Словесно-вербальная связь",
+      "description": "словесно сформулированное утверждение, которое устанавливает",
+      "url": "https://cosmatica.org/glossary/174-slovesno-verbalnaja-svjaz.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=2c1e20e16bb0fb2385",
+      "type": "article",
+      "sourceCharacters": 167,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

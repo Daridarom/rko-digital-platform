@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/7310",
+  "title": "Ульянова Мария Юрьевна",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/6/ff8c2f21.jpg",
+      "alt": "Ульянова Мария Юрьевна"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/2/d97708c9.jpg",
+      "alt": "Ульянова Мария Юрьевна"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 2 года назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Жизнерадостность",
+      "spans": [
+        {
+          "text": "Жизнерадостность"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Жизнерадостность",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/1/6/ff8c2f21.jpg",
+    "https://cosmatica.org/upload/000/u35/1/2/d97708c9.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 93,
+    "storedTextCharacters": 50,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34852
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 44,
+  "capturedBodyCharacters": 50,
+  "sourceTextSHA256": "90bbf1734b623ac33b0c7351fdfe09ebe74372d2361aed50acf33e2065f82808",
+  "archiveSnapshotAt": "2026-10-08T09:21:58Z"
+}

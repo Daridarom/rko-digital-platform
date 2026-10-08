@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/170",
+  "title": "Александр Борисович Малыхин",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/cc/de/599afcd8.jpg",
+      "alt": "Александр Борисович Малыхин"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/9b/de/beccf024.jpg",
+      "alt": "Александр Борисович Малыхин"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Ассоциации АИзИз",
+      "spans": [
+        {
+          "text": "Председатель Ассоциации АИзИз"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Председатель Ассоциации АИзИз",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/cc/de/599afcd8.jpg",
+    "https://cosmatica.org/upload/000/u26/9b/de/beccf024.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 110,
+    "storedTextCharacters": 62,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34881
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 57,
+  "capturedBodyCharacters": 62,
+  "sourceTextSHA256": "96cfc90211a2db5381100b263d98da9de8b58ae00c4e88dd1e4aafd54a2e6873",
+  "archiveSnapshotAt": "2026-10-08T09:18:15Z"
+}

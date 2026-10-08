@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/155-vozrosshaja-moschnost.html",
+  "title": "Возросшая мощность",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "есть указание на удовлетворенную потреб­ность, реализованный интерес, намерение.",
+      "spans": [
+        {
+          "text": "есть указание на удовлетворенную потреб­ность, реализованный интерес, намерение."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "есть указание на удовлетворенную потреб­ность, реализованный интерес, намерение.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 99,
+    "storedTextCharacters": 80,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31787
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 80,
+  "capturedBodyCharacters": 80,
+  "sourceTextSHA256": "fc61addda3096d7167c163fd55d002d0356a2df5bdc281a41900a1f1579b33f7",
+  "archiveSnapshotAt": "2026-10-08T08:46:36Z"
+}

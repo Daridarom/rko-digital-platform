@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 182,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Морская эпопея Беспилотных Орбитальных Ракетопланов",
+      "description": "12 апреля 1961 г. Юрий Алексеевич Гагарин, 50-летний юбилей полёта в космос которого мы отмечаем в 2011 г., своей крылатой фразой “Поехали” позвал нас всех в космос. Переделанная из баллистической ракеты Р-7 ракета-носитель “Восток” впервые подняла человека планеты Земля на недосягаемую ранее высоту – в космос. Один виток 108-минутного полёта открыл эру пилотируемых космических полётов. Сегодня уже не один десяток ст",
+      "url": "https://cosmatica.org/articles/333-morskaja-epopeja-bespilotnyh-orbitalnyh-raketoplanov.html",
+      "image": "https://cosmatica.org/upload/000/u26/f1/f8/6november.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=fb3f3e52a2ba08c978",
+      "type": "article",
+      "sourceCharacters": 13504,
+      "verified": false
+    },
+    {
+      "title": "Жемчужины звёздного неба (1988)",
+      "description": "В книге в популярной форме рассказывается о различных созвездиях. Излагается содержание некоторых древнегреческих мифов и легенд, с которыми связаны наименования созвездий, описываются наиболее интересные объекты в различных созвездиях. Издание книги на русском языке отличается от украинского (1981 г.) тем, что оно дополнено разделом «Перечень простейших астрономических наблюдений», а также приложениями. Для учащихся",
+      "url": "https://cosmatica.org/library/333-zhemchuzhiny-zvyozdnogo-neba-1988.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/e/zhemchuzhiny-zvyozdnogo-neba-1988-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=29226d8f7f740dad5b",
+      "type": "book",
+      "sourceCharacters": 502,
+      "verified": false
+    },
+    {
+      "title": "Гагаринская эстафета марширует по стране.",
+      "description": "Тема Гагаринских уроков, предложенная Русским Космическим Обществом в рамках работы Общественно-государственного комитета празднования 85-летия Юрия Алексеевича Гагарина , оказалась востребована и реализуется в самых разных уголках нашей Родины.",
+      "url": "https://cosmatica.org/news/333-gagarinskaja-estafeta-marshiruet-po-strane.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/c/gagarinskaja-estafeta-marshiruet-po-strane-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2969be6dcb66d33fe8",
+      "type": "news-item",
+      "sourceCharacters": 2740,
+      "verified": false
+    },
+    {
+      "title": "Молодёжь России в космическом будущем Человечества #Ноосферный Союз 2117",
+      "description": "Знай, к чему стремишься, и организуйся так, чтобы этого достичь.",
+      "url": "https://cosmatica.org/poster/333-molodyozh-rossii-v-kosmicheskom-buduschem-chelovechestva.html",
+      "image": "https://cosmatica.org/upload/000/u35/4/d/molodyozh-rossii-v-kosmicheskom-buduschem-chelovechestva-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=c0ea4ddc8faf78cccb",
+      "type": "poster-item",
+      "sourceCharacters": 3648,
+      "verified": false
+    },
+    {
+      "title": "Ульяновск как взлетная полоса для Б. И. Губанова - создателя ракетно-космической техники",
+      "description": "Нашему городу на Волге Симбирску-Ульяновску есть, чем гордиться : Н.М. Карамзин, И.А. Гончаров, А.Ф. Керенский, В.И. Ленин (Ульянов), И.С. Полбин. Этот список можно продолжать достаточно долго. Имена и достижения этих людей, их биографии, давно изучены и оценены по достоинству потомками. Но исторический поиск бесконечен как сама жизнь и великое счастье для исследователя найти новые факты, новые имена.",
+      "url": "https://cosmatica.org/articles/332-uljanovsk-kak-vzletnaja-polosa-dlja-b-i-gubanova-sozdatelja-raketno-kosmicheskoi-tehniki.html",
+      "image": "https://cosmatica.org/upload/000/u26/59/a5/1november.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=01892c630952e06ddc",
+      "type": "article",
+      "sourceCharacters": 11433,
+      "verified": false
+    },
+    {
+      "title": "Звёздные вечера (1922)",
+      "description": "\"Звёзды невольно притягивают к себе взоры, и всякому хочется их знать. А вместе с тем звёзд никто не знает, и все знают, что их никто не знает, и как будто так и должно быть...\"",
+      "url": "https://cosmatica.org/library/332-zvyozdnye-vechera-1922.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/b/zvyozdnye-vechera-1922-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=dccfc90b1537aab8a9",
+      "type": "book",
+      "sourceCharacters": 212,
+      "verified": false
+    },
+    {
+      "title": "\"Наше космическое завтра\" в Кемеровской области",
+      "description": "В Кемеровской области завершился региональный этап Международного конкурса рисунка «Наше космическое завтра»",
+      "url": "https://cosmatica.org/news/332-nashe-kosmicheskoe-zavtra-v-kemerovskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/5/nashe-kosmicheskoe-zavtra-v-kemerovskoi-oblasti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d1d9cbb02dc81176af",
+      "type": "news-item",
+      "sourceCharacters": 1308,
+      "verified": false
+    },
+    {
+      "title": "\"Миссия на Марс, космические корабли и телескопы: как развивается российская космонавтика\" #Профориентационно-образовательный проект \"МЫ ВЕРИМ В КОСМОС\"",
+      "description": "Друзья, в связи с усложнением эпидемиологической обстановки лекция перенесена в онлайн-формат.",
+      "url": "https://cosmatica.org/poster/332-missija-na-mars-kosmicheskie-korabli-i-teleskopy-kak-razvivaetsja-rossiiskaja-kosmonavtika.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/0/missija-na-mars-kosmicheskie-korabli-i-teleskopy-kak-razvivaets.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=cf3b5e63ef223f8bca",
+      "type": "poster-item",
+      "sourceCharacters": 1529,
+      "verified": false
+    },
+    {
+      "title": "От «Бури» до «Бурана»",
+      "description": "От «Бури» до «Бурана»: о научном пути одного из создателей «Бурана» члена-корреспондента РАН Ярошевского В.А.",
+      "url": "https://cosmatica.org/articles/331-ot-buri-do-burana.html",
+      "image": "https://cosmatica.org/upload/000/u26/12/63/8november.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=f8617319b956d3df26",
+      "type": "article",
+      "sourceCharacters": 22646,
+      "verified": false
+    },
+    {
+      "title": "Геологи изучают планеты (1984)",
+      "description": "по геологии Луны, Марса, Венеры; описаны материки и океаны на этих космических телах, процессы оледенения, пыльные бури, гигантские трещины и т. д Подчеркивается, что",
+      "url": "https://cosmatica.org/library/331-geologi-izuchayut-planety-1984.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/b/geologi-izuchayut-planety-1984-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=a6d7e732b3c33a9710",
+      "type": "book",
+      "sourceCharacters": 552,
+      "verified": false
+    },
+    {
+      "title": "Осуществлены первые договорённости в Италии",
+      "description": "Мэр Боргосезии Паоло Тирамани принял Председателя Представительства Русского Космического Общества в Италии Ивана Венеруччи и одобрил два уникальных проекта, направленных на укрепление братских отношений между Боргосезией и Россией.",
+      "url": "https://cosmatica.org/news/331-osuschestvleny-pervye-dogovoryonnosti-v-italii.html",
+      "image": "https://cosmatica.org/upload/000/u26/f/d/6ffb21fb.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=35297d1ac9e7d726f7",
+      "type": "news-item",
+      "sourceCharacters": 5048,
+      "verified": false
+    },
+    {
+      "title": "Выход в открытый космос #Профориентационно-образовательный проект \"МЫ ВЕРИМ В КОСМОС\"",
+      "description": "Приглашаем любителей космоса посетить лекторий «Выход в открытый космос»",
+      "url": "https://cosmatica.org/poster/331-vyhod-v-otkrytyi-kosmos.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/3/vyhod-v-otkrytyi-kosmos-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=6bd794afa27fc1460a",
+      "type": "poster-item",
+      "sourceCharacters": 2870,
+      "verified": false
+    },
+    {
+      "title": "Как хорошо расправить два крыла!",
+      "description": "Сегодня в нашей творческой рубрике на время появится самая настоящая взлётно-посадочная полоса (или ВПП, как называют её на профессиональном языке пилоты), на которую временно «приземлится» целая эскадрилья авторов, не понаслышке знающие, что такое быть с Небом на «ты». Почти все они люди лётных профессий, почти у всех из них судьба так или иначе связана с наукоградом Жуковским и его знаменитым Лётно-исследовательски",
+      "url": "https://cosmatica.org/articles/330-kak-horosho-raspravit-dva-kryla.html",
+      "image": "https://cosmatica.org/upload/000/u26/cc/dc/2november.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=a804047991b3cfda25",
+      "type": "article",
+      "sourceCharacters": 12035,
+      "verified": false
+    },
+    {
+      "title": "Галилеева комета (1909)",
+      "description": "",
+      "url": "https://cosmatica.org/library/330-galileeva-kometa-1909.html",
+      "image": "assets/source/book-covers/c0fa5d67b14a3b3cda971a.webp",
+      "kind": "book",
+      "href": "view.html?p=book&ref=9aad70608440025fb9",
+      "type": "book",
+      "sourceCharacters": 49,
+      "verified": false
+    },
+    {
+      "title": "\"Наше космическое завтра\" в Челябинской области",
+      "description": "В Челябинской области завершился региональный этап Международного конкурса рисунка «Наще космическое завтра»",
+      "url": "https://cosmatica.org/news/330-nashe-kosmicheskoe-zavtra-v-cheljabinskoi-oblasti.html",
+      "image": "https://cosmatica.org/upload/000/u37/c/5/nashe-kosmicheskoe-zavtra-v-cheljabinskoi-oblasti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fc13953c3b4595dd21",
+      "type": "news-item",
+      "sourceCharacters": 1285,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

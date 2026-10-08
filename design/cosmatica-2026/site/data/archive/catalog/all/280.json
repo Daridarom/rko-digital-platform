@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 280,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Устои Русского Космического Общества",
+      "description": "Мы, солидарные мужчины и женщины, представители своих семей и родов, части своих народов и цивилизаций, множество, стремящееся к единству – соединившись:",
+      "url": "https://cosmatica.org/about/1-memorandum.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/b/iqvtee-irdi.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=d2aebce43efe04505a",
+      "type": "article",
+      "sourceCharacters": 8431,
+      "verified": false
+    },
+    {
+      "title": "Краснодарский край",
+      "description": "Краснодарское региональное отделение создано 15 января 2019 года .",
+      "url": "https://cosmatica.org/departments/1-krasnodarskii-krai.html",
+      "image": null,
+      "kind": "department",
+      "href": "view.html?p=department&ref=e4d9bb1c9c69eff405",
+      "type": "department",
+      "sourceCharacters": 158,
+      "verified": false
+    },
+    {
+      "title": "Циолковский Константин Эдуардович - Щит научной веры",
+      "description": "Содержание работ К. Э. Циолковского не только не утратило своего значения с течением времени, но и становится все более актуальным. Как космист, К. Э. Циолковский искал универсальные подходы к разрешению острых мировоззренческих и социальных проблем. Позиция, выработанная им, заслуживает пристального внимания со стороны всех, кто хотел бы способствовать миролюбию, толерантности, развитию деятельной и нравственной чел",
+      "url": "https://cosmatica.org/library/1-ciolkovskii-konstantin-eduardovich-schit-nauchnoi-very.html",
+      "image": "https://cosmatica.org/upload/000/u1/4f/22/konstantin-eduardovich-ciolkovskii-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=2dcc5f5979d68b3bd6",
+      "type": "book",
+      "sourceCharacters": 586,
+      "verified": false
+    },
+    {
+      "title": "Госкорпорация «РОСКОСМОС»",
+      "description": "РОСКОСМОС – государственная корпорация, созданная в августе 2015 года для проведения комплексной реформы ракетно-космической отрасли России.",
+      "url": "https://cosmatica.org/partners/1-goskorporacija-roskosmos.html",
+      "image": "https://cosmatica.org/upload/000/u8/a5/a9/d9b6ff9e.png",
+      "kind": "partner",
+      "href": "view.html?p=partner&ref=2833b8d7e310d33660",
+      "type": "partner",
+      "sourceCharacters": 658,
+      "verified": false
+    },
+    {
+      "title": "Второе собрание отделения РКО СПб",
+      "description": "Приглашаем Вас принять участие во втором собрании Санкт-Петербургского отделения Русского Космического Общества, которое состоится 7 апреля 2018 года.",
+      "url": "https://cosmatica.org/poster/1-vtoroe-sobranie-otdelenija-rko-spb.html",
+      "image": "https://cosmatica.org/upload/000/u21/f9/09/vtoroe-sobranie-otdelenija-rko-spb-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=92328e6d80aa81ca26",
+      "type": "poster-item",
+      "sourceCharacters": 1298,
+      "verified": false
+    },
+    {
+      "title": "Об РКО",
+      "description": "Мы, мужчины и женщины, представители своих семей и родов, части своих народов и цивилизаций, множество, стремящееся к единству – соединившись:",
+      "url": "https://cosmatica.org/about",
+      "image": "assets/source/d57de0f0563ec14c76c1542a.webp",
+      "kind": "about",
+      "href": "view.html?p=about",
+      "type": "about",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Контакты",
+      "description": "Тел.: +7 9219967296 e-mail: info@cosmatica.org",
+      "url": "https://cosmatica.org/about/contacts",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=contacts",
+      "type": "contacts",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "КОСМАТИКА",
+      "description": "Косматика есть сключение Человека с Природой с целью их обоюдного одухотворения. Система знаний и действий, основанная на сключении человека с природой, с её целями, законами и проявлениями, есть Косматика. Говоря иначе, Косматика - есть учение Жизни о Самой Себе. Косматика - это Жизнь , осознавшая себя как космопланетарное явление и действующая в направлении устойчивого саморазвития на Земле и за её пределами. Косма",
+      "url": "https://cosmatica.org/about/cosmatica.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=930470f0df46aff95e",
+      "type": "article",
+      "sourceCharacters": 3193,
+      "verified": false
+    },
+    {
+      "title": "Документы",
+      "description": "",
+      "url": "https://cosmatica.org/about/documents",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=3aad368023fe488e32",
+      "type": "article",
+      "sourceCharacters": 221,
+      "verified": false
+    },
+    {
+      "title": "О гербе Русского Космического Общества - ПРОРЫВ!",
+      "description": "Герб РКО (Прорыв) представляет собой изображение в виде квадрата, на 2/3 иссиня-чёрного цвета.",
+      "url": "https://cosmatica.org/about/gerbrko.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/5/bezymjannyi.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=284eedd8a43f94518e",
+      "type": "article",
+      "sourceCharacters": 4547,
+      "verified": false
+    },
+    {
+      "title": "Информация",
+      "description": "",
+      "url": "https://cosmatica.org/about/informacija",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=about-info",
+      "type": "about-info",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Карточка организации",
+      "description": "Полное Наименование Межрегиональная общественная организация в сфере изучения и популяризации космонавтики «Русское космическое общество» Сокращённое наименование МОО «Русское космическое общество» Полное Наименование на английском языке Inyerregional non-government organization «Russian Cosmic Society» Сокращённое наименование на английском языке Russian Cosmic Society, RСS Юридический адрес 107061, г. Москва, ул. Х",
+      "url": "https://cosmatica.org/about/kartochka-organizacii.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=ffcc385f792ae5bf93",
+      "type": "article",
+      "sourceCharacters": 968,
+      "verified": false
+    },
+    {
+      "title": "Марш Русского Космического Общества",
+      "description": "Россия вечно молодая идёт, идёт вперёд, Руками небо обнимая, нас всех зовёт в поход. Мы с тобой всех соберём, мы с тобою всем расскажем, Мы с тобою всё споём через века, через века!",
+      "url": "https://cosmatica.org/about/marchrko.html",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=e86ccde4a4bd1728fb",
+      "type": "article",
+      "sourceCharacters": 1005,
+      "verified": false
+    },
+    {
+      "title": "Школа Русского Космизма как мировоззренческая основа Русского Космического Общества",
+      "description": "Возникновение школы Русского Космизма было своеобразным ответом русской научной мысли на вызов «о неизбежности тепловой смерти (конце) Вселенной», который был брошен мировому сообществу после рассмотрения Клаузиусом принципов сохранения энергии и роста энтропии. По существу, в поиске ответа на этот глобальный вызов и лежат работы Русского Космизма.",
+      "url": "https://cosmatica.org/about/ruscosmizm.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/9/iqvtee-irdi.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=330e2f86698836f6ca",
+      "type": "article",
+      "sourceCharacters": 16375,
+      "verified": false
+    },
+    {
+      "title": "Символика",
+      "description": "",
+      "url": "https://cosmatica.org/about/simvolika",
+      "image": null,
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=250799991edc98da71",
+      "type": "article",
+      "sourceCharacters": 131,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

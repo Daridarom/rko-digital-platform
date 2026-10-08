@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/8172",
+  "title": "Андрей Владимирович Щербаков",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/e/f/9a888f06.jpg",
+      "alt": "Андрей Владимирович Щербаков"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/f/a/a7d0e619.jpg",
+      "alt": "Андрей Владимирович Щербаков"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 1"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 2 года назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Директор Института социально-экономического прогнозирования им.Д.И.Менделеева",
+      "spans": [
+        {
+          "text": "Директор Института социально-экономического прогнозирования им.Д.И.Менделеева"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "НИИ Моделирования Будущего, учредитель",
+      "spans": [
+        {
+          "text": "НИИ Моделирования Будущего, учредитель"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель Экономического совета РКО",
+      "spans": [
+        {
+          "text": "Руководитель Экономического совета РКО"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Директор Института социально-экономического прогнозирования им.Д.И.Менделеева НИИ Моделирования Будущего, учредитель Руководитель Экономического совета РКО",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/e/f/9a888f06.jpg",
+    "https://cosmatica.org/upload/000/u35/f/a/a7d0e619.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 250,
+    "storedTextCharacters": 198,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35634
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 183,
+  "capturedBodyCharacters": 198,
+  "sourceTextSHA256": "9d3ac2f3fb733f13d4451c9b459ba142038f72b8fb4d1173d5f549d58ea91cf5",
+  "archiveSnapshotAt": "2026-10-08T09:22:17Z"
+}

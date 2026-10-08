@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/820-privetstvie-prezidenta-rko-gaponova-a-a-k-uchastnikam-konferencii-russkii-mir.html",
+  "title": "Приветствие Президента РКО Гапонова А.А. к участникам конференции \"Русский мир\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Полный текст исходного материала"
+    },
+    {
+      "type": "paragraph",
+      "text": "гапонов алексей алексеевич , Русский мир: динамика научного познания Алексей Алексеевич Гапонов. Аркон.",
+      "spans": [
+        {
+          "text": "гапонов алексей алексеевич , Русский мир: динамика научного познания Алексей Алексеевич Гапонов. Аркон."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "s8ontvrdMro",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=s8ontvrdMro"
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 183,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 74127
+  },
+  "textFallbackRequired": true,
+  "originalKind": "article",
+  "sourceTextCharacters": 103,
+  "capturedBodyCharacters": 135,
+  "sourceTextSHA256": "190dac2674b525454021068c00bb2b141d371e0e0388394ecb53c15e173d5514",
+  "archiveSnapshotAt": "2026-10-08T08:44:07Z",
+  "publicVideoCount": 1
+}

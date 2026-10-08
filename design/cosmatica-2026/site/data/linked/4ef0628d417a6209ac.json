@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1022-kniga-dnja-segodnja.html",
+  "title": "Книга дня сегодня...",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Книга дня",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/003/u395/3/0/kniga-dnja-segodnja-photo-normal.jpg",
+      "alt": "Книга дня сегодня..."
+    },
+    {
+      "type": "paragraph",
+      "text": "Автор: Лайза Майлз, Алистер Смит",
+      "spans": [
+        {
+          "text": "Автор: Лайза Майлз, Алистер Смит"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "О чём книга: Окиньте взором поверхность планет! Взгляните на взрывы звезд, зарождение «чёрных дыр», промчитесь с кометами и астероидами сквозь Солнечную систему. Под словом \"Вселенная\" мы понимаем совокупность всего, что существует в космосе. Вселенная так огромна, что ее размеры трудно представить. Она состоит из миллионов звезд, планет и громадных облаков газа, разделенных гигантским пустым пространством. Эта книга покажет вам Вселенную на основе последних увлекательных сообщений от астрономов всей планеты и космических зондов, посланных в глубину Галактики.",
+      "spans": [
+        {
+          "text": "О чём книга: Окиньте взором поверхность планет! Взгляните на взрывы звезд, зарождение «чёрных дыр», промчитесь с кометами и астероидами сквозь Солнечную систему. Под словом \"Вселенная\" мы понимаем совокупность всего, что существует в космосе. Вселенная так огромна, что ее размеры трудно представить. Она состоит из миллионов звезд, планет и громадных облаков газа, разделенных гигантским пустым пространством. Эта книга покажет вам Вселенную на основе последних увлекательных сообщений от астрономов всей планеты и космических зондов, посланных в глубину Галактики."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга рассчитана на широкий круг читателей",
+      "spans": [
+        {
+          "text": "Книга рассчитана на широкий круг читателей"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга в электронном виде: https://cosmatica.org/library/278-tainy-vselennoi-astronomija-i-kosmos-2002.html",
+      "spans": [
+        {
+          "text": "Книга в электронном виде: "
+        },
+        {
+          "text": "https://cosmatica.org/library/278-tainy-vselennoi-astronomija-i-kosmos-2002.html",
+          "href": "https://cosmatica.org/library/278-tainy-vselennoi-astronomija-i-kosmos-2002.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/library/278-tainy-vselennoi-astronomija-i-kosmos-2002.html",
+          "url": "https://cosmatica.org/library/278-tainy-vselennoi-astronomija-i-kosmos-2002.html"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Друзья, представляем Вам книгу дня - \"Тайны Вселенной. Астрономия и Космос\"",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Автор: Лайза Майлз, Алистер Смит О чём книга: Окиньте взором поверхность планет! Взгляните на взрывы звезд, зарождение «чёрных дыр», промчитесь с кометами и астероидами сквозь Солнечную систему. Под словом \"Вселенная\" мы понимаем совокупность всего, что существует в космосе. Вселенная так огромна, что ее размеры трудно представить. Она состоит из миллионов звезд, планет и громадных облаков газа, разделенных гигантским пустым пространством. Эта книга покажет вам Вселенную на основе последних увлекательных сообщений от астрономов всей планеты и космических зондов, посланных в глубину Галактики. Книга рассчитана на широкий круг читателей Книга в электронном виде: https://cosmatica.org/library/278-tainy-vselennoi-astronomija-i-kosmos-2002.html",
+      "links": [
+        {
+          "title": "https://cosmatica.org/library/278-tainy-vselennoi-astronomija-i-kosmos-2002.html",
+          "url": "https://cosmatica.org/library/278-tainy-vselennoi-astronomija-i-kosmos-2002.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/003/u395/3/0/kniga-dnja-segodnja-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1073,
+    "storedTextCharacters": 767,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 47784
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 931,
+  "capturedBodyCharacters": 767,
+  "sourceTextSHA256": "0c8633765888dd9cd546080ef4245d66d9e02936101b394ea45cbd6d5da498c8",
+  "archiveSnapshotAt": "2026-10-08T09:23:36Z"
+}

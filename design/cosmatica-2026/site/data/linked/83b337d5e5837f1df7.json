@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/145-dokazatelstvo-dlja-matematiki.html",
+  "title": "Доказательство для математики",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "то, что следует из аксиом.",
+      "spans": [
+        {
+          "text": "то, что следует из аксиом."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "то, что следует из аксиом.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 56,
+    "storedTextCharacters": 26,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31534
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 26,
+  "capturedBodyCharacters": 26,
+  "sourceTextSHA256": "76c7ef967434ae94073124a0c9efef197b803e062680007743c3aa00ae1928ad",
+  "archiveSnapshotAt": "2026-10-08T08:46:33Z"
+}

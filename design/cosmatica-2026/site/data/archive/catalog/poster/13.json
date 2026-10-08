@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "poster",
+  "title": "Мероприятия",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 13,
+  "pageCount": 22,
+  "total": 316,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Фестиваль «Юные Звёзды» по быстрым шахматам имени В.И. Токарева #Прорыв к здоровой Жизни",
+      "description": "о проведении IV международного детского фестиваля «Юные Звёзды» по быстрым шахматам имени Героя России, лётчика – космонавта В.И. Токарева, посвящённого 58 годовщине первого полёта человека в космос",
+      "url": "https://cosmatica.org/poster/146-festival-yunye-zvyozdy-po-bystrym-shahmatam-imeni-v-i-tokareva.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/d/festival-yunye-zvyozdy-po-bystrym-shahmatam-imeni-v-i-tokareva.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=6ec844f2a4a1f88008",
+      "type": "poster-item",
+      "sourceCharacters": 2272,
+      "verified": false
+    },
+    {
+      "title": "Открытие выставки \"Они были первыми\"",
+      "description": "Совет по культуре приглашает к посещению выставки!",
+      "url": "https://cosmatica.org/poster/145-otkrytie-vystavki-oni-byli-pervymi.html",
+      "image": "https://cosmatica.org/upload/000/u26/2/b/484e90f9.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=92d0c29213d2216f14",
+      "type": "poster-item",
+      "sourceCharacters": 167,
+      "verified": false
+    },
+    {
+      "title": "XII-й международный турнир имени дважды героя Советского Союза В.В. Горбатко в Люберцах",
+      "description": "7 апреля во Дворце спорта «Триумф» пройдёт XII-й международный турнир по каратэ имени дважды героя Советского Союза В.В. Горбатко. В соревнованиях примут участие спортсмены из России, стран ближнего и дальнего зарубежья.",
+      "url": "https://cosmatica.org/poster/144-xii-i-mezhdunarodnyi-turnir-imeni-dvazhdy-geroja-sovetskogo-soyuza-v-v-gorbatko-v-lyubercah.html",
+      "image": "https://cosmatica.org/upload/000/u26/d/e/d8e1a853.jpeg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=de94afc79daf809511",
+      "type": "poster-item",
+      "sourceCharacters": 939,
+      "verified": false
+    },
+    {
+      "title": "Акция по сбору раздельно собранного вторсырья",
+      "description": "6 апреля состоится первая акция по сбору раздельно собранного вторсырья под эгидой Экологического Совета РКО .",
+      "url": "https://cosmatica.org/poster/143-akcija-po-sboru-razdelno-sobrannogo-vtorsyrja.html",
+      "image": "https://cosmatica.org/upload/000/u21/0/d/0ec2e76f.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=ba49535300b8f44cea",
+      "type": "poster-item",
+      "sourceCharacters": 2147,
+      "verified": false
+    },
+    {
+      "title": "Семинар по искусству публичного выступления для членов РКО",
+      "description": "Дорогие товарищи. В ходе работы РКО нам часто приходится выступать перед различными аудиториями. Публичное выступление - это такая же компетенция и искусство.",
+      "url": "https://cosmatica.org/poster/142-seminar-po-iskusstvu-publichnogo-vystuplenija-dlja-chlenov-rko.html",
+      "image": "https://cosmatica.org/upload/000/u26/0/9/seminar-po-iskusstvu-publichnogo-vystuplenija-dlja-chlenov-rko-photo.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=0bb08e5f3d21df1d73",
+      "type": "poster-item",
+      "sourceCharacters": 835,
+      "verified": false
+    },
+    {
+      "title": "Встреча с космонавтом Токаревым Валерием Ивановичем #Общественно-государственный комитет празднования 85-летия Ю.А. Гагарина",
+      "description": "Космонавт-испытатель Центра подготовки космонавтов им. Ю. А. Гагарина, полковник ВВС РФ, Герой России.",
+      "url": "https://cosmatica.org/poster/141-vstrecha-s-kosmonavtom-tokarevym-valeriem-ivanovichem.html",
+      "image": "https://cosmatica.org/upload/001/u176/9/1/ab01159a.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=2677a9ab3e836e56af",
+      "type": "poster-item",
+      "sourceCharacters": 949,
+      "verified": false
+    },
+    {
+      "title": "Гагаринский урок в Планетарии №1 #Общественно-государственный комитет празднования 85-летия Ю.А. Гагарина",
+      "description": "12 апреля весь мир отмечает День авиации и космонавтики — памятную дату, посвященную первому полету человека в космос. И, конечно же, Планетарий № 1 присоединяется к этому грандиозному празднику!",
+      "url": "https://cosmatica.org/poster/140-gagarinskii-urok-v-planetarii-1.html",
+      "image": "https://cosmatica.org/upload/000/u21/d/8/gagarinskii-urok-v-planetarii-1-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=e8ae7c1038093b2e05",
+      "type": "poster-item",
+      "sourceCharacters": 1106,
+      "verified": false
+    },
+    {
+      "title": "Гагаринский урок в Витебске",
+      "description": "6 апреля на базе Витебского областного дворца детей и молодёжи состоится Гагаринский урок в честь 85-ти летия со дня рождения Ю.А.Гагарина и приуроченный ко Всемирному дню космонавтики.",
+      "url": "https://cosmatica.org/poster/139-gagarinskii-urok-v-vitebske.html",
+      "image": "https://cosmatica.org/upload/001/u186/1/a/gagarinskii-urok-v-vitebske-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=d6bfa133cceb386015",
+      "type": "poster-item",
+      "sourceCharacters": 662,
+      "verified": false
+    },
+    {
+      "title": "Мамино счастье. #Женское Космическое Послание Земли",
+      "description": "7 апреля в СПб ГБУК «Клуб Выборгская Сторона» пройдёт Весенняя конкурсная программа «Мамино счастье» в рамках Международного Детского Фестиваля Дружбы народов, Культуры и Таланта «Gatingo World Kids».",
+      "url": "https://cosmatica.org/poster/138-mamino-schaste.html",
+      "image": "https://cosmatica.org/upload/000/u21/9/4/4bdb1e85.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=b70f5918db56dfba15",
+      "type": "poster-item",
+      "sourceCharacters": 3086,
+      "verified": false
+    },
+    {
+      "title": "История отечественной и мировой космонавтики",
+      "description": "В преддверии Дня космонавтики приглашаем всех любителей космоса узнать больше об истории мировой и отечественной космонавтики. Вы узнаете об основных достижениях нашей Родины, связанных с освоением космического пространства и сможете задать интересующие Вас вопросы.",
+      "url": "https://cosmatica.org/poster/137-istorija-otechestvennoi-i-mirovoi-kosmonavtiki.html",
+      "image": "https://cosmatica.org/upload/000/u26/2/c/ebf61a67.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=318bbc825c58511a19",
+      "type": "poster-item",
+      "sourceCharacters": 831,
+      "verified": false
+    },
+    {
+      "title": "События космонавтики за март 2019 года",
+      "description": "Открытый научный лекторий \"События космонавтики за март 2019 года\"",
+      "url": "https://cosmatica.org/poster/136-sobytija-kosmonavtiki-za-mart-2019-goda.html",
+      "image": "https://cosmatica.org/upload/000/u26/3/6/f39f2290.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=c4592136c279661294",
+      "type": "poster-item",
+      "sourceCharacters": 1059,
+      "verified": false
+    },
+    {
+      "title": "Космоплан Юрия Гагарина #Общественно-государственный комитет празднования 85-летия Ю.А. Гагарина",
+      "description": "В 2019 году мы отмечаем 85-ю годовщину рождения Юрия Алексеевича Гагарина – первого космонавта планеты Земля. Поэтому, в преддверии Дня космонавтики, мы хотим рассказать вам о малоизвестных фактах его биографии.",
+      "url": "https://cosmatica.org/poster/135-kosmoplan-yurija-gagarina.html",
+      "image": "https://cosmatica.org/upload/000/u21/e/8/kosmoplan-yurija-gagarina-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=6b3ffb19c6afbd17f0",
+      "type": "poster-item",
+      "sourceCharacters": 1832,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль инженерно-технического творчества «Юный техник». #Фестиваль инженерно-технического творчества «Юный техник».",
+      "description": "У тебя есть радиоуправляемая модель машинки, самолёта, вертолёта или коптер? Умеешь этой моделью управлять? Тогда у тебя есть возможность стать участником нашего Фестиваля!",
+      "url": "https://cosmatica.org/poster/134-festival-inzhenerno-tehnicheskogo-tvorchestva-yunyi-tehnik.html",
+      "image": "https://cosmatica.org/upload/001/u133/8/4/cddaf260.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=b4c5f92b2b495370e8",
+      "type": "poster-item",
+      "sourceCharacters": 2259,
+      "verified": false
+    },
+    {
+      "title": "Электрическая энергия – источники тока нового типа #Лекторий Русского Космического Общества",
+      "description": "Русское Космическое Общество в рамках деятельности Секции Авангардных исследований при Совете труда и творчества приглашает посетить семинар на тему: «Электрическая энергия – источники тока нового типа».",
+      "url": "https://cosmatica.org/poster/132-elektricheskaja-energija-istochniki-toka-novogo-tipa.html",
+      "image": "https://cosmatica.org/upload/000/u26/7/1/elektricheskaja-energija-istochniki-toka-novogo-tipa-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=b7ad8c35fe5b82e3b8",
+      "type": "poster-item",
+      "sourceCharacters": 727,
+      "verified": false
+    },
+    {
+      "title": "Первое учредительное собрание Нижегородского отделения РКО",
+      "description": "Первое учредительное собрание Нижегородского отделения РКО пройдёт в рамках Ежегодного международного гуманитарного, естественнонаучного и технического симпозиума в сфере освоения космоса «Волские чтения»",
+      "url": "https://cosmatica.org/poster/131-pervoe-uchreditelnoe-sobranie-nizhegorodskogo-otdelenija-rko.html",
+      "image": "https://cosmatica.org/upload/001/u176/3/2/pervoe-uchreditelnoe-sobranie-nizhegorodskogo-otdelenija-rko-photo.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=c26019c299d8347a77",
+      "type": "poster-item",
+      "sourceCharacters": 1160,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

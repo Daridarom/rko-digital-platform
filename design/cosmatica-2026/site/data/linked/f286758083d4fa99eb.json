@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/72-proekt-ustoichivogo-razvitija.html",
+  "title": "Проект устойчивого развития",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это идеальный образ будущего изме­нения проектируемого объекта в ограниченном времени и простран­стве с установленными требованиями устойчивого развития к каче­ству результатов и используемым технологиям, возможными рамками расхода ресурсов и специальной организацией.",
+      "spans": [
+        {
+          "text": "это идеальный образ будущего изме­нения проектируемого объекта в ограниченном времени и простран­стве с установленными требованиями устойчивого развития к каче­ству результатов и используемым технологиям, возможными рамками расхода ресурсов и специальной организацией."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это идеальный образ будущего изме­нения проектируемого объекта в ограниченном времени и простран­стве с установленными требованиями устойчивого развития к каче­ству результатов и используемым технологиям, возможными рамками расхода ресурсов и специальной организацией.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 296,
+    "storedTextCharacters": 268,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32618
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 268,
+  "capturedBodyCharacters": 268,
+  "sourceTextSHA256": "4ac24c09e3092205949ee2b59d57493f5a8305a0369a654807b036deb4802ce8",
+  "archiveSnapshotAt": "2026-10-08T08:47:08Z"
+}

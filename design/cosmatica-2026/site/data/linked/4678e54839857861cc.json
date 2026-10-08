@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/895-tokarev-valerii-ivanovich-intervyu-na-syomkah-filma-era.html",
+  "title": "Токарев Валерий Иванович. Интервью на съёмках фильма \"ЭРА\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Герой России, лётчик-космонавт, полковник ВВС России, член Президиума Русского Космического Общества Валерий Иванович Токарев впервые испытал себя в качестве актёра кино, и справился с этим блестяще. Что же помогает ему быть всегда на высоте? Также невозможно было обойти и тему человеческих качеств, и вопрос: \"Стоит ли искусство на службе воспитания человека?\". Подробнее — в нашем интервью.",
+      "spans": [
+        {
+          "text": "Герой России, лётчик-космонавт, полковник ВВС России, член Президиума Русского Космического Общества Валерий Иванович Токарев впервые испытал себя в качестве актёра кино, и справился с этим блестяще. Что же помогает ему быть всегда на высоте? Также невозможно было обойти и тему человеческих качеств, и вопрос: \"Стоит ли искусство на службе воспитания человека?\". Подробнее — в нашем интервью."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "????Смотрим! Вдохновляемся!",
+      "spans": [
+        {
+          "text": "????Смотрим! Вдохновляемся!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Санкт-Петербург",
+      "spans": [
+        {
+          "text": "Санкт-Петербург"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "26.02.2020г.",
+      "spans": [
+        {
+          "text": "26.02.2020г."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Проект",
+      "spans": [
+        {
+          "text": "Проект"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Киноуроки. ЭРА\" на сайте РКО",
+      "spans": [
+        {
+          "text": "\"Киноуроки. ЭРА\" на сайте РКО"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://cosmatica.org/projects/kinouroki",
+      "spans": [
+        {
+          "text": "https://cosmatica.org/projects/kinouroki"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сайт Проекта kinouroki.ru",
+      "spans": [
+        {
+          "text": "Сайт Проекта kinouroki.ru"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "ehjHn1C3qp0",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=ehjHn1C3qp0"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Герой России, лётчик-космонавт, полковник ВВС России, член Президиума Русского Космического Общества Валерий Иванович Токарев впервые испытал себя в качестве актёра кино, и справился с этим блестяще. Что же помогает ему быть всегда на высоте? Также невозможно было обойти и тему человеческих качеств, и вопрос: \"Стоит ли искусство на службе воспитания человека?\". Подробнее — в нашем интервью. ????Смотрим! Вдохновляемся! Санкт-Петербург 26.02.2020г. Проект \"Киноуроки. ЭРА\" на сайте РКО https://cosmatica.org/projects/kinouroki Сайт Проекта kinouroki.ru",
+      "links": [
+        {
+          "title": "Проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "https://cosmatica.org/projects/kinouroki",
+          "url": "https://www.youtube.com/redirect?q=https%3A%2F%2Fcosmatica.org%2Fprojects%2Fkinouroki&v=ehjHn1C3qp0&redir_token=LA1ATYyUIBfSgnnKRYK41mS1bOt8MTU4MzA4NDM3MkAxNTgyOTk3OTcy&event=video_description"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 729,
+    "storedTextCharacters": 547,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 76323
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 670,
+  "capturedBodyCharacters": 547,
+  "sourceTextSHA256": "e9b1f0c9f7289dcfcb9aafb0f51e19beb0da8c4edcc2fa56c13de1b07bca5141",
+  "archiveSnapshotAt": "2026-10-08T09:25:38Z",
+  "publicVideoCount": 1
+}

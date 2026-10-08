@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/143-vysadka-proshla-uspeshno.html",
+  "title": "Высадка прошла успешно!",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Военно-космические сборы «Космодесант»",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/31/c4/vysadka-proshla-uspeshno-photo-normal.jpg",
+      "alt": "Высадка прошла успешно!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Программа была реализована полностью. Ребята познакомились с новейшими теориями космических путешествий, и даже с практикой ракетостроения и запусков.",
+      "spans": [
+        {
+          "text": "Программа была реализована полностью. Ребята познакомились с новейшими теориями космических путешествий, и даже с практикой ракетостроения и запусков."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Прошли курс боевой медицины, рукопашного боя и владения собой. Получили напутствие от героя-полярника и преодолели испытания программы \"Ракетное Выживание\".",
+      "spans": [
+        {
+          "text": "Прошли курс боевой медицины, рукопашного боя и владения собой. Получили напутствие от героя-полярника и преодолели испытания программы \"Ракетное Выживание\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На торжественном подведении итогов, лучшие были награждены памятными стальными жетонами. Воспитанники ВПК \"Авангард\" дали торжественную клятву на верность Родине, будущему и общему делу человечества.",
+      "spans": [
+        {
+          "text": "На торжественном подведении итогов, лучшие были награждены памятными стальными жетонами. Воспитанники ВПК \"Авангард\" дали торжественную клятву на верность Родине, будущему и общему делу человечества. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "РКО планирует поддерживать и расширять работу в военно-космических лагерях. Что посеешь, то и пожнешь.",
+      "spans": [
+        {
+          "text": "РКО планирует поддерживать и расширять работу в военно-космических лагерях. Что посеешь, то и пожнешь."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/39/77/vysadka-proshla-uspeshno-gallery-normal.jpg",
+      "alt": "Высадка прошла успешно! 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/e6/1b/vysadka-proshla-uspeshno-gallery-normal.jpg",
+      "alt": "Высадка прошла успешно! 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/6e/a4/vysadka-proshla-uspeshno-gallery-normal.jpg",
+      "alt": "Высадка прошла успешно! 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/47/f1/vysadka-proshla-uspeshno-gallery-normal.jpg",
+      "alt": "Высадка прошла успешно! 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/1e/c7/vysadka-proshla-uspeshno-gallery-normal.jpg",
+      "alt": "Высадка прошла успешно! 4"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "12 июля под Москвой завершился, возможно первый в Истории, военно-космический лагерь \"Космодесант-2018\".",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Программа была реализована полностью. Ребята познакомились с новейшими теориями космических путешествий, и даже с практикой ракетостроения и запусков. Прошли курс боевой медицины, рукопашного боя и владения собой. Получили напутствие от героя-полярника и преодолели испытания программы \"Ракетное Выживание\". На торжественном подведении итогов, лучшие были награждены памятными стальными жетонами. Воспитанники ВПК \"Авангард\" дали торжественную клятву на верность Родине, будущему и общему делу человечества. РКО планирует поддерживать и расширять работу в военно-космических лагерях. Что посеешь, то и пожнешь.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/31/c4/vysadka-proshla-uspeshno-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/39/77/vysadka-proshla-uspeshno-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/e6/1b/vysadka-proshla-uspeshno-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/6e/a4/vysadka-proshla-uspeshno-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/47/f1/vysadka-proshla-uspeshno-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u26/1e/c7/vysadka-proshla-uspeshno-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 979,
+    "storedTextCharacters": 657,
+    "sourceCardCount": 0,
+    "sourceImageCount": 6,
+    "paragraphCount": 4,
+    "sourceBytes": 49595
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 805,
+  "capturedBodyCharacters": 657,
+  "sourceTextSHA256": "71ae6d81d297a5a3a90aea1e942c763fb25136f7dcbef7613da3b819d7fc922b",
+  "archiveSnapshotAt": "2026-10-08T08:58:20Z"
+}

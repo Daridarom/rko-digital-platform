@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/718-tropa-muzhestva-2015-osen-oficialnyi-klip.html",
+  "title": "\"Тропа мужества\" 2015. Осень (официальный клип)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Тропа Мужества",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "В ожидании основного официального ролика с осенней «Тропы мужества», предлагаем Вашему вниманию не менее официальный, но более короткий вариант видеоклипа о том, как это было!",
+      "spans": [
+        {
+          "text": "В ожидании основного официального ролика с осенней «Тропы мужества», предлагаем Вашему вниманию не менее официальный, но более короткий вариант видеоклипа о том, как это было!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Официальный сайт",
+      "spans": [
+        {
+          "text": "Официальный сайт"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа ВКонтакте",
+      "spans": [
+        {
+          "text": "Группа ВКонтакте",
+          "href": "https://vk.com/natropu"
+        }
+      ],
+      "links": [
+        {
+          "text": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ссылка на Youtube",
+      "spans": [
+        {
+          "text": "Ссылка на Youtube",
+          "href": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "links": [
+        {
+          "text": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "GdOBSUcHwto",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=GdOBSUcHwto"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В ожидании основного официального ролика с осенней «Тропы мужества», предлагаем Вашему вниманию не менее официальный, но более короткий вариант видеоклипа о том, как это было! Официальный сайт Группа ВКонтакте Ссылка на Youtube",
+      "links": [
+        {
+          "title": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        },
+        {
+          "title": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 312,
+    "storedTextCharacters": 239,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 74525
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 248,
+  "capturedBodyCharacters": 239,
+  "sourceTextSHA256": "13296dc11b146a90cc2b29222fbb8502e769ae3967ab1373602b3825f0a69f10",
+  "archiveSnapshotAt": "2026-10-08T08:43:07Z",
+  "publicVideoCount": 1
+}

@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 2,
+  "slug": "project",
+  "sourceUrl": "https://cosmatica.org/projects/zerkala-kozireva",
+  "title": "Зеркала в голографической вселенной Козырева: история, результаты, перспективы.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/d6/f8/zerkala-v-golograficheskoi-vselennoi-kozyreva-istorija-rezultat.jpg",
+      "alt": "Зеркала в голографической вселенной Козырева: история, результаты, перспективы."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О проекте",
+        "Новости 2"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Готовится выйти в свет монография Трофимова Александра Васильевича, Председателя отделения Новосибирской области Русского Космического Общества",
+      "spans": [
+        {
+          "text": "Готовится выйти в свет монография Трофимова Александра Васильевича, Председателя отделения Новосибирской области Русского Космического Общества"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "\" ЗЕРКАЛА В ГОЛОГРАФИЧЕСКОЙ ВСЕЛЕННОЙ КОЗЫРЕВА: ИСТОРИЯ, РЕЗУЛЬТАТЫ, ПЕРСПЕКТИВЫ\"",
+      "spans": [
+        {
+          "text": " \""
+        },
+        {
+          "text": "ЗЕРКАЛА В ГОЛОГРАФИЧЕСКОЙ ВСЕЛЕННОЙ КОЗЫРЕВА: ИСТОРИЯ, РЕЗУЛЬТАТЫ, ПЕРСПЕКТИВЫ\"",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Монография издается под эгидой Международного научно-исследовательского института космопланетарной антропоэкологии имени академика В.П.Казначеева и Русского Космического Общества",
+      "spans": [
+        {
+          "text": "Монография издается под эгидой"
+        },
+        {
+          "text": "  ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "Международного научно-исследовательского института космопланетарной антропоэкологии имени академика В.П.Казначеева",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fwww.isrica.ru%2F"
+        },
+        {
+          "text": " и "
+        },
+        {
+          "text": "Русского Космического Общества",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org"
+        }
+      ],
+      "links": [
+        {
+          "text": "Международного научно-исследовательского института космопланетарной антропоэкологии имени академика В.П.Казначеева",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fwww.isrica.ru%2F"
+        },
+        {
+          "text": "Русского Космического Общества",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Это первый совместный труд Трофимова Александра Васильевича , Председателя отделения Новосибирской области РКО и Большакова Бориса Евгеньевича , Президента РКО.",
+      "spans": [
+        {
+          "text": "Это первый совместный труд "
+        },
+        {
+          "text": "Трофимова Александра Васильевича",
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F31"
+        },
+        {
+          "text": ", Председателя отделения Новосибирской области РКО и "
+        },
+        {
+          "text": "Большакова Бориса Евгеньевича",
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F10"
+        },
+        {
+          "text": ", Президента РКО."
+        }
+      ],
+      "links": [
+        {
+          "text": "Трофимова Александра Васильевича",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F31"
+        },
+        {
+          "text": "Большакова Бориса Евгеньевича",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F10"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Издание станет доступно для читателя уже в конце апреля этого года.",
+      "spans": [
+        {
+          "text": "Издание станет доступно для читателя уже в конце апреля этого года."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Стена проекта",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/db/e2/a40e98a1.jpg",
+      "alt": "Новосибирское областное отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u30/f1/91/oblozhka-trofimov1.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/db/e2/a40e98a1.jpg",
+      "alt": "Новосибирское областное отделение"
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "-BioupB_I7I",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=-BioupB_I7I"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Готовится выйти в свет монография Трофимова Александра Васильевича, Председателя отделения Новосибирской области Русского Космического Общества \" ЗЕРКАЛА В ГОЛОГРАФИЧЕСКОЙ ВСЕЛЕННОЙ КОЗЫРЕВА: ИСТОРИЯ, РЕЗУЛЬТАТЫ, ПЕРСПЕКТИВЫ\" Монография издается под эгидой Международного научно-исследовательского института космопланетарной антропоэкологии имени академика В.П.Казначеева и Русского Космического Общества Это первый совместный труд Трофимова Александра Васильевича , Председателя отделения Новосибирской области РКО и Большакова Бориса Евгеньевича , Президента РКО. Издание станет доступно для читателя уже в конце апреля этого года.",
+      "links": [
+        {
+          "title": "Международного научно-исследовательского института космопланетарной антропоэкологии имени академика В.П.Казначеева",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fwww.isrica.ru%2F"
+        },
+        {
+          "title": "Русского Космического Общества",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org"
+        },
+        {
+          "title": "Трофимова Александра Васильевича",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F31"
+        },
+        {
+          "title": "Большакова Бориса Евгеньевича",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F10"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Направление:",
+      "value": "Наука и техника",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Статус:",
+      "value": "Завершенный",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/d6/f8/zerkala-v-golograficheskoi-vselennoi-kozyreva-istorija-rezultat.jpg",
+    "https://cosmatica.org/upload/000/u8/db/e2/a40e98a1.jpg",
+    "https://cosmatica.org/upload/000/u30/f1/91/oblozhka-trofimov1.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1537,
+    "storedTextCharacters": 660,
+    "sourceCardCount": 0,
+    "sourceImageCount": 3,
+    "paragraphCount": 5,
+    "sourceBytes": 43931
+  },
+  "textFallbackRequired": false,
+  "originalKind": "project",
+  "sourceTextCharacters": 682,
+  "capturedBodyCharacters": 660,
+  "sourceTextSHA256": "70577852290514f741d259e8292f851dbfcf75bb1fe3ffefc690991a98e7c908",
+  "archiveSnapshotAt": "2026-10-08T09:17:46Z",
+  "publicVideoCount": 1
+}

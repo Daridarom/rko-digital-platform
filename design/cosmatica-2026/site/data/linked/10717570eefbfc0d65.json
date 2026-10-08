@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/149-osnovnye-vidy-obra-botki-dannyh.html",
+  "title": "Основные виды обра­ботки данных",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это их анализ и синтез с последующим преобразова­нием в информацию.",
+      "spans": [
+        {
+          "text": "это их анализ и синтез с последующим преобразова­нием в информацию."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это их анализ и синтез с последующим преобразова­нием в информацию.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 99,
+    "storedTextCharacters": 67,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31794
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 67,
+  "capturedBodyCharacters": 67,
+  "sourceTextSHA256": "d3f72c688ac1c52a9d35b246a6609351008c14f192eedf38602bf07ebd4ccb94",
+  "archiveSnapshotAt": "2026-10-08T08:46:34Z"
+}

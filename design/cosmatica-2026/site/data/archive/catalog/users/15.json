@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "users",
+  "title": "Участники РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 15,
+  "pageCount": 16,
+  "total": 235,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Виктор Александрович Соловьёв",
+      "description": "Руководитель фонда поддержки и развития семей «Родная семья».",
+      "url": "https://cosmatica.org/users/659",
+      "image": "https://cosmatica.org/upload/002/u218/d/7/11f0f6cb.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=56cb54bddf7b40fabd",
+      "type": "profile",
+      "sourceCharacters": 221,
+      "verified": false
+    },
+    {
+      "title": "Наталия Александровна Загустина",
+      "description": "Биофизик, разработчик суперсовременного метода диагностики «КСИ-метод»",
+      "url": "https://cosmatica.org/users/66",
+      "image": "https://cosmatica.org/upload/000/u35/3/8/0f8893d2.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=d7ad054fc32e0d5d30",
+      "type": "profile",
+      "sourceCharacters": 151,
+      "verified": false
+    },
+    {
+      "title": "Алевтина Валерьевна Лещенко",
+      "description": "Член «СПАГО» (Санкт-Петербургское астрономо-геодезическое объединение)",
+      "url": "https://cosmatica.org/users/68",
+      "image": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=304946f59122e2a832",
+      "type": "profile",
+      "sourceCharacters": 159,
+      "verified": false
+    },
+    {
+      "title": "Наталья Васильевна Радюк",
+      "description": "Муниципальное бюджетное учреждение культуры Музей — заповедник Сундуки под открытым небом",
+      "url": "https://cosmatica.org/users/69",
+      "image": "https://cosmatica.org/upload/000/u69/b3/33/40ff7f38.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=aff60d1bd20783aceb",
+      "type": "profile",
+      "sourceCharacters": 160,
+      "verified": false
+    },
+    {
+      "title": "Андрей Дмитриевич Косюра",
+      "description": "",
+      "url": "https://cosmatica.org/users/70",
+      "image": "https://cosmatica.org/upload/000/u70/75/05/31be0ccc.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=b78f3a818815b958e1",
+      "type": "profile",
+      "sourceCharacters": 73,
+      "verified": false
+    },
+    {
+      "title": "Александр Николаевич Денисов",
+      "description": "",
+      "url": "https://cosmatica.org/users/71",
+      "image": "https://cosmatica.org/upload/000/u71/4f/3a/cb12851f.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=d11d227b178ff3c6a6",
+      "type": "profile",
+      "sourceCharacters": 60,
+      "verified": false
+    },
+    {
+      "title": "Елена Владимировна Дубровская Профиль удалён",
+      "description": "Директор АНО Центр развития интеллектуальных и творческих способностей «ИНТЕЛРОСТ».",
+      "url": "https://cosmatica.org/users/711",
+      "image": "https://cosmatica.org/upload/000/u35/7/a/bb1c9481.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=c3dfa9edf7952ee12c",
+      "type": "profile",
+      "sourceCharacters": 177,
+      "verified": false
+    },
+    {
+      "title": "Наталья Владимировна Попова",
+      "description": "МОБУ «Русская школа», учитель начальных классов",
+      "url": "https://cosmatica.org/users/72",
+      "image": "https://cosmatica.org/upload/000/u8/84/e9/570be529.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=84e6205d9669203fe1",
+      "type": "profile",
+      "sourceCharacters": 152,
+      "verified": false
+    },
+    {
+      "title": "Валерий Анатольевич Левшунов",
+      "description": "Педагог, психолог, мастер русского рукопашного боя, инструктор ВСЕДРУГА по системе комплексного развития дружинника «СКРАДА»; автор познавательно-развивающих игр и программ для взрослых и детей «Концепция», «Звёздный десант».",
+      "url": "https://cosmatica.org/users/725",
+      "image": "https://cosmatica.org/upload/002/u218/f/3/b4135c8e.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=7c50d19421658e166e",
+      "type": "profile",
+      "sourceCharacters": 253,
+      "verified": false
+    },
+    {
+      "title": "Алексей Владимирович Любавин",
+      "description": "",
+      "url": "https://cosmatica.org/users/733",
+      "image": "https://cosmatica.org/upload/000/u35/d/6/4e470f24.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=fdd9e22e8b95af2a9d",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Сергей Васильевич Авдеев",
+      "description": "Продолжительность полета — 747 суток 14 часов 14 минут 11 секунд",
+      "url": "https://cosmatica.org/users/74",
+      "image": "https://cosmatica.org/upload/000/u26/0b/df/388eb6ad.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=16ee87a4ac284e714d",
+      "type": "profile",
+      "sourceCharacters": 5565,
+      "verified": false
+    },
+    {
+      "title": "Анжелика Михайловна Новгородова",
+      "description": "",
+      "url": "https://cosmatica.org/users/742",
+      "image": "https://cosmatica.org/upload/000/u35/5/9/aed09b35.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=d10abd8e5bef3e623d",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Новак Юрий Гафарович",
+      "description": "Директор Макеевского учреждения дополнительного образования «Станция юных техников» г.Макеевки\"",
+      "url": "https://cosmatica.org/users/757",
+      "image": "https://cosmatica.org/upload/002/u218/7/a/abb8eac7.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a3363bc72dd67f6fdf",
+      "type": "profile",
+      "sourceCharacters": 433,
+      "verified": false
+    },
+    {
+      "title": "Татьяна Степановна Гвоздюк",
+      "description": "Советник РАЕН (Российская академия естественных наук).",
+      "url": "https://cosmatica.org/users/77",
+      "image": "https://cosmatica.org/upload/000/u8/da/ec/06fba6f5.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=7b6b2b0642f1127f65",
+      "type": "profile",
+      "sourceCharacters": 203,
+      "verified": false
+    },
+    {
+      "title": "Дарья Романовна Романова",
+      "description": "Помощник Главы МОО «Русское космическое общество».",
+      "url": "https://cosmatica.org/users/8",
+      "image": "https://cosmatica.org/upload/000/u8/6/e/1527cbfc.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=528b5de37a29133e6b",
+      "type": "profile",
+      "sourceCharacters": 649,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

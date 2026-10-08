@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/221-kosmichnost.html",
+  "title": "Космичность",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "согласованность с законами Вселенной, проявленными в естественных законах живой и косной материи, законах сохранения и изменения мира явленного и не проявленного. Космичность - это",
+      "spans": [
+        {
+          "text": "согласованность с законами Вселенной, проявленными в естественных законах живой и косной материи, законах сохранения и изменения мира явленного и не проявленного. Космичность - это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мера",
+      "spans": [
+        {
+          "text": "мера"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "духовной и физической близости человека к Космосу.",
+      "spans": [
+        {
+          "text": "духовной и физической близости человека к Космосу."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "согласованность с законами Вселенной, проявленными в естественных законах живой и косной материи, законах сохранения и изменения мира явленного и не проявленного. Космичность - это мера духовной и физической близости человека к Космосу.",
+      "links": [
+        {
+          "title": "мера",
+          "url": "https://cosmatica.org/glossary/107-mera.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 248,
+    "storedTextCharacters": 234,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32423
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 236,
+  "capturedBodyCharacters": 234,
+  "sourceTextSHA256": "af084ccc9dcef348be5823be5337a515849521d3979f2b3f20daed5b1411973a",
+  "archiveSnapshotAt": "2026-10-08T10:36:26Z"
+}

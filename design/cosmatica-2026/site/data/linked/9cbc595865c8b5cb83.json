@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/215-nad-planetoi-lyudei.html",
+  "title": "Над планетой людей",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/d883e45a5d8ac9444b96ec.webp",
+      "alt": "Над планетой людей"
+    },
+    {
+      "type": "paragraph",
+      "text": "Эта книга о дважды Герое Советского Союза А. А. Леонове, космонавте, который первым из землян вышел в открытый космос, был командиром советского корабля во",
+      "spans": [
+        {
+          "text": "Эта книга о дважды Герое Советского Союза А. А. Леонове, космонавте, который первым из землян вышел в открытый космос, был командиром советского корабля во"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "время",
+      "spans": [
+        {
+          "text": "время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "первого международного космического рейса «Союза» и «Аполлона»; о трудном пути в космос, о силе духа и верности мечте. Написал ее журналист, лауреат медали С. П. Королева и диплома имени Ю. А. Гагарина.",
+      "spans": [
+        {
+          "text": "первого международного космического рейса «Союза» и «Аполлона»; о трудном пути в космос, о силе духа и верности мечте. Написал ее журналист, лауреат медали С. П. Королева и диплома имени Ю. А. Гагарина."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Ребров М.Ф",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Эта книга о дважды Герое Советского Союза А. А. Леонове, космонавте, который первым из землян вышел в открытый космос, был командиром советского корабля во время первого международного космического рейса «Союза» и «Аполлона»; о трудном пути в космос, о силе духа и верности мечте. Написал ее журналист, лауреат медали С. П. Королева и диплома имени Ю. А. Гагарина.",
+      "links": [
+        {
+          "title": "время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 6 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1553/221e1594665c532d04dfb5a9280e2c29"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/d883e45a5d8ac9444b96ec.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1553/221e1594665c532d04dfb5a9280e2c29"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 420,
+    "storedTextCharacters": 362,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39917
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 401,
+  "capturedBodyCharacters": 362,
+  "sourceTextSHA256": "22a6200ee5227534c9cef4eaf99a0bb0a7730a415b4d4984ca04d5599a337cc6",
+  "archiveSnapshotAt": "2026-10-08T08:48:04Z"
+}

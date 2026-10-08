@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/41-konstruktory-buduschego-intervyu-s-p-g-kuznecovym.html",
+  "title": "Конструкторы будущего: интервью с П.Г. Кузнецовым",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "КУЗНЕЦОВ Побиск Георгиевич окончил военно-морскую\r\nспецшколу. Просился добровольцем на фронт. Не взяли, не\r\nхватило лет. Поступил в танковое училище. Воевал в\r\nгвардейской танковой бригаде командиром взвода разведки.",
+      "spans": [
+        {
+          "text": "КУЗНЕЦОВ Побиск Георгиевич окончил военно-морскую\r\nспецшколу. Просился добровольцем на фронт. Не взяли, не\r\nхватило лет. Поступил в танковое училище. Воевал в\r\nгвардейской танковой бригаде командиром взвода разведки."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "КУЗНЕЦОВ Побиск Георгиевич окончил военно-морскую спецшколу. Просился добровольцем на фронт. Не взяли, не хватило лет. Поступил в танковое училище. Воевал в гвардейской танковой бригаде командиром взвода разведки.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 153 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/57/8cb2dbd4071c5d71365907963c5ccb74"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/57/8cb2dbd4071c5d71365907963c5ccb74"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 284,
+    "storedTextCharacters": 216,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39540
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 234,
+  "capturedBodyCharacters": 216,
+  "sourceTextSHA256": "99c1ea87e005175771e28e3f9e8c036eaa8ff09d9db4f75e11e5a83bebbece55",
+  "archiveSnapshotAt": "2026-10-08T08:49:49Z"
+}

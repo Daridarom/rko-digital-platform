@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 129,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Мечты сбываются!",
+      "description": "Космос — это все, что есть, что когда-либо было",
+      "url": "https://cosmatica.org/articles/654-mechty-sbyvayutsja.html",
+      "image": "https://cosmatica.org/upload/002/u218/6/7/mechty-sbyvayutsja-photo-big.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=23b26fd6a3e3648af5",
+      "type": "article",
+      "sourceCharacters": 4969,
+      "verified": false
+    },
+    {
+      "title": "Космические каникулы - день первый",
+      "description": "После завтрака, несмотря на то, что в лагерь ребята из ДНР приехали ночью, отдыхать не захотели многие: кого манила возможность покататься по ледяной дорожке на \"ватрушке\",",
+      "url": "https://cosmatica.org/news/654-kosmicheskie-kanikuly-den-pervyi.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/7/kosmicheskie-kanikuly-den-pervyi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=94a5bc6a307950bb75",
+      "type": "news-item",
+      "sourceCharacters": 1210,
+      "verified": false
+    },
+    {
+      "title": "Поддержка издания газеты Русского Космического Общества",
+      "description": "Русское Космическое Общество успешно развивает издание и распространение собственного печатного органа - научно-образовательной и просветительской газеты «Природа - Общество - Человек: ноосферное устойчивое развитие».",
+      "url": "https://cosmatica.org/articles/653-podderzhka-izdanija-gazety-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/5/a3rc0zblsny.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=9ea130178fcb7794bf",
+      "type": "article",
+      "sourceCharacters": 3255,
+      "verified": false
+    },
+    {
+      "title": "Долгожданные \"Космические каникулы\" начались!",
+      "description": "В программе мероприятий - хоккейный матч и встреча со спортсменами, экскурсии на ВДНХ, в павильон Космос и встреча с космонавтом Лазуткиным Александром Ивановичем, новогодняя ёлка в Байк-Центре, экскурсии на аэрокосмические предприятия ГК \"Роскосмос\" - РКК Энергия, ЦНИИМАШ и НПО им. Лавочкин, встреча с лекторами Русского Космического Общества и ещё множество интересных событий.",
+      "url": "https://cosmatica.org/news/653-dolgozhdannye-kosmicheskie-kanikuly-nachalis.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/2/dolgozhdannye-kosmicheskie-kanikuly-nachalis-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e7e67174c3ed9be7c9",
+      "type": "news-item",
+      "sourceCharacters": 1419,
+      "verified": false
+    },
+    {
+      "title": "Наука устойчивого развития и энергоэкология: система оценки последствий катастроф (часть 2)",
+      "description": "Перевод ущерба от катастроф различного генезиса в единицы мощности.",
+      "url": "https://cosmatica.org/articles/652-nauka-ustoichivogo-razvitija-i-energoekologija-sistema-ocenki-posledstvii-katastrof-chast-2.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/1/1-f.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=2dbfa040a981bc6d0f",
+      "type": "article",
+      "sourceCharacters": 24902,
+      "verified": false
+    },
+    {
+      "title": "Открыто Кузбасское отделение Русского Космического Общества",
+      "description": "Ярким финальным аккордом уходящего года стало открытие отделения РКО в Кемеровской области.",
+      "url": "https://cosmatica.org/news/652-otkryto-kuzbasskoe-otdelenie-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/d/otkryto-kuzbasskoe-otdelenie-russkogo-kosmicheskogo-obschestva-phot.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=9a11286e419d779232",
+      "type": "news-item",
+      "sourceCharacters": 8006,
+      "verified": false
+    },
+    {
+      "title": "Солдат в бою Россию не сдавал!",
+      "description": "Данная подборка является своеобразным анонсом к будущему совместному сборнику трех поэтов \"Это счастье, с Небом породниться!\" готовящегося в настоящий момент к изданию при поддержке Русского Космического Общества и журнала «Наука и Религия».",
+      "url": "https://cosmatica.org/articles/651-soldat-v-boyu-rossiyu-ne-sdaval.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/2/2july.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=f61c39a330b9871773",
+      "type": "article",
+      "sourceCharacters": 8828,
+      "verified": false
+    },
+    {
+      "title": "Мы - дети Космоса",
+      "description": "Председатель Челябинского отделения РКО встретился со школьниками Новосибирска.",
+      "url": "https://cosmatica.org/news/651-my-deti-kosmosa.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/2/917fbeb3.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a3093b8957e91a20bc",
+      "type": "news-item",
+      "sourceCharacters": 2367,
+      "verified": false
+    },
+    {
+      "title": "78-летие Первого Президента РКО",
+      "description": "Борис Евгеньевич - Первый Президент Русского Космического Общества, ученый всероссийского и международного масштаба, физик, математик, экономист, геофизик, доктор технических наук, профессор, глава Международной научной школы устойчивого развития им. П.Г. Кузнецова.",
+      "url": "https://cosmatica.org/articles/650-78-letie-pervogo-prezidenta-rko.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/a/bolshakov1.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=47a9ccf8f436529c8e",
+      "type": "article",
+      "sourceCharacters": 1609,
+      "verified": false
+    },
+    {
+      "title": "Новогоднее обращение Главы Русского Космического Общества",
+      "description": "Здравствуйте, дорогие товарищи, соратники и единомышленники. Здравствуйте, родные наши соотечественники и соотечественницы!",
+      "url": "https://cosmatica.org/news/650-novogodnee-obraschenie-glavy-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/e/a9ae5cd0.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6cca4ef54adbe9b4e4",
+      "type": "news-item",
+      "sourceCharacters": 7897,
+      "verified": false
+    },
+    {
+      "title": "\"Тропа Мужества: Лето 2019\"",
+      "description": "В районе села Ворсино Боровского района на границе Московской и Калужской областей прошли традиционные соревнования по преодолению дистанций по пересечённой местности. Традиционно в числе организаторов этого мероприятия - Русское Космическое Общество.",
+      "url": "https://cosmatica.org/articles/649-tropa-muzhestva-leto-2019.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/d/tropa-2.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=05d9cc955de21bd9c5",
+      "type": "article",
+      "sourceCharacters": 3872,
+      "verified": false
+    },
+    {
+      "title": "Финальный \"Рокот\" прозвучал, с успехом завершив этот год",
+      "description": "Стартовавшая сегодня с космодрома Плесецк ракета-носитель \"Рокот\" успешно вывела на орбиту космические аппараты связи \"ГонецМ\".",
+      "url": "https://cosmatica.org/news/649-finalnyi-rokot-prozvuchal-s-uspehom-zavershiv-etot-god.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/1/rokot-progremel-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fe3fa6736bc93ff257",
+      "type": "news-item",
+      "sourceCharacters": 1402,
+      "verified": false
+    },
+    {
+      "title": "Жизнь и полёт Ю.А.Гагарина в советской и современной литературе",
+      "description": "III место в рамках гуманитарного направления в",
+      "url": "https://cosmatica.org/articles/648-zhizn-i-polyot-yu-a-gagarina-v-sovetskoi-i-sovremennoi-literature.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=27513c8821decd4a62",
+      "type": "article",
+      "sourceCharacters": 27078,
+      "verified": false
+    },
+    {
+      "title": "Когда приходят чудеса",
+      "description": "Новый год – яркий, загадочный, неповторимый, шумный, удивительный праздник. Праздник сказочных чудес и волшебства, с подарками, сюрпризами и исполнениями желаний.",
+      "url": "https://cosmatica.org/news/648-kogda-prihodjat-chudesa.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/4/kogda-prihodjat-chudesa-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=65bd3142a3be01838b",
+      "type": "news-item",
+      "sourceCharacters": 1814,
+      "verified": false
+    },
+    {
+      "title": "История развития отечественной космической программы",
+      "description": "в категории «учащиеся 9-11 классов общеобразовательных",
+      "url": "https://cosmatica.org/articles/647-istorija-razvitija-otechestvennoi-kosmicheskoi-programmy.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=f65c0bb74fab211002",
+      "type": "article",
+      "sourceCharacters": 43194,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

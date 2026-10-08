@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 258,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Пространство",
+      "description": "многомерная протяженность, обладающая проника­ющей способностью во",
+      "url": "https://cosmatica.org/glossary/64-prostranstvo.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=33a56a1834e806f95e",
+      "type": "article",
+      "sourceCharacters": 74,
+      "verified": false
+    },
+    {
+      "title": "Научно-образовательная газета «Природа – Общество – Человек: ноосферное Устойчивое Развитие»",
+      "description": "Мы также преследуем цель удовлетворения потребности интеллектуальной части наших соотечественников в актуальной информации относительно науки ноосферного устойчивого развития. Считаем крайне важным донести до молодёжи научные идеи, опираясь на которые можно без преувеличения стать генеральными конструкторами будущего и инженерами истории!",
+      "url": "https://cosmatica.org/news/64-odnim-iz-proektov-russkogo-kosmicheskogo-obschestva-javljaetsja-nauchno-obrazovatelnaja-gazeta-pr.html",
+      "image": "https://cosmatica.org/upload/000/u1/86/d8/odnim-iz-proektov-russkogo-kosmicheskogo-obschestva-javljaetsja-nauchno.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=42462e521b76495e83",
+      "type": "news-item",
+      "sourceCharacters": 1618,
+      "verified": false
+    },
+    {
+      "title": "Выпуск № 17. 2019, январь",
+      "description": "В Ваших руках первый выпуск газеты Русского Космического Общества в 2019 году. Он открывает новый этап свершений, достижений и побед.",
+      "url": "https://cosmatica.org/newspaper/64-vypusk-17-2019-janvar.html",
+      "image": "https://cosmatica.org/upload/000/u8/7d/2b/bezymjannyi.png",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=7e480b75cd2fe8e9a1",
+      "type": "article",
+      "sourceCharacters": 4320,
+      "verified": false
+    },
+    {
+      "title": "Встреча-конференция \"\"Энергия-Буран\" 30 лет спустя.\" #Встреча-конференция «\"Энергия-Буран\" 30 лет спустя»",
+      "description": "Исторический старт МТКС «Энергия-Буран» состоялся 15 ноября 1988 года.",
+      "url": "https://cosmatica.org/poster/64-vstrecha-konferencija-energija-buran-30-let-spustja.html",
+      "image": "https://cosmatica.org/upload/000/u26/a3/f5/vstrecha-konferencija-energija-buran-30-let-spustja-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=45e5d5218f9bbe894d",
+      "type": "poster-item",
+      "sourceCharacters": 3920,
+      "verified": false
+    },
+    {
+      "title": "Проблема",
+      "description": "это разница между необходимым и фактическим (текущим) состоянием системы.",
+      "url": "https://cosmatica.org/glossary/63-problema.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=b971968298b1600966",
+      "type": "article",
+      "sourceCharacters": 73,
+      "verified": false
+    },
+    {
+      "title": "Крон Г. - Тензорный анализ сетей часть 2",
+      "description": "",
+      "url": "https://cosmatica.org/library/63-kron-g-tenzornyi-analiz-setei-chast-2.html",
+      "image": "https://cosmatica.org/upload/000/u1/27/c7/kron-g-tenzornyi-analiz-setei-chast-2-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=419f50ee6d8c7655db",
+      "type": "book",
+      "sourceCharacters": 19,
+      "verified": false
+    },
+    {
+      "title": "Русское Космическое Общество укрепило позиции в Санкт-Петербурге",
+      "description": "Предлагаем вашему вниманию отчётный видеосюжет с прошедшего 2 февраля 2018 года общего (учредительного) собрания Санкт-Петербургского отделения РКО.",
+      "url": "https://cosmatica.org/news/63-russkoe-kosmicheskoe-obschestvo-ukrepilo-pozicii-v-sankt-peterburge.html",
+      "image": "https://cosmatica.org/upload/000/u21/76/d3/russkoe-kosmicheskoe-obschestvo-ukrepilo-pozicii-v-sankt-peterburge.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=70e05426655d44ba75",
+      "type": "news-item",
+      "sourceCharacters": 165,
+      "verified": false
+    },
+    {
+      "title": "Выпуск № 16. 2018, декабрь",
+      "description": "В преддверии Нового года принято вспоминать о событиях года минувшего, подводить итоги, строить планы.",
+      "url": "https://cosmatica.org/newspaper/63-vypusk-16-2018-dekabr.html",
+      "image": "https://cosmatica.org/upload/000/u26/e9/5f/bezymjannyi.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=d336189a28a7a27a69",
+      "type": "article",
+      "sourceCharacters": 7544,
+      "verified": false
+    },
+    {
+      "title": "Прощание с Большаковым Борисом Евгеньевичем",
+      "description": "Прощание с Большаковым Борисом Евгеньевичем пройдёт 20.11.2018 г. в 12:00 в Ритуальном зале Центральной клинической больницы.",
+      "url": "https://cosmatica.org/poster/63-proschanie-s-bolshakovym-borisom-evgenevichem.html",
+      "image": "https://cosmatica.org/upload/000/u26/48/ea/eecb2b51.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=006804c7fb63fd50b3",
+      "type": "poster-item",
+      "sourceCharacters": 314,
+      "verified": false
+    },
+    {
+      "title": "Воздухоплавательные и авиационные отряды русских крепостей в Первой мировой войне",
+      "description": "В начале ХХ в. в структуру российской армии входило 12 военных округов (Петербургский, Московский, Финляндский, Виленский, Варшавский, Киевский, Одесский, Казанский, Кавказский, Туркестанский, Сибирский и Приамурский). Самостоятельным воинским формированием являлось Донское казачье войско.",
+      "url": "https://cosmatica.org/articles/62-vozduhoplavatelnye-i-aviacionnye-otrjady-russkih-krepostei-v-pervoi-mirovoi-voine.html",
+      "image": "https://cosmatica.org/upload/000/u22/34/a1/viao1.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=3d4e385ce6c80e4c8c",
+      "type": "article",
+      "sourceCharacters": 14040,
+      "verified": false
+    },
+    {
+      "title": "Работа",
+      "description": "деятельность, мерой которой является произведение рабочего времени на полную",
+      "url": "https://cosmatica.org/glossary/62-rabota.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=9c6c978b1242053883",
+      "type": "article",
+      "sourceCharacters": 104,
+      "verified": false
+    },
+    {
+      "title": "Крон Г. - Тензорный анализ сетей часть 1",
+      "description": "Книга представляет собой классически труд, в которой заложен фундамент системотехники, автоматизации проектирования, кибернетик и др. Термин «",
+      "url": "https://cosmatica.org/library/62-kron-g-tenzornyi-analiz-setei-chast-1.html",
+      "image": "https://cosmatica.org/upload/000/u1/c1/8a/kron-g-tenzornyi-analiz-setei-chast-1-photo-normal.png",
+      "kind": "book",
+      "href": "view.html?p=book&ref=fdf99d06a6d2ec9edb",
+      "type": "book",
+      "sourceCharacters": 607,
+      "verified": false
+    },
+    {
+      "title": "Выпуск № 15. 2018, ноябрь",
+      "description": "17 ноября 2018 года покинул этот мир Большаков Борис Евгеньевич.",
+      "url": "https://cosmatica.org/newspaper/62-vypusk-15-2018-nojabr.html",
+      "image": "https://cosmatica.org/upload/000/u26/20/1e/bezymjannyi.jpg",
+      "kind": "newspaper-item",
+      "href": "view.html?p=article&ref=5e678a3849b6fb4f72",
+      "type": "article",
+      "sourceCharacters": 3978,
+      "verified": false
+    },
+    {
+      "title": "Общественные Гудилинские слушания #Сохраняя память: Генерал \"Буран\"",
+      "description": "Генерал-майор Владимир Евгеньевич Гудилин (08.04.1938 – 29.10.2015) — руководитель подготовки и пуска ракеты-носителя «Энергия», ракетно-космической транспортной системы «Энергия-Буран», доктор технических наук, почётный гражданин Байконура, академик Российской академии космонавтики им. К.Э.Циолковского. «Гудилинские общественные слушания» являются частью проекта «Генерал Буран» направленного на увековечивание памяти",
+      "url": "https://cosmatica.org/poster/62-obschestvennye-gudilinskie-slushanija.html",
+      "image": "https://cosmatica.org/upload/000/u37/01/f7/obschestvennye-gudilinskie-slushanija-photo-big.jpg",
+      "kind": "poster-item",
+      "href": "view.html?p=poster-item&ref=3862d5f0700f59931a",
+      "type": "poster-item",
+      "sourceCharacters": 2336,
+      "verified": false
+    },
+    {
+      "title": "Основы электромагнитной природы Солнечной системы",
+      "description": "Academician of the International Academy of Sciences of ecology and safety of man and nature, the scientific adviser of OOO \"Ecoprobe\", Omsk, St. Petersburg.",
+      "url": "https://cosmatica.org/articles/61-osnovy-elektromagnitnoi-prirody-solnechnoi-sistemy.html",
+      "image": "https://cosmatica.org/upload/000/u19/f8/bc/02-1.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=35732f6e521bc3160b",
+      "type": "article",
+      "sourceCharacters": 50728,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

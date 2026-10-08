@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/499-kosmicheskie-katastrofy-i-rezonansy-solnechnoi-sistemy.html",
+  "title": "«Космические катастрофы и резонансы солнечной системы»",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#\"Наука и Космос: прошлое, настоящее, будущее...\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Смирнов Сергей Сергеевич - астроном, вице-президент Астрономо-геодезического объединения России, член Научно-образовательного Совета РКО. Доклад на научной конференции «Наука и Космос: прошлое, настоящее, будущее». 8 февраля 2019 года. Санкт-Петербург",
+      "spans": [
+        {
+          "text": "Смирнов Сергей Сергеевич -  астроном, вице-президент  Астрономо-геодезического объединения России, член  Научно-образовательного Совета РКО. Доклад на научной конференции «Наука и Космос: прошлое, настоящее,  будущее». 8 февраля 2019 года. Санкт-Петербург"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "0rxgF6aAqMs",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=0rxgF6aAqMs"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Смирнов Сергей Сергеевич - астроном, вице-президент Астрономо-геодезического объединения России, член Научно-образовательного Совета РКО. Доклад на научной конференции «Наука и Космос: прошлое, настоящее, будущее». 8 февраля 2019 года. Санкт-Петербург",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 433,
+    "storedTextCharacters": 300,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 75403
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 328,
+  "capturedBodyCharacters": 300,
+  "sourceTextSHA256": "d4210de8fb77b2c401b2aa0b74c5c0d3f755e1d18347630e2d421dd738726cfd",
+  "archiveSnapshotAt": "2026-10-08T08:41:59Z",
+  "publicVideoCount": 1
+}

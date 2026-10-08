@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/196-proryvnye-idei-i-tehnologii-xxi-veka-kak-uslovie-i-stimul-integracii-stran-evraziiskogo-kontinen.html",
+  "title": "Прорывные идеи и технологии XXI века как условие и стимул интеграции стран Евразийского континента в условиях глобального кризиса",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u10/0/5/proryvnye-idei-i-tehnologii-xxi-veka-kak-uslovie-i-stimul-integr.jpg",
+      "alt": "Прорывные идеи и технологии XXI века как условие и стимул интеграции стран Евразийского континента в условиях глобального кризиса"
+    },
+    {
+      "type": "paragraph",
+      "text": "В докладе рассматриваются следующие вопросы:\r\n· Зачем Человечеству нужны прорывные технологии;\r\n· Что такое прорывные технологии и проекты;\r\n·",
+      "spans": [
+        {
+          "text": "В докладе рассматриваются следующие вопросы:\r\n· Зачем Человечеству нужны прорывные технологии;\r\n· Что такое прорывные технологии и проекты;\r\n·"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Система",
+      "spans": [
+        {
+          "text": "Система"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "общих законов природы",
+      "spans": [
+        {
+          "text": "общих законов природы"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "(",
+      "spans": [
+        {
+          "text": "("
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "LT",
+      "spans": [
+        {
+          "text": "LT"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "-система);\r\n· Что дает LT-система: универсальные принципы;\r\n· Проекция универсальных принципов для интеграции стран и\r\nпрогнозные оценки;\r\n· Прорывные технологии (примеры);\r\n· Конечные прорывные технологии – классификатор;\r\n· Выводы и рекомендации",
+      "spans": [
+        {
+          "text": "-система);\r\n· Что дает LT-система: универсальные принципы;\r\n· Проекция универсальных принципов для интеграции стран и\r\nпрогнозные оценки;\r\n· Прорывные технологии (примеры);\r\n· Конечные прорывные технологии – классификатор;\r\n· Выводы и рекомендации"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Большаков Б.Е.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В докладе рассматриваются следующие вопросы: · Зачем Человечеству нужны прорывные технологии; · Что такое прорывные технологии и проекты; · Система общих законов природы ( LT -система); · Что дает LT-система: универсальные принципы; · Проекция универсальных принципов для интеграции стран и прогнозные оценки; · Прорывные технологии (примеры); · Конечные прорывные технологии – классификатор; · Выводы и рекомендации",
+      "links": [
+        {
+          "title": "Система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        },
+        {
+          "title": "общих законов природы",
+          "url": "https://cosmatica.org/glossary/89-obschii-zakon-prirody.html"
+        },
+        {
+          "title": "LT",
+          "url": "https://cosmatica.org/glossary/30-universalnyi-prostranstvenno-vremennoi-jazyk-lt-jazyk.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 1 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1464/5d65526d620db7d2d71ae79465acff4d"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u10/0/5/proryvnye-idei-i-tehnologii-xxi-veka-kak-uslovie-i-stimul-integr.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1464/5d65526d620db7d2d71ae79465acff4d"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 587,
+    "storedTextCharacters": 420,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 41769
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 457,
+  "capturedBodyCharacters": 420,
+  "sourceTextSHA256": "1d054921f1444ee2bb292cd61039e00c88df605acd7526004bddca24ca71aa9b",
+  "archiveSnapshotAt": "2026-10-08T08:47:57Z"
+}

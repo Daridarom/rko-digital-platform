@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/188-zhizneslovija.html",
+  "title": "Жизнесловия",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "наука, изучающая процессы воспроизводства, восполнения, возрождения и развития народа. Коротко – Жизнесловия – наука о Жизнеродности.",
+      "spans": [
+        {
+          "text": "наука, изучающая процессы воспроизводства, восполнения, возрождения и развития народа. Коротко – Жизнесловия – наука о Жизнеродности."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "наука, изучающая процессы воспроизводства, восполнения, возрождения и развития народа. Коротко – Жизнесловия – наука о Жизнеродности.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 145,
+    "storedTextCharacters": 133,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32015
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 133,
+  "capturedBodyCharacters": 133,
+  "sourceTextSHA256": "74a886b3bd28e9505bd581f8207c91da31acd0bd6ad7e686248d554e5d63c4c6",
+  "archiveSnapshotAt": "2026-10-08T10:39:58Z"
+}

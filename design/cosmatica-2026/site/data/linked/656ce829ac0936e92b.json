@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/304",
+  "title": "Тамара Дмитриевна Филатова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/7/5/c1e64be2.jpg",
+      "alt": "Тамара Дмитриевна Филатова"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/3/a/67af4102.jpg",
+      "alt": "Тамара Дмитриевна Филатова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Научный сотрудник мемориального отдела СОГБУК «Музей Ю.А. Гагарина», г. Гагарин",
+      "spans": [
+        {
+          "text": "Научный сотрудник мемориального отдела СОГБУК «Музей Ю.А. Гагарина», г. Гагарин"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Племянница Юрия Алексеевича Гагарина",
+      "spans": [
+        {
+          "text": "Племянница Юрия Алексеевича Гагарина"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Научный сотрудник мемориального отдела СОГБУК «Музей Ю.А. Гагарина», г. Гагарин Племянница Юрия Алексеевича Гагарина",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/7/5/c1e64be2.jpg",
+    "https://cosmatica.org/upload/000/u7/3/a/67af4102.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 178,
+    "storedTextCharacters": 148,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34551
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 126,
+  "capturedBodyCharacters": 148,
+  "sourceTextSHA256": "fff007bfb5d1078f4b9300ad91c9ef651be34d8232263813d3437ed7b2afeb23",
+  "archiveSnapshotAt": "2026-10-08T09:19:05Z"
+}

@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 2,
+  "slug": "project",
+  "sourceUrl": "https://cosmatica.org/projects/astrotur-po-arctike",
+  "title": "Новогодний астротур по Балтике",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/ac/74/novogodnii-astrotur-po-baltike-logo-normal.jpg",
+      "alt": "Новогодний астротур по Балтике"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О проекте"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На этот раз в рамках проекта «АстроГлобус» вместе с нашим, уже знакомым многим, замечательным гидом, членом РКО и клуба СПАГО Алевтиной Валерьевной Лещенко мы совершаем путешествие по Балтике.",
+      "spans": [
+        {
+          "text": "На этот раз в рамках проекта ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "«АстроГлобус»",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fastroglobus"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "вместе с нашим, уже знакомым многим, замечательным гидом, членом РКО и клуба СПАГО ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "Алевтиной Валерьевной Лещенко ",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/users/68"
+        },
+        {
+          "text": "мы совершаем путешествие по Балтике.",
+          "marks": [
+            "bold"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "«АстроГлобус»",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fastroglobus"
+        },
+        {
+          "text": "Алевтиной Валерьевной Лещенко",
+          "url": "https://cosmatica.org/users/68"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Это было не первое путешествие по Финляндии, Швеции и Эстонии. Когда-нибудь появятся заметки о прошлых путешествиях в обсерватории Хельсинки, Стокгольма, Тарту, Тыравере... Ну а в этом новогоднем туре обнаружились новые интересные астрономические и космические достопримечательности...",
+      "spans": [
+        {
+          "text": "Это было не первое путешествие по Финляндии, Швеции и Эстонии. Когда-нибудь появятся заметки о прошлых путешествиях в обсерватории Хельсинки, Стокгольма, Тарту, Тыравере...\r\nНу а в этом новогоднем туре обнаружились новые интересные астрономические и космические достопримечательности..."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Стена проекта",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Нет записей.",
+      "spans": [
+        {
+          "text": "\n                                    Нет записей.                            "
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "На этот раз в рамках проекта «АстроГлобус» вместе с нашим, уже знакомым многим, замечательным гидом, членом РКО и клуба СПАГО Алевтиной Валерьевной Лещенко мы совершаем путешествие по Балтике. Это было не первое путешествие по Финляндии, Швеции и Эстонии. Когда-нибудь появятся заметки о прошлых путешествиях в обсерватории Хельсинки, Стокгольма, Тарту, Тыравере... Ну а в этом новогоднем туре обнаружились новые интересные астрономические и космические достопримечательности...",
+      "links": [
+        {
+          "title": "«АстроГлобус»",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fastroglobus"
+        },
+        {
+          "title": "Алевтиной Валерьевной Лещенко",
+          "url": "https://cosmatica.org/users/68"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Направление:",
+      "value": "Образование",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Статус:",
+      "value": "Завершенный",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u21/ac/74/novogodnii-astrotur-po-baltike-logo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 603,
+    "storedTextCharacters": 511,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 3,
+    "sourceBytes": 38149
+  },
+  "textFallbackRequired": false,
+  "originalKind": "project",
+  "sourceTextCharacters": 523,
+  "capturedBodyCharacters": 511,
+  "sourceTextSHA256": "b875bd9aba714d392bd8a6b11ed8512070801ff9f268ebff6e6bb1fa75857a8e",
+  "archiveSnapshotAt": "2026-10-08T09:16:59Z"
+}

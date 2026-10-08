@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "glossary",
+  "title": "Глоссарий",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 16,
+  "pageCount": 16,
+  "total": 236,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "М",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/m",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=0fbf6a6efe418c6c34",
+      "type": "articles-list",
+      "sourceCharacters": 168,
+      "verified": false
+    },
+    {
+      "title": "Н",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/n",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=493a888f8cf0cacf37",
+      "type": "articles-list",
+      "sourceCharacters": 309,
+      "verified": false
+    },
+    {
+      "title": "О",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/o",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=5bdd0e1241b19d7bc2",
+      "type": "articles-list",
+      "sourceCharacters": 92,
+      "verified": false
+    },
+    {
+      "title": "П",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/p",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=dfffa45c41f7660bb4",
+      "type": "articles-list",
+      "sourceCharacters": 342,
+      "verified": false
+    },
+    {
+      "title": "Р",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/r",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=7a9d8228af14691fd8",
+      "type": "articles-list",
+      "sourceCharacters": 172,
+      "verified": false
+    },
+    {
+      "title": "С",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/s",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=e147df4435e08da83f",
+      "type": "articles-list",
+      "sourceCharacters": 214,
+      "verified": false
+    },
+    {
+      "title": "Т",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/t",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=39bf198c579db66a60",
+      "type": "articles-list",
+      "sourceCharacters": 84,
+      "verified": false
+    },
+    {
+      "title": "У",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/u",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=53ee0d6f450b9967a8",
+      "type": "articles-list",
+      "sourceCharacters": 429,
+      "verified": false
+    },
+    {
+      "title": "В",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/v",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=bf09a1a87cfaec1d1b",
+      "type": "articles-list",
+      "sourceCharacters": 109,
+      "verified": false
+    },
+    {
+      "title": "З",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/z",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=4b901353ae4b50c106",
+      "type": "articles-list",
+      "sourceCharacters": 298,
+      "verified": false
+    },
+    {
+      "title": "Ж",
+      "description": "",
+      "url": "https://cosmatica.org/glossary/zh",
+      "image": null,
+      "kind": "glossary",
+      "href": "view.html?p=articles-list&ref=940ce8b15d89a29233",
+      "type": "articles-list",
+      "sourceCharacters": 84,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

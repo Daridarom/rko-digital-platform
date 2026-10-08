@@ -359,6 +359,13 @@
       "items": [
         "Комментарии"
       ]
+    },
+    {
+      "type": "video",
+      "platform": "vkvideo",
+      "embedUrl": "https://vkvideo.ru/video_ext.php?oid=-146842769&id=456241060&hash=c8594422f828732a",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vkvideo.ru/video_ext.php?oid=-146842769&id=456241060&hash=c8594422f828732a"
     }
   ],
   "cards": [],
@@ -423,5 +430,6 @@
     "sourceImageCount": 1,
     "paragraphCount": 19,
     "sourceBytes": 53180
-  }
+  },
+  "publicVideoCount": 1
 }

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 301,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Российская ноосферная школа РКО",
+      "description": "Проект создания природосообразной школы космоноосферного технологического уклада на основе отечественных достижений науки",
+      "url": "https://cosmatica.org/projects/noosfernaya-shkola-rko",
+      "image": "https://cosmatica.org/upload/000/u8/39/d5/rossiiskaja-noosfernaja-shkola-rko-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=ab6e1ec0e13b84e0b4",
+      "type": "project",
+      "sourceCharacters": 19557,
+      "verified": false
+    },
+    {
+      "title": "VIII Международная научная конференция «Ноосферное образование в евразийском пространстве»",
+      "description": "6 — 7 декабря 2018 года состоится VIII Международная научная конференция «Ноосферное образование в евразийском пространстве»",
+      "url": "https://cosmatica.org/projects/noosfernoe-obrazovanie-v-evrazii",
+      "image": "https://cosmatica.org/upload/000/u21/8c/7c/viii-mezhdunarodnaja-nauchnaja-konferencija-noosfernoe-obrazovanie-v.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=2d6be14b100d1bc1df",
+      "type": "project",
+      "sourceCharacters": 4065,
+      "verified": false
+    },
+    {
+      "title": "Образовательные школы с космическим уклоном",
+      "description": "Физико-техническая школа с космическим и православным уклоном — лето 2016 Инженерный практикум в ходе аэрокосмической школы МФТИ — осень 2016 Инженерно-космическая смена в православном лагере «Богослово» — лето 2017",
+      "url": "https://cosmatica.org/projects/obrazovatelnie-shkoli-s-cosmicheskim-uklonom",
+      "image": "https://cosmatica.org/upload/000/u1/25/d6/obrazovatelnye-shkoly-s-kosmicheskim-uklonom-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=d23c802ca5a7cc4968",
+      "type": "project",
+      "sourceCharacters": 260,
+      "verified": false
+    },
+    {
+      "title": "Комитет празднования 90-летия Ю.А. Гагарина",
+      "description": "1.1. Стороны признают, что их научный, учебно-методический и материально-технический потенциал позволяет им путем объединения усилий установить долгосрочное и взаимовыгодное сотрудничество путем организации совместной деятельности по направлению создания Общественно-Государственного комитета подготовки к празднованию 90-летия Ю.А. Гагарина (Гагаринский комитет).",
+      "url": "https://cosmatica.org/projects/ogkp90uag",
+      "image": "https://cosmatica.org/upload/000/u35/b/b/komitet-prazdnovanija-90-letija-yu-a-gagarina-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=de08d10cde4d759c52",
+      "type": "project",
+      "sourceCharacters": 3679,
+      "verified": false
+    },
+    {
+      "title": "Первые \"Гагаринские сборы\" на планете Земля",
+      "description": "Первые «Гагаринские сборы» на планете Земля состоятся в период с 25 по 27 июня 2019 года на базе Мемориального комплекса Ю. А. Гагарина , в городе Гагарин, Смоленской области",
+      "url": "https://cosmatica.org/projects/pervie-gagarinskie-sbory",
+      "image": "https://cosmatica.org/upload/000/u35/0/c/pervye-gagarinskie-sbory-na-planete-zemlja-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e326e0693d6537ff45",
+      "type": "project",
+      "sourceCharacters": 4186,
+      "verified": false
+    },
+    {
+      "title": "Платформа Инновационного Развития (ПИР)",
+      "description": "« Общество, способное использовать идеи, появляющиеся в сознании отдельного индивидуума, для роста возможностей общества в целом и использующее рост возможностей общества как целого для формирования индивидуума, способного генерировать новые идеи, — будет обладать наиболее быстрым темпом роста возможностей ».",
+      "url": "https://cosmatica.org/projects/pir",
+      "image": "https://cosmatica.org/upload/000/u35/5/1/platforma-innovacionnogo-razvitija-pir-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e7b3f8209d78dcbdd8",
+      "type": "project",
+      "sourceCharacters": 14337,
+      "verified": false
+    },
+    {
+      "title": "Побисковские чтения",
+      "description": "Международные научно-философские чтения имени Побиска Георгиевича Кузнецова.",
+      "url": "https://cosmatica.org/projects/pobisk",
+      "image": "https://cosmatica.org/upload/000/u26/0a/0d/pobiskovskie-chtenija-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=bc4660f33807065ada",
+      "type": "project",
+      "sourceCharacters": 3027,
+      "verified": false
+    },
+    {
+      "title": "Побисковские чтения - 2019",
+      "description": "Международные научно-философские чтения имени Побиска Георгиевича Кузнецова.",
+      "url": "https://cosmatica.org/projects/pobiskovskie-chteniya-2019",
+      "image": "https://cosmatica.org/upload/000/u35/f/8/pobiskovskie-chtenija-2019-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=0813129289b87614de",
+      "type": "project",
+      "sourceCharacters": 4105,
+      "verified": false
+    },
+    {
+      "title": "Сохраним жизнь воде",
+      "description": "Благотворительный фонд помощи охране окружающей среды и водных ресурсов «Сохраним жизнь воде»",
+      "url": "https://cosmatica.org/projects/podari-zhizn-vode",
+      "image": "https://cosmatica.org/upload/000/u35/b/c/podari-zhizn-vode-logo-normal.jpeg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=2de00d75712b7f2660",
+      "type": "project",
+      "sourceCharacters": 5099,
+      "verified": false
+    },
+    {
+      "title": "#построй_мечталёт",
+      "description": "При поддержке Русского Космического Общества (РКО) объявлен конкурс разработки космической техники.",
+      "url": "https://cosmatica.org/projects/postroi",
+      "image": "https://cosmatica.org/upload/000/u26/11/42/postroi-mechtalyot-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=a8faa8b2560c663c5f",
+      "type": "project",
+      "sourceCharacters": 2840,
+      "verified": false
+    },
+    {
+      "title": "Право руля: \"Рожденные летать\"",
+      "description": "Проведение в Санкт-Петербурге в сентябре 2018 года третьего Всероссийского молодежного Форсайт-Фестиваля «Право руля!», рассчитанного на 5-6 тысяч участников и направленного на повышение их интереса к сфере транспорта и инноваций во всех аспектах:",
+      "url": "https://cosmatica.org/projects/pravorulja",
+      "image": "https://cosmatica.org/upload/000/u21/f2/64/pravo-rulja-rozhdennye-letat-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e539cd60165d11de2e",
+      "type": "project",
+      "sourceCharacters": 10980,
+      "verified": false
+    },
+    {
+      "title": "Всероссийская премия детского литературного творчества им. С.А. Есенина «Песенное слово»",
+      "description": "Русское Космическое Общество поддержало инициативу Фонда сохранения культурного наследия «Русский Витязь» в проведении всероссийской премии детского литературного творчества им. С.А. Есенина «Песенное слово».",
+      "url": "https://cosmatica.org/projects/premiya-esenina",
+      "image": "https://cosmatica.org/upload/000/u26/13/ab/vserossiiskaja-premija-detskogo-literaturnogo-tvorchestva-im-s-a.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=9bd39968e415d97cad",
+      "type": "project",
+      "sourceCharacters": 1294,
+      "verified": false
+    },
+    {
+      "title": "Научно-образовательная и просветительская газета \"Природа-Общество-Человек: ноосферное устойчивое развитие\"",
+      "description": "«Природа – Общество – Человек: ноосферное Устойчивое Развитие» – научно-образовательная газета Русского Космического Общества.",
+      "url": "https://cosmatica.org/projects/priroda-obchestvo-chelovek",
+      "image": "https://cosmatica.org/upload/000/u26/e4/f7/nauchno-obrazovatelnaja-i-prosvetitelskaja-gazeta-priroda-obschest.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=4911185bbd7a8422dd",
+      "type": "project",
+      "sourceCharacters": 1993,
+      "verified": false
+    },
+    {
+      "title": "Кинуроки в школах мира: Призвание",
+      "description": "Мы начали сбор средств на фильм от Донецкой Народной Республики «Призвание».",
+      "url": "https://cosmatica.org/projects/prizvanie",
+      "image": "https://cosmatica.org/upload/000/u35/4/b/kinuroki-v-shkolah-mira-prizvanie-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=97d282688013730628",
+      "type": "project",
+      "sourceCharacters": 16623,
+      "verified": false
+    },
+    {
+      "title": "Профилактика.онлайн",
+      "description": "Русское Космическое Общество выступает соорганизатором портала ПРОФИЛАКТИКА.ОНЛАЙН — информационно-методического ресурса в формате единой электронной библиотеки, содержащей востребованные материалы по профилактике курения, потребления алкоголя и наркотиков, иных химических и нехимических зависимостей, формированию трезвого здорового образа жизни.",
+      "url": "https://cosmatica.org/projects/profilaktika",
+      "image": "https://cosmatica.org/upload/000/u73/3f/78/profilaktika-onlain-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=5c74e855440e5310ae",
+      "type": "project",
+      "sourceCharacters": 1262,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/186-nekotorye-sootnoshenija-mezhdu-fizicheskimi-konstantami.html",
+  "title": "Некоторые соотношения между физическими константами",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/20ff84d9f4cab5739feb7b.webp",
+      "alt": "Некоторые соотношения между физическими константами"
+    },
+    {
+      "type": "paragraph",
+      "text": "В данном докладе Академии наук СССР, рассматриваются некоторые соотношения между физическими константами и отожествление всех метрических свойств тотального и уникального экземпляра со свойствами наблюдаемого Мира. Тематика из раздела физики. Автором идей выступает Роберт Орос ди Бартини.",
+      "spans": [
+        {
+          "text": "В данном докладе Академии наук СССР, рассматриваются некоторые соотношения между физическими константами и отожествление всех метрических свойств тотального и уникального экземпляра со свойствами наблюдаемого Мира. Тематика из раздела физики. Автором идей выступает Роберт Орос ди Бартини."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Бартини Р.Л.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В данном докладе Академии наук СССР, рассматриваются некоторые соотношения между физическими константами и отожествление всех метрических свойств тотального и уникального экземпляра со свойствами наблюдаемого Мира. Тематика из раздела физики. Автором идей выступает Роберт Орос ди Бартини.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 1 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1454/63b4f14629bca0c8e021b47927b875f7"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/20ff84d9f4cab5739feb7b.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1454/63b4f14629bca0c8e021b47927b875f7"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 380,
+    "storedTextCharacters": 289,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40587
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 328,
+  "capturedBodyCharacters": 289,
+  "sourceTextSHA256": "a86ee74636cd66c2df85b6f9f1dd2d83ff1944a7a41a472032c30341038803a9",
+  "archiveSnapshotAt": "2026-10-08T08:47:54Z"
+}

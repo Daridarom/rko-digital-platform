@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/112-materializovannaja-forma-znanija.html",
+  "title": "Материализованная форма знания",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Материализованной формой знания, дающего умение делать, является",
+      "spans": [
+        {
+          "text": "Материализованной формой знания, дающего умение делать, является"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "технология",
+      "spans": [
+        {
+          "text": "технология"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "как механизм преобразования элементов системы по опре­деленным правилам.",
+      "spans": [
+        {
+          "text": "как механизм преобразования элементов системы по опре­деленным правилам."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Материализованной формой знания, дающего умение делать, является технология как механизм преобразования элементов системы по опре­деленным правилам.",
+      "links": [
+        {
+          "title": "технология",
+          "url": "https://cosmatica.org/glossary/34-tehnologija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 179,
+    "storedTextCharacters": 146,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32240
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 148,
+  "capturedBodyCharacters": 146,
+  "sourceTextSHA256": "568f4e9e1c821e07e0d7dd2a0489e4770be2bb19d2068d6e7e4943ca05d7aa44",
+  "archiveSnapshotAt": "2026-10-08T08:46:23Z"
+}

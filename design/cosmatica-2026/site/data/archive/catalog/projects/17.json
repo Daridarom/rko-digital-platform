@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "projects",
+  "title": "Проекты",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 17,
+  "pageCount": 20,
+  "total": 290,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Сохраняя память: Кованько А.М.",
+      "description": "– первому в мире генерал-лейтенанту в области воздухоплавания,",
+      "url": "https://cosmatica.org/projects/sohranyaya-pamyat-kovanko",
+      "image": "https://cosmatica.org/upload/000/u21/a5/12/sohranjaja-pamjat-kovanko-a-m-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=76c146a2fdb1bd7ad3",
+      "type": "project",
+      "sourceCharacters": 10332,
+      "verified": false
+    },
+    {
+      "title": "Космос. Время читать!",
+      "description": "Русское Космическое Общество объявляет Всероссийскую акцию «Космос. Время читать!» , старт которой намечен на 1 сентября 2018 года — в День Знаний.",
+      "url": "https://cosmatica.org/projects/vremya-chitat",
+      "image": "https://cosmatica.org/upload/000/u21/d0/3b/kosmos-vremja-chitat-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=ad16e7135b4ad2aa34",
+      "type": "project",
+      "sourceCharacters": 3098,
+      "verified": false
+    },
+    {
+      "title": "Космический атлас России",
+      "description": "Прорыв в космос, совершённый нашей страной, стал возможен благодаря самоотверженному труду миллионов наших соотечественников.",
+      "url": "https://cosmatica.org/projects/cosmic-atlas",
+      "image": "https://cosmatica.org/upload/000/u26/a5/7d/kosmicheskii-atlas-rossii-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=02ca0c7a9b7d50284b",
+      "type": "project",
+      "sourceCharacters": 1645,
+      "verified": false
+    },
+    {
+      "title": "Библиотека Русского Космического Общества",
+      "description": "Наши предки накопили огромный опыт Жизни и аккумулировали свои знания в книгах. Эти знания позволили им покорить водную и небесные стихии, вырваться в космическое пространство. И всё это благодаря к стремлению к знаниям, которые нашли своё отражение в книгах.",
+      "url": "https://cosmatica.org/projects/biblioteka",
+      "image": "https://cosmatica.org/upload/000/u26/d3/3c/bibliotek-russkogo-kosmizma-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e61a4a9315f9248906",
+      "type": "project",
+      "sourceCharacters": 550,
+      "verified": false
+    },
+    {
+      "title": "Монография: \"Синтез междисциплинарных знаний и устойчивое развитие в системе Пространство – Время\"",
+      "description": "Монография является вторым, дополненным и переработанным изданием авторов (первое издание было опубликовано в 2001 году). В работе рассмотрены различные аспекты интеграции естественных и гуманитарных наук: философские, математические, физические, химические, биологические, экологические, экономические, финансовые, правовые, политические.",
+      "url": "https://cosmatica.org/projects/sintez-mezhdisciplinarnih-znaniy",
+      "image": "https://cosmatica.org/upload/000/u26/b4/e3/monografija-sintez-mezhdisciplinarnyh-znanii-i-ustoichivoe-razvit.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=2753db24b6759a6dee",
+      "type": "project",
+      "sourceCharacters": 1393,
+      "verified": false
+    },
+    {
+      "title": "Журналист будущего - 2018",
+      "description": "Русское Космическое Общество – это собрание людей, объединившихся в особый период развития человеческой цивилизации вокруг общей ЦЕЛИ – сохранения и развития жизни как космопланетарного явления, а также содействия переходу цивилизации на путь её космической истории. Для осмысления и правильного применения законов эволюции жизни на Земле и в Космосе. Для распространения научного и философского наследия школы Русского ",
+      "url": "https://cosmatica.org/projects/zhurnalist",
+      "image": "https://cosmatica.org/upload/000/u8/7b/f7/zhurnalist-buduschego-2018-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=4bccf57a5b43ded12e",
+      "type": "project",
+      "sourceCharacters": 7198,
+      "verified": false
+    },
+    {
+      "title": "Мониторинг будущего в пространстве Козырева",
+      "description": "Этот авангардный проект Международного научно-исследовательского института космопланетарной антропоэкологии имени академика В.П.Казначеева (МНИИКА) и Русского Космического Общества (РКО), при участии Сonferenceseries ltd (Великобритания), Applied phys tech research laboratory(США) и МНИЦ Н.Тесла (Сербия).",
+      "url": "https://cosmatica.org/projects/monitoringbuduschego",
+      "image": "https://cosmatica.org/upload/000/u30/a3/b5/monitoring-buduschego-v-prostranstve-kozyreva-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=3d008edbbd4de91644",
+      "type": "project",
+      "sourceCharacters": 3220,
+      "verified": false
+    },
+    {
+      "title": "#построй_мечталёт",
+      "description": "При поддержке Русского Космического Общества (РКО) объявлен конкурс разработки космической техники.",
+      "url": "https://cosmatica.org/projects/postroi",
+      "image": "https://cosmatica.org/upload/000/u26/11/42/postroi-mechtalyot-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=a8faa8b2560c663c5f",
+      "type": "project",
+      "sourceCharacters": 2840,
+      "verified": false
+    },
+    {
+      "title": "Клуб \"Эврика\". Жемчуг исканий.",
+      "description": "В природе действуют единые законы, которые по-разному проявляются на всех уровнях существования жизни, и ребёнок, проявляя их через свою деятельность, способен увидеть и почувствовать всю красоту и совершенство построения мира, а себя осознать носителем закона Созвучия и Единства всего живого на планете Земля.",
+      "url": "https://cosmatica.org/projects/zhemchugiskaniy",
+      "image": "https://cosmatica.org/upload/000/u43/c9/03/klub-evrika-zhemchug-iskanii-logo-normal.png",
+      "kind": "project",
+      "href": "view.html?p=project&ref=536dbfa547b09607af",
+      "type": "project",
+      "sourceCharacters": 3784,
+      "verified": false
+    },
+    {
+      "title": "Право руля: \"Рожденные летать\"",
+      "description": "Проведение в Санкт-Петербурге в сентябре 2018 года третьего Всероссийского молодежного Форсайт-Фестиваля «Право руля!», рассчитанного на 5-6 тысяч участников и направленного на повышение их интереса к сфере транспорта и инноваций во всех аспектах:",
+      "url": "https://cosmatica.org/projects/pravorulja",
+      "image": "https://cosmatica.org/upload/000/u21/f2/64/pravo-rulja-rozhdennye-letat-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e539cd60165d11de2e",
+      "type": "project",
+      "sourceCharacters": 10980,
+      "verified": false
+    },
+    {
+      "title": "Космический шатер Звездочета на Золотом щите.",
+      "description": "22-28 июля состоится 10 ЮБИЛЕЙНЫЙ семинар по рукопашному бою, Казачьему Спасу и военно-прикладной подготовке «ЗОЛОТОЙ ЩИТ»",
+      "url": "https://cosmatica.org/projects/cosmocheskiy-shater-zvezdocheta",
+      "image": "https://cosmatica.org/upload/000/u26/6e/2e/b5c6a31d.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e7dca0fb866a70f6c6",
+      "type": "project",
+      "sourceCharacters": 1730,
+      "verified": false
+    },
+    {
+      "title": "Космос по-Ижевски",
+      "description": "На этот раз в рамках проекта «АстроГлобус» мы совершаем путешествие в Ижевск.",
+      "url": "https://cosmatica.org/projects/cosmos-po-izhevsky",
+      "image": "https://cosmatica.org/upload/000/u21/1c/8a/kosmos-po-izhevski-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=e5a9186c9cc37cc50c",
+      "type": "project",
+      "sourceCharacters": 481,
+      "verified": false
+    },
+    {
+      "title": "Мотоэкспедиция \"Звезды мира. От Колымы до Невы\"",
+      "description": "В рамках проекта «АстроГлобус» мы начинаем мотоэкспедицию «Звезды мира. От Колымы до Невы»",
+      "url": "https://cosmatica.org/projects/zvezdi-mira",
+      "image": "https://cosmatica.org/upload/000/u21/c2/d4/0c9afe18.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=dfdf1031be5df96a7b",
+      "type": "project",
+      "sourceCharacters": 1368,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль \"Страж в истоке невы\"",
+      "description": "14 и 15 июля в крепости Орешек в рамках фестиваля «Страж в истоке Невы» на площадке Санкт-Петербургского отделения Русского Космического Общества распахнётся для гостей космический шатёр Звездочёта.",
+      "url": "https://cosmatica.org/projects/strazh-v-istoke-nevy",
+      "image": "https://cosmatica.org/upload/000/u21/19/3c/festival-strazh-v-istoke-nevy-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=679f752028a6bda68f",
+      "type": "project",
+      "sourceCharacters": 1475,
+      "verified": false
+    },
+    {
+      "title": "Побисковские чтения",
+      "description": "Международные научно-философские чтения имени Побиска Георгиевича Кузнецова.",
+      "url": "https://cosmatica.org/projects/pobisk",
+      "image": "https://cosmatica.org/upload/000/u26/0a/0d/pobiskovskie-chtenija-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=bc4660f33807065ada",
+      "type": "project",
+      "sourceCharacters": 3027,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/1389-donbass-splochenie-v-telegram.html",
+  "title": "Донбасс. Сплочение в Телеграм",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Штаб вклада в Победу",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/a/3/donbass-splochenie-v-telegram-photo-normal.jpg",
+      "alt": "Донбасс. Сплочение в Телеграм"
+    },
+    {
+      "type": "paragraph",
+      "text": "Донецким отделением ведётся активная работа в формате движения Народное сплочение. В качестве информационной поддержки создан канал в Телеграм \"Донбасс.Сплочение\"",
+      "spans": [
+        {
+          "text": "Донецким отделением ведётся активная  "
+        },
+        {
+          "text": "работа",
+          "href": "https://cosmatica.org/glossary/62-rabota.html"
+        },
+        {
+          "text": " в формате движения Народное сплочение. В качестве информационной поддержки создан канал в Телеграм \"Донбасс.Сплочение\" "
+        }
+      ],
+      "links": [
+        {
+          "text": "работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://t.me/donbass_splochenie",
+      "spans": [
+        {
+          "text": "https://t.me/donbass_splochenie",
+          "href": "https://t.me/donbass_splochenie"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://t.me/donbass_splochenie",
+          "url": "https://t.me/donbass_splochenie"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Информационный канал для добровольцев тыла Донбасса и нуждающихся в поддержке. Там можно будет оставить запросы о помощи, получить полезную информацию.",
+      "spans": [
+        {
+          "text": "Информационный канал для добровольцев тыла Донбасса и нуждающихся в поддержке.Там можно будет оставить запросы о помощи, получить полезную информацию. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На канале будут размещаться объявления об участках, требующих поддержки добровольцев: помощь раненым, гуманитарные акции, поиск родственников, духоподъёмные мероприятия и т.д.",
+      "spans": [
+        {
+          "text": "На канале будут размещаться объявления об участках, требующих поддержки добровольцев: помощь раненым, гуманитарные акции, поиск родственников, духоподъёмные мероприятия и т.д."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Также мы будем размещать отчёты о проделанной работе и делиться хорошими новостями.",
+      "spans": [
+        {
+          "text": "Также мы будем размещать отчёты о проделанной работе и делиться хорошими новостями. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "По вопросам сотрудничества можно обращаться на почту Донецкого отделения РКО: info-dnr@cosmatica.org",
+      "spans": [
+        {
+          "text": "По вопросам сотрудничества можно обращаться на почту Донецкого отделения РКО: info-dnr@cosmatica.org"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Напомним, что в 6 городах России отделениями Русского Космического Общества организованы пункты сбора гуманитарной помощи. Также идёт сбор средств на сайте РКО. Каждый может внести свой посильный вклад в Победу.",
+      "spans": [
+        {
+          "text": "Напомним, что в 6 городах России отделениями Русского Космического Общества организованы пункты сбора гуманитарной помощи. Также идёт сбор средств на сайте РКО.Каждый может внести свой посильный вклад в Победу."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Подробности можно узнать на странице штаба вклада в Победу: https://cosmatica.org/projects/vklad-v-pobedu",
+      "spans": [
+        {
+          "text": "Подробности можно узнать на странице штаба вклада в Победу: "
+        },
+        {
+          "text": "https://cosmatica.org/projects/vklad-v-pobedu",
+          "href": "https://cosmatica.org/projects/vklad-v-pobedu"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/projects/vklad-v-pobedu",
+          "url": "https://cosmatica.org/projects/vklad-v-pobedu"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "j7iN-LTBBso",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=j7iN-LTBBso"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Создан канал для добровольческой гуманитарной миссии в Телеграм.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Донецким отделением ведётся активная работа в формате движения Народное сплочение. В качестве информационной поддержки создан канал в Телеграм \"Донбасс.Сплочение\" https://t.me/donbass_splochenie Информационный канал для добровольцев тыла Донбасса и нуждающихся в поддержке. Там можно будет оставить запросы о помощи, получить полезную информацию. На канале будут размещаться объявления об участках, требующих поддержки добровольцев: помощь раненым, гуманитарные акции, поиск родственников, духоподъёмные мероприятия и т.д. Также мы будем размещать отчёты о проделанной работе и делиться хорошими новостями. По вопросам сотрудничества можно обращаться на почту Донецкого отделения РКО: info-dnr@cosmatica.org Напомним, что в 6 городах России отделениями Русского Космического Общества организованы пункты сбора гуманитарной помощи. Также идёт сбор средств на сайте РКО. Каждый может внести свой посильный вклад в Победу. Подробности можно узнать на странице штаба вклада в Победу: https://cosmatica.org/projects/vklad-v-pobedu",
+      "links": [
+        {
+          "title": "работа",
+          "url": "https://cosmatica.org/glossary/62-rabota.html"
+        },
+        {
+          "title": "https://t.me/donbass_splochenie",
+          "url": "https://t.me/donbass_splochenie"
+        },
+        {
+          "title": "https://cosmatica.org/projects/vklad-v-pobedu",
+          "url": "https://cosmatica.org/projects/vklad-v-pobedu"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/a/3/donbass-splochenie-v-telegram-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1395,
+    "storedTextCharacters": 1050,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 8,
+    "sourceBytes": 49186
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1233,
+  "capturedBodyCharacters": 1050,
+  "sourceTextSHA256": "7cc4cb457e6e8dc21cecf9f85e6a00f74cdc49358131ccdd12a4db77f2ff4cb6",
+  "archiveSnapshotAt": "2026-10-08T08:57:45Z",
+  "publicVideoCount": 1
+}

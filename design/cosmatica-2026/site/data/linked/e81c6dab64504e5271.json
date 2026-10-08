@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/685-dnevnik-razrabotki-za-janvar-2020.html",
+  "title": "Дневник разработки за январь 2020",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#«Наша Вселенная»",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/b/dnevnik-razrabotki-za-janvar-2020-photo-normal.jpg",
+      "alt": "Дневник разработки за январь 2020"
+    },
+    {
+      "type": "paragraph",
+      "text": "Интерактивный образовательный проект «Наша Вселенная» знакомит с настоящим и будущим отечественной космонавтики.",
+      "spans": [
+        {
+          "text": "Интерактивный образовательный  "
+        },
+        {
+          "text": "проект",
+          "href": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "text": " «Наша Вселенная» знакомит с настоящим и будущим отечественной космонавтики."
+        }
+      ],
+      "links": [
+        {
+          "text": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Публикуем дневник разработки за январь 2020.",
+      "spans": [
+        {
+          "text": "Публикуем дневник разработки за январь 2020."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На этот раз в новом формате, и далее будем стремиться его выдерживать.",
+      "spans": [
+        {
+          "text": "На этот раз в новом формате, и далее будем стремиться его выдерживать."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Как всегда, приветствуются комментарии.",
+      "spans": [
+        {
+          "text": "Как всегда, приветствуются комментарии."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Video post-production: Андрей Казьмиркевич.",
+      "spans": [
+        {
+          "text": "Video post-production: Андрей Казьмиркевич."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Сайт проекта: http://realuniverse.ru/",
+      "spans": [
+        {
+          "text": "Сайт проекта: "
+        },
+        {
+          "text": "http://realuniverse.ru/",
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Frealuniverse.ru%2F"
+        }
+      ],
+      "links": [
+        {
+          "text": "http://realuniverse.ru/",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Frealuniverse.ru%2F"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа в ВК: https://vk.com/nvru_game",
+      "spans": [
+        {
+          "text": "Группа в ВК: "
+        },
+        {
+          "text": "https://vk.com/nvru_game",
+          "href": "https://cosmatica.org/redirect?url=https%3A%2F%2Fvk.com%2Fnvru_game"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://vk.com/nvru_game",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fvk.com%2Fnvru_game"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Дневник ведёт автор и руководитель проекта «Наша Вселенная», член Русского Космического Общества, Алексей Борисович Борисов .",
+      "spans": [
+        {
+          "text": "Дневник ведёт автор и руководитель проекта «Наша Вселенная», член Русского Космического Общества, "
+        },
+        {
+          "text": "Алексей Борисович Борисов",
+          "href": "https://cosmatica.org/users/64"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "links": [
+        {
+          "text": "Алексей Борисович Борисов",
+          "url": "https://cosmatica.org/users/64"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/4/c/dnevnik-razrabotki-za-janvar-2020-gallery-normal.jpg",
+      "alt": "Дневник разработки за январь 2020 0"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/2/7/dnevnik-razrabotki-za-janvar-2020-gallery-normal.jpg",
+      "alt": "Дневник разработки за январь 2020 1"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/7/c/dnevnik-razrabotki-za-janvar-2020-gallery-normal.jpg",
+      "alt": "Дневник разработки за январь 2020 2"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/4/dnevnik-razrabotki-za-janvar-2020-gallery-normal.jpg",
+      "alt": "Дневник разработки за январь 2020 3"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/5/d/dnevnik-razrabotki-za-janvar-2020-gallery-normal.jpg",
+      "alt": "Дневник разработки за январь 2020 4"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "a-Nwu-pUxx4",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=a-Nwu-pUxx4"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Новости от проекта Наша Вселенная: компьютерная игра про космос.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Интерактивный образовательный проект «Наша Вселенная» знакомит с настоящим и будущим отечественной космонавтики. Публикуем дневник разработки за январь 2020. На этот раз в новом формате, и далее будем стремиться его выдерживать. Как всегда, приветствуются комментарии. Video post-production: Андрей Казьмиркевич. Сайт проекта: http://realuniverse.ru/ Группа в ВК: https://vk.com/nvru_game Дневник ведёт автор и руководитель проекта «Наша Вселенная», член Русского Космического Общества, Алексей Борисович Борисов .",
+      "links": [
+        {
+          "title": "проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        },
+        {
+          "title": "http://realuniverse.ru/",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Frealuniverse.ru%2F"
+        },
+        {
+          "title": "https://vk.com/nvru_game",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fvk.com%2Fnvru_game"
+        },
+        {
+          "title": "Алексей Борисович Борисов",
+          "url": "https://cosmatica.org/users/64"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/5/b/dnevnik-razrabotki-za-janvar-2020-photo-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/4/c/dnevnik-razrabotki-za-janvar-2020-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/2/7/dnevnik-razrabotki-za-janvar-2020-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/7/c/dnevnik-razrabotki-za-janvar-2020-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/b/4/dnevnik-razrabotki-za-janvar-2020-gallery-normal.jpg",
+    "https://cosmatica.org/upload/000/u35/5/d/dnevnik-razrabotki-za-janvar-2020-gallery-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 849,
+    "storedTextCharacters": 535,
+    "sourceCardCount": 0,
+    "sourceImageCount": 6,
+    "paragraphCount": 8,
+    "sourceBytes": 50254
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 687,
+  "capturedBodyCharacters": 535,
+  "sourceTextSHA256": "cd8fdd96a83d45112a57549dd1ac639ba3af483e5a0ca8a78c63d9f5a7990d61",
+  "archiveSnapshotAt": "2026-10-08T09:13:04Z",
+  "publicVideoCount": 1
+}

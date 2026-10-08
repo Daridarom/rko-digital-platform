@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 105,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "От прицела автомата к прицелу телескопа",
+      "description": "Центр создан с целью формирования и развития системы военно-прикладной, спортивной, технической подготовки и духовно-нравственного, патриотического воспитания молодёжи.",
+      "url": "https://cosmatica.org/news/499-ot-pricela-avtomata-k-pricelu-teleskopa.html",
+      "image": "https://cosmatica.org/upload/000/u21/5/2/f9239282.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=60a178223e855a0fb0",
+      "type": "news-item",
+      "sourceCharacters": 2605,
+      "verified": false
+    },
+    {
+      "title": "Проект космопоселений прирастать будет Арктикой",
+      "description": "7 августа руководитель Совета по развитию космических инициатив Русского Космического Общества Михаил Сергеевич Колодкин стал желанным гостем в доме Александра Ивановича Шипкова руководителя Арктического Совета РКО , члена Союза архитекторов СССР и Союза архитекторов России , действительного члена Академии Северного Форума и его жены, также архитектора, Елизаветы Алексеевны.",
+      "url": "https://cosmatica.org/news/498-kosmoposelenija-prirastat-budut-arktikoi.html",
+      "image": "https://cosmatica.org/upload/000/u35/6/6/proekt-kosmoposelenii-prirastat-budet-arktikoi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=69d63c679621c33d8f",
+      "type": "news-item",
+      "sourceCharacters": 1645,
+      "verified": false
+    },
+    {
+      "title": "Кедровые леса в память о Гагарине",
+      "description": "\"Гагаринский сад\" уже родился, начавшись с посадки кустов сирени – по аналогии с тем кустом душистых цветов, который был посажен рукой Юрия Алексеевича у крыльца отчего дома.",
+      "url": "https://cosmatica.org/news/497-kedrovye-lesa-v-pamjat-o-gagarine.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/2/kedrovye-lesa-v-pamjat-o-gagarine-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b80f5182f714f1dfec",
+      "type": "news-item",
+      "sourceCharacters": 2264,
+      "verified": false
+    },
+    {
+      "title": "Презентация книги «Научный апокалипсис или теория всего»",
+      "description": "Открыл презентацию главный редактор журнала «Наука и религия» Сергей Георгиевич Антоненко. Журнал является информационным спонсором презентации и самой книги автора, поэтому в ближайшем номере появится публикация о книге «Научный апокалипсис или теория всего».",
+      "url": "https://cosmatica.org/news/496-proshla-prezentacija-knigi-nauchnyi-apokalipsis-ili-teorija-vsego.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/d/proshla-prezentacija-knigi-nauchnyi-apokalipsis-ili-teorija-vsego.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=93878d7ede028547c2",
+      "type": "news-item",
+      "sourceCharacters": 2939,
+      "verified": false
+    },
+    {
+      "title": "Памяти автора «Маленького принца»",
+      "description": "Средиземное море приняло обломки его самолёта. Осиротело не только небо, которое он любил самозабвенно, осиротела вся Планета Людей, мир потерял великого писателя, журналиста и мыслителя.",
+      "url": "https://cosmatica.org/news/494-pamjati-avtora-malenkogo-princa.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/6/pamjati-avtora-malenkogo-princa-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f2f30fc9913b1544c6",
+      "type": "news-item",
+      "sourceCharacters": 7710,
+      "verified": false
+    },
+    {
+      "title": "Новости разработки игры \"Наша Вселенная\"",
+      "description": "Друзья, приветствуем! Июнь и первая половина июля прошли в режиме адаптации к обновлению Unity. Версия 2019 добавила сложностей, но в то же время демонстрирует огромный потенциал. Впечатляет новый инструментарий по редактированию ландшафта (но мы его ещё осваиваем).",
+      "url": "https://cosmatica.org/news/493-novosti-razrabotki-igry-nasha-vselennaja.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/6/66b2a2aa.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b9752acb319cf41c78",
+      "type": "news-item",
+      "sourceCharacters": 2938,
+      "verified": false
+    },
+    {
+      "title": "День Воздушно-десантных войск",
+      "description": "В этот день 89 лет назад под Воронежем был десантирован взвод из 12 человек во время учений Московского военного округа, и именно этот день считается днём основания Воздушно-Десантных войск.",
+      "url": "https://cosmatica.org/news/492-den-vozdushno-desantnyh-voisk.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/9/den-vozdushno-desantnyh-voisk-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5a5207774d8f494717",
+      "type": "news-item",
+      "sourceCharacters": 696,
+      "verified": false
+    },
+    {
+      "title": "Вышел новый номер издания «Устойчивое развитие: проектирование и управление»",
+      "description": "В пятнадцатом томе издания , в его первом выпуске, представлены такие авторы, как Субетто Александр Иванович, Шамаева Екатерина Фёдоровна, Кнауб Роман Викторович и поднимаются вопросы ноосферных стратегий, в частности арктической (Субетто А.И.), вопросов учёта и отчётности в области устойчивого развития (Шамаева Е. Ф., Мусина Н. М.), вопрос сохранения мощности в двойных тензорных сетях (автор доклада - Петров А. Е.),",
+      "url": "https://cosmatica.org/news/491-vyshel-novyi-nomer-izdanija-ustoichivoe-razvitie-proektirovanie-i-upravlenie.html",
+      "image": "https://cosmatica.org/upload/002/u218/8/8/vyshel-novyi-nomer-izdanija-ustoichivoe-razvitie-proektirovanie-i.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=313a7a803b9399307a",
+      "type": "news-item",
+      "sourceCharacters": 3427,
+      "verified": false
+    },
+    {
+      "title": "Новый выпуск сетевого журнала \"Устойчивое развитие: наука и практика\"",
+      "description": "Сетевое научное издание «Международный журнал. Устойчивое развитие : наука и практика » – научно-образовательное издание, адресованное широким кругам научной общественности, ученым, преподавателям, аспирантам и студентам, работникам федеральных и региональных органов государственного управления, а также всем, кого интересуют вопросы практического применения идей и механизмов устойчивого развития, движения к качествен",
+      "url": "https://cosmatica.org/news/490-novyi-vypusk-setevogo-zhurnala-ustoichivoe-razvitie-nauka-i-praktika.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/e/novyi-vypusk-setevogo-zhurnala-nauka-i-praktika-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=09e69d853ad3965711",
+      "type": "news-item",
+      "sourceCharacters": 9586,
+      "verified": false
+    },
+    {
+      "title": "Представитель Калужского отделения РКО приняла участие в аэрокосмической школе",
+      "description": "Впервые Международно-космическая школа была открыта в 2012 году по инициативе предпринимателя, председателя регионального отделения Русского географического обществе в РБ Вячеслава Аброщенко. По традиции она проводится в деревне Калиновка Давлекановского района. В этом году запланировано провести три смены. Участниками VIII Международной аэрокосмической школы имени космонавта-испытателя СССР Урала Султанова уже стали",
+      "url": "https://cosmatica.org/news/489-predstavitel-kaluzhskogo-otdelenija-rko-prinjala-uchastie-v-aerokosmicheskoi-shkole.html",
+      "image": "https://cosmatica.org/upload/002/u218/f/3/predstavitel-kaluzhskogo-otdelenija-rko-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6dc097552d90a8f767",
+      "type": "news-item",
+      "sourceCharacters": 2698,
+      "verified": false
+    },
+    {
+      "title": "Субботник по очистке реки Лобня",
+      "description": "Экологический проект члена Русского Космического Общества Любови Викторовны Мазуриной \"Действуем разумно живя на Земле\" продолжает своё развитие .",
+      "url": "https://cosmatica.org/news/488-subbotnik-po-ochistke-reki-lobnja.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/f/subbotnik-po-ochistke-reki-lobnja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3b55581abe56e043c1",
+      "type": "news-item",
+      "sourceCharacters": 1542,
+      "verified": false
+    },
+    {
+      "title": "Состоялась учредительная конференция Волгоградского отделения Русского Космического Общества",
+      "description": "И это не случайно, так как в этот день членские билеты РКО получили глава Кумылженского муниципального района Волгоградской области Валерий Владимирович Денисов и его заместитель по социальной работе Куликов Юрий Николаевич.",
+      "url": "https://cosmatica.org/news/487-sostojalas-uchreditelnaja-konferencija-volgogradskogo-otdelenija-russkogo-kosmicheskogo-obschest.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/2/sostojalas-uchreditelnaja-konferencija-volgogradskogo-otdelenija-ru.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e77f8f307ad29fd568",
+      "type": "news-item",
+      "sourceCharacters": 6913,
+      "verified": false
+    },
+    {
+      "title": "«Золотой щит-2019» в станице Кумылженская",
+      "description": "С 2015 года там проводится областной этно-фестиваль «Золотой щит - казачий Спас».",
+      "url": "https://cosmatica.org/news/486-zolotoi-schit-2019-v-stanice-kumylzhenskaja.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/4/zolotoi-schit-2019-v-stanice-kumylzhenskaja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c9c7bfc882d49079f9",
+      "type": "news-item",
+      "sourceCharacters": 5627,
+      "verified": false
+    },
+    {
+      "title": "Благодарность от многодетных семей",
+      "description": "От организации, объединяющей многодетные семьи Москвы, фонда \"Большая семья \", Русское Космическое Общество, как организатор палаточного лагеря \"Космодесант\", получило благодарственное письмо, в которой выражается благодарность за возможность льготного посещения лагерей \"Космодесант\" и \"Бородино\".",
+      "url": "https://cosmatica.org/news/484-blagodarnost-ot-mnogodetnyh-semei.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/0/blagodarnost-ot-mnogodetnyh-semei-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b333b48c85a65be6b6",
+      "type": "news-item",
+      "sourceCharacters": 831,
+      "verified": false
+    },
+    {
+      "title": "Обращение к членам Русского Космического Общества",
+      "description": "Каждый из вас, являясь членом Русского Космического Общества, ведёт важную работу по тем направлениям и проектам, в которых он заявился, вступая в РКО или затем выбрал в дальнейшем.",
+      "url": "https://cosmatica.org/news/485-obraschenie-k-chlenam-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/5/obraschenie-k-chlenam-russkogo-kosmicheskogo-obschestva-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a08067002fc4e757b1",
+      "type": "news-item",
+      "sourceCharacters": 2973,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

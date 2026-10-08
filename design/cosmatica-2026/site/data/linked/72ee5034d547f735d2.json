@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/28-iskusstvennyi-intellekt-i-razum-chelovecheskoi-populjacii.html",
+  "title": "Искусственный интеллект и разум человеческой популяции",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Эвристическое программирование, эвристические\r\nрешения, машинное распознавание образов, машинное\r\nмоделирование интеллектуальной деятельности, программа\r\nобщего решателя проблем, общая",
+      "spans": [
+        {
+          "text": "Эвристическое программирование, эвристические\r\nрешения, машинное распознавание образов, машинное\r\nмоделирование интеллектуальной деятельности, программа\r\nобщего решателя проблем, общая"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "теория",
+      "spans": [
+        {
+          "text": "теория"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "систем и многие\r\nдругие научные направления различными путями идут к\r\nрешению одной и тон же задачи.",
+      "spans": [
+        {
+          "text": "систем и многие\r\nдругие научные направления различными путями идут к\r\nрешению одной и тон же задачи."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Эвристическое программирование, эвристические решения, машинное распознавание образов, машинное моделирование интеллектуальной деятельности, программа общего решателя проблем, общая теория систем и многие другие научные направления различными путями идут к решению одной и тон же задачи.",
+      "links": [
+        {
+          "title": "теория",
+          "url": "https://cosmatica.org/glossary/35-teorija.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 435 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/44/308817705a1596c04de6e2d2104902a5"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/44/308817705a1596c04de6e2d2104902a5"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 363,
+    "storedTextCharacters": 290,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39924
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 308,
+  "capturedBodyCharacters": 290,
+  "sourceTextSHA256": "b8c793f043dddd4a4f2156f70d5f8e85cced9c0493881642f71f26a6922017aa",
+  "archiveSnapshotAt": "2026-10-08T08:48:29Z"
+}

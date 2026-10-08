@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/13",
+  "title": "Юрий Александрович Галушкин",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/c7/d0/7f390e93.jpg",
+      "alt": "Юрий Александрович Галушкин"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 1"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/d4/f1/fdfcb534.jpg",
+      "alt": "Юрий Александрович Галушкин"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 1"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель Совета «Первых» Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "Руководитель Совета «Первых» Русского Космического Общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Профессор.",
+      "spans": [
+        {
+          "text": "Профессор."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ученик академика Сергея Павловича Королёва.",
+      "spans": [
+        {
+          "text": "Ученик академика Сергея Павловича Королёва."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Первый выпуск Московского физико-технического института (МФТИ).",
+      "spans": [
+        {
+          "text": "Первый выпуск Московского физико-технического института (МФТИ)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Почётный академик Российской академии естественных наук (РАЕН).",
+      "spans": [
+        {
+          "text": "Почётный академик Российской академии естественных наук (РАЕН)."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Руководитель Совета «Первых» Русского Космического Общества. Профессор. Ученик академика Сергея Павловича Королёва. Первый выпуск Московского физико-технического института (МФТИ). Почётный академик Российской академии естественных наук (РАЕН).",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/c7/d0/7f390e93.jpg",
+    "https://cosmatica.org/upload/000/u8/d4/f1/fdfcb534.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 336,
+    "storedTextCharacters": 299,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36082
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 253,
+  "capturedBodyCharacters": 299,
+  "sourceTextSHA256": "5414c6aad52949f601c4af319d2cf8f7e9df016996120c1d4ecd24b345c92a34",
+  "archiveSnapshotAt": "2026-10-08T09:18:01Z"
+}

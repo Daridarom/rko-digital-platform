@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/193-sodei.html",
+  "title": "Содей",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Содей - мужчина, соединённый с другими общностью цели и общим делом, во имя сохранения развития Жизни.",
+      "spans": [
+        {
+          "text": "Содей - мужчина, соединённый с другими общностью цели и общим делом, во имя сохранения развития Жизни."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Содей - мужчина, соединённый с другими общностью цели и общим делом, во имя сохранения развития Жизни.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 108,
+    "storedTextCharacters": 102,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31784
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 102,
+  "capturedBodyCharacters": 102,
+  "sourceTextSHA256": "b42b427c251a17d2afcd87c7e551e31af686a846f03714db8032d2c7624628b0",
+  "archiveSnapshotAt": "2026-10-08T10:37:47Z"
+}

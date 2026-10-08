@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 153,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Всемирный Космический Союз. Слово о Началах",
+      "description": "Будущее не определено, но будущее определяет. Наша цель, и наше будущее рождает смыслы,",
+      "url": "https://cosmatica.org/library/488-vsemirnyi-kosmicheskii-soyuz-slovo-o-nachalah.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/0/360428dc.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=449876445ef1a282f5",
+      "type": "book",
+      "sourceCharacters": 1046,
+      "verified": false
+    },
+    {
+      "title": "Субботник по очистке реки Лобня",
+      "description": "Экологический проект члена Русского Космического Общества Любови Викторовны Мазуриной \"Действуем разумно живя на Земле\" продолжает своё развитие .",
+      "url": "https://cosmatica.org/news/488-subbotnik-po-ochistke-reki-lobnja.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/f/subbotnik-po-ochistke-reki-lobnja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3b55581abe56e043c1",
+      "type": "news-item",
+      "sourceCharacters": 1542,
+      "verified": false
+    },
+    {
+      "title": "\"Буран\" приземлился в Доме космонавтов",
+      "description": "Юбилейный арт-фестиваль «БУРАН – КРЫЛАТАЯ ЛЕГЕНДА», посвященный 30-летию старта МТКС «Энергия-Буран» переехал в Звёздный городок.",
+      "url": "https://cosmatica.org/articles/487-buran-prizemlilsja-v-dome-kosmonavtov.html",
+      "image": "https://cosmatica.org/upload/000/u26/4/e/21march.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=56148a5449fa6489e4",
+      "type": "article",
+      "sourceCharacters": 2523,
+      "verified": false
+    },
+    {
+      "title": "Учение Всемир",
+      "description": "",
+      "url": "https://cosmatica.org/library/487-uchenie-vsemir.html",
+      "image": "https://cosmatica.org/upload/000/u7/f/1/43503a75.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7ee86b90da49e397b3",
+      "type": "book",
+      "sourceCharacters": 77,
+      "verified": false
+    },
+    {
+      "title": "Состоялась учредительная конференция Волгоградского отделения Русского Космического Общества",
+      "description": "И это не случайно, так как в этот день членские билеты РКО получили глава Кумылженского муниципального района Волгоградской области Валерий Владимирович Денисов и его заместитель по социальной работе Куликов Юрий Николаевич.",
+      "url": "https://cosmatica.org/news/487-sostojalas-uchreditelnaja-konferencija-volgogradskogo-otdelenija-russkogo-kosmicheskogo-obschest.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/2/sostojalas-uchreditelnaja-konferencija-volgogradskogo-otdelenija-ru.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=e77f8f307ad29fd568",
+      "type": "news-item",
+      "sourceCharacters": 6913,
+      "verified": false
+    },
+    {
+      "title": "Первые Гагаринские награды.",
+      "description": "25 января интересные встречи состоялись в офисе Санкт-Петербургского отделения РКО.",
+      "url": "https://cosmatica.org/articles/486-pervye-gagarinskie-nagrady.html",
+      "image": "https://cosmatica.org/upload/000/u26/a/b/20march.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=d8c7467493e8af4037",
+      "type": "article",
+      "sourceCharacters": 3377,
+      "verified": false
+    },
+    {
+      "title": "XXI век как эпоха ноосферной революции в разуме и в системе смыслов человека",
+      "description": "Настоящая монография представляет собой систему взаимосвязанных очерков, докладов, интервью автора за апрель – июль 2021 года в Санкт-Петербурге и деревне Мелехово Вязовской волости Новосокольнического района Псковской области. Главная идея работы, которая разворачивается в теоретическую систему, – это прогнозное видение миссии XXI века как целой эпохи, представляющей собой ноосферную революцию в разуме и в системе с",
+      "url": "https://cosmatica.org/library/486-xxi-vek-kak-epoha-noosfernoi-revolyucii-v-razume-i-v-sisteme-smyslov-cheloveka.html",
+      "image": "https://cosmatica.org/upload/000/u7/a/8/5ba56284.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=7a44b96b757b8c4bb8",
+      "type": "book",
+      "sourceCharacters": 789,
+      "verified": false
+    },
+    {
+      "title": "«Золотой щит-2019» в станице Кумылженская",
+      "description": "С 2015 года там проводится областной этно-фестиваль «Золотой щит - казачий Спас».",
+      "url": "https://cosmatica.org/news/486-zolotoi-schit-2019-v-stanice-kumylzhenskaja.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/4/zolotoi-schit-2019-v-stanice-kumylzhenskaja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c9c7bfc882d49079f9",
+      "type": "news-item",
+      "sourceCharacters": 5627,
+      "verified": false
+    },
+    {
+      "title": "От планеты к планете в поисках истины.",
+      "description": "В клубе «Эврика» произошло удивительное событие.",
+      "url": "https://cosmatica.org/articles/485-ot-planety-k-planete-v-poiskah-istiny.html",
+      "image": "https://cosmatica.org/upload/000/u26/4/f/19march.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=0d6f30fb406db91338",
+      "type": "article",
+      "sourceCharacters": 2187,
+      "verified": false
+    },
+    {
+      "title": "Поколение Кожедуба",
+      "description": "В год рождения трижды Героя Советского Союза Иван Никитовича Кожедуба, в 1920 году, за 21 год до начала Великой Отечественной войны родились воистину великие асы Советских ВВС. По-разному – в основном трагично – сложится их судьба и лѐтная биография. Всем, кому посвящается наш рассказ, в ушедшем Году Памяти и Славы исполнилось 100 лет со Дня рождения, поэтому чрезвычайно важно вспомнить героических авиаторов Отчизны ",
+      "url": "https://cosmatica.org/library/485-pokolenie-kozheduba.html",
+      "image": "https://cosmatica.org/upload/000/u7/5/6/pokolenie-kozheduba-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=ed4825e00a035b87f2",
+      "type": "book",
+      "sourceCharacters": 544,
+      "verified": false
+    },
+    {
+      "title": "Обращение к членам Русского Космического Общества",
+      "description": "Каждый из вас, являясь членом Русского Космического Общества, ведёт важную работу по тем направлениям и проектам, в которых он заявился, вступая в РКО или затем выбрал в дальнейшем.",
+      "url": "https://cosmatica.org/news/485-obraschenie-k-chlenam-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/5/obraschenie-k-chlenam-russkogo-kosmicheskogo-obschestva-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a08067002fc4e757b1",
+      "type": "news-item",
+      "sourceCharacters": 2973,
+      "verified": false
+    },
+    {
+      "title": "Член Президиума РКО с почётной миссией в Шри-Ланке",
+      "description": "25 января в Государственной библиотеке Коломбо состоялось открытие бронзового бюста первого космонавта планеты Юрия Алексеевича Гагарина.",
+      "url": "https://cosmatica.org/articles/484-chlen-prezidiuma-rko-s-pochyotnoi-missiei-v-shri-lanke.html",
+      "image": "https://cosmatica.org/upload/000/u26/3/c/18march.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=11b66692d377105691",
+      "type": "article",
+      "sourceCharacters": 2532,
+      "verified": false
+    },
+    {
+      "title": "Благодарность от многодетных семей",
+      "description": "От организации, объединяющей многодетные семьи Москвы, фонда \"Большая семья \", Русское Космическое Общество, как организатор палаточного лагеря \"Космодесант\", получило благодарственное письмо, в которой выражается благодарность за возможность льготного посещения лагерей \"Космодесант\" и \"Бородино\".",
+      "url": "https://cosmatica.org/news/484-blagodarnost-ot-mnogodetnyh-semei.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/0/blagodarnost-ot-mnogodetnyh-semei-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b333b48c85a65be6b6",
+      "type": "news-item",
+      "sourceCharacters": 831,
+      "verified": false
+    },
+    {
+      "title": "Первые шаги к постройке Мечталёта сделаны!",
+      "description": "Подведены итоги конкурса разработки космической техники, который проводила студия \"Планета людей\" при поддержке Комитета Инновационных Проектов Молодёжи при ПАО РКК «Энергия» и Русского Космического Общества.",
+      "url": "https://cosmatica.org/articles/483-pervye-shagi-k-postroike-mechtalyota-sdelany.html",
+      "image": "https://cosmatica.org/upload/000/u26/a/9/17march.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=8978fc5fd1c7b3566b",
+      "type": "article",
+      "sourceCharacters": 3434,
+      "verified": false
+    },
+    {
+      "title": "Мир Героев",
+      "description": "Как надо читать эту книгу? От начала и до конца. Такое простое указание может удивить, но именно так и надо сделать. Книга представляет собой синтез теории и практики Русского Космического Общества (далее — РКО) по воспитанию человека будущего. Она содержит методики, практики, опыт работы, описание системы мероприятий, нормативов, постановки задач. Возникает естественное желание относиться к Книге как к справочнику —",
+      "url": "https://cosmatica.org/library/483-mir-geroev.html",
+      "image": "https://cosmatica.org/upload/000/u35/a/0/2fbc22d3.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=2570858dbb860496e0",
+      "type": "book",
+      "sourceCharacters": 2196,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

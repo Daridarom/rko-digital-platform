@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/180",
+  "title": "Дмитрий Александрович Гапеенко",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/d/1/b2e7a991.jpg",
+      "alt": "Дмитрий Александрович Гапеенко"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/9/f/c2702932.jpg",
+      "alt": "Дмитрий Александрович Гапеенко"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Студент КФ МГТУ им. Баумана",
+      "spans": [
+        {
+          "text": "Студент КФ МГТУ им. Баумана"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Калужская область",
+      "links": [
+        {
+          "title": "Калужская область",
+          "url": "https://cosmatica.org/departments/11-kaluzhskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Студент КФ МГТУ им. Баумана",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/d/1/b2e7a991.jpg",
+    "https://cosmatica.org/upload/000/u26/9/f/c2702932.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 122,
+    "storedTextCharacters": 60,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34951
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 66,
+  "capturedBodyCharacters": 60,
+  "sourceTextSHA256": "c5a0c223df2e09626243cb1f19e56bb00c0bc8c9b90eeac91088543283b81433",
+  "archiveSnapshotAt": "2026-10-08T09:18:18Z"
+}

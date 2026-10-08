@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 2,
+  "slug": "project",
+  "sourceUrl": "https://cosmatica.org/projects/cosmos-po-izhevsky",
+  "title": "Космос по-Ижевски",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/1c/8a/kosmos-po-izhevski-logo-normal.jpg",
+      "alt": "Космос по-Ижевски"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О проекте"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На этот раз в рамках проекта «АстроГлобус» мы совершаем путешествие в Ижевск.",
+      "spans": [
+        {
+          "text": "На этот раз в рамках проекта ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "«АстроГлобус»",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fastroglobus"
+        },
+        {
+          "text": " мы совершаем путешествие в Ижевск.\n",
+          "marks": [
+            "bold"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "«АстроГлобус»",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fastroglobus"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "«Где Ижевск, а где космос?» — подумаете Вы. «Очень даже близко они друг к другу» — ответим мы Вам.",
+      "spans": [
+        {
+          "text": "«Где Ижевск, а где космос?» — подумаете Вы. «Очень даже близко они друг к другу» — ответим мы Вам.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "С 26 по 29 июня вместе с членом РКО Алевтиной Лещенко мы будем изучать космические и астрономические достопримечательности Ижевска.",
+      "spans": [
+        {
+          "text": "С 26 по 29 июня вместе с членом РКО "
+        },
+        {
+          "text": "Алевтиной Лещенко",
+          "href": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F68"
+        },
+        {
+          "text": " мы будем изучать космические и астрономические достопримечательности Ижевска."
+        }
+      ],
+      "links": [
+        {
+          "text": "Алевтиной Лещенко",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F68"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Для вас откроется: — Ижевск космический — Ижевск астрономический — Ижевск и противостояние Сатурна — Ижевск достопримечательный",
+      "spans": [
+        {
+          "text": "Для вас откроется:\r\n— Ижевск космический\r\n— Ижевск астрономический \r\n— Ижевск и противостояние Сатурна\r\n— Ижевск достопримечательный"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Стена проекта",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/e3/f1/izh19.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/8b/5a/izh20.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/6d/a3/izh26.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/33/ba/izh21.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/13/07/im22.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2b/5b/izh23.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/f8/d1/izh24.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/78/50/izh11.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/1f/57/izh12.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/54/7a/izh13.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/14/3f/izh14.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/2c/ac/izh15.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/2a/8a/izh16.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/51/cf/izh17.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/76/94/izh18.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/6b/48/izh10.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+      "alt": "Алевтина Валерьевна Лещенко"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/69/10/izh3.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/94/af/izh4.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/ea/43/izh5.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/23/14/izh6.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/91/d1/izh7.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/d7/0b/izh8.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u68/dc/bc/izh9.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+      "alt": "Санкт-Петербургское отделение"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/b9/3c/3feod-smqvk.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/c6/8d/jvhhurz3s5s.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/21/20/1kmdvbibrfu.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/ed/60/ldv5brzylsq.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/84/fa/qr3u17mwlec.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/21/ae/s3b7m2xidfe.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/32/56/6ezb6hhhpbs.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/22/ea/jz92qzjbqie.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u21/a9/a1/0bvc1c95qky.jpg",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "На этот раз в рамках проекта «АстроГлобус» мы совершаем путешествие в Ижевск. «Где Ижевск, а где космос?» — подумаете Вы. «Очень даже близко они друг к другу» — ответим мы Вам. С 26 по 29 июня вместе с членом РКО Алевтиной Лещенко мы будем изучать космические и астрономические достопримечательности Ижевска. Для вас откроется: — Ижевск космический — Ижевск астрономический — Ижевск и противостояние Сатурна — Ижевск достопримечательный",
+      "links": [
+        {
+          "title": "«АстроГлобус»",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fprojects%2Fastroglobus"
+        },
+        {
+          "title": "Алевтиной Лещенко",
+          "url": "https://cosmatica.org/redirect?url=http%3A%2F%2Fcosmatica.org%2Fusers%2F68"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Направление:",
+      "value": "Образование",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Статус:",
+      "value": "Завершенный",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u21/1c/8a/kosmos-po-izhevski-logo-normal.jpg",
+    "https://cosmatica.org/upload/000/u21/2a/85/7ee7e928.jpg",
+    "https://cosmatica.org/upload/000/u21/e3/f1/izh19.jpg",
+    "https://cosmatica.org/upload/000/u21/8b/5a/izh20.jpg",
+    "https://cosmatica.org/upload/000/u21/6d/a3/izh26.jpg",
+    "https://cosmatica.org/upload/000/u21/33/ba/izh21.jpg",
+    "https://cosmatica.org/upload/000/u21/13/07/im22.jpg",
+    "https://cosmatica.org/upload/000/u21/2b/5b/izh23.jpg",
+    "https://cosmatica.org/upload/000/u21/f8/d1/izh24.jpg",
+    "https://cosmatica.org/upload/000/u68/cb/e9/e294b373.jpg",
+    "https://cosmatica.org/upload/000/u68/78/50/izh11.jpg",
+    "https://cosmatica.org/upload/000/u68/1f/57/izh12.jpg",
+    "https://cosmatica.org/upload/000/u68/54/7a/izh13.jpg",
+    "https://cosmatica.org/upload/000/u68/14/3f/izh14.jpg",
+    "https://cosmatica.org/upload/000/u68/2c/ac/izh15.jpg",
+    "https://cosmatica.org/upload/000/u68/2a/8a/izh16.jpg",
+    "https://cosmatica.org/upload/000/u68/51/cf/izh17.jpg",
+    "https://cosmatica.org/upload/000/u68/76/94/izh18.jpg",
+    "https://cosmatica.org/upload/000/u68/6b/48/izh10.jpg",
+    "https://cosmatica.org/upload/000/u68/69/10/izh3.jpg",
+    "https://cosmatica.org/upload/000/u68/94/af/izh4.jpg",
+    "https://cosmatica.org/upload/000/u68/ea/43/izh5.jpg",
+    "https://cosmatica.org/upload/000/u68/23/14/izh6.jpg",
+    "https://cosmatica.org/upload/000/u68/91/d1/izh7.jpg",
+    "https://cosmatica.org/upload/000/u68/d7/0b/izh8.jpg",
+    "https://cosmatica.org/upload/000/u68/dc/bc/izh9.jpg",
+    "https://cosmatica.org/upload/000/u21/b9/3c/3feod-smqvk.jpg",
+    "https://cosmatica.org/upload/000/u21/c6/8d/jvhhurz3s5s.jpg",
+    "https://cosmatica.org/upload/000/u21/21/20/1kmdvbibrfu.jpg",
+    "https://cosmatica.org/upload/000/u21/ed/60/ldv5brzylsq.jpg",
+    "https://cosmatica.org/upload/000/u21/84/fa/qr3u17mwlec.jpg",
+    "https://cosmatica.org/upload/000/u21/21/ae/s3b7m2xidfe.jpg",
+    "https://cosmatica.org/upload/000/u21/32/56/6ezb6hhhpbs.jpg",
+    "https://cosmatica.org/upload/000/u21/22/ea/jz92qzjbqie.jpg",
+    "https://cosmatica.org/upload/000/u21/a9/a1/0bvc1c95qky.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 11532,
+    "storedTextCharacters": 455,
+    "sourceCardCount": 0,
+    "sourceImageCount": 35,
+    "paragraphCount": 4,
+    "sourceBytes": 65620
+  },
+  "textFallbackRequired": false,
+  "originalKind": "project",
+  "sourceTextCharacters": 481,
+  "capturedBodyCharacters": 455,
+  "sourceTextSHA256": "d87c1050a5b65992a379c599ae26ed1b6d39f6800a8f12b8d5a11a552fa2beb7",
+  "archiveSnapshotAt": "2026-10-08T09:17:07Z"
+}

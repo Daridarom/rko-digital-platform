@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/512-noosferizm-kak-miroustroistvo-alternativa-mirovomu-pravitelstvu-mirovoi-finansovoi-kapitalokrati.html",
+  "title": "Ноосферизм как мироустройство – альтернатива «мировому правительству» мировой финансовой капиталократии",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/1/3/noosferizm-kak-miroustroistvo-alternativa-mirovomu-pravitel.png",
+      "alt": "Ноосферизм как мироустройство – альтернатива «мировому правительству» мировой финансовой капиталократии"
+    },
+    {
+      "type": "paragraph",
+      "text": "Посвящается космическому прорыву человечества, состоявшемуся 12 апреля 1961 года в форме старта из СССР первого летчика-космонавта, коммуниста, майора Юрия Алексеевича Гагарина, облетевшего на космическом аппарате вокруг земли и удачно приземлившегося на родной саратовской земле.",
+      "spans": [
+        {
+          "text": "Посвящается космическому прорыву человечества, состоявшемуся 12 апреля 1961 года в форме старта из СССР первого летчика-космонавта, коммуниста, майора Юрия Алексеевича Гагарина, облетевшего на космическом аппарате вокруг земли и удачно приземлившегося на родной саратовской земле."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Субетто А.И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Посвящается космическому прорыву человечества, состоявшемуся 12 апреля 1961 года в форме старта из СССР первого летчика-космонавта, коммуниста, майора Юрия Алексеевича Гагарина, облетевшего на космическом аппарате вокруг земли и удачно приземлившегося на родной саратовской земле.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 3 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/4980/82826405b6111c1a79808f7ccf3833b1"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/1/3/noosferizm-kak-miroustroistvo-alternativa-mirovomu-pravitel.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/4980/82826405b6111c1a79808f7ccf3833b1"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 423,
+    "storedTextCharacters": 280,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40882
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 319,
+  "capturedBodyCharacters": 280,
+  "sourceTextSHA256": "2e8ffcfc41a8cf12c2b9855f4c43925c2c2e3d33db33715c94549845e861fd01",
+  "archiveSnapshotAt": "2026-10-08T08:50:40Z"
+}

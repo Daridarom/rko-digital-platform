@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/993-perspektivy-primenenija-ontologicheski-upravljaemyh-osjazaemyh-interfeisov-v-kosmicheskih-missij.html",
+  "title": "Перспективы применения онтологически-управляемых осязаемых интерфейсов в космических миссиях",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Научно-практическая конференция \"Космос и цивилизация: прошлое, настоящее, будущее...\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Международная научно-практическая online-конференция «Космос и цивилизация: прошлое, настоящее, будущее»",
+      "spans": [
+        {
+          "text": "Международная научно-практическая online-конференция «Космос и  цивилизация: прошлое, настоящее, будущее» "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Доклад доцента Пермского государственного национального исследовательского университета, кафедры «Математического обеспечения вычислительных систем» к.ф.-м.н. Рябинина Константина Валентиновича «Перспективы применения онтологически-управляемых осязаемых интерфейсов в космических миссиях».",
+      "spans": [
+        {
+          "text": "Доклад доцента Пермского государственного национального  исследовательского университета, кафедры «Математического обеспечения  вычислительных систем» к.ф.-м.н. Рябинина Константина Валентиновича  «Перспективы применения онтологически-управляемых осязаемых интерфейсов в  космических миссиях»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "15 мая 2020г. Донецк, ДНР",
+      "spans": [
+        {
+          "text": "15 мая 2020г. Донецк, ДНР"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "https://cosmatica.org/projects/183",
+      "spans": [
+        {
+          "text": "https://cosmatica.org/projects/183"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "gUwN90jkilY",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=gUwN90jkilY"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Международная научно-практическая online-конференция «Космос и цивилизация: прошлое, настоящее, будущее» Доклад доцента Пермского государственного национального исследовательского университета, кафедры «Математического обеспечения вычислительных систем» к.ф.-м.н. Рябинина Константина Валентиновича «Перспективы применения онтологически-управляемых осязаемых интерфейсов в космических миссиях». 15 мая 2020г. Донецк, ДНР https://cosmatica.org/projects/183",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 749,
+    "storedTextCharacters": 539,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 76606
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 568,
+  "capturedBodyCharacters": 539,
+  "sourceTextSHA256": "30296504b80985cfb17fa6429a8337ff1403bf845d25abd74b0d7a01f5469e84",
+  "archiveSnapshotAt": "2026-10-08T08:45:00Z",
+  "publicVideoCount": 1
+}

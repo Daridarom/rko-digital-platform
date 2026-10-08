@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/d",
+  "title": "Д",
+  "intro": "",
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Доктрина Победы",
+      "url": "https://cosmatica.org/glossary/218-doktrina-pobedy.html",
+      "description": ""
+    },
+    {
+      "title": "Данные",
+      "url": "https://cosmatica.org/glossary/150-dannye.html",
+      "description": ""
+    },
+    {
+      "title": "Основные виды обра­ботки данных",
+      "url": "https://cosmatica.org/glossary/149-osnovnye-vidy-obra-botki-dannyh.html",
+      "description": ""
+    },
+    {
+      "title": "Диссипативные процессы",
+      "url": "https://cosmatica.org/glossary/148-dissipativnye-processy.html",
+      "description": ""
+    },
+    {
+      "title": "Димензиальность",
+      "url": "https://cosmatica.org/glossary/147-dimenzialnost.html",
+      "description": ""
+    },
+    {
+      "title": "Доказательство для диалектики",
+      "url": "https://cosmatica.org/glossary/146-dokazatelstvo-dlja-dialektiki.html",
+      "description": ""
+    },
+    {
+      "title": "Доказательство для математики",
+      "url": "https://cosmatica.org/glossary/145-dokazatelstvo-dlja-matematiki.html",
+      "description": ""
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 155,
+    "storedTextCharacters": 147,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 36604
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 155,
+  "capturedBodyCharacters": 147,
+  "sourceTextSHA256": "552cb75244f29f9216fd034fe349c9d57541c9ebf55fc99f00867f3fa795ab8d",
+  "archiveSnapshotAt": "2026-10-08T08:47:24Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 7
+}

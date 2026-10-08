@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/721-anons-letnei-tropy-muzhestva-2016.html",
+  "title": "Анонс летней \"Тропы Мужества\" 2016",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Тропа Мужества",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "В 2016 году соревнования пройдут 25-26 июня в районе г. Балабаново на границе Московской и Калужской областей. Вся информация о месте проведения и положении предстоящих соревнований представлена на официальном сайте и группе Вконтакте.",
+      "spans": [
+        {
+          "text": "В 2016 году соревнования пройдут 25-26 июня в районе г. Балабаново на границе Московской и Калужской областей. Вся  "
+        },
+        {
+          "text": "информация",
+          "href": "https://cosmatica.org/glossary/119-informacija.html"
+        },
+        {
+          "text": " о месте проведения и положении предстоящих соревнований представлена на официальном сайте и группе "
+        },
+        {
+          "text": "Вконтакте.",
+          "href": "https://vk.com/natropu"
+        }
+      ],
+      "links": [
+        {
+          "text": "информация",
+          "url": "https://cosmatica.org/glossary/119-informacija.html"
+        },
+        {
+          "text": "Вконтакте.",
+          "url": "https://vk.com/natropu"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Официальный сайт",
+      "spans": [
+        {
+          "text": "Официальный сайт"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа ВКонтакте",
+      "spans": [
+        {
+          "text": "Группа ВКонтакте",
+          "href": "https://vk.com/natropu"
+        }
+      ],
+      "links": [
+        {
+          "text": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ссылка на Youtube",
+      "spans": [
+        {
+          "text": "Ссылка на Youtube ",
+          "href": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "links": [
+        {
+          "text": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "wEUupZuKUuc",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=wEUupZuKUuc"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "В 2016 году соревнования пройдут 25-26 июня в районе г. Балабаново на границе Московской и Калужской областей. Вся информация о месте проведения и положении предстоящих соревнований представлена на официальном сайте и группе Вконтакте. Официальный сайт Группа ВКонтакте Ссылка на Youtube",
+      "links": [
+        {
+          "title": "информация",
+          "url": "https://cosmatica.org/glossary/119-informacija.html"
+        },
+        {
+          "title": "Вконтакте.",
+          "url": "https://vk.com/natropu"
+        },
+        {
+          "title": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        },
+        {
+          "title": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 359,
+    "storedTextCharacters": 299,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 74829
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 308,
+  "capturedBodyCharacters": 299,
+  "sourceTextSHA256": "5e043c04408e1cab36d1f8d5688c7d4a9f0579ba7456390fc1cfcba8b6c3e568",
+  "archiveSnapshotAt": "2026-10-08T08:43:08Z",
+  "publicVideoCount": 1
+}

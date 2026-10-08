@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/950-obschaja-cel-razvitija-chelovechestva-i-biosfery-nauchnye-osnovanija-proektirovanija-buduschego.html",
+  "title": "Общая цель развития человечества и биосферы. Научные основания проектирования будущего",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Научно-практическая конференция \"Космос и цивилизация: прошлое, настоящее, будущее...\"",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Доклад для конференции в ДонНТУ (ДНР), посвящённой Дню космонавтики.",
+      "spans": [
+        {
+          "text": "Доклад для конференции в ДонНТУ (ДНР), посвящённой Дню космонавтики. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Докладчик: Гапонова А.А., Глава Русского Космического Общества",
+      "spans": [
+        {
+          "text": "Докладчик: Гапонова А.А., Глава Русского Космического Общества"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "11.04.2020г. Донецк-Москва",
+      "spans": [
+        {
+          "text": "11.04.2020г. Донецк-Москва"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Скачать эл.версию книги \"Общая цель развития человечества и биосферы. Научные основания проектирования будущего\" можно в библиотеке РКО: https://cosmatica.org/library/393-obschaja-cel-razvitija-chelovechestva-i-biosfery-nauchnye-osnovanija-proektirovanija-buduschego.html",
+      "spans": [
+        {
+          "text": "Скачать эл.версию книги \"Общая цель развития человечества и биосферы. Научные основания проектирования будущего\" можно в библиотеке РКО: https://cosmatica.org/library/393-obschaja-cel-razvitija-chelovechestva-i-biosfery-nauchnye-osnovanija-proektirovanija-buduschego.html"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "LVdT0Jsq8PQ",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=LVdT0Jsq8PQ"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Доклад для конференции в ДонНТУ (ДНР), посвящённой Дню космонавтики. Докладчик: Гапонова А.А., Глава Русского Космического Общества 11.04.2020г. Донецк-Москва Скачать эл.версию книги \"Общая цель развития человечества и биосферы. Научные основания проектирования будущего\" можно в библиотеке РКО: https://cosmatica.org/library/393-obschaja-cel-razvitija-chelovechestva-i-biosfery-nauchnye-osnovanija-proektirovanija-buduschego.html",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 780,
+    "storedTextCharacters": 514,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 76819
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 605,
+  "capturedBodyCharacters": 514,
+  "sourceTextSHA256": "e2ecfb23e08c3573193329ea3c534ef7cd503f27dd6ba598d5166a7eedc0aa19",
+  "archiveSnapshotAt": "2026-10-08T08:44:45Z",
+  "publicVideoCount": 1
+}

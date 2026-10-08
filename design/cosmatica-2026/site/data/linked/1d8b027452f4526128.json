@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/57-razvitie.html",
+  "title": "Развитие",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "рост",
+      "spans": [
+        {
+          "text": "рост"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "возможностей системы в основном за счет повыше­ния эффективности использования внутренних ресурсов, а не за счет увеличения потребления ресурсов из внешней среды.",
+      "spans": [
+        {
+          "text": "возможностей системы в основном за счет повыше­ния эффективности использования внутренних ресурсов, а не за счет увеличения потребления ресурсов из внешней среды."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "рост возможностей системы в основном за счет повыше­ния эффективности использования внутренних ресурсов, а не за счет увеличения потребления ресурсов из внешней среды.",
+      "links": [
+        {
+          "title": "рост",
+          "url": "https://cosmatica.org/glossary/56-rost.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 176,
+    "storedTextCharacters": 166,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32160
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 167,
+  "capturedBodyCharacters": 166,
+  "sourceTextSHA256": "5bb9774210ad1a287821140d747a0f73adb9bd903ce4184615c2e1c39aa46947",
+  "archiveSnapshotAt": "2026-10-08T08:46:54Z"
+}

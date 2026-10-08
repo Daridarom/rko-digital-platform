@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 281,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Знамя Русского Космического Общества",
+      "description": "Знамя Русского Космического Общества символизирует собой прорыв России в космическое будущее. Оно называется - \"Красный Поход\".",
+      "url": "https://cosmatica.org/about/znamjarko.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/5/iqvtee-irdi.jpg",
+      "kind": "about-page",
+      "href": "view.html?p=article&ref=9f12e1b13273e53ad2",
+      "type": "article",
+      "sourceCharacters": 1026,
+      "verified": false
+    },
+    {
+      "title": "Материалы",
+      "description": "",
+      "url": "https://cosmatica.org/articles",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles",
+      "type": "articles",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Ближе к космосу",
+      "description": "",
+      "url": "https://cosmatica.org/articles/blizhe-k-kosmosu",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=3a354cf8b1878c1874",
+      "type": "articles-list",
+      "sourceCharacters": 951,
+      "verified": false
+    },
+    {
+      "title": "Фантастика РКО",
+      "description": "Русское Космическое Общество призывает к строительству общества будущего, воспитанию нового - космического человека.",
+      "url": "https://cosmatica.org/articles/fantastika-rko",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=a7c5e7c370403ffb6d",
+      "type": "articles-list",
+      "sourceCharacters": 2457,
+      "verified": false
+    },
+    {
+      "title": "Газета",
+      "description": "Рубрика содержит архивы всех выпусков газеты \"Природа-Общество-Человек\"",
+      "url": "https://cosmatica.org/articles/gazeta",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=0ccf2e8bed57b0926e",
+      "type": "articles-list",
+      "sourceCharacters": 433,
+      "verified": false
+    },
+    {
+      "title": "Издания",
+      "description": "Научные и научно-популярные издания: газеты, журналы, вестники.",
+      "url": "https://cosmatica.org/articles/izdanija",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=b2245d7b62bbf848d6",
+      "type": "articles-list",
+      "sourceCharacters": 168,
+      "verified": false
+    },
+    {
+      "title": "Конференции",
+      "description": "Русское Космическое Общество является организатором конференций, конгрессов, симпозиумов.",
+      "url": "https://cosmatica.org/articles/konferencii",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=a74099aa7c8657d2fa",
+      "type": "articles-list",
+      "sourceCharacters": 845,
+      "verified": false
+    },
+    {
+      "title": "Конкурс эссе \"Отечественная космонавтика:вчера-сегодня-завтра\"",
+      "description": "Республиканский конкурс литературного эссе «Отечественная космонавтика: вчера-сегодня-завтра».",
+      "url": "https://cosmatica.org/articles/konkurs-esse-otechestvennaja-kosmonavtika-vchera-segodnja-zavtra",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=67370481e447323646",
+      "type": "articles-list",
+      "sourceCharacters": 1206,
+      "verified": false
+    },
+    {
+      "title": "Конкурсные работы",
+      "description": "В своей работе Русское Космическое Общество уделяет значительное внимание работе с детьми и молодёжью. Одним из аспектов этой работы является проведение конкурсов, направленных на раскрытие и развитие творческого потенциала.",
+      "url": "https://cosmatica.org/articles/konkursnye-raboty",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=26c706e8db4321121a",
+      "type": "articles-list",
+      "sourceCharacters": 2871,
+      "verified": false
+    },
+    {
+      "title": "Космонавтика",
+      "description": "Материалы, связанные с историей, развитием космонавтики и современной деятельностью в космической отрасли.",
+      "url": "https://cosmatica.org/articles/kosmonavtika",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=43c10b825a7352ac6d",
+      "type": "articles-list",
+      "sourceCharacters": 147,
+      "verified": false
+    },
+    {
+      "title": "Курс лекций Субетто Александра Ивановича",
+      "description": "Цикл лекций директора Центра Ноосферного Развития Северо-Западного института управления РАНХиГС при Президенте РФ, профессора РГПУ им. А.И.Герцена, почётного профессора Новгородского государственного университета им. Ярослава Мудрого, председателя Философского Совета РКО, первого вице-президента Петровской академии наук и искусств, почетного президента Ноосферной общественной академии наук, члена Президиума Междунаро",
+      "url": "https://cosmatica.org/articles/kurs-lekcii-subetto-aleksandra-ivanovicha",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=4dde896dd70dd7d15f",
+      "type": "articles-list",
+      "sourceCharacters": 6871,
+      "verified": false
+    },
+    {
+      "title": "Медиа",
+      "description": "Категория содержит видео материалы, связанные с деятельностью Русского Космического Общества, его Членов и Участников.",
+      "url": "https://cosmatica.org/articles/media",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=b21bed326d37c69a16",
+      "type": "articles-list",
+      "sourceCharacters": 560,
+      "verified": false
+    },
+    {
+      "title": "Мир Героев",
+      "description": "Цель Книги — осуществление Космоплана. Живой Мир Героев. Выживание и победа навсегда. Каждый человек — это стрела, запущенная в будущее. Машина времени, если хотите. Это живое руководство к действию всем, кто хочет изменить мир. Создавать будущее, а не претерпевать его.",
+      "url": "https://cosmatica.org/articles/mir-geroev",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=73ff79a436bcecea34",
+      "type": "articles-list",
+      "sourceCharacters": 2301,
+      "verified": false
+    },
+    {
+      "title": "Научная школа прикладных исследований электромагнитных основ Жизни в Солнечной системе.",
+      "description": "Назначение Программы : сформировать реальное научное мировоззрение на основе обобщения (синтеза) современных достижений в разных областях знаний, используяанализ преданий, мифов и религиозных представлений. Показать при этом, что в основе Жизни лежат два Начала со свойствами электричества и магнетизма, формой выражения которых является чувствительная к излучениям электрически заряженная оболочка и замкнутая структура",
+      "url": "https://cosmatica.org/articles/nauchnaja-shkola-prikladnyh-issledovanii-elektromagnitnyh-osnov-zhizni-v-solnechnoi-sisteme",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=ee483d4d29f5a55e27",
+      "type": "articles-list",
+      "sourceCharacters": 4355,
+      "verified": false
+    },
+    {
+      "title": "Полезно знать",
+      "description": "В этой категории размещены материалы не относящиеся к деятельности РКО, но полезные и достойные, по нашему мнению, изучения.",
+      "url": "https://cosmatica.org/articles/polezno-znat",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=d78190e62818cb8057",
+      "type": "articles-list",
+      "sourceCharacters": 261,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

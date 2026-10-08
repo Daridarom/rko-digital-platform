@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/975-era-v-bolshom-kosmose.html",
+  "title": "Эра в \"Большом космосе\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Культура развития Жизни",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/6/2/era-v-bolshom-kosmose-photo-normal.jpg",
+      "alt": "Эра в \"Большом космосе\""
+    },
+    {
+      "type": "paragraph",
+      "text": "В новой передаче Роскосмос ТВ \"Большой космос\" вышел репортаж о съёмках фильма-киноурока \"ЭРА\".",
+      "spans": [
+        {
+          "text": "В новой передаче Роскосмос ТВ \"Большой космос\" вышел репортаж о съёмках фильма-киноурока \"ЭРА\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "В съёмках приняли участие:",
+      "spans": [
+        {
+          "text": "В съёмках приняли участие:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- Глава РКО Алексей Алексеевич Гапонов - член Президиума РКО, лётчик-космонавт, Герой России Валерий Иванович Токарев, сыгравший в фильме одну из главных ролей",
+      "spans": [
+        {
+          "text": "- Глава РКО  "
+        },
+        {
+          "text": "Алексей Алексеевич Гапонов",
+          "href": "https://cosmatica.org/users/7"
+        },
+        {
+          "text": "- член Президиума РКО, лётчик-космонавт, Герой России Валерий Иванович Токарев, сыгравший в фильме одну из главных ролей"
+        }
+      ],
+      "links": [
+        {
+          "text": "Алексей Алексеевич Гапонов",
+          "url": "https://cosmatica.org/users/7"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- режиссер фильма, член Совета по культуре РКО Дубровская Елена Владимировна",
+      "spans": [
+        {
+          "text": "- режиссер фильма, член Совета по культуре РКО Дубровская Елена Владимировна"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "- руководитель проекта \"Киноуроки в школах России\" Виктор Александрович Меркулов",
+      "spans": [
+        {
+          "text": "- руководитель проекта \"Киноуроки в школах России\" Виктор Александрович Меркулов"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "9qBc17aHni0",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=9qBc17aHni0"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Вышел репортаж телестудии \"Роскосмос\" о фильме ЭРА",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В новой передаче Роскосмос ТВ \"Большой космос\" вышел репортаж о съёмках фильма-киноурока \"ЭРА\". В съёмках приняли участие: - Глава РКО Алексей Алексеевич Гапонов - член Президиума РКО, лётчик-космонавт, Герой России Валерий Иванович Токарев, сыгравший в фильме одну из главных ролей - режиссер фильма, член Совета по культуре РКО Дубровская Елена Владимировна - руководитель проекта \"Киноуроки в школах России\" Виктор Александрович Меркулов",
+      "links": [
+        {
+          "title": "Алексей Алексеевич Гапонов",
+          "url": "https://cosmatica.org/users/7"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/6/2/era-v-bolshom-kosmose-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 744,
+    "storedTextCharacters": 471,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 6,
+    "sourceBytes": 47264
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 585,
+  "capturedBodyCharacters": 471,
+  "sourceTextSHA256": "9f802ed60e79aff110ba80417f9af76981c8a5c52beca1407952772af5738347",
+  "archiveSnapshotAt": "2026-10-08T09:14:31Z",
+  "publicVideoCount": 1
+}

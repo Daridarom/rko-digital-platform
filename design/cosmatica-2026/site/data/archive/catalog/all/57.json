@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 57,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Новый выпуск \"Ближе к космосу\"",
+      "description": "Ознакомиться с изданием вы можете на сайте Русского Космического Общества и в специальном разделе сайта проекта \"Мы верим в космос\": www.мыверимвкосмос.рф/Ближе-к-космосу .",
+      "url": "https://cosmatica.org/news/1378-novyi-vypusk-blizhe-k-kosmosu.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/2/6c9bc1cc.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=72c0cbfe5c7f94977c",
+      "type": "news-item",
+      "sourceCharacters": 1614,
+      "verified": false
+    },
+    {
+      "title": "Победа в войне ради победы над Войной",
+      "description": "61 год назад в космос поднялся простой деревенский парень Юрий Алексеевич Гагарин. За 16 лет из руин послевоенной разрухи, силою творческой мысли и самозабвенным трудом, к звёздам вознёс своего сына великий советский народ .",
+      "url": "https://cosmatica.org/news/1377-pobeda-v-voine-radi-pobedy-nad-voinoi.html",
+      "image": "https://cosmatica.org/upload/000/u35/e/5/pobeda-v-voine-radi-pobedy-nad-voinoi-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=260cac82ad0d1bed51",
+      "type": "news-item",
+      "sourceCharacters": 3336,
+      "verified": false
+    },
+    {
+      "title": "Первая партия помощи от РКО Донбассу уехала из Брянска",
+      "description": "Брянское региональное отделение в общей сумме передало в Волонтерский центр Брянска 1,5 тонны необходимых для жизни продуктов питания. Сортировкой груза занимаются волонтёры общественной организации «Мы вместе». Уже в ближайшее время гуманитарный груз от РКО будет отправлен в общем конвое жителям Луганской и Донецкой народных республик.",
+      "url": "https://cosmatica.org/news/1375-russkoe-kosmicheskoe-obschestvo-otpravilo-gumanitarnuyu-pomosch-dlja-zhitelei-donbassa.html",
+      "image": "https://cosmatica.org/upload/020/u2016/c/c/russkoe-kosmicheskoe-obschestvo-otpravilo-gumanitarnuyu-pomosch-dlja-zh.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3f9e4ecd7fbd8580a9",
+      "type": "news-item",
+      "sourceCharacters": 2539,
+      "verified": false
+    },
+    {
+      "title": "Выставка картин художников-космистов в Зеленограде",
+      "description": "Погрузиться в космическую живопись можно было со 2 по 20 апреля. Были представлены работы нескольких художников, в первую очередь - Геннадия Ивановича Тищенко - художника, писателя, сценариста, режиссёра, мультипликатора, почётного члена Русского Космического Общества. Сам Геннадий Иванович говорит, что большое влияние в юности оказали на него работы Константина Эдуардовича Циолковского и Ивана Антоновича Ефремова:",
+      "url": "https://cosmatica.org/news/1374-vystavka-chernovik.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/e/vystavka-kartin-hudozhnikov-kosmistov-uspeshno-sostojalas-s-2-po-2.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bf872e2d5f83a06afe",
+      "type": "news-item",
+      "sourceCharacters": 2893,
+      "verified": false
+    },
+    {
+      "title": "Законы Природы неизменны, но законы физики развиваются вместе с научным знанием.",
+      "description": "Уровень развития цивилизации определяется уровнем развития её фундаментальной науки. Уровень же развития фундаментальной науки определяется мерой понимания физической природы окружающей нас реальности.",
+      "url": "https://cosmatica.org/news/1373-zakony-fiziki.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/a/zakony-fiziki-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0360f71673b658db35",
+      "type": "news-item",
+      "sourceCharacters": 1909,
+      "verified": false
+    },
+    {
+      "title": "Юные гагаринцы Лопатино",
+      "description": "15 апреля вступили в ряды юных гагаринцев 20 воспитанников старшей группы дошкольного отделения МБОУ \"Лопатинская средняя общеобразовательная школа\". Заведующая отделением - Салия Владимировна Глазкова.",
+      "url": "https://cosmatica.org/news/1369-bortovoi-zhurnal-lopatinskoi-shkoly.html",
+      "image": "https://cosmatica.org/upload/002/u218/7/c/bortovoi-zhurnal-lopatinskoi-shkoly-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f0fbdbe7278269d0a3",
+      "type": "news-item",
+      "sourceCharacters": 2715,
+      "verified": false
+    },
+    {
+      "title": "Культурные коды нашей Человечности.",
+      "description": "Рекомендуем к просмотру прекрасную, содержательную лекцию нашей Содеи из Канады Ирины Константиновны Мухиной , в которой она в простой и ясной форме раскрывает сущность происходящих сегодня процессов, в которых перед человечеством стоит выбор, или некросфера деградации и гибели, или ноосфера развития и гармония Жизни.",
+      "url": "https://cosmatica.org/news/1368-kulturnye-kody-nashei-chelovechnosti.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/4/kulturnye-kody-nashei-chelovechnosti-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=33bcdf23e4c9445e1d",
+      "type": "news-item",
+      "sourceCharacters": 1194,
+      "verified": false
+    },
+    {
+      "title": "День Космонавтики в Кузбассе",
+      "description": "Редакция Русского Космического Общества с радостью получает отчёты от гагаринских дружин из различных регионов о том, как ребята провели День Космонавтики. Значимость этого праздника трудно переоценить, и это только подтверждает заинтересованность и отклик педагогов, учеников и руководителей дружин.",
+      "url": "https://cosmatica.org/news/1366-otchet-o-provedennyh-meroprijatijah-ko-dnyu-kosmonavtiki-na-baze-kemerovskogo-kooperativnogo-te.html",
+      "image": "https://cosmatica.org/upload/002/u218/9/e/den-kosmonavtiki-kemerovsk-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=280c74e1989b6be439",
+      "type": "news-item",
+      "sourceCharacters": 4007,
+      "verified": false
+    },
+    {
+      "title": "Киноуроки в помощь духовно-нравственному воспитанию школьников Макеевки",
+      "description": "14 апреля 2022 года в формате видеоконференции при содействии Русского Космического Общества в Макеевке (ДНР) прошло заседание круглого стола по теме «Приобщение школьников к духовно-нравственным ценностям человеческой культуры посредством реализации проекта «Киноуроки в школах России»»",
+      "url": "https://cosmatica.org/news/1365-kinouroki-v-pomosch-duhovno-nravstvennomu-vospitaniyu-shkolnikov-makeevki.html",
+      "image": "https://cosmatica.org/upload/003/u380/6/b/kinouroki-v-pomosch-duhovno-nravstvennomu-vospitaniyu-shkolnikov.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=bd1906928577a2f6bd",
+      "type": "news-item",
+      "sourceCharacters": 3169,
+      "verified": false
+    },
+    {
+      "title": "Студенческая смена \"Обед с космонавтом\"",
+      "description": "Погода порадовала солнышком, теплом и первыми цветами. Во встрече приняли участие студенты Московского государственного областного университета (МГОУ), студенты Московского государственного университета технологий и управления им. К.Г. Разумовского (МГУТУ), активные участники Просветительской общественной инициативы \"Пойдём с нами\" из Москвы и Московской области.",
+      "url": "https://cosmatica.org/news/1364-studencheskaja-smena-obed-s-kosmonavtom.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/f/studencheskaja-smena-obed-s-kosmonavtom-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=21295e4a1e89a67973",
+      "type": "news-item",
+      "sourceCharacters": 2456,
+      "verified": false
+    },
+    {
+      "title": "Шахматный турнир \"Юные звёзды\"",
+      "description": "Вот уже 6 лет подряд проводится открытый фестиваль \"Юные звёзды\". Но в этот раз был особый статус мероприятия - благотворительный. Все собранные на мероприятии средства, за исключением прямых организационных расходов, направлены на материальную помощь детям, оказавшимся в сложной жизненной ситуации на Донбассе.",
+      "url": "https://cosmatica.org/news/1363-shahmatnyi-turnir-yunye-zvyozdy.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/b/cf0e47f2.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d5e33ddcb95f3482d0",
+      "type": "news-item",
+      "sourceCharacters": 2760,
+      "verified": false
+    },
+    {
+      "title": "Гуманитарный штаб РКО на Донбассе",
+      "description": "Для координации деятельности в данном направлении создан Штаб вклада в Победу Донецкого отделения Русского Космического Общества. Координатор штаба - секретарь Донецкого отделения РКО Абраменкова Элина Александровна.",
+      "url": "https://cosmatica.org/news/1362-gumanitarnyi-shtab-rko-na-donbasse.html",
+      "image": "https://cosmatica.org/upload/000/u35/0/9/gumanitarnyi-shtab-rko-na-donbasse-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5965cca1f15c3cf036",
+      "type": "news-item",
+      "sourceCharacters": 2583,
+      "verified": false
+    },
+    {
+      "title": "Даёшь позитивные новости!",
+      "description": "Русское Космическое Общество проводит конкурс \"Журналист - созидатель будущего.\"",
+      "url": "https://cosmatica.org/news/1361-dayosh-polozhitelnye.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/4/dayosh-polozhitelnye-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=829afdf6f7cd96e2b0",
+      "type": "news-item",
+      "sourceCharacters": 14882,
+      "verified": false
+    },
+    {
+      "title": "Открыты новые штабы вклада в победу",
+      "description": "Товарищи! Мы — Русские, и нам не безразлична Судьба нашего Народа и нашего Отечества. Сегодня настало время Действовать!",
+      "url": "https://cosmatica.org/news/1360-otkryty-novye-shtaby-vklada-v-pobedu.html",
+      "image": "https://cosmatica.org/upload/000/u35/5/e/otkryty-novye-shtaby-vklada-v-pobedu-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0f4b5b9ada16758f4b",
+      "type": "news-item",
+      "sourceCharacters": 4460,
+      "verified": false
+    },
+    {
+      "title": "Ночь Юрия в Пскове",
+      "description": "Данные телескопы привезли участники Псковского клуба любительской астрономии АстроПсков : Пётр Митрофанов, Сергей Попов, участник Псковского отделения РКО Максим Евдокимов и Владимир Юрьевич Колпаков - председатель Псковского регионального отделения РКО и руководитель Центра Юный техник в Пскове .",
+      "url": "https://cosmatica.org/news/1359-noch-yurija-v-pskove.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/c/noch-yurija-v-pskove-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ba4db8e480f8f46624",
+      "type": "news-item",
+      "sourceCharacters": 2146,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

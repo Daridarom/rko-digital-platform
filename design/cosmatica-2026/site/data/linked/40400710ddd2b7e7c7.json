@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/80-uord-b-dyubo-r-zemlja-tolko-odna.html",
+  "title": "Уорд Б., Дюбо Р. - Земля только одна",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/b1/76/uord-b-dyubo-r-zemlja-tolko-odna-photo-normal.png",
+      "alt": "Уорд Б.,  Дюбо Р. - Земля только одна"
+    },
+    {
+      "type": "paragraph",
+      "text": "Концепция устойчивого развития: потребности в ...\r\nвозможно, что Homo Sapience как биологический вид сумеет выжить на истощенной и испорченной Земле. Но сможет ли Человек сберечь свое « человеческое» в оскверненной окружающей среде?».",
+      "spans": [
+        {
+          "text": "Концепция устойчивого развития: потребности в ...\r\nвозможно, что Homo Sapience как биологический вид сумеет выжить на истощенной и испорченной Земле. Но сможет ли Человек сберечь свое « человеческое» в оскверненной окружающей среде?»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Концепция устойчивого развития: потребности в ... возможно, что Homo Sapience как биологический вид сумеет выжить на истощенной и испорченной Земле. Но сможет ли Человек сберечь свое « человеческое» в оскверненной окружающей среде?».",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 6 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/91/5f267079879b951f09df69dec5764034"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/b1/76/uord-b-dyubo-r-zemlja-tolko-odna-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/91/5f267079879b951f09df69dec5764034"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 289,
+    "storedTextCharacters": 234,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39854
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 252,
+  "capturedBodyCharacters": 234,
+  "sourceTextSHA256": "a17cc2a69e6fe400d64b4b29709ef9e8595ef532a5d5b973d12d6b4bc8947b45",
+  "archiveSnapshotAt": "2026-10-08T08:51:08Z"
+}

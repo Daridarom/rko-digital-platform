@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/1",
+  "title": "Шабанов Павел Алексеевич",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/e/8/c0b183a1.jpg",
+      "alt": "Шабанов Павел Алексеевич"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 9"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/6/7/64b6db69.jpg",
+      "alt": "Шабанов Павел Алексеевич"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 12"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Инженер по специальности «Информационные системы и технологии» (МГГУ 2011)",
+      "spans": [
+        {
+          "text": "Инженер по специальности «Информационные системы и технологии» (МГГУ 2011)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Веб-разработчик, занимаюсь разработкой и поддержкой интернет-ресурсов Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "Веб-разработчик, занимаюсь разработкой и поддержкой интернет-ресурсов Русского Космического Общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Автор сборника стихов «Обнимая небо» 2018",
+      "spans": [
+        {
+          "text": "Автор сборника стихов «Обнимая небо» 2018"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Организатор",
+      "spans": [
+        {
+          "text": "Организатор"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "литературного клуба РКО",
+      "spans": [
+        {
+          "text": "литературного клуба РКО"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "vk.com/pareutov",
+      "spans": [
+        {
+          "text": "vk.com/pareutov"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Инженер по специальности «Информационные системы и технологии» (МГГУ 2011) Веб-разработчик, занимаюсь разработкой и поддержкой интернет-ресурсов Русского Космического Общества. Автор сборника стихов «Обнимая небо» 2018 Организатор литературного клуба РКО vk.com/pareutov",
+      "links": [
+        {
+          "title": "литературного клуба РКО",
+          "url": "https://cosmatica.org/projects/cosmaticapoetry"
+        },
+        {
+          "title": "vk.com/pareutov",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fvk.com%2Fpareutov"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/e/8/c0b183a1.jpg",
+    "https://cosmatica.org/upload/000/u1/6/7/64b6db69.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 379,
+    "storedTextCharacters": 326,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 37040
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 298,
+  "capturedBodyCharacters": 326,
+  "sourceTextSHA256": "3e5ad441861d1ae56e21acf83452250f85e231c0773de8e7769be4848b4e9c9b",
+  "archiveSnapshotAt": "2026-10-08T09:17:51Z"
+}

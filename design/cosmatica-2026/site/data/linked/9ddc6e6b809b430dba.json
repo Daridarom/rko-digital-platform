@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/439-bud-muzhchinoi.html",
+  "title": "Будь мужчиной",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/a/9/bud-muzhchinoi-photo-normal.jpg",
+      "alt": "Будь мужчиной"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга \"Будь мужчиной\" адресована молодёжи. Она поднимает нравственные, этические проблемы, правовые вопросы.",
+      "spans": [
+        {
+          "text": "Книга \"Будь мужчиной\" адресована молодёжи. Она поднимает нравственные, этические проблемы, правовые вопросы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Среднеуральское книжное издательство",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга \"Будь мужчиной\" адресована молодёжи. Она поднимает нравственные, этические проблемы, правовые вопросы.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 11 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2794/c6615338404f184ec95d188e045d029d"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/a/9/bud-muzhchinoi-photo-normal.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2794/c6615338404f184ec95d188e045d029d"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 186,
+    "storedTextCharacters": 108,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39748
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 172,
+  "capturedBodyCharacters": 108,
+  "sourceTextSHA256": "10da95e2b3516efffc6a40013339711831827860f07725336ed405d4e38a8edc",
+  "archiveSnapshotAt": "2026-10-08T08:49:59Z"
+}

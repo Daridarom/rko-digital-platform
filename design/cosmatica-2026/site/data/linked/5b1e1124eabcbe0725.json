@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/30-universalnyi-prostranstvenno-vremennoi-jazyk-lt-jazyk.html",
+  "title": "Универсальный пространственно-временной язык (LT-язык)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это язык многомерных пространственно-временных величин, который сшива­ет воедино разнородные меры-законы для наиболее точного решения задач исследователя – конструктора – организатора в интересах без­опасности и устойчивого развития.",
+      "spans": [
+        {
+          "text": "это язык многомерных пространственно-временных величин, который сшива­ет воедино разнородные меры-законы для наиболее точного решения задач исследователя – конструктора – организатора в интересах без­опасности и устойчивого развития."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это язык многомерных пространственно-временных величин, который сшива­ет воедино разнородные меры-законы для наиболее точного решения задач исследователя – конструктора – организатора в интересах без­опасности и устойчивого развития.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 288,
+    "storedTextCharacters": 233,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32673
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 233,
+  "capturedBodyCharacters": 233,
+  "sourceTextSHA256": "afafaf76e61e034672a885aa15859ba1474bb2a0e9b9f8b9561d416b56076a6b",
+  "archiveSnapshotAt": "2026-10-08T08:46:47Z"
+}

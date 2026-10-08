@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/17-fizicheskaja-velichina.html",
+  "title": "Физическая величина",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это",
+      "spans": [
+        {
+          "text": "это"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "величина",
+      "spans": [
+        {
+          "text": "величина"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "с мерой пространственно- временных единиц.",
+      "spans": [
+        {
+          "text": "с мерой пространственно- временных единиц."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это величина с мерой пространственно- временных единиц.",
+      "links": [
+        {
+          "title": "величина",
+          "url": "https://cosmatica.org/glossary/158-velichina.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 75,
+    "storedTextCharacters": 53,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31709
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 55,
+  "capturedBodyCharacters": 53,
+  "sourceTextSHA256": "4927353347cf76ff3d0990e4caa9662f99521852585f9bc7a4b7e4eb6fd1a8e8",
+  "archiveSnapshotAt": "2026-10-08T08:46:40Z"
+}

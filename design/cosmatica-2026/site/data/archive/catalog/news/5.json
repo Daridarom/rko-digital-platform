@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 5,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Космический опрос. Гагаринцы несут просвещение в массы",
+      "description": "Юные исследователи, словно настоящие космонавты, отправились в захватывающее путешествие по просторам человеческих знаний. Их миссия была не менее важной, чем покорение космических высот — они должны были узнать, насколько хорошо современники помнят великие достижения человечества в освоении космоса.",
+      "url": "https://cosmatica.org/news/2202-kosmicheskii-opros-gagarincy-nesut-prosveschenie-v-massy.html",
+      "image": "https://cosmatica.org/upload/002/u218/c/2/kosmicheskii-opros-gagarincy-nesut-prosveschenie-v-massy-photo-nor.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=101ea3763e56ac58a3",
+      "type": "news-item",
+      "sourceCharacters": 3882,
+      "verified": false
+    },
+    {
+      "title": "Новое издание трудов П.Г. Кузнецова и Б.Е.Большакова и другая работа научной школы",
+      "description": "Здравствуйте, уважаемые содеи! Делимся с вами актуальными новостями в работе нашей научной школы.",
+      "url": "https://cosmatica.org/news/2200-novoe-izdanie-trudov-p-g-kuznecova.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/8/060a7d60.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=313c2c6f75c4a9d227",
+      "type": "news-item",
+      "sourceCharacters": 29317,
+      "verified": false
+    },
+    {
+      "title": "С Днём Весны и Труда! Строим будущее своими руками!",
+      "description": "С Днем Весны и Труда! Строим будущее своими руками!",
+      "url": "https://cosmatica.org/news/2199-s-dnem-vesny-i-truda-stroim-buduschee-svoimi-rukami.html",
+      "image": "https://cosmatica.org/upload/000/u7/b/8/s-dnem-vesny-i-truda-stroim-buduschee-svoimi-rukami-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0d235f387c938120df",
+      "type": "news-item",
+      "sourceCharacters": 1708,
+      "verified": false
+    },
+    {
+      "title": "Ко дню труда и мира на Земле!",
+      "description": "Человек есть часть жизни и живого. Это триединая сущность, состоящая из биологического тела, социальной личности и «искры божьей» - души. Душу оставим сегодня. Сегодня про физическое. Про труд и творчество. Про трудовую победу над Войной силой творческой мысли.",
+      "url": "https://cosmatica.org/news/2198-ko-dnyu-truda-i-mira-na-zemle.html",
+      "image": "https://cosmatica.org/upload/000/u7/a/1/den-truda-i-mira-na-zemle-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=35dcb77319df6e6061",
+      "type": "news-item",
+      "sourceCharacters": 3751,
+      "verified": false
+    },
+    {
+      "title": "Закон развития Жизни – это просто, если...",
+      "description": "Закон развития Жизни - это утверждение о том, что у Жизни, как космопланетарного явления, есть цель, функция и законы, по которым она развивается на поверхности Земли и за её пределами.",
+      "url": "https://cosmatica.org/news/2197-zakon-razvitija-zhizni-eto-prosto-esli.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/e/zakon-razvitija-zhizni-eto-prosto-esli-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a34c0de4f6d0f81c56",
+      "type": "news-item",
+      "sourceCharacters": 18578,
+      "verified": false
+    },
+    {
+      "title": "Гагаринские дружины создают космические стенгазеты!",
+      "description": "Конкурс «Космическая стенгазета» проходил в рамках детско-юношеского звездариума «Слёт гагаринских дружин» , посвящённого 65-летию первого полёта человека в космос.",
+      "url": "https://cosmatica.org/news/2196-itogi-konkursa-kosmicheskaja-stengazeta.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/5/bcb54d8b.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=54d3d3d7c037908287",
+      "type": "news-item",
+      "sourceCharacters": 3387,
+      "verified": false
+    },
+    {
+      "title": "Киноурок \"Город-сад\"",
+      "description": "Семидесятый фильм-киноурок, посвящённый качеству \"Энтузиазм\". Съёмки фильма прошли в Брянской области.",
+      "url": "https://cosmatica.org/news/2195-kinourok-gorod-sad.html",
+      "image": "https://cosmatica.org/upload/000/u7/7/a/c74ad6f4.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=63aad63d2723bf3ba0",
+      "type": "news-item",
+      "sourceCharacters": 22223,
+      "verified": false
+    },
+    {
+      "title": "Эстафета девизов",
+      "description": "Представьте: одна дружина, один девиз — это уже сила. А теперь представьте, что десятки дружин по всей стране и за её пределами объединяются в одной эстафете. Их девизы, звучащие в унисон, создают нечто большее — общую идею, которая вдохновляет и объединяет.",
+      "url": "https://cosmatica.org/news/2193-estafeta-devizov.html",
+      "image": "https://cosmatica.org/upload/002/u218/d/0/estafeta-devizov-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=c7d6f4029c94db6036",
+      "type": "news-item",
+      "sourceCharacters": 1644,
+      "verified": false
+    },
+    {
+      "title": "Рынок - как механизм гибели человека и природы",
+      "description": "Уважаемые содеи! Предлагаем изучить новую монографию председателя философского Совета Русского Космического Общества Субетто Александра Ивановича, в которой содержится богатый фактологический материал по проблематике ноосферного перехода и угрозы гибели цивилизации под воздействием системы \"рыночных отношений\".",
+      "url": "https://cosmatica.org/news/2192-rynok-kak-mehanizm-gibeli-cheloveka-i-prirody.html",
+      "image": "https://cosmatica.org/upload/000/u7/9/7/def5798f.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fd678b94f077f4d279",
+      "type": "news-item",
+      "sourceCharacters": 7092,
+      "verified": false
+    },
+    {
+      "title": "Добрые дела и звёздные победы",
+      "description": "Космическая неделя стала для наших юных гагаринцев временем ярких событий, открытий и настоящего командного духа. Ребята приняли участие во Всероссийском творческом конкурсе «Космическое путешествие», где смогли проявить фантазию, креативность и искренний интерес к теме космоса. Каждая работа — это отражение детской мечты, стремления к неизведанному и веры в собственные возможности.",
+      "url": "https://cosmatica.org/news/2191-dobrye-dela-i-zvyozdnye-pobedy.html",
+      "image": "https://cosmatica.org/upload/002/u218/4/a/dobrye-dela-i-zvyozdnye-pobedy-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=92135f2f451e0120c2",
+      "type": "news-item",
+      "sourceCharacters": 2002,
+      "verified": false
+    },
+    {
+      "title": "Добрые дела и космический праздник Гагаринского отряда школы № 32 Макеевки",
+      "description": "В преддверии Дня космонавтики учащиеся Гагаринского отряда ГБОУ «Средняя школа № 32 города Макеевки» провели для первоклассников 1-В класса мероприятие, которое запомнится малышам надолго. Старшие ребята не только рассказали об истории Первого полёта человека в космос, достижениях отечественной космонавтики и современных исследованиях Вселенной, но и подготовили для юных слушателей настоящий сюрприз.",
+      "url": "https://cosmatica.org/news/2189-dobrye-dela-i-kosmicheskii-prazdnik-gagarinskogo-otrjada-shkoly-32-makeevki.html",
+      "image": "https://cosmatica.org/upload/002/u218/0/b/dobrye-dela-i-kosmicheskii-prazdnik-gagarinskogo-otrjada-shkoly-3.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2af78a2c4994864639",
+      "type": "news-item",
+      "sourceCharacters": 3322,
+      "verified": false
+    },
+    {
+      "title": "Космос ждёт нас навсегда!",
+      "description": "В этот день мы чествуем достижение наших советских предков, усилием воли, труда, культуры, образования, науки и техники, плановым, народным хозяйством и общественной формой собственности на средства производства совершивших прорыв!",
+      "url": "https://cosmatica.org/news/2187-kosmos-zhdyot-nas-navsegda.html",
+      "image": "https://cosmatica.org/upload/000/u7/a/a/5b681905.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=0ec49cda94f8df33f8",
+      "type": "news-item",
+      "sourceCharacters": 5100,
+      "verified": false
+    },
+    {
+      "title": "Конкурс космических проектов в Пскове",
+      "description": "Наше жюри, в состав которого входили популяризаторы науки и настоящие творческие педагоги из разных городов, выставило все оценки и мы готовы подвести итоги нашего конкурса творческих проектов.",
+      "url": "https://cosmatica.org/news/2244-konkurs-kosmicheskih-proektov-v-pskove.html",
+      "image": "https://cosmatica.org/upload/000/u7/c/d/konkurs-kosmicheskih-proektov-v-pskove-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=09c42e5fc8f0144ab0",
+      "type": "news-item",
+      "sourceCharacters": 1838,
+      "verified": false
+    },
+    {
+      "title": "Маленькие шаги к большой Вселенной детского сада № 97 г. Владимир",
+      "description": "В МБДОУ «Детский сад 97» г. Владимир прошло торжественное мероприятие, посвящённое 65-летию Первого полёта человека в космос. Праздник стал важной вехой в жизни учреждения, которое по инициативе Русского космического общества и Владимирской общественной организации ветеранов космодрома Байконур включилось в деятельность Всенародного детско-юношеского движения «Дружина Гагаринцев».",
+      "url": "https://cosmatica.org/news/2185-malenkie-shagi-k-bolshoi-vselennoi-detskogo-sada-97-g-vladimir.html",
+      "image": "https://cosmatica.org/upload/124/u12409/d/e/malenkie-shagi-k-bolshoi-vselennoi-detskogo-sada-97-g-vladimi.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ceeb864443d2ab14a7",
+      "type": "news-item",
+      "sourceCharacters": 2941,
+      "verified": false
+    },
+    {
+      "title": "Тайна \"Маленького принца\" открылась детским сердцам",
+      "description": "В завершении 2025, юбилейного года 125-летия Антуана де Сент-Экзюпери Русское Космическое Общество и фонд «Мир Сент-Экзюпери» в России дали старт конкурсу детского творчества под названием «ТАЙНА МАЛЕНЬКОГО ПРИНЦА», предлагая детям открыть для себя глубокие смыслы легендарной повести-сказки и воплотить тайны, открывшиеся им, в художественном и эпистолярном жанре.",
+      "url": "https://cosmatica.org/news/2184-taina-malenkogo-princa-otkrylas-detskim-serdcam.html",
+      "image": "https://cosmatica.org/upload/002/u218/1/a/taina-malenkogo-princa-otkrylas-detskim-serdcam-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2d6a59d3ad601a5944",
+      "type": "news-item",
+      "sourceCharacters": 10008,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

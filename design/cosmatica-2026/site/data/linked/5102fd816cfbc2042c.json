@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/303-izbran-novyi-prezident-moo-russkoe-kosmicheskoe-obschestvo.html",
+  "title": "Избран новый Президент МОО \"Русское космическое общество\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/1/b/izbran-novyi-prezident-moo-russkoe-kosmicheskoe-obschestvo-photo.jpg",
+      "alt": "Избран новый Президент МОО \"Русское космическое общество\""
+    },
+    {
+      "type": "paragraph",
+      "text": "В голосовании приняло участие: 74 человека – 61% от общего числа членов Общества, имеющих право голоса (минимальный порог, установленный Уставом , п. 4.1. – 50%).",
+      "spans": [
+        {
+          "text": "В голосовании приняло участие: 74 человека – 61% от общего числа членов Общества, имеющих право голоса (минимальный порог, установленный "
+        },
+        {
+          "text": "Уставом",
+          "href": "https://cosmatica.org/about/8-ustav-russkogo-kosmicheskogo-obschestva.html"
+        },
+        {
+          "text": ", п. 4.1. – 50%)."
+        }
+      ],
+      "links": [
+        {
+          "text": "Уставом",
+          "url": "https://cosmatica.org/about/8-ustav-russkogo-kosmicheskogo-obschestva.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Все участники голосования единогласно проголосовали \"ЗА\" предложенную кандидатуру. Проголосовавших против и воздержавшихся нет.",
+      "spans": [
+        {
+          "text": "Все участники голосования единогласно проголосовали \"ЗА\" предложенную кандидатуру. Проголосовавших против и воздержавшихся нет."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Данные результаты голосованию дают основания считать избранным Президентом МОО «Русское космическое общество» Гапонова Алексея Алексеевича .",
+      "spans": [
+        {
+          "text": " "
+        },
+        {
+          "text": "Данные",
+          "href": "https://cosmatica.org/glossary/150-dannye.html"
+        },
+        {
+          "text": " результаты голосованию дают основания считать избранным Президентом МОО «Русское космическое общество» "
+        },
+        {
+          "text": "Гапонова Алексея Алексеевича",
+          "href": "https://cosmatica.org/users/7"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      "links": [
+        {
+          "text": "Данные",
+          "url": "https://cosmatica.org/glossary/150-dannye.html"
+        },
+        {
+          "text": "Гапонова Алексея Алексеевича",
+          "url": "https://cosmatica.org/users/7"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Срок полномочий Президента организации устанавливается в соответствии с п. 4.2.4. Устава – 5 лет. Начало полномочий: 13.12.2018 г. - окончание полномочий: 12.12.2023 г.",
+      "spans": [
+        {
+          "text": "Срок полномочий Президента организации устанавливается в соответствии с п. 4.2.4. Устава – 5 лет. Начало полномочий: 13.12.2018 г. - окончание полномочий: 12.12.2023 г."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "На пост Президента Организации Алексей Алексеевич Гапонов был избран большинством голосов членов РКО.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В голосовании приняло участие: 74 человека – 61% от общего числа членов Общества, имеющих право голоса (минимальный порог, установленный Уставом , п. 4.1. – 50%). Все участники голосования единогласно проголосовали \"ЗА\" предложенную кандидатуру. Проголосовавших против и воздержавшихся нет. Данные результаты голосованию дают основания считать избранным Президентом МОО «Русское космическое общество» Гапонова Алексея Алексеевича . Срок полномочий Президента организации устанавливается в соответствии с п. 4.2.4. Устава – 5 лет. Начало полномочий: 13.12.2018 г. - окончание полномочий: 12.12.2023 г.",
+      "links": [
+        {
+          "title": "Уставом",
+          "url": "https://cosmatica.org/about/8-ustav-russkogo-kosmicheskogo-obschestva.html"
+        },
+        {
+          "title": "Данные",
+          "url": "https://cosmatica.org/glossary/150-dannye.html"
+        },
+        {
+          "title": "Гапонова Алексея Алексеевича",
+          "url": "https://cosmatica.org/users/7"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/1/b/izbran-novyi-prezident-moo-russkoe-kosmicheskoe-obschestvo-photo.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 887,
+    "storedTextCharacters": 608,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 46747
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 719,
+  "capturedBodyCharacters": 608,
+  "sourceTextSHA256": "2fbe35bd17778c54e504175c437bdc5d361e0b8e5fde905f3da39542c81bc815",
+  "archiveSnapshotAt": "2026-10-08T09:11:09Z"
+}

@@ -12,7 +12,7 @@
     },
     {
       "type": "image",
-      "src": "assets/source/578dfe3d25ad86490110ebff.webp",
+      "src": "https://cosmatica.org/upload/002/u218/7/0/image-2.jpg",
       "alt": ""
     },
     {
@@ -1413,11 +1413,11 @@
           "url": "https://cosmatica.org/glossary/140-zhivaja-sistema.html"
         }
       ],
-      "image": "assets/source/578dfe3d25ad86490110ebff.webp"
+      "image": "https://cosmatica.org/upload/002/u218/7/0/image-2.jpg"
     }
   ],
   "images": [
-    "assets/source/578dfe3d25ad86490110ebff.webp"
+    "https://cosmatica.org/upload/002/u218/7/0/image-2.jpg"
   ],
   "documents": [],
   "categories": [],
@@ -1430,5 +1430,11 @@
     "sourceImageCount": 1,
     "paragraphCount": 105,
     "sourceBytes": 126700
-  }
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 24217,
+  "capturedBodyCharacters": 22352,
+  "sourceTextSHA256": "2edd440206a2f8dda9cb7db86a4aa94e841ca53889810c0953a3bfc7527af305",
+  "archiveSnapshotAt": "2026-10-08T08:39:15Z"
 }

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/20-protivorechie-mezhdu-pervym-i-vtorym-zakonami-termodinamiki.html",
+  "title": "Противоречие между первым и вторым законами термодинамики",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Неудачные попытки изобретения вечного двигателя\r\nпривели к установлению одного из фундаментальных законов\r\nприроды — закона сохранения энергии.",
+      "spans": [
+        {
+          "text": "Неудачные попытки изобретения вечного двигателя\r\nпривели к установлению одного из фундаментальных законов\r\nприроды — закона сохранения энергии."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Неудачные попытки изобретения вечного двигателя привели к установлению одного из фундаментальных законов природы — закона сохранения энергии.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 319 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/36/abf5f0962ebe3b36039d0b330d9ee592"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/36/abf5f0962ebe3b36039d0b330d9ee592"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 220,
+    "storedTextCharacters": 143,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39374
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 162,
+  "capturedBodyCharacters": 143,
+  "sourceTextSHA256": "5dd0259c36dda8c6dc0af113c07266bf9314bdeef7ee2c6a073f0af5218cb794",
+  "archiveSnapshotAt": "2026-10-08T08:47:59Z"
+}

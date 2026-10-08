@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/498-filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-ustoichivogo-razvitija.html",
+  "title": "Философские вопросы современного естествознания, синергетики и устойчивого развития",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/c/5/filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-u.jpg",
+      "alt": "Философские вопросы современного естествознания, синергетики и устойчивого развития"
+    },
+    {
+      "type": "paragraph",
+      "text": "В краткой и доступной для широкой аудитории форме на философском уровне изложены фрагменты эволюции геосфер, биосферы и социосферы. Показана применимость различных междисциплинарных языков и принципов к исследованию и описанию динамики социоприродных систем. Проанализированы пути реализации стратегий устойчивого развития.",
+      "spans": [
+        {
+          "text": "В краткой и доступной для широкой аудитории форме на философском уровне изложены фрагменты эволюции геосфер, биосферы и социосферы. Показана применимость различных междисциплинарных языков и принципов к исследованию и описанию динамики социоприродных систем. Проанализированы пути реализации стратегий устойчивого развития."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Кузнецов О.Л., Шамаева Е.Ф.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В краткой и доступной для широкой аудитории форме на философском уровне изложены фрагменты эволюции геосфер, биосферы и социосферы. Показана применимость различных междисциплинарных языков и принципов к исследованию и описанию динамики социоприродных систем. Проанализированы пути реализации стратегий устойчивого развития.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 3 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/4585/e380ef1ba493951b248d1f7e90191862"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/c/5/filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-u.jpg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/4585/e380ef1ba493951b248d1f7e90191862"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 461,
+    "storedTextCharacters": 323,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40670
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 377,
+  "capturedBodyCharacters": 323,
+  "sourceTextSHA256": "b8fc7afc5dba1bf9937baf0ce0e4d4fb965e1f2a70e7cb6ec2ca786a76422d21",
+  "archiveSnapshotAt": "2026-10-08T08:50:36Z"
+}

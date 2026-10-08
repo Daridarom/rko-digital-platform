@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/36-o-mezhdunarodnoi-kompleksnoi-celevoi-programme-prezident-obraschenie-k-mirovym-politicheskim-lide.html",
+  "title": "О международной комплексной целевой программе «ПРЕЗИДЕНТ»: обращение к мировым политическим лидерам,",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "27 января 1994 г. мною объявлено о начале работ по\r\nновой международной целевой комплексной программе\r\n«ПРЕЗИДЕНТ».",
+      "spans": [
+        {
+          "text": "27 января 1994 г. мною объявлено о начале работ по\r\nновой международной целевой комплексной программе\r\n«ПРЕЗИДЕНТ»."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "27 января 1994 г. мною объявлено о начале работ по новой международной целевой комплексной программе «ПРЕЗИДЕНТ».",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 194 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/52/c48254f1f26ed6f49589b789765d4a25"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/52/c48254f1f26ed6f49589b789765d4a25"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 235,
+    "storedTextCharacters": 115,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39548
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 134,
+  "capturedBodyCharacters": 115,
+  "sourceTextSHA256": "5cff051ec7127ccd178003b8ddb8f9e3e5451c55d3eec65108fd0ea66639c1c1",
+  "archiveSnapshotAt": "2026-10-08T08:49:30Z"
+}

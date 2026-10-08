@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "glossary",
+  "title": "Глоссарий",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 10,
+  "pageCount": 16,
+  "total": 236,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Постоянные аксиомы теории",
+      "description": "истинные высказывания данной тео­рии (законы сохранения).",
+      "url": "https://cosmatica.org/glossary/84-postojannye-aksiomy-teorii.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=29475088e95a4c5fce",
+      "type": "article",
+      "sourceCharacters": 57,
+      "verified": false
+    },
+    {
+      "title": "Практика",
+      "description": "то, что существовало и существует в реальном мире. «Сухим остатком» практики является общий",
+      "url": "https://cosmatica.org/glossary/83-praktika.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=eaffae22aac188d9fd",
+      "type": "article",
+      "sourceCharacters": 106,
+      "verified": false
+    },
+    {
+      "title": "Прикладная научная теория",
+      "description": ", изложенная в терминах и понятиях с указанием меры и измерительной процедуры. Структура прикладной научной теории: язык, аксиоматика,",
+      "url": "https://cosmatica.org/glossary/82-prikladnaja-nauchnaja-teorija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=2f517f7a23a6780432",
+      "type": "article",
+      "sourceCharacters": 866,
+      "verified": false
+    },
+    {
+      "title": "Принцип живучести или сохранение развития",
+      "description": "выявления живого вещества в биосфере». (В.И. Вернадский)",
+      "url": "https://cosmatica.org/glossary/81-princip-zhivuchesti-ili-sohranenie-razvitija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=9ae33c6d491c3e98ca",
+      "type": "article",
+      "sourceCharacters": 104,
+      "verified": false
+    },
+    {
+      "title": "Принцип целесообразной деятельности",
+      "description": "деятельность человека удо­влетворяет требованиям целесообразности тогда и только тогда, ког­да результат этой деятельности приводит к увеличению его полезной мощности, или к уменьшению необходимого времени на выполнение работы.",
+      "url": "https://cosmatica.org/glossary/80-princip-celesoobraznoi-dejatelnosti.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=23f42fd3c365217c87",
+      "type": "article",
+      "sourceCharacters": 227,
+      "verified": false
+    },
+    {
+      "title": "Принцип соизмеримости",
+      "description": "в определенной системе измерений вели­чины называются соизмеримыми, если удовлетворяют двум требова­ниям: имеют общую физическую размерность; отношение их числен­ных значений является рациональным числом.",
+      "url": "https://cosmatica.org/glossary/79-princip-soizmerimosti.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=878f002ed5dac81178",
+      "type": "article",
+      "sourceCharacters": 204,
+      "verified": false
+    },
+    {
+      "title": "Принцип соразмерности",
+      "description": "-размерности в процессе преобразований установленной системой координат.",
+      "url": "https://cosmatica.org/glossary/78-princip-sorazmernosti.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=a36e7eb611e3941977",
+      "type": "article",
+      "sourceCharacters": 94,
+      "verified": false
+    },
+    {
+      "title": "Принцип гармонии состояния",
+      "description": "требование соразмерности, соизме­римости и золотого сечения как гармонии между целым и частью.",
+      "url": "https://cosmatica.org/glossary/77-princip-garmonii-sostojanija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=c220a2337b450be688",
+      "type": "article",
+      "sourceCharacters": 94,
+      "verified": false
+    },
+    {
+      "title": "Принцип устойчивого развития",
+      "description": "необходимость согласования реше­ний в различных предметных областях с общими законами сохранения развития живой Природы.",
+      "url": "https://cosmatica.org/glossary/76-princip-ustoichivogo-razvitija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=9f6f425788035b9ed3",
+      "type": "article",
+      "sourceCharacters": 120,
+      "verified": false
+    },
+    {
+      "title": "Принцип устойчивой неравновесности",
+      "description": "все и только живые системы никогда не бывают в равновесии и исполняют за счет своей свободной энергии постоянную работу против равновесия. (Э.С. Бауэр)",
+      "url": "https://cosmatica.org/glossary/75-princip-ustoichivoi-neravnovesnosti.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=18e396f1b963f6832a",
+      "type": "article",
+      "sourceCharacters": 151,
+      "verified": false
+    },
+    {
+      "title": "Продукт",
+      "description": "это результат труда, определяемый произведением време­ни и мощности, затраченных в процессе труда.",
+      "url": "https://cosmatica.org/glossary/74-produkt.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=3f72fe7fa6a96dd5c1",
+      "type": "article",
+      "sourceCharacters": 98,
+      "verified": false
+    },
+    {
+      "title": "Проект",
+      "description": "это идеальный образ будущих изменений проектируемо­го объекта в ограниченном времени и пространстве с установленны­ми требованиями к качеству результатов, возможными рамками расхо­да ресурсов и специальной организацией. Проект содержит обоснование и описание конструкции будущей систе­мы в форме ответов на восемь взаимосвязанных вопросов: · Зачем нужна проектируемая",
+      "url": "https://cosmatica.org/glossary/73-proekt.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=e46c11775065a46c05",
+      "type": "article",
+      "sourceCharacters": 752,
+      "verified": false
+    },
+    {
+      "title": "Проект устойчивого развития",
+      "description": "это идеальный образ будущего изме­нения проектируемого объекта в ограниченном времени и простран­стве с установленными требованиями устойчивого развития к каче­ству результатов и используемым технологиям, возможными рамками расхода ресурсов и специальной организацией.",
+      "url": "https://cosmatica.org/glossary/72-proekt-ustoichivogo-razvitija.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=f286758083d4fa99eb",
+      "type": "article",
+      "sourceCharacters": 268,
+      "verified": false
+    },
+    {
+      "title": "Проектирование",
+      "description": "прежде всего творческий процесс создания и реа­лизации систем, обеспечивающих возможность удовлетворять ту или иную",
+      "url": "https://cosmatica.org/glossary/71-proektirovanie.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=482807706c5c89d111",
+      "type": "article",
+      "sourceCharacters": 217,
+      "verified": false
+    },
+    {
+      "title": "Процесс поиска и претворения в жизнь необходимых изменений",
+      "description": "есть твор­ческий процесс. Источником этого процесса являются идеи, а целью – воплощение идеи в работающую конструкцию, которая и дает об­ществу новые возможности удовлетворять свои потребности, как теку­щие, так и будущие.",
+      "url": "https://cosmatica.org/glossary/70-process-poiska-i-pretvorenija-v-zhizn-neobhodimyh-izmenenii.html",
+      "image": null,
+      "kind": "glossary-item",
+      "href": "view.html?p=article&ref=c81752a5804ca3f9b4",
+      "type": "article",
+      "sourceCharacters": 222,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

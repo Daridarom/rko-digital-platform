@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/797-molodyozh-i-biznes-opyt-sozdanija-tehnoparkov-na-promyshlennyh-predprijatijah-rossii-itogi.html",
+  "title": "Молодёжь и бизнес: опыт создания технопарков на промышленных предприятиях России. Итоги",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/5/f/molodyozh-i-biznes-opyt-sozdanija-tehnoparkov-na-promyshlennyh-pre.jpg",
+      "alt": "Молодёжь и бизнес: опыт создания технопарков на промышленных предприятиях России. Итоги"
+    },
+    {
+      "type": "paragraph",
+      "text": "Круглый стол состоялся 11 июня в режиме реального времени на цифровой платформе Русского Космического Общества rko.nbics.net",
+      "spans": [
+        {
+          "text": "Круглый стол состоялся 11 июня в режиме реального времени на цифровой платформе Русского Космического Общества "
+        },
+        {
+          "text": "rko.nbics.net",
+          "href": "https://cosmatica.org/redirect?url=https%3A%2F%2Fvk.com%2Faway.php%3Fto%3Dhttp%253A%252F%252Frko.nbics.net%26amp%3Bamp%3Bcc_key%3D"
+        }
+      ],
+      "links": [
+        {
+          "text": "rko.nbics.net",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fvk.com%2Faway.php%3Fto%3Dhttp%253A%252F%252Frko.nbics.net%26amp%3Bamp%3Bcc_key%3D"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "На нём обсуждалась возможность создания Молодёжного креативного технопарка на территории АО «МЗЭМА» совместно с проектом «Е-Технопарк» и обмен опытом с уже действующими технопарками России и стран СНГ.",
+      "spans": [
+        {
+          "text": "На нём обсуждалась возможность создания Молодёжного креативного технопарка на  территории АО «МЗЭМА» совместно с проектом «Е-Технопарк» и обмен опытом с  уже действующими технопарками России и стран СНГ."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Подробно о событии мы писали ранее на нашем сайте: https://cosmatica.org/news/787-11-iyunja-2020-goda...",
+      "spans": [
+        {
+          "text": "Подробно о событии мы писали ранее на нашем сайте: "
+        },
+        {
+          "text": "https://cosmatica.org/news/787-11-iyunja-2020-goda...",
+          "href": "https://cosmatica.org/news/787-11-iyunja-2020-goda-sostojalsja-kruglyi-stol-molodezh-i-biznes-opyt-sozdanija-tehnoparkov-na-pro.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://cosmatica.org/news/787-11-iyunja-2020-goda...",
+          "url": "https://cosmatica.org/news/787-11-iyunja-2020-goda-sostojalsja-kruglyi-stol-molodezh-i-biznes-opyt-sozdanija-tehnoparkov-na-pro.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Предлагаем вашему вниманию ПРОТОКОЛ мероприятия и видео записи всех выступлений круглого стола.",
+      "spans": [
+        {
+          "text": "Предлагаем вашему вниманию "
+        },
+        {
+          "text": "ПРОТОКОЛ",
+          "href": "https://cosmatica.org/upload/redactorfiles/2020_06_11_%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D0%B6%D1%8C%20%D0%B8%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%20-%20%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BF%D0%B0%D1%80%D0%BA%D0%B8.pdf"
+        },
+        {
+          "text": " мероприятия и видео записи всех выступлений круглого стола."
+        }
+      ],
+      "links": [
+        {
+          "text": "ПРОТОКОЛ",
+          "url": "https://cosmatica.org/upload/redactorfiles/2020_06_11_%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D0%B6%D1%8C%20%D0%B8%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%20-%20%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BF%D0%B0%D1%80%D0%BA%D0%B8.pdf"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "ZNvzKi9vz7I",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=ZNvzKi9vz7I"
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "VOMY_a7_Euk",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=VOMY_a7_Euk"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Выложены в открытый доступ видеозаписи докладов круглого стола \"Молодёжь и бизнес: опыт создания технопарков на промышленных предприятиях России\"",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Круглый стол состоялся 11 июня в режиме реального времени на цифровой платформе Русского Космического Общества rko.nbics.net На нём обсуждалась возможность создания Молодёжного креативного технопарка на территории АО «МЗЭМА» совместно с проектом «Е-Технопарк» и обмен опытом с уже действующими технопарками России и стран СНГ. Подробно о событии мы писали ранее на нашем сайте: https://cosmatica.org/news/787-11-iyunja-2020-goda... Предлагаем вашему вниманию ПРОТОКОЛ мероприятия и видео записи всех выступлений круглого стола.",
+      "links": [
+        {
+          "title": "rko.nbics.net",
+          "url": "https://cosmatica.org/redirect?url=https%3A%2F%2Fvk.com%2Faway.php%3Fto%3Dhttp%253A%252F%252Frko.nbics.net%26amp%3Bamp%3Bcc_key%3D"
+        },
+        {
+          "title": "https://cosmatica.org/news/787-11-iyunja-2020-goda...",
+          "url": "https://cosmatica.org/news/787-11-iyunja-2020-goda-sostojalsja-kruglyi-stol-molodezh-i-biznes-opyt-sozdanija-tehnoparkov-na-pro.html"
+        },
+        {
+          "title": "ПРОТОКОЛ",
+          "url": "https://cosmatica.org/upload/redactorfiles/2020_06_11_%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D0%B6%D1%8C%20%D0%B8%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%20-%20%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BF%D0%B0%D1%80%D0%BA%D0%B8.pdf"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/5/f/molodyozh-i-biznes-opyt-sozdanija-tehnoparkov-na-promyshlennyh-pre.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 888,
+    "storedTextCharacters": 535,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 6,
+    "sourceBytes": 47506
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 690,
+  "capturedBodyCharacters": 535,
+  "sourceTextSHA256": "a8fc923ac96f38530cc32514e051d3fc79453369872773904677718be4603301",
+  "archiveSnapshotAt": "2026-10-08T09:13:38Z",
+  "publicVideoCount": 2
+}

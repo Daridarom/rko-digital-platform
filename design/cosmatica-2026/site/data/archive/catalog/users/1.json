@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "users",
+  "title": "Участники РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 1,
+  "pageCount": 16,
+  "total": 235,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Алексей Алексеевич Гапонов. Аркон.",
+      "description": "Президент МОО «Русское Космическое Общество». Вице-президент фонда русской цивилизации «Светославъ». Участник СВО. Награждён медалью «За отвагу». Контакты: gaponov@cosmatica.org",
+      "url": "https://cosmatica.org/users/7",
+      "image": "assets/source/fdc6ba77f7a21c6ec136c889.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Екатерина Фёдоровна Шамаева",
+      "description": "Кандидат технических наук. Член-корреспондент РАЕН. Заместитель главного редактора научно-образовательных электронных журналов «Устойчивое инновационное развитие: проектирование и управление», «Устойчивое развитие: наука и практика»",
+      "url": "https://cosmatica.org/users/12",
+      "image": "assets/source/cc56e2a19a79898f4406957c.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=cbdf4602df338bda03",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Степан Андреевич Зотов",
+      "description": "Член Президиума Русского Космического Общества. Президент РОО «Патриот», член Высшего Совета межрегионального патриотического молодежного движения «Новый Рубеж», координатор юридической службы Национально-Освободительного Движения, руководитель проекта «Наша Армия», федерального направления «Космос и Добровольцы» в Союзе Добровольцев России. Работает в патриотическом воспитании детей и молодежи свыше 10 лет. Руководи",
+      "url": "https://cosmatica.org/users/38",
+      "image": "assets/source/985903cfc0d3bc9081e69e40.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=97789c8c42bc118e21",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Анна Сергеевна Козлова",
+      "description": "Полномочный представитель Правления Русского Космического Общества, куратор региональных отделений и проектной деятельности РКО. Руководитель Совета правды и просвещения. Координатор культурно-гуманитарной миссии РКО на Донбассе Контакты: kozlova@cosmatica.org",
+      "url": "https://cosmatica.org/users/35",
+      "image": "assets/source/86dcabf0dd9f26aa390ce07d.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=056ea033ea1f93c2dd",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Денис Александрович Шпотя",
+      "description": "",
+      "url": "https://cosmatica.org/users/3",
+      "image": "assets/source/d82a27be2c2a30d1dff01db8.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=8aa6005bebe5f04fcb",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Валерий Александрович Задерей",
+      "description": "Начальник штаба Союза Народного Сплочения Ветеран Службы внешней разведки, подполковник запаса Ведущий программы «Вечный зов» информационного агентства «Аврора»",
+      "url": "https://cosmatica.org/users/1642",
+      "image": "assets/source/5d96fb3c41b6d87e2d9ef323.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=9f023ea6457359233c",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Дмитрий Борисович Берг",
+      "description": "Председатель Свердловского областного Отделения Русского Космического Общества Профессор, доктор физико-математических наук. Автор более 120 научных работ (в т.ч. четырех монографий) и 15 патентов на изобретения, полезные модели, программы для ЭВМ. — профессор департамента бизнес-информатики и математического моделирования Уральского федерального университета; — главный научный сотрудник института промышленной эколог",
+      "url": "https://cosmatica.org/users/53",
+      "image": "assets/source/8494f3c1b8000b8352ff679f.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=ab2f1aba884c8fb0dc",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Антон Владимирович Бессонов",
+      "description": "Председатель Челябинского отделения Русского Космического Общества. Инженер- механик, рядовой запаса Вооруженных сил СССР, исследователь истории создания ракетно-ядерного щита СССР.",
+      "url": "https://cosmatica.org/users/39",
+      "image": "assets/source/dceee7ce4a9a1cca0db02e43.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a10fd99d1494191650",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Валентин Владимирович Шевченко",
+      "description": "Электронно-вычислительные Член Первого Отряда РКО. Машины, Организация и управление ФК, увлечения спортом и туризмом Многодетный отец",
+      "url": "https://cosmatica.org/users/65",
+      "image": "assets/source/eca4272b0a58139d88b6ed06.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=7cc68c3b6365a0a15b",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Анастасия Андреевна Смага",
+      "description": "Руководитель Совета Чести и права Русского Космического Общества Юрист-международник, эксперт по комплаенс Президент консалтинговой компании «ЮниЛигал» Руководитель Комитета по комплаенс и юридической безопасности АДКНК БРИКС Преподаватель комплаенс-менеджмента в РАНХиГС",
+      "url": "https://cosmatica.org/users/2907",
+      "image": "assets/source/6fd28f6d2aaffd93c94516dc.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=8cd91a5b0f7d29994c",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Владимир Витальевич Макаров",
+      "description": "Член Первого отряда, председатель Санкт-Петербургского отделения РКО, заместитель председателя Философского Совета РКО, к.ф.н., член РФО, доцент кафедры гуманитарных наук НМИЦ им. В.А. Алмазова Минздрава России",
+      "url": "https://cosmatica.org/users/110",
+      "image": "assets/source/c9090888d15a042d13d94921.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=080d7ec87d46f09a09",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Андрей Аркадьевич Головин",
+      "description": "Ревизор Русского Космического Общества. Исполнительный директор Автономной некоммерческой организации «Центр межрегиональных программ и проектов». Руководитель Союза некоммерческих организаций в сфере профилактики и охраны здоровья «Евразийская ассоциация здоровья». Опыт общественной деятельности составляет 10 лет. Организатор более 20 социальных проектов различной направленности (ЗОЖ, профилактика вредных привычек, ",
+      "url": "https://cosmatica.org/users/46",
+      "image": "assets/source/f1dc63ccfb3f86bb28fbb31e.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=b764ce941480b324ba",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Сергей Владимирович Кибальников",
+      "description": "Ученая степень доктор технических наук Межрегиональная общественная научно-просветительская организация «Национальная академия туризма», Россия 1997 Медаль «В память 850-летию Москвы» Лауреат: Кибальников С.В. Президент Российской федерации, Россия 1985 Большая золотая медаль WIPO Лауреат: Кибальников С.В. WIPO, Болгария 1984 Золотая медаль ВДНХ СССР Лауреат: Кибальников С.В. Основные публикации: Статьи в журналах 20",
+      "url": "https://cosmatica.org/users/600",
+      "image": "assets/source/1356d07c8ebbd040dac3aa8a.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=3a9b96a3c25dc45b31",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Яков Владимирович Кисурин",
+      "description": "",
+      "url": "https://cosmatica.org/users/8079",
+      "image": "assets/source/2401e0b4d1f7aea01a117d2a.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=f1b4edd9bb872c5f2e",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Иван Викторович Черных",
+      "description": "Председатель КРОО «Спортивно-патриотический клуб «Славянин», руководитель многих социальных проектов. Закончил РГУ им. И. Канта 2004-2009 г. по специальности математика; аспирантуру БФУ им. И. Канта, кафедра математического анализа, 2010-2013; магистратуру БФУ им. И. Канта по специальности физической культура и спорт 2013-2016. Депутат Багратионовского городского Совета депутатов 2014-2017 Профессиональный спортсмен.",
+      "url": "https://cosmatica.org/users/225",
+      "image": "assets/source/4fa28eedd40174b56806457b.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=50b5b0e74740c810cc",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

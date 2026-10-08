@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/175-logicheskaja-svjaz.html",
+  "title": "Логическая связь",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "связь",
+      "spans": [
+        {
+          "text": "связь"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", существующая между исходными и выводимы­ми утверждениями, в форме умозаключений: дедукция, индукция и аналогия. Такая связь соединяет только рядом стоящие объекты.",
+      "spans": [
+        {
+          "text": ", существующая между исходными и выводимы­ми утверждениями, в форме умозаключений: дедукция, индукция и аналогия. Такая связь соединяет только рядом стоящие объекты."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "связь , существующая между исходными и выводимы­ми утверждениями, в форме умозаключений: дедукция, индукция и аналогия. Такая связь соединяет только рядом стоящие объекты.",
+      "links": [
+        {
+          "title": "связь",
+          "url": "https://cosmatica.org/glossary/55-svjaz.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 188,
+    "storedTextCharacters": 170,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32217
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 171,
+  "capturedBodyCharacters": 170,
+  "sourceTextSHA256": "7260ed7b5aa010c7f3da62f6c96a6614ca9879aafb2ba7bd36f28266d51fbbf3",
+  "archiveSnapshotAt": "2026-10-08T08:46:42Z"
+}

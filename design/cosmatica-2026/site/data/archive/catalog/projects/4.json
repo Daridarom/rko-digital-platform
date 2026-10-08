@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "projects",
+  "title": "Проекты",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 4,
+  "pageCount": 20,
+  "total": 290,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Школа конструкторов будущего",
+      "description": "«Невозможное сегодня станет возможным завтра».",
+      "url": "https://cosmatica.org/projects/klubkb",
+      "image": "https://cosmatica.org/upload/002/u218/e/9/klub-konstruktorov-buduschego-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=ce6d08c52563ef754b",
+      "type": "project",
+      "sourceCharacters": 9289,
+      "verified": false
+    },
+    {
+      "title": "Мультсоюз ТриДевятое царство",
+      "description": "Мультсоюз ТриДевятое царство — это команда единомышленников, неравнодушных к воспитанию и образованию наших детей, целеустремлённых, компетентных, требовательных к высокому качеству и уровню своего дела. Взялись с любовью за создание мультфильмов в добрых Советских традициях.",
+      "url": "https://cosmatica.org/projects/297",
+      "image": "https://cosmatica.org/upload/002/u218/8/9/multsoyuz-tridevjatoe-carstvo-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=473204bd96bdfeb33a",
+      "type": "project",
+      "sourceCharacters": 7896,
+      "verified": false
+    },
+    {
+      "title": "Межгалактический экотурнир «Звездолёт»",
+      "description": "Межгалактический экотурнир «Звездолёт» приглашает участников!",
+      "url": "https://cosmatica.org/projects/296",
+      "image": "https://cosmatica.org/upload/002/u218/2/5/mezhgalakticheskii-ekoturnir-zvezdolyot-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=51396f7bd8eddec834",
+      "type": "project",
+      "sourceCharacters": 3286,
+      "verified": false
+    },
+    {
+      "title": "Культурная Экспедиция в Индонезию, остров Роте",
+      "description": "Вид деятельности: изучение культурных аспектов по маршруту Купанг — остров Роте.",
+      "url": "https://cosmatica.org/projects/exporote",
+      "image": "https://cosmatica.org/upload/006/u648/3/1/kulturnaja-ekspedicija-v-indoneziyu-ostrov-rote-logo-normal.jpeg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=70d89f2b2a6092b798",
+      "type": "project",
+      "sourceCharacters": 8108,
+      "verified": false
+    },
+    {
+      "title": "Империум: война и мир",
+      "description": "Приглашаем русскоязычных авторов к созданию произведений в рамках конкурса на тему: «Империум: Война и Мир»",
+      "url": "https://cosmatica.org/projects/294",
+      "image": "https://cosmatica.org/upload/000/u35/a/2/00ead258.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=960bf138d7ffe35d76",
+      "type": "project",
+      "sourceCharacters": 1577,
+      "verified": false
+    },
+    {
+      "title": "Международный День Матери-Земли – Россия",
+      "description": "Ежегодно 22 апреля всё прогрессивное человечество отмечает Международный день Матери-Земли. Это широко признанный ежегодный праздник экологической направленности.",
+      "url": "https://cosmatica.org/projects/mdmz",
+      "image": "https://cosmatica.org/upload/000/u35/5/3/ffdb586b.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=9815049ebe0cec94ac",
+      "type": "project",
+      "sourceCharacters": 3667,
+      "verified": false
+    },
+    {
+      "title": "Всероссийская акция «В Полёт, Космолёт!»",
+      "description": "Русское Космическое Общество инициировало проведение киноурока «ЭРА» расширенного формата в честь празднования 12 апреля «День запуска первого Человека в космическое пространство»",
+      "url": "https://cosmatica.org/projects/v-polet-kosmolet",
+      "image": "https://cosmatica.org/upload/002/u218/9/b/vserossiiskaja-akcija-v-polyot-kosmolyot-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=4d17ace1fa6007946d",
+      "type": "project",
+      "sourceCharacters": 3819,
+      "verified": false
+    },
+    {
+      "title": "Казачий батальон \"СКИФ\"",
+      "description": "В ноябре 2022 года уполномоченными представителями организаций: Ассоциация Военных и Охранных структур России, Ассоциация ветеранов боевых действий ОВД и ВВ, Фонда «Офицеры Защитники Отечества», Общероссийская организация «ОФИЦЕРЫ РОССИИ», ПП «Российский Общенародный Союз», Казацкие реестровые и общественные организации г.Севастополя в соответствии с Федеральным законом от 04.11.2022 № 419-ФЗ «О внесении изменений в ",
+      "url": "https://cosmatica.org/projects/skif",
+      "image": "https://cosmatica.org/upload/000/u35/7/0/kazachii-batalon-skif-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=7c687178326b1ad6bc",
+      "type": "project",
+      "sourceCharacters": 3111,
+      "verified": false
+    },
+    {
+      "title": "Кинуроки в школах мира: Призвание",
+      "description": "Мы начали сбор средств на фильм от Донецкой Народной Республики «Призвание».",
+      "url": "https://cosmatica.org/projects/prizvanie",
+      "image": "https://cosmatica.org/upload/000/u35/4/b/kinuroki-v-shkolah-mira-prizvanie-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=97d282688013730628",
+      "type": "project",
+      "sourceCharacters": 16623,
+      "verified": false
+    },
+    {
+      "title": "Ноосфериана - 2023",
+      "description": "Всероссийский фестиваль научно-исследовательских и творческих работ детей и молодёжи",
+      "url": "https://cosmatica.org/projects/noosferiana-2023",
+      "image": "https://cosmatica.org/upload/002/u218/9/c/noosferiana-2023-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=a366c14ca2e3648fe7",
+      "type": "project",
+      "sourceCharacters": 3976,
+      "verified": false
+    },
+    {
+      "title": "Всероссийский детский конкурс рисунка «Навстречу звёздам»",
+      "description": "Выставка-конкурс работ учащихся художественных школ, изостудий, кружков, юных художников.",
+      "url": "https://cosmatica.org/projects/288",
+      "image": "https://cosmatica.org/upload/000/u35/d/b/vserossiiskii-detskii-konkurs-risunka-navstrechu-zvyozdam-logo-n.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=cc2aed20b3a4d81b39",
+      "type": "project",
+      "sourceCharacters": 3944,
+      "verified": false
+    },
+    {
+      "title": "Миссия Нирма",
+      "description": "",
+      "url": "https://cosmatica.org/projects/286",
+      "image": "https://cosmatica.org/upload/002/u218/a/d/missija-nirma-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b98b37babbb021ee20",
+      "type": "project",
+      "sourceCharacters": 71,
+      "verified": false
+    },
+    {
+      "title": "Юнкор - 2023",
+      "description": "IV Открытый международный конкурс юных корреспондентов «ЮНКОР-2023",
+      "url": "https://cosmatica.org/projects/unkor2023",
+      "image": "https://cosmatica.org/upload/002/u218/f/3/yunkor-2023-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=901d304a8e4e2a3960",
+      "type": "project",
+      "sourceCharacters": 6612,
+      "verified": false
+    },
+    {
+      "title": "Издание \"Новой книги о воде и почве\"",
+      "description": "Открываем сбор средств на издание «Новой книги о воде и почве» Александра Зверева и приглашаем Вас принять участие в решении актуальной проблемы, стоящей перед жителями нашей страны и всего мира в целом. Речь о глобальной проблеме – нехватке пресной воды, о том, как прекратить её исчезновение и восстановить разрушенные эродированные территории.",
+      "url": "https://cosmatica.org/projects/280",
+      "image": "https://cosmatica.org/upload/000/u35/f/6/izdanie-novoi-knigi-o-vode-i-pochve-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=b52c1ed30286b014c4",
+      "type": "project",
+      "sourceCharacters": 5230,
+      "verified": false
+    },
+    {
+      "title": "Космос - пространство будущего",
+      "description": "Представляем проект создания познавательно-образовательной компьютерной игры — стратегии «Космос –пространство будущего».",
+      "url": "https://cosmatica.org/projects/279",
+      "image": "https://cosmatica.org/upload/000/u35/9/f/kosmos-prostranstvo-buduschego-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=555ad7fcc5abf08a8f",
+      "type": "project",
+      "sourceCharacters": 2508,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

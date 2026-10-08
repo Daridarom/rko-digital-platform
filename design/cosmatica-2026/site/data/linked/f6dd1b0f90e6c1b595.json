@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/153-vysshaja-forma-znanija.html",
+  "title": "Высшая форма знания",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Высшей формой знания, дающего возможность целенаправленного из­менения системы, является",
+      "spans": [
+        {
+          "text": "Высшей формой знания, дающего возможность целенаправленного из­менения системы, является"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "проектирование",
+      "spans": [
+        {
+          "text": "проектирование"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "или организации будуще­го системы.",
+      "spans": [
+        {
+          "text": "или организации будуще­го системы."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Высшей формой знания, дающего возможность целенаправленного из­менения системы, является проектирование или организации будуще­го системы.",
+      "links": [
+        {
+          "title": "проектирование",
+          "url": "https://cosmatica.org/glossary/71-proektirovanie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 158,
+    "storedTextCharacters": 136,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32143
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 138,
+  "capturedBodyCharacters": 136,
+  "sourceTextSHA256": "67af3b2755fe814525dde8b0f60b284d2d6be8de6f9d184739de277b26620cd8",
+  "archiveSnapshotAt": "2026-10-08T08:46:35Z"
+}

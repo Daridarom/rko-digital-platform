@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/727-tropa-muzhestva-osen-2018-otchyotnyi-videorolik.html",
+  "title": "\"Тропа мужества\". Осень 2018 (отчётный видеоролик)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Тропа Мужества",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Мероприятие, как и всегда, прошло в тёплой дружеской атмосфере. Это не удивительно, ведь девиз ТМ - \"победа одна на всех!\".",
+      "spans": [
+        {
+          "text": "Мероприятие, как и всегда, прошло в тёплой дружеской атмосфере. Это не удивительно, ведь девиз ТМ - \"победа одна на всех!\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Официальный сайт",
+      "spans": [
+        {
+          "text": "Официальный сайт"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Группа ВКонтакте",
+      "spans": [
+        {
+          "text": "Группа ВКонтакте",
+          "href": "https://vk.com/natropu"
+        }
+      ],
+      "links": [
+        {
+          "text": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ссылка на Youtube",
+      "spans": [
+        {
+          "text": "Ссылка на Youtube ",
+          "href": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "links": [
+        {
+          "text": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "HT7-fid1F7M",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=HT7-fid1F7M"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Мероприятие, как и всегда, прошло в тёплой дружеской атмосфере. Это не удивительно, ведь девиз ТМ - \"победа одна на всех!\". Официальный сайт Группа ВКонтакте Ссылка на Youtube",
+      "links": [
+        {
+          "title": "Группа ВКонтакте",
+          "url": "https://vk.com/natropu"
+        },
+        {
+          "title": "Ссылка на Youtube",
+          "url": "https://www.youtube.com/channel/UCqXUkEOUinPB3nTOlCo1jTg"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 263,
+    "storedTextCharacters": 187,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 74366
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 196,
+  "capturedBodyCharacters": 187,
+  "sourceTextSHA256": "25240f043a9ed71b288298700f7ccd2334dfbcf848521bc5993b3850f2b5f9d8",
+  "archiveSnapshotAt": "2026-10-08T08:43:10Z",
+  "publicVideoCount": 1
+}

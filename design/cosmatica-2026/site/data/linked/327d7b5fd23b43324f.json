@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/73-deti-kosmozhiteli.html",
+  "title": "​Дети - косможители",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u8/cd/df/deti-kosmozhiteli-photo-normal.jpg",
+      "alt": "​Дети - косможители"
+    },
+    {
+      "type": "paragraph",
+      "text": "Они вышли на свет и осмотрелись. Где Земля? Где Млечный путь? Где иные миры, на которых пульсирует в общем Вселенском потоке жизнь ? Им надо помочь это вспомнить.",
+      "spans": [
+        {
+          "text": "Они вышли на свет и осмотрелись. Где Земля? Где Млечный путь? Где иные миры, на которых пульсирует в общем Вселенском потоке  "
+        },
+        {
+          "text": "жизнь",
+          "href": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "text": "? Им надо помочь это вспомнить."
+        }
+      ],
+      "links": [
+        {
+          "text": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ребёнок имеет безусловное право на развитие , обусловленное эволюционно.",
+      "spans": [
+        {
+          "text": "Ребёнок имеет безусловное право на  "
+        },
+        {
+          "text": "развитие",
+          "href": "https://cosmatica.org/glossary/57-razvitie.html"
+        },
+        {
+          "text": ", обусловленное эволюционно."
+        }
+      ],
+      "links": [
+        {
+          "text": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Обязанность взрослых - обеспечить условия для такого развития.",
+      "spans": [
+        {
+          "text": "Обязанность взрослых - обеспечить условия для такого развития."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Это императив. Иное не заложено Природой космической эволюции, а значит недопустимо.",
+      "spans": [
+        {
+          "text": "Это императив. Иное не заложено Природой космической эволюции, а значит недопустимо. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Астрономия - один из малых кирпичиков такого развития. Но важный. Важный. Именно он даёт пространственное мышление, необходимое косможителю для понимания себя в этом мире, а этого мира в себе.",
+      "spans": [
+        {
+          "text": "Астрономия - один из малых кирпичиков такого развития. Но важный. Важный. Именно он даёт пространственное мышление, необходимое косможителю для понимания себя в этом мире, а этого мира в себе."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Скачать: http://cosmatica.org/library/detskaja-literatura",
+      "spans": [
+        {
+          "text": "Скачать: http://cosmatica.org/library/detskaja-literatura"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Ещё совсем недавно они путешествовали по просторам Вселенной. Сегодня они приземлились на нашей планете. На Земле.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Они вышли на свет и осмотрелись. Где Земля? Где Млечный путь? Где иные миры, на которых пульсирует в общем Вселенском потоке жизнь ? Им надо помочь это вспомнить. Ребёнок имеет безусловное право на развитие , обусловленное эволюционно. Обязанность взрослых - обеспечить условия для такого развития. Это императив. Иное не заложено Природой космической эволюции, а значит недопустимо. Астрономия - один из малых кирпичиков такого развития. Но важный. Важный. Именно он даёт пространственное мышление, необходимое косможителю для понимания себя в этом мире, а этого мира в себе. Скачать: http://cosmatica.org/library/detskaja-literatura",
+      "links": [
+        {
+          "title": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u8/cd/df/deti-kosmozhiteli-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 896,
+    "storedTextCharacters": 640,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 6,
+    "sourceBytes": 46163
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 766,
+  "capturedBodyCharacters": 640,
+  "sourceTextSHA256": "1d9c706be9910b13aeef2dd6ba8b95e0954cf877d172fc044faf263d4420258f",
+  "archiveSnapshotAt": "2026-10-08T09:13:17Z"
+}

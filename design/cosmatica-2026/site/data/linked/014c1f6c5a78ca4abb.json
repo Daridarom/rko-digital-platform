@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/40-memorandum-o-prestuplenijah-protiv-chelovechestva-mezhdunarodnogo-valyutnogo-fonda.html",
+  "title": "Меморандум о преступлениях против Человечества Международного Валютного Фонда",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Зная Ваши взаимоотношения с Международным\r\nВалютным Фондом, ставим Вас в известность, что Вы имеете\r\nдело с шайкой фальшивомонетчиков, которых пора судить\r\nМеждународным трибуналом за преступления против\r\nЧеловечества.",
+      "spans": [
+        {
+          "text": "Зная Ваши взаимоотношения с Международным\r\nВалютным Фондом, ставим Вас в известность, что Вы имеете\r\nдело с шайкой фальшивомонетчиков, которых пора судить\r\nМеждународным трибуналом за преступления против\r\nЧеловечества."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Зная Ваши взаимоотношения с Международным Валютным Фондом, ставим Вас в известность, что Вы имеете дело с шайкой фальшивомонетчиков, которых пора судить Международным трибуналом за преступления против Человечества.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 111 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/56/df250d497f364e890411c2f59fd1a414"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/56/df250d497f364e890411c2f59fd1a414"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 313,
+    "storedTextCharacters": 218,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 39780
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 235,
+  "capturedBodyCharacters": 218,
+  "sourceTextSHA256": "ceb5bf5a8fc21f953532337778c542e6ac31f524d913e2bfeb02735472f83ccc",
+  "archiveSnapshotAt": "2026-10-08T08:49:45Z"
+}

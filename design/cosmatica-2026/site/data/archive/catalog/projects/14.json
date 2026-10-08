@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "projects",
+  "title": "Проекты",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 14,
+  "pageCount": 20,
+  "total": 290,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Школа Генеральных конструкторов",
+      "description": "Школа Генеральных конструкторов будущего Русского космического общества — это всероссийский образовательный проект, который призван объединить организации и отдельные инициативные группы в сфере дошкольного, школьного и вузовского образования с целью продвижения идей знаменитой плеяды русских учёных-космистов об устойчивом развитии человечества, обучения молодежи его основным методологическим принципам, методикам и т",
+      "url": "https://cosmatica.org/projects/shkola-generalnih-konstructorov",
+      "image": "https://cosmatica.org/upload/000/u44/2/9/shkola-generalnyh-konstruktorov-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=c8d5fd3ee77bf3e742",
+      "type": "project",
+      "sourceCharacters": 970,
+      "verified": false
+    },
+    {
+      "title": "Сохраним жизнь воде",
+      "description": "Благотворительный фонд помощи охране окружающей среды и водных ресурсов «Сохраним жизнь воде»",
+      "url": "https://cosmatica.org/projects/podari-zhizn-vode",
+      "image": "https://cosmatica.org/upload/000/u35/b/c/podari-zhizn-vode-logo-normal.jpeg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=2de00d75712b7f2660",
+      "type": "project",
+      "sourceCharacters": 5099,
+      "verified": false
+    },
+    {
+      "title": "Московский футурологический конгресс им. Б.Е. Большакова",
+      "description": "Московский футурологический конгресс — это съезд авторов и представителей социально значимых проектов России.",
+      "url": "https://cosmatica.org/projects/kongress-im-bolshakova",
+      "image": "https://cosmatica.org/upload/000/u26/b/3/a4088150.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=f2883024bbae69ca6f",
+      "type": "project",
+      "sourceCharacters": 1646,
+      "verified": false
+    },
+    {
+      "title": "Областной конкурс \"Письмо Леонову\"",
+      "description": "К 85-ЛЕТИЮ ВЫДАЮЩЕГОСЯ КОСМОНАВТА АЛЕКСЕЯ АРХИПОВИЧА ЛЕОНОВА",
+      "url": "https://cosmatica.org/projects/leonov-message",
+      "image": "https://cosmatica.org/upload/000/u26/b/e/oblastnoi-konkurs-pismo-leonovu-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=3ee1e5c591b1147792",
+      "type": "project",
+      "sourceCharacters": 1564,
+      "verified": false
+    },
+    {
+      "title": "Благотворительный магазин Reuse",
+      "description": "1. Помощь нуждающимся, посредством предоставления им бесплатной одежды. 2. Снижение негативного воздействия на окружающую среду, посредством приема ненужной одежды у населения и ее повторного использования и переработки.",
+      "url": "https://cosmatica.org/projects/reuse",
+      "image": "https://cosmatica.org/upload/000/u26/4/d/blagotvoritelnyi-magazin-reuse-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=bc82b6aa2ed5cfe460",
+      "type": "project",
+      "sourceCharacters": 2500,
+      "verified": false
+    },
+    {
+      "title": "«Волские чтения»",
+      "description": "Первый гуманитарный, естественнонаучный и технический симпозиум в сфере космоса «Волские чтения»",
+      "url": "https://cosmatica.org/projects/volskie-chteniya",
+      "image": "https://cosmatica.org/upload/001/u176/0/6/volskie-chtenija-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=84306a578667abe316",
+      "type": "project",
+      "sourceCharacters": 2707,
+      "verified": false
+    },
+    {
+      "title": "Всемирное движение Русского Космического Общества \"Гагаринский сад\"",
+      "description": "12 апреля 1961 года – знаковая дата, как в мировой, так и в отечественной истории. В этот день Юрий Алексеевич Гагарин стал первым человеком в мире, совершившим полёт в космос. Начиная с 12 апреля 1962 года, этот день был объявлен Днём космонавтики. Юрий Алексеевич Гагарин моментально превратился в самого популярного человека не только в Советском Союзе, но и во всём мире. Начались его поездки по стране и за рубеж.",
+      "url": "https://cosmatica.org/projects/gagarin-garden",
+      "image": "https://cosmatica.org/upload/000/u26/6/e/vsemirnoe-dvizhenie-russkogo-kosmicheskogo-obschestva-gagarinskii-s.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=a19992a92599ebc668",
+      "type": "project",
+      "sourceCharacters": 5261,
+      "verified": false
+    },
+    {
+      "title": "Международная акция 12/04",
+      "description": "Ключевыми словами в воспоминаниях людей по всему Миру о 12 апреля 1961 года являются «радость», «счастье», «восторг», «ликование».",
+      "url": "https://cosmatica.org/projects/action-1204",
+      "image": "https://cosmatica.org/upload/000/u35/6/d/51e55d38.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=be237ecc166d34223c",
+      "type": "project",
+      "sourceCharacters": 1239,
+      "verified": false
+    },
+    {
+      "title": "Фестиваль инженерно-технического творчества «Юный техник».",
+      "description": "Цели и задачи фестиваля: популяризация инновационных технологий и инновационной деятельности на территории Псковской области, популяризация дополнительного инженерно-технического образования и информирование жителей города об имеющихся на территории Пскова организаций дополнительного образования, выявление и поддержка талантливой молодёжи, проявляющей интерес к сфере высоких технологий, реализация ими своих потенциал",
+      "url": "https://cosmatica.org/projects/uniy-tehnik",
+      "image": "https://cosmatica.org/upload/000/u35/7/a/festival-inzhenerno-tehnicheskogo-tvorchestva-yunyi-tehnik-logo.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=34f1ee4f764143bf76",
+      "type": "project",
+      "sourceCharacters": 2726,
+      "verified": false
+    },
+    {
+      "title": "Нео-Ноосфера в «Пространстве Козырева-Казначеева",
+      "description": "Международная научная конференция и круглый стол",
+      "url": "https://cosmatica.org/projects/neo-noosfera-kozireva",
+      "image": "https://cosmatica.org/upload/000/u30/8/3/neo-noosfera-v-prostranstve-kozyreva-kaznacheeva-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=a41506407bb5f18944",
+      "type": "project",
+      "sourceCharacters": 5217,
+      "verified": false
+    },
+    {
+      "title": "Издание раскраски \"Былина о Гагарине\"",
+      "description": "Цели проекта: 1. Популяризации реальной истории о нашем Герое — Ю.А. Гагарине среди подрастающего поколения. 2. Издание раскраски истории жизни Ю.А. Гагарина в стихах.",
+      "url": "https://cosmatica.org/projects/bilina-o-gagarine",
+      "image": "https://cosmatica.org/upload/000/u26/c/c/930add91.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=8a6504833b91fb722e",
+      "type": "project",
+      "sourceCharacters": 2629,
+      "verified": false
+    },
+    {
+      "title": "Конкурс детского рисунка «Шаг из Колыбели»",
+      "description": "Конкурс приурочен к Юбилею празднования 85-ления Юрия Алексеевича Гагарина.",
+      "url": "https://cosmatica.org/projects/shag-iz-kolibely",
+      "image": "https://cosmatica.org/upload/000/u26/2/5/konkurs-detskogo-risunka-shag-iz-kolybeli-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=6a9224889e2f419b35",
+      "type": "project",
+      "sourceCharacters": 4848,
+      "verified": false
+    },
+    {
+      "title": "Молодёжный космический форум – «Семихатовские чтения»",
+      "description": "«Семихатовские чтения» проводятся ежегодно в канун празднования Дня космонавтики и посвящаются памяти конструктора и ученого – академика Н.А. Семихатова.",
+      "url": "https://cosmatica.org/projects/semihatovskie-chteniya",
+      "image": "https://cosmatica.org/upload/002/u218/1/9/molodyozhnyi-kosmicheskii-forum-semihatovskie-chtenija-logo-norma.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=95a5b67f97c2d85947",
+      "type": "project",
+      "sourceCharacters": 2078,
+      "verified": false
+    },
+    {
+      "title": "космоконструктор.рф",
+      "description": "В рамках работы Общественно-государственного комитета празднования 85-летия Ю.А. Гагарина (Гагаринский Комитет) в период с 9 марта по 16 июня 2019 г. Русское Космическое Общество проводит Международный конкурс создания моделей достижений отечественной космонавтики, сделанных с помощью детских конструкторов «космоконструктор.рф».",
+      "url": "https://cosmatica.org/projects/cosmokonstruktorrf",
+      "image": "https://cosmatica.org/upload/000/u26/4/1/kosmokonstruktor-rf-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=52e75a03af80bf43ed",
+      "type": "project",
+      "sourceCharacters": 3204,
+      "verified": false
+    },
+    {
+      "title": "Открытый IT-чемпионат им. П.Г. Кузнецова",
+      "description": "Открытый IT-чемпионат в сфере информационно-телекоммуникационных технологий им. П.Г. Кузнецова (далее — Чемпионат) – это короткое пятидневное, динамичное мероприятие, призванное стимулировать появление новых идей в выбранной предметной области и доведение их до реализации непосредственно на площадке мероприятия.",
+      "url": "https://cosmatica.org/projects/chempionat-kuznetsova",
+      "image": "https://cosmatica.org/upload/000/u26/c/b/otkrytyi-it-chempionat-im-p-g-kuznecova-logo-normal.jpg",
+      "kind": "project",
+      "href": "view.html?p=project&ref=9f0ab8970eb611ebd3",
+      "type": "project",
+      "sourceCharacters": 4397,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

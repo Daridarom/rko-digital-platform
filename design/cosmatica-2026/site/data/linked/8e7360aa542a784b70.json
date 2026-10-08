@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/952-chto-obschego-mezhdu-elektronom-i-galaktikoi.html",
+  "title": "Что общего между электроном и Галактикой?",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u35/b/6/chto-obschego-mezhdu-elektronom-i-galaktikoi-photo-normal.jpg",
+      "alt": "Что общего между электроном и Галактикой?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Представляем Вашему вниманию беседу двух Членов Русского Космического Общества: Вадима Ивановича Ловчикова с Сергеем Ивановичем Сухоносом",
+      "spans": [
+        {
+          "text": "Представляем Вашему вниманию беседу двух Членов Русского Космического Общества: "
+        },
+        {
+          "text": "Вадима Ивановича Ловчикова",
+          "href": "https://cosmatica.org/users/196"
+        },
+        {
+          "text": " с "
+        },
+        {
+          "text": "Сергеем Ивановичем Сухоносом",
+          "href": "https://cosmatica.org/users/45"
+        }
+      ],
+      "links": [
+        {
+          "text": "Вадима Ивановича Ловчикова",
+          "url": "https://cosmatica.org/users/196"
+        },
+        {
+          "text": "Сергеем Ивановичем Сухоносом",
+          "url": "https://cosmatica.org/users/45"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Темой беседы стала книга \"Масштабная гармония вселенной\"",
+      "spans": [
+        {
+          "text": "Темой беседы стала книга \"Масштабная гармония вселенной\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Когда в XX веке ученые открыли, что наша солнечная система является лишь частью огромной галактики, состоящей из миллиардов звезд, да и самих галактик существует множество, это потрясло людей и перевернуло их мировоззрение , изгнав человека из центра мироздания на его «задворки». Однако быть чем-то небольшим еще не значит быть чем-то неважным. Гость подкаста - кандидат технических наук, профессор Российской академии естествознания, член Русского Космического Общества объясняет, почему человечеству не стоит умалять свою значимость во Вселенной.",
+      "spans": [
+        {
+          "text": "Когда в XX веке ученые открыли, что наша солнечная  "
+        },
+        {
+          "text": "система",
+          "href": "https://cosmatica.org/glossary/47-sistema.html"
+        },
+        {
+          "text": " является лишь частью огромной галактики, состоящей из миллиардов звезд, да и самих галактик существует множество, это потрясло людей и перевернуло их  "
+        },
+        {
+          "text": "мировоззрение",
+          "href": "https://cosmatica.org/glossary/106-mirovozzrenie.html"
+        },
+        {
+          "text": ", изгнав человека из центра мироздания на его «задворки». Однако быть чем-то небольшим еще не значит быть чем-то неважным. Гость подкаста - кандидат технических наук, профессор Российской академии естествознания, член Русского Космического Общества объясняет, почему человечеству не стоит умалять свою значимость во Вселенной."
+        }
+      ],
+      "links": [
+        {
+          "text": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        },
+        {
+          "text": "мировоззрение",
+          "url": "https://cosmatica.org/glossary/106-mirovozzrenie.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Полную версию ролика смотрите на сайте: https://plus.dentv.ru/video/8uAmRudQYYvLxc2v7nmtHd...",
+      "spans": [
+        {
+          "text": "Полную версию ролика смотрите на сайте: "
+        },
+        {
+          "text": "https://plus.dentv.ru/video/8uAmRudQYYvLxc2v7nmtHd...",
+          "href": "https://plus.dentv.ru/video/8uAmRudQYYvLxc2v7nmtHd.html"
+        }
+      ],
+      "links": [
+        {
+          "text": "https://plus.dentv.ru/video/8uAmRudQYYvLxc2v7nmtHd...",
+          "url": "https://plus.dentv.ru/video/8uAmRudQYYvLxc2v7nmtHd.html"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "OMnu4tXPHxE",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=OMnu4tXPHxE"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Член РКО Вадим Иванович Ловчиков, ведущий программы на День-ТВ беседует с С.И. Сухоносом о гармонии Вселенной.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Представляем Вашему вниманию беседу двух Членов Русского Космического Общества: Вадима Ивановича Ловчикова с Сергеем Ивановичем Сухоносом Темой беседы стала книга \"Масштабная гармония вселенной\" Когда в XX веке ученые открыли, что наша солнечная система является лишь частью огромной галактики, состоящей из миллиардов звезд, да и самих галактик существует множество, это потрясло людей и перевернуло их мировоззрение , изгнав человека из центра мироздания на его «задворки». Однако быть чем-то небольшим еще не значит быть чем-то неважным. Гость подкаста - кандидат технических наук, профессор Российской академии естествознания, член Русского Космического Общества объясняет, почему человечеству не стоит умалять свою значимость во Вселенной. Полную версию ролика смотрите на сайте: https://plus.dentv.ru/video/8uAmRudQYYvLxc2v7nmtHd...",
+      "links": [
+        {
+          "title": "Вадима Ивановича Ловчикова",
+          "url": "https://cosmatica.org/users/196"
+        },
+        {
+          "title": "Сергеем Ивановичем Сухоносом",
+          "url": "https://cosmatica.org/users/45"
+        },
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        },
+        {
+          "title": "мировоззрение",
+          "url": "https://cosmatica.org/glossary/106-mirovozzrenie.html"
+        },
+        {
+          "title": "https://plus.dentv.ru/video/8uAmRudQYYvLxc2v7nmtHd...",
+          "url": "https://plus.dentv.ru/video/8uAmRudQYYvLxc2v7nmtHd.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u35/b/6/chto-obschego-mezhdu-elektronom-i-galaktikoi-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1208,
+    "storedTextCharacters": 846,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 4,
+    "sourceBytes": 47895
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1056,
+  "capturedBodyCharacters": 846,
+  "sourceTextSHA256": "f63c91cdadd8c81b103f2c1a69e7e58be747293f7bfb5311f1e17e04c42170b8",
+  "archiveSnapshotAt": "2026-10-08T09:14:25Z",
+  "publicVideoCount": 1
+}

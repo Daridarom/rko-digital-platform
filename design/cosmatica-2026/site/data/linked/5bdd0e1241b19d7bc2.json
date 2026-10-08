@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/o",
+  "title": "О",
+  "intro": "",
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Описать систему",
+      "url": "https://cosmatica.org/glossary/179-opisat-sistemu.html",
+      "description": ""
+    },
+    {
+      "title": "Обобщающая форма знания",
+      "url": "https://cosmatica.org/glossary/171-obobschayuschaja-forma-znanija.html",
+      "description": ""
+    },
+    {
+      "title": "Обобщающая форма веры и знания",
+      "url": "https://cosmatica.org/glossary/90-obobschayuschaja-forma-very-i-znanija.html",
+      "description": ""
+    },
+    {
+      "title": "Общий закон Природы",
+      "url": "https://cosmatica.org/glossary/89-obschii-zakon-prirody.html",
+      "description": ""
+    },
+    {
+      "title": "Основные виды обра­ботки данных",
+      "url": "https://cosmatica.org/glossary/149-osnovnye-vidy-obra-botki-dannyh.html",
+      "description": ""
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 92,
+    "storedTextCharacters": 87,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 34225
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 92,
+  "capturedBodyCharacters": 87,
+  "sourceTextSHA256": "1decaf53b2048afc5ac3101133410636a7d4c8a29f27f11ee9725ac40eaa03fd",
+  "archiveSnapshotAt": "2026-10-08T08:47:27Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 5
+}

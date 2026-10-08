@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/64-prostranstvo.html",
+  "title": "Пространство",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "многомерная протяженность, обладающая проника­ющей способностью во",
+      "spans": [
+        {
+          "text": "многомерная протяженность, обладающая проника­ющей способностью во"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Время",
+      "spans": [
+        {
+          "text": "Время"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ".",
+      "spans": [
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "многомерная протяженность, обладающая проника­ющей способностью во Время .",
+      "links": [
+        {
+          "title": "Время",
+          "url": "https://cosmatica.org/glossary/157-vremja.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 87,
+    "storedTextCharacters": 72,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31765
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 74,
+  "capturedBodyCharacters": 72,
+  "sourceTextSHA256": "c65e1c575cc73bf5eebcfbc51f9e792666a4ca6168854b842dccd66777020278",
+  "archiveSnapshotAt": "2026-10-08T08:46:56Z"
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/105-sostojalos-ocherednoe-sobranie-literaturnogo-kluba.html",
+  "title": "Состоялось очередное собрание литературного клуба",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#Поэзия Русского Космизма",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/0f/53/sostojalos-ocherednoe-sobranie-literaturnogo-kluba-photo-normal.jpg",
+      "alt": "Состоялось очередное собрание литературного клуба"
+    },
+    {
+      "type": "paragraph",
+      "text": "Встреча была посвящена творчеству Александра Блока. В рамках мероприятия был разобран творческий и жизненный путь великого русского писателя.",
+      "spans": [
+        {
+          "text": "Встреча была посвящена творчеству Александра Блока. В рамках мероприятия был разобран творческий и жизненный путь великого русского писателя. "
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "30-го мая в московском офисе РКО прошла встреча литературного клуба",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Встреча была посвящена творчеству Александра Блока. В рамках мероприятия был разобран творческий и жизненный путь великого русского писателя.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/0f/53/sostojalos-ocherednoe-sobranie-literaturnogo-kluba-photo-normal.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 412,
+    "storedTextCharacters": 177,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 46042
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 226,
+  "capturedBodyCharacters": 177,
+  "sourceTextSHA256": "34907183b8f161cd7414309e7786e9b13cab399f850a27c2e6836c4eaea08cf3",
+  "archiveSnapshotAt": "2026-10-08T08:51:29Z"
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/66-proektnoe-upravlenie-ustoichivym-razvitiem.html",
+  "title": "Проектное управление устойчивым развитием",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это профессиональ­ное управление изменениями, удовлетворяющими требованиям устой­чивого развития с применением технологий устойчивого развития.",
+      "spans": [
+        {
+          "text": "это профессиональ­ное управление изменениями, удовлетворяющими требованиям устой­чивого развития с применением технологий устойчивого развития."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это профессиональ­ное управление изменениями, удовлетворяющими требованиям устой­чивого развития с применением технологий устойчивого развития.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 185,
+    "storedTextCharacters": 143,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32303
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 143,
+  "capturedBodyCharacters": 143,
+  "sourceTextSHA256": "8da79fb405b8a6ec331d4235148484cfe2a10790828e299458b5630aad001efa",
+  "archiveSnapshotAt": "2026-10-08T08:46:56Z"
+}

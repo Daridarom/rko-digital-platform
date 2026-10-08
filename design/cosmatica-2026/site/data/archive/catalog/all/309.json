@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 309,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Сергей Сергеевич Смирнов",
+      "description": "Вице-президент Астрономо-геодезического объединения России",
+      "url": "https://cosmatica.org/users/161",
+      "image": "https://cosmatica.org/upload/001/u161/a2/c7/a1e72563.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=f9865d26cd426d768f",
+      "type": "profile",
+      "sourceCharacters": 537,
+      "verified": false
+    },
+    {
+      "title": "Александр Станиславович Лихарев",
+      "description": "",
+      "url": "https://cosmatica.org/users/162",
+      "image": "https://cosmatica.org/upload/000/u8/d8/b2/deb3c6ae.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=393e85838db1c8ed6a",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Махаев Дмитрий Николаевич",
+      "description": "Председатель Луганского отделения РКО Общественный деятель Ветеран СВО",
+      "url": "https://cosmatica.org/users/1639",
+      "image": "https://cosmatica.org/upload/000/u35/7/6/3905425f.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=86d8aeeacdbe75a629",
+      "type": "profile",
+      "sourceCharacters": 107,
+      "verified": false
+    },
+    {
+      "title": "Александр Михайлович Анищенко",
+      "description": "Руководитель Секции Авангардных исследований при Совете труда и творчества.",
+      "url": "https://cosmatica.org/users/164",
+      "image": "https://cosmatica.org/upload/000/u8/e0/3b/25fe75f1.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=911358c5c898000014",
+      "type": "profile",
+      "sourceCharacters": 185,
+      "verified": false
+    },
+    {
+      "title": "Валерий Александрович Задерей",
+      "description": "Начальник штаба Союза Народного Сплочения Ветеран Службы внешней разведки, подполковник запаса Ведущий программы «Вечный зов» информационного агентства «Аврора»",
+      "url": "https://cosmatica.org/users/1642",
+      "image": "assets/source/5d96fb3c41b6d87e2d9ef323.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=9f023ea6457359233c",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Тамара Алексеевна Молодиченко",
+      "description": "Кандидат психологических наук, доцент кафедры Социальной психологии образования и развития факультета психолого-педагогического и специального образования СГУ,",
+      "url": "https://cosmatica.org/users/165",
+      "image": "https://cosmatica.org/upload/000/u35/47/1b/240d6abf.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=47666d3e40e0307f7c",
+      "type": "profile",
+      "sourceCharacters": 1274,
+      "verified": false
+    },
+    {
+      "title": "Анна Михайловна Буйная",
+      "description": "Научный сотрудник Анапского археологического музея «Горгиппия»",
+      "url": "https://cosmatica.org/users/167",
+      "image": "https://cosmatica.org/upload/000/u8/fb/b9/d1862a57.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=820dd0a6018ef62b87",
+      "type": "profile",
+      "sourceCharacters": 102,
+      "verified": false
+    },
+    {
+      "title": "Елена Геннадьевна Носкова",
+      "description": "Педагог дополнительного образования МБОУ СОШ №1 г-к Анапа",
+      "url": "https://cosmatica.org/users/168",
+      "image": "https://cosmatica.org/upload/000/u26/64/b6/ef08660f.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=8ea6beba9cbc942c6f",
+      "type": "profile",
+      "sourceCharacters": 97,
+      "verified": false
+    },
+    {
+      "title": "Надежда Леонидовна Пастернак",
+      "description": "Планируемая деятельность в РКО: Мониторинг и улучшение экологической ситуации в Краснодарском крае. Развитие ноосферного образования.",
+      "url": "https://cosmatica.org/users/169",
+      "image": "https://cosmatica.org/upload/000/u8/fc/75/e68a20d5.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=7452e1c6fd034bcd31",
+      "type": "profile",
+      "sourceCharacters": 207,
+      "verified": false
+    },
+    {
+      "title": "Вячеслав Васильевич Обрежа",
+      "description": "Председатель Общественно-государственного Совета Русского Космического Общества",
+      "url": "https://cosmatica.org/users/17",
+      "image": "https://cosmatica.org/upload/000/u8/ef/59/261174f6.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=6f747f0efb79ccdb85",
+      "type": "profile",
+      "sourceCharacters": 316,
+      "verified": false
+    },
+    {
+      "title": "Александр Борисович Малыхин",
+      "description": "",
+      "url": "https://cosmatica.org/users/170",
+      "image": "https://cosmatica.org/upload/000/u26/cc/de/599afcd8.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=94e7602a24c9746ac8",
+      "type": "profile",
+      "sourceCharacters": 57,
+      "verified": false
+    },
+    {
+      "title": "Ольга Николаевна Янковская",
+      "description": "Руководитель проектов «Связь поколений», «Бизнес и культура»",
+      "url": "https://cosmatica.org/users/1717",
+      "image": "https://cosmatica.org/upload/000/u35/b/4/7d116abd.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=127d95bd1cdb94e97c",
+      "type": "profile",
+      "sourceCharacters": 138,
+      "verified": false
+    },
+    {
+      "title": "Калужское отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/172",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a2b76baf06760ecbe2",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Саратовское отделение",
+      "description": "",
+      "url": "https://cosmatica.org/users/173",
+      "image": "https://cosmatica.org/upload/default/avatar_micro.png",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=bc96a92807e27a2c08",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Мария Владимировна Губенко",
+      "description": "Руководитель Экологического совета РКО, проекта «Добровольческий эколагерь „Утриш“ программа экологического просвещения», и ещё целого ряда важных, уникальных программ целостного, экологического развития системы «природа-общество-человек».",
+      "url": "https://cosmatica.org/users/1749",
+      "image": "https://cosmatica.org/upload/000/u35/d/9/e45cd1d4.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a99fefc4c8c0544996",
+      "type": "profile",
+      "sourceCharacters": 276,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

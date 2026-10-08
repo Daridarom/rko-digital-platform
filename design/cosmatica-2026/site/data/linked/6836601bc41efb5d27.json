@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles-list",
+  "sourceUrl": "https://cosmatica.org/glossary/k",
+  "title": "К",
+  "intro": "",
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Космичность",
+      "url": "https://cosmatica.org/glossary/221-kosmichnost.html",
+      "description": ""
+    },
+    {
+      "title": "Космизм созидания",
+      "url": "https://cosmatica.org/glossary/213-kosmizm-sozidanija.html",
+      "description": ""
+    },
+    {
+      "title": "Косматика",
+      "url": "https://cosmatica.org/glossary/212-kosmatika.html",
+      "description": ""
+    },
+    {
+      "title": "Контекстно связная или физическая связь с реальным миром",
+      "url": "https://cosmatica.org/glossary/177-kontekstno-svjaznaja-ili-fizicheskaja-svjaz-s-realnym-mirom.html",
+      "description": ""
+    },
+    {
+      "title": "Контекстно свободная или математическая связь",
+      "url": "https://cosmatica.org/glossary/176-kontekstno-svobodnaja-ili-matematicheskaja-svjaz.html",
+      "description": ""
+    },
+    {
+      "title": "Качество",
+      "url": "https://cosmatica.org/glossary/117-kachestvo.html",
+      "description": ""
+    },
+    {
+      "title": "Количество",
+      "url": "https://cosmatica.org/glossary/116-kolichestvo.html",
+      "description": ""
+    },
+    {
+      "title": "Коэффициент совершенства технологии (КСТ)",
+      "url": "https://cosmatica.org/glossary/115-koefficient-sovershenstva-tehnologii-kst.html",
+      "description": ""
+    },
+    {
+      "title": "Критический период",
+      "url": "https://cosmatica.org/glossary/114-kriticheskii-period.html",
+      "description": ""
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 225,
+    "storedTextCharacters": 215,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 38281
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary",
+  "sourceTextCharacters": 225,
+  "capturedBodyCharacters": 215,
+  "sourceTextSHA256": "2ee31a132caaacac0c94a9e42fe6a0f8b46089b7013a4e14852e7f8cc74bb868",
+  "archiveSnapshotAt": "2026-10-08T08:47:27Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 9
+}

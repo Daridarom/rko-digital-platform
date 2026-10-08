@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/35-privetstvennye-pisma-v-adres-russkogo-kosmicheskogo-obschestva.html",
+  "title": "Приветственные письма в адрес Русского Космического Общества",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/c5/59/privetstvennye-pisma-v-adres-russkogo-kosmicheskogo-obschestva-pho.jpg",
+      "alt": "Приветственные письма в адрес Русского Космического Общества"
+    },
+    {
+      "type": "paragraph",
+      "text": "В честь первого общего собрания членов Русского Космического Общества, которое состоялось 21 декабря 2017 года в Центральном доме учёных по адресу: г. Москва, ул. Пречистенка, д. 16, в адрес РКО поступили приветственные письма ряда организаций, отметивших важность данного события и выразивших готовность к плодотворному сотрудничеству в долгосрочной перспективе.",
+      "spans": [
+        {
+          "text": "В честь первого общего собрания членов Русского Космического Общества, которое состоялось 21 декабря 2017 года в Центральном доме учёных по адресу: г. Москва, ул. Пречистенка, д. 16, в адрес РКО поступили приветственные письма ряда организаций, отметивших важность данного события и выразивших готовность к плодотворному сотрудничеству в долгосрочной перспективе. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Выражаем благодарность за поддержку и надеемся на активную взаимопомощь в предстоящей совместной деятельности.",
+      "spans": [
+        {
+          "text": "Выражаем благодарность за поддержку и надеемся на активную взаимопомощь в предстоящей совместной деятельности."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/42/81/prezidium-ekspertnogo-soveta-vpk-rf.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/55/f6/rossiiska-inzhenernaja-akademija.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/f6/b5/v-prezidium-russkogo-kosmich-obschestva-001.jpg",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Российская инженерная академия, Президиум экспертного совета при коллегии ВПК РФ и Фонд В.С.Черномырдина направили обращения к участникам первого собрания членов РКО.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В честь первого общего собрания членов Русского Космического Общества, которое состоялось 21 декабря 2017 года в Центральном доме учёных по адресу: г. Москва, ул. Пречистенка, д. 16, в адрес РКО поступили приветственные письма ряда организаций, отметивших важность данного события и выразивших готовность к плодотворному сотрудничеству в долгосрочной перспективе. Выражаем благодарность за поддержку и надеемся на активную взаимопомощь в предстоящей совместной деятельности.",
+      "links": [],
+      "image": "https://cosmatica.org/upload/000/u1/42/81/prezidium-ekspertnogo-soveta-vpk-rf.jpg"
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/c5/59/privetstvennye-pisma-v-adres-russkogo-kosmicheskogo-obschestva-pho.jpg",
+    "https://cosmatica.org/upload/000/u1/42/81/prezidium-ekspertnogo-soveta-vpk-rf.jpg",
+    "https://cosmatica.org/upload/000/u1/55/f6/rossiiska-inzhenernaja-akademija.jpg",
+    "https://cosmatica.org/upload/000/u1/f6/b5/v-prezidium-russkogo-kosmich-obschestva-001.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 829,
+    "storedTextCharacters": 484,
+    "sourceCardCount": 0,
+    "sourceImageCount": 4,
+    "paragraphCount": 14,
+    "sourceBytes": 46887
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 658,
+  "capturedBodyCharacters": 484,
+  "sourceTextSHA256": "91e1b112d9bfc346f19c49f9a6941d8c7cd7c874de3ba425c8ad90eae5fb7c22",
+  "archiveSnapshotAt": "2026-10-08T09:11:23Z"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "news",
+  "title": "Новости",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 45,
+  "pageCount": 135,
+  "total": 2019,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Донбасс рождает русскую Россию",
+      "description": "« Величайшее из величайших назначений, уже созданных русскими в своём будущем, есть назначение общечеловеческое, есть общеслужение человечеству, – не России только, не общеславянству только, но всечеловечеству»",
+      "url": "https://cosmatica.org/news/1487-donbass-obedinjaet.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/6/donbass-rozhdaet-russkuyu-rossiyu-photo-normal.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ee3047977cbf280186",
+      "type": "news-item",
+      "sourceCharacters": 9822,
+      "verified": false
+    },
+    {
+      "title": "Киноиндустрия и сключение клуба \"Аретократия\" с Русским Космическим Обществом",
+      "description": "На встрече также присутствовали представители клубов \"UN Community\", \"Бегодевочки\" и \"Women association Skolkovo Alumni\".",
+      "url": "https://cosmatica.org/news/1484-kinoindustrija-i-sklyuchenie-kluba-aretokratija-s-russkim-kosmicheskim-obschestvom.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/7/57c77534.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4453e6f4da42a43a6c",
+      "type": "news-item",
+      "sourceCharacters": 2617,
+      "verified": false
+    },
+    {
+      "title": "Лекция «Скорость света, дефект масс, параметры среды нахождения»",
+      "description": "Лектор: Анищенко Александр Михайлович , инженер-исследователь, руководитель Секции Авангардных исследований при Совете труда и творчества",
+      "url": "https://cosmatica.org/news/1488-lekcija-skorost-sveta-defekt-mass-parametry-sredy-nahozhdenija.html",
+      "image": "https://cosmatica.org/upload/002/u218/2/d/lekcija-skorost-sveta-defekt-mass-parametry-sredy-nahozhdenija.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=6732ee7513e91d09f2",
+      "type": "news-item",
+      "sourceCharacters": 1129,
+      "verified": false
+    },
+    {
+      "title": "Рассказ об орбитальной студии",
+      "description": "Дмитрий Вячеславович Шалевич - участник Русского Космического Общества, изобретатель, участник патентных исследований и научно-исследовательских работ, автор публикаций и научных работ, резидент Творческой усадьбы Гуслица.",
+      "url": "https://cosmatica.org/news/1483-rasskaz-ob-orbitalnoi-studii.html",
+      "image": "https://cosmatica.org/upload/002/u218/a/2/rasskaz-ob-orbitalnoi-studii-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d6a42e67a8ff718596",
+      "type": "news-item",
+      "sourceCharacters": 1076,
+      "verified": false
+    },
+    {
+      "title": "Каждый год \"Небо зовёт\"!",
+      "description": "Это был замечательный семейный праздник, на котором нашлось место и для развлечений интеллектуальных и физических, и для новых знаний, и для интересного общения, и для вкусняшек!",
+      "url": "https://cosmatica.org/news/1482-kazhdyi-god-nebo-zovyot.html",
+      "image": "https://cosmatica.org/upload/000/u35/2/7/kazhdyi-god-nebo-zovyot-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=ce17e717612c5649db",
+      "type": "news-item",
+      "sourceCharacters": 2883,
+      "verified": false
+    },
+    {
+      "title": "Отсутствие плана - это план поражения",
+      "description": "Космоплан (далее — «КП») — это концентрат будущего в настоящем. Это новое слово, формирующее осознанную необходимость. Это кредо генерального конструктора будущего и инженера собственной истории. Это символ победы космоса над хаосом.",
+      "url": "https://cosmatica.org/news/1481-otsutstvie-plana-eto-plan-porazhenija.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/b/otsutstvie-plana-eto-plan-porazhenija-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=2bf1942f3bc3c06f34",
+      "type": "news-item",
+      "sourceCharacters": 5780,
+      "verified": false
+    },
+    {
+      "title": "Космодесант-2022. Через тернии к человечности!",
+      "description": "12 дней трудностей и радостей, новых навыков и досадных ошибок, новых впечатлений и преодоления - 12 дней, изменившие жизнь на \"до\" и \"после\" для 38 подростков.",
+      "url": "https://cosmatica.org/news/1477-kosmodesant-2022.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/6/kosmodesant-2022-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=068d4c5af28e14ed8f",
+      "type": "news-item",
+      "sourceCharacters": 10512,
+      "verified": false
+    },
+    {
+      "title": "Творческие встречи Евгения Александровича Воскресенского на Донбассе",
+      "description": "Мы уже писали ранее , что в период с 12 по 15 августа группа представителей Русского Космического Общества в рамках движения Народного сплочения с культурно-гуманитарной миссией прибыла в Донецкую Народную Республику.",
+      "url": "https://cosmatica.org/news/1478-tvorcheskie-vstrechi-evgenija-aleksandrovicha-voskresenskogo-na-donbasse.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/3/6d8293fc.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=20dfc0b497e82b1c07",
+      "type": "news-item",
+      "sourceCharacters": 11805,
+      "verified": false
+    },
+    {
+      "title": "89 лет со дня пуска «ГИРД-09»",
+      "description": "Отмечать эту дату стало уже традиционным для Русского Космического Общества. Местом данного исторического события, навсегда разделившего историю цивилизации Земли на «до» и «после» стал Нахабинский полигон Московской области.",
+      "url": "https://cosmatica.org/news/1479-89-let-so-dnja-puska-gird-09.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/d/89-let-so-dnja-puska-gird-09-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=cd9a5a9786b4769ff0",
+      "type": "news-item",
+      "sourceCharacters": 1363,
+      "verified": false
+    },
+    {
+      "title": "Ко дню Российского флага",
+      "description": "ФЛАГ есть символ государственности. Государство есть механизм организации общественных отношений. Государство есть форма выражения общественного договора или, бывает, это сговор, где определённая каста, или группа, силой оружия, денег и/или обмана присваивает себе ВЛАСТЬ над механизмом управления обществом - государством.",
+      "url": "https://cosmatica.org/news/1480-ko-dnyu-rossiiskogo-flaga.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/f/ko-dnyu-rossiiskogo-flaga-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=f73f948f8ef2bdab74",
+      "type": "news-item",
+      "sourceCharacters": 4008,
+      "verified": false
+    },
+    {
+      "title": "Воспитание детей через искусство: программа на новый учебный год",
+      "description": "Уважаемые педагоги и родители, которые самостоятельно занимаются со своими детьми! Мы продолжаем нашу совместную работу - воспитание человека, обладающего созидательными человеческими качествами, учим наших детей сохранению всего, что ценно, бережно хранится и передается из поколения в поколение: наши традиции, историю, культуру.",
+      "url": "https://cosmatica.org/news/1476-vospitanie-detei-cherez-iskusstvo-programma-na-novyi-uchebnyi-god.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/0/826d1023.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=33790e37f9d8a6f3f7",
+      "type": "news-item",
+      "sourceCharacters": 2847,
+      "verified": false
+    },
+    {
+      "title": "Исследования космоса и виртуально-космический туризм",
+      "description": "В начале августа состоялся эфир программы \"Среда будущего с Владимиром Белым\" на радио Mediametricsс с Дмитрием Вячеславовичем Шалевичем , участником Русского Космического Общества, изобретателем, участником патентных исследований и научно-исследовательских работ, автором публикаций и научных работ, резидент Творческой усадьбы Гуслица",
+      "url": "https://cosmatica.org/news/1475-issledovanija-kosmosa-i-virtualno-kosmicheskii-turizm.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/8/issledovanija-kosmosa-i-virtualno-kosmicheskii-turizm-photo-norma.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=fb74128eb51c26cca8",
+      "type": "news-item",
+      "sourceCharacters": 2032,
+      "verified": false
+    },
+    {
+      "title": "О настоящем и будущем Донбасса говорили на донецком ТВ",
+      "description": "12 августа в Донецк в рамках движения Народного сплочения с культурно-гуманитарной миссией прибыла группа наших содеев. В состав группы вошёл актёр театра и кино, телеведущий, почётный член Русского Космического Общества, Евгений Александрович Воскресенский. И так случилось волею судьбы, что 12 августа у нашего содея День рождения. Ни на миг не задумался над предложением посетить пылающий Донбасс Евгений Александрови",
+      "url": "https://cosmatica.org/news/1474-o-nastojaschem-i-buduschem-donbassa-govorili-na-doneckom-tv.html",
+      "image": "https://cosmatica.org/upload/000/u35/d/6/rko-na-pervom-resm-photo-normal.png",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3347d604d9dcc4b372",
+      "type": "news-item",
+      "sourceCharacters": 1870,
+      "verified": false
+    },
+    {
+      "title": "Гравитация: от вымыслов до наблюдений и выводов",
+      "description": "Докладчик: Анищенко Александр Михайлович , инженер-исследователь, руководитель Секции Авангардных исследований при Совете труда и творчества.",
+      "url": "https://cosmatica.org/news/1472-gravitacija-ot-vymyslov-do-nablyudenii-i-vyvodov.html",
+      "image": "https://cosmatica.org/upload/002/u218/b/2/gravitacija-ot-vymyslov-do-nablyudenii-i-vyvodov-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=d7c323476d7a9ef3ad",
+      "type": "news-item",
+      "sourceCharacters": 3271,
+      "verified": false
+    },
+    {
+      "title": "Сильнее времени и пространства",
+      "description": "\"С.А.Снегов. Сильнее времени и пространства\" так мы назвали лекторий, который намерены сделать ежегодным и проводить его в августе, приурочивая ко Дню рождения нашего талантливого соотечественника, писателя, учёного, философа, Сергея Александровича Снегова. Организаторами лектория выступают Русское Космическое Общество и МАУК «Калининградская ЦБС» библиотека им.С.Снегов.",
+      "url": "https://cosmatica.org/news/1473-silnee-vremeni-i-prostranstva.html",
+      "image": "https://cosmatica.org/upload/000/u35/9/a/0770717b.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=dc25540126a78ab772",
+      "type": "news-item",
+      "sourceCharacters": 1695,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

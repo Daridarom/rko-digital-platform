@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/226-zvyozdnye-puti-chelovechestva.html",
+  "title": "Звёздные пути человечества",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/book-covers/677d616882c2e3f3d91718.webp",
+      "alt": "Звёздные пути человечества"
+    },
+    {
+      "type": "paragraph",
+      "text": "Посвящается 25-летию космической эры. Сборник статей от Б. Покровского (начальник КИК), космонавтов Волынова Б., Шаталова В., Берегового Г., Титова Г., Коваленка В., вездесущего советского журналиста Реброва М. и ученых Денисова В., Гришина С. и Коваля А.",
+      "spans": [
+        {
+          "text": "Посвящается 25-летию космической эры. Сборник статей от Б. Покровского (начальник КИК), космонавтов Волынова Б., Шаталова В., Берегового Г., Титова Г., Коваленка В., вездесущего советского журналиста Реброва М. и ученых Денисова В., Гришина С. и Коваля А."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Хорев А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Посвящается 25-летию космической эры. Сборник статей от Б. Покровского (начальник КИК), космонавтов Волынова Б., Шаталова В., Берегового Г., Титова Г., Коваленка В., вездесущего советского журналиста Реброва М. и ученых Денисова В., Гришина С. и Коваля А.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 3 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/1564/8947f403d203bbf803fb09fc7287a7e2"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/book-covers/677d616882c2e3f3d91718.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/1564/8947f403d203bbf803fb09fc7287a7e2"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 317,
+    "storedTextCharacters": 255,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40134
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 290,
+  "capturedBodyCharacters": 255,
+  "sourceTextSHA256": "f4c78ec40594f8e1a2a8b390a585b9df72f36bda643d7e1cd312c023152267fb",
+  "archiveSnapshotAt": "2026-10-08T08:48:08Z"
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/350-prirodnye-materialy-na-urokah-truda.html",
+  "title": "Природные материалы на уроках труда",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/8/e/prirodnye-materialy-na-urokah-truda-photo-normal.jpeg",
+      "alt": "Природные материалы на уроках труда"
+    },
+    {
+      "type": "paragraph",
+      "text": "Книга является практическим пособием для учителя при проведении занятий в начальных классах с использованием природных материалов.\r\nВ пособии рассматриваются различные виды природных материалов, способы их хранения и обработки: приводится описание примерных практических работ для I - III классов,",
+      "spans": [
+        {
+          "text": "Книга является практическим пособием для учителя при проведении занятий в начальных классах с использованием природных материалов.\r\nВ пособии рассматриваются различные виды природных материалов, способы их хранения и обработки: приводится описание примерных практических работ для I - III классов,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "технология",
+      "spans": [
+        {
+          "text": "технология"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "изготовления поделок. Отдельный раздел книги посвящен внеурочной работе.\r\nРисунки в книге сделаны по эскизам автора.",
+      "spans": [
+        {
+          "text": "изготовления поделок. Отдельный раздел книги посвящен внеурочной работе.\r\nРисунки в книге сделаны по эскизам автора."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Филенко Ф.П.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Книга является практическим пособием для учителя при проведении занятий в начальных классах с использованием природных материалов. В пособии рассматриваются различные виды природных материалов, способы их хранения и обработки: приводится описание примерных практических работ для I - III классов, технология изготовления поделок. Отдельный раздел книги посвящен внеурочной работе. Рисунки в книге сделаны по эскизам автора.",
+      "links": [
+        {
+          "title": "технология",
+          "url": "https://cosmatica.org/glossary/34-tehnologija.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 4 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/2134/74ca9da65c8565008d51fb960789baba"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/8/e/prirodnye-materialy-na-urokah-truda-photo-normal.jpeg"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/2134/74ca9da65c8565008d51fb960789baba"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 498,
+    "storedTextCharacters": 423,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40840
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 462,
+  "capturedBodyCharacters": 423,
+  "sourceTextSHA256": "9983aa3198317e3ebdaf978a17a9bdd1afe9730772bcb0d3c1592901e041aa6a",
+  "archiveSnapshotAt": "2026-10-08T08:49:27Z"
+}

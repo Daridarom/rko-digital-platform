@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/306-prezentacija-platformy-rko-nbics-net.html",
+  "title": "Презентация платформы rko.nbics.net #Космоноосферная платформа ​rko.nbics.net",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/c/prezentacija-platformy-rko-nbics-net-photo-big.jpg",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Презентацию проводит Меркулов Александр Алексеевич , руководитель ассоциации инновационных предприятий NBICS, председатель Калининградского отделения РКО, кандидат технических наук, директор технопарка КГТУ. Он расскажет о платформе и её наполнении и функционале. Вы узнаете каким образом её можно использовать в вашей повседневной работе, в управлении, образовании и коммуникации. Мы уже неоднократно сообщали, что Русское Космическое Общество приступило к бета-тестированию своей собственной цифровой платформы rko.nbics.net, которую оно разрабатывает и внедряет совместно с ассоциацией инновационных предприятий NBICS. Платформа состоит из трёх ключевых подсистем: ситуационного центра, коммуникационной среды и образовательной платформы. Все решения разработаны отечественными учёными, инженерами и программистами. Это первая в мире платформа, которая представляет собой процесс конвергентного сетевого взаимодействия различных субъектов, объектов и ресурсов, объединённых единой целью. Длительность презентации - 45 минут Обсуждение и вопросы - 45 минут Для участия в презентации необходимо быть зарегистрированным на платформе https://rko.nbics.net/ Мероприятие пройдёт в закрытом режиме, только для членов РКО . Вход в вебинарную комнату только по приглашениям. О своей готовности участвовать необходимо сообщить заранее Антонову Павлу Романовичу эл.почта antonov@cosmatica.org",
+      "links": [
+        {
+          "title": "Меркулов Александр Алексеевич",
+          "url": "https://cosmatica.org/users/222"
+        },
+        {
+          "title": "https://rko.nbics.net/",
+          "url": "https://rko.nbics.net/"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/e/c/prezentacija-platformy-rko-nbics-net-photo-big.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1571,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 1,
+    "sourceBytes": 41318
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 1571,
+  "capturedBodyCharacters": 0,
+  "sourceTextSHA256": "89819a2cbc87daebffcac28d6885e25238be510e5b6fd41ee7ae7568a9a97b04",
+  "archiveSnapshotAt": "2026-10-08T09:15:48Z"
+}

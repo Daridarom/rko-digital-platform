@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/182",
+  "title": "Мария Валерьевна Доронина",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/4/9/b605d3d8.jpg",
+      "alt": "Мария Валерьевна Доронина"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u26/8/2/281a5ea7.jpg",
+      "alt": "Мария Валерьевна Доронина"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Калужского регионального отделения Русского Космического Общества.",
+      "spans": [
+        {
+          "text": "Председатель Калужского регионального отделения Русского Космического Общества."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Методист ГАОУ ДПО «Калужский государственный институт развития образования»",
+      "spans": [
+        {
+          "text": "Методист ГАОУ ДПО «Калужский государственный институт развития образования»"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Калужская область",
+      "links": [
+        {
+          "title": "Калужская область",
+          "url": "https://cosmatica.org/departments/11-kaluzhskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Председатель Калужского регионального отделения Русского Космического Общества. Методист ГАОУ ДПО «Калужский государственный институт развития образования»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u26/4/9/b605d3d8.jpg",
+    "https://cosmatica.org/upload/000/u26/8/2/281a5ea7.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 245,
+    "storedTextCharacters": 187,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35130
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 194,
+  "capturedBodyCharacters": 187,
+  "sourceTextSHA256": "331aaddd1f8ba39439419885e6bca9249bbf1a8f01947c5ad045e930ad087f0a",
+  "archiveSnapshotAt": "2026-10-08T09:18:19Z"
+}

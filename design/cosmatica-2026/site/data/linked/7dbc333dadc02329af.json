@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/53-elektronnyi-arhiv-p-g-kuznecova.html",
+  "title": "Электронный архив П.Г.Кузнецова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u1/2f/3d/elektronnyi-arhiv-p-g-kuznecova-photo-normal.png",
+      "alt": "Электронный архив П.Г.Кузнецова"
+    },
+    {
+      "type": "paragraph",
+      "text": "http://www.pobisk-memory.narod.ru/library.htm",
+      "spans": [
+        {
+          "text": "http://www.pobisk-memory.narod.ru/library.htm"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "http://www.pobisk-memory.narod.ru/library.htm",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 104 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/111/6524e712ab222a85bb30638e423f0657"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/000/u1/2f/3d/elektronnyi-arhiv-p-g-kuznecova-photo-normal.png"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/111/6524e712ab222a85bb30638e423f0657"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 98,
+    "storedTextCharacters": 45,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 38927
+  },
+  "textFallbackRequired": false,
+  "originalKind": "book",
+  "sourceTextCharacters": 66,
+  "capturedBodyCharacters": 45,
+  "sourceTextSHA256": "ab1d497bc4d41e1882ca74547404e316464a3f01722567b42a11973346d1ca12",
+  "archiveSnapshotAt": "2026-10-08T08:50:56Z"
+}

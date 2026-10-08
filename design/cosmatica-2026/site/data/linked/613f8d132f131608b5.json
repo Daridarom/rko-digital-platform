@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/1884",
+  "title": "Ирина Васильевна Петрова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/8/4/5886a2fa.jpg",
+      "alt": "Ирина Васильевна Петрова"
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/8/2/e2d6e11d.jpg",
+      "alt": "Ирина Васильевна Петрова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 4 года назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Координатор образовательных проектов Русского Космического Общества",
+      "spans": [
+        {
+          "text": "Координатор образовательных проектов Русского Космического Общества"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Преподаватель математики",
+      "spans": [
+        {
+          "text": "Преподаватель математики"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Координатор образовательных проектов Русского Космического Общества Преподаватель математики",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/8/4/5886a2fa.jpg",
+    "https://cosmatica.org/upload/002/u218/8/2/e2d6e11d.jpg"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 171,
+    "storedTextCharacters": 125,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35037
+  },
+  "textFallbackRequired": false,
+  "originalKind": "profile",
+  "sourceTextCharacters": 120,
+  "capturedBodyCharacters": 125,
+  "sourceTextSHA256": "efd32908e3bbc6ae4e28499b05e4803a203bd49ece01cf1502d427cb43af9eb8",
+  "archiveSnapshotAt": "2026-10-08T09:18:21Z"
+}

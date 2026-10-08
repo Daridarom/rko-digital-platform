@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster-item",
+  "sourceUrl": "https://cosmatica.org/poster/sobytie",
+  "title": "Событие",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Грядущие",
+        "Все"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "24 октября",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/000/u7/d/e/fc174b5a.jpg",
+      "alt": ""
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "https://cosmatica.org/upload/000/u7/d/e/fc174b5a.jpg"
+  ],
+  "documents": [],
+  "categories": [
+    "Грядущие",
+    "Все"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 94,
+    "storedTextCharacters": 21,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 48696
+  },
+  "textFallbackRequired": false,
+  "originalKind": "poster-item",
+  "sourceTextCharacters": 94,
+  "capturedBodyCharacters": 21,
+  "sourceTextSHA256": "f020c05af3b209090c9c5772fdd884810148b2ceca7c55ffea8316fd38e6d426",
+  "archiveSnapshotAt": "2026-10-08T09:16:19Z"
+}

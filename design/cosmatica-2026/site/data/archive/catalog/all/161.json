@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "all",
+  "title": "Весь публичный архив РКО",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 161,
+  "pageCount": 321,
+  "total": 4812,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Вступительное слово",
+      "description": "В преддверии Нового года принято вспоминать о событиях года минувшего, подводить итоги, строить планы.",
+      "url": "https://cosmatica.org/articles/445-vstupitelnoe-slovo.html",
+      "image": "https://cosmatica.org/upload/000/u26/e9/5f/bezymjannyi.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=689d44ef724c931e67",
+      "type": "article",
+      "sourceCharacters": 7622,
+      "verified": false
+    },
+    {
+      "title": "Голоса",
+      "description": "Книга доступна для чтения по адресу: https://ridero.ru/books/golosa_6/ Будем рады Вашей поддержке, отзывам и комментариям.",
+      "url": "https://cosmatica.org/library/445-golosa.html",
+      "image": "https://cosmatica.org/upload/000/u38/5/f/golosa-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=0518e3a0f4228a3611",
+      "type": "book",
+      "sourceCharacters": 152,
+      "verified": false
+    },
+    {
+      "title": "Космос навсегда!",
+      "description": "Статья С. П. Королёва «Шаги в будущее», опубликованная в газете \"Правда\" от 1 января 1966 г. под псевдонимом «Профессор К. Сергеев», заканчивается такими словами: «Все сказанное - увлекательные планы исследования Вселенной, это шаги в будущее. Это будущее, хотя и не столь близкое, но реальное, поскольку оно опирается на уже достигнутое. Каждый космический год - это новый шаг вперёд отечественной науки по пути познани",
+      "url": "https://cosmatica.org/news/445-kosmos-navsegda.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/0/73835c58.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=b1e9291eae3ec646f0",
+      "type": "news-item",
+      "sourceCharacters": 1365,
+      "verified": false
+    },
+    {
+      "title": "Изобретатели вступили в строй Русского Космического Общества!",
+      "description": "В РКО создана Секция общества изобретателей при Научно-техническом Совете.",
+      "url": "https://cosmatica.org/articles/444-izobretateli-vstupili-v-stroi-russkogo-kosmicheskogo-obschestva.html",
+      "image": "https://cosmatica.org/upload/000/u26/96/9f/izobretateli-vstupili-v-stroi-russkogo-kosmicheskogo-obschestva-ph.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=206477a1d079708bc9",
+      "type": "article",
+      "sourceCharacters": 7007,
+      "verified": false
+    },
+    {
+      "title": "Пробуждение",
+      "description": "Книга доступна для чтения по адресу: https://ridero.ru/books/probuzhdenie_15/ Будем рады Вашей поддержке, отзывам и комментариям.",
+      "url": "https://cosmatica.org/library/444-probuzhdenie.html",
+      "image": "https://cosmatica.org/upload/000/u38/0/1/probuzhdenie-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=b6e70552f109251834",
+      "type": "book",
+      "sourceCharacters": 159,
+      "verified": false
+    },
+    {
+      "title": "Мечты сбываются!",
+      "description": "Космос — это все, что есть, что когда-либо было",
+      "url": "https://cosmatica.org/news/444-mechty-sbyvayutsja.html",
+      "image": "https://cosmatica.org/upload/001/u133/0/9/mechty-sbyvayutsja-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=5c9ada218f643c4784",
+      "type": "news-item",
+      "sourceCharacters": 5376,
+      "verified": false
+    },
+    {
+      "title": "Русский космизм на всех континентах Земли",
+      "description": "Издательство Оксфордского университета в 2012 г. выпустило в свет книгу George M.Young \"Русские Космисты...\" c главой об авангардных исследованиях МНИИКА в \"Зеркалах Козырева\".",
+      "url": "https://cosmatica.org/articles/443-russkii-kosmizm-na-vseh-kontinentah-zemli.html",
+      "image": "https://cosmatica.org/upload/000/u30/91/ac/russkii-kosmizm-na-vseh-kontinentah-zemli-photo-big.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=9c08c76a4e88e4138d",
+      "type": "article",
+      "sourceCharacters": 798,
+      "verified": false
+    },
+    {
+      "title": "Русский космизм",
+      "description": "Дорогие ребята! В этой книге мы собираемся рассказать вам о русском космизме, его основных представителях и идеях. Вы узнаете о том, как космизм повлиял на",
+      "url": "https://cosmatica.org/library/443-russkii-kosmizm.html",
+      "image": "https://cosmatica.org/upload/001/u153/f/2/russkii-kosmizm-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=38f996047cf5672b9d",
+      "type": "book",
+      "sourceCharacters": 1885,
+      "verified": false
+    },
+    {
+      "title": "Будущее трудно предсказать, но его можно создать",
+      "description": "Московский футурологический конгресс — это съезд авторов и представителей социально значимых проектов России.",
+      "url": "https://cosmatica.org/news/443-buduschee-trudno-predskazat-no-ego-mozhno-sozdat.html",
+      "image": "https://cosmatica.org/upload/000/u26/5/b/buduschee-trudno-predskazat-no-ego-mozhno-sozdat-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4aa0fdcda198bf7cde",
+      "type": "news-item",
+      "sourceCharacters": 4363,
+      "verified": false
+    },
+    {
+      "title": "Найдены точки сближения космоса и молодёжи",
+      "description": "7 ноября в Доме Общественных Организаций состоялся межрегиональный круглый стол на тему \"Молодежь и космос: точки, которые нас сближают\".",
+      "url": "https://cosmatica.org/articles/442-naideny-tochki-sblizhenija-kosmosa-i-molodyozhi.html",
+      "image": "https://cosmatica.org/upload/000/u8/54/35/02689b38.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=57afe38ca06580395e",
+      "type": "article",
+      "sourceCharacters": 5932,
+      "verified": false
+    },
+    {
+      "title": "О профессии космонавта со знанием дела",
+      "description": "Космонавт — одна из немногих профессий, где надо знать всё. Действительно, находясь за пределами нашей колыбели жизни, человека ожидает множество трудных задач, поэтому надо быть готовым ко всему.",
+      "url": "https://cosmatica.org/news/442-o-professii-kosmonavta-so-znaniem-dela.html",
+      "image": "https://cosmatica.org/upload/000/u26/7/0/8843cd19.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=4779ba7ddf92a48b97",
+      "type": "news-item",
+      "sourceCharacters": 3483,
+      "verified": false
+    },
+    {
+      "title": "Андрей Евгеньевич Петров стал победителем конкурса Золотые Имена Высшей Школы - 2018",
+      "description": "За вклад в науку и высшее образование Председатель Экспертного совета удостоился наградного диплома.",
+      "url": "https://cosmatica.org/articles/441-andrei-evgenevich-petrov-stal-pobeditelem-konkursa-zolotye-imena-vysshei-shkoly-2018.html",
+      "image": "https://cosmatica.org/upload/000/u20/e2/81/andrei-evgen-photo-big.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=08affbc620c13600a7",
+      "type": "article",
+      "sourceCharacters": 6332,
+      "verified": false
+    },
+    {
+      "title": "Арктический Ноосферизм",
+      "description": "В новой монографии А.И.Субетто раскрываются «начала» или основы теоретической системы Арктического Ноосферизма, как важнейшей составляющей Ноосферизма – научно-мировоззренческой системы XXI века. Взаимодействие человеческой деятельности с экосистемами арктического и антарктического сегментов Биосферы и планеты Земля, как суперорганизмов, нуждается в ноосферном управлении. Книга адресована ко всем специалистам, занима",
+      "url": "https://cosmatica.org/library/441-arkticheskii-noosferizm.html",
+      "image": "https://cosmatica.org/upload/000/u7/4/8/arkticheskii-noosferizm-photo-normal.jpg",
+      "kind": "book",
+      "href": "view.html?p=book&ref=9b44149192fe8e8861",
+      "type": "book",
+      "sourceCharacters": 572,
+      "verified": false
+    },
+    {
+      "title": "\"Птицы Сибири\" залетели в Звёздный городок",
+      "description": "Наверное, не случайно получилось так, что первыми зрителями фотовыставки стали герои-космонавты В.Г. Титов, Ю.И. Маленченко и О.В. Новицкий , которые в этот день встречали в Доме космонавтов французскую делегацию во главе с первым французским космонавтом Жан Лу Кретьеном .",
+      "url": "https://cosmatica.org/news/441-pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok.html",
+      "image": "https://cosmatica.org/upload/000/u26/4/c/pticy-sibiri-zaleteli-v-zvyozdnyi-gorodok-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=1a006743abd8d2e561",
+      "type": "news-item",
+      "sourceCharacters": 1571,
+      "verified": false
+    },
+    {
+      "title": "РКО на Псковской земле",
+      "description": "Состоялось первое учредительное собрание Псковского отделения Русского Космического Общества",
+      "url": "https://cosmatica.org/articles/440-rko-na-pskovskoi-zemle.html",
+      "image": "https://cosmatica.org/upload/001/u133/23/77/rko-na-pskovskoi-zemle-photo-big.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=ca324701e7cf759941",
+      "type": "article",
+      "sourceCharacters": 4504,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

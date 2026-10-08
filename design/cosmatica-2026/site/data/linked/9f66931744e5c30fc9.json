@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 2,
+  "slug": "news-item",
+  "sourceUrl": "https://cosmatica.org/news/2106-stepan-zotov-kak-stat-muzhchinoi-i-razvit-silu-duha.html",
+  "title": "Степан Зотов. Как стать мужчиной и развить силу духа",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://cosmatica.org/upload/002/u218/e/0/stepan-zotov-kak-stat-muzhchinoi-i-razvit-silu-duha-photo-norma.png",
+      "alt": "Степан Зотов. Как стать мужчиной и развить силу духа"
+    },
+    {
+      "type": "paragraph",
+      "text": "Интервью вышло на канале Моя русская душа. Беседовал Алексей Михеев.",
+      "spans": [
+        {
+          "text": "Интервью вышло на канале Моя русская душа. Беседовал Алексей Михеев."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Из интервью со Степаном Андреевичем вы узнаете:",
+      "spans": [
+        {
+          "text": "Из интервью со Степаном Андреевичем вы узнаете:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Комментарии"
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "vk",
+      "embedUrl": "https://vk.com/video_ext.php?oid=-226974041&id=456239048&hd=2&autoplay=1",
+      "title": "Видео РКО",
+      "sourceUrl": "https://vk.com/video_ext.php?oid=-226974041&id=456239048&hd=2&autoplay=1"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "​Приглашаем посмотреть интервью с преподавателем, писателем и патриотом – Степаном Андреевичем Зотовым.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Интервью вышло на канале Моя русская душа. Беседовал Алексей Михеев. Из интервью со Степаном Андреевичем вы узнаете: - о чем книги нашего героя и для кого они написаны; - кто такие пассионарии и чем они отличаются от героев; - какие «демоны» приводят к распаду Империй, и что спасет наш мир; - как обычный человек может воздействовать на весь мир, и как жизнь на другом конце света может улучшиться благодаря ему; - почему смертность в России превышает рождаемость и как это исправить; - о главной миссии «Русской Космической Школы»; - как воспитать детей настоящими героями, меняющими мир и творящими историю, и как наш герой воспитывает своих сыновей; - о преимуществах коллективного сознания перед индивидуализмом; - для чего нужно «выходить из зоны комфорта»; - что значит «моя русская душа» для нашего героя; - как Степан Андреевич учит своих сыновей и почему он решил пойти на СВО добровольцем Выпуск уже на канале! Для просмотра интервью переходите по ссылкам ниже. Приятного просмотра! Смотрите на RUTUBE ( https://rutube.ru/video/e6e8b5d28adf88367381224bbd... Смотрите на Дзен ( https://m.dzen.ru/video/watch/68998b243a8ebb77f95f... Смотрите на VK Видео ( https://vk.com/video-226974041_456239048?list=80b8...",
+      "links": [
+        {
+          "title": "жизнь",
+          "url": "https://cosmatica.org/glossary/141-zhizn.html"
+        },
+        {
+          "title": "https://rutube.ru/video/e6e8b5d28adf88367381224bbd...",
+          "url": "https://rutube.ru/video/e6e8b5d28adf88367381224bbd26699c/?r=a)"
+        },
+        {
+          "title": "https://m.dzen.ru/video/watch/68998b243a8ebb77f95f...",
+          "url": "https://m.dzen.ru/video/watch/68998b243a8ebb77f95ffec1?share_to=link)"
+        },
+        {
+          "title": "https://vk.com/video-226974041_456239048?list=80b8...",
+          "url": "https://vk.com/video-226974041_456239048?list=80b8bf28925248d042)"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "https://cosmatica.org/upload/002/u218/e/0/stepan-zotov-kak-stat-muzhchinoi-i-razvit-silu-duha-photo-norma.png"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1525,
+    "storedTextCharacters": 126,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 2,
+    "sourceBytes": 48464
+  },
+  "textFallbackRequired": false,
+  "originalKind": "news-item",
+  "sourceTextCharacters": 1362,
+  "capturedBodyCharacters": 126,
+  "sourceTextSHA256": "654c31f8967a38d2231145c96a7cfc02c02cc0f396336aa71b73e74f7b6faa8c",
+  "archiveSnapshotAt": "2026-10-08T09:10:12Z",
+  "publicVideoCount": 1
+}
