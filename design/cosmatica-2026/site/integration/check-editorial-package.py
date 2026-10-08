@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Fail CI on missing approved content, missing files, or exposed server diagnostics."""
-import json,re,sys
+import json,re,sys,runpy
 from pathlib import Path
 site=Path(__file__).resolve().parent.parent
 data=site/'data'
@@ -43,3 +43,5 @@ report={'sourcePages':len(source),'linkedPages':len(linked),
  'assets':len(list((site/'assets/source').glob('*'))),'errors':issues}
 print(json.dumps(report,ensure_ascii=False))
 if issues:sys.exit(1)
+# Reuse the existing GitHub Actions command: no workflow permission required.
+runpy.run_path(str(site/'qa/source-fidelity.py'))

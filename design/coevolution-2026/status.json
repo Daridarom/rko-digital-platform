@@ -4,16 +4,16 @@
   "project_name": "Соэволюция",
   "organization": "Русское космическое общество",
   "curator": "Мария",
-  "recorded_on": "2026-09-16",
-  "status": "requirements_expanded_awaiting_tz",
-  "status_label": "Требования к структуре уточнены; стилизация ждёт согласования паспорта, ТЗ и базовых страниц",
+  "recorded_on": "2026-10-08",
+  "status": "requirements_review_20261008_pending_maria_pavel",
+  "status_label": "Сверены рабочий документ Марии и промежуточная презентация; 12/14 программ требуют решения. Отдельное ТЗ Соэволюции не утверждено.",
   "status_document": "STATUS.md",
   "project_passport_document": "PROJECT_PASSPORT.md",
   "cosmatica_project_model": "../cosmatica-2026/NS2117_PROJECT_MODEL.md",
   "scope": "Фиксация требований к модели проектов, связи с НС-2117, будущему следу и сетению. Production и исполняемые файлы прототипа не изменяются.",
   "prototype": {
     "role": "conceptual_reference",
-    "structure_approval": "partially_clarified_not_final",
+    "structure_approval": "not_final_pending_maria_pavel",
     "design_approval": "not_confirmed",
     "ready_for_direct_integration": false,
     "runtime_changes_authorized_by_this_record": false
@@ -27,10 +27,24 @@
     "content_model_path": "design/coevolution-2026/data.js",
     "content_model_version": "0.1",
     "content_model_kind": "static_prototype_content_not_participant_database",
-    "stored_sphere_ids": ["nature", "self", "people", "society"],
-    "stored_level_ids": ["info", "practice", "creative", "research"],
+    "stored_sphere_ids": [
+      "nature",
+      "self",
+      "people",
+      "society"
+    ],
+    "stored_level_ids": [
+      "info",
+      "practice",
+      "creative",
+      "research"
+    ],
     "stored_activity_count": 23,
-    "stored_placeholder_program_ids": ["zvezdolet", "kosmodesant", "dobrodely"]
+    "stored_placeholder_program_ids": [
+      "zvezdolet",
+      "kosmodesant",
+      "dobrodely"
+    ]
   },
   "reported_requirements": [
     {
@@ -120,13 +134,69 @@
     "approval": "pending_team_agreement"
   },
   "pending_decisions": [
-    {"id": "D1", "item": "Согласовать обязательные поля паспорта проекта", "from": "Мария, Павел, рабочая группа", "state": "awaiting", "due_date": null},
-    {"id": "D2", "item": "Определить публичные и внутренние поля", "from": "Рабочая группа", "state": "awaiting", "due_date": null},
-    {"id": "D3", "item": "Согласовать правила видимости и скрытия карточек", "from": "Рабочая группа / владелец реестра", "state": "awaiting", "due_date": null},
-    {"id": "D4", "item": "Согласовать схему базы и алгоритм сетения", "from": "Мария и Павел", "state": "not_confirmed", "due_date": null},
-    {"id": "D5", "item": "Получить базовые страницы действующей платформы", "from": "Павел после ТЗ", "state": "awaiting", "due_date": null},
-    {"id": "D6", "item": "Согласовать визуальное направление", "from": "Рабочая группа", "state": "deferred", "due_date": null},
-    {"id": "D7", "item": "Дать поручение на следующий визуальный проход", "from": "Алексей после решений команды", "state": "awaiting", "due_date": null}
+    {
+      "id": "D1",
+      "item": "Согласовать обязательные поля паспорта проекта",
+      "from": "Мария, Павел, рабочая группа",
+      "state": "awaiting",
+      "due_date": null
+    },
+    {
+      "id": "D2",
+      "item": "Определить публичные и внутренние поля",
+      "from": "Рабочая группа",
+      "state": "awaiting",
+      "due_date": null
+    },
+    {
+      "id": "D3",
+      "item": "Согласовать правила видимости и скрытия карточек",
+      "from": "Рабочая группа / владелец реестра",
+      "state": "awaiting",
+      "due_date": null
+    },
+    {
+      "id": "D4",
+      "item": "Согласовать схему базы и алгоритм сетения",
+      "from": "Мария и Павел",
+      "state": "not_confirmed",
+      "due_date": null
+    },
+    {
+      "id": "D5",
+      "item": "Получить базовые страницы действующей платформы",
+      "from": "Павел после ТЗ",
+      "state": "awaiting",
+      "due_date": null
+    },
+    {
+      "id": "D6",
+      "item": "Согласовать визуальное направление",
+      "from": "Рабочая группа",
+      "state": "deferred",
+      "due_date": null
+    },
+    {
+      "id": "D7",
+      "item": "Дать поручение на следующий визуальный проход",
+      "from": "Алексей после решений команды",
+      "state": "awaiting",
+      "due_date": null
+    },
+    {
+      "id": "D8",
+      "item": "Согласовать перечень программ 12/14 и иерархию разделов",
+      "from": "Мария и Павел",
+      "state": "awaiting",
+      "due_date": null
+    },
+    {
+      "id": "D9",
+      "item": "Утвердить типы анкет участников, данных, программ, заданий и проектов",
+      "from": "Мария",
+      "state": "awaiting",
+      "due_date": null
+    }
   ],
   "work_policy": {
     "preserve_current_prototype": true,
@@ -145,6 +215,10 @@
     "technical_tome": "Русское Космическое Общество · аналитический реестр проектов · Технический том · НС-2117; срез сайта 15.09.2026.",
     "technical_tome_public_status": "internal_registry_source_not_external_showcase_copy",
     "raw_chat_images_published": false,
-    "new_visual_or_browser_audit": false
-  }
+    "new_visual_or_browser_audit": false,
+    "maria_20260921_document": "https://docs.google.com/document/d/1qX_nPNrzgAb19T5I8caJSG11Xfwl4Bxw/edit",
+    "maria_20260921_presentation": "15-slide PPTX saved in private RKO Telegram intake archive; interim/not approved",
+    "pavel_20261007_cosmatica_matrix": "https://docs.google.com/spreadsheets/d/1yS-DOC0FhYX3x7K_DZp9__QeVab5AmF5N9o1CUD-Lrw/edit"
+  },
+  "latest_requirements_document": "REQUIREMENTS_UPDATE_2026-10-08.md"
 }
