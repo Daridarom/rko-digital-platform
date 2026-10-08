@@ -113,7 +113,10 @@ def extract(root,url):
 def run_one(item,timeout=20):
     r=requests.get(item['sourceUrl'],headers=REQUEST_HEADERS,timeout=timeout)
     r.raise_for_status()
-    soup=BeautifulSoup(r.text,'html.parser')
+    # Keep source diagnostics and database configuration out of editorial exports.
+    raw=r.text
+    raw=re.sub(r'<pre\\b[^>]*>[\\s\\S]*?(?:cmsDatabase Object|cmsCore Object|db_pass|db_host)[\\s\\S]*?</pre>', '', raw, flags=re.I)
+    soup=BeautifulSoup(raw,'html.parser')
     page_title=string(soup.find('h1')) or item['title']
     root=choose_body(soup)
     blocks=extract(root,r.url)
