@@ -73,3 +73,22 @@ test('Event must preserve temporal metadata',()=>{
   assert.equal(item.program.length,1);
   assert.deepEqual(validateNormalizedPage(item),[]);
 });
+
+
+test('Keep inline bold, link position, whitespace, and tabular data',()=>{
+  const blocks=normalizeBlocks([
+    {type:'paragraph',text:'Сильная мысль',spans:[
+      {text:'Сильная',marks:['bold']},
+      {text:' '},
+      {text:'мысль',href:'https://cosmatica.org/about'}
+    ],links:[{text:'Подробнее',url:'https://cosmatica.org/about'}]},
+    {type:'table',rows:[['Год','Мероприятия'],['2026','5']]}
+  ]);
+  assert.equal(blocks.length,2);
+  assert.equal(blocks[0].spans.map(x=>x.text).join(''),'Сильная мысль');
+  assert.deepEqual(blocks[0].spans[0].marks,['bold']);
+  assert.equal(blocks[0].spans[2].href,'https://cosmatica.org/about');
+  assert.equal(blocks[0].links.length,1);
+  assert.equal(blocks[1].type,'table');
+  assert.equal(blocks[1].rows[1][0],'2026');
+});
