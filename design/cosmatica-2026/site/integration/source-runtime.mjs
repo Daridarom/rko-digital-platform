@@ -18,8 +18,19 @@ function listingHref(item,index){
  return id&&/^[a-f0-9]{18}$/.test(id)?'view.html?p='+encodeURIComponent(info.type||'article')+'&ref='+id:null;
 }
 function heading(data){
- const box=el('div','source-headline'+((data.title||'').length>100?' source-long-title':''));
- box.append(el('p','eyebrow','РУССКОЕ КОСМИЧЕСКОЕ ОБЩЕСТВО'),el('h1','',data.title||'Раздел'));
+ const title=data.title||'Раздел';
+ const long=title.length>=76;
+ const extra=title.length>=135;
+ const box=el('div','source-headline'+(long?' source-long-title':'')+(extra?' source-extra-long-title':''));
+ const h1=el('h1');
+ // A long event title may include a source hashtag naming its parent programme.
+ // Keep every word but distinguish the programme visually from the event name.
+ const suffixAt=extra ? title.indexOf('#',35) : -1;
+ if(suffixAt>35){
+  h1.append(document.createTextNode(title.slice(0,suffixAt).trimEnd()+' '));
+  h1.append(el('span','source-title-suffix',title.slice(suffixAt).trimStart()));
+ }else h1.textContent=title;
+ box.append(el('p','eyebrow','РУССКОЕ КОСМИЧЕСКОЕ ОБЩЕСТВО'),h1);
  if(data.intro)box.append(el('p','source-intro',data.intro));
  return box;
 }
