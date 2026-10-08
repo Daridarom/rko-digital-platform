@@ -15,7 +15,7 @@ from pathlib import Path
 from urllib.parse import urljoin
 
 import requests
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup, Tag, NavigableString
 
 HERE=Path(__file__).resolve().parent
 MANIFEST=HERE/'page-map.json'
@@ -35,6 +35,34 @@ def choose_body(soup):
         if found:return found
     return soup.body or soup
 
+def inline_spans(node,url):
+    """Keep order and emphasis of inline text; never store executable HTML."""
+    spans=[]
+    mark_tags={'b':'bold','strong':'bold','i':'italic','em':'italic',
+               'u':'underline','code':'code','sup':'sup','sub':'sub'}
+    def visit(part,marks=(),href=None):
+        if isinstance(part,NavigableString):
+            val=str(part)
+            if not val:return
+            candidate={'text':val}
+            if marks:candidate['marks']=list(marks)
+            if href:candidate['href']=href
+            if spans and all(spans[-1].get(k)==candidate.get(k) for k in ('marks','href')):
+                spans[-1]['text']+=val
+            else:spans.append(candidate)
+            return
+        if not isinstance(part,Tag) or part.name in ('script','style','noscript'):return
+        nextmarks=marks
+        if part.name in mark_tags:
+            nextmarks=tuple(dict.fromkeys((*marks,mark_tags[part.name])))
+        nextlink=href
+        if part.name=='a' and part.get('href'):
+            target=urljoin(url,part['href'])
+            if target.startswith('https://'):nextlink=target
+        for child in part.children:visit(child,nextmarks,nextlink)
+    for child in node.children:visit(child)
+    return spans
+
 def block(node,url):
     name=node.name
     if name=='hr':return {'type':'separator'}
@@ -51,6 +79,8 @@ def block(node,url):
                 links.append({'text':string(a),'url':urljoin(url,href)})
         out={'type':'quote' if name=='blockquote' else 'paragraph','text':val}
         if links:out['links']=links
+        spans=inline_spans(node,url)
+        if spans:out['spans']=spans
         return out
     if name in ('ul','ol'):
         items=[string(li) for li in node.find_all('li',recursive=False) if string(li)]
