@@ -22,8 +22,8 @@ if(params.get('p')==='search-results'){
    }
    const heading=root.querySelector('.search-heading')||root.appendChild(make('h2','search-heading'));
    heading.textContent=query?'Найдено материалов: '+results.length:'Введите поисковый запрос';
-   root.querySelector('.search-grid')?.remove();
-   root.querySelector('.search-empty')?.remove();
+   // Replace the fixture's results before showing the real full-text index.
+   root.querySelectorAll(':scope > .grid:not(.search-grid), :scope > .empty-state, :scope > .search-grid, :scope > .search-empty, :scope > .source-search-pages').forEach(node=>node.remove());
    const size=20,max=Math.max(1,Math.ceil(results.length/size));
    const page=Math.max(1,Math.min(max,Number(params.get('page'))||1));
    const shown=results.slice((page-1)*size,page*size);

@@ -43,7 +43,7 @@ function facts(data){
 }
 function listView(data,index){
  if(!data.cards?.length)return null;
- const sec=el('section','source-listing');
+ const sec=el('section','source-listing source-listing--'+(data.slug||'section'));
  const top=el('div','source-filterbar');
  const lab=el('label','source-filterlabel','Поиск в разделе');
  const input=el('input','source-filter-input');
@@ -54,7 +54,7 @@ function listView(data,index){
  const grid=el('div','source-grid');const rows=[];
  for(const card of data.cards){
   const href=listingHref(card,index);
-  const item=el(href?'a':'article','source-card');
+  const item=el(href?'a':'article','source-card'+(localImage(card.image)?' source-card--media':''));
   if(href)item.href=href;
   const media=localImage(card.image);
   if(media){
@@ -64,7 +64,7 @@ function listView(data,index){
    wrap.append(image);item.append(wrap);
   }
   const inner=el('div','source-card-copy');
-  inner.append(el('h3','',card.title||'Материал'));
+  const heading=el('h3','',card.title||'Материал');heading.title=card.title||'Материал';inner.append(heading);
   if(card.description && card.description!==card.title)inner.append(el('p','',card.description));
   if(href)inner.append(el('span','source-card-arrow','Подробнее →'));
   item.append(inner);grid.append(item);
