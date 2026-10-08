@@ -1,0 +1,768 @@
+{
+  "schemaVersion": 1,
+  "auditDate": "2026-10-08",
+  "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/1yS-DOC0FhYX3x7K_DZp9__QeVab5AmF5N9o1CUD-Lrw/edit",
+  "warning": "Source HTML text extraction and demo main.innerText are methodologically different; lengths are only audit flags and cannot establish editorial completeness.",
+  "entries": [
+    {
+      "id": 1,
+      "slug": "home",
+      "title": "Главная страница",
+      "sourceUrl": "https://cosmatica.org/",
+      "notes": "",
+      "demoRoute": "index.html",
+      "requiredFields": [
+        "hero",
+        "news",
+        "featured_projects",
+        "materials",
+        "footer"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 4118,
+        "demoCharacters": 1434,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": null
+      },
+      "status": "CONTENT_GAP"
+    },
+    {
+      "id": 2,
+      "slug": "news",
+      "title": "Список новостей",
+      "sourceUrl": "https://cosmatica.org/news",
+      "notes": "",
+      "demoRoute": "view.html?p=news",
+      "requiredFields": [
+        "items",
+        "category",
+        "date",
+        "summary",
+        "image",
+        "pagination"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 1566,
+        "demoCharacters": 893,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Новости"
+      },
+      "status": "EDITORIAL_REVIEW"
+    },
+    {
+      "id": 3,
+      "slug": "news-item",
+      "title": "Новость",
+      "sourceUrl": "https://cosmatica.org/news/2267-pereizdanie-klyuchevyh-knig-rko.html",
+      "notes": "",
+      "demoRoute": "view.html?p=news-item",
+      "requiredFields": [
+        "title",
+        "date",
+        "author",
+        "body_blocks",
+        "media",
+        "attachments",
+        "related"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 3419,
+        "demoCharacters": 1110,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Переиздание ключевых книг РКО"
+      },
+      "status": "CONTENT_GAP"
+    },
+    {
+      "id": 4,
+      "slug": "poster",
+      "title": "Список мероприятий",
+      "sourceUrl": "https://cosmatica.org/poster",
+      "notes": "",
+      "demoRoute": "view.html?p=poster",
+      "requiredFields": [
+        "events",
+        "filter",
+        "date",
+        "place",
+        "pagination"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 510,
+        "demoCharacters": 507,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Мероприятия"
+      },
+      "status": "EDITORIAL_REVIEW"
+    },
+    {
+      "id": 5,
+      "slug": "poster-item",
+      "title": "Страница мероприятия",
+      "sourceUrl": "https://cosmatica.org/poster/1085-mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-sisteme-priroda-obschestvo-.html",
+      "notes": "",
+      "demoRoute": "view.html?p=poster-item",
+      "requiredFields": [
+        "date",
+        "time",
+        "venue",
+        "organizer",
+        "program",
+        "body_blocks",
+        "files",
+        "registration"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 14441,
+        "demoCharacters": 1491,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\" #​Международная научная школа устойчивого развития имени П.Г.Кузнецова"
+      },
+      "status": "CONTENT_GAP"
+    },
+    {
+      "id": 6,
+      "slug": "calendar",
+      "title": "Календарь мероприятий",
+      "sourceUrl": "https://cosmatica.org/poster/calendar",
+      "notes": "",
+      "demoRoute": "view.html?p=calendar",
+      "requiredFields": [
+        "month",
+        "events",
+        "timezone"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 352,
+        "demoCharacters": 473,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Календарь"
+      },
+      "status": "EDITORIAL_REVIEW"
+    },
+    {
+      "id": 7,
+      "slug": "about",
+      "title": "Статья",
+      "sourceUrl": "https://cosmatica.org/about",
+      "notes": "",
+      "demoRoute": "view.html?p=about",
+      "requiredFields": [
+        "title",
+        "body_blocks",
+        "media",
+        "related"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 6,
+        "demoCharacters": 954,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Об РКО"
+      },
+      "status": "SOURCE_REVIEW"
+    },
+    {
+      "id": 8,
+      "slug": "about-info",
+      "title": "Об рко - список материалов",
+      "sourceUrl": "https://cosmatica.org/about/informacija",
+      "notes": "",
+      "demoRoute": "view.html?p=about-info",
+      "requiredFields": [
+        "categories",
+        "sections",
+        "links"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 519,
+        "demoCharacters": 638,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Информация"
+      },
+      "status": "EDITORIAL_REVIEW"
+    },
+    {
+      "id": 9,
+      "slug": "direction",
+      "title": "Органы управления",
+      "sourceUrl": "https://cosmatica.org/direction",
+      "notes": "",
+      "demoRoute": "view.html?p=direction",
+      "requiredFields": [
+        "leaders",
+        "groups",
+        "roles",
+        "photos"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 17,
+        "demoCharacters": 990,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Органы управления"
+      },
+      "status": "SOURCE_REVIEW"
+    },
+    {
+      "id": 10,
+      "slug": "collegium",
+      "title": "Высший совет РКО - список",
+      "sourceUrl": "https://cosmatica.org/collegium",
+      "notes": "",
+      "demoRoute": "view.html?p=collegium",
+      "requiredFields": [
+        "councils",
+        "members",
+        "links"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 6290,
+        "demoCharacters": 597,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Высший Совет РКО"
+      },
+      "status": "CONTENT_GAP"
+    },
+    {
+      "id": 11,
+      "slug": "collegium-item",
+      "title": "Высший совет РКО - страница",
+      "sourceUrl": "https://cosmatica.org/collegium/23-ekonomicheskii-sovet.html",
+      "notes": "",
+      "demoRoute": "view.html?p=collegium-item",
+      "requiredFields": [
+        "title",
+        "leaders",
+        "members",
+        "body_blocks",
+        "files"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 6495,
+        "demoCharacters": 1165,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Экономический совет"
+      },
+      "status": "CONTENT_GAP"
+    },
+    {
+      "id": 12,
+      "slug": "partners",
+      "title": "Партнеры",
+      "sourceUrl": "https://cosmatica.org/partners",
+      "notes": "",
+      "demoRoute": "view.html?p=partners",
+      "requiredFields": [
+        "partners",
+        "logos",
+        "categories"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 6979,
+        "demoCharacters": 582,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Партнеры"
+      },
+      "status": "CONTENT_GAP"
+    },
+    {
+      "id": 13,
+      "slug": "partner",
+      "title": "Странциа партнера",
+      "sourceUrl": "https://cosmatica.org/partners/15-federalnyi-ekspertnyi-sovet.html",
+      "notes": "",
+      "demoRoute": "view.html?p=partner",
+      "requiredFields": [
+        "name",
+        "logo",
+        "body_blocks",
+        "contact"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 266,
+        "demoCharacters": 606,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Федеральный экспертный совет"
+      },
+      "status": "EDITORIAL_REVIEW"
+    },
+    {
+      "id": 14,
+      "slug": "contacts",
+      "title": "Контакты",
+      "sourceUrl": "https://cosmatica.org/about/contacts",
+      "notes": "",
+      "demoRoute": "view.html?p=contacts",
+      "requiredFields": [
+        "phones",
+        "emails",
+        "addresses"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 190,
+        "demoCharacters": 289,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Контакты"
+      },
+      "status": "EDITORIAL_REVIEW"
+    },
+    {
+      "id": 15,
+      "slug": "departments",
+      "title": "Отделения",
+      "sourceUrl": "https://cosmatica.org/departments",
+      "notes": "Сделать список отделений в 2 или 3 колонки либо группировка по алфавиту",
+      "demoRoute": "view.html?p=departments",
+      "requiredFields": [
+        "regions",
+        "alphabet",
+        "pagination"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 665,
+        "demoCharacters": 595,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Отделения"
+      },
+      "status": "EDITORIAL_REVIEW"
+    },
+    {
+      "id": 16,
+      "slug": "department",
+      "title": "Страница отделения",
+      "sourceUrl": "https://cosmatica.org/departments/10-moskva.html",
+      "notes": "",
+      "demoRoute": "view.html?p=department",
+      "requiredFields": [
+        "name",
+        "region",
+        "address",
+        "leader",
+        "contacts",
+        "news",
+        "projects",
+        "events"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 307,
+        "demoCharacters": 485,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Москва"
+      },
+      "status": "EDITORIAL_REVIEW"
+    },
+    {
+      "id": 17,
+      "slug": "projects",
+      "title": "Список проектов",
+      "sourceUrl": "https://cosmatica.org/projects",
+      "notes": "",
+      "demoRoute": "view.html?p=projects",
+      "requiredFields": [
+        "projects",
+        "filters",
+        "status",
+        "pagination"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 948,
+        "demoCharacters": 1149,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Проекты"
+      },
+      "status": "EDITORIAL_REVIEW"
+    },
+    {
+      "id": 18,
+      "slug": "project",
+      "title": "Страница проекта",
+      "sourceUrl": "https://cosmatica.org/projects/gagarincy",
+      "notes": "Обратить внимание на различные вариации левой колонки в зависимости от типа проекта и статуса сбора средств",
+      "demoRoute": "view.html?p=project",
+      "requiredFields": [
+        "id",
+        "title",
+        "status",
+        "mission",
+        "goals",
+        "body_blocks",
+        "media",
+        "documents",
+        "team",
+        "news",
+        "events",
+        "fundraising"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 26144,
+        "demoCharacters": 2527,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Всенародное детско-юношеское общественное движение Русского Космического Общества - \"Дружина Гагаринцев\""
+      },
+      "status": "CONTENT_GAP"
+    },
+    {
+      "id": 19,
+      "slug": "users",
+      "title": "Состав рко",
+      "sourceUrl": "https://cosmatica.org/users",
+      "notes": "",
+      "demoRoute": "view.html?p=users",
+      "requiredFields": [
+        "members",
+        "roles",
+        "avatars",
+        "pagination"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 1437,
+        "demoCharacters": 497,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Состав РКО"
+      },
+      "status": "CONTENT_GAP"
+    },
+    {
+      "id": 20,
+      "slug": "profile",
+      "title": "Профиль",
+      "sourceUrl": "https://cosmatica.org/users/7",
+      "notes": "",
+      "demoRoute": "view.html?p=profile",
+      "requiredFields": [
+        "name",
+        "avatar",
+        "bio",
+        "roles",
+        "projects"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 357,
+        "demoCharacters": 443,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Алексей Алексеевич Гапонов. Аркон."
+      },
+      "status": "EDITORIAL_REVIEW"
+    },
+    {
+      "id": 21,
+      "slug": "articles",
+      "title": "Материалы - категории",
+      "sourceUrl": "https://cosmatica.org/articles",
+      "notes": "",
+      "demoRoute": "view.html?p=articles",
+      "requiredFields": [
+        "categories",
+        "counts",
+        "navigation"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 467,
+        "demoCharacters": 489,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Материалы"
+      },
+      "status": "EDITORIAL_REVIEW"
+    },
+    {
+      "id": 22,
+      "slug": "articles-list",
+      "title": "Материалы - список статей",
+      "sourceUrl": "https://cosmatica.org/articles/publikacii",
+      "notes": "",
+      "demoRoute": "view.html?p=articles-list",
+      "requiredFields": [
+        "articles",
+        "pagination",
+        "author",
+        "date"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 1785,
+        "demoCharacters": 496,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Публикации"
+      },
+      "status": "CONTENT_GAP"
+    },
+    {
+      "id": 23,
+      "slug": "article",
+      "title": "Материалы - статья",
+      "sourceUrl": "https://cosmatica.org/articles/1518-samoutverzhdenie-rossii-v-xxi-veke-kak-lidera-v-noosfernom-proryve-chelovechestva.html",
+      "notes": "",
+      "demoRoute": "view.html?p=article",
+      "requiredFields": [
+        "title",
+        "author",
+        "date",
+        "body_blocks",
+        "footnotes",
+        "media",
+        "references"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 52102,
+        "demoCharacters": 758,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Самоутверждение России в XXI веке как лидера в Ноосферном прорыве человечества"
+      },
+      "status": "CONTENT_GAP"
+    },
+    {
+      "id": 24,
+      "slug": "library",
+      "title": "Библиотека - список книг",
+      "sourceUrl": "https://cosmatica.org/library",
+      "notes": "",
+      "demoRoute": "view.html?p=library",
+      "requiredFields": [
+        "books",
+        "covers",
+        "authors",
+        "category"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 818,
+        "demoCharacters": 504,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Библиотека"
+      },
+      "status": "EDITORIAL_REVIEW"
+    },
+    {
+      "id": 25,
+      "slug": "book",
+      "title": "Библиотека - Страница одной книги",
+      "sourceUrl": "https://cosmatica.org/library/498-filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-ustoichivogo-razvitija.html",
+      "notes": "",
+      "demoRoute": "view.html?p=book",
+      "requiredFields": [
+        "title",
+        "author",
+        "cover",
+        "bibliography",
+        "body_blocks",
+        "files"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 461,
+        "demoCharacters": 571,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Философские вопросы современного естествознания, синергетики и устойчивого развития"
+      },
+      "status": "EDITORIAL_REVIEW"
+    },
+    {
+      "id": 26,
+      "slug": "tabs",
+      "title": "Типовая страница с вкладками",
+      "sourceUrl": "https://cosmatica.org/first-squad.html",
+      "notes": "",
+      "demoRoute": "view.html?p=tabs",
+      "requiredFields": [
+        "tabs",
+        "active_content",
+        "members",
+        "news"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 6573,
+        "demoCharacters": 725,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Первый Отряд Русского Космического Общества"
+      },
+      "status": "CONTENT_GAP"
+    },
+    {
+      "id": 27,
+      "slug": "donate",
+      "title": "Поддержать РКО",
+      "sourceUrl": "https://cosmatica.org/projects/donate_rko",
+      "notes": "Страница требует глубокой переработки.",
+      "demoRoute": "view.html?p=donate",
+      "requiredFields": [
+        "amount",
+        "project",
+        "payment",
+        "consent",
+        "result"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 905,
+        "demoCharacters": 613,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Поддержать РКО"
+      },
+      "status": "BACKEND_REQUIRED"
+    },
+    {
+      "id": 28,
+      "slug": "login",
+      "title": "Страница входа",
+      "sourceUrl": "https://cosmatica.org/auth/login",
+      "notes": "",
+      "demoRoute": "view.html?p=login",
+      "requiredFields": [
+        "email",
+        "password",
+        "validation",
+        "session"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 157,
+        "demoCharacters": 135,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Представьтесь, пожалуйста"
+      },
+      "status": "BACKEND_REQUIRED"
+    },
+    {
+      "id": 29,
+      "slug": "restore",
+      "title": "Восстановление пароля",
+      "sourceUrl": "https://cosmatica.org/auth/restore",
+      "notes": "",
+      "demoRoute": "view.html?p=restore",
+      "requiredFields": [
+        "email",
+        "validation",
+        "result"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 166,
+        "demoCharacters": 157,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Восстановление пароля"
+      },
+      "status": "BACKEND_REQUIRED"
+    },
+    {
+      "id": 30,
+      "slug": "register",
+      "title": "Регистрация",
+      "sourceUrl": "https://cosmatica.org/auth/register",
+      "notes": "",
+      "demoRoute": "view.html?p=register",
+      "requiredFields": [
+        "name",
+        "email",
+        "password",
+        "confirm",
+        "consent"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 89,
+        "demoCharacters": 188,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Регистрация"
+      },
+      "status": "BACKEND_REQUIRED"
+    },
+    {
+      "id": 31,
+      "slug": "search",
+      "title": "Страница поиска",
+      "sourceUrl": "https://cosmatica.org/search?q=%D0%A0%D0%9A%D0%9E&type=words&date=all&submit=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8",
+      "notes": "Два состояния. До введения поисковой фразы и после введения",
+      "demoRoute": "view.html?p=search",
+      "requiredFields": [
+        "query",
+        "filter",
+        "submit"
+      ],
+      "evidence": {
+        "sourceHttp": 200,
+        "sourceCharacters": 824,
+        "demoCharacters": 225,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": "Поиск"
+      },
+      "status": "BACKEND_REQUIRED"
+    },
+    {
+      "id": 32,
+      "slug": "search-results",
+      "title": "Поиск — с результатами",
+      "sourceUrl": "https://cosmatica.org/search?q=%D0%A0%D0%9A%D0%9E&type=words&date=all&submit=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8",
+      "notes": "Состояние №2 одного исходного шаблона",
+      "demoRoute": "view.html?p=search-results",
+      "requiredFields": [
+        "query",
+        "total",
+        "results",
+        "pagination",
+        "empty_state"
+      ],
+      "evidence": {
+        "sourceHttp": null,
+        "sourceCharacters": null,
+        "demoCharacters": 2913,
+        "desktopOverflow": 0,
+        "mobileOverflow": 0,
+        "originalH1": null
+      },
+      "status": "BACKEND_REQUIRED"
+    }
+  ]
+}
