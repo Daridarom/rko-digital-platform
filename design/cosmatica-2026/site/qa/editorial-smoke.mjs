@@ -15,6 +15,7 @@ async function test(slug,device,width,height,href,full,expectedTitle=null){
  try{
   await page.goto(base+href,{waitUntil:'domcontentloaded',timeout:25000});
   if(full)await page.locator('.source-page').waitFor({state:'attached',timeout:18000});
+  if(slug==='home')await page.locator('.home-archive-link a[href*="p=archive"]').waitFor({state:'visible'});
   const result=await page.evaluate(()=>{
    const main=document.querySelector('#main');
    return {
@@ -38,6 +39,7 @@ async function test(slug,device,width,height,href,full,expectedTitle=null){
   assert.equal(result.broken,0,'Missing local media');
   assert.equal(js.length,0,'JavaScript errors '+js.join('; '));
   if(full)assert(result.original,'Missing full editorial view');
+  if(slug==='home')assert.equal(await page.locator('.source-home-archive').count(),0,'Duplicated legacy homepage must remain hidden');
   if(expectedTitle){
    const norm=v=>String(v).replace(/\u200b/g,'').replace(/\s+/g,' ').trim();
    assert.equal(norm(result.title),norm(expectedTitle),'Wrong linked content loaded');
@@ -63,7 +65,7 @@ for(const [device,width,height] of [['desktop',1440,960],['mobile',390,844]]){
  for(const x of source){
   const slug=x.slug;
   const url=slug==='home'?'index.html':'view.html?p='+slug+(slug==='search-results'?'&q=Гагарин':'');
-  const needs=!['donate','login','register','restore','search','search-results'].includes(slug);
+  const needs=!['home','donate','login','register','restore','search','search-results'].includes(slug);
   await test(slug,device,width,height,url,needs);
  }
 }
