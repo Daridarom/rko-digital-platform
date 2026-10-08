@@ -43,6 +43,7 @@ test('Preserve rich content blocks without executable asset URLs',()=>{
   assert.equal(blocks[0].level,2);
   assert.equal(blocks[1].text,'Полный текст');
   assert.equal(safeAsset('//other.test/image.png'),null);
+  assert.equal(safeAsset('assets/rko-mark.svg'),'assets/rko-mark.svg');
 });
 
 test('Project funding state is explicit and never fabricated',()=>{
