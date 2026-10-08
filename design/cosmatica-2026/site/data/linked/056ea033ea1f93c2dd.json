@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/35",
+  "title": "Анна Сергеевна Козлова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/86dcabf0dd9f26aa390ce07d.webp",
+      "alt": "Анна Сергеевна Козлова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 172",
+        "Комментарии 1"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/source/3739014f97bec9fdab65f2e3.webp",
+      "alt": "Анна Сергеевна Козлова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 29"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Санкт-Петербург",
+      "links": [
+        {
+          "title": "Санкт-Петербург",
+          "url": "https://cosmatica.org/departments/9-sankt-peterburg.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Полномочный представитель Правления Русского Космического Общества, куратор региональных отделений и проектной деятельности РКО. Руководитель Совета правды и просвещения. Координатор культурно-гуманитарной миссии РКО на Донбассе Контакты: kozlova@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/86dcabf0dd9f26aa390ce07d.webp",
+    "assets/source/3739014f97bec9fdab65f2e3.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 392,
+    "storedTextCharacters": 76,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 37412
+  }
+}

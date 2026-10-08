@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/18-kemerovskaja-oblast.html",
+  "title": "Кемеровская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 53",
+        "Материалы 1",
+        "Мероприятия 4",
+        "Состав 3"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель отделения - Грицкевич Татьяна Игоревна",
+      "spans": [
+        {
+          "text": "Председатель отделения - Грицкевич Татьяна Игоревна"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта: info-kuzbass@cosmatica.org",
+      "spans": [
+        {
+          "text": "Электронная почта: info-kuzbass@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель отделения - Грицкевич Татьяна Игоревна Электронная почта: info-kuzbass@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 173,
+    "storedTextCharacters": 147,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 33973
+  }
+}

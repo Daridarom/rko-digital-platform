@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/32-predstavitelstvo-v-kanade.html",
+  "title": "Представительство в Канаде",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 4",
+        "Мероприятия 2",
+        "Состав 2"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель: Мухина Ирина Константиновна",
+      "spans": [
+        {
+          "text": "Председатель: "
+        },
+        {
+          "text": "Мухина Ирина Константиновна",
+          "href": "https://cosmatica.org/users/1298"
+        }
+      ],
+      "links": [
+        {
+          "text": "Мухина Ирина Константиновна",
+          "url": "https://cosmatica.org/users/1298"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес: 2323 Bloor Street West, Unit 216, Toronto, ON M6S 4W1",
+      "spans": [
+        {
+          "text": "Адрес: 2323 Bloor Street West, Unit 216, Toronto, ON M6S 4W1"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Эл.почта: info-kanada@cosmatica.org",
+      "spans": [
+        {
+          "text": "Эл.почта: info-kanada@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель: Мухина Ирина Константиновна Адрес: 2323 Bloor Street West, Unit 216, Toronto, ON M6S 4W1 Эл.почта: info-kanada@cosmatica.org",
+      "links": [
+        {
+          "title": "Мухина Ирина Константиновна",
+          "url": "https://cosmatica.org/users/1298"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 208,
+    "storedTextCharacters": 175,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 33711
+  }
+}

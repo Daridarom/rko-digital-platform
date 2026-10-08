@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/7",
+  "title": "Алексей Алексеевич Гапонов. Аркон.",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/fdc6ba77f7a21c6ec136c889.webp",
+      "alt": "Алексей Алексеевич Гапонов. Аркон."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 122"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/source/fae78e25702210f993eebd93.webp",
+      "alt": "Алексей Алексеевич Гапонов. Аркон."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 90"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад",
+        "По приглашению: Шабанов Павел Алексеевич"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Многодетность:",
+      "value": "Да",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Президент МОО «Русское Космическое Общество». Вице-президент фонда русской цивилизации «Светославъ». Участник СВО. Награждён медалью «За отвагу». Контакты: gaponov@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/fdc6ba77f7a21c6ec136c889.webp",
+    "assets/source/fae78e25702210f993eebd93.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 357,
+    "storedTextCharacters": 103,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 37565
+  }
+}

@@ -28,6 +28,7 @@ jobs:
           set -e
           cd design/cosmatica-2026/site
           node qa/check.mjs
+          python3 integration/check-editorial-package.py
           node --test integration/cms-adapter.test.mjs
           cd ../../..
           python3 -m http.server 8768 --bind 127.0.0.1 >/tmp/cosmatica-demo-server.log 2>&1 &
@@ -37,6 +38,7 @@ jobs:
           cd design/cosmatica-2026/site
           node qa/demo-smoke.mjs
           node qa/home-responsive.mjs
+          node qa/editorial-smoke.mjs
           node qa/rich-templates.mjs
       - name: Preserve responsive homepage screenshots
         if: always()
@@ -46,4 +48,5 @@ jobs:
           path: |
             design/cosmatica-2026/site/qa/screenshots/home-*.png
             design/cosmatica-2026/site/qa/screenshots/rich-*.png
+            design/cosmatica-2026/site/qa/screenshots/editorial-*.png
           if-no-files-found: ignore

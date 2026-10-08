@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/6-respublika-krym.html",
+  "title": "Республика Крым",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 11",
+        "Состав 1"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Отделения -",
+      "spans": [
+        {
+          "text": "\r\nПредседатель Отделения - "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта: info-krm@cosmatica.org",
+      "spans": [
+        {
+          "text": "\r\nЭлектронная почта: info-krm@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель Отделения - Электронная почта: info-krm@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 135,
+    "storedTextCharacters": 92,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 34639
+  }
+}

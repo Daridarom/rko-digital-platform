@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/39-zaporozhskaja-oblast.html",
+  "title": "Запорожская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 7",
+        "Материалы 2",
+        "Состав 2"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель отделения : Сивец Дмитрий Фёдорович",
+      "spans": [
+        {
+          "text": "Председатель отделения"
+        },
+        {
+          "text": ": Сивец Дмитрий Фёдорович",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес: г. Мелитополь,",
+      "spans": [
+        {
+          "text": "Адрес: г. Мелитополь,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта:",
+      "spans": [
+        {
+          "text": "Электронная почта: "
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель отделения : Сивец Дмитрий Фёдорович Адрес: г. Мелитополь, Электронная почта:",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 150,
+    "storedTextCharacters": 124,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 33553
+  }
+}

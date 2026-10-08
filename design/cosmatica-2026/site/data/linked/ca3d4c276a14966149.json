@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/547-prestupnik-ne-naiden.html",
+  "title": "Преступник не найден",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/2325200ebb13bdaa8db085e0.webp",
+      "alt": "Преступник не найден"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Олег Лаврентьев",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Литературный конкурс \"Империум: Победа!\" - 2026г. 2 место",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 329 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/5977/f6a58ec1a3607f986da5ea2a547f22a1"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/2325200ebb13bdaa8db085e0.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/5977/f6a58ec1a3607f986da5ea2a547f22a1",
+      "localUrl": "assets/source/6e983419ff8dd91c5f0defc0.pdf"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 122,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39644
+  }
+}

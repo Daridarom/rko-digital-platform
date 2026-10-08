@@ -1,0 +1,479 @@
+{
+  "schemaVersion": 2,
+  "slug": "news",
+  "sourceUrl": "https://cosmatica.org/news",
+  "title": "Новости",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/5ff6fe3456cc4e654c4ba045.webp",
+      "alt": "Переиздание ключевых книг РКО"
+    },
+    {
+      "type": "heading",
+      "text": "Переиздание ключевых книг РКО #Переиздание ключевых книг РКО - 2026",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/54a7b93ea1751a32763bf80b.webp",
+      "alt": "Итоги семинара Международной научной школы им. П.Г.Кузнецова"
+    },
+    {
+      "type": "heading",
+      "text": "Итоги семинара Международной научной школы им. П.Г.Кузнецова #Космоздрав - Ноосистема здоровья",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/6ed69dc554c3f607bf1ef670.webp",
+      "alt": "​Солидарная, кооперационная, локальная экономика в действии"
+    },
+    {
+      "type": "heading",
+      "text": "​Солидарная, кооперационная, локальная экономика в действии #Федеральный Народный Совет",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/c41f6a90245d830e30b9207d.webp",
+      "alt": "Стартовал всероссийский конкурс \"Живое слово\"!"
+    },
+    {
+      "type": "heading",
+      "text": "Стартовал всероссийский конкурс \"Живое слово\"! #Всероссийский конкурс \"ЖИВОЕ СЛОВО\"",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/2abcb9fd552df93e6b617703.webp",
+      "alt": "​Шахматный фестиваль ветеранов прошёл в Москве"
+    },
+    {
+      "type": "heading",
+      "text": "​Шахматный фестиваль ветеранов прошёл в Москве #Спортивный клуб Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/9c1831e836e13d3a8cc97ec0.webp",
+      "alt": "​Юрий Владимирович Яковец встал в Вечный строй"
+    },
+    {
+      "type": "heading",
+      "text": "​Юрий Владимирович Яковец встал в Вечный строй",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/2a3117f53fd40dffccd259a0.webp",
+      "alt": "​Солидарное общество, или, «Как построить Россию будущего»"
+    },
+    {
+      "type": "heading",
+      "text": "​Солидарное общество, или, «Как построить Россию будущего» #Федеральный Народный Совет",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/96ddf0fc4a4af4814b6c45d7.webp",
+      "alt": "Фантастика расправляет крылья молодым!"
+    },
+    {
+      "type": "heading",
+      "text": "Фантастика расправляет крылья молодым! #Литературный проект \"Просто Фантастика!\"",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/f3e5da4272647fd166d48ee3.webp",
+      "alt": "​О тех, кто уходит, и о тех, кто остается"
+    },
+    {
+      "type": "heading",
+      "text": "​О тех, кто уходит, и о тех, кто остается",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/07c99de7efdae86feaf1a57c.webp",
+      "alt": "Внеочередная конференция РКО. Итоги."
+    },
+    {
+      "type": "heading",
+      "text": "Внеочередная конференция РКО. Итоги.",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/0d3264f7edc5342399268a0f.webp",
+      "alt": "Марина Евгеньевна Лебедева идёт в Государственную Думу"
+    },
+    {
+      "type": "heading",
+      "text": "Марина Евгеньевна Лебедева идёт в Государственную Думу #Федеральный Народный Совет",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/ff1273a474a9846e75a143f9.webp",
+      "alt": "​Концепция экологического просвещения"
+    },
+    {
+      "type": "heading",
+      "text": "​Концепция экологического просвещения #Экореалити \"Соэволюция\"",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/2261e8f57d6ca68373c7cb4b.webp",
+      "alt": "12.09.2026 состоялся семинар Международной научной школы устойчивого развития им. П.Г. Кузнецова"
+    },
+    {
+      "type": "heading",
+      "text": "12.09.2026 состоялся семинар Международной научной школы устойчивого развития им. П.Г. Кузнецова #​Международная научная школа устойчивого развития имени П.Г.Кузнецова",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/6e7adf2ee5851249ac024d77.webp",
+      "alt": "​Космоздрав. Ноосистема здоровья"
+    },
+    {
+      "type": "heading",
+      "text": "​Космоздрав. Ноосистема здоровья #Космоздрав - Ноосистема здоровья",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/775615577900ce4f0f44c13f.webp",
+      "alt": "Гагаринский сад. Осень - время сажать!"
+    },
+    {
+      "type": "heading",
+      "text": "Гагаринский сад. Осень - время сажать! #Всемирное движение Русского Космического Общества \"Гагаринский сад\"",
+      "level": 2
+    }
+  ],
+  "cards": [
+    {
+      "title": "Переиздание ключевых книг РКО #Переиздание ключевых книг РКО - 2026",
+      "description": "07.10.2026 13:00 Переиздание ключевых книг РКО #Переиздание ключевых книг РКО - 2026 0",
+      "url": "https://cosmatica.org/news/2267-pereizdanie-klyuchevyh-knig-rko.html",
+      "image": "assets/source/5ff6fe3456cc4e654c4ba045.webp",
+      "links": [
+        {
+          "title": "Переиздание ключевых книг РКО",
+          "url": "https://cosmatica.org/news/2267-pereizdanie-klyuchevyh-knig-rko.html"
+        },
+        {
+          "title": "#Переиздание ключевых книг РКО - 2026",
+          "url": "https://cosmatica.org/projects/350/content/news"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2267-pereizdanie-klyuchevyh-knig-rko.html#comments"
+        }
+      ]
+    },
+    {
+      "title": "Итоги семинара Международной научной школы им. П.Г.Кузнецова #Космоздрав - Ноосистема здоровья",
+      "description": "06.10.2026 19:20 Итоги семинара Международной научной школы им. П.Г.Кузнецова #Космоздрав - Ноосистема здоровья 0",
+      "url": "https://cosmatica.org/news/2266-itogi-seminara-mezhdunarodnoi-nauchnoi-shkoly-im-p-g-kuznecova.html",
+      "image": "assets/source/54a7b93ea1751a32763bf80b.webp",
+      "links": [
+        {
+          "title": "Итоги семинара Международной научной школы им. П.Г.Кузнецова",
+          "url": "https://cosmatica.org/news/2266-itogi-seminara-mezhdunarodnoi-nauchnoi-shkoly-im-p-g-kuznecova.html"
+        },
+        {
+          "title": "#Космоздрав - Ноосистема здоровья",
+          "url": "https://cosmatica.org/projects/cosmozdrav/content/news"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2266-itogi-seminara-mezhdunarodnoi-nauchnoi-shkoly-im-p-g-kuznecova.html#comments"
+        }
+      ]
+    },
+    {
+      "title": "​Солидарная, кооперационная, локальная экономика в действии #Федеральный Народный Совет",
+      "description": "05.10.2026 18:15 ​Солидарная, кооперационная, локальная экономика в действии #Федеральный Народный Совет 0",
+      "url": "https://cosmatica.org/news/2265-solidarnaja-kooperacionnaja-ekonomika-v-deistvii.html",
+      "image": "assets/source/6ed69dc554c3f607bf1ef670.webp",
+      "links": [
+        {
+          "title": "​Солидарная, кооперационная, локальная экономика в действии",
+          "url": "https://cosmatica.org/news/2265-solidarnaja-kooperacionnaja-ekonomika-v-deistvii.html"
+        },
+        {
+          "title": "#Федеральный Народный Совет",
+          "url": "https://cosmatica.org/projects/fns/content/news"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2265-solidarnaja-kooperacionnaja-ekonomika-v-deistvii.html#comments"
+        }
+      ]
+    },
+    {
+      "title": "Стартовал всероссийский конкурс \"Живое слово\"! #Всероссийский конкурс \"ЖИВОЕ СЛОВО\"",
+      "description": "02.10.2026 10:35 Стартовал всероссийский конкурс \"Живое слово\"! #Всероссийский конкурс \"ЖИВОЕ СЛОВО\" 0",
+      "url": "https://cosmatica.org/news/2264-startoval-vserossiiskii-konkurs-zhivoe-slovo.html",
+      "image": "assets/source/c41f6a90245d830e30b9207d.webp",
+      "links": [
+        {
+          "title": "Стартовал всероссийский конкурс \"Живое слово\"!",
+          "url": "https://cosmatica.org/news/2264-startoval-vserossiiskii-konkurs-zhivoe-slovo.html"
+        },
+        {
+          "title": "#Всероссийский конкурс \"ЖИВОЕ СЛОВО\"",
+          "url": "https://cosmatica.org/projects/348/content/news"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2264-startoval-vserossiiskii-konkurs-zhivoe-slovo.html#comments"
+        }
+      ]
+    },
+    {
+      "title": "​Шахматный фестиваль ветеранов прошёл в Москве #Спортивный клуб Русского Космического Общества",
+      "description": "01.10.2026 14:00 ​Шахматный фестиваль ветеранов прошёл в Москве #Спортивный клуб Русского Космического Общества 0",
+      "url": "https://cosmatica.org/news/2263-shahmatnyi-festival-veteranov-proshyol-v-moskve.html",
+      "image": "assets/source/2abcb9fd552df93e6b617703.webp",
+      "links": [
+        {
+          "title": "​Шахматный фестиваль ветеранов прошёл в Москве",
+          "url": "https://cosmatica.org/news/2263-shahmatnyi-festival-veteranov-proshyol-v-moskve.html"
+        },
+        {
+          "title": "#Спортивный клуб Русского Космического Общества",
+          "url": "https://cosmatica.org/projects/344/content/news"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2263-shahmatnyi-festival-veteranov-proshyol-v-moskve.html#comments"
+        }
+      ]
+    },
+    {
+      "title": "​Юрий Владимирович Яковец встал в Вечный строй",
+      "description": "29.09.2026 10:15 ​Юрий Владимирович Яковец встал в Вечный строй 0",
+      "url": "https://cosmatica.org/news/2262-yurii-vladimirovich-jakovec-vstal-v-vechnyi-stroi.html",
+      "image": "assets/source/9c1831e836e13d3a8cc97ec0.webp",
+      "links": [
+        {
+          "title": "​Юрий Владимирович Яковец встал в Вечный строй",
+          "url": "https://cosmatica.org/news/2262-yurii-vladimirovich-jakovec-vstal-v-vechnyi-stroi.html"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2262-yurii-vladimirovich-jakovec-vstal-v-vechnyi-stroi.html#comments"
+        }
+      ]
+    },
+    {
+      "title": "​Солидарное общество, или, «Как построить Россию будущего» #Федеральный Народный Совет",
+      "description": "26.09.2026 09:20 ​Солидарное общество, или, «Как построить Россию будущего» #Федеральный Народный Совет 0",
+      "url": "https://cosmatica.org/news/2261-solidarnoe-obschestvo-ili-kak-postroit-rossiyu-buduschego.html",
+      "image": "assets/source/2a3117f53fd40dffccd259a0.webp",
+      "links": [
+        {
+          "title": "​Солидарное общество, или, «Как построить Россию будущего»",
+          "url": "https://cosmatica.org/news/2261-solidarnoe-obschestvo-ili-kak-postroit-rossiyu-buduschego.html"
+        },
+        {
+          "title": "#Федеральный Народный Совет",
+          "url": "https://cosmatica.org/projects/fns/content/news"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2261-solidarnoe-obschestvo-ili-kak-postroit-rossiyu-buduschego.html#comments"
+        }
+      ]
+    },
+    {
+      "title": "Фантастика расправляет крылья молодым! #Литературный проект \"Просто Фантастика!\"",
+      "description": "25.09.2026 17:20 Фантастика расправляет крылья молодым! #Литературный проект \"Просто Фантастика!\" 0",
+      "url": "https://cosmatica.org/news/2260-fantastika-raspravljaet-krylja-molodym.html",
+      "image": "assets/source/96ddf0fc4a4af4814b6c45d7.webp",
+      "links": [
+        {
+          "title": "Фантастика расправляет крылья молодым!",
+          "url": "https://cosmatica.org/news/2260-fantastika-raspravljaet-krylja-molodym.html"
+        },
+        {
+          "title": "#Литературный проект \"Просто Фантастика!\"",
+          "url": "https://cosmatica.org/projects/347/content/news"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2260-fantastika-raspravljaet-krylja-molodym.html#comments"
+        }
+      ]
+    },
+    {
+      "title": "​О тех, кто уходит, и о тех, кто остается",
+      "description": "25.09.2026 09:20 ​О тех, кто уходит, и о тех, кто остается 0",
+      "url": "https://cosmatica.org/news/2259-o-teh-kto-uhodit-i-o-teh-kto-ostaetsja.html",
+      "image": "assets/source/f3e5da4272647fd166d48ee3.webp",
+      "links": [
+        {
+          "title": "​О тех, кто уходит, и о тех, кто остается",
+          "url": "https://cosmatica.org/news/2259-o-teh-kto-uhodit-i-o-teh-kto-ostaetsja.html"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2259-o-teh-kto-uhodit-i-o-teh-kto-ostaetsja.html#comments"
+        }
+      ]
+    },
+    {
+      "title": "Внеочередная конференция РКО. Итоги.",
+      "description": "22.09.2026 15:50 Внеочередная конференция РКО. Итоги. 0",
+      "url": "https://cosmatica.org/news/2258-itogi-vneocherednoi-konferencii-rko.html",
+      "image": "assets/source/07c99de7efdae86feaf1a57c.webp",
+      "links": [
+        {
+          "title": "Внеочередная конференция РКО. Итоги.",
+          "url": "https://cosmatica.org/news/2258-itogi-vneocherednoi-konferencii-rko.html"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2258-itogi-vneocherednoi-konferencii-rko.html#comments"
+        }
+      ]
+    },
+    {
+      "title": "Марина Евгеньевна Лебедева идёт в Государственную Думу #Федеральный Народный Совет",
+      "description": "16.09.2026 14:20 Марина Евгеньевна Лебедева идёт в Государственную Думу #Федеральный Народный Совет 0",
+      "url": "https://cosmatica.org/news/2257-marina-evgenevna-lebedeva-idyot-v-gosudarstvennuyu-dumu.html",
+      "image": "assets/source/0d3264f7edc5342399268a0f.webp",
+      "links": [
+        {
+          "title": "Марина Евгеньевна Лебедева идёт в Государственную Думу",
+          "url": "https://cosmatica.org/news/2257-marina-evgenevna-lebedeva-idyot-v-gosudarstvennuyu-dumu.html"
+        },
+        {
+          "title": "#Федеральный Народный Совет",
+          "url": "https://cosmatica.org/projects/fns/content/news"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2257-marina-evgenevna-lebedeva-idyot-v-gosudarstvennuyu-dumu.html#comments"
+        }
+      ]
+    },
+    {
+      "title": "​Концепция экологического просвещения #Экореалити \"Соэволюция\"",
+      "description": "16.09.2026 11:10 ​Концепция экологического просвещения #Экореалити \"Соэволюция\" 0",
+      "url": "https://cosmatica.org/news/2256-koncepcija-ekologicheskogo-prosveschenija.html",
+      "image": "assets/source/ff1273a474a9846e75a143f9.webp",
+      "links": [
+        {
+          "title": "​Концепция экологического просвещения",
+          "url": "https://cosmatica.org/news/2256-koncepcija-ekologicheskogo-prosveschenija.html"
+        },
+        {
+          "title": "#Экореалити \"Соэволюция\"",
+          "url": "https://cosmatica.org/projects/269/content/news"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2256-koncepcija-ekologicheskogo-prosveschenija.html#comments"
+        }
+      ]
+    },
+    {
+      "title": "12.09.2026 состоялся семинар Международной научной школы устойчивого развития им. П.Г. Кузнецова #​Международная научная школа устойчивого развития имени П.Г.Кузнецова",
+      "description": "14.09.2026 20:15 12.09.2026 состоялся семинар Международной научной школы устойчивого развития им. П.Г. Кузнецова #​Международная научная школа устойчивого развития имени П.Г.Кузнецова 0",
+      "url": "https://cosmatica.org/news/2255-12-09-2026-sostojalsja-seminar-mezhdunarodnoi-nauchnoi-shkoly-ustoichivogo-razvitija-im-p-g-kuz.html",
+      "image": "assets/source/2261e8f57d6ca68373c7cb4b.webp",
+      "links": [
+        {
+          "title": "12.09.2026 состоялся семинар Международной научной школы устойчивого развития им. П.Г. Кузнецова",
+          "url": "https://cosmatica.org/news/2255-12-09-2026-sostojalsja-seminar-mezhdunarodnoi-nauchnoi-shkoly-ustoichivogo-razvitija-im-p-g-kuz.html"
+        },
+        {
+          "title": "#​Международная научная школа устойчивого развития имени П.Г.Кузнецова",
+          "url": "https://cosmatica.org/projects/267/content/news"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2255-12-09-2026-sostojalsja-seminar-mezhdunarodnoi-nauchnoi-shkoly-ustoichivogo-razvitija-im-p-g-kuz.html#comments"
+        }
+      ]
+    },
+    {
+      "title": "​Космоздрав. Ноосистема здоровья #Космоздрав - Ноосистема здоровья",
+      "description": "10.09.2026 10:55 ​Космоздрав. Ноосистема здоровья #Космоздрав - Ноосистема здоровья 0",
+      "url": "https://cosmatica.org/news/2254-kosmozdrav-noosistema-zdorovja.html",
+      "image": "assets/source/6e7adf2ee5851249ac024d77.webp",
+      "links": [
+        {
+          "title": "​Космоздрав. Ноосистема здоровья",
+          "url": "https://cosmatica.org/news/2254-kosmozdrav-noosistema-zdorovja.html"
+        },
+        {
+          "title": "#Космоздрав - Ноосистема здоровья",
+          "url": "https://cosmatica.org/projects/cosmozdrav/content/news"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2254-kosmozdrav-noosistema-zdorovja.html#comments"
+        }
+      ]
+    },
+    {
+      "title": "Гагаринский сад. Осень - время сажать! #Всемирное движение Русского Космического Общества \"Гагаринский сад\"",
+      "description": "09.09.2026 20:45 Гагаринский сад. Осень - время сажать! #Всемирное движение Русского Космического Общества \"Гагаринский сад\" 0",
+      "url": "https://cosmatica.org/news/2253-gagarinskii-sad-osen-vremja-sazhat.html",
+      "image": "assets/source/775615577900ce4f0f44c13f.webp",
+      "links": [
+        {
+          "title": "Гагаринский сад. Осень - время сажать!",
+          "url": "https://cosmatica.org/news/2253-gagarinskii-sad-osen-vremja-sazhat.html"
+        },
+        {
+          "title": "#Всемирное движение Русского Космического Общества \"Гагаринский сад\"",
+          "url": "https://cosmatica.org/projects/gagarin-garden/content/news"
+        },
+        {
+          "title": "0",
+          "url": "https://cosmatica.org/news/2253-gagarinskii-sad-osen-vremja-sazhat.html#comments"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "assets/source/5ff6fe3456cc4e654c4ba045.webp",
+    "assets/source/54a7b93ea1751a32763bf80b.webp",
+    "assets/source/6ed69dc554c3f607bf1ef670.webp",
+    "assets/source/c41f6a90245d830e30b9207d.webp",
+    "assets/source/2abcb9fd552df93e6b617703.webp",
+    "assets/source/9c1831e836e13d3a8cc97ec0.webp",
+    "assets/source/2a3117f53fd40dffccd259a0.webp",
+    "assets/source/96ddf0fc4a4af4814b6c45d7.webp",
+    "assets/source/f3e5da4272647fd166d48ee3.webp",
+    "assets/source/07c99de7efdae86feaf1a57c.webp",
+    "assets/source/0d3264f7edc5342399268a0f.webp",
+    "assets/source/ff1273a474a9846e75a143f9.webp",
+    "assets/source/2261e8f57d6ca68373c7cb4b.webp",
+    "assets/source/6e7adf2ee5851249ac024d77.webp",
+    "assets/source/775615577900ce4f0f44c13f.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1566,
+    "storedTextCharacters": 1198,
+    "sourceCardCount": 15,
+    "sourceImageCount": 15,
+    "paragraphCount": 0,
+    "sourceBytes": 95195
+  }
+}

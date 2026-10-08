@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/39",
+  "title": "Антон Владимирович Бессонов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/dceee7ce4a9a1cca0db02e43.webp",
+      "alt": "Антон Владимирович Бессонов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 6"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/source/c4de0a0a81d9fbfbf16efba6.webp",
+      "alt": "Антон Владимирович Бессонов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 3"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Челябинская область",
+      "links": [
+        {
+          "title": "Челябинская область",
+          "url": "https://cosmatica.org/departments/7-cheljabinskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Председатель Челябинского отделения Русского Космического Общества. Инженер- механик, рядовой запаса Вооруженных сил СССР, исследователь истории создания ракетно-ядерного щита СССР.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/dceee7ce4a9a1cca0db02e43.webp",
+    "assets/source/c4de0a0a81d9fbfbf16efba6.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 305,
+    "storedTextCharacters": 60,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36685
+  }
+}

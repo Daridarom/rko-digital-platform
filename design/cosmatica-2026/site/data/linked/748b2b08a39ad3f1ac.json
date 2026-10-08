@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/552-poker-s-bogom.html",
+  "title": "Покер с Богом",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/3323bc10acce98a8497aa0bb.webp",
+      "alt": "Покер с Богом"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Майя Сиволобова",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Литературный конкурс \"Империум: Победа!\" - 2026г. Номинация \"Оригинальность\"",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 193 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/5982/f3aae58a162e2fe42e86983c7f64a48b"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/3323bc10acce98a8497aa0bb.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/5982/f3aae58a162e2fe42e86983c7f64a48b",
+      "localUrl": "assets/source/f692ecf406413b28bdddeb72.pdf"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 134,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39628
+  }
+}

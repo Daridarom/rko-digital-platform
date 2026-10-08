@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/546-vesyolyi-vodnyi-mir.html",
+  "title": "Весёлый водный мир",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/ba9e768999379aedda57d50f.webp",
+      "alt": "Весёлый водный мир"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Андрей Мансуров",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Литературный конкурс \"Империум: Победа!\" - 2026г. 3 место",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 379 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/5976/5309c1727502d1c076d816947a45d5d3"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/ba9e768999379aedda57d50f.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/5976/5309c1727502d1c076d816947a45d5d3",
+      "localUrl": "assets/source/1f86375fb79fe9f2fbdecda6.pdf"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 120,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39619
+  }
+}

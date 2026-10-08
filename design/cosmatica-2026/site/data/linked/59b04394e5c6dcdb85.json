@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/542-chistyi-mir-intuitivno-nauchnyi-vzgljad.html",
+  "title": "Чистый Мир. Интуитивно-научный взгляд",
+  "intro": "",
+  "blocks": [],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Тимошенко Леонид Викторович",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Монография \"Чистый Мир. Интуитивно-научный взгляд. - это уникальная система взглядов в комплексном решении проблемы существования системы Вселенских процессов Мироздания. Наш мир звучащий. Многообразие его проявления в окружающем пространстве создает иллюзию реальности. Для понимания происходящего необходим интуитивно научный взгляд. Автор в лице высокоодаренной личности - астрофизик со степенями от канд.физ.мат наук до члена корр.накук. Композитор, 219 альбомов музыки, лауреат 7 фестивалей искусств, исполнитель-виртуоз, тысячи концертов 1995-2025г. в большинстве стран Европы, Сан-Франциско. Писатель, автор 30 книг в 5-томном собрании литературных сочинений. Член Соза литераторов России, Президент Международного фестиваля \"Таланты объединяют Мир\"",
+      "links": [
+        {
+          "title": "система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/5931/8f788c8997b64f39ec3f248bfc1b772c"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/5931/8f788c8997b64f39ec3f248bfc1b772c",
+      "localUrl": "assets/source/61e68edd8c154c5ca6160be0.pdf"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 848,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 40468
+  }
+}

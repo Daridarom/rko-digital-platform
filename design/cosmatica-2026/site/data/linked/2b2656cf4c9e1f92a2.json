@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/11-kaluzhskaja-oblast.html",
+  "title": "Калужская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 35",
+        "Материалы 3",
+        "Мероприятия 13",
+        "Состав 5"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Калужское региональное отделение создано 02 марта 2019 года.",
+      "spans": [
+        {
+          "text": "Калужское региональное отделение создано 02 марта 2019 года."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель отделения — Пухович Алексей Михайлович",
+      "spans": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Председатель отделения — Пухович Алексей Михайлович",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес: Калуга, Хрустальный пер., д.8, Спортивный клуб единоборств",
+      "spans": [
+        {
+          "text": "\r\n\tАдрес: Калуга, Хрустальный пер., д.8, Спортивный клуб единоборств "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта: info-kaluga@cosmatica.org",
+      "spans": [
+        {
+          "text": "\r\n\tЭлектронная почта: "
+        },
+        {
+          "text": "info-kaluga@cosmatica.org",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Калужское региональное отделение создано 02 марта 2019 года. Председатель отделения — Пухович Алексей Михайлович Адрес: Калуга, Хрустальный пер., д.8, Спортивный клуб единоборств Электронная почта: info-kaluga@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 321,
+    "storedTextCharacters": 272,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 36281
+  }
+}

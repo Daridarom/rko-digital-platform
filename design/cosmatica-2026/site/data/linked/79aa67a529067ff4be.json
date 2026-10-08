@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/23-doneckaja-respublika.html",
+  "title": "Донецкая республика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 168",
+        "Материалы 19",
+        "Мероприятия 26",
+        "Состав 21"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель отделения - Аноприенко Александр Яковлевич, ректор ДонНТУ",
+      "spans": [
+        {
+          "text": "Председатель отделения - Аноприенко Александр Яковлевич, ректор ДонНТУ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес: 83001, г. Донецк, ул. Артема, д. 58, ГВУЗ «Донецкий национальный технический университет»",
+      "spans": [
+        {
+          "text": "Адрес: 83001, г. Донецк, ул. Артема, д. 58, ГВУЗ «Донецкий национальный технический университет»"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта: info-dnr@cosmatica.org",
+      "spans": [
+        {
+          "text": "Электронная почта: info-dnr@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель отделения - Аноприенко Александр Яковлевич, ректор ДонНТУ Адрес: 83001, г. Донецк, ул. Артема, д. 58, ГВУЗ «Донецкий национальный технический университет» Электронная почта: info-dnr@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 312,
+    "storedTextCharacters": 262,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 36116
+  }
+}

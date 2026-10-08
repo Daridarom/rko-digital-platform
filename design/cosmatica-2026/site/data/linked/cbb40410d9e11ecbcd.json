@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/545-vremja-endzhi.html",
+  "title": "Время Энджи",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/a96e595383158f3d9fe1bad4.webp",
+      "alt": "Время Энджи"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Алексей Жарков",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Литературный конкурс \"Империум: Победа!\" - 2026г. 1 место",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/5975/6c377b37ae2a1daed38232d7147331f5"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/a96e595383158f3d9fe1bad4.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/5975/6c377b37ae2a1daed38232d7147331f5",
+      "localUrl": "assets/source/f9502132a1395fcc24514ac2.pdf"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 110,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39531
+  }
+}

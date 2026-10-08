@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/7-cheljabinskaja-oblast.html",
+  "title": "Челябинская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 46",
+        "Материалы 9",
+        "Мероприятия 4",
+        "Состав 1"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель отделения — Бессонов Антон Владимирович , инженер- механик, рядовой запаса Вооруженных сил СССР, исследователь истории создания ракетно-ядерного щита СССР.",
+      "spans": [
+        {
+          "text": "\r\n\tПредседатель отделения — "
+        },
+        {
+          "text": "Бессонов Антон Владимирович",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": ", инженер- механик, рядовой запаса Вооруженных сил СССР, исследователь истории создания ракетно-ядерного щита СССР."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта: info-chel@cosmatica.org",
+      "spans": [
+        {
+          "text": "\r\n\tЭлектронная почта: "
+        },
+        {
+          "text": "info-chel@cosmatica.org",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель отделения — Бессонов Антон Владимирович , инженер- механик, рядовой запаса Вооруженных сил СССР, исследователь истории создания ракетно-ядерного щита СССР. Электронная почта: info-chel@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 310,
+    "storedTextCharacters": 261,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 36232
+  }
+}

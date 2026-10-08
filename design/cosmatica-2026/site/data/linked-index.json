@@ -1,0 +1,1001 @@
+{
+  "https://cosmatica.org/collegium/23-ekonomicheskii-sovet.html": {
+    "url": "https://cosmatica.org/collegium/23-ekonomicheskii-sovet.html",
+    "file": "source/collegium-item.json",
+    "type": "collegium-item",
+    "status": "ready",
+    "alias": true
+  },
+  "https://cosmatica.org/departments/10-moskva.html": {
+    "url": "https://cosmatica.org/departments/10-moskva.html",
+    "file": "source/department.json",
+    "type": "department",
+    "status": "ready",
+    "alias": true
+  },
+  "https://cosmatica.org/news/2267-pereizdanie-klyuchevyh-knig-rko.html": {
+    "url": "https://cosmatica.org/news/2267-pereizdanie-klyuchevyh-knig-rko.html",
+    "file": "source/news-item.json",
+    "type": "news-item",
+    "status": "ready",
+    "alias": true
+  },
+  "https://cosmatica.org/partners/15-federalnyi-ekspertnyi-sovet.html": {
+    "url": "https://cosmatica.org/partners/15-federalnyi-ekspertnyi-sovet.html",
+    "file": "source/partner.json",
+    "type": "partner",
+    "status": "ready",
+    "alias": true
+  },
+  "https://cosmatica.org/poster/1085-mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-sisteme-priroda-obschestvo-.html": {
+    "url": "https://cosmatica.org/poster/1085-mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-sisteme-priroda-obschestvo-.html",
+    "file": "source/poster-item.json",
+    "type": "poster-item",
+    "status": "ready",
+    "alias": true
+  },
+  "https://cosmatica.org/users/7": {
+    "url": "https://cosmatica.org/users/7",
+    "file": "source/profile.json",
+    "type": "profile",
+    "status": "ready",
+    "alias": true
+  },
+  "https://cosmatica.org/projects/gagarincy": {
+    "url": "https://cosmatica.org/projects/gagarincy",
+    "file": "source/project.json",
+    "type": "project",
+    "status": "ready",
+    "alias": true
+  },
+  "https://cosmatica.org/articles/publikacii": {
+    "url": "https://cosmatica.org/articles/publikacii",
+    "file": "source/articles-list.json",
+    "type": "articles-list",
+    "status": "ready",
+    "alias": true
+  },
+  "https://cosmatica.org/articles/1518-samoutverzhdenie-rossii-v-xxi-veke-kak-lidera-v-noosfernom-proryve-chelovechestva.html": {
+    "url": "https://cosmatica.org/articles/1518-samoutverzhdenie-rossii-v-xxi-veke-kak-lidera-v-noosfernom-proryve-chelovechestva.html",
+    "file": "source/article.json",
+    "type": "article",
+    "status": "ready",
+    "alias": true
+  },
+  "https://cosmatica.org/library/556-novaja-paradigma-teorii-istorii-i-buduschego-mira-civilizacii.html": {
+    "url": "https://cosmatica.org/library/556-novaja-paradigma-teorii-istorii-i-buduschego-mira-civilizacii.html",
+    "file": "28092b80c6ccb8cbc2.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/library/555-ekofilosofija-razvitiyu-kultury-i-mira.html": {
+    "url": "https://cosmatica.org/library/555-ekofilosofija-razvitiyu-kultury-i-mira.html",
+    "file": "3e335c9e7d12429a4d.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/library/554-the-book-of-life.html": {
+    "url": "https://cosmatica.org/library/554-the-book-of-life.html",
+    "file": "d6070a31d881f373d9.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/library/553-noosfernyi-razum-kak-razum-nauchno-upravljayuschii-socio-biosfernoi-evolyuciei.html": {
+    "url": "https://cosmatica.org/library/553-noosfernyi-razum-kak-razum-nauchno-upravljayuschii-socio-biosfernoi-evolyuciei.html",
+    "file": "63209ea07ecafb58cf.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/library/552-poker-s-bogom.html": {
+    "url": "https://cosmatica.org/library/552-poker-s-bogom.html",
+    "file": "748b2b08a39ad3f1ac.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/library/551-kto-pervyi.html": {
+    "url": "https://cosmatica.org/library/551-kto-pervyi.html",
+    "file": "d0bc9e3e5f4d1033eb.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/library/550-den-kogda-menja-vnesli-v-protokol.html": {
+    "url": "https://cosmatica.org/library/550-den-kogda-menja-vnesli-v-protokol.html",
+    "file": "1f9cfc24faf8eaf05e.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/library/549-doktrina-pobedy.html": {
+    "url": "https://cosmatica.org/library/549-doktrina-pobedy.html",
+    "file": "af97ea1e41f122abee.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/library/548-russkii-voin-buduschego.html": {
+    "url": "https://cosmatica.org/library/548-russkii-voin-buduschego.html",
+    "file": "1492ee3ec70e05649d.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/library/547-prestupnik-ne-naiden.html": {
+    "url": "https://cosmatica.org/library/547-prestupnik-ne-naiden.html",
+    "file": "ca3d4c276a14966149.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/library/546-vesyolyi-vodnyi-mir.html": {
+    "url": "https://cosmatica.org/library/546-vesyolyi-vodnyi-mir.html",
+    "file": "9506037d71f67a29cb.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/library/545-vremja-endzhi.html": {
+    "url": "https://cosmatica.org/library/545-vremja-endzhi.html",
+    "file": "cbb40410d9e11ecbcd.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/library/544-put-v-noosferu.html": {
+    "url": "https://cosmatica.org/library/544-put-v-noosferu.html",
+    "file": "8d3a7cbc443f685476.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/library/542-chistyi-mir-intuitivno-nauchnyi-vzgljad.html": {
+    "url": "https://cosmatica.org/library/542-chistyi-mir-intuitivno-nauchnyi-vzgljad.html",
+    "file": "59b04394e5c6dcdb85.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/library/540-rynok-kak-mehanizm-gibeli-cheloveka-i-prirody-na-zemle-v-xxi-veke.html": {
+    "url": "https://cosmatica.org/library/540-rynok-kak-mehanizm-gibeli-cheloveka-i-prirody-na-zemle-v-xxi-veke.html",
+    "file": "a5ca4cb15141f91492.json",
+    "type": "book",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/22-sovet-chesti-i-prava.html": {
+    "url": "https://cosmatica.org/collegium/22-sovet-chesti-i-prava.html",
+    "file": "6414f08a1a8dda9e12.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/20-sovet-zdorovja.html": {
+    "url": "https://cosmatica.org/collegium/20-sovet-zdorovja.html",
+    "file": "466d00e0c5c837c3a9.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/19-sovet-po-razvitiyu-kosmicheskih-iniciativ.html": {
+    "url": "https://cosmatica.org/collegium/19-sovet-po-razvitiyu-kosmicheskih-iniciativ.html",
+    "file": "7b0d87397b0afd1196.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/18-ekologicheskii-sovet.html": {
+    "url": "https://cosmatica.org/collegium/18-ekologicheskii-sovet.html",
+    "file": "88d158f1b1ff959b3f.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/17-sovet-po-kulture.html": {
+    "url": "https://cosmatica.org/collegium/17-sovet-po-kulture.html",
+    "file": "9fefdac744090e62b5.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/16-sovet-fizicheskoi-kultury-i-sporta.html": {
+    "url": "https://cosmatica.org/collegium/16-sovet-fizicheskoi-kultury-i-sporta.html",
+    "file": "d51df16dafdb6e078e.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/15-sovet-truda-i-tvorchestva.html": {
+    "url": "https://cosmatica.org/collegium/15-sovet-truda-i-tvorchestva.html",
+    "file": "16098b9f933685b224.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/14-arkticheskii-sovet.html": {
+    "url": "https://cosmatica.org/collegium/14-arkticheskii-sovet.html",
+    "file": "b99bfdcd423c9fe84e.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/13-nauchno-obrazovatelnyi-sovet.html": {
+    "url": "https://cosmatica.org/collegium/13-nauchno-obrazovatelnyi-sovet.html",
+    "file": "c56238a217e7d5d72d.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/12-molodyozhnyi-sovet.html": {
+    "url": "https://cosmatica.org/collegium/12-molodyozhnyi-sovet.html",
+    "file": "a4180d8af1f38027d5.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/11-sovet-pravdy-i-prosveschenija.html": {
+    "url": "https://cosmatica.org/collegium/11-sovet-pravdy-i-prosveschenija.html",
+    "file": "e917cc3094f4bd5762.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/10-obschestvenno-gosudarstvennyi-sovet.html": {
+    "url": "https://cosmatica.org/collegium/10-obschestvenno-gosudarstvennyi-sovet.html",
+    "file": "ef80c31d566fe8398c.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/9-nauchno-tehnicheskii-sovet.html": {
+    "url": "https://cosmatica.org/collegium/9-nauchno-tehnicheskii-sovet.html",
+    "file": "75a697433db02cfd93.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/6-filosofskii-sovet.html": {
+    "url": "https://cosmatica.org/collegium/6-filosofskii-sovet.html",
+    "file": "946d87c7c4b28d6caf.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/5-mezhdunarodnyi-sovet.html": {
+    "url": "https://cosmatica.org/collegium/5-mezhdunarodnyi-sovet.html",
+    "file": "e5f9598a519fdca09a.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/4-sovet-pervyh.html": {
+    "url": "https://cosmatica.org/collegium/4-sovet-pervyh.html",
+    "file": "8a7c6fc2e745a9f61a.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/3-ekspertnyi-sovet.html": {
+    "url": "https://cosmatica.org/collegium/3-ekspertnyi-sovet.html",
+    "file": "c69f7b16bb9da2e153.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/collegium/2-popechitelskii-sovet.html": {
+    "url": "https://cosmatica.org/collegium/2-popechitelskii-sovet.html",
+    "file": "8fa81f6f8a3ca5ff39.json",
+    "type": "collegium-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/9-sankt-peterburg.html": {
+    "url": "https://cosmatica.org/departments/9-sankt-peterburg.html",
+    "file": "8012cbf5dd47bf5067.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/8-novosibirskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/8-novosibirskaja-oblast.html",
+    "file": "b52a379e0fadc1fc6d.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/7-cheljabinskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/7-cheljabinskaja-oblast.html",
+    "file": "dac75e8421c9169b50.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/6-respublika-krym.html": {
+    "url": "https://cosmatica.org/departments/6-respublika-krym.html",
+    "file": "6efb69953f3fc0f727.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/5-respublika-hakasija.html": {
+    "url": "https://cosmatica.org/departments/5-respublika-hakasija.html",
+    "file": "5bbf8a38d769f28879.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/4-sverdlovskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/4-sverdlovskaja-oblast.html",
+    "file": "38d04a29a236b853ef.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/2-pskovskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/2-pskovskaja-oblast.html",
+    "file": "64cf230a112c9020f3.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/1-krasnodarskii-krai.html": {
+    "url": "https://cosmatica.org/departments/1-krasnodarskii-krai.html",
+    "file": "e4d9bb1c9c69eff405.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/11-kaluzhskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/11-kaluzhskaja-oblast.html",
+    "file": "2b2656cf4c9e1f92a2.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/13-nizhegorodskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/13-nizhegorodskaja-oblast.html",
+    "file": "3424f7f1c887642e1c.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/16-predstavitelstvo-v-belarusi.html": {
+    "url": "https://cosmatica.org/departments/16-predstavitelstvo-v-belarusi.html",
+    "file": "4d0d629d0141772ffe.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/18-kemerovskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/18-kemerovskaja-oblast.html",
+    "file": "40374b638e97dbb153.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/19-volgogradskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/19-volgogradskaja-oblast.html",
+    "file": "b0f6bd412eff3aeabb.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/20-kaliningradskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/20-kaliningradskaja-oblast.html",
+    "file": "fbee202a16693dae6f.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/21-kurganskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/21-kurganskaja-oblast.html",
+    "file": "5de05052dc4f9f8f84.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/22-udmurtskaja-respublika.html": {
+    "url": "https://cosmatica.org/departments/22-udmurtskaja-respublika.html",
+    "file": "73aac266057853f235.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/23-doneckaja-respublika.html": {
+    "url": "https://cosmatica.org/departments/23-doneckaja-respublika.html",
+    "file": "79aa67a529067ff4be.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/24-vladimirskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/24-vladimirskaja-oblast.html",
+    "file": "067ab13afb3a151b7c.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/29-kostromskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/29-kostromskaja-oblast.html",
+    "file": "0a41183188a1fe7795.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/30-predstavitelstvo-v-latvii.html": {
+    "url": "https://cosmatica.org/departments/30-predstavitelstvo-v-latvii.html",
+    "file": "309a5950765db11066.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/32-predstavitelstvo-v-kanade.html": {
+    "url": "https://cosmatica.org/departments/32-predstavitelstvo-v-kanade.html",
+    "file": "a6859e84a882b5f712.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/33-brjanskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/33-brjanskaja-oblast.html",
+    "file": "cd64f189a11a2094ce.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/34-orlovskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/34-orlovskaja-oblast.html",
+    "file": "8ef687ffcbef339c09.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/36-rostovskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/36-rostovskaja-oblast.html",
+    "file": "8935bc87dfa3595a94.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/37-luganskaja-respublika.html": {
+    "url": "https://cosmatica.org/departments/37-luganskaja-respublika.html",
+    "file": "b2b7637e8ab3d91daf.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/38-tyumenskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/38-tyumenskaja-oblast.html",
+    "file": "ea23fb4a4079d30f6f.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/39-zaporozhskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/39-zaporozhskaja-oblast.html",
+    "file": "a2d77e9edf1dbc3c42.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/40-tomskaja-oblast.html": {
+    "url": "https://cosmatica.org/departments/40-tomskaja-oblast.html",
+    "file": "aa9e61d9687b1fd61d.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/41-respublika-saha-jakutija-predstavitelstvo.html": {
+    "url": "https://cosmatica.org/departments/41-respublika-saha-jakutija-predstavitelstvo.html",
+    "file": "bac244b8b80db71667.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/departments/42-altaiskii-krai-predstavitelstvo.html": {
+    "url": "https://cosmatica.org/departments/42-altaiskii-krai-predstavitelstvo.html",
+    "file": "099421f4f0acf0c31c.json",
+    "type": "department",
+    "status": "ready"
+  },
+  "https://cosmatica.org/news/2266-itogi-seminara-mezhdunarodnoi-nauchnoi-shkoly-im-p-g-kuznecova.html": {
+    "url": "https://cosmatica.org/news/2266-itogi-seminara-mezhdunarodnoi-nauchnoi-shkoly-im-p-g-kuznecova.html",
+    "file": "b2bc16cd858221784d.json",
+    "type": "news-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/news/2265-solidarnaja-kooperacionnaja-ekonomika-v-deistvii.html": {
+    "url": "https://cosmatica.org/news/2265-solidarnaja-kooperacionnaja-ekonomika-v-deistvii.html",
+    "file": "a886e9c067f72de12e.json",
+    "type": "news-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/news/2264-startoval-vserossiiskii-konkurs-zhivoe-slovo.html": {
+    "url": "https://cosmatica.org/news/2264-startoval-vserossiiskii-konkurs-zhivoe-slovo.html",
+    "file": "ce148a0ca9dc39d390.json",
+    "type": "news-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/news/2263-shahmatnyi-festival-veteranov-proshyol-v-moskve.html": {
+    "url": "https://cosmatica.org/news/2263-shahmatnyi-festival-veteranov-proshyol-v-moskve.html",
+    "file": "7ccbb2e6fb7475bd15.json",
+    "type": "news-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/news/2262-yurii-vladimirovich-jakovec-vstal-v-vechnyi-stroi.html": {
+    "url": "https://cosmatica.org/news/2262-yurii-vladimirovich-jakovec-vstal-v-vechnyi-stroi.html",
+    "file": "468c1f13e607ec47b5.json",
+    "type": "news-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/news/2261-solidarnoe-obschestvo-ili-kak-postroit-rossiyu-buduschego.html": {
+    "url": "https://cosmatica.org/news/2261-solidarnoe-obschestvo-ili-kak-postroit-rossiyu-buduschego.html",
+    "file": "9dc938bb2181961ecd.json",
+    "type": "news-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/news/2260-fantastika-raspravljaet-krylja-molodym.html": {
+    "url": "https://cosmatica.org/news/2260-fantastika-raspravljaet-krylja-molodym.html",
+    "file": "8aff9fc42d4a492c09.json",
+    "type": "news-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/news/2259-o-teh-kto-uhodit-i-o-teh-kto-ostaetsja.html": {
+    "url": "https://cosmatica.org/news/2259-o-teh-kto-uhodit-i-o-teh-kto-ostaetsja.html",
+    "file": "b0d9f843c3fc031f08.json",
+    "type": "news-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/news/2258-itogi-vneocherednoi-konferencii-rko.html": {
+    "url": "https://cosmatica.org/news/2258-itogi-vneocherednoi-konferencii-rko.html",
+    "file": "ebd87016b23ebaebb5.json",
+    "type": "news-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/news/2257-marina-evgenevna-lebedeva-idyot-v-gosudarstvennuyu-dumu.html": {
+    "url": "https://cosmatica.org/news/2257-marina-evgenevna-lebedeva-idyot-v-gosudarstvennuyu-dumu.html",
+    "file": "56802255e113e95fa3.json",
+    "type": "news-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/news/2256-koncepcija-ekologicheskogo-prosveschenija.html": {
+    "url": "https://cosmatica.org/news/2256-koncepcija-ekologicheskogo-prosveschenija.html",
+    "file": "9515be5a26e8056c8a.json",
+    "type": "news-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/news/2255-12-09-2026-sostojalsja-seminar-mezhdunarodnoi-nauchnoi-shkoly-ustoichivogo-razvitija-im-p-g-kuz.html": {
+    "url": "https://cosmatica.org/news/2255-12-09-2026-sostojalsja-seminar-mezhdunarodnoi-nauchnoi-shkoly-ustoichivogo-razvitija-im-p-g-kuz.html",
+    "file": "2e916dfd306f510f98.json",
+    "type": "news-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/news/2254-kosmozdrav-noosistema-zdorovja.html": {
+    "url": "https://cosmatica.org/news/2254-kosmozdrav-noosistema-zdorovja.html",
+    "file": "8c6eeaac884ac34e22.json",
+    "type": "news-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/news/2253-gagarinskii-sad-osen-vremja-sazhat.html": {
+    "url": "https://cosmatica.org/news/2253-gagarinskii-sad-osen-vremja-sazhat.html",
+    "file": "9d432d69a479ba316b.json",
+    "type": "news-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/partners/14-federalnyi-narodnyi-sovet.html": {
+    "url": "https://cosmatica.org/partners/14-federalnyi-narodnyi-sovet.html",
+    "file": "d7bace1c41c3dbdf2c.json",
+    "type": "partner",
+    "status": "ready"
+  },
+  "https://cosmatica.org/partners/12-zhivoi-kosmos.html": {
+    "url": "https://cosmatica.org/partners/12-zhivoi-kosmos.html",
+    "file": "c123f0bb43a224774c.json",
+    "type": "partner",
+    "status": "ready"
+  },
+  "https://cosmatica.org/partners/11-fond-arktika-sg.html": {
+    "url": "https://cosmatica.org/partners/11-fond-arktika-sg.html",
+    "file": "5d15959e6a944794cc.json",
+    "type": "partner",
+    "status": "ready"
+  },
+  "https://cosmatica.org/partners/10-international-organization-club-of-sofia.html": {
+    "url": "https://cosmatica.org/partners/10-international-organization-club-of-sofia.html",
+    "file": "e74d0ceb8c647b702c.json",
+    "type": "partner",
+    "status": "ready"
+  },
+  "https://cosmatica.org/partners/9-rossiiskaja-akademija-estestvennyh-nauk-raen.html": {
+    "url": "https://cosmatica.org/partners/9-rossiiskaja-akademija-estestvennyh-nauk-raen.html",
+    "file": "7fc315878914436088.json",
+    "type": "partner",
+    "status": "ready"
+  },
+  "https://cosmatica.org/partners/7-sekcija-istorii-aviacii-i-kosmonavtiki-spbf-iiet-ran.html": {
+    "url": "https://cosmatica.org/partners/7-sekcija-istorii-aviacii-i-kosmonavtiki-spbf-iiet-ran.html",
+    "file": "5bcbfa56eb76ab00cf.json",
+    "type": "partner",
+    "status": "ready"
+  },
+  "https://cosmatica.org/partners/6-fond-russkoi-civilizacii-svetoslav.html": {
+    "url": "https://cosmatica.org/partners/6-fond-russkoi-civilizacii-svetoslav.html",
+    "file": "914cb978b1e81a1b64.json",
+    "type": "partner",
+    "status": "ready"
+  },
+  "https://cosmatica.org/partners/5-associacija-vseobschee-vselenskoe-sodruzhestvo-italija.html": {
+    "url": "https://cosmatica.org/partners/5-associacija-vseobschee-vselenskoe-sodruzhestvo-italija.html",
+    "file": "482ae04fda502afe9d.json",
+    "type": "partner",
+    "status": "ready"
+  },
+  "https://cosmatica.org/partners/4-muzei-kosmonavtiki.html": {
+    "url": "https://cosmatica.org/partners/4-muzei-kosmonavtiki.html",
+    "file": "064ea0d14694f9db1b.json",
+    "type": "partner",
+    "status": "ready"
+  },
+  "https://cosmatica.org/partners/3-ano-sportivnyi-klub-federalnogo-kosmicheskogo-agentstva-roskosmos.html": {
+    "url": "https://cosmatica.org/partners/3-ano-sportivnyi-klub-federalnogo-kosmicheskogo-agentstva-roskosmos.html",
+    "file": "65513c86e68ee2b4e9.json",
+    "type": "partner",
+    "status": "ready"
+  },
+  "https://cosmatica.org/partners/2-associacija-muzeev-kosmonavtiki-rossii-amkos.html": {
+    "url": "https://cosmatica.org/partners/2-associacija-muzeev-kosmonavtiki-rossii-amkos.html",
+    "file": "a871c6d1c935739e61.json",
+    "type": "partner",
+    "status": "ready"
+  },
+  "https://cosmatica.org/partners/1-goskorporacija-roskosmos.html": {
+    "url": "https://cosmatica.org/partners/1-goskorporacija-roskosmos.html",
+    "file": "2833b8d7e310d33660.json",
+    "type": "partner",
+    "status": "ready"
+  },
+  "https://cosmatica.org/poster/1087-tropa-muzhestva-2026-osen.html": {
+    "url": "https://cosmatica.org/poster/1087-tropa-muzhestva-2026-osen.html",
+    "file": "9a0bc339c45836c1f0.json",
+    "type": "poster-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/poster/1080-triedinstvo-kosmicheskogo-proryva.html": {
+    "url": "https://cosmatica.org/poster/1080-triedinstvo-kosmicheskogo-proryva.html",
+    "file": "312caeb69159c1c380.json",
+    "type": "poster-item",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/12": {
+    "url": "https://cosmatica.org/users/12",
+    "file": "cbdf4602df338bda03.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/38": {
+    "url": "https://cosmatica.org/users/38",
+    "file": "97789c8c42bc118e21.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/35": {
+    "url": "https://cosmatica.org/users/35",
+    "file": "056ea033ea1f93c2dd.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/3": {
+    "url": "https://cosmatica.org/users/3",
+    "file": "8aa6005bebe5f04fcb.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/1642": {
+    "url": "https://cosmatica.org/users/1642",
+    "file": "9f023ea6457359233c.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/53": {
+    "url": "https://cosmatica.org/users/53",
+    "file": "ab2f1aba884c8fb0dc.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/39": {
+    "url": "https://cosmatica.org/users/39",
+    "file": "a10fd99d1494191650.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/65": {
+    "url": "https://cosmatica.org/users/65",
+    "file": "7cc68c3b6365a0a15b.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/2907": {
+    "url": "https://cosmatica.org/users/2907",
+    "file": "8cd91a5b0f7d29994c.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/110": {
+    "url": "https://cosmatica.org/users/110",
+    "file": "080d7ec87d46f09a09.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/46": {
+    "url": "https://cosmatica.org/users/46",
+    "file": "b764ce941480b324ba.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/600": {
+    "url": "https://cosmatica.org/users/600",
+    "file": "3a9b96a3c25dc45b31.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/8079": {
+    "url": "https://cosmatica.org/users/8079",
+    "file": "f1b4edd9bb872c5f2e.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/225": {
+    "url": "https://cosmatica.org/users/225",
+    "file": "50b5b0e74740c810cc.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/267": {
+    "url": "https://cosmatica.org/users/267",
+    "file": "43d2035e41a9633efc.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/318": {
+    "url": "https://cosmatica.org/users/318",
+    "file": "79a1516ec068efa033.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/424": {
+    "url": "https://cosmatica.org/users/424",
+    "file": "1044ea32bfb75d5442.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/401": {
+    "url": "https://cosmatica.org/users/401",
+    "file": "804b646598a29e000c.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/395": {
+    "url": "https://cosmatica.org/users/395",
+    "file": "de1a4fd2bd14b1b9bd.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/432": {
+    "url": "https://cosmatica.org/users/432",
+    "file": "ddca692d3e12b15f7a.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/648": {
+    "url": "https://cosmatica.org/users/648",
+    "file": "edaf3a8315ebf71375.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/1123": {
+    "url": "https://cosmatica.org/users/1123",
+    "file": "86b9c0d52b5babdd96.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/users/8033": {
+    "url": "https://cosmatica.org/users/8033",
+    "file": "93ceb285edbca44b39.json",
+    "type": "profile",
+    "status": "ready"
+  },
+  "https://cosmatica.org/projects/sns": {
+    "url": "https://cosmatica.org/projects/sns",
+    "file": "a4a032b4f7e2255e69.json",
+    "type": "project",
+    "status": "ready"
+  },
+  "https://cosmatica.org/projects/rusleo": {
+    "url": "https://cosmatica.org/projects/rusleo",
+    "file": "818c1da887bcd5722d.json",
+    "type": "project",
+    "status": "ready"
+  },
+  "https://cosmatica.org/projects/350": {
+    "url": "https://cosmatica.org/projects/350",
+    "file": "6c03410dd38d92c818.json",
+    "type": "project",
+    "status": "ready"
+  },
+  "https://cosmatica.org/projects/349": {
+    "url": "https://cosmatica.org/projects/349",
+    "file": "15a449b0b72cf52b5d.json",
+    "type": "project",
+    "status": "ready"
+  },
+  "https://cosmatica.org/projects/348": {
+    "url": "https://cosmatica.org/projects/348",
+    "file": "6d3288b085de384c5a.json",
+    "type": "project",
+    "status": "ready"
+  },
+  "https://cosmatica.org/projects/347": {
+    "url": "https://cosmatica.org/projects/347",
+    "file": "2589d6d73ca0a8186c.json",
+    "type": "project",
+    "status": "ready"
+  },
+  "https://cosmatica.org/projects/346": {
+    "url": "https://cosmatica.org/projects/346",
+    "file": "7e709d3052476bd1c2.json",
+    "type": "project",
+    "status": "ready"
+  },
+  "https://cosmatica.org/projects/345": {
+    "url": "https://cosmatica.org/projects/345",
+    "file": "57fb61677c0cdc2af8.json",
+    "type": "project",
+    "status": "ready"
+  },
+  "https://cosmatica.org/projects/344": {
+    "url": "https://cosmatica.org/projects/344",
+    "file": "f4d36cc32a8658b878.json",
+    "type": "project",
+    "status": "ready"
+  },
+  "https://cosmatica.org/projects/bitvazabuduchee": {
+    "url": "https://cosmatica.org/projects/bitvazabuduchee",
+    "file": "0b47b0096efdfdd7ff.json",
+    "type": "project",
+    "status": "ready"
+  },
+  "https://cosmatica.org/projects/342": {
+    "url": "https://cosmatica.org/projects/342",
+    "file": "fefca142426bccbaa7.json",
+    "type": "project",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/konferencii": {
+    "url": "https://cosmatica.org/articles/konferencii",
+    "file": "a74099aa7c8657d2fa.json",
+    "type": "articles-list",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/media": {
+    "url": "https://cosmatica.org/articles/media",
+    "file": "b21bed326d37c69a16.json",
+    "type": "articles-list",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/gazeta": {
+    "url": "https://cosmatica.org/articles/gazeta",
+    "file": "0ccf2e8bed57b0926e.json",
+    "type": "articles-list",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/kosmonavtika": {
+    "url": "https://cosmatica.org/articles/kosmonavtika",
+    "file": "43c10b825a7352ac6d.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/fantastika-rko": {
+    "url": "https://cosmatica.org/articles/fantastika-rko",
+    "file": "a7c5e7c370403ffb6d.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/izdanija": {
+    "url": "https://cosmatica.org/articles/izdanija",
+    "file": "b2245d7b62bbf848d6.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/konkursnye-raboty": {
+    "url": "https://cosmatica.org/articles/konkursnye-raboty",
+    "file": "26c706e8db4321121a.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/nauchnaja-shkola-prikladnyh-issledovanii-elektromagnitnyh-osnov-zhizni-v-solnechnoi-sisteme": {
+    "url": "https://cosmatica.org/articles/nauchnaja-shkola-prikladnyh-issledovanii-elektromagnitnyh-osnov-zhizni-v-solnechnoi-sisteme",
+    "file": "ee483d4d29f5a55e27.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/polezno-znat": {
+    "url": "https://cosmatica.org/articles/polezno-znat",
+    "file": "d78190e62818cb8057.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/konkurs-esse-otechestvennaja-kosmonavtika-vchera-segodnja-zavtra": {
+    "url": "https://cosmatica.org/articles/konkurs-esse-otechestvennaja-kosmonavtika-vchera-segodnja-zavtra",
+    "file": "67370481e447323646.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/sekcija-sohranenija-biosfernogo-raznoobrazija": {
+    "url": "https://cosmatica.org/articles/sekcija-sohranenija-biosfernogo-raznoobrazija",
+    "file": "85ced9b15d8cafeb50.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/prezentacii-russkogo-kosmicheskogo-obschestva": {
+    "url": "https://cosmatica.org/articles/prezentacii-russkogo-kosmicheskogo-obschestva",
+    "file": "096bb08c773975fabc.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/blizhe-k-kosmosu": {
+    "url": "https://cosmatica.org/articles/blizhe-k-kosmosu",
+    "file": "3a354cf8b1878c1874.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/kurs-lekcii-subetto-aleksandra-ivanovicha": {
+    "url": "https://cosmatica.org/articles/kurs-lekcii-subetto-aleksandra-ivanovicha",
+    "file": "4dde896dd70dd7d15f.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/mir-geroev": {
+    "url": "https://cosmatica.org/articles/mir-geroev",
+    "file": "73ff79a436bcecea34.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/sekcija-ekofilosofii": {
+    "url": "https://cosmatica.org/articles/sekcija-ekofilosofii",
+    "file": "59df8110f13b3fe51e.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/vladimir-ivanovich-vernadskii": {
+    "url": "https://cosmatica.org/articles/vladimir-ivanovich-vernadskii",
+    "file": "be0a38978b661bdee2.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/1517-glavnyi-kriterii-noosfernyh-proektov-celostnost-kak-kachestvo-noosfery.html": {
+    "url": "https://cosmatica.org/articles/1517-glavnyi-kriterii-noosfernyh-proektov-celostnost-kak-kachestvo-noosfery.html",
+    "file": "88494c7cda0761dd78.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/1516-ekofilosofija-rossii-prostranstvo-svjazi-form-bytija-strategija-obespechenija-bezopasnogo-budus.html": {
+    "url": "https://cosmatica.org/articles/1516-ekofilosofija-rossii-prostranstvo-svjazi-form-bytija-strategija-obespechenija-bezopasnogo-budus.html",
+    "file": "03f3d0f548bb4f4e93.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/1514-sociogumanika-i-marksizm-o-preemstvennosti-granicah-i-uslovijah-soyuza-v-bitve-s-nekrosferoi.html": {
+    "url": "https://cosmatica.org/articles/1514-sociogumanika-i-marksizm-o-preemstvennosti-granicah-i-uslovijah-soyuza-v-bitve-s-nekrosferoi.html",
+    "file": "ce3f5f3c99d4b127aa.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/1513-metodologicheskaja-revolyucija-v-gnoseologii.html": {
+    "url": "https://cosmatica.org/articles/1513-metodologicheskaja-revolyucija-v-gnoseologii.html",
+    "file": "20c7becd570614770b.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/1512-filosofija-i-filosofstvovanie-tradicija-i-novacii-v-ponimanii-prirody-cheloveka.html": {
+    "url": "https://cosmatica.org/articles/1512-filosofija-i-filosofstvovanie-tradicija-i-novacii-v-ponimanii-prirody-cheloveka.html",
+    "file": "37c9457e8aca20f585.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/1511-oborona-i-nastuplenie-v-totalnoi-gibridnoi-voine-po-materialam-doktriny-pobedy.html": {
+    "url": "https://cosmatica.org/articles/1511-oborona-i-nastuplenie-v-totalnoi-gibridnoi-voine-po-materialam-doktriny-pobedy.html",
+    "file": "72f4781ae9e36559f1.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/1510-zakon-prirody-kak-fundamentalnaja-osnova-dlja-postroenija-noosfernogo-soyuza.html": {
+    "url": "https://cosmatica.org/articles/1510-zakon-prirody-kak-fundamentalnaja-osnova-dlja-postroenija-noosfernogo-soyuza.html",
+    "file": "73f9ec156a6757af47.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/1509-noosfernyi-razum-kak-imperativ-epohi.html": {
+    "url": "https://cosmatica.org/articles/1509-noosfernyi-razum-kak-imperativ-epohi.html",
+    "file": "5e624c3be86658ec44.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/1508-v-bitve-za-buduschee-ot-zastavy-k-mechte.html": {
+    "url": "https://cosmatica.org/articles/1508-v-bitve-za-buduschee-ot-zastavy-k-mechte.html",
+    "file": "accac2b6da274a7e7e.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/1507-kosmoderzhavie-rusi.html": {
+    "url": "https://cosmatica.org/articles/1507-kosmoderzhavie-rusi.html",
+    "file": "bd6674a56dfa65e0b3.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/1506-manifest-perehoda.html": {
+    "url": "https://cosmatica.org/articles/1506-manifest-perehoda.html",
+    "file": "e39c3086345250b9a1.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/1504-vspomnit-buduschee.html": {
+    "url": "https://cosmatica.org/articles/1504-vspomnit-buduschee.html",
+    "file": "9f383c99a6144b5624.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/1486-shkolnye-botany-2-russkii-leonardo-sinopsis-filma.html": {
+    "url": "https://cosmatica.org/articles/1486-shkolnye-botany-2-russkii-leonardo-sinopsis-filma.html",
+    "file": "da991fb244e91b2f7d.json",
+    "type": "article",
+    "status": "ready"
+  },
+  "https://cosmatica.org/articles/1485-mezhdunarodnaja-nauchnaja-shkola-ustoichivogo-razvitija-imeni-p-g-kuznecova-novoe-izdanie-p-g-k.html": {
+    "url": "https://cosmatica.org/articles/1485-mezhdunarodnaja-nauchnaja-shkola-ustoichivogo-razvitija-imeni-p-g-kuznecova-novoe-izdanie-p-g-k.html",
+    "file": "72a0373a4bf61814ae.json",
+    "type": "article",
+    "status": "ready"
+  }
+}

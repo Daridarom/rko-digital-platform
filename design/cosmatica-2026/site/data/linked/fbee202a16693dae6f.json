@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/20-kaliningradskaja-oblast.html",
+  "title": "Калининградская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 27",
+        "Мероприятия 15",
+        "Состав 8"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Официальное открытие отделения состоялось 5 июля 2019г.",
+      "spans": [
+        {
+          "text": "Официальное открытие отделения состоялось 5 июля 2019г."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель отделения - Меркулов Александр Алексеевич",
+      "spans": [
+        {
+          "text": "Председатель отделения -"
+        },
+        {
+          "text": " Меркулов Александр Алексеевич",
+          "href": "https://cosmatica.org/users/222"
+        }
+      ],
+      "links": [
+        {
+          "text": "Меркулов Александр Алексеевич",
+          "url": "https://cosmatica.org/users/222"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес отделения: г. Калининград, ул. 9 Апреля, д. 5, библиотека им. С.Снегова (МАУК «КЦБС»)",
+      "spans": [
+        {
+          "text": "Адрес отделения: г. Калининград, ул. 9 Апреля, д. 5, библиотека им. С.Снегова (МАУК «КЦБС»)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Эл.почта: info-klnd@cosmatica.org",
+      "spans": [
+        {
+          "text": "Эл.почта: info-klnd@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Официальное открытие отделения состоялось 5 июля 2019г. Председатель отделения - Меркулов Александр Алексеевич Адрес отделения: г. Калининград, ул. 9 Апреля, д. 5, библиотека им. С.Снегова (МАУК «КЦБС») Эл.почта: info-klnd@cosmatica.org",
+      "links": [
+        {
+          "title": "Меркулов Александр Алексеевич",
+          "url": "https://cosmatica.org/users/222"
+        },
+        {
+          "title": "",
+          "url": "https://cosmatica.org/users/222"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 328,
+    "storedTextCharacters": 274,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 5,
+    "sourceBytes": 36006
+  }
+}

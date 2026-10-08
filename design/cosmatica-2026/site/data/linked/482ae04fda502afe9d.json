@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "slug": "partner",
+  "sourceUrl": "https://cosmatica.org/partners/5-associacija-vseobschee-vselenskoe-sodruzhestvo-italija.html",
+  "title": "Ассоциация Всеобщее Вселенское Содружество (Италия)",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/8d561fc8e3f99ef68e485e86.webp",
+      "alt": "Ассоциация Всеобщее Вселенское Содружество (Италия)"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Ассоциация была создана 2 июня 2004 года и официально зарегистрирована в Италии в 2009 году. За время существования Ассоциации была проведена огромная работа на всех уровнях и в различных направлениях. Мы работаем в областях науки, искусства и культуры, проводим мероприятия на высоком уровне культурной и социальной значимости. Сайт: www.rusvvs.altervista.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/8d561fc8e3f99ef68e485e86.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 412,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 32965
+  }
+}

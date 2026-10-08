@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/36-rostovskaja-oblast.html",
+  "title": "Ростовская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 3",
+        "Состав 2"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель - Калайдов Игорь Владимирович",
+      "spans": [
+        {
+          "text": "Председатель - Калайдов Игорь Владимирович"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес:",
+      "spans": [
+        {
+          "text": " Адрес: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Телефон:",
+      "spans": [
+        {
+          "text": " Телефон: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта: info-rnd@cosmatica.org",
+      "spans": [
+        {
+          "text": " Электронная почта: info-rnd@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель - Калайдов Игорь Владимирович Адрес: Телефон: Электронная почта: info-rnd@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 148,
+    "storedTextCharacters": 123,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 33054
+  }
+}

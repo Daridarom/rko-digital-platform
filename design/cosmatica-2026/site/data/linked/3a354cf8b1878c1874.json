@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/blizhe-k-kosmosu",
+  "title": "Ближе к космосу",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Выпуск №4 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Выпуск №3 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Выпуск №2 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Выпуск №1 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Выпуск №0 #Научно-популярное издание для молодёжи \"БЛИЖЕ К КОСМОСУ\"",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 951,
+    "storedTextCharacters": 335,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 80774
+  }
+}

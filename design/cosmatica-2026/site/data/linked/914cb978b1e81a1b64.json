@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "slug": "partner",
+  "sourceUrl": "https://cosmatica.org/partners/6-fond-russkoi-civilizacii-svetoslav.html",
+  "title": "Фонд Русской цивилизации \"СВЕТОСЛАВЪ\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/2a7333ce49c7b92c1ab9ded5.webp",
+      "alt": "Фонд Русской цивилизации \"СВЕТОСЛАВЪ\""
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Содействие сохранению и развитию духовно-нравственных, историко-культурных и научных основ Русского Мира - вот та задача, которая стоит перед фондом «Светославъ». Общемировой процесс глобализации напрямую угрожает будущему Русского Мира, его основам, самобытной культуре, традициям, его уникальному научному наследию. В этих условиях защита и поддержка проектов, организаций и людей, работающих в этих областях, является одной из приоритетных задач с позиции национальной безопасности государства. http://www.fond-svetoslav.ru https://vk.com/fondsvetoslav",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/2a7333ce49c7b92c1ab9ded5.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 593,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 33143
+  }
+}

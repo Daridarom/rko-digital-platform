@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/225",
+  "title": "Иван Викторович Черных",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/4fa28eedd40174b56806457b.webp",
+      "alt": "Иван Викторович Черных"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/d12793b04debf3464f4576b5.webp",
+      "alt": "Иван Викторович Черных"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 7 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Калининградская область",
+      "links": [
+        {
+          "title": "Калининградская область",
+          "url": "https://cosmatica.org/departments/20-kaliningradskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Председатель КРОО «Спортивно-патриотический клуб «Славянин», руководитель многих социальных проектов. Закончил РГУ им. И. Канта 2004-2009 г. по специальности математика; аспирантуру БФУ им. И. Канта, кафедра математического анализа, 2010-2013; магистратуру БФУ им. И. Канта по специальности физической культура и спорт 2013-2016. Депутат Багратионовского городского Совета депутатов 2014-2017 Профессиональный спортсмен. Организатор соревнований.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/4fa28eedd40174b56806457b.webp",
+    "assets/source/d12793b04debf3464f4576b5.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 539,
+    "storedTextCharacters": 33,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35689
+  }
+}

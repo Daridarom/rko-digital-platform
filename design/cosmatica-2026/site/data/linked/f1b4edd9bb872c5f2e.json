@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/8079",
+  "title": "Яков Владимирович Кисурин",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/2401e0b4d1f7aea01a117d2a.webp",
+      "alt": "Яков Владимирович Кисурин"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/4ed43e05240b69849a2527c0.webp",
+      "alt": "Яков Владимирович Кисурин"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 2 года назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Санкт-Петербург",
+      "links": [
+        {
+          "title": "Санкт-Петербург",
+          "url": "https://cosmatica.org/departments/9-sankt-peterburg.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/2401e0b4d1f7aea01a117d2a.webp",
+    "assets/source/4ed43e05240b69849a2527c0.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 78,
+    "storedTextCharacters": 25,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34049
+  }
+}

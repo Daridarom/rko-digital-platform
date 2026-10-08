@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/37-luganskaja-respublika.html",
+  "title": "Луганская республика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 15",
+        "Состав 2"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель - Максютенко Наталья Сергеевна",
+      "spans": [
+        {
+          "text": "Председатель - Максютенко Наталья Сергеевна"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес: ЛНР, г. Стаханов, ул. Богдана Хмельницкого, 18",
+      "spans": [
+        {
+          "text": " Адрес: ЛНР, г. Стаханов, ул. Богдана Хмельницкого, 18"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Телефон:",
+      "spans": [
+        {
+          "text": " Телефон: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта:",
+      "spans": [
+        {
+          "text": " Электронная почта:"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель - Максютенко Наталья Сергеевна Адрес: ЛНР, г. Стаханов, ул. Богдана Хмельницкого, 18 Телефон: Электронная почта:",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 199,
+    "storedTextCharacters": 149,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 34957
+  }
+}

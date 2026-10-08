@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 2,
+  "slug": "poster",
+  "sourceUrl": "https://cosmatica.org/poster",
+  "title": "Мероприятия",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Грядущие",
+        "Все"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Концерты",
+        "Тематические встречи",
+        "Фестивали",
+        "Конференции",
+        "Собрания",
+        "Выставки",
+        "Лектории",
+        "Событие",
+        "Лагеря",
+        "Конкурсы",
+        "Круглые столы",
+        "Семинары и курсы",
+        "Соревнования"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "8 октября",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/80130a9f80362d7fc12d90a0.webp",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "text": "24 октября",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/009b6ed7318e742b43b70e8c.webp",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "text": "18 мая",
+      "level": 2
+    },
+    {
+      "type": "image",
+      "src": "assets/source/720b3f516fb1c950aef77fde.webp",
+      "alt": ""
+    }
+  ],
+  "cards": [
+    {
+      "title": "Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\" #​Международная научная школа устойчивого развития имени П.Г.Кузнецова",
+      "description": "Конференции Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\" #​Международная научная школа устойчивого развития имени П.Г.Кузнецова 08.10.2026",
+      "url": "https://cosmatica.org/poster/1085-mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-sisteme-priroda-obschestvo-.html",
+      "image": "assets/source/80130a9f80362d7fc12d90a0.webp",
+      "links": [
+        {
+          "title": "Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\"",
+          "url": "https://cosmatica.org/poster/1085-mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-sisteme-priroda-obschestvo-.html"
+        },
+        {
+          "title": "#​Международная научная школа устойчивого развития имени П.Г.Кузнецова",
+          "url": "https://cosmatica.org/projects/267/content/poster"
+        }
+      ]
+    },
+    {
+      "title": "Тропа мужества 2026 - осень #Тропа Мужества",
+      "description": "Событие Тропа мужества 2026 - осень #Тропа Мужества 24.10.2026",
+      "url": "https://cosmatica.org/poster/1087-tropa-muzhestva-2026-osen.html",
+      "image": "assets/source/009b6ed7318e742b43b70e8c.webp",
+      "links": [
+        {
+          "title": "Тропа мужества 2026 - осень",
+          "url": "https://cosmatica.org/poster/1087-tropa-muzhestva-2026-osen.html"
+        },
+        {
+          "title": "#Тропа Мужества",
+          "url": "https://cosmatica.org/projects/tropa-muzhestva/content/poster"
+        }
+      ]
+    },
+    {
+      "title": "Триединство космического прорыва",
+      "description": "Конференции Триединство космического прорыва 18.05.2027",
+      "url": "https://cosmatica.org/poster/1080-triedinstvo-kosmicheskogo-proryva.html",
+      "image": "assets/source/720b3f516fb1c950aef77fde.webp",
+      "links": [
+        {
+          "title": "Триединство космического прорыва",
+          "url": "https://cosmatica.org/poster/1080-triedinstvo-kosmicheskogo-proryva.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "assets/source/80130a9f80362d7fc12d90a0.webp",
+    "assets/source/009b6ed7318e742b43b70e8c.webp",
+    "assets/source/720b3f516fb1c950aef77fde.webp"
+  ],
+  "documents": [],
+  "categories": [
+    "Грядущие",
+    "Все",
+    "Концерты",
+    "Тематические встречи",
+    "Фестивали",
+    "Конференции",
+    "Собрания",
+    "Выставки",
+    "Лектории",
+    "Событие",
+    "Лагеря",
+    "Конкурсы",
+    "Круглые столы",
+    "Семинары и курсы",
+    "Соревнования"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 510,
+    "storedTextCharacters": 170,
+    "sourceCardCount": 3,
+    "sourceImageCount": 3,
+    "paragraphCount": 0,
+    "sourceBytes": 56335
+  }
+}

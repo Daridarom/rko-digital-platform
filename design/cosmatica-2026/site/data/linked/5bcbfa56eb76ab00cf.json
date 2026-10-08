@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "slug": "partner",
+  "sourceUrl": "https://cosmatica.org/partners/7-sekcija-istorii-aviacii-i-kosmonavtiki-spbf-iiet-ran.html",
+  "title": "Секция истории авиации и космонавтики СПбФ ИИЕТ РАН",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/fd8520e7d29c22d5ab523350.webp",
+      "alt": "Секция истории авиации и космонавтики СПбФ ИИЕТ РАН"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "История Санкт-Петербургской (Ленинградской) секции «История авиации и космонавтики» и становления исследований в области аэрокосмической науки и техники в городе на Неве Изучение истории науки в Санкт-Петербурге началось сразу, в первые годы деятельности Академии наук (АН). В 1728 г. был создан Архив Конференции Академии наук. Крупнейшие учёные, руководители АН рассматривали изучение истории науки как одно из важнейших условий сохранения преемственности в научном творчестве. www.ivak.spb.ru",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/fd8520e7d29c22d5ab523350.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 547,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 33327
+  }
+}

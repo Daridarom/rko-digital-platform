@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/40-tomskaja-oblast.html",
+  "title": "Томская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Мероприятия 2",
+        "Состав 8"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель: Вылегжанина Виктория Владимировна",
+      "spans": [
+        {
+          "text": "Председатель: Вылегжанина Виктория Владимировна"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес:",
+      "spans": [
+        {
+          "text": "Адрес:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Телефон:",
+      "spans": [
+        {
+          "text": "Телефон: "
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель: Вылегжанина Виктория Владимировна Адрес: Телефон: Томское отделение РКО ВКонтакте: https://vk.com/kosmonoosfera Деятельность отделения в 2025 г.: https://vk.com/@kosmonoosfera-sibirskoe-rko-otkryt... Проект Томского отделения РКО: Сибирская Эко-Ноосферная Школа от Алтае-Сибирского Эко-Ноосферного Центра Исследований (АСЭНЦИ) \"Меркурий Сибирский\". Структура и территориальные представительства Эко-Ноосферной школы: 1. Томск и Томская область: Северск, Колпашево, Барабинка. 2. Новосибирск и Новосибирская область - Краснообск. 3. Алтайский Край: Никольское, Гальбштадт, Барнаул. 4. Республика Алтай - Солонешенское. 5. Республика Саха (Якутия) - Якутск. 6. Республика Карелия - Петрозаводск.",
+      "links": [
+        {
+          "title": "https://vk.com/kosmonoosfera",
+          "url": "https://vk.com/kosmonoosfera"
+        },
+        {
+          "title": "https://vk.com/@kosmonoosfera-sibirskoe-rko-otkryt...",
+          "url": "https://vk.com/@kosmonoosfera-sibirskoe-rko-otkrytie-tomskogo-otdeleniya"
+        },
+        {
+          "title": "Проект",
+          "url": "https://cosmatica.org/glossary/73-proekt.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 756,
+    "storedTextCharacters": 91,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 34516
+  }
+}

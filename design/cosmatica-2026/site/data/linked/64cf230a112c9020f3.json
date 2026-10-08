@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/2-pskovskaja-oblast.html",
+  "title": "Псковская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 19",
+        "Материалы 4",
+        "Мероприятия 5",
+        "Состав 5"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель отделения - Колпаков Владимир Юрьевич",
+      "spans": [
+        {
+          "text": "\r\n\tПредседатель отделения"
+        },
+        {
+          "text": " - ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "Колпаков Владимир Юрьевич",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/users/143"
+        },
+        {
+          "text": " ",
+          "marks": [
+            "bold"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Колпаков Владимир Юрьевич",
+          "url": "https://cosmatica.org/users/143"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес: 180016 г. Псков, ул. Коммунальная, д. 19 (здание ДОСААФ), каб. 204, 210, 213 (2 этаж)",
+      "spans": [
+        {
+          "text": "\r\n\tАдрес: 180016 г. Псков, ул. Коммунальная, д. 19 (здание ДОСААФ), каб. 204, 210, 213 (2 этаж)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта: info-pskov@cosmatica.org",
+      "spans": [
+        {
+          "text": "\r\n\tЭлектронная почта: info-pskov@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель отделения - Колпаков Владимир Юрьевич Адрес: 180016 г. Псков, ул. Коммунальная, д. 19 (здание ДОСААФ), каб. 204, 210, 213 (2 этаж) Электронная почта: info-pskov@cosmatica.org",
+      "links": [
+        {
+          "title": "Колпаков Владимир Юрьевич",
+          "url": "https://cosmatica.org/users/143"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 284,
+    "storedTextCharacters": 236,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 36200
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "slug": "login",
+  "sourceUrl": "https://cosmatica.org/auth/login",
+  "title": "Представьтесь, пожалуйста",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          ""
+        ]
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 157,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32672
+  }
+}

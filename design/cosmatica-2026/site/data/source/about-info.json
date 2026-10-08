@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "slug": "about-info",
+  "sourceUrl": "https://cosmatica.org/about/informacija",
+  "title": "Информация",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "​Школа Русского Космизма как мировоззренческая основа Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Стратегия становления – наше Общее Дело",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "​Русское Космическое Общество в вопросах и ответах команды инициаторов его создания",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "КОСМАТИКА",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Направления деятельности Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Зачем создано Русское Космическое Общество?",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Устои Русского Космического Общества",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Историческая справка о духовных и материальных корнях Русского Космического Общества",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 519,
+    "storedTextCharacters": 433,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 40153
+  }
+}

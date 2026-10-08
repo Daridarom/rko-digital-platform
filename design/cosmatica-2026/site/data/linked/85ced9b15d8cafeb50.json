@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/sekcija-sohranenija-biosfernogo-raznoobrazija",
+  "title": "Секция сохранения биосферного разнообразия",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "В данном разделе размещены статьи и видеоматериалы секции Сохранения биосферного разнообразия Экологического совета РКО",
+      "spans": [
+        {
+          "text": "В данном разделе размещены статьи и видеоматериалы секции "
+        },
+        {
+          "text": "Сохранения биосферного разнообразия",
+          "href": "https://cosmatica.org/section/8-sekcija-sohranenija-biosfernogo-raznoobrazija.html"
+        },
+        {
+          "text": " Экологического совета РКО"
+        }
+      ],
+      "links": [
+        {
+          "text": "Сохранения биосферного разнообразия",
+          "url": "https://cosmatica.org/section/8-sekcija-sohranenija-biosfernogo-raznoobrazija.html"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Семена свободы #Банк семян",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Удивительные грибы. 2 серия. #Структура жизни",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Мудрость пчёл #Структура жизни",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Пермакультура Богини Земли #Структура жизни",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Из пустыни в оазис! #Структура жизни",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Удивительные грибы. 2 серия.",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Удивительные грибы 1 серия #Структура жизни",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Проект ПчелоВек #Структура жизни",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 986,
+    "storedTextCharacters": 402,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 85696
+  }
+}

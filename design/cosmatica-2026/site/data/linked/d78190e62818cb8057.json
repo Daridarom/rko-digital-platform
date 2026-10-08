@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/polezno-znat",
+  "title": "Полезно знать",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "В этой категории размещены материалы не относящиеся к деятельности РКО, но полезные и достойные, по нашему мнению, изучения.",
+      "spans": [
+        {
+          "text": "В этой категории размещены материалы не относящиеся к деятельности РКО, но полезные и достойные, по нашему мнению, изучения."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Познавательная настольная игра \"Только вперед!\" #Курс Звёздной гармонии",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 261,
+    "storedTextCharacters": 195,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 74610
+  }
+}

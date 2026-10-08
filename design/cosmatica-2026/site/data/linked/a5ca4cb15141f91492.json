@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/540-rynok-kak-mehanizm-gibeli-cheloveka-i-prirody-na-zemle-v-xxi-veke.html",
+  "title": "Рынок как механизм гибели человека и природы на Земле в XXI веке",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/fb8a32154440d621d990efbf.webp",
+      "alt": "Рынок как механизм гибели человека и природы на Земле в XXI веке"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Субетто А.И.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/5822/99a2dc25cce0e26d0e0a5f1705ffe353"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/fb8a32154440d621d990efbf.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/5822/99a2dc25cce0e26d0e0a5f1705ffe353",
+      "localUrl": "assets/source/576c542cb9ea3dbee2fec860.pdf"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 103,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39393
+  }
+}

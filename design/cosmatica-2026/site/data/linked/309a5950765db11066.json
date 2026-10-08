@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/30-predstavitelstvo-v-latvii.html",
+  "title": "Представительство в Латвии",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Состав 1"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Руководитель Представительства: Линёв Глеб Михайлович",
+      "spans": [
+        {
+          "text": "Руководитель Представительства: "
+        },
+        {
+          "text": "Линёв Глеб Михайлович",
+          "href": "https://cosmatica.org/users/365"
+        }
+      ],
+      "links": [
+        {
+          "text": "Линёв Глеб Михайлович",
+          "url": "https://cosmatica.org/users/365"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Руководитель Представительства: Линёв Глеб Михайлович",
+      "links": [
+        {
+          "title": "Линёв Глеб Михайлович",
+          "url": "https://cosmatica.org/users/365"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 99,
+    "storedTextCharacters": 70,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 32430
+  }
+}

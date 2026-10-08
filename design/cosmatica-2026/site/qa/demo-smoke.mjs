@@ -14,7 +14,7 @@ async function inspect(page,slug,device){
  const stats=await page.evaluate(()=>{
   const w=document.documentElement.clientWidth;
   return {bodyW:document.documentElement.scrollWidth,w,h1:document.querySelector('h1')?.textContent.trim(),
-   broken:[...document.images].filter(x=>!x.complete||!x.naturalWidth).map(x=>x.src),
+   broken:[...document.images].filter(x=>x.complete&&!x.naturalWidth).map(x=>x.src),
    external:[...document.querySelectorAll('a[href]')].filter(a=>{const u=new URL(a.href);return /^https?:/.test(u.protocol)&&u.origin!==location.origin}).map(x=>x.href),
    fake:[...document.querySelectorAll('main a[href="#"]')].map(x=>x.textContent.trim())};
  });

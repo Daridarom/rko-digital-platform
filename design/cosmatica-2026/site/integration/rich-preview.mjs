@@ -11,7 +11,7 @@ if(['article','poster-item','project'].includes(kind) && query.get('layout')==='
  const content=window.COSMATICA_CONTENT||{};
  const catalog=window.COSMATICA_MIGRATED_PAGES||{};
  const title=window.COSMATICA_ROUTES?.find(x=>x.slug===kind)?.title||'';
- const normalized=catalog[kind] || fallback(kind,content,title,query);
+ const normalized=catalog[kind] || await fullRecord(kind,query,content) || fallback(kind,content,title,query);
  const root=document.querySelector('#main');
  if(root && normalized){
   const shell=document.createElement('section');
@@ -43,6 +43,50 @@ if(['article','poster-item','project'].includes(kind) && query.get('layout')==='
   document.title=normalized.title+' — Русское космическое общество';
  }
 }
+
+async function fullRecord(type,query,content){
+ let path='source/'+type+'.json';
+ const ref=query.get('ref');
+ if(ref&&/^[a-f0-9]{18}$/.test(ref))path='linked/'+ref+'.json';
+ else if(type==='project'&&(query.get('id')||'gagarincy')!=='gagarincy'){
+  const id=query.get('id');
+  const item=content.project?.variants?.[id];
+  if(!item?.sourceUrl)return null;
+  try{
+   const r=await fetch('data/linked-index.json');
+   if(!r.ok)return null;
+   const map=await r.json(),node=map[item.sourceUrl];
+   if(!node||node.status!=='ready')return null;
+   path=node.alias?node.file:'linked/'+node.file;
+  }catch{return null;}
+ }
+ try{
+  const r=await fetch('data/'+path,{cache:'no-cache'});
+  if(!r.ok)return null;
+  const data=await r.json();
+  if(!Array.isArray(data.blocks))return null;
+  data.blocks=data.blocks.filter(b=>b.type!=='image'||(typeof b.src==='string'&&b.src.startsWith('assets/source/')));
+  if(type==='article')return data;
+  if(type==='poster-item'){
+   const info=content['poster-item']||{};
+   const fact=label=>info.facts?.find(x=>x.label===label)?.value||'';
+   return {...data,startsAt:fact('Даты'),venue:fact('Место'),format:fact('Формат'),program:[],
+    files:(data.documents||[]).map(x=>({name:x.label,format:x.type||''}))};
+  }
+  if(type==='project'){
+   const id=query.get('id')||'gagarincy';
+   const item=content.project?.variants?.[id]||{};
+   const goal=item.fundraising?.target,valid=Number.isFinite(goal)&&goal>0;
+   return {...data,status:item.status||'Проект РКО',direction:item.direction||'',
+    mission:item.mission||'',goals:item.goal?[item.goal]:[],
+    files:(data.documents||[]).map(x=>({name:x.label,format:x.type||''})),
+    fundraising:{mode:item.fundraising?.enabled?(valid?'active':'not_configured'):'none',
+      target:valid?goal:null,raised:item.fundraising?.raised||null}};
+  }
+  return data;
+ }catch{return null;}
+}
+
 function fallback(type,all,title,query){
  const blocks=rows=>(rows||[]).flatMap(row=>[
   {type:'heading',level:2,text:row.title},

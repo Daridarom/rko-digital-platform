@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "slug": "calendar",
+  "sourceUrl": "https://cosmatica.org/poster/calendar",
+  "title": "Календарь",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "октябрь, 2026",
+        "ноябрь, 2026",
+        "декабрь, 2026",
+        "январь, 2027",
+        "февраль, 2027",
+        "март, 2027"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "четверг 1 октября",
+        "четверг 8 октября",
+        "суббота 24 октября"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/source/4a36fb3c1e866406713ac1f1.webp",
+      "alt": "Международная конференция по управлению устойчивым развитием в системе \"природа-общество-человек\""
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "assets/source/4a36fb3c1e866406713ac1f1.webp"
+  ],
+  "documents": [],
+  "categories": [
+    "октябрь, 2026",
+    "ноябрь, 2026",
+    "декабрь, 2026",
+    "январь, 2027",
+    "февраль, 2027",
+    "март, 2027",
+    "четверг 1 октября",
+    "четверг 8 октября",
+    "суббота 24 октября"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 352,
+    "storedTextCharacters": 125,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 47312
+  }
+}

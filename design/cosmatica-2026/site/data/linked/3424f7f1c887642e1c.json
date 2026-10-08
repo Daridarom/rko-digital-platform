@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/13-nizhegorodskaja-oblast.html",
+  "title": "Нижегородская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 8",
+        "Материалы 1",
+        "Мероприятия 6",
+        "Состав 1"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель отделения - Травкин Николай Васильевич",
+      "spans": [
+        {
+          "text": "Председатель отделения - ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "Травкин Николай Васильевич",
+          "marks": [
+            "bold"
+          ],
+          "href": "https://cosmatica.org/users/207"
+        }
+      ],
+      "links": [
+        {
+          "text": "Травкин Николай Васильевич",
+          "url": "https://cosmatica.org/users/207"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес:",
+      "spans": [
+        {
+          "text": "Адрес: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта: info-nn@cosmatica.org",
+      "spans": [
+        {
+          "text": "Электронная почта: "
+        },
+        {
+          "text": "info-nn@cosmatica.org",
+          "marks": [
+            "bold"
+          ]
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель отделения - Травкин Николай Васильевич Адрес: Электронная почта: info-nn@cosmatica.org",
+      "links": [
+        {
+          "title": "Травкин Николай Васильевич",
+          "url": "https://cosmatica.org/users/207"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 199,
+    "storedTextCharacters": 147,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 35951
+  }
+}

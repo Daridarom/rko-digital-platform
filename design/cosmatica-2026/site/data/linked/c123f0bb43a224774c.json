@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "slug": "partner",
+  "sourceUrl": "https://cosmatica.org/partners/12-zhivoi-kosmos.html",
+  "title": "Живой космос",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/d6795d14f312df14ae4bf58c.webp",
+      "alt": "Живой космос"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Целью проекта является популяризация исследований, связанных с темами астробиологии, появления жизни на Земле и экспансии человечества в глубины древнего Космоса. https://alivespace.ru",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/d6795d14f312df14ae4bf58c.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 197,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 32149
+  }
+}

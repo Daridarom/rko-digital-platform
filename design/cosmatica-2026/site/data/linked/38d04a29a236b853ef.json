@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/4-sverdlovskaja-oblast.html",
+  "title": "Свердловская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 12",
+        "Материалы 1",
+        "Мероприятия 5",
+        "Состав 3"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель отделения — Берг Дмитрий Борисович, профессор, доктор физико-математических наук.",
+      "spans": [
+        {
+          "text": "Председатель отделения — Берг Дмитрий Борисович, профессор, доктор физико-математических наук. ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель отделения — Берг Дмитрий Борисович, профессор, доктор физико-математических наук. Адрес: Свердловская обл., г. Екатеринбург Электронная почта: info-svrd@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 279,
+    "storedTextCharacters": 145,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 36173
+  }
+}

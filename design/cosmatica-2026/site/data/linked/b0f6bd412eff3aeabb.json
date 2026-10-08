@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/19-volgogradskaja-oblast.html",
+  "title": "Волгоградская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 12",
+        "Материалы 1",
+        "Мероприятия 4",
+        "Состав 7"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Открытие отделения состоялось 26 июля 2019г.",
+      "spans": [
+        {
+          "text": "Открытие отделения состоялось 26 июля 2019г."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель отделения - Баркова Элеонора Владиленовна",
+      "spans": [
+        {
+          "text": "Председатель отделения  - Баркова Элеонора Владиленовна"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Эл. почта: info-vlgg@cosmatica.org",
+      "spans": [
+        {
+          "text": "Эл. почта: info-vlgg@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Открытие отделения состоялось 26 июля 2019г. Председатель отделения - Баркова Элеонора Владиленовна Эл. почта: info-vlgg@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 212,
+    "storedTextCharacters": 183,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 34199
+  }
+}

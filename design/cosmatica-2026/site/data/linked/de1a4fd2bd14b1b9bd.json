@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/395",
+  "title": "Ксения Владимировна Ермолова",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/b81b28875fee12d8407f9c19.webp",
+      "alt": "Ксения Владимировна Ермолова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 3"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/source/6749d3b9b6bac251d42b03d1.webp",
+      "alt": "Ксения Владимировна Ермолова"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 1"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/b81b28875fee12d8407f9c19.webp",
+    "assets/source/6749d3b9b6bac251d42b03d1.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 101,
+    "storedTextCharacters": 51,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35518
+  }
+}

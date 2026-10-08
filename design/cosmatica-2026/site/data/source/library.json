@@ -1,0 +1,385 @@
+{
+  "schemaVersion": 2,
+  "slug": "library",
+  "sourceUrl": "https://cosmatica.org/library",
+  "title": "Библиотека",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Название",
+          "",
+          "Автор",
+          ""
+        ],
+        [
+          "",
+          "Новая парадигма теории, истории и будущего мира цивилизаций",
+          "Яковец Ю.В.",
+          ""
+        ],
+        [
+          "",
+          "Экофилософия - развитию культуры и мира",
+          "Баркова Э.В.",
+          ""
+        ],
+        [
+          "",
+          "The Book of Life",
+          "Gaponov A.A., Zotov.S.A.",
+          ""
+        ],
+        [
+          "",
+          "Ноосферный разум как разум, научно-управляющий социо-биосферной эволюцией",
+          "Субетто А.И.",
+          ""
+        ],
+        [
+          "",
+          "Покер с Богом",
+          "Майя Сиволобова",
+          ""
+        ],
+        [
+          "",
+          "Кто первый",
+          "Андрей Гореликов",
+          ""
+        ],
+        [
+          "",
+          "День, когда меня внесли в протокол",
+          "Давид Гадималиев",
+          ""
+        ],
+        [
+          "",
+          "Доктрина Победы",
+          "Разумные от Русского народа",
+          ""
+        ],
+        [
+          "",
+          "Русский Воин Будущего",
+          "Разумные от Русского народа",
+          ""
+        ],
+        [
+          "",
+          "Преступник не найден",
+          "Олег Лаврентьев",
+          ""
+        ],
+        [
+          "",
+          "Весёлый водный мир",
+          "Андрей Мансуров",
+          ""
+        ],
+        [
+          "",
+          "Время Энджи",
+          "Алексей Жарков",
+          ""
+        ],
+        [
+          "",
+          "Путь в ноосферу",
+          "Протопопов А.И.",
+          ""
+        ],
+        [
+          "",
+          "Чистый Мир. Интуитивно-научный взгляд",
+          "Тимошенко Леонид Викторович",
+          ""
+        ],
+        [
+          "",
+          "Рынок как механизм гибели человека и природы на Земле в XXI веке",
+          "Субетто А.И.",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/source/8eb695955559b6495f6d1610.webp",
+      "alt": "Новая парадигма теории, истории и будущего мира цивилизаций"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/fb7c0370ab3511c7e1212dd7.webp",
+      "alt": "Экофилософия - развитию культуры и мира"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/451049d343783a79813b5cbf.webp",
+      "alt": "The Book of Life"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/9513641202cc666646aa8d67.webp",
+      "alt": "Ноосферный разум как разум, научно-управляющий социо-биосферной эволюцией"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/ddfcd415a0da949136ee5c4a.webp",
+      "alt": "Покер с Богом"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/d6a4ce79d685e24e47a923d4.webp",
+      "alt": "Кто первый"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/55fc1a002dde3026e4135ced.webp",
+      "alt": "День, когда меня внесли в протокол"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/451d108299cdd5068b0dbd8a.webp",
+      "alt": "Доктрина Победы"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/d73af33f3d2d0d84f283ed8c.webp",
+      "alt": "Русский Воин Будущего"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/4298f4f5b32df5e4691b2129.webp",
+      "alt": "Преступник не найден"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/c1a21fb780d800dede2ad78c.webp",
+      "alt": "Весёлый водный мир"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/c872d03f8a99856ea4bf2e3d.webp",
+      "alt": "Время Энджи"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/1f9d272716c809438ae9260b.webp",
+      "alt": "Рынок как механизм гибели человека и природы на Земле в XXI веке"
+    }
+  ],
+  "cards": [
+    {
+      "title": "Новая парадигма теории, истории и будущего мира цивилизаций",
+      "description": "Новая парадигма теории, истории и будущего мира цивилизаций Яковец Ю.В.",
+      "url": "https://cosmatica.org/library/556-novaja-paradigma-teorii-istorii-i-buduschego-mira-civilizacii.html",
+      "image": "assets/source/8eb695955559b6495f6d1610.webp",
+      "links": [
+        {
+          "title": "Новая парадигма теории, истории и будущего мира цивилизаций",
+          "url": "https://cosmatica.org/library/556-novaja-paradigma-teorii-istorii-i-buduschego-mira-civilizacii.html"
+        }
+      ]
+    },
+    {
+      "title": "Экофилософия - развитию культуры и мира",
+      "description": "Экофилософия - развитию культуры и мира Баркова Э.В.",
+      "url": "https://cosmatica.org/library/555-ekofilosofija-razvitiyu-kultury-i-mira.html",
+      "image": "assets/source/fb7c0370ab3511c7e1212dd7.webp",
+      "links": [
+        {
+          "title": "Экофилософия - развитию культуры и мира",
+          "url": "https://cosmatica.org/library/555-ekofilosofija-razvitiyu-kultury-i-mira.html"
+        }
+      ]
+    },
+    {
+      "title": "The Book of Life",
+      "description": "The Book of Life Gaponov A.A., Zotov.S.A.",
+      "url": "https://cosmatica.org/library/554-the-book-of-life.html",
+      "image": "assets/source/451049d343783a79813b5cbf.webp",
+      "links": [
+        {
+          "title": "The Book of Life",
+          "url": "https://cosmatica.org/library/554-the-book-of-life.html"
+        }
+      ]
+    },
+    {
+      "title": "Ноосферный разум как разум, научно-управляющий социо-биосферной эволюцией",
+      "description": "Ноосферный разум как разум, научно-управляющий социо-биосферной эволюцией Субетто А.И.",
+      "url": "https://cosmatica.org/library/553-noosfernyi-razum-kak-razum-nauchno-upravljayuschii-socio-biosfernoi-evolyuciei.html",
+      "image": "assets/source/9513641202cc666646aa8d67.webp",
+      "links": [
+        {
+          "title": "Ноосферный разум как разум, научно-управляющий социо-биосферной эволюцией",
+          "url": "https://cosmatica.org/library/553-noosfernyi-razum-kak-razum-nauchno-upravljayuschii-socio-biosfernoi-evolyuciei.html"
+        }
+      ]
+    },
+    {
+      "title": "Покер с Богом",
+      "description": "Покер с Богом Майя Сиволобова",
+      "url": "https://cosmatica.org/library/552-poker-s-bogom.html",
+      "image": "assets/source/ddfcd415a0da949136ee5c4a.webp",
+      "links": [
+        {
+          "title": "Покер с Богом",
+          "url": "https://cosmatica.org/library/552-poker-s-bogom.html"
+        }
+      ]
+    },
+    {
+      "title": "Кто первый",
+      "description": "Кто первый Андрей Гореликов",
+      "url": "https://cosmatica.org/library/551-kto-pervyi.html",
+      "image": "assets/source/d6a4ce79d685e24e47a923d4.webp",
+      "links": [
+        {
+          "title": "Кто первый",
+          "url": "https://cosmatica.org/library/551-kto-pervyi.html"
+        }
+      ]
+    },
+    {
+      "title": "День, когда меня внесли в протокол",
+      "description": "День, когда меня внесли в протокол Давид Гадималиев",
+      "url": "https://cosmatica.org/library/550-den-kogda-menja-vnesli-v-protokol.html",
+      "image": "assets/source/55fc1a002dde3026e4135ced.webp",
+      "links": [
+        {
+          "title": "День, когда меня внесли в протокол",
+          "url": "https://cosmatica.org/library/550-den-kogda-menja-vnesli-v-protokol.html"
+        }
+      ]
+    },
+    {
+      "title": "Доктрина Победы",
+      "description": "Доктрина Победы Разумные от Русского народа",
+      "url": "https://cosmatica.org/library/549-doktrina-pobedy.html",
+      "image": "assets/source/451d108299cdd5068b0dbd8a.webp",
+      "links": [
+        {
+          "title": "Доктрина Победы",
+          "url": "https://cosmatica.org/library/549-doktrina-pobedy.html"
+        }
+      ]
+    },
+    {
+      "title": "Русский Воин Будущего",
+      "description": "Русский Воин Будущего Разумные от Русского народа",
+      "url": "https://cosmatica.org/library/548-russkii-voin-buduschego.html",
+      "image": "assets/source/d73af33f3d2d0d84f283ed8c.webp",
+      "links": [
+        {
+          "title": "Русский Воин Будущего",
+          "url": "https://cosmatica.org/library/548-russkii-voin-buduschego.html"
+        }
+      ]
+    },
+    {
+      "title": "Преступник не найден",
+      "description": "Преступник не найден Олег Лаврентьев",
+      "url": "https://cosmatica.org/library/547-prestupnik-ne-naiden.html",
+      "image": "assets/source/4298f4f5b32df5e4691b2129.webp",
+      "links": [
+        {
+          "title": "Преступник не найден",
+          "url": "https://cosmatica.org/library/547-prestupnik-ne-naiden.html"
+        }
+      ]
+    },
+    {
+      "title": "Весёлый водный мир",
+      "description": "Весёлый водный мир Андрей Мансуров",
+      "url": "https://cosmatica.org/library/546-vesyolyi-vodnyi-mir.html",
+      "image": "assets/source/c1a21fb780d800dede2ad78c.webp",
+      "links": [
+        {
+          "title": "Весёлый водный мир",
+          "url": "https://cosmatica.org/library/546-vesyolyi-vodnyi-mir.html"
+        }
+      ]
+    },
+    {
+      "title": "Время Энджи",
+      "description": "Время Энджи Алексей Жарков",
+      "url": "https://cosmatica.org/library/545-vremja-endzhi.html",
+      "image": "assets/source/c872d03f8a99856ea4bf2e3d.webp",
+      "links": [
+        {
+          "title": "Время Энджи",
+          "url": "https://cosmatica.org/library/545-vremja-endzhi.html"
+        }
+      ]
+    },
+    {
+      "title": "Путь в ноосферу",
+      "description": "Путь в ноосферу Протопопов А.И.",
+      "url": "https://cosmatica.org/library/544-put-v-noosferu.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Путь в ноосферу",
+          "url": "https://cosmatica.org/library/544-put-v-noosferu.html"
+        }
+      ]
+    },
+    {
+      "title": "Чистый Мир. Интуитивно-научный взгляд",
+      "description": "Чистый Мир. Интуитивно-научный взгляд Тимошенко Леонид Викторович",
+      "url": "https://cosmatica.org/library/542-chistyi-mir-intuitivno-nauchnyi-vzgljad.html",
+      "image": null,
+      "links": [
+        {
+          "title": "Чистый Мир. Интуитивно-научный взгляд",
+          "url": "https://cosmatica.org/library/542-chistyi-mir-intuitivno-nauchnyi-vzgljad.html"
+        }
+      ]
+    },
+    {
+      "title": "Рынок как механизм гибели человека и природы на Земле в XXI веке",
+      "description": "Рынок как механизм гибели человека и природы на Земле в XXI веке Субетто А.И.",
+      "url": "https://cosmatica.org/library/540-rynok-kak-mehanizm-gibeli-cheloveka-i-prirody-na-zemle-v-xxi-veke.html",
+      "image": "assets/source/1f9d272716c809438ae9260b.webp",
+      "links": [
+        {
+          "title": "Рынок как механизм гибели человека и природы на Земле в XXI веке",
+          "url": "https://cosmatica.org/library/540-rynok-kak-mehanizm-gibeli-cheloveka-i-prirody-na-zemle-v-xxi-veke.html"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "assets/source/8eb695955559b6495f6d1610.webp",
+    "assets/source/fb7c0370ab3511c7e1212dd7.webp",
+    "assets/source/451049d343783a79813b5cbf.webp",
+    "assets/source/9513641202cc666646aa8d67.webp",
+    "assets/source/ddfcd415a0da949136ee5c4a.webp",
+    "assets/source/d6a4ce79d685e24e47a923d4.webp",
+    "assets/source/55fc1a002dde3026e4135ced.webp",
+    "assets/source/451d108299cdd5068b0dbd8a.webp",
+    "assets/source/d73af33f3d2d0d84f283ed8c.webp",
+    "assets/source/4298f4f5b32df5e4691b2129.webp",
+    "assets/source/c1a21fb780d800dede2ad78c.webp",
+    "assets/source/c872d03f8a99856ea4bf2e3d.webp",
+    "assets/source/1f9d272716c809438ae9260b.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 818,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 15,
+    "sourceImageCount": 13,
+    "paragraphCount": 0,
+    "sourceBytes": 61119
+  }
+}

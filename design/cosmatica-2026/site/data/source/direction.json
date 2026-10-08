@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "slug": "direction",
+  "sourceUrl": "https://cosmatica.org/direction",
+  "title": "Органы управления",
+  "intro": "",
+  "blocks": [],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 17,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 63281
+  }
+}

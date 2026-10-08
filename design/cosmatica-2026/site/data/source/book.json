@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/498-filosofskie-voprosy-sovremennogo-estestvoznanija-sinergetiki-i-ustoichivogo-razvitija.html",
+  "title": "Философские вопросы современного естествознания, синергетики и устойчивого развития",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/3f86626b93adcd25604e5172.webp",
+      "alt": "Философские вопросы современного естествознания, синергетики и устойчивого развития"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Кузнецов О.Л., Шамаева Е.Ф.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "В краткой и доступной для широкой аудитории форме на философском уровне изложены фрагменты эволюции геосфер, биосферы и социосферы. Показана применимость различных междисциплинарных языков и принципов к исследованию и описанию динамики социоприродных систем. Проанализированы пути реализации стратегий устойчивого развития.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 3 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/4585/3cff2303bb9b06b441ed6cf1c5e75e71"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/3f86626b93adcd25604e5172.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/4585/3cff2303bb9b06b441ed6cf1c5e75e71",
+      "localUrl": "assets/source/b06b196d588b8e0c58db210f.pdf"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 461,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40670
+  }
+}

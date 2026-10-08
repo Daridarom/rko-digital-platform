@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "slug": "search",
+  "sourceUrl": "https://cosmatica.org/search?q=%D0%A0%D0%9A%D0%9E&type=words&date=all&submit=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8",
+  "title": "Поиск",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Страницы 2",
+        "Материалы 599",
+        "Новости 1231",
+        "Архив газеты 2",
+        "Библиотека 8",
+        "Мероприятия 107",
+        "Секции 7",
+        "Отделения 3",
+        "Проекты 5"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "О вступлении в ряды РКО",
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "Первый Отряд Русского Космического Общества",
+      "level": 3
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 824,
+    "storedTextCharacters": 170,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 38145
+  }
+}

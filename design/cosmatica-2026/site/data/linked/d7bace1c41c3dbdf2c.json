@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "slug": "partner",
+  "sourceUrl": "https://cosmatica.org/partners/14-federalnyi-narodnyi-sovet.html",
+  "title": "Федеральный народный совет",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/19db4f9a49f452a1dd21d943.webp",
+      "alt": "Федеральный народный совет"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Федеральный народный совет — это институт гражданского соборного общества, который стремится к созданию и развитию гармоничного и крепкого государства и здорового человека. https://fednarsovet.ru",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/19db4f9a49f452a1dd21d943.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 222,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 32316
+  }
+}

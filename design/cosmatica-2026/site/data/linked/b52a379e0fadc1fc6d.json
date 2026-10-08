@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/8-novosibirskaja-oblast.html",
+  "title": "Новосибирская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 25",
+        "Материалы 15",
+        "Мероприятия 5",
+        "Состав 12"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель отделения - Димов Александр Михайлович",
+      "spans": [
+        {
+          "text": "\r\nПредседатель отделения - "
+        },
+        {
+          "text": "Димов Александр Михайлович ",
+          "href": "https://cosmatica.org/users/122"
+        }
+      ],
+      "links": [
+        {
+          "text": "Димов Александр Михайлович",
+          "url": "https://cosmatica.org/users/122"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес:",
+      "spans": [
+        {
+          "text": "\r\nАдрес: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта: info-nsk@cosmatica.org",
+      "spans": [
+        {
+          "text": "\r\nЭлектронная почта: info-nsk@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель отделения - Димов Александр Михайлович Адрес: Электронная почта: info-nsk@cosmatica.org",
+      "links": [
+        {
+          "title": "Димов Александр Михайлович",
+          "url": "https://cosmatica.org/users/122"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 203,
+    "storedTextCharacters": 151,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 36013
+  }
+}

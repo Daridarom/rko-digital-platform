@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/16-predstavitelstvo-v-belarusi.html",
+  "title": "Представительство в Беларуси",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 11",
+        "Материалы 2",
+        "Мероприятия 3",
+        "Состав 4"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Представительство в Республике Беларусь создано 16 марта 2019г.",
+      "spans": [
+        {
+          "text": "Представительство в Республике Беларусь создано 16 марта 2019г."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель: Никитенко Пётр Григорьевич, советник НАН Беларуси, доктор экономических наук, академик РАЕН и Национальной Академии Наук Беларуси",
+      "spans": [
+        {
+          "text": "Председатель: "
+        },
+        {
+          "text": "Никитенко Пётр Григорьевич, ",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "советник НАН Беларуси, доктор экономических наук, академик РАЕН  и  Национальной Академии Наук Беларуси"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес: на согласовании",
+      "spans": [
+        {
+          "text": "Адрес: на согласовании"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Эл.почта: info-blr@cosmatica.org",
+      "spans": [
+        {
+          "text": "Эл.почта: info-blr@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Представительство в Республике Беларусь создано 16 марта 2019г. Председатель: Никитенко Пётр Григорьевич, советник НАН Беларуси, доктор экономических наук, академик РАЕН и Национальной Академии Наук Беларуси Адрес: на согласовании Эл.почта: info-blr@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 348,
+    "storedTextCharacters": 311,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 34844
+  }
+}

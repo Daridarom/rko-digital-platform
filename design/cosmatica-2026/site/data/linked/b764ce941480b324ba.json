@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/46",
+  "title": "Андрей Аркадьевич Головин",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/f1dc63ccfb3f86bb28fbb31e.webp",
+      "alt": "Андрей Аркадьевич Головин"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 10"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/source/43a891cd8fc02e8da4d5354a.webp",
+      "alt": "Андрей Аркадьевич Головин"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 6"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Ревизор Русского Космического Общества. Исполнительный директор Автономной некоммерческой организации «Центр межрегиональных программ и проектов». Руководитель Союза некоммерческих организаций в сфере профилактики и охраны здоровья «Евразийская ассоциация здоровья». Опыт общественной деятельности составляет 10 лет. Организатор более 20 социальных проектов различной направленности (ЗОЖ, профилактика вредных привычек, защита исторической памяти, помощь людям с ограниченными возможностями здоровья, интеллектуальное добровольчество в сфере межнационального и межрелигиозного согласия, агрегация НКО в сфере защиты традиционных ценностей и др.), часть из которых переросла в отдельные некоммерческие организации.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/f1dc63ccfb3f86bb28fbb31e.webp",
+    "assets/source/43a891cd8fc02e8da4d5354a.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 823,
+    "storedTextCharacters": 61,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 37642
+  }
+}
