@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "scope": "public_urls_not_private_accounts",
   "generatedAt": "2026-10-08T08:33:32Z",
-  "discovered": 5124,
+  "discovered": 5203,
   "previouslyCaptured": 186,
   "notYetCaptured": 4938,
   "byKind": {
     "about": 1,
     "about-page": 23,
-    "article": 1068,
+    "article": 1106,
     "articles-list": 19,
     "auth": 3,
     "book": 502,
@@ -21,7 +21,7 @@
     "first-squad.html": 1,
     "glossarii.html": 1,
     "glossary": 24,
-    "glossary-item": 172,
+    "glossary-item": 212,
     "home": 1,
     "library-category": 17,
     "news": 1,
@@ -32,7 +32,7 @@
     "partners": 1,
     "poster": 1,
     "poster-item": 322,
-    "profile": 498,
+    "profile": 499,
     "project": 304,
     "projects": 1,
     "search": 1,
@@ -1328,6 +1328,26 @@
       "captured": false
     },
     {
+      "url": "https://cosmatica.org/articles/1123-udivitelnye-griby-2-serija.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available",
+      "error": "HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=7)"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1124-semena-svobody.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available",
+      "error": "HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=7)"
+    },
+    {
       "url": "https://cosmatica.org/articles/1125-otchyot-o-rabote-doneckogo-otdelenija-rko-v-2020g.html",
       "kind": "article",
       "sources": [
@@ -1470,6 +1490,26 @@
         "listing:https://cosmatica.org/articles/publikacii?page=8"
       ],
       "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/articles/1167-nacionalnye-kosmicheskie-obschestva-kak-centry-kosmoplanetarnoi-socialnoi-pedagogiki.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available",
+      "error": "HTTPSConnectionPool(host='cosmatica.org', port=443): Max retries exceeded with url: /articles/1167-nacionalnye-kosmicheskie-obschestva-kak-centry-kosmoplanetarnoi-socialn"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1168-russkoe-kosmicheskoe-obschestvo-obschaja.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available",
+      "error": "HTTPSConnectionPool(host='cosmatica.org', port=443): Max retries exceeded with url: /articles/1168-russkoe-kosmicheskoe-obschestvo-obschaja.html (Caused by SSLError(SSLEO"
     },
     {
       "url": "https://cosmatica.org/articles/1169-borba-s-globalnym-tehnotronnym-imperializmom-chast-strategii-vyzhivanija-chelovechestva-na-zeml.html",
@@ -1648,6 +1688,15 @@
       "captured": false
     },
     {
+      "url": "https://cosmatica.org/articles/1218-nevymyshlennaja-istorija-kosmicheskih-polyotov-rasskaz.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
       "url": "https://cosmatica.org/articles/122-russkoe-kosmicheskoe-obschestvo-strategija-stanovlenija-nashe-obschee-delo.html",
       "kind": "article",
       "sources": [
@@ -1800,6 +1849,15 @@
       "captured": false
     },
     {
+      "url": "https://cosmatica.org/articles/1257-vypusk-0.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
       "url": "https://cosmatica.org/articles/126-metalogika-genezisa-preobrazovanija-socialnogo-bytija-rossii-i-chelovechestva.html",
       "kind": "article",
       "sources": [
@@ -1850,12 +1908,30 @@
       "captured": false
     },
     {
+      "url": "https://cosmatica.org/articles/1274-vypusk-1.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
       "url": "https://cosmatica.org/articles/1276-press-tur-za-pravdu-sohranjaja-chelovechnost.html",
       "kind": "article",
       "sources": [
         "listing:https://cosmatica.org/articles/publikacii?page=5"
       ],
       "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/articles/1277-vypusk-2.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
     },
     {
       "url": "https://cosmatica.org/articles/1278-mezhdunarodnaja-nauchnaja-shkola-ustoichivogo-razvitija-imeni-p-g-kuznecova.html",
@@ -1882,6 +1958,15 @@
       "captured": false
     },
     {
+      "url": "https://cosmatica.org/articles/1280-vypusk-3.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
       "url": "https://cosmatica.org/articles/129-nauchnaja-kartina-mira-i-zhivoe-veschestvo-5-let-mniika-kratkie-itogi-raboty-v-p-kaznacheev.html",
       "kind": "article",
       "sources": [
@@ -1896,6 +1981,24 @@
         "listing:https://cosmatica.org/articles/publikacii?page=5"
       ],
       "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/articles/1292-1-noosferizm-kak-nauchno-mirovozzrencheskaja-sistema-osnovanija-struk-tura-i-bazovye-principy.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1293-2-nastupivshaja-istoricheskaja-epoha-kak-epoha-velikogo-evolyucionnogo-pereloma.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
     },
     {
       "url": "https://cosmatica.org/articles/13-otkrytoe-pismo-prezidentu-rossii.html",
@@ -1923,12 +2026,49 @@
       "captured": false
     },
     {
+      "url": "https://cosmatica.org/articles/1326-vypusk-4.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
       "url": "https://cosmatica.org/articles/133-fenomen-gormezisa-i-vozmozhnost-geneticheskogo-defolta.html",
       "kind": "article",
       "sources": [
         "xml:sitemap_content_articles.xml"
       ],
       "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/articles/1330-ekofilosofskaja-determinacija-prostranstva-kultury-noosfernogo-goroda.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available",
+      "error": "HTTPSConnectionPool(host='cosmatica.org', port=443): Max retries exceeded with url: /articles/1330-ekofilosofskaja-determinacija-prostranstva-kultury-noosfernogo-goroda.h"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1331-3-byt-ili-ne-byt-chelovechestvu-na-zemle.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1332-4-svoboda-ili-otvetstvennost-za-vsyo-chto-my-tvorim-na-zemle.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
     },
     {
       "url": "https://cosmatica.org/articles/1333-noosfernye-osnovanija-nepreryvnogo-obrazovanija-v-xxi-veke.html",
@@ -1954,6 +2094,24 @@
         "xml:sitemap_content_articles.xml"
       ],
       "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/articles/1355-biografija-vernadskogo-vladimira-ivanovicha.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1356-novyi-vek-vernadskogo.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
     },
     {
       "url": "https://cosmatica.org/articles/136-eticheskii-kodeks-chlena-krymskoi-akademii-noosfernogo-obrazovanija-i-nauki-kanon.html",
@@ -2085,6 +2243,42 @@
       "captured": false
     },
     {
+      "url": "https://cosmatica.org/articles/1396-krugovorot-truda-v-prirode.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1397-kukushka.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1398-razvivatsja-nelzja-degradirovat.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1399-nastojaschaja-lyubjaschaja-nasha.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
       "url": "https://cosmatica.org/articles/14-istoricheskaja-spravka-o-duhovnyh-i-materialnyh-istochnikah-rko.html",
       "kind": "article",
       "sources": [
@@ -2100,6 +2294,33 @@
         "xml:sitemap_content_articles.xml"
       ],
       "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/articles/1400-dom-gde-vsegda-teplo.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1401-ne-gubite-istoki-zhizni-v-nih-svjaz-pokolenii-lyubov-i-teplo.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1402-tema-semja-osnova-zhizni-obschestva.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
     },
     {
       "url": "https://cosmatica.org/articles/1403-bitva-za-buduschee-slovo-na-100-let-sssr.html",
@@ -2196,6 +2417,93 @@
         "listing:https://cosmatica.org/articles/publikacii?page=3"
       ],
       "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/articles/1429-5-kakimi-dolzhny-byt-obrazovanie-i-nauka-v-xxi-veke.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1430-6-o-prirode-intellekta-cheloveka-s-pozicii-noosfernoi-paradigmy-universalnogo-evolyucionizma.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1431-uchenie-ob-obschestvennom-intellekte-kak-sisteme-upravlenija-buduschim-so-storony-obschestva-ka.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1432-grjaduschii-noosfernyi-sintez-nauki-i-vlasti-kak-imperativ.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available",
+      "error": "HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=7)"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1433-pervaja-faza-globalnoi-ekologicheskoi-katastrofy.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available",
+      "error": "HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=7)"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1434-noosfernyi-socializm-kak-socialno-ekonomicheskaja-organizacija-razvitija-obschestva.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available",
+      "error": "HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=7)"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1435-zavisimost-buduschego-kosmicheskogo-proryva-chelovechestva-ot.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available",
+      "error": "HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=7)"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1437-12-novaja-noosfernaja-ideologija-i-ideal-buduschego.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available",
+      "error": "HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=7)"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1438-13-strategija-evolyucionnogo-proryva-rossii-i-chelovechestva-v-xxi-veke-i-noosferizm.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available",
+      "error": "HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=7)"
     },
     {
       "url": "https://cosmatica.org/articles/1439-o-vyhode-rossii-iz-epohi-rynochnogo-genocida-i-strategii-eyo-razvitija-v-xxi-veke.html",
@@ -2374,12 +2682,30 @@
       "captured": false
     },
     {
+      "url": "https://cosmatica.org/articles/1469-kak-stat-kosmonavtom.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
       "url": "https://cosmatica.org/articles/147-zerkala-v-golograficheskoi-vselennoi-kozyreva.html",
       "kind": "article",
       "sources": [
         "xml:sitemap_content_articles.xml"
       ],
       "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/articles/1470-moi-kosmicheskii-korabl.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
     },
     {
       "url": "https://cosmatica.org/articles/1472-prezentacija-knigi-cel-sotvorenija-organicheskogo-razuma.html",
@@ -2460,6 +2786,33 @@
         "listing:https://cosmatica.org/articles/publikacii?page=2"
       ],
       "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/articles/1482-celeustremlennost-cherez-prizmu-nauki.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1483-celeustremlennost-cherez-prizmu-nauki.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
+    },
+    {
+      "url": "https://cosmatica.org/articles/1484-celeustremlennost-cherez-prizmu-nauki.html",
+      "kind": "article",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available"
     },
     {
       "url": "https://cosmatica.org/articles/1485-mezhdunarodnaja-nauchnaja-shkola-ustoichivogo-razvitija-imeni-p-g-kuznecova-novoe-izdanie-p-g-k.html",
@@ -10519,10 +10872,154 @@
       "captured": false
     },
     {
+      "url": "https://cosmatica.org/glossary/181-zhiznerodnost-naroda.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/182-uverennoe-razvitie-naroda.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/183-moguschestvo-naroda.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/184-narod.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/185-soyuz-semei.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/186-semja.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/187-princip-zhiznerodnosti-semi.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/188-zhizneslovija.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/189-setenie.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
       "url": "https://cosmatica.org/glossary/19-upravlenie-ustoichivym-innovacionnym-razvitiem.html",
       "kind": "glossary-item",
       "sources": [
         "xml:sitemap_content_glossary.xml"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/190-chelovechnost.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/191-sociogumanika.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/192-zhiznerodnost.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/193-sodei.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/194-sodeja.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/195-razvitie-obuslovlennoe-evolyucionno.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/197-sklyuchenie.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/198-vsemir.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/199-soevolyucija.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
       ],
       "captured": false
     },
@@ -10535,6 +11032,78 @@
       "captured": false
     },
     {
+      "url": "https://cosmatica.org/glossary/201-simbioz.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/202-nasilie.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/203-celnost.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/204-gomoseksualizm.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/205-prirodopodobnye-tehnologii.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/206-prirodosoobraznost.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/207-prirodosoobraznye-tehnologii.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/208-biotvorcheskaja-sistema.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/209-lyubov.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
       "url": "https://cosmatica.org/glossary/21-ustoichivoe-razvitie-zhizni.html",
       "kind": "glossary-item",
       "sources": [
@@ -10543,10 +11112,114 @@
       "captured": false
     },
     {
+      "url": "https://cosmatica.org/glossary/210-civilizacija.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/211-splochenie.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/212-kosmatika.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/213-kosmizm-sozidanija.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/214-imperium-cheloveka.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/215-nekrosfera.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/216-homobioticheskii-oborot.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/217-homogeobiocenozy.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/218-doktrina-pobedy.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
       "url": "https://cosmatica.org/glossary/22-ustoichivoe-innovacionnoe-razvitie.html",
       "kind": "glossary-item",
       "sources": [
         "xml:sitemap_content_glossary.xml"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/220-nauka-sozidat.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/221-kosmichnost.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/222-psevdei.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
+      ],
+      "captured": false
+    },
+    {
+      "url": "https://cosmatica.org/glossary/224-solidarnost.html",
+      "kind": "glossary-item",
+      "sources": [
+        "glossary-letter-pagination"
       ],
       "captured": false
     },
@@ -40413,6 +41086,16 @@
       "availability": "not_found_404"
     },
     {
+      "url": "https://cosmatica.org/users/3",
+      "kind": "profile",
+      "sources": [
+        "public-listing-card"
+      ],
+      "captured": false,
+      "availability": "available",
+      "error": "HTTPSConnectionPool(host='cosmatica.org', port=443): Read timed out. (read timeout=7)"
+    },
+    {
       "url": "https://cosmatica.org/users/30",
       "kind": "profile",
       "sources": [
@@ -43174,5 +43857,28 @@
   "currentlyInaccessible404": 373,
   "contentEligible": 4750,
   "currentlyForbidden403": 1,
-  "publiclyUnverifiable": 1
+  "publiclyUnverifiable": 1,
+  "glossarySupplement": {
+    "checked": 4,
+    "result": {
+      "available": 4
+    },
+    "pages": {
+      "n": 1,
+      "p": 2,
+      "s": 1
+    },
+    "errors": [],
+    "listingErrors": []
+  },
+  "listingLinkSupplement": {
+    "checked": 39,
+    "statuses": {
+      "network_error": 12,
+      "available": 27
+    },
+    "retried": {
+      "available": 12
+    }
+  }
 }
