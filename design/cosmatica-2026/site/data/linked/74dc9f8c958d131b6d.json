@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u1/2e/90/kosmos-v-kartinkah-photo-normal.jpg",
+      "src": "assets/source/book-covers/7db0142da8184fba1ec653.webp",
       "alt": "Космос в картинках"
     },
     {
@@ -41,7 +41,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u1/2e/90/kosmos-v-kartinkah-photo-normal.jpg"
+    "assets/source/book-covers/7db0142da8184fba1ec653.webp"
   ],
   "documents": [
     {

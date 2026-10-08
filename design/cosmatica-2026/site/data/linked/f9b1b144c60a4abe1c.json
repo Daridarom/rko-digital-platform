@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u7/2/d/zvyozdnye-puti-chelovechestva-photo-normal.jpg",
+      "src": "assets/source/book-covers/677d616882c2e3f3d91718.webp",
       "alt": "Звёздные пути человечества"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u7/2/d/zvyozdnye-puti-chelovechestva-photo-normal.jpg"
+    "assets/source/book-covers/677d616882c2e3f3d91718.webp"
   ],
   "documents": [
     {

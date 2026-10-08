@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/9/0/fotografii-nebesnyh-tel-1967-photo-normal.png",
+      "src": "assets/source/book-covers/c47704d41c2f2a33ac29a7.webp",
       "alt": "Фотографии небесных тел (1967)"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/9/0/fotografii-nebesnyh-tel-1967-photo-normal.png"
+    "assets/source/book-covers/c47704d41c2f2a33ac29a7.webp"
   ],
   "documents": [
     {

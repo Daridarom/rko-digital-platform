@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u35/d/3/eticheskie-algoritmy-mirozdanija-photo-normal.jpg",
+      "src": "assets/source/book-covers/be8d3d2ea3d2e044beb6a6.webp",
       "alt": "Этические алгоритмы мироздания."
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u35/d/3/eticheskie-algoritmy-mirozdanija-photo-normal.jpg"
+    "assets/source/book-covers/be8d3d2ea3d2e044beb6a6.webp"
   ],
   "documents": [
     {

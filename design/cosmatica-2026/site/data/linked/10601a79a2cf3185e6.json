@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u26/8/9/istorija-i-sovremennye-voprosy-nauki-ustoichivogo-razvitija-monogr.jpg",
+      "src": "assets/source/book-covers/e798050037d062d8a49db8.webp",
       "alt": "История и современные вопросы науки устойчивого развития: монография"
     },
     {
@@ -114,7 +114,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u26/8/9/istorija-i-sovremennye-voprosy-nauki-ustoichivogo-razvitija-monogr.jpg"
+    "assets/source/book-covers/e798050037d062d8a49db8.webp"
   ],
   "documents": [
     {

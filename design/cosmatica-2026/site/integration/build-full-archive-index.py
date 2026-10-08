@@ -60,7 +60,7 @@ for entry in json.loads((ROOT/'integration/page-map.json').read_text())['entries
  if url:map_old[url]={'url':url,'status':'ready','alias':True,'file':'source/'+entry['slug']+'.json','type':entry['slug']}
 
 inventory={r['url']:r for r in INV['records']}
-blocked={'not_found_404','forbidden_403','soft_missing_no_public_profile'}
+blocked={'not_found_404','forbidden_403','soft_missing_no_public_profile','network_error'}
 for url in list(map_old):
  info=map_old[url]
  if url not in inventory or inventory[url].get('availability') in blocked or (not info.get('alias') and not (DATA/'linked'/info.get('file','')).exists()):
@@ -143,7 +143,7 @@ for x in good.values():
  items.append({'type':x['type'],'title':x['title'],'route':x['href'],
                'summary':x['description'][:240],
                'text':(x['title']+' '+x['description'])[:650],
-               'url':x['url']})
+               'url':x['url'],'sections':[key for key,(label,kinds) in SECTIONS.items() if kinds is None or x['kind'] in kinds]})
 items.sort(key=lambda x:(x['type'],x['title']))
 shards=defaultdict(lambda:defaultdict(list))
 for i,item in enumerate(items):
@@ -173,9 +173,10 @@ print('INDEX_SHARDS',len(shards),flush=True)
 gone=sum(x.get('availability')=='not_found_404' for x in inventory.values())
 forbidden=sum(x.get('availability')=='forbidden_403' for x in inventory.values())
 soft=sum(x.get('availability')=='soft_missing_no_public_profile' for x in inventory.values())
+network=sum(x.get('availability')=='network_error' for x in inventory.values())
 non_editorial=sum(x.get('availability') not in blocked and x.get('kind') in ('auth','search','home') for x in inventory.values())
-eligible=len(inventory)-gone-forbidden-soft-non_editorial
-report={'discovered':len(inventory),'origin404':gone,'origin403':forbidden,'softMissing':soft,'nonEditorial':non_editorial,
+eligible=len(inventory)-gone-forbidden-soft-network-non_editorial
+report={'discovered':len(inventory),'origin404':gone,'origin403':forbidden,'softMissing':soft,'networkUnverified':network,'nonEditorial':non_editorial,
         'eligible':eligible,'renderable':len(good),
         'unresolved':max(0,eligible-len(good)),'sections':sitemap,
         'cautions':['Search uses local full-text shards; no external service.','Editorial verification is separate from import.'],

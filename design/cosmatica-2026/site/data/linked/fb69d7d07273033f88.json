@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u1/87/d7/a-e-petrov-logistika-v-sapr-chast-i-logistika-proizvodstva.png",
+      "src": "assets/source/book-covers/b532dade652962e6e9469b.webp",
       "alt": "А.Е. Петров - Логистика в САПР. Часть I: логистика производства"
     },
     {
@@ -41,7 +41,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u1/87/d7/a-e-petrov-logistika-v-sapr-chast-i-logistika-proizvodstva.png"
+    "assets/source/book-covers/b532dade652962e6e9469b.webp"
   ],
   "documents": [
     {

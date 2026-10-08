@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/8/9/ilenkovskie-chtenija-2019-photo-normal.jpg",
+      "src": "assets/source/book-covers/d702191de197c191b6809f.webp",
       "alt": "Ильенковские чтения - 2019"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/8/9/ilenkovskie-chtenija-2019-photo-normal.jpg"
+    "assets/source/book-covers/d702191de197c191b6809f.webp"
   ],
   "documents": [
     {

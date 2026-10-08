@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/2/5/kometa-galleja-1910-photo-normal.jpg",
+      "src": "assets/source/book-covers/76c9cfe8de130031c2e959.webp",
       "alt": "Комета Галлея (1910)"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/2/5/kometa-galleja-1910-photo-normal.jpg"
+    "assets/source/book-covers/76c9cfe8de130031c2e959.webp"
   ],
   "documents": [
     {

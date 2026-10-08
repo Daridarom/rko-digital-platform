@@ -6,10 +6,65 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 49,
-  "pageCount": 317,
-  "total": 4744,
+  "pageCount": 321,
+  "total": 4812,
   "blocks": [],
   "cards": [
+    {
+      "title": "Детский театр «Благородное дело»",
+      "description": "Москва, Санкт-Петербург, Тверь, Екатеринбург и Сибирь были представлены профессионалами театра, руководителями детских коллективов и школьных театров.",
+      "url": "https://cosmatica.org/news/1460-detskii-teatr-blagorodnoe-delo.html",
+      "image": "https://cosmatica.org/upload/002/u218/3/c/5a50a5db.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=dcbf7788dd4a2e9519",
+      "type": "news-item",
+      "sourceCharacters": 4523,
+      "verified": false
+    },
+    {
+      "title": "Цивилизационный проект \"ЭРА\"",
+      "description": "К вопросу о необходимости ускорения перехода к новой общественно-экономической формации",
+      "url": "https://cosmatica.org/articles/1459-civilizacionnyi-proekt-era.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=890d829f5c91b278c8",
+      "type": "article",
+      "sourceCharacters": 65489,
+      "verified": false
+    },
+    {
+      "title": "Народная премия в области воспитания - инструмент созидания будущего!",
+      "description": "Сегодня у нас с вами есть уникальная возможность напрямую выстраивать региональную политику воспитания на территории своего муниципального образования, своего региона, своей страны, а возможно и мира. Воспитание наших детей – это, прежде всего, наша обязанность, наша необходимость и наша забота о будущем.",
+      "url": "https://cosmatica.org/news/1459-narordnaja-premija-v-oblasti-vospitanija-instrument-sozidanija-buduschego.html",
+      "image": "https://cosmatica.org/upload/000/u7/e/c/narordnaja-premija-v-oblasti-vospitanija-instrument-sozidanija-bud.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=aecc13a0f2e7381dee",
+      "type": "news-item",
+      "sourceCharacters": 7787,
+      "verified": false
+    },
+    {
+      "title": "Сплочение по-русски - есть солидаризация по-российски",
+      "description": "В них принял участие сопредседатель-координатор Организационного комитета ФНС, д-р юрид. наук, академик РАЕН И.В. Бабичев , член президиума Оргкомитета ФНС, Глава Русского Космического Общества А.А. Гапонов , ответственный секретарь Оргкомитета ФНС, директор Центра цифровой трансформации регионов и муниципалитетов Финансового университета при Правительстве РФ А.В. Войтенок - руководитель Общественно-государственного ",
+      "url": "https://cosmatica.org/news/1458-splochenie-po-russki-est-solidarizacija-po-rossiiski.html",
+      "image": "https://cosmatica.org/upload/000/u35/8/4/splochenie-po-russki-est-solidarizacija-po-rossiiski-photo-norm.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=7f934c2294154eed3a",
+      "type": "news-item",
+      "sourceCharacters": 6869,
+      "verified": false
+    },
+    {
+      "title": "Команда: \"На Взлёт!\"",
+      "description": "Международный Фестиваль творческих работ «ВЗЛЁТ», посвящённый 65-летию первого искусственного спутника Земли, началу Космической эры, ждёт участников.",
+      "url": "https://cosmatica.org/news/1457-komanda-na-vzlyot.html",
+      "image": "https://cosmatica.org/upload/000/u35/3/3/komanda-na-vzlyot-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3c494bb6b908c6b8ef",
+      "type": "news-item",
+      "sourceCharacters": 6094,
+      "verified": false
+    },
     {
       "title": "Звёзды из колодца детям Земли",
       "description": "Фильм для младшей школы, раскрывающий понятие \"смелость\" и популяризирующий борьбу самбо, станет новой доброй историей, которая украсит фильмотеку проекта.",
@@ -118,61 +173,6 @@
       "href": "view.html?p=article&ref=6c9799325b96bf6fa4",
       "type": "article",
       "sourceCharacters": 14269,
-      "verified": false
-    },
-    {
-      "title": "О космосе для всех, кто хочет быть в теме!",
-      "description": "Новая книга для всех будущих космонавтов, исследователей и просто мечтателей издаётся под авторством Председателя Молодёжного совета РКО Дениса Олеговича Прудника - известного популяризатора науки, основателя проекта «Мы верим в космос». Огромный вклад в создание книги внёс Почётный член РКО, лётчик-космонавт, герой России - Александр Иванович Лазуткин .",
-      "url": "https://cosmatica.org/news/1450-o-kosmose-dlja-vseh-kto-hochet-byt-v-teme.html",
-      "image": "https://cosmatica.org/upload/002/u218/9/5/640c42ef.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=11a3d4c9e35457a40f",
-      "type": "news-item",
-      "sourceCharacters": 1412,
-      "verified": false
-    },
-    {
-      "title": "Космическая Романтика",
-      "description": "В общей сложности слушателями этих лекций стали 175 детей в возрасте от 10 до 16 лет, а также 12 взрослых сотрудников лагеря. Тема лекций: \"Значение воды для человека; сбережение водных ресурсов; вода на Земле и в космосе\". Cлушатели узнали о видах водных объектов на Земле, о неравномерности распределения воды по нашей планете, об особой важности сбережения этих ресурсов ввиду их первостепенного значения для жизни че",
-      "url": "https://cosmatica.org/news/1449-kosmicheskaja-romantika.html",
-      "image": "https://cosmatica.org/upload/000/u35/4/3/kosmicheskaja-romantika-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=3410b7c142f1cc705e",
-      "type": "news-item",
-      "sourceCharacters": 2366,
-      "verified": false
-    },
-    {
-      "title": "Доклад о Делократии на Сибирской региональной конференции представителей малого бизнеса",
-      "description": "Два слова о себе. Я, Протопопов Александр Иванович, предприниматель, член Русского Космического Общества, один из разработчиков теории развития живого вещества и общественных систем.",
-      "url": "https://cosmatica.org/articles/1448-doklad-o-delokratii-na-sibirskoi-regionalnoi-konferencii-predstavitelei-malogo-biznesa.html",
-      "image": null,
-      "kind": "article",
-      "href": "view.html?p=article&ref=9677e66d2bb56f528a",
-      "type": "article",
-      "sourceCharacters": 19514,
-      "verified": false
-    },
-    {
-      "title": "Открытое письмо А.И.Субетто Ректору Института Политической Культуры Дмитрию Роде",
-      "description": "Глава Русского Космического Общества Гапонов Алексей Алексеевич познакомил меня с Вашим «Словом Ректора» под названием «Что такое приход антихриста и как к нему подготовиться», которое Вы разместили у себя, на своем «канале» недавно.",
-      "url": "https://cosmatica.org/articles/1447-otkrytoe-pismo-a-i-subetto-rektoru-instituta-politicheskoi-kultury-dmitriyu-rode.html",
-      "image": null,
-      "kind": "article",
-      "href": "view.html?p=article&ref=078daadba80edb6706",
-      "type": "article",
-      "sourceCharacters": 34643,
-      "verified": false
-    },
-    {
-      "title": "Новая жизнь библиотеки Волновахи",
-      "description": "Узнав о работе гуманитарного штаба вклада в Победу в Донецком отделении РКО, в середине июня к Русскому Космическому Обществу обратилась и.о. директора библиотеки Татьяна Ивановна Лата. Рассказала об их трудном положении и попросила о помощи в формировании библиотечного фонда и материально-технической базы библиотеки. Мы незамедлительно отреагировали и инициировали сбор книг.",
-      "url": "https://cosmatica.org/news/1447-pridumat.html",
-      "image": "https://cosmatica.org/upload/002/u218/9/d/pridumat-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=82cf3c6d42598d1c7a",
-      "type": "news-item",
-      "sourceCharacters": 6016,
       "verified": false
     }
   ],

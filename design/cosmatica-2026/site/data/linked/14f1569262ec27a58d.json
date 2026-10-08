@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/210-civilizacija.html",
+  "title": "Цивилизация",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Система",
+      "spans": [
+        {
+          "text": "Система"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "организации общества, основанная на взаимообусловленном единстве онтологических начал - народа, культуры, управления и экономики, сключённых языком.",
+      "spans": [
+        {
+          "text": "организации общества, основанная на взаимообусловленном единстве онтологических начал - народа, культуры, управления и экономики, сключённых языком."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Система организации общества, основанная на взаимообусловленном единстве онтологических начал - народа, культуры, управления и экономики, сключённых языком.",
+      "links": [
+        {
+          "title": "Система",
+          "url": "https://cosmatica.org/glossary/47-sistema.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 168,
+    "storedTextCharacters": 155,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32148
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 156,
+  "capturedBodyCharacters": 155,
+  "sourceTextSHA256": "c4d5657e3e1a50c251eacc3c551e5a180099fb70d7777f40a376a7f26927718b",
+  "archiveSnapshotAt": "2026-10-08T10:36:26Z"
+}

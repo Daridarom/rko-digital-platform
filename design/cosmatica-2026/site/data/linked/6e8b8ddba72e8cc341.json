@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/5/8/teorija-dvizhenija-isz-1977-photo-normal.jpg",
+      "src": "assets/source/book-covers/fe64029a38cc47dba19710.webp",
       "alt": "Теория движения ИСЗ (1977)"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/5/8/teorija-dvizhenija-isz-1977-photo-normal.jpg"
+    "assets/source/book-covers/fe64029a38cc47dba19710.webp"
   ],
   "documents": [
     {

@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u1/3f/0d/o-d-doronina-o-l-kuznecov-yu-a-rahmanin-strategija-oon-dlja.png",
+      "src": "assets/source/book-covers/3fe81025e240a1576fed40.webp",
       "alt": "О.Д. Доронина, О.Л. Кузнецов, Ю.А. Рахманин - Стратегия ООН для устойчивого развития в условиях глобализации"
     },
     {
@@ -64,7 +64,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u1/3f/0d/o-d-doronina-o-l-kuznecov-yu-a-rahmanin-strategija-oon-dlja.png"
+    "assets/source/book-covers/3fe81025e240a1576fed40.webp"
   ],
   "documents": [
     {

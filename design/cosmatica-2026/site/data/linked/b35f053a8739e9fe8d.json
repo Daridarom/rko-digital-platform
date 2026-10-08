@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/189-setenie.html",
+  "title": "Сетение",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Сетение есть сонаправленная",
+      "spans": [
+        {
+          "text": "Сетение есть сонаправленная"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "связь",
+      "spans": [
+        {
+          "text": "связь"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "всего со всем в целях повышения жизнеродности.\r\nБиосоциотехнический процесс, направленный разумом человека на повышение эффективности обмена информацией, энергией, ресурсами с целью устойчивого развития жизни.",
+      "spans": [
+        {
+          "text": "всего со всем в целях повышения жизнеродности.\r\nБиосоциотехнический процесс, направленный разумом человека на повышение эффективности обмена информацией, энергией, ресурсами с целью устойчивого развития жизни."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Сетение есть сонаправленная связь всего со всем в целях повышения жизнеродности. Биосоциотехнический процесс, направленный разумом человека на повышение эффективности обмена информацией, энергией, ресурсами с целью устойчивого развития жизни.",
+      "links": [
+        {
+          "title": "связь",
+          "url": "https://cosmatica.org/glossary/55-svjaz.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 250,
+    "storedTextCharacters": 241,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32443
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 242,
+  "capturedBodyCharacters": 241,
+  "sourceTextSHA256": "ae035d16a4c3da15d44ee8ae6da0b000fd0fcc9fc073d5e3699e3ddf7307407e",
+  "archiveSnapshotAt": "2026-10-08T10:37:46Z"
+}

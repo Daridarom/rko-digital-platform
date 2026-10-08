@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u7/d/7/kosmos-cheloveku-photo-normal.jpg",
+      "src": "assets/source/book-covers/a5140dc6f0af3f06e27594.webp",
       "alt": "Космос - человеку"
     },
     {
@@ -92,7 +92,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u7/d/7/kosmos-cheloveku-photo-normal.jpg"
+    "assets/source/book-covers/a5140dc6f0af3f06e27594.webp"
   ],
   "documents": [
     {

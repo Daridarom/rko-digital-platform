@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u7/5/5/nad-planetoi-lyudei-photo-normal.jpg",
+      "src": "assets/source/book-covers/d883e45a5d8ac9444b96ec.webp",
       "alt": "Над планетой людей"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u7/5/5/nad-planetoi-lyudei-photo-normal.jpg"
+    "assets/source/book-covers/d883e45a5d8ac9444b96ec.webp"
   ],
   "documents": [
     {

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1430-6-o-prirode-intellekta-cheloveka-s-pozicii-noosfernoi-paradigmy-universalnogo-evolyucionizma.html",
+  "title": "6. О «природе» интеллекта человека с позиции ноосферной парадигмы универсального эволюционизма",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке»",
+      "spans": [
+        {
+          "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и  "
+        },
+        {
+          "text": "стратегия",
+          "href": "https://cosmatica.org/glossary/41-strategija.html"
+        },
+        {
+          "text": " эволю-ционного прорыва России и человечества в XXI веке» "
+        }
+      ],
+      "links": [
+        {
+          "text": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Лекция 6: О «природе» интеллекта человека с позиции ноосферной парадигмы универсального эволюционизма.",
+      "spans": [
+        {
+          "text": "Лекция 6: О «природе» интеллекта человека с позиции ноосферной парадигмы универсального эволюционизма."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "oIDKvYfMvoI",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=oIDKvYfMvoI"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке» Лекция 6: О «природе» интеллекта человека с позиции ноосферной парадигмы универсального эволюционизма.",
+      "links": [
+        {
+          "title": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 431,
+    "storedTextCharacters": 250,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 75639
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 336,
+  "capturedBodyCharacters": 250,
+  "sourceTextSHA256": "702735c9944582a85f662f29f7ab1fe59131c663c572811b2444326d03a60573",
+  "archiveSnapshotAt": "2026-10-08T10:53:09Z"
+}

@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u1/99/23/vaiczekker-e-e-b-lovins-l-h-lovins-faktor-chetyre-photo.png",
+      "src": "assets/source/book-covers/18b33861892292d3554213.webp",
       "alt": "Вайцзеккер Э., Э.Б. Ловинс, Л.Х. Ловинс - Фактор «Четыре»"
     },
     {
@@ -86,7 +86,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u1/99/23/vaiczekker-e-e-b-lovins-l-h-lovins-faktor-chetyre-photo.png"
+    "assets/source/book-covers/18b33861892292d3554213.webp"
   ],
   "documents": [
     {

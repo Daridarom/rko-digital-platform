@@ -1,0 +1,7 @@
+{
+  "total": 493,
+  "optimized": 111,
+  "pendingExternalSourceImages": 332,
+  "missingOriginalCovers": 50,
+  "reason": "Remote RKO image endpoint timed out; partial snapshots retained and canonical image URLs preserved."
+}

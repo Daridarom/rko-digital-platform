@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u26/1f/b9/vladimir-ivanovich-vernadskii-biosfera-i-noosfera-photo-normal.jpg",
+      "src": "assets/source/book-covers/e1cb39c2a08cfe647c3c6e.webp",
       "alt": "Вернадский Владимир Иванович - Биосфера и ноосфера"
     }
   ],
@@ -32,7 +32,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u26/1f/b9/vladimir-ivanovich-vernadskii-biosfera-i-noosfera-photo-normal.jpg"
+    "assets/source/book-covers/e1cb39c2a08cfe647c3c6e.webp"
   ],
   "documents": [
     {

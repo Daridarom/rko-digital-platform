@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/186-semja.html",
+  "title": "Семья",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "добровольный союз мужчины и женщины с целью сохранения развития рода.",
+      "spans": [
+        {
+          "text": "добровольный союз мужчины и женщины с целью сохранения развития рода."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "добровольный союз мужчины и женщины с целью сохранения развития рода.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 75,
+    "storedTextCharacters": 69,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31616
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 69,
+  "capturedBodyCharacters": 69,
+  "sourceTextSHA256": "27d3205ff2b5129fc7396c11895002e2f21b648b0a8a72c2bb03779c02d9dd54",
+  "archiveSnapshotAt": "2026-10-08T10:37:46Z"
+}

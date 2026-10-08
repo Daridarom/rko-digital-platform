@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u7/1/0/c866fc9d.jpg",
+      "src": "assets/source/book-covers/34048e4af33a36145f0a30.webp",
       "alt": "Экскурсия в Звездный"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u7/1/0/c866fc9d.jpg"
+    "assets/source/book-covers/34048e4af33a36145f0a30.webp"
   ],
   "documents": [
     {

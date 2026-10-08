@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u35/c/4/masshtabnyi-proekt-volna-buduschego-novyi-chelovek-v-garmonii-mir.jpg",
+      "src": "assets/source/book-covers/47561e6b58d640ec084be1.webp",
       "alt": "Масштабный проект \"Волна будущего\". Новый человек в гармонии мира."
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u35/c/4/masshtabnyi-proekt-volna-buduschego-novyi-chelovek-v-garmonii-mir.jpg"
+    "assets/source/book-covers/47561e6b58d640ec084be1.webp"
   ],
   "documents": [
     {

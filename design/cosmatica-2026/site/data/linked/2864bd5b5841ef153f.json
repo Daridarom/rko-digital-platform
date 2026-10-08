@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/001/u113/3/b/27a496aa.jpg",
+      "src": "assets/source/book-covers/f7d77266d52dbaeea01d90.webp",
       "alt": "Общая теория относительности, событий и перемен"
     }
   ],
@@ -32,7 +32,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/001/u113/3/b/27a496aa.jpg"
+    "assets/source/book-covers/f7d77266d52dbaeea01d90.webp"
   ],
   "documents": [
     {

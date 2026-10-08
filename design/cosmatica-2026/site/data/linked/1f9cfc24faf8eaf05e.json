@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/3/e/den-kogda-menja-vnesli-v-protokol-photo-normal.jpg",
+      "src": "assets/source/book-covers/5ed7439a75b75c558be9b7.webp",
       "alt": "День, когда меня внесли в протокол"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/3/e/den-kogda-menja-vnesli-v-protokol-photo-normal.jpg"
+    "assets/source/book-covers/5ed7439a75b75c558be9b7.webp"
   ],
   "documents": [
     {

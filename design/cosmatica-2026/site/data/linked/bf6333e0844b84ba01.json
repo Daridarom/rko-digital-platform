@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/201-simbioz.html",
+  "title": "Симбиоз",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это взаимовыгодное сожительство двух и более видов организмов.",
+      "spans": [
+        {
+          "text": "это взаимовыгодное сожительство двух и более видов организмов."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это взаимовыгодное сожительство двух и более видов организмов.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 70,
+    "storedTextCharacters": 62,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31586
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 62,
+  "capturedBodyCharacters": 62,
+  "sourceTextSHA256": "77ea28d263b665d583dab5845f165a07be4bd54af12b0e6b9949d70befb7ba42",
+  "archiveSnapshotAt": "2026-10-08T10:36:26Z"
+}

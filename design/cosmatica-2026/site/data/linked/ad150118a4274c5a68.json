@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u10/b0/4c/zakon-prirody-ili-kak-rabotaet-prostranstvo-vremja-photo-normal.png",
+      "src": "assets/source/book-covers/db9d3fcdc177086dea1e7b.webp",
       "alt": "Закон Природы или Как работает Пространство—Время?"
     },
     {
@@ -92,7 +92,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u10/b0/4c/zakon-prirody-ili-kak-rabotaet-prostranstvo-vremja-photo-normal.png"
+    "assets/source/book-covers/db9d3fcdc177086dea1e7b.webp"
   ],
   "documents": [
     {

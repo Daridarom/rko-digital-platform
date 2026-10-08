@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u35/7/f/imperium-cheloveka-era-kosmatiki-photo-normal.jpg",
+      "src": "assets/source/book-covers/a1e9530e66693206b90a89.webp",
       "alt": "Империум человека. Эра косматики"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u35/7/f/imperium-cheloveka-era-kosmatiki-photo-normal.jpg"
+    "assets/source/book-covers/a1e9530e66693206b90a89.webp"
   ],
   "documents": [
     {

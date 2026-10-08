@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 2,
+  "slug": "archive",
+  "archiveSection": "articles",
+  "title": "Публикации и материалы",
+  "sourceUrl": "https://cosmatica.org/",
+  "intro": "Публичный архив материалов Русского космического общества.",
+  "pageNumber": 72,
+  "pageCount": 72,
+  "total": 1074,
+  "blocks": [],
+  "cards": [
+    {
+      "title": "Медиа",
+      "description": "Категория содержит видео материалы, связанные с деятельностью Русского Космического Общества, его Членов и Участников.",
+      "url": "https://cosmatica.org/articles/media",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=b21bed326d37c69a16",
+      "type": "articles-list",
+      "sourceCharacters": 560,
+      "verified": false
+    },
+    {
+      "title": "Мир Героев",
+      "description": "Цель Книги — осуществление Космоплана. Живой Мир Героев. Выживание и победа навсегда. Каждый человек — это стрела, запущенная в будущее. Машина времени, если хотите. Это живое руководство к действию всем, кто хочет изменить мир. Создавать будущее, а не претерпевать его.",
+      "url": "https://cosmatica.org/articles/mir-geroev",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=73ff79a436bcecea34",
+      "type": "articles-list",
+      "sourceCharacters": 2301,
+      "verified": false
+    },
+    {
+      "title": "Научная школа прикладных исследований электромагнитных основ Жизни в Солнечной системе.",
+      "description": "Назначение Программы : сформировать реальное научное мировоззрение на основе обобщения (синтеза) современных достижений в разных областях знаний, используяанализ преданий, мифов и религиозных представлений. Показать при этом, что в основе Жизни лежат два Начала со свойствами электричества и магнетизма, формой выражения которых является чувствительная к излучениям электрически заряженная оболочка и замкнутая структура",
+      "url": "https://cosmatica.org/articles/nauchnaja-shkola-prikladnyh-issledovanii-elektromagnitnyh-osnov-zhizni-v-solnechnoi-sisteme",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=ee483d4d29f5a55e27",
+      "type": "articles-list",
+      "sourceCharacters": 4355,
+      "verified": false
+    },
+    {
+      "title": "Полезно знать",
+      "description": "В этой категории размещены материалы не относящиеся к деятельности РКО, но полезные и достойные, по нашему мнению, изучения.",
+      "url": "https://cosmatica.org/articles/polezno-znat",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=d78190e62818cb8057",
+      "type": "articles-list",
+      "sourceCharacters": 261,
+      "verified": false
+    },
+    {
+      "title": "Презентации Русского Космического Общества",
+      "description": "В разделе размещаются презентации по различным направлениям деятельности Русского Космического Общества.",
+      "url": "https://cosmatica.org/articles/prezentacii-russkogo-kosmicheskogo-obschestva",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=096bb08c773975fabc",
+      "type": "articles-list",
+      "sourceCharacters": 541,
+      "verified": false
+    },
+    {
+      "title": "Публикации",
+      "description": "В данной рубрике Вы найдёте интервью, заметки, научные и научно-популярные статьи, написанные членами РКО.",
+      "url": "https://cosmatica.org/articles/publikacii",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list",
+      "type": "articles-list",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Секция Экофилософии",
+      "description": "",
+      "url": "https://cosmatica.org/articles/sekcija-ekofilosofii",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=59df8110f13b3fe51e",
+      "type": "articles-list",
+      "sourceCharacters": 285,
+      "verified": false
+    },
+    {
+      "title": "Секция сохранения биосферного разнообразия",
+      "description": "В данном разделе размещены статьи и видеоматериалы секции Сохранения биосферного разнообразия Экологического совета РКО",
+      "url": "https://cosmatica.org/articles/sekcija-sohranenija-biosfernogo-raznoobrazija",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=85ced9b15d8cafeb50",
+      "type": "articles-list",
+      "sourceCharacters": 986,
+      "verified": false
+    },
+    {
+      "title": "Владимир Иванович Вернадский",
+      "description": "",
+      "url": "https://cosmatica.org/articles/vladimir-ivanovich-vernadskii",
+      "image": null,
+      "kind": "articles-list",
+      "href": "view.html?p=articles-list&ref=be0a38978b661bdee2",
+      "type": "articles-list",
+      "sourceCharacters": 199,
+      "verified": false
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "editorialVerified": false
+}

@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/001/u113/1/c/osnovy-milogii-photo-normal.jpg",
+      "src": "assets/source/book-covers/e5f39320502d962e0704ce.webp",
       "alt": "Основы милогии"
     }
   ],
@@ -32,7 +32,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/001/u113/1/c/osnovy-milogii-photo-normal.jpg"
+    "assets/source/book-covers/e5f39320502d962e0704ce.webp"
   ],
   "documents": [
     {

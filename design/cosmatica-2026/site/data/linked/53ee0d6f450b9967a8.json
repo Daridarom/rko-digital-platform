@@ -4,79 +4,79 @@
   "sourceUrl": "https://cosmatica.org/glossary/u",
   "title": "У",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Уверенное развитие народа",
-      "level": 2
+      "title": "Уверенное развитие народа",
+      "url": "https://cosmatica.org/glossary/182-uverennoe-razvitie-naroda.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Универсальная мера",
-      "level": 2
+      "title": "Универсальная мера",
+      "url": "https://cosmatica.org/glossary/31-universalnaja-mera.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Универсальный пространственно-временной язык (LT-язык)",
-      "level": 2
+      "title": "Универсальный пространственно-временной язык (LT-язык)",
+      "url": "https://cosmatica.org/glossary/30-universalnyi-prostranstvenno-vremennoi-jazyk-lt-jazyk.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Универсум",
-      "level": 2
+      "title": "Универсум",
+      "url": "https://cosmatica.org/glossary/29-universum.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Управление",
-      "level": 2
+      "title": "Управление",
+      "url": "https://cosmatica.org/glossary/28-upravlenie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Устойчивое развитие",
-      "level": 2
+      "title": "Устойчивое развитие",
+      "url": "https://cosmatica.org/glossary/27-ustoichivoe-razvitie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Устойчивое развитие страны (общества)",
-      "level": 2
+      "title": "Устойчивое развитие страны (общества)",
+      "url": "https://cosmatica.org/glossary/26-ustoichivoe-razvitie-strany-obschestva.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Устойчивое социальное развитие",
-      "level": 2
+      "title": "Устойчивое социальное развитие",
+      "url": "https://cosmatica.org/glossary/25-ustoichivoe-socialnoe-razvitie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Устойчивое экологическое развитие",
-      "level": 2
+      "title": "Устойчивое экологическое развитие",
+      "url": "https://cosmatica.org/glossary/24-ustoichivoe-ekologicheskoe-razvitie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Устойчивое экономическое развитие",
-      "level": 2
+      "title": "Устойчивое экономическое развитие",
+      "url": "https://cosmatica.org/glossary/23-ustoichivoe-ekonomicheskoe-razvitie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Устойчивое инновационное развитие",
-      "level": 2
+      "title": "Устойчивое инновационное развитие",
+      "url": "https://cosmatica.org/glossary/22-ustoichivoe-innovacionnoe-razvitie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Устойчивое развитие Жизни",
-      "level": 2
+      "title": "Устойчивое развитие Жизни",
+      "url": "https://cosmatica.org/glossary/21-ustoichivoe-razvitie-zhizni.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Ускоренное социально-экономическое развитие",
-      "level": 2
+      "title": "Ускоренное социально-экономическое развитие",
+      "url": "https://cosmatica.org/glossary/20-uskorennoe-socialno-ekonomicheskoe-razvitie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Управление устойчивым инновационным развитием",
-      "level": 2
+      "title": "Управление устойчивым инновационным развитием",
+      "url": "https://cosmatica.org/glossary/19-upravlenie-ustoichivym-innovacionnym-razvitiem.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -96,5 +96,7 @@
   "sourceTextCharacters": 429,
   "capturedBodyCharacters": 414,
   "sourceTextSHA256": "5be4b4043ff578bc20d36debe907878d28c1bce8b0f88d2ebd858487837f6af6",
-  "archiveSnapshotAt": "2026-10-08T08:47:29Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:29Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 14
 }

@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/001/u114/f/a/semeinyi-podarok-komplekt-iz-4-nastolnyh-igr-dlja-raznogo-vozr.jpg",
+      "src": "assets/source/book-covers/a2107184b78fbccd0d0ee6.webp",
       "alt": "Семейный подарок - общий комплект из 4 настольных игр для разного возраста"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/001/u114/f/a/semeinyi-podarok-komplekt-iz-4-nastolnyh-igr-dlja-raznogo-vozr.jpg"
+    "assets/source/book-covers/a2107184b78fbccd0d0ee6.webp"
   ],
   "documents": [
     {

@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u1/fa/02/a-e-armenskii-v-s-gusev-a-e-petrov-informacionnaja-i-ekono.png",
+      "src": "assets/source/book-covers/5589411d0ded16d79115f9.webp",
       "alt": "А.Е. Арменский, В.С. Гусев, А.Е. Петров - Информационная и экономическая безопасность государства"
     },
     {
@@ -64,7 +64,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u1/fa/02/a-e-armenskii-v-s-gusev-a-e-petrov-informacionnaja-i-ekono.png"
+    "assets/source/book-covers/5589411d0ded16d79115f9.webp"
   ],
   "documents": [
     {

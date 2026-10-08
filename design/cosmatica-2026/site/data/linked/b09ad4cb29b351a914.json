@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u1/cf/c0/izbrannye-filosofskie-proizvedenija-photo-normal.png",
+      "src": "assets/source/book-covers/5d496285cd1e2af7595f12.webp",
       "alt": "Ломоносов Михаил Васильевич  - Избранные философские произведения"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u1/cf/c0/izbrannye-filosofskie-proizvedenija-photo-normal.png"
+    "assets/source/book-covers/5d496285cd1e2af7595f12.webp"
   ],
   "documents": [
     {

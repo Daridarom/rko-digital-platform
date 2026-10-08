@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/f/2/zanimatelnaja-zoologija-photo-normal.jpg",
+      "src": "assets/source/book-covers/52fc7381e2b7444ed3e59c.webp",
       "alt": "Занимательная зоология"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/f/2/zanimatelnaja-zoologija-photo-normal.jpg"
+    "assets/source/book-covers/52fc7381e2b7444ed3e59c.webp"
   ],
   "documents": [
     {

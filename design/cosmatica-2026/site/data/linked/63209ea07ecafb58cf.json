@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u7/d/a/ddc0bc2c.jpg",
+      "src": "assets/source/book-covers/b31ad6d7b7690b8ee009ea.webp",
       "alt": "Ноосферный разум как разум, научно-управляющий социо-биосферной эволюцией"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u7/d/a/ddc0bc2c.jpg"
+    "assets/source/book-covers/b31ad6d7b7690b8ee009ea.webp"
   ],
   "documents": [
     {

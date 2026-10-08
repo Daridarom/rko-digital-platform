@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u26/d/6/kompressionnyi-motor-f-10-photo-normal.jpg",
+      "src": "assets/source/book-covers/0319f750953138eaeec09b.webp",
       "alt": "Компрессионный мотор Ф-10"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u26/d/6/kompressionnyi-motor-f-10-photo-normal.jpg"
+    "assets/source/book-covers/0319f750953138eaeec09b.webp"
   ],
   "documents": [
     {

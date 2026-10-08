@@ -7,9 +7,20 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 12,
   "pageCount": 16,
-  "total": 234,
+  "total": 235,
   "blocks": [],
   "cards": [
+    {
+      "title": "Александр Иванович Протопопов Профиль удалён",
+      "description": "Международной научной школы устойчивого развития имени П.Г. Кузнецова, руководитель",
+      "url": "https://cosmatica.org/users/332",
+      "image": "https://cosmatica.org/upload/000/u35/8/7/4520b5c4.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=83b0760ab31fecc0e7",
+      "type": "profile",
+      "sourceCharacters": 283,
+      "verified": false
+    },
     {
       "title": "Рязанское областное отделение",
       "description": "",
@@ -162,17 +173,6 @@
       "href": "view.html?p=profile&ref=27b03ccec4404a67c6",
       "type": "profile",
       "sourceCharacters": 191,
-      "verified": false
-    },
-    {
-      "title": "Станислав Александрович Райковский",
-      "description": "Станочник широкого профиля оператор станков ЧПУ, ВПУ г.Комсомольск-на-Амуре.",
-      "url": "https://cosmatica.org/users/393",
-      "image": "https://cosmatica.org/upload/000/u35/f/f/c3009e2c.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=c463e1ae63ff7b4457",
-      "type": "profile",
-      "sourceCharacters": 935,
       "verified": false
     }
   ],

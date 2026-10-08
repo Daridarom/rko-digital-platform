@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u26/e/a/dnevnik-nablyudenii-nad-prirodoi-i-dejatelnostyu-cheloveka-photo-n.png",
+      "src": "assets/source/book-covers/8e06e4a947bd9bfd96a3fa.webp",
       "alt": "Дневник наблюдений над природой и деятельностью человека"
     }
   ],
@@ -32,7 +32,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u26/e/a/dnevnik-nablyudenii-nad-prirodoi-i-dejatelnostyu-cheloveka-photo-n.png"
+    "assets/source/book-covers/8e06e4a947bd9bfd96a3fa.webp"
   ],
   "documents": [
     {

@@ -7,9 +7,20 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 4,
   "pageCount": 16,
-  "total": 234,
+  "total": 235,
   "blocks": [],
   "cards": [
+    {
+      "title": "Виктория Владимировна Вылегжанина",
+      "description": "Выпускница первого Императорского университета за Уралом — НИ ТГУ, Экономист ВЭД (2000г.); НИ ТПУ, Инновационный менеджмент (2011г.); РГУП им.В.М.Лебедева, Юрист (2014г.); ТУСУР, Преподаватель Высшей Школы (2020г.).",
+      "url": "https://cosmatica.org/users/12396",
+      "image": "https://cosmatica.org/upload/002/u218/7/b/9d5f815a.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=c6cf4cd223cf4599c8",
+      "type": "profile",
+      "sourceCharacters": 2103,
+      "verified": false
+    },
     {
       "title": "Олег Васильевич Казарский",
       "description": "Координатор движения «Народное Славянское Единство»",
@@ -162,17 +173,6 @@
       "href": "view.html?p=profile&ref=7b1a6187f6a21bb7c7",
       "type": "profile",
       "sourceCharacters": 2644,
-      "verified": false
-    },
-    {
-      "title": "Татьяна Дмитриевна Жукова",
-      "description": "Президент РШБА (Ассоциация школьных библиотек России)",
-      "url": "https://cosmatica.org/users/123",
-      "image": "https://cosmatica.org/upload/000/u26/19/b4/8943e972.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=3bd6fc75b2b191ef7a",
-      "type": "profile",
-      "sourceCharacters": 177,
       "verified": false
     }
   ],

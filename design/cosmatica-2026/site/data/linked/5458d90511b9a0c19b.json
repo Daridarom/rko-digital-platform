@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u1/a3/e1/a-e-petrov-logistika-v-sapr-chast-ii-informacionnaja-logisti.png",
+      "src": "assets/source/book-covers/99e081243796fb5d4604dc.webp",
       "alt": "А.Е. Петров - Логистика в САПР. Часть II: информационная логистика"
     },
     {
@@ -41,7 +41,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u1/a3/e1/a-e-petrov-logistika-v-sapr-chast-ii-informacionnaja-logisti.png"
+    "assets/source/book-covers/99e081243796fb5d4604dc.webp"
   ],
   "documents": [
     {

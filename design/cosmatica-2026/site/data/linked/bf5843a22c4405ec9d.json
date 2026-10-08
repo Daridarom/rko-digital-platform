@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/187-princip-zhiznerodnosti-semi.html",
+  "title": "Принцип жизнеродности семьи",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "есть трое и более детей - жизнеродная",
+      "spans": [
+        {
+          "text": "есть трое и более детей - жизнеродная"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "семья",
+      "spans": [
+        {
+          "text": "семья"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ", нет троих детей – нежизнеродная семья.",
+      "spans": [
+        {
+          "text": ", нет троих детей – нежизнеродная семья."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "есть трое и более детей - жизнеродная семья , нет троих детей – нежизнеродная семья.",
+      "links": [
+        {
+          "title": "семья",
+          "url": "https://cosmatica.org/glossary/186-semja.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 112,
+    "storedTextCharacters": 82,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31850
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 84,
+  "capturedBodyCharacters": 82,
+  "sourceTextSHA256": "e47eb397b84fcb10bb97fb620889801ecf09b2bec64416764b6fc1e5a6347ab8",
+  "archiveSnapshotAt": "2026-10-08T10:37:46Z"
+}

@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/9/e/slova-sily-photo-normal.jpg",
+      "src": "assets/source/book-covers/5151a7f98bf67d8926b665.webp",
       "alt": "Слова силы"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/9/e/slova-sily-photo-normal.jpg"
+    "assets/source/book-covers/5151a7f98bf67d8926b665.webp"
   ],
   "documents": [
     {

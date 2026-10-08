@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/e/3/russkii-astronomicheskii-kalendar-1930-photo-normal.png",
+      "src": "assets/source/book-covers/bd67a426ced94f6c4c82a5.webp",
       "alt": "Русский астрономический календарь (1930)"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/e/3/russkii-astronomicheskii-kalendar-1930-photo-normal.png"
+    "assets/source/book-covers/bd67a426ced94f6c4c82a5.webp"
   ],
   "documents": [
     {

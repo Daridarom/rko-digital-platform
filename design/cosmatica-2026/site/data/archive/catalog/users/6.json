@@ -7,9 +7,20 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 6,
   "pageCount": 16,
-  "total": 234,
+  "total": 235,
   "blocks": [],
   "cards": [
+    {
+      "title": "Максим Васильевич Евдокимов",
+      "description": "Фотограф, любитель астрономии. Член клуба любителей астрономии «АстроПсков»",
+      "url": "https://cosmatica.org/users/144",
+      "image": "https://cosmatica.org/upload/002/u218/2/2/510e9bca.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a12ad8410fd0d867ec",
+      "type": "profile",
+      "sourceCharacters": 114,
+      "verified": false
+    },
     {
       "title": "Захирджан Анварович Кучкаров",
       "description": "Председатель Секции «Концептуального проектирования систем организационного управления» при Научно-техническом совете Русского Космического Общества.",
@@ -162,17 +173,6 @@
       "href": "view.html?p=profile&ref=6f747f0efb79ccdb85",
       "type": "profile",
       "sourceCharacters": 316,
-      "verified": false
-    },
-    {
-      "title": "Александр Борисович Малыхин",
-      "description": "",
-      "url": "https://cosmatica.org/users/170",
-      "image": "https://cosmatica.org/upload/000/u26/cc/de/599afcd8.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=94e7602a24c9746ac8",
-      "type": "profile",
-      "sourceCharacters": 57,
       "verified": false
     }
   ],

@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/7/8/komety-i-metody-ih-nablyudenii-2005-photo-normal.gif",
+      "src": "assets/source/book-covers/bef45b0acc5053cfb0530c.webp",
       "alt": "Кометы и методы их наблюдений (2005)"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/7/8/komety-i-metody-ih-nablyudenii-2005-photo-normal.gif"
+    "assets/source/book-covers/bef45b0acc5053cfb0530c.webp"
   ],
   "documents": [
     {

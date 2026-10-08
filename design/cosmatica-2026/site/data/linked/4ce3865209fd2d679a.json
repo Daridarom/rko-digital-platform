@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/9/f/revolyucija-v-astronomii-1972-photo-normal.png",
+      "src": "assets/source/book-covers/08176ebd07d67538bf0c38.webp",
       "alt": "Революция в астрономии (1972)"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/9/f/revolyucija-v-astronomii-1972-photo-normal.png"
+    "assets/source/book-covers/08176ebd07d67538bf0c38.webp"
   ],
   "documents": [
     {

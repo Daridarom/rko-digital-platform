@@ -4,98 +4,154 @@
   "sourceUrl": "https://cosmatica.org/glossary/s",
   "title": "С",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Солидарность",
-      "level": 2
+      "title": "Солидарность",
+      "url": "https://cosmatica.org/glossary/224-solidarnost.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Сплочение",
-      "level": 2
+      "title": "Сплочение",
+      "url": "https://cosmatica.org/glossary/211-splochenie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Симбиоз",
-      "level": 2
+      "title": "Симбиоз",
+      "url": "https://cosmatica.org/glossary/201-simbioz.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Соэволюция",
-      "level": 2
+      "title": "Соэволюция",
+      "url": "https://cosmatica.org/glossary/199-soevolyucija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Сключение",
-      "level": 2
+      "title": "Сключение",
+      "url": "https://cosmatica.org/glossary/197-sklyuchenie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Содея",
-      "level": 2
+      "title": "Содея",
+      "url": "https://cosmatica.org/glossary/194-sodeja.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Содей",
-      "level": 2
+      "title": "Содей",
+      "url": "https://cosmatica.org/glossary/193-sodei.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Социогуманика",
-      "level": 2
+      "title": "Социогуманика",
+      "url": "https://cosmatica.org/glossary/191-sociogumanika.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Сетение",
-      "level": 2
+      "title": "Сетение",
+      "url": "https://cosmatica.org/glossary/189-setenie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Семья",
-      "level": 2
+      "title": "Семья",
+      "url": "https://cosmatica.org/glossary/186-semja.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Союз семей",
-      "level": 2
+      "title": "Союз семей",
+      "url": "https://cosmatica.org/glossary/185-soyuz-semei.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Существующее состояние",
-      "level": 2
+      "title": "Существующее состояние",
+      "url": "https://cosmatica.org/glossary/180-suschestvuyuschee-sostojanie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Словесно-вербальная связь",
-      "level": 2
+      "title": "Словесно-вербальная связь",
+      "url": "https://cosmatica.org/glossary/174-slovesno-verbalnaja-svjaz.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Следствия",
-      "level": 2
+      "title": "Следствия",
+      "url": "https://cosmatica.org/glossary/173-sledstvija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Связь",
-      "level": 2
+      "title": "Связь",
+      "url": "https://cosmatica.org/glossary/55-svjaz.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "level": 2,
-      "text": "Полный текст исходного материала"
+      "title": "Свободная энергия",
+      "url": "https://cosmatica.org/glossary/50-svobodnaja-energija.html",
+      "description": ""
     },
     {
-      "type": "paragraph",
-      "text": "С Солидарность Сплочение Симбиоз Соэволюция Сключение Содея Содей Социогуманика Сетение Семья Союз семей Существующее состояние Словесно-вербальная связь Следствия Связь Предыдущая Следующая 1 2 Показаны 1-15 из 29",
-      "spans": [
-        {
-          "text": "С Солидарность Сплочение Симбиоз Соэволюция Сключение Содея Содей Социогуманика Сетение Семья Союз семей Существующее состояние Словесно-вербальная связь Следствия Связь Предыдущая Следующая 1 2 Показаны 1-15 из 29"
-        }
-      ]
+      "title": "Свойство неравновесных систем",
+      "url": "https://cosmatica.org/glossary/53-svoistvo-neravnovesnyh-sistem.html",
+      "description": ""
+    },
+    {
+      "title": "Свойство равновесных систем",
+      "url": "https://cosmatica.org/glossary/52-svoistvo-ravnovesnyh-sistem.html",
+      "description": ""
+    },
+    {
+      "title": "Связная энергия",
+      "url": "https://cosmatica.org/glossary/49-svjaznaja-energija.html",
+      "description": ""
+    },
+    {
+      "title": "Сеть",
+      "url": "https://cosmatica.org/glossary/48-set.html",
+      "description": ""
+    },
+    {
+      "title": "Система",
+      "url": "https://cosmatica.org/glossary/47-sistema.html",
+      "description": ""
+    },
+    {
+      "title": "Система «природа – общество – человек»",
+      "url": "https://cosmatica.org/glossary/46-sistema-priroda-obschestvo-chelovek.html",
+      "description": ""
+    },
+    {
+      "title": "Состояние",
+      "url": "https://cosmatica.org/glossary/44-sostojanie.html",
+      "description": ""
+    },
+    {
+      "title": "Сохранение развития в системе «природа – общество – человек»",
+      "url": "https://cosmatica.org/glossary/45-sohranenie-razvitija-v-sisteme-priroda-obschestvo-chelovek.html",
+      "description": ""
+    },
+    {
+      "title": "Социальное время",
+      "url": "https://cosmatica.org/glossary/51-socialnoe-vremja.html",
+      "description": ""
+    },
+    {
+      "title": "Стоимость",
+      "url": "https://cosmatica.org/glossary/42-stoimost.html",
+      "description": ""
+    },
+    {
+      "title": "Стратегия",
+      "url": "https://cosmatica.org/glossary/41-strategija.html",
+      "description": ""
+    },
+    {
+      "title": "Стратегия развития",
+      "url": "https://cosmatica.org/glossary/40-strategija-razvitija.html",
+      "description": ""
+    },
+    {
+      "title": "Стратегия устойчивого развития",
+      "url": "https://cosmatica.org/glossary/39-strategija-ustoichivogo-razvitija.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -110,10 +166,12 @@
     "paragraphCount": 0,
     "sourceBytes": 42983
   },
-  "textFallbackRequired": true,
+  "textFallbackRequired": false,
   "originalKind": "glossary",
   "sourceTextCharacters": 214,
   "capturedBodyCharacters": 399,
   "sourceTextSHA256": "8bfc142f0d941f30801d5b000cdb893b8b4a943b1991db673ed5193ea5392b6a",
-  "archiveSnapshotAt": "2026-10-08T08:47:28Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:28Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 29
 }

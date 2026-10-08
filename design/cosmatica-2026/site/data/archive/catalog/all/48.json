@@ -6,10 +6,65 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 48,
-  "pageCount": 317,
-  "total": 4744,
+  "pageCount": 321,
+  "total": 4812,
   "blocks": [],
   "cards": [
+    {
+      "title": "Утриш принял гостей с Донбасса",
+      "description": "Месяц назад мы обращались к вам, друзья за помощью. Мы собирали средства для дооснащения нашего лагеря семейными палатками , чтобы принять семьи с Донбасса. Огромная сердечная благодарность всем тем, кто откликнулся и оказал материальную поддержку. Общими усилиями мы собрали 29000р.",
+      "url": "https://cosmatica.org/news/1470-utrish-prinjal-gostei-s-donbassa.html",
+      "image": "https://cosmatica.org/upload/000/u35/b/a/utrish-prinjal-gostei-s-donbassa-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=3bbd6d69bdbe229a78",
+      "type": "news-item",
+      "sourceCharacters": 4478,
+      "verified": false
+    },
+    {
+      "title": "Как стать космонавтом",
+      "description": "ГБУ ОО ЗО «Розовская СОШ №2» Куйбышевского района Запорожской области, 7 класс",
+      "url": "https://cosmatica.org/articles/1469-kak-stat-kosmonavtom.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=cca414503a9704c6c4",
+      "type": "article",
+      "sourceCharacters": 9990,
+      "verified": false
+    },
+    {
+      "title": "Редкий вид Курской земли",
+      "description": "Команда АНО \"Интелрост\" во главе с действительным членом Русского Космического Общества Еленой Владимировной Дубровской , в рамках реализации всенародной системы воспитания - \"Киноуроки в школах мира\" проводит активную подготовку к началу съёмок фильма-урока от Курской области.",
+      "url": "https://cosmatica.org/news/1468-redkii-vid-kurskoi-zemli.html",
+      "image": "https://cosmatica.org/upload/000/u7/6/7/redkii-vid-kurskoi-zemli-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=a34fd71901ce1df93a",
+      "type": "news-item",
+      "sourceCharacters": 2351,
+      "verified": false
+    },
+    {
+      "title": "Аллея Славы юных Героев Великой Отечественной войны на Брянщине",
+      "description": "Стихи А. В. Сафронова на музыку С. А. Каца яркий пример того, как ёмко передать образ Партизанской войны из поколения в поколение.",
+      "url": "https://cosmatica.org/news/1467-alleja-slavy-yunyh-geroev-velikoi-otechestvennoi-voiny-na-brjanschine.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/9/alleja-slavy-yunyh-geroev-velikoi-otechestvennoi-voiny-na-brjanschine.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=319fb0c1a38fbc7bde",
+      "type": "news-item",
+      "sourceCharacters": 9268,
+      "verified": false
+    },
+    {
+      "title": "Научно-философские предпосылки концепции Космоса созидания (космосозидания)",
+      "description": "Научно-философские предпосылки концепции Космоса созидания (космосозидания)",
+      "url": "https://cosmatica.org/articles/1466-nauchno-filosofskie-predposylki-koncepcii-kosmosa-sozidanija-kosmosozidanija.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=8d1720b0f55930aa5c",
+      "type": "article",
+      "sourceCharacters": 6412,
+      "verified": false
+    },
     {
       "title": "ГОСРАТОР - Государственная стратегия развития территории России",
       "description": "«ГОСРАТОР» - ГОСУДАРСТВЕННАЯ СТРАТЕГИЯ РАЗВИТИЯ ТЕРРИТОРИЙ РОССИИ",
@@ -118,61 +173,6 @@
       "href": "view.html?p=news-item&ref=6f38fe477797727d93",
       "type": "news-item",
       "sourceCharacters": 2333,
-      "verified": false
-    },
-    {
-      "title": "Детский театр «Благородное дело»",
-      "description": "Москва, Санкт-Петербург, Тверь, Екатеринбург и Сибирь были представлены профессионалами театра, руководителями детских коллективов и школьных театров.",
-      "url": "https://cosmatica.org/news/1460-detskii-teatr-blagorodnoe-delo.html",
-      "image": "https://cosmatica.org/upload/002/u218/3/c/5a50a5db.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=dcbf7788dd4a2e9519",
-      "type": "news-item",
-      "sourceCharacters": 4523,
-      "verified": false
-    },
-    {
-      "title": "Цивилизационный проект \"ЭРА\"",
-      "description": "К вопросу о необходимости ускорения перехода к новой общественно-экономической формации",
-      "url": "https://cosmatica.org/articles/1459-civilizacionnyi-proekt-era.html",
-      "image": null,
-      "kind": "article",
-      "href": "view.html?p=article&ref=890d829f5c91b278c8",
-      "type": "article",
-      "sourceCharacters": 65489,
-      "verified": false
-    },
-    {
-      "title": "Народная премия в области воспитания - инструмент созидания будущего!",
-      "description": "Сегодня у нас с вами есть уникальная возможность напрямую выстраивать региональную политику воспитания на территории своего муниципального образования, своего региона, своей страны, а возможно и мира. Воспитание наших детей – это, прежде всего, наша обязанность, наша необходимость и наша забота о будущем.",
-      "url": "https://cosmatica.org/news/1459-narordnaja-premija-v-oblasti-vospitanija-instrument-sozidanija-buduschego.html",
-      "image": "https://cosmatica.org/upload/000/u7/e/c/narordnaja-premija-v-oblasti-vospitanija-instrument-sozidanija-bud.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=aecc13a0f2e7381dee",
-      "type": "news-item",
-      "sourceCharacters": 7787,
-      "verified": false
-    },
-    {
-      "title": "Сплочение по-русски - есть солидаризация по-российски",
-      "description": "В них принял участие сопредседатель-координатор Организационного комитета ФНС, д-р юрид. наук, академик РАЕН И.В. Бабичев , член президиума Оргкомитета ФНС, Глава Русского Космического Общества А.А. Гапонов , ответственный секретарь Оргкомитета ФНС, директор Центра цифровой трансформации регионов и муниципалитетов Финансового университета при Правительстве РФ А.В. Войтенок - руководитель Общественно-государственного ",
-      "url": "https://cosmatica.org/news/1458-splochenie-po-russki-est-solidarizacija-po-rossiiski.html",
-      "image": "https://cosmatica.org/upload/000/u35/8/4/splochenie-po-russki-est-solidarizacija-po-rossiiski-photo-norm.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=7f934c2294154eed3a",
-      "type": "news-item",
-      "sourceCharacters": 6869,
-      "verified": false
-    },
-    {
-      "title": "Команда: \"На Взлёт!\"",
-      "description": "Международный Фестиваль творческих работ «ВЗЛЁТ», посвящённый 65-летию первого искусственного спутника Земли, началу Космической эры, ждёт участников.",
-      "url": "https://cosmatica.org/news/1457-komanda-na-vzlyot.html",
-      "image": "https://cosmatica.org/upload/000/u35/3/3/komanda-na-vzlyot-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=3c494bb6b908c6b8ef",
-      "type": "news-item",
-      "sourceCharacters": 6094,
       "verified": false
     }
   ],

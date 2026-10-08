@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u26/9/7/cena-amerikanskogo-dollara-i-ee-stoimost-opyt-ispolzovanija-v.jpg",
+      "src": "assets/source/book-covers/a57343823c2c8282f28719.webp",
       "alt": "Цена американского доллара и ее стоимость: опыт использования в управлении экономикой региональных союзов"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u26/9/7/cena-amerikanskogo-dollara-i-ee-stoimost-opyt-ispolzovanija-v.jpg"
+    "assets/source/book-covers/a57343823c2c8282f28719.webp"
   ],
   "documents": [
     {

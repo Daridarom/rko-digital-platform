@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u10/d3/8b/ustoichivoe-razvitie-photo-normal.jpg",
+      "src": "assets/source/book-covers/02e917c167b17125cec407.webp",
       "alt": "Устойчивое развитие"
     },
     {
@@ -180,7 +180,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u10/d3/8b/ustoichivoe-razvitie-photo-normal.jpg"
+    "assets/source/book-covers/02e917c167b17125cec407.webp"
   ],
   "documents": [
     {

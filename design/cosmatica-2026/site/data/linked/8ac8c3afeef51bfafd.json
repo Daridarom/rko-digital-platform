@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u1/a4/40/sbornik-trudov-kafedry-ustoichivogo-innovacionnogo-razvitija-photo.png",
+      "src": "assets/source/book-covers/795bc23e078e1155557525.webp",
       "alt": "Сборник трудов кафедры устойчивого инновационного развития"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u1/a4/40/sbornik-trudov-kafedry-ustoichivogo-innovacionnogo-razvitija-photo.png"
+    "assets/source/book-covers/795bc23e078e1155557525.webp"
   ],
   "documents": [
     {

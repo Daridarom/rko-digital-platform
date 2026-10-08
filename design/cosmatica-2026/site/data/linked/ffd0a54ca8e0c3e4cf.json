@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u26/3/0/samodelnyi-televizor-1937g-photo-normal.jpg",
+      "src": "assets/source/book-covers/5331d91750c497d993980f.webp",
       "alt": "Самодельный телевизор"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u26/3/0/samodelnyi-televizor-1937g-photo-normal.jpg"
+    "assets/source/book-covers/5331d91750c497d993980f.webp"
   ],
   "documents": [
     {

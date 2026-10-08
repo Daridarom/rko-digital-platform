@@ -6,10 +6,43 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 47,
-  "pageCount": 317,
-  "total": 4744,
+  "pageCount": 321,
+  "total": 4812,
   "blocks": [],
   "cards": [
+    {
+      "title": "Тотальная Война",
+      "description": "В Курске при обстреле ВСУ пляжа погибает мальчик Толя пяти лет. Он закрывает собой маму от огня. Врачи не спасли. Социальные сети отвечают негодованием, стихами, на снарядах пишут «За Толю! За Курск!». Такое варварство не может остаться без ответа. Праведный гнев, сострадание, наполняют сердце каждого, кто видит фото ангельского отрока Толи. Бесчеловечные преступления украинских нацистов.",
+      "url": "https://cosmatica.org/articles/1478-totalnaja-voina.html",
+      "image": "https://cosmatica.org/upload/000/u7/3/3/totalnaja-voina.jpg",
+      "kind": "article",
+      "href": "view.html?p=article&ref=4abb3a6b7312718e78",
+      "type": "article",
+      "sourceCharacters": 9055,
+      "verified": false
+    },
+    {
+      "title": "Творческие встречи Евгения Александровича Воскресенского на Донбассе",
+      "description": "Мы уже писали ранее , что в период с 12 по 15 августа группа представителей Русского Космического Общества в рамках движения Народного сплочения с культурно-гуманитарной миссией прибыла в Донецкую Народную Республику.",
+      "url": "https://cosmatica.org/news/1478-tvorcheskie-vstrechi-evgenija-aleksandrovicha-voskresenskogo-na-donbasse.html",
+      "image": "https://cosmatica.org/upload/000/u35/7/3/6d8293fc.jpeg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=20dfc0b497e82b1c07",
+      "type": "news-item",
+      "sourceCharacters": 11805,
+      "verified": false
+    },
+    {
+      "title": "Космодесант-2022. Через тернии к человечности!",
+      "description": "12 дней трудностей и радостей, новых навыков и досадных ошибок, новых впечатлений и преодоления - 12 дней, изменившие жизнь на \"до\" и \"после\" для 38 подростков.",
+      "url": "https://cosmatica.org/news/1477-kosmodesant-2022.html",
+      "image": "https://cosmatica.org/upload/002/u218/5/6/kosmodesant-2022-photo-normal.jpg",
+      "kind": "news-item",
+      "href": "view.html?p=news-item&ref=068d4c5af28e14ed8f",
+      "type": "news-item",
+      "sourceCharacters": 10512,
+      "verified": false
+    },
     {
       "title": "Человеку, у которого есть сердце",
       "description": "Эти слова принадлежат Антуану де Сент-Экзюпери и сказаны им в 1939 году.",
@@ -132,47 +165,14 @@
       "verified": false
     },
     {
-      "title": "Утриш принял гостей с Донбасса",
-      "description": "Месяц назад мы обращались к вам, друзья за помощью. Мы собирали средства для дооснащения нашего лагеря семейными палатками , чтобы принять семьи с Донбасса. Огромная сердечная благодарность всем тем, кто откликнулся и оказал материальную поддержку. Общими усилиями мы собрали 29000р.",
-      "url": "https://cosmatica.org/news/1470-utrish-prinjal-gostei-s-donbassa.html",
-      "image": "https://cosmatica.org/upload/000/u35/b/a/utrish-prinjal-gostei-s-donbassa-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=3bbd6d69bdbe229a78",
-      "type": "news-item",
-      "sourceCharacters": 4478,
-      "verified": false
-    },
-    {
-      "title": "Редкий вид Курской земли",
-      "description": "Команда АНО \"Интелрост\" во главе с действительным членом Русского Космического Общества Еленой Владимировной Дубровской , в рамках реализации всенародной системы воспитания - \"Киноуроки в школах мира\" проводит активную подготовку к началу съёмок фильма-урока от Курской области.",
-      "url": "https://cosmatica.org/news/1468-redkii-vid-kurskoi-zemli.html",
-      "image": "https://cosmatica.org/upload/000/u7/6/7/redkii-vid-kurskoi-zemli-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=a34fd71901ce1df93a",
-      "type": "news-item",
-      "sourceCharacters": 2351,
-      "verified": false
-    },
-    {
-      "title": "Аллея Славы юных Героев Великой Отечественной войны на Брянщине",
-      "description": "Стихи А. В. Сафронова на музыку С. А. Каца яркий пример того, как ёмко передать образ Партизанской войны из поколения в поколение.",
-      "url": "https://cosmatica.org/news/1467-alleja-slavy-yunyh-geroev-velikoi-otechestvennoi-voiny-na-brjanschine.html",
-      "image": "https://cosmatica.org/upload/000/u35/7/9/alleja-slavy-yunyh-geroev-velikoi-otechestvennoi-voiny-na-brjanschine.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=319fb0c1a38fbc7bde",
-      "type": "news-item",
-      "sourceCharacters": 9268,
-      "verified": false
-    },
-    {
-      "title": "Научно-философские предпосылки концепции Космоса созидания (космосозидания)",
-      "description": "Научно-философские предпосылки концепции Космоса созидания (космосозидания)",
-      "url": "https://cosmatica.org/articles/1466-nauchno-filosofskie-predposylki-koncepcii-kosmosa-sozidanija-kosmosozidanija.html",
+      "title": "Мой космический корабль",
+      "description": "Идея: Создание детального исследования методов и технологий, использующихся в проектировании космических кораблей, с упором на итеративные процессы и адаптацию к новым условиям.",
+      "url": "https://cosmatica.org/articles/1470-moi-kosmicheskii-korabl.html",
       "image": null,
       "kind": "article",
-      "href": "view.html?p=article&ref=8d1720b0f55930aa5c",
+      "href": "view.html?p=article&ref=47af7cfd92bf929408",
       "type": "article",
-      "sourceCharacters": 6412,
+      "sourceCharacters": 1424,
       "verified": false
     }
   ],

@@ -7,9 +7,20 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 10,
   "pageCount": 16,
-  "total": 234,
+  "total": 235,
   "blocks": [],
   "cards": [
+    {
+      "title": "Иван Иванович Санжаров",
+      "description": "Основатель и руководитель Зеленоградского кедрового питомника АНО «Кедры Родины»",
+      "url": "https://cosmatica.org/users/243",
+      "image": "https://cosmatica.org/upload/000/u35/c/1/736ff2da.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=c9e3e7172765e1a80b",
+      "type": "profile",
+      "sourceCharacters": 125,
+      "verified": false
+    },
     {
       "title": "Олег Алексеевич Калуцких",
       "description": "Большую часть времени он тренировал своих детей и вел занятия по боевым искусствам. Его дети Даниил и Кирилл, общеизвестные как «братья Калуцких», добились широкого признания по всему миру в качестве цирковых акробатов оригинального жанра.",
@@ -162,17 +173,6 @@
       "href": "view.html?p=profile&ref=de1ea19b8800b21376",
       "type": "profile",
       "sourceCharacters": 1606,
-      "verified": false
-    },
-    {
-      "title": "Ирина Константиновна Лапшина",
-      "description": "Зав. кафедрой всеобщей истории Владимирского государственного университета имени А.Г. и Н.Г. Столетовых, д.и.н., профессор.",
-      "url": "https://cosmatica.org/users/279",
-      "image": "https://cosmatica.org/upload/000/u35/a/2/d34b2294.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=45ab28d1200144476f",
-      "type": "profile",
-      "sourceCharacters": 607,
       "verified": false
     }
   ],

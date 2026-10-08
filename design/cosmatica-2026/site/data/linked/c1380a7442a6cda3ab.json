@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u1/7a/90/a-i-subetto-yurii-alekseevich-gagarin-simvol-noosferno-kosmich.png",
+      "src": "assets/source/book-covers/dd71d1eb883cb300c03c00.webp",
       "alt": "А.И. Субетто - Юрий Алексеевич Гагарин – символ Ноосферно-Космического Прорыва в Будущ"
     },
     {
@@ -41,7 +41,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u1/7a/90/a-i-subetto-yurii-alekseevich-gagarin-simvol-noosferno-kosmich.png"
+    "assets/source/book-covers/dd71d1eb883cb300c03c00.webp"
   ],
   "documents": [
     {

@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/001/u165/6/2/b223f9f5.jpg",
+      "src": "assets/source/book-covers/f98d59928b229d58943600.webp",
       "alt": "Феномены космоноосферного пространства: социоакмеологические интерпретации"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/001/u165/6/2/b223f9f5.jpg"
+    "assets/source/book-covers/f98d59928b229d58943600.webp"
   ],
   "documents": [
     {

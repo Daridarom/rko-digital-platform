@@ -4,49 +4,49 @@
   "sourceUrl": "https://cosmatica.org/glossary/t",
   "title": "Т",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Тенденция",
-      "level": 2
+      "title": "Тенденция",
+      "url": "https://cosmatica.org/glossary/166-tendencija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Творчество",
-      "level": 2
+      "title": "Творчество",
+      "url": "https://cosmatica.org/glossary/38-tvorchestvo.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Тензор",
-      "level": 2
+      "title": "Тензор",
+      "url": "https://cosmatica.org/glossary/37-tenzor.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Тензорный анализ",
-      "level": 2
+      "title": "Тензорный анализ",
+      "url": "https://cosmatica.org/glossary/36-tenzornyi-analiz.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Теория",
-      "level": 2
+      "title": "Теория",
+      "url": "https://cosmatica.org/glossary/35-teorija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Технология",
-      "level": 2
+      "title": "Технология",
+      "url": "https://cosmatica.org/glossary/34-tehnologija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Товар (услуга)",
-      "level": 2
+      "title": "Товар (услуга)",
+      "url": "https://cosmatica.org/glossary/33-tovar-usluga.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Труд",
-      "level": 2
+      "title": "Труд",
+      "url": "https://cosmatica.org/glossary/32-trud.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -66,5 +66,7 @@
   "sourceTextCharacters": 84,
   "capturedBodyCharacters": 75,
   "sourceTextSHA256": "6a073c630df882c319da112b267c360c9dd4d5850c3074b24fda8f358ebb68e3",
-  "archiveSnapshotAt": "2026-10-08T08:47:29Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:29Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 8
 }

@@ -7,9 +7,20 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 8,
   "pageCount": 16,
-  "total": 234,
+  "total": 235,
   "blocks": [],
   "cards": [
+    {
+      "title": "Ольга Викторовна Новикова",
+      "description": "Член социально-культурного проекта «Резонанс»",
+      "url": "https://cosmatica.org/users/193",
+      "image": "https://cosmatica.org/upload/000/u21/1/1/76378701.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a6e2d5831609abf2b1",
+      "type": "profile",
+      "sourceCharacters": 95,
+      "verified": false
+    },
     {
       "title": "Пётр Григорьевич Никитенко",
       "description": "Председатель Представительства РКО в Республике Беларусь.",
@@ -162,17 +173,6 @@
       "href": "view.html?p=profile&ref=e3e0f1dbc4170caf9a",
       "type": "profile",
       "sourceCharacters": 0,
-      "verified": false
-    },
-    {
-      "title": "Виталий Владиславович Лебедев",
-      "description": "Виталий Владиславович Лебедев родился 5 октября 1964 г. в г.Ленинграде в семье служащих. В 1980 г. закончил 8-летнюю Среднюю школу № 125 и одновременно Художественную школу № 6. В этом же году поступил в Ленинградский Физико-механический техникум им. Зверева на Факультет «Оптико-электронные приборы», который успешно закончил в 1984 г.",
-      "url": "https://cosmatica.org/users/22",
-      "image": "https://cosmatica.org/upload/000/u21/b6/41/6e42c0a2.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=c1c8dbe36c8813f73d",
-      "type": "profile",
-      "sourceCharacters": 33138,
       "verified": false
     }
   ],

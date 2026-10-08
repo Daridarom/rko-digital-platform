@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u15/14/a9/zhizn-i-rabota-v-kosmose-photo-normal.jpg",
+      "src": "assets/source/book-covers/0a9c7b591928cacec46c2d.webp",
       "alt": "Жизнь и работа в космосе"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u15/14/a9/zhizn-i-rabota-v-kosmose-photo-normal.jpg"
+    "assets/source/book-covers/0a9c7b591928cacec46c2d.webp"
   ],
   "documents": [
     {

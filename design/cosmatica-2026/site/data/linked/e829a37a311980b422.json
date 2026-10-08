@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/224-solidarnost.html",
+  "title": "Солидарность",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Способность и возможность людей жить с самими собой и с другими в любви, добре и истине.",
+      "spans": [
+        {
+          "text": "Способность и возможность людей жить с самими собой и с другими в любви, добре и истине."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Способность и возможность людей жить с самими собой и с другими в любви, добре и истине.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 101,
+    "storedTextCharacters": 88,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31730
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 88,
+  "capturedBodyCharacters": 88,
+  "sourceTextSHA256": "0025fbc279bc9ac471be9ff9378312160021dd96f0d4b82c0d0bf9cc78dec595",
+  "archiveSnapshotAt": "2026-10-08T10:36:27Z"
+}

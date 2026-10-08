@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/203-celnost.html",
+  "title": "Цельность",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это отсутствие претензий к Вселенной.",
+      "spans": [
+        {
+          "text": "это отсутствие претензий к Вселенной."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это отсутствие претензий к Вселенной.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 47,
+    "storedTextCharacters": 37,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31508
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 37,
+  "capturedBodyCharacters": 37,
+  "sourceTextSHA256": "102e18919a3808a4f604bd7a99e52d4a47d4db1c32f98ad07abc82bfa48fa431",
+  "archiveSnapshotAt": "2026-10-08T10:36:26Z"
+}

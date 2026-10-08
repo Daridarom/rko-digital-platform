@@ -1,4 +1,29 @@
 const params=new URLSearchParams(location.search);
+// Category choice is available before the first search, not only on results.
+if(params.get('p')==='search'){
+ const form=document.querySelector('#searchForm');
+ if(form){
+  try{
+   const reply=await fetch('data/archive/sections.json?v=archive75');
+   if(reply.ok){
+    const categories=await reply.json();
+    const label=document.createElement('label');
+    label.className='search-category-label';
+    label.textContent='Раздел';
+    const select=document.createElement('select');
+    select.className='search-category-select';select.id='searchSection';select.name='section';
+    for(const item of categories){
+     if(!item.count)continue;
+     const option=document.createElement('option');
+     option.value=item.key;
+     option.textContent=item.title+' ('+item.count.toLocaleString('ru')+')';
+     select.append(option);
+    }
+    label.append(select);form.insertBefore(label,form.querySelector('button'));
+   }
+  }catch(err){console.warn('Search category options unavailable',String(err));}
+ }
+}
 if(params.get('p')==='search-results'){
  const root=document.querySelector('.search-section .shell');
  const query=(params.get('q')||'').trim();
@@ -7,17 +32,33 @@ if(params.get('p')==='search-results'){
  const make=(tag,cls='',text='')=>{const x=document.createElement(tag);if(cls)x.className=cls;if(text)x.textContent=text;return x;};
  if(root){
   try{
-   const first=await fetch('data/archive/search-index.json?v=archive1');
+   const first=await fetch('data/archive/search-index.json?v=archive75');
    const r=first.ok?first:await fetch('data/search-index.json?v=contentqa61');
    if(!r.ok)throw Error('Search index');
    const data=await r.json();
    if(!Array.isArray(data.records))throw Error('Search schema');
+   const sectionsResponse=await fetch('data/archive/sections.json?v=archive75');
+   const sections=sectionsResponse.ok?await sectionsResponse.json():[];
+   const category=params.get('section')||'all';
+   const current=sections.some(s=>s.key===category)?category:'all';
+   const form=root.querySelector('#searchForm');
+   if(form&&!form.querySelector('#searchSection')){
+    const wrapper=make('label','search-category-label','Раздел');
+    const dropdown=make('select','search-category-select');
+    dropdown.id='searchSection';dropdown.name='section';
+    for(const section of sections){if(!section.count)continue;
+     const option=make('option','',section.title+' ('+section.count.toLocaleString('ru')+')');
+     option.value=section.key;option.selected=section.key===current;dropdown.append(option);
+    }
+    wrapper.append(dropdown);
+    form.insertBefore(wrapper,form.querySelector('button'));
+   }
    const results=[];
    let matchedIds=null;
    if(terms.length&&data.sharded&&terms.every(t=>t.length>=3&&t.length<=80)){
     const keys=[...new Set(terms.map(t=>t.codePointAt(0).toString(16)))];
     const loaded=await Promise.all(keys.map(async key=>{
-     const response=await fetch('data/archive/search-shards/'+key+'.json?v=archive1');
+     const response=await fetch('data/archive/search-shards/'+key+'.json?v=archive75');
      return [key,response.ok?await response.json():{}];
     }));
     const byKey=Object.fromEntries(loaded);
@@ -35,14 +76,18 @@ if(params.get('p')==='search-results'){
    if(terms.length){
     const candidates=matchedIds===null?data.records:[...(matchedIds||[])].map(id=>data.records[id]).filter(Boolean);
     for(const item of candidates){
+     if(current!=='all'&&!(item.sections||[]).includes(current))continue;
      const rank=terms.reduce((n,w)=>n+(norm(item.title).includes(w)?6:1),0);
      if(matchedIds===null&&!terms.every(w=>(norm(item.title)+' '+norm(item.text)).includes(w)))continue;
      results.push({...item,rank});
     }
-    results.sort((a,b)=>b.rank-a.rank||a.title.localeCompare(b.title,'ru'));
+    const publicId=item=>Number(item.url?.match(/\/(\d+)-/)?.[1]||0);
+    // After lexical relevance, prioritise newer public records over alphabetic order.
+    results.sort((a,b)=>b.rank-a.rank||publicId(b)-publicId(a)||a.title.localeCompare(b.title,'ru'));
    }
    const heading=root.querySelector('.search-heading')||root.appendChild(make('h2','search-heading'));
-   heading.textContent=query?'Найдено материалов: '+results.length:'Введите поисковый запрос';
+   const label=sections.find(s=>s.key===current)?.title||'Все разделы';
+   heading.textContent=query?'Найдено материалов: '+results.length+(current!=='all'?' · '+label:''):'Введите поисковый запрос';
    // Replace the fixture's results before showing the real full-text index.
    root.querySelectorAll(':scope > .grid:not(.search-grid), :scope > .empty-state, :scope > .search-grid, :scope > .search-empty, :scope > .source-search-pages').forEach(node=>node.remove());
    const size=20,max=Math.max(1,Math.ceil(results.length/size));
@@ -65,7 +110,7 @@ if(params.get('p')==='search-results'){
     const nav=make('nav','source-search-pages');nav.setAttribute('aria-label','Страницы результатов');
     for(let p=Math.max(1,page-2);p<=Math.min(max,page+2);p++){
      const a=make('a',page===p?'active':'',String(p));
-     a.href='view.html?p=search-results&q='+encodeURIComponent(query)+'&page='+p;
+     a.href='view.html?p=search-results&q='+encodeURIComponent(query)+'&section='+encodeURIComponent(current)+'&page='+p;
      if(page===p)a.setAttribute('aria-current','page');nav.append(a);
     }
     root.append(nav);

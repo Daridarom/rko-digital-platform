@@ -4,24 +4,24 @@
   "sourceUrl": "https://cosmatica.org/glossary/h",
   "title": "Х",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Хомогеобиоценозы",
-      "level": 2
+      "title": "Хомогеобиоценозы",
+      "url": "https://cosmatica.org/glossary/217-homogeobiocenozy.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Хомобиотический оборот",
-      "level": 2
+      "title": "Хомобиотический оборот",
+      "url": "https://cosmatica.org/glossary/216-homobioticheskii-oborot.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Хроноцелостность процесса",
-      "level": 2
+      "title": "Хроноцелостность процесса",
+      "url": "https://cosmatica.org/glossary/15-hronocelostnost-processa.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -41,5 +41,7 @@
   "sourceTextCharacters": 67,
   "capturedBodyCharacters": 63,
   "sourceTextSHA256": "de07408ebb03d0d4e527c27038fedab736effd4f54de00bdacad100374bd84e0",
-  "archiveSnapshotAt": "2026-10-08T08:47:26Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:26Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 3
 }

@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u7/9/b/russkii-voin-buduschego-photo-normal.jpg",
+      "src": "assets/source/book-covers/4d79285979dee59cf2162f.webp",
       "alt": "Русский Воин Будущего"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u7/9/b/russkii-voin-buduschego-photo-normal.jpg"
+    "assets/source/book-covers/4d79285979dee59cf2162f.webp"
   ],
   "documents": [
     {

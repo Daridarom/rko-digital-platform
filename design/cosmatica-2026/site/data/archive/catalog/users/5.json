@@ -7,9 +7,20 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 5,
   "pageCount": 16,
-  "total": 234,
+  "total": 235,
   "blocks": [],
   "cards": [
+    {
+      "title": "Татьяна Дмитриевна Жукова",
+      "description": "Президент РШБА (Ассоциация школьных библиотек России)",
+      "url": "https://cosmatica.org/users/123",
+      "image": "https://cosmatica.org/upload/000/u26/19/b4/8943e972.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=3bd6fc75b2b191ef7a",
+      "type": "profile",
+      "sourceCharacters": 177,
+      "verified": false
+    },
     {
       "title": "Салман Гамдуллаевич Мирзаи",
       "description": "",
@@ -162,17 +173,6 @@
       "href": "view.html?p=profile&ref=4ffc1831f935188f35",
       "type": "profile",
       "sourceCharacters": 320,
-      "verified": false
-    },
-    {
-      "title": "Максим Васильевич Евдокимов",
-      "description": "Фотограф, любитель астрономии. Член клуба любителей астрономии «АстроПсков»",
-      "url": "https://cosmatica.org/users/144",
-      "image": "https://cosmatica.org/upload/002/u218/2/2/510e9bca.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=a12ad8410fd0d867ec",
-      "type": "profile",
-      "sourceCharacters": 114,
       "verified": false
     }
   ],

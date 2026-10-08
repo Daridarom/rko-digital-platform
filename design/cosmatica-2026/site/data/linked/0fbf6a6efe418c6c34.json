@@ -4,69 +4,69 @@
   "sourceUrl": "https://cosmatica.org/glossary/m",
   "title": "М",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Могущество народа",
-      "level": 2
+      "title": "Могущество народа",
+      "url": "https://cosmatica.org/glossary/183-moguschestvo-naroda.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Материализованная форма знания",
-      "level": 2
+      "title": "Материализованная форма знания",
+      "url": "https://cosmatica.org/glossary/112-materializovannaja-forma-znanija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Маркетинг",
-      "level": 2
+      "title": "Маркетинг",
+      "url": "https://cosmatica.org/glossary/111-marketing.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Математический закон",
-      "level": 2
+      "title": "Математический закон",
+      "url": "https://cosmatica.org/glossary/110-matematicheskii-zakon.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Меновая стоимость",
-      "level": 2
+      "title": "Меновая стоимость",
+      "url": "https://cosmatica.org/glossary/109-menovaja-stoimost.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Метод",
-      "level": 2
+      "title": "Метод",
+      "url": "https://cosmatica.org/glossary/108-metod.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Мера",
-      "level": 2
+      "title": "Мера",
+      "url": "https://cosmatica.org/glossary/107-mera.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Мировоззрение",
-      "level": 2
+      "title": "Мировоззрение",
+      "url": "https://cosmatica.org/glossary/106-mirovozzrenie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Модель",
-      "level": 2
+      "title": "Модель",
+      "url": "https://cosmatica.org/glossary/105-model.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Мощность",
-      "level": 2
+      "title": "Мощность",
+      "url": "https://cosmatica.org/glossary/104-moschnost.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Мощность валюты",
-      "level": 2
+      "title": "Мощность валюты",
+      "url": "https://cosmatica.org/glossary/103-moschnost-valyuty.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Методология",
-      "level": 2
+      "title": "Методология",
+      "url": "https://cosmatica.org/glossary/102-metodologija.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -86,5 +86,7 @@
   "sourceTextCharacters": 168,
   "capturedBodyCharacters": 155,
   "sourceTextSHA256": "68b5b4f69aaaf9c3ebc7edd2cca1c075a02e252c9b4779116f81879727b2c702",
-  "archiveSnapshotAt": "2026-10-08T08:47:27Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:27Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 12
 }

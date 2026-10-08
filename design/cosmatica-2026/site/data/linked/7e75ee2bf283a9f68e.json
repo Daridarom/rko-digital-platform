@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/f/a/krupnomasshtabnaja-struktura-prostranstva-vremeni-photo-normal.jpg",
+      "src": "assets/source/book-covers/32c69801d275ecab36ad5a.webp",
       "alt": "Крупномасштабная структура пространства - времени"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/f/a/krupnomasshtabnaja-struktura-prostranstva-vremeni-photo-normal.jpg"
+    "assets/source/book-covers/32c69801d275ecab36ad5a.webp"
   ],
   "documents": [
     {

@@ -4,24 +4,24 @@
   "sourceUrl": "https://cosmatica.org/glossary/f",
   "title": "Ф",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Финансы",
-      "level": 2
+      "title": "Финансы",
+      "url": "https://cosmatica.org/glossary/18-finansy.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Физическая величина",
-      "level": 2
+      "title": "Физическая величина",
+      "url": "https://cosmatica.org/glossary/17-fizicheskaja-velichina.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Физический закон",
-      "level": 2
+      "title": "Физический закон",
+      "url": "https://cosmatica.org/glossary/16-fizicheskii-zakon.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -41,5 +41,7 @@
   "sourceTextCharacters": 46,
   "capturedBodyCharacters": 42,
   "sourceTextSHA256": "d8b1eb0c3775fd42bbd2e5037df5d87b965fbafcba0922583a4f5ab01f197c5b",
-  "archiveSnapshotAt": "2026-10-08T08:47:24Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:24Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 3
 }

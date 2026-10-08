@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u26/a/a/izuchai-svoi-krai-photo-normal.png",
+      "src": "assets/source/book-covers/6ff2937ed0c22dbab62bbf.webp",
       "alt": "Изучай свой край"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u26/a/a/izuchai-svoi-krai-photo-normal.png"
+    "assets/source/book-covers/6ff2937ed0c22dbab62bbf.webp"
   ],
   "documents": [
     {

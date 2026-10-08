@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/199-soevolyucija.html",
+  "title": "Соэволюция",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Направляемая разумом человека совместная эволюция живой и неживой материи в системе \"природа-общество-человек\", в целях сохранения развития Вселенной, в неограниченной пространственно-временной перспективе.",
+      "spans": [
+        {
+          "text": "Направляемая разумом человека совместная эволюция живой и неживой материи в системе \"природа-общество-человек\", в целях сохранения развития Вселенной, в неограниченной пространственно-временной перспективе."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Направляемая разумом человека совместная эволюция живой и неживой материи в системе \"природа-общество-человек\", в целях сохранения развития Вселенной, в неограниченной пространственно-временной перспективе.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 217,
+    "storedTextCharacters": 206,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32271
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 206,
+  "capturedBodyCharacters": 206,
+  "sourceTextSHA256": "a89911ee5bc87eaf33994b8d8f5954f91b68886b8e5965d07008f182a78ab541",
+  "archiveSnapshotAt": "2026-10-08T10:36:26Z"
+}

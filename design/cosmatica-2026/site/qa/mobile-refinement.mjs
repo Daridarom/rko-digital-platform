@@ -53,7 +53,8 @@ async function verify(slug,width,height){
    assert(x.poster?.w>=x.firstCard.w-4,'Poster is narrow: '+JSON.stringify(x));
    assert(Math.abs(x.poster?.y-x.firstCard.y)<5,'Poster not on top of card');
    assert(x.image?.objectFit==='contain','Poster image is cropped');
-   assert(x.cardTitle?.clamp==='3','Title not visually clamped');
+   assert(x.cardTitle?.font>=16,'Poster title is too small');
+   assert(x.cardTitle?.clamp!=='3','Poster title is unnecessarily truncated');
    const src=await page.locator('.source-card-media img').first().evaluate(img=>({natural:img.naturalWidth,complete:img.complete}));
    assert(src.natural>0&&src.complete,'Poster image failed to load');
   }

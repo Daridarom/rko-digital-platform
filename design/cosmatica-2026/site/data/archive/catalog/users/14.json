@@ -7,9 +7,20 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 14,
   "pageCount": 16,
-  "total": 234,
+  "total": 235,
   "blocks": [],
   "cards": [
+    {
+      "title": "Сергей Иванович Сухонос",
+      "description": "Кандидат технических наук, генеральный директор фирмы «Рус-Атлант».",
+      "url": "https://cosmatica.org/users/45",
+      "image": "https://cosmatica.org/upload/000/u8/fe/a5/193d4454.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=76c953b5d5904fa788",
+      "type": "profile",
+      "sourceCharacters": 622,
+      "verified": false
+    },
     {
       "title": "Елена Витальевна Сулава",
       "description": "",
@@ -162,17 +173,6 @@
       "href": "view.html?p=profile&ref=07ade1fd09374c3d14",
       "type": "profile",
       "sourceCharacters": 1405,
-      "verified": false
-    },
-    {
-      "title": "Виктор Александрович Соловьёв",
-      "description": "Руководитель фонда поддержки и развития семей «Родная семья».",
-      "url": "https://cosmatica.org/users/659",
-      "image": "https://cosmatica.org/upload/002/u218/d/7/11f0f6cb.jpeg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=56cb54bddf7b40fabd",
-      "type": "profile",
-      "sourceCharacters": 221,
       "verified": false
     }
   ],

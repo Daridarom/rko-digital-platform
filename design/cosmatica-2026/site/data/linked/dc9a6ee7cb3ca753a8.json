@@ -4,69 +4,69 @@
   "sourceUrl": "https://cosmatica.org/glossary/i",
   "title": "И",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Империум человека",
-      "level": 2
+      "title": "Империум человека",
+      "url": "https://cosmatica.org/glossary/214-imperium-cheloveka.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Инвариант процесса исторического развития",
-      "level": 2
+      "title": "Инвариант процесса исторического развития",
+      "url": "https://cosmatica.org/glossary/170-invariant-processa-istoricheskogo-razvitija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Инвариант в математике",
-      "level": 2
+      "title": "Инвариант в математике",
+      "url": "https://cosmatica.org/glossary/169-invariant-v-matematike.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Инвариант в физике",
-      "level": 2
+      "title": "Инвариант в физике",
+      "url": "https://cosmatica.org/glossary/168-invariant-v-fizike.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Инвариант",
-      "level": 2
+      "title": "Инвариант",
+      "url": "https://cosmatica.org/glossary/125-invariant.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Интуитивная теория",
-      "level": 2
+      "title": "Интуитивная теория",
+      "url": "https://cosmatica.org/glossary/124-intuitivnaja-teorija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Интуитивное мировоззрение",
-      "level": 2
+      "title": "Интуитивное мировоззрение",
+      "url": "https://cosmatica.org/glossary/123-intuitivnoe-mirovozzrenie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Инновационное развитие",
-      "level": 2
+      "title": "Инновационное развитие",
+      "url": "https://cosmatica.org/glossary/122-innovacionnoe-razvitie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Измерение",
-      "level": 2
+      "title": "Измерение",
+      "url": "https://cosmatica.org/glossary/121-izmerenie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Измеритель",
-      "level": 2
+      "title": "Измеритель",
+      "url": "https://cosmatica.org/glossary/120-izmeritel.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Информация",
-      "level": 2
+      "title": "Информация",
+      "url": "https://cosmatica.org/glossary/119-informacija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Инновация",
-      "level": 2
+      "title": "Инновация",
+      "url": "https://cosmatica.org/glossary/118-innovacija.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -86,5 +86,7 @@
   "sourceTextCharacters": 223,
   "capturedBodyCharacters": 210,
   "sourceTextSHA256": "fa9586705cfd79b328579a9a93cd970b503507162f47f86345cd689458271da8",
-  "archiveSnapshotAt": "2026-10-08T08:47:25Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:25Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 12
 }

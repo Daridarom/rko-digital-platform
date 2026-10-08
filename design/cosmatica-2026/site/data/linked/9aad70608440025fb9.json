@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/0/4/galileeva-kometa-1909-photo-normal.png",
+      "src": "assets/source/book-covers/c0fa5d67b14a3b3cda971a.webp",
       "alt": "Галилеева комета (1909)"
     }
   ],
@@ -32,7 +32,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/0/4/galileeva-kometa-1909-photo-normal.png"
+    "assets/source/book-covers/c0fa5d67b14a3b3cda971a.webp"
   ],
   "documents": [
     {

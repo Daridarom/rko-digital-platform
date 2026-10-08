@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u35/d/8/sotvorenija-photo-normal.jpg",
+      "src": "assets/source/book-covers/6c5fc65e3a5d0717d0277b.webp",
       "alt": "Сотворения"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u35/d/8/sotvorenija-photo-normal.jpg"
+    "assets/source/book-covers/6c5fc65e3a5d0717d0277b.webp"
   ],
   "documents": [
     {

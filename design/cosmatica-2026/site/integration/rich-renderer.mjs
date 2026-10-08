@@ -86,6 +86,7 @@ export function createRichBlocks(blocks=[], options={}){
    if(!src)continue;
    element=node('figure','rich-figure');
    const img=node('img');img.src=src;img.alt=String(b.alt||'');img.loading='lazy';
+   img.addEventListener('error',()=>element.replaceChildren(node('figcaption','rich-image-unavailable','Исходное изображение временно недоступно')));
    element.append(img);
    if(b.caption)element.append(node('figcaption','',b.caption));
   }else if(b.type==='video'&&approvedVideo(b)){

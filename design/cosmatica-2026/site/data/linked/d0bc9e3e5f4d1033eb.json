@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/9/c/fd8d2490.jpg",
+      "src": "assets/source/book-covers/7c150ce17151c35273d5d6.webp",
       "alt": "Кто первый"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/9/c/fd8d2490.jpg"
+    "assets/source/book-covers/7c150ce17151c35273d5d6.webp"
   ],
   "documents": [
     {

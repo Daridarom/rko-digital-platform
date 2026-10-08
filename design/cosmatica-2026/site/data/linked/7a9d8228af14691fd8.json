@@ -4,49 +4,49 @@
   "sourceUrl": "https://cosmatica.org/glossary/r",
   "title": "Р",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Развитие обусловленное эволюционно",
-      "level": 2
+      "title": "Развитие обусловленное эволюционно",
+      "url": "https://cosmatica.org/glossary/195-razvitie-obuslovlennoe-evolyucionno.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Работа",
-      "level": 2
+      "title": "Работа",
+      "url": "https://cosmatica.org/glossary/62-rabota.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Размерность математическая",
-      "level": 2
+      "title": "Размерность математическая",
+      "url": "https://cosmatica.org/glossary/61-razmernost-matematicheskaja.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Размерность физическая",
-      "level": 2
+      "title": "Размерность физическая",
+      "url": "https://cosmatica.org/glossary/60-razmernost-fizicheskaja.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Реализованная или экономическая возможность",
-      "level": 2
+      "title": "Реализованная или экономическая возможность",
+      "url": "https://cosmatica.org/glossary/59-realizovannaja-ili-ekonomicheskaja-vozmozhnost.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Реальная возможность",
-      "level": 2
+      "title": "Реальная возможность",
+      "url": "https://cosmatica.org/glossary/58-realnaja-vozmozhnost.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Развитие",
-      "level": 2
+      "title": "Развитие",
+      "url": "https://cosmatica.org/glossary/57-razvitie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Рост",
-      "level": 2
+      "title": "Рост",
+      "url": "https://cosmatica.org/glossary/56-rost.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -66,5 +66,7 @@
   "sourceTextCharacters": 172,
   "capturedBodyCharacters": 163,
   "sourceTextSHA256": "65ad63d12a3a6361062f1275b383cc5f117e897be1e95da045e5421f15607043",
-  "archiveSnapshotAt": "2026-10-08T08:47:28Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:28Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 8
 }

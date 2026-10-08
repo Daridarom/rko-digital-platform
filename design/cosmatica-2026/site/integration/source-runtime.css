@@ -9,6 +9,15 @@
 .source-filter-input{min-height:46px;max-width:100%;border:1px solid var(--line);border-radius:12px;padding:0 14px;color:var(--text);background:var(--surface);font-size:15px}
 .source-filter-input:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 .source-filter-count{font-size:13px;color:var(--muted);padding-bottom:12px}
+.source-filterbar-global{justify-content:flex-start;align-items:flex-end;gap:10px;margin:18px 0 24px}
+.source-filterbar-global .source-filterlabel{flex:1;max-width:620px;font-size:14px}
+.source-filter-submit{height:46px;min-width:108px;padding:0 22px;border:0;border-radius:12px;background:var(--red);color:#fff;font-size:15px;font-weight:750;cursor:pointer}
+.source-filter-submit:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+.source-listing-intro{max-width:850px;margin:4px 0 26px;font-size:16px;line-height:1.72}
+.source-listing-intro .rich-blocks p{margin:0 0 15px}
+.search-box .search-category-label{display:flex;flex-direction:column;gap:5px;min-width:180px;font-size:13px;font-weight:650}
+.search-box .search-category-select{height:48px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--text);padding:0 12px;max-width:270px;font-size:14px}
+.search-category-select:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 .source-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:0 0 38px}
 .source-card{display:flex;flex-direction:column;min-width:0;overflow:hidden;min-height:175px;border:1px solid var(--line);border-radius:18px;background:var(--surface);color:var(--text);text-decoration:none}
 .source-card[hidden]{display:none!important}
@@ -75,6 +84,14 @@ a.source-card:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
  .source-headline .eyebrow{font-size:10px;letter-spacing:.11em}
  .source-intro{font-size:14px}
  .source-filterbar{gap:6px;margin-bottom:12px}
+ .source-filterbar-global{gap:10px;align-items:stretch}
+ .source-filterbar-global .source-filterlabel{width:100%;max-width:none;font-size:13px}
+ .source-filter-submit{width:100%;min-height:44px}
+ .source-listing-intro{font-size:15px;line-height:1.7;margin:0 0 20px}
+ .search-box .search-category-label{width:100%;min-width:0}
+ .search-box .search-category-select{width:100%;max-width:none}
+ .source-card .source-card-more p{display:block;-webkit-line-clamp:unset;overflow:visible;font-size:13.5px;line-height:1.58}
+ .source-card-more summary{min-height:40px}
  .source-filterlabel{width:100%}
  .source-filter-input{width:100%}
  .source-filter-count{padding-bottom:3px}
@@ -83,12 +100,12 @@ a.source-card:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
  .source-card-media{min-width:105px;width:105px;height:auto;max-height:185px}
  .source-card-copy{padding:14px;gap:7px}
  .source-card h3{font-size:16px}
- .source-card p{font-size:12px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
+ .source-card p{font-size:13.5px;line-height:1.55;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
  .source-card-arrow{font-size:11px}
  .source-details{grid-template-columns:1fr;gap:5px;padding:16px;border-radius:13px}
  .source-details dt{font-size:12px;margin-top:8px}
  .source-details dd{font-size:14px}
- .source-rich-body{font-size:15px;line-height:1.65}
+ .source-rich-body{font-size:16px;line-height:1.7}
  .source-gallery{grid-template-columns:repeat(2,minmax(0,1fr))}
  .source-gallery-item img{height:155px}
  .source-home-archive>summary{font-size:14px;padding:20px 16px}

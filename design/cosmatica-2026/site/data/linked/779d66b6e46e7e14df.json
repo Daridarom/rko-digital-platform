@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u10/e/1/sbornik-dokladov-nauchnoi-konferencii-studentov-i-aspirantov-pos.jpg",
+      "src": "assets/source/book-covers/cfd332e22f2476b08f7a80.webp",
       "alt": "Сборник докладов научной конференции студентов и аспирантов, посвящённой 15-летию Университета «Дубна»"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u10/e/1/sbornik-dokladov-nauchnoi-konferencii-studentov-i-aspirantov-pos.jpg"
+    "assets/source/book-covers/cfd332e22f2476b08f7a80.webp"
   ],
   "documents": [
     {

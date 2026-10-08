@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1332-4-svoboda-ili-otvetstvennost-za-vsyo-chto-my-tvorim-na-zemle.html",
+  "title": "4. Свобода или Ответственность за всё, что мы творим на Земле?",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке»",
+      "spans": [
+        {
+          "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и  "
+        },
+        {
+          "text": "стратегия",
+          "href": "https://cosmatica.org/glossary/41-strategija.html"
+        },
+        {
+          "text": " эволю-ционного прорыва России и человечества в XXI веке» "
+        }
+      ],
+      "links": [
+        {
+          "text": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Лекция 4: Свобода или Ответственность за всё, что мы творим на Земле? На пути к новой, ноосферной науке об управлении",
+      "spans": [
+        {
+          "text": "Лекция 4: Свобода или Ответственность за всё, что мы творим на Земле? На пути к новой, ноосферной науке об управлении"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "6STyOC3aa4I",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=6STyOC3aa4I"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке» Лекция 4: Свобода или Ответственность за всё, что мы творим на Земле? На пути к новой, ноосферной науке об управлении",
+      "links": [
+        {
+          "title": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 356,
+    "storedTextCharacters": 265,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 74665
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 293,
+  "capturedBodyCharacters": 265,
+  "sourceTextSHA256": "d49c5ea6fba9a4f3acbde8757991095581a0ec9b16206540a7f52d89046aaf4b",
+  "archiveSnapshotAt": "2026-10-08T10:53:08Z"
+}

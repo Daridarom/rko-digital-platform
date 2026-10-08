@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u19/6f/a5/petrov-n-v-zhivoi-kosmos-photo-normal.jpg",
+      "src": "assets/source/book-covers/e40d583c1a299a63c01944.webp",
       "alt": "Петров Н.В. - Живой космос"
     },
     {
@@ -64,7 +64,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u19/6f/a5/petrov-n-v-zhivoi-kosmos-photo-normal.jpg"
+    "assets/source/book-covers/e40d583c1a299a63c01944.webp"
   ],
   "documents": [
     {

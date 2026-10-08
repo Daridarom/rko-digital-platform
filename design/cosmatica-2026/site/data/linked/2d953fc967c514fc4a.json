@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/f/b/solnechnye-i-lunnye-zatmenija-1978-photo-normal.jpg",
+      "src": "assets/source/book-covers/9d31b38544eb48ed8b7553.webp",
       "alt": "Солнечные и лунные затмения (1978)"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/f/b/solnechnye-i-lunnye-zatmenija-1978-photo-normal.jpg"
+    "assets/source/book-covers/9d31b38544eb48ed8b7553.webp"
   ],
   "documents": [
     {

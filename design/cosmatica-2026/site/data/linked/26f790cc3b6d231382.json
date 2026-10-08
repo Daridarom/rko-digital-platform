@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u7/f/7/zapiski-kosmicheskogo-kontrrazvedchika-photo-normal.jpg",
+      "src": "assets/source/book-covers/2e3fe3b4a7998515223ea1.webp",
       "alt": "Записки космического контрразведчика"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u7/f/7/zapiski-kosmicheskogo-kontrrazvedchika-photo-normal.jpg"
+    "assets/source/book-covers/2e3fe3b4a7998515223ea1.webp"
   ],
   "documents": [
     {

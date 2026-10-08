@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/2/3/neznaika-v-strane-grafov-photo-normal.jpg",
+      "src": "assets/source/book-covers/66f9b1a6e9ad1390a2e59f.webp",
       "alt": "Незнайка в стране графов"
     }
   ],
@@ -32,7 +32,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/2/3/neznaika-v-strane-grafov-photo-normal.jpg"
+    "assets/source/book-covers/66f9b1a6e9ad1390a2e59f.webp"
   ],
   "documents": [
     {

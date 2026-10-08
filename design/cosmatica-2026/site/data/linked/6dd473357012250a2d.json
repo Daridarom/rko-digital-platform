@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/202-nasilie.html",
+  "title": "Насилие",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "это попытка выдать часть за целое",
+      "spans": [
+        {
+          "text": "это попытка выдать часть за целое"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "это попытка выдать часть за целое",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 41,
+    "storedTextCharacters": 33,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31456
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 33,
+  "capturedBodyCharacters": 33,
+  "sourceTextSHA256": "d6579bada86b9d312aae50c3725fd39d6a1aadc378da427a54f9b27ffc48cea0",
+  "archiveSnapshotAt": "2026-10-08T10:36:26Z"
+}

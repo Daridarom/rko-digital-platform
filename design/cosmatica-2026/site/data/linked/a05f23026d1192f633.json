@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/211-splochenie.html",
+  "title": "Сплочение",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "соединённость разного в гармоничное единство через Общее дело. Сплочение - пол пути к сключению.",
+      "spans": [
+        {
+          "text": "соединённость разного в гармоничное единство через Общее дело. Сплочение - пол пути к сключению."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "соединённость разного в гармоничное единство через Общее дело. Сплочение - пол пути к сключению.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 106,
+    "storedTextCharacters": 96,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31769
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 96,
+  "capturedBodyCharacters": 96,
+  "sourceTextSHA256": "d3b1125a5ebcaada109b985c3033b6e446cae4bdde5eb212721a58a00542fe4b",
+  "archiveSnapshotAt": "2026-10-08T10:36:26Z"
+}

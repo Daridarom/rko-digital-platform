@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u1/2a/df/a-e-armenskii-s-e-kochubei-m-p-lyubimov-s-o-travin-v.png",
+      "src": "assets/source/book-covers/713327cff02f512eb0239f.webp",
       "alt": "А.Е Арменский., С.Э. Кочубей ., М.П. Любимов ., С.О. Травин., В.В. Устюгов - Экономика суверенной де"
     },
     {
@@ -64,7 +64,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u1/2a/df/a-e-armenskii-s-e-kochubei-m-p-lyubimov-s-o-travin-v.png"
+    "assets/source/book-covers/713327cff02f512eb0239f.webp"
   ],
   "documents": [
     {

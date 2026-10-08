@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/a/3/kratkaja-istorija-vremeni-2001-photo-normal.jpg",
+      "src": "assets/source/book-covers/936314b9f1a6a7ee74fea7.webp",
       "alt": "Краткая история времени (2001)"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/a/3/kratkaja-istorija-vremeni-2001-photo-normal.jpg"
+    "assets/source/book-covers/936314b9f1a6a7ee74fea7.webp"
   ],
   "documents": [
     {

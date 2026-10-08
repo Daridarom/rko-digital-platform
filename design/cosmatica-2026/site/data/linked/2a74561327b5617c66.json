@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/4/7/astronomija-dlja-umnenkih-detei-kamni-kotorye-upali-s-neba-phot.png",
+      "src": "assets/source/book-covers/bbdb278e4281ba8f4c2641.webp",
       "alt": "Астрономия для умненьких детей. Камни, которые упали с неба"
     }
   ],
@@ -32,7 +32,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/4/7/astronomija-dlja-umnenkih-detei-kamni-kotorye-upali-s-neba-phot.png"
+    "assets/source/book-covers/bbdb278e4281ba8f4c2641.webp"
   ],
   "documents": [
     {

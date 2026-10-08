@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u14/9d/e1/6db2f0a9.jpg",
+      "src": "assets/source/book-covers/f8b7529fe04a359cb18fe5.webp",
       "alt": "Ноосферная Россия: стратегия прорыва"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u14/9d/e1/6db2f0a9.jpg"
+    "assets/source/book-covers/f8b7529fe04a359cb18fe5.webp"
   ],
   "documents": [
     {

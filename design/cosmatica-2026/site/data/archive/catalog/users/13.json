@@ -7,9 +7,20 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 13,
   "pageCount": 16,
-  "total": 234,
+  "total": 235,
   "blocks": [],
   "cards": [
+    {
+      "title": "Станислав Александрович Райковский",
+      "description": "Станочник широкого профиля оператор станков ЧПУ, ВПУ г.Комсомольск-на-Амуре.",
+      "url": "https://cosmatica.org/users/393",
+      "image": "https://cosmatica.org/upload/000/u35/f/f/c3009e2c.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=c463e1ae63ff7b4457",
+      "type": "profile",
+      "sourceCharacters": 935,
+      "verified": false
+    },
     {
       "title": "Мария Александровна Фонякова (Иванова)",
       "description": "",
@@ -162,17 +173,6 @@
       "href": "view.html?p=profile&ref=440217428203034195",
       "type": "profile",
       "sourceCharacters": 2281,
-      "verified": false
-    },
-    {
-      "title": "Сергей Иванович Сухонос",
-      "description": "Кандидат технических наук, генеральный директор фирмы «Рус-Атлант».",
-      "url": "https://cosmatica.org/users/45",
-      "image": "https://cosmatica.org/upload/000/u8/fe/a5/193d4454.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=76c953b5d5904fa788",
-      "type": "profile",
-      "sourceCharacters": 622,
       "verified": false
     }
   ],

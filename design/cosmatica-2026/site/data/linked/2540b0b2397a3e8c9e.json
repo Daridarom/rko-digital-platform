@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/218-doktrina-pobedy.html",
+  "title": "Доктрина Победы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "документ стратегического планирования, который определяет систему понятий, характеризующих современную войну гибридного типа, цели, задачи и основные направления государственной политики.",
+      "spans": [
+        {
+          "text": "документ стратегического планирования, который определяет систему понятий, характеризующих современную войну гибридного типа, цели, задачи и основные направления государственной политики."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "документ стратегического планирования, который определяет систему понятий, характеризующих современную войну гибридного типа, цели, задачи и основные направления государственной политики.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 203,
+    "storedTextCharacters": 187,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32249
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 187,
+  "capturedBodyCharacters": 187,
+  "sourceTextSHA256": "378912359df27e413917ad00ff81ae0123ba12327c776b9760bdf6d7b9c0fcf1",
+  "archiveSnapshotAt": "2026-10-08T10:36:26Z"
+}

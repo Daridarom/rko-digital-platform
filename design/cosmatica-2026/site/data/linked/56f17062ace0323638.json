@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u14/de/5e/subetto-a-i-zov-buduschego-mir-chelovechestvo-i-rossija-na-puti.jpg",
+      "src": "assets/source/book-covers/e9249cbcef4eca628b56a4.webp",
       "alt": "Зов Будущего: мир, человечество и Россия на пути к ноосферной гармонии"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u14/de/5e/subetto-a-i-zov-buduschego-mir-chelovechestvo-i-rossija-na-puti.jpg"
+    "assets/source/book-covers/e9249cbcef4eca628b56a4.webp"
   ],
   "documents": [
     {

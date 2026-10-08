@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u14/b8/dc/5268b4b6.jpg",
+      "src": "assets/source/book-covers/acd29d3c0e986abb478e2d.webp",
       "alt": "Исповедь последнего человека"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u14/b8/dc/5268b4b6.jpg"
+    "assets/source/book-covers/acd29d3c0e986abb478e2d.webp"
   ],
   "documents": [
     {

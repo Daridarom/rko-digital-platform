@@ -7,9 +7,20 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 9,
   "pageCount": 16,
-  "total": 234,
+  "total": 235,
   "blocks": [],
   "cards": [
+    {
+      "title": "Виталий Владиславович Лебедев",
+      "description": "Виталий Владиславович Лебедев родился 5 октября 1964 г. в г.Ленинграде в семье служащих. В 1980 г. закончил 8-летнюю Среднюю школу № 125 и одновременно Художественную школу № 6. В этом же году поступил в Ленинградский Физико-механический техникум им. Зверева на Факультет «Оптико-электронные приборы», который успешно закончил в 1984 г.",
+      "url": "https://cosmatica.org/users/22",
+      "image": "https://cosmatica.org/upload/000/u21/b6/41/6e42c0a2.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=c1c8dbe36c8813f73d",
+      "type": "profile",
+      "sourceCharacters": 33138,
+      "verified": false
+    },
     {
       "title": "Константин Владимирович Гуськов",
       "description": "Калининградский планетарий им. Ф. В. Бесселя. Директор",
@@ -162,17 +173,6 @@
       "href": "view.html?p=profile&ref=ecd08eae905e95f9b0",
       "type": "profile",
       "sourceCharacters": 29,
-      "verified": false
-    },
-    {
-      "title": "Иван Иванович Санжаров",
-      "description": "Основатель и руководитель Зеленоградского кедрового питомника АНО «Кедры Родины»",
-      "url": "https://cosmatica.org/users/243",
-      "image": "https://cosmatica.org/upload/000/u35/c/1/736ff2da.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=c9e3e7172765e1a80b",
-      "type": "profile",
-      "sourceCharacters": 125,
       "verified": false
     }
   ],

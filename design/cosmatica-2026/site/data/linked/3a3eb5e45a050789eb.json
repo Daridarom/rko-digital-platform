@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/1/3/elementarnaja-matematika-photo-normal.jpg",
+      "src": "assets/source/book-covers/4e155f4daf54f276dd326b.webp",
       "alt": "Элементарная математика (2-е издание)"
     }
   ],
@@ -32,7 +32,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/1/3/elementarnaja-matematika-photo-normal.jpg"
+    "assets/source/book-covers/4e155f4daf54f276dd326b.webp"
   ],
   "documents": [
     {

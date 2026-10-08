@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u26/3/8/nekotorye-sootnoshenija-mezhdu-fizicheskimi-konstantami-photo-normal.jpg",
+      "src": "assets/source/book-covers/20ff84d9f4cab5739feb7b.webp",
       "alt": "Некоторые соотношения между физическими константами"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u26/3/8/nekotorye-sootnoshenija-mezhdu-fizicheskimi-konstantami-photo-normal.jpg"
+    "assets/source/book-covers/20ff84d9f4cab5739feb7b.webp"
   ],
   "documents": [
     {

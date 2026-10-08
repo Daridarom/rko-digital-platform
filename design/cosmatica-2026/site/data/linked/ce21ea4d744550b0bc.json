@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/9/8/lunnye-gorizonty-1976-photo-normal.png",
+      "src": "assets/source/book-covers/894e7d6ec6de93fbbee2dc.webp",
       "alt": "Лунные горизонты (1976)"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/9/8/lunnye-gorizonty-1976-photo-normal.png"
+    "assets/source/book-covers/894e7d6ec6de93fbbee2dc.webp"
   ],
   "documents": [
     {

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/1331-3-byt-ili-ne-byt-chelovechestvu-na-zemle.html",
+  "title": "3. Быть или не быть человечеству на Земле?",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке»",
+      "spans": [
+        {
+          "text": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и  "
+        },
+        {
+          "text": "стратегия",
+          "href": "https://cosmatica.org/glossary/41-strategija.html"
+        },
+        {
+          "text": " эволю-ционного прорыва России и человечества в XXI веке» "
+        }
+      ],
+      "links": [
+        {
+          "text": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Лекция 3: Быть или не быть человечеству на Земле? – Быть – это означает Роды Действительного Разума и переход человечества к научному управлению социоприродной эволюции.",
+      "spans": [
+        {
+          "text": "Лекция 3: Быть или не быть человечеству на Земле?  – Быть – это означает Роды Действительного Разума и переход человечества к научному управлению социоприродной эволюции."
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "platform": "youtube",
+      "videoId": "Eld2-b0K0Jc",
+      "title": "Видео РКО",
+      "sourceUrl": "https://www.youtube.com/watch?v=Eld2-b0K0Jc"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Цикл лекций Субетто Александра Ивановича на тему: «Ноосферизм – новая идеология и стратегия эволю-ционного прорыва России и человечества в XXI веке» Лекция 3: Быть или не быть человечеству на Земле? – Быть – это означает Роды Действительного Разума и переход человечества к научному управлению социоприродной эволюции.",
+      "links": [
+        {
+          "title": "стратегия",
+          "url": "https://cosmatica.org/glossary/41-strategija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 388,
+    "storedTextCharacters": 317,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 74699
+  },
+  "textFallbackRequired": false,
+  "originalKind": "article",
+  "sourceTextCharacters": 345,
+  "capturedBodyCharacters": 317,
+  "sourceTextSHA256": "413bb70a588f0508b35b6d2b91270381be8b673ba2eb50be7e6fb8ef7fa41233",
+  "archiveSnapshotAt": "2026-10-08T10:53:08Z"
+}

@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u7/f/9/hroniki-novogo-kovchega-raskryvaja-matricy-buduschego-photo-norm.jpg",
+      "src": "assets/source/book-covers/471ee10da1e5f3b0cd72f2.webp",
       "alt": "\"Хроники нового ковчега. Раскрывая матрицы будущего\"."
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u7/f/9/hroniki-novogo-kovchega-raskryvaja-matricy-buduschego-photo-norm.jpg"
+    "assets/source/book-covers/471ee10da1e5f3b0cd72f2.webp"
   ],
   "documents": [
     {

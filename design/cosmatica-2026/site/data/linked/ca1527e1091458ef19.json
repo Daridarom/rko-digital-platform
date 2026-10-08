@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/7/0/zanimatelnaja-geografija-photo-normal.jpg",
+      "src": "assets/source/book-covers/ea65075f2f6a63ee547d10.webp",
       "alt": "Занимательная география"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/7/0/zanimatelnaja-geografija-photo-normal.jpg"
+    "assets/source/book-covers/ea65075f2f6a63ee547d10.webp"
   ],
   "documents": [
     {

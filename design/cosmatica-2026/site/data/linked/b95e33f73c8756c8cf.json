@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/209-lyubov.html",
+  "title": "Любовь",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Преобладание потребности \"отдавать\" над потребностью \"брать\".",
+      "spans": [
+        {
+          "text": "Преобладание потребности \"отдавать\" над потребностью \"брать\"."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Преобладание потребности \"отдавать\" над потребностью \"брать\".",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 68,
+    "storedTextCharacters": 61,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31607
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 61,
+  "capturedBodyCharacters": 61,
+  "sourceTextSHA256": "ec064864b21d1e9f485ac34d31a03b7842dd1e92f1e45cc9b9125ec8a65f64fd",
+  "archiveSnapshotAt": "2026-10-08T10:36:26Z"
+}

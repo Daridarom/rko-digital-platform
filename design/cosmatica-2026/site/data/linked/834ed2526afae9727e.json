@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u1/15/fc/7c0e35f4.png",
+      "src": "assets/source/book-covers/05f3c113495996e865c7c6.webp",
       "alt": "В.П.Казначеев - Космогония планеты и программа \"Гея\""
     },
     {
@@ -64,7 +64,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u1/15/fc/7c0e35f4.png"
+    "assets/source/book-covers/05f3c113495996e865c7c6.webp"
   ],
   "documents": [
     {

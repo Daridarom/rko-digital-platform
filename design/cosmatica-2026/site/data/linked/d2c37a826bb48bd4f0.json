@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u14/56/5c/manifest-noosfernogo-socializma-photo-normal.jpg",
+      "src": "assets/source/book-covers/c78cacaa15cb732dde48c6.webp",
       "alt": "Манифест ноосферного социализма"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u14/56/5c/manifest-noosfernogo-socializma-photo-normal.jpg"
+    "assets/source/book-covers/c78cacaa15cb732dde48c6.webp"
   ],
   "documents": [
     {

@@ -7,9 +7,20 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 15,
   "pageCount": 16,
-  "total": 234,
+  "total": 235,
   "blocks": [],
   "cards": [
+    {
+      "title": "Виктор Александрович Соловьёв",
+      "description": "Руководитель фонда поддержки и развития семей «Родная семья».",
+      "url": "https://cosmatica.org/users/659",
+      "image": "https://cosmatica.org/upload/002/u218/d/7/11f0f6cb.jpeg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=56cb54bddf7b40fabd",
+      "type": "profile",
+      "sourceCharacters": 221,
+      "verified": false
+    },
     {
       "title": "Наталия Александровна Загустина",
       "description": "Биофизик, разработчик суперсовременного метода диагностики «КСИ-метод»",
@@ -162,17 +173,6 @@
       "href": "view.html?p=profile&ref=528b5de37a29133e6b",
       "type": "profile",
       "sourceCharacters": 649,
-      "verified": false
-    },
-    {
-      "title": "Олег Афанасьевич Сизов",
-      "description": "Президент национального экологического фонда, декан факультета Московской академии государственного и муниципального управления, летчик-испытатель, доктор технических наук, профессор",
-      "url": "https://cosmatica.org/users/81",
-      "image": "https://cosmatica.org/upload/000/u26/f9/21/9e7eb027.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=a48b80a12786803078",
-      "type": "profile",
-      "sourceCharacters": 210,
       "verified": false
     }
   ],

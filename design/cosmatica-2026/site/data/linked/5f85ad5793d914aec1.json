@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u15/34/b6/vysotnye-i-kosmicheskie-skafandry-photo-normal.jpg",
+      "src": "assets/source/book-covers/2968374c4017bd5ec36169.webp",
       "alt": "Высотные и космические скафандры"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u15/34/b6/vysotnye-i-kosmicheskie-skafandry-photo-normal.jpg"
+    "assets/source/book-covers/2968374c4017bd5ec36169.webp"
   ],
   "documents": [
     {

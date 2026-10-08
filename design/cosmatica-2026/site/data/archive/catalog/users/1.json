@@ -7,7 +7,7 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 1,
   "pageCount": 16,
-  "total": 234,
+  "total": 235,
   "blocks": [],
   "cards": [
     {
@@ -50,6 +50,17 @@
       "image": "assets/source/86dcabf0dd9f26aa390ce07d.webp",
       "kind": "profile",
       "href": "view.html?p=profile&ref=056ea033ea1f93c2dd",
+      "type": "profile",
+      "sourceCharacters": 0,
+      "verified": false
+    },
+    {
+      "title": "Денис Александрович Шпотя",
+      "description": "",
+      "url": "https://cosmatica.org/users/3",
+      "image": "assets/source/d82a27be2c2a30d1dff01db8.webp",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=8aa6005bebe5f04fcb",
       "type": "profile",
       "sourceCharacters": 0,
       "verified": false
@@ -160,17 +171,6 @@
       "image": "assets/source/4fa28eedd40174b56806457b.webp",
       "kind": "profile",
       "href": "view.html?p=profile&ref=50b5b0e74740c810cc",
-      "type": "profile",
-      "sourceCharacters": 0,
-      "verified": false
-    },
-    {
-      "title": "Александр Яковлевич Аноприенко",
-      "description": "Председатель Донецкого отделения РКО. Ректор и заведующий кафедрой компьютерной инженерии Донецкого национального технического университета (ДонНТУ). Специалист в области компьютерных систем и технологий, Интернет-технологий, компьютерного моделирования, истории и закономерностей развития техники и технологий, в том числе средств и методов компьютинга и интеллектуального инструментария. Биография Родился 21 сентября ",
-      "url": "https://cosmatica.org/users/267",
-      "image": "assets/source/db56c46e727d8f02e695279c.webp",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=43d2035e41a9633efc",
       "type": "profile",
       "sourceCharacters": 0,
       "verified": false

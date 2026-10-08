@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u10/38/4e/nauka-ustoichi.jpg",
+      "src": "assets/source/book-covers/401cf05710de0824caadff.webp",
       "alt": "Экономика — двойственность меры // Наука устойчивого развития. Книга I. Введение"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u10/38/4e/nauka-ustoichi.jpg"
+    "assets/source/book-covers/401cf05710de0824caadff.webp"
   ],
   "documents": [
     {

@@ -4,98 +4,89 @@
   "sourceUrl": "https://cosmatica.org/glossary/n",
   "title": "Н",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Наука созидать",
-      "level": 2
+      "title": "Наука созидать",
+      "url": "https://cosmatica.org/glossary/220-nauka-sozidat.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Некросфера",
-      "level": 2
+      "title": "Некросфера",
+      "url": "https://cosmatica.org/glossary/215-nekrosfera.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Насилие",
-      "level": 2
+      "title": "Насилие",
+      "url": "https://cosmatica.org/glossary/202-nasilie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Народ",
-      "level": 2
+      "title": "Народ",
+      "url": "https://cosmatica.org/glossary/184-narod.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Необходимое социальное время",
-      "level": 2
+      "title": "Необходимое социальное время",
+      "url": "https://cosmatica.org/glossary/178-neobhodimoe-socialnoe-vremja.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Научная теория",
-      "level": 2
+      "title": "Научная теория",
+      "url": "https://cosmatica.org/glossary/101-nauchnaja-teorija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Научное знание",
-      "level": 2
+      "title": "Научное знание",
+      "url": "https://cosmatica.org/glossary/100-nauchnoe-znanie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Научное мировоззрение",
-      "level": 2
+      "title": "Научное мировоззрение",
+      "url": "https://cosmatica.org/glossary/99-nauchnoe-mirovozzrenie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Неустойчивое развитие",
-      "level": 2
+      "title": "Неустойчивое развитие",
+      "url": "https://cosmatica.org/glossary/98-neustoichivoe-razvitie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Ноосфера",
-      "level": 2
+      "title": "Ноосфера",
+      "url": "https://cosmatica.org/glossary/97-noosfera.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Нормативная база ускоренного социально-экономического развития",
-      "level": 2
+      "title": "Нормативная база ускоренного социально-экономического развития",
+      "url": "https://cosmatica.org/glossary/96-normativnaja-baza-uskorennogo-socialno-ekonomicheskogo-razvitija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Новое знание",
-      "level": 2
+      "title": "Новое знание",
+      "url": "https://cosmatica.org/glossary/95-novoe-znanie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Новация",
-      "level": 2
+      "title": "Новация",
+      "url": "https://cosmatica.org/glossary/94-novacija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Новшество",
-      "level": 2
+      "title": "Новшество",
+      "url": "https://cosmatica.org/glossary/93-novshestvo.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Неопределенность",
-      "level": 2
+      "title": "Неопределенность",
+      "url": "https://cosmatica.org/glossary/92-neopredelennost.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "level": 2,
-      "text": "Полный текст исходного материала"
-    },
-    {
-      "type": "paragraph",
-      "text": "Н Наука созидать Некросфера Насилие Народ Необходимое социальное время Научная теория Научное знание Научное мировоззрение Неустойчивое развитие Ноосфера Нормативная база ускоренного социально-экономического развития Новое знание Новация Новшество Неопределенность Предыдущая Следующая 1 2 Показаны 1-15 из 16",
-      "spans": [
-        {
-          "text": "Н Наука созидать Некросфера Насилие Народ Необходимое социальное время Научная теория Научное знание Научное мировоззрение Неустойчивое развитие Ноосфера Нормативная база ускоренного социально-экономического развития Новое знание Новация Новшество Неопределенность Предыдущая Следующая 1 2 Показаны 1-15 из 16"
-        }
-      ]
+      "title": "Непредвиденная ситуация",
+      "url": "https://cosmatica.org/glossary/91-nepredvidennaja-situacija.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -110,10 +101,12 @@
     "paragraphCount": 0,
     "sourceBytes": 43247
   },
-  "textFallbackRequired": true,
+  "textFallbackRequired": false,
   "originalKind": "glossary",
   "sourceTextCharacters": 309,
   "capturedBodyCharacters": 589,
   "sourceTextSHA256": "bb9027960d3f4089df43ccb66c5b1e054daeb755a52c7b346bee8291b37df711",
-  "archiveSnapshotAt": "2026-10-08T08:47:27Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:27Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 16
 }

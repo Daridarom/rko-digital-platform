@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/184-narod.html",
+  "title": "Народ",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "союз семей, разговаривающих на одном языке, имеющих общий родовой корень, единое",
+      "spans": [
+        {
+          "text": "союз семей, разговаривающих на одном языке, имеющих общий родовой корень, единое"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "мировоззрение",
+      "spans": [
+        {
+          "text": "мировоззрение"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "и цель жизни.",
+      "spans": [
+        {
+          "text": "и цель жизни."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "союз семей, разговаривающих на одном языке, имеющих общий родовой корень, единое мировоззрение и цель жизни.",
+      "links": [
+        {
+          "title": "мировоззрение",
+          "url": "https://cosmatica.org/glossary/106-mirovozzrenie.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 114,
+    "storedTextCharacters": 106,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31878
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 108,
+  "capturedBodyCharacters": 106,
+  "sourceTextSHA256": "080676ea227e6b2c60470c3846ad49bc252b4e5d678848b147a83479ab877941",
+  "archiveSnapshotAt": "2026-10-08T10:37:46Z"
+}

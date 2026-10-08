@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u19/4d/bf/petrov-n-v-vitakosmologija-osnova-dlja-ponimanija-realnogo-zna.jpg",
+      "src": "assets/source/book-covers/ab247c5c218d8558ba07f0.webp",
       "alt": "Петров Н.В. - Витакосмология: основа для понимания реального знания."
     },
     {
@@ -64,7 +64,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u19/4d/bf/petrov-n-v-vitakosmologija-osnova-dlja-ponimanija-realnogo-zna.jpg"
+    "assets/source/book-covers/ab247c5c218d8558ba07f0.webp"
   ],
   "documents": [
     {

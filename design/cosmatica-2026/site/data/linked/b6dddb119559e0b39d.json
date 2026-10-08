@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u14/db/40/ee2f05db.jpg",
+      "src": "assets/source/book-covers/44b7946decd33f8431c5d3.webp",
       "alt": "Ноосферное образование в евразийском пространстве. Том 8-й. Коллективная монография"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u14/db/40/ee2f05db.jpg"
+    "assets/source/book-covers/44b7946decd33f8431c5d3.webp"
   ],
   "documents": [
     {

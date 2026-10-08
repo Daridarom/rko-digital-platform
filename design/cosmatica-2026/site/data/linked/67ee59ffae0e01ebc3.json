@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/222-psevdei.html",
+  "title": "Псевдеи",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "профессиональные создатели иллюзий у второй стороны, что действия кооперативные, при реализации своих корыстных эгоистических интересов. Это игроки в кооперативного партнёра, при реальном воплощении некооперативного сценария, а выгодного только для себя.",
+      "spans": [
+        {
+          "text": "профессиональные создатели иллюзий у второй стороны, что действия кооперативные, при реализации своих корыстных эгоистических интересов. Это игроки в кооперативного партнёра, при реальном воплощении некооперативного сценария, а выгодного только для себя."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "профессиональные создатели иллюзий у второй стороны, что действия кооперативные, при реализации своих корыстных эгоистических интересов. Это игроки в кооперативного партнёра, при реальном воплощении некооперативного сценария, а выгодного только для себя.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 262,
+    "storedTextCharacters": 254,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32214
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 254,
+  "capturedBodyCharacters": 254,
+  "sourceTextSHA256": "e65b5c946cb0bd6bd42136828c3f629d0d7e9f569cbb464cd1341d166f823782",
+  "archiveSnapshotAt": "2026-10-08T10:36:26Z"
+}

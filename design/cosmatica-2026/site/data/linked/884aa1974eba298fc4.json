@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u7/2/2/sovetskaja-kosmonavtika-photo-normal.jpg",
+      "src": "assets/source/book-covers/7d20c3ed781090c199bc9b.webp",
       "alt": "Советская космонавтика"
     },
     {
@@ -59,7 +59,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u7/2/2/sovetskaja-kosmonavtika-photo-normal.jpg"
+    "assets/source/book-covers/7d20c3ed781090c199bc9b.webp"
   ],
   "documents": [],
   "categories": [],

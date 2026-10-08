@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/217-homogeobiocenozy.html",
+  "title": "Хомогеобиоценозы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Хомогеобиоценозы - это геобиоценозы, управляемые человеком разумным в целях",
+      "spans": [
+        {
+          "text": "Хомогеобиоценозы - это геобиоценозы, управляемые человеком разумным в целях"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Соэволюции",
+      "spans": [
+        {
+          "text": "Соэволюции"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ".",
+      "spans": [
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Хомогеобиоценозы - это геобиоценозы, управляемые человеком разумным в целях Соэволюции .",
+      "links": [
+        {
+          "title": "Соэволюции",
+          "url": "https://cosmatica.org/glossary/199-soevolyucija.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 105,
+    "storedTextCharacters": 86,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 31872
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 88,
+  "capturedBodyCharacters": 86,
+  "sourceTextSHA256": "f235fcd802fd2a8f29c789386a27dbda7b6836e83df3123ced05e552b1e2481f",
+  "archiveSnapshotAt": "2026-10-08T10:36:26Z"
+}

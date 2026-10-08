@@ -4,44 +4,44 @@
   "sourceUrl": "https://cosmatica.org/glossary/d",
   "title": "Д",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Доктрина Победы",
-      "level": 2
+      "title": "Доктрина Победы",
+      "url": "https://cosmatica.org/glossary/218-doktrina-pobedy.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Данные",
-      "level": 2
+      "title": "Данные",
+      "url": "https://cosmatica.org/glossary/150-dannye.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Основные виды обра­ботки данных",
-      "level": 2
+      "title": "Основные виды обра­ботки данных",
+      "url": "https://cosmatica.org/glossary/149-osnovnye-vidy-obra-botki-dannyh.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Диссипативные процессы",
-      "level": 2
+      "title": "Диссипативные процессы",
+      "url": "https://cosmatica.org/glossary/148-dissipativnye-processy.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Димензиальность",
-      "level": 2
+      "title": "Димензиальность",
+      "url": "https://cosmatica.org/glossary/147-dimenzialnost.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Доказательство для диалектики",
-      "level": 2
+      "title": "Доказательство для диалектики",
+      "url": "https://cosmatica.org/glossary/146-dokazatelstvo-dlja-dialektiki.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Доказательство для математики",
-      "level": 2
+      "title": "Доказательство для математики",
+      "url": "https://cosmatica.org/glossary/145-dokazatelstvo-dlja-matematiki.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -61,5 +61,7 @@
   "sourceTextCharacters": 155,
   "capturedBodyCharacters": 147,
   "sourceTextSHA256": "552cb75244f29f9216fd034fe349c9d57541c9ebf55fc99f00867f3fa795ab8d",
-  "archiveSnapshotAt": "2026-10-08T08:47:24Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:24Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 7
 }

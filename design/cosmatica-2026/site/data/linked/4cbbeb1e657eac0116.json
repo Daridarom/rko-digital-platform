@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u10/ff/fc/inzhenerija-ustoichivogo-razvitija-photo-normal.png",
+      "src": "assets/source/book-covers/6384b9b0e5f954897bf044.webp",
       "alt": "Инженерия устойчивого развития"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u10/ff/fc/inzhenerija-ustoichivogo-razvitija-photo-normal.png"
+    "assets/source/book-covers/6384b9b0e5f954897bf044.webp"
   ],
   "documents": [
     {

@@ -4,19 +4,19 @@
   "sourceUrl": "https://cosmatica.org/glossary/g",
   "title": "Г",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Гомосексуализм",
-      "level": 2
+      "title": "Гомосексуализм",
+      "url": "https://cosmatica.org/glossary/204-gomoseksualizm.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Группа преобразований",
-      "level": 2
+      "title": "Группа преобразований",
+      "url": "https://cosmatica.org/glossary/151-gruppa-preobrazovanii.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -36,5 +36,7 @@
   "sourceTextCharacters": 38,
   "capturedBodyCharacters": 35,
   "sourceTextSHA256": "c54585a5712616e87e2b46ae237440c5765c398f6e75618e46742df78d7123da",
-  "archiveSnapshotAt": "2026-10-08T08:47:24Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:24Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 2
 }

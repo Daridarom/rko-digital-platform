@@ -7,9 +7,20 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 7,
   "pageCount": 16,
-  "total": 234,
+  "total": 235,
   "blocks": [],
   "cards": [
+    {
+      "title": "Александр Борисович Малыхин",
+      "description": "",
+      "url": "https://cosmatica.org/users/170",
+      "image": "https://cosmatica.org/upload/000/u26/cc/de/599afcd8.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=94e7602a24c9746ac8",
+      "type": "profile",
+      "sourceCharacters": 57,
+      "verified": false
+    },
     {
       "title": "Калужское отделение",
       "description": "",
@@ -162,17 +173,6 @@
       "href": "view.html?p=profile&ref=fc2da23d6668fc9318",
       "type": "profile",
       "sourceCharacters": 113,
-      "verified": false
-    },
-    {
-      "title": "Ольга Викторовна Новикова",
-      "description": "Член социально-культурного проекта «Резонанс»",
-      "url": "https://cosmatica.org/users/193",
-      "image": "https://cosmatica.org/upload/000/u21/1/1/76378701.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=a6e2d5831609abf2b1",
-      "type": "profile",
-      "sourceCharacters": 95,
       "verified": false
     }
   ],

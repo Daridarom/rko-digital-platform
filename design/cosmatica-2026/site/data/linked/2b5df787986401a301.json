@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/2/7/teoreticheskaja-astrofizika-1952-photo-normal.jpg",
+      "src": "assets/source/book-covers/cb6414e44217fcf2c0d8d4.webp",
       "alt": "Теоретическая астрофизика (1952)"
     }
   ],
@@ -32,7 +32,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/2/7/teoreticheskaja-astrofizika-1952-photo-normal.jpg"
+    "assets/source/book-covers/cb6414e44217fcf2c0d8d4.webp"
   ],
   "documents": [
     {

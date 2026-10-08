@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u19/ed/49/petrov-n-v-evolyucija-zhizni-i-bessmertie-dushi-photo-normal.jpg",
+      "src": "assets/source/book-covers/cfe74930e3afde58335b7d.webp",
       "alt": "Петров Н.В. - Эволюция жизни и бессмертие души"
     },
     {
@@ -64,7 +64,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u19/ed/49/petrov-n-v-evolyucija-zhizni-i-bessmertie-dushi-photo-normal.jpg"
+    "assets/source/book-covers/cfe74930e3afde58335b7d.webp"
   ],
   "documents": [
     {

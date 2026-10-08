@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u1/94/63/ciolkovskii-konstantin-eduardovich-promyshlennoe-osvoenie-kosmo.png",
+      "src": "assets/source/book-covers/0006cef720fc84e4946fdd.webp",
       "alt": "Циолковский Константин Эдуардович -  Промышленное освоение космоса"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u1/94/63/ciolkovskii-konstantin-eduardovich-promyshlennoe-osvoenie-kosmo.png"
+    "assets/source/book-covers/0006cef720fc84e4946fdd.webp"
   ],
   "documents": [
     {

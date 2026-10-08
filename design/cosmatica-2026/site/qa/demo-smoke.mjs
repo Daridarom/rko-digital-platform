@@ -45,15 +45,26 @@ async function test(name,route,fn){
  }catch(e){errors.push(name+': '+e.message);console.error('FAIL',name,e.message.slice(0,500))}
  finally{await page.close()}
 }
-await test('compact search','search-results&q=Гагарин',async page=>{
- const coords=await page.evaluate(()=>{
-  const a=document.querySelector('#searchInput').getBoundingClientRect();
-  const b=document.querySelector('#searchForm button').getBoundingClientRect();
-  return {sameRow:Math.abs(a.y-b.y)<12,width:a.width,hero:document.querySelector('.page-hero h1')?.textContent,lede:document.querySelector('.page-hero .lede')?.textContent}
+await test('accessible mobile search','search-results&q=Гагарин',async page=>{
+ await page.locator('#searchSection').waitFor();
+ const layout=await page.evaluate(()=>{
+  const search=document.querySelector('#searchInput').getBoundingClientRect();
+  const button=document.querySelector('#searchForm button').getBoundingClientRect();
+  return {inputWidth:search.width,buttonWidth:button.width,
+    inputVisible:search.width>0&&search.height>=40,
+    buttonVisible:button.width>=44&&button.height>=40,
+    overflow:document.documentElement.scrollWidth-document.documentElement.clientWidth,
+    lede:document.querySelector('.page-hero .lede')?.textContent}
  });
- assert(coords.sameRow,'search submit button not inline');
- assert(coords.width<290,'search field is too wide');
- assert(coords.lede.includes('Гагарин'),'search description does not reflect query');
+ assert(layout.inputVisible&&layout.buttonVisible,'search input or submit inaccessible');
+ assert(layout.inputWidth<=390&&layout.buttonWidth<=390,'search controls overflow viewport');
+ assert(layout.overflow<=3,'mobile search horizontal overflow');
+ assert(layout.lede.includes('Гагарин'),'search description does not reflect query');
+ await page.locator('#searchSection').selectOption('news');
+ await page.locator('#searchInput').fill('космос');
+ await page.locator('#searchForm button').click();
+ assert.equal(new URL(page.url()).searchParams.get('section'),'news','search category not preserved on submit');
+ assert.equal(new URL(page.url()).searchParams.get('q'),'космос','search query not preserved on submit');
 });
 await test('mobile menu overlay','projects',async page=>{
  const initial=await page.locator('main').evaluate(x=>x.getBoundingClientRect().top);

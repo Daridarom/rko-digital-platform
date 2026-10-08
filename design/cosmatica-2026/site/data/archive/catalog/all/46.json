@@ -6,8 +6,8 @@
   "sourceUrl": "https://cosmatica.org/",
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 46,
-  "pageCount": 317,
-  "total": 4744,
+  "pageCount": 321,
+  "total": 4812,
   "blocks": [],
   "cards": [
     {
@@ -44,6 +44,17 @@
       "verified": false
     },
     {
+      "title": "Целеустремленность через призму науки",
+      "description": "Эссе на тему «Целеустремленность через призму науки»",
+      "url": "https://cosmatica.org/articles/1484-celeustremlennost-cherez-prizmu-nauki.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=f40985be183e5a060d",
+      "type": "article",
+      "sourceCharacters": 3082,
+      "verified": false
+    },
+    {
       "title": "Киноиндустрия и сключение клуба \"Аретократия\" с Русским Космическим Обществом",
       "description": "На встрече также присутствовали представители клубов \"UN Community\", \"Бегодевочки\" и \"Women association Skolkovo Alumni\".",
       "url": "https://cosmatica.org/news/1484-kinoindustrija-i-sklyuchenie-kluba-aretokratija-s-russkim-kosmicheskim-obschestvom.html",
@@ -55,6 +66,17 @@
       "verified": false
     },
     {
+      "title": "Целеустремленность через призму науки",
+      "description": "Эссе на тему «Целеустремленность через призму науки»",
+      "url": "https://cosmatica.org/articles/1483-celeustremlennost-cherez-prizmu-nauki.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=b4cce8ce2e997ab01e",
+      "type": "article",
+      "sourceCharacters": 4182,
+      "verified": false
+    },
+    {
       "title": "Рассказ об орбитальной студии",
       "description": "Дмитрий Вячеславович Шалевич - участник Русского Космического Общества, изобретатель, участник патентных исследований и научно-исследовательских работ, автор публикаций и научных работ, резидент Творческой усадьбы Гуслица.",
       "url": "https://cosmatica.org/news/1483-rasskaz-ob-orbitalnoi-studii.html",
@@ -63,6 +85,17 @@
       "href": "view.html?p=news-item&ref=d6a42e67a8ff718596",
       "type": "news-item",
       "sourceCharacters": 1076,
+      "verified": false
+    },
+    {
+      "title": "Целеустремленность через призму науки",
+      "description": "Эссе на тему «Целеустремленность через призму науки»",
+      "url": "https://cosmatica.org/articles/1482-celeustremlennost-cherez-prizmu-nauki.html",
+      "image": null,
+      "kind": "article",
+      "href": "view.html?p=article&ref=9ac94ef2253eb11def",
+      "type": "article",
+      "sourceCharacters": 3715,
       "verified": false
     },
     {
@@ -140,39 +173,6 @@
       "href": "view.html?p=news-item&ref=cd9a5a9786b4769ff0",
       "type": "news-item",
       "sourceCharacters": 1363,
-      "verified": false
-    },
-    {
-      "title": "Тотальная Война",
-      "description": "В Курске при обстреле ВСУ пляжа погибает мальчик Толя пяти лет. Он закрывает собой маму от огня. Врачи не спасли. Социальные сети отвечают негодованием, стихами, на снарядах пишут «За Толю! За Курск!». Такое варварство не может остаться без ответа. Праведный гнев, сострадание, наполняют сердце каждого, кто видит фото ангельского отрока Толи. Бесчеловечные преступления украинских нацистов.",
-      "url": "https://cosmatica.org/articles/1478-totalnaja-voina.html",
-      "image": "https://cosmatica.org/upload/000/u7/3/3/totalnaja-voina.jpg",
-      "kind": "article",
-      "href": "view.html?p=article&ref=4abb3a6b7312718e78",
-      "type": "article",
-      "sourceCharacters": 9055,
-      "verified": false
-    },
-    {
-      "title": "Творческие встречи Евгения Александровича Воскресенского на Донбассе",
-      "description": "Мы уже писали ранее , что в период с 12 по 15 августа группа представителей Русского Космического Общества в рамках движения Народного сплочения с культурно-гуманитарной миссией прибыла в Донецкую Народную Республику.",
-      "url": "https://cosmatica.org/news/1478-tvorcheskie-vstrechi-evgenija-aleksandrovicha-voskresenskogo-na-donbasse.html",
-      "image": "https://cosmatica.org/upload/000/u35/7/3/6d8293fc.jpeg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=20dfc0b497e82b1c07",
-      "type": "news-item",
-      "sourceCharacters": 11805,
-      "verified": false
-    },
-    {
-      "title": "Космодесант-2022. Через тернии к человечности!",
-      "description": "12 дней трудностей и радостей, новых навыков и досадных ошибок, новых впечатлений и преодоления - 12 дней, изменившие жизнь на \"до\" и \"после\" для 38 подростков.",
-      "url": "https://cosmatica.org/news/1477-kosmodesant-2022.html",
-      "image": "https://cosmatica.org/upload/002/u218/5/6/kosmodesant-2022-photo-normal.jpg",
-      "kind": "news-item",
-      "href": "view.html?p=news-item&ref=068d4c5af28e14ed8f",
-      "type": "news-item",
-      "sourceCharacters": 10512,
       "verified": false
     }
   ],

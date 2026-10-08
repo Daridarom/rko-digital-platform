@@ -7,9 +7,20 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 11,
   "pageCount": 16,
-  "total": 234,
+  "total": 235,
   "blocks": [],
   "cards": [
+    {
+      "title": "Ирина Константиновна Лапшина",
+      "description": "Зав. кафедрой всеобщей истории Владимирского государственного университета имени А.Г. и Н.Г. Столетовых, д.и.н., профессор.",
+      "url": "https://cosmatica.org/users/279",
+      "image": "https://cosmatica.org/upload/000/u35/a/2/d34b2294.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=45ab28d1200144476f",
+      "type": "profile",
+      "sourceCharacters": 607,
+      "verified": false
+    },
     {
       "title": "Дара Владимировна Туйкина-Костомарова",
       "description": "",
@@ -162,17 +173,6 @@
       "href": "view.html?p=profile&ref=ef906efb94bfc5fca8",
       "type": "profile",
       "sourceCharacters": 4254,
-      "verified": false
-    },
-    {
-      "title": "Александр Иванович Протопопов Профиль удалён",
-      "description": "Международной научной школы устойчивого развития имени П.Г. Кузнецова, руководитель",
-      "url": "https://cosmatica.org/users/332",
-      "image": "https://cosmatica.org/upload/000/u35/8/7/4520b5c4.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=83b0760ab31fecc0e7",
-      "type": "profile",
-      "sourceCharacters": 283,
       "verified": false
     }
   ],

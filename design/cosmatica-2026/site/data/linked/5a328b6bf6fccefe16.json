@@ -4,24 +4,29 @@
   "sourceUrl": "https://cosmatica.org/glossary/c",
   "title": "Ц",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Цивилизация",
-      "level": 2
+      "title": "Цивилизация",
+      "url": "https://cosmatica.org/glossary/210-civilizacija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Цельность",
-      "level": 2
+      "title": "Цельность",
+      "url": "https://cosmatica.org/glossary/203-celnost.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Цель",
-      "level": 2
+      "title": "Цель",
+      "url": "https://cosmatica.org/glossary/14-cel.html",
+      "description": ""
+    },
+    {
+      "title": "Цель проектирования",
+      "url": "https://cosmatica.org/glossary/67-cel-proektirovanija.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -41,5 +46,7 @@
   "sourceTextCharacters": 28,
   "capturedBodyCharacters": 24,
   "sourceTextSHA256": "dc4d32355df4306a720bfac62466749744c2e5c6bf606a482238d1d6b2af8d88",
-  "archiveSnapshotAt": "2026-10-08T08:47:23Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:23Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 4
 }

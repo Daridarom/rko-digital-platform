@@ -4,24 +4,24 @@
   "sourceUrl": "https://cosmatica.org/glossary/ja",
   "title": "Я",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Явление",
-      "level": 2
+      "title": "Явление",
+      "url": "https://cosmatica.org/glossary/7-javlenie.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Явления Земной Жизни",
-      "level": 2
+      "title": "Явления Земной Жизни",
+      "url": "https://cosmatica.org/glossary/6-javlenija-zemnoi-zhizni.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Язык",
-      "level": 2
+      "title": "Язык",
+      "url": "https://cosmatica.org/glossary/5-jazyk.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -41,5 +41,7 @@
   "sourceTextCharacters": 35,
   "capturedBodyCharacters": 31,
   "sourceTextSHA256": "dd14610314342df95e82bf0b958cef49d4ef69a93e02c7ca0831c3cac221d7ab",
-  "archiveSnapshotAt": "2026-10-08T08:47:25Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:25Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 3
 }

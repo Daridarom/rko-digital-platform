@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/002/u218/6/6/gravitacija-i-vselennaja-1972-photo-normal.jpg",
+      "src": "assets/source/book-covers/180ccbfcc707c48441594d.webp",
       "alt": "Гравитация и вселенная (1972)"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/002/u218/6/6/gravitacija-i-vselennaja-1972-photo-normal.jpg"
+    "assets/source/book-covers/180ccbfcc707c48441594d.webp"
   ],
   "documents": [
     {

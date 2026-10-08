@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u26/9/8/k-voprosu-o-znachenii-i-klyuchevoi-roli-otkrytija-novyh-alternativn.jpg",
+      "src": "assets/source/book-covers/b3ac31ba7ae3e6496dce93.webp",
       "alt": "К вопросу о значении и ключевой роли открытия новых альтернативных источников энергии для устойчивого развития общества"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u26/9/8/k-voprosu-o-znachenii-i-klyuchevoi-roli-otkrytija-novyh-alternativn.jpg"
+    "assets/source/book-covers/b3ac31ba7ae3e6496dce93.webp"
   ],
   "documents": [
     {

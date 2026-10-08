@@ -4,49 +4,49 @@
   "sourceUrl": "https://cosmatica.org/glossary/v",
   "title": "В",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Всемир",
-      "level": 2
+      "title": "Всемир",
+      "url": "https://cosmatica.org/glossary/198-vsemir.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Временные (переменные) аксиомы",
-      "level": 2
+      "title": "Временные (переменные) аксиомы",
+      "url": "https://cosmatica.org/glossary/167-vremennye-peremennye-aksiomy.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Величина",
-      "level": 2
+      "title": "Величина",
+      "url": "https://cosmatica.org/glossary/158-velichina.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Время",
-      "level": 2
+      "title": "Время",
+      "url": "https://cosmatica.org/glossary/157-vremja.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Возросшая мощность",
-      "level": 2
+      "title": "Возросшая мощность",
+      "url": "https://cosmatica.org/glossary/155-vozrosshaja-moschnost.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Воля",
-      "level": 2
+      "title": "Воля",
+      "url": "https://cosmatica.org/glossary/154-volja.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Высшая форма знания",
-      "level": 2
+      "title": "Высшая форма знания",
+      "url": "https://cosmatica.org/glossary/153-vysshaja-forma-znanija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Вычисление",
-      "level": 2
+      "title": "Вычисление",
+      "url": "https://cosmatica.org/glossary/152-vychislenie.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -66,5 +66,7 @@
   "sourceTextCharacters": 109,
   "capturedBodyCharacters": 100,
   "sourceTextSHA256": "7cb2f2d9a20dbc9c9ddf7cce8a90ff8794856e9ddd31747376be9eb605d00a99",
-  "archiveSnapshotAt": "2026-10-08T08:47:29Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:29Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 8
 }

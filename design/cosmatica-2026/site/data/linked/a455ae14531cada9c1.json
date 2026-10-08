@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "image",
-      "src": "https://cosmatica.org/upload/000/u1/1d/7e/kosmoplanetarnyi-fenomen-cheloveka-photo-normal.png",
+      "src": "assets/source/book-covers/3288d736a621374f538f81.webp",
       "alt": "В.П. Казначеев , Е.А. Спирин - Космопланетарный феномен человека"
     },
     {
@@ -64,7 +64,7 @@
     }
   ],
   "images": [
-    "https://cosmatica.org/upload/000/u1/1d/7e/kosmoplanetarnyi-fenomen-cheloveka-photo-normal.png"
+    "assets/source/book-covers/3288d736a621374f538f81.webp"
   ],
   "documents": [
     {

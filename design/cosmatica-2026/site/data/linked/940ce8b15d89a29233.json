@@ -4,39 +4,39 @@
   "sourceUrl": "https://cosmatica.org/glossary/zh",
   "title": "Ж",
   "intro": "",
-  "blocks": [
+  "blocks": [],
+  "cards": [
     {
-      "type": "heading",
-      "text": "Жизнеродность",
-      "level": 2
+      "title": "Жизнеродность",
+      "url": "https://cosmatica.org/glossary/192-zhiznerodnost.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Жизнесловия",
-      "level": 2
+      "title": "Жизнесловия",
+      "url": "https://cosmatica.org/glossary/188-zhizneslovija.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "​Жизнеродность народа",
-      "level": 2
+      "title": "​Жизнеродность народа",
+      "url": "https://cosmatica.org/glossary/181-zhiznerodnost-naroda.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Живое вещество",
-      "level": 2
+      "title": "Живое вещество",
+      "url": "https://cosmatica.org/glossary/142-zhivoe-veschestvo.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Жизнь",
-      "level": 2
+      "title": "Жизнь",
+      "url": "https://cosmatica.org/glossary/141-zhizn.html",
+      "description": ""
     },
     {
-      "type": "heading",
-      "text": "Живая система",
-      "level": 2
+      "title": "Живая система",
+      "url": "https://cosmatica.org/glossary/140-zhivaja-sistema.html",
+      "description": ""
     }
   ],
-  "cards": [],
   "fields": [],
   "images": [],
   "documents": [],
@@ -56,5 +56,7 @@
   "sourceTextCharacters": 84,
   "capturedBodyCharacters": 77,
   "sourceTextSHA256": "2ca3aa03926400d922fa84ff73ded534a3ff6692c5b5870101ba965734339f87",
-  "archiveSnapshotAt": "2026-10-08T08:47:30Z"
+  "archiveSnapshotAt": "2026-10-08T08:47:30Z",
+  "glossaryCategoryLinked": true,
+  "glossaryTermCount": 6
 }

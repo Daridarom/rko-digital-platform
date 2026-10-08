@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/glossary/197-sklyuchenie.html",
+  "title": "Сключение",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Соединение двух и более в одно целое. Переход количества в новое",
+      "spans": [
+        {
+          "text": "Соединение двух и более в одно целое. Переход количества в новое"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "качество",
+      "spans": [
+        {
+          "text": "качество"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ". В теории систем наиболее близко понятие \"эмерджентность\".",
+      "spans": [
+        {
+          "text": ". В теории систем наиболее близко понятие \"эмерджентность\"."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Соединение двух и более в одно целое. Переход количества в новое качество . В теории систем наиболее близко понятие \"эмерджентность\".",
+      "links": [
+        {
+          "title": "качество",
+          "url": "https://cosmatica.org/glossary/117-kachestvo.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 143,
+    "storedTextCharacters": 131,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 32010
+  },
+  "textFallbackRequired": false,
+  "originalKind": "glossary-item",
+  "sourceTextCharacters": 133,
+  "capturedBodyCharacters": 131,
+  "sourceTextSHA256": "a74a54d71f84f2b1cd9a40a63f5189dddbfa69659764532f427ddf6440e1f02c",
+  "archiveSnapshotAt": "2026-10-08T10:37:47Z"
+}
