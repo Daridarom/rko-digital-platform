@@ -24,6 +24,22 @@ const localImage=value=>{
   return uri.href;
  }catch{return null;}
 };
+const safePublicHref=raw=>{
+ try{
+  let uri=new URL(raw);
+  if(uri.protocol!=='https:'||uri.username||uri.password||uri.port)return null;
+  if(uri.hostname==='cosmatica.org'&&uri.pathname==='/redirect'){
+   const target=uri.searchParams.get('url');
+   if(!target)return null;
+   uri=new URL(target);
+   if(uri.hostname==='cosmatica.org'||uri.hostname==='www.cosmatica.org')return null;
+  }
+  if(uri.protocol!=='https:'||uri.username||uri.password||uri.port
+   ||!uri.hostname.includes('.')
+   ||/^(?:localhost|127\.|10\.|192\.168\.|169\.254\.|172\.(?:1[6-9]|2[0-9]|3[01])\.)/i.test(uri.hostname))return null;
+  return uri.href;
+ }catch{return null;}
+};
 const originalLocalDocument=value=>typeof value==='string'&&/^assets\/source\/[a-z0-9._-]+\.(?:pdf|docx?|odt|rtf|txt)$/i.test(value)?value:null;
 const originalDownload=value=>{
  if(typeof value!=='string')return null;
@@ -59,19 +75,18 @@ function heading(data){
  return box;
 }
 function facts(data){
- const rows=(data.fields||[]).filter(f=>String(f.key||'').trim() && f.value && f.value.length<=350 && f.key.length<=90 && !(data.documents?.length&&/^файл\s*:?$/i.test(f.key.trim())));
+ const rows=(data.fields||[]).filter(f=>String(f.key||'').trim() && f.value && f.value.length<=350 && f.key.length<=90 && !(data.documents?.length&&/^файл\s*:?$/i.test(f.key.trim())) && !(data.slug==='project'&&/^(?:статус|направление)\s*:?$/i.test(f.key.trim())));
  if(!rows.length)return null;
  const box=el('dl','source-details');
  rows.forEach(f=>{
   const dt=el('dt','',f.key||'Сведения'),dd=el('dd');
   const value=String(f.value||'').trim();
   let href=null;
-  if(/^https:\/\/[^\s<>]+$/i.test(value)){
-   try{const uri=new URL(value);if(!uri.username&&!uri.password)href=uri.href;}catch{}
-  }else if(/^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$/i.test(value))href='mailto:'+value;
+  if(/^https:\/\/[^\s<>]+$/i.test(value))href=safePublicHref(value);
+  else if(/^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$/i.test(value))href='mailto:'+value;
   if(href){
    const a=el('a','source-meta-link',value);a.href=href;
-   if(href.startsWith('https:')){a.target='_blank';a.rel='noopener noreferrer';}
+   if(href.startsWith('https:')){a.target='_blank';a.rel='noopener noreferrer';a.referrerPolicy='no-referrer';a.dataset.contentExternal='true';}
    dd.append(a);
   }else dd.textContent=value;
   box.append(dt,dd);
@@ -103,7 +118,7 @@ function listView(data,index){
  sec.append(top);
  const grid=el('div','source-grid');const rows=[];
  const groupByKind=across&&data.archiveSection==='all';
- const groupByPicture=(!across&&['articles','articles-list'].includes(data.slug))||(across&&data.archiveSection==='articles');
+ const groupByPicture=(!across&&data.slug==='articles-list')||(across&&data.archiveSection==='articles');
  const groups=new Map();
  const typeLabels={'news-item':'Новости','article':'Публикации и исследования',book:'Книги',project:'Проекты',
   department:'Региональные отделения',profile:'Участники',partner:'Партнёры',
@@ -125,7 +140,7 @@ function listView(data,index){
  };
  const textMark=(kind,caption)=>{
   const symbol={'news-item':'Н','article':'А','book':'К','project':'П','department':'РКО',
-   'profile':'У','partner':'РКО','poster-item':'С','collegium-item':'С' }[kind]||'РКО';
+   'profile':'У','partner':'РКО','poster-item':'С','collegium-item':'С','articles-list':'Р' }[kind]||'РКО';
   const wrap=el('div','source-card-identity');
   const logo=el('span','source-card-monogram',symbol);
   logo.setAttribute('aria-hidden','true');
@@ -137,7 +152,7 @@ function listView(data,index){
   const contextualKind={departments:'department',users:'profile',news:'news-item',
    partners:'partner',projects:'project',poster:'poster-item',
    articles:'article','articles-list':'article',library:'book',collegium:'collegium-item'};
-  const kind=card.kind||card.type||contextualKind[data.slug]||'other';
+  const kind=card.kind||card.type||(data.slug==='articles'&&index[card.url]?.type)||contextualKind[data.slug]||'other';
   const media=localImage(card.image);
   const geometry=media?imageGeometry[media]:null;
   const tiny=!!geometry&&Math.max(geometry.w,geometry.h)<96;
@@ -145,6 +160,10 @@ function listView(data,index){
   const item=el(href?'a':'article','source-card'+((media&&!tiny||missingCover)?' source-card--media':'')
    +(!media||tiny?' source-card--text':'')+(missingCover?' source-card--missing-cover':''));
   item.dataset.kind=kind;
+  if(data.slug==='articles'&&kind==='articles-list'){
+   item.classList.add('source-card--section');
+   if(String(card.title||'').length>34)item.classList.add('source-card--section-long');
+  }
   if(href)item.href=href;
   if(media&&!tiny){
    const wrap=el('div','source-card-media'),image=el('img');
@@ -182,7 +201,7 @@ function listView(data,index){
   const project=raw.match(/\s+#([^#]+)$/);
   const title=project?raw.slice(0,project.index).trim():raw;
   const heading=el('h3','',title);heading.title=title;
-  const cardLabels={'news-item':'Новость',article:'Статья',book:'Книга',project:'Проект',
+  const cardLabels={'news-item':'Новость',article:'Статья','articles-list':'Раздел',book:'Книга',project:'Проект',
    department:'Отделение',profile:'Участник',partner:'Партнёр',
    'poster-item':'Мероприятие','collegium-item':'Совет',
    'about-page':'Об обществе','glossary-item':'Глоссарий'};
@@ -248,12 +267,11 @@ function getRich(data,type,index){
  // Preserve original full text but expose navigable URLs and readable sections.
  const resolveHref=raw=>{
   if(/^mailto:[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$/i.test(raw))return raw;
-  try{
-   const uri=new URL(raw);
-   if(uri.protocol!=='https:'||uri.username||uri.password)return null;
-   const local=listingHref({url:uri.origin+uri.pathname},index);
-   return local||uri.href; // An unarchived public link remains an explicit original.
-  }catch{return null;}
+  const url=safePublicHref(raw);
+  if(!url)return null;
+  const uri=new URL(url);
+  const local=listingHref({url:uri.origin+uri.pathname},index);
+  return local||uri.href; // A verified public external link remains explicit.
  };
  const autoLink=part=>{
   const text=String(part.text||'');
@@ -309,10 +327,13 @@ function getRich(data,type,index){
   const publicBlocks=[...(data.blocks||[])];
   const last=publicBlocks.at(-1),beforeLast=publicBlocks.at(-2);
   if(beforeLast?.type==='heading'&&/^стена проекта\s*$/i.test(beforeLast.text||'')&&last?.type==='paragraph'&&/^нет записей\.?\s*$/i.test(last.text||''))publicBlocks.splice(-2);
+  const editorialField=key=>String((data.fields||[]).find(f=>String(f.key||'').trim().replace(/:$/,'').toLocaleLowerCase('ru')===key)?.value||'').trim();
+  const verifiedStatus=editorialField('статус')||(variant.status&&variant.status!=='Проект РКО'?variant.status:'');
+  const verifiedDirection=editorialField('направление')||variant.direction||'';
   const target=variant.fundraising?.target;
   const funded=Number.isFinite(target)&&target>0;
-  return createProject({...data,blocks:publicBlocks,status:variant.status||'Проект РКО',
-   direction:variant.direction||'',mission:variant.mission||'',
+  return createProject({...data,blocks:publicBlocks,status:verifiedStatus,
+   direction:verifiedDirection,mission:variant.mission||'',
    goals:variant.goal?[variant.goal]:[],team:variant.team||[],
    files:[], // Documents are rendered once below, as actual links.
    fundraising:{mode:variant.fundraising?.enabled?(funded?'active':'not_configured'):'none',

@@ -199,7 +199,7 @@ export function createProject(record){
  const main=node('article','rich-body');
  const aside=node('aside','rich-project-aside');
  const funding=record.fundraising||{mode:'none'};
- aside.append(tag('Статус',record.status||'Информация о проекте'));
+ if(record.status)aside.append(tag('Статус',record.status));
  if(record.direction)aside.append(tag('Направление',record.direction));
  if(funding.mode==='active' && Number.isFinite(funding.target) && funding.target>0){
   const fundraiser=node('div','rich-fundraiser');
