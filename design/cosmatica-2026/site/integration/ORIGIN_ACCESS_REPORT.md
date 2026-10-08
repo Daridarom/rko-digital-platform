@@ -1,54 +1,42 @@
-# РКО: расхождения между числом адресов и доступных страниц
+# РКО: аудит доступности оригинальных адресов и полноты переноса
 
-Сверка 8 октября 2026 года. Основание: XML-карты, публичные архивы
-и ссылки внутри публичных каталогов cosmatica.org.
+Сверка 8 октября 2026 года: XML-карты, публичные страницы и ссылки из каталогов cosmatica.org.
 
-- Уникальных обнаруженных URL: **5203**.
-- Подготовлено доступных публичных редакционных страниц: **4811**.
-- Разница: **392**.
-- Служебные URL за пределами редакционного архива: **5**.
+- Обнаружено уникальных адресов: **5203**.
+- Перенесено публичных редакционных материалов: **4812**.
+- Не входят в редакционный архив: **391**.
 
-| Причина | Адресов |
+| Категория | Количество |
 |---|---:|
-| HTTP 404 на оригинальном сайте | 373 |
-| HTTP 403 на оригинальном сайте | 1 |
-| Вместо материала открывается общая страница | 1 |
-| Сетевая ошибка: доступность не подтверждена | 12 |
+| Подтверждённые HTTP 404 на старом сайте | 373 |
+| HTTP 403 на старом сайте | 1 |
+| Вместо профиля открывается другая страница | 1 |
+| Публичные статьи с неполученным исходным текстом | 11 |
+| Служебные маршруты (не статьи) | 5 |
 
-## Распределение ошибок по типам
+Проверка баланса: 4812 + 373 + 1 + 1 + 11 + 5 = 5203.
 
-### HTTP 404 на оригинальном сайте
-- profile: 263
-- article: 40
-- news-item: 21
-- project: 14
-- department: 9
-- book: 8
-- poster-item: 6
-- about-page: 4
-- collegium-item: 4
-- partner: 2
-- direction.html: 1
-- section-item: 1
+## Неполученные публичные статьи
 
-### HTTP 403 на оригинальном сайте
-- book: 1
+Следующие ссылки найдены в действующих списках РКО, но их текст и HTML не удалось получить для переноса. На 8 октября повторные HTTP-запросы к оригинальному сайту завершались тайм-аутом. **Не считать статьи восстановленными**. Запросить у Павла доступ к этим материалам через CMS или исходную БД, затем повторить импорт и сравнение текста.
 
-### Вместо материала открывается общая страница
-- profile: 1
+- https://cosmatica.org/articles/1123-udivitelnye-griby-2-serija.html
+- https://cosmatica.org/articles/1124-semena-svobody.html
+- https://cosmatica.org/articles/1167-nacionalnye-kosmicheskie-obschestva-kak-centry-kosmoplanetarnoi-socialnoi-pedagogiki.html
+- https://cosmatica.org/articles/1168-russkoe-kosmicheskoe-obschestvo-obschaja.html
+- https://cosmatica.org/articles/1330-ekofilosofskaja-determinacija-prostranstva-kultury-noosfernogo-goroda.html
+- https://cosmatica.org/articles/1432-grjaduschii-noosfernyi-sintez-nauki-i-vlasti-kak-imperativ.html
+- https://cosmatica.org/articles/1433-pervaja-faza-globalnoi-ekologicheskoi-katastrofy.html
+- https://cosmatica.org/articles/1434-noosfernyi-socializm-kak-socialno-ekonomicheskaja-organizacija-razvitija-obschestva.html
+- https://cosmatica.org/articles/1435-zavisimost-buduschego-kosmicheskogo-proryva-chelovechestva-ot.html
+- https://cosmatica.org/articles/1437-12-novaja-noosfernaja-ideologija-i-ideal-buduschego.html
+- https://cosmatica.org/articles/1438-13-strategija-evolyucionnogo-proryva-rossii-i-chelovechestva-v-xxi-veke-i-noosferizm.html
 
-### Сетевая ошибка: доступность не подтверждена
-- article: 11
-- profile: 1
+## Условия передачи
 
-## Как трактовать результаты
-
-1. HTTP 404 означает отсутствие публичной страницы в момент проверки. Ссылка
-   остаётся в реестре, но вместо неё нельзя создавать фиктивный материал.
-2. HTTP 403 и сетевые ошибки требуют отдельной проверки с администратором РКО.
-   Закрытый контент не запрашивался и не переносился.
-3. GitHub хранит публичный визуальный прототип. Функции входа, платежей и сервера
-   должны быть реализованы Павлом при интеграции с работающей CMS.
-4. Книжные файлы остаются на исходном сервере РКО.
-5. Полный перечень проблемных URL: data/archive/unavailable-urls.csv.
+1. Файлы книг остаются на сервере РКО; сохранены оригинальные ссылки скачивания.
+2. Не показывать отсутствующие/неполученные статьи как перенесённые; не заполнять их вымышленным текстом.
+3. Рабочие серверные функции и исходная CMS не заменяются статической демонстрацией.
+4. Полный перечень исключений (включая указанные 11 адресов) находится в `data/archive/unavailable-urls.csv`.
+5. После доступа к исходному сайту повторно проверить недоступные страницы и обложки книг.
 
