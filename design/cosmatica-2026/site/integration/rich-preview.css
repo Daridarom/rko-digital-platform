@@ -61,3 +61,13 @@
  .rich-blocks blockquote{padding:10px 0 10px 14px}
  .rich-blocks h2{font-size:22px}
 }
+
+/* Manual editorial upload is visible only with explicit review=1&layout=full. */
+.rich-review-panel{max-width:900px;margin:0 0 26px;border:1px solid var(--line);border-radius:16px;padding:18px 20px;background:var(--surface)}
+.rich-review-panel h2{font-size:19px;line-height:1.2;margin:0 0 9px}
+.rich-review-panel>p{font-size:13px;line-height:1.5;color:var(--muted);margin:6px 0 13px}
+.rich-review-panel input{font:inherit;max-width:100%;font-size:13px}
+.rich-review-status{font-weight:650;color:var(--text)!important}
+.rich-review-evidence{display:grid;grid-template-columns:minmax(100px,190px) minmax(0,1fr);gap:8px 12px;border-top:1px solid var(--line);padding-top:10px;font-size:12px}
+.rich-review-evidence dt{color:var(--muted)}.rich-review-evidence dd{margin:0;overflow-wrap:anywhere}
+@media(max-width:640px){.rich-review-panel{padding:14px;border-radius:12px}.rich-review-evidence{grid-template-columns:minmax(0,1fr)}}
