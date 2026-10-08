@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/34-orlovskaja-oblast.html",
+  "title": "Орловская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 6",
+        "Мероприятия 4",
+        "Состав 3"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель: Михайлов Никита Юрьевич",
+      "spans": [
+        {
+          "text": "Председатель: Михайлов Никита Юрьевич"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес: г. Орёл, ул. Октябрьская д. 30 (здание Администрации Советского р-на, цокольный этаж)",
+      "spans": [
+        {
+          "text": "Адрес: г. Орёл, ул. Октябрьская д. 30 (здание Администрации Советского р-на, цокольный этаж)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Эл.почта: info-orel@cosmatica.org",
+      "spans": [
+        {
+          "text": "Эл.почта: info-orel@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель: Михайлов Никита Юрьевич Адрес: г. Орёл, ул. Октябрьская д. 30 (здание Администрации Советского р-на, цокольный этаж) Эл.почта: info-orel@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 248,
+    "storedTextCharacters": 201,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 35522
+  }
+}

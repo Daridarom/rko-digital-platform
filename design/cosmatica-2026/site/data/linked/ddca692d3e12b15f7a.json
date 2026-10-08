@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/432",
+  "title": "Николай Николаевич Калитенко",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/a2fd2d83cea1f031130df712.webp",
+      "alt": "Николай Николаевич Калитенко"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/2ae0091d9173f46c5be40443.webp",
+      "alt": "Николай Николаевич Калитенко"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Костромская область",
+      "links": [
+        {
+          "title": "Костромская область",
+          "url": "https://cosmatica.org/departments/29-kostromskaja-oblast.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Председатель Костромского отделения РКО Ростовское ВВКИУ РВ, радиоинженер Ветеран Байконура, заслуженный испытатель Байконура, подполковник Космических войск (в запасе), член правления Костромского отделения МООВКБ (Кострома-Байконур) Педагог дополнительного образования, руководитель кружка «Основы космонавтики» Медаль «70 лет ВС СССР», медаль ордена «За заслуги перед Отчечеством» 2 степени.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/a2fd2d83cea1f031130df712.webp",
+    "assets/source/2ae0091d9173f46c5be40443.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 489,
+    "storedTextCharacters": 33,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35691
+  }
+}

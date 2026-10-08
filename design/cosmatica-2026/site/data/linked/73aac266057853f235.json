@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/22-udmurtskaja-respublika.html",
+  "title": "Удмуртская республика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 1",
+        "Состав 2"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Отделение в стадии реформирования.",
+      "spans": [
+        {
+          "text": "Отделение в стадии реформирования."
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Отделение в стадии реформирования.",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 85,
+    "storedTextCharacters": 60,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 32867
+  }
+}

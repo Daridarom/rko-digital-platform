@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 2,
+  "slug": "articles",
+  "sourceUrl": "https://cosmatica.org/articles",
+  "title": "Материалы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Конференции",
+        "Публикации",
+        "Медиа",
+        "Газета",
+        "Космонавтика",
+        "Фантастика РКО",
+        "Издания",
+        "Конкурсные работы",
+        "Научная школа прикладных исследований электромагнитных основ Жизни в Солнечной системе.",
+        "Полезно знать",
+        "Конкурс эссе \"Отечественная космонавтика:вчера-сегодня-завтра\"",
+        "Секция сохранения биосферного разнообразия",
+        "Презентации Русского Космического Общества",
+        "Ближе к космосу",
+        "Курс лекций Субетто Александра Ивановича",
+        "Мир Героев",
+        "Секция Экофилософии",
+        "Владимир Иванович Вернадский"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "Конференции",
+      "description": "Конференции",
+      "url": "https://cosmatica.org/articles/konferencii",
+      "image": null,
+      "links": [
+        {
+          "title": "Конференции",
+          "url": "https://cosmatica.org/articles/konferencii"
+        }
+      ]
+    },
+    {
+      "title": "Публикации",
+      "description": "Публикации",
+      "url": "https://cosmatica.org/articles/publikacii",
+      "image": null,
+      "links": [
+        {
+          "title": "Публикации",
+          "url": "https://cosmatica.org/articles/publikacii"
+        }
+      ]
+    },
+    {
+      "title": "Медиа",
+      "description": "Медиа",
+      "url": "https://cosmatica.org/articles/media",
+      "image": null,
+      "links": [
+        {
+          "title": "Медиа",
+          "url": "https://cosmatica.org/articles/media"
+        }
+      ]
+    },
+    {
+      "title": "Газета",
+      "description": "Газета",
+      "url": "https://cosmatica.org/articles/gazeta",
+      "image": null,
+      "links": [
+        {
+          "title": "Газета",
+          "url": "https://cosmatica.org/articles/gazeta"
+        }
+      ]
+    },
+    {
+      "title": "Космонавтика",
+      "description": "Космонавтика",
+      "url": "https://cosmatica.org/articles/kosmonavtika",
+      "image": null,
+      "links": [
+        {
+          "title": "Космонавтика",
+          "url": "https://cosmatica.org/articles/kosmonavtika"
+        }
+      ]
+    },
+    {
+      "title": "Фантастика РКО",
+      "description": "Фантастика РКО",
+      "url": "https://cosmatica.org/articles/fantastika-rko",
+      "image": null,
+      "links": [
+        {
+          "title": "Фантастика РКО",
+          "url": "https://cosmatica.org/articles/fantastika-rko"
+        }
+      ]
+    },
+    {
+      "title": "Издания",
+      "description": "Издания",
+      "url": "https://cosmatica.org/articles/izdanija",
+      "image": null,
+      "links": [
+        {
+          "title": "Издания",
+          "url": "https://cosmatica.org/articles/izdanija"
+        }
+      ]
+    },
+    {
+      "title": "Конкурсные работы",
+      "description": "Конкурсные работы",
+      "url": "https://cosmatica.org/articles/konkursnye-raboty",
+      "image": null,
+      "links": [
+        {
+          "title": "Конкурсные работы",
+          "url": "https://cosmatica.org/articles/konkursnye-raboty"
+        }
+      ]
+    },
+    {
+      "title": "Научная школа прикладных исследований электромагнитных основ Жизни в Солнечной системе.",
+      "description": "Научная школа прикладных исследований электромагнитных основ Жизни в Солнечной системе.",
+      "url": "https://cosmatica.org/articles/nauchnaja-shkola-prikladnyh-issledovanii-elektromagnitnyh-osnov-zhizni-v-solnechnoi-sisteme",
+      "image": null,
+      "links": [
+        {
+          "title": "Научная школа прикладных исследований электромагнитных основ Жизни в Солнечной системе.",
+          "url": "https://cosmatica.org/articles/nauchnaja-shkola-prikladnyh-issledovanii-elektromagnitnyh-osnov-zhizni-v-solnechnoi-sisteme"
+        }
+      ]
+    },
+    {
+      "title": "Полезно знать",
+      "description": "Полезно знать",
+      "url": "https://cosmatica.org/articles/polezno-znat",
+      "image": null,
+      "links": [
+        {
+          "title": "Полезно знать",
+          "url": "https://cosmatica.org/articles/polezno-znat"
+        }
+      ]
+    },
+    {
+      "title": "Конкурс эссе \"Отечественная космонавтика:вчера-сегодня-завтра\"",
+      "description": "Конкурс эссе \"Отечественная космонавтика:вчера-сегодня-завтра\"",
+      "url": "https://cosmatica.org/articles/konkurs-esse-otechestvennaja-kosmonavtika-vchera-segodnja-zavtra",
+      "image": null,
+      "links": [
+        {
+          "title": "Конкурс эссе \"Отечественная космонавтика:вчера-сегодня-завтра\"",
+          "url": "https://cosmatica.org/articles/konkurs-esse-otechestvennaja-kosmonavtika-vchera-segodnja-zavtra"
+        }
+      ]
+    },
+    {
+      "title": "Секция сохранения биосферного разнообразия",
+      "description": "Секция сохранения биосферного разнообразия",
+      "url": "https://cosmatica.org/articles/sekcija-sohranenija-biosfernogo-raznoobrazija",
+      "image": null,
+      "links": [
+        {
+          "title": "Секция сохранения биосферного разнообразия",
+          "url": "https://cosmatica.org/articles/sekcija-sohranenija-biosfernogo-raznoobrazija"
+        }
+      ]
+    },
+    {
+      "title": "Презентации Русского Космического Общества",
+      "description": "Презентации Русского Космического Общества",
+      "url": "https://cosmatica.org/articles/prezentacii-russkogo-kosmicheskogo-obschestva",
+      "image": null,
+      "links": [
+        {
+          "title": "Презентации Русского Космического Общества",
+          "url": "https://cosmatica.org/articles/prezentacii-russkogo-kosmicheskogo-obschestva"
+        }
+      ]
+    },
+    {
+      "title": "Ближе к космосу",
+      "description": "Ближе к космосу",
+      "url": "https://cosmatica.org/articles/blizhe-k-kosmosu",
+      "image": null,
+      "links": [
+        {
+          "title": "Ближе к космосу",
+          "url": "https://cosmatica.org/articles/blizhe-k-kosmosu"
+        }
+      ]
+    },
+    {
+      "title": "Курс лекций Субетто Александра Ивановича",
+      "description": "Курс лекций Субетто Александра Ивановича",
+      "url": "https://cosmatica.org/articles/kurs-lekcii-subetto-aleksandra-ivanovicha",
+      "image": null,
+      "links": [
+        {
+          "title": "Курс лекций Субетто Александра Ивановича",
+          "url": "https://cosmatica.org/articles/kurs-lekcii-subetto-aleksandra-ivanovicha"
+        }
+      ]
+    },
+    {
+      "title": "Мир Героев",
+      "description": "Мир Героев",
+      "url": "https://cosmatica.org/articles/mir-geroev",
+      "image": null,
+      "links": [
+        {
+          "title": "Мир Героев",
+          "url": "https://cosmatica.org/articles/mir-geroev"
+        }
+      ]
+    },
+    {
+      "title": "Секция Экофилософии",
+      "description": "Секция Экофилософии",
+      "url": "https://cosmatica.org/articles/sekcija-ekofilosofii",
+      "image": null,
+      "links": [
+        {
+          "title": "Секция Экофилософии",
+          "url": "https://cosmatica.org/articles/sekcija-ekofilosofii"
+        }
+      ]
+    },
+    {
+      "title": "Владимир Иванович Вернадский",
+      "description": "Владимир Иванович Вернадский",
+      "url": "https://cosmatica.org/articles/vladimir-ivanovich-vernadskii",
+      "image": null,
+      "links": [
+        {
+          "title": "Владимир Иванович Вернадский",
+          "url": "https://cosmatica.org/articles/vladimir-ivanovich-vernadskii"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [
+    "Конференции",
+    "Публикации",
+    "Медиа",
+    "Газета",
+    "Космонавтика",
+    "Фантастика РКО",
+    "Издания",
+    "Конкурсные работы",
+    "Научная школа прикладных исследований электромагнитных основ Жизни в Солнечной системе.",
+    "Полезно знать",
+    "Конкурс эссе \"Отечественная космонавтика:вчера-сегодня-завтра\"",
+    "Секция сохранения биосферного разнообразия",
+    "Презентации Русского Космического Общества",
+    "Ближе к космосу",
+    "Курс лекций Субетто Александра Ивановича",
+    "Мир Героев",
+    "Секция Экофилософии",
+    "Владимир Иванович Вернадский"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 467,
+    "storedTextCharacters": 440,
+    "sourceCardCount": 18,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 76068
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 2,
+  "slug": "home",
+  "sourceUrl": "https://cosmatica.org/",
+  "title": "Русское Космическое Общество",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О вступлении в РКО",
+        "Добровольцы",
+        "Войти",
+        "Регистрация"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/source/80130a9f80362d7fc12d90a0.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "assets/source/009b6ed7318e742b43b70e8c.webp",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "text": "октябрь, 2026",
+      "level": 3
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "пн",
+          "вт",
+          "ср",
+          "чт",
+          "пт",
+          "сб",
+          "вс"
+        ],
+        [
+          "",
+          "",
+          "",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        [
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        [
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ],
+        [
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25"
+        ],
+        [
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/source/65661315ce0b4e31ef97bb73.webp",
+      "alt": "Отчёт о деятельности в 2025 году"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/d3fc17f1a139777a9f35f6f0.webp",
+      "alt": "Отчёт о деятельности в 2024 году"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/e40d527b78e47ee1a21c1486.webp",
+      "alt": "Отчёт о деятельности в 2023 году"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/cbc8b73f8695de7191d2950f.webp",
+      "alt": "Отчёт о деятельности в 2022 году"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/857de9161430b271ec85aca0.webp",
+      "alt": "Отчёт о деятельности в 2021 году"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/6b6b032e4c4073eaa9f69f85.webp",
+      "alt": "Отчёт о деятельности в 2020 году"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/4946e6eae396851520609af4.webp",
+      "alt": "Отчёт о деятельности в 2019 году"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Публикации",
+        "Конференции",
+        "Медиа",
+        "Издания",
+        "все материалы"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/source/9b295e3a4d6560adbd77c35e.webp",
+      "alt": "Кисурин Яков Владимирович"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/4a63a3d5b29e797980741589.webp",
+      "alt": "Задерей Валерий Александрович"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/dc038c26085b3b0a7ab1cc36.webp",
+      "alt": "Волчкова Любовь Юрьевна"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/22d73e7ab5039388e9c695e4.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "assets/source/9a364455ab1648332a8b2e49.webp",
+      "alt": "Переиздание ключевых книг РКО - 2026"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/4e37ef40df0f46ec3745376e.webp",
+      "alt": "Информационно-аналитический канал Чо-ТВ"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/521d5116df9b012c53bdf563.webp",
+      "alt": "Всероссийский конкурс "
+    },
+    {
+      "type": "image",
+      "src": "assets/source/1d5a67a22eee8fbd9da04d23.webp",
+      "alt": "Литературный проект "
+    },
+    {
+      "type": "image",
+      "src": "assets/source/7b900e774744fb0c50d3edd6.webp",
+      "alt": "Межрегиональный конкурс - Космос вдохновляет!"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/d20dff10f6fded9a29bf07ac.webp",
+      "alt": "Академия научной фантастики"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/712dbfd9f86a3dc6ae1d1699.webp",
+      "alt": "Спортивный клуб Русского Космического  Общества"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/943e070c1272029c0c950074.webp",
+      "alt": "Битва за будущее - Русский рубеж"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/53e0e3d8f841569020801218.webp",
+      "alt": "Империум: Первые. Литературный конкурс"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/05db869028b0afafdbba2222.webp",
+      "alt": "Триединство космичного прорыва человечества"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/adbddebc22ec8ad976af7175.webp",
+      "alt": "Школьные ботаны - 2: Русский Леонардо"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/8e3d543bad287c0022a7662d.webp",
+      "alt": "Киноурок "
+    },
+    {
+      "type": "image",
+      "src": "assets/source/468ed77ab93939cb37e5b240.webp",
+      "alt": "Посёлок "
+    },
+    {
+      "type": "image",
+      "src": "assets/source/75725553da3bc56de7874d75.webp",
+      "alt": "Русские спарринги"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/49f733099c889f36c6bb20e4.webp",
+      "alt": "Конкурс "
+    },
+    {
+      "type": "image",
+      "src": "assets/source/a66dc224e518f95c6114567a.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "assets/source/06beb7315dfbdbc83ed5f29d.webp",
+      "alt": "Космоноосфера"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/ed946e88a49be5a4081f2693.webp",
+      "alt": "ИСКРА"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/6acb4f5ec9f7636092e12191.webp",
+      "alt": "Курская битва за будущее"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/0e884fb96ce63ee377d3ea19.webp",
+      "alt": "Школа вожатского мастерства"
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [
+    "assets/source/80130a9f80362d7fc12d90a0.webp",
+    "assets/source/009b6ed7318e742b43b70e8c.webp",
+    "assets/source/65661315ce0b4e31ef97bb73.webp",
+    "assets/source/d3fc17f1a139777a9f35f6f0.webp",
+    "assets/source/e40d527b78e47ee1a21c1486.webp",
+    "assets/source/cbc8b73f8695de7191d2950f.webp",
+    "assets/source/857de9161430b271ec85aca0.webp",
+    "assets/source/6b6b032e4c4073eaa9f69f85.webp",
+    "assets/source/4946e6eae396851520609af4.webp",
+    "assets/source/5ff6fe3456cc4e654c4ba045.webp",
+    "assets/source/54a7b93ea1751a32763bf80b.webp",
+    "assets/source/6ed69dc554c3f607bf1ef670.webp",
+    "assets/source/c41f6a90245d830e30b9207d.webp",
+    "assets/source/2abcb9fd552df93e6b617703.webp",
+    "assets/source/9c1831e836e13d3a8cc97ec0.webp",
+    "assets/source/2a3117f53fd40dffccd259a0.webp",
+    "assets/source/96ddf0fc4a4af4814b6c45d7.webp",
+    "assets/source/f3e5da4272647fd166d48ee3.webp",
+    "assets/source/9b295e3a4d6560adbd77c35e.webp",
+    "assets/source/4a63a3d5b29e797980741589.webp",
+    "assets/source/dc038c26085b3b0a7ab1cc36.webp",
+    "assets/source/22d73e7ab5039388e9c695e4.webp",
+    "assets/source/9a364455ab1648332a8b2e49.webp",
+    "assets/source/4e37ef40df0f46ec3745376e.webp",
+    "assets/source/521d5116df9b012c53bdf563.webp",
+    "assets/source/1d5a67a22eee8fbd9da04d23.webp",
+    "assets/source/7b900e774744fb0c50d3edd6.webp",
+    "assets/source/d20dff10f6fded9a29bf07ac.webp",
+    "assets/source/712dbfd9f86a3dc6ae1d1699.webp",
+    "assets/source/943e070c1272029c0c950074.webp",
+    "assets/source/53e0e3d8f841569020801218.webp",
+    "assets/source/05db869028b0afafdbba2222.webp",
+    "assets/source/adbddebc22ec8ad976af7175.webp",
+    "assets/source/8e3d543bad287c0022a7662d.webp",
+    "assets/source/468ed77ab93939cb37e5b240.webp",
+    "assets/source/75725553da3bc56de7874d75.webp",
+    "assets/source/49f733099c889f36c6bb20e4.webp",
+    "assets/source/a66dc224e518f95c6114567a.webp",
+    "assets/source/06beb7315dfbdbc83ed5f29d.webp",
+    "assets/source/ed946e88a49be5a4081f2693.webp",
+    "assets/source/6acb4f5ec9f7636092e12191.webp",
+    "assets/source/0e884fb96ce63ee377d3ea19.webp",
+    "assets/source/03ef55ac65f559a5a63f0e63.webp",
+    "assets/source/d4e822775187c03e0e92ee0e.webp",
+    "assets/source/baca9724b97c65ce05ce79f2.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 5015,
+    "storedTextCharacters": 104,
+    "sourceCardCount": 0,
+    "sourceImageCount": 45,
+    "paragraphCount": 63,
+    "sourceBytes": 93527
+  }
+}

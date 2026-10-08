@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/konkurs-esse-otechestvennaja-kosmonavtika-vchera-segodnja-zavtra",
+  "title": "Конкурс эссе \"Отечественная космонавтика:вчера-сегодня-завтра\"",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Республиканский конкурс литературного эссе «Отечественная космонавтика: вчера-сегодня-завтра».",
+      "spans": [
+        {
+          "text": "Республиканский конкурс литературного эссе «Отечественная космонавтика: вчера-сегодня-завтра»."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Донецкая Народная Республика. Осень 2019г.",
+      "spans": [
+        {
+          "text": "Донецкая Народная Республика. Осень 2019г."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Проект на сайте РКО: https://cosmatica.org/projects/163",
+      "spans": [
+        {
+          "text": "Проект на сайте РКО: https://cosmatica.org/projects/163"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Навстречу Новой Жизни #Отечественная космонавтика: вчера-сегодня-завтра",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Очарованные звёздами #Отечественная космонавтика: вчера-сегодня-завтра",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Моя мечта #Отечественная космонавтика: вчера-сегодня-завтра",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 1206,
+    "storedTextCharacters": 391,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 79250
+  }
+}

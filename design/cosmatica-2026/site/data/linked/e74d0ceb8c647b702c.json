@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "slug": "partner",
+  "sourceUrl": "https://cosmatica.org/partners/10-international-organization-club-of-sofia.html",
+  "title": "International Organization - Club of Sofia",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/93d3513e748ff49ad4ed0b89.webp",
+      "alt": "International Organization - Club of Sofia"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "«Клуб София» проводит симпозиумы, конференции, встречи и доклады. Работает над научно-образовательными программами, направленными на воспитание и формирование общественного мнения по экономическим, социальным и экологическим вопросам. Направлениями деятельности \"Софийского клуба\" являются: • Общая философская стратегия для людей и стран в современном мире; • Глобальные моделирующие проекты, направленные на создание инфраструктуры искусственного интеллекта с открытым исходным кодом (такой как OpenCog); • Культурная стратегия устойчивого развития общества; • Глобальные проблемы; • Гармонизация человека и природы; • Алгоритмы решения нерешенных проблем в начале 3-го тысячелетия. http://clubofsofia.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/93d3513e748ff49ad4ed0b89.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 750,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 33502
+  }
+}

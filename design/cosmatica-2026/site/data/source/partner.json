@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "slug": "partner",
+  "sourceUrl": "https://cosmatica.org/partners/15-federalnyi-ekspertnyi-sovet.html",
+  "title": "Федеральный экспертный совет",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/b60ab98dd7ceb65539c42c33.webp",
+      "alt": "Федеральный экспертный совет"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Федеральный экспертный совет по местному и общественному самоуправлению и местным сообществами при Общенациональной ассоциации территориального общественного самоуправления - Координационный центр местных сообществ. https://www.fesrus.ru",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/b60ab98dd7ceb65539c42c33.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 266,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 32570
+  }
+}

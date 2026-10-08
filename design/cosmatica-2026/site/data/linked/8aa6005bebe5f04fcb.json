@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/3",
+  "title": "Денис Александрович Шпотя",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/d82a27be2c2a30d1dff01db8.webp",
+      "alt": "Денис Александрович Шпотя"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 2"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/source/6026204cff617c3be4b39474.webp",
+      "alt": "Денис Александрович Шпотя"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 1"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/d82a27be2c2a30d1dff01db8.webp",
+    "assets/source/6026204cff617c3be4b39474.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 98,
+    "storedTextCharacters": 51,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35488
+  }
+}

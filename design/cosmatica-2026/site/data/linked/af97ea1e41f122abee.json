@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/549-doktrina-pobedy.html",
+  "title": "Доктрина Победы",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/2a3fc283f6e7286f649f43f8.webp",
+      "alt": "Доктрина Победы"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Разумные от Русского народа",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Военно-политическая доктрина достижения победы России в развязанной против неё тотальной гибридной войне.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 2 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/5979/0dc0095c9fee500ef58471cae102c7d7"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/2a3fc283f6e7286f649f43f8.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/5979/0dc0095c9fee500ef58471cae102c7d7",
+      "localUrl": "assets/source/fc86466d5d17d4e4989eb4b3.pdf"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 175,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39376
+  }
+}

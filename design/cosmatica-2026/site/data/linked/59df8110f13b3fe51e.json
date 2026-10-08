@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/sekcija-ekofilosofii",
+  "title": "Секция Экофилософии",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Экофилософская детерминация пространства культуры ноосферного города",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 285,
+    "storedTextCharacters": 68,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 74375
+  }
+}

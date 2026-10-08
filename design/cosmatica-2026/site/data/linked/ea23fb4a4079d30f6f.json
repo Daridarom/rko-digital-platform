@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/38-tyumenskaja-oblast.html",
+  "title": "Тюменская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 6",
+        "Мероприятия 1",
+        "Состав 3"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель: Драчук Татьяна Ивановна",
+      "spans": [
+        {
+          "text": "Председатель: Драчук Татьяна Ивановна"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес:",
+      "spans": [
+        {
+          "text": "Адрес: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Телефон:",
+      "spans": [
+        {
+          "text": "Телефон: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта: info-tumen@cosmatica.org",
+      "spans": [
+        {
+          "text": "Электронная почта: info-tumen@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель: Драчук Татьяна Ивановна Адрес: Телефон: Электронная почта: info-tumen@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 158,
+    "storedTextCharacters": 133,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 33486
+  }
+}

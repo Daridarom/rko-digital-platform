@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/550-den-kogda-menja-vnesli-v-protokol.html",
+  "title": "День, когда меня внесли в протокол",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/5ed7439a75b75c558be9b701.webp",
+      "alt": "День, когда меня внесли в протокол"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Давид Гадималиев",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Литературный конкурс \"Империум: Победа!\" - 2026г. Номинация \"Молодое Дарование\"",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 146 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/5980/ca654a34b20b5432902d823c40925037"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/5ed7439a75b75c558be9b701.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/5980/ca654a34b20b5432902d823c40925037",
+      "localUrl": "assets/source/3adbaa95b9516eec88f64a75.pdf"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 159,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39928
+  }
+}

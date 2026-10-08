@@ -1,0 +1,277 @@
+{
+  "schemaVersion": 2,
+  "slug": "projects",
+  "sourceUrl": "https://cosmatica.org/projects",
+  "title": "Проекты",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Все",
+        "Стратегические инициативы",
+        "Действующие",
+        "Завершённые",
+        "Перспективные",
+        "Ждут поддержки"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/source/7f863ab5da8a2ceca0b1ffed.webp",
+      "alt": "Всенародное детско-юношеское общественное движение Русского Космического Общества - \"Дружина Гагаринцев\""
+    },
+    {
+      "type": "image",
+      "src": "assets/source/863ea9d5ff8668ecdf06ec3e.webp",
+      "alt": "Союз Народного Cплочения"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/7b8dcf9128e506fb43a4fea6.webp",
+      "alt": "Школьные ботаны - 2: Русский Леонардо"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/3192e7355e11f027f09726a3.webp",
+      "alt": "Переиздание ключевых книг РКО - 2026"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/15a2912759a10df884c97c73.webp",
+      "alt": "Информационно-аналитический канал Чо-ТВ"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/08171f980de890264722c950.webp",
+      "alt": "Всероссийский конкурс \"ЖИВОЕ СЛОВО\""
+    },
+    {
+      "type": "image",
+      "src": "assets/source/fd518c278c361f005d02f396.webp",
+      "alt": "Литературный проект \"Просто Фантастика!\""
+    },
+    {
+      "type": "image",
+      "src": "assets/source/640c3fa3e2c68b66c087d09c.webp",
+      "alt": "Межрегиональный конкурс - Космос вдохновляет!"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/a6c6f6cd2a95b1573a1e17a1.webp",
+      "alt": "Академия научной фантастики"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/5bccef31aebdb71f78eb8de1.webp",
+      "alt": "Спортивный клуб Русского Космического  Общества"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/dd654147984919b45d43cbb5.webp",
+      "alt": "Битва за будущее - Русский рубеж"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/6ce6c3cdb885c5ca5515cbdd.webp",
+      "alt": "Империум: Первые. Литературный конкурс"
+    }
+  ],
+  "cards": [
+    {
+      "title": "Всенародное детско-юношеское общественное движение Русского Космического Общества - \"Дружина Гагаринцев\"",
+      "description": "Поддержать проект Всенародное детско-юношеское общественное движение Русского Космического Общества - \"Дружина Гагаринцев\" 29.10.2018",
+      "url": "https://cosmatica.org/projects/gagarincy",
+      "image": "assets/source/7f863ab5da8a2ceca0b1ffed.webp",
+      "links": [
+        {
+          "title": "Поддержать проект",
+          "url": "https://cosmatica.org/projects/gagarincy"
+        },
+        {
+          "title": "Всенародное детско-юношеское общественное движение Русского Космического Общества - \"Дружина Гагаринцев\"",
+          "url": "https://cosmatica.org/projects/gagarincy"
+        }
+      ]
+    },
+    {
+      "title": "Союз Народного Cплочения",
+      "description": "Союз Народного Cплочения 03.12.2022",
+      "url": "https://cosmatica.org/projects/sns",
+      "image": "assets/source/863ea9d5ff8668ecdf06ec3e.webp",
+      "links": [
+        {
+          "title": "Союз Народного Cплочения",
+          "url": "https://cosmatica.org/projects/sns"
+        }
+      ]
+    },
+    {
+      "title": "Школьные ботаны - 2: Русский Леонардо",
+      "description": "На развитие проекта собрано: 15500 руб. Поддержать проект Школьные ботаны - 2: Русский Леонардо 06.05.2026",
+      "url": "https://cosmatica.org/projects/rusleo",
+      "image": "assets/source/7b8dcf9128e506fb43a4fea6.webp",
+      "links": [
+        {
+          "title": "Поддержать проект",
+          "url": "https://cosmatica.org/projects/rusleo"
+        },
+        {
+          "title": "Школьные ботаны - 2: Русский Леонардо",
+          "url": "https://cosmatica.org/projects/rusleo"
+        }
+      ]
+    },
+    {
+      "title": "Переиздание ключевых книг РКО - 2026",
+      "description": "На развитие проекта собрано: 1000 руб. Поддержать проект Переиздание ключевых книг РКО - 2026 03.10.2026",
+      "url": "https://cosmatica.org/projects/350",
+      "image": "assets/source/3192e7355e11f027f09726a3.webp",
+      "links": [
+        {
+          "title": "Поддержать проект",
+          "url": "https://cosmatica.org/projects/350"
+        },
+        {
+          "title": "Переиздание ключевых книг РКО - 2026",
+          "url": "https://cosmatica.org/projects/350"
+        }
+      ]
+    },
+    {
+      "title": "Информационно-аналитический канал Чо-ТВ",
+      "description": "Информационно-аналитический канал Чо-ТВ 02.10.2026",
+      "url": "https://cosmatica.org/projects/349",
+      "image": "assets/source/15a2912759a10df884c97c73.webp",
+      "links": [
+        {
+          "title": "Информационно-аналитический канал Чо-ТВ",
+          "url": "https://cosmatica.org/projects/349"
+        }
+      ]
+    },
+    {
+      "title": "Всероссийский конкурс \"ЖИВОЕ СЛОВО\"",
+      "description": "Всероссийский конкурс \"ЖИВОЕ СЛОВО\" 01.10.2026",
+      "url": "https://cosmatica.org/projects/348",
+      "image": "assets/source/08171f980de890264722c950.webp",
+      "links": [
+        {
+          "title": "Всероссийский конкурс \"ЖИВОЕ СЛОВО\"",
+          "url": "https://cosmatica.org/projects/348"
+        }
+      ]
+    },
+    {
+      "title": "Литературный проект \"Просто Фантастика!\"",
+      "description": "Литературный проект \"Просто Фантастика!\" 25.09.2026",
+      "url": "https://cosmatica.org/projects/347",
+      "image": "assets/source/fd518c278c361f005d02f396.webp",
+      "links": [
+        {
+          "title": "Литературный проект \"Просто Фантастика!\"",
+          "url": "https://cosmatica.org/projects/347"
+        }
+      ]
+    },
+    {
+      "title": "Межрегиональный конкурс - Космос вдохновляет!",
+      "description": "Межрегиональный конкурс - Космос вдохновляет! 08.09.2026",
+      "url": "https://cosmatica.org/projects/346",
+      "image": "assets/source/640c3fa3e2c68b66c087d09c.webp",
+      "links": [
+        {
+          "title": "Межрегиональный конкурс - Космос вдохновляет!",
+          "url": "https://cosmatica.org/projects/346"
+        }
+      ]
+    },
+    {
+      "title": "Академия научной фантастики",
+      "description": "Академия научной фантастики 07.09.2026",
+      "url": "https://cosmatica.org/projects/345",
+      "image": "assets/source/a6c6f6cd2a95b1573a1e17a1.webp",
+      "links": [
+        {
+          "title": "Академия научной фантастики",
+          "url": "https://cosmatica.org/projects/345"
+        }
+      ]
+    },
+    {
+      "title": "Спортивный клуб Русского Космического Общества",
+      "description": "Спортивный клуб Русского Космического Общества 04.09.2026",
+      "url": "https://cosmatica.org/projects/344",
+      "image": "assets/source/5bccef31aebdb71f78eb8de1.webp",
+      "links": [
+        {
+          "title": "Спортивный клуб Русского Космического Общества",
+          "url": "https://cosmatica.org/projects/344"
+        }
+      ]
+    },
+    {
+      "title": "Битва за будущее - Русский рубеж",
+      "description": "Битва за будущее - Русский рубеж 21.06.2026",
+      "url": "https://cosmatica.org/projects/bitvazabuduchee",
+      "image": "assets/source/dd654147984919b45d43cbb5.webp",
+      "links": [
+        {
+          "title": "Битва за будущее - Русский рубеж",
+          "url": "https://cosmatica.org/projects/bitvazabuduchee"
+        }
+      ]
+    },
+    {
+      "title": "Империум: Первые. Литературный конкурс",
+      "description": "Поддержать проект Империум: Первые. Литературный конкурс 29.05.2026",
+      "url": "https://cosmatica.org/projects/342",
+      "image": "assets/source/6ce6c3cdb885c5ca5515cbdd.webp",
+      "links": [
+        {
+          "title": "Поддержать проект",
+          "url": "https://cosmatica.org/projects/342"
+        },
+        {
+          "title": "Империум: Первые. Литературный конкурс",
+          "url": "https://cosmatica.org/projects/342"
+        }
+      ]
+    }
+  ],
+  "fields": [],
+  "images": [
+    "assets/source/7f863ab5da8a2ceca0b1ffed.webp",
+    "assets/source/863ea9d5ff8668ecdf06ec3e.webp",
+    "assets/source/7b8dcf9128e506fb43a4fea6.webp",
+    "assets/source/3192e7355e11f027f09726a3.webp",
+    "assets/source/15a2912759a10df884c97c73.webp",
+    "assets/source/08171f980de890264722c950.webp",
+    "assets/source/fd518c278c361f005d02f396.webp",
+    "assets/source/640c3fa3e2c68b66c087d09c.webp",
+    "assets/source/a6c6f6cd2a95b1573a1e17a1.webp",
+    "assets/source/5bccef31aebdb71f78eb8de1.webp",
+    "assets/source/dd654147984919b45d43cbb5.webp",
+    "assets/source/6ce6c3cdb885c5ca5515cbdd.webp"
+  ],
+  "documents": [],
+  "categories": [
+    "Все",
+    "Стратегические инициативы",
+    "Действующие",
+    "Завершённые",
+    "Перспективные",
+    "Ждут поддержки"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 948,
+    "storedTextCharacters": 77,
+    "sourceCardCount": 12,
+    "sourceImageCount": 12,
+    "paragraphCount": 0,
+    "sourceBytes": 60808
+  }
+}

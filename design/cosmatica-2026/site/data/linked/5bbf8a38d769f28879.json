@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/5-respublika-hakasija.html",
+  "title": "Республика Хакасия",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 9",
+        "Материалы 1",
+        "Состав 3"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель отделения — Радюк Наталья Васильевна.",
+      "spans": [
+        {
+          "text": "Председатель отделения — Радюк Наталья Васильевна.",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Музей-заповедник \"Сундуки\"",
+      "spans": [
+        {
+          "text": "Музей-заповедник \"Сундуки\""
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель отделения — Радюк Наталья Васильевна. Адрес: Республика Хакасия, Орджоникидзевский район, с. Июс, ул. Центральная, д. 8/2. Электронная почта: info-hks@cosmatica.org Музей-заповедник \"Сундуки\"",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 287,
+    "storedTextCharacters": 113,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 2,
+    "sourceBytes": 35797
+  }
+}

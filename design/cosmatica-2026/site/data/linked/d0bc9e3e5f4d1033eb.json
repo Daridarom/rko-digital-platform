@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/551-kto-pervyi.html",
+  "title": "Кто первый",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/7c150ce17151c35273d5d68a.webp",
+      "alt": "Кто первый"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Андрей Гореликов",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Литературный конкурс \"Империум: Победа!\" - 2026г. Номинация \"Эмоциональный подход\"",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 163 Кб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/5981/5e791353f4cdda3e13e7601012cac8db"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/7c150ce17151c35273d5d68a.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/5981/5e791353f4cdda3e13e7601012cac8db",
+      "localUrl": "assets/source/0b182e6c375ebad83995178d.pdf"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 138,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 39620
+  }
+}

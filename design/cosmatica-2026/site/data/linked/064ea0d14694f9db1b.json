@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "slug": "partner",
+  "sourceUrl": "https://cosmatica.org/partners/4-muzei-kosmonavtiki.html",
+  "title": "Музей космонавтики",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/f4f6218fdcdbcc3dac4049be.webp",
+      "alt": "Музей космонавтики"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Музей космонавтики – один из крупнейших научно-исторических музеев мира. История музея началась во второй половине XX века, когда в 1964 году на карте Москвы появился монумент «Покорителям космоса». География выставочной деятельности музея: Россия, страны СНГ, Великобритания, США, Индия, Австралия, Монголия, Германия, Испания, Франция, Китай. Так, с каждым днем, космос становится еще ближе. Сайт: www.kosmo-museum.ru",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/f4f6218fdcdbcc3dac4049be.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 438,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 32674
+  }
+}

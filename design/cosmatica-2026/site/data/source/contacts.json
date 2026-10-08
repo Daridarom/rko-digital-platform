@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "slug": "contacts",
+  "sourceUrl": "https://cosmatica.org/about/contacts",
+  "title": "Контакты",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "РУССКОЕ КОСМИЧЕСКОЕ ОБЩЕСТВО",
+      "spans": [
+        {
+          "text": "РУССКОЕ КОСМИЧЕСКОЕ ОБЩЕСТВО"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Тел.: +7 9219967296 e-mail: info@cosmatica.org",
+      "spans": [
+        {
+          "text": "\r\n\tТел.: +7 9219967296\r\n\te-mail: info@cosmatica.org "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес: 107023, г. Москва, ул. Кржижановского, 21А",
+      "spans": [
+        {
+          "text": "\r\n\tАдрес: 107023, г. Москва, ул. Кржижановского, 21А"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "195248, Санкт-Петербург, пр. Энергетиков, д.19, каб. 21",
+      "spans": [
+        {
+          "text": "195248, Санкт-Петербург, пр. Энергетиков, д.19, каб. 21"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 190,
+    "storedTextCharacters": 178,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 32938
+  }
+}

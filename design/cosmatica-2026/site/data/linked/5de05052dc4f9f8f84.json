@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/21-kurganskaja-oblast.html",
+  "title": "Курганская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 3",
+        "Состав 3"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Отделение готовится к официальному открытию.",
+      "spans": [
+        {
+          "text": "Отделение готовится к официальному открытию."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель - Бажутин Владимир Павлович",
+      "spans": [
+        {
+          "text": "Председатель - Бажутин Владимир Павлович"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес отделения: 641884, г. Шадринск, Курганская область, ул Володарского, дом 53, офис 4",
+      "spans": [
+        {
+          "text": "Адрес отделения: 641884, г. Шадринск, Курганская область, ул Володарского, дом 53, офис 4"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Эл.почта: info-kurg@cosmatica.org",
+      "spans": [
+        {
+          "text": "Эл.почта: info-kurg@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Отделение готовится к официальному открытию. Председатель - Бажутин Владимир Павлович Адрес отделения: 641884, г. Шадринск, Курганская область, ул Володарского, дом 53, офис 4 Эл.почта: info-kurg@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 280,
+    "storedTextCharacters": 232,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 35209
+  }
+}

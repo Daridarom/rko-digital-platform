@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/izdanija",
+  "title": "Издания",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Научные и научно-популярные издания: газеты, журналы, вестники.",
+      "spans": [
+        {
+          "text": "Научные и научно-популярные издания: газеты, журналы, вестники."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Вестник МНИИКА",
+        "Системономия",
+        "Русский космос",
+        "УР: наука и практика",
+        "УИР: проектирование и управление"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [
+    "Вестник МНИИКА",
+    "Системономия",
+    "Русский космос",
+    "УР: наука и практика",
+    "УИР: проектирование и управление"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 168,
+    "storedTextCharacters": 155,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 73654
+  }
+}

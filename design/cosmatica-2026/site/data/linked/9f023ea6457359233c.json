@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/1642",
+  "title": "Валерий Александрович Задерей",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/5d96fb3c41b6d87e2d9ef323.webp",
+      "alt": "Валерий Александрович Задерей"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/3aea53834d6eaf4c988e68a9.webp",
+      "alt": "Валерий Александрович Задерей"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 1"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 4 года назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Начальник штаба Союза Народного Сплочения Ветеран Службы внешней разведки, подполковник запаса Ведущий программы «Вечный зов» информационного агентства «Аврора»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/5d96fb3c41b6d87e2d9ef323.webp",
+    "assets/source/3aea53834d6eaf4c988e68a9.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 256,
+    "storedTextCharacters": 45,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35712
+  }
+}

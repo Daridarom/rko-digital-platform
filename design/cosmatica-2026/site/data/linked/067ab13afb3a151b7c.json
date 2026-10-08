@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/24-vladimirskaja-oblast.html",
+  "title": "Владимирская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 32",
+        "Мероприятия 5",
+        "Состав 5"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Открытие отделения состоялось 14 августа 2019г.",
+      "spans": [
+        {
+          "text": "Открытие отделения состоялось 14 августа 2019г."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель - Лапшина Ирина Константиновна , зав. кафедрой всеобщей истории Владимирского государственного университета имени А.Г. и Н.Г. Столетовых, д.и.н., профессор.",
+      "spans": [
+        {
+          "text": "Председатель - "
+        },
+        {
+          "text": "Лапшина Ирина Константиновна",
+          "href": "https://cosmatica.org/users/279"
+        },
+        {
+          "text": ", зав. кафедрой всеобщей истории Владимирского государственного университета имени А.Г. и Н.Г. Столетовых, д.и.н., профессор."
+        }
+      ],
+      "links": [
+        {
+          "text": "Лапшина Ирина Константиновна",
+          "url": "https://cosmatica.org/users/279"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Адрес отделения:",
+      "spans": [
+        {
+          "text": "Адрес отделения: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Эл.почта: info-vldr@cosmatica.org",
+      "spans": [
+        {
+          "text": "Эл.почта: info-vldr@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Открытие отделения состоялось 14 августа 2019г. Председатель - Лапшина Ирина Константиновна , зав. кафедрой всеобщей истории Владимирского государственного университета имени А.Г. и Н.Г. Столетовых, д.и.н., профессор. Адрес отделения: Эл.почта: info-vldr@cosmatica.org",
+      "links": [
+        {
+          "title": "Лапшина Ирина Константиновна",
+          "url": "https://cosmatica.org/users/279"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 356,
+    "storedTextCharacters": 305,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 35965
+  }
+}

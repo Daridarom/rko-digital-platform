@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/424",
+  "title": "Павел Романович Антонов",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/9101588535fd03829575d465.webp",
+      "alt": "Павел Романович Антонов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 1"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/source/1f733d57bf7547a372a5928d.webp",
+      "alt": "Павел Романович Антонов"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Руководитель Технической службы РКО Выпускник НИЯУ МИФИ по специальности Комплексная защита объектов информатизации antonov@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/9101588535fd03829575d465.webp",
+    "assets/source/1f733d57bf7547a372a5928d.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 232,
+    "storedTextCharacters": 49,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36178
+  }
+}

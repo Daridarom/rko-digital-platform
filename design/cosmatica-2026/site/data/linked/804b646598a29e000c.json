@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/401",
+  "title": "Артём Викторович Тайструк",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/ce9cf8efddc2392a74d3df9b.webp",
+      "alt": "Артём Викторович Тайструк"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/607e8a32a47913a62c9c2ef6.webp",
+      "alt": "Артём Викторович Тайструк"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 6 лет назад"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/ce9cf8efddc2392a74d3df9b.webp",
+    "assets/source/607e8a32a47913a62c9c2ef6.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 68,
+    "storedTextCharacters": 24,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 34070
+  }
+}

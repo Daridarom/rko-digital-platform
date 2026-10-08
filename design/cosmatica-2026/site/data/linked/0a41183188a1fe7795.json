@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/29-kostromskaja-oblast.html",
+  "title": "Костромская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 5",
+        "Мероприятия 1",
+        "Состав 1"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Отделение готовится к официальному открытию",
+      "spans": [
+        {
+          "text": "Отделение готовится к официальному открытию"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель отделения: Калитенко Николай Николаевич",
+      "spans": [
+        {
+          "text": "Председатель отделения: "
+        },
+        {
+          "text": "Калитенко Николай Николаевич",
+          "href": "https://cosmatica.org/users/432"
+        }
+      ],
+      "links": [
+        {
+          "text": "Калитенко Николай Николаевич",
+          "url": "https://cosmatica.org/users/432"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта: info-ksm@cosmatica.org",
+      "spans": [
+        {
+          "text": "Электронная почта: info-ksm@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Отделение готовится к официальному открытию Председатель отделения: Калитенко Николай Николаевич Электронная почта: info-ksm@cosmatica.org",
+      "links": [
+        {
+          "title": "Калитенко Николай Николаевич",
+          "url": "https://cosmatica.org/users/432"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 201,
+    "storedTextCharacters": 175,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 33757
+  }
+}

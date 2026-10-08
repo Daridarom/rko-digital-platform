@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/33-brjanskaja-oblast.html",
+  "title": "Брянская область",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 20",
+        "Мероприятия 7",
+        "Состав 10"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель отделения - Щербенко Алексей Васильевич",
+      "spans": [
+        {
+          "text": "Председатель отделения - Щербенко Алексей Васильевич"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Телефон: +79532880194",
+      "spans": [
+        {
+          "text": "Телефон: +79532880194"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Эл.почта: info-bryansk@cosmatica.org Адрес: 241004 г. Брянск ул. Б. Хмельницкого д. 81 а",
+      "spans": [
+        {
+          "text": "Эл.почта: info-bryansk@cosmatica.orgАдрес: 241004 г. Брянск ул. Б. Хмельницкого д. 81 а"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Штаб РКО располагается на базе МБУДО \"Центр детского и юношеского туризма и экскурсий г. Брянска\"",
+      "spans": [
+        {
+          "text": "Штаб РКО располагается на базе МБУДО \"Центр детского и юношеского туризма и экскурсий г. Брянска\""
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Председатель отделения - Щербенко Алексей Васильевич Телефон: +79532880194 Эл.почта: info-bryansk@cosmatica.org Адрес: 241004 г. Брянск ул. Б. Хмельницкого д. 81 а Штаб РКО располагается на базе МБУДО \"Центр детского и юношеского туризма и экскурсий г. Брянска\"",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 346,
+    "storedTextCharacters": 299,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 4,
+    "sourceBytes": 35645
+  }
+}

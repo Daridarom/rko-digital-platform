@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 2,
+  "slug": "department",
+  "sourceUrl": "https://cosmatica.org/departments/1-krasnodarskii-krai.html",
+  "title": "Краснодарский край",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Отделение",
+        "Новости 12",
+        "Материалы 2",
+        "Мероприятия 2",
+        "Состав 3"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Краснодарское региональное отделение создано 15 января 2019 года .",
+      "spans": [
+        {
+          "text": "\r\nКраснодарское региональное отделение создано "
+        },
+        {
+          "text": "15 января 2019 года",
+          "marks": [
+            "bold"
+          ]
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Председатель Отделения —",
+      "spans": [
+        {
+          "text": "\r\nПредседатель Отделения — "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Электронная почта: info-anapa@cosmatica.org",
+      "spans": [
+        {
+          "text": "\r\nЭлектронная почта: info-anapa@cosmatica.org"
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "",
+      "value": "Краснодарское региональное отделение создано 15 января 2019 года . Председатель Отделения — Электронная почта: info-anapa@cosmatica.org",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 233,
+    "storedTextCharacters": 184,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 3,
+    "sourceBytes": 36061
+  }
+}

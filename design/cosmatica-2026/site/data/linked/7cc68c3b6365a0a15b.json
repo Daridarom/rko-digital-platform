@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/65",
+  "title": "Валентин Владимирович Шевченко",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/eca4272b0a58139d88b6ed06.webp",
+      "alt": "Валентин Владимирович Шевченко"
+    },
+    {
+      "type": "image",
+      "src": "assets/source/abdf0e2eea3f23b72add00b7.webp",
+      "alt": "Валентин Владимирович Шевченко"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Многодетность:",
+      "value": "Да",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Электронно-вычислительные Член Первого Отряда РКО. Машины, Организация и управление ФК, увлечения спортом и туризмом Многодетный отец",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/eca4272b0a58139d88b6ed06.webp",
+    "assets/source/abdf0e2eea3f23b72add00b7.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 235,
+    "storedTextCharacters": 33,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 35841
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/kosmonavtika",
+  "title": "Космонавтика",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Материалы, связанные с историей, развитием космонавтики и современной деятельностью в космической отрасли.",
+      "spans": [
+        {
+          "text": "Материалы, связанные с историей, развитием космонавтики и современной деятельностью в космической отрасли."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "О космодромах",
+        "О космонавтах"
+      ]
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [
+    "О космодромах",
+    "О космонавтах"
+  ],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 147,
+    "storedTextCharacters": 132,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 1,
+    "sourceBytes": 73391
+  }
+}

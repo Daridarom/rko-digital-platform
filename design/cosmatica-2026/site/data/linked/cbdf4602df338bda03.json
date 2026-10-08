@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "slug": "profile",
+  "sourceUrl": "https://cosmatica.org/users/12",
+  "title": "Екатерина Фёдоровна Шамаева",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/cc56e2a19a79898f4406957c.webp",
+      "alt": "Екатерина Фёдоровна Шамаева"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Профиль",
+        "Проекты 4"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/source/2d68337f65d79097d69b011f.webp",
+      "alt": "Екатерина Фёдоровна Шамаева"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Материалы 6"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Регистрация: 8 лет назад"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Биография",
+      "level": 3
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Отделение:",
+      "value": "Москва",
+      "links": [
+        {
+          "title": "Москва",
+          "url": "https://cosmatica.org/departments/10-moskva.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Кандидат технических наук. Член-корреспондент РАЕН. Заместитель главного редактора научно-образовательных электронных журналов «Устойчивое инновационное развитие: проектирование и управление», «Устойчивое развитие: наука и практика»",
+      "links": [],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/cc56e2a19a79898f4406957c.webp",
+    "assets/source/2d68337f65d79097d69b011f.webp"
+  ],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 343,
+    "storedTextCharacters": 60,
+    "sourceCardCount": 0,
+    "sourceImageCount": 2,
+    "paragraphCount": 0,
+    "sourceBytes": 36716
+  }
+}

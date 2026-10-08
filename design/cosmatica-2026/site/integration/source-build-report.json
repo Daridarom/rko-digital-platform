@@ -1,0 +1,192 @@
+{
+  "sourceCount": 31,
+  "completed": 31,
+  "details": [
+    {
+      "slug": "home",
+      "status": "ready",
+      "blocks": 37,
+      "cards": 0
+    },
+    {
+      "slug": "news",
+      "status": "ready",
+      "blocks": 30,
+      "cards": 15
+    },
+    {
+      "slug": "news-item",
+      "status": "ready",
+      "blocks": 22,
+      "cards": 0
+    },
+    {
+      "slug": "poster",
+      "status": "ready",
+      "blocks": 8,
+      "cards": 3
+    },
+    {
+      "slug": "poster-item",
+      "status": "ready",
+      "blocks": 90,
+      "cards": 0
+    },
+    {
+      "slug": "calendar",
+      "status": "ready",
+      "blocks": 3,
+      "cards": 0
+    },
+    {
+      "slug": "about",
+      "status": "ready",
+      "blocks": 0,
+      "cards": 0
+    },
+    {
+      "slug": "about-info",
+      "status": "ready",
+      "blocks": 8,
+      "cards": 0
+    },
+    {
+      "slug": "direction",
+      "status": "ready",
+      "blocks": 0,
+      "cards": 0
+    },
+    {
+      "slug": "collegium",
+      "status": "ready",
+      "blocks": 64,
+      "cards": 19
+    },
+    {
+      "slug": "collegium-item",
+      "status": "ready",
+      "blocks": 43,
+      "cards": 0
+    },
+    {
+      "slug": "partners",
+      "status": "ready",
+      "blocks": 26,
+      "cards": 13
+    },
+    {
+      "slug": "partner",
+      "status": "ready",
+      "blocks": 1,
+      "cards": 0
+    },
+    {
+      "slug": "contacts",
+      "status": "ready",
+      "blocks": 4,
+      "cards": 0
+    },
+    {
+      "slug": "departments",
+      "status": "ready",
+      "blocks": 31,
+      "cards": 31
+    },
+    {
+      "slug": "department",
+      "status": "ready",
+      "blocks": 6,
+      "cards": 0
+    },
+    {
+      "slug": "projects",
+      "status": "ready",
+      "blocks": 13,
+      "cards": 12
+    },
+    {
+      "slug": "project",
+      "status": "ready",
+      "blocks": 244,
+      "cards": 0
+    },
+    {
+      "slug": "users",
+      "status": "ready",
+      "blocks": 25,
+      "cards": 24
+    },
+    {
+      "slug": "profile",
+      "status": "ready",
+      "blocks": 6,
+      "cards": 0
+    },
+    {
+      "slug": "articles",
+      "status": "ready",
+      "blocks": 1,
+      "cards": 18
+    },
+    {
+      "slug": "articles-list",
+      "status": "ready",
+      "blocks": 16,
+      "cards": 15
+    },
+    {
+      "slug": "article",
+      "status": "ready",
+      "blocks": 168,
+      "cards": 0
+    },
+    {
+      "slug": "library",
+      "status": "ready",
+      "blocks": 14,
+      "cards": 15
+    },
+    {
+      "slug": "book",
+      "status": "ready",
+      "blocks": 1,
+      "cards": 0
+    },
+    {
+      "slug": "tabs",
+      "status": "ready",
+      "blocks": 52,
+      "cards": 0
+    },
+    {
+      "slug": "donate",
+      "status": "ready",
+      "blocks": 5,
+      "cards": 0
+    },
+    {
+      "slug": "login",
+      "status": "ready",
+      "blocks": 1,
+      "cards": 0
+    },
+    {
+      "slug": "restore",
+      "status": "ready",
+      "blocks": 1,
+      "cards": 0
+    },
+    {
+      "slug": "register",
+      "status": "ready",
+      "blocks": 1,
+      "cards": 0
+    },
+    {
+      "slug": "search",
+      "status": "ready",
+      "blocks": 3,
+      "cards": 0
+    }
+  ]
+}

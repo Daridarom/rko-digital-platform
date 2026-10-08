@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "slug": "article",
+  "sourceUrl": "https://cosmatica.org/articles/vladimir-ivanovich-vernadskii",
+  "title": "Владимир Иванович Вернадский",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Новый век Вернадского",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Биография Вернадского Владимира Ивановича",
+      "level": 2
+    }
+  ],
+  "cards": [],
+  "fields": [],
+  "images": [],
+  "documents": [],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 199,
+    "storedTextCharacters": 62,
+    "sourceCardCount": 0,
+    "sourceImageCount": 0,
+    "paragraphCount": 0,
+    "sourceBytes": 74994
+  }
+}

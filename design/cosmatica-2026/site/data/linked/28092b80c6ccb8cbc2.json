@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "slug": "book",
+  "sourceUrl": "https://cosmatica.org/library/556-novaja-paradigma-teorii-istorii-i-buduschego-mira-civilizacii.html",
+  "title": "Новая парадигма теории, истории и будущего мира цивилизаций",
+  "intro": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "assets/source/e484896bd7793acedd344faf.webp",
+      "alt": "Новая парадигма теории, истории и будущего мира цивилизаций"
+    }
+  ],
+  "cards": [],
+  "fields": [
+    {
+      "key": "Автор:",
+      "value": "Яковец Ю.В.",
+      "links": [],
+      "image": null
+    },
+    {
+      "key": "",
+      "value": "Мир цивилизаций — вершина эволюции, природы, биосферы и человека. Мир цивилизаций возник около 10 тысячелетий назад в период неолитической революции. Локальные цивилизации еще моложе: они возникли чуть более 5 тысячелетий назад. Однако за 5 тысячелетий мир цивилизаций получил столь бурное развитие и распространение, что это требует глубокого научного исследования.",
+      "links": [
+        {
+          "title": "развитие",
+          "url": "https://cosmatica.org/glossary/57-razvitie.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "key": "Файл:",
+      "value": "Скачать 4 Мб",
+      "links": [
+        {
+          "title": "Скачать",
+          "url": "https://cosmatica.org/files/download/6083/4d5c93d9e58e86efb88a0dec35657b93"
+        }
+      ],
+      "image": null
+    }
+  ],
+  "images": [
+    "assets/source/e484896bd7793acedd344faf.webp"
+  ],
+  "documents": [
+    {
+      "label": "Скачать",
+      "url": "https://cosmatica.org/files/download/6083/4d5c93d9e58e86efb88a0dec35657b93",
+      "localUrl": "assets/source/60edf3d6d307bedbf28b0197.pdf"
+    }
+  ],
+  "categories": [],
+  "editorialVerified": false,
+  "sourceEvidence": {
+    "http": 200,
+    "sourceTextCharacters": 464,
+    "storedTextCharacters": 0,
+    "sourceCardCount": 0,
+    "sourceImageCount": 1,
+    "paragraphCount": 0,
+    "sourceBytes": 40388
+  }
+}
