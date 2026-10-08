@@ -27,10 +27,13 @@ async function worker(){
    assert.equal(exception,null,'JS '+id);
    const view=await page.evaluate(()=>({
     overflow:document.documentElement.scrollWidth-document.documentElement.clientWidth,
-    external:[...document.querySelectorAll('a[href]')].filter(a=>new URL(a.href).origin!==location.origin).length
+    external:[...document.querySelectorAll('a[href]')].filter(a=>new URL(a.href).origin!==location.origin)
+      .filter(a=>!(a.dataset.originalDownload==='cosmatica'&&
+       /^https:\/\/cosmatica\.org\/files\/download\/\d+\/[a-f0-9]+$/i.test(a.href)))
+      .map(a=>a.href)
    }));
    assert(view.overflow<=3,'overflow '+id+': '+view.overflow);
-   assert.equal(view.external,0,'external link '+id);
+   assert.equal(view.external.length,0,'unapproved external link '+id+': '+view.external.join(','));
    passed++;
   }catch(e){errors.push(info.type+'/'+id+': '+e.message);}
  }

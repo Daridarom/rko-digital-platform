@@ -7,7 +7,16 @@ const ref=qs.get('ref')||'';
 const blocked=new Set(['login','register','restore','search','search-results','donate']);
 const body=document.querySelector('#main');
 const el=(tag,cls='',value=null)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(value!=null)n.textContent=String(value);return n;};
-const localImage=value=>typeof value==='string'&&value.startsWith('assets/source/')?value:null;
+const localImage=value=>{
+ if(typeof value!=='string')return null;
+ if(value.startsWith('assets/source/'))return value;
+ // Original public images may remain on the RKO server. Never proxy files or private URLs.
+ try{const uri=new URL(value);return uri.protocol==='https:'&&uri.hostname==='cosmatica.org'&&/^\/(upload|images)\//.test(uri.pathname)?uri.href:null;}catch{return null;}
+};
+const originalDownload=value=>{
+ if(typeof value!=='string')return null;
+ try{const uri=new URL(value);return uri.protocol==='https:'&&uri.hostname==='cosmatica.org'&&/^\/files\/download\/\d+\/[a-z0-9]+$/i.test(uri.pathname)?uri.href:null;}catch{return null;}
+};
 function listingHref(item,index){
  const info=index[item?.url];if(!info||info.status!=='ready')return null;
  if(info.alias){
@@ -158,9 +167,9 @@ function documents(data){
  if(!data.documents?.length)return null;
  const section=el('section','source-documents');section.append(el('h2','','Документы'));
  for(const doc of data.documents){
-  const file=localImage(doc.localUrl);
+  const file=data.slug==='book'?(originalDownload(doc.url)):(localImage(doc.localUrl)||originalDownload(doc.url));
   const a=el(file?'a':'div','source-document'+(file?'':' source-document-static'),doc.label||'Документ');
-  if(file)a.href=file;
+  if(file){a.href=file;if(file.startsWith('https://')){a.rel='noopener noreferrer';a.setAttribute('data-original-download','cosmatica');}}
   section.append(a);
  }
  return section;
