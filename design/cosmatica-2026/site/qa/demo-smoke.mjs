@@ -79,7 +79,7 @@ await test('donation demo, no payment','donate',async page=>{
 for(const id of ['gagarincy','rusleo','sns','chotv','slovo','books_reprint','sport']){
  await test('project '+id,'project&id='+id,async page=>{
   assert((await page.locator('main').innerText()).length>400,'project lacks content');
-  assert.equal(await page.locator('a[href^="https://cosmatica.org"]').count(),0,'source link retained');
+  assert.equal(await page.locator('a[href^="https://cosmatica.org"]:not([data-original-download="cosmatica"])').count(),0,'unapproved source link retained');
  });
 }
 await browser.close();

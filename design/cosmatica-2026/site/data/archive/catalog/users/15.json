@@ -7,7 +7,7 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 15,
   "pageCount": 16,
-  "total": 235,
+  "total": 234,
   "blocks": [],
   "cards": [
     {
@@ -99,17 +99,6 @@
       "verified": false
     },
     {
-      "title": "Русское Космическое Общество",
-      "description": "О вступлении в РКО Добровольцы Войти Регистрация Об обществе Информация Символика Документы Органы управления Высший Совет РКО Партнёры Контакты Первый отряд Новости Мероприятия Отделения Проекты Стратегические инициативы Действующие Завершённые Перспективные Состав РКО Материалы Конференции Публикации Медиа Газета Космонавтика Фантастика РКО Издания Конкурсные работы Научная школа Ближе к космосу Мир Героев Глоссари",
-      "url": "https://cosmatica.org/users/73",
-      "image": "https://cosmatica.org/upload/000/u7/4/5/mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-s.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=6bfc7a88416b786842",
-      "type": "profile",
-      "sourceCharacters": 5015,
-      "verified": false
-    },
-    {
       "title": "Алексей Владимирович Любавин",
       "description": "",
       "url": "https://cosmatica.org/users/733",
@@ -173,6 +162,17 @@
       "href": "view.html?p=profile&ref=528b5de37a29133e6b",
       "type": "profile",
       "sourceCharacters": 649,
+      "verified": false
+    },
+    {
+      "title": "Олег Афанасьевич Сизов",
+      "description": "Президент национального экологического фонда, декан факультета Московской академии государственного и муниципального управления, летчик-испытатель, доктор технических наук, профессор",
+      "url": "https://cosmatica.org/users/81",
+      "image": "https://cosmatica.org/upload/000/u26/f9/21/9e7eb027.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=a48b80a12786803078",
+      "type": "profile",
+      "sourceCharacters": 210,
       "verified": false
     }
   ],

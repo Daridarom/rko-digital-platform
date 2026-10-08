@@ -7,20 +7,9 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 316,
   "pageCount": 317,
-  "total": 4745,
+  "total": 4744,
   "blocks": [],
   "cards": [
-    {
-      "title": "Татьяна Степановна Гвоздюк",
-      "description": "Советник РАЕН (Российская академия естественных наук).",
-      "url": "https://cosmatica.org/users/77",
-      "image": "https://cosmatica.org/upload/000/u8/da/ec/06fba6f5.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=7b6b2b0642f1127f65",
-      "type": "profile",
-      "sourceCharacters": 203,
-      "verified": false
-    },
     {
       "title": "Дарья Романовна Романова",
       "description": "Помощник Главы МОО «Русское космическое общество».",
@@ -171,6 +160,17 @@
       "image": "https://cosmatica.org/upload/000/u8/e6/e4/f30856ee.jpg",
       "kind": "profile",
       "href": "view.html?p=profile&ref=d79174e181ba1e841f",
+      "type": "profile",
+      "sourceCharacters": 17,
+      "verified": false
+    },
+    {
+      "title": "Нургуль Маратовна Мусина",
+      "description": "",
+      "url": "https://cosmatica.org/users/95",
+      "image": "https://cosmatica.org/upload/000/u8/34/7f/83a6dffd.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=37b075d15db56ca842",
       "type": "profile",
       "sourceCharacters": 17,
       "verified": false

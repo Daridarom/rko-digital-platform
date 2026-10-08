@@ -7,7 +7,7 @@
   "intro": "Публичный архив материалов Русского космического общества.",
   "pageNumber": 315,
   "pageCount": 317,
-  "total": 4745,
+  "total": 4744,
   "blocks": [],
   "cards": [
     {
@@ -110,17 +110,6 @@
       "verified": false
     },
     {
-      "title": "Русское Космическое Общество",
-      "description": "О вступлении в РКО Добровольцы Войти Регистрация Об обществе Информация Символика Документы Органы управления Высший Совет РКО Партнёры Контакты Первый отряд Новости Мероприятия Отделения Проекты Стратегические инициативы Действующие Завершённые Перспективные Состав РКО Материалы Конференции Публикации Медиа Газета Космонавтика Фантастика РКО Издания Конкурсные работы Научная школа Ближе к космосу Мир Героев Глоссари",
-      "url": "https://cosmatica.org/users/73",
-      "image": "https://cosmatica.org/upload/000/u7/4/5/mezhdunarodnaja-konferencija-po-upravleniyu-ustoichivym-razvitiem-v-s.jpg",
-      "kind": "profile",
-      "href": "view.html?p=profile&ref=6bfc7a88416b786842",
-      "type": "profile",
-      "sourceCharacters": 5015,
-      "verified": false
-    },
-    {
       "title": "Ульянова Мария Юрьевна",
       "description": "",
       "url": "https://cosmatica.org/users/7310",
@@ -173,6 +162,17 @@
       "href": "view.html?p=profile&ref=a3363bc72dd67f6fdf",
       "type": "profile",
       "sourceCharacters": 433,
+      "verified": false
+    },
+    {
+      "title": "Татьяна Степановна Гвоздюк",
+      "description": "Советник РАЕН (Российская академия естественных наук).",
+      "url": "https://cosmatica.org/users/77",
+      "image": "https://cosmatica.org/upload/000/u8/da/ec/06fba6f5.jpg",
+      "kind": "profile",
+      "href": "view.html?p=profile&ref=7b6b2b0642f1127f65",
+      "type": "profile",
+      "sourceCharacters": 203,
       "verified": false
     }
   ],

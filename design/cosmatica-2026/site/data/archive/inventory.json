@@ -42685,7 +42685,9 @@
       "sources": [
         "xml:sitemap_users_profiles.xml"
       ],
-      "captured": false
+      "captured": false,
+      "availability": "soft_missing_no_public_profile",
+      "reason": "Source URL returns the generic homepage without any user profile or CMS content container"
     },
     {
       "url": "https://cosmatica.org/users/730",
@@ -43171,5 +43173,6 @@
   ],
   "currentlyInaccessible404": 373,
   "contentEligible": 4750,
-  "currentlyForbidden403": 1
+  "currentlyForbidden403": 1,
+  "publiclyUnverifiable": 1
 }

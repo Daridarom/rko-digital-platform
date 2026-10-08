@@ -2,15 +2,16 @@
   "discovered": 5124,
   "origin404": 373,
   "origin403": 1,
+  "softMissing": 1,
   "nonEditorial": 5,
-  "eligible": 4745,
-  "renderable": 4745,
+  "eligible": 4744,
+  "renderable": 4744,
   "unresolved": 0,
   "sections": [
     {
       "key": "all",
       "title": "Весь публичный архив РКО",
-      "count": 4745,
+      "count": 4744,
       "pages": 317
     },
     {
@@ -46,7 +47,7 @@
     {
       "key": "users",
       "title": "Участники РКО",
-      "count": 235,
+      "count": 234,
       "pages": 16
     },
     {

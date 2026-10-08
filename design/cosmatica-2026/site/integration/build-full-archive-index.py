@@ -60,6 +60,11 @@ for entry in json.loads((ROOT/'integration/page-map.json').read_text())['entries
  if url:map_old[url]={'url':url,'status':'ready','alias':True,'file':'source/'+entry['slug']+'.json','type':entry['slug']}
 
 inventory={r['url']:r for r in INV['records']}
+blocked={'not_found_404','forbidden_403','soft_missing_no_public_profile'}
+for url in list(map_old):
+ info=map_old[url]
+ if url not in inventory or inventory[url].get('availability') in blocked or (not info.get('alias') and not (DATA/'linked'/info.get('file','')).exists()):
+  del map_old[url]
 good={}
 for folder in ['linked','source']:
  for file in (DATA/folder).glob('*.json'):
@@ -70,7 +75,7 @@ for folder in ['linked','source']:
   if not d.get('title') or not isinstance(d.get('blocks'),list):continue
   # Use exact content type saved in source. No technical/auth/search routes.
   kind=inventory[url]['kind']
-  if kind in ('auth','search') or url=='https://cosmatica.org/':continue
+  if kind in ('auth','search') or url=='https://cosmatica.org/' or inventory[url].get('availability') in blocked:continue
   if folder=='linked':
    type_=d.get('slug','article')
    map_old[url]={'url':url,'file':file.name,'type':type_,'status':'ready'}
@@ -167,10 +172,10 @@ for stale in search_dir.glob('*.json'):
 print('INDEX_SHARDS',len(shards),flush=True)
 gone=sum(x.get('availability')=='not_found_404' for x in inventory.values())
 forbidden=sum(x.get('availability')=='forbidden_403' for x in inventory.values())
-non_editorial=sum(x.get('availability') not in ('not_found_404','forbidden_403') and x.get('kind') in ('auth','search','home')
-                  for x in inventory.values())
-eligible=len(inventory)-gone-forbidden-non_editorial
-report={'discovered':len(inventory),'origin404':gone,'origin403':forbidden,'nonEditorial':non_editorial,
+soft=sum(x.get('availability')=='soft_missing_no_public_profile' for x in inventory.values())
+non_editorial=sum(x.get('availability') not in blocked and x.get('kind') in ('auth','search','home') for x in inventory.values())
+eligible=len(inventory)-gone-forbidden-soft-non_editorial
+report={'discovered':len(inventory),'origin404':gone,'origin403':forbidden,'softMissing':soft,'nonEditorial':non_editorial,
         'eligible':eligible,'renderable':len(good),
         'unresolved':max(0,eligible-len(good)),'sections':sitemap,
         'cautions':['Search uses local full-text shards; no external service.','Editorial verification is separate from import.'],

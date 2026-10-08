@@ -626,12 +626,6 @@
     "type": "profile",
     "status": "ready"
   },
-  "https://cosmatica.org/users/3": {
-    "url": "https://cosmatica.org/users/3",
-    "file": "8aa6005bebe5f04fcb.json",
-    "type": "profile",
-    "status": "ready"
-  },
   "https://cosmatica.org/users/1642": {
     "url": "https://cosmatica.org/users/1642",
     "file": "9f023ea6457359233c.json",
@@ -25630,12 +25624,6 @@
     "url": "https://cosmatica.org/news/1822-soyuz-narodnogo-splochenija-prodolzhaet-pomogat-frontu.html",
     "file": "41016432b127463f5f.json",
     "type": "news-item",
-    "status": "ready"
-  },
-  "https://cosmatica.org/users/73": {
-    "url": "https://cosmatica.org/users/73",
-    "file": "6bfc7a88416b786842.json",
-    "type": "profile",
     "status": "ready"
   },
   "https://cosmatica.org/news/641-nagrady-nashli-pobeditelei-v-stolice-doneckoi-narodnoi-respublike.html": {
