@@ -84,3 +84,5 @@ for(const id of ['gagarincy','rusleo','sns','chotv','slovo','books_reprint','spo
 await browser.close();
 console.log('RESULT',checks,'checks',errors.length,'errors');
 if(errors.length){console.error(errors.join('\n'));process.exit(1)}
+// Extended 5-width mobile header, cards and search regression suite.
+await import('./mobile-refinement.mjs');

@@ -24,7 +24,7 @@ function header() {
           </span>
         </a>
         <div class="header-actions">
-          <a class="icon-btn search-link" href="${href('search')}">⌕&nbsp; Поиск</a>
+          <a class="icon-btn search-link" href="${href('search')}" aria-label="Поиск по сайту"><svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="10.75" cy="10.75" r="6.25"></circle><path d="m15.5 15.5 5 5"></path></svg><span class="search-label">Поиск</span></a>
           <a class="text-login" href="${href('login')}">Войти</a>
           <a class="join-btn" href="${href('register')}">Присоединиться</a>
           <button class="icon-btn theme-btn" type="button" aria-label="Сменить тему">☾</button>
