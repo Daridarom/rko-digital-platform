@@ -192,6 +192,8 @@ html[data-design="hybrid"] .nav-tabs .nav-link { border-radius: 10px 10px 0 0; }
 .rko-header__actions > * + * { margin-left: .5rem; }
 .rko-header__link { padding-left: .625rem; padding-right: .625rem; }
 .rko-header__link:hover { text-decoration: none; }
+/* Девиз на телефоне и планшете: отдельной строкой под названием (в широкой шапке он стоит под названием сам) */
+.rko-header__motto { margin: 0; padding: .375rem 0 .5rem; border-top: 1px solid var(--rko-line); font-size: .8125rem; line-height: 1.3; color: var(--rko-muted); }
 @media (max-width: 575.98px) {
   .rko-header__support { font-size: .8125rem; padding: .5rem .625rem; }
   .rko-brand__text strong { font-size: .8125rem; }
