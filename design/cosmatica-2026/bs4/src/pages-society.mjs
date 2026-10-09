@@ -5,6 +5,8 @@ import * as D from './data.mjs';
 import { newsRow, eventTile, eventMini, projectCard, person, sectionHead, thumb, short, fundraising, sampleNote } from './parts.mjs';
 
 // ---------------------------------------------------------------- 01 Главная
+// Текст под заголовком — формулировка Аркона от 09.10.2026, дословно. «Сключает» — термин РКО, не опечатка.
+const HERO_LEAD = 'Русское Космическое Общество сключает труд, науку, культуру, образование и проектную деятельность, с целью созидания ноосферно-космического будущего.';
 export function home() {
   const [lead, ...rest] = D.news;
   const body = `
@@ -12,8 +14,8 @@ export function home() {
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6">
-        <h1 class="rko-hero__title">Человек.<br>Земля.<br><span class="rko-hero__accent">Космос.</span></h1>
-        <p class="rko-hero__lead">${esc(D.INTRO.home)}</p>
+        <h1 class="rko-hero__title"><span class="rko-hero__word rko-hero__word--gold">Человек.</span><br><span class="rko-hero__word rko-hero__word--red">Земля.</span><br><span class="rko-hero__word rko-hero__word--blue">Космос.</span></h1>
+        <p class="rko-hero__lead">${esc(HERO_LEAD)}</p>
         <div class="rko-hero__actions">
           <a class="btn btn-primary btn-lg" href="about.html">Узнать о РКО</a>
           <a class="btn btn-outline-dark btn-lg" href="article.html">Как вступить</a>

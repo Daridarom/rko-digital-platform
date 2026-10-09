@@ -78,9 +78,8 @@ function header(active) {
       <div class="rko-header__actions ml-auto d-flex align-items-center">
         <a class="btn btn-link rko-header__link d-none d-lg-inline-flex" href="search.html">${ICON_SEARCH}<span class="ml-1 d-none d-xl-inline">Поиск</span><span class="sr-only d-xl-none">Поиск</span></a>
         <a class="btn btn-link rko-header__link d-none d-lg-inline-flex" href="login.html">Войти</a>
-        <a class="btn btn-support rko-header__support" href="donate.html">Поддержать<span class="d-none d-sm-inline">&nbsp;РКО</span></a>
         <a class="btn btn-primary d-none d-md-inline-flex" href="register.html">Присоединиться</a>
-        <button class="navbar-toggler rko-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#rkoNav" aria-controls="rkoNav" aria-expanded="false" aria-label="Открыть меню"><span class="rko-toggler__bars" aria-hidden="true"></span><span class="rko-toggler__label d-none d-sm-inline">Меню</span></button>
+        <button class="navbar-toggler rko-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#rkoNav" aria-controls="rkoNav" aria-expanded="false" aria-label="Открыть меню"><span class="rko-toggler__bars" aria-hidden="true"></span><span class="rko-toggler__label">Меню</span></button>
       </div>
     </div>
     <p class="rko-header__motto d-lg-none">Будущее не определено — будущее определяет!</p>
@@ -98,7 +97,6 @@ function header(active) {
           <li class="nav-item d-lg-none"><a class="nav-link" href="login.html">Войти</a></li>
         </ul>
         <div class="rko-nav__buttons d-md-none">
-          <a class="btn btn-support btn-block" href="donate.html">Поддержать РКО</a>
           <a class="btn btn-primary btn-block" href="register.html">Присоединиться</a>
         </div>
       </div>

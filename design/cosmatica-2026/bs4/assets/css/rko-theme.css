@@ -24,6 +24,8 @@
   --rko-gold: #d6a72f;
   --rko-gold-dark: #bd9122;
   --rko-gold-tint: #fbf4df;
+  --rko-gold-text: #b3820a; /* золото для крупного текста на светлом фоне: фирменное золото там не читается */
+  --rko-blue-text: #0d0c39; /* фирменный иссиня-чёрный из правил стиля */
 
   --rko-font: "RKO Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
   --rko-font-display: "Russo One", "RKO Inter", "Arial Black", Arial, sans-serif;
@@ -193,14 +195,11 @@ html[data-design="hybrid"] .nav-tabs .nav-link { border-radius: 10px 10px 0 0; }
 .rko-header__link { padding-left: .625rem; padding-right: .625rem; }
 .rko-header__link:hover { text-decoration: none; }
 /* Девиз на телефоне и планшете: отдельной строкой под названием (в широкой шапке он стоит под названием сам) */
-.rko-header__motto { margin: 0; padding: .375rem 0 .5rem; border-top: 1px solid var(--rko-line); font-size: .8125rem; line-height: 1.3; color: var(--rko-muted); }
+.rko-header__motto { margin: 0; padding: .375rem 0 .5rem; border-top: 1px solid var(--rko-line); font-size: .8125rem; line-height: 1.3; color: var(--rko-muted); text-align: center; }
 @media (max-width: 575.98px) {
-  .rko-header__support { font-size: .8125rem; padding: .5rem .625rem; }
   .rko-brand__text strong { font-size: .8125rem; }
   .rko-brand__mark { width: 40px; height: 38px; margin-right: .5rem; }
-  .rko-toggler { padding: .625rem .625rem; }
 }
-@media (max-width: 359.98px) { .rko-header__support { display: none; } }
 .rko-icon { flex: 0 0 auto; }
 
 .rko-toggler { display: inline-flex; align-items: center; border: 2px solid var(--rko-ink); border-radius: var(--rko-r-btn); padding: .5rem .75rem; font-size: .9375rem; font-weight: 600; color: var(--rko-ink); line-height: 1.25; background: transparent; }
@@ -383,7 +382,10 @@ form.rko-toolbar { border-bottom: 0; margin-bottom: 1rem; }
 /* ---------- 7. Главная ---------- */
 .rko-hero { padding: 2.5rem 0 3rem; }
 .rko-hero__title { font-size: 3rem; line-height: 1; margin-bottom: 1.25rem; }
-.rko-hero__accent { color: var(--rko-red); }
+/* Три слова заголовка — три фирменных цвета (правка Аркона, 09.10.2026) */
+.rko-hero__word--gold { color: var(--rko-gold-text); }
+.rko-hero__word--red { color: var(--rko-red); }
+.rko-hero__word--blue { color: var(--rko-blue-text); }
 .rko-hero__lead { font-size: 1.125rem; color: var(--rko-muted); max-width: 30rem; margin-bottom: 1.75rem; }
 .rko-hero__actions .btn { margin: 0 .5rem .5rem 0; }
 @media (min-width: 768px) { .rko-hero { padding: 3.5rem 0 4rem; } .rko-hero__title { font-size: 4.25rem; } }
