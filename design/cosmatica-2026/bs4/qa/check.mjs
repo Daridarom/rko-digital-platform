@@ -110,6 +110,8 @@ if (process.argv.includes('--browser')) {
             crumbOverlap: [...document.querySelectorAll('.breadcrumb-item a')].filter((a) => a.getBoundingClientRect().right - a.parentElement.getBoundingClientRect().right > 1).length,
             // Вкладки на компьютере не обрезаются; на телефоне обрезанные помечены затуханием
             tabsCut: [...document.querySelectorAll('.rko-tabs')].filter((t) => t.scrollWidth - t.clientWidth > 4 && !t.classList.contains('is-cut')).length,
+            // Девиз виден на любой ширине: под названием на компьютере, отдельной строкой на телефоне
+            mottoVisible: [...document.querySelectorAll('.rko-header small, .rko-header__motto')].filter((el) => el.offsetParent && el.textContent.includes('будущее определяет')).length,
             navHeight: innerWidth >= 992 ? document.querySelector('.rko-nav').getBoundingClientRect().height : 0,
             // Карточки «Другие партнёры» должны быть в рамке; иконки разделов — видимыми
             // Картинка не выходит за свою рамку, рамка — за свою карточку (сдвиг на айфоне, 09.10.2026)
@@ -134,6 +136,7 @@ if (process.argv.includes('--browser')) {
         ok(info.crumbOverlap === 0, tag, 'пункты хлебных крошек наезжают друг на друга');
         ok(info.tabsCut === 0, tag, 'вкладки обрезаны без признака прокрутки');
         ok(info.navHeight < 60, tag, `меню не помещается в одну строку (${Math.round(info.navHeight)}px)`);
+        ok(info.mottoVisible === 1, tag, `девиз в шапке должен быть виден ровно один раз (сейчас ${info.mottoVisible})`);
         ok(info.imgOut.length === 0, tag, `картинка выходит за свою рамку: ${info.imgOut.join(', ')}`);
         ok(info.boxOut === 0, tag, 'блок картинки шире карточки или не в пропорции 16:9');
         ok(info.miniNoFrame === 0, tag, 'карточки других партнёров без рамки');

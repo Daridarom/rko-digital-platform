@@ -83,6 +83,7 @@ function header(active) {
         <button class="navbar-toggler rko-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#rkoNav" aria-controls="rkoNav" aria-expanded="false" aria-label="Открыть меню"><span class="rko-toggler__bars" aria-hidden="true"></span><span class="rko-toggler__label d-none d-sm-inline">Меню</span></button>
       </div>
     </div>
+    <p class="rko-header__motto d-lg-none">Будущее не определено — будущее определяет!</p>
   </div>
   <nav class="navbar navbar-expand-lg rko-nav" aria-label="Основные разделы">
     <div class="container">
