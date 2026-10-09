@@ -23,6 +23,10 @@ for (const file of pages) {
   ok(html.indexOf('bootstrap-4.6.2.min.css') < html.indexOf('rko-theme.css'), file, 'тема должна идти после Bootstrap');
   ok(!/<p class="eyebrow"|rko-eyebrow/.test(html), file, 'над заголовком не должно быть надписи-ярлыка');
   ok(html.includes('href="donate.html">Поддержать'), file, 'в шапке нет кнопки «Поддержать РКО»');
+  // Правка Аркона от 09.10.2026: название с заглавных, новый девиз в шапке
+  ok(!/Русск[а-яё]+\s+космическ[а-яё]+\s+[Оо]бществ|Русск[а-яё]+\s+Космическ[а-яё]+\s+обществ/.test(html), file, 'название Общества должно быть с заглавных букв');
+  const headerHtml = html.match(/<header class="rko-header">[\s\S]*?<\/header>/)?.[0] || '';
+  ok(headerHtml.includes('<strong>Русское Космическое Общество</strong>') && headerHtml.includes('Будущее не определено — будущее определяет!') && !headerHtml.includes('Наука, культура, проекты, будущее'), file, 'в шапке должны быть название с заглавных и новый девиз');
   ok((html.match(/class="nav-item dropdown/g) || []).length === 5, file, 'в меню должно быть 5 разделов с подпунктами');
   if (file !== 'index.html') ok(/<ol class="breadcrumb">/.test(html) && /<nav class="rko-crumbs"[^>]*>\s*<div class="container">/.test(html), file, 'хлебные крошки должны стоять внутри .container');
   ok(!/__BUILD__|undefined|\[object Object\]|NaN/.test(html.replace(/<script[\s\S]*?<\/script>/g, '')), file, 'в разметке остался служебный мусор');
