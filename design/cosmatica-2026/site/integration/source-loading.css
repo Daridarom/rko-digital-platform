@@ -4,3 +4,5 @@
 .source-loading p{max-width:640px;color:var(--muted);font-size:15px;line-height:1.6}
 .source-loading .source-document{display:inline-block;margin-top:9px}
 @media(max-width:640px){.source-loading{min-height:30vh;padding:24px 0 38px}}
+
+.search-pending{font-size:15px;line-height:1.65;color:var(--muted);padding:13px 0 25px;min-height:85px}

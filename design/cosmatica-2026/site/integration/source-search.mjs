@@ -89,7 +89,7 @@ if(params.get('p')==='search-results'){
    const label=sections.find(s=>s.key===current)?.title||'Все разделы';
    heading.textContent=query?'Найдено материалов: '+results.length+(current!=='all'?' · '+label:''):'Введите поисковый запрос';
    // Replace the fixture's results before showing the real full-text index.
-   root.querySelectorAll(':scope > .grid:not(.search-grid), :scope > .empty-state, :scope > .search-grid, :scope > .search-empty, :scope > .source-search-pages').forEach(node=>node.remove());
+   root.querySelectorAll(':scope > .grid:not(.search-grid), :scope > .empty-state, :scope > .search-grid, :scope > .search-empty, :scope > .source-search-pages, :scope > .search-pending').forEach(node=>node.remove());
    const size=20,max=Math.max(1,Math.ceil(results.length/size));
    const page=Math.max(1,Math.min(max,Number(params.get('page'))||1));
    const shown=results.slice((page-1)*size,page*size);
@@ -107,15 +107,22 @@ if(params.get('p')==='search-results'){
    else root.append(make('p','search-empty',
        query?'В опубликованных материалах совпадений нет. Попробуйте другой запрос.':'Введите слово или фразу.'));
    if(max>1){
-    const nav=make('nav','source-search-pages');nav.setAttribute('aria-label','Страницы результатов');
-    for(let p=Math.max(1,page-2);p<=Math.min(max,page+2);p++){
-     const a=make('a',page===p?'active':'',String(p));
-     a.href='view.html?p=search-results&q='+encodeURIComponent(query)+'&section='+encodeURIComponent(current)+'&page='+p;
-     if(page===p)a.setAttribute('aria-current','page');nav.append(a);
-    }
+    const nav=make('nav','source-search-pages');nav.setAttribute('aria-label','Страницы результатов поиска');
+    const overview=make('span','source-page-summary','Страница '+page+' из '+max);
+    nav.append(overview);
+    const addPage=(label,number,selected=false)=>{
+     const a=make('a',selected?'active':'',label);
+     a.href='view.html?p=search-results&q='+encodeURIComponent(query)+'&section='+encodeURIComponent(current)+'&page='+number;
+     if(selected)a.setAttribute('aria-current','page');
+     nav.append(a);
+    };
+    if(page>1){addPage('« Первая',1);addPage('‹ Назад',page-1);}
+    for(let p=Math.max(1,page-2);p<=Math.min(max,page+2);p++)addPage(String(p),p,page===p);
+    if(page<max){addPage('Вперёд ›',page+1);addPage('Последняя »',max);}
     root.append(nav);
    }
   }catch(e){
+   root.querySelectorAll(':scope > .search-pending, :scope > .grid, :scope > .empty-state').forEach(node=>node.remove());
    root.append(make('p','search-empty','Поиск временно недоступен.'));
    console.error('Local search',String(e));
   }

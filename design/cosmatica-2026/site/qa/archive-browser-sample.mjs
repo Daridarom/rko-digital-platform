@@ -42,8 +42,11 @@ async function worker(){
     text:document.querySelector('.source-page')?.innerText?.length||0,
     media:[...document.querySelectorAll('.rich-video iframe')].length
    }));
-   const expected=item.title.replace(/\s+/g,' ').trim();
-   assert.equal(state.h1,expected,'title mismatch');
+   // Public source titles can begin with invisible CMS zero-width markers.
+   // The UI intentionally removes those glyphs without changing visible text.
+   const normalize=s=>String(s||'').replace(/[\u200b-\u200d\ufeff]/g,'').replace(/\s+/g,' ').trim();
+   const expected=normalize(item.title);
+   assert.equal(normalize(state.h1),expected,'visible title mismatch');
    assert(state.overflow<=3,'horizontal scrolling: '+state.overflow);
    assert(state.text>=(item.chars>300?80:20),'empty editorial content');
    assert.equal(state.media,0,'video must not load until clicked');

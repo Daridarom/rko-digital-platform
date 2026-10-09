@@ -79,11 +79,11 @@ function setupMenu(){
   btn.setAttribute('aria-expanded',String(open));
   btn.textContent=open?'Закрыть':'Меню';
  }
- function close(){drawer.classList.remove('open');setState()}
+ function close(restoreFocus=false){const wasOpen=drawer.classList.contains('open');drawer.classList.remove('open');setState();if(restoreFocus&&wasOpen)btn.focus()}
  btn.addEventListener('click',setState);
- backdrop.addEventListener('click',close);
+ backdrop.addEventListener('click',()=>close(true));
  drawer.querySelectorAll('a').forEach(function(a){a.addEventListener('click',close)});
- document.addEventListener('keydown',function(e){if(e.key==='Escape')close()});
+ document.addEventListener('keydown',function(e){if(e.key==='Escape')close(true)});
  window.addEventListener('resize',function(){if(innerWidth>980)close()});
 }
 setupMenu();

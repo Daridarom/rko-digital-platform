@@ -2,7 +2,10 @@ const ROUTES = window.COSMATICA_ROUTES || [];
 const CONTENT = window.COSMATICA_CONTENT || {};
 const query = new URLSearchParams(location.search);
 const slug = query.get('p') || 'home';
-const route = ROUTES.find((item) => item.slug === slug) || ROUTES[0];
+// Archive is an indexed route handled by the editorial runtime, not ROUTES.
+// Do not fall back to the homepage while its data is loading.
+const route = ROUTES.find((item) => item.slug === slug)
+  || (slug === 'archive' ? {slug:'archive',type:'archive',title:'Публичный архив РКО'} : ROUTES[0]);
 const data = CONTENT[route.slug] || {};
 
 const esc = (value) => String(value ?? '').replace(/[&<>"']/g, (char) => ({
@@ -75,7 +78,7 @@ function pageHero(kicker = 'Раздел') {
   const chosen = route.slug === 'project' ? data.variants?.[query.get('id') || 'gagarincy'] : null;
   let shownTitle = chosen?.name || route.title;
   const shownIntro = chosen?.fullName || route.intro;
-  if(route.slug==='search-results'){const term=(query.get('q') || 'РКО').trim();if(term)shownTitle='Поиск: '+term;}
+  if(route.slug==='search-results'){const term=(query.get('q') || '').trim();shownTitle=term?'Поиск: '+term:'Поиск по сайту';}
   const titleClass = shownTitle.length > 90 ? 'title-xxl' : shownTitle.length > 58 ? 'title-xl' : '';
   return `
     <div class="shell crumbs"><a href="index.html">Главная</a> → ${esc(route.name)}</div>
@@ -640,7 +643,7 @@ function renderAuth(){
 
 function renderSearch(){
  const resultsMode=route.type==='search-results';
- const term=String(query.get('q') || (resultsMode?'РКО':'')).trim();
+ const term=String(query.get('q') || '').trim();
  const index=[];
  const add=(title,url,kind,description)=>index.push({title,url,kind,description});
  ROUTES.forEach(x=>add(x.title,href(x.slug),x.name,x.intro));
@@ -667,6 +670,7 @@ function renderSearch(){
 
 let main;
 switch (route.slug) {
+  case 'archive': main = '<main id="main"></main>'; break; // Async public archive provides the content.
   case 'home': main = renderHome(); break;
   case 'news': case 'about-info': case 'articles-list': main = renderList(); break;
   case 'news-item': case 'poster-item': case 'about': case 'collegium-item': case 'partner': case 'article': main = renderArticle(); break;
@@ -694,16 +698,28 @@ switch (route.slug) {
 document.title = route.title + ' — Русское космическое общество';
 document.querySelector('#site').innerHTML = header() + main + footer();
 // Avoid flashing synthetic CMS/demo cards while the real public archive loads.
-const archiveBackedListings=new Set(['partners','collegium','departments','users','news','projects','library','articles','articles-list','poster']);
+const archiveBackedListings=new Set(['archive','partners','collegium','departments','users','news','projects','library','articles','articles-list','poster']);
 if(archiveBackedListings.has(route.slug)){
  const mainRoot=document.querySelector('#main');
  if(mainRoot){
   const status=document.createElement('section');
   status.className='source-loading section';status.setAttribute('role','status');
   const shell=document.createElement('div');shell.className='shell';
-  const heading=document.createElement('h1');heading.textContent=route.title||'Материалы РКО';
+  const heading=document.createElement('h1');heading.textContent=route.slug==='archive'?'Публичный архив РКО':(route.title||'Материалы РКО');
   const intro=document.createElement('p');intro.textContent='Загружаем материалы из публичного архива РКО…';
   shell.append(heading,intro);status.append(shell);mainRoot.replaceChildren(status);
+ }
+}
+// Search results are indexed asynchronously. Never show the demo fixture
+// as a provisional answer: that may mislead visitors on slow connections.
+if(route.slug==='search-results'){
+ const root=document.querySelector('#main .search-section .shell');
+ if(root){
+  root.querySelectorAll(':scope > .grid, :scope > .empty-state').forEach(node=>node.remove());
+  const pending=document.createElement('p');
+  pending.className='search-pending';pending.setAttribute('role','status');
+  pending.textContent=(query.get('q')||'').trim()?'Ищем материалы в публичном архиве РКО…':'Введите слово или фразу для поиска по архиву РКО.';
+  root.append(pending);
  }
 }
 
