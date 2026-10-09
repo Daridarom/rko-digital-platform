@@ -1,0 +1,465 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="theme-color" content="#f6f6f2">
+<title>Карта макетов · Русское космическое общество</title>
+<script>/* только для просмотра макета: выбор варианта оформления */(function(){try{var q=new URLSearchParams(location.search).get('design'),s=q||localStorage.getItem('rko-design');if(s==='hybrid'||s==='sharp'){document.documentElement.setAttribute('data-design',s);if(q)localStorage.setItem('rko-design',s);}}catch(e){}})();</script>
+<link rel="icon" href="assets/img/rko-mark.svg" type="image/svg+xml">
+<link rel="preload" href="assets/fonts/inter-cyrillic-variable.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/russo-one-regular.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="stylesheet" href="assets/vendor/bootstrap-4.6.2.min.css">
+<link rel="stylesheet" href="assets/css/rko-theme.css?v=6f3d5d8f">
+</head>
+<body>
+<a class="sr-only sr-only-focusable rko-skip" href="#main">К содержанию</a>
+<header class="rko-header">
+  <div class="container">
+    <div class="rko-header__top d-flex align-items-center">
+      <a class="rko-brand d-flex align-items-center" href="index.html">
+        <img class="rko-brand__mark" src="assets/img/rko-mark.svg" width="46" height="44" alt="Герб РКО «Прорыв»">
+        <span class="rko-brand__text">
+          <strong>Русское космическое общество</strong>
+          <small class="d-none d-lg-block">Наука, культура, проекты, будущее</small>
+        </span>
+      </a>
+      <div class="rko-header__actions ml-auto d-flex align-items-center">
+        <a class="btn btn-link rko-header__link d-none d-lg-inline-flex" href="search.html"><svg class="rko-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg><span class="ml-1 d-none d-xl-inline">Поиск</span><span class="sr-only d-xl-none">Поиск</span></a>
+        <a class="btn btn-link rko-header__link d-none d-lg-inline-flex" href="login.html">Войти</a>
+        <a class="btn btn-support rko-header__support" href="donate.html">Поддержать<span class="d-none d-sm-inline">&nbsp;РКО</span></a>
+        <a class="btn btn-primary d-none d-md-inline-flex" href="register.html">Присоединиться</a>
+        <button class="navbar-toggler rko-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#rkoNav" aria-controls="rkoNav" aria-expanded="false" aria-label="Открыть меню"><span class="rko-toggler__bars" aria-hidden="true"></span><span class="rko-toggler__label d-none d-sm-inline">Меню</span></button>
+      </div>
+    </div>
+  </div>
+  <nav class="navbar navbar-expand-lg rko-nav" aria-label="Основные разделы">
+    <div class="container">
+      <div class="collapse navbar-collapse" id="rkoNav">
+        <ul class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="about.html">Об обществе</a>
+            <a class="nav-link dropdown-toggle dropdown-toggle-split" href="#" id="rkoNav-about" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="sr-only">Открыть подразделы: Об обществе</span></a>
+            <div class="dropdown-menu" aria-labelledby="rkoNav-about">
+              <a class="dropdown-item" href="about-info.html">Информация</a>
+              <a class="dropdown-item" href="about.html">Символика</a>
+              <a class="dropdown-item" href="about-info.html">Документы</a>
+              <a class="dropdown-item" href="direction.html">Органы управления</a>
+              <a class="dropdown-item" href="collegium.html">Высший Совет РКО</a>
+              <a class="dropdown-item" href="partners.html">Партнёры</a>
+              <a class="dropdown-item" href="contacts.html">Контакты</a>
+              <a class="dropdown-item" href="tabs.html">Первый отряд</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="news.html">Новости</a>
+            <a class="nav-link dropdown-toggle dropdown-toggle-split" href="#" id="rkoNav-news" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="sr-only">Открыть подразделы: Новости</span></a>
+            <div class="dropdown-menu" aria-labelledby="rkoNav-news">
+              <a class="dropdown-item" href="poster.html">Мероприятия</a>
+            </div>
+          </li>
+          <li class="nav-item"><a class="nav-link" href="departments.html">Отделения</a></li>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="projects.html">Проекты</a>
+            <a class="nav-link dropdown-toggle dropdown-toggle-split" href="#" id="rkoNav-projects" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="sr-only">Открыть подразделы: Проекты</span></a>
+            <div class="dropdown-menu" aria-labelledby="rkoNav-projects">
+              <a class="dropdown-item" href="projects.html#strategy">Стратегические инициативы</a>
+              <a class="dropdown-item" href="projects.html#current">Действующие</a>
+              <a class="dropdown-item" href="projects.html#completed">Завершённые</a>
+              <a class="dropdown-item" href="projects.html#planned">Перспективные</a>
+            </div>
+          </li>
+          <li class="nav-item"><a class="nav-link" href="users.html">Состав РКО</a></li>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="articles.html">Материалы</a>
+            <a class="nav-link dropdown-toggle dropdown-toggle-split" href="#" id="rkoNav-articles" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="sr-only">Открыть подразделы: Материалы</span></a>
+            <div class="dropdown-menu" aria-labelledby="rkoNav-articles">
+              <a class="dropdown-item" href="articles-list.html">Конференции</a>
+              <a class="dropdown-item" href="articles-list.html">Публикации</a>
+              <a class="dropdown-item" href="articles-list.html">Медиа</a>
+              <a class="dropdown-item" href="articles-list.html">Газета</a>
+              <a class="dropdown-item" href="articles-list.html">Космонавтика</a>
+              <a class="dropdown-item" href="articles-list.html">Фантастика РКО</a>
+              <a class="dropdown-item" href="articles-list.html">Издания</a>
+              <a class="dropdown-item" href="articles-list.html">Конкурсные работы</a>
+              <a class="dropdown-item" href="articles-list.html">Научная школа</a>
+              <a class="dropdown-item" href="articles-list.html">Ближе к космосу</a>
+              <a class="dropdown-item" href="articles-list.html">Мир Героев</a>
+              <a class="dropdown-item" href="articles-list.html">Глоссарий</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="library.html">Библиотека</a>
+            <a class="nav-link dropdown-toggle dropdown-toggle-split" href="#" id="rkoNav-library" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="sr-only">Открыть подразделы: Библиотека</span></a>
+            <div class="dropdown-menu rko-dropdown-wide" aria-labelledby="rkoNav-library">
+              <a class="dropdown-item" href="library.html">Устойчивое развитие</a>
+              <a class="dropdown-item" href="library.html">Основания русского космизма</a>
+              <a class="dropdown-item" href="library.html">Космонавтика</a>
+              <a class="dropdown-item" href="library.html">Научное наследие П.Г.Кузнецова</a>
+              <a class="dropdown-item" href="library.html">Монографии</a>
+              <a class="dropdown-item" href="library.html">Учебно-методические пособия</a>
+              <a class="dropdown-item" href="library.html">Детская литература</a>
+              <a class="dropdown-item" href="library.html">Фантастика</a>
+              <a class="dropdown-item" href="library.html">Синтез междисциплинарных знаний</a>
+              <a class="dropdown-item" href="library.html">Издательство РКО</a>
+              <a class="dropdown-item" href="library.html">Астрономия</a>
+              <a class="dropdown-item" href="library.html">Образование</a>
+              <a class="dropdown-item" href="library.html">Философия</a>
+              <a class="dropdown-item" href="library.html">Природопользование</a>
+              <a class="dropdown-item" href="library.html">Авиация, воздухоплавание</a>
+            </div>
+          </li>
+        </ul>
+        <ul class="navbar-nav rko-nav__aside ml-lg-auto">
+          <li class="nav-item"><a class="nav-link" href="article.html">О вступлении в РКО</a></li>
+          <li class="nav-item"><a class="nav-link" href="article.html">Добровольцы</a></li>
+          <li class="nav-item d-lg-none"><a class="nav-link" href="search.html">Поиск</a></li>
+          <li class="nav-item d-lg-none"><a class="nav-link" href="login.html">Войти</a></li>
+        </ul>
+        <div class="rko-nav__buttons d-md-none">
+          <a class="btn btn-support btn-block" href="donate.html">Поддержать РКО</a>
+          <a class="btn btn-primary btn-block" href="register.html">Присоединиться</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+<nav class="rko-crumbs" aria-label="Хлебные крошки">
+  <div class="container">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="index.html">Главная</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Карта макетов</li>
+    </ol>
+  </div>
+</nav>
+<main id="main">
+<div class="rko-pagehead">
+  <div class="container">
+    <h1 class="rko-h1">Карта макетов</h1>
+
+    <p class="lead">Все страницы из таблицы замечаний: что просили и что сделано. Служебная страница, в состав сайта не входит.</p>
+
+  </div>
+</div>
+<div class="container rko-content">
+  <h2 class="rko-h2 rko-h2--sm">Страницы</h2>
+  <div class="table-responsive">
+    <table class="table rko-review-table">
+      <thead><tr><th scope="col">№</th><th scope="col">Макет</th><th scope="col">Замечание</th><th scope="col">Что сделано</th><th scope="col">Статус</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>01</td>
+          <th scope="row"><a href="index.html">Главная страница</a></th>
+          <td>Суховатая, мало картинок, низкая информативность. Наполнение и вывод блоков нужно обсудить.</td>
+          <td>Собрана из блоков действующего сайта с настоящими картинками: главная новость, лента новостей, афиша, проекты со сбором, летопись, Первый отряд, материалы. Состав блоков — на обсуждение.</td>
+          <td><span class="badge badge-warning">Обсудить</span></td>
+        </tr>
+        <tr>
+          <td>02</td>
+          <th scope="row"><a href="news.html">Список новостей</a></th>
+          <td>Вместо кнопки «Все материалы раздела» — пагинация. Слово «новость» в каждом блоке убрать.</td>
+          <td>Пагинация внизу, подписи типа убраны. Справа виджеты мероприятий и материалов — там тип подписан: «Мероприятие», «Статья».</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>03</td>
+          <th scope="row"><a href="news-item.html">Новость</a></th>
+          <td>Добавить в правую колонку список актуальных новостей.</td>
+          <td>Справа «Актуальные новости» и карточка связанного проекта со сбором.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>04</td>
+          <th scope="row"><a href="poster.html">Список мероприятий</a></th>
+          <td>Сделать плитку, отличную по оформлению от новостей.</td>
+          <td>Афишная плитка: крупная дата, вид события, картинка. Новости при этом идут строками.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>05</td>
+          <th scope="row"><a href="poster-item.html">Страница мероприятия</a></th>
+          <td>Хорошо. Оставляем.</td>
+          <td>Схема сохранена: текст слева, сведения справа.</td>
+          <td><span class="badge badge-secondary">Оставлено</span></td>
+        </tr>
+        <tr>
+          <td>06</td>
+          <th scope="row"><a href="calendar.html">Календарь мероприятий</a></th>
+          <td>Хорошо. Оставляем.</td>
+          <td>Схема сохранена. Убран мусорный блок-дубль внизу страницы.</td>
+          <td><span class="badge badge-secondary">Оставлено</span></td>
+        </tr>
+        <tr>
+          <td>07</td>
+          <th scope="row"><a href="about.html">Статья</a></th>
+          <td>Хорошо. Оставляем.</td>
+          <td>Схема сохранена: одна колонка для чтения.</td>
+          <td><span class="badge badge-secondary">Оставлено</span></td>
+        </tr>
+        <tr>
+          <td>08</td>
+          <th scope="row"><a href="about-info.html">Об РКО — список материалов</a></th>
+          <td>Список статей отображается заголовками без ссылок. Требует проработки.</td>
+          <td>Каждый пункт — ссылка-строка. Справа меню раздела «Об обществе».</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>09</td>
+          <th scope="row"><a href="direction.html">Органы управления</a></th>
+          <td>Очень грязно: отступы, интервалы, не видна иерархия и структура. Разделить блоки визуально, границы и фон.</td>
+          <td>Каждый орган — отдельный блок с плашкой-заголовком и фоном; внутри подгруппы и карточки людей. Слева навигация по органам.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <th scope="row"><a href="collegium.html">Высший совет РКО — список</a></th>
+          <td>—</td>
+          <td>Список советов в две колонки с эмблемами.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <th scope="row"><a href="collegium-item.html">Высший совет РКО — страница</a></th>
+          <td>—</td>
+          <td>Вкладки «Совет / Члены совета», справа другие советы.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>12</td>
+          <th scope="row"><a href="partners.html">Партнёры</a></th>
+          <td>Хорошо. Оставляем.</td>
+          <td>Схема сохранена; убраны подпись «Партнёр» и «Подробнее» в каждой карточке.</td>
+          <td><span class="badge badge-secondary">Оставлено</span></td>
+        </tr>
+        <tr>
+          <td>13</td>
+          <th scope="row"><a href="partner.html">Страница партнёра</a></th>
+          <td>Пусто. Проработать либо отказаться от страницы. На обсуждение.</td>
+          <td>Компактный вариант: логотип, описание, сайт, другие партнёры. Если страницу убирать — список самодостаточен.</td>
+          <td><span class="badge badge-warning">Обсудить</span></td>
+        </tr>
+        <tr>
+          <td>14</td>
+          <th scope="row"><a href="contacts.html">Контакты</a></th>
+          <td>—</td>
+          <td>Три блока: связь, Москва, Санкт-Петербург; ссылки на отделения и соцсети.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>15</td>
+          <th scope="row"><a href="departments.html">Отделения</a></th>
+          <td>Список в 2–3 колонки или по алфавиту, без блоков и рамок, только текст. Вверху карта с метками.</td>
+          <td>Три колонки текста по алфавиту, зарубежные отдельно. Вверху место под карту (на макете — схема).</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>16</td>
+          <th scope="row"><a href="department.html">Страница отделения</a></th>
+          <td>Сухо. Вкладки в меню переносить нельзя — вернуть. Новости из вкладки — на первую страницу под описание.</td>
+          <td>Вкладки возвращены. Под описанием — новости отделения. Справа контакты, председатель, состав, мероприятия.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>17</td>
+          <th scope="row"><a href="projects.html">Список проектов</a></th>
+          <td>Оформление должно отличаться от новостей. Статус у каждого. Сбор: сколько собрано и сколько нужно. Вкладки по типам над списком.</td>
+          <td>Карточки с эмблемой, статусом и блоком сбора (собрано / нужно / шкала). Вкладки по типам работают.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>18</td>
+          <th scope="row"><a href="project.html">Страница проекта</a></th>
+          <td>Вариации левой колонки по типу и статусу сбора. Кнопка донатов. «Сайт» во всю ширину — плохо. Блок перенести вправо, как у мероприятия.</td>
+          <td>Сведения и сбор — в правой колонке. Четыре состояния: поддержка без сбора, сбор с целью, сбор без цели, проект завершён.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>19</td>
+          <th scope="row"><a href="users.html">Состав РКО</a></th>
+          <td>Добавить вкладки над списком. Добавить фото каждому.</td>
+          <td>Вкладки групп и фото у каждого участника, поиск по имени.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>20</td>
+          <th scope="row"><a href="profile.html">Профиль</a></th>
+          <td>Не проработан.</td>
+          <td>Шапка с фото, вкладки, биография, сведения, материалы и проекты участника.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>21</td>
+          <th scope="row"><a href="articles.html">Материалы — категории</a></th>
+          <td>Хорошо. Оставляем.</td>
+          <td>Сетка сохранена, но без красных линий, подписей «Раздел» и «Подробнее» — чтобы не рябило.</td>
+          <td><span class="badge badge-secondary">Оставлено</span></td>
+        </tr>
+        <tr>
+          <td>22</td>
+          <th scope="row"><a href="articles-list.html">Материалы — список статей</a></th>
+          <td>Уйти от трёхколоночной плитки к одноколоночной.</td>
+          <td>Одна колонка, справа разделы материалов.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>23</td>
+          <th scope="row"><a href="article.html">Материалы — статья</a></th>
+          <td>Добавить в правую колонку блок категорий.</td>
+          <td>Справа «Разделы материалов».</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>24</td>
+          <th scope="row"><a href="library.html">Библиотека — список книг</a></th>
+          <td>Блоки уменьшить, использовать список: одна книга — одна строка. После обновления вёрстка поехала.</td>
+          <td>Список: маленькая обложка, название, автор, аннотация, размер файла. Слева разделы.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>25</td>
+          <th scope="row"><a href="book.html">Библиотека — страница книги</a></th>
+          <td>Сделать целостной и компактной. Пустой блок справа от обложки. Автор во всю ширину — неудачно.</td>
+          <td>Обложка слева, справа название, автор строкой, аннотация и кнопка скачивания с размером файла.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>26</td>
+          <th scope="row"><a href="tabs.html">Типовая страница с вкладками</a></th>
+          <td>Не проработана. Принцип вкладок используется на многих страницах.</td>
+          <td>Единый компонент вкладок (Bootstrap nav-tabs) с содержимым: информация, участники, новости.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>27</td>
+          <th scope="row"><a href="donate.html">Поддержать РКО</a></th>
+          <td>Не нашёл страницы в макетах.</td>
+          <td>Страница есть: текст, форма суммы, проекты со сбором. Кнопка в шапке на всех страницах.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>28</td>
+          <th scope="row"><a href="login.html">Страница входа</a></th>
+          <td>Хорошо. Оставляем.</td>
+          <td>Схема сохранена.</td>
+          <td><span class="badge badge-secondary">Оставлено</span></td>
+        </tr>
+        <tr>
+          <td>29</td>
+          <th scope="row"><a href="restore.html">Восстановление пароля</a></th>
+          <td>Хорошо. Оставляем.</td>
+          <td>Схема сохранена.</td>
+          <td><span class="badge badge-secondary">Оставлено</span></td>
+        </tr>
+        <tr>
+          <td>30</td>
+          <th scope="row"><a href="register.html">Регистрация</a></th>
+          <td>Хорошо. Оставляем.</td>
+          <td>Схема сохранена.</td>
+          <td><span class="badge badge-secondary">Оставлено</span></td>
+        </tr>
+        <tr>
+          <td>31</td>
+          <th scope="row"><a href="search.html">Страница поиска — до запроса</a></th>
+          <td>Два состояния: до и после ввода фразы.</td>
+          <td>Состояние до запроса: строка поиска, параметры, перечень разделов, по которым идёт поиск.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+        <tr>
+          <td>32</td>
+          <th scope="row"><a href="search-results.html">Страница поиска — результаты</a></th>
+          <td>Два состояния: до и после ввода фразы.</td>
+          <td>Состояние после запроса: вкладки разделов с числом найденного, подсветка фразы.</td>
+          <td><span class="badge badge-success">Сделано</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <h2 class="rko-h2 rko-h2--sm">Дополнительные состояния</h2>
+  <ul class="list-unstyled rko-linklist rko-linklist--sm">
+    <li><a href="project-fundraising.html">Проект: сбор с целью</a> <span class="text-muted">— Собрано, нужно, шкала, форма суммы.</span></li>
+    <li><a href="project-collecting.html">Проект: сбор без цели</a> <span class="text-muted">— Показана только собранная сумма.</span></li>
+    <li><a href="project-completed.html">Проект: завершён</a> <span class="text-muted">— Формы поддержки нет. Нужно ли скрывать её у завершённых — на решение.</span></li>
+  </ul>
+  <h2 class="rko-h2 rko-h2--sm">Сквозные замечания</h2>
+  <div class="table-responsive">
+    <table class="table rko-review-table">
+      <thead><tr><th scope="col">Тема</th><th scope="col">Замечание</th><th scope="col">Что сделано</th></tr></thead>
+      <tbody>
+        <tr><th scope="row">Шапка</th><td>Меню двухуровневое, как на текущем сайте; вернуть убранные разделы; кнопка «Поддержать РКО».</td><td>Меню повторяет действующий сайт: 7 разделов, выпадающие списки. Кнопки «Поддержать РКО» и «Присоединиться».</td></tr>
+        <tr><th scope="row">Кнопка «Присоединиться»</th><td>В шапке поправить кнопку.</td><td>Текст по центру, высота как у соседних кнопок.</td></tr>
+        <tr><th scope="row">Хлебные крошки</th><td>Уехали.</td><td>Стоят в общей сетке страницы; на узком экране переносятся, длинное название обрезается многоточием.</td></tr>
+        <tr><th scope="row">Заголовки разделов H1</th><td>Убрать надпись «Русское космическое общество», блок сделать компактнее.</td><td>Надписи нет, отступы уменьшены.</td></tr>
+        <tr><th scope="row">Прочие заголовки</th><td>Подпись типа («статья», «новость») — только во встраиваемых виджетах.</td><td>В основных списках подписей нет; в боковых виджетах есть.</td></tr>
+        <tr><th scope="row">Bootstrap 4.6.2</th><td>Оформлять макеты под bootstrap 4.6.2.</td><td>Вся разметка — на сетке и компонентах Bootstrap 4.6.2. Оформление — одним файлом rko-theme.css поверх него.</td></tr>
+        <tr><th scope="row">Шрифт и углы</th><td>Третий вариант (Аркон, Анна Сергеевна); гибрид «скругления + шрифт третьего» — посмотреть (Павел).</td><td>Основной — чёткие углы и плакатный шрифт заголовков. Гибрид включается переключателем внизу экрана.</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+</main>
+<footer class="rko-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 mb-4">
+        <a class="rko-brand rko-brand--footer d-flex align-items-center" href="index.html">
+          <span class="rko-brand__plate"><img class="rko-brand__mark" src="assets/img/rko-mark.svg" width="46" height="44" alt="Герб РКО «Прорыв»"></span>
+          <span class="rko-brand__text"><strong>Русское космическое общество</strong><small>Человек. Земля. Космос.</small></span>
+        </a>
+        <address class="rko-footer__address">
+          107023, г. Москва, ул. Кржижановского, 21А<br>
+          <a href="tel:+79219967296">+7 921 996-72-96</a> · <a href="mailto:info@cosmatica.org">info@cosmatica.org</a>
+        </address>
+      </div>
+      <div class="col-6 col-md-3 col-lg-2 mb-4">
+        <h2 class="rko-footer__title">Общество</h2>
+        <ul class="list-unstyled">
+          <li><a href="about.html">Об обществе</a></li>
+          <li><a href="direction.html">Органы управления</a></li>
+          <li><a href="collegium.html">Высший Совет</a></li>
+          <li><a href="departments.html">Отделения</a></li>
+          <li><a href="users.html">Состав РКО</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-md-3 col-lg-2 mb-4">
+        <h2 class="rko-footer__title">Деятельность</h2>
+        <ul class="list-unstyled">
+          <li><a href="news.html">Новости</a></li>
+          <li><a href="poster.html">Мероприятия</a></li>
+          <li><a href="projects.html">Проекты</a></li>
+          <li><a href="partners.html">Партнёры</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-md-3 col-lg-2 mb-4">
+        <h2 class="rko-footer__title">Знания</h2>
+        <ul class="list-unstyled">
+          <li><a href="articles.html">Материалы</a></li>
+          <li><a href="library.html">Библиотека</a></li>
+          <li><a href="articles-list.html">Глоссарий</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-md-3 col-lg-2 mb-4">
+        <h2 class="rko-footer__title">Участие</h2>
+        <ul class="list-unstyled">
+          <li><a href="article.html">О вступлении в РКО</a></li>
+          <li><a href="article.html">Добровольцы</a></li>
+          <li><a href="donate.html">Поддержать РКО</a></li>
+          <li><a href="contacts.html">Контакты</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="rko-footer__bottom d-flex flex-column flex-md-row align-items-md-center">
+      <span>Русское Космическое Общество © 2017–2026</span>
+      <ul class="list-inline rko-footer__social ml-md-auto mb-0">
+        <li class="list-inline-item"><a href="https://vk.com/cosmatica" target="_blank" rel="noopener noreferrer">ВКонтакте</a></li>
+        <li class="list-inline-item"><a href="https://ok.ru/group/55464677015766" target="_blank" rel="noopener noreferrer">Одноклассники</a></li>
+        <li class="list-inline-item"><a href="https://t.me/RKO_cosmatica" target="_blank" rel="noopener noreferrer">Telegram</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+<script src="assets/vendor/jquery-3.5.1.slim.min.js"></script>
+<script src="assets/vendor/bootstrap-4.6.2.bundle.min.js"></script>
+<script src="assets/js/rko.js?v=6f3d5d8f"></script>
+<script src="assets/js/rko-review.js?v=6f3d5d8f"></script>
+</body>
+</html>

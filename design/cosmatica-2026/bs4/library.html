@@ -1,0 +1,433 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="theme-color" content="#f6f6f2">
+<title>Библиотека · Русское космическое общество</title>
+<script>/* только для просмотра макета: выбор варианта оформления */(function(){try{var q=new URLSearchParams(location.search).get('design'),s=q||localStorage.getItem('rko-design');if(s==='hybrid'||s==='sharp'){document.documentElement.setAttribute('data-design',s);if(q)localStorage.setItem('rko-design',s);}}catch(e){}})();</script>
+<link rel="icon" href="assets/img/rko-mark.svg" type="image/svg+xml">
+<link rel="preload" href="assets/fonts/inter-cyrillic-variable.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/russo-one-regular.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="stylesheet" href="assets/vendor/bootstrap-4.6.2.min.css">
+<link rel="stylesheet" href="assets/css/rko-theme.css?v=6f3d5d8f">
+</head>
+<body>
+<a class="sr-only sr-only-focusable rko-skip" href="#main">К содержанию</a>
+<header class="rko-header">
+  <div class="container">
+    <div class="rko-header__top d-flex align-items-center">
+      <a class="rko-brand d-flex align-items-center" href="index.html">
+        <img class="rko-brand__mark" src="assets/img/rko-mark.svg" width="46" height="44" alt="Герб РКО «Прорыв»">
+        <span class="rko-brand__text">
+          <strong>Русское космическое общество</strong>
+          <small class="d-none d-lg-block">Наука, культура, проекты, будущее</small>
+        </span>
+      </a>
+      <div class="rko-header__actions ml-auto d-flex align-items-center">
+        <a class="btn btn-link rko-header__link d-none d-lg-inline-flex" href="search.html"><svg class="rko-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg><span class="ml-1 d-none d-xl-inline">Поиск</span><span class="sr-only d-xl-none">Поиск</span></a>
+        <a class="btn btn-link rko-header__link d-none d-lg-inline-flex" href="login.html">Войти</a>
+        <a class="btn btn-support rko-header__support" href="donate.html">Поддержать<span class="d-none d-sm-inline">&nbsp;РКО</span></a>
+        <a class="btn btn-primary d-none d-md-inline-flex" href="register.html">Присоединиться</a>
+        <button class="navbar-toggler rko-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#rkoNav" aria-controls="rkoNav" aria-expanded="false" aria-label="Открыть меню"><span class="rko-toggler__bars" aria-hidden="true"></span><span class="rko-toggler__label d-none d-sm-inline">Меню</span></button>
+      </div>
+    </div>
+  </div>
+  <nav class="navbar navbar-expand-lg rko-nav" aria-label="Основные разделы">
+    <div class="container">
+      <div class="collapse navbar-collapse" id="rkoNav">
+        <ul class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="about.html">Об обществе</a>
+            <a class="nav-link dropdown-toggle dropdown-toggle-split" href="#" id="rkoNav-about" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="sr-only">Открыть подразделы: Об обществе</span></a>
+            <div class="dropdown-menu" aria-labelledby="rkoNav-about">
+              <a class="dropdown-item" href="about-info.html">Информация</a>
+              <a class="dropdown-item" href="about.html">Символика</a>
+              <a class="dropdown-item" href="about-info.html">Документы</a>
+              <a class="dropdown-item" href="direction.html">Органы управления</a>
+              <a class="dropdown-item" href="collegium.html">Высший Совет РКО</a>
+              <a class="dropdown-item" href="partners.html">Партнёры</a>
+              <a class="dropdown-item" href="contacts.html">Контакты</a>
+              <a class="dropdown-item" href="tabs.html">Первый отряд</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="news.html">Новости</a>
+            <a class="nav-link dropdown-toggle dropdown-toggle-split" href="#" id="rkoNav-news" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="sr-only">Открыть подразделы: Новости</span></a>
+            <div class="dropdown-menu" aria-labelledby="rkoNav-news">
+              <a class="dropdown-item" href="poster.html">Мероприятия</a>
+            </div>
+          </li>
+          <li class="nav-item"><a class="nav-link" href="departments.html">Отделения</a></li>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="projects.html">Проекты</a>
+            <a class="nav-link dropdown-toggle dropdown-toggle-split" href="#" id="rkoNav-projects" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="sr-only">Открыть подразделы: Проекты</span></a>
+            <div class="dropdown-menu" aria-labelledby="rkoNav-projects">
+              <a class="dropdown-item" href="projects.html#strategy">Стратегические инициативы</a>
+              <a class="dropdown-item" href="projects.html#current">Действующие</a>
+              <a class="dropdown-item" href="projects.html#completed">Завершённые</a>
+              <a class="dropdown-item" href="projects.html#planned">Перспективные</a>
+            </div>
+          </li>
+          <li class="nav-item"><a class="nav-link" href="users.html">Состав РКО</a></li>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="articles.html">Материалы</a>
+            <a class="nav-link dropdown-toggle dropdown-toggle-split" href="#" id="rkoNav-articles" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="sr-only">Открыть подразделы: Материалы</span></a>
+            <div class="dropdown-menu" aria-labelledby="rkoNav-articles">
+              <a class="dropdown-item" href="articles-list.html">Конференции</a>
+              <a class="dropdown-item" href="articles-list.html">Публикации</a>
+              <a class="dropdown-item" href="articles-list.html">Медиа</a>
+              <a class="dropdown-item" href="articles-list.html">Газета</a>
+              <a class="dropdown-item" href="articles-list.html">Космонавтика</a>
+              <a class="dropdown-item" href="articles-list.html">Фантастика РКО</a>
+              <a class="dropdown-item" href="articles-list.html">Издания</a>
+              <a class="dropdown-item" href="articles-list.html">Конкурсные работы</a>
+              <a class="dropdown-item" href="articles-list.html">Научная школа</a>
+              <a class="dropdown-item" href="articles-list.html">Ближе к космосу</a>
+              <a class="dropdown-item" href="articles-list.html">Мир Героев</a>
+              <a class="dropdown-item" href="articles-list.html">Глоссарий</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown active">
+            <a class="nav-link" href="library.html">Библиотека</a>
+            <a class="nav-link dropdown-toggle dropdown-toggle-split" href="#" id="rkoNav-library" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="sr-only">Открыть подразделы: Библиотека</span></a>
+            <div class="dropdown-menu rko-dropdown-wide" aria-labelledby="rkoNav-library">
+              <a class="dropdown-item" href="library.html">Устойчивое развитие</a>
+              <a class="dropdown-item" href="library.html">Основания русского космизма</a>
+              <a class="dropdown-item" href="library.html">Космонавтика</a>
+              <a class="dropdown-item" href="library.html">Научное наследие П.Г.Кузнецова</a>
+              <a class="dropdown-item" href="library.html">Монографии</a>
+              <a class="dropdown-item" href="library.html">Учебно-методические пособия</a>
+              <a class="dropdown-item" href="library.html">Детская литература</a>
+              <a class="dropdown-item" href="library.html">Фантастика</a>
+              <a class="dropdown-item" href="library.html">Синтез междисциплинарных знаний</a>
+              <a class="dropdown-item" href="library.html">Издательство РКО</a>
+              <a class="dropdown-item" href="library.html">Астрономия</a>
+              <a class="dropdown-item" href="library.html">Образование</a>
+              <a class="dropdown-item" href="library.html">Философия</a>
+              <a class="dropdown-item" href="library.html">Природопользование</a>
+              <a class="dropdown-item" href="library.html">Авиация, воздухоплавание</a>
+            </div>
+          </li>
+        </ul>
+        <ul class="navbar-nav rko-nav__aside ml-lg-auto">
+          <li class="nav-item"><a class="nav-link" href="article.html">О вступлении в РКО</a></li>
+          <li class="nav-item"><a class="nav-link" href="article.html">Добровольцы</a></li>
+          <li class="nav-item d-lg-none"><a class="nav-link" href="search.html">Поиск</a></li>
+          <li class="nav-item d-lg-none"><a class="nav-link" href="login.html">Войти</a></li>
+        </ul>
+        <div class="rko-nav__buttons d-md-none">
+          <a class="btn btn-support btn-block" href="donate.html">Поддержать РКО</a>
+          <a class="btn btn-primary btn-block" href="register.html">Присоединиться</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+<nav class="rko-crumbs" aria-label="Хлебные крошки">
+  <div class="container">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="index.html">Главная</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Библиотека</li>
+    </ol>
+  </div>
+</nav>
+<main id="main">
+<div class="rko-pagehead">
+  <div class="container">
+    <h1 class="rko-h1">Библиотека</h1>
+
+    <p class="lead">Книги, исследования, методические материалы и интеллектуальное наследие РКО.</p>
+
+  </div>
+</div>
+<div class="container rko-content">
+  <div class="row">
+    <aside class="col-lg-3 rko-aside rko-aside--left">
+      <div class="d-lg-none mb-3">
+        <label class="sr-only" for="libraryCategory">Раздел библиотеки</label>
+        <select class="custom-select" id="libraryCategory">
+          <option selected>Все разделы</option>
+          <option>Устойчивое развитие</option><option>Основания русского космизма</option><option>Космонавтика</option><option>Научное наследие П.Г.Кузнецова</option><option>Монографии</option><option>Учебно-методические пособия</option><option>Детская литература</option><option>Фантастика</option><option>Синтез междисциплинарных знаний</option><option>Издательство РКО</option><option>Астрономия</option><option>Образование</option><option>Философия</option><option>Природопользование</option><option>Авиация, воздухоплавание</option>
+        </select>
+      </div>
+      <nav class="d-none d-lg-block" aria-label="Разделы библиотеки">
+        <div class="list-group list-group-flush rko-sidenav">
+          <a class="list-group-item list-group-item-action active" href="library.html" aria-current="page">Все разделы</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Устойчивое развитие</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Основания русского космизма</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Космонавтика</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Научное наследие П.Г.Кузнецова</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Монографии</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Учебно-методические пособия</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Детская литература</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Фантастика</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Синтез междисциплинарных знаний</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Издательство РКО</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Астрономия</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Образование</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Философия</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Природопользование</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Авиация, воздухоплавание</a>
+        </div>
+      </nav>
+    </aside>
+    <div class="col-lg-9">
+      <form class="rko-toolbar form-row align-items-center" data-rko-demo role="search">
+        <div class="col-12 col-sm mb-2 mb-sm-0">
+          <label class="sr-only" for="bookSearch">Название или автор</label>
+          <input class="form-control" id="bookSearch" type="search" placeholder="Название или автор">
+        </div>
+        <div class="col-12 col-sm-auto">
+          <label class="sr-only" for="bookSort">Порядок</label>
+          <select class="custom-select" id="bookSort"><option selected>Сначала новые</option><option>По названию</option><option>По автору</option></select>
+        </div>
+      </form>
+      <ul class="list-unstyled rko-books">
+        <li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/8eb695955559b6495f6d1610.webp" alt="" width="64" height="64" loading="lazy"></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">Новая парадигма теории, истории и будущего мира цивилизаций</a></h2>
+      <div class="rko-book__author">Яковец Ю.В.</div>
+      <p class="rko-book__text">Мир цивилизаций — вершина эволюции, природы, биосферы и человека. Мир цивилизаций возник около 10 тысячелетий назад в период неолитической революции. Локальные…</p>
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">4 Мб</span>
+    </div>
+  </li>
+<li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/fb7c0370ab3511c7e1212dd7.webp" alt="" width="64" height="64" loading="lazy"></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">Экофилософия - развитию культуры и мира</a></h2>
+      <div class="rko-book__author">Баркова Э.В.</div>
+      <p class="rko-book__text">Настоящая монография посвящена философскому и междисциплинарному исследованию потенциала экофилософии в сохранении жизни Земли, ее природы и культуры; в борьбе за Мир в…</p>
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">4 Мб</span>
+    </div>
+  </li>
+<li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/451049d343783a79813b5cbf.webp" alt="" width="64" height="64" loading="lazy"></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">The Book of Life</a></h2>
+      <div class="rko-book__author">Gaponov A.A., Zotov.S.A.</div>
+      <p class="rko-book__text">The Book of Life is not a dogma, for Life itself is the transformation of the impossible today into the possible tomorrow . The Book of Life is not for everyone, because…</p>
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">3 Мб</span>
+    </div>
+  </li>
+<li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/book-covers-b31ad6d7b7690b8ee009ea.webp" alt="" width="384" height="256" loading="lazy"></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">Ноосферный разум как разум, научно-управляющий социо-биосферной эволюцией</a></h2>
+      <div class="rko-book__author">Субетто А.И.</div>
+      <p class="rko-book__text">В новой работе автора раскрываются системно-концептуальные основания теории и философии Ноосферного разума, как теоретического блока в становящемся теоретическом…</p>
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">8 Мб</span>
+    </div>
+  </li>
+<li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/ddfcd415a0da949136ee5c4a.webp" alt="" width="64" height="64" loading="lazy"></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">Покер с Богом</a></h2>
+      <div class="rko-book__author">Майя Сиволобова</div>
+      <p class="rko-book__text">Литературный конкурс &quot;Империум: Победа!&quot; - 2026г. Номинация &quot;Оригинальность&quot;</p>
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">193 Кб</span>
+    </div>
+  </li>
+<li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/book-covers-7c150ce17151c35273d5d6.webp" alt="" width="173" height="256" loading="lazy"></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">Кто первый</a></h2>
+      <div class="rko-book__author">Андрей Гореликов</div>
+      <p class="rko-book__text">Литературный конкурс &quot;Империум: Победа!&quot; - 2026г. Номинация &quot;Эмоциональный подход&quot;</p>
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">163 Кб</span>
+    </div>
+  </li>
+<li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/book-covers-5ed7439a75b75c558be9b7.webp" alt="" width="173" height="256" loading="lazy"></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">День, когда меня внесли в протокол</a></h2>
+      <div class="rko-book__author">Давид Гадималиев</div>
+      <p class="rko-book__text">Литературный конкурс &quot;Империум: Победа!&quot; - 2026г. Номинация &quot;Молодое Дарование&quot;</p>
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">146 Кб</span>
+    </div>
+  </li>
+<li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/451d108299cdd5068b0dbd8a.webp" alt="" width="64" height="64" loading="lazy"></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">Доктрина Победы</a></h2>
+      <div class="rko-book__author">Разумные от Русского народа</div>
+      <p class="rko-book__text">Военно-политическая доктрина достижения победы России в развязанной против неё тотальной гибридной войне.</p>
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">2 Мб</span>
+    </div>
+  </li>
+<li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/book-covers-4d79285979dee59cf2162f.webp" alt="" width="166" height="256" loading="lazy"></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">Русский Воин Будущего</a></h2>
+      <div class="rko-book__author">Разумные от Русского народа</div>
+      <p class="rko-book__text">Основные на сегодня вопросы для тех, кто пробудился от исторической спячки, нравственной дремоты, принимает вызов дня сегодняшнего и чает наступление новой эры: За что…</p>
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">2 Мб</span>
+    </div>
+  </li>
+<li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/4298f4f5b32df5e4691b2129.webp" alt="" width="64" height="64" loading="lazy"></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">Преступник не найден</a></h2>
+      <div class="rko-book__author">Олег Лаврентьев</div>
+      <p class="rko-book__text">Литературный конкурс &quot;Империум: Победа!&quot; - 2026г. 2 место</p>
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">329 Кб</span>
+    </div>
+  </li>
+<li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/c1a21fb780d800dede2ad78c.webp" alt="" width="64" height="64" loading="lazy"></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">Весёлый водный мир</a></h2>
+      <div class="rko-book__author">Андрей Мансуров</div>
+      <p class="rko-book__text">Литературный конкурс &quot;Империум: Победа!&quot; - 2026г. 3 место</p>
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">379 Кб</span>
+    </div>
+  </li>
+<li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/c872d03f8a99856ea4bf2e3d.webp" alt="" width="64" height="64" loading="lazy"></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">Время Энджи</a></h2>
+      <div class="rko-book__author">Алексей Жарков</div>
+      <p class="rko-book__text">Литературный конкурс &quot;Империум: Победа!&quot; - 2026г. 1 место</p>
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">2 Мб</span>
+    </div>
+  </li>
+<li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><span class="rko-book__nocover">Нет обложки</span></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">Путь в ноосферу</a></h2>
+      <div class="rko-book__author">Протопопов А.И.</div>
+      <p class="rko-book__text">Настоящая работа «Путь в ноосферу: теория и практика устойчивого развития» представляет собой первую часть учебного пособия по проектированию и эксплуатации устойчиво…</p>
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">3 Мб</span>
+    </div>
+  </li>
+<li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><span class="rko-book__nocover">Нет обложки</span></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">Чистый Мир. Интуитивно-научный взгляд</a></h2>
+      <div class="rko-book__author">Тимошенко Леонид Викторович</div>
+      <p class="rko-book__text">Монография &quot;Чистый Мир. Интуитивно-научный взгляд. - это уникальная система взглядов в комплексном решении проблемы существования системы Вселенских процессов Мироздания.…</p>
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">2 Мб</span>
+    </div>
+  </li>
+<li class="rko-book">
+    <a class="rko-book__cover" href="book.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/1f9d272716c809438ae9260b.webp" alt="" width="64" height="64" loading="lazy"></a>
+    <div class="rko-book__body">
+      <h2 class="rko-book__title"><a href="book.html">Рынок как механизм гибели человека и природы на Земле в XXI веке</a></h2>
+      <div class="rko-book__author">Субетто А.И.</div>
+
+    </div>
+    <div class="rko-book__file">
+      <a class="btn btn-outline-primary btn-sm" href="#" data-rko-demo>Скачать</a><span class="rko-book__size">2 Мб</span>
+    </div>
+  </li>
+      </ul>
+      <nav aria-label="Страницы библиотеки" class="rko-pagination">
+  <ul class="pagination">
+    <li class="page-item disabled"><a class="page-link" href="#" tabindex="-1" aria-disabled="true">Назад</a></li>
+    <li class="page-item active" aria-current="page"><a class="page-link" href="#">1</a></li>
+    <li class="page-item"><a class="page-link" href="#">2</a></li>
+    <li class="page-item"><a class="page-link" href="#">3</a></li>
+    <li class="page-item disabled"><span class="page-link">…</span></li>
+    <li class="page-item"><a class="page-link" href="#">33</a></li>
+    <li class="page-item"><a class="page-link" href="#">Вперёд</a></li>
+  </ul>
+</nav>
+    </div>
+  </div>
+</div>
+</main>
+<footer class="rko-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 mb-4">
+        <a class="rko-brand rko-brand--footer d-flex align-items-center" href="index.html">
+          <span class="rko-brand__plate"><img class="rko-brand__mark" src="assets/img/rko-mark.svg" width="46" height="44" alt="Герб РКО «Прорыв»"></span>
+          <span class="rko-brand__text"><strong>Русское космическое общество</strong><small>Человек. Земля. Космос.</small></span>
+        </a>
+        <address class="rko-footer__address">
+          107023, г. Москва, ул. Кржижановского, 21А<br>
+          <a href="tel:+79219967296">+7 921 996-72-96</a> · <a href="mailto:info@cosmatica.org">info@cosmatica.org</a>
+        </address>
+      </div>
+      <div class="col-6 col-md-3 col-lg-2 mb-4">
+        <h2 class="rko-footer__title">Общество</h2>
+        <ul class="list-unstyled">
+          <li><a href="about.html">Об обществе</a></li>
+          <li><a href="direction.html">Органы управления</a></li>
+          <li><a href="collegium.html">Высший Совет</a></li>
+          <li><a href="departments.html">Отделения</a></li>
+          <li><a href="users.html">Состав РКО</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-md-3 col-lg-2 mb-4">
+        <h2 class="rko-footer__title">Деятельность</h2>
+        <ul class="list-unstyled">
+          <li><a href="news.html">Новости</a></li>
+          <li><a href="poster.html">Мероприятия</a></li>
+          <li><a href="projects.html">Проекты</a></li>
+          <li><a href="partners.html">Партнёры</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-md-3 col-lg-2 mb-4">
+        <h2 class="rko-footer__title">Знания</h2>
+        <ul class="list-unstyled">
+          <li><a href="articles.html">Материалы</a></li>
+          <li><a href="library.html">Библиотека</a></li>
+          <li><a href="articles-list.html">Глоссарий</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-md-3 col-lg-2 mb-4">
+        <h2 class="rko-footer__title">Участие</h2>
+        <ul class="list-unstyled">
+          <li><a href="article.html">О вступлении в РКО</a></li>
+          <li><a href="article.html">Добровольцы</a></li>
+          <li><a href="donate.html">Поддержать РКО</a></li>
+          <li><a href="contacts.html">Контакты</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="rko-footer__bottom d-flex flex-column flex-md-row align-items-md-center">
+      <span>Русское Космическое Общество © 2017–2026</span>
+      <ul class="list-inline rko-footer__social ml-md-auto mb-0">
+        <li class="list-inline-item"><a href="https://vk.com/cosmatica" target="_blank" rel="noopener noreferrer">ВКонтакте</a></li>
+        <li class="list-inline-item"><a href="https://ok.ru/group/55464677015766" target="_blank" rel="noopener noreferrer">Одноклассники</a></li>
+        <li class="list-inline-item"><a href="https://t.me/RKO_cosmatica" target="_blank" rel="noopener noreferrer">Telegram</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+<script src="assets/vendor/jquery-3.5.1.slim.min.js"></script>
+<script src="assets/vendor/bootstrap-4.6.2.bundle.min.js"></script>
+<script src="assets/js/rko.js?v=6f3d5d8f"></script>
+<script src="assets/js/rko-review.js?v=6f3d5d8f"></script>
+</body>
+</html>
