@@ -34,7 +34,7 @@ try{
     });
     assert(state.title,'missing heading '+type);
     assert.equal(state.overflow,0,'horizontal overflow '+JSON.stringify({type,width,variant,state}));
-    assert(state.bodyFont.startsWith('Inter'),'Orbit Light font not restored');
+    assert(state.bodyFont.includes('RKO Inter'),'Local Orbit Light font not restored');
     assert.equal(state.red,'#98161f','Orbit palette not applied');
     if(variant==='orbit'||variant==='construct')assert.equal(state.weight,'800','bold Orbit heading lost');
     if(variant==='poster')assert(state.font.includes('Russo One'),'poster font not enabled');
