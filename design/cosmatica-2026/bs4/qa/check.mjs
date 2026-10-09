@@ -37,9 +37,23 @@ for (const file of pages) {
   // Типовые подписи только в виджетах: в основных списках их быть не должно
   ok(!/<span class="tag">|>Новость \d+<|>КНИГА<|>РАЗДЕЛ</.test(html), file, 'в списке осталась подпись типа материала');
 }
+// Правки по отклику группы от 09.10.2026
+const homeHtml = fs.readFileSync(path.join(ROOT, 'index.html'), 'utf8');
+ok(!/rko-fund|Поддержать проект|rko-project__btn/.test(homeHtml), 'index.html', 'на главной в карточках проектов не должно быть сбора и кнопки поддержки');
+ok((homeHtml.match(/class="card rko-project/g) || []).length === 3, 'index.html', 'на главной должно быть три карточки проектов');
+const tilesHtml = fs.readFileSync(path.join(ROOT, 'articles.html'), 'utf8');
+const tiles = tilesHtml.match(/<a class="rko-tile"[\s\S]*?<\/a>/g) || [];
+ok(tiles.length === 18 && tiles.every((t) => /<svg class="rko-ico"/.test(t)), 'articles.html', 'у каждого раздела материалов должна быть иконка');
+ok(new Set(tiles.map((t) => t.match(/data-rko-icon="([^"]+)"/)?.[1])).size === 18 && !/data-rko-icon="folder"/.test(tilesHtml), 'articles.html', 'иконки разделов должны быть разными и подобранными, без запасной «папки»');
+ok(fs.readdirSync(path.join(ROOT, 'assets/img/icons')).filter((f) => f.endsWith('.svg')).length === 19, 'иконки', 'в assets/img/icons должно быть 19 файлов');
+const partnerHtml = fs.readFileSync(path.join(ROOT, 'partner.html'), 'utf8');
+ok((partnerHtml.match(/class="media rko-partner__mini/g) || []).length === 6, 'partner.html', 'в блоке «Другие партнёры» должно быть 6 карточек');
+
 const css = fs.readFileSync(path.join(ROOT, 'assets/css/rko-theme.css'), 'utf8');
 ok((css.match(/{/g) || []).length === (css.match(/}/g) || []).length, 'rko-theme.css', 'непарные фигурные скобки');
 ok(!/url\(["']?https?:/.test(css), 'rko-theme.css', 'стили не должны ссылаться на сторонние серверы');
+// aspect-ratio в Safari на айфоне растягивал блок картинки проекта и сдвигал её вправо (09.10.2026)
+ok(!/aspect-ratio\s*:/.test(css.replace(/\/\*[\s\S]*?\*\//g, '')), 'rko-theme.css', 'пропорции картинок задаются через .embed-responsive, без aspect-ratio');
 
 // ---------- 2. Браузер
 if (process.argv.includes('--browser')) {
@@ -93,6 +107,12 @@ if (process.argv.includes('--browser')) {
             // Вкладки на компьютере не обрезаются; на телефоне обрезанные помечены затуханием
             tabsCut: [...document.querySelectorAll('.rko-tabs')].filter((t) => t.scrollWidth - t.clientWidth > 4 && !t.classList.contains('is-cut')).length,
             navHeight: innerWidth >= 992 ? document.querySelector('.rko-nav').getBoundingClientRect().height : 0,
+            // Карточки «Другие партнёры» должны быть в рамке; иконки разделов — видимыми
+            // Картинка не выходит за свою рамку, рамка — за свою карточку (сдвиг на айфоне, 09.10.2026)
+            imgOut: [...document.querySelectorAll('main img')].filter((i) => { const r = i.getBoundingClientRect(); const p = i.parentElement.getBoundingClientRect(); return r.width > 0 && (r.left < p.left - 1 || r.right > p.right + 1 || r.right > document.documentElement.clientWidth + 1); }).map((i) => i.getAttribute('src')).slice(0, 3),
+            boxOut: [...document.querySelectorAll('.embed-responsive')].filter((b) => { const r = b.getBoundingClientRect(); const p = b.parentElement.getBoundingClientRect(); return r.width > p.width + 1 || Math.abs(r.height / r.width - 0.5625) > 0.02; }).length,
+            miniNoFrame: [...document.querySelectorAll('.rko-partner__mini')].filter((el) => parseFloat(getComputedStyle(el).borderTopWidth) < 1).length,
+            iconHidden: [...document.querySelectorAll('.rko-tile .rko-ico')].filter((el) => el.getBoundingClientRect().width < 20).length,
           };
         });
         const tag = `${file} [${design}, ${width}px]`;
@@ -110,6 +130,10 @@ if (process.argv.includes('--browser')) {
         ok(info.crumbOverlap === 0, tag, 'пункты хлебных крошек наезжают друг на друга');
         ok(info.tabsCut === 0, tag, 'вкладки обрезаны без признака прокрутки');
         ok(info.navHeight < 60, tag, `меню не помещается в одну строку (${Math.round(info.navHeight)}px)`);
+        ok(info.imgOut.length === 0, tag, `картинка выходит за свою рамку: ${info.imgOut.join(', ')}`);
+        ok(info.boxOut === 0, tag, 'блок картинки шире карточки или не в пропорции 16:9');
+        ok(info.miniNoFrame === 0, tag, 'карточки других партнёров без рамки');
+        ok(info.iconHidden === 0, tag, 'иконки разделов не видны');
         await page.close();
       }
       await ctx.close();

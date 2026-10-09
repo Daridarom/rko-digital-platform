@@ -2,6 +2,7 @@
 import { esc, clean, source, imgTag, renderBlocks, linkAttrs, rub } from './core.mjs';
 import { pageHead, pagination, linkTabs, contentTabs, widget, LIBRARY_CATEGORIES } from './layout.mjs';
 import * as D from './data.mjs';
+import { icon, categoryIcon } from './icons.mjs';
 import { newsRow, eventMini, projectCard, person, sectionHead, thumb, short, fundraising, statusBadge, bookRow, sampleNote } from './parts.mjs';
 
 // ---------------------------------------------------------------- 15 Отделения
@@ -265,7 +266,7 @@ export function articleCategories() {
   const body = `${pageHead('Материалы', { lead: D.INTRO.articles })}
 <div class="container rko-content">
   <div class="rko-tiles">
-    ${D.articleCategories.map((c) => `<a class="rko-tile" href="articles-list.html"><span>${esc(c.replace(/\.$/, ''))}</span></a>`).join('\n    ')}
+    ${D.articleCategories.map((c) => `<a class="rko-tile" href="articles-list.html" data-rko-icon="${categoryIcon(c)}"><span class="rko-tile__icon">${icon(categoryIcon(c))}</span><span class="rko-tile__title">${esc(c.replace(/\.$/, ''))}</span></a>`).join('\n    ')}
   </div>
 </div>`;
   return { file: 'articles.html', title: 'Материалы', active: 'articles', crumb: [['Материалы']], body };

@@ -21,7 +21,7 @@ export function home() {
       </div>
       <div class="col-lg-6 mt-5 mt-lg-0">
         <article class="rko-lead">
-          <a class="rko-lead__img" href="${lead.href}" tabindex="-1" aria-hidden="true">${imgTag(lead.image, '')}</a>
+          <a class="rko-lead__img embed-responsive embed-responsive-16by9" href="${lead.href}" tabindex="-1" aria-hidden="true">${imgTag(lead.image, '', 'embed-responsive-item')}</a>
           <div class="rko-lead__body">
             <div class="rko-meta"><span class="rko-type">Главная новость</span><time datetime="${D.dateParts(lead.date).iso}">${D.ruDate(lead.date)}</time></div>
             <h2 class="rko-lead__title"><a href="${lead.href}">${esc(lead.title)}</a></h2>
@@ -58,7 +58,7 @@ export function home() {
   <div class="container">
     ${sectionHead('Проекты', [['Все проекты', 'projects.html']])}
     <div class="row">
-      ${[D.projects[3], D.projects[2], D.projects[0]].map((p) => projectCard(p)).join('\n')}
+      ${D.projects.slice(3, 6).map((p) => projectCard(p, 3, { fund: false })).join('\n')}
     </div>
   </div>
 </section>
@@ -83,7 +83,7 @@ export function home() {
     <div class="row rko-reports">
       ${D.reports.slice(0, 4).map((r) => `<div class="col-6 col-lg-3 mb-4">
         <a class="rko-report" href="article.html">
-          ${thumb(r.image, '', 'img-fluid')}
+          <span class="rko-report__img embed-responsive embed-responsive-16by9">${thumb(r.image, '', 'embed-responsive-item')}</span>
           <span class="rko-report__year">${r.year}</span>
           <span class="rko-report__title">Отчёт о деятельности</span>
         </a>
@@ -476,10 +476,13 @@ export function partner() {
   <section class="rko-subsection">
     ${sectionHead('Другие партнёры', [['Все партнёры', 'partners.html']])}
     <div class="row">
-      ${D.partners.slice(1, 7).map((x) => `<div class="col-6 col-md-4 col-lg-2 mb-3">
-        <a class="rko-partner__mini" href="${x.href}">
+      ${D.partners.slice(1, 7).map((x) => `<div class="col-sm-6 col-lg-4 mb-3">
+        <a class="media rko-partner__mini h-100" href="${x.href}">
           <span class="rko-partner__logo">${thumb(x.image, '')}</span>
-          <span>${esc(short(x.title, 44))}</span>
+          <span class="media-body">
+            <span class="rko-partner__mini-title">${esc(x.title)}</span>
+            ${x.site ? `<span class="rko-partner__mini-site">${esc(x.site.replace(/^https?:\/\/(www\.)?/, '').replace(/\/.*$/, ''))}</span>` : ''}
+          </span>
         </a>
       </div>`).join('\n')}
     </div>
