@@ -22,7 +22,9 @@ for (const file of pages) {
   ok(html.includes('assets/vendor/bootstrap-4.6.2.min.css'), file, 'не подключён Bootstrap 4.6.2');
   ok(html.indexOf('bootstrap-4.6.2.min.css') < html.indexOf('rko-theme.css'), file, 'тема должна идти после Bootstrap');
   ok(!/<p class="eyebrow"|rko-eyebrow/.test(html), file, 'над заголовком не должно быть надписи-ярлыка');
-  ok(html.includes('href="donate.html">Поддержать'), file, 'в шапке нет кнопки «Поддержать РКО»');
+  // Правка Аркона от 09.10.2026: «Поддержать» из шапки убрана; ссылка остаётся в подвале
+  ok(!/donate\.html/.test(html.match(/<header class="rko-header">[\s\S]*?<\/header>/)?.[0] || 'donate.html'), file, 'в шапке не должно быть кнопки «Поддержать»');
+  ok(/<footer[\s\S]*href="donate\.html">Поддержать РКО<\/a>/.test(html), file, 'в подвале должна остаться ссылка «Поддержать РКО»');
   // Правка Аркона от 09.10.2026: название с заглавных, новый девиз в шапке
   ok(!/Русск[а-яё]+\s+космическ[а-яё]+\s+[Оо]бществ|Русск[а-яё]+\s+Космическ[а-яё]+\s+обществ/.test(html), file, 'название Общества должно быть с заглавных букв');
   const headerHtml = html.match(/<header class="rko-header">[\s\S]*?<\/header>/)?.[0] || '';
@@ -101,7 +103,8 @@ if (process.argv.includes('--browser')) {
             crumbLeft: crumb ? Math.round(crumb.getBoundingClientRect().left) : null,
             mainLeft: Math.round((document.querySelector('.rko-pagehead .container > *, .rko-content > .row > div > *, .rko-hero .col-lg-6 > *')?.getBoundingClientRect().left) ?? -1),
             joinOffset,
-            supportVisible: !!support,
+            supportVisible: !!support || [...document.querySelectorAll('.rko-header a[href="donate.html"]')].some((a) => a.offsetParent),
+            mottoCentered: getComputedStyle(document.querySelector('.rko-header__motto')).textAlign === 'center',
             radius: card ? getComputedStyle(card).borderTopLeftRadius : null,
             smallText: [...document.querySelectorAll('main *')].filter((el) => el.childElementCount === 0 && el.textContent.trim() && parseFloat(getComputedStyle(el).fontSize) < 11 && el.offsetParent).length,
             // Скругления: в «Чётком» варианте их не должно быть ни у одного видимого элемента страницы
@@ -129,7 +132,8 @@ if (process.argv.includes('--browser')) {
         ok(info.inter, tag, 'основной шрифт не загрузился');
         if (info.crumbLeft != null && info.mainLeft >= 0 && !/login|restore|register/.test(file)) ok(Math.abs(info.crumbLeft - info.mainLeft) <= 1, tag, `крошки не по сетке: ${info.crumbLeft}px против ${info.mainLeft}px`);
         if (info.joinOffset != null) ok(info.joinOffset <= 1.5, tag, `текст кнопки «Присоединиться» смещён на ${info.joinOffset.toFixed(1)}px`);
-        if (width >= 360) ok(info.supportVisible, tag, 'кнопка «Поддержать РКО» не видна в шапке');
+        ok(!info.supportVisible, tag, 'кнопка «Поддержать» не должна быть в шапке');
+        if (width < 992) ok(info.mottoCentered, tag, 'девиз на телефоне должен стоять по центру');
         if (info.radius) ok(design === 'sharp' ? info.radius === '0px' : info.radius !== '0px', tag, `скругление блока ${info.radius} не соответствует варианту`);
         ok(info.smallText === 0, tag, `текст мельче 11px: ${info.smallText} элементов`);
         if (design === 'sharp') ok(info.rounded.length === 0, tag, `скруглённые элементы в «Чётком» варианте: ${info.rounded.join(' | ')}`);
@@ -159,13 +163,21 @@ if (process.argv.includes('--browser')) {
   const nav = await page.evaluate(() => document.querySelector('#rkoNav .nav-link').getBoundingClientRect().left);
   ok(nav >= 14, 'телефон', `пункты меню прижаты к краю (${nav}px)`);
   await mobile.close();
-  // Самый узкий экран: «Поддержать РКО» должна быть доступна хотя бы в раскрытом меню
+  // Самый узкий экран: название и кнопка «Меню» помещаются в одну строку
   const tiny = await browser.newContext({ viewport: { width: 320, height: 640 } });
   page = await tiny.newPage();
   await page.goto(`${base}news.html`, { waitUntil: 'networkidle' });
-  await page.click('.rko-toggler'); await page.waitForTimeout(500);
-  ok(await page.isVisible('#rkoNav a[href="donate.html"]'), 'экран 320px', 'в меню нет кнопки «Поддержать РКО»');
+  const top = await page.evaluate(() => ({ h: document.querySelector('.rko-header__top').getBoundingClientRect().height, label: !!document.querySelector('.rko-toggler__label').offsetParent }));
+  ok(top.h < 70 && top.label, 'экран 320px', `шапка: высота ${Math.round(top.h)}px, подпись «Меню» ${top.label ? 'видна' : 'скрыта'}`);
   await tiny.close();
+  // Главная: три слова заголовка трёх разных цветов и новый текст под ним
+  const heroCtx = await browser.newContext({ viewport: { width: 390, height: 800 } });
+  page = await heroCtx.newPage();
+  await page.goto(`${base}index.html`, { waitUntil: 'networkidle' });
+  const hero = await page.evaluate(() => ({ colors: [...document.querySelectorAll('.rko-hero__word')].map((w) => getComputedStyle(w).color), lead: document.querySelector('.rko-hero__lead').textContent }));
+  ok(hero.colors.length === 3 && new Set(hero.colors).size === 3, 'главная', `цвета слов заголовка: ${hero.colors.join(' / ')}`);
+  ok(hero.lead === 'Русское Космическое Общество сключает труд, науку, культуру, образование и проектную деятельность, с целью созидания ноосферно-космического будущего.', 'главная', 'текст под заголовком должен дословно совпадать с формулировкой Аркона');
+  await heroCtx.close();
 
   const desk = await browser.newContext({ viewport: { width: 1280, height: 800 } });
   page = await desk.newPage();
