@@ -387,8 +387,10 @@ form.rko-toolbar { border-bottom: 0; margin-bottom: 1rem; }
 @media (min-width: 768px) { .rko-hero { padding: 3.5rem 0 4rem; } .rko-hero__title { font-size: 4.25rem; } }
 @media (min-width: 1200px) { .rko-hero__title { font-size: 5rem; } }
 .rko-lead { background: var(--rko-surface); border: 1px solid var(--rko-line); border-radius: var(--rko-r); overflow: hidden; max-width: 34rem; }
-.rko-lead__img { display: block; background: var(--rko-sand); }
-.rko-lead__img img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
+/* Картинки заданных пропорций держит штатный .embed-responsive из Bootstrap.
+   Свойство aspect-ratio не используется: в Safari на айфоне оно растягивало блок и сдвигало картинку. */
+img.embed-responsive-item { object-fit: cover; max-width: none; }
+.rko-lead__img { background: var(--rko-sand); }
 .rko-lead__body { padding: 1.25rem 1.5rem 1.5rem; border-top: 4px solid var(--rko-red); }
 .rko-lead__title { font-size: 1.5rem; margin-bottom: .5rem; }
 .rko-lead__title a { color: var(--rko-ink); }
@@ -399,7 +401,7 @@ form.rko-toolbar { border-bottom: 0; margin-bottom: 1rem; }
 .rko-support__text { color: rgba(255, 255, 255, .82); margin: 0; max-width: 42rem; }
 @media (min-width: 768px) { .rko-support__title { font-size: 2.25rem; } }
 .rko-report { display: block; color: var(--rko-ink); }
-.rko-report img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: var(--rko-r); margin-bottom: .625rem; }
+.rko-report__img { border-radius: var(--rko-r); margin-bottom: .625rem; background: var(--rko-sand); }
 .rko-report__year { display: block; font-family: var(--rko-font-display); font-size: 1.5rem; line-height: 1.1; }
 .rko-report__title { display: block; font-size: .875rem; color: var(--rko-muted); }
 .rko-report:hover { text-decoration: none; color: var(--rko-red); }
@@ -408,8 +410,7 @@ form.rko-toolbar { border-bottom: 0; margin-bottom: 1rem; }
 
 /* ---------- 8. Мероприятия ---------- */
 .rko-event { display: flex; flex-direction: column; background: var(--rko-surface); border: 1px solid var(--rko-line); border-radius: var(--rko-r); overflow: hidden; }
-.rko-event__img { display: block; background: var(--rko-navy); }
-.rko-event__img img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
+.rko-event__img { background: var(--rko-navy); }
 .rko-event__body { padding: 1.125rem 1.25rem 1.25rem; flex: 1 1 auto; }
 .rko-event__when { display: flex; align-items: center; margin-bottom: .875rem; }
 .rko-event__date { flex: 0 0 3.5rem; width: 3.5rem; height: 3.5rem; display: flex; align-items: center; justify-content: center; margin-right: .875rem; background: var(--rko-navy); color: var(--rko-gold); font-family: var(--rko-font-display); font-size: 1.875rem; line-height: 1; border-radius: var(--rko-r-ctl); }
@@ -441,9 +442,9 @@ form.rko-toolbar { border-bottom: 0; margin-bottom: 1rem; }
 
 /* ---------- 9. Проекты и сборы ---------- */
 .rko-project { overflow: hidden; }
-.rko-project__img { display: flex; align-items: center; justify-content: center; background: var(--rko-sand); aspect-ratio: 2 / 1; padding: .875rem; }
-@media (min-width: 768px) { .rko-project__img { aspect-ratio: 16 / 9; } }
-.rko-project__img img { display: block; max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; }
+.rko-project__img { background: var(--rko-sand); }
+/* Эмблема проекта не обрезается: вписана целиком, с полем вокруг */
+.rko-project__img img.embed-responsive-item { object-fit: contain; padding: .875rem; }
 .rko-project__title { font-size: 1.0625rem; line-height: 1.35; margin: .25rem 0 1rem; }
 .rko-project__title a { color: var(--rko-ink); }
 .rko-project__title a:hover { color: var(--rko-red); text-decoration: none; }
@@ -512,7 +513,7 @@ a.rko-person__name:hover { color: var(--rko-red); text-decoration: none; }
 
 /* ---------- 11. Партнёры и контакты ---------- */
 .rko-partner__logo { flex: 0 0 76px; width: 76px; height: 76px; display: flex; align-items: center; justify-content: center; margin-right: 1.125rem; background: #fff; }
-.rko-partner__logo img { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; }
+.rko-partner__logo img { display: block; width: 100%; height: 100%; object-fit: contain; }
 .rko-partner__title { font-size: 1.125rem; margin: 0 0 .375rem; }
 @media (max-width: 575.98px) { .rko-partner .rko-partner__logo { flex-basis: 52px; width: 52px; height: 52px; margin-right: .875rem; } }
 .rko-partner__title a { color: var(--rko-ink); }
@@ -520,8 +521,12 @@ a.rko-person__name:hover { color: var(--rko-red); text-decoration: none; }
 .rko-partner p { font-size: .9375rem; color: var(--rko-muted); margin: 0 0 .5rem; line-height: 1.45; }
 .rko-partner__site { font-size: .875rem; font-weight: 600; }
 .rko-partner__plate { background: #fff; border: 1px solid var(--rko-line); padding: 1.5rem; text-align: center; border-radius: var(--rko-r); }
-.rko-partner__mini { display: block; color: var(--rko-ink); font-size: .8125rem; font-weight: 600; line-height: 1.3; }
-.rko-partner__mini .rko-partner__logo { margin: 0 0 .5rem; border: 1px solid var(--rko-line); padding: .375rem; }
+.rko-partner__mini { align-items: center; padding: .875rem 1rem; background: var(--rko-surface); border: 1px solid var(--rko-line); border-radius: var(--rko-r); color: var(--rko-ink); line-height: 1.3; transition: border-color .15s; }
+.rko-partner__mini:hover { border-color: var(--rko-ink); color: var(--rko-ink); text-decoration: none; }
+.rko-partner__mini:hover .rko-partner__mini-title { color: var(--rko-red); }
+.rko-partner__mini .rko-partner__logo { flex: 0 0 56px; width: 56px; height: 56px; margin-right: .875rem; }
+.rko-partner__mini-title { display: block; font-weight: 700; font-size: .9375rem; }
+.rko-partner__mini-site { display: block; font-size: .8125rem; color: var(--rko-muted); margin-top: .125rem; }
 .rko-contact { background: var(--rko-surface); border: 1px solid var(--rko-line); border-top: 4px solid var(--rko-ink); border-radius: var(--rko-r); padding: 1.25rem; height: 100%; }
 .rko-contact__title { font-family: var(--rko-font); font-size: 1.125rem; font-weight: 700; margin-bottom: .875rem; }
 .rko-contact address { margin-bottom: .875rem; }
@@ -554,6 +559,11 @@ a.rko-person__name:hover { color: var(--rko-red); text-decoration: none; }
 @media (min-width: 992px) { .rko-tiles { grid-template-columns: repeat(3, 1fr); } }
 .rko-tile { display: flex; align-items: center; min-height: 5rem; padding: 1rem 1.25rem; background: var(--rko-surface); border-right: 1px solid var(--rko-line); border-bottom: 1px solid var(--rko-line); color: var(--rko-ink); font-weight: 700; font-size: 1.0625rem; line-height: 1.3; }
 .rko-tile:hover { background: var(--rko-ink); color: #fff; text-decoration: none; }
+.rko-tile__icon { flex: 0 0 3rem; width: 3rem; height: 3rem; display: flex; align-items: center; justify-content: center; margin-right: 1rem; background: var(--rko-sand); color: var(--rko-navy); border-radius: var(--rko-r-ctl); transition: background-color .15s, color .15s; }
+.rko-tile:hover .rko-tile__icon { background: rgba(255, 255, 255, .12); color: var(--rko-gold); }
+/* Иконки: в «Чётком» варианте концы линий прямые, в «Гибриде» скруглённые */
+.rko-ico { display: block; stroke-linecap: square; stroke-linejoin: miter; }
+html[data-design="hybrid"] .rko-ico { stroke-linecap: round; stroke-linejoin: round; }
 html[data-design="hybrid"] .rko-tiles { border: 0; gap: .75rem; }
 html[data-design="hybrid"] .rko-tile { border: 1px solid var(--rko-line); border-radius: var(--rko-r); }
 

@@ -34,7 +34,7 @@ export function newsRow(n, { compact = false, typeLabel = '', h = 3 } = {}) {
 export function eventTile(e, h = 3) {
   const d = dateParts(e.date);
   return `<article class="rko-event h-100">
-    <a class="rko-event__img" href="${e.href}" tabindex="-1" aria-hidden="true">${thumb(e.image, '')}</a>
+    <a class="rko-event__img embed-responsive embed-responsive-16by9" href="${e.href}" tabindex="-1" aria-hidden="true">${thumb(e.image, '', 'embed-responsive-item')}</a>
     <div class="rko-event__body">
       <div class="rko-event__when">
         <time class="rko-event__date" datetime="${d.iso}">${d.day}</time>
@@ -82,18 +82,19 @@ export function fundraising(p, { large = false } = {}) {
   </div>`;
 }
 
-export function projectCard(p, h = 3) {
+// fund: false — карточка без блока сбора и кнопки поддержки (так на главной).
+export function projectCard(p, h = 3, { fund = true } = {}) {
   const filters = ['all', p.status, p.support && p.status !== 'Завершённый' ? 'support' : ''].filter(Boolean).join('|');
   return `<div class="col-md-6 col-lg-4 mb-4" data-rko-item="${esc(filters)}">
     <article class="card rko-project h-100">
-      <a class="rko-project__img" href="${p.href}" tabindex="-1" aria-hidden="true">${thumb(p.image, '')}</a>
+      <a class="rko-project__img embed-responsive embed-responsive-16by9" href="${p.href}" tabindex="-1" aria-hidden="true">${thumb(p.image, '', 'embed-responsive-item')}</a>
       <div class="card-body d-flex flex-column">
         <div class="rko-meta">${statusBadge(p.status)}${p.direction ? `<span>${esc(p.direction)}</span>` : ''}</div>
         <h${h} class="card-title rko-project__title"><a href="${p.href}">${esc(p.title)}</a></h${h}>
-        <div class="mt-auto">
+        ${fund ? `<div class="mt-auto">
           ${fundraising(p)}
           ${p.support && p.status !== 'Завершённый' ? `<a class="btn btn-outline-primary btn-sm rko-project__btn" href="${p.href}#support">Поддержать проект</a>` : ''}
-        </div>
+        </div>` : ''}
       </div>
     </article>
   </div>`;

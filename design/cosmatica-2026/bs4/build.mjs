@@ -11,6 +11,7 @@ import * as society from './src/pages-society.mjs';
 import * as activity from './src/pages-activity.mjs';
 import * as service from './src/pages-service.mjs';
 import { reviewMap } from './src/pages-review.mjs';
+import { ICONS, iconFile } from './src/icons.mjs';
 
 const builders = [
   society.home, society.newsList, society.newsItem, society.poster, society.posterItem, society.calendar,
@@ -39,4 +40,8 @@ for (const build of builders) {
   written.push(p.file);
 }
 const images = flushImages();
+const iconDir = path.join(ROOT, 'assets', 'img', 'icons');
+fs.rmSync(iconDir, { recursive: true, force: true });
+fs.mkdirSync(iconDir, { recursive: true });
+for (const name of Object.keys(ICONS)) fs.writeFileSync(path.join(iconDir, `${name}.svg`), iconFile(name));
 console.log(`Страниц: ${written.length}. Картинок: ${images.count} (${(images.bytes / 1048576).toFixed(1)} МБ). Версия: ${stamp}.`);
