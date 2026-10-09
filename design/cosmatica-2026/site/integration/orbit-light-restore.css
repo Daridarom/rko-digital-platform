@@ -1,0 +1,195 @@
+/*
+ * RKO Orbit Light 2026 — visual baseline restored from prototype.html?theme=orbit&mode=light.
+ * Default: faithful Orbit typography and colours. No archival content is changed.
+ * Optional concepts: ?design=construct (angular editorial cards);
+ *                    ?design=poster (angular cards + display-font experiment).
+ */
+:root {
+  --rko-orbit-red:#98161f;
+  --rko-orbit-ink:#11121c;
+  --rko-orbit-gold:#d6a72f;
+  --rko-orbit-cosmic:#080a2e;
+  --rko-display-font:Inter,"Avenir Next",-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;
+  --rko-display-weight:800;
+  --rko-display-track:-.04em;
+  --red:var(--rko-orbit-red);
+  --cosmic:var(--rko-orbit-cosmic);
+  --gold:var(--rko-orbit-gold);
+  --bg:#f6f6f2;
+  --surface:#fff;
+  --surface2:#eeece5;
+  --text:#11121c;
+  --muted:#686a74;
+  --line:#deddd7;
+}
+.dark{
+  --red:#c42d36;
+  --cosmic:#050718;
+  --gold:#e0b54b;
+  --bg:#070a20;
+  --surface:#10162f;
+  --surface2:#171d38;
+  --text:#f5f2ea;
+  --muted:#c1c4ce;
+  --line:#363e5c;
+}
+body {
+  font-family:var(--rko-display-font);
+  font-size:16px;
+  line-height:1.55;
+}
+h1,h2,h3,h4,
+.section-head h2,
+.source-content-group-title,
+.source-documents h2,
+.rich-section h2,
+.search-heading,
+.home-topic strong,
+.home-history-card h3{
+  font-family:var(--rko-display-font);
+  font-weight:var(--rko-display-weight);
+  letter-spacing:-.025em;
+  text-wrap:balance;
+  overflow-wrap:anywhere;
+}
+.home-hero h1,
+.page-hero h1,
+.source-headline h1,
+.sitemap h1{
+  font-family:var(--rko-display-font);
+  font-weight:800;
+  letter-spacing:var(--rko-display-track);
+  line-height:1.06;
+  text-wrap:balance;
+}
+.home-hero h1{
+  font-size:clamp(3rem,calc(1.8rem + 4vw),5.25rem);
+  letter-spacing:-.055em;
+  line-height:1.04;
+}
+.page-hero h1,.sitemap h1{
+  font-size:clamp(2rem,calc(1.2rem + 2vw),3.125rem);
+}
+.source-headline h1{
+  font-size:clamp(2rem,calc(1.2rem + 2vw),3.125rem);
+  line-height:1.09;
+}
+.source-headline.source-long-title h1{font-size:clamp(1.9rem,3vw,2.7rem)}
+.section-head h2{font-size:clamp(1.9375rem,calc(1.2rem + 2vw),3.125rem);line-height:1.08}
+.card h3,.source-card h3,.source-listing h3,.source-card--text .source-card-copy h3{
+  font-family:var(--rko-display-font);
+  font-weight:800;
+  letter-spacing:-.025em;
+  line-height:1.25;
+}
+.source-card-topic,.source-card-kind,.card .tag,.eyebrow{
+  color:var(--red);
+}
+.primary,.join-btn,.source-filter-submit,.demo-amount.active{
+  background:var(--red);
+  border-color:var(--red);
+  color:white;
+}
+.home-hero h1 span{color:var(--red)}
+.section-link,.home-card-action,.source-card-arrow,.source-card-topic{color:var(--red)}
+.identity-caption,.home-hero .identity-caption{border-color:var(--gold)}
+/* Square-corner design is not enabled by default. This is a separate concept. */
+html[data-rko-design="construct"] .card,
+html[data-rko-design="construct"] .source-card,
+html[data-rko-design="construct"] .home-topic,
+html[data-rko-design="construct"] .event-row,
+html[data-rko-design="construct"] .person,
+html[data-rko-design="construct"] .support-card,
+html[data-rko-design="construct"] .project-side,
+html[data-rko-design="construct"] .source-details,
+html[data-rko-design="construct"] .rich-metric,
+html[data-rko-design="construct"] .source-card-monogram,
+html[data-rko-design="construct"] .source-gallery-item,
+html[data-rko-design="construct"] .source-search-pages,
+html[data-rko-design="construct"] .side-card,
+html[data-rko-design="construct"] .auth-card,
+html[data-rko-design="construct"] .source-article-toc,
+html[data-rko-design="construct"] .source-listing--articles .source-card--section,
+html[data-rko-design="poster"] .card,
+html[data-rko-design="poster"] .source-card,
+html[data-rko-design="poster"] .home-topic,
+html[data-rko-design="poster"] .event-row,
+html[data-rko-design="poster"] .person,
+html[data-rko-design="poster"] .support-card,
+html[data-rko-design="poster"] .project-side,
+html[data-rko-design="poster"] .source-details,
+html[data-rko-design="poster"] .rich-metric,
+html[data-rko-design="poster"] .source-card-monogram,
+html[data-rko-design="poster"] .source-gallery-item,
+html[data-rko-design="poster"] .side-card,
+html[data-rko-design="poster"] .auth-card,
+html[data-rko-design="poster"] .source-article-toc,
+html[data-rko-design="poster"] .source-listing--articles .source-card--section{
+  border-radius:0;
+  box-shadow:none;
+}
+html[data-rko-design="construct"] .card,
+html[data-rko-design="construct"] .source-card,
+html[data-rko-design="construct"] .home-topic,
+html[data-rko-design="poster"] .card,
+html[data-rko-design="poster"] .source-card,
+html[data-rko-design="poster"] .home-topic{
+  border-top:2px solid var(--red);
+}
+html[data-rko-design="construct"] .card:hover,
+html[data-rko-design="construct"] .source-card:hover,
+html[data-rko-design="poster"] .card:hover,
+html[data-rko-design="poster"] .source-card:hover{
+  transform:none;
+  box-shadow:none;
+  background:var(--surface2);
+}
+html[data-rko-design="poster"] .home-hero h1,
+html[data-rko-design="poster"] .section-head h2,
+html[data-rko-design="poster"] .page-hero h1,
+html[data-rko-design="poster"] .source-headline h1{
+  font-family:"Russo One",var(--rko-display-font);
+  font-weight:400; /* The chosen display face has one genuine weight. */
+  letter-spacing:-.03em;
+}
+@media(max-width:640px){
+  .home-hero h1{
+    font-size:clamp(2.75rem,14vw,4.5rem);
+    letter-spacing:-.055em;
+    line-height:1.04;
+  }
+  .home-hero .lede{
+    font-size:clamp(1rem,3.9vw,1.125rem);
+    line-height:1.6;
+  }
+  .home-hero .hero-actions{
+    display:grid;
+    grid-template-columns:minmax(0,1fr);
+    gap:10px;
+    width:100%;
+  }
+  .home-hero .hero-actions .primary,
+  .home-hero .hero-actions .secondary{
+    width:100%;min-height:44px;
+    font-size:14px;
+    justify-content:center;
+  }
+  .section-head h2{font-size:clamp(1.875rem,8vw,2.5rem)}
+  .page-hero h1,.sitemap h1{font-size:clamp(1.9rem,8.6vw,2.5rem)}
+  .source-headline h1{font-size:clamp(1.9rem,8.1vw,2.5rem)}
+  .source-headline.source-long-title h1{font-size:clamp(1.625rem,6.9vw,2rem)}
+  .source-headline.source-extra-long-title h1{font-size:clamp(1.45rem,6.4vw,1.9rem)}
+  .card h3{font-weight:800}
+  .source-listing--articles .source-card--section h3{font-weight:800}
+}
+@media(prefers-reduced-motion:reduce){
+  .card,.source-card,.home-topic{transition:none}
+}
+
+/* Partner cards carry a more-specific canonical rule; keep both concepts angular. */
+html[data-rko-design="construct"] .source-page .source-listing .source-card,
+html[data-rko-design="poster"] .source-page .source-listing .source-card,
+html[data-rko-design="construct"] .source-page--archive-partners .source-listing .source-card,
+html[data-rko-design="poster"] .source-page--archive-partners .source-listing .source-card{
+  border-radius:0;
+}

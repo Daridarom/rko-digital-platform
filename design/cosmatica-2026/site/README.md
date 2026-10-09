@@ -17,6 +17,7 @@
 - [Сверка архива, отображаемых страниц и логотипов партнёров](./integration/DISPLAY_FIDELITY_2026-10-08.md)
 - [Мобильная видеопроверка и исправление загрузки разделов](./integration/VIDEO_LOAD_HANDOFF_2026-10-09.md)
 - [Мобильная проверка типов материалов и статусов проектов](./integration/VIDEO_SEMANTICS_AUDIT_2026-10-09.md)
+- [Возврат к Orbit Light и сравнение вариантов без скруглений и плакатного шрифта](./integration/ORBIT_LIGHT_REVIEW_2026-10-09.md)
 - [Независимый повторный софт-аудит: 5 дефектов и план улучшений](./integration/INDEPENDENT_SOFT_AUDIT_2026-10-09.md)
 - [Аудит изображений и новые блоки архива (09.10.2026)](./integration/CONTENT_IMAGE_SYSTEM_2026-10-09.md)
 - Проверка структуры: `node qa/check.mjs`
