@@ -38,7 +38,7 @@ function head(title) {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="theme-color" content="#f6f6f2">
-<title>${esc(title)} · Русское космическое общество</title>
+<title>${esc(title)} · Русское Космическое Общество</title>
 <script>/* только для просмотра макета: выбор варианта оформления */(function(){try{var q=new URLSearchParams(location.search).get('design'),s=q||localStorage.getItem('rko-design');if(s==='hybrid'||s==='sharp'){document.documentElement.setAttribute('data-design',s);if(q)localStorage.setItem('rko-design',s);}}catch(e){}})();</script>
 <link rel="icon" href="assets/img/rko-mark.svg" type="image/svg+xml">
 <link rel="preload" href="assets/fonts/inter-cyrillic-variable.woff2" as="font" type="font/woff2" crossorigin>
@@ -71,8 +71,8 @@ function header(active) {
       <a class="rko-brand d-flex align-items-center" href="index.html">
         <img class="rko-brand__mark" src="assets/img/rko-mark.svg" width="46" height="44" alt="Герб РКО «Прорыв»">
         <span class="rko-brand__text">
-          <strong>Русское космическое общество</strong>
-          <small class="d-none d-lg-block">Наука, культура, проекты, будущее</small>
+          <strong>Русское Космическое Общество</strong>
+          <small class="d-none d-lg-block">Будущее не определено — будущее определяет!</small>
         </span>
       </a>
       <div class="rko-header__actions ml-auto d-flex align-items-center">
@@ -120,7 +120,7 @@ function crumbs(list) {
 </nav>`;
 }
 
-// Заголовок страницы. Надписи «Русское космическое общество» над H1 нет — замечание Павла.
+// Заголовок страницы. Надписи «Русское Космическое Общество» над H1 нет — замечание Павла.
 export function pageHead(title, { lead = '', meta = '', tag = '' } = {}) {
   const t = clean(title);
   const size = t.length > 110 ? ' rko-h1--xlong' : t.length > 55 ? ' rko-h1--long' : '';
@@ -141,7 +141,7 @@ function footer() {
       <div class="col-lg-4 mb-4">
         <a class="rko-brand rko-brand--footer d-flex align-items-center" href="index.html">
           <span class="rko-brand__plate"><img class="rko-brand__mark" src="assets/img/rko-mark.svg" width="46" height="44" alt="Герб РКО «Прорыв»"></span>
-          <span class="rko-brand__text"><strong>Русское космическое общество</strong><small>Человек. Земля. Космос.</small></span>
+          <span class="rko-brand__text"><strong>Русское Космическое Общество</strong><small>Человек. Земля. Космос.</small></span>
         </a>
         <address class="rko-footer__address">
           107023, г. Москва, ул. Кржижановского, 21А<br>

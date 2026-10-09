@@ -32,10 +32,14 @@ const stamp = crypto.createHash('sha1')
   .update(fs.readFileSync(path.join(ROOT, 'assets/js/rko-review.js')))
   .digest('hex').slice(0, 8);
 
+// Название Общества пишется с заглавных букв во всех падежах — и в подписях макета, и в текстах выгрузки.
+const NAME = /Русск(ое|ого|ому|им|ом)(\s+)космическ(ое|ого|ому|им|ом)(\s+)[Оо]бществ(о|а|у|ом|е)(?![а-яё])/g;
+const properName = (html) => html.replace(NAME, 'Русск$1$2Космическ$3$4Обществ$5');
+
 const written = [];
 for (const build of builders) {
   const p = build();
-  const html = page(p).replace(/__BUILD__/g, stamp).replace(/[ \t]+\n/g, '\n').replace(/\n{3,}/g, '\n\n');
+  const html = properName(page(p)).replace(/__BUILD__/g, stamp).replace(/[ \t]+\n/g, '\n').replace(/\n{3,}/g, '\n\n');
   fs.writeFileSync(path.join(ROOT, p.file), html);
   written.push(p.file);
 }
