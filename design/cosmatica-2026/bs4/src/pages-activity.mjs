@@ -323,7 +323,30 @@ export function article() {
 }
 
 // ---------------------------------------------------------------- 24 Библиотека — список книг
+// Второй уровень разделов библиотеки. В выгрузке сайта подразделов нет — это пример наполнения,
+// чтобы показать оформление: раскрытый раздел, его подразделы и выбранный подраздел.
+const LIBRARY_SUB = {
+  'Основания русского космизма': ['Н.Ф. Фёдоров', 'К.Э. Циолковский', 'В.И. Вернадский', 'А.Л. Чижевский'],
+};
+const LIBRARY_OPEN = 'Основания русского космизма';
+const LIBRARY_CURRENT = 'К.Э. Циолковский';
+
 export function library() {
+  const caret = '<span class="rko-sidenav__caret" aria-hidden="true"></span>';
+  const navItem = (c) => {
+    const sub = LIBRARY_SUB[c];
+    if (!sub) return `<a class="list-group-item list-group-item-action" href="library.html">${esc(c)}</a>`;
+    const open = c === LIBRARY_OPEN;
+    return `<a class="list-group-item list-group-item-action rko-sidenav__parent${open ? ' is-open' : ''}" href="library.html"${open ? ' aria-expanded="true"' : ' aria-expanded="false"'}>${esc(c)}${caret}</a>
+          ${open ? `<div class="rko-sidenav__sub" role="group" aria-label="${esc(c)}: подразделы">
+            ${sub.map((s) => `<a class="list-group-item list-group-item-action${s === LIBRARY_CURRENT ? ' active' : ''}" href="library.html"${s === LIBRARY_CURRENT ? ' aria-current="page"' : ''}>${esc(s)}</a>`).join('\n            ')}
+          </div>` : ''}`;
+  };
+  const option = (c) => {
+    const sub = LIBRARY_SUB[c];
+    if (!sub) return `<option>${esc(c)}</option>`;
+    return `<optgroup label="${esc(c)}"><option>${esc(c)} — все</option>${sub.map((s) => `<option${s === LIBRARY_CURRENT ? ' selected' : ''}>${esc(s)}</option>`).join('')}</optgroup>`;
+  };
   const body = `${pageHead('Библиотека', { lead: D.INTRO.library })}
 <div class="container rko-content">
   <div class="row">
@@ -331,15 +354,16 @@ export function library() {
       <div class="d-lg-none mb-3">
         <label class="sr-only" for="libraryCategory">Раздел библиотеки</label>
         <select class="custom-select" id="libraryCategory">
-          <option selected>Все разделы</option>
-          ${LIBRARY_CATEGORIES.map((c) => `<option>${esc(c)}</option>`).join('')}
+          <option>Все разделы</option>
+          ${LIBRARY_CATEGORIES.map(option).join('')}
         </select>
       </div>
       <nav class="d-none d-lg-block" aria-label="Разделы библиотеки">
         <div class="list-group list-group-flush rko-sidenav">
-          <a class="list-group-item list-group-item-action active" href="library.html" aria-current="page">Все разделы</a>
-          ${LIBRARY_CATEGORIES.map((c) => `<a class="list-group-item list-group-item-action" href="library.html">${esc(c)}</a>`).join('\n          ')}
+          <a class="list-group-item list-group-item-action" href="library.html">Все разделы</a>
+          ${LIBRARY_CATEGORIES.map(navItem).join('\n          ')}
         </div>
+        ${sampleNote('Пример наполнения: подразделы «Оснований русского космизма» условные, в выгрузке сайта их нет. Так оформлен второй уровень любого раздела.')}
       </nav>
     </aside>
     <div class="col-lg-9">

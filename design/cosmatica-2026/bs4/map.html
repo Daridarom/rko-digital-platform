@@ -1,16 +1,16 @@
 <!doctype html>
-<html lang="ru">
+<html lang="ru" data-design="hybrid">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="theme-color" content="#f6f6f2">
 <title>Карта макетов · Русское Космическое Общество</title>
-<script>/* только для просмотра макета: выбор варианта оформления */(function(){try{var q=new URLSearchParams(location.search).get('design'),s=q||localStorage.getItem('rko-design');if(s==='hybrid'||s==='sharp'){document.documentElement.setAttribute('data-design',s);if(q)localStorage.setItem('rko-design',s);}}catch(e){}})();</script>
+<script>/* только для просмотра макета: основной вариант — «Гибрид» (решение конференции), «Чёткий» можно включить панелью внизу */(function(){try{var q=new URLSearchParams(location.search).get('design'),s=q||localStorage.getItem('rko-design-2');if(s==='sharp')document.documentElement.removeAttribute('data-design');if(q==='hybrid'||q==='sharp')localStorage.setItem('rko-design-2',q);}catch(e){}})();</script>
 <link rel="icon" href="assets/img/rko-mark.svg" type="image/svg+xml">
 <link rel="preload" href="assets/fonts/inter-cyrillic-variable.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="assets/fonts/russo-one-regular.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="stylesheet" href="assets/vendor/bootstrap-4.6.2.min.css">
-<link rel="stylesheet" href="assets/css/rko-theme.css?v=ba15ac7c">
+<link rel="stylesheet" href="assets/css/rko-theme.css?v=01a91410">
 </head>
 <body>
 <a class="sr-only sr-only-focusable rko-skip" href="#main">К содержанию</a>
@@ -285,7 +285,7 @@
           <td>18</td>
           <th scope="row"><a href="project.html">Страница проекта</a></th>
           <td>Вариации левой колонки по типу и статусу сбора. Кнопка донатов. «Сайт» во всю ширину — плохо. Блок перенести вправо, как у мероприятия.</td>
-          <td>Сведения и сбор — в правой колонке. Четыре состояния: поддержка без сбора, сбор с целью, сбор без цели, проект завершён.</td>
+          <td>Сведения и сбор — в правой колонке. Четыре состояния: поддержка без сбора, сбор с целью, сбор без цели, проект завершён. Правка 07.11.2026: статус под названием крупнее, с полем вокруг текста.</td>
           <td><span class="badge badge-success">Сделано</span></td>
         </tr>
         <tr>
@@ -327,7 +327,7 @@
           <td>24</td>
           <th scope="row"><a href="library.html">Библиотека — список книг</a></th>
           <td>Блоки уменьшить, использовать список: одна книга — одна строка. После обновления вёрстка поехала.</td>
-          <td>Список: маленькая обложка, название, автор, аннотация, размер файла. Слева разделы.</td>
+          <td>Список: маленькая обложка, название, автор, аннотация, размер файла. Слева разделы. Правка 07.11.2026: второй уровень разделов — раскрытый раздел, подразделы с отступом, выбранный подраздел красным (подразделы в макете условные).</td>
           <td><span class="badge badge-success">Сделано</span></td>
         </tr>
         <tr>
@@ -347,8 +347,8 @@
         <tr>
           <td>27</td>
           <th scope="row"><a href="donate.html">Поддержать РКО</a></th>
-          <td>Не нашёл страницы в макетах.</td>
-          <td>Страница есть: текст, форма суммы, проекты со сбором. Ссылка на неё — в подвале и в блоке на главной; из шапки кнопка убрана по правке Аркона.</td>
+          <td>Правка 07.11.2026: вводный текст и пояснение — поддержка адресная или на развитие РКО; актуальные проекты (первый крупно, три плиткой) с картинкой, описанием, суммами и кнопкой; ниже форма поддержки РКО; справа новости проектов о результатах расходования средств.</td>
+          <td>Сделано в этом порядке. Главный проект — во всю ширину основной колонки, справа лента новостей. В форме можно выбрать, куда направить: на развитие РКО или в проект.</td>
           <td><span class="badge badge-success">Сделано</span></td>
         </tr>
         <tr>
@@ -474,7 +474,7 @@
 </footer>
 <script src="assets/vendor/jquery-3.5.1.slim.min.js"></script>
 <script src="assets/vendor/bootstrap-4.6.2.bundle.min.js"></script>
-<script src="assets/js/rko.js?v=ba15ac7c"></script>
-<script src="assets/js/rko-review.js?v=ba15ac7c"></script>
+<script src="assets/js/rko.js?v=01a91410"></script>
+<script src="assets/js/rko-review.js?v=01a91410"></script>
 </body>
 </html>

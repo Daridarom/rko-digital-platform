@@ -1,16 +1,16 @@
 <!doctype html>
-<html lang="ru">
+<html lang="ru" data-design="hybrid">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="theme-color" content="#f6f6f2">
 <title>Поддержать РКО · Русское Космическое Общество</title>
-<script>/* только для просмотра макета: выбор варианта оформления */(function(){try{var q=new URLSearchParams(location.search).get('design'),s=q||localStorage.getItem('rko-design');if(s==='hybrid'||s==='sharp'){document.documentElement.setAttribute('data-design',s);if(q)localStorage.setItem('rko-design',s);}}catch(e){}})();</script>
+<script>/* только для просмотра макета: основной вариант — «Гибрид» (решение конференции), «Чёткий» можно включить панелью внизу */(function(){try{var q=new URLSearchParams(location.search).get('design'),s=q||localStorage.getItem('rko-design-2');if(s==='sharp')document.documentElement.removeAttribute('data-design');if(q==='hybrid'||q==='sharp')localStorage.setItem('rko-design-2',q);}catch(e){}})();</script>
 <link rel="icon" href="assets/img/rko-mark.svg" type="image/svg+xml">
 <link rel="preload" href="assets/fonts/inter-cyrillic-variable.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="assets/fonts/russo-one-regular.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="stylesheet" href="assets/vendor/bootstrap-4.6.2.min.css">
-<link rel="stylesheet" href="assets/css/rko-theme.css?v=ba15ac7c">
+<link rel="stylesheet" href="assets/css/rko-theme.css?v=01a91410">
 </head>
 <body>
 <a class="sr-only sr-only-focusable rko-skip" href="#main">К содержанию</a>
@@ -142,100 +142,150 @@
 </div>
 <div class="container rko-content">
   <div class="row">
-    <div class="col-lg-7">
+    <div class="col-lg-8">
       <article class="rko-article">
         <p>Мы верим в то, что можем и должны сделать так, чтобы наш народ и наша страна вновь и уже навсегда стали лидером в деле сохранения и развития Жизни на Земле и в космосе. Русское Космическое Общество – это <a href="users.html">люди</a>, объединившиеся в <a href="about.html">особый период</a>, который переживает наша страна и вся Земная цивилизация. Мы объединились во имя священного дела мира и развития. Мы разные, но нас объединяет одно – <a href="about.html">Общее Дело</a> и <a href="about.html">Общая Цель</a>.</p>
 <p>Достичь успеха можно только делами. Слов не достаточно. Только результаты, выраженные и проявленные в реальном мире – есть мерило эффективности деятельности.</p>
 <p>Знакомьтесь с <a href="news.html">плодами наших трудов</a>. Познакомившись, <a href="article.html">присоединяйтесь</a>, или поддержите нас в тех делах, которые мы совершаем. Вы можете поддержать конкретный <a href="projects.html">проект</a> или деятельность Русского Космического Общества в целом.<br><br>Вместе с Вами мы сделаем то, что должны!</p>
       </article>
-    </div>
-    <div class="col-lg-5 mt-4 mt-lg-0">
-      <section class="rko-widget rko-widget--card rko-support-card" id="support">
-        <h2 class="rko-widget__title">Поддержать деятельность Общества</h2>
-        <form data-rko-demo novalidate>
-          <label for="donateSum">Сумма, ₽</label>
-          <div class="btn-group rko-sums" role="group" aria-label="Быстрый выбор суммы">
-            <button type="button" class="btn btn-outline-dark" data-rko-sum="500">500 ₽</button><button type="button" class="btn btn-outline-dark" data-rko-sum="1000">1 000 ₽</button><button type="button" class="btn btn-outline-dark" data-rko-sum="3000">3 000 ₽</button><button type="button" class="btn btn-outline-dark" data-rko-sum="5000">5 000 ₽</button>
-          </div>
-          <input class="form-control form-control-lg" id="donateSum" type="number" min="100" step="100" value="1000" inputmode="numeric">
-          <button class="btn btn-support btn-lg btn-block" type="submit">Поддержать РКО</button>
-        </form>
-        <p class="rko-demo-note">Это макет: данные никуда не отправляются.</p>
-      </section>
-    </div>
-  </div>
-  <section class="rko-subsection">
-    <div class="rko-sechead d-flex flex-wrap align-items-end">
-  <h2 class="rko-h2 mb-0">Проекты, которым нужна поддержка</h2>
+      <div class="row rko-ways">
+        <div class="col-md-6 mb-3">
+          <a class="rko-way" href="#projects">
+            <span class="rko-way__title">Адресно — конкретному проекту</span>
+            <span class="rko-way__text">Выберите проект ниже: средства пойдут только на него. На странице проекта видно, сколько нужно и сколько уже собрано.</span>
+            <span class="rko-way__go">К проектам ↓</span>
+          </a>
+        </div>
+        <div class="col-md-6 mb-3">
+          <a class="rko-way rko-way--general" href="#support">
+            <span class="rko-way__title">На развитие РКО в целом</span>
+            <span class="rko-way__text">Общая поддержка деятельности Общества: работа отделений, мероприятия, издания и сайт.</span>
+            <span class="rko-way__go">К форме поддержки ↓</span>
+          </a>
+        </div>
+      </div>
+
+      <section class="rko-subsection" id="projects">
+        <div class="rko-sechead d-flex flex-wrap align-items-end">
+  <h2 class="rko-h2 mb-0">Актуальные проекты</h2>
   <div class="rko-sechead__links ml-auto"><a class="rko-more" href="projects.html#support">Все проекты</a></div>
 </div>
-    <div class="row">
-      <div class="col-md-6 col-lg-4 mb-4" data-rko-item="all|Действующий|support">
-    <article class="card rko-project h-100">
-      <a class="rko-project__img embed-responsive embed-responsive-16by9" href="project.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/7f863ab5da8a2ceca0b1ffed.webp" alt="" class="embed-responsive-item" width="252" height="256" loading="lazy"></a>
-      <div class="card-body d-flex flex-column">
-        <div class="rko-meta"><span class="badge rko-status rko-status--current">Действующий</span><span>Образование</span></div>
-        <h3 class="card-title rko-project__title"><a href="project.html">Всенародное детско-юношеское общественное движение Русского Космического Общества - &quot;Дружина Гагаринцев&quot;</a></h3>
-        <div class="mt-auto">
-
-          <a class="btn btn-outline-primary btn-sm rko-project__btn" href="project.html#support">Поддержать проект</a>
+        <article class="card rko-project rko-feature">
+      <div class="row no-gutters">
+        <div class="col-md-5">
+          <a class="rko-feature__img" href="project-fundraising.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/3192e7355e11f027f09726a3.webp" alt="" width="256" height="256" loading="lazy"></a>
         </div>
-      </div>
-    </article>
-  </div>
-<div class="col-md-6 col-lg-4 mb-4" data-rko-item="all|Действующий|support">
-    <article class="card rko-project h-100">
-      <a class="rko-project__img embed-responsive embed-responsive-16by9" href="project-collecting.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/7b8dcf9128e506fb43a4fea6.webp" alt="" class="embed-responsive-item" width="256" height="256" loading="lazy"></a>
-      <div class="card-body d-flex flex-column">
-        <div class="rko-meta"><span class="badge rko-status rko-status--current">Действующий</span><span>Образование</span></div>
-        <h3 class="card-title rko-project__title"><a href="project-collecting.html">Школьные ботаны - 2: Русский Леонардо</a></h3>
-        <div class="mt-auto">
-          <div class="rko-fund">
-    <div class="rko-fund__sum"><b>15 500 ₽</b> <span>собрано</span></div>
-    <div class="rko-fund__note">Цель сбора не указана</div>
-  </div>
-          <a class="btn btn-outline-primary btn-sm rko-project__btn" href="project-collecting.html#support">Поддержать проект</a>
-        </div>
-      </div>
-    </article>
-  </div>
-<div class="col-md-6 col-lg-4 mb-4" data-rko-item="all|Действующий|support">
-    <article class="card rko-project h-100">
-      <a class="rko-project__img embed-responsive embed-responsive-16by9" href="project-fundraising.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/3192e7355e11f027f09726a3.webp" alt="" class="embed-responsive-item" width="256" height="256" loading="lazy"></a>
-      <div class="card-body d-flex flex-column">
-        <div class="rko-meta"><span class="badge rko-status rko-status--current">Действующий</span><span>Издательство</span></div>
-        <h3 class="card-title rko-project__title"><a href="project-fundraising.html">Переиздание ключевых книг РКО - 2026</a></h3>
-        <div class="mt-auto">
-          <div class="rko-fund">
+        <div class="col-md-7">
+          <div class="card-body">
+            <div class="rko-meta"><span class="badge rko-status rko-status--current">Действующий</span><span>Издательство</span></div>
+            <h3 class="rko-feature__title"><a href="project-fundraising.html">Переиздание ключевых книг РКО - 2026</a></h3>
+            <p class="rko-feature__text">Друзья, соратники, содеи! Приглашаем проявить Целеустремлённость и Волю и внести часть своей жизненной энергии в очередное издание книг Русского Космического Общества. Сегодня эти книги – наше главное оружие в борьбе за Жизнь,…</p>
+            <div class="rko-fund rko-fund--lg">
       <div class="rko-fund__sum"><b>1 000 ₽</b> <span>из 250 000 ₽</span></div>
       <div class="progress"><div class="progress-bar" role="progressbar" style="width:1%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" aria-label="Собрано меньше 1% от нужной суммы"></div></div>
       <div class="rko-fund__note">Собрано меньше 1% · осталось 249 000 ₽</div>
     </div>
-          <a class="btn btn-outline-primary btn-sm rko-project__btn" href="project-fundraising.html#support">Поддержать проект</a>
+            <a class="btn btn-primary btn-lg mt-3" href="project-fundraising.html#support">Поддержать проект</a>
+          </div>
         </div>
       </div>
     </article>
+        <div class="row">
+          <div class="col-md-4 mb-4">
+      <article class="card rko-project rko-project--compact h-100">
+        <a class="rko-project__img embed-responsive embed-responsive-16by9" href="project-collecting.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/7b8dcf9128e506fb43a4fea6.webp" alt="" class="embed-responsive-item" width="256" height="256" loading="lazy"></a>
+        <div class="card-body d-flex flex-column">
+          <h3 class="card-title rko-project__title"><a href="project-collecting.html">Школьные ботаны - 2: Русский Леонардо</a></h3>
+          <p class="rko-project__text">Проект, который пишется миллионами сердец: Станьте созидателем национального кинофеномена! Мы…</p>
+          <div class="mt-auto">
+            <div class="rko-fund">
+    <div class="rko-fund__sum"><b>15 500 ₽</b> <span>собрано</span></div>
+    <div class="rko-fund__note">Цель сбора не указана</div>
   </div>
-    </div>
-  </section>
-  <section class="rko-subsection">
-    <div class="row">
-      <div class="col-md-6 mb-4">
-        <div class="rko-contact">
-          <h2 class="rko-contact__title">Помочь делом</h2>
-          <p>У нас множество потребностей, требующих просто времени и обычных человеческих рук. Любой человек может быть полезен в Общем Деле.</p>
-          <a class="rko-more" href="article.html">Стать добровольцем</a>
+            <a class="btn btn-primary btn-sm btn-block rko-project__btn" href="project-collecting.html#support">Поддержать проект</a>
+          </div>
         </div>
-      </div>
-      <div class="col-md-6 mb-4">
-        <div class="rko-contact">
-          <h2 class="rko-contact__title">Вступить в Общество</h2>
-          <p>Кто может стать членом и участником РКО и как подать заявление.</p>
-          <a class="rko-more" href="article.html">О вступлении в РКО</a>
-        </div>
-      </div>
+      </article>
     </div>
-  </section>
+<div class="col-md-4 mb-4">
+      <article class="card rko-project rko-project--compact h-100">
+        <a class="rko-project__img embed-responsive embed-responsive-16by9" href="project.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/7f863ab5da8a2ceca0b1ffed.webp" alt="" class="embed-responsive-item" width="252" height="256" loading="lazy"></a>
+        <div class="card-body d-flex flex-column">
+          <h3 class="card-title rko-project__title"><a href="project.html">Всенародное детско-юношеское общественное движение Русского…</a></h3>
+          <p class="rko-project__text">Межрегиональная общественная организация в сфере изучения и популяризации космонавтики «Русское…</p>
+          <div class="mt-auto">
+            <div class="rko-fund">
+    <div class="rko-fund__sum"><b>0 ₽</b> <span>собрано</span></div>
+    <div class="rko-fund__note">Цель сбора не указана</div>
+  </div>
+            <a class="btn btn-primary btn-sm btn-block rko-project__btn" href="project.html#support">Поддержать проект</a>
+          </div>
+        </div>
+      </article>
+    </div>
+<div class="col-md-4 mb-4">
+      <article class="card rko-project rko-project--compact h-100">
+        <a class="rko-project__img embed-responsive embed-responsive-16by9" href="project.html" tabindex="-1" aria-hidden="true"><img src="assets/img/src/dd654147984919b45d43cbb5.webp" alt="" class="embed-responsive-item" width="312" height="256" loading="lazy"></a>
+        <div class="card-body d-flex flex-column">
+          <h3 class="card-title rko-project__title"><a href="project.html">Битва за будущее - Русский рубеж</a></h3>
+          <p class="rko-project__text">Ветераны СВО берут на себя ответственность за будущее детей России. Как не раз брали…</p>
+          <div class="mt-auto">
+            <div class="rko-fund">
+    <div class="rko-fund__sum"><b>0 ₽</b> <span>собрано</span></div>
+    <div class="rko-fund__note">Цель сбора не указана</div>
+  </div>
+            <a class="btn btn-primary btn-sm btn-block rko-project__btn" href="project.html#support">Поддержать проект</a>
+          </div>
+        </div>
+      </article>
+    </div>
+        </div>
+        <p class="rko-cut">Пример наполнения: в выгрузке сайта цель сбора есть только у «Переиздания ключевых книг», а сбор открыт у трёх проектов. Четвёртая плитка и пустые цели показывают, как блок выглядит, когда поля заполнены в CMS.</p>
+      </section>
+
+      <section class="rko-subsection" id="support">
+        <div class="rko-sechead d-flex flex-wrap align-items-end">
+  <h2 class="rko-h2 mb-0">Поддержать развитие РКО</h2>
+  <div class="rko-sechead__links ml-auto"></div>
+</div>
+        <div class="rko-widget rko-widget--card rko-support-card rko-donate-form">
+          <form data-rko-demo novalidate>
+            <label for="donateTarget">Куда направить</label>
+            <select class="custom-select" id="donateTarget">
+              <option selected>На развитие РКО в целом</option>
+              <option>Проект: Всенародное детско-юношеское общественное движение Русского…</option><option>Проект: Школьные ботаны - 2: Русский Леонардо</option><option>Проект: Переиздание ключевых книг РКО - 2026</option>
+            </select>
+            <label for="donateSum">Сумма, ₽</label>
+            <div class="btn-group rko-sums" role="group" aria-label="Быстрый выбор суммы">
+              <button type="button" class="btn btn-outline-dark" data-rko-sum="500">500 ₽</button><button type="button" class="btn btn-outline-dark" data-rko-sum="1000">1 000 ₽</button><button type="button" class="btn btn-outline-dark" data-rko-sum="3000">3 000 ₽</button><button type="button" class="btn btn-outline-dark" data-rko-sum="5000">5 000 ₽</button>
+            </div>
+            <input class="form-control form-control-lg" id="donateSum" type="number" min="100" step="100" value="1000" inputmode="numeric">
+            <button class="btn btn-support btn-lg btn-block" type="submit">Поддержать РКО</button>
+          </form>
+          <p class="rko-demo-note">Это макет: данные никуда не отправляются.</p>
+        </div>
+      </section>
+    </div>
+    <aside class="col-lg-4 rko-aside">
+      <section class="rko-widget">
+  <h2 class="rko-widget__title">Новости проектов</h2>
+  <p class="rko-cut mt-0">Что сделано на собранные средства.</p><ul class="list-unstyled rko-minilist"><li class="rko-mini">
+      <div class="rko-meta"><time datetime="2026-10-07">7 октября 2026</time><a class="rko-tag" href="project.html">Переиздание ключевых книг РКО - 2026</a></div>
+      <a class="rko-mini__title" href="news-item.html">Переиздание ключевых книг РКО</a>
+    </li><li class="rko-mini">
+      <div class="rko-meta"><time datetime="2026-10-01">1 октября 2026</time><a class="rko-tag" href="project.html">Спортивный клуб Русского Космического Общества</a></div>
+      <a class="rko-mini__title" href="news-item.html">Шахматный фестиваль ветеранов прошёл в Москве</a>
+    </li><li class="rko-mini">
+      <div class="rko-meta"><time datetime="2026-09-09">9 сентября 2026</time><a class="rko-tag" href="project.html">Всемирное движение Русского Космического Общества &quot;Гагаринский сад&quot;</a></div>
+      <a class="rko-mini__title" href="news-item.html">Гагаринский сад. Осень - время сажать!</a>
+    </li><li class="rko-mini">
+      <div class="rko-meta"><time datetime="2026-09-25">25 сентября 2026</time><a class="rko-tag" href="project.html">Литературный проект &quot;Просто Фантастика!&quot;</a></div>
+      <a class="rko-mini__title" href="news-item.html">Фантастика расправляет крылья молодым!</a>
+    </li></ul><p class="rko-cut">Пример наполнения: в ленту попадают новости проектов о наглядных результатах расходования средств — в CMS это отметка у новости.</p>
+  <a class="rko-more" href="news.html">Все новости</a>
+</section>
+    </aside>
+  </div>
 </div>
 </main>
 <footer class="rko-footer">
@@ -300,7 +350,7 @@
 </footer>
 <script src="assets/vendor/jquery-3.5.1.slim.min.js"></script>
 <script src="assets/vendor/bootstrap-4.6.2.bundle.min.js"></script>
-<script src="assets/js/rko.js?v=ba15ac7c"></script>
-<script src="assets/js/rko-review.js?v=ba15ac7c"></script>
+<script src="assets/js/rko.js?v=01a91410"></script>
+<script src="assets/js/rko-review.js?v=01a91410"></script>
 </body>
 </html>

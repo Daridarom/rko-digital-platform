@@ -345,6 +345,16 @@ form.rko-toolbar { border-bottom: 0; margin-bottom: 1rem; }
 .rko-widget__project { display: block; font-weight: 700; color: var(--rko-ink); line-height: 1.35; margin-bottom: .875rem; }
 .rko-sidenav .list-group-item { padding: .625rem .75rem; font-size: .9375rem; border-left: 0; border-right: 0; }
 .rko-sidenav .list-group-item:first-child { border-top: 0; }
+/* Второй уровень разделов: раскрытый раздел, подразделы с отступом и линией слева */
+.rko-sidenav__parent { display: flex; align-items: center; justify-content: space-between; }
+.rko-sidenav__caret { flex: 0 0 auto; width: .5rem; height: .5rem; margin-left: .5rem; border-right: 2px solid currentColor; border-bottom: 2px solid currentColor; transform: rotate(-45deg); opacity: .55; transition: transform .15s; }
+.rko-sidenav__parent.is-open { font-weight: 700; color: var(--rko-ink); }
+.rko-sidenav__parent.is-open .rko-sidenav__caret { transform: rotate(45deg); opacity: 1; }
+.rko-sidenav__sub { margin: 0 0 .5rem .75rem; border-left: 2px solid var(--rko-line); }
+.rko-sidenav .rko-sidenav__sub .list-group-item { border: 0; padding: .4375rem .75rem .4375rem 1rem; font-size: .875rem; color: var(--rko-muted); margin-left: -2px; border-left: 2px solid transparent; }
+.rko-sidenav .rko-sidenav__sub .list-group-item:hover { color: var(--rko-red); }
+.rko-sidenav .rko-sidenav__sub .list-group-item.active { background: transparent; color: var(--rko-red); font-weight: 700; border-left-color: var(--rko-red); }
+.rko-sidenav + .rko-cut { font-size: .8125rem; }
 
 .rko-facts { margin: 0; }
 .rko-facts dt { font-size: .8125rem; font-weight: 400; color: var(--rko-muted); }
@@ -456,6 +466,8 @@ img.embed-responsive-item { object-fit: cover; max-width: none; }
 .rko-project__plate { background: var(--rko-sand); padding: 1rem; text-align: center; margin-bottom: 1.125rem; border-radius: var(--rko-r-ctl); }
 .rko-project__plate img { max-height: 11rem; width: auto; }
 .rko-status { color: #fff; }
+/* Статус под названием проекта: крупнее и с полем вокруг текста */
+.rko-pagehead__meta .rko-status { font-size: .8125rem; padding: .4375rem .875rem; line-height: 1.2; }
 .rko-status--current { background: var(--rko-navy); }
 .rko-status--strategy { background: var(--rko-red); }
 .rko-status--planned { background: transparent; color: var(--rko-ink); box-shadow: inset 0 0 0 1px var(--rko-ink); }
@@ -473,6 +485,29 @@ img.embed-responsive-item { object-fit: cover; max-width: none; }
 .rko-support-card__note { font-size: .8125rem; color: var(--rko-muted); margin: .875rem 0 0; }
 .rko-widget + .rko-widget--card, .rko-support-card + .rko-widget--card { margin-top: 1.5rem; }
 .rko-sticky .rko-widget { margin-bottom: 1.5rem; }
+
+/* Страница «Поддержать РКО»: два пути поддержки, главный проект, плитки проектов */
+.rko-ways { margin-top: 1.5rem; }
+.rko-way { display: block; height: 100%; background: var(--rko-surface); border: 1px solid var(--rko-line); border-top: 4px solid var(--rko-ink); border-radius: var(--rko-r); padding: 1.125rem 1.25rem; color: var(--rko-ink); }
+.rko-way--general { border-top-color: var(--rko-red); }
+.rko-way:hover { text-decoration: none; color: var(--rko-ink); border-color: var(--rko-ink); }
+.rko-way__title { display: block; font-weight: 700; font-size: 1.0625rem; margin-bottom: .375rem; }
+.rko-way__text { display: block; font-size: .9375rem; color: var(--rko-muted); line-height: 1.45; }
+.rko-way__go { display: inline-block; margin-top: .625rem; font-weight: 600; font-size: .9375rem; color: var(--rko-red); }
+.rko-feature { overflow: hidden; margin-bottom: 1.5rem; }
+.rko-feature__img { display: block; height: 100%; min-height: 14rem; background: var(--rko-sand); }
+.rko-feature__img img { width: 100%; height: 100%; object-fit: contain; padding: 1.25rem; }
+.rko-feature .card-body { padding: 1.5rem; }
+.rko-feature__title { font-size: 1.5rem; line-height: 1.2; margin: .375rem 0 .75rem; }
+.rko-feature__title a, .rko-project--compact .rko-project__title a { color: var(--rko-ink); }
+.rko-feature__text { color: var(--rko-muted); font-size: .9375rem; margin-bottom: 1.25rem; }
+.rko-project--compact .card-body { padding: 1rem; }
+.rko-project--compact .rko-project__title { font-size: 1rem; margin: .25rem 0 .375rem; }
+.rko-project__text { font-size: .875rem; color: var(--rko-muted); line-height: 1.45; margin-bottom: .875rem; }
+.rko-project--compact .rko-fund__sum b { font-size: 1rem; }
+.rko-donate-form { max-width: 34rem; }
+.rko-donate-form .custom-select { margin-bottom: 1rem; }
+.rko-support-card.rko-donate-form form { margin-top: 0; }
 
 /* ---------- 10. Люди и органы управления ---------- */
 .rko-person { align-items: center; }

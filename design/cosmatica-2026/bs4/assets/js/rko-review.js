@@ -10,8 +10,8 @@
   bar.setAttribute('aria-label', 'Панель просмотра макета');
   bar.innerHTML =
     '<span class="rko-review__label">Вариант</span>' +
-    '<button type="button" data-design="sharp">Чёткий</button>' +
     '<button type="button" data-design="hybrid">Гибрид</button>' +
+    '<button type="button" data-design="sharp">Чёткий</button>' +
     '<a href="map.html">Карта макетов</a>';
   document.body.appendChild(bar);
 
@@ -19,7 +19,7 @@
     current = design;
     if (design === 'hybrid') root.setAttribute('data-design', 'hybrid');
     else root.removeAttribute('data-design');
-    try { localStorage.setItem('rko-design', design); } catch (e) { /* хранилище может быть недоступно */ }
+    try { localStorage.setItem('rko-design-2', design); } catch (e) { /* хранилище может быть недоступно */ }
     Array.prototype.forEach.call(bar.querySelectorAll('button'), function (button) {
       button.setAttribute('aria-pressed', String(button.getAttribute('data-design') === design));
     });

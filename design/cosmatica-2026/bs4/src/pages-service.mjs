@@ -1,65 +1,125 @@
 // Поддержка, вход и регистрация, поиск.
 import { esc, clean, source, renderBlocks, linked, rub } from './core.mjs';
-import { pageHead } from './layout.mjs';
+import { pageHead, widget } from './layout.mjs';
 import * as D from './data.mjs';
-import { projectCard, sectionHead, short, plural } from './parts.mjs';
+import { projectCard, sectionHead, short, plural, thumb, statusBadge, fundraising, newsRow, sampleNote } from './parts.mjs';
 
 const DEMO_NOTE = '<p class="rko-demo-note">Это макет: данные никуда не отправляются.</p>';
 
 // ---------------------------------------------------------------- 27 Поддержать РКО
+// Порядок блоков — по правке Павла Реутова (07.11.2026): вводный текст и два пути поддержки,
+// актуальные проекты (один крупно, три плиткой), форма поддержки РКО. Справа — новости о результатах.
+const FEATURED = '350';
+const TILES = ['rusleo', 'gagarincy', 'bitvazabuduchee'];
+// Новости проектов о наглядных результатах. В CMS — новости с отметкой «Результат поддержки».
+const RESULT_NEWS = ['Переиздание ключевых книг РКО', 'Шахматный фестиваль ветеранов прошёл в Москве', 'Гагаринский сад. Осень - время сажать!', 'Фантастика расправляет крылья молодым!'];
+
+// Сбор, который ещё не начат, показываем как «собрано 0 ₽»: у плитки всегда есть сумма.
+const withFund = (p) => (p.collected == null ? { ...p, collected: 0 } : p);
+// Описание без служебного заголовка устава в начале («1. ОБЩИЕ ПОЛОЖЕНИЯ»).
+const leadOf = (p) => clean(p.lead).replace(/^\d+\.\s+[А-ЯЁ ]+\s(?=[А-ЯЁ][а-яё])/, '');
+const supportBtn = (p, cls = '') => `<a class="btn btn-primary${cls}" href="${p.href}#support">Поддержать проект</a>`;
+
+function featuredProject(p) {
+  return `<article class="card rko-project rko-feature">
+      <div class="row no-gutters">
+        <div class="col-md-5">
+          <a class="rko-feature__img" href="${p.href}" tabindex="-1" aria-hidden="true">${thumb(p.image, '')}</a>
+        </div>
+        <div class="col-md-7">
+          <div class="card-body">
+            <div class="rko-meta">${statusBadge(p.status)}${p.direction ? `<span>${esc(p.direction)}</span>` : ''}</div>
+            <h3 class="rko-feature__title"><a href="${p.href}">${esc(p.title)}</a></h3>
+            <p class="rko-feature__text">${esc(short(leadOf(p), 230))}</p>
+            ${fundraising(withFund(p), { large: true })}
+            ${supportBtn(p, ' btn-lg mt-3')}
+          </div>
+        </div>
+      </div>
+    </article>`;
+}
+
+function compactProject(p) {
+  return `<div class="col-md-4 mb-4">
+      <article class="card rko-project rko-project--compact h-100">
+        <a class="rko-project__img embed-responsive embed-responsive-16by9" href="${p.href}" tabindex="-1" aria-hidden="true">${thumb(p.image, '', 'embed-responsive-item')}</a>
+        <div class="card-body d-flex flex-column">
+          <h3 class="card-title rko-project__title"><a href="${p.href}">${esc(short(p.title, 70))}</a></h3>
+          <p class="rko-project__text">${esc(short(leadOf(p), 95))}</p>
+          <div class="mt-auto">
+            ${fundraising(withFund(p))}
+            ${supportBtn(p, ' btn-sm btn-block rko-project__btn')}
+          </div>
+        </div>
+      </article>
+    </div>`;
+}
+
 export function donate() {
   const data = source('donate');
   const [motto1, motto2, ...text] = data.blocks;
-  const need = D.projects.filter((p) => p.support && p.status !== 'Завершённый');
-  const volunteers = linked('https://cosmatica.org/articles/1190-priglashaem-dobrovolcev-v-russkoe-kosmicheskoe-obschestvo.html');
-  const volunteerText = clean((volunteers?.blocks || []).find((b) => b.type === 'paragraph' && b.text.startsWith('У нас множество'))?.text || 'Любой человек может быть полезен в Общем Деле.');
+  const byslug = (s) => D.projects.find((p) => p.slug === s);
+  const featured = byslug(FEATURED);
+  const tiles = TILES.map(byslug).filter(Boolean);
+  const targets = D.projects.filter((p) => p.support && p.status !== 'Завершённый');
+  const news = RESULT_NEWS.map((t) => D.news.find((n) => n.title === t)).filter(Boolean);
   const body = `${pageHead('Поддержать РКО', { lead: `${clean(motto1.text)} ${clean(motto2.text)}` })}
 <div class="container rko-content">
   <div class="row">
-    <div class="col-lg-7">
+    <div class="col-lg-8">
       <article class="rko-article">
         ${renderBlocks(text)}
       </article>
-    </div>
-    <div class="col-lg-5 mt-4 mt-lg-0">
-      <section class="rko-widget rko-widget--card rko-support-card" id="support">
-        <h2 class="rko-widget__title">Поддержать деятельность Общества</h2>
-        <form data-rko-demo novalidate>
-          <label for="donateSum">Сумма, ₽</label>
-          <div class="btn-group rko-sums" role="group" aria-label="Быстрый выбор суммы">
-            ${[500, 1000, 3000, 5000].map((s) => `<button type="button" class="btn btn-outline-dark" data-rko-sum="${s}">${rub(s)}</button>`).join('')}
-          </div>
-          <input class="form-control form-control-lg" id="donateSum" type="number" min="100" step="100" value="1000" inputmode="numeric">
-          <button class="btn btn-support btn-lg btn-block" type="submit">Поддержать РКО</button>
-        </form>
-        ${DEMO_NOTE}
+      <div class="row rko-ways">
+        <div class="col-md-6 mb-3">
+          <a class="rko-way" href="#projects">
+            <span class="rko-way__title">Адресно — конкретному проекту</span>
+            <span class="rko-way__text">Выберите проект ниже: средства пойдут только на него. На странице проекта видно, сколько нужно и сколько уже собрано.</span>
+            <span class="rko-way__go">К проектам ↓</span>
+          </a>
+        </div>
+        <div class="col-md-6 mb-3">
+          <a class="rko-way rko-way--general" href="#support">
+            <span class="rko-way__title">На развитие РКО в целом</span>
+            <span class="rko-way__text">Общая поддержка деятельности Общества: работа отделений, мероприятия, издания и сайт.</span>
+            <span class="rko-way__go">К форме поддержки ↓</span>
+          </a>
+        </div>
+      </div>
+
+      <section class="rko-subsection" id="projects">
+        ${sectionHead('Актуальные проекты', [['Все проекты', 'projects.html#support']])}
+        ${featuredProject(featured)}
+        <div class="row">
+          ${tiles.map(compactProject).join('\n')}
+        </div>
+        ${sampleNote('Пример наполнения: в выгрузке сайта цель сбора есть только у «Переиздания ключевых книг», а сбор открыт у трёх проектов. Четвёртая плитка и пустые цели показывают, как блок выглядит, когда поля заполнены в CMS.')}
+      </section>
+
+      <section class="rko-subsection" id="support">
+        ${sectionHead('Поддержать развитие РКО')}
+        <div class="rko-widget rko-widget--card rko-support-card rko-donate-form">
+          <form data-rko-demo novalidate>
+            <label for="donateTarget">Куда направить</label>
+            <select class="custom-select" id="donateTarget">
+              <option selected>На развитие РКО в целом</option>
+              ${targets.map((p) => `<option>Проект: ${esc(short(p.title, 60))}</option>`).join('')}
+            </select>
+            <label for="donateSum">Сумма, ₽</label>
+            <div class="btn-group rko-sums" role="group" aria-label="Быстрый выбор суммы">
+              ${[500, 1000, 3000, 5000].map((s) => `<button type="button" class="btn btn-outline-dark" data-rko-sum="${s}">${rub(s)}</button>`).join('')}
+            </div>
+            <input class="form-control form-control-lg" id="donateSum" type="number" min="100" step="100" value="1000" inputmode="numeric">
+            <button class="btn btn-support btn-lg btn-block" type="submit">Поддержать РКО</button>
+          </form>
+          ${DEMO_NOTE}
+        </div>
       </section>
     </div>
+    <aside class="col-lg-4 rko-aside">
+      ${widget('Новости проектов', `<p class="rko-cut mt-0">Что сделано на собранные средства.</p><ul class="list-unstyled rko-minilist">${news.map((n) => newsRow(n, { compact: true })).join('')}</ul>${sampleNote('Пример наполнения: в ленту попадают новости проектов о наглядных результатах расходования средств — в CMS это отметка у новости.')}`, ['Все новости', 'news.html'])}
+    </aside>
   </div>
-  <section class="rko-subsection">
-    ${sectionHead('Проекты, которым нужна поддержка', [['Все проекты', 'projects.html#support']])}
-    <div class="row">
-      ${need.slice(0, 3).map((p) => projectCard(p)).join('\n')}
-    </div>
-  </section>
-  <section class="rko-subsection">
-    <div class="row">
-      <div class="col-md-6 mb-4">
-        <div class="rko-contact">
-          <h2 class="rko-contact__title">Помочь делом</h2>
-          <p>${esc(volunteerText)}</p>
-          <a class="rko-more" href="article.html">Стать добровольцем</a>
-        </div>
-      </div>
-      <div class="col-md-6 mb-4">
-        <div class="rko-contact">
-          <h2 class="rko-contact__title">Вступить в Общество</h2>
-          <p>Кто может стать членом и участником РКО и как подать заявление.</p>
-          <a class="rko-more" href="article.html">О вступлении в РКО</a>
-        </div>
-      </div>
-    </div>
-  </section>
 </div>`;
   return { file: 'donate.html', title: 'Поддержать РКО', active: '', crumb: [['Поддержать РКО']], body };
 }
