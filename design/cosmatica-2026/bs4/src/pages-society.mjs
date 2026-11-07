@@ -215,7 +215,7 @@ export function posterItem() {
     <div class="col-lg-8">
       <article class="rko-article">
         ${renderBlocks(blocks, { limit: 34 })}
-        <p class="rko-cut">В макете показано начало материала.</p>
+        
       </article>
     </div>
     <aside class="col-lg-4 rko-aside">
@@ -426,7 +426,7 @@ export function collegiumItem() {
     <div class="col-lg-8">
       <article class="rko-article">
         ${renderBlocks(blocks, { limit: 24 })}
-        <p class="rko-cut">В макете показано начало материала.</p>
+        
       </article>
     </div>
     <aside class="col-lg-4 rko-aside">

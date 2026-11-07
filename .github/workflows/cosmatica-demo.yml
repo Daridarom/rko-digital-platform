@@ -34,7 +34,7 @@ jobs:
         run: |
           npm install --no-save playwright
           npx playwright install --with-deps chromium
-      - name: Browser checks (36 pages × 5 widths)
+      - name: Browser checks (35 pages × 5 widths)
         run: |
           python3 -m http.server 8768 --bind 127.0.0.1 >/tmp/server.log 2>&1 &
           server_pid=$!

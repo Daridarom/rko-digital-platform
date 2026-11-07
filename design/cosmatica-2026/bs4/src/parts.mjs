@@ -141,4 +141,5 @@ export function plural(n, [one, few, many]) {
   if (b >= 2 && b <= 4) return few;
   return many;
 }
-export const sampleNote = (text) => `<p class="rko-cut">${esc(text)}</p>`;
+// Служебные пометки макета («Пример наполнения» и т. п.) на страницы не выводятся — они перечислены в README.
+export const sampleNote = () => '';

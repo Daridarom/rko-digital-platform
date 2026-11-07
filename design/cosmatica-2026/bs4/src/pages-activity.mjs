@@ -33,7 +33,6 @@ function departmentsMap() {
       <g class="rko-map__grid">${lines.join('')}</g>
       <g class="rko-map__dots">${dots.join('')}</g>
     </svg>
-    <figcaption>Место для карты с метками отделений. Карту подключает CMS, на макете показана схема расположения.</figcaption>
   </figure>`;
 }
 
@@ -149,7 +148,7 @@ function projectPage(p, { file, limit = 26, supportMode }) {
   } else if (supportMode === 'closed') {
     support = `<section class="rko-widget rko-widget--card" id="support">
         <h2 class="rko-widget__title">Проект завершён</h2>
-        <p class="rko-cut mt-0">Состояние макета: у завершённого проекта форма поддержки скрыта.</p>
+        <p class="rko-widget__sub mb-0">Сбор средств по проекту закрыт.</p>
       </section>`;
   }
   const body = `${pageHead(p.title, { meta: `${statusBadge(p.status)}${p.direction ? `<span>${esc(p.direction)}</span>` : ''}` })}
@@ -159,7 +158,7 @@ function projectPage(p, { file, limit = 26, supportMode }) {
     <div class="col-lg-8">
       <article class="rko-article">
         ${renderBlocks(blocks, { limit })}
-        ${total > limit ? '<p class="rko-cut">В макете показано начало описания проекта.</p>' : ''}
+        
       </article>
     </div>
     <aside class="col-lg-4 rko-aside">
@@ -311,7 +310,7 @@ export function article() {
     <div class="col-lg-8">
       <article class="rko-article">
         ${renderBlocks(blocks, { limit: 22 })}
-        <p class="rko-cut">В макете показано начало статьи.</p>
+        
       </article>
     </div>
     <aside class="col-lg-4 rko-aside">
@@ -425,8 +424,8 @@ export function tabsPage() {
   const body = `${pageHead(data.title)}
 <div class="container rko-content">
   ${contentTabs('squad', [
-    { key: 'info', title: 'Информация', html: `<div class="row"><div class="col-lg-8"><article class="rko-article">${text}<p class="rko-cut">В макете показано начало текста.</p></article></div></div>` },
-    { key: 'members', title: 'Участники', count: counts['Участники'], html: `<div class="rko-people rko-people--grid"><div class="row">${D.squad.map((p) => `<div class="col-sm-6 col-lg-4">${person({ ...p, href: 'profile.html' })}</div>`).join('')}</div></div><p class="rko-cut">В макете показаны трое из ${counts['Участники']} участников.</p>` },
+    { key: 'info', title: 'Информация', html: `<div class="row"><div class="col-lg-8"><article class="rko-article">${text}</article></div></div>` },
+    { key: 'members', title: 'Участники', count: counts['Участники'], html: `<div class="rko-people rko-people--grid"><div class="row">${D.squad.map((p) => `<div class="col-sm-6 col-lg-4">${person({ ...p, href: 'profile.html' })}</div>`).join('')}</div></div>` },
     { key: 'news', title: 'Новости', count: counts['Новости'], html: `<div class="row"><div class="col-lg-8"><div class="rko-rows">${D.news.slice(0, 4).map((n) => newsRow(n, { h: 2 })).join('')}</div>${sampleNote('Пример наполнения: в макете показаны общие новости сайта.')}${pagination(1, 7, 'Страницы новостей')}</div></div>` },
   ])}
 </div>`;

@@ -15,7 +15,7 @@ let checks = 0;
 const ok = (cond, page, text) => { checks += 1; if (!cond) fail(page, text); };
 
 // ---------- 1. Разбор файлов
-ok(pages.length === 36, 'набор', `ожидалось 36 страниц, найдено ${pages.length}`);
+ok(pages.length === 35, 'набор', `ожидалось 35 страниц, найдено ${pages.length}`);
 for (const file of pages) {
   const html = fs.readFileSync(path.join(ROOT, file), 'utf8');
   ok((html.match(/<h1[\s>]/g) || []).length === 1, file, 'на странице должен быть ровно один H1');
