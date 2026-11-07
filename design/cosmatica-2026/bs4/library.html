@@ -5,12 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="theme-color" content="#f6f6f2">
 <title>Библиотека · Русское Космическое Общество</title>
-<script>/* только для просмотра макета: выбор варианта оформления */(function(){try{var q=new URLSearchParams(location.search).get('design'),s=q||localStorage.getItem('rko-design');if(s==='hybrid'||s==='sharp'){document.documentElement.setAttribute('data-design',s);if(q)localStorage.setItem('rko-design',s);}}catch(e){}})();</script>
+
 <link rel="icon" href="assets/img/rko-mark.svg" type="image/svg+xml">
 <link rel="preload" href="assets/fonts/inter-cyrillic-variable.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="assets/fonts/russo-one-regular.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="stylesheet" href="assets/vendor/bootstrap-4.6.2.min.css">
-<link rel="stylesheet" href="assets/css/rko-theme.css?v=ba15ac7c">
+<link rel="stylesheet" href="assets/css/rko-theme.css?v=be1bc7d4">
 </head>
 <body>
 <a class="sr-only sr-only-focusable rko-skip" href="#main">К содержанию</a>
@@ -146,15 +146,21 @@
       <div class="d-lg-none mb-3">
         <label class="sr-only" for="libraryCategory">Раздел библиотеки</label>
         <select class="custom-select" id="libraryCategory">
-          <option selected>Все разделы</option>
-          <option>Устойчивое развитие</option><option>Основания русского космизма</option><option>Космонавтика</option><option>Научное наследие П.Г.Кузнецова</option><option>Монографии</option><option>Учебно-методические пособия</option><option>Детская литература</option><option>Фантастика</option><option>Синтез междисциплинарных знаний</option><option>Издательство РКО</option><option>Астрономия</option><option>Образование</option><option>Философия</option><option>Природопользование</option><option>Авиация, воздухоплавание</option>
+          <option>Все разделы</option>
+          <option>Устойчивое развитие</option><optgroup label="Основания русского космизма"><option>Основания русского космизма — все</option><option>Н.Ф. Фёдоров</option><option selected>К.Э. Циолковский</option><option>В.И. Вернадский</option><option>А.Л. Чижевский</option></optgroup><option>Космонавтика</option><option>Научное наследие П.Г.Кузнецова</option><option>Монографии</option><option>Учебно-методические пособия</option><option>Детская литература</option><option>Фантастика</option><option>Синтез междисциплинарных знаний</option><option>Издательство РКО</option><option>Астрономия</option><option>Образование</option><option>Философия</option><option>Природопользование</option><option>Авиация, воздухоплавание</option>
         </select>
       </div>
       <nav class="d-none d-lg-block" aria-label="Разделы библиотеки">
         <div class="list-group list-group-flush rko-sidenav">
-          <a class="list-group-item list-group-item-action active" href="library.html" aria-current="page">Все разделы</a>
+          <a class="list-group-item list-group-item-action" href="library.html">Все разделы</a>
           <a class="list-group-item list-group-item-action" href="library.html">Устойчивое развитие</a>
-          <a class="list-group-item list-group-item-action" href="library.html">Основания русского космизма</a>
+          <a class="list-group-item list-group-item-action rko-sidenav__parent is-open" href="library.html" aria-expanded="true">Основания русского космизма<span class="rko-sidenav__caret" aria-hidden="true"></span></a>
+          <div class="rko-sidenav__sub" role="group" aria-label="Основания русского космизма: подразделы">
+            <a class="list-group-item list-group-item-action" href="library.html">Н.Ф. Фёдоров</a>
+            <a class="list-group-item list-group-item-action active" href="library.html" aria-current="page">К.Э. Циолковский</a>
+            <a class="list-group-item list-group-item-action" href="library.html">В.И. Вернадский</a>
+            <a class="list-group-item list-group-item-action" href="library.html">А.Л. Чижевский</a>
+          </div>
           <a class="list-group-item list-group-item-action" href="library.html">Космонавтика</a>
           <a class="list-group-item list-group-item-action" href="library.html">Научное наследие П.Г.Кузнецова</a>
           <a class="list-group-item list-group-item-action" href="library.html">Монографии</a>
@@ -169,6 +175,7 @@
           <a class="list-group-item list-group-item-action" href="library.html">Природопользование</a>
           <a class="list-group-item list-group-item-action" href="library.html">Авиация, воздухоплавание</a>
         </div>
+        <p class="rko-cut">Пример наполнения: подразделы «Оснований русского космизма» условные, в выгрузке сайта их нет. Так оформлен второй уровень любого раздела.</p>
       </nav>
     </aside>
     <div class="col-lg-9">
@@ -426,7 +433,7 @@
 </footer>
 <script src="assets/vendor/jquery-3.5.1.slim.min.js"></script>
 <script src="assets/vendor/bootstrap-4.6.2.bundle.min.js"></script>
-<script src="assets/js/rko.js?v=ba15ac7c"></script>
-<script src="assets/js/rko-review.js?v=ba15ac7c"></script>
+<script src="assets/js/rko.js?v=be1bc7d4"></script>
+<script src="assets/js/rko-review.js?v=be1bc7d4"></script>
 </body>
 </html>

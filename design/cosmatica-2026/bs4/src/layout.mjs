@@ -39,7 +39,7 @@ function head(title) {
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="theme-color" content="#f6f6f2">
 <title>${esc(title)} · Русское Космическое Общество</title>
-<script>/* только для просмотра макета: выбор варианта оформления */(function(){try{var q=new URLSearchParams(location.search).get('design'),s=q||localStorage.getItem('rko-design');if(s==='hybrid'||s==='sharp'){document.documentElement.setAttribute('data-design',s);if(q)localStorage.setItem('rko-design',s);}}catch(e){}})();</script>
+
 <link rel="icon" href="assets/img/rko-mark.svg" type="image/svg+xml">
 <link rel="preload" href="assets/fonts/inter-cyrillic-variable.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="assets/fonts/russo-one-regular.ttf" as="font" type="font/ttf" crossorigin>

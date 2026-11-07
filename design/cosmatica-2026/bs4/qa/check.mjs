@@ -67,7 +67,7 @@ if (process.argv.includes('--browser')) {
   const base = process.env.BASE_URL || 'http://127.0.0.1:8768/design/cosmatica-2026/bs4/';
   const browser = await chromium.launch();
   const widths = [320, 390, 768, 1024, 1440];
-  for (const design of ['sharp', 'hybrid']) {
+  for (const design of ['hybrid']) {
     for (const width of widths) {
       const ctx = await browser.newContext({ viewport: { width, height: 800 } });
       for (const file of pages) {
@@ -77,7 +77,7 @@ if (process.argv.includes('--browser')) {
         page.on('console', (m) => { if (m.type() === 'error') errors.push(m.text()); });
         page.on('requestfailed', (r) => errors.push(`не загрузилось: ${r.url()}`));
         page.on('response', (r) => { if (r.status() >= 400) errors.push(`${r.status()}: ${r.url()}`); });
-        await page.goto(`${base}${file}?design=${design}`, { waitUntil: 'networkidle' });
+        await page.goto(`${base}${file}`, { waitUntil: 'networkidle' });
         const info = await page.evaluate(async () => {
           await document.fonts.ready;
           for (const i of document.images) i.loading = 'eager';
@@ -107,8 +107,6 @@ if (process.argv.includes('--browser')) {
             mottoCentered: getComputedStyle(document.querySelector('.rko-header__motto')).textAlign === 'center',
             radius: card ? getComputedStyle(card).borderTopLeftRadius : null,
             smallText: [...document.querySelectorAll('main *')].filter((el) => el.childElementCount === 0 && el.textContent.trim() && parseFloat(getComputedStyle(el).fontSize) < 11 && el.offsetParent).length,
-            // Скругления: в «Чётком» варианте их не должно быть ни у одного видимого элемента страницы
-            rounded: [...document.querySelectorAll('header *, main *, footer *')].filter((el) => el.offsetParent && !el.closest('svg') && ['borderTopLeftRadius', 'borderTopRightRadius', 'borderBottomLeftRadius', 'borderBottomRightRadius'].some((k) => parseFloat(getComputedStyle(el)[k]) > 0)).map((el) => el.className || el.tagName).slice(0, 3),
             // Крошки: ссылка не должна вылезать из своего пункта
             crumbOverlap: [...document.querySelectorAll('.breadcrumb-item a')].filter((a) => a.getBoundingClientRect().right - a.parentElement.getBoundingClientRect().right > 1).length,
             // Вкладки на компьютере не обрезаются; на телефоне обрезанные помечены затуханием
@@ -134,9 +132,8 @@ if (process.argv.includes('--browser')) {
         if (info.joinOffset != null) ok(info.joinOffset <= 1.5, tag, `текст кнопки «Присоединиться» смещён на ${info.joinOffset.toFixed(1)}px`);
         ok(!info.supportVisible, tag, 'кнопка «Поддержать» не должна быть в шапке');
         if (width < 992) ok(info.mottoCentered, tag, 'девиз на телефоне должен стоять по центру');
-        if (info.radius) ok(design === 'sharp' ? info.radius === '0px' : info.radius !== '0px', tag, `скругление блока ${info.radius} не соответствует варианту`);
+        if (info.radius) ok(info.radius !== '0px', tag, 'у карточек должно быть скругление «Гибрида»');
         ok(info.smallText === 0, tag, `текст мельче 11px: ${info.smallText} элементов`);
-        if (design === 'sharp') ok(info.rounded.length === 0, tag, `скруглённые элементы в «Чётком» варианте: ${info.rounded.join(' | ')}`);
         ok(info.crumbOverlap === 0, tag, 'пункты хлебных крошек наезжают друг на друга');
         ok(info.tabsCut === 0, tag, 'вкладки обрезаны без признака прокрутки');
         ok(info.navHeight < 60, tag, `меню не помещается в одну строку (${Math.round(info.navHeight)}px)`);
@@ -216,8 +213,7 @@ if (process.argv.includes('--browser')) {
   ok((await page.inputValue('#donateSum')) === '3000', 'поддержка', 'быстрый выбор суммы не работает');
   await page.click('.rko-support-card button[type="submit"]');
   ok(page.url().endsWith('donate.html'), 'поддержка', 'форма макета не должна никуда отправлять');
-  await page.click('.rko-review [data-design="hybrid"]');
-  ok((await page.evaluate(() => getComputedStyle(document.querySelector('.btn-primary')).borderTopLeftRadius)) !== '0px', 'переключатель', 'вариант «Гибрид» не включился');
+  ok((await page.evaluate(() => getComputedStyle(document.querySelector('.btn-primary')).borderTopLeftRadius)) !== '0px', 'оформление', 'у кнопок нет скругления «Гибрида»');
   await page.goto(`${base}search.html`, { waitUntil: 'networkidle' });
   await page.fill('#searchQuery', 'РКО'); await page.press('#searchQuery', 'Enter'); await page.waitForLoadState('networkidle');
   ok(page.url().includes('search-results.html'), 'поиск', 'форма поиска не ведёт на страницу результатов');
