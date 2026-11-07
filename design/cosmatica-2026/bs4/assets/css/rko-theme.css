@@ -1,7 +1,7 @@
 /*!
  * Тема РКО поверх Bootstrap 4.6.2. Один файл, подключается сразу после bootstrap.min.css.
- * Основной вариант — «Чёткий»: прямые углы, плакатный шрифт заголовков (Russo One).
- * Вариант «Гибрид» включается атрибутом <html data-design="hybrid"> и меняет только скругления.
+ * Утверждённое оформление — «Гибрид» (решение конференции РКО): скруглённые блоки и кнопки,
+ * плакатный шрифт заголовков (Russo One).
  * Свои классы начинаются с .rko- ; классы Bootstrap переопределяются в разделе 3.
  */
 
@@ -30,17 +30,11 @@
   --rko-font: "RKO Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
   --rko-font-display: "Russo One", "RKO Inter", "Arial Black", Arial, sans-serif;
 
-  /* Скругления: в «Чётком» варианте их нет */
-  --rko-r: 0;       /* блоки, карточки, картинки */
-  --rko-r-ctl: 0;   /* поля ввода, выпадающие списки */
-  --rko-r-btn: 0;   /* кнопки, метки, вкладки */
-  --rko-r-round: 0; /* фото людей */
-}
-html[data-design="hybrid"] {
-  --rko-r: 14px;
-  --rko-r-ctl: 10px;
-  --rko-r-btn: 999px;
-  --rko-r-round: 50%;
+  /* Скругления */
+  --rko-r: 14px;      /* блоки, карточки, картинки */
+  --rko-r-ctl: 10px;  /* поля ввода, выпадающие списки */
+  --rko-r-btn: 999px; /* кнопки, метки, вкладки */
+  --rko-r-round: 50%; /* фото людей */
 }
 
 /* ---------- 3. Основа и компоненты Bootstrap ---------- */
@@ -150,7 +144,7 @@ label { font-weight: 600; font-size: .9375rem; margin-bottom: .375rem; }
 .nav-tabs .nav-link { border: 0; border-radius: var(--rko-r-btn) var(--rko-r-btn) 0 0; color: var(--rko-ink); font-weight: 600; font-size: .9375rem; padding: .625rem 1rem; margin-bottom: 0; }
 .nav-tabs .nav-link:hover { background: var(--rko-sand); text-decoration: none; }
 .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link { background: var(--rko-ink); color: #fff; }
-html[data-design="hybrid"] .nav-tabs .nav-link { border-radius: 10px 10px 0 0; }
+.nav-tabs .nav-link { border-radius: 10px 10px 0 0; }
 
 .nav-pills .nav-link { border-radius: var(--rko-r-btn); color: var(--rko-ink); font-weight: 600; }
 .nav-pills .nav-link.active { background: var(--rko-ink); color: #fff; }
@@ -600,11 +594,10 @@ a.rko-person__name:hover { color: var(--rko-red); text-decoration: none; }
 .rko-tile:hover { background: var(--rko-ink); color: #fff; text-decoration: none; }
 .rko-tile__icon { flex: 0 0 3rem; width: 3rem; height: 3rem; display: flex; align-items: center; justify-content: center; margin-right: 1rem; background: var(--rko-sand); color: var(--rko-navy); border-radius: var(--rko-r-ctl); transition: background-color .15s, color .15s; }
 .rko-tile:hover .rko-tile__icon { background: rgba(255, 255, 255, .12); color: var(--rko-gold); }
-/* Иконки: в «Чётком» варианте концы линий прямые, в «Гибриде» скруглённые */
-.rko-ico { display: block; stroke-linecap: square; stroke-linejoin: miter; }
-html[data-design="hybrid"] .rko-ico { stroke-linecap: round; stroke-linejoin: round; }
-html[data-design="hybrid"] .rko-tiles { border: 0; gap: .75rem; }
-html[data-design="hybrid"] .rko-tile { border: 1px solid var(--rko-line); border-radius: var(--rko-r); }
+/* Иконки: концы линий скруглённые */
+.rko-ico { display: block; stroke-linecap: round; stroke-linejoin: round; }
+.rko-tiles { border: 0; gap: .75rem; }
+.rko-tile { border: 1px solid var(--rko-line); border-radius: var(--rko-r); }
 
 .rko-books { border-top: 2px solid var(--rko-ink); margin: 0; }
 .rko-book { display: flex; flex-wrap: wrap; align-items: flex-start; padding: 1rem 0; border-bottom: 1px solid var(--rko-line); }
@@ -662,19 +655,15 @@ html[data-design="hybrid"] .rko-tile { border: 1px solid var(--rko-line); border
 
 /* ---------- 16. Панель просмотра макета (в шаблоны сайта не переносится) ---------- */
 .rko-footer { padding-bottom: 4.5rem; } /* место под панель просмотра; в шаблоне сайта — 1.5rem */
-.rko-review { position: fixed; z-index: 1080; left: 50%; bottom: .625rem; transform: translateX(-50%); display: flex; align-items: center; white-space: nowrap; background: #fff; border: 2px solid var(--rko-ink); box-shadow: 4px 4px 0 rgba(8, 10, 46, .18); font-size: .8125rem; padding: .25rem; }
+.rko-review { position: fixed; z-index: 1080; left: 50%; bottom: .625rem; transform: translateX(-50%); display: flex; align-items: center; white-space: nowrap; background: #fff; border: 2px solid var(--rko-ink); border-radius: 999px; box-shadow: 0 6px 20px rgba(8, 10, 46, .18); font-size: .8125rem; padding: .25rem; }
 .rko-review__label { padding: 0 .5rem; color: var(--rko-muted); }
-.rko-review button { border: 0; background: transparent; padding: .3125rem .625rem; font-weight: 600; color: var(--rko-ink); font-size: inherit; }
-.rko-review button[aria-pressed="true"] { background: var(--rko-ink); color: #fff; }
 .rko-review a { padding: .3125rem .625rem; font-weight: 600; border-left: 1px solid var(--rko-line); margin-left: .25rem; }
-html[data-design="hybrid"] .rko-review, html[data-design="hybrid"] .rko-review button { border-radius: 999px; }
 @media (max-width: 399.98px) { .rko-review__label { display: none; } }
 @media print { .rko-review { display: none; } }
 
-/* ---------- 17. Гибрид: то, что не покрывается переменными скруглений ---------- */
-html[data-design="hybrid"] .rko-contact { border-top-width: 1px; border-top-color: var(--rko-line); }
-html[data-design="hybrid"] .rko-lead__body { border-top: 0; }
-html[data-design="hybrid"] .dropdown-menu { box-shadow: 0 10px 30px rgba(8, 10, 46, .12); border-color: var(--rko-line); }
-html[data-design="hybrid"] .rko-mini__date, html[data-design="hybrid"] .rko-event__date { border-radius: 12px; }
-html[data-design="hybrid"] .rko-support-card, html[data-design="hybrid"] .rko-auth { border-width: 1px; border-color: var(--rko-line); }
-html[data-design="hybrid"] .rko-review { box-shadow: 0 6px 20px rgba(8, 10, 46, .18); }
+/* ---------- 17. Уточнения оформления: мягкие рамки и тени вместо жёстких линий ---------- */
+.rko-contact { border-top-width: 1px; border-top-color: var(--rko-line); }
+.rko-lead__body { border-top: 0; }
+.dropdown-menu { box-shadow: 0 10px 30px rgba(8, 10, 46, .12); border-color: var(--rko-line); }
+.rko-mini__date, .rko-event__date { border-radius: 12px; }
+.rko-support-card, .rko-auth { border-width: 1px; border-color: var(--rko-line); }
