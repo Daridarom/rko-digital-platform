@@ -10,7 +10,6 @@ import { page } from './src/layout.mjs';
 import * as society from './src/pages-society.mjs';
 import * as activity from './src/pages-activity.mjs';
 import * as service from './src/pages-service.mjs';
-import { reviewMap } from './src/pages-review.mjs';
 import { ICONS, iconFile } from './src/icons.mjs';
 
 const builders = [
@@ -22,14 +21,12 @@ const builders = [
   activity.articleCategories, activity.articlesList, activity.article, activity.library, activity.book,
   activity.tabsPage,
   service.donate, service.login, service.restore, service.register, service.search, service.searchResults,
-  reviewMap,
 ];
 
 // Метка версии для сброса кэша стилей и скриптов: меняется только вместе с их содержимым.
 const stamp = crypto.createHash('sha1')
   .update(fs.readFileSync(path.join(ROOT, 'assets/css/rko-theme.css')))
   .update(fs.readFileSync(path.join(ROOT, 'assets/js/rko.js')))
-  .update(fs.readFileSync(path.join(ROOT, 'assets/js/rko-review.js')))
   .digest('hex').slice(0, 8);
 
 // Название Общества пишется с заглавных букв во всех падежах — и в подписях макета, и в текстах выгрузки.

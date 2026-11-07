@@ -208,7 +208,6 @@ ${footer()}
 <script src="assets/vendor/jquery-3.5.1.slim.min.js"></script>
 <script src="assets/vendor/bootstrap-4.6.2.bundle.min.js"></script>
 <script src="assets/js/rko.js?v=__BUILD__"></script>
-<script src="assets/js/rko-review.js?v=__BUILD__"></script>
 </body>
 </html>
 `;

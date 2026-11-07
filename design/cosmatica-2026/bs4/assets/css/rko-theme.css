@@ -283,8 +283,6 @@ form.rko-toolbar { border-bottom: 0; margin-bottom: 1rem; }
 .rko-type { font-weight: 700; color: var(--rko-red); }
 .rko-more { display: inline-block; font-weight: 600; font-size: .9375rem; color: var(--rko-red); border-bottom: 2px solid currentColor; line-height: 1.3; }
 .rko-more:hover { text-decoration: none; color: var(--rko-red-dark); }
-.rko-cut, .rko-demo-note { font-size: .8125rem; color: var(--rko-muted); border-left: 3px solid var(--rko-gold); padding-left: .75rem; margin-top: 1.5rem; }
-.rko-demo-note { margin: 1rem 0 0; }
 .rko-empty { color: var(--rko-muted); padding: 1rem 0 2rem; }
 .rko-tabs__count { font-weight: 400; opacity: .7; margin-left: .125rem; }
 .rko-tabs .nav-link { white-space: nowrap; }
@@ -332,6 +330,7 @@ form.rko-toolbar { border-bottom: 0; margin-bottom: 1rem; }
 
 /* Виджеты боковой колонки */
 .rko-widget { margin-bottom: 2.5rem; }
+.rko-widget__sub { font-size: .875rem; color: var(--rko-muted); margin: -.375rem 0 .75rem; }
 .rko-widget__title { font-family: var(--rko-font); font-size: 1rem; font-weight: 700; letter-spacing: -.01em; margin: 0 0 1rem; padding-bottom: .625rem; border-bottom: 2px solid var(--rko-ink); }
 .rko-widget .rko-more { margin-top: 1rem; }
 .rko-widget--card { background: var(--rko-surface); border: 1px solid var(--rko-line); border-radius: var(--rko-r); padding: 1.25rem; }
@@ -348,7 +347,6 @@ form.rko-toolbar { border-bottom: 0; margin-bottom: 1rem; }
 .rko-sidenav .rko-sidenav__sub .list-group-item { border: 0; padding: .4375rem .75rem .4375rem 1rem; font-size: .875rem; color: var(--rko-muted); margin-left: -2px; border-left: 2px solid transparent; }
 .rko-sidenav .rko-sidenav__sub .list-group-item:hover { color: var(--rko-red); }
 .rko-sidenav .rko-sidenav__sub .list-group-item.active { background: transparent; color: var(--rko-red); font-weight: 700; border-left-color: var(--rko-red); }
-.rko-sidenav + .rko-cut { font-size: .8125rem; }
 
 .rko-facts { margin: 0; }
 .rko-facts dt { font-size: .8125rem; font-weight: 400; color: var(--rko-muted); }
@@ -632,9 +630,6 @@ a.rko-person__name:hover { color: var(--rko-red); text-decoration: none; }
 .rko-search__options > * { margin-bottom: .5rem; }
 .rko-search__total { color: var(--rko-muted); margin-bottom: 1.25rem; }
 .rko-search__hint .rko-h2--sm { margin-top: 1.5rem; }
-.rko-review-table { font-size: .9375rem; background: var(--rko-surface); border: 1px solid var(--rko-line); }
-.rko-review-table thead th { background: var(--rko-sand); border-bottom: 2px solid var(--rko-ink); font-size: .8125rem; white-space: nowrap; }
-.rko-review-table td:nth-child(3) { color: var(--rko-muted); }
 
 /* ---------- 15. Подвал ---------- */
 .rko-footer { background: var(--rko-navy); color: rgba(255, 255, 255, .78); padding: 3rem 0 1.5rem; font-size: .9375rem; }
@@ -653,15 +648,7 @@ a.rko-person__name:hover { color: var(--rko-red); text-decoration: none; }
 @media (min-width: 768px) { .rko-footer__social { margin-top: 0; } }
 .rko-footer__social .list-inline-item:not(:last-child) { margin-right: 1.25rem; }
 
-/* ---------- 16. Панель просмотра макета (в шаблоны сайта не переносится) ---------- */
-.rko-footer { padding-bottom: 4.5rem; } /* место под панель просмотра; в шаблоне сайта — 1.5rem */
-.rko-review { position: fixed; z-index: 1080; left: 50%; bottom: .625rem; transform: translateX(-50%); display: flex; align-items: center; white-space: nowrap; background: #fff; border: 2px solid var(--rko-ink); border-radius: 999px; box-shadow: 0 6px 20px rgba(8, 10, 46, .18); font-size: .8125rem; padding: .25rem; }
-.rko-review__label { padding: 0 .5rem; color: var(--rko-muted); }
-.rko-review a { padding: .3125rem .625rem; font-weight: 600; border-left: 1px solid var(--rko-line); margin-left: .25rem; }
-@media (max-width: 399.98px) { .rko-review__label { display: none; } }
-@media print { .rko-review { display: none; } }
-
-/* ---------- 17. Уточнения оформления: мягкие рамки и тени вместо жёстких линий ---------- */
+/* ---------- 16. Уточнения оформления: мягкие рамки и тени вместо жёстких линий ---------- */
 .rko-contact { border-top-width: 1px; border-top-color: var(--rko-line); }
 .rko-lead__body { border-top: 0; }
 .dropdown-menu { box-shadow: 0 10px 30px rgba(8, 10, 46, .12); border-color: var(--rko-line); }

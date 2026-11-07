@@ -4,7 +4,6 @@ import { pageHead, widget } from './layout.mjs';
 import * as D from './data.mjs';
 import { projectCard, sectionHead, short, plural, thumb, statusBadge, fundraising, newsRow, sampleNote } from './parts.mjs';
 
-const DEMO_NOTE = '<p class="rko-demo-note">Это макет: данные никуда не отправляются.</p>';
 
 // ---------------------------------------------------------------- 27 Поддержать РКО
 // Порядок блоков — по правке Павла Реутова (07.11.2026): вводный текст и два пути поддержки,
@@ -112,12 +111,11 @@ export function donate() {
             <input class="form-control form-control-lg" id="donateSum" type="number" min="100" step="100" value="1000" inputmode="numeric">
             <button class="btn btn-support btn-lg btn-block" type="submit">Поддержать РКО</button>
           </form>
-          ${DEMO_NOTE}
         </div>
       </section>
     </div>
     <aside class="col-lg-4 rko-aside">
-      ${widget('Новости проектов', `<p class="rko-cut mt-0">Что сделано на собранные средства.</p><ul class="list-unstyled rko-minilist">${news.map((n) => newsRow(n, { compact: true })).join('')}</ul>${sampleNote('Пример наполнения: в ленту попадают новости проектов о наглядных результатах расходования средств — в CMS это отметка у новости.')}`, ['Все новости', 'news.html'])}
+      ${widget('Новости проектов', `<p class="rko-widget__sub">Что сделано на собранные средства.</p><ul class="list-unstyled rko-minilist">${news.map((n) => newsRow(n, { compact: true })).join('')}</ul>${sampleNote('Пример наполнения: в ленту попадают новости проектов о наглядных результатах расходования средств — в CMS это отметка у новости.')}`, ['Все новости', 'news.html'])}
     </aside>
   </div>
 </div>`;
@@ -136,7 +134,6 @@ function authShell(active, inner) {
             <li class="nav-item"><a class="nav-link${active === 'register' ? ' active' : ''}" href="register.html"${active === 'register' ? ' aria-current="page"' : ''}>Регистрация</a></li>
           </ul>
           ${inner}
-          ${DEMO_NOTE}
         </div>
       </div>
     </div>
